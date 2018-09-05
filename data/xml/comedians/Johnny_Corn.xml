@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Johnny Corn</title>
+    <ns>0</ns>
+    <id>54538840</id>
+    <revision>
+      <id>851415938</id>
+      <parentid>851162862</parentid>
+      <timestamp>2018-07-22T03:57:03Z</timestamp>
+      <contributor>
+        <ip>2602:30A:C0AE:E760:9D82:11E8:77CF:42DC</ip>
+      </contributor>
+      <comment>/* History */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2567">'''Johnny Corn''' is an [[Irish Americans|Irish-American]] comedian and actor best known for his [[Stand-up comedy|stand up comedy]] and for "Halloween 7 Bloodline" as well as "Doctor By Heart.&lt;ref name=":0" /&gt;&lt;ref name="imdb.com"&gt;https://www.imdb.com/name/nm7197124/?ref_=fn_al_nm_1&lt;/ref&gt;  Corn's comedy style is best known for its [[political satire]] and its unique and intellectual comedy style.&lt;ref name=":1" /&gt;
+
+== History ==
+Johnny Corn was born John Nalty on April 10, 1969.&lt;ref name="imdb.com"/&gt;  He grew up in [[San Jose, California]]. His stage name Johnny Corn was his childhood nickname his sisters gave him which stuck.&lt;ref name=":0" /&gt; He was born the son of historian and University Professor Dr Damon Nalty. He has a background in culinary arts and studied to be a chef only to have comedy win out.&lt;ref name=":0" /&gt;
+
+Corn started his comedy career in the late 1980s. Originally his stage name was Pycho Cow which was later changed to Johnny Corn.&lt;ref&gt;https://pro-labs.imdb.com/name/nm7197124?rf=cons_nm_contact&amp;ref_=cons_nm_contact&lt;/ref&gt; He has performed internationally and is currently based out of his long time home in [[Campbell, California]].&lt;ref name=":0"&gt;{{Cite web|url=http://www.mercurynews.com/2017/06/04/local-comedian-brings-chuckles-to-campbell/|title=Local comedian brings chuckles to Campbell|date=2017-06-04|website=The Mercury News|access-date=2017-07-19}}&lt;/ref&gt;  In addition to stand up, Corn has been in commercials, broadcast radio and several movies including "Doctor By Heart" as well as "Halloween 7 Bloodline" and "Comedy Of The Corn".&lt;ref name=":1"&gt;http://www.johnnycorn.net&lt;/ref&gt; He is currently in production of the first motion picture written and directed by Corn called "5 Comedians".&lt;ref&gt;http://www.johnnycorn.net/upcoming-shows.html&lt;/ref&gt;&lt;ref&gt;https://www.imdb.com/title/tt7885892/?ref_=fn_al_tt_1&lt;/ref&gt; He is known for many appearances on TV. Most notably on the mock game-show the "DID YOU KNOW SHOW" &lt;ref&gt;http://www.pentv.tv/2016/09/this-week-premiere-of-the-did-you-know-show/&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Corn, Johnny}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Comedians from California]]
+[[Category:American satirists]]
+[[Category:Male actors from California]]
+[[Category:Entertainers from California]]
+[[Category:People from Campbell, California]]
+[[Category:Male actors from San Jose, California]]
+[[Category:American people of Irish descent]]
+[[Category:21st-century American comedians]]
+[[Category:Male actors from the San Francisco Bay Area]]</text>
+      <sha1>ph6revlbmsd34mdz4ks80yiawjuzxw3</sha1>
+    </revision>
+  </page>
+</mediawiki>

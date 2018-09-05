@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joey Bragg</title>
+    <ns>0</ns>
+    <id>41099810</id>
+    <revision>
+      <id>853449277</id>
+      <parentid>853448491</parentid>
+      <timestamp>2018-08-04T21:41:16Z</timestamp>
+      <contributor>
+        <username>IJBall</username>
+        <id>10152666</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Lillygracious|Lillygracious]] ([[User talk:Lillygracious|talk]]): Unsourced bio info, and that's not how we handle that in any case... ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5242">{{BLP sources|date=March 2015}}
+{{Infobox person
+| caption       =
+| birth_name    =
+| birth_date    = {{Birth date and age|1996|7|20}}
+| birth_place   = [[Union City, California]], U.S.&lt;ref name="Variety" /&gt;
+| occupation    = {{hlist|Actor|comedian}}
+| yearsactive   = 2012–present
+}}
+'''Joey Bragg''' (born July 20, 1996)&lt;ref&gt;{{cite web|url=https://www.facebook.com/radiodisney/posts/10155906268270360:0|title=Radio Disney|website=www.facebook.com|accessdate=15 September 2017}}&lt;/ref&gt;&lt;!-- NOTE: Source only confirms day-of-birth, not a year or an age... --&gt; is an American actor and comedian. He is known for his role as [[Liv and Maddie#Joey Rooney|Joey Rooney]] in the [[Disney Channel]] sitcom ''[[Liv and Maddie]]'', which aired from 2013 to 2017. He also played Peter Magoo in the 2012 television film ''[[Fred 3: Camp Fred]]'', and co-headlined the 2015 [[Disney XD]] television film ''[[Mark &amp; Russell's Wild Ride]]''.&lt;ref&gt;{{cite news |author=Denise Petski |url=http://deadline.com/2015/09/joey-bragg-sean-giambrone-mark-russells-wide-ride-disney-xd-photo-1201511755/ |title=Joey Bragg &amp; Sean Giambrone On ‘Wild Ride’ For Disney XD — First Photo |work=Deadline Hollywood |date=September 1, 2015 |access-date=2017-05-20}}&lt;/ref&gt; Bragg has a successful stand-up comedy career.&lt;ref name="Variety"&gt;{{cite news | author = Tara McNamara | url = https://variety.com/2012/tv/news/joey-bragg-teen-comic-on-fast-track-1118058867/ | title = Joey Bragg: Teen comic on fast track | work = Variety | date = September 13, 2012 | access-date = 2017-05-20}}&lt;/ref&gt;
+
+He is [[Jewish]].&lt;ref&gt;http://talknerdywithus.com/2016/05/15/exclusive-interview-with-liv-and-maddies-joey-bragg/&lt;/ref&gt;
+
+== Filmography ==
+{| class="wikitable sortable"
+|+ Television and film roles
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2012
+| ''Gulliver Quinn''
+| Karl
+| Unsold television pilot (Disney XD)&lt;ref&gt;{{cite news |author=Nellie Andreeva |url=http://deadline.com/2011/05/disney-xd-greenlights-comedy-pilot-starring-produced-by-jon-hader-134203/ |title=Disney XD Greenlights Comedy Pilot Starring &amp; Produced By Jon Heder |work=Deadline Hollywood |date=September 13, 2012 |access-date=2017-05-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://books.google.com/books?id=XxTx1xK-q14C&amp;pg=PA114&amp;lpg=PA114&amp;dq=%22Gulliver+Quinn%22+Joey+Bragg&amp;source=bl&amp;ots=SgGCr3Ld43&amp;sig=fOIzwTe3JAP4lfpt04oYK5hEAPw&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjr3NWRkYDUAhVL4GMKHV6HC_cQ6AEIVTAM#v=onepage&amp;q=%22Gulliver+Quinn%22+Joey+Bragg&amp;f=false|title=Encyclopedia of Television Pilots, 1937–2012|first=Vincent|last=Terrace|date=1 March 2013|publisher=McFarland|accessdate=15 September 2017|via=Google Books}}&lt;/ref&gt;
+|-
+| 2012
+| ''[[Fred 3: Camp Fred]]''
+| Magoo
+| Television film
+|-
+| 2013
+| ''[[AwesomenessTV (TV series)|AwesomenessTV]]''
+| {{TableTBA|N/A}}
+| Episode: "Random Thoughts by JoJo"
+|-
+| 2013–2017
+| ''[[Liv and Maddie]]''
+| |[[Liv and Maddie#Joey Rooney|Joey Rooney]]
+| Main role
+|-
+| 2014
+| ''[[Jessie (2011 TV series)|Jessie]]''
+| Joey Rooney
+| Episode: "[[Jessie's Aloha-holidays with Parker and Joey]]"
+|-
+| 2015
+| ''[[Mark &amp; Russell's Wild Ride]]''
+| Mark Wellner
+| Television film (Disney XD)
+|-
+| 2015
+| ''[[The Outfield (film)|The Outfield]]''
+| Austin York
+| Direct-to-video film
+|-
+| 2016
+| ''[[Criminal Minds]]''
+| Kyle Ekland
+| Episode: "[[Criminal Minds (season 12)#ep260|The Anti-Terror Squad]]"
+|-
+| 2017
+| ''[[Wet Hot American Summer: Ten Years Later]]''
+| Seth
+| 3 episodes
+|-
+| 2018
+| ''[[The Thundermans]]''
+| Balfour/The Gamer
+| Episode: "The Thunder Games"
+|-
+| 2018
+| ''[[Father of the Year (film)|Father of the Year]]''
+| Ben
+| originally titled ''Who Do You Think Would Win?''&lt;ref name="WDYTWW?"&gt;{{cite web |author=Amanda N'Duka |url=http://deadline.com/2017/05/david-spade-bridgit-mendler-who-do-you-think-would-win-netflix-1202082421/ |title=David Spade, Bridgit Mendler, Nat Faxon, &amp; More Co-Star In ‘Who Do You Think Would Win?’ For Netflix |work=Deadline Hollywood |date=May 3, 2017 |access-date=May 31, 2017}}&lt;/ref&gt;
+|-
+| {{TableTBA}}
+| ''Reach''
+| Richard
+| ''Post-production'' film&lt;ref&gt;{{cite web |author=Dave McNary |url=https://variety.com/2017/film/news/garrett-clayton-joey-bragg-high-school-dramedy-reach-1202023737/ |title=Garrett Clayton, Joey Bragg, Jordan Doww to Star in High School Dramedy ‘Reach’ |work=Variety |date=April 5, 2017 |access-date=2017-05-20}}&lt;/ref&gt;&lt;ref&gt;{{cite news |author=Patrick Hipes |url=http://deadline.com/2017/04/reach-movie-garrett-clayton-jordan-doww-joey-bragg-1202062518/ |title=Trio To Topline High School Bully Dramedy 'Reach' |work=Deadline Hollywood |date=April 5, 2017 |access-date=2017-05-20}}&lt;/ref&gt;
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|4192879}}
+* {{Twitter}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bragg, Joey}}
+[[Category:Living people]]
+[[Category:American male television actors]]
+[[Category:American stand-up comedians]]
+[[Category:American male film actors]]
+[[Category:People from Union City, California]]
+[[Category:Male actors from California]]
+[[Category:American male comedians]]
+[[Category:21st-century American male actors]]
+[[Category:Comedians from California]]
+[[Category:1996 births]]
+[[Category:21st-century American comedians]]
+
+
+{{US-screen-actor-1990s-stub}}</text>
+      <sha1>6vszs3zk4k6zmi27dndquxd26xipbu9</sha1>
+    </revision>
+  </page>
+</mediawiki>

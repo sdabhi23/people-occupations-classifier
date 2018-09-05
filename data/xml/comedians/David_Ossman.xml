@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Ossman</title>
+    <ns>0</ns>
+    <id>995272</id>
+    <revision>
+      <id>854859292</id>
+      <parentid>854858865</parentid>
+      <timestamp>2018-08-14T08:18:33Z</timestamp>
+      <contributor>
+        <username>Treybien</username>
+        <id>1234927</id>
+      </contributor>
+      <comment>/* Personal life */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6196">{{Use mdy dates|date=September 2017}}
+{{Infobox person
+|name=David Ossman
+|image=David Ossman 02.jpg
+|caption = Ossman in 2012
+|birth_date={{birth date and age|1936|12|6}}
+|birth_place=[[Santa Monica, California]], U.S.
+|residence=[[Whidbey Island]], [[Washington (state)|Washington]], U.S.
+|occupation=[[Writer]], [[comedian]]
+}}
+
+'''David Ossman''' (born December 6, 1936 in [[Santa Monica, California|Santa Monica]], [[California]])&lt;ref name= "sullen"&gt;{{cite web |first=Frederick C., Jr. |last=Wiebel |url= http://www.firezine.net/issue2/fz2_05.htm |title=The Sullen Art Of David Ossman |website=Firezine |date=December 1, 1996 |accessdate=April 10, 2016}}&lt;/ref&gt; is an [[United States|American]] writer and comedian, best known as a member of [[The Firesign Theatre]] and screenwriter of such films as ''[[Zachariah (film)|Zachariah]]''.&lt;ref name=NYT&gt;{{cite news|first=Roger|last=Greenspun|authorlink=Roger Greenspun|url=https://www.nytimes.com/movie/review?res=9D05E3DE163BE53BBC4D51DFB766838A669EDE|title=Zachariah (1970) Screen: 'Zachariah,' an Odd Western|newspaper=[[The New York Times]]|publisher=New York Times Company|location=New York City|date=January 25, 1971}}&lt;/ref&gt;
+
+==Career==
+Ossman's roles during his Firesign years include George Leroy ("Peorgie") Tirebiter on ''[[Don't Crush That Dwarf, Hand Me the Pliers]]'' and Catherwood in the "[[How Can You Be in Two Places at Once When You're Not Anywhere at All|Nick Danger]]" series.&lt;ref&gt;{{cite magazine|first=Kurt|last=Luchs|title=The Firesign Theatre in five decades at once|url=http://www.goldminemag.com/articles/the-firesign-theatre-in-five-decades-at-once|magazine=[[Gold Mine (magazine)|Gold Mine Magazine]]|publisher=F+W Media|location=Iola, Wisconsin|date=April 3, 2010|accessdate=August 14, 2018}}&lt;/ref&gt;
+
+In 1973, he recorded the solo album ''[[How Time Flys]]''.  During the 1980s, he left the Firesign Theatre, primarily to produce programs for [[National Public Radio]].
+
+During the 1990s Ossman and his wife Judith Walcutt formed Otherworld Media, through which they produced [[audio theatre]] for children, as well as a series of major star-studded [[audio theatre]] broadcasts for [[NPR]], including ''We Hold These Truths'' (1991), ''Empire Of The Air'', ''War Of The Worlds 50th Anniversary Production'',&lt;ref&gt;[http://www.doctechnical.com/fst/mfp/img/ossman1.jpg Doctechnical.com] {{webarchive|url=https://web.archive.org/web/20070219014308/http://www.doctechnical.com/fst/mfp/img/ossman1.jpg |date=February 19, 2007 }}&lt;/ref&gt; ''[[Raymond Chandler]]'s Goldfish'', and the 100th Anniversary [[audio theatre]] adaptation of ''[[The Wonderful Wizard of Oz]]''.
+
+His latest Otherworld Media Productions include ''[[A Thousand Clowns]]'', ''Through the Looking Glass'', and ''A Taffetas Christmas''. These performances are held at Whidbey Children's Theater on [[Whidbey Island]], a local theatre where children can come to do plays and workshops.
+
+Otherworld Media has also taken on the task of adapting and producing half a dozen screenplays in live radio play format in 2007 and 2008 at the International Mystery Writers Festival in [[Owensboro, Kentucky]]. Ossman personally wrote the adaptation and directed the 2007 Angie Award winner Albatross (original screenplay written by Lance Rucker and Timothy Perrin).
+
+Ossman has written a [[Mystery fiction|mystery]] novel, ''The Ronald Reagan Murder Case: A George Tirebiter Mystery'' (published by BearManor Media, 2007).  In 2008, Bear Manor Media published his memoir, ''Dr. Firesign's Follies: Radio, Comedy, Mystery, History.''
+
+Stage versions of ''Don't Crush That Dwarf, Hand Me the Pliers''; ''The Further Adventures of Nick Danger, Third Eye''; and ''[[Waiting for the Electrician or Someone Like Him]]'' and ''Temporarily Humboldt County'' are published by [[Broadway Play Publishing Inc.]]
+
+Ossman also wrote a book of poetry in 2009 titled ''Fools &amp; Death'' (published by Ion Drive Publishing, 2009).
+
+==Personal life==
+On March 19, 2008, [[Mount Rainier National Park]] rangers found the body of Ossman's oldest son, Devin, less than two miles from the trailhead where he had parked his car two days earlier for a day hike. His wife had reported him missing the day before.&lt;ref&gt;{{cite news|first1=Patricia|last1=Duff|first2=Michaela|last2=Marx Wheatley|url=http://www.southwhidbeyrecord.com/news/16913761.html# |title=Local musician dies on Mount Rainier|newspaper=South Whidbey Record|publisher=Sound Publishing, Inc.|location=Whidbey Island, Washington|date=June 25, 2008|accessdate=June 21, 2015}}&lt;/ref&gt;
+
+Ossman also has a daughter, Alizon.&lt;ref&gt;[http://www.wallinstudios.com/bettine2010c.html Wallinstudios.com]&lt;/ref&gt;
+
+He currently resides on [[Whidbey Island]] with his wife.&lt;ref&gt;[http://firesigntheatre.com/updates/00344.html Firesigntheatre.com]&lt;/ref&gt;
+
+==Filmography==
+
+===Actor===
+* ''Martian Space Party'' (1972, Short)
+* ''Everything You Know Is Wrong'' (1975) - Sheriff Luger Axehandle / NURGI Clockwork Film narrrator / Prof. Archer / Art Wholeflaffer / Gen.
+* ''Below the Belt'' (1980) (voice)
+* ''[[The Tick (1994 TV series)|The Tick]]'' (1996, TV Series) - Professor Peelie (voice)
+* ''[[A Bug's Life]]'' (1998) - Cornelius (voice)
+* ''Nowheresville'' (2000) - Earl Apple
+* ''[[Osmosis Jones]]'' (2001) - Scabies (voice, uncredited)
+* ''Firesign Theatre: Weirdly Cool'' (2001, TV Movie) 
+* ''Five Grand'' (2016) - Abner Wilhelm
+
+===Writer===
+* ''[[Zachariah (film)|Zachariah]]'' (1971)
+* ''Martian Space Party'' (1972)
+* ''Everything You Know Is Wrong'' (1975)
+* ''Firesign Theatre: Weirdly Cool'' (2001) (TV)
+* ''Fools &amp; Death'' (2009)
+
+===Producer===
+* ''Martian Space Party'' (1972)
+* ''Everything You Know Is Wrong'' (1975)
+
+===Director===
+* ''Everything You Know Is Wrong'' (1975)
+* ''Through the Looking Glass'' (2006)
+* ''Seven Keys to Baldpate'' (2007)
+
+===Editor===
+* ''Martian Space Party'' (1972)
+
+===Discography===
+* ''[[How Time Flys]]'' (1973)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|0652250}}
+
+{{Firesign Theatre}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ossman, David}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:Writers from Santa Monica, California]]
+[[Category:The Firesign Theatre]]</text>
+      <sha1>2lr3d9auzjqjp3u040qc8hxoj8sx6v8</sha1>
+    </revision>
+  </page>
+</mediawiki>

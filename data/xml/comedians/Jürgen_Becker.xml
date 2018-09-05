@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jürgen Becker</title>
+    <ns>0</ns>
+    <id>25182289</id>
+    <revision>
+      <id>839503780</id>
+      <parentid>717496796</parentid>
+      <timestamp>2018-05-03T21:33:20Z</timestamp>
+      <contributor>
+        <username>Queen-washington</username>
+        <id>31632445</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1651">{{for|the German writer|Jürgen Becker (poet)}}
+
+[[Image:Jürgen Becker - 2007 - 8295.jpg|thumb|right|Jürgen Becker at "Kölner Herztag" 2007 („Kölner Infarkt Modell“) in Cologne.]]
+
+'''Jürgen Becker''' (born August 27, 1959) is a [[Germany|German]] [[comedian]], [[kabarett]] artist, and actor.
+
+== Life ==
+Becker was born and attended school in [[Cologne]], [[Germany]]. He became a [[graphic designer]] in the German company [[4711 (brand)|4711]]. Later Becker studied [[social science]] in Cologne.
+
+In 1983, Becker was a founding member of ''[[Stunksitzung]]'' in Cologne, and he was its president from 1984 to 1995. Since 1992 Becker has performed in the television show [[Mitternachtsspitzen]].
+
+== Filmography ==
+
+* ''[[Knockin' on Heaven's Door (1997 film)|Knockin’ on Heaven’s Door]]'', 1997
+
+== References ==
+* {{cite web| url = http://www.wdr.de/tv/zimmerfrei/sendungsbeitraege/2011/becker/juergen_becker.jsp| title = Jürgen Becker| date = 2011-06-10| publisher = [[Westdeutscher Rundfunk|WDR]]| language = German| accessdate = 2011-07-10}}
+
+== External links ==
+* [http://dispatch.opac.d-nb.de/DB=4.1/LNG=DU/LRSET=1/SET=1/SID=6f85656a-84/TTL=1/CMD?ACT=SRCHA&amp;IKT=8500&amp;SRT=YOP&amp;TRM=J%C3%BCrgen+Becker Jürgen Becker] in [[German National Library]]
+* [http://www.imdb.de/find?s=all&amp;q=J%FCrgen+Becker Jürgen Becker] in [[Internet Movie Database]]
+
+{{Authority control}}
+{{DEFAULTSORT:Becker, Jurgen}}
+[[Category:German television personalities]]
+[[Category:German cabaret performers]]
+[[Category:German male comedians]]
+[[Category:Kabarettists]]
+[[Category:People from Cologne]]
+[[Category:1959 births]]
+[[Category:Living people]]</text>
+      <sha1>lci3jhjng5m41kzhg6anrl7vj9a0bbo</sha1>
+    </revision>
+  </page>
+</mediawiki>

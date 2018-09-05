@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lea Gabrielle</title>
+    <ns>0</ns>
+    <id>41395264</id>
+    <revision>
+      <id>855451692</id>
+      <parentid>842855788</parentid>
+      <timestamp>2018-08-18T11:38:08Z</timestamp>
+      <contributor>
+        <username>Mr Xaero</username>
+        <id>3499605</id>
+      </contributor>
+      <comment>removed red links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8485">{{Infobox person
+| name        = Lea Gabrielle 
+| image= 
+| image_size  = 
+| caption     = 
+| birthname   = Lea Gabrielle Potts&lt;ref name="LI"&gt;[https://www.linkedin.com/pub/lea-gabrielle-potts/73/a45/873 Lea Gabrielle Potts Linked-In webpage]&lt;/ref&gt; 
+| birth_date  = {{birth year and age|1975}} &lt;ref name="CG"/&gt;&lt;ref name="NT"/&gt;
+| birth_place = Alexandria, Virginia&lt;ref name="CG"&gt;[http://www.capitalgazette.com/news/midshipman-th-class-lea-potts-stands-at-attention/article_5221951c-eacd-54d5-8742-e3f5698b3064.html  Capital Gazette.com, Midshipman 4th Class Lea Potts stands at attention  December 13, 1993] {{webarchive|url=https://archive.is/20140613215544/http://www.capitalgazette.com/news/midshipman-th-class-lea-potts-stands-at-attention/article_5221951c-eacd-54d5-8742-e3f5698b3064.html |date=June 13, 2014 }}&lt;/ref&gt; 
+| education   = [[United States Naval Academy]] (1997)&lt;ref name="LI"/&gt; 
+| occupation  = Journalist and Naval aviator
+| title       = Anchor, correspondent at [[Fox News Channel]]
+| URL         = 
+| residence                 = 
+| nationality               = American
+| other_names               = 
+| citizenship               = United States
+| years_active              = 
+| employer                  = 
+| agent                     = 
+| known_for                 = 
+| notable_works             = 
+| style                     = 
+| influences                = 
+| influenced                = 
+| home_town                 = 
+| salary                    = 
+| net_worth                 = &lt;!-- Net worth should be supported with a citation from a reliable source --&gt;
+| weight                    = &lt;!-- {{convert|weight in kg|kg|lb}} --&gt;
+| television                = 
+| term                      = 
+| predecessor               = 
+| successor                 = 
+| party                     = 
+| movement                  = 
+| opponents                 = 
+| boards                    = 
+| religion                  = &lt;!-- Religion should be supported with a citation from a reliable source --&gt;
+| denomination              = &lt;!-- Denomination should be supported with a citation from a reliable source --&gt;
+| criminal_charge           = &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty          = 
+| criminal_status           = 
+| spouse                    = 
+| partner                   = 
+| children                  = 
+| callsign                  = 
+| awards                    = 
+| signature                 = 
+| signature_alt             = 
+| signature_size            = 
+| footnotes                 = 
+| box_width                 = 
+}}
+'''Lea Gabrielle''' (born '''Lea Gabrielle Potts''' in 1975)&lt;ref name="NT"&gt;{{cite web|url=http://www.navytimes.com/article/20140528/NEWS/305280064/From-F-18s-Fox-News|title=From F/A-18s to Fox News|work=Navy Times}}&lt;/ref&gt; is a journalist and correspondent for the [[Fox News Channel]]. She is also a general-assignment reporter for ''[[Shepard Smith Reporting]]''.
+
+==Background==
+While attending [[Mount Vernon High School (Alexandria, Virginia)|Mount Vernon High School]] in [[Fairfax County, Virginia]], Gabrielle was named a finalist in the [[Intel Science Talent Search|Westinghouse Science Talent Search]].&lt;ref name="Westinghouse_STS_WP"&gt;{{cite news | url=https://pqasb.pqarchiver.com/washingtonpost/doc/307596095.html | title=Young Bright Bulbs Make Area Shine in Science Contest | work=The Washington Post | date=25 January 1993 | accessdate=13 January 2016 | author=Tousignant, Marylou | pages=D01}}&lt;/ref&gt;&lt;ref name="Westinghouse_STS_NYT"&gt;{{cite news | url=https://www.nytimes.com/1993/01/27/us/washington-area-students-take-lead-in-annual-science-awards.html | title=Washington-Area Students Take Lead in Annual Science Awards | work=The New York Times | date=27 January 1993 | accessdate=13 January 2016}}&lt;/ref&gt;  She is a 1997 graduate of the [[United States Naval Academy]], earning a [[bachelor of science]] in [[mechanical engineering]].&lt;ref name="LI"/&gt; Entering the [[active-duty]] Navy after graduation, Gabrielle attended the U.S. Navy Flight School at [[Naval Air Station Pensacola]] in Florida from 1998 to 2000,&lt;ref name="LI"/&gt; earning her [[United States naval aviator|Naval Aviator Wings]]. She is also qualified with an [[instrument rating]] and as a commercial pilot.&lt;ref name="LI"/&gt;
+
+She served in the [[United States Navy]] for twelve years and was a [[naval aviator]] of the single-seat [[F/A-18]] "Hornet," with combat deployment from {{USS|George Washington|CVN-73|6}}.  Her [[call sign]] as a pilot was "Flower".&lt;ref&gt;{{cite web|url=http://talk.baltimoresun.com/topic/247219-naval-academy-grad-and-fighter-pilot-newest-foxon-fox/|title=Naval Academy grad and fighter pilot newest Fox...on Fox|work=Baltimore Sun Talk Forums}}&lt;/ref&gt; Additional duties were as a [[landing signal officer]] (LSO) and as a squadron [[Public affairs (military)|public affairs officer]].&lt;ref name="LI"/&gt; She also served as an intelligence operations officer during [[Operation Enduring Freedom]],&lt;ref name="BC"&gt;[http://www.sdyouth.org/ChangingLivesPSA/life-chnagers-lea-sutton--nbc-san-diego-reporter-former-navy-fighter-pilot.aspx Life Changers - Lea Sutton, NBC 7 San Diego Reporter &amp; Former Navy Fighter Pilot] {{webarchive|url=https://web.archive.org/web/20140305025058/http://www.sdyouth.org/ChangingLivesPSA/life-chnagers-lea-sutton--nbc-san-diego-reporter-former-navy-fighter-pilot.aspx |date=2014-03-05 }}&lt;/ref&gt; and while in [[Afghanistan]] she was embedded with a [[Navy SEAL]] unit conducting [[intelligence]] operations.&lt;ref name="BC"/&gt;  She was also a defense foreign liaison officer.&lt;ref name="LI"/&gt;
+
+==Journalism career==
+After leaving the Navy, Gabrielle attended the [[New York Film Academy]] in 2009, receiving a digital journalism certificate.&lt;ref name="LI"/&gt; She then worked for NBC News (2010-2011) in [[Washington, D.C.]]&lt;ref name="Fox"&gt;{{cite web|url=http://www.foxnews.com/on-air/personalities/lea-gabrielle/bio/#s=e-g|title=Lea Gabrielle|work=Fox News}}&lt;/ref&gt; where she shot, wrote, edited, and produced packages for ''[[NBC Nightly News]]'', ''[[The Today Show]]'', [[N]] websites, and web spots. As a digital journalist and editor (Avid), Gabrielle covered stories for the [[NBC Nightly News]] web page and nationwide NBC affiliates. She conducted interviews for White House and Political Correspondents and Nightly News (including the President, the first female governor in Afghanistan, and GOP Presidential nominees).&lt;ref name="LI"/&gt;
+
+In September 2011, Gabrielle moved to [[San Diego, California]], and became a military reporter for [[KNSD-TV]] (NBC 7),&lt;ref name="Fox"/&gt; using her then-[[married name]] Lea Sutton.&lt;ref&gt;{{cite web|url=http://www.nbcsandiego.com/news/local/New-Legislation-Aims-to-Keep-Military-Spouses-Employed-201767371.html|title=New Legislation Aims to Keep Military Spouses Employed|work=NBC 7 San Diego}}&lt;/ref&gt; She joined [[Fox News Channel]] in [[New York City]] in December 2013.&lt;ref name="Fox"/&gt;
+
+==References==
+{{reflist}}
+[http://www.flyingmag.com/blogs/fly-wire/meet-lea-gabrielle-fox-news-correspondent-and-aviation-expert#HFDzYEsrwh6lsU1k.99 Meet Lea Gabrielle, Fox News Correspondent and Aviation Expert]
+
+==External links==
+* [http://www.foxnews.com/on-air/personalities/lea-gabrielle/bio/#s=e-g Fox News Profile]
+* [http://www.mediabistro.com/tvspy/lea-gabrielle-joins-fox-news-from-knsd_b111016#s=e-g KNSD]
+* [https://www.linkedin.com/pub/lea-gabrielle-potts/73/a45/873 Linkedin Profile]
+* [http://archive.navytimes.com/article/20140528/NEWS/305280064/From-F-18s-Fox-News From F/A-18s to Fox News]
+
+{{Fox News Personalities}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gabrielle, Lea}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:American television reporters and correspondents]]
+[[Category:Fox News people]]
+[[Category:American women television journalists]]
+[[Category:Female aviators]]
+[[Category:Women in the United States Navy]]
+[[Category:American naval personnel of the War in Afghanistan (2001–present)]]
+[[Category:Women in 21st-century warfare]]
+[[Category:Women war correspondents]]
+[[Category:Military personnel from Alexandria, Virginia]]
+[[Category:Westinghouse Science Talent Search winners]]
+[[Category:Journalists from Virginia]]
+[[Category:American female aviators]]
+[[Category:Commercial aviators]]
+[[Category:Female commercial aviators]]
+[[Category:United States Naval Academy alumni]]
+[[Category:United States Naval Aviators]]
+[[Category:United States Navy officers]]</text>
+      <sha1>4q7p7ui5dkxwjjhprmf92e3ecopsuwt</sha1>
+    </revision>
+  </page>
+</mediawiki>

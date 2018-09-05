@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mitch Fatel</title>
+    <ns>0</ns>
+    <id>2213679</id>
+    <revision>
+      <id>802162717</id>
+      <parentid>794923135</parentid>
+      <timestamp>2017-09-24T11:08:01Z</timestamp>
+      <contributor>
+        <username>I enjoy sandwiches</username>
+        <id>24361832</id>
+      </contributor>
+      <comment>Added {{[[Template:refimprove|refimprove]]}} and {{[[Template:self-published|self-published]]}} tags to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2668">{{refimprove|date=September 2017}}
+{{self-published|date=September 2017}}
+{{Infobox comedian
+| name              = Mitch Fatel
+| image             = MitchFatel.jpg
+| imagesize         = 
+| caption           = Mitch Fatel at the ComedyZone
+| medium            = [[Stand up comedy]], [[television]]
+| birth_date        = {{Birth date and age|1968|12|20}}
+| nationality       = American
+| active            = 1993–present
+| genre             = [[Stand-up comedy]]
+| subject           = [[observational comedy]]
+| Personal Life     = Married to Jessica Mayhugh
+}}
+
+'''Mitch Fatel''' (born '''Mitch Faytel'''&lt;ref&gt;[[Howard Stern's Negligeé and Underpants Party]] PPV credits&lt;/ref&gt; in 1968&lt;ref&gt;http://www.howardstern.com/rundown.hs?d=1145332800&lt;/ref&gt; in [[Manhattan]]) is a [[stand-up comedian]]. He was raised in [[Yonkers, New York]] and began doing stand-up at the age of 15.&lt;ref&gt;[http://www.comedyspotnation.com/mitch-fatel-women-are-magical-creatures/ "Mitch Fatel: Women Are Magical Creatures!"] Retrieved 25 August 2015&lt;/ref&gt; In 1988 Fatel attended NYU/Tisch School of the Arts and majored in Film and Acting Studies.&lt;ref&gt;http://www.mitchfatel.com/press/#credits&lt;/ref&gt; Around this time Mitch was an intern on ''[[The Howard Stern Show]]''. When Mitch left the show he brought in a friend of his, [[John Melendez]]. John went on to take his place as intern and became known as "Stuttering John".
+
+Fatel performs regularly at the famed [[Comedy Cellar]]. He has performed on the ''[[Late Show with David Letterman]]'' and ''[[Late Night with Conan O'Brien]]'' and worked as a correspondent on ''[[The Tonight Show with Jay Leno]]''  covering major sporting events and conventions. 
+
+In 2004, he released his first CD entitled ''Miniskirts and Muffins'' which debuted number one on the iTunes Comedy Charts.
+
+In 2006 he took home honors as "Best Comedian" at the HBO Aspen Comedy Festival.
+
+His first half-hour special aired on April 10, 2007 at 10PM on ''[[Comedy Central Presents]]'' which was ranked number 6 by viewers in the "Stand Up Showdown".
+
+Tracks from his CDs are often heard on [[XM Comedy 150]] on [[XM Satellite Radio]] on [[Sirius Satellite Radio]]'s [[Raw Dog|Raw Dog Comedy 104]] and on [[Pandora Radio]].
+
+== References ==
+&lt;references /&gt;
+
+== External links ==
+{{wikiquote}}
+* {{official website|http://www.mitchfatel.com/}}
+* {{IMDb name|1883315}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fatel, Mitch}}
+[[Category:American stand-up comedians]]
+[[Category:Living people]]
+[[Category:1968 births]]
+[[Category:Tisch School of the Arts alumni]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+{{US-comedian-stub}}</text>
+      <sha1>0z4gi6l3y6hifagn364ohlxyz3vzrip</sha1>
+    </revision>
+  </page>
+</mediawiki>

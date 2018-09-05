@@ -1,0 +1,210 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Richard Pearse</title>
+    <ns>0</ns>
+    <id>201971</id>
+    <revision>
+      <id>846596174</id>
+      <parentid>845111663</parentid>
+      <timestamp>2018-06-19T19:01:09Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Rescued 1 archive link; remove 1 link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19213">{{For| people named Richard Pearce|Richard Pearce (disambiguation)}}
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+{{Inline|date=October 2017}}
+{{Infobox person
+| name   =Richard William Pearse
+| image     =Pearse.gif
+| image_size =180px
+| caption =
+| birth_date ={{birth date|df=yes|1877|12|3}}
+| birth_place =[[Temuka]], [[Canterbury Region]], New Zealand 
+| known_for = Pioneering flights in heavier-than-air aircraft
+| death_date  ={{death date and age|df=yes|1953|7|29|1877|12|3}}
+| death_place =[[Christchurch]], Canterbury Region, New Zealand
+| occupation     = Farmer, inventor}}
+
+'''Richard William Pearse''' (3 December 1877{{spaced ndash}}29 July 1953) was a New Zealand farmer and inventor who performed pioneering experiments in aviation.
+
+It is claimed Pearse flew and landed a powered heavier-than-air machine on 31 March 1903, nine months before the [[Wright brothers]] flew their aircraft,&lt;ref&gt;Rodliffe 2003&lt;/ref&gt; but the documentary evidence to support such a claim remains open to interpretation, and Pearse did not develop his aircraft to the same degree as the Wright brothers, who achieved sustained controlled [[flight]].&lt;ref&gt;[http://www.motat.org.nz/collections/FACT%20SHEETS/RichardPearseFactsheet.pdf "Fact Sheet Richard Pearse."] {{webarchive|url=https://web.archive.org/web/20100522002120/http://www.motat.org.nz/collections/FACT%20SHEETS/RichardPearseFactsheet.pdf|date=22 May 2010}} ''MOTAT''; retrieved 25 June 2010.&lt;/ref&gt; 
+
+Pearse himself never made such claims, and in an interview he gave to the ''Timaru Post'' in 1909 only claimed he did not "attempt anything practical&amp;nbsp;... until 1904".&lt;ref name="O'Rourke"/&gt; Pearse himself was not a publicity-seeker and also occasionally made contradictory statements, which for many years led some of the few who knew of his feats to offer 1904 as the date of his first flight.
+
+==Career==
+{{moresources|section|date=October 2017}}
+===Early engineering work===
+[[Image:Pearse aeroplane replica, South Canterbury Museum-2.jpg|thumb|right|250px|A replica of Pearse's monoplane]]
+In 1902 Pearse built and patented a bicycle with vertical crank gears and self-inflating [[tire|tyres]].{{citation needed|date=March 2014}} He then designed and built a two-cylinder "oil engine", which he mounted on a [[tricycle]] [[Landing gear|undercarriage]] surmounted by a [[linen]]-covered [[bamboo]] wing structure and rudimentary controls. Though it lacked an [[aerofoil]] section wing (the most crucial aspect of an [[airplane|aeroplane]]), in general layout his flying machine resembled modern aircraft design more than did the Wright brothers' machine: [[monoplane]] rather than [[biplane]]; [[tractor configuration|tractor]] rather than [[Pusher configuration|pusher]] propeller; stabiliser and elevators at the back rather than the front; and [[aileron]]s rather than wing-warping for controlling banking (although much the same can be said for the much earlier, and unsuccessful ''[[Ader Avion III|Adar Avion III]]'', excluding the ailerons).
+
+===Flights===
+Pearse made several attempts to fly in 1901, but due to insufficient engine power he achieved no more than brief hops (again reminiscent of the ''Avion III''). The following year he redesigned his engine to incorporate double-ended cylinders with two pistons each. Researchers recovered components of his engine (including cylinders made from cast-iron drainpipes) from rubbish dumps in 1963. Replicas of the 1903 engine suggest that it could produce about {{convert|15|hp|kW|abbr=on|0}}.
+[[File:Richard Pearse Aero Engine.JPG|thumb|Richard Pearse Aero Engine]]
+[[Image:Richard-William-Pearse-Monument.jpg|thumb|right|Richard William Pearse Monument ({{Coordinate|NS=-44.20807|EW=171.12303|text=DMS|type=landmark}})]]
+[[Image:Richard Pearse medal 1.jpg|thumb|right|200px|A silver medal struck by the New Zealand Mint for the [[Museum of Transport and Technology|New Zealand Museum of Transport and Technology]] in 1982 to commemorate the ''"80th Anniversary of World 1st Powered Flight"'' by Pearse. MOTAT's website gives 1903 as the year of his first flight, not 1902 as indicated on the medal.]]
+
+Verifiable eyewitnesses describe Pearse crashing into a hedge on two separate occasions during 1903. His monoplane must have risen to a height of at least three metres on each occasion.&lt;ref&gt;Rodliffe 1997&lt;/ref&gt; Good evidence exists that on 31 March 1903 Pearse achieved a powered, though poorly controlled, flight of several hundred metres.&lt;ref&gt;Ogilvie 1994&lt;/ref&gt;
+
+With a {{convert|15|hp}} engine, Pearse's design had an adequate power-to-weight ratio to become airborne (even without an [[airfoil|aerofoil]]).{{who|date=September 2016}} He continued to develop the ability to achieve fully controlled flight. Pearse incorporated small "ailerons". Diagrams and eyewitness recollections agree that Pearse placed controls for pitch and yaw at the trailing edge of the low-aspect-ratio kite-type permanently stalled wing. This control placement (located in turbulent air-flow, and close to the centre of gravity) would have had minimal, possibly inadequate, turning moment to control the pitch or yaw of the aircraft. The Wright brothers, in comparison, successfully applied the principles of airfoil wing-profile and [[flight dynamics|three-axis control]] to produce fully controlled flight.
+
+Pearse's work remained poorly documented at the time as no contemporary newspaper record exists. Some photographic records survived, but they are undated with some images difficult to interpret. Pearse himself made contradictory statements, which for many years led the few who knew of his feats to accept 1904 as the date of flying. Unconcerned about posterity and in remote New Zealand, he received no public credit for his work during his lifetime. 
+
+However, he was not alone in this. The Wrights had considerable difficulty getting their accomplishment recognised, despite better documentation and witnesses. A "Fliers or Liars?" debate continued for quite some time after [[Kitty Hawk, North Carolina|Kitty Hawk]], and it took highly public demonstrations before the Wright brothers gained wide recognition. Pearse patented his design, but his innovations—such as ailerons and the lightweight air-cooled engine—did not succeed in influencing others.
+
+===Later activities===
+Pearse moved to [[Milton, New Zealand|Milton]] in [[Otago]] in about 1911 and discontinued his flying experiments due to the hillier country there. Much of his experimental equipment got dumped in a farm rubbish-pit. However, he continued experimenting and produced a number of inventions. He subsequently moved to [[Christchurch]] in the 1920s, where he built three houses and lived off the rentals.
+
+Throughout the 1930s and 1940s, Pearse continued to work on constructing a tilt-rotor flying-machine for personal use – sometimes described as a cross between a windmill and a rubbish-cart. His design resembled an [[autogyro]] or [[helicopter]], but involved a tilting propeller/rotor and monoplane wings, which, along with the tail, could fold to allow storage in a conventional garage. He intended the vehicle for driving on the road (like a car) as well for flying. 
+
+However he became reclusive and paranoid that foreign spies would discover his work. Committed to [[Sunnyside Hospital|Sunnyside Mental Hospital]] in Christchurch in 1951, Pearse died there two years later. Researchers believe that many of his papers were destroyed at that time.
+
+==Claims==
+{{refimprove section|date=March 2013}}
+On his death, the [[Public Trustee]] administered Pearse's estate. Fortunately for posterity, the trust officer given the task of disposing of his personal effects recognised the significance of his aeronautical achievements and brought them to wider attention. As a result, aviation pioneer [[George Bolt]] saw Pearse's last flying machine.
+
+In 1958, Bolt excavated the South Canterbury dump site and discovered some components, including a propeller. His research in the 1960s produced strong evidence for flight in 1903:{{citation needed|date=September 2016}} people who had left the district by 1904 remembered the events, and recalled a particularly harsh winter with heavy snow.
+
+During filming of a television documentary in the 1970s, crew attached a replica of Pearse's 1902 machine by a rope to a team of horses. When the horses bolted, the machine took to the air and flew, indicating that the design could fly. This did not get filmed, as the crew had packed away their cameras at the end of the day's shooting.{{citation needed|date=February 2015|reason=this needs a ref}}
+[[Image:Pearse aeroplane replica, South Canterbury Museum-1.jpg|right|thumb|250px|A replica aeroplane on display at the South Canterbury Museum in Timaru]]
+In the mid-1980s, a MOTAT staff-member opined that Pearse himself, having seen that "history had already been written" stated in his later years that though he had in fact flown in March 1903, he had said "1904" because the Wright brothers at Kittyhawk had become part of history, and that therefore Pearse declined to appear as a disputatious claimant to the first controlled powered flight. 
+
+Adding some confusion to the issue, the tilt-propeller aircraft Pearse later worked on bears a very close resemblance to the original aircraft, and the remains at MOTAT, though presented as parts of a single machine, may very well come from three separate machines:
+* The "original" March 1903 machine
+* A later version of the same with a tilt-propeller
+* The original March 1903 motor, in decayed state, along with the motor mounted in the MOTAT replica, which derived from the remains of at least two motors from the Pearse farm "dump site".
+
+The South Canterbury Museum in [[Timaru]] includes display material relating to Pearse and to his contribution to early aviation. In 2012, evidence emerged in the media that a newspaper clipping from 1909 may have debunked the long debated argument. In the article, Pearse was quoted as having said in November of that year: "I did not attempt anything practical with the idea until, in 1904, the St Louis Exposition authorities offered a prize of 20,000 to the man who invented and flew a flying machine over a specified course. I did not, as you know, succeed in winning the prize. Neither did anybody."&lt;ref name="O'Rourke"&gt;O'Rourke, Paul. [http://www.stuff.co.nz/national/6799761/Pearse-flew-long-after-Wrights "Pearse flew long after Wrights"], Stuff.co.nz; 24 April 2012.&lt;/ref&gt; 
+
+However, contrary to this article, Evan Gardiner, a great nephew of Richard's, has countered with his own article stating that information from some sources was "taken out of context with the rest of Pearse's letter and has enabled Martyn to present his case and subsequent article on a false premise."&lt;ref&gt;{{cite news|url=http://www.stuff.co.nz/the-press/opinion/perspective/6901206/NZ-aviation-pioneer-was-the-real-deal|archive-url=https://archive.is/20120910182833/http://www.stuff.co.nz/the-press/opinion/perspective/6901206/NZ-aviation-pioneer-was-the-real-deal|dead-url=yes|archive-date=10 September 2012|title=NZ aviation pioneer was the real deal|date=11 May 2012|work=The Press|author=Evan Gardiner}}&lt;/ref&gt;
+
+Against this is a Timaru newspaper article from August 1910, which states H J Pither of Invercargill had made the first successful flight in New Zealand in an aircraft he constructed.&lt;ref&gt;Untitled, Timaru Herald, Volume XIIIC, Issue 14275, 16 August 1910, Page 5&lt;/ref&gt; The flight took place in Southland in July 1910 and was widely reported.&lt;ref&gt;Untitled, Oamaru Mail, Volume XXXVIII, Issue 10504, 12 July 1910, Page 3&lt;/ref&gt; When Pither attempted to repeat the feat before the public, he failed.{{cn|date=October 2017}}
+
+==Debunking the myth==
+The most compelling evidence refuting claims that Pearse was first to achieve power flight comes from Pearse himself, in the form of two letters that he wrote to local newspapers in 1915 and 1928.
+
+In the 1915 letter, he wrote: "The honor of inventing the aeroplane [...] is the product of many minds [but] pre-eminence will undoubtedly be given to the Wright brothers [...] as they were actually the first to make successful flights with a motor-driven aeroplane".&lt;ref&gt;Duffy, Jonathan. [http://news.bbc.co.uk/2/hi/uk_news/magazine/3307743.stm Flights of fancy?"], bbc.co.uk, 12 December 2003.&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Pearse|first1=R. W.|title=Who Invented the Aeroplance?|url=https://paperspast.natlib.govt.nz/newspapers/ESD19150510.2.9.1|accessdate=23 November 2017|issue=15799|publisher=Evening Star|date=10 May 1915}}&lt;/ref&gt;
+
+In the 1928 letter, he recounted what happened during those early attempts: "At the trials it would start to rise off the ground when a speed of twenty miles an hour was attained. This speed was not sufficient to work the rudders, so, on account of its huge size and low speed, it was uncontrollable, and would spin round broadside directly after it left the ground. So I never flew with my first experimental plane, but no-one else did with their first for that matter".{{cn|date=October 2017}}
+
+==Legacy==
+{{unsourced|section|date=October 2017}}
+At the dawn of the 20th century, a number of enthusiasts in several countries advanced towards powered heavier-than-air flight. Pearse, as one of several designers contemporary with the Wrights, advanced some distance towards controlled flight.
+
+However, Pearse's designs and achievements remained virtually unknown beyond the few who witnessed them and they had no impact on his contemporary aviation designers.
+
+[[Wanaka]] has a line of tiles mounted on the sidewalk by the lake listing important world and New Zealand historic events. The 1903 tile says that the first powered flight in history occurred in Timaru, and at the bottom of the tile for 1903 the Wright Brothers were listed as having also flown that year.
+
+==Popular culture==
+{{unsourced|section|date=October 2017}}
+Film and the stage have commemorated Richard Pearse's remarkable achievements over the years. Three plays centred on Pearse: ''The Pain and the Passion'', by Sherry Ede, ''Too High the Sun'' by Stephen Bain and France Hervé, and ''Pearse'', by John Leask, which was performed during the Richard Pearse Century of Flight 1903–2003 celebrations in Timaru.
+
+In the 1970s, New Zealand's [[TV One (New Zealand)|TV One]] produced a television movie about Pearse and his first flight. The film focused on Pearse's reclusive manner and his small town's perception of his eccentric activities.{{Citation needed|date=December 2014}}
+
+''[[Forgotten Silver]]'', a 1995 [[mockumentary]] by filmmakers Costa Botes and [[Peter Jackson]], purports to uncover a long-lost segment of motion picture film that, with digital enhancement of a newspaper seen in one shot, "proves" that Pearse successfully flew in March 1903, predating the Wrights' achievement by several months.
+
+A memorial to Pearse's attempts at powered flight stands at ({{Coordinate|NS=-44.20807|EW=171.12303|text=DMS|type=landmark}}) near [[Pleasant Point, New Zealand|Pleasant Point]] in South Canterbury.
+
+The [[Museum of Transport and Technology]] (MOTAT) in [[Auckland]] displays a replica of Pearse's aircraft. For the alleged centenary of Pearse's flight, a replica motor was added. The two, combined successfully, became airborne. Visitors to the museum can also see his last flying machine and the remains of his first aircraft.
+
+''The Red Menac''e, an eight-part ''[[Doctor Who]]/[[The War Of The Worlds]]'' [[crossover (fiction)|crossover]] [[fan fiction]] [[novella]] by [[Jeff Stone (author)|Jeff Stone]] published in the New Zealand Doctor Who [[fanzine]] ''[[Telos (fanzine)|Telos]]'' during the 1990s extensively features Pearse as the co-creator of flying machines used to battle the returning [[Martian]] invaders.  The unpublished extended version features material outlining Pearse's lonely journey to [[Great Britain|Britain]] to try to interest businessmen in his "aero-nautical device" designs.
+
+==See also==
+* [[List of firsts in aviation]]
+
+==References==
+;Notes
+{{Reflist|30em}}
+
+;Bibliography
+{{Refbegin}}
+* Moore, Helene and Geoffrey Rodliffe. ''Oh, For the Wings of a Moth''. Auckland, NZ: Geoff Rodliffe, 1999. {{ISBN|0-473-05772-7}}.
+* Ogilvie, Gordon. ''The Riddle of Richard Pearse: The Story of New Zealand's Pioneer Aviator and Inventor''. Auckland, NZ: Reed Publishing, Revised edition, 1994. {{ISBN|0-589-00794-7}}.
+* Riley, Bob. ''Kiwi Ingenuity: A Book of New Zealand Ideas and Inventions.'' Auckland, NZ: AIT Press, 1995. {{ISBN|978-0-9583334-4-3}}.
+* Rodliffe, C. Geoffrey. ''Richard Pearse and his Flying Machines: An Anthology of Research Notes, Essays and Ideas''. Thornbury, UK: thornburypump.co.uk, 2008, First edition 2007. {{ISBN|0-473-12362-2}}.
+* Rodliffe, C. Geoffrey. ''Flight over Waitohi''. Auckland, NZ: Acme Printing Works, 1997. {{ISBN|0-473-05048-X}}.
+* Rodliffe, C. Geoffrey. ''Richard Pearse: Pioneer Aviator''. Thornbury, UK: 2003, First edition 1983. {{ISBN|0-473-09686-2}}.
+* Rodliffe, C. Geoffrey. ''Wings Over Waitohi''. Auckland, NZ: Avon Press, Windsor House, 1993. {{ISBN|0-473-05000-5}}.
+* Tonkin, Keith. ''Four Great New Zealand Inventors.'' Wellington, NZ: Gilt Edge Publishing, 2003. {{ISBN|978-0-473-08812-5}}.
+* Williams, Tony. ''101 Ingenious Kiwis: How New Zealanders Changed the World.'' Auckland, NZ: Reed, 2006. {{ISBN|0-7900-1178-6}}.
+* Yarwood, Vaughan. ''The History Makers: Adventures in New Zealand Biography.'' Auckland, NZ: Random House, 2002. {{ISBN|978-1-86941-541-9}}.
+{{Refend}}
+
+==External links==
+* [http://www.nzhistory.net.nz/culture/richard-pearse ''Richard Pearse'' from NZ History online]
+* [https://teara.govt.nz/en/biographies/3p19/pearse-richard-william Teara - The Encyclopedia of New Zealand: Richard William Pearse]
+* [https://web.archive.org/web/20150115061818/http://www.destination.co.nz/temuka/pearse.htm Pictures of Richard Pearse and his flying machine]
+* [http://chrisbrady.itgo.com/pearse/pearse.htm Richard Pearse with info. from eyewitnesses and links to some video clips.]
+* [http://www.nzedge.com/heroes/pearse.html Biography from NZEdge]
+* {{dmoz|Regional/Oceania/New_Zealand/Society_and_Culture/History/Richard_Pearse|Richard Pearse}}
+* [http://avstop.com/history/aroundtheworld/newz/research.html Research into Richard Pearse]
+* [http://avstop.com/History/AroundTheWorld/NewZ/pearse.html Early New Zealand Fliers – PEARSE – OGILVIE – SCHAEF (from AvStop Magazine Online)]
+* [http://www.ctie.monash.edu.au/hargrave/pearse1.html Bill Sherwood sticks to success in 1902]
+* [http://podcast.radionz.co.nz/misc/misc-20081225-1406-Richard_Pearse_-_Crosswinds-048.mp3 A commemoration of the 100th anniversary of Pearce's flight (2003) at RadioNZ]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pearse, Richard}}
+[[Category:1877 births]]
+[[Category:1953 deaths]]
+[[Category:Aerospace engineers]]
+[[Category:Aviation inventors]]
+[[Category:Aviation pioneers]]
+[[Category:New Zealand aviators]]
+[[Category:New Zealand aircraft 1900–1909]]
+[[Category:New Zealand farmers]]
+[[Category:New Zealand inventors]]
+[[Category:People from Temuka]]
+[[Category:New Zealand people of Cornish descent]]
+[[Category:People from Milton, New Zealand]]</text>
+      <sha1>cuouaqo5kkartvqvi3tczdfush1dbye</sha1>
+    </revision>
+  </page>
+</mediawiki>

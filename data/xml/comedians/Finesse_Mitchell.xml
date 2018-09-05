@@ -1,0 +1,169 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Finesse Mitchell</title>
+    <ns>0</ns>
+    <id>2602130</id>
+    <revision>
+      <id>841283172</id>
+      <parentid>818632087</parentid>
+      <timestamp>2018-05-14T22:50:14Z</timestamp>
+      <contributor>
+        <username>DeprecatedFixerBot</username>
+        <id>33330201</id>
+      </contributor>
+      <minor/>
+      <comment>Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of "cols" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8971">{{BLP sources|date=July 2010}}
+{{Infobox person
+| name         = Finesse Mitchell
+| image        =
+| imagesize    = 200px
+| birth_name   = Alfred Langston Mitchell&lt;ref name="Broward"&gt;Renee Michelle Harris, [http://www.highbeam.com/doc/1P3-1405170441.html "FINESSE MITCHELL: Laughing his way to the top"], ''The Broward Times'', December 14, 2007 {{subscription required|via=[[HighBeam Research]]}}.&lt;/ref&gt;
+| birth_date   = {{birth date and age|mf=yes|1972|6|12}}
+| birth_place  = [[Atlanta, Georgia]], [[United States|U.S.]]
+| occupation   = Actor, comedian, author
+| spouse       = Jessica Santos (2008–2011)&lt;br/&gt;Adris Debarge (2013–present)     
+| website      = [http://www.finessemitchell.com www.finessemitchell.com]
+| years_active = 1999–present
+}}
+
+'''Alfred Langston "Finesse" Mitchell''' (born June 12, 1972) is an [[United States|American]] actor, author and stand-up comedian. From 2003 to 2006, he was a cast member on ''[[Saturday Night Live]]''.&lt;ref name="Jinelle"&gt;Jinelle Shengulette, [http://www.democratandchronicle.com/story/lifestyle/entertainment/2014/06/03/centered-fearlessness/9928553/ "Comedian Finesse Mitchell to perform at the Comedy Club"], ''[[Democrat and Chronicle]]'', June 3, 2014.&lt;/ref&gt;  Mitchell has also appeared on such television [[television program|shows]] as ''[[Showtime at the Apollo]]'', [[Black Entertainment Television|BET]]'s ''[[ComicView]]'', ''[[Comedy Central Presents]]'', Disney's ''[[A.N.T. Farm]]'' and NBC's ''[[Late Friday]]''.
+
+==Early life==
+Finesse Mitchell was born in [[Atlanta]]. He is a graduate of the [[University of Miami]], where he was a member of the football team and the [[Kappa Alpha Psi]] fraternity.&lt;ref name="Jinelle"/&gt;
+
+==Career==
+Mitchell made his first [[television]] appearance on [[Black Entertainment Television|BET]]’s ''[[Comic View]]'' in 1999 where he instantly became a favorite among the show’s loyal followers. Shortly after Comic View, Mitchell moved to both [[Los Angeles]] and [[New York City]] where he had several appearances on ''[[The Late Late Show (CBS TV series)|The Late Late Show with Craig Kilborn]]'' and two on ''[[Late Night with Conan O'Brien]].''
+
+In 2003, Mitchell became a featured player on ''Saturday Night Live.'' After two seasons, in 2005 he was promoted to full cast member.&lt;ref&gt;
+[http://www.foxnews.com/story/2005/07/31/finesse-mitchell-aims-high-on-snl/ "Finesse Mitchell Aims High on 'SNL'], ''[[New York Post]]'', republished at [[foxnews.com]], July 31, 2005.&lt;/ref&gt;  His screen time was drastically reduced after this promotion.&lt;ref&gt;Megh Wright, [http://splitsider.com/2012/10/saturday-nights-children-finesse-mitchell-2003-2006/ "Saturday Night's Children: Finesse Mitchell (2003-2006)"], ''Splitsider'', October 17, 2012.&lt;/ref&gt;  On September 20, 2006, ''Saturday Night Live'' announced that the show was dropping Mitchell,  [[Chris Parnell]] and [[Horatio Sanz]] from the show due to budget cuts.
+
+After his stint on ''SNL'', he has continued to perform stand-up comedy and appeared in the films ''[[Who's Your Caddy?]]'' ''[[The Comebacks]]'' and ''[[Mad Money (film)|Mad Money]]''.&lt;ref&gt;William Loeffler, [http://www.highbeam.com/doc/1P2-11281750.html "Former SNL Comic Finesse Mitchell Returns to His Standup Roots"], ''[[Pittsburgh Tribune-Review]]'', May 17, 2007 {{subscription required|via=[[HighBeam Research]]}}.&lt;/ref&gt;
+
+From 2008 to 2009, Mitchell made several appearances on ''[[The Today Show]]'' as a guest correspondent and on ''Tyra'' and ''Chelsea Lately'' as a guest panelist. In 2010, he appeared in the [[Comedy Central]] sketch series ''[[Nick Swardson's Pretend Time]]''.
+
+With the help of [[Quincy Jones]]’s son, QD3, Mitchell released his stand-up comedy available on [[DVD]] entitled ''Snap Famous''. He is also a writer and offers relationship advice in ''[[Essence (magazine)|Essence]]'' magazine. His 2007 book, ''Your Girlfriends Only Know So Much'', gives dating advice to African-American women.&lt;ref name="Broward"/&gt;&lt;ref&gt;Leila Noelliste, [http://www.highbeam.com/doc/1P3-1420062941.html ''Book Review: Your Girlfriends Only Know So Much: A Brother's Take on Dating and Mating for Sistas''], ''[[Chicago Defender]]'', December 12, 2007 {{subscription required|via=[[HighBeam Research]]}}.&lt;/ref&gt;
+
+In 2012, he participated in [[Fox Broadcasting Company|Fox]]'s dating game show ''[[The Choice (TV series)|The Choice]]''.&lt;ref&gt;{{cite web|last=Hibberd|first=James|title=Fox's 'The Choice' cast revealed! Joe Jonas, Dean Cain, The Situation, many more -- EXCLUSIVE|url=http://insidetv.ew.com/2012/05/08/fox-choice-celebrities/|work=[[Entertainment Weekly]]|accessdate=April 11, 2013|date=May 8, 2012}}&lt;/ref&gt;&lt;ref name="Ho"&gt;Rodney Ho, [http://www.highbeam.com/doc/1P3-2717962501.html "TV: A Second Act for Atlanta Comic Finesse Mitchell"], ''[[The Press of Atlantic City]]'', July 22, 2012 {{subscription required|via=[[HighBeam Research]]}}.&lt;/ref&gt; Mitchell also plays Darryl Parks, Chyna's ([[China Anne McClain]]) father, and a recurring character on the hit [[Disney Channel]] sitcom ''[[A.N.T. Farm]]''.&lt;ref name="Ho"/&gt;&lt;ref name="Stemer"&gt;Zak Stemer, [http://splash.suntimes.com/2013/08/25/finessing-the-issue-finesse-mitchells-sunday/#.VBEsWKMzJCA "Finessing the issue: Finesse Mitchell’s Sunday"], ''[[Chicago Sun-Times]]'', August 25, 2013.&lt;/ref&gt;
+
+In the stand-up comedy space, Finesse was a member of the 2014 Shaq All-Star Comedy Jam tour. He further shined on the SHAQ All-Star one-hour comedy special taped in Atlanta, GA which aired on [[Showtime (TV network)|SHOWTIME]].
+ 
+In January 2015, Mitchell, a supporter of the men and women in the armed forces, appeared at [[Ron White (actor)|Ron White]]’s Comedy Salute to the Troops. The live event from Las Vegas was recorded for airing at a later date on [[CMT (U.S. TV channel)|Country Music Television (CMT)]], and all proceeds benefit the Armed Forces Foundation. In February 2015, Mitchell hit the road with [[Cameron Crowe]] and producer [[J.J. Abrams]] for the Showtime Network’s new comedy pilot ''Roadies''. In March 2015, he played a role in [[HBO]]’s new comedy pilot ''Brothers in Atlanta''. The show is executive produced by [[Lorne Michaels]] (''Saturday Night Live'') with [[Tim Story]] directing. Mitchell appears in the film ''[[Barely Lethal]]'' in May 2015.
+
+===Recurring characters on ''Saturday Night Live''===
+*Starkisha, a stereotypically [[ghetto]] woman with a bad attitude.
+
+===Celebrity impressions on Saturday Night Live===
+{{div col|colwidth=20em}}
+* [[50 Cent]]
+* Al Reynolds
+* [[Andre Benjamin|Andre 3000]]
+* [[apl.de.ap]]
+* [[Bobby Brown]]
+* [[imdbname:1893532|BooG!e]]
+* [[Colin Powell]]
+* [[Corey Clark]]
+* [[Donovan McNabb]]
+* [[Ed Lover]]
+* [[Gayle King]]
+* [[Kelis]]
+* [[Kevin Eubanks]]
+* [[Kobe Bryant]]
+* [[Michael Powell (attorney)|Michael Powell]]
+* [[Morgan Freeman]]
+* [[O. J. Simpson]]
+* [[Sean Combs]]
+* [[R. Kelly]]
+* [[Ralph Carter]] (as [[Michael Evans (Good Times)|Michael Evans]] on ''[[Good Times]]'')
+* [[Ray Nagin]]
+* [[Klymaxx|Robbin Grider]]
+* [[Ron Artest]]
+* [[Shucky Ducky]]
+* [[Stephen A. Smith]]
+* [[Stuart Scott]]
+* [[Venus Williams]]
+* [[Willie Gault]]
+{{div col end}}
+
+==Personal life==
+On September 13, 2008, he married Jessica Santos in Atlanta.&lt;ref&gt;[http://www.essence.com/2008/09/25/finesse-mitchell-ties-the-knot/ "Finesse Mitchell: Ties the Knot"], ''[[Essence (magazine)|Essence]]'', December 16, 2009.&lt;/ref&gt; On May 20, 2011, Mitchell and Santos divorced.  
+
+He married again, in September 2013, to Adris DeBarge, daughter of singer [[El DeBarge]].&lt;ref name="Stemer"/&gt;&lt;ref&gt;[http://theybf.com/2013/09/22/just-married-comedian-finesse-mitchell-weds-adris-debarge "Just Married: Comedian Finesse Mitchell Weds Adris DeBarge"], [[Theybf.com]], September 22, 2013.&lt;/ref&gt;. Their daughter Elle was born March 2015 &lt;ref&gt; https://www.instagram.com/p/6i-nceovZL/&lt;/ref&gt; and their second child is due in 2018.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|1459509}}
+*[http://www.finessemitchell.com/ Finesse Mitchell Official Website]
+*[http://www.myspace.com/finessemitchell2 Finesse Mitchell MySpace Page]
+*[http://www.comedycentral.com/comedians/browse/m/finesse_mitchell.jhtml?source=SEO_SSP_Y&amp;intcmp=SEO_SSP_Y&amp;extcmp=SEO_SSP_Y Comedy Central Profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mitchell, Finesse}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:African-American male actors]]
+[[Category:African-American comedians]]
+[[Category:American male film actors]]
+[[Category:American stand-up comedians]]
+[[Category:American male television actors]]
+[[Category:Miami Hurricanes football players]]
+[[Category:Male actors from Atlanta]]
+[[Category:Male actors from Miami]]
+[[Category:University of Miami alumni]]
+[[Category:Participants in American reality television series]]
+[[Category:21st-century American male actors]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American sketch comedians]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>g8gfy0qc37mwacxbk4u3abx56qqyyps</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fred Ladd (aviator)</title>
+    <ns>0</ns>
+    <id>34587096</id>
+    <revision>
+      <id>784684721</id>
+      <parentid>776843564</parentid>
+      <timestamp>2017-06-09T15:33:20Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>/* Biography */[[User:Monkbot/task_12:_London_Gazette_deprecated_parameters|Task 12]]: London Gazette templates: replace deprecated parameters; remove empty parameters; remove |accessdate=;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3582">'''Frederick Patrick "Fred" Ladd''' {{post-nominals|country=NZL|OBE}} (27 October 1908 – 22 January 1989) was a New Zealand carrier, civilian and military pilot, tourism and aviation promoter.
+
+==Biography==
+Ladd was born in [[Warkworth, New Zealand|Warkworth]] north of [[Auckland]], New Zealand on 27 October 1908. After time in Auckland and [[Wellington]], the family settled in [[Hamilton, New Zealand|Hamilton]], where he attended [[Hamilton High School, New Zealand|Hamilton High School]] for one year. After a variety of jobs, he joined his father's carrying business in 1925 and took it over the following year after his father's death. He ran the company for 15 years. He was interested in flying, but did not have the means to pay for lessons until 1939. He joined the [[Royal New Zealand Air Force]] in 1941 and graduated as a pilot in the following year. During World War II, he flew 33 missions in the Pacific.&lt;ref name="DNZB Ladd" /&gt;
+
+Ladd started flying the [[Dunedin]]–[[Invercargill]] route for the [[New Zealand National Airways Corporation]] in 1948. With a strong entrepreneurial streak, he was the first Chief Pilot for [[Fiji Airways]] (1951–1954), before running his own company for 13 years, Tourist Air Travel, in the [[Hauraki Gulf]]. During that time, he became a household name in New Zealand, and was known for his catch phrases like "a shower of spray and we're away" for taking off in his [[Grumman G-44 Widgeon|Widgeon]], an [[amphibious aircraft]]. On his last day as a tourist operator in 1967, he flew his Widgeon under the [[Auckland Harbour Bridge]] and was discharged without conviction for this offence. With over 21,000 hours of flying time, he had his commercial pilot's licence withdrawn by the [[Civil Aviation Authority of New Zealand|Civil Aviation Authority]] in 1977 over age concerns. Ladd embarked on a fitness campaign for regaining his licence and set a national swimming record in the over 70 category, but was unsuccessful. In December 1983, he commenced [[gliding]].&lt;ref name="DNZB Ladd"&gt;{{DNZB|last=Waugh|first=Richard|id=5l1|title=Frederick Patrick Ladd|accessdate=23 April 2017}}&lt;/ref&gt;
+
+In the [[1963 New Year Honours]], Ladd was appointed a [[Order of the British Empire|Member of the Order of the British Empire]], for services to the people of [[Waiheke Island]] and other areas in the Hauraki Gulf in connection with rescue work and transport of the sick.&lt;ref&gt;{{London Gazette |issue=42872 |date=1 January 1963 |page=40 |supp=y }}&lt;/ref&gt; He  was promoted to Officer of the same order in the [[1976 Birthday Honours|1976 Queen's Birthday Honours]] for services to the tourist and aviation industries.&lt;ref&gt;{{London Gazette |date=4 June 1976 |supp=y |issue=46921 |page=8056 }}&lt;/ref&gt;
+
+Ladd died of cancer on 22 January 1989 at [[Taupo]], survived by his wife and daughter.&lt;ref name="DNZB Ladd" /&gt; His ashes were buried in Taupo Public Cemetery.&lt;ref&gt;{{cite web |url=http://eservices.taupo.govt.nz/cemeteries/11961 |title=Deceased details |date= |website= |publisher=Taupō District Council |accessdate=17 January 2015}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{Use dmy dates|date=April 2017}}
+
+{{DEFAULTSORT:Ladd, Frederick Patrick}}
+[[Category:1908 births]]
+[[Category:1989 deaths]]
+[[Category:New Zealand World War II pilots]]
+[[Category:New Zealand aviators]]
+[[Category:People from Warkworth, New Zealand]]
+[[Category:People educated at Hamilton High School]]
+[[Category:New Zealand Officers of the Order of the British Empire]]
+[[Category:Deaths from cancer in New Zealand]]
+[[Category:Burials at Taupo Public Cemetery]]</text>
+      <sha1>s4xr6c6pq4yt5835cy1ppv7q2h4jcxr</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Otto Eppers</title>
+    <ns>0</ns>
+    <id>31782327</id>
+    <revision>
+      <id>842691117</id>
+      <parentid>829268132</parentid>
+      <timestamp>2018-05-24T01:42:55Z</timestamp>
+      <contributor>
+        <username>Sir Beluga</username>
+        <id>32589407</id>
+      </contributor>
+      <minor/>
+      <comment>style fix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2801">'''Otto Eppers''' was an [[United States|American]] [[cartoonist]] and illustrator active from the 1920s to 1950s. He is also known for a 1910 stunt in which he jumped off the [[Brooklyn Bridge]].
+
+==Biography==
+In 1910, at the age of 17, Otto Eppers jumped off the Brooklyn Bridge and emerged from the East River unscathed. He had coordinated with the tug ''Florence'' to retrieve him from the river. Upon making shore, he was arrested by a [[NYPD|New York City policeman]] on the charge of attempted suicide. He was arraigned before a Magistrate Appelton, who dismissed the charges after commenting to the NYPD's Captain Burke, "Well, he seems very much alive, doesn't he?"&lt;ref&gt;Abstract of [https://query.nytimes.com/gst/abstract.html?res=F40A10FC395417738DDDA90B94DE405B808DF1D3 "Youth Dives Off Brooklyn Bridge; Youngster Eludes the Police and Plunges Into the East River, Escaping Unhurt"], ''[[The New York Times]]', n.d.&lt;/ref&gt;
+
+Eppers contributed characters to [[QSL cards]] for [[ham radio]] operators.&lt;ref&gt;https://picasaweb.google.com/w8jyz.Bob/OldQSLCardsOttoEppers#{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; He was a resident of [[Clearfield, Pennsylvania|Clearfield]], [[Pennsylvania]], where he was active in the ham radio community with the callsigns W8EA and W2EA.&lt;ref&gt;"Station W8EA to Play Major Role in Flood Warning", ''The Progress'', [[Clearfield, Pennsylvania|Clearfield]], [[Pennsylvania]], November 19, 1938&lt;/ref&gt; 
+
+He later worked for the [[Harry "A" Chesler]] studio.&lt;ref name=bails&gt;{{cite web|url=http://www.bailsprojects.com/(S(i3dii545kjjpqh45skhgf145))/bio.aspx?Name=EPPERS%2c+OTTO |chapter=Eppers, Otto |authorlink=Jerry Bails| first=Jerry| last=Bails| first2=Hames| last2= Ware| title=Who's Who of American Comic Books 1929-1999}}&lt;/ref&gt; and for [[Timely Comics]]. His contributions as [[penciler]] and-or [[inker]] or include stories for these features or in these series:
+
+*"Scottie" (penciler-inker), 1942, Timely Comics
+*"Happy Landings' (penciler-inker), 1945, Chesler Publications
+*"IMA Slooth" (penciler-inker), 1945, Chesler Publications
+*"Punch and Cutey" (penciler-inker), 1945 (pen/ink), Chesler Publications
+*''Gay Comics'' (inker), 1946, Timely Comics
+*"Inspector Fumble" (inker), 1963, reprint, I.W. Publications
+*''Gunsmoke Western'' (inker), 1963, [[Marvel Comics]]
+
+Eppers died December 22, 1955, at the age of 62.&lt;ref&gt;"Area Deaths", ''The Progress'', Clearfield, Pennsylvania, January 6, 1956, p. 9&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Eppers, Otto}}
+[[Category:Articles created via the Article Wizard]]
+[[Category:American comic strip cartoonists]]
+[[Category:History of New York City]]
+[[Category:Artists from New York City]]
+[[Category:1893 births]]
+[[Category:1955 deaths]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>7wr2l83hmu1m4z8bg9n9g25ecrymtc3</sha1>
+    </revision>
+  </page>
+</mediawiki>

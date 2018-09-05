@@ -1,0 +1,169 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Glen Dell</title>
+    <ns>0</ns>
+    <id>8891684</id>
+    <revision>
+      <id>805900974</id>
+      <parentid>786949155</parentid>
+      <timestamp>2017-10-18T10:29:46Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4695">{{Use dmy dates|date=July 2013}}
+{{Infobox aviator
+|name=Glen Dell
+|image=
+|image_size=200px
+|alt=
+|caption=
+|full_name=Glen Kennelly Dell
+|birth_date= {{Birth date|1962|4|9|df=y}}
+|birth_place= [[Johannesburg]], South Africa
+|death_date= {{Death date and age|2013|10|12|1962|4|9|df=y}}
+|death_place=[[Johannesburg]], South Africa
+|death_cause=Aircrash
+|resting_place=
+|resting_place_coordinates= &lt;!-- {{Coord|LATITUDE|LONGITUDE|type:landmark}} --&gt;
+|monuments=
+|nationality={{Flag icon|South Africa}} South Africa
+|spouse=
+|relatives=
+|first_race = 2008
+|racing_best = 12th ([[2008 Red Bull Air Race World Series season|2008]])
+|racing_aircraft = [[Zivko Edge 540]]
+|website=
+}}
+
+'''Glen Dell''' (9 April 1962 – 12 October 2013) was a [[South Africa]]n commercial airline trainer and [[aerobatics]] pilot, who was qualified to race in the [[Red Bull Air Race World Championship]] in seasons [[2008_Red_Bull_Air_Race_World_Series_season|2008]] and [[2009_Red_Bull_Air_Race_World_Championship|2009]].
+
+Dell's father was a [[World War II]] pilot, and he himself got his [[Private Pilot License]] around the year 1979. He then joined the [[South African Air Force]] to fly helicopters. After obtaining his [[Commercial Pilot License]], he joined [[South African Airways]] in 1994, where he became a Senior Training Captain.&lt;ref&gt;[http://www.fakr.co.za/press_releases.htm Krugersdorp Flying Club] {{webarchive|url=https://web.archive.org/web/20070112220311/http://www.fakr.co.za/press_releases.htm |date=12 January 2007 }}&lt;/ref&gt;&lt;ref name="glendellaerobatics.com"&gt;[http://www.glendellaerobatics.com Glen Dell Aerobatics - Passion for and Excellence in Aviation&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref name="slick360.com"&gt;[http://www.slick360.com Slick Aircraft - The ultimate edge in aerobatic aircraft&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+Starting in 1985, he won the National Aerobatic Championships in various categories 12 times. He competed in the World Aerobatic Championships since 1994, and became Advanced World Aerobatic Champion in 2004.&lt;ref name="glendellaerobatics.com"/&gt;&lt;ref name="slick360.com"/&gt;&lt;ref&gt;[http://www.air-races.com/pilots/Glen_Dell.htm Red Bull Air Races]&lt;/ref&gt;
+
+Dell died in Sunninghill Hospital in Johannesburg suffering burns sustained when his aircraft, an [[Extra EA-330]] crashed on 12 October 2013 at the Secunda Airshow in [[Secunda, Mpumalanga|Secunda]], [[Mpumalanga]].&lt;ref&gt;{{cite web |url=http://www.news24.com/SouthAfrica/News/Aerobatic-pilot-dies-after-show-crash-20131012 |title=Aerobatic pilot dies after show crash |publisher=News24 |date= |accessdate=2013-10-13}}&lt;/ref&gt;
+
+==Red Bull Air Races==
+He first flight dated 2008 in the [[2008 Red Bull Air Race World Series season|Red Bull Air Race World Series]].
+
+{|class="wikitable"
+|-
+! colspan="16" style="text-align:center;"|{{Flag icon|South Africa}} Glen Dell&lt;br&gt;at the [[Red Bull Air Race World Series]]
+|-
+! style="width:2%;"|Year
+! style="width:2%;"| 1
+! style="width:2%;"| 2
+! style="width:2%;"| 3
+! style="width:2%;"| 4
+! style="width:2%;"| 5
+! style="width:2%;"| 6
+! style="width:2%;"| 7
+! style="width:2%;"| 8
+! style="width:2%;"| 9
+! style="width:2%;"| 10
+! style="width:2%;"| 11
+! style="width:2%;"| 12
+! style="width:2%;"|Points
+! style="width:2%;"|Wins
+! style="width:2%;"|Rank
+|- align=center
+! [[2008 Red Bull Air Race World Series season|2008]]
+| style="background:#cfcfff;"|{{Flag icon|United Arab Emirates}}&lt;br&gt;12th
+| style="background:#cfcfff;"|{{Flag icon|United States}}&lt;br&gt;12th
+| style="background:#cfcfff;"|{{Flag icon|United States}}&lt;br&gt;11th
+| {{Flag icon|Sweden}}&lt;br&gt;CAN
+| style="background:#cfcfff;"|{{Flag icon|Netherlands}}&lt;br&gt;12th
+| style="background:#cfcfff;"|{{Flag icon|United Kingdom}}&lt;br&gt;10th
+| style="background:#cfcfff;"|{{Flag icon|Hungary}}&lt;br&gt;11th
+| style="background:#cfcfff;"|{{Flag icon|Portugal}}&lt;br&gt;12th
+| {{Flag icon|Spain}}&lt;br&gt;CAN
+| style="background:#cfcfff;"|{{Flag icon|Australia}}&lt;br&gt;12th
+|
+|
+! 0
+! 0
+| style="background:#cfcfff;"|'''12th'''
+|}
+
+Legend:
+* CAN: Cancelled
+* DNP: Did not participate
+* DNS: Did not show
+* DQ: Disqualified
+* NC: Not classified
+
+==See also==
+* [[Competition aerobatics]]
+
+==References==
+{{Reflist}}
+
+{{Red Bull Air Race World Series Pilots}}
+{{Aerobatics}}
+
+{{DEFAULTSORT:Dell, Glen}}
+[[Category:1962 births]]
+[[Category:2013 deaths]]
+[[Category:South African aviators]]
+[[Category:South African air racers]]
+[[Category:Aerobatic pilots]]
+[[Category:Red Bull Air Race World Championship pilots]]
+[[Category:People from Johannesburg]]
+[[Category:White South African people]]
+[[Category:Victims of aviation accidents or incidents in South Africa]]
+[[Category:Commercial aviators]]
+
+
+{{SouthAfrica-sport-bio-stub}}
+{{air-sports-stub}}</text>
+      <sha1>nxb9htyrcsysjuewulljtwbd7ikqi83</sha1>
+    </revision>
+  </page>
+</mediawiki>

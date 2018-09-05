@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Harry J. Tuthill</title>
+    <ns>0</ns>
+    <id>27752100</id>
+    <revision>
+      <id>853821441</id>
+      <parentid>812408570</parentid>
+      <timestamp>2018-08-07T04:40:49Z</timestamp>
+      <contributor>
+        <username>GünniX</username>
+        <id>237572</id>
+      </contributor>
+      <minor/>
+      <comment>v1.43 - [[WP:WCW]] project (Template without correct beginning)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4729">{{Infobox comics creator
+| name          = Harry J. Tuthill
+| image         = HarryJTuthill.jpg
+| caption       = 
+| alt           = 
+| birth_name    = 
+| birth_date    = {{birth date|1885|05|10}}
+| birth_place   = [[Chicago, Illinois]]
+| death_date    = {{death date and age|1957|01|25|1885|05|10}}
+| death_place   = 
+| nationality   = [[United States|American]]
+| notable works = ''[[The Bungle Family]]''
+}}
+'''Harry J. Tuthill''' (May 10, 1885&lt;ref name=lam /&gt;–January 25, 1957)&lt;ref&gt;Associated Press, "Cartoonist Dies". ''The San Bernardino Daily Sun'', San Bernardino, California, Saturday 26 January 1957, Volume LXIII, Number 127, page 1.&lt;/ref&gt;was an American cartoonist best known for his comic strip ''[[The Bungle Family]]''.
+
+== Biography ==
+Born in [[Chicago, Illinois]], he grew up in the tenements and worked as a newsboy, quitting when a tough guy muscled in on his corner. At age 15, he traveled the midwest, finding employment with a foot surgeon, selling baking powder, patented eggbeaters and pictures, plus working as a medicine show barker in a street carnival. As he recalled, he left "to work on and at such things as selling enlarged pictures, soliciting for a corn doctor, and for one delirious season carrying on with a medicine show. I would not mention these things except that I feel what may be a pardonable pride in their diversity."{{cn|date=August 2018}}
+
+During his late teens, he settled in [[St. Louis, Missouri]], where he was employed for $10 a week as a foreman at the St. Louis Dairy, where he washed milk cans for seven years.&lt;ref name=lam&gt;[http://lambiek.net/artists/t/tuthill_hj.htm "Harry J. Tuthill,"] ''Lambiek's Comiclopedia''. Accessed Nov. 25, 2017.&lt;/ref&gt;
+
+By the age of 30, he still had not sold any cartoons. Finding encouragement on his artwork from Bob Grable of [[World Color Press|World Color Printing]], he worked for the ''[[St. Louis Star]]'' and then moved to the ''[[St. Louis Post-Dispatch]]''. He took night classes at [[Washington University]], studying engineering and art, and signed on as a full-time cartoonist with the ''[[St. Louis Star]]'' during World War I, doing a strip titled ''Lafe'' about a lazy handyman, and attracting national attention for his editorial cartoons.
+
+==Comic strips==
+In 1918, Tuthill launched ''Home Sweet Home'', a strip about apartment life, in the ''[[New York Evening Mail]]''.&lt;ref name=lam/&gt;&lt;ref name=rick&gt;Marschall, Rick. "Harry J. Tuthill", ''[[Nemo, the Classic Comics Library]]'' 5 (February 1984)&lt;/ref&gt; During the six-year run, it introduced George and Josephine Bungle, and he retitled it as ''The Bungle Family'' in 1924. Distributed initially by the [[McClure Syndicate]] and later by the [[McNaught Syndicate]], the strip was carried by 120 newspapers. Comics historian [[Rick Marschall]] praised Tuthill's work, "Seldom has there been a strip (''[[Moon Mullins]]'' comes to mind) registering a sustained, masterful indictment of ''petite-bourgeois'' sensibilities and preoccupations as did ''The Bungle Family''."&lt;ref name=rick/&gt;
+
+He also drew ''Alice and Her Bothersome Little Brother'' and ''Napoleon Blunder'' during the 1920s. ''Little Brother'' ran as a [[topper (comic strip)|topper]] strip to ''The Bungle Family''. Tuthill’s strips from 1919 to 1926 were created in his home studio at 4537 Tower Grove Place in St. Louis, eventually moving to [[Ferguson, Missouri]] outside St. Louis.&lt;ref&gt;{{cite journal|last=Heintjes|first=Tom|date=August 12, 2013|title=When the Bungles Mixed It Up with Their Neighbors on the Battlegrounds of Sunken Heights|publisher=[[Hogan's Alley (magazine)|Hogan's Alley]]|issue=13|url=http://cartoonician.com/when-the-bungles-mixed-it-up-with-their-neighbors-on-the-battlegrounds-of-sunken-heights/}}&lt;/ref&gt; His sister, Irene Morrisson, also lived in the St. Louis area.
+
+Tuthill continued to draw ''The Bungle Family'' for McNaught until he had a dispute with the syndicate in 1939, which no longer carried the strip in 1942. After a hiatus, the strip returned — syndicated by Tuthill himself — on May 16, 1943, with newspapers running a promotional banner, "The Bungles Are Back!" It ran for two more years until 1945 when Tuthill retired. 
+
+He died of heart disease in 1957.&lt;ref name=lam/&gt;&lt;ref name=rick/&gt;
+
+His son, Harold Tuthill, who worked for 47 years as a ''St. Louis Post-Dispatch'' sports writer, died of a heart ailment in 1988 at the age of 82.{{cn|date=November 2017}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.toonopedia.com/bungle.htm Toonopedia]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tuthill, Harry J.}}
+[[Category:American comic strip cartoonists]]
+[[Category:St. Louis Post-Dispatch people]]
+[[Category:1886 births]]
+[[Category:1957 deaths]]</text>
+      <sha1>3lexftsvjxvsv6xxord6186sjv3s3y5</sha1>
+    </revision>
+  </page>
+</mediawiki>

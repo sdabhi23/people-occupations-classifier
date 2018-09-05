@@ -1,0 +1,255 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Bunny</title>
+    <ns>0</ns>
+    <id>907187</id>
+    <revision>
+      <id>847639508</id>
+      <parentid>847635734</parentid>
+      <timestamp>2018-06-26T19:29:36Z</timestamp>
+      <contributor>
+        <username>Lord Bolingbroke</username>
+        <id>31711350</id>
+      </contributor>
+      <comment>ce, add context from sources</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17331">{{Infobox person
+| name        = John Bunny
+| image       = John Bunny.jpg
+| imagesize   =
+| caption     =
+| birthname   =
+| birth_date  = {{Birth date|1863|9|21}}
+| birth_place = [[New York City|New York]], New York, U.S.
+| death_date  = {{Death date and age|1915|4|26|1863|9|21}}
+| death_place = [[Brooklyn]], New York, U.S.
+| occupation  = Actor
+| spouse      = Clara Scallen (m. 1893)
+| yearsactive = 1909–1915
+| relatives   = [[George Bunny]] (brother)
+}}
+
+'''John Bunny''' (September 21, 1863 – April 26, 1915) was an [[United States|American]] actor. Bunny began his career as a stage actor, but transitioned to a film career after joining [[Vitagraph Studios]] around 1910. At Vitagraph, Bunny made over 150 short films – many of them domestic comedies with the comedian [[Flora Finch]] – and became one of the most well-known actors of his era.
+
+==Life and career==
+Bunny was born in [[New York City]] and raised in [[Brooklyn]]. The son of English immigrants, he initially worked as a clerk in a general store before joining a small [[minstrel show]] at the age of twenty.&lt;ref&gt;{{cite news |title=John Bunny's Face Known in Every Corner of Earth Where Films are Seen |work=The Washington Times |date=April 16, 1915 |page=13 |url=https://chroniclingamerica.loc.gov/lccn/sn84026749/1915-04-16/ed-1/seq-13/}} Bunny's obituary in ''The Oregonian'' says his first stage role was at nineteen. See {{cite news |title=John Bunny Succumbs |work=The Morning Oregonian |date=April 27, 1915 |page=3 |url=https://oregonnews.uoregon.edu/lccn/sn83025138/1915-04-27/ed-1/seq-3/}}&lt;/ref&gt; In a stage career spanning over thirty years, Bunny worked for a number of touring and stock theater companies, with stints in Portland, Seattle, and various cities on the east coast.&lt;ref&gt;{{cite book |author=Eric L. Flom |title=Silent Film Stars on the Stages of Seattle: A History of Performances by Hollywood Notables |publisher=McFarland |date=2009 |page=105 |isbn=9780786439089}}&lt;/ref&gt; Bunny eventually worked his way into Broadway, where he was in productions such as ''Aunt Hannah'' (1900), ''Easy Dawson'' (1905), and the [[Astor Theatre (New York City)|Astor Theatre]]'s inaugural production of ''[[A Midsummer Night's Dream]]'' (1906), where his performance as [[Nick Bottom|Bottom]] garnered acclaim.&lt;ref&gt;{{cite book |author1=Frank Cullen |author2=Florence Hackman |author3=Donald McNeilly |title=Vaudeville Old &amp; New: An Encyclopedia of Variety Performances in America |location=New York |publisher=Routledge |date=2007 |page=157 |isbn=9780415938532}}&lt;/ref&gt;&lt;ref&gt;For a review of Bunny's performance at the Astor, see {{cite news |title=Astor Theatre Opens with Lovely Spectacle |work=The New York Times |date=September 22, 1906 |page=7}}&lt;/ref&gt;
+
+In a 1915 interview, Bunny recounted how he decided to enter the film industry after determining that "it was the 'movies' that were the main cause of the lean times on stage." Bunny offered his services to [[Vitagraph Studios]], but was refused a job because the studio manager believed he could not offer Bunny a high enough salary.&lt;ref&gt;Lanier 1915, pp. 567–574. For another interview in which Bunny describes his entrance into the film industry see Agnew 1913, pp. 98–100.&lt;/ref&gt; Bunny, however, insisted on taking the lower pay and began working at [[Vitagraph Studios]] in 1910, where he went on to star in over 150 films. At Vitagraph, Bunny was often paired with the comedian [[Flora Finch]], with whom he made many popular comedies – often featuring gentle situational humor in a domestic setting, in contrast with the rowdier slapstick style prevalent at the time – that came to be known as "Bunnygraphs" or "Bunnyfinches".&lt;ref name=LoC&gt;{{cite press release |title=2011 National Film Registry More Than a Box of Chocolates |series=News from the Library of Congress |date=December 28, 2011 |url=https://www.loc.gov/item/prn-11-240/2011-national-film-registry-more-than-a-box-of-chocolates/2011-12-28/ |issn=0731-3527 |archiveurl=https://web.archive.org/web/20171114151454/https://www.loc.gov/item/prn-11-240/ |archivedate=November 14, 2017 |deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite book |author=Donald W. McCaffrey |author2=Christopher P. Jacobs |title=Guide to the Silent Years of American Cinema |publisher=Greenwood Publishing Group |year=1999 |pages=59, 121 |isbn=0-313-30345-2}}&lt;/ref&gt;
+
+[[File:Pickwick 1913.jpg|thumb|right|300px|John Bunny in ''[[The Pickwick Papers (1913 film)|The Pickwick Papers]]'' (1913)]]
+
+[[File:Treasure trove 1911.jpg|thumb|right|300px|Scene still from the 1911 Vitagraph production ''Treasure Trove.'' Left to right are [[Mary Maurice]], John Bunny, [[Julia Swayne Gordon]], and [[Helen Gardner (actress)|Helen Gardner]].]]
+
+Regarding a career as a film actor, Bunny said:&lt;ref&gt;Agnew 1913, p. 96.&lt;/ref&gt; 
+
+&lt;blockquote&gt;There's nothing like it. No other work gives an actor or would-be actor the same advantages. In the pictures, a player gets fifty-two weeks in the year. Where is the theatrical manager who can offer that? Not even vaudeville stars can get such bookings. At best, thirty weeks is about all an actor can expect on the stage. He may get summer stock work, but even so it is of uncertain duration. Stage work is a gamble. Even when you have been engaged for a production, rehearsed from three to six weeks without pay, and no doubt bought your own costumes for the piece, you have no guarantee that it will be a success. If the public does not set its stamp of approval, your job is all over perhaps after but one performance, and you can only repeat the procedure by trying again with someone else, charging the other to your loss account, with a credit notation probably on the page marked 'experience.'&lt;/blockquote&gt;
+
+Bunny had been acting in films for only five years when he died from [[Bright's disease]] at his home in [[Brooklyn]] on April 26, 1915.&lt;ref&gt;{{cite news |title=John Bunny Dies; Movie Funmaker: Fat, Big, Round-Faced Actor Who Made Millions Laugh Succumbs at 52. |work=The New York Times |date=April 27, 1915 |page=13}}&lt;/ref&gt; He was survived by his wife and two sons and interred in the [[Cemetery of the Evergreens]] in Brooklyn, New York.&lt;ref&gt;{{cite news |title=Throng at Bunny Funeral: Film and Legitimate Stage Actors Attend Services at Elks' Club. |work=The New York Times |date=April 29, 1915 |page=14}}&lt;/ref&gt;
+
+==Reception and legacy==
+Bunny was quite well known during his life time. A ''New York Times'' editorial published after Bunny's death noted that thousands recognized him as "the living symbol of wholesome merriment", and declared, "Wherever movies are exhibited, and that is everywhere, Bunny had his public. It is perfectly safe to say that no other camera actor was as popular in this country."&lt;ref&gt;{{cite news |title=The Loss of Bunny |work=The New York Times |date=April 27, 1915 |page=12}}&lt;/ref&gt; Another article published in [[The Daily News (UK)|''The Daily News'']] recounted the enthusiastic reception Bunny received while visiting England in 1911 and how his fame was such that a heavy-set member of King [[George V]]'s entourage was mistaken for the actor while the King was visiting Scotland.&lt;ref&gt;The article was sent in a special cable to ''The New York Times'' and quoted in {{cite news |title=Loved Bunny in Britain: Movie Funny Man Once Wept Over Dockers' Ovation |work=The New York Times |date=April 29, 1915 |page=14}}&lt;/ref&gt; The actress Frances Agnew wrote in 1913 that "Mr. Bunny's name is a household word, not only from coast to coast in America, but also in every city and town in the world at all acquainted with the 'movies,' ..."&lt;ref&gt;Agnew 1913, p. 95.&lt;/ref&gt;
+
+Bunny's skills as an actor were renowned by his contemporaries. The poet and writer [[Joyce Kilmer]] wrote glowingly of Bunny's acting ability, and claimed that Bunny was responsible for reviving the art of pantomime.&lt;ref&gt;{{cite news |author=Joyce Kilmer |title=Pantomime Revived by John Bunny: Art of Silent Comedy, After a Lapse of Centuries, Appears in Moving Pictures of Famous Actor Who Died Last Week |work=The New York Times |date=May 2, 1915 |page=SM15}}&lt;/ref&gt; The poet and early film critic [[Vachel Lindsay]] said Bunny occupied an "important place" in his memory, and called the acting in one of Bunny's films "delightful".&lt;ref&gt;{{cite book |author=Vachel Lindsay |title=The Art of the Moving Picture |location=New York |publisher=Macmillan |date=1916 |pages=22–23 |url=https://books.google.com/books?id=g3xZAAAAMAAJ}}&lt;/ref&gt; A critic for the [[Saturday Review (London newspaper)|''Saturday Review'']] described the power Bunny had over his audiences: "When Mr. Bunny laughs, people from San Francisco to Stepney Green laugh with him. When Mr. Bunny frowns, every kingdom of the earth is contracted in one brow of woe."&lt;ref&gt;{{Cite news |author=John Palmer |title=Mr. Bunny |work=The Saturday Review |date=April 11, 1914 |page=466 |url=https://babel.hathitrust.org/cgi/pt?id=uiug.30112109807237;view=1up;seq=488}}&lt;/ref&gt;
+
+A 1916 ''Washington Times'' article claimed, "To John Bunny ... must be given the credit of presenting the first bits of refined comedy in photoplay. Previous to his advent into screenland film comedies were either "chases" or grotesque trick photography. He rescued screen humor from the chamber of horrors and placed it in the hall of fame".&lt;ref&gt;{{Cite news |title=Another John Bunny in Film |work=The Washington Times |date=April 7, 1916 |page=6 |url=https://chroniclingamerica.loc.gov/lccn/sn84026749/1916-04-07/ed-1/seq-6/#date1=1899&amp;sort=relevance&amp;rows=20&amp;words=Bunny+Bunnys+John&amp;searchType=basic&amp;sequence=0&amp;index=10&amp;state=&amp;date2=1918&amp;proxtext=John+Bunny&amp;y=18&amp;x=22&amp;dateFilterType=yearRange&amp;page=2}}&lt;/ref&gt; In the words of his contemporary Henry Lanier, Bunny demonstrated "that a real actor can make an incredible success before [a film] audience without any of the vulgarity or horseplay which used to be considered essential."&lt;ref&gt;Lanier 1915, p. 577.&lt;/ref&gt; This assessment is echoed by the modern film scholar Wes Gehring, who writes that "Bunny helped elevate at the time what was still often considered a second-class medium to a level of artistic significance".&lt;ref&gt;Gehring 1995, p. 122.&lt;/ref&gt;
+
+According to Frank Scheide, Bunny's films might have been taken more seriously because "Bunny's humor was based more on comedy of manners than slapstick", a "polite" and "respectable" form of situational comedy in contrast to the "decidedly lowbrow, crass, and often violent" humor of slapstick films.&lt;ref&gt;{{cite book |editor1=Andrew Horton |editor2=Joanna E. Rapf |title=A Companion to Film Comedy |date=2012 |publisher=Wiley |isbn=9781118327821 |pages=29, 44}}&lt;/ref&gt; According to Gehring, Bunny was "the first in a long line of American personality screen comedians", whose approach is marked by a "subordination of story to character".&lt;ref&gt;Gehring 1995, p. 121.&lt;/ref&gt; The personality focus of Bunny's films was also noted by the actress Catherine Carr, who wrote in 1914: "In most big companies at the present day there are maintained actors around whose personality comedies are being written; i.e., John Bunny, Flora Finch, etc. These actors take the mere germ of a comedy and develop it through their clever acting into a screen production that brings laughter wherever it is shown."&lt;ref&gt;*{{Cite book |author=Catherine Carr |title=The Art of Photoplay Writing |date=1914 |location=New York |publisher=Hannis Jordan Company |page=27 |url=https://books.google.com/books?id=ELlLAAAAYAAJ&amp;dq=John+Bunny+actor&amp;lr=&amp;source=gbs_navlinks_s}}&lt;/ref&gt; Modern viewers may not find Bunny's films as funny as Carr described, however. The film scholar [[Anthony Slide]], for instance, writes that Bunny's "characterizations contain nothing creative, and he uses no knockabout or slapstick comedy. His comedy is all very middle class and very polite. Often so dull is the storyline that the comedy is difficult to uncover. Time and again one wonders if audiences ever did laugh at his work, and, if so, why?"&lt;ref&gt;Slide 2010, p. 59.&lt;/ref&gt;
+
+Bunny was strongly disliked by most of his fellow actors at Vitagraph, including Finch. Interviews of former Vitagraph personnel conducted by Slide in the 1960s and 1970s revealed that his co-workers found him arrogant, bad-tempered, and difficult to work with, an image very much at odds with his genial on-screen persona.&lt;ref&gt;{{cite book |author=Anthony Slide |author2=Alan Gevinson |title=The Big V: A History of the Vitagraph Company, revised edition |publisher=The Scarecrow Press |year=1987 |pages=44 |isbn=9780810820302}}&lt;/ref&gt;
+
+Following Bunny's passing, new comedic stars came to the fore in silent film and Bunny was relegated to the status of an almost completely forgotten actor. However, he was posthumously inducted into the [[Hollywood Walk of Fame]] in 1960 for his contributions to the [[film industry]] with a [[List of actors with Hollywood Walk of Fame motion picture stars|motion pictures star]] located at 1715 [[Vine Street]] in [[Hollywood]].&lt;ref&gt;{{cite web |url=http://www.walkoffame.com/john-bunny |title=John Bunny {{!}} Hollywood Walk of Fame |publisher=Hollywood Chamber of Commerce |archiveurl=https://web.archive.org/web/20180223172058/http://www.walkoffame.com/john-bunny |archivedate=February 23, 2018 |deadurl=no}}&lt;/ref&gt;
+
+==Selected filmography==
+{| class="wikitable"
+|-
+! Year
+! Film
+! Role
+! Notes
+|-
+| rowspan=2|1909
+| ''Cohen's Dream''
+| Cohen
+| Alternative title: ''Cohen's Dream of Coney Island''
+|-
+| ''Cohen at Coney Island''
+| Cohen
+|
+|-
+| rowspan=2|1910
+| ''Davy Jones and Captain Bragg''
+| Captain Bragg
+|
+|-
+| ''Captain Barnacle's Chaperone''
+| Captain Barnacle
+|
+|-
+| rowspan=4|1911
+| ''A Queen for a Day''
+| Bridget McSweeney
+|
+|-
+| ''Teaching McFadden to Waltz''
+| McFadden
+|
+|-
+| ''[[Her Crowning Glory]]''
+| Mortimer
+|
+|-
+| ''Little Nemo''
+|
+| Animated short created by Winsor McCay
+|-
+| rowspan=3|1912
+| ''[[Captain Jenks' Dilemma]]
+| Captain Jenks
+|
+|-
+| ''[[A Cure for Pokeritis]]''
+| George Brown
+|
+|-
+| ''Michael McShane, Matchmaker''
+| Michael McShane
+|
+|-
+| rowspan=5|1913
+| ''[[Seeing Double (1913 film)|Seeing Double]]''
+| Binks
+|
+|-
+| ''Flaming Hearts''
+| Jonathan Whippletree
+|
+|-
+| ''[[The Pickwick Papers (1913 film)|The Pickwick Papers]]''
+| Mr Pickwick
+|
+|-
+| ''[[Bunny Dips Into Society]]''
+| Bunny
+|
+|-
+| ''[[Bunny as a Reporter]]''
+| Bunny
+|
+|-
+| rowspan=3|1914
+| ''Love's Old Dream''
+| Professor Simon Sweet
+|
+|-
+| ''Setting the Style''
+| Mr. Finnegan
+|
+|-
+|''[[Hearts and Diamonds (1914 film)|Hearts and Diamonds]]''
+| Widower Tupper
+|
+|-
+| 1915
+| ''The Jarrs Visit Arcadia''
+|
+|
+|-
+|}
+
+==Notes and references==
+===Notes===
+{{Reflist}}
+
+===References===
+{{refbegin}}
+*{{Cite book |last=Agnew |first=Frances |title=Motion Picture Acting |date=1913 |location=New York |publisher=Reliance Newspaper Syndicate |url=https://books.google.com/books?id=VRwPAAAAIAAJ}}
+*{{Cite journal |last=Gehring |first=Wes D. |title=John Bunny: America's First Important Film Comedian |journal=Literature Film Quarterly |date=1995 |volume=23 |issue=2 |pages=120–124}}
+*{{cite magazine |last=Lanier |first=Henry Wysham  |date=March 1915  |title=The Coquelin Of The Movies |magazine=[[The World's Work]] |volume=29 |issue=5 |pages=567–577 |url=https://books.google.com/books?id=l_2rn8M7DSsC&amp;pg=RA1-PA567}}
+*{{cite book |last=Slide |first=Anthony |title=Silent Players: A Biographical and Autobiographical Study of 100 Silent Film Actors and Actresses |date=2010 |publisher=University Press of Kentucky |isbn=9780813137452}}
+{{refend}}
+
+==Further reading==
+* Collier, Kevin S. [https://www.amazon.com/Film-Comedian-John-Bunny-Funny/dp/197653870X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1518223530&amp;sr=1-1&amp;keywords=John+Bunny+Funny+Bunny ''Funny Bunny: Film Comedian John Bunny'']. CreateSpace Independent Publishing Platform, 2017. {{ISBN|197653870X}}.
+* Hayes, Helen. ''On Reflection''. New York: M. Evans and Company, Inc., 1968.
+* Pratt, George C. ''Spellbound in the Darkness''. New York: New York Graphic Society Ltd., 1966.
+* Ramsaye, Terry. ''A Million and One Nights''. New York: Simon and Schuster, 1926.
+* Slide, Anthony. ''John Bunny. The Silent Picture''. New York: Arno Press, 1977.
+* Smith, Albert E. ''Two Reels and a Crank''. New York: Doubleday &amp; Company, Inc., 1952.
+* Talmadge, Margaret L. ''The Talmadge Sisters''. Philadelphia and London: J. B. Lippincott Company, 1924.
+* Talmadge, Norma. "Close-Ups". ''[[Saturday Evening Post]]'', March 12, 1926.
+* "The John Bunny Show". ''[[Variety (magazine)|Variety]]'', March 19, 1915.
+
+==External links==
+{{Commons category}}
+* {{IBDB name|33617}}
+* {{IMDb name|0120544}}
+* {{Amg name|187947}}
+* {{Find a Grave|4748}}
+* [http://www.virtual-history.com/movie/person/1555/john-bunny Literature on John Bunny]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bunny, John}}
+[[Category:1863 births]]
+[[Category:1915 deaths]]
+[[Category:19th-century American male actors]]
+[[Category:20th-century American male actors]]
+[[Category:American male stage actors]]
+[[Category:American male silent film actors]]
+[[Category:Blackface minstrel performers]]
+[[Category:Burials at the Cemetery of the Evergreens]]
+[[Category:Deaths from nephritis]]
+[[Category:Male actors from New York City]]
+[[Category:Silent film comedians]]
+[[Category:Vaudeville performers]]
+[[Category:People from Brooklyn]]
+[[Category:20th-century American comedians]]
+[[Category:American male comedy actors]]</text>
+      <sha1>7i1h6pi0fuuh101hbdcsi1ytw01rgj4</sha1>
+    </revision>
+  </page>
+</mediawiki>

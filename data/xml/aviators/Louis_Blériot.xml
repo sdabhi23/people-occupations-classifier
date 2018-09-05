@@ -1,0 +1,231 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Louis Blériot</title>
+    <ns>0</ns>
+    <id>162795</id>
+    <revision>
+      <id>854476532</id>
+      <parentid>854469685</parentid>
+      <timestamp>2018-08-11T17:05:49Z</timestamp>
+      <contributor>
+        <username>Caroca2</username>
+        <id>31756405</id>
+      </contributor>
+      <comment>/* External links */ fixed typo in template name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35537">{{Infobox person
+|name    = Louis Blériot
+|image    = Louis Bleriot.jpg
+|caption   =
+|birth_date = {{birth date|1872|7|1|df=y}}
+|birth_place = [[Cambrai]], [[France]]&lt;ref&gt;[http://www.centennialofflight.gov/essay/Dictionary/Bleriot/DI11.htm  "Blériot."] {{webarchive|url=https://web.archive.org/web/20061006090813/http://www.centennialofflight.gov/essay/Dictionary/Bleriot/DI11.htm |date=2006-10-06 }} ''Centennial of Flight Commission, U.S. government, 2003. Retrieved: 24 April 2012.&lt;/ref&gt;
+|birth_name = Louis Charles Joseph Blériot
+|death_date = {{death date and age|1936|8|1|1872|7|1|df=y}}
+|death_place = [[Paris]], France
+|known_for  = First [[heavier-than-air flight]] across the [[English Channel]],&lt;br /&gt;first working monoplane
+|occupation = Inventor and engineer
+|nationality = French
+| spouse                   = Alice Védère (1901)                  
+| children                  =
+|alma_mater     = [[École Centrale Paris]]
+|awards=[[Légion d'honneur|Commandeur, Légion d'honneur]]&lt;ref&gt;{{cite web|url=http://www.culture.gouv.fr/LH/LH020/PG/FRDAFAN83_OL0256105v001.htm|publisher=Archives Nationales|location=France|title=Dossier: LH/256/105}}&lt;/ref&gt; &lt;br&gt;[[Prix Osiris]]
+}}
+'''Louis Charles Joseph Blériot''' (1 July 1872 – 1 August 1936) was a [[France|French]] [[aviator]], [[inventor]] and [[engineer]]. He developed the first practical headlamp for cars and established a profitable business manufacturing them, using much of the money he made to finance his attempts to build a successful aircraft. In 1909 he became world-famous for making the first airplane flight across the English Channel,{{refn|The first flight across the English Channel was made in 1785 using a hydrogen balloon.|group=Note}} winning the prize of £1,000{{refn|[[American dollar|$]]5,000 at the exchange rate of the time.|group=Note}} offered by the ''[[Daily Mail]]'' newspaper.&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1913/1913%20-%200387.html "The New 'Daily Mail' Prizes."] [[Flight International|''Flight'']], Volume 5, Issue 223, 5 April 1913, p. 393. Retrieved: 25 July 2009.&lt;/ref&gt; Blériot was also the first to make a working, powered, piloted [[monoplane]]&lt;ref name="Gibbs-Smith 1953 p.239"&gt;Gibbs-Smith 1953, p. 239&lt;/ref&gt; and was the founder of [[Blériot Aéronautique|a successful aircraft manufacturing company]].
+
+==Early years==
+Born at No.17h rue de l'Arbre à Poires (now rue Sadi-Carnot) in [[Cambrai]],&lt;ref&gt;Elliott 2000, p. 11.&lt;/ref&gt; Louis was the first of five children born to Clémence and Charles Blériot. In 1882, aged 10, Blériot was sent as a [[boarding school|boarder]] to the Institut Notre Dame in Cambrai, where he frequently won class prizes, including one for engineering drawing. When he was 15, he moved on to the [[Lycée]] at [[Amiens]], where he lived with an aunt. After passing the exams for his baccalaureate in science and German, he determined to try to enter the prestigious [[École Centrale Paris|École Centrale]] in Paris. Entrance was by a demanding exam for which special tuition was necessary: consequently Blériot spent a year at the [[Collège Sainte-Barbe]] in [[Paris]]. He passed the exam, placing 74th among the 243 successful candidates, and doing especially well in the tests of engineering drawing ability. After three years of demanding study at the École Centrale, Blériot graduated 113th of 203 in his graduating class.  He then embarked on a term of compulsory military service, and spent a year as a sub-lieutenant in the 24th Artillery Regiment, stationed in [[Tarbes]] in the [[Pyrenees]].
+
+He got a job with [[Baguès]], an electrical engineering company in Paris.&lt;ref&gt;Sanger 2008, p. 5.&lt;/ref&gt; He left the company after developing the world's first practical headlamp for automobiles, using a compact integral [[acetylene]] generator. In 1897, Blériot opened a showroom for headlamps at 41 rue de Richlieu in Paris. The business was successful, and soon he was supplying his lamps to both [[Renault]] and [[Panhard-Levassor]], two of the foremost automobile manufacturers of the day.&lt;ref&gt;Elliot 2000, pp. 16–18.&lt;/ref&gt;
+
+In October 1900 Blériot was lunching in his usual restaurant near his showroom when his eye was caught by a young woman lunching with her parents. That evening, he told his mother "I saw a young woman today. I will marry her, or I will marry no one."&lt;ref&gt;Elliott 2000, p. 20.&lt;/ref&gt; A bribe to a waiter secured details of her identity; she was Alice Védères, the daughter of a retired army officer. Blériot set about courting her with the same determination that he would later bring to his aviation experiments, and on 21 February 1901 the couple were married.&lt;ref&gt;Elliott 2000, p. 22.&lt;/ref&gt;
+
+==Early aviation experiments==
+{{refimprove|section|date=July 2017}}&lt;!--several paragraphs with no citations--&gt;
+Blériot had become interested in aviation while at the Ecole Centrale, but his serious experimentation was probably sparked by seeing [[Clément Ader]]'s [[Avion III]] at the [[Exposition Universelle (1900)|1900 Exposition Universelle]]. By then his headlamp business was doing well enough for Blériot to be able to devote both time and money to experimentation. His first experiments were with a series of [[ornithopter]]s, which were unsuccessful. In April 1905, Blériot met [[Gabriel Voisin]], then employed by [[Ernest Archdeacon]] to assist with his experimental gliders.
+
+Blériot was a spectator at Voisin's first trials of the floatplane glider he had built on 8 June 1905. Cine photography was among Blériot's hobbies, and the film footage of this flight was shot by him. The success of these trials prompted him to commission a similar machine from Voisin, the [[Blériot II]] glider. On 18 July an attempt to fly this aircraft was made, ending in a crash in which Voisin nearly drowned, but this did not deter Blériot. Indeed, he suggested that Voisin should stop working for Archdeacon and enter into partnership with him. Voisin accepted the proposal, and the two men established the ''Ateliers d' Aviation Edouard Surcouf, Blériot et Voisin''. Active between 1905 and 1906, the company built two unsuccessful powered aircraft, the [[Blériot III]] and the Blériot IV, largely a rebuild of its predecessor.&lt;ref&gt;Sanger 2008, pp. 5–6.&lt;/ref&gt; Both these aircraft were powered with the lightweight [[Antoinette (manufacturer)|Antoinette]] engines being developed by [[Léon Levavasseur]]. Blériot became a shareholder in the company, and in May 1906, joined the board of directors.&lt;ref&gt;Elliott 2000, p. 49.&lt;/ref&gt;
+
+[[File:Bleriot V.jpg|thumb|right|The Blériot V canard monoplane, built in January 1907]]
+The Blériot IV was damaged in a taxiing accident at Bagatelle on 12 November 1906. The disappointment of the failure of his aircraft was compounded by the success of [[Alberto Santos Dumont]] later that day, when he managed to fly his [[14-bis]] a distance of {{convert|220|m|ft|abbr=on}}, winning the Aéro Club de France prize for the first flight of over 100 metres. This also took place at Bagatelle, and was witnessed by Blériot. The partnership with Voisin was dissolved and Blériot established his own business, [[Recherches Aéronautiques Louis Blériot]], where he started creating his own aircraft, experimenting with various configurations&lt;ref name="Sanger 2008 pp.92-3"&gt;Sanger 2008, pp. 92–93.&lt;/ref&gt; and eventually creating the world's first successful powered monoplane.
+
+The first of these, the [[canard (aeronautics)|canard configuration]] [[Blériot V]], was first tried on 21 March 1907,&lt;ref&gt;Elliott 2000, p. 53.&lt;/ref&gt; when Blériot limited his experiments to ground runs, which resulted in damage to the undercarriage. Two further ground trials, also damaging the aircraft, were undertaken, followed by another attempt on 5 April. The flight was only of around 6&amp;nbsp;m (20&amp;nbsp;ft), after which he cut his engine and landed, slightly damaging the undercarriage. More trials followed, the last on 19 April when, travelling at a speed of around 50 kph (30&amp;nbsp;mph), the aircraft left the ground, Blériot over-responded when the nose began to rise, and the machine hit the ground nose–first, and somersaulted. The aircraft was largely destroyed, but Blériot was, by great good fortune, unhurt. The engine of the aircraft was immediately behind his seat, and he was very lucky not to have been crushed by it.
+
+This was followed by the [[Blériot VI]], a [[tandem wing]] design, first tested on 7 July, when the aircraft failed to lift off. Blériot then enlarged the wings slightly, and on 11 July a short successful flight of around 25–30 metres (84–100&amp;nbsp;ft) was made, reaching an altitude of around 2&amp;nbsp;m (7&amp;nbsp;ft). This was Blériot's first truly successful flight. Further successful flights took place that month, and by 25 July he had managed a flight of 150&amp;nbsp;m (490&amp;nbsp;ft). On 6 August he managed to reach an altitude of 12&amp;nbsp;m (39&amp;nbsp;ft), but one of the blades of the propeller worked loose, resulting in a heavy landing which damaged the aircraft. He then fitted a 50&amp;nbsp;hp (37&amp;nbsp; kW) V-16 Antoinette engine. Tests on 17 September showed a startling improvement in performance: the aircraft quickly reached an altitude of 25&amp;nbsp;m (82&amp;nbsp;ft), when the engine suddenly cut out and the aircraft went into a spiralling nosedive. In desperation Blériot climbed out of his seat and threw himself towards the tail. The aircraft partially pulled out of the dive, and came to earth in a more or less horizontal attitude. His only injuries were some minor cuts on the face, caused by fragments of glass from his broken goggles. After this crash Blériot abandoned  the aircraft, concentrating on his next machine.
+
+This, the [[Blériot VII]], was a monoplane with tail surfaces arranged in what has become, apart from its use of differential [[Elevator (aeronautics)|elevators]] movement for lateral control, the modern conventional layout. This aircraft, which first flew on 16 November 1907, has been recognised as the first successful monoplane.&lt;ref name="Gibbs-Smith 1953 p.239"/&gt;&lt;ref&gt;Sanger 2008, pp. 6–8.&lt;/ref&gt; On 6 December Blériot managed two flights of over 500 metres, including a successful U-turn. This was the most impressive achievement to date of any of the French pioneer aviators, causing [[Patrick Young Alexander|Patrick Alexander]] to write to Major [[Baden Baden-Powell]], president of the Royal Aeronautical Society, "I got back from Paris last night. I think Blériot with his new machine is leading the way". Two more successful flights were made on 18 December, but the undercarriage collapsed after the second flight; the aircraft overturned and was wrecked. Blériot's next aircraft, the [[Blériot VIII]] was shown to the Press in February 1908. This was a failure in its first form, but after modifications it proved successful, and on 31 October 1908 he succeeded in making a cross-country flight, making a round trip from [[Toury]] to [[Arteny]] and back, a total distance of {{convert|28|km|mi|abbr=on}}. This was not the first cross-country flight by a narrow margin, since [[Henri Farman]] had flown from [[Bouy]] to [[Rheims]], the preceding day. Four days later, the aircraft was destroyed in a taxiing accident.
+
+[[File:Bleriot.jpg|thumb|right|The first Blériot XI in early 1909]]
+
+Three different aircraft were displayed at the first Paris Aero Salon, held at the end of December: the [[Blériot IX]] monoplane,  the [[Blériot X]], a three-seat pusher biplane and the [[Blériot XI]], which would go on to be his most successful model. The first two of the designs, which used Antoinette engines, never flew, possibly because at this time, Blériot severed his connection with the Antoinette company, because the company had begun to design and construct aircraft as well as engines, presenting Blériot with a conflict of interests. The Type XI was initially powered by a [[Robert Esnault-Pelterie|REP]] engine and was first flown with this engine on 18 January 1909,&lt;ref&gt;Sanger 2008, p. 125.&lt;/ref&gt; but although the aircraft flew well, after a very short time in the air, the engine began to overheat, leading Blériot to get in contact with [[Alessandro Anzani]], who had developed a successful motorcycle engine and had subsequently entered the aero-engine market. Importantly, Anzani was associated with [[Lucien Chauviere]], who had designed a sophisticated laminated walnut propeller. The combination of a reliable engine and an efficient propeller would contribute greatly to the success of the Type XI.
+
+This was shortly followed by the [[Blériot XII]], a high-wing two-seater monoplane first flown on 21 May, and for a while Blériot concentrated on flying this machine, flying it with a passenger on 2 July, and on 12 July making the world's first flight with two passengers, one of whom was Santos Dumont.&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200364.html "Three Men in an Aeroplane."] [[Flight International|''Flight'']],'' 19 June 1909.&lt;/ref&gt; A few days later the [[crankshaft]] of the [[E.N.V.]] engine broke, and Blériot resumed trials of the Type XI. On 25 June he made a flight lasting 15 minutes and 30 seconds, his longest to date, and the following day increased this personal record to over 36 minutes. At the end of July he took part in an aviation meet at Douai, where he made a flight lasting over 47 minutes in the Type XII on 3 July: the following day he flew the Type XI for 50 minutes at another meet at [[Juvisy]], and on 13 July, he made a cross-country flight of {{convert|41|km|mi|abbr=on}} from [[Etampes]] to [[Orléans]]. Blériot's determination is shown by the fact that during the flight at Douai made on 2 July part of the [[asbestos]] insulation worked loose from the exhaust pipe after 15 minutes in the air. After half an hour, one of his shoes had been burnt through and he was in considerable pain, but nevertheless continued his flight until engine failure ended the flight. Blériot suffered [[third-degree burns]], and his injuries took over two months to heal.&lt;ref&gt;Elliott 2000, p. 96.&lt;/ref&gt;
+
+On 16 June 1909, Blériot and Voisin were jointly awarded the Prix Osiris,&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200365.html "Prix Osiris awarded to Aviation."] ''[[Flight International]],'' 19 June 1909.&lt;/ref&gt; awarded by the [[Institut de France]] every three years to the Frenchman who had made the greatest contribution to science. Three days later, on 19 July, he informed the ''[[Daily Mail]]'' of his intention to make an attempt to win the [[Daily Mail aviation prizes|thousand-pound prize]] offered by the paper for a successful crossing of the [[English Channel]] in a heavier-than-air aircraft.
+
+==1909 Channel crossing==
+[[File:Bleriot pre-takeoff-25 July 1909.jpg|thumb|Starting the engine, 25 July 1909]]
+[[File:Ernest Montaut19.jpg|thumb|&lt;center&gt;Blériot crossing the Channel on 25 July 1909]]
+[[File:Louis Blériot 1909.JPG|thumb]]
+[[File:Bleriot and aeroplane.jpg|thumb|The scene shortly after Blériot's arrival]]
+The ''Daily Mail'' prize was first announced in October 1908, with a prize of £500 being offered for a flight made before the end of the year. When 1908 passed with no serious attempt being made, the prize money was doubled to £1,000 and the offer extended to the end of 1909. Like some of the other prizes offered by the paper, it was widely seen as nothing more than a way to gain cheap publicity: the Paris newspaper ''[[Le Matin (France)|Le Matin]]'' commenting that there was no chance of the prize being won.
+
+The English Channel had been crossed by an unmanned hydrogen balloon in 1784&lt;ref name="Gibbs-Smith 1953 pp.96-7"&gt;Gibbs-Smith 1953, pp. 96–97.&lt;/ref&gt; and a manned crossing by [[Jean-Pierre Blanchard]] and [[John Jeffries]] followed in 1785.&lt;ref name="Gibbs-Smith 1953 pp.96-7"/&gt;&lt;ref name=DUR080185&gt;"Balloon Intelligence." ''[[Daily Universal Register]],''Issue 8, January 1785, p. 2.&lt;/ref&gt;
+
+Blériot, who intended to fly across the Channel in his [[Blériot XI|Type XI]] monoplane, had three rivals for the prize, the most serious being [[Hubert Latham]], a French national of English extraction flying an [[Antoinette IV]] monoplane. He was favoured by both the United Kingdom and France to win. The others were [[Charles de Lambert (aviator)|Charles de Lambert]], a Russian [[Aristocracy (class)|aristocrat]] with French ancestry, and one of [[Wilbur Wright]]'s pupils, and Arthur Seymour, an Englishman who reputedly owned a [[Voisin 1907 biplane|Voisin biplane]].&lt;ref&gt;"The Cross-Channel Flight." ''The Times'' (London), Issue 39001, 2 July 1909, p. 5.&lt;/ref&gt;  De Lambert got as far as establishing a base at [[Wissant]], near Calais, but Seymour did nothing beyond submitting his entry to the ''Daily Mail''. [[Lord Northcliffe]], who had befriended Wilbur Wright during his sensational 1908 public demonstrations in France, had offered the prize hoping that Wilbur would win. Wilbur wanted to make an attempt and cabled brother Orville in the USA.  Orville, then recuperating from  serious injuries sustained in a crash, replied telling him not to make the Channel attempt until he could come to France and assist.  Also Wilbur had already amassed a fortune in prize money for  altitude and duration flights and had secured sales contracts for the Wright Flyer with the French, Italians, British and Germans; his tour in Europe was essentially complete by the summer of 1909. Both brothers saw the Channel reward of only a thousand pounds as insignificant considering the dangers of the flight.&lt;ref&gt;''The Wright Brothers: Heirs of Prometheus'' by Marvin McFarland, edited Richard P. Hallion; c.1978 by The Smithsonian Institution&lt;/ref&gt;
+
+Latham arrived in [[Calais]] in early July, and set up his base at [[Sangatte]] in the semi-derelict buildings which had been constructed for an early attempt to dig a tunnel under the Channel.  The event was the subject of great public interest; it was reported that there were 10,000 visitors at Calais and a similar crowd at [[Dover]]. The [[Marconi Company]] set up a special radio link for the occasion, with one station on [[Cap Blanc Nez]] at Sangatte and the other on the roof of the Lord Warden Hotel in Dover.&lt;ref&gt;Elliott 2000, p. 86.&lt;/ref&gt;  The crowds were in for a wait: the weather was windy, and Latham  did not make an attempt until 19&amp;nbsp;July, but {{convert|6|mi|km}} from his destination his aircraft developed engine trouble and was forced to make the world's first [[Water landing#In distress|landing of an aircraft on the sea]]. Latham was rescued by the French destroyer ''[[Arquebuse class destroyer|Harpon]]'' and taken back to France,&lt;ref name=walsh&gt;Walsh 2007,  pp. 93-97.&lt;/ref&gt; where he was met by the news that Blériot had entered the competition. Blériot, accompanied by two mechanics and his friend [[Alfred Leblanc]], arrived in Calais on Wednesday 21 July and set up their base at a farm near the beach at Les Baraques, between Calais and Sangatte. The following day a replacement aircraft for Latham was delivered from the Antoinette factory. The wind was too strong for an attempted crossing on Friday and Saturday, but on Saturday evening it began to drop, raising hopes in both camps.
+
+Leblanc went to bed at around midnight but was too keyed up to sleep well; at two o'clock, he was up, and judging that the weather was ideal woke Blériot who, unusually, was pessimistic and had to be persuaded to eat breakfast. His spirits revived, however, and by half past three, his wife Alice had been put on board the [[Rochefortais class destroyer|destroyer ''Escopette'']], which was to escort the flight.
+
+At 4:15 am on the 25 July 1909, watched by an excited crowd, Blériot made a short trial flight in his [[Blériot XI|Type XI]], and then, on a signal that the sun had risen (the competition rules required a flight between sunrise and sunset), he took off at 4:41 for the attempted crossing.&lt;ref&gt;Elliott 2000, p. 113.&lt;/ref&gt; Flying at approximately {{convert|45|mph|km/h|abbr=on}} and an [[altitude]] of about 250&amp;nbsp;ft (76&amp;nbsp;m), he set off across the Channel. Not having a [[compass]], Blériot took his course from the ''Escopette'', which was heading for Dover, but he soon overtook the ship. The visibility deteriorated, and he later said, "for more than 10 minutes I was alone, isolated, lost in the midst of the immense sea, and I did not see anything on the horizon or a single ship".&lt;ref name = "NYTimes2"&gt;Clark, Nicola. [https://www.nytimes.com/2009/07/25/world/europe/25crossing.html "100 Years Later, Celebrating a Historic Flight in Europe."] ''[[The New York Times]],'' 24 July 2009. Retrieved: 25 July 2009.&lt;/ref&gt;
+
+The grey line of the English coast, however, came into sight on his left; the wind had increased, and had blown him to the east of his intended course. Altering course, he followed the line of the coast about a mile offshore until he spotted Charles Fontaine, the correspondent from ''[[Le Matin (France)|Le Matin]]'' waving a large [[Flag of France|Tricolour]] as a signal. Unlike Latham, Blériot had not visited Dover to find a suitable spot to land, and the choice had been made by Fontaine, who had selected a patch of gently sloping land called Northfall Meadow, close to [[Dover Castle]], where there was a low point in the cliffs. Once over land, he circled twice to lose height, and cut his engine at an altitude of about {{convert|20|m|ft|abbr=on}}, making a heavy "pancake" landing due to the gusty wind conditions; the undercarriage was damaged and one blade of the propeller was shattered, but Blériot was unhurt. The flight had taken 36 minutes and 30 seconds.
+
+News of his departure had been sent by radio to Dover, but it was generally expected that he would attempt to land on the beach to the west of the town. The ''Daily Mail'' correspondent, realising that Blériot had landed near the castle, set off at speed in a motor car and took Blériot to the harbour, where he was reunited with his wife. The couple, surrounded by a cheering crowd and photographers, were then taken to the Lord Warden Hotel at the foot of the Admiralty Pier; Blériot had become a celebrity.
+
+The ''Blériot Memorial'', the outline of the aircraft laid out in [[Sett (paving)|granite setts]] in the turf (funded by oil manufacturer [[Alexander Duckham]]),&lt;ref name="Hellfire"&gt;{{cite web|title=Dover, Louis Blériot and the Royal Flying Corps|url=http://www.hellfirecorner.co.uk/bleriot.htm|website=Hellfire Corner|accessdate=18 June 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160316142926/http://www.hellfirecorner.co.uk/bleriot.htm|archivedate=16 March 2016|df=}}&lt;/ref&gt; marks his landing spot above the cliffs near [[Dover Castle]]. {{coord|51.1312|1.326}}.
+
+The aircraft which was used in the crossing is now preserved in the [[Musée des Arts et Métiers]] in Paris.
+
+==Later life==
+Blériot's success brought about an immediate transformation of the status of ''Recherches Aéronautiques Louis Blériot.'' By the time of the Channel flight, he had spent at least 780,000 francs on his aviation experiments.&lt;ref&gt;Elliott 2000, p. 140.&lt;/ref&gt; (To put this figure into context, one of Blériot's skilled mechanics was paid 250 francs a month.)  Now this investment began to pay off: orders for copies of the Type XI quickly came, and by the end of the year, orders for over 100 aircraft had been received, each selling for 10,000 francs.
+
+At the end of August, Blériot was one of the flyers at the [[Grande Semaine d'Aviation]] held at Reims, where he was narrowly beaten by [[Glenn Curtiss]] in the first [[Gordon Bennett Trophy (aeroplanes)|Gordon Bennett Trophy]]. Blériot did, however, succeed in winning the prize for the fastest lap of the circuit, establishing a new world speed record for aircraft.
+
+Blériot followed his flights at Reims with appearances at other aviation meetings in [[Brescia]], [[Budapest]], [[Bucharest]] in 1909 (making the first airplane flights in both [[Hungary]] and [[Romania]]). Up to this time he had had great good luck in walking away from accidents that had destroyed the aircraft, but his luck deserted him in December 1910 at an aviation meeting in [[Istanbul]]. Flying in gusty conditions to placate an impatient and restive crowd, he crashed on top of a house, breaking several ribs and suffering internal injuries: he was hospitalized for three weeks.&lt;ref&gt;Elliott 2000, p. 165.&lt;/ref&gt;
+   
+Between 1909 and the outbreak of [[World War I]] in 1914, Blériot produced about 900 aircraft, most of them variations of the Type XI model.&lt;ref&gt;Elliott 2000, p. 173.&lt;/ref&gt; Blériot monoplanes and [[Voisin]]-type biplanes, with the latter's [[Farman]] derivatives dominated the pre-war aviation market.&lt;ref&gt;Gibbs-Smith 1953, p. 255.&lt;/ref&gt; There were concerns about the safety of monoplanes in general, both in France and the UK. The French government grounded all monoplanes in the French Army from February 1912 after accidents to four Blériots, but lifted it after trials in May supported Blériot's analysis of the problem and led to a strengthening of the [[landing wires]]. The brief but influential ban on the use of monoplanes by the Military Wing (though not the Naval Wing) in the UK was triggered by accidents to other manufacturer's aircraft; Blériots were not involved.&lt;ref name="Sanger 2008 pp.92-3"/&gt;
+
+Along with five other European aircraft builders, from 1910, Blériot was involved in a five-year legal struggle with the [[Wright Brothers]] over the latter's wing warping patents. The Wrights' claim was dismissed in the French and the German courts.&lt;ref&gt;Mackersey 2003, p. 440.&lt;/ref&gt;
+
+From 1913 or earlier,&lt;ref&gt;Janes 1913{{page needed|date=May 2012}}&lt;/ref&gt; Blériot's aviation activities were handled by [[Blériot Aéronautique]], based at [[Suresnes]], which continued to design and produce aircraft up to the nationalisation of most of the French aircraft industry in 1937, when it was absorbed into [[SNCASO]].&lt;ref&gt;''Jane's All the World's Aircraft 1938''{{page needed|date=April 2012}}&lt;/ref&gt;&lt;ref&gt;Taylor 1989, pp. 161–165.&lt;/ref&gt;
+
+In 1913, a consortium led by Blériot bought the [[Société Pour L'Aviation et ses Dérivés|Société pour les Appareils Deperdussin]] aircraft manufacturer and he became the president of the company in 1914. He renamed it the [[Société Pour L'Aviation et ses Dérivés]] (SPAD); this company produced [[World War I]] fighter aircraft such as the [[SPAD S.XIII]].
+
+[[File:Sem Bleriot.jpg|thumb|right|Caricature of Louis Blériot by [[Sem (artist)|Sem]] (1910)]]
+Before [[World War I]], Blériot had opened British [[flying school]]s at [[Brooklands]], in [[Surrey]] and at [[Hendon]] [[Aerodrome]].&lt;ref&gt;Sanger 2008, p. 16.&lt;/ref&gt; Realising that a British company would have more chance to sell his models to the British government, in 1915, he set up the Blériot Manufacturing Aircraft Company Ltd. The hoped for orders did not follow, as the Blériot design was seen as outdated. Following an unresolved conflict over control of the company, it was wound up on 24 July 1916.&lt;ref&gt;Sanger 2008, pp. 22–25.&lt;/ref&gt; Even before the closure of this company Blériot was planning a new venture in the UK. Initially named Blériot and SPAD Ltd and based in [[Addlestone]], it became the [[Air Navigation and Engineering Company]] (ANEC) in May 1918. ANEC survived in a difficult aviation climate until late 1926, producing [[Blériot-Whippet]] cars as well as several light aircraft.&lt;ref&gt;Sanger 2008, pp. 27–31.&lt;/ref&gt;
+
+In 1927, Blériot, long retired from flying, was present to welcome [[Charles Lindbergh]] when he landed at Le Bourget field completing his transatlantic flight. The two men, separated in age by 30 years, had each made history by crossing famous bodies of water. Together, they participated in a famous photo opportunity in Paris. Fittingly, the success of Lindbergh's crossing was as much  a success for Bleriot as he had been one of the few early pilots to have fostered and championed the [[monoplane]] design in the [[Pioneer aviator|pioneer era]]. Lindbergh's ''Spirit of St. Louis'' was a monoplane.
+
+In 1934, Blériot visited [[Newark Liberty International Airport|Newark Airport]] in [[New Jersey]] and predicted commercial overseas flights by 1938.&lt;ref&gt;[https://www.nytimes.com/1934/10/17/archives/inspects-newark-airport-louis-bleriot-predicts-oversea-service.html "Inspects Newark Airport: Louis Blériot Predicts Oversea Service Within Four Years."] ''[[The New York Times]],'' 17 October 1934. Retrieved: 26 July 2009.&lt;/ref&gt;
+
+==Death==
+Blériot remained active in the aviation business until his death on 1 August 1936 in [[Paris|Paris due]] to a [[heart attack]]. After a funeral with full military honours at [[Les Invalides]] he was buried in the [[Cimetière des Gonards]] in [[Versailles, Yvelines|Versailles]].
+&lt;ref&gt;Elliott 2000 pp. 238–239.&lt;/ref&gt;
+
+==Legacy==
+In his honor, the [[Fédération Aéronautique Internationale]] established the "[[List of Louis Blériot medal winners|Louis Blériot medal]]" in 1936. The medal may be awarded up to three times a year to record setters in speed, altitude and distance categories in light aircraft, and is still being awarded.&lt;ref&gt;[http://www.fai.org/awards/award.asp?id=3 "Louis Blériot medal winner listing."] {{webarchive|url=https://web.archive.org/web/20090108155349/http://www.fai.org/awards/award.asp?id=3 |date=2009-01-08 }} ''FAI.''&lt;/ref&gt;
+
+In 1967, Blériot was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+On 25 July 2009, the centenary of the original Channel crossing, Frenchman Edmond Salis took off from [[Sangatte|Blériot Beach]] in an exact replica of Blériot's monoplane. He landed successfully in Kent at the [[Duke of York's Royal Military School]].&lt;ref&gt;[http://news.bbc.co.uk/2/hi/uk_news/8165110.stm "Pilot recreates Channel crossing."] ''BBC,'' 25 July 2009. Retrieved: 24 April 2012.&lt;/ref&gt;
+
+==In popular culture==
+*In 2002, the English train company [[Virgin Trains]] introduced a new type of train called [[British Rail Class 221]]. One of these trains (number 221 101) was named Louis Blériot.&lt;ref&gt;[http://www.nwrail.org.uk/c221.htm Class 221 101 "Louis Blériot."] ''nwrail.org.'' Retrieved: 24 April 2012.&lt;/ref&gt;
+*In 2006, [[Rivendell Bicycle Works]] introduced a bicycle model named the "Blériot 650B" as a tribute to Blériot. It features his portrait on the seat tube.&lt;ref&gt;Edgar, Jim. [http://www.cyclofiend.com/rbw/bleriot/index.html "Rivendell Blériot."] ''cyclofiend.com,'' 2009. Retrieved: 24 April 2012.&lt;/ref&gt;
+*A [[propeller moonlet|propeller]] [[moonlet]] in the [[rings of Saturn]] was nicknamed [[Bleriot (moonlet)|Bleriot]] by imaging scientists.&lt;ref name=cass&gt;{{cite web|author1=NASA|author2=Jet Propulsion Laboratory|author3=Space Science Institute|authorlink1=NASA|authorlink2=Jet Propulsion Laboratory|authorlink3=Space Science Institute|title=Tracking a Propeller (NASA Cassini Saturn Mission Images)|url=http://www.ciclops.org/view.php?id=6442|website=CICLOPS - Official Source of Cassini images of Saturn, its rings &amp; moons|accessdate=June 15, 2014|date=July 8, 2010|quote=NASA's Cassini spacecraft captured a propeller-shaped disturbance in one of Saturn's rings created by a moon that is too small to be seen here.  The moon...is larger than many other "propeller" moons and has cleared ring material from the dark wing-like structures to its left and right in the image. Disturbed ring material closer to the moon reflects sunlight brightly and appears like a white airplane propeller. This propeller appears in the A ring, which is the outermost of Saturn's main rings.  Taken in 2006, this image is part of growing catalogue of "propeller" moons that, despite being too small to be seen, enhance their visibility by creating larger disturbances in the surrounding fabric of Saturn's rings...   Imaging scientists nicknamed the propeller shown here "Bleriot" after a French aviator named Louis Bleriot.}}&lt;/ref&gt;
+*A [[KLM]] [[Boeing]] 747-206 PH-BUK was named Louis Blériot. It is on display at the [[Aviodrome]] at [[Lelystad Airport]], and has been fitted with an aircraft beacon due to being displayed outdoors.{{citation needed|date=June 2016}}
+*The 1909 Channel crossing is briefly seen in the 1933 film ''[[Cavalcade (1933 film)|Cavalcade]]''.
+
+==See also==
+*[[Blériot Aéronautique]]
+*[[Early flying machines]]
+*[[List of firsts in aviation]]
+
+==References==
+
+===Notes===
+{{Reflist|group=Note}}
+
+===Citations===
+{{Reflist|2}}
+
+===Bibliography===
+{{Refbegin}}
+* Elliot, B.A. ''Blériot: Herald of an Age''. Stroud&lt; UK: Tempus, 2000. {{ISBN|0-7524-1739-8}}.
+* Gibbs-Smith, C.H. ''A History of Flying''. London: Batsford, 1953.
+* Grey, C.G. ''Jane's All the World's Aircraft 1938''. London: David &amp; Charles, 1972. {{ISBN|0-7153-5734-4}}.
+* Jane, F. T. ''Jane's All the World's Aircraft 1913''. Newton Abbot, UK: David &amp; Charles, 1969.
+* Mackersey, Ian. ''The Wright Brothers: The Remarkable Story of the Aviation Pioneers who Changed the World''. London: Little, Brown, 2003. {{ISBN|0-316-86144-8}}.
+* Sanger, R. ''Blériot in Britain''. Tonbridge, Kent, UK: Air Britain (Historians) Ltd., 2008. {{ISBN|978-0-85130-399-4}}.
+* Taylor, M. J. ''Jane's Encyclopedia of Aviation''. New York: Portland House, 1989. {{ISBN|0-517-69186-8}}.
+* Walsh, Barbara. ''Forgotten Aviator, Hubert Latham: A High-flying Gentleman.'' Stroud, UK: The History Press, 2007. {{ISBN|978-0-7524-4318-8}}.
+{{Refend}}
+
+== External links ==
+{{Commons category|Louis Blériot}}
+* [http://www.centennialofflight.net/essay/Dictionary/Bleriot/DI11.htm US Centennial of Flight Commission: Louis Blériot]
+* [http://www.ctie.monash.edu.au/hargrave/bleriot.html Louis Charles-Joseph Blériot flight and plane information (photos and videos)]
+* [https://www.pbs.org/wgbh/nova/bleriot/ A Daring Flight] - Homepage to the [[NOVA (TV series)|NOVA]] TV episode
+* {{YouTube|tJErvYHZ0uk|1909 Blériot XI}}
+* [https://www.panoramio.com/photo/30006181 Louis Blériot Memorial Behind Dover Castle UK]
+* [http://www.luminous-lint.com/app/image/19159297242031979052/ Louis Blériot and wife at House of Commons, after Channel crossing (by [[John Benjamin Stone]])]
+* [http://www.itnsource.com/shotlist//BHC_RTV/1929/01/01/BGT407141060/ View footage of Blériot's flight in 1909]
+* [https://books.google.com/books?id=wN8DAAAAMBAJ&amp;pg=PA573&amp;dq=Popular+Science+1935+plane+%22Popular+Mechanics%22&amp;hl=en&amp;ei=aJgvTv3XKdSgsQLVyIRv&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=9&amp;sqi=2&amp;ved=0CEkQ6AEwCA#v=onepage&amp;q&amp;f=true "Seadromes! Says Blériot," ''Popular Mechanics'', October 1935, one of the last interviews given by Blériot before his death.]
+*[http://net.lib.byu.edu/estu/wwi/memoir/Herrick/images/MTH15.jpg Bleriot] (center), in 1927, with [[Charles Lindbergh]] and [[Myron T. Herrick]]
+* {{PM20|FID=pe/001884}}
+
+{{Louis Blériot aircraft}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bleriot, Louis}}
+[[Category:1872 births]]
+[[Category:1936 deaths]]
+[[Category:People from Cambrai]]
+[[Category:École Centrale Paris alumni]]
+[[Category:Aviation history of France]]
+[[Category:Aviation pioneers]]
+[[Category:French aviators]]
+[[Category:Members of the Early Birds of Aviation]]
+[[Category:French aerospace engineers]]
+[[Category:Commandeurs of the Légion d'honneur]]
+[[Category:French aviation record holders]]</text>
+      <sha1>gtn3wmfy6jc4y3ckllq6uiovusgjy5d</sha1>
+    </revision>
+  </page>
+</mediawiki>

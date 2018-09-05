@@ -1,0 +1,192 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mitch Clem</title>
+    <ns>0</ns>
+    <id>1644846</id>
+    <revision>
+      <id>841137895</id>
+      <parentid>817778212</parentid>
+      <timestamp>2018-05-14T06:52:51Z</timestamp>
+      <contributor>
+        <username>DeprecatedFixerBot</username>
+        <id>33330201</id>
+      </contributor>
+      <minor/>
+      <comment>Removed deprecated parameter(s) from [[Template:Div col]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of "cols" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14499">{{Infobox person
+| name        = Mitch Andrew Clem
+| image       =
+| image_size  =
+| caption     =
+| birth_date  = {{Birth date and age|1982|9|15|mf=y}}
+| birth_place = [[Minneapolis|Minneapolis, Minnesota]]
+| death_date  =
+| death_place =
+| occupation  = [[Cartoonist]]
+| spouse      =
+| parents     =
+| children    =
+}}
+'''Mitch Andrew Clem''' (born  September 15, 1982) is an [[United States|American]] [[cartoonist]] best known for his [[web comics]] ''[[Nothing Nice To Say]]'', ''San Antonio Rock City'', and ''My Stupid Life''.&lt;ref name=mpr&gt;{{cite news |first=Tim |last=Post |authorlink= |title=The world's first online punk cartoon. |url=http://news.minnesota.publicradio.org/features/2003/03/14_postt_punkcartoon |quote= |publisher=[[Minnesota Public Radio]] |date=March 14, 2003 |accessdate=2007-10-31 }}&lt;/ref&gt;
+
+==Biography==
+
+=== Early life===
+
+Clem was born in [[Minneapolis, Minnesota|Minneapolis]], on September 15, 1982.  He moved around through various locations in [[Minnesota]], including [[Coon Rapids, Minnesota|Coon Rapids]], [[Brooklyn Park, Minnesota|Brooklyn Park]], [[Andover, Minnesota|Andover]], [[Melrose, Minnesota|Melrose]], [[Duluth, Minnesota|Duluth]], and [[St. Cloud, Minnesota|St. Cloud]].  He says that this is a result of his "rampant inability to sit still for more than six months at a time."&lt;ref name="early"&gt;{{cite web |url= http://www.barrettslament.com/about.php |title= About |accessdate=2006-11-30 |last= Clem |first= Mitch |authorlink= |author2=Lind, Matt |format= |work= [http://www.barrettslament.com/ Barrett's Lament] |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20040215035101/http://www.barrettslament.com/about.php|archivedate=2004-02-15|dead-url= yes |quote= }}&lt;/ref&gt;
+
+Clem became interested in [[comic strips]] as a child, reading the newspaper strips.  He cites ''[[Calvin and Hobbes]]'' and ''[[The Far Side]]'' as the most influential on him in those days. He also credits ''[[Looney Tunes]]'' as being a childhood influence on his interest in cartooning.&lt;ref name="early"/&gt;&lt;ref name="zine" /&gt;
+
+In the later part of [[elementary school]], he began developing an interest in [[superhero]] comics [[Batman]] and [[Flash (comics)|the Flash]]. In high school, his interest in comic books grew to include what he calls "really weird indie books," ''[[The Tick]]'', ''[[Johnny the Homicidal Maniac]]'', ''[[Sandman (Vertigo)|Sandman]]'', ''[[Milk &amp; Cheese]]'', and the crime works of [[Brian Michael Bendis]].  He had no interest in superheroes at that time, until he read ''[[Watchmen]]'', ''[[Batman: The Dark Knight Returns]]'', and ''[[Daredevil: Guardian Devil]]''.&lt;ref name="early"/&gt;&lt;/ref&gt; He is now an avid fan of [[DC Comics]] characters, which he references frequently in his blog and in his autobiographical comic, ''My Stupid Life''.
+
+===Present===
+
+In the summer of 2005, Clem moved from [[Minneapolis]] to [[San Antonio]], where he currently resides with his wife and frequent art collaborator Nation of Amanda. He works full-time as a cartoonist and freelance illustrator.&lt;ref name="zine"&gt;{{cite web |url= http://graphicnovelreporter.com/content/corporate-rock-and-comics-are-suckers-interview-mitch-clem-interview |title= Corporate Rock and Comics Are For Suckers |accessdate=2006-11-30 |last= Jones |first= William |authorlink= |date= 2009-04-09 |format= |work= |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20090614114019/http://graphicnovelreporter.com/content/corporate-rock-and-comics-are-suckers-interview-mitch-clem-interview|archivedate=2009-06-14|dead-url= yes |quote= }}&lt;/ref&gt;
+
+==Works==
+
+===Summer's Over===
+Mitch Clem's career as a cartoonist and writer first took published form in the late 1990s with his zine, ''Summer's Over'', of which he published ten issues. He put out his last issue in 2001, when he switched his focus from print to webcomics with the launch of ''[[Nothing Nice to Say]]''.&lt;ref name="zine"/&gt;
+
+===Nothing Nice to Say===
+
+{{main|Nothing Nice to Say}}
+
+On February 25, 2002, Clem first published the strip for which he is best known, ''[[Nothing Nice To Say]]'', which follows Minneapolis punks Blake and Fletcher.&lt;ref name="90spunk"&gt;{{cite web |url= http://www.mitchclem.com/nothingnice/index.php?pageNum_Recordset2=0 |title= Evolution of a 90’s Punk |accessdate=2006-11-30 |last= Clem |first= Mitch |authorlink= |date= 2002-02-25 |format= |work= [[Nothing Nice To Say]] |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20060502185342/http://www.mitchclem.com/nothingnice/index.php?pageNum_Recordset2=0|archivedate=2006-05-02|dead-url= yes |quote= }}&lt;/ref&gt;
+
+The comic has survived many hiatuses (the lengthiest lasting from August 14, 2004, to January 31, 2005)&lt;ref name="hiatus"&gt;{{cite web |url= http://www.mitchclem.com/nothingnice/203/ |title= The End. |accessdate=2004-08-14 |last= Clem |first= Mitch |authorlink= |date= 2004-08-14 |format= |work= |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20071012234310/http://www.mitchclem.com/nothingnice/203/|archivedate=2007-10-12|dead-url= yes |quote= }}&lt;/ref&gt; and much artistic evolution (probably the most drastic change being a switch from full-color to black and white comics, a decision Clem credits partially to discovering his being partially [[colorblind]]),&lt;ref name="colorblind"&gt;{{cite web |url= http://rainofbastards.livejournal.com/172819.html |title= Mitch Clem Versus the Establishment |accessdate=2008-01-17 |last= Clem |first= Mitch |authorlink= |date= 2008-01-17 |work= |publisher= |pages= |language= |quote= }}&lt;/ref&gt; but it remains, to this day, one of the longest lasting comics on the internet. The strip is updated on an arbitrary basis.
+
+[[Dark Horse Comics]] published an anthology of his Nothing Nice To Say "Volume 2" comic strip in October, 2008.
+
+===The Coffee Achievers===
+
+While working on ''Nothing Nice'', Clem also teamed up with fellow web comic artist Joe Dunn, of ''[http://www.digitalpimponline.com/strips.php?title=movie Joe Loves Crappy Movies]''.  Together they worked on the short series ''[https://web.archive.org/web/20130113063444/http://www.mitchclem.com/coffeeachievers/ The Coffee Achievers]'', which totaled nine chapters.  ''Achievers'' ran from February 1, 2005 to February 10, 2006.&lt;ref name="coffee"&gt;{{cite web |url= http://www.mitchclem.com/coffeeachievers/ |title= ''The Coffee Achievers'' |accessdate=2006-11-30 |last= Clem |first= Mitch |authorlink= |author2=Dunn, Joe |date= 2006-02-10 |format= |work= |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20130113063444/http://www.mitchclem.com/coffeeachievers/|archivedate=2013-01-13|dead-url= yes |quote= }}&lt;/ref&gt;
+
+===San Antonio Rock City===
+
+&lt;!-- Deleted image removed: [[File:San Antonio Rock City.jpg|225px|thumb|Mitch and Victoria from ''San Antonio Rock City'']] --&gt;
+On January 22, 2006, Clem launched his first [[autobiographical]] comic series ''San Antonio Rock City'', which centered on him and his then-girlfriend Victoria after moving to [[San Antonio]], [[Texas|TX]] from [[Minnesota]]. The strip generally followed a four-panel format arranged in a square with using the first for the title panel showing Clem and Victoria, parodying [[American Gothic]]. Occasionally, there are a few six-strip comics. ''San Antonio Rock City'' was his main focus for a while until he canceled it due to his split with his girlfriend Victoria.&lt;ref name="rockcity"&gt;{{cite web |url= http://www.mitchclem.com/rockcity/index.php?comic=1 |title= Bartender |accessdate=2006-11-30 |last= Clem |first= Mitch |authorlink= |date= 2006-01-22 |format= |work= [[San Antonio Rock City]] |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20061105151352/http://www.mitchclem.com/rockcity/index.php?comic=1|archivedate=2006-11-05|dead-url= yes |quote= }}&lt;/ref&gt; The entire series will be collected in the upcoming book ''My Stupid Life, Vol. 1'' from [[New Reliable Press]].
+
+===My Stupid Life===
+
+On January 16, 2008 Clem began his newest series, [https://web.archive.org/web/20080119114954/http://mitchclem.com/mystupidlife/ My Stupid Life]. As the name implies, the strip is autobiographical, in a style reminiscent of ''San Antonio Rock City''. The comic also co-stars his fiancée, Amanda ([http://nationofamanda.livejournal.com Nation of Amanda]). Amanda sometimes colors the strips in watercolors.
+
+On April 15, 2009, [http://rainofbastards.livejournal.com/220428.html Clem announced on his blog] that he would be releasing a new book, ''My Stupid Life: Volume One'', through [[New Reliable Press]] in the Fall of 2009. The book would collect the current run of My Stupid Life, as well as the complete San Antonio Rock City series, Clem's first foray into autobiographical comics
+
+===Turnstile Comix===
+
+December 2010 saw the release of the first issue of Clem's first direct-to-print comic series, Turnstile Comix. Each issue in the series would showcase one band, and would pair a comic book of true stories about the band with a 7" featuring previously unreleased songs by them. The first issue starred Minneapolis punk band The Slow Death. The second issue, released in late 2012, featured [[The World/Inferno Friendship Society]]. The third issue, released in 2014, featured Lemuria.&lt;ref&gt;https://store.silversprocket.net/products/lemuria-comic&lt;/ref&gt;&lt;ref&gt;http://www.punknews.org/article/48859/mitch-clem-details-turnstile-comix-2-with-the-worldinferno-friendship-society-exclusive&lt;/ref&gt;
+
+===As You Were===
+
+In 2013, Clem created and began curating a "punk comix anthology" zine called ''[[As You Were (punk comix anthology)|As You Were]]''. Each issue features a centralized theme, based upon which a variety of cartoonists from punk scenes all over the world would create unique comics. It is perhaps Clem's most critically acclaimed project to-date, having been praised by the likes of [[NPR]], [[USA Today]], [[Maximumrockandroll]], [[The A.V. Club]], and [[Razorcake]]. Three issues have been published as of April, 2014, and have included comics by Mitch Clem, [[Liz Prince]], [[Ben Snakepit]], [[Ramsey Beyer]], [[Liz Suburbia]], [[Cathy G. Johnson]], [[Will Laren]], and others.
+
+===Other work===
+
+Clem regularly makes concert flyers and album covers for punk rock bands. He has also made album covers for the bands [[The Ergs!]], [[Andrew WK]], The Steinways, Shang-A-Lang, [[Bomb the Music Industry!]], [[Something fierce (band)|Something Fierce]], and others. He also created the art for every record in [[Vinyl Collective| Vinyl Collective's]] ''Under the Influence'' series, featuring [[Lemuria (American band)|Lemuria]], [[Off with Their Heads (band)|Off With Their Heads]], [[Drag the River (Colorado band)|Drag the River]], [[Fake Problems]], [[These Arms Are Snakes]], and more.
+
+His artwork is commissioned regularly for ''[[Razorcake]]'' magazine and the ''[[Kansas City Pitch]]''. He also authors ''Punk Matters'', a monthly column about punk music in the ''[[San Antonio Current]]''.
+
+On June 25, 2007, Clem’s blog [http://rainofbastards.livejournal.com/ Rain of Bastards] was selected by the editors of ''[[PC World (magazine)|PC World]]'' magazine for their article [http://www.pcworld.com/article/id,133119/article.html "100 Blogs We Love,"] under the [http://www.pcworld.com/article/id,133119-page,9-c,sites/article.html "Arts and Culture"] section.&lt;ref name="pc world"&gt;{{cite web |url= http://www.pcworld.com/article/id,133119/article.html |title= 100 Blogs We Love |accessdate=2007-07-08 |last= |first= |authorlink= |date= 2005-05-15 |work= [http://www.pcworld.com/article/id,133119/article.html PC World] |publisher= |pages= |language= |quote= }}&lt;/ref&gt;
+
+==In print==
+
+===Collections===
+
+*''Nothing Nice to Say'' (2008, [[Dark Horse Comics]])
+*''My Stupid Life, Vol. 1'' (2009, [[New Reliable Press]])
+
+===Anthologies===
+
+*''You Ain't No Dancer, Vol. 2'' (2006, [[New Reliable Press]])
+*''You Ain't No Dancer, Vol. 3'' (2008, [[New Reliable Press]])
+*''Side B: The Music Lover's Comic Anthology'' (2009, [[Poseur Ink]])
+*''Myspace Dark Horse Presents'' (2009, [[Dark Horse Comics]])
+*''As You Were, Vol. 1'' (2013, [[Silver Sprocket Bicycle Club]])
+*''As You Were, Vol. 2'' (2013, [[Silver Sprocket Bicycle Club]])
+*''As You Were, Vol. 3'' (2014, [[Silver Sprocket Bicycle Club]])
+
+==References==
+{{refbegin}}
+*[http://news.minnesota.publicradio.org/features/2003/03/14_postt_punkcartoon/ Minnesota Public Radio] (online), ''The world's first online punk cartoon'', by Tim Post, Minnesota Public Radio, March 14, 2003
+*[http://www.pcworld.com/article/id,133119-page,9-c,sites/article.html PC World Magazine] (online) 100 Blogs We Love, By the Editors of PC World, Monday, June 25, 2007 1:00 AM PDT (retrieved 11/8/07 6:03 pdt)
+* [https://web.archive.org/web/20071022235010/http://www.stumblebumstudios.com/Archives/suckerpunch/archives-suckerpunch11.htm Stumblebum Studios], ''Interview with Mitch Clem'', by Dave Sherrill (retrieved 11-7-07)
+* [http://www.nuthousepunks.com/blog/?p=255 Rock Star Journalist], ''Mitch Clem interview'', September 18, 2006
+* [http://muse-magazine.com/main/article/305 Muse magazine]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, ''An Interview with Mitch Clem'',  06/10/2003
+*[https://web.archive.org/web/20071030234300/http://comixtalk.com/node/7289 comixtalk.com], '' Mitch Clem Has A Lot To Say'', by Al Schroeder, March 2006 Issue
+{{refend}}
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+{{div col|colwidth=30em}}
+* [http://www.mitchclem.com/ MitchClem.com]
+* [http://rainofbastards.livejournal.com/ Mitch Clem's Art Blog]
+* [http://www.myspace.com/mitchclem/ Mitch Clem's MySpace]
+* ''[https://web.archive.org/web/20060925225705/http://www.mitchclem.com/nothingnice/ Nothing Nice To Say]''
+* ''[https://web.archive.org/web/20080119114954/http://mitchclem.com/mystupidlife/ My Stupid Life]''
+* ''[https://web.archive.org/web/20060901214801/http://mitchclem.com/rockcity/ San Antonio Rock City]''
+* ''[https://web.archive.org/web/20061128095140/http://www.mitchclem.com/kittens/ Kittens! The Comic]''
+* ''[https://web.archive.org/web/20130113063444/http://www.mitchclem.com/coffeeachievers/ The Coffee Achievers]''
+{{div col end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clem, Mitch}}
+[[Category:American atheists]]
+[[Category:American comics artists]]
+[[Category:Artists from Minneapolis]]
+[[Category:American webcomic creators]]
+[[Category:Living people]]
+[[Category:1982 births]]
+[[Category:People from San Antonio]]</text>
+      <sha1>13ajiba6esanbs48dj4npyqnu51pxmw</sha1>
+    </revision>
+  </page>
+</mediawiki>

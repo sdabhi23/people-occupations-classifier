@@ -1,0 +1,690 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rob Huebel</title>
+    <ns>0</ns>
+    <id>2296618</id>
+    <revision>
+      <id>848073996</id>
+      <parentid>848073716</parentid>
+      <timestamp>2018-06-29T16:36:12Z</timestamp>
+      <contributor>
+        <username>GrahamHardy</username>
+        <id>2956291</id>
+      </contributor>
+      <comment>Undid revision 848073716 by [[Special:Contributions/GrahamHardy|GrahamHardy]] ([[User talk:GrahamHardy|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16487">{{Infobox person
+| name = Rob Huebel
+| image = Rob Huebel CCI2012.JPG
+| image_size = 250px
+| caption = Huebel in July 2012
+| birth_name= Robert Anderson Huebel
+| birth_date = {{birth date and age|1969|6|4}}
+| birth_place = [[Alexandria, Virginia]], U.S.
+| occupation = Actor, comedian, writer
+| yearsactive = 1998–present
+| children   = 1
+| website = {{url|http://www.robhuebel.com/}}
+}}
+
+'''Robert Anderson Huebel'''&lt;ref&gt;{{cite web|url=http://www.clemson.edu/clemsonworld/profiles/07summer/hueble.html|title=Clemson World Magazine|work=Clemson World Magazine|accessdate=7 July 2015}}&lt;/ref&gt; (born June 4, 1969) is an [[United States|American]] actor, comedian and writer best known for his [[sketch comedy]] work on the MTV series ''[[Human Giant]]'' and for his role of Dr. Owen Maestro on the [[Adult Swim]] series ''[[Childrens Hospital (TV Series)|Childrens Hospital]]''. He currently stars as Len Novak on the [[Amazon Studios|Amazon]] series ''[[Transparent (TV series)|Transparent]]''.
+
+==Early life==
+Huebel was born in [[Alexandria, Virginia]], the son of Louisa and Jared Huebel.&lt;ref&gt;{{cite web|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=CS&amp;s_site=thestate&amp;p_multi=CS&amp;p_theme=realcities&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=1184809001BA46A8&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM|title=State: Search Results|website=nl.newsbank.com |accessdate=7 July 2015}}&lt;/ref&gt; He attended [[Annandale High School]] in [[Annandale, Virginia]] before attending [[Clemson University]] in South Carolina where he studied Marketing in hopes of working in advertising.&lt;ref name="improvinterviews.com"&gt;{{cite web
+| url        = http://www.improvinterviews.com/2006/11/rob-huebel-52306-part-1.html
+| archiveurl = https://web.archive.org/web/20070523074833/http://www.improvinterviews.com/2006/11/rob-huebel-52306-part-1.html
+| archivedate= {{date|23 may 2007}}
+| deadurl    = yes
+| title      = Rob Huebel 5/23/06 Part 1
+| work       = Improv Interviews
+| date       = {{date|15 nov 2006}}
+| accessdate = {{date|16 jun 2016}}
+}}&lt;/ref&gt;  He later moved to New York and began studying improv comedy at the [[Upright Citizens Brigade Theater]].&lt;ref&gt;[http://losangeles.ucbtheatre.com/performers/900 Rob Huebel's Upright Citizens Brigade Theater Profile]&lt;/ref&gt;
+
+==Career==
+{{refimprove|date=September 2017}}
+Huebel first began improvising when he was 27 by taking classes at the [[Upright Citizens Brigade Theatre]] in [[New York City]].&lt;ref name="improvinterviews.com"/&gt;
+
+His early work was as a sketch actor on shows such as  ''[[Late Night with Conan O'Brien]]'' and ''[[Upright Citizens Brigade]]''. He was nominated for an [[Emmy]] award for his work as a producer for [[Michael Moore]]'s Bravo series ''[[The Awful Truth (TV series)|The Awful Truth]]''. He worked as a segment producer on ''[[The Daily Show with Jon Stewart]]''.{{cn|date=November 2017}}
+
+Huebel was a panelist on the [[VH1]] series ''[[Best Week Ever]]'', part of the [[NetZero]] "Candidate Zero" campaign during the 2004 election. He was known for the "Inconsiderate Cell Phone Man" character, shown at movie theatres before showtime. He also appeared on the [[HBO]] television series ''[[Curb Your Enthusiasm]]'', as well as Fox's ''[[Arrested Development (TV series)|Arrested Development]]''. 
+
+The comedy partner of [[Rob Riggle]], the duo have worked with the [[improvisational comedy]] troupe [[Respecto Montalban]] and at the [[Upright Citizens Brigade]]. Huebel and Riggle performed a comedy bit in the documentary ''[[Super High Me]]''. Among their best known work at UCB was their long-running two-man show ''Kung-Fu Grip'', which was eventually showcased at the 2004 HBO Comedy Arts Festival. Huebel was in the movie ''[[Blackballed: The Bobby Dukes Story]]'', as Sam Brown with Corddry, Scheer, and Riggle.{{cn|date=November 2017}}
+
+Huebel and fellow comedians [[Aziz Ansari]] and [[Paul Scheer]] are writers, actors, and executive producers in the [[MTV]] sketch comedy show ''[[Human Giant]]''.  Some of Huebel's characters from the show include Samir from  "The Shutterbugs" and T.C. Everwood from "Clell Tickle". He guest starred in the ''[[30 Rock]]'' episode "[[MILF Island]]", and also as Holly's boyfriend A.J. in three episodes of ''[[The Office (U.S. TV series)|The Office]]''. He played the role of 'Tevin' in the 2009 comedy ''[[I Love You, Man]]''. He also co-starred with [[Rob Corddry]] in ''[[Childrens Hospital (TV Series)|Childrens Hospital]]''.
+
+Huebel continues to regularly perform at the [[Upright Citizens Brigade Theatre]] in Los Angeles. He currently co-hosts the live sketch show "Crash Test" with [[Paul Scheer]] twice a month, as well as hosting "The Shit Show", in which he gathers comedian friends and other well-known performers to present the worst scenes in films, television and commercials that they have ever done.{{cn|date=November 2017}}
+
+Huebel has written and starred in various filmed sketches for the [[HBO]] sketch comedy program ''[[Funny or Die Presents]]''. In November 2010, Huebel performed stand-up on ''[[The Benson Interruption]]'' on [[Comedy Central]].
+
+Huebel appeared in the films ''[[The Other Guys]]'' (2010), ''[[Life as We Know It (film)|Life as We Know It]]'', ''[[Little Fockers]]'', ''[[Despicable Me]]'', and ''[[The Descendants]]''. In February 2011, Huebel was cast as a lead in the [[Fox Broadcasting Company|Fox]] sitcom pilot ''Family Album'' and in May he guest starred on [[American Broadcasting Company|ABC]]'s sitcom, ''[[Modern Family]] ''as Glen Whipple in the episode "[[The One That Got Away (Modern Family)|The One That Got Away]]". He also appeared as a semi-regular castmember on [[Amazon Studios]]'s ''[[Transparent (TV series)|Transparent]]'', playing Len Novak.{{cn|date=November 2017}}
+
+Huebel appears frequently on the comedy podcast ''[[Comedy Bang! Bang!]]''&lt;ref&gt;{{cite web|url=http://www.earwolf.com/person/rob-huebel|title=Rob Huebel on Earwolf|publisher=|accessdate=7 July 2015}}&lt;/ref&gt; along with starring in his own podcast series on the [[Earwolf]] network, ''Mike Detective''.&lt;ref&gt;{{cite web|url=http://www.earwolf.com/show/mike-detective|title=Mike Detective|publisher=|accessdate=7 July 2015}}&lt;/ref&gt; He later appeared in ''[[Horrible Bosses 2]]'' (2014) and ''[[Barely Lethal]]'' (2015).
+
+==Personal life==
+Huebel is married; his daughter was born in 2016.&lt;ref&gt;{{Cite web|url=https://www.instagram.com/p/BM7MubQgzvu/?taken-by=robhuebel&amp;hl=en|title=Instagram post by Rob Huebel • Nov 17, 2016 at 8:39pm UTC|website=Instagram|language=en|access-date=2017-02-25}}&lt;/ref&gt;
+
+==Filmography==
+
+===Film===
+{| class = "wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class = "unsortable" | Notes
+|-
+| 2002
+|''[[Bowling for Columbine]]''
+| Corporate Criminal
+| Uncredited
+|-
+| 2004
+|''[[Blackballed: The Bobby Dukes Story]]''
+| Sam Brown
+|
+|-
+| 2004
+|''Terrorists''
+| Town Council Member
+|
+|-
+| 2007
+|''[[Norbit]]''
+| Excited Man on TV
+|
+|-
+| 2007
+|''7-10 Split''
+| Jerry Lowry
+|
+|-
+| 2008
+|''[[The Love Guru]]''
+| Frat Guy
+|
+|-
+| 2009
+|''[[I Love You, Man]]''
+| Tevin Downey
+|
+|-
+| 2010
+|''[[Despicable Me]]''
+| Anchorman (voice)
+|
+|-
+| 2010
+|''[[The Other Guys]]''
+| Officer Watts
+|
+|-
+| 2010
+|''[[Life as We Know It (film)|Life as We Know It]]''
+| Ted
+|
+|-
+| 2010
+|''[[Despicable Me (franchise)#Orientation Day .282010.29|Orientation Day]]''
+| Announcer (voice)
+| Short film
+|-
+| 2010
+|''[[Little Fockers]]''
+| Sleazy Doctor
+| 
+|-
+| 2011
+|''[[Flypaper (2011 film)|Flypaper]]''
+| Rex Newbauer
+| 
+|-
+| 2011
+|''[[Natural Selection (2011 film)|Natural Selection]]''
+| Martin
+| 
+|-
+| 2011
+|''[[The Descendants]]''
+| Mark Mitchell
+| 
+|-
+| 2012
+|''[[Celeste &amp; Jesse Forever]]''
+| Business Man
+| 
+|-
+| 2012
+|''[[What To Expect When You're Expecting]]''
+| Gabe
+| 
+|-
+| 2012
+|''[[Seeking a Friend for the End of the World]]''
+| Jeremy
+| 
+|-
+| 2012
+|''It's Not You It's Me''
+| Detective Archer
+| Short film
+|-
+| 2013
+|''[[Hell Baby]]''
+| Mickey
+| 
+|-
+| 2013
+|''[[Welcome to the Jungle (2013 film)|Welcome To The Jungle]]''
+| Phil
+| 
+|-
+| 2013
+|''[[Rapture-Palooza]]'' 
+| Morgan
+| 
+|-
+| 2014
+|''[[Date and Switch]]''
+| Pete
+| 
+|-
+| 2014
+|''[[Horrible Bosses 2]]''
+| Pinkberry Executive
+| 
+|-
+| 2014
+|''A Better You''
+| Coach
+| 
+|-
+| 2015
+|''[[Barely Lethal]]''
+| Mr. Marcus
+| 
+|-
+| 2015
+|''[[Night Owls (2015 film)|Night Owls]]''
+| Peter
+| 
+|-
+| 2016
+|''[[Donald Trump's The Art of the Deal: The Movie]]''
+| Le Club Boss
+| 
+|-
+| 2016
+|''[[Miss Stevens]]''
+| Walter
+| 
+|-
+| 2016
+|''[[Keanu (film)|Keanu]]''
+| Spencer
+| 
+|-
+| 2016
+|''Cuddle Party''
+| Drew
+| Short film
+|-
+| 2017
+|''[[Fun Mom Dinner]]''
+| Andrew
+| 
+|-
+| 2017
+|''[[How to Be a Latin Lover]]''
+| Nick
+| 
+|-
+| 2017
+|''[[Baywatch (film)|Baywatch]]''
+| Captain Thorpe
+| 
+|-
+| 2017
+|''[[Izzy Gets the F*ck Across Town]]''
+| Roger
+| 
+|-
+| 2017
+|''[[The House (2017 film)|The House]]''
+| Officer Chandler
+|
+|}
+
+===Television===
+{| class = "wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class = "unsortable" | Notes
+|-
+| 1998–1999
+|''[[Upright Citizens Brigade]]''
+| Various characters
+| 3 episodes
+|-
+| 2000
+|''[[The Awful Truth (TV series)|The Awful Truth]]''
+| 
+| Producer; 12 episodes
+|-
+| 2000–2001
+|''[[The Daily Show]]''
+| 
+| Field producer; 4 episodes
+|-
+| 2004
+|''[[McEnroe (TV series)|McEnroe]]''
+| Various characters
+| 22 episodes
+|-
+| 2005
+|''[[Arrested Development (TV series)|Arrested Development]]''
+| Dave Williams
+| Episode: "Righteous Brothers"
+|-
+| 2005
+|''[[The Showbiz Show with David Spade]]''
+| Correspondent
+| 
+|-
+| 2005
+|''[[Curb Your Enthusiasm]]''
+| Dr. Mark
+| 2 episodes
+|-
+| 2007
+|''[[Fat Guy Stuck In Internet]]''
+| Morgan
+| 2 episodes
+|-
+| 2007–2008
+|''[[Human Giant]]''
+| Rob / Various characters
+| 20 episodes; also creator, writer, and executive producer
+|-
+| 2008
+|''[[30 Rock]]''
+| MILF Island Host
+| Episode: "[[MILF Island]]"
+|-
+| 2008–2016
+|''[[Childrens Hospital]]''
+| Dr. Owen Maestro
+| 79 episodes; also writer
+|-
+| 2009
+|''[[Reno 911!]]''
+| HMO Advisor #1 / Resort Salesman #2 / Financial Advisor #1
+| 3 episodes
+|-
+| 2009
+|''[[Michael &amp; Michael Have Issues]]''
+| Jeff
+| Episode: "Frogbox"
+|-
+| 2009
+|''[[Gary Unmarried]]''
+| Howard Needleman
+| 3 episodes
+|-
+| 2009–2010
+|''[[The Office (U.S. TV series)|The Office]]''
+| A.J.
+| 3 episodes
+|-
+| 2009–2015
+|''[[The League]]''
+| Russell / Dr. Deramo
+| 10 episodes
+|-
+| 2009–2016
+|''[[American Dad!]]''
+| Dylan (voice)
+| Episode: "Anchorfran" 
+|-
+| 2010
+|''[[Players (2010 TV series)|Players]]''
+| Todd
+| Episode: "Barb's Husband"
+|-
+| 2010
+|''[[Party Down]]''
+| Mr. Dauntless
+| Episode: "Not on Your Wife Opening Night"
+|-
+| 2010
+|''[[Nick Swardson's Pretend Time|Pretend Time]]''
+| Bill
+| Episode: "Powdered Doughnuts Make Me Go Nuts"
+|-
+| 2010
+|''[[2010 MTV Movie Awards]]''
+| 
+| Writer and segment producer
+|-
+| 2010
+|''[[CollegeHumor|CollegeHumor Originals]]''
+| Brock
+| Episode: "Action Movie Pun Brainstorm"
+|-
+| 2010–2011
+|''[[Funny or Die Presents]]''
+| Various characters
+| 13 episodes; also writer and executive producer
+|-
+| 2011
+| ''[[Traffic Light (TV series)|Traffic Light]]''
+| Kev
+| 4 episodes
+|-
+| 2011
+| ''[[Happy Endings (TV series)|Happy Endings]]''
+| Alan Fitzgerald
+| Episode: "You've Got Male"
+|-
+| 2011
+| ''[[Modern Family (TV series)|Modern Family]]''
+| Glen Whipple
+| Episode: "The One That Got Away"
+|-
+| 2012
+| ''[[The Life &amp; Times of Tim]]''
+| Matt (voice)
+| Episode: "The Smug Chiropractor/Corporate Disaster"
+|-
+| 2012
+| ''[[How I Met Your Mother]]''
+| Wade Flanagan
+| Episode: "[[The Magician's Code|The Magician's Code: Part 2]]"
+|-
+| 2012
+| ''[[Up All Night (TV series)|Up All Night]]''
+| Jerry
+| 2 episodes
+|-
+| 2012
+| ''[[NTSF:SD:SUV::]]''
+| Dragon Shumway
+| 2 episodes; also writer
+|-
+| 2012
+| ''[[17th Critics' Choice Awards]]''
+| Co-host
+| Television special
+|-
+| 2012
+| ''[[Key and Peele]]''
+| Blue Falcon
+| Episode: "#2.9"
+|-
+| 2012–2016
+|''[[Bob's Burgers]]''
+| Various characters (voice)
+| 6 episodes
+|-
+| 2013
+| ''[[Burning Love (Web series)|Burning Love]]''
+| Simon
+| 20 episodes
+|-
+| 2013
+| ''[[Kroll Show]]''
+| Suicidal Rockstar
+| Episode: "Ice Dating"
+|-
+| 2013
+| ''[[Hart of Dixie]]''
+| Michael Burgess
+| Episode: "I'm Moving On"
+|-
+| 2013
+| ''[[Super Fun Night]]''
+| Peter Crane
+| Episode: "Three Men and a Boubier"
+|-
+| 2013
+| ''The ArScheerio Paul Show''
+| Ultimate Warrior
+| Episode: "Ultimate Warrior"
+|-
+| 2013–2015
+|''[[Axe Cop (TV series)|Axe Cop]]''
+| Gray Diamond (voice)
+| 16 episodes
+|-
+| 2013–2015
+|''[[Comedy Bang! Bang! (TV series)|Comedy Bang! Bang!]]''
+| Dave Grigsby / Larry Jetski
+| 2 episodes
+|-
+| 2013–2015
+|''[[Drunk History]]''
+| [[Juan Francisco Treviño]] / [[Pat Garrett]]
+| 2 episodes
+|-
+| 2014
+|''[[Agents of S.H.I.E.L.D.]]''
+| Lloyd Rathman
+| Episode: "[[The Magical Place]]"
+|-
+| 2014
+|''[[Parks and Recreation]]''
+| Harvey Spielyorm
+| Episode: "[[Galentine's Day (2014 Parks and Recreation episode)|Galentine's Day]]"
+|-
+| 2014
+|''[[Garfunkel and Oates (TV series)|Garfunkel and Oates]]''
+| Boomer (voice)
+| Episode: "The Fadeaway"
+|-
+| 2014
+|''[[The Mindy Project]]''
+| Andrew
+| 2 episodes
+|-
+| 2014
+|''[[Newsreaders (TV series)|Newsreaders]]''
+| Rob Huebel
+| Episode: "Motorboating Dads; the Negative $100,000 Question"
+|-
+| 2014–2015
+|''[[Marry Me (U.S. TV series)|Marry Me]]''
+|Wes
+| 3 episodes
+|-
+| 2014–2017
+|''[[Transparent (TV series)|Transparent]]''
+| Len Novak
+| 27 episodes
+|-
+| 2014–2017
+|''[[The Goldbergs (2013 TV series)|The Goldbergs]]''
+|John Calabasas
+| 4 episodes
+|-
+| 2015
+|''[[Archer (TV series)|Archer]]''
+|Patrick (Crash) McCaren (voice)
+|Episode: "The Archer Sanction"
+|-
+| 2015
+|''[[Last Week Tonight with John Oliver]]''
+|Dad
+|Episode: "The Internet"
+|-
+| 2015
+|''[[Wet Hot American Summer: First Day of Camp]]''
+|Brodfard Gilroy
+|Episode: "Auditions"
+|-
+| 2015
+|''Crash Test: With Rob Huebel and Paul Scheer''
+|Rob
+|TV movie; also writer
+|-
+| 2015
+|''[[The Hotwives|The Hotwives of Las Vegas]]''
+|Gynecologist
+|Episode: "Vaca-Shunned"
+|-
+| 2015
+|''[[Married (TV series)|Married]]''
+|Jacob
+|Episode: "Triggers"
+|-
+| 2016
+|''[[Fresh Off the Boat]]''
+|Rick
+|Episode: "Year of the Rat"
+|-
+| 2016
+|''[[Workaholics]]''
+|Sam
+|Episode: "The Nuttin' Professor"
+|-
+| 2016
+|''[[Family Guy]]''
+|Business Meeting Leader (voice)
+|Episode: "[[Road to India (Family Guy)|Road to India]]"
+|-
+| 2016
+|''[[Blunt Talk]]''
+|Dr. Rudy Kamper
+|2 episodes
+|-
+| 2017
+|''Drive Share''
+|Various characters
+|6 episodes; also creator, writer, director, and executive producer
+|-
+| 2017
+|''[[Hawaii Five-0 (2010 TV series)|Hawaii Five-0]]''
+|Blake Stone
+|Episode: "Poniu I Ke Aloha"
+|-
+| 2017
+|''[[Angie Tribeca]]''
+|Sperber Pennington
+|Episode: "This Sounds Unbelievable, but CSI: Miami Did It"
+|-
+| 2017
+|''[[Wet Hot American Summer: Ten Years Later]]''
+|Brodfard Gilroy
+|2 episodes
+|-
+| 2017
+|''[[The Chris Gethard Show]]''
+|Phone Sex Chewbacca
+|Episode: "Technology Will Destroy Us All"
+|-
+| 2017
+| ''[[Big Mouth (TV series)|Big Mouth]]''
+| Mr. Lizer (voice)
+| 2 episodes
+|-
+| 2017
+|''[[Do You Want To See a Dead Body?]]''
+|Himself
+|15 episodes; also creator, writer, and executive producer
+|-
+| 2017
+|''[[Brooklyn Nine-Nine]]''
+|Landon Lawson
+|Episode: "Return to Skyfire"
+|}
+
+===Web series===
+{| class="wikitable"
+!Year
+!Title
+!Role
+!Notes
+|-
+|2017
+|''[[List of Game Grumps serials#Guest Grumps|Guest Grumps]]''&lt;ref name="Grumps"&gt;{{Cite web|url=https://www.youtube.com/watch?v=DoXtYJRxplo|title=Scooby Doo Mystery Mayhem with Rob Huebel - Guest Grumps|publisher=''[[Game Grumps]]''|date=2017-11-15|accessdate=2017-11-15}}&lt;/ref&gt;
+|Himself
+|Episode: "Scooby Doo Mystery Mayhem with Rob Huebel"&lt;ref name="Grumps"/&gt;
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscategory}}
+*[http://www.robhuebel.com/ Official website]
+*{{IMDb name|1097364}}
+* [https://twitter.com/robhuebel Rob Huebel] on Twitter
+
+{{Portal bar|Biography|Comedy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Huebel, Rob}}
+[[Category:1969 births]]
+[[Category:American male comedians]]
+[[Category:American comedians]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American television producers]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:Clemson University alumni]]
+[[Category:Living people]]
+[[Category:Male actors from Alexandria, Virginia]]
+[[Category:People from Columbia, South Carolina]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:Upright Citizens Brigade Theater performers]]</text>
+      <sha1>d78wsys5xhkxmxiro9o5cokaurft7j3</sha1>
+    </revision>
+  </page>
+</mediawiki>

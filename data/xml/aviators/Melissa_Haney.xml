@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Melissa Haney</title>
+    <ns>0</ns>
+    <id>55925714</id>
+    <revision>
+      <id>841692648</id>
+      <parentid>841660926</parentid>
+      <timestamp>2018-05-17T12:39:58Z</timestamp>
+      <contributor>
+        <username>Alanna the Brave</username>
+        <id>31009856</id>
+      </contributor>
+      <comment>c.e. lead. Added infobox &amp; two images.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5361">{{Infobox person
+| name               = Melissa Haney
+| birth_date         = 1981
+| nationality        = [[Inuit]], Canadian
+| occupation         = Commercial pilot
+| known_for          = First female Inuit pilot to become captain
+| home_town          = [[Inukjuak]], Quebec
+}}
+
+'''Melissa Haney''' (born 1981) is an [[Inuit|Inuk]] pilot from [[Quebec]], Canada. She works for [[Air Inuit]], and is noted for being the first female Inuk pilot to reach the rank of captain. In 2017, the Canadian [[Ninety-Nines]] released a postage stamp in commemoration of her achievements.
+
+== Early life ==
+[[File:Inukjuak2014.jpg|left|thumb|179x179px|Haney's hometown of [[Inukjuak]], in northern [[Quebec]]]]
+Haney was born in 1981.&lt;ref name=":0"&gt;{{Cite web|url=http://canadian99s.com/melissa-haney/|title=MELISSA HANEY|website=canadian99s.com|language=en-US|access-date=2017-11-30}}&lt;/ref&gt; She spent her early years in the community of [[Inukjuak]] by [[Hudson Bay]], and as a child, Haney loved going to visit the airport.&lt;ref name=":1"&gt;{{Cite news|url=http://montreal.ctvnews.ca/first-female-inuk-airline-captain-gets-commemorative-stamp-1.3547198|title=First female Inuk airline captain gets commemorative stamp|date=2017-08-15|work=Montreal|access-date=2017-11-30|language=en-CA}}&lt;/ref&gt; Planes were an ordinary form of transportation in Haney's community, necessary for travelling to dental and medical appointments in other communities.&lt;ref name=":0" /&gt;
+
+When she was eight, Haney moved south to [[Eastern Townships]] with her mother, who was a teacher. Haney grew up in Eastern Townships, and finished a year of university at [[John Abbott College]] in [[Montreal]]. When she was 19, she heard that [[Air Inuit]] was looking for new employees. Haney decided it sounded interesting and would provide a chance to get closer to her northern childhood community again.&lt;ref name=":3"&gt;{{Cite web|url=http://www.nunatsiaqonline.ca/stories/article/65674flying_in_the_face_a_tradition_air_inuit_gets_its_first_inuk_woman_cap/|title=NunatsiaqOnline 2016-03-23: NEWS: Flying in the face of tradition: Air Inuit gets its first Inuk woman captain|website=www.nunatsiaqonline.ca|language=en|access-date=2017-11-30}}&lt;/ref&gt;
+
+== Career ==
+In 2001, Haney began working with Air Inuit as a flight attendant.&lt;ref name=":2"&gt;{{Cite news|url=http://www.cbc.ca/news/canada/north/melisssa-haney-air-inuit-female-pilot-captain-1.4249483|title=Air Inuit's 1st female Inuk captain lands commemorative stamp|work=CBC News|access-date=2017-11-30|language=en}}&lt;/ref&gt;&lt;ref name=":4"&gt;{{Cite news|url=http://www.cbc.ca/news/canada/north/first-inuk-woman-captain-air-inuit-1.3778109|title=Pilot becomes first female Inuk captain for Air Inuit|work=CBC News|access-date=2017-11-30|language=en}}&lt;/ref&gt; She soon decided she wanted to fly planes herself.&lt;ref name=":1" /&gt; In 2003, Haney took flight lessons in [[Cornwall, Ontario]]. The following year, she completed [[ground school]] courses with Air Inuit.&lt;ref name=":3" /&gt; One of Haney's mentors has been aviator [[Johnny May]], the first Inuk [[bush pilot]] in [[Nunavik]].&lt;ref name=":0" /&gt; In 2004, Haney began flying [[Twin Otter]] aircraft for Air Inuit.&lt;ref&gt;{{Cite news|url=https://www.iwoaw.org/symposium/speaker/melissa-haney/|title=Melissa Haney|last=Team|first=iWOAW|date=2017-04-04|work=Institute for Women Of Aviation Worldwide (iWOAW) Symposium|access-date=2017-11-30|language=en-US}}&lt;/ref&gt;
+[[File:Air Inuit (10111289846).jpg|thumb|179x179px|An [[Air Inuit]] Dash 8-300Q aircraft]]
+In the summer of 2016, Haney was promoted to captain. When she flew back to Inukjuak in September, several hundred people from her community gathered to meet her at the airport.&lt;ref name=":4" /&gt;&lt;ref&gt;{{Cite web|url=http://www.nunatsiaqonline.ca/stories/article/65674nunavik_community_celebrates_its_hometown_hero/|title=NunatsiaqOnline 2016-09-26: NEWS: Nunavik town celebrates a high-flying hometown hero|website=www.nunatsiaqonline.ca|language=en|access-date=2017-11-30}}&lt;/ref&gt;
+
+She now regularly flies a [[Dash 8 Combi-300]], making tight landings on runways that are often just barely long enough for her aircraft.&lt;ref name=":0" /&gt;
+
+On August 15, 2017, the Canadian [[Ninety-Nines]] released a commemorative postage stamp featuring Haney.&lt;ref name=":2" /&gt;&lt;ref name=":1" /&gt;&lt;ref&gt;{{Cite web|url=http://www.nunatsiaqonline.ca/stories/article/65674air_inuit_pilot_featured_on_new_postage_stamp/|title=NunatsiaqOnline 2017-08-16: NEWS: Air Inuit pilot featured on new postage stamp|website=www.nunatsiaqonline.ca|language=en|access-date=2017-11-30}}&lt;/ref&gt; Speaking to reporters, the president of Air Inuit said that Haney "was a role model for all people in Nunavik, whether they're women, whether they're men.”&lt;ref&gt;{{Cite news|url=http://www.ctvnews.ca/canada/air-inuit-s-first-female-inuk-captain-honoured-in-quebec-1.3547507|title=Air Inuit's first female Inuk captain honoured in Quebec|date=2017-08-15|work=CTVNews|access-date=2017-11-30|language=en-CA}}&lt;/ref&gt;
+
+== Personal life ==
+Haney is married to another Air Inuit captain named Pierre-Olivier, and the couple has two children.&lt;ref name=":0" /&gt;
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Haney, Melissa}}
+[[Category:1981 births]]
+[[Category:Canadian Inuit women]]
+[[Category:Female commercial aviators]]
+[[Category:Canadian female aviators]]
+[[Category:Living people]]
+[[Category:Inuit from Quebec]]</text>
+      <sha1>38vlqopowb2ap2okd5c1bo8sxulomj6</sha1>
+    </revision>
+  </page>
+</mediawiki>

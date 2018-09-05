@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bob Weber (cartoonist)</title>
+    <ns>0</ns>
+    <id>36315106</id>
+    <revision>
+      <id>851413312</id>
+      <parentid>801399055</parentid>
+      <timestamp>2018-07-22T03:25:49Z</timestamp>
+      <contributor>
+        <username>Holdoffhunger</username>
+        <id>27431995</id>
+      </contributor>
+      <comment>"gettng" should be "getting"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2556">{{for|the New Yorker cartoonist|Robert Weber (cartoonist)}}
+'''Bob Weber, Sr.''' (born June 26, 1934), is an American cartoonist, best known for his ''[[Moose &amp; Molly|Moose and Molly]]'' [[comic strip]], distributed by [[King Features Syndicate]].
+
+Weber was born and raised in [[Federal Hill, Baltimore|South Baltimore]]. His career as a cartoonist and illustrator moved into high gear in 1959, when he contributed to ''[[The Saturday Evening Post]]'' and the syndicated ''[[Laff-a-Day]]'' panels.&lt;ref name=webersr&gt;[http://lambiek.net/artists/w/weber_bob_sr.htm Lambiek: Bob Weber Sr.]&lt;/ref&gt;&lt;ref name=sizemore&gt;[http://doodlemeister.com/2008/05/28/return-of-the-moose/ Sizemore, Jim. "Return of the Moose", May 28, 2008.]&lt;/ref&gt;
+
+Relocating to Connecticut, he became cartoonist Dick Cavalli's assistant on ''Winthrop''. In 1965, he launched his own strip, which began September 20, 1965, as ''Moose'', retitled ''Moose Miller'' six years later.&lt;ref name=dm&gt;[http://www.toonopedia.com/moosemol.htm Moose Miller] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66xXH3ksZ Archived] from the original on April 16, 2012.&lt;/ref&gt; It was renamed ''Moose and Molly'' (aka ''Moose &amp; Molly'') in 1998.&lt;ref name=webersr/&gt;&lt;ref name=dm /&gt;&lt;ref name=king&gt;{{cite web|url= http://www.kingfeatures.com/features/comics/moosemol/aboutMaina.php|title=''Moose and Molly''|publisher=[[King Features]]|archivedate=February 6, 2001 | archiveurl= https://web.archive.org/web/20010206211637/http://www.kingfeatures.com/features/comics/moosemol/aboutMaina.php}}&lt;/ref&gt; After peaking with 200 newspapers, it eventually dropped to 75 papers.
+
+Weber lives in [[Westport, Connecticut]], which he refers to as "Westpork".&lt;ref name=sizemore/&gt;
+
+Weber's son, cartoonist Bob Weber, Jr., reaches a readership of 30 million with his ''[[Slylock Fox &amp; Comics for Kids]]'' puzzle feature. He also co-created the short-lived ''[[Oh, Brother! (comic strip)|Oh, Brother!]]'' strip.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite news| url = https://news.google.com/newspapers?nid=1916&amp;dat=19831021&amp;id=VRJJAAAAIBAJ&amp;sjid=rwUNAAAAIBAJ&amp;pg=1799,3764239&amp;hl=en | title= Getting the Giggles: Cartoonist Loves Ideas He Can Gag On | work=[[The Hour (newspaper)|The Hour]] | location = [[Norwalk, Connecticut]] | date= October 21, 1983 | first= Julie | last= Wirz}}
+*[http://doodlemeister.com/2008/05/ Jacquie Roland]
+
+{{Authority control}}
+{{DEFAULTSORT:Weber, Bob}}
+[[Category:Living people]]
+[[Category:American comic strip cartoonists]]
+[[Category:1934 births]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>5g20vf2yrvqshmaui2tsuliw5i9zb35</sha1>
+    </revision>
+  </page>
+</mediawiki>

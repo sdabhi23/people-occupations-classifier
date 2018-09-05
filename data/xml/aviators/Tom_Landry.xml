@@ -1,0 +1,431 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tom Landry</title>
+    <ns>0</ns>
+    <id>190024</id>
+    <revision>
+      <id>855995247</id>
+      <parentid>853360356</parentid>
+      <timestamp>2018-08-22T06:04:40Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44549">{{Original research|date=July 2016}}
+{{Infobox NFL biography
+| name = Tom Landry 
+| image = Tom Landry Jan 1997.jpg
+| image_size = 275
+| caption = Landry in January 1997
+| number = 49
+| position = [[Cornerback]], [[Punter (football)|Punter]], [[Quarterback]], [[Running back]]
+| birth_date = {{birth date|1924|9|11}}
+| birth_place = [[Mission, Texas]]
+| death_date = {{death date and age|2000|2|12|1924|9|11}}
+| death_place = [[Dallas, Texas]]  
+| high_school = [[Mission High School (Mission, Texas)|Mission (TX)]]
+| college = [[Texas Longhorns football|Texas]]
+| draftyear  = 1947
+| draftround = 20
+| draftpick  = 184
+| pastteams =
+* [[New York Yankees (AAFC)|New York Yankees]] ([[All-America Football Conference|AAFC]]) (1949)
+* [[New York Giants]] ({{NFL Year|1950}}–{{NFL Year|1955}})
+| pastcoaching =
+* [[New York Giants]] ([[Defensive coordinator|DC]]) ({{NFL Year|1954}}–{{NFL Year|1959}})
+* [[Dallas Cowboys]] ({{NFL Year|1960}}–{{NFL Year|1988}})
+| highlights =
+* [[Pro Bowl]] selection (1954)
+* First-Team [[All-Pro]] (1954)
+* 1966 [[National Football League Coach of the Year Award|JEFF Coach of the Year]] (''[[National Football League Coach of the Year Award#AP NFL Coach of the Year|AP]]'', ''[[National Football League Coach of the Year Award#Sporting News NFL Coach of the Year|SN]]'', ''[[National Football League Coach of the Year Award#UPI NFL Coach of the Year|UPI]]'')
+* 1975 [[National Football League Coach of the Year Award|NFL Coach of the Year]] (''[[National Football League Coach of the Year Award#UPI NFL Coach of the Year|UPI]]'')
+* [[Dallas Cowboys Ring of Honor]]
+* [[Dallas Cowboys]] record for career wins (250)
+* [[List of NFL champions|NFL Champion]] ([[1956 NFL Championship Game|1956]])
+* 2× [[Super Bowl]] champion ([[Super Bowl VI|VI]], [[Super Bowl XII|XII]])
+* 5× [[NFC Championship|NFC Champion]] ([[1970–71 NFL playoffs|1970]], [[1971–72 NFL playoffs|1971]], [[1975–76 NFL playoffs|1975]], [[1977–78 NFL playoffs|1977]], [[1978–79 NFL playoffs|1978]])
+| statlabel1 = Punts
+| statvalue1 = 338
+| statlabel2 = Punting yards
+| statvalue2 = 13,651
+| statlabel3 = Interceptions
+| statvalue3 = 31
+| regular_record = {{Winning percentage|250|162|6|record=y}}
+| playoff_record = {{Winning percentage|20|16||record=y}}
+| overall_record = {{Winning percentage|270|178|6|record=y}}
+| nflnew = tomlandry/2519031
+| pfrcoach = LandTo0
+| HOF = tom-landry
+}}
+{{Infobox military person
+|allegiance           ={{flagu|United States}}
+|branch               =[[File:USAAC Roundel 1919-1941.svg|20px|United States Army Air Corp seal]] [[United States Army Air Corps|U.S. Army Air Corps]]
+|serviceyears         = 1942–1945
+|rank                 =[[File:US-O1 insignia.svg|6px]] [[Second Lieutenant]]
+|unit                 =[[Eighth Air Force]]&lt;br&gt;[[493d Bombardment Group]]&lt;br&gt;[[860th Bombardment Squadron]]
+|battles              ='''World War II'''&lt;br&gt;[[Air warfare of World War II|Air War Over Europe]]
+|awards               =
+}}
+
+'''Thomas Wade Landry''' (September 11, 1924 – February 12, 2000) was an American [[American football|football]] player and coach. As an [[National Football League|NFL]] coach, he was noted for creating many new formations and methods. He invented the now popular [[4–3 defense]], and the "flex defense" system made famous by the "Doomsday Defense" squads he created during his 29-year tenure with the [[Dallas Cowboys]].  His 29 consecutive years as the coach of one team are an NFL record,&lt;ref&gt;[[George Halas]] served as head coach of the [[Chicago Bears]] for a total of 36 years in four different stints of 9 years each.&lt;/ref&gt; along with his 20 consecutive winning seasons.
+
+Landry won two [[Super Bowl]] titles ([[Super Bowl VI|VI]], [[Super Bowl XII|XII]]), five [[National Football Conference|NFC]] titles, 13 Divisional titles, and compiled a 270–178–6 record, the [[List of National Football League head coaches with 50 wins|fourth-most wins all-time]] for an NFL coach. His 20 career playoff victories are the [[List of National Football League head coaches by playoff record|second most of any coach in NFL history]]. He was named the NFL Coach of the Year in 1966 and the NFC Coach of the Year in 1975. His most impressive professional accomplishment is his 20 consecutive winning seasons (1966–[[1985 NFL season|1985]]), still an NFL record. From [[1966 NFL season|1966]] to [[1982 NFL season|1982]] Dallas played in 12 [[NFL Championship Game|NFL]] or [[NFC Championship Game|NFC Championship]] games, a span of 17 years. More impressive is the Cowboys' appearance in 10 NFC Championship games in the 13-year span from [[1970 NFL season|1970]] to 1982. Leading the Cowboys to three Super Bowl appearances in four years between [[1975 NFL season|1975]] and [[1978 NFL season|1978]], and five in nine years between 1970 and 1978, and being on television more than any other NFL team is what spawned the title of "[[America's Team]]", a title Landry did not appreciate because he felt it would bring on extra motivation from the rest of the league to compete with the Cowboys.
+
+==Early years ==
+Born in [[Mission, Texas]], to Ray (an auto mechanic and volunteer fireman) and Ruth Landry, Tom was the second of four children (Robert, Tom, Ruthie, and Jack).&lt;ref name=StJohnB-TDMN-2000-09-20&gt;St. John, Bob (September 20, 2000). "At Mission High, A Star is Unleashed". ''[[The Dallas Morning News]]''.&lt;/ref&gt; Landry's father had suffered from [[rheumatism]], and relocated to the warmer climate of Texas from Indiana or Illinois. Ray Landry  was an athlete, making his mark locally as a pitcher and football player.&lt;ref name="ReferenceA"&gt;Tom Landry:An AutoBiography {{ISBN|0-310-52910-7}}&lt;/ref&gt; Tom played quarterback (primary passer and runner, and also punter) for Mission High School, where he led his team to a 12–0 record in his senior season.&lt;ref name=StJohnB-TDMN-2000-09-20 /&gt; The [[Mission High School (Mission, Texas)|
+Mission High School]] football stadium is named Tom Landry Stadium and is home to the Mission Eagles and Mission Patriots which also bears the Pro Football Hall of Fame logo.
+
+Landry attended the [[University of Texas at Austin]] as an [[industrial engineering]] major. Landry had given thought to enrolling at [[Mississippi State University]], where his friend [[John Tripson]] was an All-American, but he knew that he would be away from his friends and family. The main driving force in keeping him from enrolling at Mississippi State University was the notion that it would be too long a travel for his parents to see him play college football.&lt;ref name="ReferenceA"/&gt;
+
+He interrupted his education after a semester to serve in the [[United States Army Air Corps]] during World War II. Landry was inspired to join the armed forces in honor of his brother Robert Landry, who had enlisted in the Army Air Corps after the [[attack on Pearl Harbor]]. While ferrying a B-17 over to England, Robert Landry's plane had gone down over the North Atlantic, close to Iceland. Several weeks passed before the Army was able to officially declare Robert Landry dead.&lt;ref name="ReferenceA"/&gt; Tom Landry began his basic training at Sheppard Field near [[Wichita Falls, Texas]] (now [[Sheppard Air Force Base|Sheppard AFB]]), and his preflight training at Kelly Field (now [[Kelly Field Annex]]), located near [[San Antonio]], Texas. Landry's first experience as a bomber was a tough one. A few minutes after takeoff, Landry realized that the pilot seemed to be working furiously, and Landry had realized the plane's engine had died. Despite this experience, Landry was committed to flying. At the age of 19, Landry was transferred to [[Sioux City, Iowa]], where he trained as a copilot for flying a B-17. In 1944, Landry got his orders, and from Sioux City he went to Liverpool, England, where he was assigned to the [[Eighth Air Force]], 493rd Squadron in [[Ipswich]].&lt;ref name="ReferenceA"/&gt; Landry earned his wings and a commission as a [[Second Lieutenant#United States|Second Lieutenant]] at [[Reese AFB|Lubbock Army Air Field]], and was assigned to the [[493d Bombardment Group]] at [[RAF Debach]], England, as a [[B-17 Flying Fortress]] bomber copilot in the [[860th Bombardment Squadron]]. From November 1944 to April 1945, he completed a combat tour of 30 missions, and survived a crash landing in Belgium after his bomber ran out of fuel.&lt;ref name="Cavanaugh, 2008 pg. 27"&gt;Cavanaugh, 2008 pg. 27&lt;/ref&gt;
+
+He returned to his studies at the University of Texas in the fall of 1946.&lt;ref name="Cavanaugh, 2008 pg. 27"/&gt; On the football team, he played fullback and defensive back on the Texas Longhorns' bowl game winners on New Year's Day of 1948 and 1949. At UT, he was a member of the [[Texas Cowboys]] and [[Delta Kappa Epsilon]] [[college fraternity|fraternity]] (Omega Chi chapter). He received his [[bachelor's degree]] from UT in 1949. In 1952, he earned a [[master's degree]] in [[industrial engineering]] from the [[University of Houston]].&lt;ref&gt;Cavanaugh, 2008 pg. 26&lt;/ref&gt;
+
+==Playing career==
+Landry played in the [[All-America Football Conference|AAFC]] in 1949 for the [[New York Yankees (AAFC)|New York Yankees]], then moved in [[1950 NFL season|1950]] across town to the [[New York Giants]]. In 1946, the New York Giants had drafted Landry in the seventh round of the college draft. He was drafted as a "Futures" pick, which was a rule in place at the time that allowed NFL teams to draft underclassmen, and hold their rights until the player had completed his college requirement. In 1948, the New York Yankees of the AAFC also drafted Landry.
+
+Landry had just finished his final college football game, when [[Jack White (New York Yankees football team assistant coach)|Jack White]], who was an assistant coach for the Yankees, took Landry aside. He offered Landry a contract to play for New York in the AAFC. The contract was for $6,000, plus a $500 signing bonus. Landry used the bonus money to pay for a wedding with his college sweetheart, Alicia.
+
+Landry's career got off to a start after the Yankees' starting punter was injured in the preseason, and Landry performed well in his place. The Yankees shared Yankee Stadium with Major League Baseball's Yankees, and Landry remembered in his autobiography how in awe he was seeing names like DiMaggio, Rizzuto, and Ruffing above the lockers. Landry's career began as a back-up to Yankees star running back [[Buddy Young]]. His first start would come against the AAFC's powerhouse, the [[Cleveland Browns]], coached by [[Paul Brown]], and a roster full of future hall of famers like [[Lou Groza]], [[Bill Willis]], and [[Otto Graham]]. Landry did not have a good debut as a starter; [[Mac Speedie]], the receiver he was assigned to cover, set an AAFC record for receiving yards in the game. After the game, Landry learned his wife had given birth to their first child, a son.
+
+After the 1949 season, the AAFC folded, and the Yankees were not among the teams absorbed by the [[National Football League|NFL]]. The [[New York Giants]] exercised their territorial rights and selected Landry in a dispersal draft. Under the guidance of Giants head coach [[Steve Owen (American football)|Steve Owen]], Landry got his first taste of coaching. Instead of explaining the 6-1-4 defense to the players, Owen called Landry up to the front, and asked him to explain the defense to his teammates. Landry got up, and explained what the defense would do to counter the offense, and this became Landry's first coaching experience. The 1953 season would be a season to forget, with the lowest point coming in a 62-10 loss at the hands of the Cleveland Browns. This loss would ultimately cost Coach [[Steve Owen (American football)|Steve Owen]] his job, and would again have Landry pondering his future.&lt;ref name="ReferenceB"&gt;Tom Landry: an Autobiography ISBN 0-310--52910-7&lt;/ref&gt; In [[1954 NFL season|1954]], he was selected as an All-Pro. He played through the [[1955 NFL season|1955]] season, and acted as a player-assistant coach the last two years, 1954 through 1955, under the guidance of new Giants head coach [[Jim Lee Howell]]. Landry ended his playing career with 32 interceptions in only 80 games, which he returned for 404 yards and three touchdowns.  He also recovered 10 fumbles (seven defensive), returning them for 67 yards and two touchdowns.
+[[File:Tom Landry - 1955 Bowman.jpg|thumb|Landry on a 1955 Bowman football card]]
+
+===Career statistics===
+
+{| class="wikitable" style="text-align:center;"
+|-
+| style="background:#cfecec; width:3em;"| 
+| Led the NFL
+|-
+| style="background:#cf71af; width:3em;"| 
+| Led the AAFC
+|}
+
+;Special teams
+{| class="wikitable" style="text-align:center;"
+! rowspan="2"| Year
+! rowspan="2"| Team
+! rowspan="2"| G
+! colspan="5"| Punting
+! colspan="4"| Kick returns
+! colspan="4"| Punt returns
+|-
+! Punts !! Yards !! Avg !! Long !! Block !! KR !! Yards !! Avg !! TD !! PR !! Yards !! Avg !! TD
+|-
+| [[All-America Football Conference#1949|1949]] || [[1949 New York Yankees (AAFC) season|NY Yankees]]
+| 12 || 51 || style="background:#cf71af;" | 2,249 || 44.1 || – || style="background:#cf71af;" | 2 || 2 || 39 || 19.5 || 0 || 3 || 52 || 17.3 || 0
+|-
+| [[1950 NFL season|1950]] || [[1950 New York Giants season|NY Giants]]
+| 10 || 58 || 2,136 || 36.8 || 61 || 1 || – || – || – || – || – || – || – || –
+|-
+| [[1951 NFL season|1951]] || [[1951 New York Giants season|NY Giants]]
+| 12 || 15 || 638 || 42.5 || 59 || 0 || 1 || 0 || 0.0 || 0 || 1 || 0 || 0.0 || 0
+|-
+| [[1952 NFL season|1952]] || [[1952 New York Giants season|NY Giants]]
+| 12 || 82 || style="background:#cfecec;"| 3,363 || 41.0 || 61 || 1 || 1 || 20 || 20.0 || 0 || 10 || 88 || 8.8 || 0
+|-
+| [[1953 NFL season|1953]] || [[1953 New York Giants season|NY Giants]]
+| 12 || 44 || 1,772 || 40.3 || 60 || 0 || 2 || 38 || 19.0 || 0 || 1 || 5 || 5.0 || 0
+|-
+| [[1954 NFL season|1954]] || [[1954 New York Giants season|NY Giants]]
+| 12 || 64 || 2,720 || 42.5 || 61 || 0 || – || – || – || – || – || – || – || –
+|-
+| [[1955 NFL season|1955]] || [[1955 New York Giants season|NY Giants]]
+| 12 || style="background:#cfecec;"| 75 || style="background:#cfecec;"| 3,022 || 40.3 || 69 || 1 || – || – || – || – || – || – || – || –
+|-
+! colspan="2"|Career (1949–1955) !! 82 !! 389 !! 15,900 !! 40.9 !! 69 !! 5 !! 6 !! 97 !! 16.2 !! 0 !! 15 !! 145 !! 9.7 !! 0
+|- class="sortbottom" style="background:#eee;"
+|style="text-align:center;" colspan="2"|AAFC stats (1949)
+| 12 || 51 || 2,249 || 44.1 || – || 2 || 2 || 39 || 19.5 || 0 || 3 || 52 || 17.3 || 0
+|- class="sortbottom" style="background:#eee;"
+|style="text-align:center;" colspan="2"|NFL stats (1950–55)
+| 70 || 338 || 13,651 || 40.4 || 69 || 3 || 4 || 58 || 14.5 || 0 || 12 || 93 || 7.8 || 0
+|}
+
+==Coaching career==
+For the 1954 football season, Landry became the [[defensive coordinator]] for the Giants, opposite [[Vince Lombardi]], who was the [[offensive coordinator]]. Landry led one of the best defensive teams in the league from 1956 to 1959. The two coaches created a fanatical loyalty within the unit they coached that drove the Giants to three appearances in the [[NFL championship]] game in four years. The Giants beat the [[George Halas]]-led [[Chicago Bears]] 47–7 in [[1956 NFL season|1956]], but lost to the [[Baltimore Colts]] in [[1958 NFL season|1958]] and [[1959 NFL season|1959]].
+
+In [[1960 NFL season|1960]], he became the first head coach of the [[Dallas Cowboys]] and stayed for 29 seasons (1960–88). The Cowboys started with difficulties, recording an 0–11–1 record during their first season, with five or fewer wins in each of their next four. Despite this early futility, in 1964, Landry was given a 10-year extension by owner [[Clint Murchison Jr.]] It would prove to be a wise move, as Landry's hard work and determination paid off, and the Cowboys improved to a 7–7 record in 1965. In 1966, they surprised the NFL by posting 10 wins and making it all the way to the NFL championship game. Dallas lost the game to Lombardi's [[Green Bay Packers]], but this season was but a modest display of what lay ahead.
+
+Throughout his tenure, Landry worked closely with the Cowboys general manager, [[Tex Schramm]]. The two were together during Landry's entire tenure with the team. A third member of the Cowboys brain trust in this time was [[Gil Brandt]].
+
+===The Great Innovator===
+
+Landry invented the now-popular "[[4-3 defense]]", while serving as [[New York Giants|Giants]] defensive coordinator.&lt;ref&gt;{{cite web | url = http://www.cowboysplus.com/classic/webspecials/landry/landrybuild.htm | title = Building America's Team | work = The Dallas Morning News | accessdate = 2007-01-29}}&lt;/ref&gt; It was called "4-3" because it featured four down lineman (two ends and two defensive tackles on either side of the offensive center) and three linebackers — middle, left, and right. The innovation was the middle linebacker. Previously, a lineman was placed over the center. But Landry had this person stand up and move back two yards. The Giants' middle linebacker was the legendary [[Sam Huff]].
+
+{{quote|Landry built the 4-3 defense around me. It revolutionized defense and opened the door for all the variations of zones and man-to-man coverage, which are used in conjunction with it today. —Sam Huff&lt;ref&gt;{{cite web | url = http://www.sportingnews.com/archives/landry/quotes.html | title = Describing 'The Innovator' | work = [[The Sporting News]] | accessdate = 2007-01-29 | deadurl = yes | archiveurl = https://web.archive.org/web/20051201115219/http://www.sportingnews.com/archives/landry/quotes.html | archivedate = 2005-12-01 | df =  }}&lt;/ref&gt;}}
+
+Landry also invented and popularized the use of keys (analyzing offensive tendencies) to determine what the offense might do.
+
+When Landry was hired by the [[Dallas Cowboys]], he became concerned with then [[Green Bay Packers]] Coach [[Vince Lombardi]]'s "Run to Daylight" idea, in which the [[running back]] went to an open space, rather than a specifically assigned hole. Landry reasoned that the best counter was a defense that flowed to daylight and blotted it out.
+
+To do this, he refined the 4-3 defense by moving two of the four linemen off the line of scrimmage one yard and varied which linemen did this based on where the Cowboys thought the offense might run. This change was called the "[[Flex Defense]]", because it altered its alignment to counter what the offense might do. Thus, three such Flex Defenses were developed — strong, weak, and "tackle" — where both [[defensive tackles]] were off the line of scrimmage. The idea with the flexed linemen was to improve pursuit angles to stop the Green Bay Sweep  — a popular play of the 1960s. The Flex Defense was also innovative in that it was a kind of zone defense against the run. Each defender was responsible for a given gap area, and was told to stay in that area before he knew where the play was going.
+
+It has been said, after inventing the Flex Defense, he then invented an offense to score on it, reviving the [[motion (gridiron football)|man-in-motion]] and starting in the mid-1970s, the [[shotgun formation]]. But Landry's biggest contribution in this area was the use of "preshifting" where the offense would shift from one formation to the other before the snap of the ball. This tactic was not new. It was developed by Coach [[Amos Alonzo Stagg]] around the turn of the 20th century; Landry was the first coach to use the approach on a regular basis. The idea was to break the keys within the defense used to determine what the offense might do. An unusual feature of this offense was Landry having his offensive linemen get in their squatted prestance, stand up while the running backs shifted, and then go back down into their complete "hand down" stance. The purpose of the "up and down" (Landry Shift) movement was to make it more difficult for the defense to see where the backs were shifting (over the tall offensive linemen), thus to cut down on recognition time. While other NFL teams later employed shifting, few employed this "up and down" technique as much as Landry.
+
+Landry also was ahead of his time in his philosophy of building a team. When the Packers were a dynasty in the 1960s with {{convert|245|lb|kg|abbr=on}} guards and {{convert|250|lb|kg|abbr=on}} tackles, he was busy stockpiling size for the next generation of linemen. Tackles [[Rayfield Wright]] stood {{convert|6|ft|6|in|m|abbr=on}} and [[Ralph Neely]] weighed {{convert|265|lb|kg|abbr=on}}. Center [[Dave Manders]] weighed {{convert|250|lb|kg|abbr=on}}. All went on to block in Pro Bowls and Super Bowls in the 1970s.
+
+The same with defense: The better linemen of the 1960s were the shorter, stockier, leverage players like [[Willie Davis (defensive end)|Willie Davis]], [[Alex Karras]] and [[Andy Robustelli]]. But Landry drafted the taller, leaner linemen like {{convert|6|ft|7|in|m|abbr=on}} [[George Andrie]] and {{convert|6|ft|6|in|m|abbr=on}} [[Jethro Pugh]] in the 1960s and later {{convert|6|ft|9|in|m|abbr=on}} [[Ed Jones (American football)|Ed Jones]] in the 1970s. Long arms allow for increased leverage in the pass rush.
+
+In the days before strength and speed programs, Landry brought in Alvin Roy and [[Boots Garland]] in the early 1970s to help make the Cowboys stronger and faster. Roy was a weightlifter and Garland a college track coach. Now, every NFL team has specialty coaches.
+
+Landry also was one of the first NFL coaches to search outside the traditional college football pipeline for talent. For example, he recruited several soccer players from Latin America, such as [[Efren Herrera]] and [[Rafael Septién]], to compete for the job of placekicker for the Cowboys. Landry looked to the world of track and field for speedy skill-position players. For example, [[Bob Hayes]], once considered the fastest man in the world, was drafted by and played wide receiver for the Cowboys under Landry.&lt;ref&gt;{{cite web|title=Bob Hayes bio|publisher=Dallas Cowboys Fan Club.com|url=http://www.dallascowboysfanclub.com/history/ringofhonor.htm#HAYES|accessdate=2011-01-04|deadurl=yes|archiveurl=https://web.archive.org/web/20101019052028/http://www.dallascowboysfanclub.com/history/ringofhonor.htm#HAYES|archivedate=2010-10-19|df=}}&lt;/ref&gt;
+
+Landry also was the first to employ a coach for [[quality control]]. [[Ermal Allen]] would analyze game films and chart the tendencies of the opposition for the Cowboys in the 1970s. That gave Landry an edge in preparation, because he knew what to expect from his opponent based on down and distance. Now, every NFL team has a quality control coach, and most have two.{{citation needed|date=May 2016}}
+
+Landry produced a very large coaching tree. In 1986, five NFL head coaches were former Landry assistants: [[Mike Ditka]], [[Dan Reeves]], [[John Mackovic]], [[Gene Stallings]], and [[Raymond Berry]].
+
+===Coaching in the Super Bowl===
+[[File:Tom Landry sculpture.jpg|thumb|A sculpture of Landry]]
+While Tom Landry's Cowboys are known for their two Super Bowls against [[Chuck Noll]] and the [[Pittsburgh Steelers]], Landry also led Dallas to three other Super Bowls, and were a Bart Starr quarterback sneak away from representing the NFL in the second Super Bowl. Tom Landry was 2-3
+in Super Bowls, winning both in New Orleans and losing all three at Miami's [[Orange Bowl Stadium]].
+
+Landry coached the Cowboys to their first Super Bowl win, defeating the Miami Dolphins 24-3, holding the Dolphins to a mere field goal. The Cowboys won their first Super Bowl a year after losing to the [[History of the Baltimore Colts|Baltimore Colts]]. The Cowboys lost the first battle with the Steelers, in a game that is heralded as a classic. The rematch would be just as good, with the Cowboys being a [[Jackie Smith]] catch away from tying the Steelers and keeping pace early in the third quarter; instead, Pittsburgh scored twice in succession and put the game away. Before the Super Bowl XIII rematch, Cowboys linebacker [[Thomas "Hollywood" Henderson]] famously stated, "Terry Bradshaw couldn't spell c-a-t if you spotted him the C and the T." Landry recalled in his autobiography how he cringed when he heard that, because he did not feel that Bradshaw needed additional motivation in a big game like the Super Bowl.&lt;ref name="ReferenceB"/&gt;
+
+===Retirement and legacy===
+In the 1980s, the Cowboys won two Division Championships, and made five playoff appearances which included reaching the NFC Championship Game three consecutive years (1980–1982), but failed to reach the Super Bowl.
+
+In 1984, Dallas businessman [[Bum Bright]] bought the team from Murchison. As the Cowboys suffered through progressively poorer seasons (from 10–6 in 1985 to 7–9 in 1986, 7–8 in 1987, and 3–13 in 1988), Bright became disenchanted with the team. Landry's game strategies and single-mindedness during these few seasons left him open to public criticism.&lt;ref name="knowyourdallascowboys.com"&gt;{{cite web|url=http://www.knowyourdallascowboys.com/2010/04/14/1989-review-jerry-jones-fires-tom-landry/|title=1989 Review: Jerry Jones Fires Tom Landry - Know Your Dallas Cowboys - Know Your Dallas Cowboys|publisher=|accessdate=9 July 2016}}&lt;/ref&gt;
+
+Landry had signed a three-year contract in the summer of 1987. However, Schramm brought in [[Paul Hackett (American football)|Paul Hackett]] as the new offensive coach in 1986, and in 1987, he hired offensive line coach Jim Erkenbeck and special-teams coach Mike Solari. Some suggested that Schramm's moves divided the coaching staff, a plan to first undermine and then dismiss Landry. Bright, who usually stayed behind the scenes, publicly criticized Landry after an embarrassing home loss to the [[Atlanta Falcons]] in 1987, saying that he was "horrified" at the play-calling and complaining, "It doesn't seem like we've got anybody in charge who knows what he's doing, other than Tex". Bright was also upset at how top draft pick, defensive tackle [[Danny Noonan (American football)|Danny Noonan]] and running back [[Herschel Walker]] were not being used enough. Two weeks later, one day after the Cowboys' 27-17 loss to the [[Detroit Lions]], a team that had come into the game tied with the Chiefs, Giants, and Rams for the worst record in the NFL, Schramm said on his radio show, "There's an old saying, 'If the teacher doesn't teach, the student doesn't learn'." Nonetheless, Bright maintained his hands-off approach on the team while Schramm retained his confidence in Landry.&lt;ref&gt;{{cite web|url=https://news.google.com/newspapers?id=EEYjAAAAIBAJ&amp;sjid=APADAAAAIBAJ&amp;pg=1958,6400221&amp;dq=tom%20landry%20tex%20schramm%20falcons&amp;hl=en|work=The Spokesman-Review|via=Google News Archive Search|publisher=|accessdate=9 July 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1066870/index.htm | work=CNN | title=Assault On Mount Landry | date=December 21, 1987}}&lt;/ref&gt;
+
+Landry's Cowboys finished the 1988 season 3-13, which earned the no. 1 pick in the draft with the worst record in the NFL, taking his personal record to 270-178-6. It was the fourth time in five years that they missed the playoffs, as well as their third consecutive losing season. Nonetheless, in February 1989, before the start of the [[1989 NFL season|1989]] season, Landry remained determined to coach into the 1990s "unless I get fired", as he dismissed or reassigned his assistants. Landry had one year left on his contract which paid $1 million a season.&lt;ref name="knowyourdallascowboys.com"/&gt;&lt;ref name="Landry"&gt;[http://www.dallasnews.com/sharedcontent/dws/spe/2004/feb25football/landry.html Landry] at ''Dallas News''&lt;/ref&gt;
+
+Two weeks later on February 26, 1989, Landry was dismissed as head coach, shortly after Bright sold the team to [[Jerry Jones]]. Bright had suffered major losses in his banking, real estate, and oil businesses in the last three years; during the [[savings and loan crisis]], Bright's Savings and Loan was taken over by the FSLIC, forcing Bright to sell the team. During a more solid economic climate, Bright possibly could have held on and Landry may have remained as coach. However, in 1990, Bright said he wanted to fire Landry himself as early as 1987, but Schramm told him that there was not a replacement ready to take over yet. Jones hired [[Jimmy Johnson (football coach)|Jimmy Johnson]], his former teammate at the [[University of Arkansas]], who had been serving as coach of [[Miami Hurricanes football|University of Miami]] football team. Schramm was in tears at the press conference which announced the coaching change, and he was forced out as general manager shortly afterwards; Schramm and Landry had been together for 29 years since the Cowboys' inception in 1960. When Landry met with his players two days later to tell them how much he would miss them, he began to cry, and the players responded with a standing ovation.&lt;ref name="knowyourdallascowboys.com"/&gt;&lt;ref name="Landry"/&gt;&lt;ref name="latimes"&gt;"[http://articles.latimes.com/1990-02-26/sports/sp-1290_1_tom-landry Ex-Cowboys Owner Bright Almost Fired Landry in '87]." ''Los Angeles Times.'' 26 February 1990. Accessed 14 July 2011.&lt;/ref&gt;
+
+Landry received an outpouring of public support after his firing as the city of Dallas and fans everywhere forgot about the team's decline during the 1980s and instead remembered the memories of the legend in the fedora who built the Cowboys from nothing to champions. Jones stated he did not give consideration to retaining Landry for even a season, as he said he would not have purchased the team unless he could hire Johnson as coach. Jones also did not discuss the matter beforehand with Landry before announcing the decision. Landry's unceremonious dismissal by Jones was denounced by football fans and media as totally lacking in class and respect, as pride and tradition were part of the Cowboys where great performance and loyal service were expected to be rewarded. Since the dismissal, Jones has indicated he regrets the process of Landry's firing and his role in it.  In the years since, while most fans retain their support for the team, there persists significant levels of resentment towards Jones over the mistreatment of Landry.&lt;ref name="knowyourdallascowboys.com"/&gt;&lt;ref name="Landry"/&gt;
+
+Landry's success during nearly three decades of coaching was the impetus for his induction into the [[Pro Football Hall of Fame]] in 1990, less than two years after his last game. Landry was inducted into the [[Dallas Cowboys Ring of Honor|"Ring of Honor"]] at [[Texas Stadium]] in 1993. Landry had declined several earlier offers by Jones to enter the Ring of Honor before accepting in 1993.
+
+Landry's last work in professional football was as a "limited partner" of the [[San Antonio Riders]] of the [[NFL Europe|World League]] in 1992.
+
+===Head-coaching record===
+{| class="wikitable" style="font-size: 95%; text-align:center;"
+|-
+! rowspan="2"|Team !! rowspan="2"|Year !! colspan="5"|Regular season !! colspan="4"|Postseason
+|-
+!Won!!Lost!!Ties!!Win %!!Finish!! Won !! Lost !! Win % !! Result
+|-
+![[1960 Dallas Cowboys season|DAL]]||[[1960 NFL season|1960]]
+||0||11||1||.042||7th in NFL West|| — || — || — || —
+|-
+![[1961 Dallas Cowboys season|DAL]]||[[1961 NFL season|1961]]
+||4||9||1||.321||6th in NFL East|| — || — || — || —
+|-
+![[1962 Dallas Cowboys season|DAL]]||[[1962 NFL season|1962]]
+||5||8||1||.393||5th in NFL East|| — || — || — || —
+|-
+![[1963 Dallas Cowboys season|DAL]]||[[1963 NFL season|1963]]
+||4||10||0||.286||5th in NFL East|| — || — || — || —
+|-
+![[1964 Dallas Cowboys season|DAL]]||[[1964 NFL season|1964]]
+||5||8||1||.393||5th in NFL East|| — || — || — || —
+|-
+![[1965 Dallas Cowboys season|DAL]]||[[1965 NFL season|1965]]
+||7||7||0||.500||2nd in NFL East|| — || — || — || —
+|-! style="background:#fdd;"
+![[1966 Dallas Cowboys season|DAL]]||[[1966 NFL season|1966]]
+||10||3||1||.750||'''1st in NFL East'''|| 0 || 1 || .000 || &lt;small&gt;'''Lost to the [[Green Bay Packers]] in NFL Championship Game'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1967 Dallas Cowboys season|DAL]]||[[1967 NFL season|1967]]
+||9||5||0||.643||'''1st in NFL Capital'''|| 1 || 1 || .500 || &lt;small&gt;'''Lost to the Green Bay Packers in NFL Championship Game'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1968 Dallas Cowboys season|DAL]]||[[1968 NFL season|1968]]
+||12||2||0||.857||'''1st in NFL Capital'''|| 0 || 1 || .000 || &lt;small&gt; '''Lost to the [[Cleveland Browns]] in Divisional Round''' &lt;/small&gt;
+|-! style="background:#fdd;"
+![[1969 Dallas Cowboys season|DAL]]||[[1969 NFL season|1969]]
+||11||2||1||.821||'''1st in NFL Capital'''|| 0 || 1 || .000 || &lt;small&gt;'''Lost to the Cleveland Browns in Divisional Round''' &lt;/small&gt;
+|-! style="background:#fdd;"
+![[1970 Dallas Cowboys season|DAL]]||[[1970 NFL season|1970]]
+||10||4||0||.714||'''1st in NFC East|| 2 || 1 || .667 || &lt;small&gt;'''Lost to the [[Baltimore Colts]] in [[Super Bowl V]]'''&lt;/small&gt;
+|- ! style="background:#FDE910;"
+![[1971 Dallas Cowboys season|DAL]]||[[1971 NFL season|1971]]
+||11||3||0||.786||'''1st in NFC East'''|| 3 || 0 || 1.000 || &lt;small&gt;'''[[Super Bowl VI]] Champions'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1972 Dallas Cowboys season|DAL]]||[[1972 NFL season|1972]]
+||10||4||0||.714||2nd in NFC East|| 1 || 1 || .500 || &lt;small&gt;'''Lost to the [[Washington Redskins]] in NFC Championship Game''' &lt;/small&gt;
+|-! style="background:#fdd;"
+![[1973 Dallas Cowboys season|DAL]]||[[1973 NFL season|1973]]
+||10||4||0||.714||'''1st in NFC East|| 1 || 1 || .500 || &lt;small&gt;'''Lost to the [[Minnesota Vikings]] in NFC Championship Game''' &lt;/small&gt;
+|-
+![[1974 Dallas Cowboys season|DAL]]||[[1974 NFL season|1974]]
+||8||6||0||.571||3rd in NFC East|| — || — || — || —
+|-! style="background:#fdd;"
+![[1975 Dallas Cowboys season|DAL]]||[[1975 NFL season|1975]]
+||10||4||0||.714||2nd in NFC East|| 2 || 1 || .667 || &lt;small&gt;'''Lost to the [[Pittsburgh Steelers]] in [[Super Bowl X]]'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1976 Dallas Cowboys season|DAL]]||[[1976 NFL season|1976]]
+||11||3||0||.786||'''1st in NFC East'''|| 0 || 1 || .000 || &lt;small&gt;'''Lost to the [[Los Angeles Rams]] in Divisional Round'''&lt;/small&gt;
+|- ! style="background:#FDE910;"
+![[1977 Dallas Cowboys season|DAL]]||[[1977 NFL season|1977]]
+||12||2||0||.857||'''1st in NFC East'''|| 3 || 0 || 1.000 || &lt;small&gt;'''[[Super Bowl XII]] Champions'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1978 Dallas Cowboys season|DAL]]||[[1978 NFL season|1978]]
+||12||4||0||.750||'''1st in NFC East'''|| 2 || 1 || .667 || &lt;small&gt;'''Lost to the Pittsburgh Steelers in [[Super Bowl XIII]]'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1979 Dallas Cowboys season|DAL]]||[[1979 NFL season|1979]]
+||11||5||0||.688||'''1st in NFC East'''|| 0 || 1 || .000 || &lt;small&gt;'''Lost to the Los Angeles Rams in Divisional Round'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1980 Dallas Cowboys season|DAL]]||[[1980 NFL season|1980]]
+||12||4||0||.750||2nd in NFC East|| 2 || 1 || .667 || &lt;small&gt;'''Lost to the [[Philadelphia Eagles]] in NFC Championship Game'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1981 Dallas Cowboys season|DAL]]||[[1981 NFL season|1981]]
+||12||4||0||.750||'''1st in NFC East'''|| 1 || 1 || .500 || &lt;small&gt;'''Lost to the [[San Francisco 49ers]] in NFC Championship Game'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1982 Dallas Cowboys season|DAL]]||[[1982 NFL season|1982]]
+||6||3||0||.667||2nd in NFC|| 2 || 1 || .667 || &lt;small&gt;'''Lost to the Washington Redskins in NFC Championship Game'''&lt;/small&gt;
+|-! style="background:#fdd;"
+![[1983 Dallas Cowboys season|DAL]]||[[1983 NFL season|1983]]
+||12||4||0||.750||2nd in NFC East|| 0 || 1 || .000 || &lt;small&gt;'''Lost to the Los Angeles Rams in Wild Card Round'''&lt;/small&gt;
+|-
+![[1984 Dallas Cowboys season|DAL]]||[[1984 NFL season|1984]]
+||9||7||0||.563||4th in NFC East|| — || — || — || —
+|-! style="background:#fdd;"
+![[1985 Dallas Cowboys season|DAL]]||[[1985 NFL season|1985]]
+||10||6||0||.667||'''1st in NFC East'''|| 0 || 1 || .000 || &lt;small&gt;'''Lost to the Los Angeles Rams in Divisional Round'''&lt;/small&gt;
+|-
+![[1986 Dallas Cowboys season|DAL]]||[[1986 NFL season|1986]]
+||7||9||0||.438||3rd in NFC East|| — || — || — || —
+|-
+![[1987 Dallas Cowboys season|DAL]]||[[1987 NFL season|1987]]
+||7||8||0||.467||2nd in NFC East|| — || — || — || —
+|-
+![[1988 Dallas Cowboys season|DAL]]||[[1988 NFL season|1988]]
+||3||13||0||.188||5th in NFC East|| — || — || — || —
+|-
+! colspan="2"|Total||250||162||6||.605||||20||16||.556||
+|}
+
+== Death ==
+[[File:Tom Landry centograph, Austin, TX IMG 2141.JPG|thumb|left | Texas State Cemetery]]
+Landry died on February 12, 2000, after battling [[leukemia]]. Landry's funeral service was held at Highland Park [[United Methodist]] Church, where he was an active and committed member for 43 years. He was interred in the [[Sparkman-Hillcrest Memorial Park Cemetery]] in Dallas. A [[cenotaph]] dedicated to Landry, complete with a depiction of his [[Fedora (hat)|fedora]], was placed in the official [[Texas State Cemetery]] in [[Austin, Texas|Austin]] at the family's request.&lt;ref&gt;[http://www.cemetery.state.tx.us/pub/user_form22.asp Texas State Cemetery page] {{webarchive|url=https://web.archive.org/web/20071120003610/http://www.cemetery.state.tx.us/pub/user_form22.asp |date=2007-11-20 }}&lt;/ref&gt;
+
+The Cowboys wore a patch on their uniforms during the 2000 season depicting Landry's trademark fedora. A bronze statue of Landry stood outside of [[Texas Stadium]], and now stands in front of [[AT&amp;T Stadium]] since the Cowboys relocated in 2009. The section of [[Interstate 30]] between Dallas and [[Fort Worth]] was named the Tom Landry Highway by the [[Texas Legislature]] in 2001. The football stadium in Landry's hometown of [[Mission, Texas]], was named [[Tom Landry Stadium]] to honor one of the city's most famous former residents.&lt;ref&gt;[http://www.texasbob.com/stadium/stadium.php?id=960 Tom Landry Stadium] at TexasBob.com&lt;/ref&gt; Similarly, Trinity Christian Academy's stadium in [[Addison, Texas]], is named Tom Landry Stadium in honor of Landry's extensive involvement and support of the school.&lt;ref&gt;[http://www.texasbob.com/stadium/stadium.php?id=304 Addison's Tom Landry Stadium] at TexasBob.com&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.txhshelmetproject.com/TexasPrivates/A/AddisonTrinityChristian.htm|title=Texas High School Helmet Project|publisher=|accessdate=9 July 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160729205123/http://txhshelmetproject.com/TexasPrivates/A/AddisonTrinityChristian.htm|archivedate=29 July 2016|df=}}&lt;/ref&gt;  An elementary school in the Carrollton-Farmers Branch Independent School district, very near the Cowboys training facility in Valley Ranch, is also named in honor of Landry.&lt;ref&gt;{{cite web|url=http://cfbportal.schoolwires.net/lan/|title=Tom Landry Elementary School|publisher=|accessdate=9 July 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20141009001045/http://cfbportal.schoolwires.net/lan|archivedate=9 October 2014|df=}}&lt;/ref&gt; The Tom Landry Welcome Center at [[Dallas Baptist University]], where he was a frequent chapel speaker and award recipient, was posthumously dedicated to him in 2002.&lt;ref&gt;{{cite web|url=https://www3.dbu.edu/dbu_report/Landry%20Center%20Dedication.pdf}}&lt;/ref&gt;
+
+In 2013, a major new biography of Landry was published, entitled ''The Last Cowboy''.&lt;ref&gt;[http://www.publishersweekly.com/978-0-87140-333-9 The Last Cowboy: A Life of Tom Landry] in Publishers Weekly&lt;/ref&gt;
+
+==In popular culture==
+*On December 24, 1959, while defensive coach of the Giants, Landry pretended to be Catholic missionary Father William A. Lightning on the  [[panel game]] ''[[To Tell The Truth]]''.&lt;ref&gt;{{cite web|title=To Tell the Truth Primetime Episode Guide 1956-67|url=http://www.ttttontheweb.com/ttttnighttimeguide.html|website="To Tell the Truth" on the Web|accessdate=16 June 2016}}&lt;/ref&gt;
+*The coach in [[Peter Gent]]'s novel ''[[North Dallas Forty]]'' is based on Tom Landry.  [[G.D. Spradlin]] played the role in the film of the same name.
+*In the animated sitcom ''[[King of the Hill (TV series)|King of the Hill]]'', The Middle School in Arlen is named "Tom Landry Middle School", and  Landry is a personal hero of the show's main character [[Hank Hill]]. He mentions being "mortified" because he went to work on the date of Landry's death after his cousin Dusty (guest star [[Dusty Hill]] of [[ZZ Top]]) had previously tricked him into thinking Tom Landry had died, and he thought it was a repeat of that prank. Hank also has a Tom Landry ceramic plate that he sometimes consults in times of need, on one occasion saying, "Where did I go wrong, Tom?" Landry also occasionally appears to Hank in dream sequences to counsel him in times of need, such as during Hank's varnish induced hallucination on the episode "[[Hillennium]]", and in "[[Trans-Fascism]]"" when he tells Hank the consequences of breaking the law.
+*In an episode of ''[[The Simpsons]]'' ("[[You Only Move Twice]]"), [[Homer Simpson]] buys Tom Landry's trademark fedora in an effort to improve his leadership qualities, and is shown in several later episodes wearing the hat. Landry is also featured in the season 7 episode "[[Marge Be Not Proud]]" as one of the [[Christmas carol]]ers introduced by [[Krusty the Clown]] early in the episode.
+*In a [[Campbell Soup Company|Campbell's Chunky Soup]] commercial, the game takes place in a fictional [[Reggie White|Reginald H. White]] Memorial Park, on the corner of Landry Road and [[George Halas|Halas Drive]].&lt;ref&gt;[http://www.wsfa.com/Global/story.asp?S=6943121 "Local Football Star Demarcus Ware to be 'Mama's Boy' in Campbell's Soup Ad"], [[WSFA]].&lt;/ref&gt;
+
+==Personal life==
+Landry married Alicia Wiggs on January 28, 1949. They had a son and two daughters.&lt;ref&gt;[http://www.dallascowboysfanclub.com/history/tomlandry.htm Tom Landry] {{webarchive|url=https://web.archive.org/web/20100211142000/http://www.dallascowboysfanclub.com/history/tomlandry.htm |date=2010-02-11 }} at DallasCowboysFanClub.com&lt;/ref&gt; He was a Christian.&lt;ref&gt;{{cite news|last1=Kinsolving|first1=Carey|title=Faith on the Field|url=http://www.faithprofiles.org/FaithStories/tabid/59/articleType/ArticleView/articleId/24/categoryId/114/Faith-on-the-Field.aspx|accessdate=20 October 2017|agency=Houston Chronicle|date=9 May 1992}}&lt;/ref&gt;
+
+==See also==
+* [[List of National Football League head coaches with 50 wins]]
+* [[List of professional gridiron football coaches with 200 wins]]
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+*Cavanaugh, Jack (2008), ''Giants Among Men''. New York:Random House. {{ISBN|978-1-58836-697-9}}
+
+==Further reading==
+*Summerall, Pat and Levin, Michael (2010), ''Giants:What I learned about life from Vince Lombardi and Tom Landry'', Hoboken, New Jersey:John Wiley and Sons, Inc., ({{ISBN|978-0-470-90908-9}})
+
+==External links==
+* {{Profootballhof|id=119|name=Tom Landry}}
+* {{Find a Grave|8505|Tom Landry}}
+
+{{Navboxes
+| title = Tom Landry—awards, championships, and honors
+|list1 =
+{{New York Giants starting quarterback navbox}}
+{{1956 New York Giants}}
+{{NFL punting yards leaders}}
+{{Dallas Cowboys coach navbox}}
+{{1960 Dallas Cowboys}}
+{{Super Bowl VI}}
+{{Super Bowl XII}}
+{{AP NFL Coaches of the Year}}
+{{Dallas Cowboys Ring of Honor}}
+{{1990 Football HOF}}
+{{Pro Football Hall of Fame members}}
+}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Landry, Tom}}
+[[Category:1924 births]]
+[[Category:2000 deaths]]
+[[Category:American football cornerbacks]]
+[[Category:American football halfbacks]]
+[[Category:American football quarterbacks]]
+[[Category:Dallas Cowboys head coaches]]
+[[Category:New York Yankees (AAFC) players]]
+[[Category:New York Giants coaches]]
+[[Category:New York Giants players]]
+[[Category:Texas Longhorns football players]]
+[[Category:National Football League announcers]]
+[[Category:National Football League defensive coordinators]]
+[[Category:Eastern Conference Pro Bowl players]]
+[[Category:Pro Football Hall of Fame inductees]]
+[[Category:Super Bowl-winning head coaches]]
+[[Category:University of Houston alumni]]
+[[Category:United States Army Air Forces officers]]
+[[Category:United States Army Air Forces pilots of World War II]]
+[[Category:Sportspeople from Dallas]]
+[[Category:People from Mission, Texas]]
+[[Category:Players of American football from Texas]]
+[[Category:Deaths from leukemia]]
+[[Category:Deaths from cancer in Texas]]
+[[Category:Sparkman-Hillcrest Memorial Park Cemetery burials]]
+[[Category:20th-century Methodists]]
+[[Category:21st-century Methodists]]
+[[Category:American United Methodists]]</text>
+      <sha1>94jobhsb4o0647mf58tts7ckw2tidp9</sha1>
+    </revision>
+  </page>
+</mediawiki>

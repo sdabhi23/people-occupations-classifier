@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gary Hubler</title>
+    <ns>0</ns>
+    <id>13269213</id>
+    <revision>
+      <id>740734916</id>
+      <parentid>740734597</parentid>
+      <timestamp>2016-09-22T23:28:36Z</timestamp>
+      <contributor>
+        <username>Dcgibson55</username>
+        <id>18240388</id>
+      </contributor>
+      <comment>Fixed format of retrieved date in reference 1.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1621">[[Image:Gary Hubler.jpg|thumb|200px|Gary Hubler and his granddaughter during the 2007 Navy Days event at the Warhawk Air Museum in [[Nampa, Idaho]].]]
+'''Gary Hubler''' (June 14, 1955 – September 14, 2007) was a [[agricultural aircraft|crop duster]] and [[Aviator|commercial transport]] pilot with over 17,000 flight hours from [[Caldwell, Idaho]]. He was most notable for being Champion of the Formula 1 class of the [[Reno Air Races]] from 2002 through 2006.&lt;ref&gt;{{cite web
+| url         = http://mariah95.com/thepilot.htm
+| title       = PILOT, GARY HUBLER
+| accessdate  = 2010-12-04
+}}&lt;/ref&gt;
+
+== Death ==
+
+Hubler was killed just after 9:30 a.m. on September 14, 2007 when his modified Tuttle Cassutt IIIM aircraft, ''Mariah,'' and another aircraft piloted by [[Jason Somes]] collided. The NTSB concluded the probable cause was "the failure of the pilots of both aircraft to maintain an adequate visual lookout and clearance from one another during a low altitude aerial race."&lt;ref&gt;{{cite web
+| url         = http://ntsb.gov/_layouts/ntsb.aviation/brief2.aspx?ev_id=20070924X01441&amp;ntsbno=SEA07FA264B&amp;akey=2
+| title       = Full Narrative - Aviation SEA07FA264B
+| year        = 2008
+| publisher   = US National Transportation Safety Board
+| format      = 
+| accessdate  = 2016-09-22
+}}&lt;/ref&gt;
+
+== References ==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Hubler, Gary}}
+[[Category:1955 births]]
+[[Category:2007 deaths]]
+[[Category:American aviators]]
+[[Category:Aviators from Idaho]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:People from Caldwell, Idaho]]
+
+
+{{Aviation-bio-stub}}</text>
+      <sha1>b6ipj4t8x630ulb2dgkqlsqa3y0qcn1</sha1>
+    </revision>
+  </page>
+</mediawiki>

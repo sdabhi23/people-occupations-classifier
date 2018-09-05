@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bill Amend</title>
+    <ns>0</ns>
+    <id>262218</id>
+    <revision>
+      <id>850905463</id>
+      <parentid>844214711</parentid>
+      <timestamp>2018-07-18T19:07:32Z</timestamp>
+      <contributor>
+        <username>Wikindsay</username>
+        <id>34231497</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5004">{{Infobox comics creator
+| name          = Bill Amend
+| image         = 10.16.11BillAmendByLuigiNovi1.jpg
+| caption       = Amend at the 2011 [[New York Comic Con]].
+| alt           = 
+| birth_name    = William J. C. Amend III
+| birth_date    = {{Birth date and age|1962|9|20}}
+| birth_place   = [[Northampton, Massachusetts]]
+| notable works = ''[[FoxTrot]]'' comic strip&lt;br&gt;(1988–present)
+| awards        = [[Reuben Award]]&lt;br&gt;Outstanding Cartoonist of the Year (2006)
+| website       = 
+}}
+
+'''William J. C. "Bill" Amend III''' ({{IPAc-en|ˈ|eɪ|m|ə|n|d}}; born September 20, 1962) is an [[United States|America]]n [[cartoonist]], best known for his [[comic strip]] ''[[FoxTrot]]''.
+
+==Early life==
+Amend was born in [[Massachusetts]] and raised in Northern California. Amend attended high school in [[Burlingame, California|Burlingame]], [[California]] where he was a cartoonist on his school [[newspaper]]. Amend is an [[Eagle Scout (Boy Scouts of America)|Eagle Scout]] in the [[Boy Scouts of America]].&lt;ref&gt;{{cite web |url=http://www.nesa.org/comic-books.html |title=Elves, Heroes, and Eagle Scouts |accessdate=2012-07-16 |author=Mark Ray |authorlink= |coauthors= |date= |work=Notable Eagle Projects |publisher=National Eagle Scout Association |pages= |language= |quote= }}&lt;/ref&gt; He graduated with a degree in physics from Amherst College in 1984.
+
+==Career==
+After a short time in the animation business, Amend decided to pursue a cartooning career and signed on with [[Universal Press Syndicate]]. ''FoxTrot'' first appeared on April 10, 1988. On May 21, 1999, Amherst College awarded him an [[honorary degree]] as Doctor of Humane Letters.&lt;ref&gt;{{cite web|url=http://www3.amherst.edu/commencement/2000/hondeg00.html|title=Amherst College: 2000 Honorary Degree Citations|publisher=}}&lt;/ref&gt;
+
+On December 5, 2006, Universal Press Syndicate issued a [[press release]] stating that Amend's strip, ''FoxTrot'', would turn into a Sunday-only strip.  Amend stated that he wants to continue doing the strip, but at a less hurried pace.&lt;ref&gt;{{cite web|url=http://www.amuniversal.com/ups/newsrelease/?view=468|title=Universal Uclick - Home|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20080210065602/http://www.amuniversal.com/ups/newsrelease/?view=468|archivedate=2008-02-10|df=}}&lt;/ref&gt;  This news was followed by several weeks of the characters discussing a "cartoonist" semi-retiring to Sundays only, and what methods he would use to phase out the daily strips.  The last daily FoxTrot cartoon was printed on December 30, 2006.
+Amend also sometimes does guest strips for webcomics. He has done so once for PVP by Scott Kurtz and at least twice for Penny Arcade by Mike Krahulik and Jerry Holkins. Also at least once for XKCD, but he had to use sudo to get the rights to do so. &lt;ref&gt;https://xkcd.com/824/&lt;/ref&gt;
+&lt;ref&gt;{{cite web|url=http://www.amuniversal.com/ups/newsrelease/?view=468|title=Universal Uclick - Home|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20080210065602/http://www.amuniversal.com/ups/newsrelease/?view=468|archivedate=2008-02-10|df=}}&lt;/ref&gt;
+
+On May 26, 2007, Amend was presented with the [[Reuben Award]] for Outstanding Cartoonist of the Year.&lt;ref&gt;{{cite web|url=http://dailycartoonist.com/index.php/2007/05/28/bill-amend-presented-2007-reuben-award-for-cartoonist-of-the-year/|title=Bill Amend presented 2007 Reuben Award for Cartoonist of the Year The Daily Cartoonist|publisher=}}&lt;/ref&gt;
+
+==Personal life==
+Amend currently lives in the midwest.
+
+Amend made a [[television]] appearance on ''[[The Screen Savers]]'', which aired October 20, 2003 on the former [[TechTV]].  Amend is also an avid [[World of Warcraft]] player, but refuses to reveal his character's name, although he did mention in an interview with [[Allakhazam]] (a World of Warcraft fan site) that he played on the server 'Bronzebeard' (Jason is often shown or referred to playing "World of Warquest" in the strip).&lt;ref&gt;{{cite web|url=http://wow.allakhazam.com/news/sdetail5190.html?story=5190|title=Foxtrot's Bill Amend Discusses World of Warcraft with Allakhazam|work=World of Warcraft :: ZAM}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Bill Amend}}
+* [http://www.foxtrot.com/ FoxTrot] Amend's comic and blog
+* [http://www.reuben.org/ncs/members/biogs/amend.asp Short bio] at [[National Cartoonists Society|The National Cartoonists Society]] (with picture)
+* {{cite web |url= http://wow.allakhazam.com/news/sdetail5190.html |title= Foxtrot's Bill Amend Discusses World of Warcraft with Allakhazam |date= February 28, 2005 |publisher= [[Allakhazam]] }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Amend, Bill}}
+[[Category:Amherst College alumni]]
+[[Category:Eagle Scouts]]
+[[Category:People from Burlingame, California]]
+[[Category:People from Northampton, Massachusetts]]
+[[Category:Artists from Kansas City, Missouri]]
+[[Category:Reuben Award winners]]
+[[Category:American comic strip cartoonists]]
+[[Category:Living people]]
+[[Category:1962 births]]</text>
+      <sha1>92viqaa2qjp5n4tdqusxbg1gcal6b30</sha1>
+    </revision>
+  </page>
+</mediawiki>

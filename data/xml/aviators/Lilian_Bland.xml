@@ -1,0 +1,124 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lilian Bland</title>
+    <ns>0</ns>
+    <id>37237930</id>
+    <revision>
+      <id>812889325</id>
+      <parentid>771590709</parentid>
+      <timestamp>2017-11-30T13:46:23Z</timestamp>
+      <contributor>
+        <username>Lovelacepullinger</username>
+        <id>26360924</id>
+      </contributor>
+      <minor/>
+      <comment>/* Further reading */ Lewis</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7181">{{EngvarB|date=December 2013}}
+{{Use dmy dates|date=December 2013}}
+&lt;!-- Deleted image removed: [[File:Lilian Bland.jpg|thumb|right|Lilian Bland piloting ''Mayfly''.]] --&gt;
+[[File:Bland Mayfly.png|thumb|right|The ''Mayfly'']]
+'''Lilian Bland''' (22 September 1878 – 11 May 1971) was an Anglo-Irish journalist and aviator who, in 1910–11, became one of the first women in the world to design, build, and fly an aircraft.
+
+==Early life==
+
+Bland was born in [[Maidstone, Kent]] on 22 September 1878, to a family of Anglo-Irish gentry, the third child of John Humphrey Bland and his wife Emily Charlotte (née Madden) and lived at Willington House, Willington Street (formerly, Willington Lane).  Around the turn of the century, she began working as a journalist and press photographer for various London newspapers;&lt;ref name="Lewis-140"/&gt; she lived an unconventional lifestyle for the period, smoking, wearing trousers, and practising martial arts.&lt;ref name="McIlwaine"/&gt;
+
+Between 1900 and 1906, following the death of her mother, Bland and her father moved to Tobercorran House in [[Carnmoney]], north of [[Belfast]], to live with her aunt Sarah.&lt;ref name="McIlwaine"&gt;McIlwaine (2010)&lt;/ref&gt; Sarah Bland had married General [[William James Smythe]], who had died in 1887 leaving no children, and the two siblings had decided to set up house together. From here, Bland continued her photographic work, spending days on remote Scottish islands photographing seabirds.&lt;ref name="Lewis-140"&gt;Lewis (1964), p. 140&lt;/ref&gt;
+
+==Aviation career==
+
+Bland's uncle Robert sent her a postcard of the [[Blériot XI|Blériot monoplane]] from Paris, inspiring her to take up flying. At this point, no one in Ireland had yet made a powered flight – the first would be [[Harry Ferguson]], in December – and to make an aircraft would involve building it herself. Her late uncle, General William James Smythe, an astronomer and member of the Royal Society, had provided the house with a fully fitted workshop, and after some background reading on the [[Wright brothers]], Bland successfully built a flyable model biplane.&lt;ref name="Lewis-140"/&gt;
+
+[[File:The Mayfly in flight, Bland behind the wheel.jpg|thumb|''Mayfly'' in flight with Bland piloting]]
+
+From this, she progressed to a full-scale glider, which was built from spruce, bamboo and canvas, and completed early in 1910. The resulting [[Bland Mayfly|''Mayfly'']] was tested by gliding it from [[Carnmoney Hill]], being progressively strengthened and tested with heavier loads, until Bland felt it was strong enough to take an engine. She ordered a light 20 [[horsepower]] [[two-stroke engine]] from [[A. V. Roe &amp; Co.]], and after some delays brought it to Carnmoney in July.&lt;ref name="Lewis-140"/&gt;
+
+The horizontally opposed two-cylinder engine achieved 20 [[horsepower]] at 1000 rpm. Bland was eager to test the engine-powered aircraft before its petrol tank was ready, so she improvised: an empty whisky bottle was used instead, with Bland's deaf aunt's ear trumpet as the engine hose. This construction was not quite a success—the engine's vibrations compromised the security of the plane's nuts, bolts, and struts, and Bland's flight would have to wait.&lt;ref name="Lewis-140"/&gt;
+
+After miserable weather, the first successful flight was made at [[Randalstown]] in late August, a short hop off the ground. Not only did this make Bland the first woman to fly an aircraft in Ireland, but the ''Mayfly'' also became the first powered biplane in Ireland. She continued experimenting with further flights, mostly around thirty feet (ten metres) in length, sometimes requiring examination of the ground to identify when the ''Mayfly'' had actually lifted off. It was clear, however, that the aircraft was not capable of much more, and would not cope with a larger engine.&lt;ref name="Lewis-141"&gt;Lewis (1964), p. 141&lt;/ref&gt; She began to plan an improved version, and offered examples for sale at £250 apiece plus engine to fund further development.&lt;ref name="HistoryIreland"&gt;Andrews (2010)&lt;/ref&gt;
+
+==Later life==
+
+Bland's flying had been a source of some concern to her father, who saw it as unsafe as well as unseemly for a young woman. Around the end of the year, he persuaded her to give up the ''Mayfly'' in exchange for buying her a car. By April 1911 she was running a car dealership in Belfast, but in October gave up the business to marry her cousin Charles Loftus Bland, and emigrate to Canada.&lt;ref name="HistoryIreland"/&gt;
+
+Bland returned to the United Kingdom in 1935, settling in Kent, and in the 1950s retired to Cornwall. She died there, aged 92, on 11 May 1971.&lt;ref name="Lewis-141"/&gt; She is commemorated by an Ulster History Circle blue plaque at the family home at Carnmoney.
+
+== Aircraft ==
+* [[Bland Mayfly]]
+
+==Notes==
+{{reflist|25em}}
+
+==References==
+
+*{{cite journal|url=http://www.historyireland.com/20th-century-contemporary-history/from-the-files-of-the-dib/|journal=History Ireland|title=From the files of the DIB: Bland, Lilian Emily|volume=18|issue=1|year=2010|last=Andrews|first=Helen}}
+*{{cite journal |last=Lewis |first=Peter |title=Lilian Bland and the Mayfly |journal=Flight |date=23 January 1964 |pages=140–141 |url=http://www.flightglobal.com/pdfarchive/view/1964/1964%20-%200207.html |accessdate=5 October 2012}}
+
+==Further reading==
+*{{cite journal |last=Bland |first=Lilian |title=The Mayfly: the first Irish biplane and how she was built |journal=Flight |date=17 December 1910 |pages=1025–1029 |url=http://www.flightglobal.com/pdfarchive/view/1910/1910%20-%201027.html |accessdate=9 December 2013}}
+*{{citation |title=Before Amelia: Women Pilots in the Early Days of Aviation |first=Eileen |last=Lebow |publisher=Potomac Books |year=2002 |isbn=9781574884821}}
+*Lewis, P. (1962). ''British Aircraft 1809-1914'', pp 126-7.  Putnam, London.
+*{{cite news |last=McIlwaine |first=Eddie |title=Journalist, photographer, crackshot and the first woman to fly an aeroplane... the amazing Lilian Bland |url=http://www.belfasttelegraph.co.uk/lifestyle/features/journalist-photographer-crackshot-and-the-first-woman-to-fly-an-aeroplane-the-amazing-lilian-bland-14909190.html|accessdate=5 October 2012 |newspaper=Belfast Telegraph |date=12 August 2010}}
+*{{cite web |last=Newmann |first=Kate |title=Lilian Bland (1878–1971) |url=http://www.newulsterbiography.co.uk/index.php/home/viewPerson/117 |work=Dictionary of Ulster Biography |publisher=Ulster History Circle |accessdate=5 October 2012}}
+*{{citation |title=The Blessings of a Good Thick Skirt |first=Mary |last=Russell |publisher=HarperCollins |year=2012 |isbn=9780007464142}}
+*{{citation |title=Lilian Bland |first=Guy |last=Warner |publisher=Nicholson and Bass |year=2010 |isbn=9781905989515}}
+* {{cite news|title=Lilian Bland remembered|date=31 August 2010|work=BBC Cornwall|url=http://news.bbc.co.uk/local/cornwall/hi/people_and_places/history/newsid_8956000/8956919.stm}}
+
+{{DEFAULTSORT:Bland, Lilian}}
+[[Category:1878 births]]
+[[Category:1971 deaths]]
+[[Category:People from Maidstone]]
+[[Category:Female aviators]]
+[[Category:English aviators]]
+[[Category:English emigrants to Canada]]
+[[Category:British female aviators]]
+[[Category:Irish female aviators]]</text>
+      <sha1>08wbpppu6wzkmsrd5f2o5t4xu942bpr</sha1>
+    </revision>
+  </page>
+</mediawiki>

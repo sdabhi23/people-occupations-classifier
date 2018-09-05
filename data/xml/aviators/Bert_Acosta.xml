@@ -1,0 +1,188 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bert Acosta</title>
+    <ns>0</ns>
+    <id>1451143</id>
+    <revision>
+      <id>851832606</id>
+      <parentid>851425486</parentid>
+      <timestamp>2018-07-24T22:06:28Z</timestamp>
+      <contributor>
+        <username>Alaney2k</username>
+        <id>209266</id>
+      </contributor>
+      <minor/>
+      <comment>the work's name is "The New York Times"; publisher=&gt;work in cite using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23650">{{Infobox person
+| name          = Bertrand Blanchard Acosta
+| image         = Acosta-Bert 1927.png
+| caption       = Acosta circa 1927 
+| birth_date    = {{Birth date|1895|1|1|mf=y}}
+| nationality   = American
+| birth_place   = [[San Diego, California]]
+| death_date    = {{Death date and age|1954|9|1|1895|1|1|mf=y}}
+| death_place   = [[Denver, Colorado]]
+| resting_place = [[Portal of Folded Wings Shrine to Aviation|Portal of Folded Wings]]
+| occupation    = [[Aviator]], [[Test pilot]]
+| education     = [[Throop Polytechnic Institute]]
+| spouse        = {{marriage|Mary Louise Brumley (1886-1962)&lt;br&gt;|1918|1920|end=divorce}}&lt;br&gt;{{marriage|Helen Belmont Pearsoll&lt;br&gt;|1921|September 1, 1954|end=his death}}
+| parents       = Miguel Acosta &lt;br&gt; Martha Blanche Reilly
+| children      = Bertina Dolores Acosta (1918-1970) Saranto&lt;br&gt;Gloria Consuelo Acosta (born 1919)&lt;br&gt;Bertrand Blanchard Acosta, Jr. (1922-1993)&lt;br&gt;Allyn Lee Acosta (1924-1997)
+}}
+
+'''Bertrand Blanchard Acosta''' (January 1, 1895 &amp;ndash; September 1, 1954) was a record-setting aviator. With [[Clarence D. Chamberlin]] they set an endurance record of 51 hours, 11 minutes, and 25 seconds in the air. He later flew in the [[Spanish Civil War]] in the [[Yankee Squadron]].&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=4 Americans in Spain to Fly for Madrid. Acosta and Three Mates Reach Valencia to Take Course in Military Aviation. |url=https://www.nytimes.com/1936/11/21/archives/4-americans-in-spain-to-fly-for-madrid-acosta-and-three-mates-reach.html |quote=Bert Acosta, one of this country's leading racing pilots, and four other fliers from fields in the Newark district have arrived at [[Valencia, Spain]], where they will go through a hurried course in military flying before taking the air against the Rebels, it was revealed here yesterday. |work=[[The New York Times]] |date=November 21, 1936|accessdate=2007-09-25 }}&lt;/ref&gt; He was known as the "bad boy of the air". He received numerous fines and suspensions for flying stunts such as flying under bridges or flying too close to buildings.&lt;ref name=died/&gt;
+
+==Birth==
+Acosta was born in [[San Diego, California]] to Miguel Acosta and Martha Blanche Reilly.&lt;ref&gt;Bertrand Blanchard Acosta's mother had a half-brother with the surname of Snook.&lt;/ref&gt; He attended the [[Throop Polytechnic Institute]] in [[Pasadena, California]] from 1912 to 1914.&lt;ref&gt;{{cite web |url=http://www.earlyaviators.com/eacosta.htm |title=Bertrand Blanchard Acosta |accessdate=2007-09-25 |quote=Taught self to fly, August 1910; built experimental planes and continued personal research until 1912; joined Glenn H. Curtiss as apprentice assisting in developing land and hydroplanes; instructed in flying; 1915. became instructor of R.F.C. and R.N.A.S. at Toronto, Canada ...&lt;!--; trained many of the first overseas contingent and continued this work for two years; 1916-1917, made chief instructor, A.S.S.C. at Hazelhurst Field, L. I.; 1918, director of flying, testing and consulting aeronautical engineer as assistant to Col. E. J. Hall, Bureau of Aircraft Production; appointed Captain, A.S. (reserve); after armistice until 1923, chief test pilot and consultant, Curtiss Aeroplane and Motor Corp., J. L. Aircraft., Netherlands Aircraft Co., Remington Burnelli, Corp. Wright Aeronautical Corp., Bee Line Co., and various other companies and individuals; experience covers practically every type of plane, land, hydroplanes and flying boats; first pilot in this country to attain speed of 200 miles per hour; 1920, third place, First Pulitzer Trophy Race; first place, Second Pulitzer Trophy Race; made first transcontinental round trip. --&gt;|publisher=Early Aviators }}&lt;/ref&gt;
+
+He taught himself to fly in August 1910 and built experimental airplanes up until 1912 when he began work for [[Glenn Curtiss]] as an apprentice on a [[seaplane|hydroplane]] project. In 1915 he worked as a flying instructor. He went to Canada and worked as an instructor for the [[Royal Flying Corps]] and [[Royal Naval Air Service]] in [[Toronto]]. In 1917 he was appointed chief instructor, [[Aviation Section, U.S. Signal Corps]] at Hazelhurst Field, [[Long Island]] where he test flew early open-cockpit aircraft such as the [[Continental KB-1]] over New York in below freezing conditions.&lt;ref&gt;{{cite journal|magazine=Aviation|title=Continental Pusher Biplane|page=35|date=1 February 1918}}&lt;/ref&gt;
+
+Acosta married Mary Louise Brumley (1886–1962) in 1918 but they divorced in 1920.&lt;ref&gt;Mary Louise Brumley (1886&amp;ndash;1962) born on July 27, 1886 in Norfolk Virginia, and she was a descendant of Henry Clay. She died in 1962. Ida Clay Baker was her mother. She married John Earl Pringell after the divorce from Bert.&lt;/ref&gt; He won The Pulitzer Trophy Race in 1921 and the same year set an [[airspeed record]] of 176.9 miles an hour.&lt;ref&gt;[http://www.airpower.maxwell.af.mil/apjinternational/apj-s/2trimes99/ashcroft.htm]&lt;/ref&gt; In 1922 he served as a test pilot for the [[Stout Batwing Limousine]], Stout's forerunner to the [[Ford Trimotor]]. In 1925 he was a lieutenant in the [[U.S. Navy]] and was living at 1 Winslow Court in [[Naugatuck, Connecticut]]. He married Helen Belmont Pearsoll, on August 3, 1921.  They eventually separated but never divorced.
+
+==Endurance record==
+In April 1927, he and [[Clarence D. Chamberlin]] set an endurance record of 51 hours, 11 minutes, and 25 seconds in the air. ''[[Time (magazine)|Time]]'' magazine reported on April 25, 1927:&lt;!--No renewal so the text is in the public domain--&gt;
+&lt;blockquote&gt;
+Engineer [[Giuseppe M. Bellanca]] of the [[Columbia Aircraft Corporation]] had conditioned an [[Wright-Bellanca WB-2 Columbia|elderly yellow-winged monoplane]] with one Wright motor, and scouted around for pilots. Lieut. [[Leigh Wade]], round-the-world flyer, declined the invitation, saying Mr. Bellanca's plans were too stunt-like, not scientific. Shrugging, Mr. Bellanca engaged Pilots [[Clarence Duncan Chamberlin]] and burly Bert Acosta, onetime auto speedster, to test his ship's endurance. Up they put from [[Mitchel Field, Long Island]], with 385 gallons of ethylated (high power) gasoline. All day they droned back and forth over suburbia, circled the [[Woolworth Building]], hovered over [[Hadley Field, New Jersey]], swung back to drop notes on [[Mitchel Field]]. All that starry night they wandered slowly around the sky, and all the next day, and through the next night, a muggy, cloudy one. Newsgatherers flew up alongside to shout unintelligible things through megaphones. Messrs. Acosta and Chamberlain were looking tired and oil-blobbed. They swallowed soup and sandwiches, caught catnaps on the mattressed fuel tank, while on and on they droned, almost lazily (about 80 m.p.h.) for they were cruising against time. Not for 51 hours, 11 minutes, 25 seconds, did they coast to earth, having broken the U.S. and world's records for protracted flight. In the same time, conditions favoring, they could have flown from [[Manhattan]] to [[Vienna]]. They had covered 4,100 miles. To Paris it is 3,600 miles from Manhattan. Jubilant, Engineer Bellanca's employers offered competitors a three-hour headstart in the race to Paris. The [[Bellanca]] monoplane's normal cruising speed is 110 m.p.h. She would require only some 35 hours to reach Paris—if she could stay up that long again.&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Paris Preliminaries |url=http://www.time.com/time/magazine/article/0,9171,730448,00.html |quote=Engineer [[Giuseppe M. Bellanca]] of the [[Columbia Aircraft Corporation]] had conditioned an elderly yellow-winged monoplane with one Wright motor, and scouted around for pilots. Lieut. [[Leigh Wade]], round-the-world flyer, declined the invitation, saying Mr. Bellanca's plans were too stunt-like, not scientific. |publisher=[[Time (magazine)|Time]] |date=April 25, 1927 |accessdate=2007-09-25 }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+==Orteig Prize Attempt==
+[[Columbia Aircraft Corp]] president [[Charles Levine]] planned on using [[Clarence Chamberlin]] or Bert Acosta as pilot with [[Lloyd W. Bertaud]] as copilot on their attempt at the [[Orteig prize]] in the [[Wright-Bellanca WB-2 Columbia]]. Levine bumped Bertaud from the copilot position, prompting an injunction preventing any Orteig record flight. [[Charles Lindbergh]] arrived on May 5, 1927. While Chamberlin waited for the injunction to be lifted, his other competition, [[Richard Evelyn Byrd|Admiral Byrd's]] team was repairing his Fokker C-2 Trimotor, the "[[America (C-2)|America]]" after a practice run crash. On May 20–21, 1927, Lindbergh left [[Roosevelt Field, New York|Roosevelt Field]] and crossing the Atlantic, while leaving the 'Columbia' and 'Atlantic' behind at the adjacent [[Curtiss Field]].&lt;ref&gt;{{cite web|title=Bellanca Aircraft |url=http://www.centennialofflight.gov/essay/GENERAL_AVIATION/bellanca/GA1.htm |accessdate=17 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101121085815/http://centennialofflight.gov/essay/GENERAL_AVIATION/bellanca/GA1.htm |archivedate=21 November 2010 |df= }}&lt;/ref&gt;
+
+==Transatlantic flight==
+On June 29, 1927, thirty-three days after Charles Lindbergh's record setting [[transatlantic flight]], Acosta flew from [[Roosevelt Field, New York|Roosevelt Field]] on Long Island to France with Commander [[Richard E. Byrd]], Lieutenant [[George O. Noville]] and [[Bernt Balchen]] aboard the ''[[America (C-2)|America]]''.&lt;ref&gt;{{cite web |url=http://www.check-six.com/Crash_Sites/America-NX206.htm |title=
+The Trans-Atlantic Flight of the 'America' |accessdate=2008-11-11 |quote= |publisher=Check-Six }}&lt;/ref&gt; A short film of Acosta, Byrd, George Noville, and [[Grover Whalen]] giving a farewell speech was filmed in the [[Phonofilm]] sound-on-film process on June 29 and released as ''America's Flyers''. During the flight, the (perhaps apocryphal) story was that Byrd had to hit Acosta over the head with a fire extinguisher or a flashlight when he got out of control from drinking during their flight.&lt;ref name=natural&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Pilot's Pilot |url=http://www.time.com/time/magazine/article/0,9171,883487,00.html |quote=Long before anyone ever heard of Lindbergh, Chamberlin, Post or Earhart, one of aviation's big names was Bert Acosta. Famed as a 'natural' among pilots, he probably had a greater talent for flying than any man before or since. But like many another early barnstormer and stunter, he took to the fleshpots on earth as an offset to his work in the air. His life, consequently, became a rowdy romance in which brawls, jails and domestic entanglements were due to play a large part. |publisher=[[Time (magazine)|Time]] |date= June 10, 1935 |accessdate=2007-09-25 }}&lt;/ref&gt;
+
+==Bad Boy==
+In 1928 [[Connecticut]] suspended his pilot license for trying to fly under the Whittemore Memorial Bridge in [[Naugatuck]]. According to local Naugatuck tradition, the wing span of his aircraft was much longer than the width of the center arch of the bridge. The flight may have been a publicity stunt, as there was an advertisement for Splitdorf Spark Plugs on the fuselage.
+
+In 1929 he was fined $500 for low flying and stunting. When he failed to pay the fine, the [[Department of Commerce]] revoked his pilot license. He was arrested by Connecticut State troopers in 1930 for flying without a license.&lt;ref name=natural/&gt;&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Bert Acosta Freed In Connecticut Case. Two-Year-Old Charge For Stunt Flying At Naugatuck Dropped By Waterbury Prosecutor. Pilot Promises To Behave His Air Record Wins Leniency, But He Faces Federal Inquiry On Flight Without License.  |url=https://www.nytimes.com/1930/09/19/archives/bert-acosta-freed-in-connecticut-case-twoyearold-charge-for-stunt.html |quote=[[Waterbury, Connecticut]]; September 18, 1930; ([[Associated Press]]). Bert Acosta, transatlantic flier, who was arrested in Wilton last night after he had landed his plane in a meadow, received a nolle today in ... |work=[[The New York Times]] |date=September 19, 1930 |accessdate=2007-09-25 }}&lt;/ref&gt;
+
+A new [[Terle Sportplane]] was being tested at [[Roosevelt Field]] in New York in 1931, but the [[Civil Aeronautics Administration (United States)|CAA]] did not register it as a licensed aircraft. The aircraft was later test flown by Acosta, who found it perfect for his use since he was currently grounded from flying licensed aircraft from a previous infraction. After performing aerobatics with the aircraft to a large crowd, Acosta and Terle planned to produce the aircraft together as the "Acosterle Wild Cet". The aircraft was test flown for two years, but could not meet certification requirements.&lt;ref&gt;{{cite journal|title=none|magazine=Experimenter|date=May 1957}}&lt;/ref&gt;
+
+In 1931 with Captain Lisandro Garay of the Honduran Air Force he planned to fly from New York to [[Honduras]] . They left from [[Floyd Bennett Field]] and loaded their [[Bellanca monoplane]] with 360 gallons of gasoline to make a test flight, Bert disappeared and never made the flight.&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Biggests |url=http://www.time.com/time/magazine/article/0,9171,742123,00.html |quote=Captain Lisandro Garay of the Honduran Air Force last week at Floyd Bennett Field loaded a Bellanca monoplane with 360 gallons [of] gasoline and Bert Acosta 'to make a test flight' from New York to Honduras. Acosta sneaked away; Captain Garay took off, headed for [[Tegucigalpa]], reprimand, glory, or death. |publisher=[[Time (magazine)|Time]] |date=August 17, 1931 |accessdate=2007-09-25 }}&lt;/ref&gt;
+
+==Spanish Civil War==
+In 1936 Acosta was head of the [[Yankee Squadron]] in the [[Spanish Civil War]] with [[Eddie August Schneider]] and [[Frederic Ives Lord]].&lt;ref&gt;Bertrand Blanchard Acosta had been living at 46 West 17th Street in New York City before leaving for Spain.&lt;/ref&gt;&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=3 U.S. Airmen Here to Explain Aid to Loyalists; Acosta, Berry, Schneider Fly to Capital With Their Attorney|quote= |work=[[The Washington Post]] |date=January 20, 1937}}&lt;/ref&gt;
+
+''Time'' magazine wrote on December 21, 1936:
+&lt;blockquote&gt;
+Hilariously celebrating in the ship's bar of the Normandie with their first advance pay checks from Spain's Radical Government, six able U.S. aviators were en route last week for Madrid to join Bert Acosta, pilot of Admiral Byrd's transatlantic flight, in doing battle against Generalísimo [[Francisco Franco]]'s White planes. Payment for their services: $1,500 a month plus $1,000 for each White plane brought down.&lt;ref name=normandie&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Pilots, Death, Plebiscite |url=http://www.time.com/time/magazine/article/0,9171,757204,00.html |quote=Hilariously celebrating in the ship's bar of the Normandie with their first advance pay checks from Spain's Radical Government, six able U.S. aviators were en route last week for Madrid to join Bert Acosta, pilot of Admiral Byrd's transatlantic flight, in doing battle against Generalísimo [[Francisco Franco]]'s White planes. Payment for their services: $1,500 a month plus $1,000 for each White plane brought down. |publisher=[[Time (magazine)|Time]] |date=December 21, 1936 |accessdate=2007-08-21 }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+''Time'' magazine wrote on January 4, 1937, although the attack was later determined to be propaganda:
+&lt;blockquote&gt;&lt;!--The copyrights of Time magazine are held by Time, Inc. Copyright was not renewed on this early issue, which has therefore fallen into the public domain per US law.--&gt;
+On Christmas Eve the "[[Yankee Squadron]]" of famed U.S. aviators headed by Bert Acosta, pilot of Admiral Byrd's transatlantic flight, at the last minute abandoned plans for a whoopee party with their wives at Biarritz, swank French resort across the Spanish frontier. They decided that they would rather raid Burgos, Generalísimo Franco's headquarters. The hundreds of incendiary bombs that they dropped on White hangars and munition dumps they jokingly described as "Messages of Christmas Cheer for the boys in Burgos."&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Uneasy Christmas |url=http://www.time.com/time/magazine/article/0,9171,762332-2,00.html |quote=On Christmas Eve the "Yankee Squadron" of famed U. S. aviators headed by Bert Acosta, pilot of Admiral Byrd's transatlantic flight, at the last minute abandoned plans for a whoopee party with their wives at Biarritz, swank French resort across the Spanish frontier. They decided that they would rather raid Burgos, [[Generalissimo Franco]]'s headquarters. The hundreds of incendiary bombs that they dropped on White hangars and munition dumps they jokingly described as "Messages of Christmas Cheer for the boys in Burgos. |publisher=[[Time (magazine)|Time]] |date=January 4, 1937 |accessdate=2007-09-25 }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+==Death==
+In December 1951 Acosta collapsed in a New York City bar and was hospitalized with [[tuberculosis]]. He died at the Jewish Consumptive's Relief Society sanatorium in [[Colorado]] in 1954.&lt;ref name=died&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Died. |url=http://www.time.com/time/magazine/article/0,9171,820213,00.html |quote= Bert Acosta, 59, pilot of the historic multi-engined flight across the Atlantic (1927) with Admiral Richard E. Byrd and Bernt Balchen; of [[tuberculosis]]; in Denver. At 14 (in 1910), Acosta built and flew his own plane, went on to establish a world's speed record (176.7 m.p.h.) at 26 and endurance record (51 hr. 11 min. 25 sec.) at 32; in later life, despite hard times and family problems, wound up with a legendary reputation for skillful piloting and artful risk-taking (e.g., he once buzzed Manhattan's Metropolitan Life tower to see what time it was). |publisher=[[Time (magazine)|Time]] |date= September 13, 1954 |accessdate=2007-09-25 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Bert Acosta 59, A Veteran Flier; Piloted Plane With Byrd and Balchen Across Atlantic in 1927, Dead in Denver. |url=https://www.nytimes.com/1954/09/02/archives/bert-a0sta-59-a-neteran-flier-piloted-plane-with-byrd-and-balchen-a.html |quote= |work=[[The New York Times]] |date=September 2, 1954 |accessdate=2007-09-25 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Bert Acosta, Atlantic Flier, Dies |url= |quote=Bert B. Acosta, spectacular barnstorming pilot who, with Admiral [[Richard E. Byrd]], made the first trans-Atlantic flight in a multi-engined plane, died yesterday from advanced tuberculosis in a Denver sanatorium, the [[Associated Press]] reported. |work=[[The Washington Post]] |date=September 2, 1954}}&lt;/ref&gt; He was 59. Acosta was buried at the [[Portal of the Folded Wings Shrine to Aviation]] at [[Valhalla Memorial Park Cemetery]] in [[North Hollywood, California]].
+
+==Legacy==
+In 2014, Acosta was posthumously inducted into the [[National Aviation Hall of Fame]], along with pilot and astronaut [[James McDivitt]], the first female airline captain [[Emily Warner]], [[Cirrus Aircraft|Cirrus]] founders and designers [[Dale and Alan Klapmeier]], and [[homebuilt aircraft]] racer [[Steve Wittman]].&lt;ref&gt;{{cite web|title=Aviation Hall Of Fame Honors Six|url=http://www.avweb.com/avwebflash/news/Aviation-Hall-Of-Fame-Honors-Six221134-1.html|accessdate=23 December 2013}} His name was submitted for induction by Norberto Franco Cisneros.&lt;/ref&gt;
+
+==See also==
+*[[Flight airspeed record]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+{{refbegin|2}}
+* ''[[The New York Times]]'', [[New York City]], November 4, 1921; "Bert Acosta Wins Air Race Trophy; New York Aviator Defeats Five Contestants For The Pulitzer Silver Prize. H.E. Hartney Badly Hurt Parachute Jumper Drowned By Falling Into River After A 1,000-foot Leap At Omaha. [[Omaha, Nebraska]], November 3, 1921. Bert Acosta of New York won the annual Pulitzer silver trophy race for heavier-than-air craft here today, defeating a field of five other contestants one of whom, [[Harold Evans Hartney|H. E. Hartney]] of New York, was injured when his plane crashed near [[Loveland, Iowa]]."
+* ''[[The New York Times]]'', [[New York City]], October 2, 1922; "Brings Plane To Earth Without Landing Gear. Bert Acosta Comes Down Safely at Selfridge Field. Astonishes the Onlookers. [[Mount Clemens, Michigan]], October 1, 1922. Landing the Navy Bee Line racer, which he was testing preparatory to its entry in the airplane races at Selfridge Field, October 12, 13 and 14, Bert Acosta brought the plane to Earth this afternoon without the use of its landing gear."
+* ''[[The New York Times]]'', [[New York City]], October 7, 1923; "Aviator Sent to Jail; Judge Gives Bert Acosta Five Days for Driving Auto While Drunk."
+* ''[[The New York Times]]'', [[New York City]], January 25, 1928; "Jersey Sheriff Wants Bert Acosta's Plane, Which Flew Away After His Attachment. Bert Acosta's Fokker monoplane The Splitdorf is wanted in Bergen County, New Jersey. Under Sheriff Jack Donaldson wants it. For a little while on Monday afternoon through his deputy, Louis Turro, the ..."
+* ''[[Daily News (New York)|Daily News]]'', [[Frederick, Maryland]], December 3, 1936; "Acosta faces rebels"
+* ''[[The New York Times]]'', [[New York City]], February 20, 1937; "Aviator Held in Nassau in Failure to Post Bail on Wife's Charge. Bert Acosta, who recently faced a Federal inquiry for enlisting in the Spanish Loyalist air force, was remanded to the Nassau County jail here this afternoon pending the posting of a $500 bond to insure his appearance in Children's Court next Friday morning."
+* ''[[The New York Times]]'', [[New York City]], December 17, 1945; "Bert Acosta in Hospital"
+* ''[[The New York Times]]'', [[New York City]], August 12, 1952; "Bert Acosta in Hospital"
+* ''[[New Bridgeport Telegram]]'', [[Bridgeport, Connecticut]], September 2, 1954, Obituary
+* ''[[Time (magazine)|Time]]'', July 11, 1927, "Four men in a fog"
+* ''[[Time (magazine)|Time]]'', February 6, 1928, "Goal"
+* ''[[Time (magazine)|Time]]'', September 28, 1936, "Transatlantic Tradition", Pilot crews that hate each other
+* ''[[Time (magazine)|Time]]'', March 25, 1957, "End of the Adventure", Byrd Obituary
+{{refend}}
+
+==External links==
+{{commons category|Bert Acosta}}
+*[https://web.archive.org/web/20121127110513/http://www.corbisimages.com/Search#q=bert+acosta Bert Acosta] at [[Branded Entertainment Network|Corbis]]
+*[http://knol.google.com/k/richard-norton/bert-acosta-1895-1954-bibliography/bu8pqanp0ghe/71# Bert Acosta bibliography]
+*[http://www.nyu.edu/library/bobst/research/tam/alba_names.html Spanish Civil War Participants]
+*{{Early Aviators|eacosta.htm}}
+*[http://www.aerofiles.com/bio_a.html Bert Acosta] at Aerofiles
+*[http://www.airmailpioneers.org/content/Pilots/Acosta.htm Air Mail Pioneers: Bert Acosta]
+
+{{s-start}}
+{{succession box 
+| before = [[Clarence Duncan Chamberlin]]
+| title  = [[Transatlantic flight]]
+| years  = 1927 
+| after  = [[James Fitzmaurice (pilot)|James Fitzmaurice]]}}
+{{s-end}}
+
+{{AHOFONJ}}
+{{FoldedWings}}
+{{Authority control}}
+
+{{DEFAULTSORT:Acosta, Bert}}
+[[Category:1895 births]]
+[[Category:1954 deaths]]
+[[Category:People from San Diego]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:Aviators from California]]
+[[Category:Spanish Civil War pilots]]
+[[Category:Yankee Squadron]]
+[[Category:20th-century deaths from tuberculosis]]
+[[Category:Burials at Valhalla Memorial Park Cemetery]]
+[[Category:Infectious disease deaths in Colorado]]
+[[Category:Flight endurance record holders]]
+[[Category:American aviation record holders]]</text>
+      <sha1>2cxu17jsmmerig7t0ltp8qzzbww5r9z</sha1>
+    </revision>
+  </page>
+</mediawiki>

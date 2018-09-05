@@ -1,0 +1,337 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mark Thomas</title>
+    <ns>0</ns>
+    <id>151573</id>
+    <revision>
+      <id>846965021</id>
+      <parentid>846284882</parentid>
+      <timestamp>2018-06-22T00:31:58Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29422">{{About|the comedian and activist}}
+{{lead too short|date=April 2012}}
+{{Use dmy dates|date=March 2012}}
+{{Use British English|date=March 2012}}
+{{Infobox person
+| name               = Mark Clifford Thomas
+| image              = mark_thomas.png
+| image_size         = 200px
+| birth_name         = Mark Clifford  Thomas
+| birth_date         = {{birth date and age|1963|04|11|df=y}}
+| birth_place        = [[London, England]], UK
+| death_date         = 
+| death_place        = 
+| residence          = London, England, UK
+| known_for          = Political activism
+| employer           = | occupation         = [[Comedian]]&lt;br&gt;[[Activist]]&lt;br&gt;[[Radio presenter|Presenter]]&lt;br&gt;[[Journalist]]&lt;br&gt;[[Columnist]]
+| spouse             = Married
+| children           = 2
+| website            = [http://www.markthomasinfo.com/ MarkThomasInfo.com]
+}}
+
+'''Mark Clifford Thomas''' (born 11 April 1963) is an English [[comedian]], presenter, political satirist and journalist from south London. He first became known as a guest comic on the [[BBC Radio 1]] comedy show ''[[The Mary Whitehouse Experience]]'' in the late 1980s. He is best known for political stunts on his show, ''[[The Mark Thomas Comedy Product]]'' on [[Channel 4]]. Thomas describes himself as a "[[Anarchism|libertarian anarchist]]".&lt;ref name="guardian 20 January 1999"&gt;
+{{Cite web
+|url=https://www.theguardian.com/g2/story/0,3604,323027,00.html
+|title=Stand up and be taunted
+|date=20 January 1999
+|accessdate=2007-01-17
+|publisher=[[The Guardian]]
+|author=Phil Daoust}}
+&lt;/ref&gt;
+
+==Biography==
+
+===Early life and education===
+Mark Thomas was born in [[South London]]. His mother was a [[midwife]] and his father a self-employed builder (and ex-[[lay preacher]]).&lt;ref name="bio"&gt;
+{{Cite web
+|url=http://www.markthomasinfo.com/info/biog.asp
+|title=Biography
+|accessdate=2007-01-17
+|publisher=markthomasinfo.com |archiveurl = https://web.archive.org/web/20070113214238/http://www.markthomasinfo.com/info/biog.asp |archivedate = 2007-01-13}}
+&lt;/ref&gt;
+Thomas was educated at Macaulay Church of England Primary School, Victoria Rise, Clapham until 1974, where his party trick was to recite the first verses of the four [[gospel]]s from memory. He then won a scholarship to attend the independent [[Christ's Hospital]] School, where he attained [[General Certificate of Education|O-levels]] and [[Advanced Level (UK)|A-levels]] in English, history, and politics and economics.&lt;ref name="guardian 20 January 1999"/&gt; At school, Thomas was influenced by his drama teacher, Duncan Noel-Paton, and by [[Bertolt Brecht]]'s play ''[[The Caucasian Chalk Circle]]'', in which the audience's sympathies are swayed from one view of a political argument to the other; speaking of this to ''[[The Guardian]]'' in 1999, he said "I was amazed that a play could make you change your mind".&lt;ref name="guardian 20 January 1999"/&gt; He went on to be awarded a degree in Theatre Arts at [[Bretton Hall College of Education|Bretton Hall College]].
+
+===Career===
+After graduating, Thomas subsequently embarked on his comedy career, initially supporting himself through working on building sites with his father. Thomas' early exposure to comedy was through watching and listening to [[Dave Allen (comedian)|Dave Allen]], ''[[Steptoe and Son]]'', ''[[The Goon Show]]'' and [[Tony Hancock]]; his biggest influence was hearing a recording of [[Alexei Sayle]]: "It was like someone had kicked the door in - just listening to that tape and thinking that someone could do this stuff".&lt;ref name="guardian 20 January 1999"/&gt; He went on to write material for Dave Allen.&lt;ref&gt;{{cite web |url=http://metro.co.uk/2012/10/23/comedian-mark-thomas-my-dad-was-a-right-wing-thatcher-supporter-606707/ |title=Comedian Mark Thomas: My dad was a right-wing Thatcher supporter |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=23 October 2012 |website=[[metro.co.uk]] |accessdate=29 April 2013}}&lt;/ref&gt;
+
+Prior to his most renowned vehicle, ''The Mark Thomas Comedy Product'', Thomas was a frequent guest comic on the [[BBC Radio 1]] show ''The Mary Whitehouse Experience'', where he would do a routine about a specific topic of the week and involve studio audience members in the discussions. He would also occasionally play parts in sketches written by the show's main performers. He then became the resident [[stand-up comedy|stand-up]] comic on ''Saturday Zoo'', a [[Channel 4]] comedy series first screened in 1993 and appeared on an episode of ''[[Have I Got News for You]]''. He co-presented the highly successful Radio 1 comedy talk show ''Loose Talk'' with [[Kevin Day]], and is a founder member of the London [[The Comedy Store, London|Comedy Store]]'s hard hitting ''Cutting Edge'' show.
+
+His political comedy show, ''The Mark Thomas Comedy Product'' (later renamed as simply ''The Mark Thomas Product'', to reflect its increasing political agenda) on Channel 4 earned him criticism from [[politician]]s but was seen by critics as a crucial investigative tool. In one edition, Thomas investigated the practice of avoiding inheritance tax by declaring art, furniture, homes and land available for public viewing. After discovering that [[Conservative Party (UK)|Conservative]] [[Member of parliament|MP]] [[Nicholas Soames]] was claiming tax relief on a "three-tier mahogany buffet with partially reeded slender balustrade upright supports" on this basis, but without making any arrangements for the furniture to be inspected by the public, Thomas invented a 'National Soames Day' on which hundreds of people made appointments to see the furniture.&lt;ref name="BBC 31 October 2006"&gt;{{cite web |url= http://news.bbc.co.uk/1/hi/uk_politics/wales/6102120.stm|title= Wales@Westminster newslog |last= Cornock| first= David |date= 31 October 2006|website= [[BBC News Online]] |publisher= | accessdate= 23 May 2016}}&lt;/ref&gt;&lt;ref name="The Independent 31 October 2015"&gt;{{cite news |last= Jacques |first= Adam |title= Mark Thomas interview: The social-activist comedian talks opera, charity shops, and Nicholas Soames|url= https://www.independent.co.uk/news/people/profiles/mark-thomas-interview-the-social-activist-comedian-talks-opera-charity-shops-and-nicholas-soames-a6714471.html| date= 31 October 2015|newspaper= [[The Independent]] |location=London| accessdate= 23 May 2016 }}&lt;/ref&gt; Soames subsequently decided to pay the tax on the item and [[Gordon Brown]], then [[Chancellor of the Exchequer]], changed the law.{{citation needed|date=November 2011}} In 2015, Thomas told ''[[The Independent]]'''s Adam Jacques: "I try to find the good in my enemies. It's not unusual to be able to get on with people despite what they are doing being awful. The only person I have met who I considered to be without any redeeming features was […] Nicholas Soames. […] He was such a pantomime baddie."&lt;ref name="The Independent 31 October 2015"/&gt;
+
+Leaving Channel 4 was a mutual decision, following a series of disputes over how far the channel would go in its broadcasting, one of which concerned the channel's reluctance to support actions concerning [[corporate accountability]] and [[corporate manslaughter (England and Wales)|corporate manslaughter]] laws—a cause he had campaigned for—which coincided with [[Elizabeth Bowes-Lyon|the Queen Mother]]'s funeral. He declined to take part in a proposed ''Celebrity Guantanamo Bay'' '[[reality TV]]' show.
+
+Thomas has appeared at numerous comedy benefit nights, and is a well established stand-up comedian in the UK. He is the chairman of the [[Ilısu Dam Campaign]], a campaign which was successful in temporarily blocking the development of a large-scale [[hydroelectric dam]] in southeast [[Turkey]] that campaigners claim will lead to the [[internally displaced person|displacement]] of up to 78,000 people, mostly [[Kurds]], without adequate compensation or consultation, as well as to environmental and cultural destruction.
+
+Recently,{{When|date=April 2015}} Thomas has been working with [[War on Want]] in India and investigating and filming alleged [[human rights]] violations in [[Colombia]] (by, amongst others, [[Coca-Cola]])&lt;ref name="spin4"&gt;
+{{Cite web
+ |url        = http://spinwatch.org/-news-by-category-mainmenu-9/154-food-industry/1227-taking-the-fizz-out-of-cokes-image
+ |title      = Taking the fizz out of Cokes image
+ |date       = 19 May 2005
+ |accessdate = 2007-01-17
+ |publisher  = Spinwatch
+ |author     = James Clasper (The London Line)
+}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; where [[trade union]]s are targeted by [[militia]] allegedly controlled by the government.&lt;ref name="cokeboycott"&gt;{{Cite web
+ |url         = http://www.colombiasolidarity.org/node/10
+ |title       = Boycott Killer Coke!
+ |date        = 4 September 2003
+ |accessdate  = 2007-01-17
+ |publisher   = Colombia Action Network
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20070104075132/http://www.colombiasolidarity.org/node/10
+ |archivedate = 4 January 2007
+ |df          = dmy-all
+}}
+&lt;/ref&gt;
+He wrote a regular column for the ''[[New Statesman]]'' between 2001 and 2007.
+
+The parliamentary committee which oversees weapons exports, the [[British House of Commons|House of Commons]] [[Quadripartite Committee|Quadripartite]] [[Select Committee (Westminster System)|Select Committee]], commended him for his undercover work, which led to official warning letters being issued to a number of companies.&lt;ref name="yahoo"&gt;{{Cite web|url=http://uk.news.yahoo.com/03082006/344/comedian-praised-weapons-trade.html |title=Comedian praised over weapons trade |date=3 August 2006 |accessdate=2007-01-17 |publisher=Yahoo! News |deadurl=yes |archiveurl=https://web.archive.org/web/20110523101553/http://uk.news.yahoo.com/03082006/344/comedian-praised-weapons-trade.html |archivedate=23 May 2011 }}
+&lt;/ref&gt;
+His work in this area is covered in ''As Used on the Famous Nelson Mandela: Underground Adventures in the Arms and [[Torture trade|Torture Trade]]'', a book chronicling his experiences undercover, his political activism and his projects designed to find and report loopholes in arms trading laws, which culminated in a controversial un-broadcast ''[[Newsnight]]'' report about the [[Hinduja Group|Hinduja brothers]].
+[[File:Mark Thomas UKUncut stand-up show.jpg|thumb|left|Thomas at the [[UK Uncut]] stand-up show in March 2011]]
+Whilst promoting this book on his latest tour, Thomas organised mass lone demonstrations, in protest of the [[Serious Organised Crime and Police Act 2005]]. A parliamentary act that prevents any demonstrations with London's [[Parliament Square]] zone without prior police approval. The last event attracted over 100 individual protesters at the same time.&lt;ref name="protestparliament"&gt;
+{{Cite web
+|url=http://news.bbc.co.uk/1/hi/england/london/5303558.stm
+|title=Parliament protesters fight ban
+|date=31 August 2006
+|accessdate=2007-01-17
+|publisher=BBC News}}
+&lt;/ref&gt; In 2006, he was added to the [[Guinness Book of Records]] for most demonstrations held on one day: 20 individual protests in 20 different locations. Although he actually performed 21 protests the first and last took place at the same location, so it was agreed that only 20 would count towards the record. His record was later beaten in 2010 by the Freman College Amnesty group, who held 23 demonstrations.&lt;ref name="guinness"&gt;
+{{Cite web
+|url=http://www.liverpool.com/editor-s-pick/mark-thomas-the-royal-court-liverpool.html
+|title=Review: Mark Thomas, The Royal Court, Liverpool
+|date=22 November 2006
+|accessdate=2007-04-18
+|publisher=liverpool.com
+|author=Naomi Gallichan |archiveurl = https://web.archive.org/web/20070927065138/http://www.liverpool.com/editor-s-pick/mark-thomas-the-royal-court-liverpool.html |archivedate = 2007-09-27}}
+&lt;/ref&gt;&lt;ref name="Mark Thomas on demonstrating near the Houses of Parliament"&gt;
+{{Cite web
+|url=https://www.theguardian.com/g2/story/0,,1920095,00.html
+|title=Mark Thomas on demonstrating near the Houses of Parliament
+|date=12 October 2006
+|accessdate=2007-03-30
+|publisher=[[The Guardian]]
+|author=Mark Thomas}}
+&lt;/ref&gt;
+
+In 2008, he was awarded an honorary doctorate by the [[University of Bradford]], for services to peace and for his work as a comedian, political activist, presenter and investigative journalist, especially for his effective campaigning on the ethics of the arms trade. The university has a long-standing Department of [[Peace Studies]].&lt;ref name="Mark Thomas is awarded honorary doctorate by Bradford University"&gt;
+{{cite web|url=http://www.markthomasinfo.com/section_info/
+|title=Mark Thomas is awarded honorary doctorate by Bradford University
+|publisher=Mark Thomas info
+|accessdate=2009-06-05}}&lt;/ref&gt;
+ 
+In 2009, Thomas launched the Huddersfield Policy postcard campaign, petitioning the Queen with protests against the prospect of a state funeral for [[Margaret Thatcher]].&lt;ref&gt;{{cite web|url=http://www.markthomasinfo.com/section_policy_updates/thatcher.asp|title=Update on Thatcher funeral policy|publisher=Mark Thomas Info|accessdate=2009-05-19}}&lt;/ref&gt;
+
+For his 'It's The Stupid Economy' UK tour in 2009, Thomas played 55 shows over 14 weeks between March and end July, and encouraged each audience to come up with their own policies (silly or serious) that would somehow make their lives better, forming a "[[The People's Manifesto|People's Manifesto]]". Each audience then got to vote on their favourite policy of that evening and the winning suggestion then formed part of his manifesto which he will then campaign for and attempt to actually make at least some of the suggestions become reality.
+
+In April 2010, Thomas was awarded £1200 compensation for a search carried out by police in 2007. He had been unlawfully subject to a stop-and-search without adequate cause, after speaking at an anti-arms rally.&lt;ref&gt;''[[The Guardian]]'', 19 April 2010, [https://www.theguardian.com/uk/2010/apr/19/police-payout-stop-mark-thomas Comedian Mark Thomas wins £1,200 over police search]&lt;/ref&gt;
+
+During 2010 Thomas decided to go rambling in the Middle East and walked the entire length of the [[Israeli West Bank barrier|Israeli Separation Barrier]], crossing between the Israeli and the Palestinian side. His touring show entitled "Walking The Wall" (2011) was shortlisted for the Amnesty International Freedom of Expression award&lt;ref name="BBC News 22 August 2011"&gt;{{cite web |url= https://www.bbc.co.uk/news/uk-scotland-14617376|title= Comedian Mark Thomas up for human rights award| author= &lt;!--Staff writer(s); no by-line.--&gt; |date= 22 August 2011|website= [[BBC News Online]] |publisher= BBC | accessdate= 30 January 2017 }}&lt;/ref&gt; and his book ''Extreme Rambling'' recounted the story.
+
+Thomas revealed in 2013 that he had discovered, through a [[Data Protection Act 1998#Subject Access Requests|Data Protection request]], that he had been under police surveillance as a result of his investigative journalism for [[Channel 4]] and the ''[[New Statesman]]'' and put on the domestic extremist database.&lt;ref name="Press Gazette 20 November 2013"&gt;{{cite news |last= Boyle |first= Darren| authorlink= |title= Working as a journalist landed comedian Mark Thomas on 'domestic extremist' database| url= http://www.pressgazette.co.uk/working-journalist-landed-comedian-mark-thomas-domestic-extremist-database/| date= 20 November 2013|work= [[Press Gazette]] |location=London| accessdate= 3 February 2017 }}&lt;/ref&gt; He cautioned other journalists, "I apologise for the boastful tone but the police have monitored public interest investigations in my case since 1999. More importantly if the police are keeping tabs on a lightweight like myself then they are doing the same and more to others. This is more than supposition as I know of other [[National Union of Journalists|NUJ]] members on the database."&lt;ref name="Press Gazette 20 November 2013"/&gt; The following year, Thomas and five journalists and photographers who had also been under surveillance by the London [[Metropolitan Police Service]]'s [[National Domestic Extremism and Disorder Intelligence Unit]] (NDEDIU)&lt;ref name="BBC News 20 November 2014"&gt;{{cite web |url= https://www.bbc.co.uk/news/uk-30138025 |title= Journalists demand police destroy 'surveillance' files| last= Casciani| first= Dominic |date= 20 November 2014|website= [[BBC News Online]] |publisher= BBC | accessdate= 3 February 2017 }}&lt;/ref&gt; began legal action against the force.&lt;ref name="Independent 20 November 2014"&gt;{{cite news |last= Burrell |first= Ian| authorlink= |title= Comedian Mark Thomas to sue Met Police over ‘snooping’|url= https://www.independent.co.uk/news/uk/crime/comedian-mark-thomas-to-sue-met-police-over-snooping-9873984.html| date= 20 November 2014|newspaper= [[The Independent]] |location=London| accessdate= 30 January 2017 }}&lt;/ref&gt; The NDEDIU's reports obtained by Thomas described him as a "general rabble rouser and alleged comedian" and stated, "Mark Thomas stops. Has quantity of cress on rear of his cycle."&lt;ref name="Independent 17 June 2015"&gt;{{cite news |last= Lusher |first= Adam | authorlink= |title= Mark Thomas interview: The comedian has written a book about his year of 100 protests|url= https://www.independent.co.uk/arts-entertainment/comedy/features/mark-thomas-interview-the-comedian-has-written-a-book-about-his-year-of-100-protests-10327357.html| date= 17 June 2015| newspaper= [[The Independent]] |location=London| accessdate= 30 January 2017 }}&lt;/ref&gt; He told ''[[The Independent]]'''s Adam Lusher, "The police's powers of observation are to be admired, I did indeed have cress on my bike. [But] Is it really suitable to spend taxpayers' money observing the movement of cress?"&lt;ref name="Independent 17 June 2015"/&gt;
+
+==Television==
+* ''Friday Night Live'', Channel 4 (1988)
+* ''Saturday Zoo'', Channel 4 (1993)
+* ''Viva Cabaret'', Channel 4 (1993)
+* ''Denton'', Channel 7 Australia (1994)
+* ''[[The Mark Thomas Comedy Product]]'' (later renamed ''The Mark Thomas Product''), Channel 4 which ran for six series totalling 45 episodes (1996–2002)
+* ''Dispatches: The Lie Of The Land'', Channel 4 (1998)
+* ''Thomas Country'', Channel 4 (1999)
+* ''The Immigration and Asylum Bill'', Channel 5 (2000)
+* ''Secret Map of Britain'', Channel 4 (2002)
+* ''Dispatches: Mark Thomas — Broom Cupboard Inspector'', Channel 4 (2003)
+* ''Dispatches: Mark Thomas — Debt Collector'', Channel 4 (2003)
+* ''Dispatches: After School Arms Club'', Channel 4 (2006)
+* ''[[Dispatches: Mark Thomas on Coca Cola]]'', Channel 4 (2007)
+
+==Radio==
+* ''The Mary Whitehouse Experience'', Radio 1 (1989)
+* ''The Mix'', Radio 5 (1990)
+* ''Sleeping with the NME'', Radio 5 (1991)
+* ''Loose Talk'', Radio 1 (1991–1992)
+* ''Booked!'', Radio 4 (1995–1998)
+* ''Celluloid Psychiatrists'', Radio 4 (2000)
+* ''Left Bank of the Mind'', Radio 4 (2001)
+* ''Mark Thomas Presents…'', Radio 4 (2005) (shows on [[Stan Freberg]], the [[Firesign Theatre]], [[Shelley Berman]] and [[Mort Sahl]])
+* ''Chain Reaction'', Radio 4 (2006)
+* ''My Life in Serious Organised Crime'', Radio 4 (2007)
+* ''Ramblings'', Radio 4 (2008) (walking [[The Ridgeway]] track in Wiltshire and Oxfordshire)
+* ''[[Mark Thomas: The Manifesto]]'' Radio 4 (2009–present)
+* ''Bravo Figaro'', Radio 4 (2013)
+
+==Discography==
+* ''Sex, Filth and Religion'' (video) (1995)
+* ''Live'' (1998)
+* ''Dambusters'' (2001)
+* ''The Night War Broke Out'' (2004)
+* ''Mark Thomas Comedy Show'' ([http://www.undercurrents.org/markthomas[DVD)&amp;#93;] (2005)
+* ''Mark Thomas:Serious Organised Criminal'' (DVD) (2007)
+* ''Bravo Figaro'' (2013)
+
+==Live tours==
+* ''As Used on the Famous Nelson Mandela...'' (2006)
+* ''Serious Organised Criminal'' (2007)
+* ''Belching Out The Devil'' (2008)
+* ''It's the Stupid Economy''(2009)
+* ''Extreme Rambling &amp;ndash; Walking the Wall'' (2011)
+* ''Bravo Figaro'' (2012-)
+* ''100 Acts of Minor Dissent'' (2013)
+* ''Cuckooed'' (2014)
+* ''Trespass'' (2015)
+* ''The Red Shed'' (2017)&lt;ref&gt;{{cite book|last1=Thomas|first1=Mark|title=The Red Shed: A topical tale of the Miners Strike|date=2016|publisher=Mr Sands|isbn=|pages=79–89}}&lt;/ref&gt;
+* "Showtime from the Frontline" (2018)&lt;ref name="Guardian 12 Jan 2018"&gt;{{cite news |last= Thomas |first= Mark| title= ‘Nothing was off-limits’: Mark Thomas on his West Bank comedy club |url= https://www.theguardian.com/stage/2018/jan/12/mark-thomas-west-bank-comedy-club-jenin-showtime-from-the-frontline | date= 12 January 2018 |newspaper= [[The Guardian]] |location=London| accessdate=9 February 2018 }}&lt;/ref&gt;&lt;ref name="Gulbenkian"&gt;{{cite web | title= Mark Thomas – Showtime from the Frontline |url= https://thegulbenkian.co.uk/event/mark-thomas-showtime-from-the-frontline/| author=&lt;!--Staff writer(s); no by-line.--&gt;|date= | website= thegulbenkian.co.uk| publisher= [[University of Kent]] | accessdate= 9 February 2018}} &lt;/ref&gt;
+
+=== Other live shows ===
+* ''Mark Thomas: Metrix Consortium at The Open University'' (9 September 2008)
+
+== Books ==
+
+* ''As Used on the Famous Nelson Mandela: Underground Adventures in the Arms and Torture Trad''e (2007)&lt;ref&gt;{{Cite web|url=https://www.penguin.co.uk/books/1028271/as-used-on-the-famous-nelson-mandela/|title=As Used On the Famous Nelson Mandela, Underground Adventures in the Arms and Torture Trade by Mark Thomas|website=www.penguin.co.uk|language=en|access-date=2018-05-08}}&lt;/ref&gt;
+* ''Belching Out the Devil: Global Adventures with Coca-Cola'' (2009)&lt;ref&gt;{{Cite web|url=https://www.penguin.co.uk/books/1075171/belching-out-the-devil/|title=Belching Out the Devil, Global Adventures with Coca-Cola by Mark Thomas|website=www.penguin.co.uk|language=en|access-date=2018-05-08}}&lt;/ref&gt;
+* ''Mark Thomas Presents the People’s Manifesto'' (2010)&lt;ref&gt;{{Cite web|url=https://www.penguin.co.uk/books/1087216/mark-thomas-presents-the-people-s-manifesto/|title=Mark Thomas Presents the People&amp;#39;s Manifesto by Mark Thomas|website=www.penguin.co.uk|language=en|access-date=2018-05-08}}&lt;/ref&gt;
+* ''Extreme Rambling: Walking Israel’s Separation Barrier. For Fun''. (2011)&lt;ref&gt;{{Cite web|url=https://markthomasinfo.co.uk/store/#!/Extreme-Rambling/p/105033887/category=13417861|title=Extreme Rambling, Walking Israel's Separation Barrier. For Fun. by Mark Thomas|last=|first=|date=|website=www.penguin.co.uk|language=en|archive-url=|archive-date=|dead-url=|access-date=2018-05-08}}&lt;/ref&gt;
+* ''100 Acts of Minor Dissent'' (2015)&lt;ref&gt;{{Cite web|url=https://markthomasinfo.co.uk/store/#!/100-Acts-of-Minor-Dissent/p/51456732/category=13417861|title=Store {{!}} Mark Thomas Info|website=markthomasinfo.co.uk|language=en-US|access-date=2018-05-08}}&lt;/ref&gt;
+* ''The Liar’s Quartet: Bravo Figaro!, Cuckooed, The Red Shed – Playscripts, Notes and Commentary'' (2017)&lt;ref&gt;{{Cite web|url=https://markthomasinfo.co.uk/store/#!/The-Liars-Quartet/p/84160653/category=13417861|title=Store {{!}} Mark Thomas Info|website=markthomasinfo.co.uk|language=en-US|access-date=2018-05-08}}&lt;/ref&gt;
+
+==Awards==
+* [[Time Out (company)|Time Out]] Comedy Award (1990)
+* [[Perrier Comedy Award]] nominee (1992)&lt;ref name="timeout"&gt;
+{{Cite web
+|url=http://www.timeout.com/london/comedy/features/1891.html
+|title=Mark Thomas: Interview
+|date=25 August 2006
+|accessdate=2007-01-17
+|publisher=[[Time Out (company)|Time Out]]
+|author=Malcolm Hay}}
+&lt;/ref&gt;
+
+In addition to being recognised for his comedy career, Mark Thomas has been awarded various citations for his political campaigning, including:
+* Kurdish National Congress Medal of Honour (2002)&lt;ref name="amnestyaward"&gt;
+{{Cite web
+|url=https://www.amnesty.org.uk/news_details.asp?NewsID=17067
+|title=Scotland: Mark Thomas gives Amnesty International's Annual Lecture
+|date=18 August 2006
+|accessdate=2007-01-17
+|publisher=[[Amnesty International]]}}
+&lt;/ref&gt;
+* [https://web.archive.org/web/20110518200037/http://www.internationalservice.org.uk/what_we_do/development_awareness/human_rights_awards/past_winners/default.aspx International Service] Award for the Global Defence of Human Rights (2004)
+* MediActivist Awards [http://www.undercurrents.org/beyondtv/misty.htm(MISTY]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}) (2005)&lt;ref name="MISTY"&gt;
+{{Cite web
+ |url         = http://www.undercurrents.org/beyondtv/misty.htm
+ |title       = MISTY awards 2005
+ |date        = 25 November 2005
+ |accessdate  = 2007-06-16
+ |publisher   = Undercurrents
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20070609232140/http://www.undercurrents.org/beyondtv/misty.htm
+ |archivedate = 9 June 2007
+ |df          = dmy-all
+}}
+&lt;/ref&gt;
+* Former Guinness World Record Holder for Most Number of Political Demonstrations in 24 Hours&lt;ref&gt;[https://www.amnesty.org.uk/news_details.asp?NewsID=18689 Herts school smashes world record for protests in a day]&lt;/ref&gt;
+
+He was also made an [[honorary degree|honorary Doctor of Letters]] by the [[University of Bradford]] on 3 December 2008, in recognition of his peace campaigning and services to comedy.&lt;ref&gt;[http://www.brad.ac.uk/news/awards/hon/ Honorary Graduates December 2008] {{webarchive|url=https://web.archive.org/web/20081206202742/http://www.brad.ac.uk/news/awards/hon/ |date=6 December 2008 }}&lt;/ref&gt;
+
+==Politics==
+As a part of his television series, Thomas stood as an Independent candidate for the safe-[[Labour Party (UK)|Labour]] parliamentary seat of [[Hemsworth (UK Parliament constituency)|Hemsworth]] in [[Hemsworth by-election, 1996|a 1996 by-election]]. He came eighth of ten candidates with 122 votes as the election was won by Labour's [[Jon Trickett]].
+
+In his 4 March 2002 ''New Statesman'' column,&lt;ref name="newstatesman"&gt;
+{{Cite web
+|url=http://www.newstatesman.com/node/142337
+|title=My own contribution to the war on terrorism is to promise my New Statesman earnings to anyone who'll kill Bush
+|date=4 March 2002
+|accessdate=2007-04-05
+|publisher=[[New Statesman]]
+|author=Mark Thomas}}
+&lt;/ref&gt; Thomas placed a [[bounty (reward)|bounty]] on the head of US President George Bush to the value of £4,320&lt;ref name="timeout"/&gt; (his total earnings writing for the magazine to that point).
+
+In February 2009 British entertainers [[David Baddiel]], [[Bill Bailey]], [[Morwenna Banks]], [[Sanjeev Bhaskar]], [[Jo Brand]], [[Russell Brand]], [[Rob Brydon]], [[Jimmy Carr]], [[Jack Dee]], [[Omid Djalili]], [[Sean Lock]], [[Lee Mack]], [[Alexei Sayle]], [[Meera Syal]], Mark Thomas said in an open letter printed in [[The Times]] newspaper of the Bahá'í leaders to be on trial in Iran: "In reality, their only “crime”, which the current regime finds intolerable, is that they hold a religious belief that is different from the majority…. we register our solidarity with all those in Iran who are being persecuted for promoting the best development of society …(and) with the governments, human rights organisations and people of goodwill throughout the world who have so far raised their voices calling for a fair trial, if not the complete release of the Baha’i leaders in Iran."&lt;ref&gt;{{Cite news | title = Stand up for Iran’s Baha’is - Voices from the arts call for the imprisoned Baha'i leaders in Iran to receive a fair trial | newspaper = The Times | pages = | date =  2009-02-26 | url =http://www.timesonline.co.uk/tol/comment/letters/article5804284.ece}}&lt;/ref&gt; Echoing the comments earlier in the month made by two hundred and sixty seven non-Bahá'í Iranian academics, writers, artists, journalists and activists from 21 countries including Iran who signed an open letter of apology posted to [[Iranian.com]] and stating they were "ashamed" and pledging their support in Bahá'ís achieving the rights detailed in the [[Universal Declaration of Human Rights]] for the Bahá'ís in Iran.&lt;ref&gt;{{Cite news | publisher = Iranian.com | title = We are ashamed! | magazine = Iranian.com | pages = | date = 2009-02-04 | url =http://www.iranian.com/main/2009/feb/we-are-ashamed}}&lt;/ref&gt; See [[Persecution of Bahá'ís]].
+
+Prior to the [[United Kingdom general election, 2015|2015 UK general election]], he was one of several celebrities who endorsed the parliamentary candidacy of the [[Green Party of England and Wales|Green Party]]'s [[Caroline Lucas]].&lt;ref&gt;{{cite news | url= https://www.theguardian.com/politics/2015/apr/24/celebrities-sign-statement-support-caroline-lucas-not-green-party | title= Celebrities sign statement of support for Caroline Lucas – but not the Greens | work=The Guardian | location=London | first=Jessica | last=Elgot | date=24 April 2015 | accessdate=22 July 2015}}&lt;/ref&gt;
+
+==See also==
+* [[Ilısu Dam Campaign]]
+* [[Robert Newman (comedian)|Robert Newman]]
+* [[Southeastern Anatolia Project]]
+* [[Corporate crime]]
+* [[Serious Organised Crime and Police Act 2005]] (see "Protests near [[Palace of Westminster|Parliament]]" section)
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+* [http://www.markthomasinfo.com/ Official website]
+* [http://news.bbc.co.uk/1/hi/uk_politics/1106167.stm Mark Thomas: Taking comedy seriously] — BBC profile
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thomas, Mark}}
+[[Category:People educated at Christ's Hospital]]
+[[Category:Alumni of Bretton Hall College]]
+[[Category:English activists]]
+[[Category:English anarchists]]
+[[Category:English male comedians]]
+[[Category:English comedy writers]]
+[[Category:English humorists]]
+[[Category:English male journalists]]
+[[Category:English atheists]]
+[[Category:People from Balham]]
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Pranksters]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]</text>
+      <sha1>5yvcn94c0qzyof5ay6eunfauwchqvkg</sha1>
+    </revision>
+  </page>
+</mediawiki>

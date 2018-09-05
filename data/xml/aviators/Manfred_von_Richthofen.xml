@@ -1,0 +1,406 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Manfred von Richthofen</title>
+    <ns>0</ns>
+    <id>84183</id>
+    <revision>
+      <id>852978369</id>
+      <parentid>852472771</parentid>
+      <timestamp>2018-08-01T16:33:50Z</timestamp>
+      <contributor>
+        <username>Recensore256</username>
+        <id>34313057</id>
+      </contributor>
+      <comment>/* Honours, tributes and relics */ Added and cited HoF induction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="58353">{{About|the WWI flying ace|other prominent members of his family|Richthofen}}
+{{Redirect|Red Baron}}
+{{Use dmy dates|date=October 2016}}
+{{Infobox military person
+| image         = Manfred von Richthofen.jpg
+| caption       = Richthofen wears the ''[[Pour le Mérite]]'', the "Blue Max", [[Prussia]]'s highest military order, in this official portrait, c. 1917.
+| birth_name    = Manfred Albrecht Freiherr von Richthofen
+| nickname      = "Red Baron"
+| birth_date    = {{Birth date|1892|05|02|df=yes}}
+| birth_place   = [[Breslau]], [[Province of Silesia]], [[Kingdom of Prussia]], [[German Empire]] {{nowrap|(present-day [[Wrocław]], [[Poland]])}}
+| death_date    = {{Death date and age|1918|04|21|1892|05|02|df=yes}}
+| death_place   = Morlancourt Ridge {{nowrap|(near [[Vaux-sur-Somme]], [[France]])}}
+| placeofburial_label= Place of burial
+| placeofburial = [[South Cemetery Wiesbaden|South Cemetery, Wiesbaden]]&lt;br/&gt;
+| placeofburial_coordinates = {{Coord|50.060260|8.265810|display=inline,title}}
+| allegiance    = {{flag|German Empire}}
+| branch        =[[Prussian Army]] (1911–1915)&lt;br/&gt;''[[Luftstreitkräfte]]'' (1915–1918)
+| serviceyears  = 1911–1918{{KIA}}
+| rank          = [[Rittmeister|Captain]]
+| commands      = {{plainlist|
+*[[Jagdstaffel 11|''Jasta 11'']]
+*[[Jagdgeschwader 1 (World War I)|''Jagdgeschwader 1'']]}}
+| battles       = [[World War I]]{{KIA}}
+| awards        = {{plainlist|
+*[[Pour le Mérite]]
+*[[Order of the Red Eagle]]
+*[[House Order of Hohenzollern]]
+*[[Iron Cross]]}}
+| relations     = {{plainlist|
+*[[Lothar von Richthofen]] (brother)
+*[[Wolfram von Richthofen]] (cousin)}}
+&lt;small&gt;''see [[Richthofen]] for more''&lt;/small&gt;
+| signature     = Manfred von Richthofen Signature.svg
+}}
+'''Manfred  Albrecht Freiherr von Richthofen''' (2 May 1892&amp;nbsp;– 21 April 1918), also known as the '''"Red Baron"''', was a [[fighter pilot]] with the [[Luftstreitkräfte|German Air Force]] during [[World War I]]. He is considered the [[flying ace|ace-of-aces]] of the war, being officially credited with 80&lt;!-- Please leave this at 80—NOT 76, 84 or any other total—if in doubt query it in discussion --&gt; [[Aerial warfare|air combat]] victories.&lt;!--in World War I - how many more times does this need to get repeated?--&gt;
+
+Originally a [[cavalryman]], Richthofen transferred to the Air Service in 1915, becoming one of the first members of fighter squadron ''[[Jagdstaffel 2]]'' in 1916. He quickly distinguished himself as a fighter pilot, and during 1917 became leader of [[Jagdstaffel 11|''Jasta 11'']] and then the larger fighter wing unit ''[[Jagdgeschwader 1 (World War I)|Jagdgeschwader 1]]'', better known as "The Flying Circus" or "Richthofen's Circus" because of the bright colours of its aircraft, and perhaps also because of the way the unit was transferred from one area of allied air activity to another&amp;nbsp;– moving like a travelling circus, and frequently setting up in tents on improvised airfields. By 1918, Richthofen was regarded as a national hero in Germany, and respected by his enemies.
+
+Richthofen was shot down and killed near [[Vaux-sur-Somme]] on 21 April 1918. There has been considerable discussion and debate regarding aspects of his career, especially the circumstances of his death. He remains one of the most widely known fighter pilots of all time, and has been [[The Red Baron in popular culture|the subject of many books, films and other media]].
+{{TOC limit|limit=2}}
+
+== Name and nicknames ==
+Richthofen was a ''[[Freiherr]]'' (literally "Free Lord"), a [[title of nobility]] often translated as "[[baron]]".&lt;ref name="Kilduff6"&gt;Kilduff, p. 6.&lt;/ref&gt;&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/218840/Freiherr "Freiherr"]. ''Encyclopædia Britannica''. Retrieved 16 July 2010.&lt;/ref&gt; This is not a given name nor strictly a hereditary title, since all male members of the family were entitled to it, even during the lifetime of their father.{{efn|For example, his brother [[Lothar von Richthofen|Lothar]] also used it.}}  Richthofen painted his aircraft red, and this combined with his title led to him being called "The Red Baron" ({{Audio|De-der_Rote_Baron.ogg|"der Rote Baron"}}), both inside and outside Germany.&lt;ref name="Kilduff6" /&gt; During his lifetime, he was more frequently described in German as ''Der Rote Kampfflieger'', variously translated as "The Red Battle Flyer" or "The Red Fighter Pilot". This name was used as the title of [[The Red Fighter Pilot|Richthofen's 1917 autobiography]].&lt;ref&gt;Richthofen, Manfred von. [http://www.domainregistry.de/der-rote-baron.html ''Der Rote Baron'' (''The Red Baron'').] Norderstedt, Germany: BOD, 2008 (reprint). {{ISBN|978-3-8370-9217-2}}.&lt;/ref&gt;
+
+== Early life ==
+[[File:Richthofen-Wappen.png|thumb|Richthofen family [[coat of arms]]]]
+Manfred von Richthofen was born in Kleinburg, near Breslau, [[Lower Silesia]] (now part of the city of [[Wrocław]], Poland), on 2 May 1892 into a prominent [[Prussian]] [[aristocracy|aristocratic]] [[Richthofen|family]]. His father was Major Albrecht Philipp Karl Julius Freiherr von Richthofen and his mother was Kunigunde von Schickfuss und Neudorff.&lt;ref&gt;[http://www.stripes.com/news/von-richthofen-s-mother-actres-fern-andra-meet-1.51196 Stars and Strips Forever: "Von Richthofen's mother, actress Fern Andra meet"; November 14, 1954] Kuningunde von Richthofen and [[Fern Andra]] Retrieved November 17, 2016&lt;/ref&gt; He had an elder sister, Ilse, and two younger brothers.
+
+When he was four years old, Manfred moved with his family to nearby Schweidnitz (now [[Świdnica]], Poland). He enjoyed riding horses and hunting as well as gymnastics at school. He excelled at parallel bars and won a number of awards at school.&lt;ref&gt;Wright 1976, p. 31.&lt;/ref&gt; He and his brothers, [[Lothar von Richthofen|Lothar]] and Bolko,&lt;ref&gt;Burrows 1970, p. 36.&lt;/ref&gt;{{efn|Not to be confused with [[Bolko von Richthofen]] the archaeologist, a distant cousin}} hunted wild boar, elk, birds, and deer.&lt;ref&gt;Burrows 1970, pp. 37–38.&lt;/ref&gt;
+
+After being educated at home he attended a school at Schweidnitz before beginning military training when he was 11.&lt;ref&gt;Wright 1976, p. 30.&lt;/ref&gt; After completing cadet training in 1911, he joined an [[Uhlan]] [[cavalry]] unit, the ''Ulanen-Regiment Kaiser Alexander der III. von Russland (1. Westpreußisches) Nr. 1'' ("1st Emperor Alexander III of Russia Uhlan Regiment (1st West Prussian)") and was assigned to the regiment's ''3. Eskadron'' ("No. 3 [[Squadron (cavalry)|Squadron]]").&lt;ref&gt;Preußen 1914, p. 400.&lt;/ref&gt;
+
+==Early war service==
+When World War I began, Richthofen served as a cavalry [[reconnaissance]] officer on both the [[Eastern Front (World War I)|Eastern]] and [[Western Front (World War I)|Western Fronts]], seeing action in Russia, France, and Belgium; with the advent of [[trench warfare]] making traditional cavalry operations outdated and inefficient, Richthofen's regiment was dismounted, serving as dispatch runners and field telephone operators.&lt;ref&gt;Von Richthofen 2007, pp. 49–51.&lt;/ref&gt; Disappointed and bored at not being able to directly participate in combat, the last straw for Richthofen was an order to transfer to the army's supply branch. His interest in the Air Service had been aroused by his examination of a German military aircraft behind the lines,&lt;ref name="McAllister 52"&gt;McAllister 1982, p. 52.&lt;/ref&gt; and he applied for a transfer to ''Die Fliegertruppen des deutschen Kaiserreiches'' (Imperial German Army Air Service), later to be known as the ''[[Luftstreitkräfte]]''. He is supposed to have written in his application for transfer, "I have not gone to war in order to collect cheese and eggs, but for another purpose."{{efn|Richthofen quotes this famous piece of insubordination in his autobiography, but hints that he did not actually write it – claiming that "evil tongues" report that he did}} In spite of this unmilitary attitude, and to his own surprise, his request was granted.&lt;ref name="McAllister 52" /&gt; Manfred joined the flying service at the end of May 1915.&lt;ref&gt;Von Richthofen 2007, p. 51.&lt;/ref&gt;
+
+From June to August 1915, Richthofen served as an observer on reconnaissance missions over the [[Eastern Front (World War I)|Eastern Front]] with ''[[Feldflieger Abteilung]] 69'' ("No. 69 Flying [[Squadron (aviation)|Squadron]]").&lt;ref name="McAllister 52" /&gt; On being transferred to the Champagne front, he is believed to have shot down an attacking French [[Farman Aviation Works|Farman]] aircraft with his observer's machine gun in a tense battle over French lines;&lt;ref name="McAllister 53-4"&gt;McAllister 1982, pp. 53–54.&lt;/ref&gt; he was not credited with the kill, since it fell behind Allied lines and therefore could not be confirmed.
+
+== Piloting career ==
+{{Quote box|align=right|width=30%|quote="I had been told the name of the place to which we were to fly and I was to direct the pilot. At first we flew straight ahead, then the pilot turned to the right, then left. I had lost all sense of direction over our own aerodrome!&amp;nbsp;... I didn't care a bit where I was, and when the pilot thought it was time to go down, I was disappointed. Already I was counting down the hours to the time we could start again."|source=&lt;small&gt;John Simpson, quoting Richthofen's own description of his first flying experience.&lt;ref name="McAllister 52-3"&gt;McAllister 1982, pp. 52–53.&lt;/ref&gt;&lt;/small&gt;}}
+Richthofen had a chance meeting with German ace fighter pilot [[Oswald Boelcke]]&lt;ref name="McAllister 54"&gt;McAllister 1982, p. 54.&lt;/ref&gt; which led him to enter training as a pilot in October 1915.&lt;ref name="McAllister 54" /&gt; In February 1916, Manfred "rescued" his brother Lothar from the boredom of training new troops in Luben and encouraged him to transfer to the ''Fliegertruppe''.&lt;ref name="Kilduff41"&gt;Kilduff 1994, p. 41.&lt;/ref&gt; The following month, Manfred joined ''Kampf[[geschwader]] 2'' ("No. 2 Bomber Squadron") flying a two-seater [[Albatros C.III]]. Initially, he appeared to be a below-average pilot.  He struggled to control his aircraft, and he crashed during his first flight at the controls.&lt;ref name="McAllister 54" /&gt; Despite this poor start, he rapidly became attuned to his aircraft. He was over [[Verdun]] on 26 April 1916 and fired on a French [[Nieuport]], shooting it down over [[Fort Douaumont]]&lt;ref name="McAllister 54" /&gt;—although he received no official credit. A week later, he decided to ignore more experienced pilots' advice against flying through a thunderstorm. He later noted that he had been "lucky to get through the weather" and vowed never again to fly in such conditions unless ordered to do so.&lt;ref name="McAllister 54-5"&gt;McAllister 1982, pp. 54–55.&lt;/ref&gt;
+
+Richthofen met Oswald Boelcke again in August 1916, after another spell flying two-seaters on the Eastern Front. Boelcke was visiting the east in search of candidates for his newly formed ''Jasta 2'', and he selected Richthofen to join this unit, one of the first German fighter squadrons.&lt;ref name="McAllister 56"&gt;McAllister 1982, p. 56.&lt;/ref&gt; Boelcke was killed during a midair collision with a friendly aircraft on 28 October 1916, and Richthofen witnessed the event.&lt;ref name="McAllister 56" /&gt;
+
+Richthofen scored his [[Tom Rees (British airman)|first confirmed aerial victory]] in the skies over [[Cambrai]], France, on 17 September 1916.&lt;ref name="Swopes"&gt;{{cite web |url=http://www.thisdayinaviation.com/tag/the-red-baron/ |work=The Red Baron Archives |title=This Day in Aviation {{mdash}} September 17, 1916 |date=17 September 2013 |first1=Bryan |last1=Swopes |accessdate=4 June 2014}}&lt;/ref&gt; His autobiography states, "I honoured the fallen enemy by placing a stone on his beautiful grave."&lt;ref name="Der rote Kampfflieger"&gt;von Richthofen, Manfred et al. [https://books.google.com/books?id=mxUZAAAAIAAJ&amp;q=der+rote+kampfflieger&amp;dq=der+rote+kampfflieger&amp;pgis=1 ''Der rote Kampfflieger''.] Deutscher Verlag (Ullstein), 1933.&lt;/ref&gt; He contacted a jeweller in Berlin and ordered a silver cup engraved with the date and the type of enemy aircraft.{{efn|Similar cups had been ''officially'' awarded to some earlier pilots on their first victories, although the practice had been discontinued by this time.}} He continued to celebrate each of his victories in the same manner until he had 60 cups, by which time the dwindling supply of silver in blockaded Germany meant that silver cups could no longer be supplied. Richthofen discontinued his orders at this stage, rather than accept cups made from base metal.{{efn|Burrows has suggested that he was simply bored with the procedure and that this was an excuse to discontinue it.}}
+
+His brother [[Lothar von Richthofen|Lothar]] (40 victories) used risky, aggressive tactics, but Manfred observed a set of maxims known as the "[[Dicta Boelcke]]" to assure success for both the squadron and its pilots.&lt;ref&gt;English 2003, p. 62.&lt;/ref&gt; He was not a spectacular or aerobatic pilot like his brother or [[Werner Voss]]; however, he was a noted tactician and squadron leader and a fine marksman. Typically, he would dive from above to attack with the advantage of the sun behind him, with other pilots of his squadron covering his rear and flanks.
+
+[[File:Lanoe Hawker.jpg|thumb|upright|Major Lanoe Hawker VC]]
+On 23 November 1916, Richthofen shot down his most famous adversary, British ace Major [[Lanoe Hawker]] VC, described by Richthofen as "the British Boelcke".&lt;ref name="Burrows p. 103"&gt;Burrows 1970, p. 103.&lt;/ref&gt; The victory came while Richthofen was flying an [[Albatros D.II]] and Hawker was flying the older [[Airco DH.2|DH.2]]. After a long dogfight, Hawker was shot in the back of the head as he attempted to escape back to his own lines.&lt;ref name="McAllister 57"&gt;McAllister 1982, p. 57.&lt;/ref&gt; After this combat, Richthofen was convinced that he needed a fighter aircraft with more agility, even with a loss of speed. He switched to the [[Albatros D.III]] in January 1917, scoring two victories before suffering an in-flight crack in the spar of the aircraft's lower wing on 24 January, and he reverted to the Albatros D.II or [[Halberstadt D.II]] for the next five weeks.
+
+Richthofen was flying his Halberstadt on 6 March in combat with [[Royal Aircraft Factory F.E.8|F.E.8s]] of [[No. 40 Squadron RAF|40 Squadron RFC]] when his aircraft was shot through the fuel tank, quite possibly by [[Edwin Benbow]], who was credited with a victory from this fight. Richthofen was able to force land without his aircraft catching fire on this occasion.&lt;ref&gt;Guttman 2009, p. 64&lt;/ref&gt; He then scored a victory in the Albatros D.II on 9 March, but his Albatros D.III was grounded for the rest of the month so he switched again to a Halberstadt D.II.&lt;ref&gt;Guttman 2009, pp. 64–65&lt;/ref&gt; He returned to his Albatros D.III on 2 April 1917 and scored 22 victories in it before switching to the [[Albatros D.V]] in late June.&lt;ref name="Burrows p. 103" /&gt; 
+[[File:Fokker Dr1 on the ground.jpg|left|thumb|Richthofen's all-red Fokker Dr.I]]
+
+Richthofen flew the celebrated [[Fokker Dr.I]] [[triplane]] from late July 1917, the distinctive three-winged aircraft with which he is most commonly associated—although he did not use the type exclusively until after it was reissued with strengthened wings in November.&lt;ref&gt;Grey and Thetford, 1970, p. 100.&lt;/ref&gt;  Only 19 of his 80 kills were made in this type of aircraft, despite the popular link between Richthofen and the Fokker Dr. I.&lt;ref name="theaerodrome.com"&gt;[http://www.theaerodrome.com/aces/germany/richthofen2.php "Richthofen."] ''Theaerodrome.com.'' Retrieved: 10 August 2010.&lt;/ref&gt; It was his Albatros D.III Serial No. 789/16 that was first painted bright red, in late January 1917, and in which he first earned his name and reputation.&lt;ref&gt;Guttman 2009, p. 63.&lt;/ref&gt;
+
+Richthofen championed the development of the [[Fokker D.VII]] with suggestions to overcome the deficiencies of the current German fighter aircraft.&lt;ref name="baker"&gt;Baker 1991&lt;/ref&gt; He never had an opportunity to fly the new type in combat, as he was killed before it entered service.
+
+== Flying Circus ==
+[[File:Bundesarchiv Bild 183-2004-0430-501, Jagdstaffel 11, Manfred v. Richthofen.jpg|thumb|right|Manfred von Richthofen (in the cockpit) by his famous ''Rotes Flugzeug'' ("Red Aircraft") with other members of ''Jasta 11''. His brother Lothar is seated on the ground. Photographed 23 April 1917]]
+
+Richthofen received the [[Pour le Mérite]] in January 1917 after his 16th confirmed kill, the highest military honor in Germany at the time and informally known as "The Blue Max.".&lt;ref&gt;[https://books.google.com/books?ei=QzbnT5yeNqno2gXP55XeCQ&amp;id=XDA_AQAAIAAJ&amp;dq=Pour+le+M%C3%A9rite+Blauer+Max&amp;q=The+Pour+le+Merite+%28the+%34h0022%29%2C+instituted+in+1740%2C+was+better+known+by+its+nickname%2C+the+%22Blue+Max%22+%28%22Blauer+Max%2C%22+in+German%29.#search_anchor "The Blue Max."] ''American History,'' Volume 38, No. 1, April 2003, p. 9. {{ISSN|1076-8866}}.&lt;/ref&gt; That same month, he assumed command of ''Jasta 11'' which ultimately included some of the elite German pilots, many of whom he trained himself, and several of whom later became leaders of their own squadrons. [[Ernst Udet]] belonged to Richthofen's group and later became [[Generaloberst]] Udet. When Lothar joined, the German high command appreciated the propaganda value of two Richthofens fighting together to defeat the enemy in the air.&lt;ref name="Richthofen164-165"&gt;Richthofen, The Red Knight of the Air, (n.d.) pp. 164–165.&lt;/ref&gt;
+
+Richthofen took the flamboyant step of having his Albatros painted red when he became a squadron commander. His autobiography states, "For whatever reasons, one fine day I came upon the idea of having my crate painted glaring red. The result was that absolutely everyone could not help but notice my red bird. In fact, my opponents also seemed to be not entirely unaware [of it]".&lt;ref name="Richthofen120"&gt;Der rote Kampfflieger, open.cit., (n.d.) p. 120.&lt;/ref&gt; Thereafter he usually flew in red-painted aircraft, although not all of them were entirely red, nor was the "red" necessarily the brilliant scarlet beloved of model- and replica-builders.
+
+Other members of ''Jasta 11'' soon took to painting parts of their aircraft red. Their official reason seems to have been to make their leader less conspicuous, to avoid having him singled out in a fight. In practice, red coloration became a unit identification. Other units soon adopted their own squadron colors, and [[Jagdstaffel#Personal colour schemes|decoration of fighters]] became general throughout the ''Luftstreitkräfte''. The German high command permitted this practice (in spite of obvious drawbacks from the point of view of intelligence), and German propaganda made much of it by referring to Richthofen as ''Der Rote Kampfflieger''—"the Red Fighter Pilot."
+
+[[File:Thomsen, von Richthofen and von Hoeppner.jpg|thumb|left|upright|Manfred von Richthofen (center) with [[Hermann von der Lieth-Thomsen|Hermann Thomsen]], German Air Service Chief of Staff (left) and [[Ernst von Hoeppner]], Commanding General of the Air Service (right) at Imperial Headquarters in Bad Kreuznach]]
+
+Richthofen led his new unit to unparalleled success, peaking during "[[Bloody April]]" 1917. In that month alone, he shot down 22 British aircraft, including four in a single day,&lt;ref name="McAllister 59"&gt;McAllister 1982, p. 59.&lt;/ref&gt; raising his official tally to 52. By June, he had become the commander of the first of the new larger "fighter wing" formations; these were highly mobile, combined tactical units that could move at short notice to different parts of the front as required. Richthofen's new command, [[Jagdgeschwader 1 (World War I)|Jagdgeschwader 1]], was composed of fighter squadrons No. 4, 6, 10, and 11.  J.G. 1 became widely known as "The Flying Circus" due to the unit's brightly colored aircraft and its mobility, including the use of tents, trains, and caravans, where appropriate.
+
+Richthofen was a brilliant tactician, building on Boelcke's tactics. Unlike Boelcke, however, he led by example and force of will rather than by inspiration. He was often described as distant, unemotional, and rather humorless, though some colleagues contended otherwise.&lt;ref&gt;Bodenschatz 1998&lt;/ref&gt; He taught his pilots the basic rule which he wanted them to fight by: "Aim for the man and don't miss him. If you are fighting a two-seater, get the observer first; until you have silenced the gun, don't bother about the pilot."&lt;ref name="McAllister 61"&gt;McAllister 1982, p. 61.&lt;/ref&gt;
+
+Richthofen was now performing the duties of a lieutenant colonel (a wing commander in modern British Air Force terms), although he remained a captain. The system in the British army was for an officer to hold the rank appropriate to his level of command, if only on a temporary basis, even if he had not been formally promoted. In the German army, it was not unusual for a wartime officer to hold a lower rank than his duties implied; German officers were promoted according to a schedule and not by battlefield promotion. For instance, [[Erwin Rommel]] commanded an infantry battalion as a captain in 1917 and 1918. It was also the custom for a son not to hold a higher rank than his father, and Richthofen's father was a reserve major.
+
+=== Wounded in combat ===
+[[File:DVa2.jpg|thumb|right|Richthofen's Albatros D.V after forced landing near [[Wervik|Wervicq]]. This machine is not an all-red one]]
+
+Richthofen sustained a serious head wound on 6 July 1917, during combat near [[Wervicq]] against a formation of [[Royal Aircraft Factory F.E.2|F.E.2d two seat fighters]] of [[No. 20 Squadron RAF|No. 20 Squadron RFC]], causing instant disorientation and temporary partial blindness.&lt;ref name="McAllister 59" /&gt; He regained his vision in time to ease the aircraft out of a spin and execute a forced landing in a field in friendly territory. The injury required multiple operations to remove bone splinters from the impact area.&lt;ref name="McAllister 60"&gt;McAllister 1982, p. 60.&lt;/ref&gt; The air victory was credited to Captain [[Donald Cunnell]] of No. 20,&lt;ref&gt;Guttman, 2009 pp. 86–88&lt;/ref&gt; who was killed by German anti-aircraft fire a few days later on 12 July 1917 near [[Wervicq]], Belgium; his observer Lt. A. G. Bill successfully flew the aircraft back to base.&lt;ref&gt;Guttman &amp; Dempsey (2009), pp. 88–89.&lt;/ref&gt;
+
+The Red Baron returned to active service against doctor's orders on 25 July,&lt;ref&gt;Burrows 1970, p. 154.&lt;/ref&gt; but went on convalescent leave from 5 September to 23 October.&lt;ref&gt;Burrows 1970, pp. 160–163.&lt;/ref&gt; His wound is thought to have caused lasting damage; he later often suffered from post-flight nausea and headaches, as well as a change in temperament. There is even a [[Manfred von Richthofen#Theories about last combat|theory]] linking this injury with his eventual death.
+
+== Author and hero ==
+[[File:Manfred von Richthofen.jpeg|upright|left|thumb|Portrait by [[Nicola Perscheid]]]]
+During his convalescent leave, Richthofen completed an autobiographic sketch, ''[[The Red Fighter Pilot|Der rote Kampfflieger]]'' (1917). Written on the instructions of the "Press and Intelligence" ([[Propaganda#Wartime|propaganda]]) section of the ''Luftstreitkräfte'', it shows evidence of having been heavily [[Censorship#State secrets and prevention of attention|censored]] and edited.&lt;ref&gt;Burrows 1970, pp. 162–163.&lt;/ref&gt; There are, however, passages that are most unlikely to have been inserted by an official editor. "I am in wretched spirits after every aerial combat. I believe that [the war] is not as the people at home imagine it, with a hurrah and a roar; it is very serious, very grim." An English translation by J. Ellis Barker was published in 1918 as ''The Red Battle Flyer''.&lt;ref name="Der rote Kampfflieger"/&gt; Although Richthofen died before a revised version could be prepared, he is on record as repudiating the book, stating that it was too insolent and that he was no longer that kind of person.&lt;ref name="WTJ"&gt;Johnson, Karl (Contributing Editor for WTJ). [http://www.richthofen.com/ "'The Red Fighter Pilot' by Manfred von Richthofen (online edition)".] ''The War Times Journal''. Retrieved: 27 May 2007.&lt;/ref&gt;
+
+By 1918, Richthofen had become such a legend that it was feared that his death would be a blow to the morale of the German people.&lt;ref&gt;Burrows 1970, p. 152.&lt;/ref&gt; He refused to accept a ground job after his wound, stating that "every poor fellow in the trenches must do his duty" and that he would therefore continue to fly in combat.&lt;ref&gt;Burrows 1970, p. 163.&lt;/ref&gt; Certainly he had become part of a cult of officially encouraged hero-worship. German propaganda circulated various false rumours, including that the British had raised squadrons specially to hunt Richthofen and had offered large rewards and an automatic [[Victoria Cross]] to any Allied pilot who shot him down.&lt;ref&gt;Burrows 1970, p. 131.&lt;/ref&gt; Passages from his correspondence indicate he may have at least half-believed some of these stories himself.&lt;ref&gt;Franks and Bennett 1997, p. 126.&lt;/ref&gt;
+
+== Death ==
+[[File:209 RAF emblem.gif|thumb|left|upright|209 Squadron Badge – the red eagle falling – symbolizes the fall of the Red Baron]]
+Richthofen received a fatal wound just after 11:00&amp;nbsp;am on 21 April 1918 while flying over [[Morlancourt]] Ridge near the [[Somme River]], {{Coord|49|56|0.60|N|2|32|43.71|E|}}.  At the time, he had been pursuing a [[Sopwith Camel]] at very low altitude, piloted by novice Canadian pilot Lieutenant [[Wop May|Wilfrid "Wop" May]] of [[No. 209 Squadron RAF|No. 209 Squadron]], Royal Air Force.&lt;ref name="McAllister 63"&gt;McAllister 1982, p. 63.&lt;/ref&gt; May had just fired on the Red Baron's cousin Lt. [[Wolfram von Richthofen]]. On seeing his cousin being attacked, Manfred flew to his rescue and fired on May, causing him to pull away and saving Wolfram's life.&lt;ref&gt;Franks &amp; Bennett (1997)&lt;/ref&gt; Richthofen pursued May across the Somme. The Baron was spotted and briefly attacked by a Camel piloted by May's school friend and flight commander, Canadian Captain [[Roy Brown (pilot)|Arthur "Roy" Brown]]. Brown had to dive steeply at very high speed to intervene, and then had to climb steeply to avoid hitting the ground.&lt;ref name="McAllister 63" /&gt; Richthofen turned to avoid this attack, and then resumed his pursuit of May.&lt;ref name="McAllister 63" /&gt;
+
+It was almost certainly during this final stage in his pursuit of May that a single [[.303 British|.303]] bullet{{efn|The actual bullet lodged in Richthofen's clothing. It was apparently recovered, but it has not been preserved for examination by modern historians. It was apparently a normal ball round, as fired by all British rifle-caliber arms, and thus would not be any help in determining the controversy of who fired it.}} hit Richthofen, damaging his heart and lungs so severely that it must have caused a quick death.&lt;ref name="McAllister 64"&gt;McAllister 1982, p. 64.&lt;/ref&gt;&lt;ref name="miller"&gt;Miller, Dr. Geoffrey. [http://www.lib.byu.edu/~rdh/wwi/comment/richt.htm "The Death of Manfred von Richthofen: Who fired the fatal shot?"] ''Sabretache: Journal and Proceedings of the Military History Society of Australia'', vol. XXXIX, no. 2, 1998.&lt;/ref&gt; In the last seconds of his life, he managed to retain sufficient control to make a rough landing (&amp;nbsp;{{coord|49.9321076|2.5376701|format=dms|type:event|display=inline}}) in a field on a hill near the Bray-Corbie road, just north of the village of [[Vaux-sur-Somme]], in a sector controlled by the [[First Australian Imperial Force|Australian Imperial Force]] (AIF).&lt;ref name="McAllister 63" /&gt;  There were several witnesses, including Gunner Ernest W. Twycross,&lt;ref name="channel4" /&gt; Gunner George Ridgway,&lt;ref name="miller" /&gt; and Sergeant [[Edward David Smout|Ted Smout]] of the [[Royal Australian Army Medical Corps|Australian Medical Corps]]. Each of these men later claimed to have been the first to reach the triplane, and each reported various versions of Richthofen's last words, generally including the word ''"kaputt"''.&lt;ref name="unsolved"&gt;''[[Unsolved History]]: Death of the Red Baron'', 2002, [[Discovery Channel]]&lt;/ref&gt;{{efn|The definition of "kaputt" is often in contention.&lt;ref&gt;[http://google.com/search?q=cache:SzqjSgxjO6AJ:synonyme.woxikon.de/synonyme/gestorben.php+kaputt+ist+synonymer+tot+sein&amp;cd=3&amp;hl=en&amp;ct=clnk&amp;gl=us&amp;client=firefox-a "Synonym für gestorben – Synonyme &amp;#124; Antonyme (Gegenteile) – Fremdwörter von gestorben."] ''google.com'', 17 May 2009. Retrieved: 13 June 2009.&lt;/ref&gt;&lt;ref&gt;[http://www.thefreedictionary.com/kaputt Definition]&lt;/ref&gt;&lt;ref&gt;[http://www.ego4u.com/en/dictionary "Definition: Kaputt."] ''Ego4u.com'', German-English dictionary, 22 April 2009. Retrieved: 13 June 2009.&lt;/ref&gt;}}
+
+[[File:Richthofen crashsite.ogv|thumb|left|Australian soldiers and airmen examine the remnants of Richthofen's triplane.]]
+[[File:MvRichthofenWreckage (2).jpg|thumb|left|Australian airmen with Richthofen's triplane ''425/17'' after it was dismembered by souvenir hunters]]
+His Fokker Dr.I ''425/17'' was not badly damaged by the landing,{{efn|The undercarriage and fuel tank were smashed, at least.&lt;ref name="Robertson pp118"&gt;Robertson 1958, p. 118.&lt;/ref&gt;}} but it was soon taken apart by souvenir hunters.
+
+[[No. 3 Squadron RAAF|No. 3 Squadron]], [[Australian Flying Corps]] was the nearest Allied air unit and assumed responsibility for the Baron's remains.
+
+In 2009, Richthofen's [[death certificate]] was found in the archives in [[Ostrów Wielkopolski]], Poland. He had briefly been stationed in Ostrów before going to war, as it was part of Germany until the end of World War I. The document is a one-page, handwritten form in a 1918 registry book of deaths. It misspells Richthofen's name as "Richthoven" and simply states that he had "died 21 April 1918, from wounds sustained in combat".&lt;ref&gt;[http://www.nydailynews.com/news/world/2009/12/07/2009-12-07_polish_historian_finds_death_certificate_of_world_war_i_flying_ace_red_baron.html "Polish historian finds death certificate of WWI German flying ace 'Red Baron'."] ''[[Daily News (New York)|Daily News]]'' (New York). Retrieved: 8 December 2009.&lt;/ref&gt;
+
+=== Who fired the shot that killed Richthofen? ===
+&lt;!-- PLEASE raise any desired edits to the following in discussion—this section of the article is very well referenced --&gt;
+Controversy and contradictory [[hypothesis|hypotheses]] continue to surround the identity of the person who fired the shot that actually killed Richthofen.
+[[File:Arthur Roy Brown from imperial war museum.jpg|thumb|right|upright|[[Roy Brown (RAF officer)|Arthur Roy Brown]], in naval uniform, as a [[Royal Naval Air Service]] lieutenant.]]
+The [[RAF]] credited Brown with shooting down the Red Baron, but it is now generally agreed that the bullet which hit Richthofen was fired from the ground.&lt;ref name="miller" /&gt;&lt;ref name="channel4"&gt;
+[http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150650976 ''Dogfight – The Mystery of the Red Baron''], Channel 4, ''[[Secret History (TV series)|Secret History]]'', 22 December 2003. US broadcast as [https://www.pbs.org/wgbh/nova/redbaron/ "Who Killed the Red Baron? Explore Competing Theories."] ''Pbs.org'', (Public Broadcasting Service) ''[[Nova (TV series)|Nova]], 7 October 2003.&lt;/ref&gt;&lt;ref&gt;[http://wwi.lib.byu.edu/index.php/Richthofen Dr Geoffrey Miller, 1998, "The Death of Manfred von Richthofen: who fired the fatal shot?", in ''Sabretache: Journal and Proceedings of the Military History Society of Australia'', vol. XXXIX, no. 2]&lt;/ref&gt; Richthofen died following an extremely serious and inevitably fatal chest wound from a single bullet, penetrating from the right armpit and resurfacing next to the left nipple. Brown's attack was from behind and above, and from Richthofen's left. Even more conclusively, Richthofen could not have continued his pursuit of May for as long as he did (up to two minutes) had this wound come from Brown's guns.&lt;ref name="miller" /&gt; Brown himself never spoke much about what happened that day,{{efn|Sensational accounts have been systematically discredited by several writers, even though they describe the attack in great detail and are allegedly given by Brown.}} claiming, "There is no point in me commenting, as the evidence is already out there."
+
+Many sources have suggested that Sergeant [[Cedric Popkin]] was the person most likely to have killed Richthofen, including a 1998 article by Geoffrey Miller, a physician and historian of military medicine, and a 2002 British [[Channel 4]] documentary.&lt;ref name="miller" /&gt;&lt;ref name="channel4" /&gt; Popkin was an [[anti-aircraft]] (AA) machine gunner with the Australian 24th Machine Gun Company, and he was using a [[Vickers machine gun|Vickers gun]]. He fired at Richthofen's aircraft on two occasions: first as the Baron was heading straight at his position, and then at long range from the right. Given the nature of Richthofen's wounds, Popkin was in a position to fire the fatal shot when the pilot passed him for a second time, on the right.&lt;ref name="miller" /&gt;&lt;ref name="channel4" /&gt; Some confusion has been caused by a letter that Popkin wrote in 1935 to an Australian official historian. It stated Popkin's belief that he had fired the fatal shot as Richthofen flew straight at his position. In this respect, Popkin was incorrect; the bullet which caused the Baron's death came from the side (see above).
+
+[[File:24 MG Coy (AWM E01716).jpg|left|thumb|Officers and NCOs of the 24th Machine Gun Company in March 1918. Sergeant [[Cedric Popkin]] is second from the right in the middle row.]]
+A 2002 [[Discovery Channel]] documentary suggests that Gunner [[Snowy Evans|W. J. "Snowy" Evans]], a [[Lewis machine gun]]ner with the 53rd Battery, 14th Field Artillery Brigade, [[Royal Australian Artillery]] is likely to have killed von Richthofen.&lt;ref name="unsolved" /&gt; Miller and the Channel 4 documentary dismiss this theory because of the angle from which Evans fired at Richthofen.&lt;ref name="miller" /&gt;&lt;ref name="channel4" /&gt;
+
+Other sources have suggested that Gunner Robert Buie (also of the 53rd Battery) may have fired the fatal shot. There is little support for this theory.&lt;ref name="miller" /&gt;&lt;ref name="channel4" /&gt; In 2007, a municipality in Sydney recognised Buie as the man who shot down Richthofen, placing a plaque near his former home.&lt;ref&gt;Day, Mark. "Unsung No.1 with a bullet." ''The Australian'', 7 April 2007.&lt;/ref&gt; Buie died in 1964 and has never been officially recognised in any other way.{{citation needed|date = April 2017}}
+
+No. 3 Squadron AFC's commanding officer Major [[David Valentine Jardine Blake|David Blake]] initially suggested that Richthofen had been killed by the crew of one of his squadron's [[Royal Aircraft Factory R.E.8|R.E.8]]s, which had also fought members of Richthofen's unit that afternoon. This claim was quickly discounted and withdrawn, if only because of the time factor. Following an [[autopsy]] that he witnessed, Blake became a strong proponent of the view that an AA machine gunner had killed Richthofen.{{citation needed|date = April 2017}}
+
+=== Theories about last combat ===
+Richthofen was a highly experienced and skilled fighter pilot—fully aware of the risk from ground fire. Further, he concurred with the rules of air fighting created by his late mentor Boelcke, who specifically advised pilots not to take unnecessary risks. In this context, Richthofen's judgement during his last combat was clearly unsound in several respects.&lt;ref name="Franks and Bennett 1997"&gt;Franks and Bennett 1997&lt;/ref&gt; Several theories have been proposed to account for his behaviour.
+
+In 1999, a German medical researcher, Henning Allmers, published an article in the British medical journal ''[[The Lancet]]'', suggesting it was likely that brain damage from the head wound Richthofen suffered in July 1917 (see [[#Wounded_in_combat|above]]) played a part in the Red Baron's death. This was supported by a 2004 paper by researchers at the [[University of Texas-Austin|University of Texas]]. Richthofen's behaviour after his injury was noted as consistent with [[Traumatic brain injury|brain-injured]] patients, and such an injury could account for his perceived lack of judgement on his final flight: flying too low over enemy territory and suffering [[target fixation]].&lt;ref name="lancet"&gt;Allmers, Dr. Henning. [http://www.anzacs.net/MvR-FittoFly.htm "Manfred Freiherr von Richthofen's medical record—Was the "Red Baron" fit to fly?"] ''The Lancet'', 354 (9177), 7 August 1999, pp. 502–504. Published online by ''anzacs.net''. Retrieved: 23 September 2007.&lt;/ref&gt;
+
+Richthofen may have been suffering from [[Combat stress reaction|cumulative combat stress]], which made him fail to observe some of his usual precautions. One of the leading British air aces, Major [[Edward Mannock|Edward "Mick" Mannock]], was killed by ground fire on 26 July 1918 while crossing the lines at low level, an action he had always cautioned his younger pilots against. One of the most popular of the French air aces, [[Georges Guynemer]], went missing on 11 September 1917, probably while attacking a two-seater without realizing several Fokkers were escorting it.&lt;ref&gt;[http://www.acepilots.com/wwi/fr_guynemer.html "Georges Guynemer: Beloved French Ace, 53 victories."] ''acepilots.com''. Retrieved: 2 July 2009.&lt;/ref&gt;&lt;ref&gt;Guttman, Jon. [http://www.historynet.com/georges-guynemer-frances-world-war-i-ace-pilot.htm/7 "Georges Guynemer: France's World War I Ace Pilot."] ''historynet.com''. Retrieved: 2 July 2009.&lt;/ref&gt;
+
+There is a suggestion that on the day of Richthofen's death, the prevailing wind was about 40&amp;nbsp;km/h (25&amp;nbsp;mph) easterly, rather than the usual {{convert|40|km/h|mi/h|0|abbr=on}} westerly. This meant that Richthofen, heading generally westward at an airspeed of about 160&amp;nbsp;km/h (100&amp;nbsp;mph), was travelling over the ground at up to 200&amp;nbsp;km/h (125&amp;nbsp;mph) rather than the more typical ground speed of 120&amp;nbsp;km/h (75&amp;nbsp;mph). This was considerably faster than normal and he could easily have strayed over enemy lines without realizing it.&lt;ref name="Franks and Bennett 1997" /&gt;
+
+At the time of Richthofen's death, the front was in a highly fluid state, following the initial success of the [[Spring Offensive|German offensive of March–April 1918]]. This was part of Germany's last opportunity to win the war. In the face of Allied air superiority, the German air service was having difficulty acquiring vital reconnaissance information, and could do little to prevent Allied squadrons from completing effective reconnaissance and close support of their armies.
+
+== Burial ==
+[[File:Richthofen funeral.jpg|thumb|[[No. 3 Squadron RAAF|No. 3 Squadron AFC]] officers were pallbearers and other ranks from the squadron acted as a guard of honour during the Red Baron's funeral on 22 April 1918.]]
+
+In common with most Allied air officers, Major Blake, who was responsible for Richthofen's body, regarded the Red Baron with great respect, and he organised a full [[military funeral]], to be conducted by the personnel of No. 3 Squadron AFC.{{citation needed|date = April 2017}}
+
+The body was buried in the cemetery at the village of [[Bertangles]], near [[Amiens]], on 22 April 1918. Six of No. 3 Squadron's officers served as [[pallbearer]]s, and a guard of honour from the squadron's [[Other ranks (UK)|other ranks]] fired a salute.{{efn| The official caption of the photograph on the right reads ''The funeral of Rittmeister Baron M. Von Richthofen. Firing party presenting arms as the coffin passes into the cemetery, borne on the shoulders of six pilots of No. 3 Squadron A.F.C. Bertangles, France 22nd April, 1918. The Padre is Captain Reverend George H. Marshall, M.A., D.S.O.''}}
+
+Allied squadrons stationed nearby presented memorial wreaths, one of which was inscribed with the words, "To Our Gallant and Worthy Foe".&lt;ref&gt;{{Cite web|url=http://www.thursdayreview.com/RedBaronVonRichthofen.html|title=A Gallant and Worthy Foe: The Death of the “Red Baron”|website=www.thursdayreview.com|access-date=2017-12-14}}&lt;/ref&gt;
+[[File:Richthofen funeral.ogg|thumb|left|The funeral of Manfred von Richthofen]]
+A speculation that his opponents organised a flypast at his funeral, giving rise to the [[missing man formation]],&lt;ref&gt;[http://www.aiipowmia.com/histories/histformation.html "Histories: The Missing Man Formation."] {{webarchive|url=https://web.archive.org/web/20001121100500/http://www.aiipowmia.com/histories/histformation.html |date=21 November 2000 }} ''aiipwmia.com.'' Retrieved: 11 March 2010.&lt;/ref&gt; is most unlikely and totally unsupported by any contemporary evidence.
+
+In the early 1920s the French authorities created [[Fricourt German war cemetery|a military cemetery]] at [[Fricourt]], in which a large number of German war dead, including Richthofen, were reinterred.{{efn|Among other reasons to protect the graves from vandalism by disgruntled villagers, understandably resentful of former enemies being buried among their own relatives.}} In 1925 von Richthofen's youngest brother, Bolko, recovered the body from Fricourt and took it to Germany. The family's intention was for it to be buried in the Schweidnitz cemetery next to the graves of his father and his brother [[Lothar von Richthofen]], who had been killed in a post-war air crash in 1922.&lt;ref&gt;[http://www.frontflieger.de/4lothar.html "Biography: Lothar Freiherr von Richthofen."] ''Frontflieger.de''. Retrieved: 13 June 2009.&lt;/ref&gt; The German Government requested that the body should instead be interred at the [[Invalidenfriedhof Cemetery]] in Berlin, where many German military heroes and past leaders were buried, and the family agreed. Richthofen's body received a [[state funeral]]. Later the [[Nazi Germany|Third Reich]] held a further grandiose memorial ceremony at the site of the grave, erecting a massive new tombstone with the single word: '''Richthofen'''.&lt;ref&gt;Burrows 1970, p. 196.&lt;/ref&gt; During the [[Cold War]], the Invalidenfriedhof was on the [[Berlin Wall|boundary of the Soviet zone in Berlin]], and the tombstone became damaged by bullets fired at attempted escapees from [[East Germany]]. In 1975 the body was moved to a Richthofen family grave plot at the [[South Cemetery Wiesbaden|Südfriedhof]] in [[Wiesbaden]].&lt;ref&gt;Franks and Bennett 1997, p. 9.&lt;/ref&gt;
+
+&lt;center&gt;
+&lt;gallery&gt;
+File:Fricourt Richthofen grave.JPG|Richthofen's former grave at Fricourt, later Sebastian Paustian, section 4, row 7, grave 1177
+Familiengrab von Richthofen - geo.hlipp.de - 35630.jpg|Richthofen family grave at the [[South Cemetery Wiesbaden|Südfriedhof]] in [[Wiesbaden]]
+&lt;/gallery&gt;
+&lt;/center&gt;
+
+== Number of victories ==
+{{main|List of victories of Manfred von Richthofen}}
+For decades after World War I, some authors questioned whether Richthofen had achieved 80 victories, insisting that his record was exaggerated for propaganda purposes. Some claimed that he took credit for aircraft downed by his squadron or wing.
+
+In fact, Richthofen's victories are unusually well documented. [[List of victories of Manfred von Richthofen|A full list of the aircraft the Red Baron was credited with shooting down]] was published as early as 1958&lt;ref name="Robertson pp150–155"&gt;Robertson 1958, pp. 150–155.&lt;/ref&gt;—with documented RFC/RAF squadron details, aircraft serial numbers, and the identities of Allied airmen killed or captured—73 of the 80 listed match recorded British losses. A study conducted by British historian [[Norman Franks]] with two colleagues, published in ''Under the Guns of the Red Baron'' in 1998, reached the same conclusion about the high degree of accuracy of Richthofen's claimed victories. There were also unconfirmed victories that would put his actual total as high as 100 or more.&lt;ref name="Franks and Bailey 1992"&gt;Franks and Bailey 1992&lt;/ref&gt;
+
+For comparison, the highest-scoring Allied ace, the Frenchman [[René Fonck (aviator)|René Fonck]], achieved 75 confirmed victories&lt;ref&gt;Ordre de la IVe Armée, n°1599, 23 January 1919&lt;/ref&gt; and a further 52 unconfirmed behind enemy lines.&lt;ref name="Franks and Bailey 1992" /&gt; The highest-scoring [[British Empire]] fighter pilots were Canadian [[Billy Bishop]], who was officially credited with 72 victories,&lt;ref&gt;"Distinguished Flying Cross Citation", ''London Gazette'', 3 August 1918.&lt;/ref&gt; [[Mick Mannock]], with 61 confirmed victories,&lt;ref&gt;[http://www.theaerodrome.com/aces/england/mannock.php "Mannock".] ''The Aerodrome.com''. Retrieved: 13 April 2009.&lt;/ref&gt;&lt;ref&gt;Franks et al 1993, pp. 255–256.&lt;/ref&gt; Canadian [[Raymond Collishaw]], with 60,&lt;ref&gt;Shores et al. 1990, pp. 115–116&lt;/ref&gt; and [[James McCudden]], with 57 confirmed victories.
+
+Richthofen's early victories and the establishment of his reputation coincided with a period of German [[air superiority]], but he achieved many of his successes against a numerically superior enemy, who flew [[fighter aircraft]] that were, on the whole, better than his own.&lt;ref name="Robertson pp150–155" /&gt;
+
+== Honours, tributes and relics ==
+{{refimprove|section|date=April 2018}}&lt;!--most entries are not cited--&gt;
+[[Image:RoteBaron.JPG|thumb|right|[[Fokker Dr.I]]. Replica of the famous Manfred von Richthofen [[triplane]] at the [[Berlin Air Show|ILA 2006]]]]
+[[File:Richthofen-pomnik3.JPG|thumb|Memorial in Polish at Richthofen's former home in today's [[Świdnica]] (formerly Schweidnitz)]]
+[[File:Iwm110.jpg|thumb|Iwm110|Engine of von Richthofen's Fokker DR. I]]
+
+'''Relics'''
+
+Captain Roy Brown donated the seat of the Fokker triplane in which the German flying ace made his final flight to the [[Royal Canadian Military Institute]] in 1920.&lt;ref&gt;[http://www.thecanadianencyclopedia.com/articles/toronto-feature-royal-military-institute Royal Canadian Military Institute Canadian Encyclopedia]&lt;/ref&gt; The [[Royal Canadian Military Institute]], in Toronto, apart from the Triplane's seat also holds a side panel signed by the pilots of Brown's squadron.
+The engine of Richthofen's DR.I was donated to the [[Imperial War Museum]] in London, where it is still on display. The museum also holds the Baron's machine guns. The [[control column]] (joystick) of Richthofen's aircraft can be seen at the [[Australian War Memorial]], in Canberra.
+
+'''Decorations and awards'''
+* Prussian  ''[[Order Pour le Mérite]]'': 12 January 1917 (in recognition of his 16th aerial victory).
+* Prussian [[Order of the Red Eagle]], 3rd Class with Crown and Swords: 6 April 1918 (in recognition of his 70th aerial victory).
+* Prussian [[House Order of Hohenzollern]], Knight's Cross with Swords: 11 November 1916.
+* Prussian [[Iron Cross]], 1st Class (1914): 23 September 1914
+* Prussian Iron Cross, 2nd Class (1914): 12 September 1914
+* [[Military Merit Order (Bavaria)|Bavarian Military Merit Order]], 4th Class with Swords: 29 April 1917.&lt;ref&gt;O’Connor 1999, pp. 371–374 (errata and addenda).&lt;/ref&gt;{{efn| For many years, World War I aviation historians believed Richthofen had received the 3rd Class with Crown and Swords of the Bavarian Military Merit Order prior to his submission for the Military Max Joseph Order. Recent research has proved that he received the usual class of that order common for an officer of his rank: the 4th Class with Swords of the Bavarian Military Merit Order.}}
+* Honour cup for victory in aerial combat
+* Duke Carl Eduard Medal with Swords clasp: 9 November 1916
+* [[War Merit Cross (Lippe)|War Merit Cross for heroic act]] (Lippe)
+* [[War Merit Cross (Brunswick)|Brunswick War Merit Cross]], 2nd Class
+* [[Wound Badge]] (1918) in Black
+* Saxon [[Military Order of St. Henry]], Knight's Cross: 16 April 1917.
+* Württemberg [[Military Merit Order (Württemberg)]], Knight's Cross: 13 April 1917
+* [[Saxe-Ernestine House Order]], Knight 1st Class with Swords (issued by the Duchy of Saxe-Coburg and Gotha): 9 May 1917.
+* Hesse General Honour Decoration, "for Bravery"
+* Lippe War Honour Cross for Heroic Deeds, 2nd class: 13 October 1917.
+* Schaumburg-Lippe Cross for Faithful Service: 10 October 1917.
+* Bremen [[Hanseatic Cross]]: 25 September 1917.
+* Lübeck Hanseatic Cross: 22 September 1917.
+* Hamburg Hanseatic Cross
+* Austrian [[Order of the Iron Crown (Austria)|Order of the Iron Crown]], 3rd Class with War Decoration: 8 August 1917.
+* [[Military Merit Cross (Austria–Hungary)|Austrian Military Merit Cross]], 3rd Class with War Decoration
+* Bulgarian [[Order of Bravery]], 4th Class (1st Grade): 12 June 1917
+* Turkish [[Imtiaz Medal]] in Silver with Sabres
+* Turkish [[Liakat Medal]] in Silver with Sabres
+* [[Gallipoli Star (Ottoman Empire)|Turkish War Medal]] ("Iron Crescent" or "Gallipoli Star"): 4 November 1917
+* German Army Pilot's Badge
+* German Army Observer's Badge{{efn|No record or photographic evidence has been seen to indicate Richthofen qualified for this badge. He successfully completed the training and served for nearly five months as an observer before retraining as a pilot}}
+* Austrian Field Pilot's Badge (Franz Joseph pattern)
+
+'''Tributes'''
+
+At various times, several different German military aviation ''[[Geschwader]]'' (literally "squadrons"; equivalent to Commonwealth air force "groups", French ''escadrons'' or USAF "wings") have been named after the Baron:
+
+* [[Jagdgeschwader 132|''Jagdgeschwader 132 "Richthofen"'']] (1 April 1936 – 1 November 1938)—''[[Wehrmacht]]'' aviation unit
+* [[Jagdgeschwader 131|''Jagdgeschwader 131 "Richthofen"'']] (1 November 1938 – 1 May 1939)—''[[Luftwaffe]]''
+* [[Jagdgeschwader 2|''Jagdgeschwader 2 "Richthofen"'']] (1 May 1939 – 7 May 1945)—''Luftwaffe''
+* [[Taktisches Luftwaffengeschwader 71 "Richthofen"|''Jagdgeschwader 71 "Richthofen"'']] (from 6 June 1959)—the first jet fighter unit established by the post-World War II German ''[[Bundeswehr]]'' ("federal defence force"); its founding commander was the most successful air ace in history, [[Erich Hartmann]].
+
+In 1941 a newly launched  ''[[Kriegsmarine]]'' (German navy) [[seaplane tender]] received the name {{ill|''Richthofen''|de|Richthofen (Schiff)}}.
+
+In 1968, von Richthofen was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==Published works==
+*{{cite book |first1=Manfred, Captain |last1=von Richthofen |first2=T. Ellis, translations |last2=Barker |first3=C. G.preface and notes, editor of ''[[Aeroplane Magazine|The Aeroplane]]'' |last3=Grey |location=New York |publisher=Robert M. McBride &amp; Co |date=July 1918 |url=http://www.gutenberg.org/files/41159/41159-h/41159-h.htm |title=The Red Battle Flyer}} at [[Project Gutenberg]]
+
+== See also ==
+* [[The Red Baron in popular culture]]
+* [[List of World War I flying aces]]
+
+==References==
+
+===Notes===
+{{notelist}}
+
+===Citations===
+{{Reflist|colwidth=30em}}
+
+===Bibliography===
+{{Refbegin}}
+* Baker, David. ''Manfred von Richthofen: The Man and the Aircraft He Flew''. McGregor, Minnesota: Voyageur Press, 1991. {{ISBN|1-871547-06-7}}.
+* [[Karl Bodenschatz|Bodenschatz, Karl]]. ''Hunting With Richthofen: Sixteen Months of Battle with J G Freiherr Von Richthofen No. 1''. London: Grub Street, 1998. {{ISBN|1-898697-97-3}}.
+* Burrows, William E. ''Richthofen: A True History of the Red Baron''. London: Rupert Hart-Davis, 1970. {{ISBN|0-15-177172-3}}.
+* English, Dave. ''The Air Up There: More Great Quotations on Flight''. Chicago, Illinois: McGraw-Hill Professional, 2003. {{ISBN|0-07-141036-8}}.
+* [[Norman Franks|Franks, Norman]]; Bailey, Frank W.; Guest, Russell. ''Above the Lines: The Aces and Fighter Units of the German Air Service, Naval Air Service and Flanders Marine Corps, 1914–1918''. Grub Street, 1993. {{ISBN|0-948817-73-9}}, {{ISBN|978-0-948817-73-1}}.
+* Franks, Norman and Frank W. Bailey. ''Over the Front: A Complete Record of Fighter Aces and Units of the United States and French Air Services, 1914–1918''. London: Grub Street, 1992. {{ISBN|978-0-948817-54-0}}.
+* Franks, Norman, Hal Giblin and Nigel McCrery. ''Under the Guns of the Red Baron: Complete Record of Von Richthofen's Victories and Victims''. London: Grub Street, 2007, First edition 1995. {{ISBN|1-84067-145-9}}.
+* Gibbons, Floyd, ''The Red Knight of Germany: The Story of Baron von Richthofen, German's Great War Bird''. New York: Doubleday, Page &amp; Company, 1927.
+* Grey, Peter and Owen Thetford. ''German Aircraft of the First World War''. London: Putnam, 2nd ed., 1970. {{ISBN|0-933852-71-1}}.
+* Guttman, Jon. ''Pusher Aces of World War 1'' (Aircraft of the Aces #88). Oxford, UK: Osprey Publishing Co, 2009. {{ISBN|978-1-84603-417-6}}.
+* Kilduff, Peter.'' The Red Baron: Beyond the Legend''. London: Cassell, 1994. {{ISBN|0-304-35207-1}}.
+* McAllister, Hayden, ed. ''Flying Stories''. London: Octopus Books, 1982. {{ISBN|0706417348}}.
+* O’Connor, Neal W. ''The Aviation Awards of the Grand Duchies of Baden and Oldenburg Foundation of Aviation World War I: Aviation Awards of Imperial Germany in World War I and the Men Who Earned Them – Volume VI.'' Stratford, Connecticut: Flying Machines Press, 1999. {{ISBN|0-7643-1626-5}}.
+* Preußen, Kriegsministerium, Geheime Kriegs-Kanzlei. ''Rangliste der Königlich Preußischen Armee und des XIII.'' Berlin: Ernst Siegfried Mittler und Sohn, 1914.
+* Robertson, Bruce (ed.) ''von Richthofen and the Flying Circus''. Letchworth, UK: Harleyford, 1958.
+* Robertson, Linda R. ''The Dream Of Civilized Warfare: World War I Flying Aces and the American Imagination''. Minneapolis, Minnesota: University Of Minnesota Press, 2005. {{ISBN|978-0-8166-4271-7}}.
+* Shores, Christopher; Norman Franks; Russell Guest. ''Above the Trenches: A Complete Record of the Fighter Aces and Units of the British Empire Air Forces 1915–1920''. Grub Street, 1990. {{ISBN|0-948817-19-4}}, {{ISBN|978-0-948817-19-9}}.
+* Von Richthofen, Manfred. ''The Red Baron''. Norderstedt, Germany: BOD, 2008 (reprint). {{ISBN|978-3-8370-9217-2}}.
+* Von Richthofen, Manfred. ''Red Fighter Pilot: The Autobiography of the Red Baron''. St Petersburg, Florida: Red and Black Publishers, 2007 (reprint). {{ISBN|978-0-9791813-3-7}}.
+* Wright, Nicolas. ''The Red Baron''. London: Sidgwick &amp; Jackson, 1976. {{ISBN|0-283-98298-5}}.
+
+'''Concerning death'''
+* Allmers, Dr. Henning. "Manfred Freiherr von Richthofen's Medical Record: Was the "Red Baron" fit to fly?" ''Lancet'' 1999, 354: pp.&amp;nbsp;502–504.
+* Day, Mark. [http://www.theaustralian.news.com.au/story/0,25197,21514532-28737,00.html "Unsung No.1 with a bullet – World War I ace Manfred von Richthofen seems to have met his match in an Australian gunner."] ''[[The Australian]]'' News Corporation, 30 April 2007. Retrieved: 30 April 2007.
+* Franks, Norman and Alan Bennett. ''The Red Baron's Last Flight: A Mystery Investigated''. London: Grub Street, 2007, First edition 1997. {{ISBN|1-904943-33-0}}
+* Miller, Geoffrey. [http://net.lib.byu.edu/~rdh7/wwi/comment/richt.htm "The Death of Manfred von Richthofen: Who fired the fatal shot?"] ''Sabretache: Journal and Proceedings of the Military History Society of Australia'', Vol. XXXIX, No. 2.
+* Titler, Dale. ''The Day the Red Baron Died''. New York: Ballantine Books, 1970. {{ISBN|0-345-24923-2}}.
+{{Refend}}
+
+==External links==
+* {{Gutenberg author | id=Richthofen,+Manfred,+Freiherr+von | name=Freiherr von Manfred Richthofen}}
+* {{Internet Archive author |sname=Manfred von Richthofen}}
+* {{Internet Archive author |name=Red Baron}}
+* {{Librivox author |id=9778}}
+* [http://www.richthofen.com/index.htm Complete text of ''The Red Fighter Pilot'' by Manfred von Richthofen] at The War Times Journal
+* [http://www.frontflieger.de/4-ric13.htm Combat record]
+* [http://www.criticalpast.com/video/65675022511_Von-Hindenburg_Manfred-Von-Richthofen_Heinkel-HE-57_German-dignitaries_Invalid%E2%80%99s-Cemetery Historic footage of Manfred von Richthofen posing and conversing with fellow pilots, circa 1917.]
+* [http://aso.gov.au/titles/historical/funeral-baron-von-richthofen/ Silent historical film of the 1918 funeral of Captain Baron von Richthofen] provided by [[Australian Screen Online]]
+* [http://www.itnsource.com/shotlist//BHC_RTV/1925/12/08/BGT407101446/ Footage of the reburial of The Red Baron in 1925]
+* {{Find a Grave|4333|Manfred von Richthofen}}
+* {{PM20|FID=pe/014584}}
+&lt;!-- EDITORS NOTE: Please follow the [[WP:EL]] guideline where possible and consider discussing on the talk page. Thank you. --&gt;
+
+&lt;br/&gt;&lt;!--this break is to put visual space between the last information and the following template if needed--&gt;
+
+{{s-start}}
+{{s-mil}}
+|-
+{{s-bef | before = Rudolf Lang}}
+{{s-ttl | title = Commanding Officer of [[Jagdstaffel 11|''Jasta 1''1 (German Empire)]]|years=1917}}
+{{s-aft | after = [[Karl Allmenröder]]}}
+|-
+{{s-new | creation}}
+{{s-ttl | title = Commanding Officer of [[Jagdgeschwader 1 (World War I)|Jagdgeschwader 1 (German Empire)]]| years = 1917-1918}}
+{{s-aft | after = [[Wilhelm Reinhard (pilot)|Wilhelm Reinhard]]}}
+{{s-end}}
+{{Authority control}}
+{{Subject bar
+| portal1=Aviation
+| portal2=Biography
+| portal3=Military of Germany
+| portal4=World War I
+| portal5=German Empire
+| commons=y
+| commons-search=Richthofen family
+}}
+
+{{Use dmy dates|date=April 2012}}
+
+{{DEFAULTSORT:Richthofen, Manfred Freiherr Von}}
+[[Category:1892 births]]
+[[Category:1918 deaths]]
+[[Category:Articles containing video clips]]
+[[Category:Aviators killed by being shot down]]
+[[Category:Barons of Germany]]
+[[Category:Burials in Germany]]
+[[Category:German military personnel killed in World War I]]
+[[Category:German World War I flying aces]]
+[[Category:Luftstreitkräfte personnel]]
+[[Category:Knights of the House Order of Hohenzollern]]
+[[Category:Knights 1st Class of the Saxe-Ernestine House Order]]
+[[Category:Manfred von Richthofen]]&lt;!--please leave the empty space as standard--&gt;
+[[Category:People from Wrocław]]
+[[Category:People from the Province of Silesia]]
+[[Category:Prussian Army personnel]]
+[[Category:Recipients of the Order of Bravery, 4th class]]
+[[Category:Recipients of the Silver Imtiyaz Medal]]
+[[Category:Recipients of the Silver Liakat Medal]]
+[[Category:Recipients of the Pour le Mérite (military class)]]
+[[Category:Recipients of the Order of the Red Eagle, 3rd class]]
+[[Category:Recipients of the Hanseatic Cross (Bremen)]]
+[[Category:Recipients of the Hanseatic Cross (Lübeck)]]
+[[Category:Richthofen family|Manfred von Richthofen]]</text>
+      <sha1>kniyvkty5490lf7tnqqdp4qy4jdesxp</sha1>
+    </revision>
+  </page>
+</mediawiki>

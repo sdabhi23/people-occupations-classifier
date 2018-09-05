@@ -1,0 +1,570 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Harold Ramis</title>
+    <ns>0</ns>
+    <id>277587</id>
+    <revision>
+      <id>853942097</id>
+      <parentid>853808488</parentid>
+      <timestamp>2018-08-07T23:06:37Z</timestamp>
+      <contributor>
+        <username>Tajotep</username>
+        <id>29695403</id>
+      </contributor>
+      <comment>/* Personal life */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34804">{{Use mdy dates|date=May 2017}}
+{{Infobox person
+| image        = [[File:Harold Ramis Oct 2009.jpg|190px]]
+| caption      = Harold Ramis in October 2009
+| birth_name   = Harold Allen Ramis
+| birth_date   = {{Birth date|1944|11|21|mf=yes}}
+| birth_place  = [[Chicago, Illinois]], U.S.
+| death_date   = {{death date and age|2014|2|24|1944|11|21|mf=yes}}
+| death_place  = [[Glencoe, Illinois]], U.S.
+| home_town    = Chicago, Illinois
+| alma_mater   = [[Washington University in St. Louis]]
+| occupation   = Actor, director, writer, comedian
+| years_active = 1968–2014
+| ethnicity    =
+| spouse       = {{marriage|Anne Plotkin|1967|1984|reason=divorced}}&lt;br&gt;{{marriage|Erica Mann|1989}}
+| children     = 4
+}}
+
+'''Harold Allen Ramis''' {{IPAc-en|ˈ|r|eɪ|m|ᵻ|s}} (November 21, 1944 – February 24, 2014) was an American actor, director, writer, and comedian. His best-known film acting roles were as [[Egon Spengler]] in ''[[Ghostbusters]]'' (1984) and ''[[Ghostbusters II]]'' (1989) and Russell Ziskey in ''[[Stripes (film)|Stripes]]'' (1981); he also co-wrote those films. As a director, his films include the [[comedy film|comedies]] ''[[Caddyshack]]'' (1980), ''[[National Lampoon's Vacation]]'' (1983), ''[[Groundhog Day (film)|Groundhog Day]]'' (1993), and ''[[Analyze This]]'' (1999). Ramis was the original head writer of the television series ''[[Second City Television|SCTV]]'', on which he also performed, as well as a co-writer of ''Groundhog Day'' and ''[[Animal House|National Lampoon's Animal House]]'' (1978). The final film that he wrote, produced, directed and acted in was ''[[Year One (film)|Year One]]'' (2009).
+
+Ramis' films influenced subsequent generations of comedians and comedy writers.&lt;ref name="newyorker"/&gt; Filmmakers including [[Jay Roach]], [[Jake Kasdan]], [[Adam Sandler]], and [[Farrelly brothers|Peter and Bobby Farrelly]] have cited his films as among their favorites.&lt;ref name="newyorker"/&gt; Along with [[Danny Rubin]], he won the [[BAFTA Award for Best Original Screenplay]] for ''Groundhog Day''.&lt;ref&gt;{{cite web| title=Awards Database—Film: Original Screenplay |url=http://awards.bafta.org/award/1994/film/original-screenplay |website=bafta.org |publisher=British Academy of Film and Television Arts |access-date=16 August 2017}}&lt;/ref&gt;
+
+==Early life==
+Ramis was born on November 21, 1944, in Chicago, Illinois,&lt;ref name="filmref"&gt;{{cite web | url = http://www.filmreference.com/film/53/Harold-Ramis.html | title= Harold Ramis Biography (1944–) | publisher=FilmReference.com | accessdate=February 24, 2014}}&lt;/ref&gt; the son of Ruth (née Cokee) and Nathan Ramis, who owned the Ace Food &amp; Liquor Mart on the city's far North Side.&lt;ref name="newyorker" /&gt; Ramis had a [[Jew]]ish upbringing.&lt;ref&gt;{{cite web|url=https://www.algemeiner.com/2014/02/24/‘ghostbusters’-actor-‘caddyshack’-director-harold-ramis-dies-at-69/|title=‘Ghostbusters’ Actor, ‘Caddyshack’ Director Harold Ramis Dies at 69|work=[[Algemeiner Journal]]|date=February 24, 2014|accessdate=April 24, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|first=Ethan|last=Sacks|url=http://beta.nydailynews.com/entertainment/actor-harold-ramis-dead-69-article-1.1699957|title=Harold Ramis dead at 69: Actor-director-writer was best remembered for ‘Ghostbusters,’ ‘Groundhog Day’ |work=New York Daily News|date=February 24, 2014|accessdate=April 24, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.lionsroar.com/harold-ramis-judd-apatow-talk-groundhog-day-and-buddhism/|title=Harold Ramis, Judd Apatow talk "Groundhog Day," Buddhism, and San Francisco in the 60s|work=[[Lion's Roar (magazine)|Lion's Roar]]|date=July 18, 2016|accessdate=April 24, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|first=Robert |last=Loerzel|url=http://www.chicagomag.com/arts-culture/February-2014/Harold-Ramis-Q-A/|title=11 Questions for Harold Ramis: An Unpublished Interview|work=Chicago magazine|date=April 24, 2014|accessdate=April 24, 2018}}&lt;/ref&gt; In his adult life, he did not practice any religion.&lt;ref&gt;{{cite news|title=Harold Ramis of 'Ghostbusters,' 'Groundhog Day' fame dies|url=http://www.cnn.com/2014/02/24/showbiz/movies/obit-harold-ramis/|publisher=CNN.com|accessdate=February 25, 2014|first=Todd|last=Leopold|date=February 24, 2014|quote=Asked by The New York Times about the existential questions raised by "Groundhog Day" – and competing interpretations of the film's meaning – he mentioned that he didn't practice any religion himself.}}&lt;/ref&gt;&lt;ref&gt;[http://www2.kenyon.edu/Depts/Religion/Fac/Adler/Misc/GroundhogDay.htm Kuczynski, Alex. "Groundhog Almighty"], ''[[The New York Times]]'', December 7, 2003, via [[Kenyon College]] Department of Religious Studies&lt;/ref&gt; He graduated from Stephen K. Hayt Elementary School in June 1958 and [[Senn High School|Nicholas Senn High School]] in 1962, both Chicago public schools,&lt;ref&gt;{{cite web|url=http://www.cpsalumni.org/honor_roll/jan/01/2008/harold-ramis |title=Chicago Public Schools Alumni: 'Senn, Nicolas Senn High School' |publisher=Cpsalumni.org |date= |accessdate=February 24, 2014}}&lt;/ref&gt; and in 1966 from [[Washington University in St. Louis|Washington University]] in [[St. Louis, Missouri]],&lt;ref name="newyorker" /&gt;&lt;ref name=sacks&gt;[http://www.andheresthekicker.com/ex_harold_ramis.php Sacks, Mike. ''And Here's the Kicker...: Conversations with Top Humor Writers About Their Craft''] {{webarchive|url=https://web.archive.org/web/20090619080734/http://www.andheresthekicker.com/ex_harold_ramis.php |date=June 19, 2009 }} (Writer's Digest Books, July 2009). Online excerpt from Harold Ramis interview&lt;/ref&gt; where he was a member of the Alpha Xi chapter of [[Zeta Beta Tau]] fraternity.&lt;ref&gt;{{cite web|url=http://www.zbt.org/who-we-are/notable-alumni.html|title=Zeta Beta Tau – Notable Alumni|publisher=Zeta Beta Tau Fraternity|accessdate=January 1, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20161205230940/http://www.zbt.org/who-we-are/notable-alumni.html|archivedate=December 5, 2016|df=mdy-all}}&lt;/ref&gt;
+
+Afterward, Ramis worked in a mental institution in St. Louis for seven months. He later said of his time working there that it
+{{quote|text=...prepared me well for when I went out to Hollywood to work with actors. People laugh when I say that, but it was actually very good training. And not just with actors; it was good training for just living in the world. It's knowing how to deal with people who might be reacting in a way that's connected to anxiety or grief or fear or rage. As a director, you're dealing with that constantly with actors. But if I were a businessman, I'd probably be applying those same principles to that line of work.&lt;ref name=sacks /&gt;}}
+
+==Career==
+
+===Early years===
+Ramis began writing [[parody|parodic]] plays in college, saying years later, "In my heart, I felt I was a combination of [[Groucho Marx|Groucho]] and [[Harpo Marx]], of Groucho using his wit as a weapon against the upper classes, and of Harpo's antic charm and the fact that he was oddly sexy—he grabs women, pulls their skirts off, and gets away with it".&lt;ref name="newyorker" /&gt; He avoided the [[Vietnam War]] [[military draft]] by taking [[methamphetamine]] to fail his draft physical.&lt;ref name="GQcs"&gt;{{cite journal|last=Martin |first=Brett |date=July 2009 |title=Harold Ramis Gets the Last Laugh |journal=[[GQ]] |pages=64–67, 124–25 |url=http://men.style.com/gq/features/full?id=content_9558&amp;pageNum=5 |accessdate=August 15, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090701134936/http://men.style.com/gq/features/full?id=content_9558&amp;pageNum=5 |archivedate=July 1, 2009}}&lt;/ref&gt;
+
+Following his work in St. Louis, Ramis returned to Chicago, where by 1968, he was a substitute teacher at schools serving the inner-city [[Robert Taylor Homes]].&lt;ref&gt;Caldwell, Sara C., and Marie-Eve S. Kielson, ''So You Want to be A Screenwriter: How to Face the Fears and Take the Risks'' (Allworth Press, 2000), p. 75. {{ISBN|1-58115-062-8}}, {{ISBN|978-1-58115-062-9}}&lt;/ref&gt; He also became associated with the [[guerrilla television]] collective [[TVTV (video collective)|TVTV]], headed by his college friend [[Michael Shamberg]], and wrote freelance for the ''[[Chicago Daily News]]''. "Michael Shamberg, right out of college, had started freelancing for newspapers and got on as a stringer for a local paper, and I thought, 'Well, if Michael can do that, I can do that.' I wrote a spec piece and submitted it to the ''Chicago Daily News,'' the Arts &amp; Leisure section, and they started giving me assignments [for] entertainment features."&lt;ref name=fji&gt;[[Frank Lovece|Lovece, Frank]], [http://www.filmjournal.com/filmjournal/content_display/esearch/e3idff59d66183db8680e5f9b5f083fa8ab?pn=1 "Ramis' realm: Comedy creator surveys career from Second City to 'Year One'"], ''[[Film Journal International]]'' online, June 12, 2009&lt;/ref&gt; Additionally, Ramis had begun studying and performing with Chicago's [[The Second City|Second City]] [[improvisational comedy]] troupe.&lt;ref&gt;[[Sheldon Patinkin|Patinkin, Sheldon]]. ''The Second City: Backstage at the World's Greatest Comedy Theater'' (Sourcebooks MediaFusion, 2000) {{ISBN|1-57071-561-0}}, {{ISBN|978-1-57071-561-7}}.{{page needed|date=February 2014}}&lt;/ref&gt;
+
+Ramis' newspaper writing led to his becoming joke editor at [[Playboy|''Playboy'' magazine]].&lt;ref name=sacks/&gt; "I called ... just cold and said I had written several pieces freelance and did they have any openings. And they happened to have their entry-level job, party jokes editor, open. He liked my stuff and he gave me a stack of jokes that readers had sent in and asked me to rewrite them. I had been in Second City in the workshops already and Michael Shamberg and I had written comedy shows in college".&lt;ref name="fji"/&gt; Ramis was eventually promoted to associate editor.&lt;ref name="NYT obit"&gt;{{cite news|author=Martin, Douglas|date=February 24, 2014|title=Harold Ramis, 69, Dies; Alchemist of the Hilarious|url=https://www.nytimes.com/2014/02/25/movies/harold-ramis-who-helped-redefine-what-makes-us-laugh-on-screen-dies-at-69.html|newspaper=[[The New York Times]]|accessdate=February 25, 2014}}&lt;/ref&gt;
+
+===National Lampoon, ''SCTV'', and ''The Top''===
+After leaving Second City for a time and returning in 1972, having been replaced in the main cast by [[John Belushi]], Ramis worked his way back as Belushi's deadpan foil. In 1974, Belushi brought Ramis and other Second City performers, including Ramis' frequent future collaborator [[Bill Murray]], to New York City to work on  ''[[The National Lampoon Radio Hour]]''.&lt;ref name="newyorker" /&gt;
+
+During this time, Ramis, Belushi, Murray, [[Joe Flaherty]], [[Christopher Guest]], and [[Gilda Radner]] starred in the revue ''The National Lampoon Show'', the successor to ''[[National Lampoon's Lemmings]]''.&lt;ref&gt;{{Cite book |last=Karp |first=Josh |title=A Futile and Stupid Gesture: How Doug Kenney and National Lampoon Changed Comedy Forever |location= |publisher=Chicago Review Press |year=2006 |page=219 |isbn=1-55652-602-4}}&lt;/ref&gt; Later, Ramis became a performer on, and head writer of, the late-night sketch-comedy television series ''[[Second City Television|SCTV]]'' during its first three years (1976–1979).&lt;ref&gt;Caldwell, Kielson, p. 77&lt;/ref&gt; He was soon offered work as a writer at ''[[Saturday Night Live]]'' but chose to continue with ''SCTV''.&lt;ref name="NYT obit" /&gt; Characterizations by Ramis on ''SCTV'' include corrupt ''[[Dialing for Dollars]]'' host/SCTV station manager Maurice "Moe" Green, amiable cop Officer Friendly, exercise guru Swami Bananananda, board chairman Allan "Crazy Legs" Hirschman and home dentist Mort Finkel. His celebrity impressions on ''SCTV'' included [[Kenneth Clark]] and [[Leonard Nimoy]].
+
+In 1984, Ramis executive produced a music/comedy/variety television show called ''The Top''. The Producer was Paul Flattery and the Director was [[David Jove]]. Ramis got involved after the mysterious death of his friend [[Peter Ivers]] who had hosted Jove's underground show "New Wave Theater." He called Jove and offered to help. Flattery and Jove pitched him the idea for "The Top," and Ramis was instrumental in getting it on the air.
+
+The show was a mixture of live music, videos, and humor.
+
+Performers on the show included [[Cyndi Lauper]], who performed "[[Girls Just Want to Have Fun]]" and "[[True Colors (Cyndi Lauper song)|True Colors]]"; [[the Hollies]], who performed "[[Stop in the Name of Love]]"; and [[the Romantics]], who performed their two hits at the time, "[[Talking in Your Sleep (The Romantics song)|Talking in Your Sleep]]" and "[[What I Like About You (song)|What I Like About You]]."
+
+Guest stars included Rodney Dangerfield, Bill Murray and Dan Aykroyd. Ramis got Chevy Chase to host but, because ''Ghostbusters'' filming ran late, he did not make it to the taping.  Chase came out dressed as a "punk" of the time and somehow got into a physical altercation with an audience member (also a punk) during the opening monologue. He immediately left the taping. Flattery and Jove carried on with the show.
+
+Ramis then got Andy Kaufman to fill in for Chase and recorded the host segments at a separate, later, session. It was to be the last professional appearance by Andy Kaufman before his death.
+
+''The Top'' aired on Friday, January 27, 1984, at 7&amp;nbsp;pm. It scored a 7.7% rating and a 14% share. This represented a 28% rating increase and a 27% share increase over KTLA's regularly scheduled ''[[Happy Days]]''/''[[Laverne and Shirley]]''.
+
+===Film career===
+Ramis left ''SCTV'' to pursue a film career and wrote a script with ''[[National Lampoon (magazine)|National Lampoon]]'' magazine's [[Douglas Kenney]], which eventually became ''[[Animal House|National Lampoon's Animal House]]''. They were later joined by a third collaborator, [[Chris Miller (writer)|Chris Miller]].  The 1978 film followed the struggle between a rowdy [[college fraternity]] house and the [[Dean (education)|college dean]]. The film's humor was raunchy for its time. ''Animal House'' "broke all box-office records for comedies" and earned $141&amp;nbsp;million.&lt;ref name="newyorker" /&gt;
+
+Ramis next co-wrote the comedy ''[[Meatballs (film)|Meatballs]]'', starring [[Bill Murray]]. The movie was a commercial success and became the first of six film collaborations between Murray and Ramis.&lt;ref name="newyorker" /&gt; His third film and his directorial debut was ''[[Caddyshack]]'', which he wrote with Kenney and [[Brian Doyle-Murray]].  It starred [[Chevy Chase]], [[Rodney Dangerfield]], [[Ted Knight]], and Bill Murray. Like Ramis's previous two films, ''Caddyshack'' was a commercial success.
+
+In 1982, Ramis was attached to direct the film adaptation of the [[Pulitzer Prize]]-winning book ''[[A Confederacy of Dunces]]'' by [[John Kennedy Toole]].  The film was to star [[John Belushi]] and [[Richard Pryor]], but the project was aborted.&lt;ref&gt;[https://web.archive.org/web/20070610110538/http://www.premiere.com/features/3861/20-movies-not-coming-soon-to-a-theater-near-you-page4.html Saito, Stephen  "20 Movies Not Coming Soon to a Theater Near You"], Section: "A Confederacy of Dunces", ''[[Premiere (magazine)|Premiere]]'', no date&lt;/ref&gt; In 1984, Ramis collaborated with [[Dan Aykroyd]] on the screenplay for ''[[Ghostbusters]]'', which became one of the biggest comedy hits of all time, in which he also starred as Dr. Egon Spengler,&lt;ref&gt;{{cite web|title='Ghostbusters 3' in Theaters by Christmas 2012!|url=http://bloody-disgusting.com/news/20170/|publisher=Bloody Disgusting}}&lt;/ref&gt; a role he reprised for the 1989 sequel, ''[[Ghostbusters II]]'' (which he also co-wrote with Aykroyd). His later film ''[[Groundhog Day (film)|Groundhog Day]]'' has been called his "masterpiece".&lt;ref name="newyorker"&gt;{{cite news | last=Friend | first=Tad | authorlink=Tad Friend | url = http://www.newyorker.com/archive/2004/04/19/040419fa_fact3?currentPage=all| title= Comedy First: How Harold Ramis’s movies have stayed funny for twenty-five years | work=[[The New Yorker]] | date= April 19, 2004|accessdate=August 28, 2007}}&lt;/ref&gt;
+
+His films have been noted for attacking "the smugness of institutional life ... with an impish good [will] that is unmistakably American". They are also noted for "Ramis's signature tongue-in-cheek pep talks". Sloppiness and improv were also important aspects of his work. Ramis frequently depicted the qualities of "anger, curiosity, laziness, and woolly idealism" in "a hyper-articulate voice".&lt;ref name="newyorker"/&gt;
+
+Ramis also occasionally acted in supporting roles in acclaimed films that he did not write or direct such as [[James L. Brooks]]'s [[Academy Award]]-winning ''[[As Good as It Gets]]'' (1997) and [[Judd Apatow]]'s hit comedy ''[[Knocked Up]]'' (2007).
+
+In 2004, Ramis turned down the opportunity to direct the [[Bernie Mac]]-[[Ashton Kutcher]] film ''[[Guess Who (film)|Guess Who]]'', then under the working title "The Dinner Party", because he considered it poorly written. That same year, he began filming the low-budget ''[[The Ice Harvest]]'', "his first attempt to make a comic film noir". Ramis spent six weeks trying to get the film [[Greenlight|greenlit]] because he had difficulty reaching an agreement about stars [[John Cusack]]'s and [[Billy Bob Thornton]]'s salaries. The film received mixed reviews. In 2004, Ramis's typical directing fee was $5&amp;nbsp;million.&lt;ref name="newyorker" /&gt;
+
+In an interview in the documentary ''American Storytellers'', Ramis said he hoped to make a film about [[Emma Goldman]] (even pitching Disney with the idea of having Bette Midler star)&lt;ref&gt;{{cite web|url=http://www.journalstar.com/articles/2004/04/14/sunday_am/10048008.txt |title=An 'exceedingly dangerous woman':Emma Goldman's story | first=  L. Kent | last= Wolgamott |  work=[[Lincoln Journal Star]] | location = [[Lincoln, Nebraska]] |date=April 15, 2004 |archiveurl = https://web.archive.org/web/20040604063328/http://www.journalstar.com/articles/2004/04/14/sunday_am/10048008.txt | archivedate= June 4, 2004}}&lt;/ref&gt; but that none of the movie studios were interested and that it would have been difficult to raise the funding.
+
+Ramis said in 2009 he planned to make a third ''Ghostbusters'' film for release either in mid-2011&lt;ref&gt;{{cite web |url=http://www.heebmagazine.com/blog/view/2471 |title=Ramis on 'Ghostbusters 3': 'Plans to Shoot Next Summer and Release in 2011' |first=Brian |last=Abrams |work=[[Heeb]] |date=December 28, 2009 |accessdate=February 24, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20100329233859/http://www.heebmagazine.com/blog/view/2471 |archivedate=March 29, 2010 |df=mdy-all }}&lt;/ref&gt; or for Christmas 2012.&lt;ref&gt;Ramis interview, [[WABC-TV]], via {{cite web|url= http://www.bloody-disgusting.com/news/18543 | title = Harold Ramis Says 'Ghostbusters 3' in 2011! | publisher=BloodyDisgustng.com | date= December 30, 2009 | accessdate= 2014-02-24}}&lt;/ref&gt; The [[Ghostbusters (2016 film)|film]] was eventually made and released in 2016, although directed and co-written by [[Paul Feig]], not Ramis. In this film a bronze bust can be seen of Ramis when Erin Gilbert leaves her office at [[Columbia University]].
+
+==Personal life==
+Ramis was married twice and fathered four children. On July 2, 1967,&lt;ref name=filmref /&gt; he married San Francisco artist Anne Plotkin, with whom he had a daughter, Violet Ramis Stiel.&lt;ref name="newyorker" /&gt;&lt;ref&gt;[http://www.etonline.com/news/193272_harold_ramis_daughter_speaks_out_about_new_ghostbusters/ E Television Online: "Harold Ramis' Daughter Speaks Out: Stop Using My Dad as an Excuse to Hate the New 'Ghostbusters'" by John Boone] July 14, 2016&lt;/ref&gt; Actor and ''[[Ghostbusters]]'' co-star [[Bill Murray]] is Violet's godfather.&lt;ref name="newyorker"/&gt; Ramis and Plotkin separated in 1984 and later divorced. Harold Ramis had a five year relationship with Second City actress Sandra Bogan from 1983 through 1989. &lt;ref name="newyorker" /&gt; In 1985, Ramis had daughter, Mollie Heckerling with director, [[Amy Heckerling]].&lt;ref&gt;{{Cite news|url=http://www.chicagotribune.com/entertainment/chicagoinc/ct-ent-harold-ramis-daughter-mollie-heckerling-20180418-story.html|title=Mollie Heckerling revealed as Harold Ramis' daughter in new book|last=Swartz|first=Tracy|work=chicagotribune.com|access-date=2018-04-18|language=en-US}}&lt;/ref&gt;  In 1989, Ramis married Erica Mann, daughter of director [[Daniel Mann]] and actress Mary Kathleen Williams.&lt;ref&gt;{{cite news |url=https://www.nytimes.com/1991/11/23/theater/daniel-mann-79-the-director-of-successful-plays-and-films.html |title=Daniel Mann, 79, the Director of Successful Plays and Films |date=November 23, 1991 |newspaper=The New York Times |first=William H. |last=Honan |author-link=William H. Honan}}&lt;/ref&gt; Together they had two sons, Julian Arthur and Daniel Hayes.&lt;ref name=filmref /&gt; Although Ramis maintained [[Humanism|Humanist]] beliefs, Erica's [[Buddhist]] upbringing was a huge influence on his philosophies for the rest of his life, and he became friends with the [[Dalai Lama]].
+
+Ramis was a [[Chicago Cubs]] fan and attended games every year to conduct the [[seventh-inning stretch]] at [[Wrigley Field]].{{When|date=February 2014}}&lt;ref&gt;{{cite web |url=https://sports.yahoo.com/blogs/golf-devil-ball-golf/remembering-harold-ramis-caddyshack-183328382--golf.html | publisher = [[Yahoo!]] | date = February 24, 2014 | accessdate= February 24, 2014 | title  = Remembering Harold Ramis and "Caddyshack" | first = Shane | last = Bacon}}&lt;/ref&gt; His pastimes included fencing, ritual drumming, acoustic guitar, and making hats from felted fleece; additionally, he taught himself skiing by watching skiers on television.&lt;ref name="newyorker" /&gt;
+
+===Illness and death===
+[[File:Harold Ramis memorial.jpg|thumb|right|A memorial to Ramis appeared at the {{-"}}''[[Ghostbusters (franchise)|Ghostbusters]]'' [[Firehouse, Hook &amp; Ladder Company 8|firehouse]]".]]
+In May 2010, Ramis contracted an infection that resulted in complications from [[Autoimmune disease|autoimmune]] inflammatory [[vasculitis]] and lost the ability to walk. After relearning to walk he suffered a relapse of the disease in late 2011.&lt;ref name=chicagotribuneobit/&gt;
+
+He died of complications of the disease on February 24, 2014 at his home on Chicago's [[North Shore (Chicago)|North Shore]], at age 69.&lt;ref name=chicagotribuneobit&gt;{{cite news|title=Harold Ramis, Chicago actor, writer and director, dead at 69|url=http://www.chicagotribune.com/entertainment/chi-harold-ramis-dead-20140224,0,4983189,full.story|first=Mark|last=Caro|work=[[Chicago Tribune]]|accessdate=February 24, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140225003701/http://www.chicagotribune.com/entertainment/chi-harold-ramis-dead-20140224,0,4983189,full.story|archivedate=February 25, 2014|df=mdy-all}}&lt;/ref&gt; A private funeral was held for him two days later with family, friends, and several collaborators in attendance including [[Dan Aykroyd]], [[Chevy Chase]], [[Eugene Levy]], [[Dave Thomas (actor)|Dave Thomas]], [[David Pasquesi]], [[Andrew Alexander (producer)|Andrew Alexander]], and the widows of [[John Belushi]] and [[Bernard Sahlins]]. He is buried at Shalom Memorial Park in [[Arlington Heights, Illinois|Arlington Heights]].
+
+Upon Ramis's death, President [[Barack Obama]] released a statement, saying: "when we watched his movies—from ''Animal House'' and ''Caddyshack'' to ''Ghostbusters'' and ''Groundhog Day''—we didn't just laugh until it hurt.  We questioned authority.  We identified with the outsider.  We rooted for the underdog.  And through it all, we never lost our faith in happy endings."&lt;ref&gt;{{cite web|url=http://www.whitehouse.gov/the-press-office/2014/02/25/statement-president-passing-harold-ramis |title=Statement from the President on the Passing of Harold Ramis |website=whitehouse.gov |date=February 25, 2014 |accessdate=2016-07-17}}&lt;/ref&gt; He ended his statement by saying he hoped Ramis "received total consciousness", in reference to a line from ''Caddyshack''.&lt;ref&gt;{{cite web|author=Jordan Zakarin |url=http://www.thewrap.com/president-obama-makes-caddyshack-joke-tribute-harold-ramis/ |title=President Obama Makes 'Caddyshack' Joke in Tribute to Harold Ramis |publisher=[[TheWrap]] |date=February 25, 2014 |accessdate=2016-07-17}}&lt;/ref&gt;
+
+Ramis and longtime collaborator [[Bill Murray]] had a falling out during the filming of ''[[Groundhog Day (film)|Groundhog Day]]'', which Ramis attributed to issues that Murray had with his own life at the time. They did not speak for more than 20 years. Shortly before Ramis's death, Murray, encouraged by his brother [[Brian Doyle Murray]], visited him to make amends with a box of donuts and a police escort, according to Ramis's daughter Violet. At that point, Ramis had lost most of his ability to speak, so Murray did most of the talking over several hours.&lt;ref&gt;{{cite web | url = http://www.vulture.com/2018/06/how-harold-ramis-and-bill-murray-ended-their-feud.html | title = How Harold Ramis and Bill Murray Ended Their Feud and Other Things We Learned in This Memoir | first = Brian | last =Boone | date = June 6, 2018 | accessdate = June 6, 2018 | work = [[Vulture (magazine)|Vulture]] }}&lt;/ref&gt; Murray gave tribute to Ramis at the [[86th Academy Awards]].&lt;ref&gt;{{cite web|last=Wakeman|first=Gregory|title=How Groundhog Day Ruined Bill Murray And Harold Ramis' Partnership|url=http://www.cinemablend.com/new/How-Groundhog-Day-Ruined-Bill-Murray-Harold-Ramis-Partnership-67345.html|accessdate=May 28, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web | last=Wakeman | first=Gregory | title=How Groundhog Day Ruined Bill Murray And Harold Ramis’ Partnership|url=http://www.cinemablend.com/new/How-Groundhog-Day-Ruined-Bill-Murray-Harold-Ramis-Partnership-67345.html | work = [[Cinema Blend]]  |accessdate=May 28, 2015}}&lt;/ref&gt;
+
+Ramis was paid tribute by [[Stephen Colbert]] on an episode of his show ''[[The Colbert Report]]''. Colbert said that "as a young, bookish man with glasses looking for a role model, I might have picked Harold Ramis". He ended the show by thanking Ramis.&lt;ref&gt;http://thecomicscomic.com/2014/02/25/stephen-colbert-and-jon-stewart-pay-tribute-to-the-late-great-harold-ramis/&lt;/ref&gt;
+
+==Awards and honors==
+In 2004, Ramis was inducted into the [[St. Louis Walk of Fame]].&lt;ref&gt;{{cite web|url=http://www.stlouiswalkoffame.org/inductees/harold-ramis.html |title=St. Louis Walk of Fame Inductees: Harold Ramis |publisher=Stlouiswalkoffame.org |date= |accessdate=February 24, 2014}}&lt;/ref&gt; In 2005, he received the [[Austin Film Festival]]'s Distinguished Screenwriter Award.&lt;ref&gt;{{cite web |url=http://www.austinfilmfestival.com/festivalandconference/conference/award-recipients/ |title=Austin Film Festival Past Award Recipients |publisher=AustinFilmFestival.com |date= |accessdate=February 24, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20120815044949/http://www.austinfilmfestival.com/festivalandconference/conference/award-recipients/ |archivedate=August 15, 2012 |df=mdy-all }}&lt;/ref&gt; In 2010, he received a lifetime achievement award from the Chicago Improv Festival.{{citation needed|date=August 2017}} In 2015, the [[Writers Guild of America]] posthumously honored him with their lifetime achievement award, the [[Laurel Award for Screenwriting Achievement]].&lt;ref&gt;{{cite web|url=https://variety.com/2015/film/news/harold-ramis-writers-guild-screen-laurel-award-1201403973/|title=Harold Ramis Honored by Writers Guild with Screen Laurel Award |publisher=Variety |date= |accessdate=January 19, 2014}}&lt;/ref&gt;
+
+In 2016, two years after his death, [[The Second City]] founded the Harold Ramis Film School, the first film school to focus solely on film comedy, in his honor.
+
+The 2016 film ''[[Ghostbusters (2016 film)|Ghostbusters]]'', a reboot of the series Ramis co-created and starred in, was posthumously dedicated to him.&lt;ref&gt;{{cite web |title=Busted Flat: All-Too-Normal Activity Dominates the 'Ghostbusters' Remake |author-last=Anderson |author-first=Melissa |date=July 10, 2016 |url=https://www.villagevoice.com/2016/07/10/busted-flat-all-too-normal-activity-dominates-the-ghostbusters-remake/ |access-date=August 14, 2017}}&lt;/ref&gt; A bust of his head appears in the film.
+
+==Collaborations==
+Ramis frequently collaborated with [[Ivan Reitman]]. He co-wrote ''[[Animal House|National Lampoon's Animal House]]'', which Reitman produced, then co-wrote the Reitman-directed comedy ''[[Meatballs (film)|Meatballs]]''; he co-wrote and appeared in the Reitman-directed films ''[[Stripes (film)|Stripes]]'', ''[[Ghostbusters]]'' and ''[[Ghostbusters II]]''.
+
+==Filmography==
+
+===Film===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! style="width:33px;"| Year !!  Title !! style="width:65px;"| Director !! width=65 | Screenwriter !! width=65 | Producer !! width=65 | Executive producer !! Actor !! Role !! Notes
+|-
+| 1978
+| style="text-align:left"| ''[[Animal House|National Lampoon's Animal House]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| 1979
+| style="text-align:left"| ''[[Meatballs (film)|Meatballs]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| 1980
+| style="text-align:left"| ''[[Caddyshack]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| rowspan=2|1981
+| style="text-align:left"| ''[[Stripes (film)|Stripes]]''
+|
+| {{yes}}
+|
+|
+| {{yes}}
+| Russell Ziskey
+|
+|-
+| style="text-align:left"| ''[[Heavy Metal (film)|Heavy Metal]]''
+|
+|
+|
+|
+| {{yes}}
+| Zeke
+| Voice, (segment "So Beautiful and So Dangerous")
+|-
+| rowspan=2|1983
+| style="text-align:left"| ''[[Spacehunter: Adventures in the Forbidden Zone]]''
+|
+|
+|
+|
+| {{yes}}
+| Intercom
+| Voice, Uncredited
+|-
+| style="text-align:left"| ''[[National Lampoon's Vacation]]''
+|  {{yes}}
+|
+|
+|
+| {{yes}}
+| Marty Moose
+| Voice, Uncredited
+|-
+| 1984
+| style="text-align:left"| ''[[Ghostbusters]]''
+|
+| {{yes}}
+|
+|
+| {{yes}}
+| [[Egon Spengler|Dr. Egon Spengler]]
+|
+|-
+| rowspan=3|1986
+| style="text-align:left"| ''[[Back to School]]''
+|
+| {{yes}}
+|
+| {{yes}}
+|
+|
+|
+|-
+| style="text-align:left"| ''[[Club Paradise]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| style="text-align:left"| ''[[Armed and Dangerous (1986 film)|Armed and Dangerous]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| 1987
+| style="text-align:left"| ''[[Baby Boom (film)|Baby Boom]]''
+|
+|
+|
+|
+| {{yes}}
+| Steven Bochner
+|
+|-
+| rowspan=2|1988
+| style="text-align:left"| ''[[Caddyshack II]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| style="text-align:left"| ''[[Stealing Home]]''
+|
+|
+|
+|
+| {{yes}}
+| Alan Appleby
+|
+|-
+| 1989
+| style="text-align:left"| ''[[Ghostbusters II]]''
+|
+| {{yes}}
+|
+|
+| {{yes}}
+| Dr. Egon Spengler
+|
+|-
+| 1991
+| style="text-align:left"| ''[[Rover Dangerfield]]''
+|
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| 1993
+| style="text-align:left"| ''[[Groundhog Day (film)|Groundhog Day]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+| {{yes}}
+| Neurologist
+|
+|-
+| rowspan=2|1994
+| style="text-align:left"| ''[[Airheads]]''
+|
+|
+|
+|
+| {{yes}}
+| Chris Moore
+|
+|-
+| style="text-align:left"| ''[[Love Affair (1994 film)|Love Affair]]''
+|
+|
+|
+|
+| {{yes}}
+| Sheldon Blumenthal
+|
+|-
+| 1995
+| style="text-align:left"| ''[[Stuart Saves His Family]]''
+| {{yes}}
+|
+|
+|
+|
+|
+|
+|-
+| 1996
+| style="text-align:left"| ''[[Multiplicity (film)|Multiplicity]]''
+| {{yes}}
+|
+| {{yes}}
+|
+|
+|
+|
+|-
+| 1997
+| style="text-align:left"| ''[[As Good as It Gets]]''
+|
+|
+|
+|
+| {{yes}}
+| Dr. Martin Bettes
+|
+|-
+| 1999
+| style="text-align:left"| ''[[Analyze This]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| rowspan=2|2000
+|-
+| style="text-align:left"| ''[[Bedazzled (2000 film)|Bedazzled]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|
+|-
+| rowspan=4|2002
+| style="text-align:left"| ''[[Orange County (film)|Orange County]]''
+|
+|
+|
+|
+| {{yes}}
+| Don Durkett
+|
+|-
+| style="text-align:left"| ''[[Analyze That]]''
+| {{yes}}
+| {{yes}}
+|
+|
+|
+|
+|
+|-
+| style="text-align:left"| ''[[The First $20 Million Is Always the Hardest]]''
+|
+|
+|
+| {{yes}}
+|
+|
+|
+|-
+| style="text-align:left"| ''[[I'm with Lucy]]''
+|
+|
+|
+|
+| {{yes}}
+| Jack
+|
+|-
+| 2005
+| style="text-align:left"| ''[[The Ice Harvest]]''
+| {{yes}}
+|
+|
+|
+|
+|
+|
+|-
+| rowspan=2|2006
+| style="text-align:left"| ''[[I Want Someone to Eat Cheese With]]''
+|
+|
+|
+| {{yes}}
+|
+|
+|
+|-
+| style="text-align:left"| ''[[The Last Kiss (2006 film)|The Last Kiss]]''
+|
+|
+|
+|
+| {{yes}}
+| Professor Bowler
+|
+|-
+| rowspan=2|2007
+| style="text-align:left"| ''[[Knocked Up]]''
+|
+|
+|
+|
+| {{yes}}
+| Ben's Dad
+|
+|-
+| style="text-align:left"| ''[[Walk Hard: The Dewey Cox Story]]''
+|
+|
+|
+|
+| {{yes}}
+| L'Chai'm
+|
+|-
+| rowspan=2| 2009
+| style="text-align:left"| ''[[Year One (film)|Year One]]''
+| {{yes}}
+| {{yes}}
+| {{yes}}
+|
+| {{yes}}
+| [[Adam]]
+| (Final appearance)
+|-
+| style="text-align:left"| ''[[Archie's Final Project]]''
+|
+|
+|
+| {{yes}}
+|
+|
+|
+|}
+
+===Television===
+* ''[[Second City Television]]'' (1976–1978)
+* ''[[Delta House]]'' (1979)
+* ''[[The Rodney Dangerfield Show: It's Not Easy Bein' Me]]'' (1982)
+* ''[[The Top (TV series)|The Top]]'' (1984)
+* ''[[The Office (U.S. TV series)|The Office]]'' (2007–2010)
+
+===Video games===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2009 || ''[[Ghostbusters: The Video Game]]'' || Dr. Egon Spengler || Writer, Voice
+|-
+| 2015 || ''[[Lego Dimensions]]'' || Dr. Egon Spengler || Voice (Archive Audio)
+|}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* {{IMDb name|0000601}}
+* [https://web.archive.org/web/20030819133905/http://www.dvdreview.com/html/dvd_review_-_harold_ramis.shtml Henkel, Guido. "Anatomy of a Comedian: Harold Ramis"], ''DVD Review'', August 6, 1999
+* [http://www.lionsroar.com/harold-ramis-profile-by-perry-garfinkel/ Garfinkel, Perry. "And If He Sees His Shadow..."], ''[[Lion's Roar (magazine)|Lion's Roar]]'', July 2009
+* [https://web.archive.org/web/20090828134130/http://www.meatballsonline.com/ Meatballs Movie Website]
+* [http://www.hellisforhyphenates.com/blog/2014/04/30/april-2014/ The films of Harold Ramis], ''Hell Is For Hyphenates'', April 30, 2014
+
+{{Harold Ramis}}
+{{Navboxes
+|title = Awards for Harold Ramis
+|list =
+{{BAFTA Award for Best Original Screenplay 1983-1999}}
+{{London Film Critics Circle Award for Screenwriter of the Year}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ramis, Harold}}
+[[Category:1944 births]]
+[[Category:2014 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:Jewish American comedians]]
+[[Category:American people of Jewish descent]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male screenwriters]]
+[[Category:American male television actors]]
+[[Category:American television writers]]
+[[Category:BAFTA winners (people)]]
+[[Category:Deaths from vasculitis]]
+[[Category:Disease-related deaths in Illinois]]
+[[Category:Jewish American male actors]]
+[[Category:Male actors from Chicago]]
+[[Category:Washington University in St. Louis alumni]]
+[[Category:Jewish American writers]]
+[[Category:Film directors from Illinois]]
+[[Category:Male television writers]]
+[[Category:Comedians from Illinois]]
+[[Category:Writers from Chicago]]</text>
+      <sha1>t9viz4pw6omqnne1qa049zsed1po1p8</sha1>
+    </revision>
+  </page>
+</mediawiki>

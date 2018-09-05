@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Larry Murphy (actor)</title>
+    <ns>0</ns>
+    <id>10421076</id>
+    <revision>
+      <id>854279912</id>
+      <parentid>847948259</parentid>
+      <timestamp>2018-08-10T05:24:58Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5041">{{Infobox comedian
+| name              = Larry Murphy
+| image             = Larry Murphy by Gage Skidmore.jpg
+| imagesize         = 220px
+| caption           = Larry Murphy in 2016.
+| pseudonym         = 
+| birth_name        = Lawrence Murphy, Jr.
+| birth_date        = {{Birth date and age|1972|3|12|mf=yes}}
+| birth_place       = [[Abington, Massachusetts]], U.S
+| death_date        = 
+| death_place       = 
+| medium            =
+| nationality       = [[United States|American]]
+| active            = 1993–present
+| genre             = 
+| subject           = 
+| influences        = 
+| influenced        = 
+| spouse            = 
+| domestic_partner   = 
+| notable_work      = ''[[Assy McGee]]'', ''[[Bob's Burgers]]'', ''[[Ugly Americans (TV series)|Ugly Americans]]''
+| signature         = 
+| website           = 
+| footnotes         = 
+| current_members   = 
+| past_members      = 
+}}
+
+'''Lawrence "Larry" Murphy, Jr.''' (born March 12, 1972 in [[Abington, Massachusetts]])&lt;ref name=Globe&gt;Zaino, Nick A, III. (November 24, 2006). "Dumbest show on television?", ''[[The Boston Globe]]'', p. D2.&lt;/ref&gt; is an American actor, voice actor and comedian, known for his work on the TV series ''[[Late Night with Conan O'Brien]]'', ''[[Ugly Americans (TV series)|Ugly Americans]]'', ''[[Delocated]]'' and ''[[Bob's Burgers]]''.
+
+==Career==
+Murphy began performing stand-up comedy in 1997 at the Comedy Studio in [[Harvard Square]] in [[Cambridge, Massachusetts]]. Soon after he teamed up with [[Brendon Small]]. Together they performed sketches and rock operas until 2001. Murphy's subsequent independent live work is a mix of sketch and characters. {{citation needed|date=September 2014}}
+
+Murphy is a voice actor renowned for his versatility. He voiced all of the main characters on the [[Adult Swim]] comedy series ''[[Assy McGee]]''&lt;ref name=Globe /&gt; and has lent his voice to several [[Soup2Nuts]] animated shows including ''[[O'Grady]]'', ''[[Home Movies (TV series)|Home Movies]]'', and ''[[WordGirl]]''. He voices Teddy in the animated Fox series ''[[Bob's Burgers]]''. He voiced the hostile immigration officer Lt. Francis Grimes on the [[Comedy Central]] series [[Ugly Americans (TV series)|''Ugly Americans'']].
+
+Murphy has appeared as a sketch actor on ''[[Late Night with Conan O'Brien]]'' and has a recurring role as "Jay the Doorman" on the [[Adult Swim]] live-action series ''[[Delocated]]''.
+
+He has toured with comedian [[Eugene Mirman]] and makes an appearance on his 2009 comedy album ''God is a Twelve-Year-Old Boy With Asperger's'', providing the voice of [[Christopher Walken]] taking a customer service call.
+
+== Selected filmography ==
+{| class="wikitable" border="1" 
+|- style="background:#ccc; text-align:center;"
+| '''Year''' || '''Title''' || '''Role''' || '''Other notes'''|
+|-
+|2016
+|[[The Venture Bros.]]
+|Fallen Archer
+Various
+|Voice Actor
+TV Series
+|-
+|rowspan="1"|2011 || ''[[Jon Benjamin Has a Van]]'' || Detective Murphy || Actor&lt;br /&gt;TV series
+|-
+|rowspan="1"|2011–present|| ''[[Bob's Burgers]]'' || Teddy&lt;br /&gt;Javed Fazel&lt;br /&gt;Edith Cranwinkle&lt;br /&gt;Gretchen&lt;br /&gt;Various || Voice Actor&lt;br /&gt;TV series
+|-
+|rowspan="1"|2010–2012 || ''[[Ugly Americans (TV series)|Ugly Americans]]'' || Lt. Francis Grimes&lt;br /&gt;Aldremach&lt;br /&gt;Burt&lt;br /&gt;Various || Voice Actor&lt;br /&gt;TV series
+|-
+|rowspan="1"|2009–2013 || ''[[Delocated]]'' || Jay the Doorman || Actor&lt;br /&gt;TV series
+|-
+|rowspan="1"|2008 || ''[[Late Night with Conan O'Brien]]'' || Various || Actor&lt;br /&gt;TV series
+|-
+|rowspan="1"|2007–2015 || ''[[WordGirl]]'' || Amazing Rope Guy&lt;br /&gt;Dave&lt;br /&gt;Principal&lt;br /&gt;Reporter&lt;br /&gt;Zoo Keeper&lt;br /&gt;Various characters || Voice only&lt;br /&gt;Animated series
+|-
+|rowspan="1"| 2006–2008 || ''[[Assy McGee]]'' ||Assy McGee&lt;br /&gt;Don Sanchez&lt;br /&gt;The Chief&lt;br /&gt;Various Characters || Voice actor&lt;br /&gt;Writer&lt;br /&gt;Animated series
+|-
+|rowspan="1"|2004–2006 || ''[[Cheap Seats: Without Ron Parker]]'' || Boxing Announcer || Actor&lt;br /&gt;TV series
+|-
+|rowspan="1"| 2004–2006 || ''[[O'Grady]]'' || Mr. Lipshitz&lt;br /&gt;Pete Klesko&lt;br /&gt;Various Characters || Voice actor&lt;br /&gt;Animated series
+|-
+|rowspan="1"|1999–2004 ||  ''[[Home Movies (TV series)|Home Movies]]'' || Drew || Voice actor
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.imdb.com/name/nm1926427/ Larry Murphy(II) at] [[IMDB]]
+* [https://www.youtube.com/watch?v=0yJ3k6VR8nc Larry Murphy Voice Over Reel on] [[YouTube]]
+* [http://www.myspace.com/lsmurphy Larry Murphy on]  [[MySpace]]
+* [http://www.236.com/tag/Larry%2BMurphy Larry Murphy] on [[23/6]]
+* [http://www.boston.com/ae/tv/articles/2006/11/24/dumbest_show_on_television/?rss_id=Boston+Globe+--+Living+%2F+Arts+News Boston Globe article from November 2006]
+
+{{authority control}}
+
+{{DEFAULTSORT:Murphy, Larry}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:Male actors from Massachusetts]]
+[[Category:American stand-up comedians]]
+[[Category:American male television actors]]
+[[Category:American male voice actors]]
+[[Category:People from Abington, Massachusetts]]</text>
+      <sha1>17285nc425f5o8sn66ly6uxrec5d4dn</sha1>
+    </revision>
+  </page>
+</mediawiki>

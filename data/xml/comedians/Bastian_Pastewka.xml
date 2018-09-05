@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bastian Pastewka</title>
+    <ns>0</ns>
+    <id>8604453</id>
+    <revision>
+      <id>828318003</id>
+      <parentid>775281914</parentid>
+      <timestamp>2018-03-01T21:21:32Z</timestamp>
+      <contributor>
+        <username>Onel5969</username>
+        <id>10951369</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Sweatsuit]] (link changed to [[wikt:Sweatsuit]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2611">{{BLP IMDB refimprove|only=yes|date=December 2010}}
+{{Infobox person
+| name                    = Bastian Pastewka
+| image                   = BastianPastewka.jpg
+| imagesize               =
+| caption                 = 
+| birthname               = Bastian Pastewka
+| birth_date               = {{Birth date and age|1972|4|4|df=y}}
+| birth_place              = [[Bochum]]
+| death_date               =
+| death_place              =
+| occupation              = [[Comedian]], [[actor]], [[Dubbing (filmmaking)|dubbing]]
+| yearsactive             = 
+| spouse                  =
+| domesticpartner         = Heidrun Buchmaier
+| children                =
+| parents                 =
+| website                 = {{url|http://bastianpastewka.de/}}
+| awards                  =
+}}
+'''Bastian Pastewka''' (born 4 April 1972) is a German actor and comedian.
+
+In [[Bochum]], he first became known to a wider audience in Germany around 1996 as a regular cast member of the comedy show ''[[Die Wochenshow]]'' (engl.: The Weekly Show), essentially a mock news program. His trademarks included quirky, off-beat characters such as fruity sex talk show host ''Brisko Schneider'' and ''Ottmar Zittlau'', an [[unemployment|unemployed]], [[wikt:Sweatsuit|sweatsuit]]-wearing dimwit.
+
+Pastewka went on to star in various German comedy films, most notably ''[[Der WiXXer]]'' (2004) and ''[[Neues vom WiXXer]]'' (2007), a spoof on 1960s [[Edgar Wallace]] crime dramas. He has also worked as a [[voice-over actor]] for numerous [[animated film]]s, such as ''[[Madagascar (2005 film)|Madagascar]]''.
+Since September 2005 Pastewka has been playing himself in the sitcom ''[[Pastewka (TV series)|Pastewka]]'', shown by the German television broadcasting station [[Sat.1]].
+
+He has received various highly prestigious awards like ''[[Goldene Kamera]]'', ''Deutscher Fernsehpreis'' (engl.: German Television Award) or ''[[Rose d'Or]]''.
+
+== Personal life ==
+Pastewka lives with his girlfriend Heidrun Buchmaier, manager of [[Martin Schneider]], in [[Berlin-Charlottenburg]]. When he is working, he lives in [[Cologne]].&lt;ref&gt;http://www.focus.de/fotos/oliver-kalkofe-l-bastian-pastewka-und-freundin-heidrun-buchmaier_mid_828453.html&lt;/ref&gt;&lt;ref&gt;http://www.morgenpost.de/printarchiv/leute/article1566456/Pastewkas-Lehrstunden-in-Bonn.html&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{IMDb name|0665002}}
+* [http://www.bastianpastewka.de Official website (german)]
+
+{{Authority control}}
+{{DEFAULTSORT:Pastewka, Bastian}}
+[[Category:German male comedians]]
+[[Category:1972 births]]
+[[Category:Living people]]
+
+
+{{germany-comedian-stub}}</text>
+      <sha1>fr7vtc9ya1cci2khnzhc3d98drxj6z1</sha1>
+    </revision>
+  </page>
+</mediawiki>

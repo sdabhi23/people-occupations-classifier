@@ -1,0 +1,209 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Slim Summerville</title>
+    <ns>0</ns>
+    <id>6606512</id>
+    <revision>
+      <id>853263177</id>
+      <parentid>852263327</parentid>
+      <timestamp>2018-08-03T14:17:30Z</timestamp>
+      <contributor>
+        <username>Amorymeltzer</username>
+        <id>141948</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Tobacco Road]] (link changed to [[Tobacco Road (film)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10231">{{Infobox person
+| name          = Slim Summerville
+| image         = Douglas Fairbanks Jr. Slim Summerville Little Accident 1930.jpg
+| imagesize     = 
+| caption       = Slim Summerville (at right) in ''Little Accident'' (1930)
+| birth_name    = George Joseph Somerville 
+| birth_date    = {{birth date|1892|7|10}}
+| birth_place   = [[Albuquerque, New Mexico]], U.S.
+| death_date    = {{death date and age|1946|1|5|1892|7|1}}
+| death_place   = [[Laguna Beach, California]], U.S.
+| death_cause   = Stroke
+| occupation    = Actor &amp; Director
+| spouse        = {{marriage|Gertrude Roell|1927|1936|end=divorced}}&lt;br&gt;{{marriage|Eleanor Brown|1937|1946}}
+| children      = Elliot Brown
+| yearsactive   = 1912–1946
+}}
+
+'''George Joseph Somerville''' (July 10, 1892 &amp;ndash; January 5, 1946), known professionally as '''Slim Summerville''', was an American [[film actor]], best known as a [[comedy]] [[performer]].&lt;ref&gt;{{cite book | first=Ray | last=Stuart | title=Immortals of the Screen | page=218 | publisher=Sherbourne Press | year=1965}}
+&lt;/ref&gt;
+
+==Life==
+Born George Joseph Somerville in [[Albuquerque, New Mexico]], his mother died when he was five.&lt;ref name=pittpress&gt;{{cite news |title=Sad-Looking Slim Summerville Never Hoped To Be Funny - Just Can't Help It |first=Paul |last=Harrison |url=https://news.google.com/newspapers?id=bnYbAAAAIBAJ&amp;sjid=1ksEAAAAIBAJ&amp;pg=3961,5297533&amp;dq=slim+summerville&amp;hl=en |newspaper=The Pittsburgh Press |date=13 July 1936 |accessdate=8 February 2012}}&lt;/ref&gt;
+Moving from [[New Mexico]] to Canada to [[Oklahoma]], he had a [[nomad]]ic upbringing.&lt;ref name=pittpress/&gt;
+
+He married Gertrude Martha Roell on 19 November 1927.&lt;ref name=warsaw/&gt;&lt;ref name=spokesman&gt;{{cite news |title=Sad Slim Summerville Loses Wife at Court |url=https://news.google.com/newspapers?id=BChWAAAAIBAJ&amp;sjid=r-MDAAAAIBAJ&amp;pg=4465,534233&amp;dq=slim+and+summerville+and+divorce&amp;hl=en |newspaper=The Spokesman-Review |date=2 October 1936 |accessdate=10 February 2012}}&lt;/ref&gt;  In early 1932, the Summervilles adopted a four-week-old baby boy whom they christened Elliott George.&lt;ref&gt;{{cite news |title=Slum Summerville of Movies Adopts Baby |url=http://hollywoodheyday.blogspot.com/2008/10/february-6-1932.html |newspaper=Associated Press |date=6 February 1932 |accessdate=9 February 2012}}&lt;/ref&gt;  The couple divorced in September 1936,&lt;ref name=spokesman/&gt;&lt;ref&gt;{{cite news |title=Wife Divorces Film Comedian |url=https://news.google.com/newspapers?id=jXYbAAAAIBAJ&amp;sjid=0ksEAAAAIBAJ&amp;pg=4438,1061328&amp;dq=slim+and+summerville+and+elliot+and+george&amp;hl=en |newspaper=The Pittsburgh Press |date=2 October 1936 |accessdate=10 February 2012}}&lt;/ref&gt; and he then married Eleanor Brown (also a divorcee), who was his nurse, who cared for him when he was sick. She fell in love and married him in 1937, to keep him from getting sick again.&lt;ref name=warsaw/&gt;&lt;ref name=montreal/&gt;
+
+Summerville died of a [[stroke]] on January 5, 1946 in [[Laguna Beach, California]].&lt;ref name=warsaw/&gt;&lt;ref name=sarasota/&gt;&lt;ref&gt;{{cite journal | journal=Motion Picture Herald | publisher=Quigley Pub. Co. | year=1946}}&lt;/ref&gt; He is buried at [[Inglewood Park Cemetery]] in [[South Los Angeles]] community of [[Inglewood, California]]. Twenty years after his death, his beach front house on Sleepy Hollow Lane in Laguna Beach was converted into the Beach House restaurant,&lt;ref&gt;{{cite book | title=Life is a beach: a vacationer's guide to the West Coast | first1=Parke | last1=Puterbaugh | first2=Alan | last2=Bisbort | publisher=McGraw-Hill | year=1988 | page=74}}&lt;/ref&gt; now the Driftwood Kitchen.&lt;ref&gt;{{Cite web|url=http://www.yelp.com/biz/driftwood-kitchen-laguna-beach-2|title=Driftwood Kitchen - Laguna Beach, CA|website=Yelp|access-date=2016-05-22}}&lt;/ref&gt;
+
+==Career==
+Summerville's first [[Job (role)|job]] was as a [[Courier|messenger]] for the [[Canadian Pacific Railway#Telegraph|Canadian Pacific Telegraphs]] in [[Chatham, Ontario]] where he lived with his [[English people|English]] [[grandparents]].&lt;ref name=montreal&gt;{{cite news |title=Lanky Screen Comic Gets Romantic 'Break' |url=https://news.google.com/newspapers?id=eHYtAAAAIBAJ&amp;sjid=i5gFAAAAIBAJ&amp;pg=5799,2888429&amp;dq=slim+and+summerville+and+eleanor&amp;hl=en |newspaper=The Montreal Gazette |date=17 September 1941 |accessdate=10 February 2012}}&lt;/ref&gt;
+
+He was working as a [[poolroom]] [[porter (carrier)|porter]] when found by [[Edgar Kennedy]],&lt;ref name=warsaw&gt;{{cite news |title=Stroke Fatal to Movie Star - "Slim" Summerville Dies Suddenly |url=https://news.google.com/newspapers?id=6x5HAAAAIBAJ&amp;sjid=nXoMAAAAIBAJ&amp;pg=3639,349976&amp;dq=slim+summerville+dies&amp;hl=en |newspaper=Warsaw Daily Union |date=7 January 1946 |accessdate=8 February 2012}}&lt;/ref&gt; who took him to [[Mack Sennett]] where he started at $3.50 per day.&lt;ref name=sarasota&gt;{{cite news |title=Slim Summerville, Of The Movies, Dies |url=https://news.google.com/newspapers?id=SOMcAAAAIBAJ&amp;sjid=mWQEAAAAIBAJ&amp;pg=2978,443417&amp;dq=slim+summerville&amp;hl=en |newspaper=Sarasota Herald-Tribune |date=7 January 1946 |accessdate=8 February 2012}}&lt;/ref&gt;
+His first role was as a "[[Keystone Kops|Keystone Kop]]" in ''[[Hoffmeyer's Legacy]]'' (1912).
+
+His tall, gangly appearance was well utilized in numerous short [[comedy films]] during the [[silent film]] era, and in addition to his many acting roles, he directed more than 50 [[short films]].
+
+Occasionally, he played in dramatic films, such as ''[[All Quiet on the Western Front (1930 film)|All Quiet on the Western Front]]'' (1930) and ''[[Jesse James (1939 film)|Jesse James]]'' (1939). However, he was most successful in comedy films, including several with [[ZaSu Pitts]]. He also played in films with [[Shirley Temple]], ''[[Captain January (1936 film)|Captain January]]'' (1936) and ''[[Rebecca of Sunnybrook Farm (1938 film)|Rebecca of Sunnybrook Farm]]'' (1938).
+
+==Legacy==
+For his contribution to the motion picture industry, Slim Summerville has a star on the [[Hollywood Walk of Fame]] at 6409 Hollywood Blvd.&lt;ref&gt;[http://www.walkoffame.com/slim-summerville Slim Summerville]. ''[[Hollywood Walk of Fame]]''. Retrieved 2012-02-11&lt;/ref&gt;
+
+Inducted into the New Mexico Entertainment Hall of Fame in 2012.
+
+==Partial filmography==
+{{Div col}}
+* ''[[Hoffmeyer's Legacy]]'' (1912)
+* ''[[Mabel's Busy Day]]'' (1914)
+* ''[[Fatty and the Heiress]]'' (1914)
+* ''[[A Rowboat Romance]]'' (1914)
+* ''[[Laughing Gas (1914 film)|Laughing Gas]]'' (1914)
+* ''[[Lover's Luck]]'' (1914)
+* ''[[Dough and Dynamite]]'' (1914)
+* ''[[Tillie's Punctured Romance (1914 film)|Tillie's Punctured Romance]]'' (1914) as Keystone Cop (uncredited)
+* ''[[Leading Lizzie Astray]]'' (1914)
+* ''[[Fatty's Magic Pants]]'' (1914)
+* ''[[Fatty and Minnie He-Haw]]'' (1914)
+* ''[[Fatty's New Role]]'' (1915)
+* ''[[Her Painted Hero]]'' (1915)
+* ''[[That Little Band of Gold]]'' (1915)
+* ''[[Their Social Splash]]'' (1915)
+* ''[[Fatty and the Broadway Stars]]'' (1915)
+* ''[[Hearts and Sparks]]'' (1916)
+* ''[[Skirts (film)|Skirts]]'' (1921)
+* ''[[Hello, 'Frisco]]'' (1924) (directed)
+* ''[[The Texas Streak]]'' (1926)
+* ''[[The Beloved Rogue]]'' (1927)
+* ''[[The Wreck of the Hesperus (film)|The Wreck of the Hesperus]]'' (1927)
+* ''[[Hey! Hey! Cowboy]]'' (1927)
+* ''[[Riding for Fame]]'' (1928)
+* ''[[One Hysterical Night]]'' (1929)
+* ''[[Strong Boy]]'' (1929)
+* ''[[Sailor's Holiday]]'' (1929)
+* ''[[The Last Warning]]'' (1929)
+* ''[[Tiger Rose (1929 film)|Tiger Rose]]'' (1929)
+* ''[[The King of Jazz]]'' (1930)
+* ''[[All Quiet on the Western Front (1930 film)|All Quiet on the Western Front]]'' (1930) as Tjaden
+* ''[[Her Man (film)|Her Man]]'' (1930)
+* ''[[See America Thirst]]'' (1930)
+* ''[[The Little Accident]]'' (1930)
+* ''[[Troopers Three]]'' (1930)
+* ''[[Free Love (film)|Free Love]]'' (1930)
+* ''[[Many a Slip (film)|Many a Slip]]'' (1931)
+* ''[[Heaven on Earth (1931 film)|Heaven on Earth]]'' (1931)
+* ''[[Bad Sister (1931 film)|Bad Sister]]'' (1931)
+* ''[[Air Mail (film)|Air Mail]]'' (1932)
+* ''[[The Unexpected Father]]'' (1932)
+* ''[[They Just Had to Get Married]]'' (1932)
+* ''[[Her First Mate]]'' (1933)
+* ''[[Love, Honor, and Oh Baby!]]'' (1933)
+* ''[[Out All Night (1933 film)|Out All Night]]'' (1933)
+* ''[[Their Big Moment]]'' (1934)
+* ''[[Love Birds (1934 film)|Love Birds]]'' (1934)
+* ''[[The Farmer Takes a Wife]]'' (1934)
+* ''[[Life Begins at 40 (film)|Life Begins at 40]]'' (1935)
+* ''[[Captain January (1936 film)|Captain January]]'' (1936)
+* ''[[The Country Doctor (1936 film)|The Country Doctor]]''(1936)
+* ''[[Reunion (1936 film)|Reunion]]'' (1936)
+* ''[[Can This Be Dixie?]]'' (1937)
+* ''[[The Road Back (film)|The Road Back]]'' (1937)
+* ''[[Off to the Races (film)|Off to the Races]]'' (1937)
+* ''[[Love Is News]]'' (1937)
+* ''[[Fifty Roads to Town]]'' (1937)
+* ''[[Rebecca of Sunnybrook Farm (1938 film)|Rebecca of Sunnybrook Farm]]'' (1938)
+* ''[[Up the River (1938 film)|Up the River]]'' (1938)
+* ''[[Kentucky Moonshine]]'' (1938)
+* ''[[Submarine Patrol]]'' (1938)
+* ''[[Charlie Chan in Reno]]'' (1939)
+* ''[[Henry Goes Arizona]]'' (1939)
+* ''[[Jesse James (1939 film)|Jesse James]]'' (1939)
+* ''[[Gold Rush Maisie]]'' (1940)
+* ''[[Anne of Windy Poplars]]'' (1940)
+* ''[[Western Union (film)|Western Union]]'' (1941)
+* ''[[Uncle Joe (1941 film)|Uncle Joe]]'' (1941)
+* ''[[Niagara Falls (1941 film)|Niagara Falls]]'' (1941)
+* ''[[Tobacco Road (film)|Tobacco Road]]'' (1941)
+* ''Highway West'' (1941)
+* ''[[Puddin' Head (film)|Puddin' Head]]'' (1941)
+* ''Garden of Eatin''' (1943)
+* ''Bachelor Daze'' (1944)&lt;ref&gt;[https://columbiashortsdept.weebly.com/slim-summerville.html The Columbia Shorts Department: Slim Summerville (1943-1944)]&lt;/ref&gt;
+* ''[[I'm from Arkansas]]'' (1944)
+* ''[[The Hoodlum Saint]]'' (1946)
+{{div col end}}
+
+==References==
+
+{{reflist}}
+
+{{Portal|Biography}}
+
+==External links==
+{{commons category|Slim Summerville}}
+*{{IMDb name|id=0838843|name=Slim Summerville}}
+* {{Find a Grave|10396648}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Summerville, Slim}}
+[[Category:1892 births]]
+[[Category:1946 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:Male actors from Albuquerque, New Mexico]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:Deaths from cerebrovascular disease]]
+[[Category:Burials at Inglewood Park Cemetery]]</text>
+      <sha1>pair6xft1af70y8fh57m1ky3lh8cfi5</sha1>
+    </revision>
+  </page>
+</mediawiki>

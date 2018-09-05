@@ -1,0 +1,182 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Monty Wedd</title>
+    <ns>0</ns>
+    <id>2256176</id>
+    <revision>
+      <id>850270321</id>
+      <parentid>848156637</parentid>
+      <timestamp>2018-07-14T20:35:02Z</timestamp>
+      <contributor>
+        <username>Proofreader</username>
+        <id>615903</id>
+      </contributor>
+      <minor/>
+      <comment>defaultsort per article title</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14037">{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+ |image        = 
+ |imagesize    = 150px |
+ | name        = Monty Wedd
+ | caption     = 
+ | pseudonym   = Monty Wedd
+ | birth_date  = {{birth date|df=yes|1921|01|05}} 
+ | birth_place = [[Glebe, New South Wales]], Australia
+ | birth_name  = Montague Thomas Archibald Wedd
+ | death_date  = {{death date and age|df=yes|2012|05|04|1921|11|11}} 
+ | death_place = [[Fingal Bay, New South Wales]]
+ | occupation  = Cartoonist, animator, author
+ | nationality = Australian
+ | period      = 1935–1995
+ | genre       = 
+ | subject     = 
+ | movement    = 
+ | influences  = [[Syd Nicholls]]
+ | influenced  = [[Roger Fletcher]]
+ | signature   = 
+ | website     = 
+}}
+'''Montague Thomas Archibald 'Monty' Wedd''' (1921–2012) was an Australian comic artist, animator and author.
+
+==Biography==
+Wedd was born in [[Glebe, New South Wales]] on 5 January 1921. As a school boy he was instructed in art by [[Oswald Brock]].&lt;ref name="Ryan"&gt;{{Cite book|title=Panel By Panel: an Illustrated History of Australian Comics|author=John Ryan|publisher=Cassell Australia Ltd|year=1979|page=131|isbn=0-7269-7376-9}}&lt;/ref&gt; He left high school during the [[Great depression|depression]] working as a junior poster artist at Hackett Offset Printing Company before becoming a designer and illustrator for a furniture manufacturer, Corkhill &amp; Lang (later Frazer's Furniture).&lt;ref name="Ryan"/&gt; During this time he continued studying commercial art at night at [[East Sydney Technical College]]. He then worked as a furniture artist and salesman at [[Grace Bros.]] before joining the armed forces in 1941, where he served in the [[Australian Army]], First Artillery Survey Regiment, and then the [[RAAF]],&lt;ref name="Ryan"/&gt; where he attained the rank of Leading Aircraftman (34 Squadron).
+
+After the war he spent three years studying under the Commonwealth Reconstruction Training Scheme, completing his arts course at East Sydney Technical College, during which time he produced his first [[comic strip]], ''Sword and Sabre'', a story about the [[French Foreign Legion]].&lt;ref name="Ryan"/&gt; Wedd sold it to [[Syd Nicholls]]' publishing company, where it appeared as three monthly episodes in the ''Middy Malone'' magazine. Wedd also produced eight more comic strips for Nicholls, including ''Bert and Ned'' and ''Captain Justice'' (a [[bushranger]] who righted wrongs).&lt;ref&gt;{{Cite web|url=http://www.internationalhero.co.uk/o/ozscorp.htm|title=The Scorpion|publisher=An International Catalogue of Superheroes|accessdate=4 May 2012}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|title=Comics in Australia and New Zealand: The Collections, the Collectors, the Creators|author1=Toby Burrows|author2=Grant Stone |publisher=Routledge |date=1994 |isbn=1-56024-664-2 |page=35 }}&lt;/ref&gt; After Nicholls closed his comic line, Wedd began supplying comics to Elmsdale Publications, including ''Tod Trail'' and ''Kirk Raven''.&lt;ref name="Ryan"/&gt; In December 1950 New Century Press contracted Wedd to produce twenty three ''Captain Justice'' stories,&lt;ref name="Ryan"/&gt; with the hero now located in the American [[Wild West]], for £102 per issue.
+
+{{Quote|The only reason we had him over in America was because it was the vogue of the time. Everyone was interested in American westerns. They absolutely flooded the Australian market with western comics. Nobody was interested in Australian Wild West stories. They weren't interested in anything to do with bushrangers.|Monty Wedd&lt;ref&gt;{{Cite news|url=http://www.couriermail.com.au/entertainment/arts/aussie-heroes-left-to-history/story-e6freqkf-1111114882189|title=Aussie heroes left to history|publisher=[[The Courier Mail]]|last=Juddery|first=Mark|date=16 November 2007|accessdate=4 May 2012}}&lt;/ref&gt;}}
+
+Throughout the 1950s Wedd also worked extensively as a cover artist on numerous '[[Pulp magazine|pulp fiction]]' novels published by Malian Press, Action Comics Pty Ltd and Whitman Press.
+
+In 1954 he returned to Emsadle where he created ''The Scorpion'',&lt;ref&gt;{{Cite web|url=http://www.internationalhero.co.uk/c/captainjusticeoz.htm|title=Captain Justice|publisher=An International Catalogue of Superheroes|accessdate=7 May 2012}}&lt;/ref&gt; for which he was paid £160 per issue.&lt;ref name="Ryan"/&gt; It became a best-seller with sales of up to 100,000 per issue, despite being banned in Queensland, apparently on the grounds that the bad-guy protagonist kept escaping his just deserts to fight another day.
+
+{{Quote|The authorities objected to the Scorpion not being brought to justice, but if he had been I wouldn't have had a series. Still, once they banned him in one state the distributor was no longer keen to handle the title at all, so that was the end of The Scorpion.|Monty Wedd&lt;ref name="Ray"&gt;{{Cite web|url=http://www.collectingbooksandmagazines.com/wedd.html|title=Monty Wedd, Aussie cartoonist|publisher=Collecting Books and Magazines|last=Ray|first=Greg|date=5 April 2008|accessdate=13 December 2011}}&lt;/ref&gt;}}
+
+He then produced a series of ''Captain Justice'' stories for Calvert Publications, but they had to be largely re-drawn to satisfy 1950s censorship rules and regulations, e.g. the hero's face could not be entirely hidden, no flashes could issue from guns, no character could carry an offensive weapon in the hand, and no-one was allowed to be killed. He also wrote and illustrated eight books for Calvert about a war-time American, ''Kent Blake of the Secret Service''. Wedd then created strips for ''Stamp News'' (on the history of the stamp)&lt;ref name="Ryan"/&gt; and for Dr T.S. Hepworth's ''Australian Children's Newspaper'', drawing many full page adventure comics, an association which lasted for sixteen years. From 1958 he was a regular contributor to ''Chuckler's Weekly''&lt;ref name="Ryan"/&gt; and for Telegraph Newspapers, with ''Captain Justice'' and ''King Comet''.
+
+After producing another five ''Captain Justice'' stories for Horwitz Publications in 1963,&lt;ref name="Ryan"/&gt; Wedd turned to animation, working for Artransa and Eric Porter on series such as ''[[Marco Polo Junior Versus the Red Dragon]]'', ''[[The Amazing Chan and the Chan Clan|Charlie Chan]]'', ''[[The Lone Ranger (animated TV series)|The Lone Ranger]]'', ''[[Rocket Robin Hood]]'' and ''[[Super Friends (1973 TV series)|Super Friends]]''.&lt;ref name="Ryan"/&gt;&lt;ref&gt;{{Cite web|url=https://www.imdb.com/name/nm2988029/|title=Monty Wedd|publisher=[[Amazon.com]]|work=[[Internet Movie Database|IMDb]]|accessdate=4 May 2012}}&lt;/ref&gt; ''Captain Justice'' appeared in the ''[[Woman's Day (Australian magazine)|Woman's Day]]'' magazine in September 1964, where it ran until April 1965.&lt;ref name="Ryan"/&gt;
+
+From 1965 through to 1966 Wedd produced the cartoon mascot 'Dollar Bill', which appeared in a series of educational cartoons for the Decimal Currency Board, as part of the public information campaign about Australia's switch to [[Decimalisation#Formal decimalisations|decimal]] currency in 1966.
+
+On leaving the animation field Wedd concentrated on freelance work and production of a new comic strip based on the life of [[Ned Kelly]]. Wedd was in great demand during [[James Cook|Captain Cook's Bicentenary]] celebrations, creating historic strips, illustrations and cards for everything from TV series to [[Minties]] and washing powder between 1969 and 1970. The original plans for ''Ned Kelly'' were to run it for 25–30 weeks however Wedd approached the ''Sunday Mirror'' with a proposal to produce a detailed examination of [[Ned Kelly|Kelly]]'s life on an open-ended basis.&lt;ref&gt;{{Cite web|url=http://www.ironoutlaw.com/html/comics.html|title=Comics and Cartoons|publisher=Ned Kelly: Australian Iron Outlaw|last=Webb|first=Brad|accessdate=4 May 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120427194007/http://www.ironoutlaw.com/html/comics.html|archivedate=27 April 2012|df=dmy-all}}&lt;/ref&gt; The strip ran uninterrupted for two years.&lt;ref&gt;{{Cite book|title=Interdisciplinary Measures: Literature and the Future of Postcolonial Studies|author1=Graham Huggan|publisher=Liverpool University Press|date=2008|isbn=1-84631-109-8|page=183}}&lt;/ref&gt; Wedd retired from comics in July 1977, after working on the ''Ned Kelly'' comic strip for 146 weeks.   {{Quote|They had been going to run ''Captain Justice'' but they told me [[Rupert Murdoch]] had invested a lot of money in the Ned Kelly movie so they wanted a cartoon about Ned Kelly. I did a 140-episode true life story of Ned Kelly and then I followed that up with ''Bold Ben Hall''.|Monty Wedd&lt;ref name="Ray"/&gt;}} Replacing ''Ned Kelly'' was another Wedd strip about bushrangers, ''[[Ben Hall (bushranger)|Bold Ben Hall]]'', which followed the same approach and format, running for 400 episodes. This was subsequently followed with another equally long running strip, ''The Birth of a Nation'', devised to coincide with [[Australian Bicentenary|Australia's bicentennial]] celebrations in 1988. The strip was syndicated to several newspapers, and was later issued as a two-volume book, ''The Making of a Nation'', (self-published by Wedd) in 1988.
+
+Wedd's work has appeared in a range of Australian newspapers, including Sydney ''[[Daily Mirror]]'', ''[[Sunday Telegraph]]'', ''[[The Sunday Territorian]]'' and ''[[The Sunday Mail (Brisbane)|Sunday Mail]]''.
+
+Wedd is a long time member and former vice-president of the [[Australian Cartoonists' Association|Black and White Artists' Club]], and lives at [[Williamtown, New South Wales]]. In 1993 he was awarded an [[Order of Australia]] for his services as author, illustrator and historian. He won [[Stanley Awards]] in 1987 and 1989.&lt;ref&gt;{{Cite web|url=http://cartoonists.org.au/?page=211|title=Previous Stanley Award Winners|publisher=[[Australian Cartoonists' Association]]|accessdate=4 May 2012}}&lt;/ref&gt; In 2004 he received the Jim Russell Award for "significant contribution" to the cartooning industry from the Australian Cartoonists Association.
+
+===Personal===
+Wedd married Dorothy and they had four children, more than 20 grandchildren and four great grandchildren. In 1960 the couple founded a museum dedicated to the Australian military at their home at [[Narraweena, New South Wales|Narraweena]], on Sydney's northern beaches. When they ran out of space it was moved and rebuilt at their property in [[Williamtown, New South Wales]]. The Monarch Historical Museum re-opened at its current location in November 1988.&lt;ref&gt;{{Cite news|url=http://seniornsw.realviewtechnologies.com/default.aspx?iid=9925&amp;startpage=page0000053|title=Monty draws on history|publisher=The Senior (NSW)|last=Williams|first=Natalie|page=53|accessdate=4 May 2012|deadurl=yes|archiveurl=https://archive.is/20120715061703/http://seniornsw.realviewtechnologies.com/default.aspx?iid=9925&amp;startpage=page0000053|archivedate=15 July 2012|df=dmy-all}}&lt;/ref&gt; Wedd died on 4 May 2012 at a nursing home in [[Fingal Bay, New South Wales]].&lt;ref&gt;{{Cite news|url=http://www.theherald.com.au/news/local/news/general/monty-wedd-designer-of-dollar-bill-dies/2550887.aspx|title=Monty Wedd, designer of Dollar Bill dies|publisher=[[Newcastle Herald]]|date=10 May 2012|accessdate=14 May 2012|last=Rigney|first=Sam}}&lt;/ref&gt;
+
+==Bibliography==
+* {{cite book
+  | title=Stamp Oddities
+  | last=Wedd
+  | first=Monty
+  | year=1969
+  | publisher=Review Publications
+  | location=Dubbo, NSW
+  | isbn=
+  | url=}}&lt;ref&gt;{{cite web|url=http://nla.gov.au/nla.cat-vn2809699|title=Stamp oddities|publisher=National Library of Australia|accessdate=18 July 2014}}&lt;/ref&gt;
+* {{cite book
+  | title=Stamp Stories
+  | last =Wedd
+  | first=Monty
+  | year=1970
+  | publisher=Review Publications
+  | location=Dubbo, NSW
+  | isbn=
+  | url=}}&lt;ref&gt;{{cite web|url=http://nla.gov.au/nla.cat-vn1287392|title=Stamp Stories|publisher=National Library of Australia|accessdate=18 July 2014}}&lt;/ref&gt;
+*{{cite book
+  | title=Australian Military Uniforms, 1800–1982
+  | last=Wedd
+  | first=Monty
+  | year=1982
+  | publisher=Kangaroo Press
+  | location=Kenthurst, NSW
+  | isbn=0-949924-12-1
+  | url=}}&lt;ref&gt;{{cite web|url=http://nla.gov.au/nla.cat-vn361767 |title=Australian military uniforms, 1800–1982|publisher=National Library of Australia|accessdate=7 May 2012}}&lt;/ref&gt;
+*{{cite book
+  | title=The Making of a Nation : commemorating Australia's Bicentenary   
+  | last=Wedd
+  | first=Monty
+  | year=1988
+  | publisher=Wedd Historical Productions
+  | location=Williamtown, NSW
+  | isbn=0-7316-4706-8
+  | url=}}&lt;ref&gt;{{cite web|url=http://nla.gov.au/nla.cat-vn1704691|title=The making of a nation: commemorating Australia's Bicentenary|publisher=National Library of Australia|accessdate=7 May 2012}}&lt;/ref&gt;
+*{{cite book
+  | title=Ned Kelly, Narrated and Illustrated by Monty Wedd
+  | last=Wedd
+  | first=Monty
+  | year=2014
+  | publisher=Comicoz
+  | location=Margate Beach, Qld
+  | isbn=978-0-9806535-1-9
+  | url=}}&lt;ref&gt;{{cite web|url=http://catalogue.nla.gov.au/Record/6288928|title=Ned Kelly, Narrated and Illustrated by Monty Wedd|publisher=National Library of Australia|accessdate=18 July 2014}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://nla.gov.au/nla.cat-vn2304846 Interview with Monty Wedd, artist and author] (sound recording) -interviewed by Ros Bowden, 3 November 1995 
+* ''[http://nla.gov.au/nla.cat-vn2082499 ACE biographical portraits: the artists behind the comic book characters: the Australian comic book exhibition, Australian comics 1930s–1990s, touring Australia during 1995/96]'' / edited by Annette Shiell and Ingrid Unger (1994, {{ISBN|0-7326-0829-5}})
+* [https://web.archive.org/web/20050324045817/http://www.lambiek.net/wedd-monty.htm Lambiek.net – Monty Wedd]
+* [http://www.collectingbooksandmagazines.com/wedd.html Monty Wedd]
+* [http://www.collectingbooksandmagazines.com/wedd.html Australian cartoonist creator of Captain Justice and The Scorpion] / Greg Ray
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wedd, Monty}}
+[[Category:Australian cartoonists]]
+[[Category:1921 births]]
+[[Category:2012 deaths]]
+[[Category:Australian comics artists]]</text>
+      <sha1>dftbvqb2uyf4z1c0joyimt0x5kjrf39</sha1>
+    </revision>
+  </page>
+</mediawiki>

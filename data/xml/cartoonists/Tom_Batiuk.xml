@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tom Batiuk</title>
+    <ns>0</ns>
+    <id>2541451</id>
+    <revision>
+      <id>848725494</id>
+      <parentid>845905859</parentid>
+      <timestamp>2018-07-03T21:41:21Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v2.0beta)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3349">{{Use mdy dates|date=December 2013}}
+{{Infobox person
+|name=Tom Batiuk
+|image=TomBatiuk.jpg
+|birth_date={{birth date and age|1947|03|14}}
+|birth_place=[[Akron, Ohio]], United States
+|occupation=[[Comic strip creator]], writer, artist
+}}
+
+'''Thomas Martin "Tom" Batiuk''' {{IPAc-en|'|b|æ|t|ɪ|k}} (born March 14, 1947) is an American [[comic strip creator]], best known for his long-running newspaper strip ''[[Funky Winkerbean]]''.
+
+Born in [[Akron, Ohio]], Batiuk attended [[Kent State University]], from which he graduated in 1969 with a Bachelor of Fine Arts degree, majoring in painting. He went on to teach art in junior high school. He put his experiences to use in his gag-a-day ''Funky Winkerbean'', which first appeared in print on March 27, 1972. With the success of the strip, he abandoned his teaching career, occasionally returning to the classroom to refresh his sources. He authored two spinoff strips, ''[[John Darling (comic strip)|John Darling]],'' which ran from 1979 through 1990, and ''[[Crankshaft (comic strip)|Crankshaft]],'' which began syndication in 1987. These strips sometimes experience [[fictional crossover|crossovers]].&lt;ref name="ab120327"/&gt;
+
+Over the years, Batiuk's strips have taken on an increasing narrative continuity. Starting in 1986, ''Funky'', and to a lesser extent ''Crankshaft'', sometimes abandoned humor to explore serious, even tragic subject matter.
+
+His stories often involve strong drama elements combined with generally rosy outcomes.{{citationneeded|date=February 2018}} They also show a strong belief in [[Abrahamic conceptions of God|God]], as well as sympathies for the [[American military]]. On the other hand, ''Funky Winkerbean'' dealt very critically with [[Intelligent Design]],&lt;ref name=pandasthumb&gt;''[http://www.pandasthumb.org/archives/2004/08/funky_winkerbea.html Funky Winkerbean takes on ID]'', Richard B. Hoppe, 2004&lt;/ref&gt;&lt;ref name=creighton&gt;''[http://nrcse.creighton.edu/Creat_Comics_GOP.html Science and Religion in Funky Winkerbean] {{Webarchive|url=https://web.archive.org/web/20070811032431/http://nrcse.creighton.edu/Creat_Comics_GOP.html |date=August 11, 2007 }}'' 2004&lt;/ref&gt; and two students in the strip even did a pro-evolution take-off on Johnny Hart's ''[[B.C. (comic strip)|B.C.]]''&lt;ref name=2004sep1&gt;''Funky Winkerbean'', strip for 2004 September 1&lt;/ref&gt;
+
+==References==
+{{reflist|refs=
+&lt;ref name="ab120327"&gt;{{cite news |first=Carol |last=Biliczky |work=[[Akron Beacon Journal]] |location=[[Akron, OH]] |title=Kent State unveils mural by Funky Winkerbean creators |url=http://www.ohio.com/news/kent-state-unveils-mural-by-funky-winkerbean-creators-1.285917 |date=March 27, 2012 |accessdate=March 28, 2012}}&lt;/ref&gt;
+}}
+
+==Further reading==
+* Strickler, Dave. ''Syndicated Comic Strips and Artists, 1924–1995: The Complete Index.'' Cambria, CA: Comics Access, 1995. {{ISBN|0-9700077-0-1}}.
+
+==External links==
+*[http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OhCoUCR0021.xml;chunk.id=0;toc.depth=1;brand=default The Ohio State University Billy Ireland Cartoon Library &amp; Museum: Tom Batiuk Collection Guide]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Batiuk, Tom}}
+[[Category:American comic strip cartoonists]]
+[[Category:1947 births]]
+[[Category:Artists from Akron, Ohio]]
+[[Category:Living people]]
+[[Category:Kent State University alumni]]
+
+
+{{comic-strip-creator-stub}}</text>
+      <sha1>q3u7y94y9tkcc1ervyxwraxo8jzzhgn</sha1>
+    </revision>
+  </page>
+</mediawiki>

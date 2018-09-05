@@ -1,0 +1,198 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Katherine Rawls</title>
+    <ns>0</ns>
+    <id>13150759</id>
+    <revision>
+      <id>851482694</id>
+      <parentid>845651336</parentid>
+      <timestamp>2018-07-22T16:23:02Z</timestamp>
+      <contributor>
+        <username>Jon Kolbert</username>
+        <id>29727696</id>
+      </contributor>
+      <minor/>
+      <comment>Updating URL format for [[The New York Times]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24052">{{Use mdy dates|date=September 2015}}
+{{Infobox swimmer
+| name           = Katherine Rawls
+| image          = Katherine Rawls 1938.jpg 
+| image_size     =
+| alt            =
+| caption        = Rawls in 1938
+| fullname       = Katherine Louise Rawls
+| nicknames      = "Katy," "The Minnow"
+| national_team  = {{USA}}
+| strokes        = [[Freestyle swimming|Freestyle]], [[diving|springboard diving]]
+| club           = Miami Beach Swimming Club
+| collegeteam    = 
+| birth_date     = {{Birth date|1917|6|14|mf=y}}
+| birth_place    = [[Nashville, Tennessee]]
+| death_date     = {{Death date and age|1982|4|8|1917|6|14|mf=y}}
+| death_place    = [[White Sulphur Springs, West Virginia]]
+| height         = &lt;!-- {{convert|x|ft|xx|in|m|abbr=on}} --&gt;
+| weight         = &lt;!-- {{convert|xxx|lb|kg|abbr=on}} --&gt;
+| medaltemplates =
+{{MedalCountry | the United States}}
+{{MedalCompetition | [[Olympic Games]]}}
+{{MedalSport | Diving}}
+{{MedalSilver  | [[1932 Summer Olympics|1932 Los Angeles]] | [[Diving at the 1932 Summer Olympics – Women's 3 metre springboard|3 m springboard]]}}
+{{MedalSilver  | [[1936 Summer Olympics|1936 Berlin]] | [[Diving at the 1936 Summer Olympics – Women's 3 metre springboard|3 m springboard]]}}
+{{MedalSport | Swimming}}
+{{MedalBronze  | [[1936 Summer Olympics|1936 Berlin]] | [[Swimming at the 1936 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]]}}
+}}
+
+'''Katherine Louise Rawls''' (June 14, 1917&lt;ref&gt;Birthdate June 14, 1917 is listed in the [[Social Security Death Index]] [http://ssdi.rootsweb.com/cgi-bin/ssdi.cgi?lastname=rawls&amp;firstname=katherine&amp;nt=exact]; June 28, 1917 is given by Burghard in ''Time'', 1935 (see below); June 14, 1918 is given by Ralph Hickok [http://www.hickoksports.com/biograph/rawlskatherine.shtml]&lt;/ref&gt; – April 8, 1982), also known by her married names '''Katherine Thompson''' and '''Katherine Green''', was an American competition swimmer and [[diving|diver]].  She was the United States national champion in multiple events during the 1930s.&lt;ref name=ishofprofile&gt;{{cite web|url=https://ishof.org/katherine-rawls-(usa).html|title=KATHERINE RAWLS (USA) 1965 Honor Swimmer/Diver|publisher=International Swimming Hall of Fame|year=1965|accessdate=December 13, 2017}}&lt;/ref&gt;
+
+==Swimming career==
+Rawls was born in [[Nashville, Tennessee]].&lt;ref name="burghard"&gt;{{cite news |url=http://205.188.238.109/time/magazine/article/0,9171,883305-4,00.html |first=August |last=Burghard |title=Fort Lauderdale's Shame |work=Time | date=May 27, 1935 |accessdate=September 6, 2007}}&lt;/ref&gt; She learned to swim at the age of two,&lt;ref name="nason199"&gt;Nason, p. 199&lt;/ref&gt; in [[Saint Augustine, Florida]], and took up diving at the age of seven in [[Tampa, Florida|Tampa]], from a 25-foot (7.6m) platform.&lt;ref name="nason201"&gt;Nason, p. 201&lt;/ref&gt; During her swimming career she was sometimes called '''Katy Rawls''' and nicknamed '''The Minnow'''.&lt;ref name="nason199"/&gt; Her sisters Dorothy (later Mrs. Williams&lt;ref name="obit"&gt;{{cite news |title=Obituary: Katherine Rawls, 64, Winner Of 33 U.S. Swimming Titles |work=New York Times |date=April 9, 1982 |url=https://query.nytimes.com/gst/fullpage.html?res=9401E1DD1339F93AA35757C0A964948260&amp;n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fS%2fSwimming |accessdate=September 5, 2007 |author=Associated Press |authorlink=Associated Press }}&lt;/ref&gt;), and Evelyn (McKee&lt;ref name="obit"/&gt;), were also Florida state champion swimmers,&lt;ref&gt;{{cite web|url=http://www.fhsaa.org/records/rec_swg.pdf |title=FHSAA Girls Swimming &amp; Diving Championship Records |page=6 |publisher=Florida High School Athletic Association |quote=Most Individual Titles, Career: 14–Katherine Rawls,... 11–Dorothy Rawls,...11–Evelyn Rawls |format=[[PDF]] |accessdate=September 7, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20080229180456/http://www.fhsaa.org/records/rec_swg.pdf |archivedate=February 29, 2008 |df= }}&lt;/ref&gt; and the siblings were known collectively as "Rawls' Diving Trio".&lt;ref name="nason201"/&gt; Together with sister Peggy (Wedgworth&lt;ref name="obit"/&gt;) and brother Sonny, a champion diver,&lt;ref name=ishofprofile/&gt;&lt;ref name="wom1932"&gt;Pieroth, p. 64&lt;/ref&gt;&lt;ref name="nats1933"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,753855,00.html |title=At Jones Beach |work=[[Time magazine|Time]] |date=July 31, 1933 |accessdate=September 7, 2007 |quote=Katherine Rawls ... ran off with the loft. spring board diving title ... broke her own world's record in the 300-meter medley championship, barely missed regaining her 220-yd. breast stroke title ... Minnow Rawls, whose three little sisters and one little brother are all swimming champions of some sort}}&lt;/ref&gt;&lt;ref name="nats1935"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,847478,00.html |title=Salt Water Sorority|work=[[Time magazine|Time]] |date=July 29, 1935 |accessdate=September 7, 2007 |quote=list of champions: ... 220-yd. breast stroke—Katherine Rawls 300-metre medley—Katherine Rawls ... Familiar to [[rotogravure]] readers are the Rawls sisters—Katherine (18), Evelyn (16), Dorothy (15), Peggy (10).  Evelyn last week finished third in the free-style mile, fourth in the medley. Dorothy was fourth in the 220-yd. breast stroke.}}&lt;/ref&gt; the children went to junior contests and exhibitions, as "Rawls' Water Babies".&lt;ref name=ishofprofile/&gt;
+
+Rawls caused a sensation at the 1931 U.S. National Championships aged just 14, when she beat star [[Eleanor Holm]] in the 300m [[individual medley]] in a new [[world record]],&lt;ref name="nat1931"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,752927-1,00.html |accessdate=September 6, 2007 |date=July 27, 1931 |title=Swimmers |work=Time}}&lt;/ref&gt;&lt;ref name="nyt1931-jul-18"&gt;
+{{cite news |work=[[New York Times]] |page=14 |date=July 18, 1931 |first=L. de B. |last=Handley |title=MISS HOLM BEATEN IN U.S. SWIM UPSET |url=https://www.nytimes.com/1931/07/18/archives/miss-holm-beaten-in-us-swim-upset-loses-in-300meter-medley-as-miss.html |quote=Loses in 300-Meter Medley as Miss Rawls, 14, Clips 4 Seconds Off World's Mark. WINNER'S TIME IS 4:45 4–5...Miss Katherine Rawls, 14-year-old lassie of Hollywood, Fla}}&lt;/ref&gt; and the next day beat champion Margaret Hoffman in the 220yds [[breaststroke]].&lt;ref&gt;Nason, pp. 206–7&lt;/ref&gt;&lt;ref&gt;Pieroth, pp. 64, 78&lt;/ref&gt;
+
+Rawls moved from [[Hollywood, Florida]]&lt;ref name="nyt1931-jul-18"/&gt; to [[Fort Lauderdale]] in 1932.&lt;ref&gt;FHSAA Girls Swimming &amp; Diving Championship Record, p. 6: "14––Katherine Rawls, '''Hollywood''', 75 IM 1931; 100 breast 1931; Diving 1931; '''Fort Lauderdale''', 50 back 1933, 1935; 75 IM 1932, 1933; 100 free 1934; 150 free 1934; 100 breast 1932, 1933, 1934, 1935; Diving 1935."  The International Swimming Hall of Fame misprints this as 1933 ("Her first grand slam came in 1933, the year she moved to Fort Lauderdale":  Her first grand slam was also in 1932.)&lt;/ref&gt; She received sponsorship from [[Miami Beach, Florida|Miami Beach]] to attend the trials for the [[1932 Summer Olympics|1932 Olympics]], and was sometimes misidentified with that city.&lt;ref name="burghard"/&gt; At the trials, she surprisingly failed to qualify in the 200m-meter breaststroke:&lt;ref&gt;Nason, p. 207&lt;/ref&gt;&lt;ref&gt;Pieroth p. 78&lt;/ref&gt; told by her coach to conserve her strength and aim for the third and last qualifying spot, she narrowly finished fourth.&lt;ref&gt;{{cite news |url=http://205.188.238.109/time/magazine/article/0,9171,744025,00.html |title=Olympic Trials |work=Time |date=July 25, 1932 |accessdate=September 6, 2007}}&lt;/ref&gt; After her loss, she rowed across to the [[springboard diving]], where she surprisingly beat champion [[Georgia Coleman]].&lt;ref&gt;Pieroth p.78&lt;/ref&gt; She scratched from the [[high diving]] because of high winds.&lt;ref&gt;Pieroth p.79&lt;/ref&gt; She [[Diving at the 1932 Summer Olympics – Women's 3 metre springboard|finished second to Coleman at the Olympics]].
+
+Rawls beat Coleman again at the National championships that September: one of four victories,&lt;ref name="nats1932"&gt;{{cite news |title=MISS RAWLS TAKES FOURTH SWIM TITLE |url=https://www.nytimes.com/1932/09/11/archives/miss-rawls-takes-fourth-swim-title-florida-star-scores-in-88c-yard.html |author=Associated Press |authorlink=Associated Press |date=September 11, 1932 |work=New York Times |page=S2 |quote=ALSO WINS IN 10-FOOT DIVE Scores 94.40 to Beat Miss Poynton, Olympic Champion}}&lt;/ref&gt; the maximum then possible at one meet.&lt;ref name="inats1935"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,762249,00.html |title=Females in Water |work=Time |date=April 22, 1935 |accessdate=September 7, 2007 |quote=This year she decided not to defend her diving championship, to try for a clean sweep in four swimming events, the most any contestant is allowed to enter ... The three she won were 100-yd. freestyle, 300-yd. medley, 100-yd. breaststroke ... The one she lost was the 220-yd. freestyle }}&lt;/ref&gt; She enjoyed sustained success thereafter, often competing in exhibition and carnival events, including a "swim [[decathlon]]" in 1934 before a crowd of 50,000, in which she won every event.&lt;ref&gt;{{cite news |title=MISS RAWLS VICTOR IN SWIM DECATHLON   |url=https://select.nytimes.com/gst/abstract.html?res=FB0E14FF3E54177A93C6A91782D85F408385F9 |quote=50,000 at [[Jones Beach State Park#Facilities|Jones Beach]] Watch Florida Girl Complete a Ten-Event Sweep. |date=September 4, 1934 |work=New York Times |page=26 (Sports)}}&lt;/ref&gt; By 1935, the ''New York Times'' made her favorite in seven of the nine events in the upcoming Nationals, depending on which she chose to compete in.&lt;ref name=ishofprofile/&gt; Her best swimming events were the individual medley and the distance events,&lt;ref name=ishofprofile/&gt; neither of which were [[Swimming at the Summer Olympics|Olympic event]]s in the 1930s.  (The medley used only three [[swimming stroke|strokes]]: the [[butterfly stroke]] was not separated from the breaststroke until 1952.)
+
+She succeeded instead in qualifying for the 100-meter freestyle in the [[1936 Summer Olympics]], finishing seventh in the individual and third in the relay.&lt;ref&gt;Nason, pp. 216–9&lt;/ref&gt; In [[Diving at the 1936 Summer Olympics – Women's 3 metre springboard|the springboard diving competition]], she suffered a shock defeat on the last dive, to teammate [[Marjorie Gestring]], who was herself just 13.&lt;ref&gt;Nason, pp. 221–2&lt;/ref&gt; Subsequently, Rawls concentrated on swimming rather than diving.&lt;ref&gt;Nason, p. 202&lt;/ref&gt;
+
+In 1937, hours after disembarking at San Francisco after a swimming tour of Japan, she commenced a three-day streak at the Nationals which produced an unprecedented four individual swimming titles.&lt;ref&gt;Nason, p. 226&lt;/ref&gt; For this she was named [[Associated Press Female Athlete of the Year]] for 1937,&lt;ref&gt;
+{{cite news 
+   |title=MISS RAWLS TOPS WOMEN ATHLETES
+   |url=https://www.nytimes.com/1937/12/15/archives/miss-rawls-tops-women-athletes-but-swimmer-with-53-gains-only.html
+   |quote=But Swimmer, With 53, Gains Only One-Point Margin in Associated Press Poll
+   |date=December 15, 1937 |work=[[New York Times]] |page=33}}
+&lt;/ref&gt; and polled third for the [[James E. Sullivan Award]].&lt;ref&gt;
+{{cite news 
+   |title=SULLIVAN AWARD IS WON BY BUDGE
+   |url=https://www.nytimes.com/1937/12/31/archives/sullivan-award-is-won-by-budge-leading-tennis-amateur-of-world-gets.html
+   |quote=Third Place to Miss Rawls, Swimmer 
+   |date=December 31, 1937 |work=[[New York Times]] |page=13 (Sports)}}
+&lt;/ref&gt; In 1938 she retained all four National titles. At the time she was holder of 18 national swimming records in breaststroke, freestyle, and medley events,&lt;ref&gt;Nason, pp. 202, 228&lt;/ref&gt; and had been undefeated in medley races for eight years.&lt;ref name=ishofprofile/&gt;
+
+Rawls retired from swimming in 1939, but returned to diving for the trials for the [[1948 Summer Olympics|1948 Olympics]], placing fifth with 108.56 points. Second of the three qualifiers was eventual gold medalist [[Victoria Draves]] on 111.14, with Marjorie Gestring fourth on 110.67.&lt;ref&gt;
+{{cite web |url=http://www.usaswimming.org/USASWeb/_Rainbow/Documents/ff38b442-d99c-421b-84ce-4e42406d87a1/1948.pdf 
+   |pages=134 |title=U.S. Olympic Committee Report |year=1948|format=PDF}}
+&lt;/ref&gt;
+
+===U.S. National championships===
+[[File:Katherine Rawls 1935.jpg|thumb|upright=1.1|Rawls in 1935.]]
+Rawls won a total of 33 U.S. national titles:&lt;ref name=ishofprofile/&gt;&lt;ref name="obit"/&gt; 5 in diving and 28 in swimming, both indoors at the Spring Nationals and outdoors at the Summer Nationals.
+
+* 1931 Summer:&lt;ref name="nat1931"/&gt; 1st in 300m medley, 220yd breaststroke; 2nd in springboard diving
+* 1932 Summer:&lt;ref name="nats1932"/&gt; 1st in 300m medley, 220yd breaststroke, 880yd freestyle, springboard diving
+* 1933 Spring:&lt;ref name="inats1933"&gt;
+{{cite news |url=http://www.time.com/time/magazine/article/0,9171,847247,00.html |title=Who Won |work=Time |date=May 1, 1933 |accessdate=September 7, 2007 |quote=Katherine ("Minnow") Rawls, 15, of Fort Lauderdale, Fla.: championships in lowboard diving and the 300-yd. medley swim, with a new world's record of 4:14.4; at the Women's National A. A. U. Championships, in Buffalo, New York.}}
+&lt;/ref&gt; 1st in 300yd medley, lowboard diving 
+* 1933 Summer:&lt;ref name="nats1933"/&gt; 1st in 300m medley, springboard diving; 2nd in 220yd breaststroke
+* 1934 Spring:&lt;ref name="inats1934"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,747388,00.html |title=Ladies in the Pool |work=[[Time magazine|Time]] |date=April 23, 1934 |accessdate=September 7, 2007 |quote=Individual titles: 300-yd. medley — Katherine Rawls ... Low-board dive—Katherine Rawls .... In the highboard dive, Minnow Rawls placed second}}&lt;/ref&gt; 1st in 300yd medley, lowboard diving; 2nd in highboard diving  
+* 1934 Summer:&lt;ref name="nats1934"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,747611,00.html |title=Daughters' Girl |work=[[Time magazine|Time]] |date=August 6, 1934 |accessdate=September 7, 2007 |quote=Individual titles : ... 3-meter springboard diving: Katherine Rawls ... 300-meter medley: Katherine Rawls}}&lt;/ref&gt; 1st in 300m medley, springboard diving
+* 1935 Spring:&lt;ref name="inats1935"/&gt; 1st in 300yd medley, 100yd breaststroke, 100yd freestyle; 2nd in 220yd freestyle
+* 1935 Summer:&lt;ref name="nats1935"/&gt;  1st in 300m medley, 220yd breaststroke
+* 1936 Spring: 1st in 300yd medley,&lt;ref&gt;{{cite news |title=MISS RAWLS SETS NEW SWIM RECORD |accessdate=September 5, 2007 |author=Associated Press |authorlink=Associated Press |url=https://www.nytimes.com/1936/04/02/archives/us-mark-set-by-miss-rawls-in-national-swim-miss-rawls-sets-new-swim.html |quote=Breaks Own U.S. Mark in the 300-Yard Medley, Winning Event in 4:06.3. |date=April 2, 1936 |work=New York Times |page=35 (Sports)}}&lt;/ref&gt; 100yd breaststroke&lt;ref name="inats1937"/&gt;&lt;ref&gt;
+{{cite news |title=Higgins and Miss Rawls Score With Records |accessdate=September 5, 2007 |author=Associated Press |authorlink=Associated Press |url=https://select.nytimes.com/gst/abstract.html?res=FB0E14F6395B1B7B93C1A9178FD85F428385F9 |date=April 3, 1936 |work=New York Times |page=31 (Sports)}}&lt;/ref&gt;
+* 1936 Summer: 1st in 300m medley&lt;ref&gt;{{cite news |title=MISS RAWLS KEEPS A.A.U. SWIM TITLE; |quote=Takes 300-Meter Medley for Sixth Successive Year at National Championships. |accessdate=September 7, 2007 |first=Maribel Y. |last=Vinson |url=https://www.nytimes.com/1936/06/27/archives/miss-rawls-keeps-aau-swim-title-takes-300meter-medley-for-sixth.html |date=June 27, 1936 |work=New York Times |page=10 (Sports)}}&lt;/ref&gt;
+* 1937 Spring: 1st in 300yd medley,&lt;ref&gt;{{cite news |title=Miss Rawls and Miss Eckert Retain National Swim Titles |accessdate=September 5, 2007 |url=https://www.nytimes.com/1937/04/15/archives/miss-rawls-and-miss-eckert-retain-national-swim-titles-florida-star.html |quote= Florida Star Boasts Record Total of 22 A. A. U. Crowns After Capturing 300 Yard Medley  |date=April 15, 1937 |work=New York Times |page=31}}&lt;/ref&gt; 100yd breaststroke;&lt;ref name="inats1937"&gt;{{cite news |title=MISS RAWLS BEATS OWN MEET RECORD  |accessdate=September 5, 2007 |url=https://select.nytimes.com/gst/abstract.html?res=FA0F17FB385E177A93C4A8178FD85F438385F9 |quote=Katherine Rawls ... successfully defended her women's national indoor A. A. U. 100-yard breast-stroke title tonight and set a new record in doing it. |date=April 16, 1937 |work=New York Times |page=32}}&lt;/ref&gt; 2nd in 500yd freestyle&lt;ref&gt;{{cite news |title=Misses Brennan, Forbes Also Win A. A. U. Tests  |accessdate=September 5, 2007|url=https://www.nytimes.com/1937/04/18/archives/miss-gestring-14-keeps-diving-title-misses-brennan-forbes-also-win.html    |quote=Elizabeth Brennan ... winning the 500yard free-style championship by three yards from Miami Beach's Miss Katherine Rawls.  |date=April 18, 1937 |work=New York Times |page=1 (Sports)}}&lt;/ref&gt;
+* 1937 Summer:&lt;ref name="nats1938"/&gt; 1st in 300m medley,&lt;ref&gt;{{cite news |title=MISS RAWLS KEEPS LAURELS IN SWIM |accessdate=September 5, 2007 |url=https://www.nytimes.com/1937/09/05/archives/miss-rawls-keeps-laurels-in-swim-takes-national-a-a-u-medley-title.html |quote=Takes National A. A. U. Medley Title for Seventh Time |date=September 5, 1937 |work=New York Times |page=51 (Sports)}}&lt;/ref&gt; 440yd,&lt;ref&gt;{{cite news    |title=MISS RAWLS TAKES THIRD SWIM TITLE |accessdate=September 5, 2007 |url=https://select.nytimes.com/gst/abstract.html?res=FB0815FF3F59177A93C4A91782D85F438385F9 |quote=Gains National A. A. U. 440Yard Free-Style Honors in Meet on Coast
+|date=September 6, 1937 |work=New York Times |page=}}&lt;/ref&gt; 880yd,&lt;ref&gt;{{cite news |title=MISS RAWLS GAINS FOURTH SWIM TITLE   |accessdate=September 5, 2007 |url=https://www.nytimes.com/1937/09/07/archives/miss-rawls-gains-fourth-swim-title-florida-ace-takes-u-s-880yard.html    |quote=Florida Ace Takes U. S. 880-Yard Crown |date=September 7, 1937 |work=New York Times |page=}}&lt;/ref&gt; &amp; mile&lt;ref&gt;{{cite news 
+|title=Miss Rawls First in Mile |accessdate=September 5, 2007 |url=https://www.nytimes.com/1937/09/04/archives/swim-title-taken-by-miss-ryan-14-new-york-girl-wins-national-senior.html |date=September 4, 1937 |work=New York Times |page=11}}&lt;/ref&gt; freestyle
+* 1938 Spring:&lt;ref name="inats1938"&gt;{{cite news |title=MISS RAWLS BREAKS MARK IN TITLE SWIM  |accessdate=September 5, 2007    |url=https://www.nytimes.com/1937/04/15/archives/miss-rawls-and-miss-eckert-retain-national-swim-titles-florida-star.html |quote= Katherine Rawls ... had to break a national record and tie another to retain her titles in the 300-yard individual medley race and the 100-yard breast-stroke in the 1938 women's national swimming championships tonight. |date=May 2, 1938 |work=[[New York Times]] |page=20}}&lt;/ref&gt; 1st in 300m medley, 100yd breaststroke
+* 1938 Summer:&lt;ref name="nats1938"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,771165,00.html |title=Who Won |work=[[Time magazine|Time]] |date=August 1, 1938 |accessdate=September 7, 2007 |quote=Katherine Rawls Thompson of Miami Beach: four swimming events (300-metre medley, 440-yd., 880-yd. and one-mile free style) in the women's national outdoor championships; for the second year in a row; finishing three of them in world-record-breaking time; at [[Santa Barbara, California|Santa Barbara, Calif]].}}&lt;/ref&gt; 1st in 300m medley, 440yd, 880yd, &amp; mile freestyle
+
+==Later life==
+In November 1937, Rawls' parents announced her engagement to an advertising executive named William Starr.&lt;ref&gt;{{cite news |title=KATHERINE RAWLS'S TROTH |quote=Swimming Star to Be Bride of William Starr of Florida |url=https://www.nytimes.com/1937/11/22/archives/katherine-rawlss-troth-swimming-star-to-be-bride-of-william-starr.html |date=November 22, 1937 |work=New York Times |page=16}}&lt;/ref&gt; On May 18, 1938, unbeknown to her mother, Rawls married Theodore H. Thompson, an [[aviator|airplane pilot]].&lt;ref&gt;{{cite news |title=KATHERINE RAWLS WED |quote=Swimming Star Becomes Bride of T. H. Thompson, Aviator...Mrs. W. J. Rawls, the swimmer's mother, said that Katherine told her of the marriage by long distance telephone. |url=https://www.nytimes.com/1938/05/22/archives/katherine-rawls-wed-swimming-star-becomes-bride-of-t-h-thompson.html |date=May 22, 1938 |work=New York Times |page=40}}&lt;/ref&gt; She began working at the Thompson School of Aviation in Fort Lauderdale.&lt;ref&gt;Nason, pp. 227–8&lt;/ref&gt; She had qualified as a pilot while still swimming. While continuing to swim at exhibitions, she did not compete at the 1939 Nationals, and retired from swimming when the [[1940 Summer Olympics|1940 Olympics]] ware cancelled owing to the outbreak of [[World War II]].&lt;ref name=ishofprofile/&gt;&lt;ref&gt;Pieroth p. 144&lt;/ref&gt; She was one of the initial 28 pilots who formed the [[Women's Auxiliary Ferrying Squadron]] in 1942, stationed at Detroit,&lt;ref name="wafs-divorce"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,850794-2,00.html |accessdate=September 6, 2007 |date=December 6, 1943 |title=Society |work=[[Time magazine|Time]]}}&lt;/ref&gt; transporting military cargo by air as part of the U.S. war effort.&lt;ref&gt;{{cite book |url=http://www.disc-us.com/originals.htm |title=Flight From Fear |first=Sarah Byrn |last=Rickman |accessdate=September 5, 2007 |publisher=Disc Us Books |isbn=1-58444-273-5 |date=October 1, 2002 }}&lt;/ref&gt; In 1943, her husband reportedly sued her for divorce, but dropped the charges as caused by a "misunderstanding" and anticipated her return from Detroit to his farm in Florida.&lt;ref name="wafs-divorce"/&gt; Rawls was a swimming instructor for 20 years at the Greenbrier Hotel in [[White Sulphur Springs, West Virginia]].&lt;ref name="obit"/&gt;
+In 1965, she was one of the inaugural inductees to the [[International Swimming Hall of Fame]], and officially opened its pool in Fort Lauderdale, near the former Casino Pool where she had trained in the 1930s.&lt;ref name=ishofprofile/&gt; She died from cancer in 1982 after several years of illness.&lt;ref name="obit"/&gt;
+
+==See also==
+* [[List of athletes with Olympic medals in different disciplines]]
+* [[List of Olympic medalists in swimming (women)]]
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+*{{cite book |title=Famous American Athletes of Today |edition=Sixth Series |editor=Harold Kaese |first=Jerry |last=Nason |year=1977 |origyear=1939 |isbn=0-8369-2233-6 |publisher=Ayer 
+|chapter=VII: Katherine Rawls: ''Little Miss Minnow'' }}
+*{{cite book |title=Their Day in the Sun: Women of the 1932 Olympics |isbn=0-295-97554-7 
+   |first=Doris Hinson |last=Pieroth |year=1996 |publisher=[[University of Washington Press]]}}
+
+==External links==
+{{Commons category|Katherine Rawls}}
+* {{IMDb name|0712674}}
+* {{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ra/katherine-rawls-1.html |title=Katherine Rawls}}
+* [http://www.ishof.org/Honorees/65/65krawls.html  Katherine Rawls (USA)] – Honor Swimmer profile at International Swimming Hall of Fame
+
+{{Footer USA Swimming 1936 Summer Olympics}}
+{{Associated Press Female Athlete of the Year navbox}}
+
+{{DEFAULTSORT:Rawls, Katherine}}
+[[Category:1918 births]]
+[[Category:1982 deaths]]
+[[Category:American female freestyle swimmers]]
+[[Category:Deaths from cancer in West Virginia]]
+[[Category:Divers at the 1932 Summer Olympics]]
+[[Category:Divers at the 1936 Summer Olympics]]
+[[Category:Female aviators]]
+[[Category:American female divers]]
+[[Category:Olympic bronze medalists for the United States in swimming]]
+[[Category:Olympic silver medalists for the United States in swimming]]
+[[Category:Olympic divers of the United States]]
+[[Category:Olympic medalists in diving]]
+[[Category:Olympic swimmers of the United States]]
+[[Category:People from White Sulphur Springs, West Virginia]]
+[[Category:Sportspeople from Fort Lauderdale, Florida]]
+[[Category:Sportspeople from Nashville, Tennessee]]
+[[Category:Swimmers at the 1936 Summer Olympics]]
+[[Category:Women Airforce Service Pilots]]
+[[Category:International Swimming Hall of Fame inductees]]
+[[Category:Medalists at the 1932 Summer Olympics]]
+[[Category:Medalists at the 1936 Summer Olympics]]</text>
+      <sha1>gr4j6si9vno2d950r5ogaymribvd73m</sha1>
+    </revision>
+  </page>
+</mediawiki>

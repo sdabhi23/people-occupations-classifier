@@ -1,0 +1,263 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rhod Gilbert</title>
+    <ns>0</ns>
+    <id>4947157</id>
+    <revision>
+      <id>840566495</id>
+      <parentid>839973555</parentid>
+      <timestamp>2018-05-10T18:11:19Z</timestamp>
+      <contributor>
+        <username>PrimeBOT</username>
+        <id>29463730</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[User:PrimeBOT/24|Task 24]] - replace template usage following [[Wikipedia:Templates for discussion/Log/2018 February 19|a TFD]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22571">{{distinguish|text=Canadian ice-hockey player [[Rod Gilbert]]}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox comedian
+| name              = Rhod Gilbert
+| image             = Rhod Gilbert.jpg
+| image_size        = 
+| caption           = Gilbert in 2014
+| pseudonym         = 
+| birth_name        = Rhodri Paul Gilbert
+| birth_date        = {{birth date and age|df=yes|1968|10|18}}
+| birth_place       = [[Carmarthen]], [[Carmarthenshire]], Wales
+| death_date        = 
+| death_place       = 
+| medium            = Stand-up, television, Radio
+| nationality       = [[Wales|Welsh]]
+| active            = 2002–present
+| genre             = [[Observational comedy]], [[Deadpan]]
+| subject           = Everyday life
+| influences        = 
+| influenced        = 
+| spouse            = {{marriage|Sian Harries|August 2013}}
+| domesticpartner   = 
+| notable_work      = ''[[Never Mind the Buzzcocks]]''&lt;br&gt;''[[Walk on the Wild Side (TV series)|Walk on the Wild Side]]''&lt;br&gt;''[[Live at the Apollo (TV series)|Live at the Apollo]]''&lt;br&gt;''[[Rhod Gilbert's Work Experience]]''&lt;br&gt;''[[The Apprentice: You're Fired!]]''
+| signature         = 
+| website           ={{url|rhodgilbertcomedian.com/}}
+| footnotes         = 
+| current_members   = 
+| past_members      = 
+| academyawards     = 
+| emmyawards        = 
+| peabodyawards     =
+| goldenglobeawards = 
+| tonyawards        = 
+| baftaawards       = 
+| cesarawards       = 
+| goyaawards        = 
+| afiawards         = 
+| filmfareawards    = 
+| olivierawards     = 
+| grammyawards      = 
+| americancomedyawards = 
+| britishcomedyawards = 
+}}
+'''Rhodri Paul Gilbert''' (born 18 October 1968) is a Welsh comedian who was nominated in 2005 for the [[Edinburgh Comedy Awards|Perrier Best Newcomer Award]]. In 2008, he was nominated for the main comedy award (as the Edinburgh Comedy Awards were then branded).&lt;ref name="if2008"&gt;{{cite news |url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/specials/edinburgh/article4590885.ece |title=Why the if.comedy shortlist is intriguingly short |newspaper=The Times |date=24 August 2008 |accessdate=23 November 2009 |location=London, UK |first=Stephen |last=Armstrong |subscription=yes}}&lt;/ref&gt;
+
+Gilbert appears on television and radio panel shows, has performed stand-up on the [[Royal Variety Performance]], and hosts a weekly show on [[BBC Radio Wales]].&lt;ref name="BBCWA"&gt;{{cite web |url=http://www.bbc.co.uk/wales/arts/sites/rhod-gilbert/ |title=Rhod Gilbert |work=BBC Wales Arts |accessdate=23 November 2009}}&lt;/ref&gt;
+
+On 29 September 2014, Gilbert started presenting the [[BBC Two]] panel show ''[[Never Mind the Buzzcocks]]'', ending a run of five series without a [[List of Never Mind the Buzzcocks presenters|permanent host]].&lt;ref&gt;{{cite news |url=http://www.heraldscotland.com/arts-ents/tv-radio/rhod-gilbert-unveiled-as-new-host-of-never-mind-the-buzzcocks.1404910903 |title=Rhod Gilbert unveiled as new host of Never Mind the Buzzcocks |newspaper=[[The Herald (Glasgow)|The Herald]] |location=Glasgow |date=9 July 2014 |accessdate=9 July 2014}}&lt;/ref&gt; However, the show was axed by the BBC in May 2015.
+
+==Personal life==
+Gilbert was born in [[Carmarthen]], Wales, one of three siblings to two teacher parents. He attended [[Queen Elizabeth High School, Carmarthen|Maridunum Comprehensive School]] and went on to study languages at [[University of Exeter|Exeter University]].&lt;ref name="Stand Up"/&gt;&lt;ref name="BBCWA"/&gt;&lt;ref name="TimeO2006"&gt;{{cite web |url=http://www.timeout.com/london/comedy/features/2140/Rhod_Gilbert-interview.html |title=Rhod Gilbert: interview |first=Malcolm |last=Hay |work=[[Time Out (magazine)|Time Out]] |date=16 October 2006|accessdate=23 November 2009}}&lt;/ref&gt; For the first three weeks, such was his painful shyness that Gilbert was unable to eat with other students in the canteen or even make friends with the student in the next room.&lt;ref name="Stand Up"&gt;{{cite news |url=http://www.walesonline.co.uk/showbiz-and-lifestyle/showbiz/2010/01/16/would-the-real-rhod-gilbert-please-stand-up-91466-25602078/ |title=Would the real Rhod Gilbert please stand up |author=Correspondent |newspaper=[[Western Mail (Wales)|Western Mail]] |location=Cardiff |date=16 January 2010 |accessdate=19 January 2010}}&lt;/ref&gt;
+
+After graduating, Gilbert travelled for a year and a half around Australia and Asia before returning to Carmarthen and working as an admin assistant for the [[Welsh Office]].&lt;ref name="Stand Up"/&gt; Gilbert later worked as a [[qualitative research]]er for several [[market research]] agencies in London.&lt;ref name="BBCWA"/&gt;
+
+Gilbert married his long-term girlfriend, writer and comedian Sian Harries, in August 2013. They split their time between London and Wales.&lt;ref name="walesonline.co.uk"&gt;{{cite web |url=http://www.walesonline.co.uk/whats-on/comedy-gigs/rhod-gilbert-im-turning-back-6209311 |title=Rhod Gilbert: Why I'm turning my back on stand-up comedy |first=Nathan |last=Bevan |work=[[Wales Online]] |date=20 October 2013}}&lt;/ref&gt;
+
+==Career==
+
+===Stand-up comedy===
+Gilbert got into professional comedy in 2002, after taking part in [[the Amused Moose]] Stand Up and Deliver course,&lt;ref name="asktheindustrypodcast.tumblr.com"&gt;{{cite web |url=http://asktheindustrypodcast.tumblr.com/post/103406217804/hils-jago |title=EP 01 - Hils Jago (Amused Moose) |work=Ask The Industry Podcast |accessdate=14 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://amusedmoose.com/comedy-courses/absolute-almost-beginners/ |title=Stand Up and Deliver |work=Amused Moose |archiveurl=https://web.archive.org/web/20150201220734/http://amusedmoose.com/comedy-courses/absolute-almost-beginners/ |archivedate=1 February 2015}}&lt;/ref&gt; but only "thanks to a girlfriend’s constant nagging".&lt;ref name="Stand Up"/&gt; Within 18 months, Gilbert had already won several different talent competitions&lt;ref name="TimeO2006"/&gt;&lt;ref&gt;{{cite web |url=http://www.chortle.co.uk/comics/r/236/rhod_gilbert |title=Rhod Gilbert, comedian |work=[[Chortle (website)|Chortle]] |accessdate=14 March 2017}}&lt;/ref&gt; and was nominated for the ''Perrier Newcomer'' award for his first solo show in 2005 at [[Edinburgh Festival Fringe|Edinburgh Fringe]] entitled ''1984.''&lt;ref name="TimeO2006"/&gt; He has since performed worldwide.&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/programmes/profiles/2bzxNlYbMVK6v8DzxQq3fqd/rhod-gilbert |title=Rhod Gilbert |work=BBC Radio Wales}}&lt;/ref&gt;
+
+Many of Gilbert's stories are drawn from real life events, and his life in the wholly fictionalised village of Llanbobl. In 2008, Gilbert wrote a sitcom about life in Llanbobl, which featured on [[BBC Radio 2]].&lt;ref name="LlanWM"&gt;{{cite news |url=http://www.walesonline.co.uk/news/wales-news/2008/03/24/how-rhod-is-aiming-to-put-llanbobl-on-the-map-91466-20665192/ |title=How Rhod is aiming to put Llanbobl on the map |newspaper=Western Mail|date=24 March 2008 |accessdate=23 November 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/programmes/b00g66s2 |title=Rhod Gilbert's Leaving Llanbobl |work=BBC Radio 2 |accessdate=23 November 2009}}&lt;/ref&gt;
+
+In his 2006 [[Edinburgh Fringe]] show ''Knocking on Heaven's Door'', Gilbert told stories from his life, weighing up whether he would be admitted to heaven. His 2007 show, ''Who's Eaten Gilbert's Grape?'' saw Gilbert return to Llanbobl and pick up the story following the ''1984'' show narrative. His 2008 show, ''Rhod Gilbert and the Award-Winning Mince Pie'', saw Gilbert question his sanity, his career and his life after suffering a mental breakdown brought on by the award-winning mince pie at a motorway services.
+
+On 17 December 2008, he appeared at the 80th [[Royal Variety Performance]].&lt;ref&gt;{{cite web |url=http://www.eabf.org.uk/royal-variety-performance/archive/2000s/2008 |title=London Palladium 2008 |work=[[Royal Variety Charity]] |accessdate=14 March 2017 |deadurl=yes |archiveurl=https://web.archive.org/web/20100119011620/http://www.eabf.org.uk/royal-variety-performance/archive/2000s/2008 |archivedate=19 January 2010 |df=dmy-all }}&lt;/ref&gt;
+
+On 18 and 19 June 2009, Gilbert made the last performances of ''Rhod Gilbert and the Award-Winning Mince Pie'' show at the [[Bloomsbury Theatre]], which was recorded and released as a DVD on 16 November 2009.&lt;ref&gt;{{cite web |url=http://www.play.com/DVD/DVD/4-/10267632/Rhod-Gilbert-And-The-Award-Winning-Mince-Pie/Product.html |work=Play.com |title=Rhod Gilbert And The Award-Winning Mince Pie |archiveurl=https://web.archive.org/web/20100322230652/http://www.play.com/DVD/DVD/4-/10267632/Rhod-Gilbert-And-The-Award-Winning-Mince-Pie/Product.html |archivedate=22 March 2010}}&lt;/ref&gt; The DVD also contains several special features, including his infamous rant about lost luggage, outtakes from the performance and a [[mockumentary]] called ''Back To Llanbobl'' in which Gilbert shows the viewer around his fictional home town.
+
+Gilbert's 2009/10 show, entitled ''Rhod Gilbert and the Cat That Looked Like [[Nicholas Lyndhurst]]'', was announced on 5 April. The show previewed around the UK in small venues, before being performed at the Edinburgh Festival. The show toured UK theatres from September 2009.&lt;ref&gt;{{cite web |url=http://www.chortle.co.uk/shows/edinburgh_fringe_2009/r/16965/rhod_gilbert_and_the_cat_that_looked_like_nicholas_lyndhurst |title=Rhod Gilbert And The Cat That Looked Like Nicholas Lyndhurst's description |work=Chortle |accessdate=14 March 2017}}&lt;/ref&gt; The tour included dates at many prestigious theatres such as London's HMV [[Hammersmith Apollo]]. A DVD of the tour was released on 15 November 2010.&lt;ref&gt;{{cite web |url=http://www.play.com/DVD/DVD/4-/12538216/Rhod-Gilbert-And-The-Cat-That-Looked-Like-Nicholas-Lyndhurst/Product.html |work=Play.com |title=Rhod Gilbert And The Cat That Looked Like Nicholas Lyndhurst |archiveurl=https://web.archive.org/web/20121013162458/http://www.play.com/DVD/DVD/4-/12538216/Rhod-Gilbert-And-The-Cat-That-Looked-Like-Nicholas-Lyndhurst/Product.html |archivedate=13 October 2012}}&lt;/ref&gt;
+
+====Tours====
+* 1984
+* Knocking on Heaven's Door
+* Who's eaten Gilbert's Grape
+* The Award Winning Mince Pie
+* The Cat That Looked Like Nicholas Lyndhurst
+* The Man with the Flaming Battenberg Tattoo
+
+====Stand-Up DVDs====
+{| class="wikitable" border="1"
+|-
+!Title
+!Released
+!Notes
+|-
+| ''The Award-Winning Mince Pie''
+| 16 November 2009
+| Live at London's [[Bloomsbury Theatre]]
+|-
+| ''The Cat That Looked Like Nicholas Lyndhurst''
+| 15 November 2010
+| Live at London's [[HMV Hammersmith Apollo]]
+|-
+| ''The Man with the Flaming Battenberg Tattoo''
+| 19 November 2012
+| Live at London's [[HMV Hammersmith Apollo]]
+|}
+
+===Television===
+Gilbert has appeared three times on the [[BBC Two]] panel show ''[[Mock the Week]]'', and guest presented two episodes of ''[[Never Mind the Buzzcocks]]'' in October 2009 and December 2011 before becoming the permanent presenter for the final series. He guest hosted three episodes of ''[[Have I Got News for You]]'' in April 2011, October 2017, and May 2018, has appeared as a guest on [[Channel 4]]'s ''[[8 out of 10 Cats]]'', and has used his comedy talents to write and narrate [[BBC Three]]'s 2007 ''Goals Galore'', ''Pranks Galore'', ''Football Gaffes Galore'' and ''TV Gaffes Galore'' programmes.&lt;ref name="BBCWA"/&gt; He has also presented [[BBC 2W]]'s ''Rhod Gilbert's Teen Tribes'', providing an insight into the teen tribal worlds of "Emos", "Chavs" and "Goths".
+
+Gilbert was [[Paramount Comedy]]'s [[continuity writer]] and announcer between September 2004 and October 2005, providing end-credit voice-overs for their peaktime programme schedule.
+
+In December 2008, Gilbert was signed for an advertising campaign to further promote tourism in Wales&lt;ref name="TimeO2006"/&gt; and became the official Voice of Wales for the country's tourist-board, fronting the 2009 [[Visit Wales]] television advertising.&lt;ref&gt;{{cite web |url=http://www.suchsmallportions.com/news.php?id=19 |title=Rhod Gilbert to front Wales tourism ads |work=suchsmallportions.com}}{{dead link|date=March 2017}}&lt;/ref&gt;
+
+Gilbert has done reports for the BBC One current affairs/human interest show ''The One Show''.
+
+In November 2008, Gilbert appeared on the [[BBC]]'s ''[[Live at the Apollo (TV series)|Live at the Apollo]]'' as a guest. In December 2009, he hosted the show, introducing fellow comedian [[John Bishop (comedian)|John Bishop]]. On 6 June 2009 Gilbert appeared as the headline act on ''[[Michael McIntyre's Comedy Roadshow]]'' on [[BBC One]], and he guested on ''8 out of 10 Cats'' on 17 July 2009. He also provided voiceover material for the sketch show ''[[Walk on the Wild Side (TV series)|Walk on the Wild Side]]''.
+
+On 19 January 2010, ''[[Rhod Gilbert's Work Experience]]'' aired on [[BBC One Wales]]. [[Zipline Creative Limited]] worked freelance as producer/directors, editors and also camera and sound on the series for Presentable RDF. The four-part series saw Gilbert attempt a number of jobs including hairdresser, [[refuse collector]], soldier and parent.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/local/southwestwales/hi/tv_and_radio/newsid_8446000/8446936.stm |title=Rhod Gilbert tries out other jobs for a new TV series |date=8 January 2010 |work=BBC News |accessdate=14 March 2017}}&lt;/ref&gt; Following the show's success on BBC One Wales, the series aired nationally on BBC2 from 10 March.
+
+In August 2010, the BBC commissioned eight episodes of ''[[Ask Rhod Gilbert]]'' following a successful pilot earlier in 2010. The show featured Gilbert, [[Greg Davies]] and [[Lloyd Langford]] answering random trivia questions, such as 'Who would win in a race, Usain Bolt or a grizzly bear?', posed by the public and celebrities, with additional celebrity guests on the panel.&lt;ref&gt;{{cite web |url=http://www.chortle.co.uk/news/2010/08/28/11625/hot_rhod... |title=Hot Rhod... |date=28 August 2010 |work=Chortle}}&lt;/ref&gt; The show ran for two series.&lt;ref name="list.co.uk"&gt;{{cite web |url=http://www.list.co.uk/article/49249-rhod-gilbert-comedy-panel-shows-are-brutal/ |title=Rhod Gilbert: Comedy panel shows are 'brutal' |date=26 February 2013 |work=[[The List (magazine)|The List]] |accessdate=14 March 2017}}&lt;/ref&gt;
+
+On 7 March 2011, series 2 of ''Rhod Gilbert's Work Experience'' began airing on BBC One Wales. In this series Gilbert tried out jobs as a farmer, [[butler]], tattoo artist and firefighter.&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/programmes/b00zf3m1/broadcasts/2011/03 |title=Rhod Gilbert's Work Experience |date=March 2011 |work=BBC One |accessdate=14 March 2017}}&lt;/ref&gt; In January 2012, Gilbert began filming series 3 of the show. It aired on BBC One Wales from 7 May 2012 and saw him take on jobs such as primary school teacher, zookeeper, [[Drag queen|drag artist]] and police officer.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b00zf3m1/broadcasts/2012/05 |title=Rhod Gilbert's Work Experience |date=May 2012 |work=BBC One |accessdate=14 March 2017}}&lt;/ref&gt; A fourth series was broadcast in June–July 2013.&lt;ref name="list.co.uk"/&gt; This series, the jobs were wedding planner, scout leader, tour guide and male model. Gilbert has been asked to return for a fifth series,&lt;ref name="walesonline.co.uk"/&gt; and the new series was confirmed in March 2014.&lt;ref&gt;{{cite web |url=http://www.ziplinecreative.co.uk/news/4582769879/Fifth-series-of-Rhod-Gilbert%27s-Work-Experience-confirmed/7744128 |title=Fifth series of Rhod Gilbert's Work Experience confirmed |date=14 March 2014 |work=Zipline Creative |archiveurl=https://web.archive.org/web/20140407192053/http://www.ziplinecreative.co.uk/news/4582769879/Fifth-series-of-Rhod-Gilbert%27s-Work-Experience-confirmed/7744128 |archivedate=7 April 2014}}&lt;/ref&gt; Series 5, which includes four episodes, began broadcast on BBC One Wales in September 2014 and was repeated on BBC Two from February 2015.  Series 6 was broadcast on BBC One Wales starting February 2016.
+
+The documentary ''Rhod Gilbert vs Kilimanjaro'', chronicling the attempt to climb [[Mount Kilimanjaro]] for charity made by Gilbert and several fellow celebrities, was shown on the BBC in December 2014. 
+
+Gilbert appeared several times on the Channel 4 comedy/game show ''[[8 Out of 10 Cats Does Countdown]]''.
+
+He replaced comedian [[Jack Dee]] as the host of ''[[The Apprentice: You're Fired!]]'' beginning in 2016.
+
+===Radio===
+In 2006, Gilbert hosted the [[BBC Radio Wales]] comedy panel show ''Jest a Minute'', live from [[The Comedy Store, London|The Comedy Store]] in London. The second series of ''Jest a Minute'' was recorded in late 2008 in [[Cardiff]]'s [[The Glee Club (comedy club)|Glee Club]], hosted by Gilbert and featuring regular team captains [[Chris Corcoran]] and [[Lloyd Langford]], and guests from the comedy circuit such as [[Elis James]], [[Greg Davies]], [[Lucy Porter]] and [[Jon Richardson (comedian)|Jon Richardson]]. A third series was also broadcast.
+
+Gilbert was also the host of [[BBC Radio 4]]'s ''[[4 Stands Up]]'' comedy series which aired in the Autumn of 2008 and has also appeared twice on Radio Four's ''[[Just a Minute]]'', Radio 2's ''[[Does the Team Think?]]'', and BBC Radio 4's ''Act Your Age''.
+
+In December 2008, a pilot of his sitcom ''Rhod Gilbert's Leaving Llanbobl'' was broadcast on BBC Radio Two; the sitcom was written and starred Gilbert and [[Greg Davies]], with additional writing by Sian Harries. [[Lloyd Langford]] played Gilbert's amiable younger brother Emrys, [[Di Botcher]] played Brenda, a gossipy hairdresser, and Mike Hayward played Gilbert's father Gurnos. The show was produced by Ed Morrish. He has hinted in interviews that the sitcom is likely to move to TV when it is completed as he found that he was "seeing it" as he wrote it.&lt;ref name="sitcomtv"&gt;{{cite web |first=Si |last=Hawkins |url=https://www.comedy.co.uk/live/circuit_training/rhod_gilbert_interview/ |title=Circuit Training 7: The Word of Rhod |work=[[The British Comedy Guide]] |date=1 October 2009 |accessdate=7 January 2010}}&lt;/ref&gt;
+
+Gilbert has also made several appearances on the [[BBC Radio 4]] comedy program ''[[The Unbelievable Truth (radio show)|The Unbelievable Truth]]''.&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/programmes/b00n0qr8 |title=Episode 1, Series 4, The Unbelievable Truth |work=BBC Radio 4 Extra |date=10 July 2014 |accessdate=14 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/programmes/b00nf01t |title=Episode 4, Series 4, The Unbelievable Truth |work=BBC Radio 4 Extra |date=31 July 2014 |accessdate=14 March 2017}}&lt;/ref&gt;
+
+In 2011, Gilbert recorded a radio show for [[BBC Radio 2]] called ''[[Rhod Gilbert's Bulging Barrel of Laughs]]'' with comedians [[Lloyd Langford]], [[Greg Davies]] and [[Sarah Millican]]. Each show also featured live music from bands such as [[Athlete (band)|Athlete]], [[Scouting for Girls]], [[Kid British]] and [[The Hoosiers]]. It has since been repeated on BBC Radio 4 Extra.&lt;ref name="BBCWA"/&gt;
+
+Gilbert also fronts his own radio show, ''The Rhod Gilbert Radio Show'', broadcast by [[BBC Radio Wales]] on Saturdays between 11:30{{nbsp}}am and 1:30 pm,&lt;ref name="RGS"&gt;{{cite web |url=http://www.bbc.co.uk/wales/radiowales/sites/rhodgilbert/ |title=Rhod Gilbert BBC radio show |work=BBC Radio Wales |accessdate=23 November 2009}}&lt;/ref&gt; often co-hosted by Lloyd Langford or fellow Welsh stand-up comedian [[Chris Corcoran]].
+
+==Awards==
+
+2002:
+* Finalist in ''So You Think You're Funny''.
+
+2003:
+* Winner of the ''Leicester Mercury'' comedian of the year as part of the Leicester Comedy Festival
+* Winner of the Paramount ''Gift of the Gag'' competition
+* Chortle Award nominee for best new act
+* Winner of the BBC New Comedy Award at the [[2003 Edinburgh Festival Fringe|Edinburgh Festival Fringe]]
+* Runner-up in the [[Hackney Empire]] ''New Act of The Year competition''
+* Winner of the Metro and Jongleurs ''Spike Award for New Talent'', South East
+* Winner of the ''National Talent Hunt'' at the [[York]] Festival&lt;ref&gt;{{cite web |url=http://www.comedycv.co.uk/rhodgilbert/index.htm |title=Rhod Gilbert |work=Comedy CV |accessdate=14 March 2017}}&lt;/ref&gt;
+
+2005:
+* Chortle award for ''Best Breakthrough Act''
+* Nominated for ''The List and Writers Guild Comedy Award'' for ''"Rhod Gilbert's 1984"''
+* Perrier nominated for ''Best Newcomer'' for "Rhod Gilbert's 1984."
+
+2006:
+* Placed in [[The Times]]'s ''Top 50 Comedians''
+* Named one of [[The Rough Guide]] to British Cult Comedy's top 50 icons.&lt;ref&gt;{{cite news |url=http://www.lancashiretelegraph.co.uk/leisure/interviews/display.var.1822706.0.rhod_gilbert.php |title=Rhod Gilbert |first=Caroline |last=Dutton |newspaper=[[Lancashire Telegraph]] |date=9 November 2007 |archiveurl=https://web.archive.org/web/20081207051933/http://www.lancashiretelegraph.co.uk/news/1822706.rhod_gilbert/ |archivedate=7 December 2008}}&lt;/ref&gt;
+
+2008:
+*Nominated for the main IF.COM Eddies (formerly Perrier award) at the Edinburgh fringe for "Rhod Gilbert and the Award-winning Mince Pie"
+*Winner of the Time Out 'Comic of the Year'
+*Winner of the Time Out 'Best Show of the Year' for "Rhod Gilbert and the Award-winning Mince Pie"
+*Winner of the Time Out 'Breakthrough Act'
+*Nominated for the Celtic Media awards 'Best Radio Personality' for the "Rhod Gilbert Radio Show" on BBC Radio Wales
+
+2009:
+* Nominated for the Times/South Bank Show Awards, 'Breakthrough Act'
+* Winner of Chortle award for 'Best Headliner'
+* Winner of "Comics Comic" Chortle award
+* Nominated for the Chortle award for ''Best Show'' for "Rhod Gilbert and the Award-winning Mince Pie"
+
+2010:
+* Winner of 'Wales' Sexiest male'
+
+2014:
+* Honrary Fellowship at [[Aberystwyth University]].&lt;ref&gt;{{Cite web |url=https://www.aber.ac.uk/en/about-us/honorary-awards/ |title=Honorary Awards |publisher=Aberystwyth University |access-date=21 December 2017}}&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{BBC programme}}
+*{{IMDb name|id=2548572|name=Rhod Gilbert}}
+*[http://www.chortle.co.uk/comics/r/236/rhod_gilbert Review and details of awards]
+*[https://web.archive.org/web/20091031141434/http://www.bbc.co.uk/raw/whats_new/broadcast/funny_money.shtml Funny Money film shorts with Rhod Gilbert] for [http://www.bbc.co.uk/raw/money BBC raw money]
+*[http://www.facebook.com/group.php?gid=19364279752 Llanbobl] on Facebook
+*[https://twitter.com/rhodgilbertshow Th Rhod Gilbert Show] on Twitter
+
+{{DEFAULTSORT:Gilbert, Rhod}}
+[[Category:1968 births]]
+[[Category:Alumni of the University of Exeter]]
+[[Category:Living people]]
+[[Category:People from Carmarthen]]
+[[Category:Welsh comedians]]
+[[Category:Welsh radio presenters]]
+[[Category:Welsh stand-up comedians]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]</text>
+      <sha1>5wo8psblitohr0j2tikqi91lxgcwuuh</sha1>
+    </revision>
+  </page>
+</mediawiki>

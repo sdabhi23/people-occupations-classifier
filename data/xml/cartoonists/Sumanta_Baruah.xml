@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sumanta Baruah</title>
+    <ns>0</ns>
+    <id>24167372</id>
+    <revision>
+      <id>856042137</id>
+      <parentid>851091097</parentid>
+      <timestamp>2018-08-22T13:25:29Z</timestamp>
+      <contributor>
+        <username>Accesscrawl</username>
+        <id>32481963</id>
+      </contributor>
+      <comment>Linked</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1449">{{Use dmy dates|date=July 2018}}
+{{Use Indian English|date=July 2018}}
+'''Sumanta Baruah''' is a [[cartoonist]] from India. His cartoons have been published in [[Current Science]],&lt;ref&gt;[http://www.ias.ac.in/j_archive/currsci/volindex.html current Science, Archive]&lt;/ref&gt; [[Science Reporter (magazine)|Science Reporter]], Resonance,&lt;ref&gt;[http://www.ias.ac.in/resonance/aboutResonance.html About Resonance]&lt;/ref&gt; Vigyan Jeuti, Drishti, Satsori, Journal of Assam Science Society, Prantik, [[Gonit Sora]], Enajori and xahitya.org. His cartoons have been exhibited in two International Cartoon Festivals: 3rd Rhodes International Cartoon Exhibition, Greece (2006) and International Cartoon Festival, [[Iran]] (2006).
+
+==About Sumanta==
+{{cquote|Found science always dull and dreary? Think again! Sumanta Baruah will tickle your science sense and rattle your funny bones. A few fine, deft strokes of his pen on paper, and the humour leave a lasting impression on your mind.|}}
+- Dr. [[Dinesh Chandra Goswami]],
+National Award-winning popular science writer, [[India]].&lt;ref&gt;[http://www.cartooncosmos.com/about.html Cartooncosmos]&lt;/ref&gt;
+
+==Creations==
+Sumanta draws cartoons on various topics of science, environment, mathematics, politics and society.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Baruah, Sumanta}}
+[[Category:Indian cartoonists]]
+[[Category:Writers from Assam]]
+[[Category:Living people]]
+
+
+{{Comic-strip-creator-stub}}
+{{india-artist-stub}}</text>
+      <sha1>ax2ddbxhm0pok164tnac7uru0qhueh2</sha1>
+    </revision>
+  </page>
+</mediawiki>

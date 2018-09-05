@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Fletcher (cartoonist)</title>
+    <ns>0</ns>
+    <id>13732995</id>
+    <revision>
+      <id>712783760</id>
+      <parentid>679309620</parentid>
+      <timestamp>2016-03-31T03:10:31Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/David Fletcher (cartoonist)|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2332">'''David Fletcher''' (born 1952) is a [[New Zealand]] [[cartoonist]].
+
+Fletcher was born in the UK but emigrated to New Zealand. He produces "The Politician", a daily cartoon strip that appears in ''[[The Dominion Post (Wellington)|The Dominion Post]]'' as well as various publications around the world. He was employed as an illustrator and cartoonist by New Zealand's largest daily newspaper the ''New Zealand Herald'' for three years, but for the last twenty years he has been working from home as a comic strip artist.
+
+Apart from the "Politician" strip he also produces several weekly strips, "TV Kids" for the ''TV Guide'' and since 2007,
+[http://crumb-blackbirdblog.blogspot.com/ Crumb], a strip created especially for mobile phones published by [http://www.rokcomics.com/crumb.php ROK Comics], which centres on the antics of an ever-hungry blackbird.
+
+“Comics for mobiles seems to me to be the future for cartoon strips and comics,” David said of Crumb&lt;ref&gt;ROK Comics Press Release June 2008&lt;/ref&gt; after ROK Comics announced the strip would be published in Chinese in China in June 2008. “Readers can now choose which comics they want to read and not be told by an editor which comics they can read.
+
+“I love the fact that the mobile cartoon strip is no longer restricted to the usual number of three or four panel, which allows the cartoonist far more freedom to express his idea. Comics for mobiles has come as a breath of fresh air for the comics industry.”
+
+Fletcher's cartoons are syndicated to Europe, Britain, Africa, Malaysia, China, Pakistan, South Africa, Australia and New Zealand.
+
+He lives in Auckland with his wife and two children, Madeleine and Patrick.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.gocomics.com/crumb/]
+* [http://www.cloudtweaks.com/author/david/ CloudTweaks - The Lighter Side Of The Cloud]
+* [http://www.rokcomics.com/crumb.php Crumb] Crumb, Fletcher's strip about a food-obsessed blackbird
+* [http://crumb-blackbirdblog.blogspot.com/ ''Crumb'' Blog]
+* [http://www.webcomicsnation.com/davidf/crumb/series.php ''Crumb'' on Web Comic Nation]
+
+{{DEFAULTSORT:Fletcher, David}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:New Zealand cartoonists]]
+
+
+{{NewZealand-artist-stub}}
+{{cartoonist-stub}}
+{{webcomic-author-stub}}
+{{NewZealand-writer-stub}}</text>
+      <sha1>lcl0uk6v64dlng1x3kze7n3cv1vkwv7</sha1>
+    </revision>
+  </page>
+</mediawiki>

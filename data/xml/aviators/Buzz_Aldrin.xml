@@ -1,0 +1,442 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Buzz Aldrin</title>
+    <ns>0</ns>
+    <id>65777</id>
+    <revision>
+      <id>855866462</id>
+      <parentid>855853744</parentid>
+      <timestamp>2018-08-21T10:27:10Z</timestamp>
+      <contributor>
+        <username>Onco p53</username>
+        <id>57980</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, [[WP:AWB/T|typo(s) fixed]]: manuevering → maneuvering</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="64502">{{pp|small=yes}}
+{{Use mdy dates|date=August 2018}}
+{{Infobox astronaut
+| name          = Buzz Aldrin
+| othername     = Dr. Rendezvous&lt;ref&gt;{{cite interview |url=http://www.jsc.nasa.gov/history/oral_histories/BostickJC/BostickJC_2-23-00.htm |date=February 23, 2000 |last=Bostick |first=Jerry C. |interviewer=Carol Butler |work=NASA Johnson Space Center Oral History Project|access-date=December 10, 2016 |title=Jerry C. Bostick Oral History}}&lt;/ref&gt;&lt;ref&gt;{{cite news |work=NBC News |url=http://www.nbcnews.com/id/3077906/ns/technology_and_science-space/t/buzz-aldrin-plans-next-giant-leap/|access-date=December 10, 2016 |date=July 15, 1999 |title=Buzz Aldrin plans the next giant leap |author=Roger Ressmeyer}}&lt;/ref&gt;
+| image         = Aldrin.jpg
+| caption       = Aldrin in July 1969
+| type          = [[File:Buzz Aldrin Autograph.svg|150px]]&lt;br /&gt;[[NASA]] [[Astronaut]]
+| status        = Retired
+| nationality   = American
+| birth_name    = Edwin Eugene Aldrin Jr.
+| birth_date    = {{birth date and age|1930|01|20}}
+| birth_place   = [[Glen Ridge, New Jersey]], U.S.
+| occupation    = [[Fighter pilot]]
+| alma_mater    = [[United States Military Academy]], B.S. 1951&lt;br /&gt;[[Massachusetts Institute of Technology]], Sc.D. 1963
+| rank          = [[File:US-O6 insignia.svg|15px]] [[Colonel (United States)|Colonel]], [[United States Air Force|USAF]]
+| selection     = [[List of astronauts by selection#1963|1963 NASA Group 3]]
+| eva1          = 4
+| eva2          = 7 hours 52 minutes
+| time          = 12 days 1 hour and 52 minutes &lt;!-- Another source says 12.08 days (12 days 1 hour and 55.2 minutes) &lt;ref&gt;{{Cite web|url=http://www.astronautix.com/a/aldrin.html|title=Aldrin, Edwin Eugene 'Buzz'|last=Wade|first=Mark|website=Encyclopedia Astronautica|archive-url=https://web.archive.org/web/20180525132518/http://www.astronautix.com/a/aldrin.html|archive-date=May 25, 2018|dead-url=no}}&lt;/ref&gt; --&gt;
+| mission       = [[Gemini 12]], [[Apollo 11]]
+| insignia      = [[File:Gemini 12 insignia.png|40px]] [[File:Apollo 11 insignia.png|40px]]
+| Date of ret   = July 1, 1971
+| awards        = [[File:USAF Master Astronaut badge.jpg|55px|link=astronaut badge|United States Air Force Master Pilot/Astronaut Wings]] [[File:Dfc-usa.jpg|20px|link=Distinguished Flying Cross (United States)]] {{Presidential Medal of Freedom}} [[File:NASA Distinguished Service Medal.jpg|20px|link=NASA Distinguished Service Medal]]
+| module={{Infobox person|child=yes
+| children      = 3
+| spouse        = {{Marriage|Joan Ann Archer|1954|1974|reason=divorced}}&lt;br /&gt;{{Marriage|Beverly Van Zile|1975|1978|reason=divorced}}&lt;br /&gt;{{Marriage|Lois Driggs Cannon|1988|2012|reason=divorced}}}}
+| website       = {{URL|http://www.buzzaldrin.com/}}}}
+
+'''Buzz Aldrin''' (born '''Edwin Eugene Aldrin Jr.'''; January 20, 1930) is an American [[engineer]], former [[astronaut]], and [[Command Pilot Wings|Command Pilot]] in the [[United States Air Force]]. As [[Lunar Module]] Pilot on the [[Apollo 11]] mission, he and mission commander [[Neil Armstrong]] were the first two humans to [[Apollo 11 landing site|land on the Moon]]. Aldrin set foot on the [[Moon]] at 03:15:16 on July 21, 1969 ([[Coordinated Universal Time|UTC]]), 9 minutes after Armstrong first touched the surface. One of his first missions was on [[Gemini 12]] where he successfully proved that [[extravehicular activity]] (EVA) could be performed by astronauts, spending over 5 hours outside the craft, thus achieving the goals of the Gemini program and paving the way for the [[Apollo]] program.
+
+== Early life ==
+Aldrin was born January 20, 1930, in [[Mountainside Hospital]], in [[Glen Ridge, New Jersey|Glen Ridge]], [[New Jersey]].&lt;ref name="Record20090721"&gt;{{cite web |url=http://www.northjersey.com/news/national/other_national_news/To_the_moon_and_beyond.html |title=To the Moon and beyond|archive-url=https://web.archive.org/web/20110516123857/http://www.northjersey.com/news/national/other_national_news/To_the_moon_and_beyond.html |archive-date=May 16, 2011|dead-url=yes |publisher=[[The Record (Bergen County)]] |date=July 20, 2009|access-date=July 20, 2009}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Hansen|2005|p=348}}&lt;/ref&gt; His parents were Edwin Eugene Aldrin Sr. (1896–1974), a career military man, and Marion Aldrin (née Moon, 1903–1968), who lived in neighboring [[Montclair, New Jersey|Montclair]].&lt;ref&gt;{{cite web |url=http://www.buzzaldrin.com/about/full/index.html |title=About Buzz Aldrin |accessdate=May 9, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080402060645/http://www.buzzaldrin.com/about/full/index.html |archivedate=April 2, 2008 |publisher=buzzaldrin.com}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2009/06/21/magazine/21fob-q4-t.html |title=Questions for Buzz Aldrin: The Man on the Moon |last=Solomon |first=Deborah |author2=Oth, Christian |date=June 21, 2009 |work=[[The New York Times]] |accessdate=March 15, 2015}}&lt;/ref&gt; He is of [[Scottish people|Scottish]],&lt;ref&gt;Powell, Sarah.{{cite web |url=http://www.burkespeerage.com/articles/scotland/saal7.aspx |title=From The Dollar To The Moon. Chapter 7 – That "giant leap for mankind" |accessdate=November 8, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20101224214129/http://www.burkespeerage.com/articles/scotland/saal7.aspx |archivedate=December 24, 2010 |publisher=Burke's Peerage and Gentry|last1=Powell|first1=Sarah}}&lt;/ref&gt; [[Swedish people|Swedish]], and [[German people|German]] ancestry. His nickname, which became his legal first name in 1988, arose as a result of the younger of his two elder sisters mispronouncing "brother" as "buzzer", which was shortened to Buzz.&lt;ref&gt;{{harvnb|Chaikin|2007|p=585}}&lt;/ref&gt; During his childhood years, Aldrin was a [[Boy Scouting (Boy Scouts of America)|Boy Scout]] and earned the rank of [[Ranks in the Boy Scouts of America#Tenderfoot Scout|Tenderfoot Scout]].&lt;ref&gt;{{cite web |url=http://www.scouting.org/About/FactSheets/scouting_space.aspx |title=Scouting and Space Exploration |work=scouting.org |deadurl=yes |archiveurl=https://web.archive.org/web/20160304032406/http://www.scouting.org/about/factsheets/scouting_space.aspx |archivedate=March 4, 2016 |df=}}&lt;/ref&gt;
+
+After graduating from [[Montclair High School (New Jersey)|Montclair High School]] in 1947,&lt;ref name="Record20090721" /&gt;&lt;ref&gt;{{cite web |url=http://news.nnyln.net/adirondack-enterprise/adirondack-enterprise-1969/adirondack-enterprise-1969-july%20-%200064.pdf |publisher=Adirondack Daily Enterprise |title=Aldrin Was A Classmate |date=July 14, 1969 |accessdate=July 17, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130927094602/http://news.nnyln.net/adirondack-enterprise/adirondack-enterprise-1969/adirondack-enterprise-1969-july%20-%200064.pdf |archivedate=September 27, 2013 |df=}}&lt;/ref&gt; Aldrin went to the [[United States Military Academy]] at [[West Point, New York]].&lt;ref&gt;{{cite web |url=https://www.space.com/16280-buzz-aldrin.html |title=Buzz Aldrin &amp; Apollo 11 |last1=Redd |first1=Nola Taylor |date=June 23, 2012 |publisher=Space.com|access-date=April 14, 2018}}&lt;/ref&gt;
+
+== Military career ==
+Aldrin graduated third in his class at West Point in 1951 with a [[Bachelor of Science]] degree in [[mechanical engineering]]. He was commissioned as a [[US Second Lieutenant|second lieutenant]] in the [[United States Air Force]] and served as a jet [[fighter pilot]] during the [[Korean War]]. He flew 66 [[Aerial warfare|combat missions]] in [[F-86 Sabre]]s and shot down two [[Mikoyan-Gurevich MiG-15]] aircraft. The June 8, 1953, issue of ''Life'' magazine featured gun camera photos taken by Aldrin of one of the Soviet pilots ejecting from his damaged aircraft.&lt;ref&gt;{{cite news |title=Communist Pilot is Catapulted from Crippled MIG |url=https://books.google.com/books?id=3EcEAAAAMBAJ |accessdate=November 8, 2012 |date=June 8, 1953 |work=Life |publisher=Time Inc.|issn=0024-3019 |page=29|volume=34|issue=23}}&lt;/ref&gt;
+
+After the war, Aldrin was assigned as an [[Air gunner|aerial gunnery]] instructor at [[Nellis Air Force Base]] in [[Nevada]], and later served as an aide to the dean of faculty at the [[United States Air Force Academy]], which had begun operations in 1955.&lt;ref name="nasabio" /&gt; That same year, he graduated from the [[Squadron Officer School]] at [[Maxwell Air Force Base]] in [[Alabama]].&lt;ref&gt;{{harvnb|Hansen|2005|p=353}}&lt;/ref&gt; He flew [[F-100 Super Sabre]]s as a flight commander in the [[22d Fighter Squadron]], while stationed at [[Bitburg Air Base]], West Germany.&lt;ref name="nasabio" /&gt;
+
+Aldrin, under the auspices of the [[Air Force Institute of Technology]], began work as a graduate student at the [[Massachusetts Institute of Technology]] (MIT) in 1959, intending to earn a master's degree. Aldrin enjoyed the classroom work, and soon decided to pursue a doctoral degree.&lt;ref name="Chaikin2007p139"&gt;{{harvnb|Chaikin|2007|p=139}}&lt;/ref&gt; In January 1963, he earned a [[Sc.D.]] degree in [[astronautics]].&lt;ref name="nasabio"&gt;{{cite web |url=http://www.jsc.nasa.gov/Bios/htmlbios/aldrin-b.html |title=Astronaut Bio: Buzz Aldrin |work=NASA|access-date=August 18, 2018}}&lt;/ref&gt;&lt;ref name="dspace.mit.edu"&gt;{{cite thesis|url=http://dspace.mit.edu/handle/1721.1/12652|publisher=MIT|title=Line-of-sight guidance techniques for manned orbital rendezvous|archiveurl=https://web.archive.org/web/20150511134459/http://dspace.mit.edu/handle/1721.1/12652 |archivedate=May 11, 2015|date=1963|last=Aldrin|first=Buzz|type=Sc.D.}}&lt;/ref&gt; His doctoral thesis was ''Line-of-Sight Guidance Techniques for Manned Orbital Rendezvous'', the dedication of which read, "In the hopes that this work may in some way contribute to their exploration of space, this is dedicated to the crew members of this country’s present and future manned space programs. If only I could join them in their exciting endeavors!"&lt;ref name="dspace.mit.edu" /&gt; Aldrin chose his doctoral thesis on the basis that it would help him be selected as an astronaut.&lt;ref name="Chaikin2007p139" /&gt;
+
+== NASA career ==
+On the completion of his doctorate, Aldrin was assigned to the Gemini Target Office of the Air Force Space Systems Division in [[Los Angeles]]. His initial application to join the astronaut corps was rejected on the basis he was never a test pilot. With the removal of [[test pilot]] experience as a prerequisite for astronaut selection, Aldrin became eligible and in October 1963, he became a member of [[NASA]]'s [[Astronaut Group 3]].&lt;ref&gt;{{cite web |url=https://www.jsc.nasa.gov/history/roundups/issues/63-10-30.pdf |title=14 New Astronauts Introduced at Press Conference |publisher=NASA |date=October 30, 1963|access-date=April 13, 2018}}&lt;/ref&gt; His selection made him the first astronaut with a Ph.D. This, combined with his expertise in orbital mechanics, gave him the nickname Dr. Rendezvous.&lt;ref name="Chaikin2007p143"&gt;{{harvnb|Chaikin|2007|p=143}}&lt;/ref&gt;
+
+=== Gemini program ===
+{{Main|Gemini 12}}
+[[File:S66-63536.jpg|thumb|Another view of Aldrin in space, with the spacecraft and Earth]]
+
+Aldrin and [[Jim Lovell]] were selected as the backup crew for Gemini 10, which lined them up for the prime crew of Gemini 13. With Gemini 12 scheduled as the last mission, this was a dead-end assignment. After the deaths of the original [[Gemini 9A|Gemini 9]] prime crew, [[Elliot See]] and [[Charles Bassett]], Aldrin and [[Jim Lovell]] were promoted to backup crew for the Gemini 9 mission.&lt;ref&gt;{{Harvnb|Hacker|Grimwood|1974|loc=Chapter 14-2}}&lt;/ref&gt; With normal crew rotation, this confirmed Aldrin's spot as a pilot on [[Gemini 12]].&lt;ref&gt;{{harvnb|Chaikin|2007|p=51}}&lt;/ref&gt;
+
+Gemini 12's main objectives were to perform an EVA, rendezvous with a target vehicle, and fly the two together using [[gravity-gradient stabilization]].&lt;ref name="nssdc"&gt;{{cite web |url=https://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1966-104A |title=Gemini 12 |publisher=NASA Space Science Data Coordinated Archive|access-date=August 9, 2018}}&lt;/ref&gt; While NASA had successfully performed rendezvous in the past, the gravity-gradient stabilization test on Gemini 11 was unsuccessful.&lt;ref name="Reichl2013p137"&gt;{{harvnb|Reichl|2013|p=137}}&lt;/ref&gt; NASA was also having problems with their EVAs. After [[Eugene Cernan]]'s near-disastrous EVA on Gemini 9, [[Michael Collins (astronaut)|Michael Collins]] had a successful EVA on Gemini 10. However, [[Richard F. Gordon]] had trouble on Gemini 11 while trying to use the astronaut maneuvering unit (AMU), so it fell to Aldrin to achieve Gemini's EVA goal. NASA formed a committee to give Aldrin a better chance of success. They removed the AMU test so Aldrin could focus on the EVA.&lt;ref name="Reichl2013p137" /&gt; NASA revamped the training program, opting for underwater training over parabolic flight. They also placed additional handholds on the capsule, and created workstations that Aldrin could anchor his feet into.&lt;ref&gt;{{harvnb|Reichl|2013|p=138}}&lt;/ref&gt;
+
+[[File:Lovell and Aldrin on Deck - GPN-2000-001356.jpg|thumb|upright|right|Aldrin and [[Jim Lovell]] after the Gemini 12 mission]]
+The [[Gemini Agena Target Vehicle]] launched about an hour and a half prior to Gemini 12.&lt;ref name="nssdc" /&gt; The mission's first major objective was to rendezvous with this target vehicle. As the target and Gemini 12 capsule drew closer together, radar contact between the two deteriorated until it became unusable. The crew would have to rendezvous manually. Aldrin used a sextant and rendezvous charts he helped create to give Lovell the right information to put the spacecraft in position to mate with the target vehicle.&lt;ref name="Chaikin 2007 140"&gt;{{harvnb|Chaikin|2007|p=140}}&lt;/ref&gt; Lovell was unable to dock with the target, and Aldrin docked successfully a few minutes later.&lt;ref&gt;{{harvnb|Reichl|2013|p=139}}&lt;/ref&gt;
+
+Aldrin performed two EVAs; first a standup, and in the second he left the spacecraft. The standup EVA mimicked some of the actions he would do during his free-flight EVA, so he could compare the effort expended between the two. The standup EVA set a record of two hours and 20 minutes, and succeeded in accomplishing the work demonstration. The next day Aldrin performing his free-flight EVA. He climbed across the newly installed hand-holds to the GATV and installed the cable needed for the gravity-gradient stabilization experiment. Aldrin performed tasks like installing electrical connectors and testing tools needed later for Apollo.&lt;ref&gt;{{harvnb|Reichl|2013|pp=141–142}}&lt;/ref&gt; His second EVA concluded after two hours and six minutes.&lt;ref name="nssdc" /&gt; On November 15, the crew initiated the automatic reentry system and splashed down in the Atlantic Ocean.&lt;ref&gt;{{harvnb|Reichl|2013|p=142}}&lt;/ref&gt; Later, after the mission, his wife realized he had fallen into a depression, something she had not seen before.&lt;ref name="Chaikin 2007 140"/&gt;
+
+=== Apollo program ===
+{{Main|Apollo 11}}
+[[File:Aldrin Apollo 11 original.jpg|thumb|Aldrin walks on the surface of the Moon during Apollo 11]][[File:Apollo 11 bootprint.jpg|thumb|Aldrin's lunar footprint in a photo taken by him on July 21, 1969]]
+
+On July 20, 1969, [[Apollo 11]] mission commander [[Neil Armstrong]] and Aldrin made the first lunar landing becoming the first and second people, respectively, to walk on the Moon. This mission allowed Aldrin to maintain his record EVA duration until it was surpassed in the [[Apollo 14]] mission. Aldrin's first words on the Moon were "Beautiful view", to which Armstrong asked "Isn't it magnificent?". Aldrin answered, "Magnificent desolation."&lt;ref&gt;{{cite AV media |publisher=National Aeronautics and Space Administration| editor-last=Teague|editor-first=Kipp |last3=Aldrin |first3=Buzz |date=July 21, 1969 |title=Apollo 11 – Buzz Aldrin Descends Ladder to Lunar Surface |url=https://history.nasa.gov/alsj/a11/a11v_1094228.mpg |accessdate=December 22, 2013 |format=MPEG-1 |at=48 seconds |quote=Beautiful view. Magnificent desolation. |laysummary=https://history.nasa.gov/alsj/a11/video11.html |laysource=Apollo 11 Video Library |laydate=September 6, 2011 |ref=AldrinFootage}}&lt;/ref&gt; He was also the first person to urinate while on the Moon.&lt;!--Yes, that is what the following two references say. --&gt;&lt;ref&gt;{{cite news |last1=Diaz |first1=Jesus |title=Buzz Aldrin Was the First Man to Pee on the Moon – 42 Years Ago Today |url=https://gizmodo.com/5822581/buzz-aldrin-was-the-first-man-to-pee-on-the-moon--42-years-ago-today |accessdate=September 23, 2015 |publisher=Gizmodo |date=July 20, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last1=Minard |first1=Anne |title=Buzz Aldrin, First Man (to Pee) on the Moon, Sounds Off |url=http://news.nationalgeographic.com/news/2009/07/090716-moon-landing-buzz-aldrin-pee.html |accessdate=September 23, 2015 |publisher=National Geographic News |date=July 16, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last1=Graham |first1=Jane |title=Letter to my younger self – Buzz Aldrin |url=http://www.bigissue.com/features/letter-my-younger-self/2979/buzz-aldrin-interview-i-was-advised-not-say-anything-about-it |accessdate=April 8, 2016 |publisher=Big Issue |date=September 3, 2013}}&lt;/ref&gt;
+
+There has been speculation about the extent of Aldrin's desire at the time to be the first astronaut to walk on the Moon and its impact on his pre-flight, in-mission and post-flight actions.&lt;ref&gt;{{Citation |publisher=NASA |url=http://www.hq.nasa.gov/pao/History/SP-350/cover.html |title=Apollo Expeditions to the Moon|editor-last=Cortright|editor-first=Edgar M. |chapter=8 |page=7|access-date=January 28, 2008|archive-url=https://web.archive.org/web/20080219204538/https://history.nasa.gov/SP-350/ch-9-5.html|archive-date=February 19, 2008|dead-url=no |df=}}&lt;/ref&gt; According to various NASA accounts, early versions of the EVA checklist had the Lunar Module Pilot as the first to step onto the lunar surface. However, when Aldrin learned that this might be amended, he lobbied within NASA for the original procedure to be followed. A number of factors seem to have contributed to the final decision, including the physical positioning of the astronauts within the compact lunar lander, which made it easier for Armstrong to be the first to exit the spacecraft. Furthermore, there was little support for Aldrin's views among other senior astronauts who would command later Apollo missions, and who may have been the first to make a lunar landing had Apollo 11 failed.&lt;ref&gt;{{Cite book|url=http://archive.org/details/manonmoonv00chai|title=A man on the moon : the voyages of the Apollo astronauts|last=Chaikin|first=Andrew|date=1994|publisher=Viking|others=Internet Archive|isbn=0-670-81446-6|pages=148}}&lt;/ref&gt; Apollo 11 Command Module Pilot [[Michael Collins (astronaut)|Michael Collins]] has commented that he thought Aldrin "resents not being first on the moon more than he appreciates being second."&lt;ref&gt;{{harvnb|Collins|2001}}&lt;/ref&gt;
+
+Aldrin, a [[Presbyterian Church (U.S.A.)|Presbyterian]], was the first person to hold a religious ceremony on the Moon. After landing on the Moon, he radioed Earth: "I'd like to take this opportunity to ask every person listening in, whoever and wherever they may be, to pause for a moment and contemplate the events of the past few hours, and to give thanks in his or her own way." He took [[Eucharist|communion]] on the surface of the Moon, but he kept it secret because of a lawsuit brought by atheist activist [[Madalyn Murray O'Hair]] over the [[Apollo 8 Genesis reading|reading of Genesis]] on [[Apollo 8]].&lt;ref&gt;{{harvnb|Chaikin|2007|p=204}}&lt;/ref&gt; Aldrin, then a church [[Elder (Christianity)|elder]], used a home communion kit given to him, and recited words used by his pastor at Webster Presbyterian Church, the Rev. Dean Woodruff.&lt;ref&gt;{{Citation |first1=Neil |last1=Armstrong |first2=Michael |last2=Collins |first3=Buzz |last3=Aldrin |first4=Gene |last4=Farmer |first5=Dora Jane |last5=Hamblin |title=First on the Moon – A Voyage with Neil Armstrong, Michael Collins, Edwin E. Aldrin Jr. |place=London, UK |publisher=Michael Joseph |year=1970 |page=251 |ISBN=0-316-05160-8}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://blog.wired.com/tableofmalcontents/2007/01/sundance_2007_b_1.html |work=Table of Malcontents – Wired Blogs |title=Sundance 2007: Buzz Aldrin Speaks |date=January 24, 2007 |last=Hillner |first=Jennifer |accessdate=May 7, 2007}}&lt;/ref&gt; The communion elements were the first food and liquid consumed on the Moon: in ''[[Guideposts]]'', Aldrin stated: "It was interesting to think that the very first liquid ever poured on the Moon, and the first food eaten there, were communion elements."&lt;ref name="The Guardian"&gt;{{cite news |last=Cresswell |first=Matthew |title=How Buzz Aldrin's communion on the moon was hushed up |url=https://www.theguardian.com/commentisfree/belief/2012/sep/13/buzz-aldrin-communion-moon |newspaper=The Guardian |date=September 13, 2012}}&lt;/ref&gt;
+
+[[File:A11v 1094228.ogv|thumb|left|Video from the [[Apollo 11]] mission]]
+Later Aldrin commented on the event: "Perhaps, if I had it to do over again, I would not choose to celebrate communion. Although it was a deeply meaningful experience for me, it was a Christian sacrament, and we had come to the Moon in the name of all mankind – be they Christians, Jews, Muslims, animists, agnostics, or atheists. But at the time I could think of no better way to acknowledge the enormity of the Apollo 11 experience than by giving thanks to God."&lt;ref name="The Guardian" /&gt;&lt;ref&gt;{{harvnb|Aldrin|2009|p=27}}&lt;/ref&gt; Mindful of the controversy caused by the Bible readings made by the Apollo 8 crew, the NASA management had warned the Apollo 11 crew against making any explicit religious comments during the flight. However, in the final Apollo 11 TV broadcast during the return journey to Earth, Aldrin quoted from [[Psalm 8]] (verses 3 and 4)&lt;ref&gt;{{harvnb|Ryan|1969}}&lt;/ref&gt; "I've been reflecting the events of the past several days and a verse from the Psalms comes to mind to me. 'When I consider the heavens, the work of thy fingers, the moon and the stars which thou hast ordained, what is man that thou art mindful of him?'".&lt;ref&gt;{{cite web |url=http://usatoday30.usatoday.com/news/nation/2007-09-19-3188379411_x.htm |title=Aldrin note up for auction |work=USA Today|date=September 19, 2007|last1=Curry|first1=Matt|agency=Associated Press|access-date=August 18, 2018}}&lt;/ref&gt;
+
+== Retirement ==
+[[File:Buzz Aldrin black and white dress uniform photo portrait.jpg|thumb|upright|Aldrin as Commandant of the Air Force Test Pilot School]]
+After leaving NASA in July 1971, Aldrin was assigned as Commandant of the [[U.S. Air Force Test Pilot School]] at [[Edwards Air Force Base]], [[California]]. Aldrin did not have managerial or test pilot experience, which caused him to perform poorly in his new venture. Aldrin was hospitalized for depression with the year.&lt;ref&gt;{{harvnb|Chaikin|2007|p=570}}&lt;/ref&gt; In March 1972, Aldrin retired from active duty, after 21 years of service, and returned to the Air Force in a managerial role but his career was blighted by personal problems. His autobiographies ''Return to Earth,'' published in 1973,&lt;ref&gt;{{Harvnb|Aldrin|Warga|1974}}&lt;/ref&gt; and ''[[Magnificent Desolation (book)|Magnificent Desolation]],'' published in June 2009,&lt;ref name="Aldrin2009p"&gt;{{harvnb|Aldrin|2009}}&lt;/ref&gt; both recount his struggles with [[clinical depression]] and [[alcoholism]] in the years after his NASA career.{{Citation needed|date=August 2018}}
+
+After retiring from NASA, Aldrin continued to advocate for space exploration. In 1985 he joined the [[University of North Dakota]] (UND)'s College of Aerospace Sciences (now the John D. Odegard School of Aerospace Sciences) at the invitation of John D. Odegard, the dean of the college at time. Aldrin helped to develop UND's Space Studies program and brought Dr. David Webb from NASA to serve as the department's first chair.&lt;ref&gt;Rice, Daniel R (1992). The Clifford Years: The University of North Dakota, 1971–1992. p. 46.&lt;/ref&gt; Later, he produced a computer strategy game called ''[[Buzz Aldrin's Race Into Space]]'' (1993). To further promote space exploration, and to commemorate the 40th anniversary of the first lunar landing, Aldrin teamed up with [[Snoop Dogg]], [[Quincy Jones]], [[Talib Kweli]], and [[Soulja Boy]] to create the rap single and video, "Rocket Experience", with proceeds from video and song sales to benefit Aldrin's non-profit foundation, [[ShareSpace foundation|ShareSpace]].&lt;ref&gt;[http://www.thetimes.co.uk/tto/arts/music/article2417581.ece "Buzz Aldrin and Snoop Dogg reach for the stars with Rocket Experience"], ''[[The Times]]'', June 25, 2009.&lt;/ref&gt;
+
+He referred to the [[Phobos monolith]] in a July 22, 2009, interview with [[C-SPAN]]: "We should go boldly where man has not gone before. Fly by the comets, visit asteroids, visit the moon of [[Mars]]. There's a monolith there. A very unusual structure on this potato shaped object that goes around Mars once in seven hours. When people find out about that they're going to say 'Who put that there? Who put that there?' The universe put it there. If you choose, God put it there."&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=bDIXvpjnRws&amp;eurl=http%3A%2F%2F |title=Buzz Aldrin Reveals Existence of Monolith on Mars Moon |publisher=C-SPAN |date=July 22, 2009|via=YouTube|access-date=August 18, 2018}}&lt;/ref&gt;
+
+In December 2016, Aldrin was part of a tourist group visiting the [[Amundsen–Scott South Pole Station]] in [[Antarctica]] when he fell ill and was evacuated, first to [[McMurdo Station]] and from there to [[Christchurch]], New Zealand.&lt;ref&gt;{{cite news |last1=McCann |first1=Erin |title=Buzz Aldrin Is Evacuated From the South Pole After Falling Ill |url=https://www.nytimes.com/2016/12/01/world/buzz-aldrin-is-evacuated-from-the-south-pole-after-falling-ill.html |accessdate=December 1, 2016 |work=The New York Times |date=December 1, 2016}}&lt;/ref&gt; At 86 years of age, Aldrin's visit made him the oldest person to ever reach the South Pole.&lt;ref&gt;{{cite news |url=https://www.washingtonpost.com/news/speaking-of-science/wp/2016/12/06/buzz-aldrin-being-treated-by-a-doctor-named-david-bowie-yes-after-south-pole-evacuation/?hpid=hp_no-name_hp-in-the-news%3Apage%2Fin-the-news |title=Buzz Aldrin being treated by a doctor named David Bowie (yes) after South Pole evacuation |newspaper=[[The Washington Post]] |date=December 6, 2016 |accessdate=December 6, 2016 |last=Wang |first=Amy B}}&lt;/ref&gt;
+
+=== Aldrin cycler ===
+In 1985, Aldrin proposed a special spacecraft [[trajectory]] now known as the [[Aldrin cycler]].&lt;ref&gt;Aldrin, E. E., "Cyclic Trajectory Concepts," SAIC presentation to the Interplanetary Rapid Transit Study Meeting, Jet Propulsion Laboratory, October 1985.&lt;/ref&gt;&lt;ref&gt;{{cite journal |author1=Byrnes, D. V. |author2=Longuski, J. M. |author3=and Aldrin, B. |title=Cycler Orbit Between Earth and Mars |journal=Journal of Spacecraft and Rockets |volume=30 |issue=3 |year=1993 |pages=334–36 |doi=10.2514/3.25519 |url=https://engineering.purdue.edu/people/james.m.longuski.1/JournalArticles/1993/CyclerOrbitbetweenEarthandMars.pdf |accessdate=October 25, 2015 |bibcode=1993JSpRo..30..334B}}&lt;/ref&gt; Aldrin's proposed system of cycling spacecraft makes travel to Mars possible using less propellant than conventional means, with an expected five and a half month journey from the Earth to Mars, and a return trip to Earth of about the same duration on a twin-cycler. Aldrin continues to research this concept with engineers from Purdue University.&lt;ref&gt;{{cite web|url=https://buzzaldrin.com/space-vision/rocket_science/aldrin-mars-cycler/|title=Aldrin Mars Cycler|publisher=buzzaldrin.com|access-date=August 18, 2018}}&lt;/ref&gt;
+
+=== Bart Sibrel incident ===
+On September 9, 2002, Aldrin was lured to a [[Beverly Hills, California|Beverly Hills]] hotel on the pretext of being interviewed for a Japanese children's television show on the subject of space. When he arrived, [[Moon landing conspiracy theories|Apollo conspiracy]] proponent [[Bart Sibrel]] accosted him with a film crew and demanded he swear on a [[Bible]] that the Moon landings were not faked, insisting that Aldrin and others had lied about walking on the Moon. After a brief confrontation, during which Sibrel kept following Aldrin despite being told to leave him alone, said to Aldrin: "You're the one who said you walked on the moon when you didn't!" and finally called him "a coward and a liar", Aldrin punched Sibrel in the jaw, which was caught on camera by Sibrel's film crew. Aldrin stated that he had struck Sibrel in order to defend himself and his nearby stepdaughter. Witnesses stated that Sibrel had aggressively poked Aldrin with the Bible before being punched. Additional mitigating factors were that Sibrel sustained no visible injury and did not seek medical attention, and that Aldrin had no previous criminal record; the police declined to press charges against Aldrin.&lt;ref&gt;{{cite news |title=Ex-astronaut escapes assault charge |publisher=BBC News |date=September 21, 2002 |url=http://news.bbc.co.uk/1/hi/world/americas/2272321.stm |accessdate=January 9, 2018}}&lt;/ref&gt; Aldrin dedicated a chapter to this incident in his autobiography ''Magnificent Desolation''.&lt;ref&gt;{{harvnb|Aldrin|2009|p=281}}&lt;/ref&gt;
+
+=== Detached adapter panel sighting ===
+[[File:Buzz Aldrin by Gage Skidmore.jpg|upright|thumb|Aldrin at an event in April 2016.|alt=]]
+In 2005, while being interviewed for a documentary titled ''First on the Moon: The Untold Story'', Aldrin told an interviewer that they saw an [[unidentified flying object]]. Aldrin told David Morrison, a [[NASA Astrobiology Institute]] senior scientist, the documentary cut the crew's conclusion &lt;!--see my query above--&gt;that they probably saw one of the four detached spacecraft adapter panels. Their [[S-IVB]] upper stage was {{convert|6000|mi}} away, but the four panels had been jettisoned before the S-IVB made its separation maneuver so they would closely follow the Apollo 11 spacecraft until its first mid-course correction.&lt;ref&gt;{{cite web|url=https://history.nasa.gov/alsj/a11/A11_MissionOpReport.pdf|title=Apollo 11 Mission Op Report|work=NASA|format=PDF}}&lt;/ref&gt; When Aldrin appeared on ''[[The Howard Stern Show]]'' on August 15, 2007, Stern asked him about the supposed UFO sighting. Aldrin confirmed that there was no such sighting of anything deemed extraterrestrial and said they were, and are, "99.9 percent" sure that the object was the detached panel.&lt;ref&gt;{{cite web|url=http://astrobiology.nasa.gov/ask-an-astrobiologist/question/?id=1568|title=NASA Ask an Astrobiologist|author=Morrison, David|date=July 26, 2006|work=NASA|archiveurl=https://web.archive.org/web/20110721050308/http://astrobiology.nasa.gov/ask-an-astrobiologist/question/?id=1568|archivedate=July 21, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ufoevidence.org/cases/case592.htm|title=Astronaut Buzz Aldrin Recounts Apollo 11 UFO Encounter|date=July 18, 1969|publisher=ufoevidence.org|archiveurl=https://web.archive.org/web/20160131111340/http://www.ufoevidence.org/cases/case592.htm|archivedate=January 31, 2016|deadurl=yes|accessdate=October 25, 2015|df=}}&lt;/ref&gt;
+
+In an interview with the [[Science Channel]], Aldrin mentioned seeing unidentified objects, but according to Aldrin his words had been taken out of context. He made a request to the Science Channel to clarify to viewers that he did not see alien spacecraft but was refused.&lt;ref&gt;{{cite journal|last=Morrison|first=David|year=2009|title=UFOs and Aliens in Space|url=http://www.csicop.org/si/show/ufos_and_aliens_in_space|journal=Skeptical Inquirer|volume=33|issue=1|pages=30–31|accessdate=October 25, 2015}}&lt;/ref&gt;
+
+== Views ==
+[[File:Buzz in Mission Control - cropped.jpg|right|thumb|Aldrin in Mission Control with NASA spokesman [[Josh Byerly]] and Flight Director Ron Spencer in 2009]]
+
+=== Criticism of NASA's 2003 return-to-Moon objectives ===
+In December 2003, Aldrin published an opinion piece in ''[[The New York Times]]'' criticizing NASA's objectives.&lt;ref name="Fly Me To L1"&gt;{{cite web |last=Aldrin |first=Buzz |title=Fly Me To L1 |work=The New York Times |date=December 5, 2003 |url=http://buzzaldrin.com/space-vision/rocket_science/l1-gateport |accessdate=November 14, 2009}}&lt;/ref&gt; In it, he voiced concern about NASA's development of a [[Orion (spacecraft)|spacecraft]] "limited to transporting four astronauts at a time with little or no cargo carrying capability" and declared the goal of sending astronauts back to the Moon was "more like reaching for past glory than striving for new triumphs".&lt;ref name="Fly Me To L1" /&gt;
+
+=== Support of a manned mission to Mars ===
+In June 2013, Aldrin wrote an opinion piece, published in ''The New York Times'', supporting a [[manned mission to Mars]] and which viewed the Moon "not as a destination but more a point of departure, one that places humankind on a trajectory to homestead Mars and become a two-planet species."&lt;ref&gt;{{cite news |last=Aldrin |first=Buzz |title=The Call of Mars |url=https://www.nytimes.com/2013/06/14/opinion/global/buzz-aldrin-the-call-of-mars.html |date=June 13, 2013 |work=[[The New York Times]] |accessdate=June 17, 2013}}&lt;/ref&gt; In August 2015, Aldrin, in association with the [[Florida Institute of Technology]], presented a "master plan" to NASA for consideration where astronauts, with a "tour of duty of ten years", establish a colony on Mars before the year 2040.&lt;ref&gt;{{cite news |last=Dunn |first=Marcia |title=Buzz Aldrin joins university, forming 'master plan' for Mars |url=http://apnews.excite.com/article/20150827/us-sci-buzz-aldrin-c7bc5ba293.html |date=August 27, 2015 |agency=Associated Press |accessdate=August 30, 2015}}&lt;/ref&gt;
+
+== Awards and honors ==
+Aldrin was awarded the [[Air Force Distinguished Service Medal]] in 1969 for his role as lunar module pilot on Apollo 11.&lt;ref name="valor"&gt;{{cite web |url=http://valor.militarytimes.com/recipient.php?recipientid=33821 |title=Valor Awards for Buzz Aldrin |publisher=Hall of Valor|access-date=December 25, 2017}}&lt;/ref&gt; He was awarded an [[oak leaf cluster]] in 1972 in lieu of a second Distinguished Service Medal for his role in both the Korean War and in the space program.&lt;ref name="valor" /&gt; He was also awarded the [[Legion of Merit]] for his role in the Gemini and Apollo programs.&lt;ref name="valor" /&gt;
+
+Aldrin was an inductee of the [[New Mexico Museum of Space History|International Space Hall of Fame]] (1982),&lt;ref name="newmexico" /&gt; [[U.S. Astronaut Hall of Fame]] (1993),&lt;ref&gt;{{cite web |url=https://www.astronautscholarship.org/Astronauts/buzz-aldrin/ |title=Buzz Aldrin |publisher=Astronaut Scholarship Foundation|access-date=August 20, 2018}}&lt;/ref&gt; and the [[National Aviation Hall of Fame]] (2000).&lt;ref&gt;{{cite web |url=http://www.nationalaviation.org/our-enshrinees/aldrin-buzz/ |title=Aldrin, Buzz: Enshrined 2000 |publisher=The National Aviation Hall of Fame|access-date=December 19, 2017}}&lt;/ref&gt;
+
+The Apollo 11 crew was awarded the New Frontier Congressional Gold Medal in the Capitol Rotunda in 2011. During the ceremony, NASA administrator Charles Bolden said, "Those of us who have had the privilege to fly in space followed the trail they forged."&lt;ref&gt;{{cite web |url=https://www.nasa.gov/topics/people/features/gold_medal.html |title=NASA Legends Awarded Congressional Gold Medal |publisher=NASA |date=November 16, 2011|access-date=December 19, 2017}}&lt;/ref&gt;&lt;ref name=goldmedal&gt;''Congressional Gold Medal to Astronauts Neil A. Armstrong, Buzz Aldrin, and Michael Collins''. {{USCongRec|2000|H4714|date=June 20, 2000}}.  Accessed April 16, 2015.&lt;/ref&gt;
+
+*[[Distinguished Flying Cross (United States)|Distinguished Flying Cross]] with cluster&lt;ref name="valor" /&gt;
+*[[Air Medal]] with two clusters&lt;ref name="ba"&gt;{{cite web |url=http://buzzaldrin.com/files/pdf/Highlights_Achievements.pdf |title=Buzz Aldrin Highlights and Achievements |publisher=Buzz Aldrin|access-date=December 26, 2017}}&lt;/ref&gt;
+*[[Air Force Commendation Medal]]&lt;ref name="ba" /&gt;
+*[[Presidential Medal of Freedom]]&lt;ref&gt;{{cite news |url=http://www.cnn.com/2013/01/15/us/buzz-aldrin-fast-facts/index.html |title=Buzz Aldrin Fast Facts |date=April 26, 2017 |publisher=CNN|access-date=December 23, 2017}}&lt;/ref&gt;
+*[[NASA Distinguished Service Medal]]&lt;ref name="ba" /&gt;
+*[[NASA Exceptional Service Medal]]&lt;ref name="ba" /&gt;
+* Civilian awards and decorations include the [[Robert J. Collier Trophy]], the [[Dr. Robert H. Goddard Memorial Trophy]], and the [[Harmon Trophy]].&lt;ref name="newmexico"&gt;{{cite web |url=http://www.nmspacemuseum.org/halloffame/detail.php?id=59 |title=Second man to set foot on the Moon|publisher=New Mexico Museum of Space History|access-date=August 18, 2018}}&lt;/ref&gt;
+* Aldrin and his Apollo 11 crewmates were the 1999 recipients of the [[Langley Gold Medal]] from the [[Smithsonian Institution]].&lt;ref&gt;{{cite news |url=http://www.cnn.com/TECH/space/9907/20/apollo.11.awards/ |title=Apollo 11 astronauts honored for 'astonishing' mission |date=July 20, 1999 |publisher=CNN|access-date=December 19, 2017}}&lt;/ref&gt;
+* The crater [[Aldrin (crater)|Aldrin]] on the Moon near the Apollo 11 landing site and Asteroid 6470 Aldrin are named in his honor.&lt;ref name="newmexico" /&gt;
+* Aldrin received honorary degrees from six colleges and universities.&lt;ref name="nasabio" /&gt;
+* In 1970, the Apollo 11 team were co-winners of the [[Iven C. Kincheloe]] award from the [[Society of Experimental Test Pilots]] along with [[Darryl Greenamyer]] who broke the world speed record for piston engine airplanes&lt;ref&gt;{{Cite web|url=http://www.setp.org/winners/iven-c-kincheloe-recipients.html|title=Iven C. Kincheloe Recipients|website=[[Society of Experimental Test Pilots]]|language=en-GB|access-date=August 19, 2018}}&lt;/ref&gt;
+* In 2001, [[George W. Bush|President Bush]] appointed Aldrin to the [[Commission on the Future of the United States Aerospace Industry]].&lt;ref&gt;{{cite web|url=https://georgewbush-whitehouse.archives.gov/news/releases/2001/08/20010822-6.html|title=Personnel Announcements|archive-url=https://web.archive.org/web/20170902140947/https://georgewbush-whitehouse.archives.gov/news/releases/2001/08/20010822-6.html |archive-date=September 2, 2017|dead-url=no|date=August 22, 2001|publisher=The White House}}&lt;/ref&gt;
+* Aldrin received the 2003 Humanitarian Award from [[Variety, the Children's Charity]], which, according to the organization, "is given to an individual who has shown unusual understanding, empathy, and devotion to mankind."&lt;ref&gt;{{cite web |url=http://www.varietychildrenscharity.org/about_variety/humanitarian_awards.php |title=Variety International Humanitarian Awards |publisher=Variety, the Children's Charity |accessdate=May 7, 2007|archive-url=https://web.archive.org/web/20070927180538/http://www.varietychildrenscharity.org/about_variety/humanitarian_awards.php|archive-date=September 27, 2007|dead-url=yes}}&lt;/ref&gt;
+* Aldrin is on the [[National Space Society]]'s Board of Governors,&lt;ref&gt;{{cite web |url=http://www.nss.org/about/bios/aldrin.html |title=National Space Society Board of Governors |publisher=National Space Society|access-date=December 19, 2017}}&lt;/ref&gt; and has served as the organization's Chairman
+* In 2006, the [[Space Foundation]] awarded Aldrin its highest honor, the General [[James E. Hill]] Lifetime Space Achievement Award.&lt;ref&gt;{{cite web |url=http://www.nationalspacesymposium.org/symposium-awards |title=Symposium Awards |accessdate=January 31, 2012 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20090203060101/http://www.nationalspacesymposium.org/symposium-awards |archivedate=February 3, 2009 |df= |publisher=National Space Symposium}}&lt;/ref&gt;
+* For contributions to the television industry, Aldrin was honored with a star on the [[Hollywood Walk of Fame]].&lt;ref&gt;{{cite web |url=http://ireport.cnn.com/docs/DOC-301071 |website=[[CNN]] |title=Apollo 11 honored on the Hollywood Walk of Fame |last=Yune |first=Tommy |date=July 20, 2009 |accessdate=July 28, 2016}}&lt;/ref&gt;
+* Inducted into the [[New Jersey Hall of Fame]] in 2008.&lt;ref&gt;{{cite web|url=http://www.nj.com/news/index.ssf/2007/10/frank_bruce_and_buzz_among_fir.html|title=Frank, Bruce and Buzz among first inducted into NJ hall of fame|archive-url=https://web.archive.org/web/20131109041213/http://www.nj.com/news/index.ssf/2007/10/frank_bruce_and_buzz_among_fir.html |archive-date=November 9, 2013|last1=Hester|first1=Tom|dead-url=no|date=October 25, 2007|publisher=nj.com|access-date=August 19, 2018}}&lt;/ref&gt;
+* In a 2010, Space Foundation survey, Aldrin was ranked as the No. 9 (tied with astronauts [[Gus Grissom]] and [[Alan Shepard]]) most popular space hero.&lt;ref&gt;{{Cite news|url=https://www.spacefoundation.org/news/space-foundation-survey-reveals-broad-range-space-heroes-early-astronauts-still-most|title=Space Foundation Survey Reveals Broad Range of Space Heroes; Early Astronauts Still the Most Inspirational|date=October 27, 2010|work=Space Foundation|access-date=August 19, 2018|language=en}}&lt;/ref&gt;
+* In 2015, Aldrin was named as the Chancellor of the [[International Space University]].&lt;ref&gt;{{cite tweet |user=TheRealBuzz |author=Buzz Aldrin |number=654331595579523072 |title=I am so honored to be the new Chancellor of ISU at the #IAC2015 following in Arthur C Clarke's footsteps. |date=October 14, 2015}}&lt;/ref&gt;
+* In 2016, Aldrin's hometown middle school in Montclair, New Jersey was renamed the Buzz Aldrin Middle School.&lt;ref&gt;{{cite news |last1=Kent |first1=Spencer |title=N.J. middle school renamed after Apollo 11's Buzz Aldrin |url=http://www.nj.com/essex/index.ssf/2016/09/nj_school_renamed_in_honor_of_apollo_11s_buzz_aldr.html |accessdate=March 14, 2017 |work=NJ.com |agency=NJ Advance Media |date=September 16, 2016}}&lt;/ref&gt;
+
+== Personal life ==
+Aldrin has been married three times. His first marriage was to Joan Archer (1954–1974), mother to his three children (James, Janice and Andrew). His second marriage was to Beverly Van Zile (1975–1978), and his third to Lois Driggs Cannon (1988–2011), from whom he filed for divorce on June 15, 2011, in Los Angeles, citing "[[irreconcilable differences]]". The divorce was finalized on December 28, 2012.&lt;ref&gt;{{cite web |title=Buzz Aldrin – Officially Divorced |url=http://www.ghanamma.com/2013/01/buzz-aldrin-officially-divorced |publisher=Ghanamma |accessdate=January 7, 2013}}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; He has one grandson, Jeffrey Schuss, born to his daughter, Janice, and three great-grandsons.&lt;ref&gt;{{cite tweet |url=https://twitter.com/therealbuzz/status/854119124615786496?lang=en |user=TheRealBuzz |number=854119124615786496 |date=April 17, 2017 |author=Buzz Aldrin|access-date=December 18, 2017 |title=Aldrin Tweet about Great Grandchildren}}&lt;/ref&gt;
+
+His mother committed suicide in 1968, the year before the Moon mission. Her father had also committed suicide, and he believes he inherited depression from them.&lt;ref&gt;{{cite web |url=https://www.nytimes.com/2009/06/21/magazine/21fob-q4-t.html |title=The Man on the Moon |last1=Solomon |first1=Deborah |publisher=The New York Times Magazine|access-date=December 18, 2017 |date=June 15, 2009}}&lt;/ref&gt;
+
+His battles against depression and alcoholism, upon returning home from the Apollo 11 mission, have been well documented, most recently in ''Magnificent Desolation''.&lt;ref&gt;{{cite news |url=http://edition.cnn.com/2009/TECH/07/17/life.after.moon.landing |publisher=CNN |title=After walking on moon, astronauts trod various paths |accessdate=April 27, 2010 |date=July 17, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://bipolar.about.com/od/businessmenpoliticians/p/buzzaldrin.htm |title=Buzz Aldrin |work=Bipolar |publisher=About |first=Kimberly |last=Read |date=January 4, 2005 |accessdate=November 2, 2008}}&lt;/ref&gt;
+Aldrin is an active supporter of the [[Republican Party (United States)|Republican Party]], headlining fundraisers for GOP members of [[United States Congress|Congress]].&lt;ref&gt;{{Citation |format=PDF |url=http://combatveteransforcongress.org/sites/default/files/2-26-10-invite.pdf |publisher=Combat Veterans For Congress |title=Invite|access-date=February 26, 2010|archive-url=https://web.archive.org/web/20130808214647/http://combatveteransforcongress.org/sites/default/files/2-26-10-invite.pdf|archive-date=August 8, 2013|dead-url=no |df=}}&lt;/ref&gt;
+
+In 2007, Aldrin confirmed to ''Time'' magazine that he had recently had a [[face-lift]];&lt;ref name="timelift"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,1659730,00.html#ixzz11ko5JooF |title=10 Questions for Buzz Aldrin |publisher=Time.com |date=September 6, 2007 |accessdate=March 2, 2014}}&lt;/ref&gt; he joked that the [[g-force]]s he was exposed to in space "caused a sagging jowl that needed some attention."&lt;ref name="timelift" /&gt;
+
+Aldrin commented on the death of his Apollo 11 colleague, Neil Armstrong, saying that he was "deeply saddened by the passing. I know I am joined by millions of others in mourning the passing of a true American hero and the best pilot I ever knew. I had truly hoped that on July 20th, 2019, Neil, Mike and I would be standing together to commemorate the 50th Anniversary of our moon landing.... Regrettably, this is not to be."&lt;ref&gt;{{cite tweet |user=TheRealBuzz |url=https://twitter.com/TheRealBuzz/status/239488144288927744 |number=239488144288927744 |first=Buzz |last=Aldrin |title=About passing of Neil Armstrong |date=August 25, 2012 |accessdate=August 25, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |first=Buzz |last=Aldrin |type=Official statement |title=On the Passing of Neil Armstrong |url=http://buzzaldrin.com/buzz-aldrins-official-statement-on-the-passing-of-neil-armstrong |date=August 25, 2012 |accessdate=October 25, 2015}}&lt;/ref&gt;
+
+Aldrin primarily resided in [[Los Angeles]], California and its environs, including [[Hidden Hills, California|Hidden Hills]] and [[Laguna Beach, California|Laguna Beach]], from 1972 to 2014.&lt;ref name="Aldrin2009p" /&gt; Following his third divorce, he sold his [[Westwood, Los Angeles|Westwood]] condominium (initially purchased in 1998) for $2.87 million in 2014.&lt;ref&gt;[http://www.latimes.com/business/realestate/hot-property/la-fi-hotprop-buzz-aldrin-20140625-story.html Astronaut Buzz Aldrin sells Wilshire Corridor condo] {{Webarchive|url=https://web.archive.org/web/20161220122300/http://www.latimes.com/business/realestate/hot-property/la-fi-hotprop-buzz-aldrin-20140625-story.html |date=December 20, 2016}}, By Lauren Beale, June 25, 2014, LA Times&lt;/ref&gt; {{as of|2016}}, Aldrin was living in [[Satellite Beach, Florida]].&lt;ref&gt;{{Cite news |first=Wire and |last=Staff Reports |title='Ailing' Buzz Aldrin recuperating |url=http://www.floridatoday.com/story/news/2016/12/01/ailing-buzz-aldrin-evacuated-south-pole/94723432/ |newspaper=Florida Today |location=Melbourne, Florida |pages=1A |date=December 2, 2016 |accessdate=December 2, 2016 | archive-url=https://web.archive.org/web/20170219083607/http://www.floridatoday.com/story/news/2016/12/01/ailing-buzz-aldrin-evacuated-south-pole/94723432/ | archive-date=February 19, 2017 | dead-url=no }}&lt;/ref&gt;
+
+In 2018 he was involved in a lawsuit over a dispute with his children Andrew and Janice and former business manager Christina Korp over their claims that he was mentally impaired through [[dementia]] and [[Alzheimer's disease]].&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/news/world-us-canada-44609561 |title=US astronaut Buzz Aldrin sues his two children for 'misuse of finances' – BBC News |date=June 26, 2018 |work=[[BBC Online]] |accessdate=June 26, 2018}}&lt;/ref&gt;
+
+== Film and television ==
+
+=== Filmography ===
+{| class="wikitable sortable"
+|+Film and television roles
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1976
+| ''[[The Boy in the Plastic Bubble]]''
+| Himself
+| TV movie&lt;ref&gt;{{harvnb|Elman|2014|p=39}}&lt;/ref&gt;
+|-
+| 1989
+| ''[[After Dark (TV series)|After Dark]]''
+| Himself
+| Extended appearance on British discussion program, with among others [[Heinz Wolff]], [[Jocelyn Bell Burnell]] and [[Whitley Strieber]]
+|-
+| 1994
+| ''[[The Simpsons]]''
+| Himself (voice)
+| Episode: "[[Deep Space Homer]]". Aldrin accompanies [[Homer Simpson]] on a trip into space as part of NASA's plan to improve its public appearance&lt;ref&gt;{{cite web |url=https://www.space.com/27113-buzz-aldrin-simpsons-action-figure.html |title=Woo Hoo! Buzz Aldrin's Role on 'The Simpsons' Leads to Action Figure |publisher=collectSPACE |via=Space.com |last1=Pearlman |first1=Robert Z. |date=September 10, 2014|access-date=August 6, 2018}}&lt;/ref&gt;
+|-
+| 1997
+| ''[[Space Ghost Coast to Coast]]''
+| Himself
+| Episodes: "Brilliant Number One"&lt;ref&gt;{{cite web|url=http://www.ign.com/articles/2005/07/13/space-ghost-coast-to-coast-volume-3|title=Space Ghost Coast to Coast Volume 3|last=Blevins|first=Tal|date=July 13, 2005|website=IGN|access-date=December 18, 2017}}&lt;/ref&gt; and "Brilliant Number Two"&lt;ref&gt;{{Cite web|url=https://www.tvguide.com/tvshows/space-ghost-coast-to-coast/episode-20-season-4/brilliant-number-two/204516/|title=Space Ghost Coast to Coast|website=TVGuide.com|language=en|access-date=August 19, 2018}}&lt;/ref&gt;
+|-
+|1999
+| ''[[Disney's Recess]]''
+| Himself (voice)
+| Episode: "[[Space Cadet (Recess episode)|Space Cadet]]"&lt;ref&gt;{{cite web |url=http://www.collectspace.com/ubb/Forum3/HTML/005204.html |title=Disney's Miles From Tomorrowland: Buzz Aldrin |last1=Pearlman |first1=Robert |date=August 25, 2017|access-date=August 8, 2018 |publisher=collectSPACE}}&lt;/ref&gt;
+|-
+| 2003
+| ''[[Da Ali G Show]]''
+| Himself
+| 2 episodes
+|-
+| 2006
+| ''[[Numb3rs]]''
+| Himself
+| Episode: "[[Killer Chat (Numb3rs)|Killer Chat]]"&lt;ref&gt;{{cite web |url=http://articles.chicagotribune.com/2006-12-13/features/0612120450_1_numb3rs-cal-sci-buzz-aldrin |title=Aldrin drops in on `Numb3rs' episode |date=December 13, 2006|access-date=August 6, 2018 |publisher=Zap2it.com |via=Chicago Tribune |last1=O'Hare |first1=Kate}}&lt;/ref&gt;
+|-
+| 2007
+| ''[[In the Shadow of the Moon (film)|In the Shadow of the Moon]]''
+| Himself
+| Documentary
+|-
+| 2008
+| ''[[Fly Me to the Moon (film)|Fly Me to the Moon]]''
+| Himself
+|
+|-
+| 2010
+| ''[[30 Rock]]''
+| Himself
+| Episode: "[[The Moms]]"&lt;ref&gt;{{Cite news|url=https://www.houstonpress.com/news/nbcs-thursday-night-i-walked-on-your-face-6727613|title=NBC's Thursday Night: I Walked On Your Face!|last=Carlson|first=Daniel|date=May 7, 2010|work=Houston Press|access-date=August 19, 2018}}&lt;/ref&gt;
+|-
+| 2010
+|''[[Dancing with the Stars (U.S. TV series)|Dancing with the Stars]]''
+| Himself/contestant
+| 2nd eliminated in [[Dancing with the Stars (U.S. season 10)|season 10]]
+|-
+| 2011
+| ''[[Transformers: Dark of the Moon]]''
+| Himself
+|Aldrin explains to [[Optimus Prime]] and the [[Autobot]]s that Apollo 11's top secret mission was to investigate a Cybertronian ship on the Moon whose existence was concealed from the public.&lt;ref&gt;{{cite web |url=https://www.wired.com/2011/06/transformers-dark-of-the-moon/ |title=History Adds Heft to Transformers: Dark of the Moon’s Action Overkill |last1=Hart |first1=Hugh |date=June 29, 2011|access-date=August 12, 2018 |publisher=Wired}}&lt;/ref&gt;
+|-
+| 2011
+| ''[[Futurama]]''
+| Himself (voice)
+| Episode: "[[Cold Warriors]]"
+|-
+| 2012
+| ''[[Space Brothers (manga)|Space Brothers]]''
+| Himself
+|&lt;ref&gt;{{cite news |title=小栗旬＆岡田将生主演『宇宙兄弟』に野口聡一、バズ・オルドリンが出演 |trans-title= Shunichi Noguchi and Buzz Aldrin appear in 'Space Brothers', starring Oguri Shun &amp; Masao Okada |url=http://cinema.pia.co.jp/news/156489/45825/ |accessdate=December 1, 2016 |work=ぴあ映画生活 (Pia Movie Life) |date=March 22, 2012 |language=Japanese}}&lt;/ref&gt;
+|-
+| 2012
+| ''[[The Big Bang Theory]]''
+| Himself
+| Episode: "The Holographic Excitation"&lt;ref&gt;{{cite web |url=https://www.cbsnews.com/news/buzz-aldrin-lands-cameo-on-the-big-bang-theory/ |title=Buzz Aldrin lands cameo on "The Big Bang Theory" |publisher=CBS News |date=October 10, 2012|access-date=August 8, 2018 |last1=Derschowitz |first1=Jessica}}&lt;/ref&gt;
+|-
+| 2012
+| ''[[Mass Effect 3]]''
+| The Stargazer (voice)
+| Aldrin played a stargazer who appears in the video game's final scene&lt;ref&gt;{{cite web |url=https://www.forbes.com/sites/danielnyegriffiths/2012/06/28/real-hero-of-mass-effect/#b8b1a23389be |title=The Real Hero Of Mass Effect Explains How – And Why – The 'Reject Ending' Works |publisher=Forbes |last1=Griffiths |first1=Daniel Nye |date=June 28, 2012|access-date=August 6, 2018}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Egan|2016|p=168}}&lt;/ref&gt;
+|-
+| 2015
+| ''[[Jorden runt på 6 steg]]''
+| Himself
+| Successfully tested [[six degrees of separation]]&lt;ref&gt;{{Cite web|url=https://www.dplay.se/videos/jorden-runt-pa-6-steg/jorden-runt-pa-6-steg-103|title=Från Senegal till Buzz Aldrin|date=October 7, 2015|website=Dplay|publisher=Discovery|language=se|trans-title=From Senegal to Buzz Aldrin|access-date=August 21, 2018}}&lt;/ref&gt;
+|-
+| 2016
+| ''[[The Late Show with Stephen Colbert]]''
+| Himself
+| Was interviewed and took part in a skit&lt;ref&gt;{{cite web |url=https://www.popsci.com/buzz-aldrin-reveals-his-secrets-scoops-about-moon-missions |title=Buzz Aldrin Reveals His Secret "Scoops" About The Moon Missions |last1=Lederman |first1=Jason |date=May 5, 2016|access-date=August 6, 2018 |publisher=Popular Science}}&lt;/ref&gt;
+|-
+| 2016
+| ''[[Hell's Kitchen (U.S. TV series)|Hell's Kitchen]]''
+| Himself
+| Dining room guest and had his dinner cooked by the blue team due to their team challenge win&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=hJOsrUgAnsc |title=A Very Special Guest: Buzz Aldrin, Season 15 Ep. 3, Hell's Kitchen |publisher=Hell's Kitchen |via=YouTube |date=January 27, 2016|access-date=August 6, 2018}}&lt;/ref&gt;
+|-
+| 2017
+| ''[[Miles from Tomorrowland]]''
+| Commander Copernicus (voice)
+| Guest stars in an episode&lt;ref&gt;{{cite web |url=https://www.space.com/37924-buzz-aldrin-appears-miles-from-tomorrowland-show.html |title=Moonwalker Buzz Aldrin Plays 'Commander Copernicus' in Disney Kids' Show: Exclusive Clip |last1=Howell |first1=Elizabeth |date=August 25, 2017|access-date=August 6, 2018 |publisher=Space.com}}&lt;/ref&gt;
+|}
+
+=== Portrayed by others ===
+Aldrin has been portrayed by:
+* [[Cliff Robertson]] in ''[[Return to Earth (film)|Return to Earth]]'' (1976)&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/1976/05/14/archives/tv-weekend.html|title=TV Weekend: Friday|last=O'Connor|first=John J.|date=May 14, 1976|work=The New York Times|access-date=August 19, 2018|language=en}}&lt;/ref&gt;
+* Larry Williams in ''[[Apollo 13 (film)|Apollo 13]]'' (1995)&lt;ref&gt;{{harvnb|McGee|2010|p=23}}&lt;/ref&gt;
+* [[Xander Berkeley]] in ''[[Apollo 11 (film)|Apollo 11]]'' (1996). He was also a technical advisor for the film.&lt;ref&gt;{{cite news |url=https://www.newspapers.com/clip/19685595/the_los_angeles_times/ |title=Moon Over 'Apollo 11' |newspaper=The Los Angeles Times |date=November 17, 1996 |page=433 |via=Newspapers.com |last1=King |first1=Susan}}&lt;/ref&gt;
+* [[Bryan Cranston]] in ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]'' (1998) and ''[[Magnificent Desolation: Walking on the Moon 3D]]'' (2005)&lt;ref&gt;{{cite web |url=https://www.cnn.com/2013/09/19/showbiz/emmys-2013-bryan-cranston-man-of-the-moment/index.html |title=Emmys 2013: Bryan Cranston, man of the moment |publisher=CNN |last1=Leopold |first1=Todd |date=September 19, 2013|access-date=April 28, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.nytimes.com/1998/04/03/movies/television-review-boyish-eyes-on-the-moon.html |title=Television Review; Boyish Eyes on the Moon |work=The New York Times |date=April 3, 1998|access-date=August 5, 2018 |last1=James |first1=Caryn}}&lt;/ref&gt;
+* [[James Marsters]] in ''[[Moonshot (film)|Moonshot]]'' (2009)&lt;ref&gt;{{Harvnb|Marill|2010|p=66}}&lt;/ref&gt;
+* Cory Tucker as a younger Buzz Aldrin of 1969 in ''[[Transformers: Dark of the Moon]]'' (2011)&lt;ref&gt;{{cite web|url=http://www.pontiacdailyleader.com/article/20110710/NEWS/307109979|title=Tucker embraces his ‘role’ in life|publisher=Pontiac Daily Leader|last1=Winters|first1=Carol|date=July 10, 2011|access-date=August 18, 2018}}&lt;/ref&gt;
+*[[Corey Stoll]] in ''[[First Man (film)|First Man]]'' (2018)&lt;ref&gt;{{cite web |url=https://www.bbc.com/news/entertainment-arts-44884023 |title=Ryan Gosling's Neil Armstrong movie to open Venice Film Festival |date=July 19, 2018|access-date=August 2, 2018 |publisher=BBC}}&lt;/ref&gt;
+* The name of the Toy Story character [[Buzz Lightyear]] was inspired by Buzz Aldrin. Aldrin acknowledged the tribute when he pulled a Buzz Lightyear doll out during a speech at NASA, to rapturous cheer, a clip of which can be found on the Toy Story 10th Anniversary DVD.&lt;ref&gt;{{cite web |url=http://www.traileraddict.com/trailer/toy-story-3/featurette-buzz-lightyear |title=Toy Story 3 Featurette – Buzz Lightyear |publisher=Trailer Addict |date=June 18, 2010 |accessdate=August 29, 2010}}&lt;/ref&gt;
+
+== Bibliography ==
+* Aldrin, Col. Edwin E. Jr. 1970. [http://apollotutoring.com/aldrin_1970.pdf Footsteps on the Moon]. ''Edison Electric Institute Bulletin''. Vol. 38, No. 7, pp.&amp;nbsp;266–272.
+* Aldrin, Buzz and Wayne Warga. 1973. ''Return to Earth''. New York, Random House.
+* Aldrin, Buzz and Malcolm McConnell. 1989. ''Men from Earth''. New York: Bantam Books.
+* Aldrin, Buzz and John Barnes. 1996. ''Encounter with Tiber''. London: Hodder &amp; Stoughton, 1996.
+* Aldrin, Buzz and John Barnes. 2000. ''The Return''. New York: Forge.
+* Aldrin, Buzz and Wendell Minor. 2005. ''Reaching for the Moon''. New York: Harper Collins Publishers.
+* Aldrin, Buzz and Ken Abraham. 2009. ''Magnificent Desolation: The Long Journey Home from the Moon''. New York: Harmony Books.
+* Aldrin, Buzz and Wendell Minor. 2009. ''Look to the Stars''. Camberwell, Vic.: Puffin Books.
+* Armstrong, Neil; Michael Collins; Edwin E. Aldrin; Gene Farmer; and Dora Jane Hamblin. 1970. ''First on the Moon: A Voyage with Neil Armstrong, Michael Collins, Edwin E. Aldrin Jr.'' Boston: Little, Brown.
+* Aldrin, Buzz. 2013. ''Mission to Mars''. Washington, D.C.: The National Geographic Society.
+* Aldrin, Buzz and Marianne Dyson. 2015. ''Welcome to Mars: Making a Home on the Red Planet''. Washington, D.C.: National Geographic Children's Books.
+
+== See also ==
+* [[Space rendezvous]]
+* [[List of spaceflight records]]&lt;!--dummy edit--&gt;
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+*{{Cite book|url=http://www.worldcat.org/title/return-to-earth/oclc/2408281|title=Return to earth|last=Aldrin|first=Edwin E.|last2=Warga|first2=Wayne|date=1974|publisher=Bantam Books|location=New York|language=English|oclc=2408281|ref=harv}}
+*{{cite book|last=Aldrin|first=Buzz|url=https://books.google.com/books?id=Ey9qaUExkAwC|title=Magnificent Desolation|publisher=Harmony Books|year=2009|isbn=978-0-30-746347-0|ref=harv}}
+* {{cite book |last=Chaikin |first=Andrew |title=[[A Man on the Moon: The Voyages of the Apollo Astronauts]] |location=London |publisher=Penguin Books |year=2007 |isbn=978-0-14-311235-8 |oclc=958200469 |ref=harv}}
+*{{cite book|last=Collins|first=Michael|year=2001|url=https://books.google.com/books?id=-9pfwFpdtGwC|title=Carrying the Fire; An Astronaut's Journeys|publisher=Rowman &amp; Littlefield|isbn=9780815410287|ref=harv}}
+*{{cite book|last=Egan|first=James|title=3000 Facts about Video Games|publisher=Lulu.com|year=2016|isbn=978-1-326-81886-9|url=https://books.google.com/books?id=j616DQAAQBAJ&amp;pg=PA159|ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=Qu3LBAAAQBAJ|title=Chronic Youth: Disability, Sexuality, and U.S. Media Cultures of Rehabilitation|publisher=NYU Press|isbn=9781479841103|last=Elman|first=Julie Passanante|date=October 20, 2014|ref=harv}}
+*{{cite book|last=Hacker|first=Barton C.|last2=Grimwood|first2=James M.|title=On the Shoulders of Titans: A History of Project Gemini|chapter=Charting New Space Lanes|chapterurl=https://www.hq.nasa.gov/office/pao/History/SP-4203/ch14-2.htm|publisher=NASA|series=NASA History Series|volume=SP-4203|date=September 1974|url=http://www.hq.nasa.gov/office/pao/History/SP-4203/toc.htm|deadurl=no|archiveurl=https://www.webcitation.org/5nE1rKoZS?url=http://www.hq.nasa.gov/office/pao/History/SP-4203/toc.htm|archivedate=February 1, 2010|oclc=3821896|ref=harv}}
+*{{cite book |last=Hansen |first=James R. |title=[[First Man: The Life of Neil A. Armstrong]] |publisher=Simon &amp; Schuster |year=2005 |isbn=0-7432-5751-0 |ref=harv}}
+*{{cite book|url=https://books.google.com/books?id=k8XJ6UcCumYC|title=Movies Made for Television: 2005–2009|last=Marill|first=Alvin H.|publisher=Scarecrow Press|isbn=9780810876590|date=October 11, 2010|ref=harv}}
+*{{cite book|last=McGee|first=Marty|url=https://books.google.com/books?id=3r7eCQAAQBAJ|title=Encyclopedia of Motion Picture Sound|publisher=MacFarland|date=September 15, 2010|isbn=978-1-4766-0970-6|ref=harv}}
+*{{cite book|title=Project Gemini|series=America in Space|last=Reichl|first=Eugen|publisher=Schiffer Publishing|location=Atglen, Pennsylvania|isbn=978-0-7643-5070-2|year=2013|ref=harv}}
+*{{cite book|title=The Invasion of the Moon 1969: The Story of Apollo 11|last=Ryan|first=Peter|year=1969|publisher=Penguin Books|location=Middlesex, England|oclc=800022381|ref=harv}}
+
+== External links ==
+{{Commons category|Buzz Aldrin}}
+{{Wikiquote}}
+* {{official website}}
+* [https://web.archive.org/web/20060919025024/http://www.cosmosmagazine.com/node/545 "Satellite of solitude"] by Buzz Aldrin: an article in which Aldrin describes what it was like to walk on the Moon, ''Cosmos'' science magazine
+* {{IMDb name|0004696|Buzz Aldrin}}
+* [http://www.radiolive.co.nz/Graeme-Hill-meets-Buzz-Aldrin/tabid/491/articleID/12454/Default.aspx Video interview with Buzz Aldrin] Buzz is shown an enlarged print of Tranquility Base and talks Graeme Hill through the points of significance.
+* [http://astrotalkuk.org/2008/04/20/episode12journey-to-the-moon/ Video interview] on AstrotalkUK
+*[https://web.archive.org/web/20170114000333/http://www.et97.com/view/889909.htm Buzz Aldrin Paul Mauriat's History]
+*{{C-SPAN|Buzz Aldrin}}
+*[https://www.nasa.gov/feature/tapping-resources-in-space-and-the-community NASA – Tapping Resources in Space and the Community (NASA, Feb. 3, 2017)] (Buzz talks to students as part of the [[Living Off the Land in Space]] lecture series)
+
+{{s-start}}
+{{s-ach|rec}}
+{{s-bef | before=[[Neil Armstrong]]}}
+{{s-ttl | title=[[Moonwalkers|Oldest Moonwalker]] &lt;br /&gt; [[List of men who walked on the moon|Oldest Living Moonwalker]] | years= July 21, 1969 – February 5, 1971}}
+{{s-aft | after=[[Alan Shepard]]}}
+{{s-bef | before=[[Alan Shepard]]}}
+{{s-ttl | title=[[List of men who walked on the moon|Oldest Living Moonwalker]] | years= July 21, 1998 – ''present}}
+{{s-inc}}
+{{s-end}}
+
+{{People who have walked on the Moon|state=expanded}}
+{{NASA Astronaut Group 3|state=autocollapse}}
+{{AHOFONJ}}
+
+{{Authority control}}
+{{Portal bar|Biography|United States Air Force|Spaceflight}}
+
+{{DEFAULTSORT:Aldrin, Buzz}}
+[[Category:Buzz Aldrin| ]]
+[[Category:1930 births]]
+[[Category:Living people]]
+[[Category:1966 in spaceflight]]
+[[Category:1969 in spaceflight]]
+[[Category:Apollo 11]]
+[[Category:20th-century American businesspeople]]
+[[Category:American astronauts]]
+[[Category:American autobiographers]]
+[[Category:American male writers]]
+[[Category:American mechanical engineers]]
+[[Category:American air force personnel of the Korean War]]
+[[Category:American people of German descent]]
+[[Category:American people of Scottish descent]]
+[[Category:American people of Swedish descent]]
+[[Category:American Presbyterians]]
+[[Category:Articles containing video clips]]
+[[Category:Aviators from New Jersey]]
+[[Category:Collier Trophy recipients]]
+[[Category:Congressional Gold Medal recipients]]
+[[Category:Florida Institute of Technology faculty]]
+[[Category:Harmon Trophy winners]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Montclair High School (New Jersey) alumni]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:New Jersey Republicans]]
+[[Category:Participants in American reality television series]]
+[[Category:People from Glen Ridge, New Jersey]]
+[[Category:People from Montclair, New Jersey]]
+[[Category:People who have walked on the Moon]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Recipients of the Air Force Distinguished Service Medal]]
+[[Category:Recipients of the Air Medal]]
+[[Category:Recipients of the Cullum Geographical Medal]]
+[[Category:Recipients of the Distinguished Flying Cross (United States)]]
+[[Category:Recipients of the Legion of Merit]]
+[[Category:Recipients of the NASA Distinguished Service Medal]]
+[[Category:Recipients of the NASA Exceptional Service Medal]]
+[[Category:United States Air Force astronauts]]
+[[Category:United States Air Force officers]]
+[[Category:United States Astronaut Hall of Fame inductees]]
+[[Category:United States Military Academy alumni]]
+[[Category:Writers from New Jersey]]
+[[Category:Engineers from New Jersey]]</text>
+      <sha1>9dysdqca2wcekpq8bmad1l9jiibqbml</sha1>
+    </revision>
+  </page>
+</mediawiki>

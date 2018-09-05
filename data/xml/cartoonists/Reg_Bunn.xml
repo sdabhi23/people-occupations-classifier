@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Reg Bunn</title>
+    <ns>0</ns>
+    <id>8904968</id>
+    <revision>
+      <id>824033034</id>
+      <parentid>820413729</parentid>
+      <timestamp>2018-02-04T22:41:54Z</timestamp>
+      <contributor>
+        <username>Mattg82</username>
+        <id>8578499</id>
+      </contributor>
+      <comment>added references removed tag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2190">'''Reginald "Reg" Bunn''' (d.1971) was a British comic book artist, best known for his work on ''[[The Spider (comics)|The Spider]]'' in The Lion, and work in other British comics during the 1960s.&lt;ref&gt;{{cite book|url=https://books.google.co.uk/books?id=KkcingcrXfUC&amp;pg=PA16&amp;dq=%22Reg+Bunn%22+comic&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwir5cS3oo3ZAhVHYsAKHSMcD84Q6AEILTAB#v=onepage&amp;q=%22Reg%20Bunn%22%20spider&amp;f=false|title=True Brit: A Celebration of the Great Comic Book Artists of the UK|publisher=TwoMorrows Publishing|first=George|last=Khoury|page=16|year=2004}}&lt;/ref&gt;
+
+As a young man, Bunn produced commissioned portraits and caricatures to supplement his income. He spent the war years in Liverpool, suffering a serious motor accident there in 1944 which rendered him paralysed from the neck down. He was told he would never walk again but with considerable effort he recovered, although he would suffer back problems for the rest of his life. 
+
+After the war he worked as a draughtsman at Rolls-Royce in Derby. In 1949 Amalgamated Press launched a nationwide search for artists for their publications. Bunn was a joint winner and would go on to draw for ''[[The Comet (comic magazine)|The Comet]]'' (''[[Buck Jones]]'' and ''Robin Hood''), ''[[Sun (comic)|Sun]]'' (''[[Clip McCord]]''), ''[[Thriller Comics]]'' and, most notably, ''[[Lion (comic)|Lion]]'', for which he co-created ''The Spider'' with writer [[Ted Cowan]]. His work was noted for its highly detailed and angular qualities.&lt;ref&gt;{{cite book|url=https://books.google.co.uk/books?id=aMxOPSGZPcwC&amp;pg=PT163&amp;dq=%22Reg+Bunn%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiYstPCpI3ZAhUpDcAKHfB7Dp8Q6AEISDAG#v=onepage&amp;q=%22Reg%20Bunn%22&amp;f=false|title=British Comics: A Cultural History|first=James|last=Chapman|year=2011|publisher=Reaktion Books}}&lt;/ref&gt;
+
+He spent more than 20 years working from a studio in his home and died in 1971 at the age of sixty-six. 
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Bunn, Reg}}
+[[Category:1905 births]]
+[[Category:1971 deaths]]
+[[Category:Artists from Birmingham, West Midlands]]
+[[Category:British comics artists]]
+[[Category:People from Kings Norton]]
+
+{{UK-illustrator-stub}}
+{{UK-comics-creator-stub}}</text>
+      <sha1>ir0czm5nhc8gkjme7r1336bjmqwjul2</sha1>
+    </revision>
+  </page>
+</mediawiki>

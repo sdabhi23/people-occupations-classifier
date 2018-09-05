@@ -1,0 +1,152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wilfred Yackey</title>
+    <ns>0</ns>
+    <id>53065096</id>
+    <revision>
+      <id>851883610</id>
+      <parentid>848242977</parentid>
+      <timestamp>2018-07-25T05:54:08Z</timestamp>
+      <contributor>
+        <username>TAnthony</username>
+        <id>1808194</id>
+      </contributor>
+      <comment>/* Personal life */Fix [[:Category:CS1 maint: Extra text|CS1 cite error]] (extra text in "page" parameter), and genfixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15569">&lt;!--This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. ---&gt;
+{{Infobox person
+| name = W.A. Yackey
+| image = [[File:Wilfred Yakey, Air Mail Pilot.jpg|frameless|center|upright=0.75]]
+| caption = Wilfred Yackey as a US Air Mail Service pilot.&lt;br /&gt;Photo credit: Smithsonian National Air and Space Museum Archives.
+|birth_name= Wilfred Anthony Yackey, Jr.
+| birth_date = {{Birth date|1890|8|27|mf=y}}
+| birth_place = [[St. Louis, Missouri]], U.S.
+| death_date = {{Death date and age|1927|10|4|1890|8|27|mf=y}}
+| death_place =  [[Maywood, Illinois]], U.S.
+| death_cause = Airplane crash
+| resting_place = 
+| nationality = American
+| occupation = World War I pilot, aviator
+| education = 
+| known for = Owner of Yackey Airplane Co.
+| spouse = Olive R. Koken (1921&amp;ndash;1927) (his death)
+| module = {{Infobox military person | embed=yes
+   |nickname= Tony
+   |allegiance= {{flag|United States}}
+   |branch= {{army|United States}}
+   |serviceyears= 1917&amp;ndash;1920
+ &lt;!--  |rank=[[File:US-O7 insignia.svg|25px]] [[Brigadier general (United States)|Brigadier General]] --&gt;
+   |unit=
+   |commands=
+   |battles=
+   |awards= [[Croix de Guerre]] (date uncertain)
+   |relations=
+   |signature =   }}
+}}
+
+'''Wilfred Anthony (Tony) Yackey, Jr.''' (August 27, 1890 &amp;ndash; October 4, 1927), known professionally as '''W.A. Yackey''', was an airplane pioneer of the 1920s. A veteran pilot of [[World War I]], he flew for both the United States and Italian Air Force, and was decorated with the [[Croix de Guerre]] by the French government for acts of heroism against the enemy. Returning to the United States, he settled outside of [[Chicago, Illinois|Chicago]] and operated the Checkerboard Aviation Field in [[Maywood, Illinois]]. From this area he would start a flying school,&lt;ref&gt;{{cite book|title=All the World's Aircraft|url=https://books.google.com/books?id=H5oRAQAAMAAJ|publisher=S. Low, Marston, Limited}}&lt;/ref&gt; advertised as one of the oldest flying schools in the United States at the time. He would also start the '''Yackey Aircraft Company''', first modifying surplus World War I planes for civilian private and commercial use,&lt;ref name="Scamehorn1957"&gt;{{cite book|author=Howard Lee Scamehorn|title=Balloons to Jets|url=https://books.google.com/books?id=3YsEAAAAMAAJ|year=1957|publisher=H. Regnery Company}}&lt;/ref&gt; and later manufacturing planes of his own design. On October 4, 1927, Tony Yackey died while he was testing one of his planes over the air field when a wing collapsed, causing the plane to crash into the grounds.&lt;ref name="Hoffman2011"&gt;{{cite book|author=Nicholas Von Hoffman|title=Radical: A Portrait of Saul Alinsky|url=https://books.google.com/books?id=6BPKckIixDUC&amp;pg=PA16|date=1 February 2011|publisher=ReadHowYouWant.com|isbn=978-1-4587-3232-3|pages=16–}}&lt;/ref&gt;
+
+== Early life and World War I ==
+Tony Yackey was born in [[St. Louis, Missouri]] on August 27, 1890, to mother Magdelena (Beck) Yackey and father Wilfred A. Yackey, Sr., a businessman.  Before World War I, Yackey was an aspiring auto racer. With the outbreak of the Great War, Yackey traveled to Italy in 1914 to join the Italian Air Force, where he served as a combat pilot. Upon the United States' entry in 1917, he transferred the US Army and continued to fly missions until he was injured near the end of the war. For his heroic effort, the French government awarded him the Croix de Guerre, given to pilots of foreign nations.
+
+== US Air Mail Service and Air Racing Career ==
+Between March 1921 and October 1922, Yackey would be hired as a pilot for the growing US Air Mail Service. Initially stationed out of [[College Park, Maryland]], he would eventually be assigned routes starting in [[Cheyenne, Wyoming]], [[Omaha, Nebraska]], [[Iowa City, Iowa]], and finally [[Chicago, Illinois]].&lt;ref&gt;{{cite web|title=PILOT STORIES: Yackey, Wilfred Alonzo Jr.| url=https://postalmuseum.si.edu/airmail/pilot/pilot_rest/pilot_rest_yackey.html| website=Smithsonian National Postal Museum|accessdate=2 February 2017}}&lt;/ref&gt;
+
+After leaving the service, Yackey remained in the Chicago area, and kept busy as a stunt pilot and air racer. On August 13, 1922 he participated in the first annual "Aerial Revue" at Checkerboard Aviation Field, competing in a modified [[Breguet 14]] WWI-era bomber in a 20-mile race.&lt;ref&gt;{{cite web|title=Checkerboard Air Field Origin and History (1919-1929)| url=http://www.franzosenbuschheritagesociety.org/Histories/Checkerboard%20Field/The%20Maywood%20Herald.htm| website=Franzosenbusch Heritage Project| accessdate=2 February 2017}}&lt;/ref&gt;
+
+On October 2–4, 1924 Yackey participated in the [[National Air Races]] in [[Dayton, Ohio]]. On the first day, he placed fifth in the preliminary "On to Dayton" event, flying his own Yackey Sport, and Hans Hoyt finishing forth in another Yackey Sport entered into the event. On the second day, he was in 6th standing for the Central Labour Union Trophy.&lt;ref&gt;{{cite journal|title=The International Day Races, Dayton|journal=[[Flight International|Flight]]|date=30 October 1924|volume=No. 44, Vol. XVI|issue=827|pages=693–695|url=https://www.flightglobal.com/pdfarchive/view/1924/1924%20-%200693.html|accessdate=2 February 2017|publisher=The Royal Aero Club}}&lt;/ref&gt;
+
+It was after this time that Yackey started to focus more on building airplanes of his own design. In 1925 Yackey would enter his primary design, the Yackey Sport, in the inaugural [[Ford National Reliability Air Tour]], a 10-city tour of the Midwest to promote the safety and reliability of civilian passenger airline transport. Flown by assistant manager Walter J. Addams, the plane received a perfect score in all categories, earning Addams and Yackey a $350 prize.&lt;ref&gt;{{cite journal|title=The Ford Reliability Tour|journal=[[Flight International|Flight]]|date=26 November 1925|volume=No. 48, Vol. XVII.,|issue=  883.|page=786|url=https://www.flightglobal.com/pdfarchive/view/1925/1925%20-%200786.html|accessdate=2 February 2017}}&lt;/ref&gt;
+
+Yackey returned to the 1927 National Air Derby, commencing in [[New York City, New York]] on September 20 and concluding in [[Spokane, Washington]] on September 21.&lt;ref&gt;{{cite journal|title=Spokane National Air Races|journal=Aero Digest|date=September 1927|volume= XI| issue=3, |page=280 |url=https://archive.org/stream/aerodigest1119unse#page/280/mode/1up/search/|accessdate=2 February 2017}}&lt;/ref&gt; Pilot E. Lee Hamilton and passenger Ed "Rusty" Campbell, flying a Yackey Monoplane placed fifth, winning a $500 prize.&lt;ref&gt;{{cite journal|title=1927 National Air Derby and Air Race Results|journal=Aero Digest|date=October 1927|volume= XI|issue=4,|page=382|url=https://archive.org/stream/aerodigest1119unse#page/382/mode/1up/}}&lt;/ref&gt; It would be in this exact plane that Tony Yackey's life would end just a few weeks later. Yackey also showcased a second Yackey Monoplane at the event through various other races over the next week.
+
+== Checkerboard Aviation Field ==
+Checkerboard Aviation Field was established in 1918 by retailer Decker &amp; Cohn for transport of their [[Society Brand]] clothing line to other nearby cities. The planes were decorated with the company name and notable checkerboard logo, hence the name of the field.&lt;ref name=flying1919v8&gt;{{cite journal|title=Clothing Manufacturer Establishes Air Service to Retailers|journal=Flying|date=August 1919|volume=8|pages=634–635|url=https://books.google.com/books?id=zpJMAAAAYAAJ&amp;pg=PA634#v=onepage&amp;q&amp;f=false|publisher=Flying Association, Incorporated}}&lt;/ref&gt; A few years later, the City of Chicago would force all airline traffic out of the city after several notable airline accidents, allowing Checkerboard to become one of the major airline destinations into and out of the city, as well as a destination for the new US Air Mail service. Tony Yackey would first become associated with Checkerboard Aviation Field during his final months as a pilot for the US Air Mail Service in 1922. After he left the service, Yackey moved into the Maywood area and operated a flight training school, renting out planes for joy rides, and staging stunt plane performances and air shows. After the US government built a larger air mail facility across the road in 1923, Checkerboard Aviation Field would lose its air mail contracts. In 1924, operator David Behncke would sell the field to Yackey and return to a commission in the US Army.&lt;ref&gt;{{cite web|last1=Freeman|first1=Paul|title=Illinois: Central Chicago area|url=http://www.airfields-freeman.com/IL/Airfields_IL_Chicago_C.htm#checkerboard|website=Abandoned &amp; Little-Known Airfields:|accessdate=2 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite book|author1=Hopkins, George E.|title=Flying the Line; the First Half Century of the Air Line Pilots Association|publisher=[[Air Line Pilots Association International]]|isbn=978-0960970803|page=96|url=http://www3.alpa.org/publications/Flying_The_Line_1/fscommand/Flying_the_Line_Volume_1.pdf|accessdate=3 February 2017|language=English|format=PDF|chapter=Chapter 10: Dave Behncke - An American Success Story}}&lt;/ref&gt; To make up for revenue from the lost air mail routes, Yackey would rent out the grass air fields to local festivals, fairs and other events throughout the year.
+
+== Yackey Aircraft Company ==
+With a large investment from his wife, Olive, Yackey would form the Yackey Aircraft Company in 1922. For most of its life, the company would refurbish and modify surplus World War I military fighter and bomber aircraft into civilian passenger and cargo transport planes. The company became particularly well known for transforming the [[Breguet 14]] bombers into the Breguet 14T.bis four-passenger cabins up until 1926, as well as modifying many [[Thomas-Morse Aircraft]] trainers into racing planes with more powerful engines.
+
+=== Airplanes ===
+* '''Yackey Sport''': Starting in 1924, Yackey began modifying surplus [[Thomas Brothers S-4]] Scouts from single-seat trainers into 2- and 3-passenger sport planes. The front cockpit would be modified into a passenger space, while a new rear cockpit would be built for the pilot. The engine would be upgrade from the 80&amp;nbsp;hp [[Le Rhône 9C]] to the 90&amp;nbsp;hp [[Curtiss OX-5]].&lt;ref name="Aerofiles"&gt;{{cite web|title=Aerofiles: Y to Z|url=http://www.aerofiles.com/_yz.html|website=AeroFiles|accessdate=3 February 2017}}&lt;/ref&gt; These planes were often used in "reliability races", where participants would earn bonus points for every passenger that was flown safely and reliably between stages within a set schedule. The Yackey Sport was featured in the 1924 National Air Races and the 1925 Ford Reliability Tour.[[File:Yackey_monoplane_right_front_Aero_Digest_October_1927.jpg|thumb|Yackey monoplane photo from Aero Digest October 1927]]
+* '''[[Yackey Monoplane]]''': Yackey's first, and last, original design. The Yackey Monoplane featured a single high wing over the plane body. The pilot was seated in the front cockpit, and up to two passengers were seated side-by-side in the rear cockpit. The cockpits were furnished in full leather with a baggage compartment between the two cockpits. The plane came standard with a 225&amp;nbsp;hp [[Wright J5]] engine,&lt;ref name="Aerofiles" /&gt; but could be upgraded to a 425&amp;nbsp;hp [[Pratt &amp; Whitney]]. One of the prototypes participated in the 1927 National Air Race from New York to Spokane, finishing 5th.&lt;ref&gt;{{cite journal|title=The Yackey Monoplane|journal=Aero Digest|date=October 1927|volume= 11|issue= 4.|page=420|url=https://archive.org/stream/aerodigest1119unse#page/420/mode/1up/s|accessdate=3 February 2017}}&lt;/ref&gt;
+
+== Final Years and Death ==
+In 1926 the federal government ordered that air mail routes should be managed by private carriers, using private airfields. The Maywood Air Mail Field would lose its contract, as it was a publicly facility owned by the City of Maywood. Yackey began to enter negotiations to have the service returned to Checkerboard. The airmail contract was operated by [[Robertson Aircraft Corporation]], and its chief pilot [[Charles Lindbergh]]. Yackey had become friends with Lindbergh two years earlier when RAC hired Lindbergh to operate the CAM route between St. Louis and Maywood Air Mail Field.
+
+The route would not come to pass, however. A few weeks after a successful placement in the 1927 National Air Races, Yackey was finishing up testing on the winning plane before it was transferred to its new owner, Ed Campbell, who was a passenger on the cross-country race. Yackey was a noted advocate for airline safety, and insisted on personally testing every plane he built before final sale.&lt;ref&gt;{{cite news|title=Ace Dies Martyr to Own Air Code|work=Chicago Daily News|date=5 October 1927}}&lt;/ref&gt; On October 4, 1927 Yackey took the plane out for one more rigorous test flight over the air fields, despite it having been tested and proven in service. According to mechanic Henry Johnson, a noted weakness in the right wing prompted him to install a new iron bracing for support. In mid-flight, this bracing failed, causing the wing to buckle during a steep turn. Yackey immediately lost control of the plane, plunging him 500 feet from the air into the ground, where the plane exploded. Newspaper reports from around the Midwest described Yackey's death in gruesome detail, that his body was crushed and then burned beyond recognition in the wreckage. The noise of the airplane breaking up in mid-air alerted local firefighters, who observed the plane come down.&lt;ref&gt;{{cite news|title=Tony Yackey, Former St. Louisan, Killed When Plane Crashes|work=St. Louis Globe-Democrat|date=4 October 1927}}&lt;/ref&gt;
+
+Yackey's body was claimed by his brother Carl F. Yackey and brother-in-law Walter Koken, and taken back to St. Louis, MO. His body is interred at Bellafontaine Cemetery in St. Louis City.&lt;ref&gt;{{cite web|title=Wilfred Anthony Yackey, Jr.|url=https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Yackey&amp;GSfn=Wilfred&amp;GSbyrel=all&amp;GSdy=1927&amp;GSdyrel=in&amp;GSst=26&amp;GScntry=4&amp;GSob=d&amp;GRid=84683548&amp;df=all&amp;|website=FindAGrave.com|accessdate=2 February 2017}}&lt;/ref&gt;
+ 
+In the months after Yackey's death, the Government Civil Aviation Board would declare that Checker Aviation Field was unsafe for either private or commercial airline usage, and moved to have the property condemned. Today the former airfield is preserved as a meadow, with granite marker commemorating the foundation and history of the facilities.
+
+== Personal life ==
+Yackey was the third of five children. His father, Wilfred A. Yackey, Sr., was a secretary at St. Louis Cooperage Company when he died. In 1921 Yackey married Olive R. Koken. The couple had no children.
+
+Yackey was named a member of the [[Royal Aeronautical Society]] in 1925.&lt;ref&gt;{{cite journal|title=Royal Aeronautical Society (Official Notes)|journal=[[Flight International|Flight]]|date=19 February 1925|volume=No. 8, Vol. XVH,|issue= 843|page= 102|url=https://www.flightglobal.com/pdfarchive/view/1925/1925%20-%200102.html|accessdate=2 February 2017}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+'''Bibliography'''
+* Glenview Pioneer Press. 16 May 2001. p.&amp;nbsp;5, 9.
+
+{{DEFAULTSORT:Yackey, Wilfred}}
+[[Category:Recipients of the Croix de Guerre (France)]]
+[[Category:People from St. Louis]]
+[[Category:Aviators from Illinois]]
+[[Category:1927 in aviation]]
+[[Category:Aviation history of the United States]]
+[[Category:Aviation pioneers]]
+[[Category:United States airmail pilots]]
+[[Category:American World War I pilots]]
+[[Category:People from Maywood, Illinois]]
+[[Category:1890 births]]
+[[Category:1927 deaths]]</text>
+      <sha1>onoo46krainfdgma5gubeucxv1nxxr5</sha1>
+    </revision>
+  </page>
+</mediawiki>

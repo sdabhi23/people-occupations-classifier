@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dov Davidoff</title>
+    <ns>0</ns>
+    <id>2585513</id>
+    <revision>
+      <id>848213640</id>
+      <parentid>841776373</parentid>
+      <timestamp>2018-06-30T13:44:51Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2041">'''Dov Davidoff''' is an [[United States|American]] [[comedian]]. Davidoff is originally from [[Englishtown, New Jersey]]. In addition to performing regularly in clubs and colleges throughout the country, Davidoff also acted in ''[[Invincible (2006 film)|Invincible]]'' with [[Mark Wahlberg]], and has made guest or recurring appearances on various TV shows including ''[[Crashing (U.S. TV series)|Crashing]]'', ''[[Chelsea Lately]]'', ''[[Chappelle's Show]]'', ''[[Jimmy Kimmel Live!]]'', ''[[Law &amp; Order]]'', ''[[Raines]]'', ''[[Maron (TV series)|Maron]]'', ''[[Whitney (TV series)|Whitney]]'', ''[[Horace and Pete]]'' and ''[[The League]]''.&lt;ref&gt;{{cite web|url=https://www.imdb.com/name/nm1359330/|title=Dov Davidoff|website=IMDb}}&lt;/ref&gt;
+
+On April 22, 2008, he released a CD entitled "''The Point Is..''" on [[Comedy Central Records]].&lt;ref&gt;{{cite web|url=http://www.jesterjournal.com/DovDavidoffCD.htm| title=King Davidoff| website=www.jesterjournal.com}}&lt;/ref&gt;
+
+His book ''Road Dog: Life and Reflections from the Road'' ''as a Stand-up Comic'' will release in October 2017.&lt;ref&gt;{{cite web| url=https://us.macmillan.com/books/9781250038074| title=Road Dog - Life and Reflections from the Road as a Stand-up Comic| publisher=[[Macmillan Publishers]]| accessdate=August 15, 2017}}&lt;/ref&gt;
+
+Most recently, Davidoff has been guest starring with [[Ray Liotta]] and [[Jennifer Lopez]] on the NBC cop drama ''[[Shades_of_Blue_(TV_series)|Shades of Blue]]''.&lt;ref&gt;{{cite web| url=http://www.comingsoon.net/tv/news/793405-nbc-midseason-schedule| title=NBC Midseason 2017 Schedule Revealed| first=Silas| last=Lesnick| date=December 8, 2016| website=[[ComingSoon.net]]}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+*{{IMDb name|1359330}}
+
+{{Authority control}}
+{{DEFAULTSORT:Davidoff, Dov}}
+[[Category:American stand-up comedians]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:21st-century American comedians]]
+
+{{US-comedian-stub}}</text>
+      <sha1>aesq0skfljtmf6gsv8ydtq8gnw8wstk</sha1>
+    </revision>
+  </page>
+</mediawiki>

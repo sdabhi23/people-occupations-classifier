@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bernard Ziegler</title>
+    <ns>0</ns>
+    <id>13909708</id>
+    <revision>
+      <id>851199080</id>
+      <parentid>826076843</parentid>
+      <timestamp>2018-07-20T18:44:54Z</timestamp>
+      <contributor>
+        <username>Timrollpickering</username>
+        <id>32005</id>
+      </contributor>
+      <minor/>
+      <comment>per [[Wikipedia:Categories for discussion/Log/2018 April 30]], replaced: Category:Officiers of the Ordre national du Mérite → Category:Officers of the National Order of Merit (France) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4329">{{BLP sources|date=December 2008}}
+
+{{Infobox person
+| name = Bernard Ziegler
+| birth_date = {{birth date and age|1933|3|12}}
+| birth_place = [[Boulogne-Billancourt]], France
+| nationality = French
+| education = [[École Polytechnique]]
+| occupation = {{hlist|Engineer|Test pilot}}
+}}
+
+'''Bernard Ziegler''' (born March 12, 1933) is the former [[Airbus]] senior vice president for engineering. He is well known for his evangelical zeal for the application of the [[Aircraft flight control systems#Fly-by-wire control systems|fly-by-wire]] system in the Airbuses. He is the son of the former Airbus CEO, [[Henri Ziegler]].
+
+Bernard Ziegler was born in [[Boulogne-Billancourt|Boulogne sur Seine]], France. He was educated in the [[École Polytechnique]] (1954), as an engineer and  [[École de l'Air]] (1955), for his pilot training and military commission. Ziegler began his career as a fighter pilot in the French air force. He saw action in the [[Algerian War]] and was decorated twice. Principal medals and decorations received include the [[Ordre national du Mérite|Officier de l’Ordre National du Mérite]], [[Médaille de l'Aéronautique]], [[Croix de la Valeur Militaire]] and [[Légion d'honneur|Officier de la Légion d'honneur]].
+
+In August 1961 the [[Vallee Blanche Aerial Tramway]] was badly damaged when an aeroplane of the French Air Force piloted by Bernard Ziegler tore its hauling cable. Three cars crashed and six people were killed.&lt;ref&gt;[http://www.time.com/time/magazine/article/0,9171,872735,00.html ''Time'']&lt;/ref&gt;
+
+He continued his studies in [[École nationale supérieure de l'aéronautique et de l'espace]] ([[Supaéro]]) (1961) and was later posted to [[EPNER|École du personnel navigant d'essais et de réception]] ([[EPNER]]), the French Air Force [[test pilot]] establishment in 1964. He was the chief test pilot for the [[Dassault Mirage G]] in 1968. At [[Airbus]], his career spans from chief test pilot (1972), to senior vice president for flight and support and then, to senior vice president for engineering. As a test pilot, he flew the first flights of the [[Airbus A300]], [[Airbus A310|A310]], [[Airbus A320 family|A320]] and the [[Airbus A340|A340]].
+
+Bernard Ziegler was the most influential figure in developing the cockpit design and fly-by-wire control system for the Airbus airliners. He proposed that numerous technological innovations be applied to Airbus aircraft; for example, using composites, twin-engine configuration for the A300, [[Aircraft flight control systems|fly-by-wire]] and many others. He was the guiding force in the creation of the [[flight envelope protection]], incorporated in the Airbus flight-control software. This innovation allows the pilot to apply the maximum control forces considered necessary, while preventing inadvertent inputs that could place the aircraft outside the safety margin. This feature is considered by many to be highly beneficial in avoiding unusual attitudes in flight and in safely maximizing the effectiveness of evasive maneuvers in response to [[Ground proximity warning system|GPWS]] warnings.
+
+For his efforts in advancing the fly-by-wire cause, he was honoured by the [[Flight Safety Foundation]] in 1998. He retired from Airbus after 25 years of service in 1997.
+
+==References==
+&lt;references/&gt;
+
+==Bibliography==
+
+*"Cowboys d'Airbus" by Bernard Ziegler, Privat, 2008.
+
+==External links==
+* [http://www.airbus.com Airbus web page]
+* [https://web.archive.org/web/20070818143532/http://www.flightsafety.org/citations/ziegler_cit.html Flight Safety Foundation President’s Citation ]
+* [http://www.toulouseweb-aero.com/carnet/carnet.php?alpha=Z Carnet Personnalités aeronautiques et spatiales] {{fr icon}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ziegler, Bernard}}
+[[Category:1933 births]]
+[[Category:Living people]]
+[[Category:People from Boulogne-Billancourt]]
+[[Category:French aerospace engineers]]
+[[Category:École Polytechnique alumni]]
+[[Category:Supaéro alumni]]
+[[Category:French aviators]]
+[[Category:Test pilots]]
+[[Category:French military personnel of the Algerian War]]
+[[Category:Officers of the National Order of Merit (France)]]
+[[Category:Recipients of the Aeronautical Medal]]
+[[Category:Recipients of the Cross for Military Valour]]
+[[Category:Officiers of the Légion d'honneur]]
+[[Category:Airbus people]]</text>
+      <sha1>5rljgw7bk1hqr6a5nl93shnvoi35gxy</sha1>
+    </revision>
+  </page>
+</mediawiki>

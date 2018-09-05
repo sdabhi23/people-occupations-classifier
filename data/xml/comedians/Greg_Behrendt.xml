@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Greg Behrendt</title>
+    <ns>0</ns>
+    <id>2968574</id>
+    <revision>
+      <id>833801626</id>
+      <parentid>798181176</parentid>
+      <timestamp>2018-04-02T14:08:33Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8985">{{Use mdy dates|date=January 2015}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+| image       = Greg Behrendt December 2011.jpg
+| caption     = Greg Behrendt appearing for [[The Meltdown]] in 2011
+| name        = Greg Behrendt
+| center      =
+| pseudonym   =
+| birth_name  = Gregory Paul Behrendt
+| birth_date  = {{Birth date and age|1963|7|21|mf=y}}
+| birth_place = [[San Francisco, California]]
+| death_date  =
+| death_place =
+| occupation  = Comedian, host, writer, author, musician
+| genre       = Comedy, [[Podcasts]], Rock, [[Self-improvement]], [[Dating]]
+| movement    =
+| notableworks = ''[[Walking the Room]]''&lt;br&gt;[[The Reigning Monarchs]]&lt;br&gt;''[[He's Just Not That into You]]''&lt;br&gt; ''[[The Greg Behrendt Show]]''
+| influences  =
+| children = 2
+| spouse = Amiira Ruotola
+| influenced  =
+}}
+
+'''Gregory Behrendt''' (born July 21, 1963) is an American comedian and author. His work as a script consultant to the [[HBO]] sitcom ''[[Sex and the City]]'', starring [[Sarah Jessica Parker]], paved the way for co-authoring of the [[New York Times bestseller]] ''[[He's Just Not That into You]]'' (2004), later adapted into a film by the [[He's Just Not That Into You (film)|same name]].&lt;ref name="tr"&gt;{{cite news|url=https://www.telegraph.co.uk/culture/theatre/edinburgh-festival/6020512/Greg-Behrendt-why-Sex-and-the-City-needed-me.html|title=Greg Behrendt: why Sex and the City needed me|date=August 13, 2009|work=The Telegraph | location=London | first=Veronica | last=Lee}}&lt;/ref&gt; Apart from that he also hosted two short-lived television shows, ''[[The Greg Behrendt Show]]'' (2006) and ''[[Greg Behrendt's Wake Up Call]]'' (2009).&lt;ref name="la"&gt;{{cite news|url=http://articles.latimes.com/2009/feb/08/entertainment/ca-monitor8|title='He's Just Not That into You' and 'Greg Behrendt's Wake Up Call|date=February 8, 2009|work=Los Angeles Times | first=Jon | last=Caramanica}}&lt;/ref&gt;&lt;ref name="w"&gt;{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2009/02/12/AR2009021204209.html|title='If I'm the Last Stop, You're in Trouble.'|date=February 15, 2009|work=Washington Post}}&lt;/ref&gt;
+
+==Early life and education==
+Greg Behrendt graduated with a Bachelor of Arts degree in theater from the [[University of Oregon]] in 1991, though initially he had enrolled to be a business major and to play rugby.&lt;ref name="va"&gt;{{cite news|url=http://www.variety.com/article/VR1117802701.html?categoryid=1043&amp;cs=1|title=Greg Behrendt: Masculinity given new dimensions|date=July 12, 2001|publisher=Variety | first=Steve | last=Chagollan}}&lt;/ref&gt;
+
+==Career==
+After graduation, Behrendt moved to San Francisco, where he joined an improvisational troupe, and met fellow comic Margaret Cho. In his early years, he performed comedy and [[Improvisational theatre|improv]] in San Francisco.  He was a member of the improv troupe Crash and Burn, whose members included [[Margaret Cho]]. He came up as a performer alongside such comics as [[David Cross]] (with whom he roomed for years) and [[Patton Oswalt]].&lt;ref name=oc/&gt;
+
+He went on to appear on ''[[The Tonight Show]]'' and ''[[Late Night with Conan O'Brien]]''. His stand-up special, ''Greg Behrendt is Uncool'', debuted on [[Comedy Central]] in January 2006.
+
+In June 2006, he appeared on ''[[Celebrity Poker Showdown]]'', playing for a domestic violence charity. Behrendt was a script consultant for the [[HBO]] sitcom ''[[Sex and the City]]'', "offering script notes from the perspective of a straight man to the writing team, composed of women and gay men".&lt;ref name=za/&gt;
+
+With [[Liz Tuccillo]], Behrendt co-wrote the 2004 [[self-help book]] ''[[He's Just Not That into You]]''.  It was adapted by [[Drew Barrymore]]'s [[Flower Films]]/[[Warner Bros.]] as a [[He's Just Not That Into You (film)|movie of the same name]], premiering February 6, 2009.
+
+With his wife Amiira Ruotola-Behrendt, he co-wrote ''It's Called a Breakup Because It's Broken''.
+
+He released the book ''It's Just a Date!''&lt;ref&gt;[https://www.amazon.com/dp/0007228325 It's Just a Date] ''amazon.com''.&lt;/ref&gt; in the UK.
+
+His daily daytime "self-help" talk show, ''[[The Greg Behrendt Show]]'', premiered September 12, 2006, four months later [[Sony Pictures Television]] announced, in January 2007 that the series would not have a second season, and the show aired its last new episodes in February 2007.&lt;ref&gt;{{cite web|url=http://tvseriesfinale.com/tv-show/the-greg-behrendt-show-syndicated-self-help-cancelled/|title=The Greg Behrendt Show: Syndicated Self-Help Cancelled|date=January 25, 2007|publisher=TVseriesfinale}}&lt;/ref&gt;
+
+He also did a mid-season program for the 2006–07 television season, ''Greg Behrendt's Wake-Up Call'', for [[American Broadcasting Company|ABC]], which never aired on the network. The program began airing in January 2009 on ABC's sister cable network [[SoapNet]].&lt;ref&gt;[https://www.reuters.com/article/televisionNews/idUSTRE4AA23K20081111 Reuters]&lt;/ref&gt; He also appeared on the Great Debate at the 2010 [[Melbourne Comedy Festival]], in which he argued as the third speaker for the negative team on the debate "Food is Better Than Sex". Behrendt's team, made up of [[New Zealand]] comedian [[Cal Wilson]], English comedian [[Russell Kane]] and Behrendt himself, won the comedy event.
+
+He started the [[podcast]] ''[[Walking the Room]]'' with his friend [[Dave Anthony]].
+
+==Personal life==
+He is married to Amiira Ruotola. They have two daughters, Mighty Luna and Bella True.&lt;ref name="oc"&gt;[http://www.ocregister.com/articles/behrendt-says-people-2225719-guy-candy Just who is Greg Behrendt?] ''[[OC Register]]'', November 11, 2008&lt;/ref&gt; He is a recovering alcoholic.&lt;ref name="za"&gt;{{cite web|url=http://www.zap2it.com/tv/news/tvfeatures/zap-gregbehrendtfixyouup,0,4250190.story|title='Greg Behrendt' Wants to Fix You Up|date=July 12, 2008|publisher=[[Zap2it]]}}&lt;/ref&gt;&lt;ref&gt;Interview, [[KUPD]] morning show ''Holmberg's Morning Sickness'', September 25, 2008&lt;/ref&gt; He plays guitar in his own surf/rockabilly instrumental band, '''[[The Reigning Monarchs]]'''.&lt;ref&gt;[https://www.myspace.com/thereigningmonarchs MySpace: The Reigning Monarchs]&lt;/ref&gt;
+
+In June 2015, Behrendt announced&lt;ref&gt;{{cite web|last1=Behrendt|first1=Greg|title=Quick update on HOW TO KEEP YOUR MARRIAGE FROM SUCKING |url=https://www.facebook.com/18934830605/photos/a.126488675605.103303.18934830605/10153442690635606/?type=1&amp;permPage=1|website=Greg Behrendt FB Fan Page|publisher=Facebook|accessdate=9 June 2015}}&lt;/ref&gt; via his [[Facebook|Facebook Fan Page]] Fan Page that he was battling (an unspecified)  cancer, and had undertaken three rounds of chemotherapy. He discussed his diagnosis on episode 16TF of Jimmy Pardo's podcast Never Not Funny as well as Wil Anderson's Podcast "Wilosophy" on 9 July 2015. He stated that he had a form of lymphoma. His cancer is in remission as of autumn of 2015.
+
+==Literary works==
+* ''Pocket Guide to He's Just Not That into You: The No-excuses Truth to Understanding Guys'', with Liz Tuccillo. Peter Pauper Press, Inc., 2005. {{ISBN|1593599900}}.
+* {{cite book| author = Greg Behrendt|author2=Amiira Ruotola-Behrendt| title = It's Called a Breakup Because It's Broken: The Smart Girl's Break-Up Buddy| date = September 5, 2006| publisher = Broadway| isbn = 978-0-7679-2196-1 }}
+* {{cite book| author = Greg Behrendt|author2=Amiira Ruotola-Behrendt| title = It's Just a Date: How to Get 'em, How to Read 'em, and How to Rock 'em| date = July 1, 2008| publisher = HarperElement| isbn = 9780007228324 }}
+* {{cite book| author = Greg Behrendt|author2=Liz Tuccillo| title = He's Just Not That into You: The No-Excuses Truth to Understanding Guys| date = January 6, 2009| publisher = Gallery Books| isbn = 978-1-4169-0977-4 }}
+
+==Comedy albums==
+* ''Greg Behrendt Is Uncool'' (2006)
+* ''That Guy From That Thing'' (2009)
+* ''Original Uncool'' (2011)
+** (contains much of the same material as ''Greg Behrendt Is Uncool'')
+
+==References==
+{{Reflist}}&lt;!--added above External links/Sources by script-assisted edit--&gt;
+
+==External links==
+* [http://www.gregorybehrendt.com/ Greg Behrendt's official website]
+* {{IMDb name|1021163|Greg Behrendt}}
+* [http://russellbates.com/work/greg-behrendt-does-not-rock/ Greg Behrendt Does Not Rock], a short film
+* [https://web.archive.org/web/20080705230129/http://www.wickedinfo.com/content/view/229/1/ Interview with Greg Behrendt] at WickedInfo.com
+
+{{Authority control}}
+
+{{DEFAULTSORT:Behrendt, Greg}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:American male writers]]
+[[Category:American stand-up comedians]]
+[[Category:Writers from San Francisco]]
+[[Category:American self-help writers]]
+[[Category:American television talk show hosts]]
+[[Category:University of Oregon alumni]]
+[[Category:Contestants on American game shows]]
+[[Category:American male screenwriters]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>231b5yjn1muefvnehoey9gbhc8fxgvi</sha1>
+    </revision>
+  </page>
+</mediawiki>

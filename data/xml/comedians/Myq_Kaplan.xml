@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Myq Kaplan</title>
+    <ns>0</ns>
+    <id>24260367</id>
+    <revision>
+      <id>846991285</id>
+      <parentid>833701505</parentid>
+      <timestamp>2018-06-22T04:39:16Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP;add/change/refine category; MOS fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7816">{{Infobox comedian
+|name              = Myq Kaplan
+|image             = Myq Kaplan, the Meltdown, December 2011.jpg
+|imagesize         =
+|caption           = Kaplan in December 2011
+|pseudonym         =
+|birth_name        = Michael Kaplan
+|birth_date        = {{birth date and age|1978|10|7}}
+|birth_place       = [[Livingston, New Jersey]]
+|medium            = [[Stand-up comedian]]
+|active            = 2005&amp;ndash;present
+|genre             = 
+|subject           = 
+|influences        = 
+|spouse            = 
+|notable_work      =
+|signature         =
+|website           = {{URL|http://myqkaplan.com/}}
+}}
+
+'''Myq Kaplan''' (born October 7, 1978&lt;ref name=MySpace&gt;[http://www.myspace.com/myqkaplan Myq Kaplan] at [[MySpace]]&lt;/ref&gt;) is an American [[stand-up comedy|stand-up comedian]]. Born '''Michael Kaplan'''&lt;ref name=Hoot&gt;Channon, Alison. [http://thehoot.net/articles/5876 "Brandeis comedians take smarts to the stage"], ''The Brandeis Hoot'', 13 March 2009.&lt;/ref&gt; in [[Livingston, New Jersey]],&lt;ref&gt;Wilkowe, Ellen S. [http://www.dailyrecord.com/apps/pbcs.dll/article?AID=2011301290051 "Things to do in Morris County, NJ: Last Comic Standing tour comes to Morristown, NJ, Jan. 15"]{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}, ''[[Daily Record (Morristown)]]'', January 13, 2011. Accessed February 24, 2011. "One-time aspiring singer/songwriter Myq Kaplan, 32, formerly of Livingston and now of New York City, changed his tune … and converted to comedy."&lt;/ref&gt;&lt;ref name=badslava&gt;Yaryshkin, Slava. [http://www.badslava.com/2009/04/myq-kaplan.html ''Stand-up Comedy 101'' Interview with Myq Kaplan], 6 April 2009.&lt;/ref&gt; he is based in [[Boston]]&lt;ref name="Alterman July 2009"&gt;Alterman, Sara Faith. [http://thephoenix.com/BLOGS/phlog/archive/2009/07/23/montreal-comedy-festival-the-new-faces-showcase.aspx "Montreal Comedy Festival: The New Faces showcase"], [[The Phoenix (newspaper)|''The Boston Phoenix'']], 23 July 2009.&lt;/ref&gt; and [[New York City]].&lt;ref&gt;Gadino, Dylan P. [http://punchlinemagazine.com/blog/2009/07/just-for-laughs-new-faces-part-2 Just For Laughs: New Faces"], ''Punchline'', 27 July 2009.&lt;/ref&gt;
+
+==Education==
+Kaplan received his bachelor's degree from [[Brandeis University]] in 2000&lt;ref name=Hoot /&gt; and a master's degree in [[linguistics]] from [[Boston University]].&lt;ref name="BU Today"&gt;Laskowski, Nicole. [http://www.bu.edu/today/video/2008/01/08/last-comic-standing "The Last Comic Standing?"], ''[[BU Today]]'', 8 August 2007.&lt;/ref&gt; While a student at Boston University in 2005, he won its "funniest student" contest.&lt;ref name="BU Today" /&gt;
+
+==Comedy career==
+Kaplan tours North America regularly and has performed over 1,000 shows at [[comedy club]]s.&lt;ref name="BU Today" /&gt;
+
+He was a semifinalist in the 2006 Boston Comedy Festival and in the 2006 Seattle Comedy Competition.&lt;ref name="BU Today" /&gt; He was one of nine finalists in [[Comedy Central]]'s 2007 ''Open Mic Fight'' competition. In 2008, a reader poll by Boston's ''[[The Phoenix (newspaper)|The Phoenix]]'' named him Local Comedian of the Year.&lt;ref&gt;[http://thephoenix.com/theBest/Boston/2008/Arts/LocalComedian/ Readers' Pick: Best Local Comedian: Myq Kaplan], ''The Boston Phoenix'', 2008.&lt;/ref&gt; He took part in [[Montreal]]'s [[Just for Laughs]] comedy festival in 2009.&lt;ref name="Alterman July 2009" /&gt;&lt;ref&gt;Borden, Jane. [http://www3.timeoutny.com/newyork/tonyblog/2009/07/just-for-laughs-in-montreal-day-one/ "Just for Laughs in Montreal: Day One"], ''[[Time Out (company)|Time Out]] New York'', 23 July 2009.&lt;/ref&gt;
+
+===Television, internet and recordings===
+Myq Kaplan has appeared on Comedy Central's ''[[Live at Gotham]]'' and in promotional work for the network. He has been featured on ''[[ABC News Now]]''.
+
+On December 16, 2009, he performed for the first time on ''[[The Tonight Show]]''.&lt;ref&gt;[https://archive.is/20130204191008/http://www.tonightshowwithconanobrien.com/video/myq_kaplan_(12/16/09)/1186242/ ''Tonight Show'' video clip],{{dead link|date=June 2010}} 16 December 2009.&lt;/ref&gt; Kaplan also appeared as a contestant on the competition TV series ''[[Last Comic Standing#Season 7: Summer 2010|Last Comic Standing]]'' during the summer 2010.&lt;ref&gt;{{cite news |title=New York Auditions Day 2 |work=A.V. Club |publisher=The Onion |date = June 21, 2010 | first=Steve | last=Heisler |url=http://www.avclub.com/articles/new-york-auditions-day-2,42325/ }}&lt;/ref&gt; He placed fifth in the competition.&lt;ref&gt;[http://www.realitytvworld.com/news/last-comic-standing-crowns-felipe-esparza-seventh-season-champ-11425.php "'Last Comic Standing' crowns Felipe Esparza seventh-season champ"], Reality TV World.com, August 10, 2010.&lt;/ref&gt;
+
+He is also a frequent guest on long running comedy [[podcast]] ''[[Keith and the Girl]]''.
+
+Myq Kaplan has been a guest on the podcast "You Made It Weird With Pete Holmes" 2 times, one released on April 4, 2012 and as a returning guest released December 20, 2017
+
+Kaplan hosts his own podcast ''Hang Out with Me''.&lt;ref&gt;myqkaplan.com&lt;/ref&gt;
+
+On April 30, 2010, his [[Comedy Central Presents]] special aired on Comedy Central.
+
+Myq Kaplan's comedy album ''Vegan Mind Meld'' was released April 27, 2010, and his second album, ''Please Be Seated'' was released in 2012.
+
+In August 2014, Myq Kaplan's one-hour standup special entitled ''Small, Dork, and Handsome'' appeared on Netflix for streaming.
+
+On February 14, 2014 Kaplan was the first guest on [[Ken Reid (comedian)|Ken Reid]]'s ''TV Guidance Counselor Podcast''.
+
+On January 31, he was the first guest on ''Bombing with Mike Dorval'', where he talked about his joke writing and a joke that bombed for the New York Times.&lt;ref&gt;{{Cite web|url=http://roxlabs.net/2016/02/01/01-myq-kaplan/|title=01 – Myq Kaplan {{!}} Rox Labs|access-date=2016-06-11}}&lt;/ref&gt;
+
+Kaplan was also a contestant on the tenth season of ''[[America's Got Talent (season 10)|America's Got Talent]].'' He was eliminated in the Quarterfinals.
+
+==Personal life==
+Kaplan is also a musician, primarily as a guitarist and vocalist. He is a [[Veganism|vegan]],&lt;ref&gt;{{cite web |title=Art of the Animal: Myq Kaplan 
+|format=video |date=August 24, 2011 |first=Jasmin |last=Singer |work=Art of the Animal, Video |publisher=Our Hen House |url= http://www.ourhenhouse.org/2011/08/art-of-the-animal-myq-kaplan/ }}&lt;/ref&gt; polyamorous &lt;ref&gt;{{cite web|title=Shame On: Polyamory|url=http://shameon.libsyn.com/009-polyamory-myq-kaplan}}&lt;/ref&gt; and once described himself as "atheistic".&lt;ref&gt;[https://archive.is/20120710151929/http://myqkaplan.com/bio About Myq Kaplan (archived)] at his [http://myqkaplan.com/?page_id=2 official website] {{webarchive|url=https://web.archive.org/web/20101125080631/http://myqkaplan.com/?page_id=2 |date=2010-11-25 }}&lt;/ref&gt;
+
+==Notes==
+{{reflist}}
+
+==External links==
+*[http://www.myqkaplan.com/ Official website]
+*[http://godzillionaire.blogspot.com/ Myq Kaplan's blog]
+*{{IMDb name|3050184}}
+*[http://www.myspace.com/myqkaplan Myq Kaplan] at [[MySpace]]
+*[http://www.facebook.com/pages/Myq-Kaplan/13718328274/ Myq Kaplan] at [[Facebook]]
+*[https://twitter.com/myqkaplan Myq Kaplan] at [[Twitter]]
+*[http://www.gentlemensclubpodcast.com/post/5761883287 Myq Kaplan] podcast interview on ''The Gentlemen's Club with Caleb Bacon''
+*[http://www.thespittake.com/2012/09/25/myq-kaplan-and-micah-sherman-please-be-seated-bseen-media/ Myq Kaplan] album review
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kaplan, Myq}}
+[[Category:1978 births]]
+[[Category:American Jews]]
+[[Category:American male television actors]]
+[[Category:American stand-up comedians]]
+[[Category:Brandeis University alumni]]
+[[Category:Jewish comedians]]
+[[Category:Last Comic Standing contestants]]
+[[Category:Living people]]
+[[Category:Male actors from New Jersey]]
+[[Category:People from Livingston, New Jersey]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>9d91y18o84xhl7gyj809769fs8an79p</sha1>
+    </revision>
+  </page>
+</mediawiki>

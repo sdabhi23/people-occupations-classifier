@@ -1,0 +1,145 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Stephen Rogers (politician)</title>
+    <ns>0</ns>
+    <id>2590282</id>
+    <revision>
+      <id>845873627</id>
+      <parentid>843987112</parentid>
+      <timestamp>2018-06-14T18:46:02Z</timestamp>
+      <contributor>
+        <username>Dawynn</username>
+        <id>6655086</id>
+      </contributor>
+      <comment>Stub removal. [[Wikipedia:WikiProject Stub sorting|You can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7072">{{About|the Canadian politician|other people named with the same name|Stephen Rogers (disambiguation)}}
+{{BLP sources|date=December 2009}}
+{{Infobox Politician
+|image =
+| honorific-prefix    =
+| name = Stephen Rogers
+| honorific-suffix    = 
+| birth_date = {{birth date and age|1942|3|28}}
+| birth_place = [[Vancouver]], [[British Columbia]]
+| office = 29th [[Speaker of the Legislative Assembly of British Columbia]]
+| premier = [[Bill Vander Zalm]]&lt;br&gt;[[Rita Johnston]]
+| lieutenant_governor=[[David Lam (real estate entrepreneur)|David Lam]]
+| term_start  = April 5, 1990
+| term_end    = October 16, 1991
+| predecessor= [[John Reynolds (Canadian politician)|John Reynolds]]
+| successor = [[Joan Sawicki]]
+| constituency_AM1 = [[Vancouver South (provincial electoral district)|Vancouver South]]
+| assembly1        = British Columbia Legislative
+| term_start1 = December 11, 1975
+| term_end1 = October 17, 1991
+| predecessor1 = [[Jack Radford]]&lt;br&gt;[[Daisy Webster]]
+| successor1 = ''Riding Abolished''
+| alongside1 = 	[[William Gerald Strongman|William Strongman]] &lt;small&gt;(1975-1979)&lt;/small&gt;&lt;br /&gt;[[Peter Hyndman]] &lt;small&gt;(1979-1983)&lt;/small&gt;&lt;br /&gt;[[Russell Fraser]] &lt;small&gt;(1983-1991)&lt;/small&gt;
+|office3 = Minister of Environment and Parks of [[Executive Council of British Columbia|British Columbia]]
+|premier3 = [[Bill Vander Zalm]]
+|term_start3 = November 6, 1986 &lt;ref name="Kopas"&gt;
+[https://books.google.com/books?id=Ejae-Ia6n4AC&amp;pg=PA107&amp;dq=Stephen+Rogers+Canada+Conservative+Social+Credit&amp;hl=en&amp;ei=OSIlTf-pKcaAlAeChc3nAQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CCYQ6AEwAQ#v=onepage&amp;q&amp;f=false Taking the Air: Ideas and Change in Canada's National Parks] Kopas, Paul Sheldon, pg. 107&lt;/ref&gt;
+|term_end3 = March 3, 1987
+|predecessor3 = [[Forbes Charles Austin Pelton]]
+|successor3 = [[William Bruce Strachan]]
+|office4 = Minister of Intergovernmental Relations of [[Executive Council of British Columbia|British Columbia]]
+|premier4 = [[Bill Vander Zalm]]
+|term_start4 = March 3
+|term_end4 = November 13, 1987
+|predecessor4 = [[William Bruce Strachan]]
+|successor4 = 
+|office5 = Minister of State, Nechako of [[Executive Council of British Columbia|British Columbia]]
+|premier5 = [[Bill Vander Zalm]]
+|term_start5 = October 22, 1987
+|term_end5 = July 6, 1988
+|predecessor5 = 
+|successor5 = 
+|office6 = Minister of Transportation and Highways of [[Executive Council of British Columbia|British Columbia]]
+|premier6 = [[Bill Vander Zalm]]
+|term_start6 = November 13, 1987
+|term_end6 = July 6, 1988
+|predecessor6 = [[Clifford Charles Michael]]
+|successor6 = [[Thomas Neil Vant]]
+| party = [[British Columbia Social Credit Party|Social Credit]]
+| occupation = Pilot
+}}
+'''Charles Stephen Rogers''' (born March 28, 1942)&lt;ref name="normandin"/&gt; was a [[British Columbia]] politician and cabinet minister from 1975 to 1991. Rogers ran for the leadership of the [[British Columbia Social Credit Party]] in the 1986 leadership race, but lost to [[Bill Vander Zalm]].&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=wy5mAAAAIBAJ&amp;sjid=Kn8NAAAAIBAJ&amp;pg=1459,1972505 |title=Two ministers quit B.C. jobs |newspaper=[[Calgary Herald]] |date=August 6, 1986 |page=5 |accessdate=2012-02-15}}&lt;/ref&gt;
+
+He was born in [[Vancouver]], [[British Columbia]], the son of Forrest Rogers and Gwynneth Thomas, and was educated in [[Vernon, British Columbia|Vernon]] and Vancouver. In 1967, Rogers married Margaret Wallace.&lt;ref name="normandin"&gt;{{cite book |title=Canadian Parliamentary Guide, 1986 |last=Normandin |first=P G |year=1986}}&lt;/ref&gt; He married his second wife Valerie Richards in 1991.Stephen has four children—two from both marriages.
+
+He was elected as a Social Credit [[Legislative Assembly of British Columbia|MLA]] in [[Vancouver South (provincial electoral district)|Vancouver South]] in [[British Columbia general election, 1975|1975]], [[British Columbia general election, 1979|1979]], [[British Columbia general election, 1983|1983]] and [[British Columbia general election, 1986|1986]].  His career culminated in serving as [[Speaker of the Legislative Assembly of British Columbia|Speaker]] until 1991 when he returned to his career as an airline pilot with [[Air Canada]]. He retired from Air Canada in 2002.&lt;ref&gt;{{cite news |url=http://www.ctv.ca/mini/election2006/candidates/59033_CON.html |publisher=CTV |title=Election 2006 |accessdate=2012-02-15 }}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}&lt;/ref&gt;
+
+Rogers was forced to resign from the position of Minister of Energy, Mines and Petroleum Resources in 1986 after it was disclosed that he was in a [[conflict of interest]] position involving a personal tax shelter investment.&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=yXdkAAAAIBAJ&amp;sjid=F38NAAAAIBAJ&amp;pg=1476,462284 |title=Conflict issue snares second B.C. minister  |newspaper=[[Calgary Herald]] |date=January 22, 1986 |page=5 |accessdate=2012-02-15}}&lt;/ref&gt; He resigned as Minister of Health later that same year just before he was charged with failure to disclose financial holdings as required by law.&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=nYJWAAAAIBAJ&amp;sjid=V0ENAAAAIBAJ&amp;pg=1244,2985025 |title=Former minister pleads guilty to not disclosing finances |newspaper=Leader-Post |location=Regina |date=April 12, 1986 |page=11 |accessdate=2012-02-15}}&lt;/ref&gt; In 1987, Rogers resigned as Minister of the Environment following conflict of interest allegations related to a change in boundaries for [[Strathcona Provincial Park]].&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=kO5VAAAAIBAJ&amp;sjid=dOEDAAAAIBAJ&amp;pg=4715,680538 |newspaper=Eugene Register-Guard |title=Environment Minister Resigns |date=March 4, 1987 |page=9 |accessdate=2012-02-15}}&lt;/ref&gt;
+
+He ran as the [[Conservative Party of Canada]] candidate for the riding of [[Vancouver Quadra]] in the [[Canadian federal election, 2004|2004 election]] and again in [[Canadian federal election, 2006|2006]], losing both times to Liberal [[Stephen Owen (politician)|Stephen Owen]].&lt;ref&gt;{{cite web |url=http://www.parl.gc.ca/About/Parliament/FederalRidingsHistory/hfer.asp?Include=Y&amp;Language=E&amp;rid=763&amp;Search=Det |title=Vancouver Quadra, British Columbia (1947 - ) |work=History of Federal Ridings since 1867 |publisher=Parliament of Canada |accessdate=2012-02-15}}&lt;/ref&gt;
+
+Rogers is a lifelong resident of Vancouver.
+
+==References==
+&lt;references /&gt;
+
+{{Vander Zalm Ministry}}
+{{Bill Bennett Ministry}}
+
+{{DEFAULTSORT:Rogers, Stephen}}
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Air Canada people]]
+[[Category:British Columbia Social Credit Party MLAs]]
+[[Category:Canadian aviators]]
+[[Category:Conservative Party of Canada candidates in the 2004 Canadian federal election]]
+[[Category:Conservative Party of Canada candidates in the 2006 Canadian federal election]]
+[[Category:Members of the Executive Council of British Columbia]]
+[[Category:Politicians from Vancouver]]
+[[Category:Speakers of the Legislative Assembly of British Columbia]]
+[[Category:20th-century Canadian politicians]]
+[[Category:Commercial aviators]]</text>
+      <sha1>9bnjgnneos0t4m6yzvg0fu2w1s93gx9</sha1>
+    </revision>
+  </page>
+</mediawiki>

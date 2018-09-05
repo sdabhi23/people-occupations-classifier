@@ -1,0 +1,589 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jason Sudeikis</title>
+    <ns>0</ns>
+    <id>1990980</id>
+    <revision>
+      <id>855694890</id>
+      <parentid>855075645</parentid>
+      <timestamp>2018-08-20T05:19:33Z</timestamp>
+      <contributor>
+        <ip>27.121.90.202</ip>
+      </contributor>
+      <comment>/* Film, television and other work */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36895">{{Use mdy dates|date=June 2011}}
+{{Infobox person
+| name               = Jason Sudeikis
+| image              = File:Jason Suseikis photo.png
+| image_upright      = 
+| alt                = 
+| caption            = Sudeikis at the 2016 [[Academy Awards]] in [[Los Angeles, California]]
+| birth_name         = Daniel Jason Sudeikis
+| birth_date         = {{birth date and age|1975|9|18}}
+| birth_place        = [[Fairfax, Virginia|Fairfax]], [[Virginia]], U.S.
+| death_date         = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date)  --&gt;
+| death_place        = 
+| death_cause        = 
+| resting_place      = 
+| burial_place       = &lt;!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) --&gt;
+| residence          = 
+| nationality        = American
+| other_names        = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = [[Comedian]]{{*}}[[actor]]{{*}}[[screenwriter]]{{*}}[[Film producer|producer]]
+| years_active       = 1997–present
+| era                = 
+| known_for          = ''[[Saturday Night Live]]''&lt;br/&gt;''[[The Cleveland Show]]''&lt;br/&gt;''[[Horrible Bosses]]''&lt;br/&gt;''[[We're the Millers]]''
+| home_town          = [[Overland Park, Kansas|Overland Park]], [[Kansas]], U.S.
+| salary             = 
+| net_worth          = &lt;!-- Net worth should be supported with a citation from a reliable source --&gt;
+| height             = &lt;!-- "X cm", "X m"  or "X ft Y in" plus optional reference (conversions are automatic) --&gt;
+| weight             = &lt;!-- "X kg", "X lb" or "X st Y lb" plus optional reference (conversions are automatic) --&gt;
+| television         = 
+| spouse             = {{marriage|[[Kay Cannon]]|2004|2010|end=div}}
+| partner            = [[Olivia Wilde]] (2011–present; engaged)
+| children           = 2
+| parents            = 
+| relatives          = [[George Wendt]] (uncle)&lt;br/&gt;[[Tom Howard (photographer)|Tom Howard]] (great-grandfather)
+| awards             = 
+| website            = &lt;!-- {{URL|example.com}} --&gt;
+| module             = {{Infobox comedian|embed=yes
+| medium           = {{flatlist|
+* [[Stand-up]]
+* [[film]]
+* [[television]]
+}}
+| genre            = [[Improvisational comedy]]
+}}
+}}
+
+'''Daniel Jason Sudeikis''' ({{IPAc-en|s|ᵿ|ˈ|d|eɪ|k|ɪ|s}} {{respell|suu|DAY|kiss}}; born September 18, 1975)&lt;ref name=TVG&gt;{{cite web| url= http://www.tvguide.com/celebrities/jason-sudeikis/bio/196550 |title=Jason Sudeikis | accessdate=October 21, 2009 | publisher=[[TV Guide|TVGuide.com]] | archivedate=July 6, 2015  | archiveurl= https://web.archive.org/web/20150706055249/http://www.tvguide.com/celebrities/jason-sudeikis/bio/196550}}&lt;/ref&gt; is an American comedian, actor, screenwriter and producer. In the 1990s, he began his career in [[improv comedy]]. Sudeikis performed at [[ComedySportz]] in [[Kansas City, Missouri|Kansas City]] and with [[The Second City]]. In 2003, he was hired as a sketch writer for ''[[Saturday Night Live]]'' and was a cast member from 2005 to 2013.
+
+He appeared on the television shows ''[[30 Rock]]'', ''[[The Cleveland Show]]'', ''[[Eastbound &amp; Down]]'', ''[[It's Always Sunny in Philadelphia]]'', ''[[The Last Man on Earth (TV series)|The Last Man on Earth]]'', and other television shows.
+
+Sudeikis is known for his roles in the films ''[[Horrible Bosses]]'' (2011) and its sequel, ''[[Horrible Bosses 2]]'' (2014), as well as other films such as ''[[Hall Pass]]'' (2011), ''[[We're the Millers]]'' (2013), ''[[Colossal (film)|Colossal]]'' (2016), ''[[The Angry Birds Movie]]'' (2016), and ''[[Mother's Day (2016 film)|Mother's Day]]'' (2016).&lt;ref name=LJWorld&gt;{{cite news | url=http://www2.ljworld.com/news/2005/oct/28/saturday_night_fever/?arts | title = 'Saturday Night' fever | first = Jon | last = Niccum | date = October 28, 2005 | accessdate =June 19, 2009 | work = [[Lawrence Journal-World]] |location =Lawrence, Kansas| archivedate= March 18, 2016| archiveurl =https://web.archive.org/web/20160318004937/http://www2.ljworld.com/news/2005/oct/28/saturday_night_fever/?arts |deadurl=no}}&lt;/ref&gt;
+
+==Early life==
+Daniel Jason Sudeikis was born on September 18, 1975 in [[Fairfax, Virginia]] to Daniel Joseph Sudeikis, a Vice President of business development, and, Kathryn ([[née]] Wendt), a travel agent at Brennco and President of the [[American Society of Travel Agents]].&lt;ref name=TravAg&gt;{{cite web|last=Terrero|first=Ruthanne|title=Courage and Commitment| date=October 11, 2010| url=http://www.travelagentcentral.com/agent-profiles/courage-and-commitment|publisher=TravelAgent Central|accessdate=February 8, 2011| archivedate= May 20, 2016| archiveurl = https://web.archive.org/web/20160520113146/http://www.travelagentcentral.com/agent-profiles/courage-and-commitment| deadurl=no}}&lt;/ref&gt; His father is of [[Irish people|Irish]] and [[Lithuanians|Lithuanian]] ancestry, while his mother has [[German people|German]] and [[Irish people|Irish]] descent.&lt;ref&gt;Stated on ''[[Who Do You Think You Are? (U.S. TV series)|Who Do You Think You Are?]]'', May 11, 2012&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Permalink |url=http://www.nbc.com/news/2012/01/06/nbc-announces-the-celebrities-tracing-their-family-trees-on-season-three-of-who-do-you-think-you-are/ |title=NBC Announces The Celebrities Tracing Their Family Trees On Season Three Of 'Who Do You Think You Are?' Premiering February 3 |publisher=NBC.com |date=January 6, 2012 |accessdate=May 23, 2012| archivedate=January 8, 2012 | archiveurl = https://web.archive.org/web/20120108230856/http://www.nbc.com/news/2012/01/06/nbc-announces-the-celebrities-tracing-their-family-trees-on-season-three-of-who-do-you-think-you-are/}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.albionseed.org/genealogy/getperson.php?personID=I1&amp;tree=sudeikis |title=Daniel Jason "Suds" Sudeikis|publisher=Sudeikis Genealogy Pages via Albionseed.org |accessdate=August 8, 2013| archivedate= March 5, 2016| archiveurl = https://web.archive.org/web/20160305031029/http://www.albionseed.org/genealogy/getperson.php?personID=I1&amp;tree=sudeikis| deadurl=no}}&lt;/ref&gt; His maternal uncle is actor [[George Wendt]], known for his role as [[Norm Peterson]] on ''[[Cheers]]'', and his maternal great-grandfather was photographer [[Tom Howard (photographer)|Tom Howard]].&lt;ref name=WendtObit&gt;{{cite web| title=Loretta Wend: Mother of actor George Wendt|date=July 29, 2010|first=Mike|last=Thomas |url= http://groups.google.com/group/alt.obituaries/browse_thread/thread/0009902a966de11e|publisher=''[[Chicago Sun-Times]]'' via Google Groups alt.obituaries |accessdate=February 8, 2011}}&lt;/ref&gt;&lt;ref name=oga&gt;{{cite news| url=http://articles.chicagotribune.com/2010-07-28/features/ct-met-wendt-obit-0729-20100728_1_mrs-wendt-loretta-howard-george-wendt | work=Chicago Tribune | first=Rick | last=Kogan | title=Loretta M. Wendt, 1922–2010 | date=July 28, 2010| archivedate= March 4, 2016| archiveurl = https://web.archive.org/web/20160304084202/http://articles.chicagotribune.com/2010-07-28/features/ct-met-wendt-obit-0729-20100728_1_mrs-wendt-loretta-howard-george-wendt | deadurl=no}}&lt;/ref&gt;&lt;ref name=eto&gt;{{cite book|author=Wendt, George|url=https://books.google.com/books?id=dGFGK2E4fMMC&amp;pg=PT13&amp;dq=%22There+have+been+breweries+in%22&amp;hl=en&amp;sa=X&amp;ei=X5zKUeq2BvSv4APCyIGIDA&amp;ved=0CCMQ6AEwAA |title=Drinking with George: A Barstool Professional's Guide to Beer|publisher=Simon &amp; Schuster|accessdate=May 23, 2012}}&lt;/ref&gt; 
+
+He has two sisters, Lindsay and Kristen.&lt;ref&gt;{{cite web|first1=azquotes|last1=quotes|title=Jason Sudeikis Talks About His Sisters|url=http://www.azquotes.com/quote/1011088|website=AZ Quote|publisher=AZ Quotes|accessdate=14 December 2017}}&lt;/ref&gt; As a child, he moved with his family to [[Overland Park, Kansas]], which he has described as his hometown.&lt;ref&gt;{{cite web|url=http://www.saturday-night-live.com/snl/news/2005/november/11-15_sudeikisinterview.html |title=How do you get to 'SNL'? How do you get to 'SNL'?|first=Aaron | last=Barnhart|publisher=''[[Kansas City Star]]'' via Saturday-Night-Live.com|date=October 22, 2005|accessdate=May 23, 2012| archivedate= March 3, 2016| archiveurl = https://web.archive.org/web/20160303220119/http://www.saturday-night-live.com/snl/news/2005/november/11-15_sudeikisinterview.html| deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dailynews.com/arts-and-entertainment/20110224/owen-wilson-jason-sudeikis-on-the-suburban-hunt-in-hall-pass|title=Owen Wilson, Jason Sudeikis on the suburban hunt in 'Hall Pass' |work=[[Los Angeles Daily News]]| first= Bob |last=Strauss|date=February 23, 2011 |accessdate=May 23, 2012| archivedate=February 11, 2014 | archiveurl=https://web.archive.org/web/20140211101619/http://www.dailynews.com/arts-and-entertainment/20110224/owen-wilson-jason-sudeikis-on-the-suburban-hunt-in-hall-pass | deadurl=no}}&lt;/ref&gt; He graduated from [[Shawnee Mission West High School]].&lt;ref&gt;{{cite web|last1=Curtis|first1=Charles|title=How Good Is Jason Sudeikis At Hoops?|url=http://www.espn.com/blog/playbook/fandom/post/_/id/18254/undefined|website=ESPN|publisher=ESPN|accessdate=1 January 2018}}&lt;/ref&gt;
+
+Sudeikis was born with [[anosmia]], leaving him with virtually no sense of taste or smell.&lt;ref&gt;{{cite news| url = http://www.people.com/article/olivia-wilde-answers-one-last-thing|title=Why Does Olivia Wilde's Fiancé Jason Sudeikis Think Her Cooking Always Tastes Good?| work=People| date= February 27, 2015| accessdate= April 25, 2016 | quote=My fiancé [Jason Sudeikis] has no sense of smell — he was born without it....}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url = http://blog.sfgate.com/dailydish/2013/08/08/jason-sudeikis-has-no-sense-of-smell/ | title=Jason Sudeikis has no sense of smell| work=[[San Francisco Chronicle]] | date= August 8, 2013|accessdate= April 25, 2016| archivedate=May 28, 2016 | archiveurl =https://web.archive.org/web/20160528155306/http://blog.sfgate.com/dailydish/2013/08/08/jason-sudeikis-has-no-sense-of-smell/ | deadurl=no}}&lt;/ref&gt;
+
+==Career==
+===Career beginnings===
+In the 1990s, Sudeikis began his career in [[improvisational theatre]], specifically [[improv comedy]]. He began performing at [[ComedySportz]] (now called Comedy City) in [[Kansas City, Missouri]]. Sudeikis moved to [[Chicago, Illinois]], where he studied at the [[Annoyance Theatre]] and [[IO Theater]] (formerly known as ImprovOlympic) and was one of the founding members of the longform team, J.T.S. Brown. He also performed with [[Boom Chicago]] in [[Amsterdam]], [[Netherlands]].
+
+Sudeikis was later cast in [[The Second City|The Second City Touring Company]] and performed greatest hit shows while on the road. In the early 2000s, he became a founding member of The Second City Las Vegas, where he performed at the [[Flamingo Las Vegas|Flamingo]].&lt;ref&gt;{{cite web|last1=Second City|first1=The|title=Jason Sudeikis The Second City Biography|url=https://www.secondcity.com/people/other/jason-sudeikis/|website=The Second City|publisher=The Second City|accessdate=14 February 2018}}&lt;/ref&gt;
+
+===''Saturday Night Live''===
+In 2003, while a regular performer at The Second City Las Vegas, Sudeikis was hired as a sketch writer for ''[[Saturday Night Live]]'', and would occasionally make bit appearances as audience members or extras. In May 2005, he became a featured player on the show, and was upgraded to repertory status at the beginning of the show's [[Saturday Night Live (season 32)|32nd season]] on September 30, 2006. In July 2013, Sudeikis announced that he was leaving ''[[Saturday Night Live]]''.&lt;ref&gt;{{cite news|last=Ng|first=Philiana|title=Jason Sudeikis Not Returning to 'SNL'|url=http://www.hollywoodreporter.com/live-feed/jason-sudeikis-not-returning-snl-592498|accessdate=August 28, 2013|work=[[The Hollywood Reporter]]|date=July 24, 2013}}&lt;/ref&gt; In 2015 and 2016, he made occasional appearances on the show.
+
+'''Recurring characters'''
+{{main|Recurring Saturday Night Live characters and sketches (listed by cast member)}}
+* [[George W. Bush]], 43rd [[President of the United States]]. 
+* [[Joe Biden]], 47th [[Vice President of the United States]]. 
+* [[Mitt Romney]], 70th [[Governor of Massachusetts]] and 2012 [[Republican Party (United States)|Republican Party]] nominee for [[President of the United States]].
+* Male A-hole of the [[Two A-Holes]] with actress [[Kristen Wiig]].
+* Ocean Billy, a 1980s fake singer who compare in the sketch ''The Worst of Soul Train'' and sing his great hit "Get Outta My Car, Get Into My Trunk", who is ending with the propose of get into his trunk at the scream of ''I SAID GET INTO MY TRUNK!'' The singer is the parody of the 1980s singer [[Billy Ocean]] and his hit "[[Get Outta My Dreams, Get Into My Car]]".&lt;ref&gt;https://www.youtube.com/watch?v=CFlIUUMzlz8&lt;/ref&gt;
+* Gil, a news anchor who treats his field correspondent Michelle Dison's ([[Kristen Wiig]]) misfortunes as amusement. 
+* One of the guys from the "[[Saturday Night Live TV show sketches|Song Memories]]" sketches who is the first to tell strange stories about where he was when he first heard a song. 
+* Ed Mahoney, a brash man who often makes a fool of himself in public. 
+* Officer Sikorsky, a police officer who brings in convict Lorenzo McIntosh ([[Kenan Thompson]]) in an attempt to "scare straight" the three delinquent teens ([[Bill Hader]], [[Bobby Moynihan]], [[Andy Samberg]], and occasionally the week's guest host) that he often arrests. In the earlier sketches, Officer Sikorsky's last name was Matthews.
+* Dancer on ''[[What Up with That]]'', an overzealous background dancer often dressed in a red and white [[Adidas]] tracksuit with a 1980s man perm. The [[Ed Helms]]/[[Paul Simon]] episode reveals that his real name is Vance.
+* One half of [[Bon Jovi]] opposite band "Jon Bovi" appearing on ''[[Weekend Update]]'' with actor [[Will Forte]]. 
+* DJ Supersoak. Spoof on [[DJ Clay]]. Emcee for Kickspit Underground Music with Lil' Blaster ([[Nasim Pedrad]]) and MC [[George Costanza|George Castanza]]&lt;!-- sic; the name is spelled Castanza on-screen on the skits in which he appears --&gt; ([[Jay Pharoah]]). He has appeared in the "Underground Rock Minute", the "Crunkmas Karnival", the "Kickspit Underground Easter Festival", the "Columbus Day Assblast" and the "Donkey Punch the Ballot" sketches.
+*Pete Twinkle, ESPN Classic host of obscure women's sports with dim-witted Greg Stink ([[Will Forte]]) as his co-host
+* Jeff, a disgruntled film and theatre technician who starts unprovoked arguments with the star of the piece.
+* The Devil, who often comes on ''Weekend Update'' to point out religious and moral hypocrisy on Earth. On the [[Emma Stone]]/[[Coldplay]] episode, the Devil gets so upset over the Penn State University sex scandal that he quits his job as The Prince of Darkness and returns to his old job as a customer service representative for Time Warner Cable.&lt;ref name="autogenerated52"&gt;{{cite journal | title=Big Leap Forward: Jason Sudeikis | author=Brian Raftery | journal=Rolling Stone |date=May 2012 | issue=Big Summer Issue (Special Issue) | pages=52–54}}&lt;/ref&gt;
+* Jack Rizzoli, an anchor at WXPD News who always tells veteran reporter Herb Welch (Bill Hader) to do his job.
+* Tommy, a strip club M.C. for Bongo's Clown Room. 
+* Sensei Mark Hoffman, the faculty adviser and Japanese Studies teacher to Jonathan Cavanaugh-san and Rebecca Stern-Markowitz-san ([[Taran Killam]] and [[Vanessa Bayer]], respectively), hosts of "J-Pop America Fun Time Now". Considers Jonathan and Rebecca to be the worst students in his Japanese studies class due to their stereotypical perceptions of Japanese culture and is only on the show because university policy states that one of the teachers have to be present if students are using the campus studio.
+* Marshall T. Boudreaux: The host of the courtroom reality show, ''Maine Justice''. Originally, the character was an archetypical Southern gentleman known as Mr. Aymong who appeared on a one-shot sketch on the season 35 episode hosted by [[Blake Lively]] in which a Southern man ruins his chances of being hired to NASA by eating his interviewer's potato chip.
+
+===Film, television and other work===
+Sudeikis had a recurring role on the [[NBC]] series, ''[[30 Rock]]'' (2007-2010), appearing in a total of twelve episodes. He played Floyd DeBarber, a [[List of stock characters|love interest]] of [[Tina Fey]]'s character [[Liz Lemon]]. Sudeikis last appeared in four episodes towards the end of the show's 4th season in 2010.
+[[File:Jason Sudeikis 2011 Shankbone 2.JPG|thumb|190px|Sudeikis in 2011]]
+
+He began his film career with supporting roles in ''[[Watching the Detectives (film)|Watching the Detectives]]'' (2007), ''[[The Ten]]'' (2007), ''[[Meet Bill]]'' (2007), ''[[What Happens in Vegas]]'' (2008) and ''[[The Rocker (film)|The Rocker]]'' (2008). He did voice work for the videogame ''[[Grand Theft Auto IV]]'' (2008), playing the role of right-wing radio host, Richard Bastion.
+
+In July 2008, Sudeikis co-starred with [[Bill Hader]] and [[Joe Lo Truglio]] in the [[Lorne Michaels]]-produced web-series ''The Line'' on [[Crackle (company)|Crackle]].&lt;ref&gt;{{cite web | title = And the newest cast member of SNL is ... | publisher = TV Squad | url = http://www.tvsquad.com/2008/08/21/and-the-newest-cast-member-of-snl-is/ | date= August 21, 2008 | accessdate =February 27, 2009}}&lt;/ref&gt;
+
+He had supporting roles in the films, ''[[The Bounty Hunter (2010 film)|The Bounty Hunter]]'' (2010) and ''[[Going the Distance (2010 film)|Going the Distance]]'' (2010). On August 16, 2010, Sudeikis co-hosted ''[[WWE Raw]]'' with ''Going the Distance'' co-stars [[Charlie Day]] and [[Justin Long]] at the [[Staples Center]] in [[Los Angeles]].&lt;ref&gt;{{cite web|url=http://www.wwe.com/shows/raw/special/allspecialguesthosts/upcomingguesthosts |title=Upcoming Raw guest stars |publisher=WWE.com |date=November 29, 2010 |accessdate=May 23, 2012}}&lt;/ref&gt;
+
+Sudeikis was a voice actor on the [[Fox Broadcasting Company|FOX]] animated-comedy series, ''[[The Cleveland Show]]'' (2009-2013). He provided the voices for Holt Richter, Cleveland's wannabe hipster neighbor, and, Terry Kimple, Cleveland's hard-partying high school buddy, who now works with Cleveland at the cable company. After previously being credited as a recurring guest in season one, Sudeikis was bumped up to a series regular beginning in season two.
+
+[[File:Jason Sudeikis, Charlie Day, Jason Bateman.jpg|thumb|Sudeikis with [[Charlie Day]] and [[Jason Bateman]] at the 2011 premiere of ''[[Horrible Bosses]]''.]]
+In May 2010, Sudeikis joined the cast of the [[Seth Gordon]] comedy film, ''[[Horrible Bosses]]'' (2011), which also starred [[Jamie Foxx]], [[Kevin Spacey]], [[Jennifer Aniston]], [[Colin Farrell]], [[Charlie Day]], and [[Jason Bateman]].&lt;ref&gt;{{cite web|url=http://www.collider.com/2010/05/26/jason-sudeikis-horrible-bosses-jason-bateman-charlie-day|title=Jason Sudeikis Joins 'Horrible Bosses' Starring Jason Bateman and Charlie Day|first=Jackson |last=Cresswell |publisher=Collider.com | date=May 26, 2010 | archivedate=December 6, 2010 | archiveurl=https://web.archive.org/web/20101206114922/http://www.collider.com/2010/05/26/jason-sudeikis-horrible-bosses-jason-bateman-charlie-day }}&lt;/ref&gt; Sudeikis also played his first lead film role, alongside [[Owen Wilson]], in the [[Farrelly brothers]] comedy ''[[Hall Pass]]'' (2011). He had worked with Day when he played the role of Schmitty on ''[[It's Always Sunny in Philadelphia]]'', and reprised the role on that show's 7th-season finale.
+ 
+He hosted the [[2011 MTV Movie Awards]] on June 5, 2011, at the [[Gibson Amphitheatre]] in [[Los Angeles, California]].&lt;ref&gt;{{cite web|title=MTV Announces Dates For Movie Awards, VMAs And Woodies|publisher=MTV|url=http://www.mtv.com/news/articles/1652893/mtv-announces-dates-movie-awards-vmas-woodies.jhtml|date=November 23, 2010|accessdate=March 23, 2011}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://latimesblogs.latimes.com/awards/2011/06/mtv-movie-awards-schwarzeneggers-good-for-a-few-laughs.html?cid=6a00d8341c630a53ef014e88f1aac0970d|title=MTV Movie Awards: Schwarzenegger's good for a few laughs|publisher=Los Angeles Times}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/arts-entertainment/films/twilight-sweeps-mtv-movie-awards-2293700.html|title='Twilight' sweeps MTV Movie Awards|date= June 6, 2011|work=Independent |accessdate=June 7, 2011|location=London}}&lt;/ref&gt;
+
+Sudeikis became the voice for a line of advertisements of the [[Applebee's]] [[casual dining]] chain that began running in 2012.&lt;ref&gt;{{cite news|title=Buzz for Applebee's Inflates in Light of Jokey 'Lunch Decoy' Campaign|url=https://www.forbes.com/sites/brandindex/2012/08/15/buzz-for-applebees-inflates-in-light-of-jokey-lunch-decoy-campaign/|accessdate= December 1, 2012}}&lt;/ref&gt; Sudeikis made appearances in six episodes on the [[HBO]] series ''[[Eastbound &amp; Down]]'' (2012-2013), playing Shane, [[Kenny Powers (character)|Kenny Powers]]'s battery mate on the Myrtle Beach Mermen, and Shane's twin brother, Cole.&lt;ref&gt;{{cite news|last=Sneider |first=Jeff |author2=Stuart Levine |url=http://www.variety.com/article/VR1118039571?refCatId=14 |title=Sudeikis set for 'Eastbound &amp; Down' |work=[[Variety (magazine)|Variety]] |date=July 7, 2011 |archiveurl=https://www.webcitation.org/603Sb3ncD?url=http://www.variety.com/article/VR1118039571?refCatId=14 |archivedate=July 9, 2011 |deadurl=yes |df= }}&lt;/ref&gt; He starred as David Clark, a [[drug dealer]], in ''[[We're the Millers]]'' (2013), alongside [[Jennifer Aniston]], [[Emma Roberts]] and [[Will Poulter]].
+
+Sudeikis has portrayed Ted Lasso, a hapless American football coach brought to England to coach the Tottenham Hotspur Football Club, as part of two promotional videos for [[NBC Sports]] in 2013 and 2014 for their coverage of the [[Premier League]].
+
+He starred as womanizer Jake in the romantic-comedy film ''[[Sleeping with Other People]]'' (2015), alongside [[Alison Brie]]. He starred alongside [[Rebecca Hall]] in the romantic-drama film ''[[Tumbledown (2015 film)|Tumbledown]]'' (2015), playing the character of Andrew McCabe, a writer from New York.
+
+Sudeikis voices the character of Red in the animated-comedy film, ''[[The Angry Birds Movie]]'' (2016), based on the video game series [[Angry Birds (video game)|of the same name]]. He starred alongside [[Anne Hathaway]] in ''[[Colossal (film)|Colossal]]'' (2016).&lt;ref&gt;Brooks, Brian. [http://deadline.com/2017/04/anne-hathaway-jason-sudeikis-colossal-neon-specialty-preview-1202063715/ "Anne Hathaway &amp; Jason Sudeikis Star In Genre-Defying ‘Colossal’ From Newcomer Neon – Specialty B.O. Preview,"] ''Deadline'' (April 6, 2017).&lt;/ref&gt; Sudeikis starred in ''[[Masterminds (2016 film)|Masterminds]]'' (2016), alongside [[Kristen Wiig]], [[Owen Wilson]], and [[Zach Galifianakis]]. He portrayed [[Larry Snyder (athlete)|Larry Snyder]] in the [[biographical]] [[sports film|sports drama]] film, ''[[Race (2016 film)|Race]]'' (2016), Henry in the drama film, ''[[The Book of Love (film)|The Book of Love]]'' (2016) and Bradley in the film, ''[[Mother's Day (2016 film)|Mother's Day]]'' (2016).
+
+From November to December 2016, Sudeikis played the lead role of John Keating in the [[Classic Stage Company]] [[Off-Broadway]] production of ''Dead Poets Society'', the stage adaptation of the [[Dead Poets Society|film by the same name]].&lt;ref&gt;https://www.nytimes.com/2016/11/18/theater/dead-poets-society-review-jason-sudeikis.html&lt;/ref&gt;
+
+In 2017, he executive produced for comedy television series, ''[[Detroiters (TV series)|Detroiters]]''. He made appearances as Glenn in ''[[Permission (film)|Permission]]'' (2017) and as Dave Johnson in ''[[Downsizing (film)|Downsizing]]'' (2017).
+
+Sudeikis starred as a side-role/reference in the [[Derren Brown]] show, ''Derren Brown Underground'', where he performed on a screen during the credits, and his name was used as a reference during the show, in 2017 and 2018.
+
+Sudeikis is set to star in the upcoming thriller, ''Driven'' (2018).&lt;ref&gt;http://deadline.com/2017/04/jason-sudeikis-timothy-olyphant-lee-pace-john-delorean-pic-cannes-driven-embankment-films-nick-hamm-1202079065/&lt;/ref&gt; Sudeikis voices the character of Justin Pin in the animated action comedy film ''[[Next Gen (film)|Next Gen]]''.
+
+==Personal life==
+In June 2004, he married American screenwriter [[Kay Cannon]] after five years together. They separated in 2008 and divorced in March 2010.&lt;ref&gt;Sudeikis in {{cite web|url=https://www.reuters.com/article/us-jasonsudeikis/a-minute-with-jason-sudeikis-getting-a-hall-pass-idUSTRE71M56M20110223|title=A Minute With: Jason Sudeikis getting a 'Hall Pass'|first=Zorianna|last= Kit|date=February 23, 2011 |agency=[[Reuters]] |accessdate= January 8, 2018|archivedate=January 8, 2018|archiveurl=https://archive.is/FnXIM|deadurl=no}} Additional [https://www.webcitation.org/6wKQ6COF7 WebCitation archive] on January 8, 2018.&lt;/ref&gt;
+
+In 2011, Sudeikis and American actress [[Olivia Wilde]] began dating. They became engaged in January 2013.&lt;ref&gt;Following an unconfirmed claim in {{cite news| url= http://www.people.com/people/article/0,,20664283,00.html| title=Jason Sudeikis and Olivia Wilde Are Engaged|work=People| first=Julie|last= Jordan| date= January 12, 2013|accessdate=April 18, 2016}}, Wilde confirmed the following day in {{cite web| url=https://twitter.com/oliviawilde/status/290474122952196096| title=Thanks for all the sweet congratulatory love, friends! ...| publisher=Olivia Wilde verified [[Twitter]] account| date= January 13, 2013|accessdate=April 18, 2016| archiveurl = https://web.archive.org/web/20130822021407/https://twitter.com/oliviawilde/status/290474122952196096 | archivedate= March 8, 2013|deadurl=no}}&lt;/ref&gt; They have a son, Otis Alexander Sudeikis (born April 20, 2014),&lt;ref&gt;{{cite news |url=http://celebritybabies.people.com/2014/04/23/olivia-wilde-jason-sudeikis-welcome-son-otis-alexander/ |title=Jason Sudeikis and Olivia Wilde Welcome Son Otis Alexander |first1=K.C. |last1=Blumm|first2=Julie|last2=Jordan|work=People |date=April 23, 2014 |accessdate=April 24, 2014| archivedate= April 15, 2016| archiveurl = https://web.archive.org/web/20160415203534/http://celebritybabies.people.com/2014/04/23/olivia-wilde-jason-sudeikis-welcome-son-otis-alexander/ | deadurl=no|quote=...the couple’s rep confirms to ''People''.}}&lt;/ref&gt; and a daughter, Daisy Josephine Sudeikis (born October 11, 2016).&lt;ref&gt;{{cite web|url=http://people.com/babies/olivia-wilde-jason-sudeikis-welcome-second-baby/|title=Olivia Wilde and Jason Sudeikis Welcome Second Child|author=Juneau, Jen|work=[[People (magazine)|People]]|date=October 15, 2016|accessdate=October 16, 2016}}&lt;/ref&gt;
+&lt;!--Full name and birth date announced by mother, per People magazine: "Olivia Wilde gave birth to her second child with fiancé Jason Sudeikis, Daisy Josephine Sudeikis, on Tuesday, Oct. 11, she announced on Instagram on Saturday. 'There goes the neighborhood,' Wilde wrote. 'Daisy Josephine Sudeikis. Born, like a boss, on #internationaldayofthegirl.' "--&gt;
+&lt;!--Sudeikis has two sisters, Lindsay and Kristin. The former is a teacher at the Whitby School, a private school in Greenwich, Connecticut, while the latter is a choreographer and dancer in New York City, who has appeared on ''[[30 Rock]]''.--&gt;
+
+He played on basketball teams at the 2011 and 2016 [[NBA All-Star Celebrity Game]].
+
+==Filmography==
+[[File:Jason Sudeikis at 2009 NYTVF.jpg|thumb|right|Sudeikis at the [[New York Television Festival]], October 17, 2009]]
+&lt;!--do NOT use rowspans [[{WP:Accessibility]]--&gt;
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2007
+| ''[[The Ten]]''
+| Tony Contiella
+|
+|-
+| 2007
+| ''[[Watching the Detectives (film)|Watching the Detectives]]''
+| Jonathan
+|
+|-
+| 2007
+| ''[[Meet Bill]]''
+| Jim Whittman
+|
+|-
+| 2008
+| ''[[The Rocker (film)|The Rocker]]''
+| David Marshall
+|
+|-
+| 2008
+| ''[[Semi-Pro]]''
+| Nacho Fan
+| 
+|-
+| 2008
+| ''[[What Happens in Vegas]]''
+| Mason
+|
+|-
+| 2010
+| ''[[The Bounty Hunter (2010 film)|The Bounty Hunter]]''
+| Stewart
+|
+|-
+| 2010
+| ''[[Going the Distance (2010 film)|Going the Distance]]''
+| Box Saunders
+|
+|-
+| 2011
+| ''[[Hall Pass]]''
+| Fred Searing
+|
+|-
+| 2011
+| ''[[A Good Old Fashioned Orgy]]''
+| Eric Keppler
+|
+|-
+| 2011
+| ''[[Horrible Bosses]]''
+| Kurt Buckman
+|
+|-
+| 2012
+| ''[[The Campaign (film)|The Campaign]]''
+| Mitch Wilson
+|
+|-
+| 2013
+| ''[[Movie 43]]''
+| [[Batman|Fake Batman]]
+|
+|-
+| 2013
+| ''[[Drinking Buddies]]''
+| Gene Dentler
+|
+|-
+| 2013
+| ''[[Epic (2013 film)|Epic]]''
+| Bomba (voice)
+|
+|-
+| 2013
+| ''[[We're the Millers]]''
+| David Clark
+|
+|-
+| 2014
+| ''[[Horrible Bosses 2]]''
+| Kurt Buckman
+|
+|-
+| 2015
+| ''[[Sleeping with Other People]]''
+| Jake
+|
+|-
+| 2015
+| ''[[Tumbledown (2015 film)|Tumbledown]]''
+| Andrew McCabe
+|
+|-
+| 2016
+| ''[[Race (2016 film)|Race]]''
+| [[Larry Snyder (athlete)|Larry Snyder]]
+|
+|-
+| 2016
+| ''[[Mother's Day (2016 film)|Mother's Day]]''
+| Bradley
+|
+|-
+| 2016
+| ''[[The Angry Birds Movie]]''
+| Red (voice)
+| 
+|-
+| 2016
+| ''[[Masterminds (2016 film)|Masterminds]]''
+| Mike McKinney
+|
+|-
+| 2016
+| ''[[The Book of Love (film)|The Book of Love]]''
+| Henry
+| 
+|-
+| 2016
+| ''[[Colossal (film)|Colossal]]''
+| Oscar
+| 
+|-
+| 2017
+| ''[[Permission (film)|Permission]]''
+| Glenn
+|
+|-
+| 2017
+| ''[[Downsizing (film)|Downsizing]]''
+| Dave Johnson
+|
+|-
+| 2017
+| ''[[Kodachrome (film)|Kodachrome]]''
+| Matt Ryder
+| 
+|-
+|-
+| 2018
+| ''[[Next Gen (film)|Next Gen]]''
+| Justin Pin (voice)
+| ''Completed''
+|-
+| 2018
+| ''Driven''
+| Jim Hoffman
+| ''Post-production''
+|-
+| 2019
+| ''[[The Angry Birds Movie 2]]''
+| Red (voice)
+| ''Filming''
+|-
+| 2019
+| ''[[Booksmart (film)|Booksmart]]''
+|
+| ''Post-production''
+|-
+|}
+
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2003–2013
+| ''[[Saturday Night Live]]''
+| Various
+| Regular role; 174 episodes, also writer
+|-
+| 2007
+| ''[[Wainy Days]]''
+| Handsome David
+| Episode: "Plugged"
+|-
+| 2007–2010
+| ''[[30 Rock]]''
+| [[List of 30 Rock characters#Floyd DeBarber|Floyd DeBarber]]
+| Recurring role; 12 episodes
+|-
+| 2008
+| ''[[Childrens Hospital (TV Series)|Childrens Hospital]]''
+| Dr. Robert "Bobby" Fiscus
+| Guest role; 2 episodes
+|-
+| 2008–2012
+| ''[[Saturday Night Live Weekend Update Thursday]]''
+| Various
+| Recurring role; 6 episodes
+|-
+| 2009–2013
+| ''[[The Cleveland Show]]''
+| Holt Ritcher, Terry Kimple (voices)
+| Main role; 88 episodes
+|-
+| 2010–2011
+| ''[[It's Always Sunny in Philadelphia]]''
+| [[List of It's Always Sunny in Philadelphia characters#Peter "Schmitty" Schmidt|Peter "Schmitty" Schmidt]]
+| Guest role; 2 episodes
+|-
+| 2011–2014
+| ''[[Portlandia (TV series)|Portlandia]]''
+| Aliki / Kim
+| Guest role; 2 episodes
+|-
+| 2011
+| ''[[2011 MTV Movie Awards]]''
+| Himself (host)
+| Television special
+|-
+| 2012–2013
+| ''[[Eastbound &amp; Down]]''
+| Shane Gerald / Cole Gerald
+| Recurring role; 6 episodes
+|-
+| 2013
+| ''[[Robot Chicken]]''
+| [[Badtz-Maru]] / Farmer Smurf (voices)
+| Episode: "Papercut to Aorta"
+|-
+| 2014
+| ''[[Garfunkel and Oates (TV series)|Garfunkel and Oates]]''
+| {{n/a}}
+| Episode: "Third Member"; co-writer
+|-
+| 2015–
+| ''[[The Last Man on Earth (TV series)|The Last Man on Earth]]''
+| Mike Miller
+| Recurring role; 13 episodes
+|-
+| 2016
+| ''[[Great Minds with Dan Harmon]]''
+| [[Thomas Edison]]
+| Episode: "Thomas Edison"
+|-
+| 2016–2017
+| ''[[Son of Zorn]]''
+| Zorn (voice)
+| Main role; 13 episodes
+|-
+| 2017–present
+| ''[[Detroiters (TV series)|Detroiters]]''
+| Carter Grant
+| Guest role; 2 episodes, also executive producer
+|-
+| 2018
+| ''[[Sideswiped (TV series)|Sideswiped]]''
+| Dr. David Bennett
+| Episode: "Matching Up"
+|}
+
+===Theatre===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Venues
+|-
+| 2016
+| ''Dead Poet's Society'' 
+| John Keating 
+| [[Classic Stage Company]] 
+|-
+|}
+
+===Video games===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+|-
+|2008
+| ''[[Grand Theft Auto IV]]''
+| Richard Bastion
+|}
+
+===Music videos===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Artist
+! Ref.
+|-
+| 2013
+| "[[Hopeless Wanderer]]"
+| [[Mumford and Sons]]
+|&lt;ref&gt;{{cite web|url=http://www.musicblogged.com/mumford-and-sons-release-hilarious-hopeless-wanderer-video/|title=Mumford and Sons release hilarious Hopeless Wanderer video |publisher=Music Blogged |date=August 4, 2013 |accessdate=August 4, 2013}}&lt;/ref&gt;
+|}
+
+==Awards and nominations==
+{| class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Nominated work
+! Result
+! class="unsortable"| Ref.
+|-
+| rowspan="3;" |2014
+| [[People's Choice Awards]] 
+| [[40th People's Choice Awards|Favorite Movie Duo]] &lt;small&gt;(with [[Jennifer Aniston]])&lt;/small&gt;
+| ''[[We're the Millers]]''
+| {{nom}}
+! style="text-align:center;"|&lt;ref name=Noms&gt;{{cite web|url=http://www.eonline.com/news/477644/glee-katy-perry-lead-people-s-choice-award-nominations-2-broke-girls-kat-dennings-and-beth-behrs-to-host |title='Glee', Katy Perry Lead People's Choice Award Nominations, '2 Broke Girls'&lt;nowiki&gt;'&lt;/nowiki&gt; Kat Dennings and Beth Behrs to Host| publisher=[[E! News]] ([[NBC Universal]])| date=November 5, 2013 | accessdate= November 5, 2013| archivedate= February 14, 2016| archiveurl = https://web.archive.org/web/20160214234019/http://www.eonline.com/news/477644/glee-katy-perry-lead-people-s-choice-award-nominations-2-broke-girls-kat-dennings-and-beth-behrs-to-host |deadurl=no}}&lt;/ref&gt;
+|-
+| [[MTV Movie Awards]]
+| [[MTV Movie Award for Best Comedic Performance|Best Comedic Performance]]
+| ''We're the Millers''
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web|url = https://www.usatoday.com/story/life/movies/2014/03/06/2014-mtv-movie-awards-nominees/6088969/|title= MTV announces 2014 Movie Award nominees|date=6 March 2014|work=USA Today|accessdate=6 March 2014}}&lt;/ref&gt;
+|-
+| [[Teen Choice Awards]]
+| [[Teen Choice Award for Choice Hissy Fit|Choice Hissy Fit]]
+| ''We're the Millers''
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web|url=http://ca.eonline.com/news/567932/2014-teen-choice-awards-the-fault-in-our-stars-win-big-maid-in-manhattan-reunion-more-highlights|title=2014 Teen Choice Awards: The Fault in Our Stars Win Big, Maid in Manhattan Reunion &amp; More Highlights|last=Vulpo|first=Mike|publisher=E! News (NBC Universal)|date=August 10, 2014|accessdate=August 16, 2014}}&lt;/ref&gt;
+|-
+| 2015
+| [[MTV Movie Awards]]
+| [[2015 MTV Movie Awards|#WTF Moment]] &lt;small&gt;(with [[Charlie Day]])&lt;/small&gt;
+| ''[[Horrible Bosses 2]]''
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web|url = http://www.mtv.com/news/2095540/mtv-movie-awards-nominations-2015//|title= Here Are Your 2015 MTV Movie Awards Nominees|date=6 March 2014|work=USA Today|accessdate=4 March 2015}}&lt;/ref&gt;
+|-
+| 2016
+| [[Teen Choice Awards]]
+| [[Teen Choice Award for Choice Hissy Fit|Choice Movie: Hissy Fit]]
+| ''[[The Angry Birds Movie]]''
+| {{nom}}
+! style="text-align:center;"|&lt;ref name="TeenChoice"&gt;{{cite web |url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners |title=Teen Choice Awards 2016 Nominations Announced: See the "First Wave" of Potential Winners |last=Vulpo |first=Mike |publisher=[[E!]] |date=May 24, 2016 |accessdate=May 25, 2016 |archiveurl=https://www.webcitation.org/6hm3YMtx8?url=http://www.eonline.com/news/767635/teen-choice-awards-2016-nominations-announced-see-the-first-wave-of-potential-winners |archivedate=May 25, 2016 |deadurl=no}}&lt;/ref&gt;
+|-
+| 2017
+| [[Nickelodeon Kids' Choice Awards]]
+| [[2017 Kids' Choice Awards|Most Wanted Pet]]
+| ''The Angry Birds Movie''
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web |url=https://variety.com/2017/tv/news/nickelodeon-kids-choice-awards-nominations-2017-full-list-1201975603/|title=Justin Timberlake and Kevin Hart Lead Nickelodeon’s Kids’ Choice Awards Nominations|work=[[Variety (magazine)|Variety]]|date= February 24, 2017 |accessdate= February 24, 2017 }}&lt;/ref&gt;
+|}
+
+==See also==
+* [[List of people from Kansas City, Missouri]]
+* [[List of people from Overland Park, Kansas]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons Category}}
+* {{IMDb name|837177|Jason Sudeikis}}
+* [https://movietrailer.io/people/1-jason-sudeikis Jason Sudeikis] at Movietrailer.io
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sudeikis, Jason}}
+[[Category:1975 births]]
+[[Category:21st-century American male actors]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American male voice actors]]
+[[Category:American people of German descent]]
+[[Category:American people of Irish descent]]
+[[Category:American people of Lithuanian descent]]
+[[Category:American sketch comedians]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:Living people]]
+[[Category:Male actors from Kansas City, Kansas]]
+[[Category:Male actors from Virginia]]
+[[Category:Actors from Fairfax, Virginia]]
+[[Category:People from Overland Park, Kansas]]
+[[Category:Writers from Kansas City, Kansas]]</text>
+      <sha1>sfftyuht5a1om0k7qjdxcwt1mnfipjx</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Terry Sweeney</title>
+    <ns>0</ns>
+    <id>1843812</id>
+    <revision>
+      <id>854826389</id>
+      <parentid>840858542</parentid>
+      <timestamp>2018-08-14T01:54:11Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9875">{{Infobox person
+| name          = Terry Sweeney
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = Terrence Sweeney
+| birth_date    =  {{birth date and age|1950|3|23}}
+| birth_place   = [[Queens]], [[New York (state)|New York]], [[United States]]
+| death_date    =  &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;
+| death_place   = 
+| nationality   = American
+| other_names   = 
+| occupation    = Comedian, actor, writer
+| years_active  = 
+| known_for     = 
+| notable_works = 
+| residence = [[Beaufort, South Carolina]]
+| partner        = Lanier Laney
+}}
+
+'''Terrance "Terry" Sweeney''' (born March 23, 1950){{citation needed|date=October 2012}} is an American writer, comedian and actor. He was a writer and cast member of ''[[Saturday Night Live]]'' in the 1980s, co-wrote the 1989 film ''[[Shag (film)|Shag]]'', and has written for the television ''series [[Mad TV|MADtv]]'', ''[[Hype (TV series)|Hype]]'', and ''[[Tripping the Rift]]''.
+
+== Early life and career ==
+Terrence (Terry) Sweeney was born in 1950&lt;!-- Not 1960; that would put him graduating high school at the age of 9 and university at 13. --&gt; in [[Queens]], New York and raised in [[Massapequa Park, New York]] as the younger of two children to Terrence, a butcher, and Lenore Sweeney.&lt;ref name="people-june1986"&gt;{{cite news|last=Hutchings|first=David|url=http://www.people.com/people/archive/article/0,,20093779,00.html|title=Terry Sweeney Opens Some Eyes, and Maybe a Few Minds, as Saturday Night Live's First Lady|date=1986-06-02|publisher=people.com|accessdate=2012-11-18}}&lt;/ref&gt; As a child, he was bullied and found solace in books, including the [[Nancy Drew]] mysteries, as well as in performing his own Broadway plays.&lt;ref name="people-june1986" /&gt; At a young age, his interest in the performing arts grew.&lt;ref name="splitsider-2012"&gt;{{cite web|last=Wright|first=Megh|url=http://splitsider.com/2012/04/saturday-nights-children-terry-sweeney-1985-1986/|title=Saturday Night's Children: Terry Sweeney (1985-1986)|date=2012-04-12|publisher=splitsider.com|accessdate=2012-11-18}}&lt;/ref&gt; He graduated Farmingdale High School in 1969 and attended [[Middlebury College]], where he learned Spanish and Italian and graduated in 1973 with a bachelor of arts degree.&lt;ref name="people-june1986" /&gt; In his sophomore year, he got engaged to a woman, even though he had started identifying himself as [[gay]] by the fourth grade.&lt;ref name="people-june1986" /&gt; Before becoming a writer, he worked as a drug rehabilitation counselor and waiter.&lt;ref name="people-june1986" /&gt;
+
+=== ''Saturday Night Live'' ===
+Sweeney is best known for his appearances as a regular cast member of ''[[Saturday Night Live]]'' (''SNL'') during that program's 1985–86 season. He was discovered by series producer [[Lorne Michaels]] while Sweeney was performing in a New York play,&lt;ref name="dailynews-losangeles"&gt;{{cite news|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=LA&amp;p_theme=la&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EF5BA1F2EF8E466&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM|title=COMEDY NEWS &amp; NOTES|date=February 9, 1990|publisher=''Daily News of Los Angeles''|accessdate=October 15, 2012}}&lt;/ref&gt; ''Banned in France,'' in 1983.&lt;ref name="people-june1986" /&gt; Sweeney, who is not related to fellow ''SNL'' alumna [[Julia Sweeney]], was also a sketch writer for ''SNL'' during the early 1980s under producer [[Jean Doumanian]] prior to being hired as a member of the cast.
+
+He was ''SNL'''s first [[coming out|openly]] [[gay]] male cast member; Sweeney was "out" prior to being hired as a cast member.&lt;ref name="shales"&gt;{{citation |title=Live from New York: An Uncensored History of Saturday Night Live |first=Tom |last=Shales |first2=James Andrew |last2=Miller |year=2002 |publisher=Back Bay |isbn=0-316-73565-5 |page=316}}&lt;/ref&gt; Sweeney's run on the show came at a time when there were few openly gay characters or actors on television. For roughly 27 years, there were no other openly gay cast members on ''SNL'',&lt;ref name="afterelton-2010"&gt;{{cite web|last=Hartinger|first=Brent|url=http://www.thebacklot.com/ask-the-flying-monkey-why-is-steel-magnolias-fabulous-or-is-it/11/2010/|title=Ask the Flying Monkey: Why Is "Steel Magnolias" Fabulous? (Or IS It?)|date=November 21, 2010|publisher=afterelton.com|accessdate=October 15, 2012}}&lt;/ref&gt; until [[Kate McKinnon]] (a former cast member of Logo's ''The Big Gay Sketch Show'') was added to the cast in April 2012.
+
+During his season on ''SNL'', he became known for his celebrity impersonations, particularly female impersonations of stars like [[Diana Ross]],&lt;ref name="dailynews-losangeles" /&gt; [[Patti LaBelle]],&lt;ref name="dailynews-losangeles" /&gt; [[Joan Collins]], [[Brooke Shields]]'s mother Teri Shields, and [[Joan Rivers]],&lt;ref name="dailynews-losangeles" /&gt; as well as [[Ted Kennedy]]&lt;ref name="dailynews-losangeles" /&gt; (the only male celebrity he impersonated). His most notable recurring character was a portrayal of then-First Lady [[Nancy Reagan]];&lt;ref&gt;{{cite news|last=Roush|first=Matt|url=https://pqasb.pqarchiver.com/USAToday/access/55694835.html?dids=55694835:55694835&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jun+15%2C+1987&amp;author=Matt+Roush&amp;pub=USA+TODAY+%28pre-1997+Fulltext%29&amp;desc=Sweeney+will+drag+Nancy+along+to+%60The+Late+Show%27&amp;pqatl=google|title=Sweeney will drag Nancy along to `The Late Show'|date=June 15, 1987|publisher=''USA Today''|accessdate=October 15, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Dyess-Nugent|first=Phil|url=http://www.avclub.com/articles/distilling-4-decades-of-saturday-night-live-down-t,85102/|title=Distilling 4 decades of Saturday Night Live down to just 10 episodes|date=September 19, 2012|publisher=avclub.com|accessdate=October 15, 2012}}&lt;/ref&gt; While at ''SNL'', he faced many hardships from both the writers and cast because of his sexuality, especially from [[Chevy Chase]].&lt;ref name="splitsider-2012" /&gt;&lt;ref name="shales" /&gt; Sweeney was told by [[Ron Reagan]], who hosted one of that season's episodes, that he was "more like his mother than she is."
+
+=== Other credits ===
+Sweeney has written for the [[Fox Broadcasting Company|FOX TV]] series ''[[MADtv]]'',&lt;ref name="afterelton-2010" /&gt; [[The WB Television Network|The WB]]'s short-lived sketch comedy series [[Hype (TV series)|''Hype'']] (and co-created),&lt;ref&gt;[https://books.google.com/books?id=y2IEAAAAMBAJ&amp;pg=PA62&amp;lpg=PA62&amp;dq=Terry+Sweeney+Saturday+Night+Live&amp;source=bl&amp;ots=gSoEbF4Rho&amp;sig=-SO9JL_oTYIgH_G_rG9iYn2UTgk&amp;hl=en&amp;sa=X&amp;ei=1YB7UN6PLJPzqwGYsoCwCA&amp;ved=0CDoQ6AEwAg#v=onepage&amp;q=Terry%20Sweeney%20Saturday%20Night%20Live&amp;f=false ''Out'' Magazine, September 2000, p. 62]&lt;/ref&gt; and [[Sci Fi Channel (United States)|Sci Fi Channel]]'s ''[[Tripping the Rift]]'',&lt;ref name="afterelton-2010" /&gt; among a few others, all with his partner, Lanier Laney. Sweeney's major film credit was as the co-screenwriter for the film ''[[Shag (1989 film)|Shag]]'', which was released in 1989.&lt;ref&gt;{{cite news|last=Holden|first=Stephen|url=https://movies.nytimes.com/movie/review?res=950DEEDB143BF932A15754C0A96F948260|title=Movie Review - Shag The Movie (1988)|date=July 21, 1989|publisher=nytimes.com|accessdate=October 15, 2012}}&lt;/ref&gt; Sweeney also performed a stand-up routine for the special ''Coming Out Party'' in 2000.&lt;ref&gt;{{cite news|last=Vary|first=Adam B.|url=https://books.google.com/books?id=RGUEAAAAMBAJ&amp;pg=PA76&amp;lpg=PA76&amp;dq=Terry+Sweeney+Saturday+Night+Live&amp;source=bl&amp;ots=9LUZmszH8J&amp;sig=Rx7St4r2S_6ZKXfGtU6vHGYJYc8&amp;hl=en&amp;sa=X&amp;ei=1YB7UN6PLJPzqwGYsoCwCA&amp;ved=0CD4Q6AEwAw#v=onepage&amp;q=Terry%20Sweeney%20Saturday%20Night%20Live&amp;f=false|title=I'll laugh if I want to|date=October 14, 2003|publisher=''The Advocate''|accessdate=October 15, 2012}}&lt;/ref&gt; In 2018 he appeared in two episodes of FX's ''[[The Assassination of Gianni Versace: American Crime Story]]'' as David Gallo.
+
+=== Episodes of ''Tripping the Rift'' written by Sweeney and Laney ===
+*"Mutilation Ball" (also written with Sy Rosen)
+*"Power to the Peephole"
+*"Android Love"
+*"Roswell"
+*"Creaturepalooza"
+*"Chode's Near-Death Experience"
+*"Six, Lies, and Videotape"
+
+== Personal life ==
+Terry Sweeney's partner is Lanier Laney, a comedy writer who also wrote for ''SNL'' in the 1985–1986 season.&lt;ref name="afterelton-2010" /&gt; According to a 2000 magazine article, they first met as members of a sketch comedy troupe called the "Bess Truman Players" before joining ''SNL''.&lt;ref&gt;{{cite news|last=Goodridge|first=Mike|url=https://books.google.com/books?id=wGMEAAAAMBAJ&amp;pg=PA89&amp;lpg=PA89&amp;dq=Terry+Sweeney+Saturday+Night+Live&amp;source=bl&amp;ots=2dZYYXxtZm&amp;sig=ouMrf33hbONwxHNwWRhWlPMpvS0&amp;hl=en&amp;sa=X&amp;ei=1YB7UN6PLJPzqwGYsoCwCA&amp;ved=0CDAQ6AEwAA#v=onepage&amp;q=Terry%20Sweeney%20Saturday%20Night%20Live&amp;f=false|title=Believe the hype|date=October 24, 2000|publisher=''The Advocate''|accessdate=October 15, 2012}}&lt;/ref&gt; Laney and Sweeney were also writing partners for ''Saturday Night Live'' during the 1985–1986 season, the film ''[[Shag (film)|Shag]]'', and the [[Syfy]] Channel cartoon ''Tripping The Rift''. As of 2012, the couple reside in [[Beaufort, South Carolina]].&lt;ref name="splitsider-2012" /&gt;
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{IMDb name|id=0842202|name=Terry Sweeney}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Sweeney, Terry}}
+[[Category:Year of birth uncertain]]
+[[Category:Living people]]
+[[Category:American male actors]]
+[[Category:Gay actors]]
+[[Category:LGBT screenwriters]]
+[[Category:LGBT writers from the United States]]
+[[Category:LGBT comedians]]
+[[Category:1950 births]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:People from Queens, New York]]
+[[Category:People from Massapequa Park, New York]]
+[[Category:American sketch comedians]]
+[[Category:Comedians from New York (state)]]
+[[Category:Middlebury College alumni]]</text>
+      <sha1>69gwddg94ve9ur7pi0g67cv4nijl01i</sha1>
+    </revision>
+  </page>
+</mediawiki>

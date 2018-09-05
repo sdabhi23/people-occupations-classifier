@@ -1,0 +1,195 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Geoffrey de Havilland</title>
+    <ns>0</ns>
+    <id>239060</id>
+    <revision>
+      <id>852980326</id>
+      <parentid>851812125</parentid>
+      <timestamp>2018-08-01T16:49:36Z</timestamp>
+      <contributor>
+        <username>Recensore256</username>
+        <id>34313057</id>
+      </contributor>
+      <comment>/* Honours */ Added and cited HoF induction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15474">{{for|this person's son of the same name|Geoffrey de Havilland, Jr.}}
+{{Use dmy dates|date=April 2012}}
+{{Infobox person
+|name          = Sir Geoffrey de Havilland
+|image         = De Havilland, Geoffry Sir Oswald.jpg
+|caption       = 
+|birth_date    = {{Birth date|1882|07|27|df=y}}
+|birth_place   = [[High Wycombe]], [[Buckinghamshire]], England
+|death_date    = {{Death date and age|1965|05|21|1882|07|27|df=y}}
+|death_place   = [[Watford]], [[Hertfordshire]], England
+|resting_place = 
+|resting_place_coordinates = 
+|nationality   = [[British nationality law|British]] 
+|education     = Oxford
+|occupation    = Aircraft engineer
+|spouse        = {{ubl|Louise Thomas (1909–1949)|Joan Mary Firth (1951–1965)}}
+|children      = 3 sons, including [[Geoffrey de Havilland, Jr.|Geoffrey Jr.]] and [[John de Havilland (pilot)|John]]
+|relatives     = [[Hereward de Havilland|Hereward]] (brother)&lt;br&gt;[[Olivia de Havilland]] (cousin)&lt;br&gt;[[Joan Fontaine]] (cousin)
+| module = {{Infobox military person | embed=yes
+   |nickname=
+   |allegiance= {{flag|United Kingdom}}
+   |branch={{army|United Kingdom}}
+   |serviceyears= 1912–1919
+   |rank= Captain
+   |unit=[[Royal Flying Corps]]
+   |commands=
+   |battles=[[First World War]]
+   |awards=[[Air Force Cross (United Kingdom)|Air Force Cross]] (AFC)&lt;br&gt;Officer of the [[Order of the British Empire]] (OBE)
+   |relations=
+   |signature = }}
+}}
+
+[[Captain (British Army and Royal Marines)|Captain]] '''Sir Geoffrey de Havilland''', [[Order of Merit|OM]], [[Order of the British Empire|CBE]], [[Air Force Cross (United Kingdom)|AFC]], [[Royal Designers for Industry|RDI]], [[Royal Aeronautical Society|FRAeS]] (27 July 1882 – 21 May 1965) was an English [[aviation pioneer]] and [[aerospace engineer]].  His [[de Havilland Mosquito|Mosquito]] has been considered the most versatile warplane ever built,&lt;ref name="ODNB"&gt;Davenport-Hines, Richard. "Havilland, Sir Geoffrey de (1882–1965)." ''[[Oxford Dictionary of National Biography]]''. Ed. H.C.G. Matthew and Brian Harrison. Oxford: [[Oxford University Press]], 2004. [http://www.oxforddnb.com/view/article/32769 Oxford University].&lt;/ref&gt; and his [[de Havilland Comet|Comet]] was the first [[jet airliner]] to go into production.
+{{TOClimit|limit=2}}
+
+== Early life ==
+Born at Magdala House, Terriers, [[High Wycombe]], [[Buckinghamshire]], de Havilland was the second son of [[The Reverend]] Charles de Havilland (1854–1920) and his first wife, Alice Jeannette (née Saunders) (1854–1911).&lt;ref name="ODNB"/&gt; He was educated at [[King Edward VI College, Nuneaton|Nuneaton Grammar School]], [[St Edward's School, Oxford]] and the [[Crystal Palace School|Crystal Palace School of Engineering]] (from 1900 to 1903).
+
+Upon graduating from engineering training, de Havilland pursued a career in [[automotive engineering]], building cars and motorcycles. He took an apprenticeship with engine manufacturers [[Willans &amp; Robinson]] of [[Rugby, Warwickshire|Rugby]], after which he worked as a draughtsman for [[Wolseley Motors#The Wolseley Tool and Motor Car Company Limited|The Wolseley Tool and Motor Car Company Limited]] in [[Birmingham]], a job from which he resigned after a year.&lt;ref name="ODNB"/&gt; He then spent two years working in the design office of Motor Omnibus Construction Company Limited in [[Walthamstow]]. While there he designed his first aero engine and had the first prototype made by [[de Havilland Iris|Iris Motor Company]] of [[Willesden]].
+
+He married in 1909 and almost immediately embarked on the career of designing, building and flying aircraft to which he devoted the rest of his life.
+
+== Aviation career ==
+{{Main|de Havilland}}
+[[File:GeoffreyDeHavillandBluePlaque.jpg|thumb|Blue plaque, 32 Baron's Court Road, [[Barons Court]], London]]
+
+Built with money borrowed from his maternal grandfather,&lt;ref name="ODNB"/&gt; de Havilland's [[de Havilland Biplane No. 1|first aircraft]] took two years to build before he crashed it during its first very short flight at Seven Barrows near [[Litchfield, Hampshire]] in December 1909.&lt;ref&gt;''Roots In The Sky – A History of British Aerospace Aircraft'', Oliver Tapper (1980), {{ISBN|061700323 8}}; pp. 7–8. "de Havilland first became airborne in December 1909 but his biplane broke up as soon as it left the ground and crashed immediately, the only salvable item being the engine which itself had been designed and built by de Havilland."&lt;/ref&gt; He built a fresh biplane, making his first flight in it from a meadow near [[Newbury, Berkshire|Newbury]] in September 1910.&lt;ref&gt;''Roots In The Sky'', p. 8&lt;/ref&gt; A memorial plaque presently marks the event. Subsequent designs were even more successful: in 1912 he established a new British altitude record of 10,500 feet (3.2&amp;nbsp;km) in an aircraft of his design, the [[Royal Aircraft Factory B.E.2|B.E.2]]. Geoffrey was the designer and his brother Hereward was the test pilot.
+
+In December 1910, de Havilland joined HM Balloon Factory at [[Farnborough Airfield|Farnborough]], which was to become the [[Royal Aircraft Establishment|Royal Aircraft Factory]]. He sold his second aeroplane (which he had used to teach himself to fly) to his new employer for £400. It became the [[Royal Aircraft Factory F.E.1|F.E.1]], the first aircraft to bear an official Royal Aircraft Factory designation. For the next three years de Havilland designed, or participated in the design of, a number of experimental types at the "Factory". He was commissioned a second lieutenant (on probation) in the [[Royal Flying Corps]] on 2 September 1912,&lt;ref&gt;{{London Gazette|issue=28653|supp=|page=7586|date=15 October 1912}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=28665|supp=|page=8582|date=22 November 1912}}&lt;/ref&gt; was appointed a reserve officer in the RFC on 24 November and was confirmed in his rank on 25 December.&lt;ref&gt;{{London Gazette|issue=28823|supp=|page=3295|date=21 April 1914}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=28674|supp=|page=9786|date=24 December 1912}}&lt;/ref&gt;
+
+In December 1913, de Havilland was appointed an inspector of aircraft for the Aeronautical Inspection Directorate.&lt;ref&gt;{{London Gazette|issue=28790|supp=|page=183|date=6 January 1914}}&lt;/ref&gt; Unhappy at leaving design work, in May 1914 he was recruited to become the chief designer at [[Airco]], in [[Hendon]]. He designed many aircraft for Airco, all designated by his initials, [[List of de Havilland aircraft|DH]]. Large numbers of de Havilland-designed aircraft were used during the [[World War I|First World War]], flown by the [[Royal Flying Corps]]/[[Royal Air Force]]. De Havilland continued to serve in the RFC during the war. On 5 August 1914, he was promoted to lieutenant and appointed a flying officer in the RFC from the same date.&lt;ref&gt;{{London Gazette|issue=28895|supp=|page=7175|date=8 September 1914}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=29018|supp=y|page=11038|date=22 December 1914}}&lt;/ref&gt; He was briefly stationed in Montrose on the east coast of Scotland as an officer on war duty. Flying a [[Blériot Aéronautique|Blériot]], he was to protect British shipping from German U-boats. After a few weeks he was released from this duty and returned to Airco. However, he nominally remained in the service until the end of the war.&lt;ref&gt;''Sky Fever. The autobiography of Sir Geoffrey de Havilland'', Sir Geoffrey de Havilland (1961), {{ISBN|1-84037-148-X}}; p. 96.&lt;/ref&gt; On 30 April 1916, he was promoted to captain and appointed a flight commander.&lt;ref&gt;{{London Gazette|issue=29620|supp=y|page=5185|date=9 June 1916}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=29618|supp=|page=5741|date=9 June 1916}}&lt;/ref&gt;
+
+His employer, [[Airco]], was bought in early 1920 by armaments group [[Birmingham Small Arms Company]] but discovering it was less than worthless BSA shut down Airco in July 1920.&lt;ref&gt;The Aircraft "Deal", BSA company meeting. ''The Times'', Tuesday, Apr 12, 1921; p. 17; Issue 42692&lt;/ref&gt; With the help of former Airco owner [[George Holt Thomas]] he formed [[de Havilland|de Havilland Aircraft Company]] employing some former colleagues. Pleased and impressed by the aircraft they built for him [[Alan Samuel Butler|Alan Butler]], thereafter company chairman, provided the capital to buy premises and then the airfield at [[Stag Lane Aerodrome]], [[Edgware]], where he and his colleagues designed and built a large number of aircraft, including the ''[[de Havilland Moth|Moth]]'' family. One of his roles was as a test pilot for the company's aircraft.
+
+In 1928 the subsidiary company [[De Havilland Canada]] was created to build Moth aircraft for [[British Commonwealth Air Training Plan|the training of Canadian airmen]]. After the Second World War it went on to design and produce a number of indigenous types,&lt;ref&gt;[http://www.globalsecurity.org/military/world/canada/de-havilland.htm GlobalSecurity.org]&lt;/ref&gt; some of which proved highly successful.
+
+In 1933 the company moved to [[Hatfield Aerodrome]], in [[Hertfordshire]].
+
+De Havilland was believed to have said "we could have had jets" in reference to the ignoring of [[jet engine]] possibilities prior to the start of the 1939–45 [[World War II|world war]]. In 1944 he bought out his friend and engine designer [[Frank Halford]]s engine design consultancy company, forming the [[de Havilland Engine Company]] with Halford as head. Halford had previously designed a number of engines for de Havilland, including the [[de Havilland Gipsy]] and [[de Havilland Gipsy Major]]. Halford's first gas turbine design entered production as the [[de Havilland Goblin]] powering de Havilland's first jet, the [[de Havilland Vampire|Vampire]].
+
+De Havilland controlled the company until it was bought by the [[Hawker Siddeley Company]] in 1960. His financial backer, [[Alan Samuel Butler|Alan Butler]] remained a very involved chairman until he retired in 1950.
+
+== Retirement and death ==
+[[File:Geoffrey de Havilland statue Hatfield.jpg|thumb|upright|Statue at the [[University of Hertfordshire]], Hatfield]]
+
+De Havilland retired from active involvement in his company in 1955, though remaining as president. He continued flying up to the age of 70.&lt;ref name="ODNB"/&gt;  He died aged 82, of a cerebral haemorrhage, on 21 May 1965 at Watford Peace Memorial Hospital, Hertfordshire.
+
+== Honours ==
+
+De Havilland was made an [[Order of the British Empire|OBE]] (Military Division) in the [[1918 Birthday Honours]],&lt;ref&gt;{{London Gazette|issue=30730|supp=y|page=6702|date=4 June 1918}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=31297|supp=y|page=4992|date=15 April 1919}}&lt;/ref&gt; and was honoured with a [[Order of the British Empire|CBE]] (Civil Division) in the [[1934 Birthday Honours]].&lt;ref&gt;{{London Gazette|issue=34056|supp=|page=3564|date=1 June 1934}}&lt;/ref&gt; He was decorated with the [[Air Force Cross (United Kingdom)|Air Force Cross]] (AFC) in the [[1919 New Year Honours]], in recognition of his service in the [[World War I|First World War]].&lt;ref&gt;{{London Gazette|issue=31098|supp=y|page=97|date=31 December 1918}}&lt;/ref&gt; He was [[Knight Bachelor|knighted]] in the [[1944 New Year Honours]],&lt;ref&gt;{{London Gazette|issue=36309|supp=y|page=2|date=31 December 1943}}&lt;/ref&gt; and was invested with his knighthood by George VI at Buckingham Palace on 15 February 1944.&lt;ref&gt;{{London Gazette|issue=36393|supp=|page=911|date=22 February 1944}}&lt;/ref&gt; He was appointed to the [[Order of Merit]] (OM) in November 1962.&lt;ref&gt;{{London Gazette|issue=42840|supp=|page=9153|date=23 November 1962}}&lt;/ref&gt; He received numerous national and international gold and silver medals and honorary fellowships of learned and engineering societies.
+
+n 1972, de Havilland was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+A statue of de Havilland was erected in July 1997 near the entrance to the College Lane campus of the [[University of Hertfordshire]] in [[Hatfield, Hertfordshire|Hatfield]]. He was a benefactor of the university, as in 1951 the de Havilland company had given land adjoining the [[A1 road (Great Britain)|A1]] to [[Hertfordshire County Council]] for educational use in perpetuity; the Hatfield Technical College then founded was a precursor of today's university. The statue was unveiled by [[Prince Philip, Duke of Edinburgh|the Duke of Edinburgh]].
+
+== Family ==
+[[File:De-havilland-first-flight-memorial-stone.jpg|thumb|right|250px|De Havilland Memorial Stone near Seven Barrows Field and [[Beacon Hill, Burghclere, Hampshire|Beacon Hill]] from A34]]
+
+Actresses [[Olivia de Havilland]] and [[Joan Fontaine]] are de Havilland's cousins; his father, Charles, and their father, [[Walter de Havilland|Walter]], were half-brothers. His younger brother, [[Hereward de Havilland]], was also a noted pioneer aviator and test pilot.
+
+In 1909, Geoffrey de Havilland married Louise Thomas, who had formerly been [[governess]] to de Havilland's sisters. They had three sons, Peter, Geoffrey and John. Two of the sons died as test pilots in de Havilland aircraft. His youngest son, [[John de Havilland (pilot)|John]], died in an air collision involving two Mosquitoes in 1943. [[Geoffrey de Havilland, Jr.|Geoffrey Jr]] carried out the first flights of the Mosquito and [[de Havilland Vampire|Vampire]] and was killed in 1946 flying the jet-powered [[de Havilland DH 108|DH 108 Swallow]] while diving at or near the speed of sound. Louise suffered a nervous breakdown following these deaths and died in 1949. De Havilland remarried in 1951, to Joan Mary Frith (1900&amp;ndash;1974). They remained married until his death.
+
+== Posthumous ==
+
+In 1979, de Havilland's autobiography, ''Sky Fever'', was published by Peter and Anne de Havilland.
+
+== See also ==
+
+* [[de Havilland Aircraft Heritage Centre]], London Colney, Hertfordshire
+
+== References ==
+
+'''Notes'''
+{{reflist}}
+
+'''Bibliography'''
+{{refbegin}}
+* De Havilland, Geoffrey. ''Sky Fever: The Autobiography of Sir Geoffrey de Havilland''. Ramsbury, Marlborough, Wiltshire, UK: Crowood Press Ltd., 1999. {{ISBN|1-84037-148-X}}
+* Smith, Ron. ''British Built Aircraft: Greater London''. Stroud, UK: Tempus Publishing, 2002. {{ISBN|0-7524-2770-9}}
+{{refend}}
+
+== External links ==
+{{Commons category}}
+* [http://www.npg.org.uk/collections/search/person.php?LinkID=mp56440 Sir Geoffrey De Havilland (1882–1965), Aircraft designer and manufacturer: Sitter in 11 portraits]
+
+{{de Havilland aircraft}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:De Havilland, Geoffrey}}
+[[Category:1882 births]]
+[[Category:1965 deaths]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:De Havilland]]
+[[Category:De Havilland family]]
+[[Category:English aerospace engineers]]
+[[Category:English aviators]]
+[[Category:English businesspeople]]
+[[Category:Fellows of the Royal Aeronautical Society]]
+[[Category:Harmon Trophy winners]]
+[[Category:Knights Bachelor]]
+[[Category:Members of the Order of Merit]]
+[[Category:Neurological disease deaths in the United Kingdom]]
+[[Category:People educated at St Edward's School, Oxford]]
+[[Category:People from High Wycombe]]
+[[Category:People from Watford]]
+[[Category:People from Fulham]]
+[[Category:Fulham]]
+[[Category:History of the London Borough of Hammersmith and Fulham]]
+[[Category:Recipients of the Air Force Cross (United Kingdom)]]
+[[Category:Royal Aeronautical Society Gold Medal winners]]
+[[Category:Royal Flying Corps officers]]</text>
+      <sha1>r4ftw0xia11z19p1i2oxds0up29udp7</sha1>
+    </revision>
+  </page>
+</mediawiki>

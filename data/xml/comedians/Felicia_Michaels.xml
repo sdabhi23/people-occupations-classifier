@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Felicia Michaels</title>
+    <ns>0</ns>
+    <id>3192499</id>
+    <revision>
+      <id>842450251</id>
+      <parentid>713510801</parentid>
+      <timestamp>2018-05-22T14:57:53Z</timestamp>
+      <contributor>
+        <username>John of Reading</username>
+        <id>11308236</id>
+      </contributor>
+      <minor/>
+      <comment>Typo/[[WP:AWB/GF|general]] fixes, replaced: She → she using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2872">{{Infobox comedian
+| name                    = Felicia Michaels
+| image                   = 
+| caption                 = 
+| birth_name   = Felicia Michaels 
+| medium     = [[Stand-up]], [[television]], [[podcast]], [[film]]
+| nationality= [[United States|American]]
+| genre  = [[blue comedy]], [[observational comedy]]
+| subject  = dynamics of the male/female relationship, "dirty thoughts," and the proliferation of the sensual feminist. 
+}}
+
+'''Felicia Michaels''' is an American [[stand-up comedy|stand-up comedian]]. She was nominated twice for Funniest Female Comic by the [[American Comedy Awards]]; in 1999 she won the award. She has released one album, ''Lewd Awakenings'', on the [[What Are Records]] label. She has appeared on such networks as [[Showtime (TV network)|Showtime]], [[MTV]], [[VH1]], [[NBC]], as well as appearing twice on [[American Broadcasting Company|ABC]]'s ''[[Full House]]''. She was also a Grand Champion on ''[[Star Search]]'', where she made her national debut. You can also hear Michaels' comedy on XM Satellite Radio and [[Last.fm]].
+
+Over the course of the '90s, Michaels shifted her stand-up persona from a dumb-blonde stereotype to a soft-spoken provocateur with an unrepentantly blue sense of humor. She explores such topics as the dynamics of the male/female relationship, "dirty thoughts," and the proliferation of the sensual feminist.
+
+She has appeared in three movies: ''Smart Alex'' directed by [[Steve Oedekerk]], ''Los Enchiladas'' directed by [[Mitch Hedberg]] and most recently "I Am Comic" directed by [[Jordan Brady]]. She is a regular on Parental Discretion, which is due to start filming its second season in the fall of 2013.
+
+She posed nude for ''[[Playboy]]'' and was featured in the October 1992 issue.
+
+She is also a photographer and her photography project titled "Stand Up / Stripped Down" documents comedians and the mystery of what happens backstage in the shadows that lead from the green room to the power of  the stage. "Stand Up / Stripped Down" received first place for the people's choice Px3-PRIX DE LA PHOTOGRAPHIE PARIS for photo journalism.
+
+She is also a recipient of a CINE Golden Eagle Award for ''In The Weeds'' a short film she wrote and directed.
+
+Michaels was the co-host of a popular weekly podcast with [[Joey Diaz]] named "Beauty and Da Beast." It was nominated for Funniest Podcast by the Podcast awards in 2012.
+
+In 2011, she released her second CD entitled Chew On this which continues where Lewd Awakenings left off.
+
+==External links==
+*[http://www.feliciamichaels.net Official site]
+*{{IMDb name|id=0584344|name=Felicia Michaels}}
+*[http://www.beautyanddabeast.com/ Beauty and Da Beast]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Michaels, Felicia}}
+[[Category:Living people]]
+[[Category:American women comedians]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{US-comedian-stub}}</text>
+      <sha1>awbhnrf4ra1xevlzvpx9n77xbr5p7nf</sha1>
+    </revision>
+  </page>
+</mediawiki>

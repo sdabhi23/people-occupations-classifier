@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Paula Pell</title>
+    <ns>0</ns>
+    <id>39926287</id>
+    <revision>
+      <id>852401847</id>
+      <parentid>843848895</parentid>
+      <timestamp>2018-07-28T19:04:04Z</timestamp>
+      <contributor>
+        <ip>76.14.4.37</ip>
+      </contributor>
+      <comment>/* Life and career */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6010">{{Infobox writer
+| honorific_prefix = 
+| honorific_suffix = 
+| name          = Paula Pell
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| native_name   =
+| native_name_lang =
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = {{birth date and age|1963|4|15}}&lt;ref name="afterellen"&gt;{{cite web|url=http://www.afterellen.com/paula-pell-on-being-out-in-the-snl-writers-room-and-her-new-web-series/10/2013|title=Paula Pell on being out in the "SNL" writers' room and her new web series - AfterEllen.com|work=[[AfterEllen.com and TheBacklot.com|AfterEllen.com]]|last=Bendix|first=Trish|date=October 24, 2013|accessdate=June 22, 2014}}&lt;/ref&gt;
+| birth_place   = Joliet, Illinois
+| death_date    = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} --&gt;
+| death_place   = 
+| resting_place = 
+| occupation    = Comedy writer, producer, actress
+| language      = 
+| nationality   = [[United States|American]]
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = 
+| notableworks  = 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| years_active  =  
+| module        =
+| website       = &lt;!-- www.example.com --&gt;
+| portaldisp    = 
+}}
+'''Paula Pell''' (born April 15, 1963) is an [[United States|American]] comedy writer, producer, and actress, best known for her work writing for the sketch series ''[[Saturday Night Live]]''.&lt;ref name=htt&gt;{{cite web |url=http://www.wnyc.org/shows/heresthething/2012/nov/26/transcript/ |title=Paula Pell |work=Here's The Thing |date=26 November 2012 |publisher=NPR |accessdate=10 July 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130412030943/http://www.wnyc.org/shows/heresthething/2012/nov/26/transcript/ |archivedate=12 April 2013 |df= }}&lt;/ref&gt;&lt;ref name=var&gt;{{cite web |url=https://variety.com/2011/film/news/pell-snl-scribe-plays-for-bigscreen-laughs-1118046665/ |title=Pell: 'SNL' scribe plays for bigscreen laughs |last1=Longwell |first1=Todd |date=2 December 2011 |publisher=Variety |accessdate=10 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://splitsider.com/2013/01/talking-to-paula-pell-about-working-at-snl-for-17-years-writing-with-apatow-and-other-stuff/ |title=Talking to Paula Pell About Working at 'SNL' for 17 Years, Writing with Apatow, and Other Stuff |last1=Evans |first1=Bradford |date=8 January 2013 |publisher=Splitsider |accessdate=10 July 2013}}&lt;/ref&gt;
+
+== Life and career ==
+
+Pell has been a writer for ''[[Saturday Night Live]]'' since 1995. She also was a producer and writer for the sitcom ''[[30 Rock]]'', and is credited for writing the episodes [[Argus (30 Rock)|"Argus"]] and [[Floyd (30 Rock)|"Floyd"]]. In 2006, a pilot she wrote, ''Thick and Thin'', was picked up by NBC for 13 episodes, with Pell as executive producer.&lt;ref name=htt/&gt; Pell has worked with [[Judd Apatow]] providing additional writing for the films ''[[Bridesmaids (2011 film)|Bridesmaids]]'' and ''[[This is 40]]''.
+
+As an actress, Pell appeared in several episodes of ''30 Rock'' as the wife of [[Pete Hornberger]], and played the mother of [[Ron Swanson]] in a 2011 episode of ''[[Parks and Recreation]]''.&lt;ref name=var/&gt; She has also appeared as an [[Extra (acting)|extra]] or in bit parts in dozens of SNL sketches. Pell voices Gadget Gal in the [[Hulu]] original series ''[[The Awesomes]]''.&lt;ref&gt;{{cite web|url=http://mynews13.com/content/news/cfnews13/on-the-town/article.html/content/news/articles/cfn/2014/9/23/snl_s_paula_pell_wai.html|title=SNL's Paula Pell 'waiting for the action figure'|work=[[News 13 (Central Florida)|News 13]]|last=Walker|first=Allison|date=September 23, 2014|accessdate=January 12, 2015}}&lt;/ref&gt;
+
+She has a small cameo in the 2013 [[comedy]] film ''[[Anchorman 2: The Legend Continues]]''. She co-created web series ''Hudson Valley Ballers'' with fellow SNL writer and long time friend [[James Anderson (writer)|James Anderson]] with whom she also co-stars.&lt;ref&gt;{{cite web |url= http://www.huffingtonpost.com/2013/12/17/hudson-valley-ballers_n_4461705.html|title= 10 Reasons You Should Watch 'Hudson Valley Ballers' Right Now|last1= Hartsell|first1= Carol|last2= |first2= |date= 17 December 2013|website= [[The Huffington Post]]|publisher= |access-date= 12 July 2015|quote=}}&lt;/ref&gt; [[Tina Fey]] produced and starred in Pell's first feature screenplay, ''[[Sisters (2015 film)|Sisters]]'' (2015).&lt;ref&gt;{{cite web |url=http://www.deadline.com/2013/02/pitch-perfect-helmer-jason-moore-in-tune-with-tina-fey-for-uni-comedy-the-nest/ |title='Pitch Perfect' Helmer Jason Moore In Tune With Tina Fey For Uni Comedy 'The Nest' |last1=Fleming Jr. |first1=Mike |date=4 February 2013 |publisher=Deadline |accessdate=10 July 2013}}&lt;/ref&gt; Pell also played the dream producer and Mom's Anger in the 2015 [[Pixar]] film ''[[Inside Out (2015 film)|Inside Out]]''. In 2016-2018, she starred guest-starred in the TV series ''[[Love (TV Series)|Love]]'' as Erika. She currently plays Helen Henry DeMarcus on the show, ''[[A.P. Bio]]''.&lt;ref&gt;{{Cite web|url=https://en.m.wikipedia.org/wiki/A.P._Bio|title=A.P. Bio - Wikipedia|website=en.m.wikipedia.org|language=en|access-date=2018-04-14}}&lt;/ref&gt;
+She also plays Aunt Mo in the Showtime series SMILF.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|id=0996134}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Pell, Paula}}
+[[Category:1963 births]]
+[[Category:American comedy writers]]
+[[Category:American women comedians]]
+[[Category:American television actresses]]
+[[Category:American television producers]]
+[[Category:Women television producers]]
+[[Category:American television writers]]
+[[Category:Lesbian actresses]]
+[[Category:Lesbian writers]]
+[[Category:LGBT screenwriters]]
+[[Category:LGBT comedians]]
+[[Category:LGBT people from Illinois]]
+[[Category:Living people]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American women writers]]
+
+
+{{US-screenwriter-stub}}</text>
+      <sha1>cxnzk147pho43k36twhcqmahjbn5ns7</sha1>
+    </revision>
+  </page>
+</mediawiki>

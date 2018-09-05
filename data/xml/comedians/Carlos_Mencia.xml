@@ -1,0 +1,188 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Carlos Mencia</title>
+    <ns>0</ns>
+    <id>2184033</id>
+    <revision>
+      <id>851059257</id>
+      <parentid>850093188</parentid>
+      <timestamp>2018-07-19T19:49:04Z</timestamp>
+      <contributor>
+        <username>Nightrose</username>
+        <id>537973</id>
+      </contributor>
+      <minor/>
+      <comment>remove stray underscore in link text</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19607">{{pp-semi-blp|small=yes}}
+{{Infobox person
+| image = File:Comedian Carlos Mencia in 2009.JPG
+| imagesize = 
+| caption = Carlos Mencia in concert in 2009.
+| birthname = Ned Arnel Mencía
+| alias = Ned Holness&lt;ref name="Menciastories"/&gt;
+| birth_date = {{birth date and age|mf=yes|1967|10|22}}
+| birth_place = [[San Pedro Sula]], [[Honduras]]
+| occupation = Actor, comedian, writer
+| yearsactive = 1990–present 
+}}
+
+'''Ned Arnel Mencia''' (born October 22, 1967), known professionally as '''Carlos Mencia''' (and previously '''Ned Holness''')&lt;ref name="Menciastories"/&gt; is a [[Honduras|Honduran-born]] American [[comedian]], writer, and actor. His style of comedy is often political and involves issues of [[Race (classification of human beings)|race]], [[culture]], [[criminal justice]], and [[social class]]. He is best known as the host of the [[Comedy Central]] show ''[[Mind of Mencia]]'' which produced four seasons before being cancelled in 2008.
+
+==Early life==
+Mencía was born in [[San Pedro Sula]], [[Honduras]], the seventeenth of eighteen children. His mother, Magdelena Mencía, was [[Mexico|Mexican]], and his father, Roberto Holness, was [[Honduras|Honduran]].&lt;ref name="nprref2"&gt;{{cite news|last=Inskeep|first=Steve|title=Conversations on Immigration: Carlos Mencia|pages=|publisher=NPR|date=2006-06-12|url=http://m.npr.org/news/front/5478147?singlePage=true|accessdate=2010-03-18}}&lt;/ref&gt; At the time of his birth, Mencía's mother was engaged in a [[domestic violence|domestic dispute]] with his father, and declined to give her son his biological father's last name.&lt;ref name = "Menciastories"&gt;{{cite web | last = | first = | authorlink = | year = | url = http://www.carlosmencia.com/oldwebsite/stories.htm | title = October 3rd: the Doghouse Comedy Jam | work = | publisher = CarlosMencia.com | accessdate = 2007-02-02 |archiveurl = https://web.archive.org/web/20070212030042/http://www.carlosmencia.com/oldwebsite/stories.htm |archivedate = February 12, 2007}}&lt;/ref&gt;&lt;ref name="npref1"&gt;{{cite news|last=Adams|first=Noah|title=Don't Miss: Carlos Mencia|pages=|publisher=NPR|date=2006-06-12|url=https://www.npr.org/templates/story/story.php?storyId=5478891|accessdate=2010-03-18}}&lt;/ref&gt; The name appearing on his birth certificate is "Ned Arnel Mencía," although Mencia has said that out of respect for his biological father, he went by the Holness name anyway, and was known as "Ned Holness" until he was eighteen years old.&lt;ref name="Menciastories" /&gt;
+
+Mencia was raised [[Catholic Church|Roman Catholic]]&lt;ref&gt;{{cite web|last=Kozlowski|first=Carl|url=http://www.relevantmagazine.com/culture/film/blog/20931-qaa-carlos-mencia|title=Q&amp;A: Carlos Mencia|work=[[Relevant Magazine]]|quote =|date=|accessdate=2010-06-26}}&lt;/ref&gt; in [[East Los Angeles (region)|East Los Angeles]], [[California]], by his aunt Consuelo and uncle Pablo Mencia. By his own admission, staying out of trouble was difficult while growing up, but with the help of his family, he excelled in school and stayed out of [[gangs]].{{citation needed|date=March 2014}} He attended [[Garfield High School (Los Angeles County, California)|Garfield High School]] in [[Los Angeles County]].&lt;ref name=Riverafire1&gt;Rivera, Carla. "East L.A.'s loss is personal." ''[[Los Angeles Times]]''. May 22, 2007. p. [http://articles.latimes.com/2007/may/22/local/me-garfield22 1]. Retrieved on March 29, 2014. "Its alumni include an array of politicians, actors, comedians, musicians, artists and sports figures, including comic Carlos Mencia and boxer Oscar De La Hoya."&lt;/ref&gt; Mencia dealt drugs when he was 19 years old and burglarized a house.&lt;ref name="nprref2" /&gt; He majored in [[electrical engineering]] at [[California State University, Los Angeles]], but left early to pursue a career in [[comedy]] after a successful performance at an [[open mic]] night at [[The Laugh Factory]]. He has an older brother named Joseph Mencia who often appeared on ''[[Mind of Mencia]]''.
+
+==Career==
+[[File:Carlos Mencia hat.jpg|thumb|Mencia prior to a live concert at a U.S. Army camp in the Persian Gulf Region.]]
+In 1988, [[Mitzi Shore]], owner of [[The Comedy Store]], suggested that Mencia change his first name from "Ned" to "Carlos" in order to appeal to the Mexican audiences.&lt;ref&gt;[https://www.youtube.com/watch?v=P6ifre4Fm8c&amp;feature=youtu.be&amp;t=13m]&lt;/ref&gt; Mencia performed at venerated LA stand-up venues such as [[The Comedy Store]] and The L.A. Cabaret. His success in these venues led to appearances on ''[[The Arsenio Hall Show]]'' and ''Buscando Estrellas,'' where he attained the title "International Comedy Grand Champion." Then, in 1994, Mencia was chosen to host [[Home Box Office|HBO's]] [[latino]] comedy showcase ''Loco Slam.''
+
+Mencia followed up ''Loco Slam'' by hosting ''Funny is Funny!'' on [[Galavisión (USA)|Galavision]] in 1998. He would continue to do [[stand-up comedy|stand-up]], including a very successful tour in 2001 with [[Freddy Soto]] and [[Pablo Francisco]], "The Three Amigos." Mencia also did two half-hour specials on HBO, the second of which won him a [[CableACE Award]] for ''Best Stand-Up Comedy Special.'' After the release of his first comedy album by Warner Records, ''Take A Joke America,'' Mencia performed his break-out performance on ''[[Comedy Central Presents]]'' in 2002.
+
+By the time his career began to take off in the early 2000s, Mencia was also working as an actor doing guest appearances in the television shows ''[[Moesha]]'' and ''[[The Shield]],'' and starring in the film ''Outta Time'' and the animated show ''[[The Proud Family]].''
+
+In March 2005, Comedy Central announced Mencia's own half-hour comedy show, ''[[Mind of Mencia]]''. The show mixed Mencia's stand up comedy with [[sketch comedy]], much like [[Dave Chappelle]]'s ''[[Chappelle's Show]]''. The show achieved moderate success in its first season and was brought back for a second season in the spring of 2006, becoming Comedy Central's second highest-rated program behind ''[[South Park]]''.&lt;ref&gt;{{cite web | last = | first = | authorlink = | year = | url = http://www.comedycentral.com/press/press_releases/2006/071206_mencia_thirdseason_pickup.jhtml | title = Comedy central delves deeper into the "mind of mencia" and orders third season | work = | publisher = Comedy Central | accessdate = 2006-10-21}}&lt;/ref&gt; It was brought back for a third season that summer before being cancelled in 2008. ''Mind of Mencia'' was produced by Nedlos, a [[portmanteau]] of Mencia's birth name and the name he took prior to naturalizing in the US.
+
+Mencia is sometimes a guest on the [[Opie and Anthony]] radio show on [[XM Satellite Radio]] and [[CBS Radio]]. He took part in the first [[Opie and Anthony's Traveling Virus Comedy Tour]] in [[Opie and Anthony's Traveling Virus Comedy Tour (2006)|2006]]. In 2002, he performed on "Comedy Central Presents."
+
+Mencia starred in a [[Super Bowl XLI]] commercial for [[Bud Light]]. In November 2009, Mencia began appearing commercials for a weight-loss product called Belly Burner, which he has claimed to have used personally.{{citation needed|date=October 2014}}
+
+Mencia went on a 2011 stand-up comedy tour, including dates at the Improv in Schaumburg, Illinois, on June 24 and 25, and ending in Las Vegas at Treasure Island on Friday, September 16, 2011.&lt;ref&gt;{{cite web|url=http://khitschicago.radio.com/2011/06/24/carlos-mencia-stops-in-studio-with-eddie-jobo/ |title=Carlos Mencia Stops In Studio With Eddie &amp; Jobo}}&lt;/ref&gt;
+
+Mencia is the co-owner of the restaurant chain [[Maggie Rita's]].&lt;ref name="Sandler"&gt;Sandler, Eric (July 6, 2012). [http://houston.eater.com/archives/2012/07/06/maggie-ritas-takes-over-three-ninfas-locations.php "Three Ninfa's Locations Replaced by Maggie Rita's"]. ''Houston Eater''.&lt;/ref&gt;
+
+==Criticism==
+A 2010 ''[[Wall Street Journal]]'' article noted that Mencia, along with [[Dane Cook]] and [[Jay Leno]], were three of the most hated popular stand-ups by fellow comedians.&lt;ref name="wsj11510"&gt;Rabin, Nathan (January 15, 2010 ). [https://blogs.wsj.com/speakeasy/2010/01/15/why-some-comics-arent-laughing-at-jay-leno-essay/ "Why Some Comics Aren't Laughing at Jay Leno"]. ''[[The Wall Street Journal]]''.&lt;/ref&gt; In 2006, ''[[Maxim (magazine)|Maxim]]'' named Mencia one of the worst comedians of all time.&lt;ref name="maxim"&gt;[http://www.maxim.com/entertainment/article/worst-comedians-all-time "The Worst Comedians of All Time"] {{webarchive|url=https://web.archive.org/web/20151013021740/http://www.maxim.com/entertainment/article/worst-comedians-all-time |date=2015-10-13 }}. ''[[Maxim (magazine)|Maxim]]''. Retrieved October 25, 2015.&lt;/ref&gt;&lt;ref name="rcr"&gt;Schulz, Mike (November 7, 2007). [http://www.rcreader.com/news/controlling-the-beast-carlos-mencia/ "Controlling the Beast: Carlos Mencia, at the Adler Theatre November 10"] {{webarchive|url=https://web.archive.org/web/20101212111321/http://www.rcreader.com/news/controlling-the-beast-carlos-mencia/ |date=2010-12-12 }}. ''[[River Cities' Reader]]''.&lt;/ref&gt; Mike Byoff of [[Gawker]] said of Mencia, "Not only does he steal jokes from classic comedians but he's needlessly racist and had {{sic}} no sense of comedic timing whatsoever."&lt;ref&gt;Byhoff, Mike (January 18, 2010). [http://gawker.com/5450975/the-most-hated-comedians-of-all-time "The Most Hated Comedians of All Time"] {{webarchive |url=https://web.archive.org/web/20151025124405/http://gawker.com/5450975/the-most-hated-comedians-of-all-time |date=October 25, 2015 }}. [[Gawker]].&lt;/ref&gt;
+
+===Accusations of plagiarism===
+In 2005, comedian [[Joe Rogan]] wrote a post on his website publicly accusing Mencia of being a [[Plagiarism|plagiarist]], alleging that Mencia [[joke thievery|stole jokes]] from a number of comedians.&lt;ref name="rogan"&gt;{{cite web|last=Rogan|first=Joe|authorlink=Joe Rogan|url=http://joerogan.net/blog/carlos-mencia-is-a-weak-minded-joke-thief|title=Carlos Mencia is a weak minded joke thief.|publisher=JoeRogan.com|date=2005-09-27|accessdate=2013-04-26}}&lt;/ref&gt; On February 10, 2007, Rogan confronted Mencia on stage at the [[Comedy Store]] on Sunset and continued his allegations of plagiarism. Rogan posted a video of the altercation  with audio and video clips from other comedians including [[George Lopez]], Reverend [[Bob Levy (comedian)]], [[Bobby Lee]], and [[Ari Shaffir]], among others.&lt;ref&gt;{{cite web|first=Germain|last=Lussier|date=February 15, 2007|url=http://www.recordonline.com/apps/pbcs.dll/article?AID=/20070215/ENTERTAIN/70215009|title=Joe Rogan and Carlos Mencia face off at comedy club]|work=[[Times-Herald Record]]}}&lt;/ref&gt; Rogan has also posted audio and video clips of Mencia's interviews and joke routines comparing Mencia's routines to those of other comedians on his [[blog]].&lt;ref name="rogan"/&gt;&lt;ref&gt;{{cite web|url=http://touch.orlandosentinel.com/#section/-1/article/p2p-33195154/|author=Moore, Roger|date=October 13, 2007|title=Carlos Mencia conquers comedy and now eyes the cinema|work=[[Orlando Sentinel]]}}&lt;/ref&gt;
+
+Comedian George Lopez also accused Mencia of plagiarizing his material. In an interview on ''[[The Howard Stern Show]]'', Lopez accused Mencia of plagiarizing 13 minutes of his material in Mencia's [[HBO]] special. He also claimed he had a physical altercation with Mencia over the alleged plagiarism.&lt;ref&gt;{{cite web|url=http://media.www.ucdadvocate.com/media/storage/paper538/news/2007/05/02/BonusBytes/Is.Carlos.Mencia.A.Thief-2891990.shtml|author=Goldyn, Debra|title=Is Carlos Mencia a thief?|work=Advocate|publisher=[[University of Colorado at Denver]]|date=2007-05-02|accessdate=2007-05-14|deadurl=yes|archiveurl=https://web.archive.org/web/20071007092111/http://media.www.ucdadvocate.com/media/storage/paper538/news/2007/05/02/BonusBytes/Is.Carlos.Mencia.A.Thief-2891990.shtml|archivedate=2007-10-07|df=}}&lt;/ref&gt; The only joke that Lopez has publicly specified was stolen and used on Mencia's HBO special was a [[Taco Bell]] joke. Comedian Ted Sarnowski countered this claim, stating that the joke he performed on radio in 1988 was later taken and used without permission by Lopez, the radio station's resident comic. Sarnowski claims to have given Mencia permission to use the joke.&lt;ref&gt;{{cite web|url=http://www.lacitybeat.com/article.php?id=5264&amp;IssueNum=199|author=CARL Kozlowski, Carl|title=Carlos Mencia Just Said That|work=|publisher=Los Angeles CityBeat|date=2007-03-29|accessdate=2007-07-14|archiveurl=https://web.archive.org/web/20070920201944/http://www.lacitybeat.com/article.php?id=5264&amp;IssueNum=199|archivedate=September 20, 2007}}&lt;/ref&gt;&lt;ref name="claim of copyright"&gt;{{cite web|url=http://techdirt.com/articles/20070215/230046.shtml|author=Mike Masnick, Carl|title=Carlos Mencia Claims Copyright Infringement On Comedian Who Accuses Mencia Of Stealing Jokes|date=2008-04-28|accessdate=2008-04-28}}&lt;/ref&gt;&lt;ref name="Joe Rogan Vs Carlos Mencia"&gt;{{cite web|url=http://blog.joerogan.net/archives/110|author=Rogan, Joe|title=Joe Rogan VS Carlos Mencia, ONSTAGE VIDEO|date=2008-04-28|accessdate=2008-04-28|deadurl=yes|archiveurl=https://web.archive.org/web/20080512061410/http://blog.joerogan.net/archives/110|archivedate=2008-05-12|df=}}&lt;/ref&gt;
+
+Mencia has also been accused of stealing a routine from [[Bill Cosby]]. In his special, ''No Strings Attached'', Mencia performs a bit about a father who spends years training his son for a career as a [[American football|football]] player, only to see the son say "I love you, Mom!" at his moment of televised victory. Cosby performed a similar bit in his concert film ''[[Bill Cosby: Himself]]'' and wrote briefly on the subject in his book ''[[Fatherhood (book)|Fatherhood]]''. Mencia told the ''[[Los Angeles Times]]'' that he had never seen the film but regretted the similarities between his and Cosby's jokes.&lt;ref name=FunnyLosAngeles&gt;{{cite news|url=https://pqasb.pqarchiver.com/latimes/access/1309037121.html?dids=1309037121:1309037121&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jul+24%2C+2007&amp;author=Robert+W.+Welkos&amp;pub=Los+Angeles+Times&amp;edition=&amp;startpage=A.1&amp;desc=COLUMN+ONE%3B+Funny%2C+that+was+my+joke%3B+It%27s+no+laughing+matter+when+comedians+feel+someone+has+stolen+their+stuff.+A+generation+ago+it+was+rare%2C+but+the+old+code+is+breaking+down.|title=Funny, that was my joke|publisher=''[[Los Angeles Times]]''|author=Welkos, Robert W.|date=2007-07-24|accessdate=2008-05-04}}&lt;/ref&gt;
+
+The accusations of Mencia's plagiarism were referenced in "[[Fishsticks (South Park)|Fishsticks]]," the April 8, 2009 episode of the animated TV series ''[[South Park]]'', in which Mencia takes credit for a joke that [[Jimmy Valmer]] writes in the episode. When faced with the prospect of being assaulted, he admits, "I took credit for it because I'm not actually funny!... I just take jokes and repackage them with a Mexican accent!" The character is then killed by [[Kanye West]].&lt;ref&gt;{{cite episode|title=Fishsticks|episodelink=Fishsticks (South Park)|series=South Park|serieslink=South Park|airdate=2009-04-08|season=13|number=5}}&lt;/ref&gt;
+
+Mencia addressed the issue of plagiarism in two hour-long interviews with comic [[Marc Maron]] on his podcast, ''[[WTF with Marc Maron]]'', in May 2010.&lt;ref&gt;{{cite web|url=http://wtfpod.libsyn.com/episode_75_carlos_mencia |title=WTF with Marc Maron Podcast: Episode 75 - Carlos Mencia |publisher=Wtfpod.libsyn.com |date=2010-05-24 |accessdate=2013-08-22}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://wtfpod.libsyn.com/episode_76_willie_barcena_steve_trevino_carlos_responds |title=WTF with Marc Maron Podcast: Episode 76 - Willie Barcena / Steve Trevino / Carlos responds |publisher=Wtfpod.libsyn.com |date=2010-05-27 |accessdate=2013-08-22}}&lt;/ref&gt;
+
+In 2011, Mencia stated in an interview that he had been in therapy due to accusations of plagiarism.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2011/11/27/arts/television/carlos-mencia-new-territory-on-comedy-central.html?pagewanted=all|title=A Comedian's Act Is Leaner But Not Meaner|last=Keller|first=Joel|date=27 November 2011|work=[[The New York Times]]|page=27|accessdate=31 July 2012}}&lt;/ref&gt;
+
+===Hurricane Katrina remarks===
+In February 2009, Mencia was dropped from the [[Krewe of Orpheus]]' celebrity lineup for [[New Orleans Mardi Gras]], citing inappropriate comments he made in the aftermath of [[Hurricane Katrina]]. Mencia remarked during his stand up: "I'm glad Hurricane Katrina happened. It taught us an important lesson: Black people can't swim."&lt;ref&gt;[http://www.wdsu.com/mardigras/18653787/detail.html#- "Orpheus Drops Carlos Mencia As Monarch"] WDSU.com. February 5, 2009.&lt;/ref&gt;
+
+==Personal life==
+Mencia lives with his wife, Amy, in the Los Angeles area of [[California]]. They have one child, Lucas Pablo Mencia.&lt;ref&gt;{{cite news| url=http://www.chicagotribune.com/business/technology/local/profiles/chi-carlos-mencia-snoop,0,4905309.story | archive-url=https://archive.is/20120724032747/http://www.chicagotribune.com/business/technology/local/profiles/chi-carlos-mencia-snoop,0,4905309.story | dead-url=yes | archive-date=2012-07-24 | work=Chicago Tribune | first=Nina | last=Metz | title=Got a yen for foot cheese? Stop by Carlos Mencia's}} &lt;/ref&gt;
+
+==Filmography==
+* ''[[In Living Color]]'' (TV), playing a Valet in episode six of season two, (1990)
+* ''[[Moesha]]'' (TV), playing Carlos in the episode "Life Imitating Art," (1999)
+* ''[[The Proud Family]]'' (TV), starring as Felix (voice) (2001–2005)
+* ''[[The Shield]]'' (TV) playing Gabo in the episode "Two Days of Blood," (2002)
+* ''[[Outta Time]]'' (2002), playing "Juancho"
+* ''[[29 Palms (film)|29 Palms]]'' (2002), playing "The Comedian"
+* ''[[Mind of Mencia]]'' (TV) Host (2005–2008)
+* ''[[Drawn Together]]'' (TV) playing the King of Mexico (voice) in the episode "[[Mexican't Buy Me Love]]", (2006)
+* ''[[Farce of the Penguins]]'' (2007)
+* ''[[The Heartbreak Kid (2007 film)|The Heartbreak Kid]]'' (2007), playing Uncle Tito
+* ''[[MADtv]]'' (2007), playing Himself
+* ''[[Our Family Wedding]]'' (2010)
+* ''[[Carlos Mencia: New Territory]]'' (2011)
+
+Mencia has also appeared on ''[[Comic Relief (charity)|Comic Relief]]'', and hosted ''Loco Slam'' in 1994, ''Latino Laugh Festival'' in 1997, ''Funny is Funny!'' in 1998, and ''Uncensored Comedy: That's Not Funny'' in 2003.
+
+==Discography==
+
+===Albums===
+* ''Take a Joke America'' (2001)
+* ''America Rules'' (2002)
+* ''Unmerciful'' (2003)
+* ''Spanglish'' (2006)
+
+===Albums and DVDs===
+* ''Not for the Easily Offended'' (2003)
+* ''Down to the Nitty Gritty'' (2004)
+* ''No Strings Attached'' (2006)
+* ''The Best of Funny is Funny'' (2007)
+* ''Performance Enhanced'' (2008)
+* ''Mind of Mencia Season 1'' (2006)
+* ''Mind of Mencia Season 2'' (2007)
+* ''Mind of Mencia Season 3'' (2007)
+* ''Mind Of Mencia Season 4'' (2008)
+* ''Carlos Mencia: New Territory'' (2011)
+
+== References ==
+
+{{reflist|2}}
+
+==External links==
+{{Portal|Biography|Comedy|Hispanic and Latino Americans}}
+{{Commons category-inline}}
+* {{Official website|http://www.carlosmencia.com}}
+* {{IMDb name|578788|Carlos Mencia}}
+* [http://www.comedycentral.com/shows/mind_of_mencia/index.jhtml ''Mind Of Mencia''] at [[Comedy Central|ComedyCentral.com]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mencia, Carlos}}
+[[Category:1967 births]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American people of Mexican descent]]
+[[Category:American stand-up comedians]]
+[[Category:Honduran actors]]
+[[Category:Honduran emigrants to the United States]]
+[[Category:Living people]]
+[[Category:Male actors from Los Angeles County, California]]
+[[Category:People from San Pedro Sula]]
+[[Category:Comedians from California]]
+[[Category:21st-century American comedians]]
+[[Category:Honduran people of Mexican descent]]</text>
+      <sha1>aoigosh22fmos8mlk5ceqiubu8ujvi3</sha1>
+    </revision>
+  </page>
+</mediawiki>

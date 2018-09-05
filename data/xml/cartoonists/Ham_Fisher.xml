@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ham Fisher</title>
+    <ns>0</ns>
+    <id>1008843</id>
+    <revision>
+      <id>836635849</id>
+      <parentid>811301023</parentid>
+      <timestamp>2018-04-15T23:41:01Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP;add/change/refine category; MOS fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8200">{{Use mdy dates|date=December 2012}}
+[[File:Ham Fisher 1939.jpg|thumb|Fisher in 1939]]
+'''Hammond Edward Fisher''' (September 24, 1900 (some sources indicate 1901) – December 27, 1955) was an [[United States|American]] comic strip writer and [[cartoonist]] who signed his work '''Ham Fisher'''. He is best known for his popular long-run on ''[[Joe Palooka]]'', which was launched in 1930 and ranked as one of the top five newspaper comics strips for several years.
+
+Born in [[Wilkes-Barre, Pennsylvania]], Ham Fisher dropped out of school at the age of 16 to work as a brush peddler and truck driver before finding employment as a reporter and ad salesman for the ''Wilkes-Barre Record'' and then moving on to a job with the New York ''[[Daily News (New York)|Daily News]]''.
+
+==Joe Palooka==
+In 1920, Fisher put together a sample package of ''Joe Palooka'' (then titled ''Joe the Dumbbell'') but was unable to attract interest. By 1927, he was working as a traveling strip salesman for the [[McNaught Syndicate]]. However, Fisher also hawked his own unpublished, unsold strip.
+
+In 1928, after he secured over 20 sales, including to New York's ''[[New York Daily Mirror|Daily Mirror]]'', Fisher informed his managers at McNaught, who decided to give ''Joe Palooka'' a trial run. The comic strip soon became a national success. The strip helped to solidify the word "palooka" as a boxer who lacks grace or ability, although the character Joe Palooka was the heavyweight champion. A dozen low-budget film adaptations of ''Joe Palooka'' appeared from the 1930s into the 1950s. Comic books featuring ''Joe Palooka'' began in 1933 and continued through the 1950s.
+
+==Feud with Al Capp==
+Searching for assistants to work on the strip, Fisher hired (among others) [[Al Capp]], who later achieved fame as the writer-cartoonist of ''[[Li'l Abner]]''. While ghosting on ''Joe Palooka'', Capp claimed to have created the storyline about a stupid musclebound hillbilly named "Big Leviticus", an apparent prototype for the Li'l Abner character. When Capp quit ''Joe Palooka'' in 1934 to launch his own strip, Fisher badmouthed him to colleagues and editors, claiming that Capp had stolen his idea. For years, Fisher would bring the characters back to his strip, billing them as "the Original Hillbilly Characters" and advising readers not to be "fooled by imitations". Comics historians [[Denis Kitchen]] and Michael Schumacher have suggested that while there appears to be no definitive answer as to whether Capp or Fisher invented the hillbillies, they say there is reason to doubt that Capp ghosted several weeks of ''Joe Palooka'' strips entirely by himself.&lt;ref&gt;''Al Capp: A Life to the Contrary'' (Bloomsbury USA, 2013)&lt;/ref&gt;
+
+The Capp-Fisher feud was well known in cartooning circles, and it became personal and vitriolic as Capp's strip eclipsed ''Joe Palooka'' in popularity. In the 1930s, to replace Capp, Fisher hired away Capp's top assistant, Moe Leff, along with Phil Boyle and a letterer. All three continued to work for Fisher for two decades. Fisher, Leff and Boyle all collaborated on the art, with Leff drawing the figures and Fisher doing the heads. Leff also contributed to scripting the strip.
+
+After Fisher underwent plastic surgery, Capp once included a racehorse in ''L'il Abner'' named Ham's Nose Bob. Traveling in the same social circles, the two men engaged in a 20-year mutual vendetta, as described in 1998 by Jay Maeder in the ''Daily News'': "They crossed paths often, in the midtown watering holes and at [[National Cartoonists Society]] banquets, and the city's gossip columns were full of their snarling public donnybrooks."&lt;ref name="nydailynews.com"&gt;[http://www.nydailynews.com/archives/news/1998/09/18/1998-09-18_spitting_on_pictures_funny_p.html Maeder, Jay. “Spitting on Pictures Funny Papers, 1955”, ''Daily News'', 18 September 1998.] {{webarchive|url=https://web.archive.org/web/20091008035428/http://www.nydailynews.com/archives/news/1998/09/18/1998-09-18_spitting_on_pictures_funny_p.html |date=October 8, 2009 }}&lt;/ref&gt;
+
+In 1950, Capp wrote an article for ''[[The Atlantic]]'' entitled "I Remember Monster". The article recounted Capp's days working for an unnamed "benefactor" with a miserly, swinish personality, who Capp claimed was a never-ending source of inspiration when it came time to create a new unregenerate villain for his comic strip.
+[[File:"Wartime Anecdotes" comic strip, by Ham Fisher.jpg|center|thumb|670px|This [[topper (comic strip)|topper]] strip by Ham Fisher ran above his ''[[Joe Palooka]]'' (July 22, 1945).]]
+
+==Retaliation==
+Fisher retaliated clumsily, falsely accusing Capp of sneaking obscenities into his comic strip. Submitting examples of ''L'il Abner'' to Capp's syndicate and to the New York courts, Fisher claimed pornographic images were hidden in the background art. Capp was able to refute the accusation by simply showing the original printed strips. According to the recollection of Fisher's friend [[Morris Weiss]], "What Ham Fisher did was to take a lot of ''L'il Abner'' strips that were suggestive. In one case, he cut off the end of one strip, which made it look more suggestive than others. He did not doctor any art on the strips... The story that Ham doctored the artwork came from Al Capp, of course."&lt;ref name=ae&gt;Morris Weiss interview, ''[[Alter Ego (magazine)|Alter Ego]]'' #43 (December 2004), pp. 7-22.&lt;/ref&gt; Capp's brother Elliot Caplin recalls the doctored strips as having been drawn upon, with additions of lines and shadows intended to simulate body parts.&lt;ref&gt;[https://books.google.com/books?id=XTdVkHOFB-YC&amp;pg=PA71&amp;lpg=PA71&amp;dq=ham+fisher+al+capp&amp;source=bl&amp;ots=T76QD3GUoE&amp;sig=vIElY1ygDAX_xbTd2DuTVJoI8Ds&amp;hl=en&amp;ei=QYRBTYayDc_3gAeAoojDAQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CC4Q6AEwAg#v=onepage&amp;q=ham%20fisher%20al%20capp&amp;f=false Caplin, Elliot. ''Al Capp Remembered'', p. 75. Popular Press, 1994.]&lt;/ref&gt;
+
+In 1954, as Capp was applying for a Boston television license, the [[Federal Communications Commission|FCC]] received an anonymous packet of pornographic ''L'il Abner'' drawings. The [[National Cartoonists Society]], an organization that Fisher had helped to found, convened an ethics hearing, and Fisher was expelled. Fisher became the only man ever sanctioned for "conduct unbecoming a cartoonist".{{citation needed|date=September 2017}} Around the same time, Fisher's mansion in [[Carol Beach, Wisconsin]] was destroyed by a storm.{{citation needed|date=September 2017}}
+[[File:Joepalooka1949.jpg|670px|center|thumb|[[Bob Hope]] and [[Bing Crosby]] were drawn into this 1949 ''[[Joe Palooka]]'' strip by Ham Fisher and Moe Leff.]]
+
+==Death==
+On December 27, 1955, Fisher left his home for Moe Leff's studio, which Fisher had been using while Leff was out of town. Fisher telephoned his mother shortly after 1 pm, engaging in what police termed a "sentimental" conversation,&lt;ref&gt;"Ham Fisher Ends His Life in Studio," ''The New York Times'', December 28, 1955.&lt;/ref&gt; and later in the evening, Fisher's concerned wife asked Weiss to check the studio, where Fisher's body was discovered just after 9&amp;nbsp;pm.&lt;ref name="nydailynews.com"/&gt;  Notes found by police indicated Fisher was despondent over his failing health and planned an overdose of medication. A will drawn up weeks before his death left an estate of 2.5 million dollars to his wife Marilyn and daughter Wendy.&lt;ref&gt;"Fisher Left $2,500,000," ''The New York Times'', January 5, 1956.&lt;/ref&gt;
+
+The feud between Fisher and Capp, and Fisher's suicide, was fictionalized with all names changed and many details altered in the mystery novel ''Strip for Murder'' by [[Max Allan Collins]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://lambiek.net/artists/f/fisher_h.htm Lambiek Comiclopedia: Ham Fisher]
+* [http://potrzebie.blogspot.com/search?q=palooka Ham Fisher and James Montgomery Flagg]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fisher, Hammond Edward}}
+[[Category:1900 births]]
+[[Category:1955 deaths]]
+[[Category:American comics artists]]
+[[Category:American comic strip cartoonists]]
+[[Category:Writers from Wilkes-Barre, Pennsylvania]]
+[[Category:Suicides in New York (state)]]
+[[Category:Writers who committed suicide]]</text>
+      <sha1>g86mo9o79p06bjodroxpuqyvogm62m6</sha1>
+    </revision>
+  </page>
+</mediawiki>

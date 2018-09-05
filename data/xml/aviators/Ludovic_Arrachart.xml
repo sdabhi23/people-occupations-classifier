@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ludovic Arrachart</title>
+    <ns>0</ns>
+    <id>25808050</id>
+    <revision>
+      <id>794570270</id>
+      <parentid>786618911</parentid>
+      <timestamp>2017-08-08T20:14:32Z</timestamp>
+      <contributor>
+        <username>Swpb</username>
+        <id>1921264</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2753">'''Ludovic Arrachart''' (15 August 1897, [[Besançon]] - 24 May 1933, [[Maisons, Eure-et-Loir|Maisons]]) was a French  [[aviator]].
+
+His long-distance flights made him a pioneer of intercontinental aviation.&lt;ref&gt;{{cite web |title=Ludovic Arrachart |url=http://www.larousse.fr/encyclopedie/personnage/Arrachart/106218 |work=Larousse |language=French |accessdate=14 January 2010}}&lt;/ref&gt; He notably beat two world records : first flying a [[Breguet 19]] {{convert|3166|km|mi|abbr=on}} from Étampes to [[Dakhla, Western Sahara|Villa Cisneros]] in Africa in February 1925 and flying a [[Potez 28]] {{convert|4,305|km|mi|abbr=on}} from Paris to [[Basra]] in Iraq (in 1926, with his brother Paul) in June 1926.&lt;ref&gt;{{cite web|title=Histoire de l'aviation et de l'espace |url=http://www.ac-orleans-tours.fr/aero-scolaire/histoire_de_l%27aviation_et_de_l%27espace.htm |publisher=ac Orléans Tour |language=French |accessdate=14 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20090423185307/http://www.ac-orleans-tours.fr/aero-scolaire/histoire_de_l%27aviation_et_de_l%27espace.htm |archivedate=23 April 2009 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Bréguet Aviation — Courrier postal Étampes-Dakar — 3 février 1925 |url=http://www.corpusetampois.com/che-20-19250203lettreetampesdakar.html |publisher=Cospus historique estampois |language=French |accessdate=14 January 2010}}&lt;/ref&gt;
+
+He enlisted in the French Army at the outbreak of [[World War I]], serving in the 35th Infantry Regiment. Wounded twice, he was promoted to Sergeant in 1916, before being declared unfit for duty in the infantry and transferring to the Aemee de l'Air as an observer in 1917, and qualifying as a pilot in 1918. He commanded a squadron based in [[Alexandretta]], Syria, from 1919 to 1922, and was assigned to the Commission trials (1923–25). In June 1924 he won the [[Michelin Cup]] long-distance flying competition. He died on 24 May 1933 when his [[Caudron C.362]] suffered an engine failure during preliminary trials for the [[Coupe Deutsch de la Meurthe]].&lt;ref name&gt;{{cite journal|journal=[[l'Aérophile]]|url=http://gallica.bnf.fr/ark:/12148/bpt6k65535525/f6.image.r=caudron|date=June 1933|page=166|title=La Coupe Deutsch de la Meurthe}}&lt;/ref&gt;
+
+A street was named after him in the [[8th arrondissement of Lyon]].&lt;ref&gt;{{cite web |title=Rue Ludovic Arrachart |url=http://ruesdelyon.wysiup.net/PageRubrique.php?ID=1004767&amp;rubID=1004802 |publisher=Rues de Lyon |language=French |accessdate=14 January 2010}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arrachart, Ludovic}}
+[[Category:1897 births]]
+[[Category:1933 deaths]]
+[[Category:French aviators]]
+[[Category:People from Besançon]]
+[[Category:French aviation record holders]]</text>
+      <sha1>qbxcrod92gs0vxu8k8feykl5nloz8ap</sha1>
+    </revision>
+  </page>
+</mediawiki>

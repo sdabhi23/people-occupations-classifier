@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lagâri Hasan Çelebi</title>
+    <ns>0</ns>
+    <id>17869</id>
+    <revision>
+      <id>848222683</id>
+      <parentid>802442412</parentid>
+      <timestamp>2018-06-30T15:08:16Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4674">{{Infobox person
+|name          = Lagâri Hasan Çelebi
+|image         = Lagari.jpg
+|image_size    = 230px
+|caption       = Lagâri Hasan Çelebi's rocket flight depicted in a 17th-century engraving.
+|birth_name    = 
+|birth_date    =  
+|birth_place   = 
+|death_date    = 
+|death_place   = 
+|death_cause   = 
+|resting_place = 
+|resting_place_coordinates = 
+|residence     = 
+|nationality   = [[Ottoman Empire|Ottoman]] 
+|other_names   = 
+|known_for     = Manned rocket flight
+|education     = 
+|employer      = 
+|occupation    = Engineer
+|home_town     = 
+|title         = 
+|salary        = 
+|height        = 
+|weight        = 
+|spouse        = 
+|children      = 
+|parents       = 
+|relatives     = [[Hezârfen Ahmed Çelebi]] (brother)
+}}
+
+'''Lagâri Hasan Çelebi''' was an [[Ottoman Empire|Ottoman]] [[Aviation|aviator]] who, according to a sole account written by traveller [[Evliya Çelebi]], made a successful manned [[rocket]] [[flight]].
+
+==Account==
+Evliya Çelebi reported that in 1633, Lagari Hasan Çelebi launched in a 7-winged rocket using 50 [[Oka (mass)|okka]] (140&amp;nbsp;lbs) of [[gunpowder]] from [[Sarayburnu]], the point below [[Topkapı Palace]] in [[Istanbul]]. The flight was said to be undertaken at the time of the birth of [[Sultan of the Ottoman Empire|sultan]] [[Murad IV]]'s daughter. As Evliya Celebi wrote, Lagari proclaimed before launch "O my sultan! Be blessed, I am going to talk to Jesus!"; after ascending in the rocket, he landed in the sea, swimming ashore and joking "O my sultan! Jesus sends his regards to you!"; he was rewarded by the Sultan with silver and the rank of [[sipahi]] in the [[Ottoman army]].&lt;ref&gt;Winter, Frank H. (1992). "Who First Flew in a Rocket?", Journal of the British Interplanetary Society 45 (July 1992), p. 275-80&lt;/ref&gt;&lt;ref&gt;{{citation|title=Flying's strangest moments: extraordinary but true stories from over one thousand years of aviation history|first=John|last=Harding|publisher=[[Anova Books|Robson Publishing]]|year=2006|isbn=1-86105-934-5|page=5}}&lt;/ref&gt;
+
+Evliya Çelebi also wrote of Lagari's brother, [[Hezârfen Ahmed Çelebi]], making a flight by [[glider (aircraft)|glider]] a year earlier.
+
+==Popular culture==
+''[[Istanbul Beneath My Wings]]'' is a 1996 film about the lives of Lagari Hasan Çelebi, his brother and fellow aviator Hezârfen Ahmed Çelebi, and Ottoman society in the early 17th century as witnessed and narrated by Evliya Çelebi.
+
+The legend was addressed in an experiment by the television show ''[[MythBusters]]'', on November 11, 2009, in the episode "[[MythBusters (2009 season)#ep130|Crash and Burn]]"; however, the team noted that Evliya Çelebi had not sufficiently specified the alleged design used by Lagâri Hasan and said that it would have been "extremely difficult" for a 17th-century figure, unequipped with modern steel alloys and welding, to land safely or even achieve thrust at all.&lt;ref name="MythBustersCrashAndBurn"&gt;{{Cite episode |title=Crash and Burn |episodelink=MythBusters (2009 season)#ep130 |url=https://www.imdb.com/title/tt1548139/ |accessdate=31 December 2013 |series=MythBusters |serieslink=MythBusters |network=Discovery Channel |date=11 November 2009 |season=7 |number=17 |minutes= |time=00:05:35, 00:42:54, and 00:43:11 |transcript=Transcript |transcripturl=http://livedash.ark.com/transcript/mythbusters-%28crash_and_burn%29/6222/DSCP/Saturday_December_05_2009/122354/ |quote=So, unfortunately with myths of this kind, there's no one single version of the story, which means that there's no one definitive rocket design for us to build. ... First of all, the 140 pounds of black powder that he's supposed to have used as his propellant would have been extremely dangerous to handle, not to mention containing all of that explosive force and converting it to thrust would have been extremely difficult. ... And second, the materials that we have available today, all the modern steel alloys, and all the fabrication techniques, like welding — he didn't have any of that.}}&lt;/ref&gt; Although the re-imagined rocket rose, it exploded midflight.&lt;ref name="MythBustersCrashAndBurn" /&gt;
+
+==See also==
+*[[Hezârfen Ahmed Çelebi]]
+*[[Wan Hu]]
+
+==References==
+{{Reflist}}
+
+&lt;!--Interwikies--&gt;
+
+{{DEFAULTSORT:Celebi, Lagari Hasan}}
+&lt;!--Categories--&gt;
+[[Category:Aviators of the Ottoman Empire]]
+[[Category:Aviation inventors]]
+[[Category:Aviation pioneers]]
+[[Category:Aircraft designers]]
+[[Category:17th-century deaths]]
+[[Category:Rocket-powered aircraft]]
+[[Category:17th-century people of the Ottoman Empire]]
+[[Category:Year of birth unknown]]
+[[Category:Place of birth unknown]]
+[[Category:Year of death unknown]]
+[[Category:Place of death unknown]]</text>
+      <sha1>ngwyl3tv351lt17u8gapv1h3gvki0uq</sha1>
+    </revision>
+  </page>
+</mediawiki>

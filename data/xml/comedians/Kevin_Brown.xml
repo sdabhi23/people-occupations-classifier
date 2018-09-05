@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kevin Brown (actor)</title>
+    <ns>0</ns>
+    <id>8543794</id>
+    <revision>
+      <id>854270300</id>
+      <parentid>853436022</parentid>
+      <timestamp>2018-08-10T03:38:04Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* External links */add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3150">{{Use dmy dates|date=June 2013}}
+{{Infobox person
+| name           = Kevin Brown
+| image          = Kevin Brown (actor).jpg
+| image size     = 200px
+| caption        = Brown at the 15th Screen Actors Guild Awards
+| birth_name      = Kevin Brown
+| birth_date      = {{birth date and age|1972|4|4}}
+| othername      = UPTOWN Kevin Brown/ Kevin 'Dot Com' Brown /30 Rock's Dot Com / Dot Com
+| occupation     = Comedian, Actor, Writer, Producer, Stunt Performer
+| yearsactive    = 1991-present
+}}
+
+'''Kevin 'Dot Com' Brown''' is an American [[comedian]], [[film]], and [[television]] [[actor]], best known for his role on the series ''[[30 Rock]]'' as "Dot Com".
+
+Brown also appeared as the lead in Marq Overton's one-man play ''Die Laughing'' in 2008 at the Diversity Players of Harlem and as an actor and [[executive producer]] of the stage play ''Box'' (an off-Broadway play about four [[Haiti]]an stowaways to America).
+
+==Filmography==
+{| class="wikitable"
+|-
+! Year || Title || Role || Other Notes
+|-
+|| 1991 || ''[[The Dog Ate It]]'' || Mike ||
+|-
+| rowspan="2" | 1994 || ''[[Wicked Games]]'' || (unknown) ||
+|-
+| ''[[Cracking Up (1994 film)|Cracking Up]]'' || Dack ||
+|-
+| rowspan="2" | 1995 || ''[[Of Love &amp; Betrayal]]'' || Fed-Ex Delivery Man || (TV)
+|-
+| ''[[Tall Tale]]'' || Bettor #1 ||
+|-
+|| 1996 || ''[[Second Noah]]'' || Herbie || (1 episode)
+|-
+|| 1998 || ''[[Broken Vessels]]'' || Drug Dealer ||
+|-
+|| 2003 || ''[[Vicious (film)|Vicious]]'' || Marine #1 ||
+|-
+|| 2004 || ''[[Confessions of a Teenage Drama Queen]]'' || Doorman ||
+|-
+|| 2005 || ''[[Get Rich or Die Tryin' (film)|Get Rich or Die Tryin']]'' || Pelham Hall Security Guard ||
+|-
+| rowspan="5" | 2006 || ''[[Last Comic Standing]]'' || Guest Comedian || (1 episode)
+|-
+| ''[[Gingerbreed]]'' || Red Carter ||
+|-
+| ''[[Delirious (2006 film)|Delirious]]'' || Twilight Club Bouncer || (as UPTOWN Kevin Brown)
+|-
+| ''[[A Merry Little Christmas (film)|A Merry Little Christmas]]'' || Cleveland Tyrell ||
+|-
+| ''[[30 Rock]]'' || Dot Com || (2006–2013)&lt;br&gt;Nominated - [[Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series]] (2008, 2009-2013)
+|-
+| rowspan="2" | 2008 || ''[[Human Giant]]'' || Inmate #2 ||
+|-
+| ''[[Late Night with Conan O'Brien]] || Special Officer Jordan Mitchell ||
+|-
+| rowspan="3" | 2009 || ''[[Mystery Team]]'' || Bouncer ||
+|-
+| ''[[Royal Pains]] || Lance || (1 episode)
+|-
+| ''[[Did You Hear About the Morgans?]] || U.S. Marshall Henderson ||
+|-
+| rowspan="2" | 2010 || ''[[A Kiss for Jed Wood]]'' || Second Body Guard || (post-production)
+|-
+| ''[[Under the Influence (film)|Under the Influence]] || Rolles || (pre-production)
+|-
+|| 2012 || ''[[Castle (TV series)|Castle]]'' || Big Percy Jackson || (1 episode)
+|}
+
+==References==
+{{Reflist}}
+*Reagan, Gillian (19 February 2008). "30 Rock's Kevin Brown to Die Laughing". ''The New York Observer''.
+
+==External links==
+*{{IMDb name|0114018|name=Kevin Brown}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Brown, Kevin}}
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:Living people]]
+[[Category:1972 births]]
+
+
+{{US-screen-actor-stub}}</text>
+      <sha1>mfb7tfdqgyxy68dodmm2onld1ka0r3e</sha1>
+    </revision>
+  </page>
+</mediawiki>

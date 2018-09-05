@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Clyde Cessna</title>
+    <ns>0</ns>
+    <id>1915525</id>
+    <revision>
+      <id>855758258</id>
+      <parentid>855758225</parentid>
+      <timestamp>2018-08-20T16:49:35Z</timestamp>
+      <contributor>
+        <username>Kiddo27</username>
+        <id>7472157</id>
+      </contributor>
+      <comment>removed [[Category:People from Enid, Oklahoma]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13044">{{Use mdy dates|date=January 2012}}
+{{Infobox person 
+ | name             = Clyde Cessna
+ | residence        = Kansas 
+ | other_names      = 
+ | image            = Clyde Vernon Cessna.jpg
+ | imagesize        = 
+ | caption          = Cessna circa 1920
+ | birth_name       = 
+ | birth_date       = {{birth date|1879|12|5}}
+ | birth_place      = [[Hawthorne, Iowa]], United States
+ | death_date       = {{death date and age|1954|11|20|1879|12|5}}
+ | death_place      = [[Kingman County, Kansas|Wichita, Kansas]], United States
+ | occupation       = Aircraft Designer, Aviator, Aviation Entrepreneur 
+ | known for        = [[Cessna Aircraft]] founder
+ | children         = [[Eldon Cessna]]
+}}
+
+'''Clyde Vernon Cessna''' ({{IPAc-en|ˈ|s|ɛ|s|n|ə|}};&lt;ref&gt;{{cite book |title=Duden Aussprachewörterbuch |edition=6 |year=2006 |publisher=Bibliographisches Institut &amp; F.A. Brockhaus AG |location=Mannheim |language=German}}&lt;/ref&gt; December 5, 1879 – November 20, 1954) was an [[United States|American]] [[aircraft]] [[designer]], [[aviator]], and founder of the [[Cessna|Cessna Aircraft Corporation]].
+
+==Biography==
+
+===Early years===
+Clyde Vernon Cessna was born in [[Hawthorne, Iowa|Hawthorne]], in [[Montgomery County, Iowa]] on December 5, 1879. Cessna's family was of French and German ancestry.&lt;ref&gt;{{cite web|last1=Chance|first1=Carl|title=CLYDE VERNON CESSNA|url=http://www.wingsoverkansas.com/profiles/a70/}}&lt;/ref&gt; When he was 2, he and his family moved to rural [[Rago, Kansas|Rago]] in [[Kingman County, Kansas]], along the [[Chikaskia River]]. During his boyhood he used his self-taught innovation and mechanical skills to improve farm machinery and to develop new farming methods.&lt;ref name="wok"&gt;{{cite web|url=http://www.wingsoverkansas.com/profiles/article.asp?id=70|title=Aviation Pioneers - Clyde Vernon Cessna|accessdate=April 28, 2007|publisher=Wings Over Kansas}}&lt;/ref&gt; He later became a successful car dealer in [[Enid, Oklahoma]].&lt;ref name="wok1"&gt;{{cite web|url=https://images.google.com/imgres?imgurl=http://www.wingsoverkansas.com/photos/prof_3-00_pic1.jpg&amp;imgrefurl=http://www.wingsoverkansas.com/profiles/article.asp%3Fid%3D66&amp;h=160&amp;w=250&amp;sz=8&amp;hl=en&amp;start=13&amp;sig2=vZf2x-9cfa0BcCHhWjExhQ&amp;tbnid=q8-x6zmbCJwoIM:&amp;tbnh=71&amp;tbnw=111&amp;ei=Y1Q3RvnnPIG2hAT_reSjAw&amp;prev=/images%3Fq%3Dclyde%2Bcessna%26gbv%3D2%26svnum%3D10%26hl%3Den%26safe%3Dactive|title=Clyde Cessna - Pioneer Aviator|accessdate=May 1, 2007|publisher=Wings Over Kansas|last=Phillips|first=Edward H.}}&lt;/ref&gt;
+
+Clyde's interest in aviation began in 1910 after witnessing an aerial exhibition in his home state of [[Kansas]].&lt;ref name="aerofiles"&gt;{{cite web|url=http://www.aerofiles.com/bio_c.html|title=Capsule Biographies: Clyde Cessna|accessdate=April 28, 2007|publisher=aerofiles.com}}&lt;/ref&gt; It was this exhibition that led him in future years to pursue his career in aviation.&lt;ref name="cessna"&gt;{{cite web|url=http://www.cessna.com/story/milestones/index.chtml#1911|title=Cessna Story-Milestones|accessdate=April 28, 2007|publisher=Cessna.com|deadurl=yes|archiveurl=https://web.archive.org/web/20080914132400/http://www.cessna.com/story/milestones/index.chtml#1911|archivedate=September 14, 2008|df=mdy-all}}&lt;/ref&gt; After realizing his interest in aviation, Clyde left Oklahoma and moved to [[New York (state)|New York]] where he worked for a short period at the Queen Aeroplane Company where he first learned about the construction of aircraft.&lt;ref name="wok1"/&gt;
+
+===First flight===
+[[File:Cessna Comet.jpg|thumb|right|Cessna with his second design, "[[Cessna Comet|The Comet]]", an improved version of the Silverwing, circa 1916]]
+In 1911, he set out to build his first airplane, an airplane he named "Silverwing".&lt;ref name="wok1"/&gt; His first design was a [[monoplane]], constructed of spruce and linen and which took the form of an American version of the [[Bleriot XI]]. The engine was a modified Elbridge motorboat motor, dubbed the "aero special", which was a 2-stroke, 4-cylinder engine with a maximum of {{convert|40|hp|abbr=on}} and 1,050&amp;nbsp;rpm.&lt;ref name="wok1"/&gt; Upon completion, he sought to test the aircraft at the Great Salt Plains (adjacent to the [[Salt Plains National Wildlife Refuge]]) in [[Alfalfa County, Oklahoma]]. His first attempt at flight ended in a [[Ground loop (aviation)|ground loop]], which required $100 to repair. After repairs, Cessna attempted flight 13 more times, each time ending in some sort of failure. Finally on his 13th attempt, Cessna got a glimpse of hope as his aircraft bounced up into the air for a short time before crashing into the trees as he attempted to turn it. After his crash, Cessna exclaimed in frustration, "I'm going to fly this thing, then I'm going to set it afire and never have another thing to do with aeroplanes!". Finally, in June 1911 Cessna had his first successful flight. The crowds that had scoffed at his failures changed their tone and began calling him a "daring hero" and nicknamed him the "Birdman of Enid".&lt;ref name="NAHF"&gt;{{cite web|url=http://www.nationalaviation.org/our-enshrinees/cessna-clyde/|title=Clyde Cessna|accessdate=April 28, 2007|publisher=National Aviation Hall of Fame}}&lt;/ref&gt; Cessna continued to teach himself how to fly over the next several months until December 1911, when he made a successful {{convert|5|mi|km|adj=on}} flight and a successful landing at the point of departure.&lt;ref name="wok1"/&gt; He was the first person to build and fly an airplane in the [[Heartland (United States)|Heartland]] of the United States—between the [[Mississippi River]] and the [[Rocky Mountains]].&lt;ref&gt;{{cite web|url=http://www.172guide.com/history.htm|title=The Cessna Story|accessdate=September 29, 2015|publisher=172guide.com}}&lt;/ref&gt;
+
+===The middle years===
+[[File:Clyde cessna building 1917.jpg|thumb|left|The factory from 1917]]
+After the success of the Silverwing, Cessna permanently quit his work with the automobile industry to pursue his interests in aviation. Between 1912 and 1915, Cessna developed several new monoplanes, all powered by an [[Anzani 6-cylinder]] with 40–60&amp;nbsp;hp. During this time, Clyde often flew his aircraft at holiday events and county fairs, an endeavour that at the time proved to be lucrative.&lt;ref name="wok1"/&gt;
+
+It was in 1916 that Clyde acquired a vacant building to begin building a new aircraft for the 1917 aviation exhibition season. His factory served a dual purpose, as he also opened a flight school in which he had five enrolled student pilots. However, in April 1917 when the United States declared war, the exhibition flying market ground to a halt. With his primary source of income grounded, Clyde returned to his old home near [[Kingman County, Kansas|Rago, Kansas]], where he resumed his duties on the family farm.&lt;ref name="wok1"/&gt;
+
+===Travel Air Manufacturing Company ===
+In the years following [[World War I]] public interest in private flying increased, leading Cessna in 1925, along with [[Walter Herschel Beech|Walter Beech]] and [[Lloyd Carlton Stearman|Lloyd Stearman]], to found the [[Travel Air Manufacturing Company]] in [[Wichita, Kansas]]. While Cessna was president, the company soon became one of the leading US aircraft manufacturers. This success may be attributed to Cessna's advanced design concepts and aircraft that attained international recognition in the course of establishing numerous speed and distance records.&lt;ref name="aerofiles"/&gt;&lt;ref name="kahs"&gt;{{cite web|url=http://www.kshs.org/portraits/cessna_clyde.htm|title=Clyde Cessna - A Kansas Portrait|accessdate=April 28, 2007|publisher=Kansas State Historical Society}}&lt;/ref&gt; After two years, Cessna left the company with plans to start his own firm,&lt;ref name="kahs"/&gt; due to design disputes with his partners over the [[monoplane]] versus the [[biplane]].
+
+===Cessna Aircraft Corporation===
+[[File:Cessna DC-6B.jpg|thumb|right|A [[Cessna DC-6]]B]]
+On September 7, 1927, Cessna and aviation entrepreneur [[Victor Roos]] paired to form Cessna-Roos Aircraft. Roos resigned just one month into the partnership, selling back his interest to Cessna, and the company changed its name to [[Cessna Aircraft Corporation]] in December.&lt;ref name="cessna"/&gt;&lt;ref&gt;{{cite book|title=Air Transportation|author=Robert M. Kane}}&lt;!--publisher, place, &amp; year?--&gt;&lt;/ref&gt; In the later part of 1927, Cessna struggled to design and build an efficient [[monoplane]]. The [[Cessna AW|AW]] was completed near the end of 1927.&lt;ref name="aerofiles"/&gt;
+
+Cessna followed the AW with the [[Cessna CW-6|CW-6]], which flew in 1928, and the [[Cessna DC-6|DC-6]], which flew in 1929. He then collaborated with his son, Eldon, in designing and flying the [[Cessna CR-3|CR-series]] [[Air racing|racing aircraft]].&lt;ref name="aerofiles"/&gt;
+
+Despite the success of new models, the [[Great Depression]] led to a catastrophic drop in aircraft sales, a bankruptcy filing for the corporation, and the complete closure of the company in 1931. In 1934, Cessna reopened his Wichita plant, which he soon sold to his nephews—aeronautical engineer [[Dwane Wallace]] and his brother, attorney Dwight Wallace—in 1936.&lt;ref name="kahs"/&gt;&lt;ref name="WingsOverKansas"&gt;{{cite web|url=http://www.wingsoverkansas.com/phillips/a79/|title= DWANE L. WALLACE — KANSAS VISIONARY|accessdate=2014-10-19|last=Edward Phillips|authorlink= |date=April 2007}}&lt;/ref&gt;
+
+===Later years===
+After turning over the Cessna Aircraft Corporation to his nephews, Dwane and Dwight Wallace, Cessna returned to a life of farming.&lt;ref name="kahs"/&gt; Clyde operated an early diesel three-track tractor building ponds for local farmers.&lt;ref&gt;{{cite journal|magazine=AOPA Pilot|date=May 2014|page=32|title=Wichita recalls Clyde Cessna}}&lt;/ref&gt; Upon Dwane's request, he agreed to participate in the company but served mostly in a ceremonial capacity and stayed out of the company's day-to-day business.&lt;ref name="wok1"/&gt;
+
+He died on November 20, 1954, at the age of 74 in [[Wichita, Kansas]].&lt;ref name="kahs"/&gt;&lt;ref&gt;{{cite news |author=[[Associated Press]] |coauthors= |title=Clyde Cessna, Airplane Builder, Pioneer Manufacturer, and Aviator Dies. His Concern Made Many War Craft |url=https://select.nytimes.com/gst/abstract.html?res=FB0C15F63E59177B93C0AB178AD95F408585F9 |quote= |newspaper=[[The New York Times]] |date=November 22, 1954 |accessdate=September 24, 2012 }}&lt;/ref&gt;
+
+==Legacy==
+He was posthumously inducted into the [[National Aviation Hall of Fame]] in 1978, and was ranked number 27 on ''Flying'' magazine's list of the 51 Heroes of Aviation in 2013.&lt;ref&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?image=25|title=51 Heroes of Aviation|accessdate=9 April 2017}}&lt;/ref&gt;
+
+In 1983, Cessna was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. {{ISBN|978-1-57864-397-4}}.&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* Bissionette, Bruce, ''The Wichita 4:  Cessna, Moellendick, Beech &amp; Stearman,'' (from interviews with [[Matty Laird]], [[Lloyd Stearman]], [[Olive Ann Beech]], [[Dwane Wallace]], [[Herb Rawdon]], [[Walter Burnham]], and other principals). 
+* Deneau, Gerald ''An Eye to the Sky''. 1962, Cessna Aircraft Co., Wichita, KS (semi-official company history, with exceptional detail and unusual candor about some products) 
+* [[Edward H. Phillips|Phillips, Edward H.]], ''Cessna: A Master's Expression''. Eagan, MN: Flying Books, 1985. {{OCLC|13522983}}
+* [[Edward H. Phillips|Phillips, Edward H.]], ''Cessna: Model 120 to Citation III''. Eagan, MN: Flying Books, 1986. {{ISBN|0911139052}}
+* [[Edward H. Phillips|Phillips, Edward H.]], ''Wings of Cessna: Model 120 to Citation X''. Eagan, MN : Flying Books International, ©1994. {{OCLC|32516985}}
+* Rodengen, Jeffrey L., ''The Legend of Cessna''. (Cessna-sponsored history, mostly derivative of others' writings, including those listed above), 2007, Ft. Lauderdale, FL:Write Stuff, Inc., {{ISBN|978-1932022261}}
+* Christy, Joe; revised by Brian J. Dooley, ''A Complete Guide to Single-Engine Cessnas'', 4th.ed., 1993, TAB/McGraw-Hill, New York
+
+==External links==
+{{commons category|Clyde Vernon Cessna}}
+* [https://disciplesofflight.com/clyde-cessna-aircraft-company/ ''Clyde Cessna and the Founding of the Cessna Aircraft Company''] from ''Disciples of Flight''
+* [https://www.youtube.com/watch?v=MR3OgPOmJ_g ''From the Ground Up''] short film presented by the Kansas Humanities Council
+* {{Find a Grave|21053773}}
+{{Cessna}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cessna, Clyde}}
+[[Category:1879 births]]
+[[Category:1954 deaths]]
+[[Category:American people of French descent]]
+[[Category:American people of German descent]]
+[[Category:People from Montgomery County, Iowa]]
+[[Category:Aviators from Iowa]]
+[[Category:Aviators from Kansas]]
+[[Category:People from Kingman County, Kansas]]
+[[Category:Aviation pioneers]]
+[[Category:Cessna]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:Businesspeople from Enid, Oklahoma]]</text>
+      <sha1>s9uj3l0zaxldcum7ekp6a3uhcs6vzaf</sha1>
+    </revision>
+  </page>
+</mediawiki>

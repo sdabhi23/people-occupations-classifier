@@ -1,0 +1,284 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Michael Richards</title>
+    <ns>0</ns>
+    <id>104998</id>
+    <revision>
+      <id>851768385</id>
+      <parentid>847835007</parentid>
+      <timestamp>2018-07-24T13:37:42Z</timestamp>
+      <contributor>
+        <username>FaultPicker</username>
+        <id>13160362</id>
+      </contributor>
+      <comment>Fixed grammar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26561">{{Other people|Michael Richards}}
+{{Use mdy dates|date=October 2016}}
+{{Infobox person
+| name                  = Michael Richards
+| image                 = Michael Richards (1993).jpg
+| caption               = Richards at the [[45th Primetime Emmy Awards]] on September 19, 1993
+| birth_name            = Michael Anthony Richards
+| birth_date            = {{Birth date and age|1949|7|24|mf=y}}
+| birth_place           = [[Culver City, California]],&lt;ref name=quit&gt;{{cite web|last=McDermid|first=Charles|title=Richards finds solace in Cambodia|date=July 13, 2007|publisher=''[[Los Angeles Times]]''|url=http://articles.latimes.com/2007/jul/13/entertainment/et-richards13|accessdate=January 25, 2015}}&lt;/ref&gt; U.S.
+| death_date            = 
+| death_place           = 
+| other_names           = 
+| children              = 2
+| occupation            = Actor, writer, television producer, comedian
+| years_active          = 1979–present
+| alma_mater            = [[The Evergreen State College]]
+| spouse                = {{marriage|Cathleen Lyons|1974|1993}}&lt;ref name="People" /&gt;&lt;ref name=pp&gt;{{cite web|last=Lipton|first=Michael A.|title=Man Overboard!|date=March 8, 1993|publisher=''[[People (magazine)|People]]''|url=http://www.people.com/people/archive/article/0,,20109913,00.html|accessdate=July 14, 2015}}&lt;/ref&gt;&lt;br&gt;{{marriage|Beth Skipp|2010}}&lt;ref name=year&gt;{{cite web|last=Lacher|first=Irene|title=Michael Richards goes for a drive|date=December 1, 2013|publisher=''[[Los Angeles Times]]''|url=http://articles.latimes.com/2013/dec/01/entertainment/la-et-mn-michael-richards-conversation-20131201|accessdate=July 11, 2015}}&lt;/ref&gt;&lt;ref name=child&gt;{{cite web|last=Falls|first=Michelle|title=First Look at Michael Richards' Adorable Son Antonio—See the Precious Pics!|publisher=[[E!]]|date=December 6, 2013|url=http://www.eonline.com/news/488381/first-look-at-michael-richards-adorable-son-antonio-see-the-precious-pics|accessdate=January 2, 2015}}&lt;/ref&gt;
+| partner               = 
+}}&lt;/div&gt;
+
+'''Michael Anthony Richards''' (born July 24, 1949) is an American actor, writer, television producer and comedian, widely known for his portrayal of [[Cosmo Kramer]] on the television sitcom ''[[Seinfeld]]'', for which he received the [[Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series]] three times.
+
+Richards began his career as a stand-up comedian, first entering the national spotlight when he was featured on [[Billy Crystal]]'s first cable TV special. He went on to become a series regular on [[American Broadcasting Company|ABC's]] ''[[Fridays (TV series)|Fridays]]''. Prior to ''Seinfeld'', he made numerous guest appearances on a variety of television shows, such as ''[[Cheers]]''. His film credits include ''[[So I Married an Axe Murderer]]'', ''[[Airheads]]'', ''[[Young Doctors in Love]]'', ''[[Problem Child (1990 film)|Problem Child]]'', ''[[Coneheads (film)|Coneheads]]'', ''[[UHF (film)|UHF]]'', and ''[[Trial and Error (1997 film)|Trial and Error]]'', one of his few starring roles. During the run of ''Seinfeld'', he made a guest appearance in ''[[Mad About You]]''. After ''Seinfeld'', Richards starred in his own sitcom, ''[[The Michael Richards Show]]'', which lasted less than one full season.
+
+When ''Seinfeld'' ended in 1998, Richards returned to stand-up comedy. He incited media furor while performing at the [[Laugh Factory]] comedy club in late 2006 after a cell phone video was published of him launching into an expletive-laced racial tirade after earlier interruptions from a group of late-arriving audience members.&lt;ref name="TMZ-2006"&gt;{{cite web|url=http://www.tmz.com/2006/11/20/kramers-racist-tirade-caught-on-tape|title="Kramer's" Racist Tirade – Caught on Tape|accessdate=2006-11-20|publisher=TMZ.com|year=2006|author=TMZ Staff|work=In The Zone}}&lt;/ref&gt; Subsequently due to significant media coverage of the event he announced his retirement from stand-up early in 2007. He appeared as himself in the [[Curb Your Enthusiasm Season 7|seventh season]] of ''[[Curb Your Enthusiasm]]'' in 2009, acting alongside his fellow cast members for the first time since ''Seinfeld''{{'}}s [[The Finale (Seinfeld)|finale]], as well as lampooning his incident at the Laugh Factory. In 2013, Richards returned to television when he played the role of Frank in the sitcom ''[[Kirstie (TV series)|Kirstie]]''.&lt;ref name=HollywoodReporter&gt;{{cite web | last = Goldberg | first = Lesely | date = February 15, 2013 | url = http://www.hollywoodreporter.com/live-feed/tv-land-orders-kirstie-alley-421870|title=TV Land Orders Kirstie Alley-Michael Richards Comedy to Series| work = [[The Hollywood Reporter]]}}&lt;/ref&gt;
+
+== Early life ==
+[[File:Michael Richards HS Yearbook.jpeg|thumb|right|Richards as a senior at [[Thousand Oaks High School]], [[Thousand Oaks, California]] 1967]]
+
+Richards was born in [[Culver City, California]], the son of Phyllis (née Nardozzi), a [[medical record]]s librarian, and William Richards, an [[Engineer's degree|electrical engineer]].&lt;ref&gt;{{cite web|url=http://www.filmreference.com/film/97/Michael-Richards.html |title=Michael Richards Biography (1949?-) |publisher=Filmreference.com |date= |accessdate=2010-10-12}}&lt;/ref&gt; His father died in a car crash when Michael was two and his mother never remarried.&lt;ref name="People"&gt;{{cite news |title = Michael Richards Tv's Top Jive-talking Hipster-doofus Fell for His Audience, and Vice Versa. Farewell, Cosmo, and Giddyup!|pages =|language =|work=[[People (magazine)|People]]|date=May 14, 1998|url = http://www.people.com/people/archive/article/0,,20063576,00.html |accessdate = 2012-12-27}}&lt;/ref&gt;
+
+Richards graduated from [[Thousand Oaks High School]]. He was drafted into the [[United States Army]] in 1970. He trained as a medic and was stationed in [[West Germany]].&lt;ref&gt;{{cite news|author=Barbara DeMarco Barrett|title=The Spaz at Home|publisher=Orange Coast Magazine|page=34|date=June 1997}}&lt;/ref&gt; After being honorably discharged he used the benefits of the [[G.I. Bill]] to enroll in the [[California Institute of the Arts]], and received a [[Bachelor of Arts|BA]] degree in drama from [[The Evergreen State College]] in 1975.&lt;ref&gt;{{cite news| url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&amp;p_multi=TNTB&amp;d_place=TNTB&amp;p_theme=newslibrary2&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0F11B7CD33E36831&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM | title=NewsLibrary.com – newspaper archive, clipping service – newspapers and other news sources | date=April 30, 1995}}&lt;/ref&gt; He also had a short-lived [[Improvisational comedy|improv]] act with [[Ed Begley, Jr.]]. During this period, he enrolled at [[Los Angeles Valley College]] and continued to appear in student productions.
+
+== Career ==
+Richards got his big TV break in 1979, appearing in [[Billy Crystal]]'s first cable TV special. In 1980, he began as one of the cast members on [[American Broadcasting Company|ABC's]] ''[[Fridays (TV series)|Fridays]]'' television show, where [[Larry David]] was a writer. This included a famous instance in which guest [[Andy Kaufman]] refused to deliver his scripted lines, leading Richards to bring the [[cue card]]s on screen to Kaufman, causing him to throw his drink into Richards's face before a small riot ensued (Richards later claimed he was in on the joke).&lt;ref name="fac"&gt;[http://archive.firstamendmentcenter.org/about.aspx?id=12083 Michael Richards 'Speaking Freely' transcript] via [[First Amendment Center]], Recorded February 28, 2002, in Aspen, Colorado {{webarchive |url=https://web.archive.org/web/20120331131924/http://archive.firstamendmentcenter.org/about.aspx?id=12083 |date=March 31, 2012 }}&lt;/ref&gt; The film ''[[Man on the Moon (film)|Man on the Moon]]'' featured a re-enactment of the [[Fridays (TV series)#Andy Kaufman incident|Andy Kaufman incident]] in which Richards was portrayed by actor [[Norm Macdonald]] (although he is never referred to by name so he could be seen as a composite character taking the place of Richards).&lt;ref&gt;{{cite video|url=http://www.funnyordie.com/videos/544255131b|title=Andy Kaufman on Fridays from FridaysFan|publisher=Funnyordie.com|date=February 11, 2008|accessdate=2010-02-10}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.firstamendmentcenter.org/michael-richards-2|title=Michael Richards – First Amendment Center – news, commentary, analysis on free speech, press, religion, assembly, petition|publisher=}}&lt;/ref&gt;
+
+In 1989, Richards had a supporting role in [["Weird Al" Yankovic]]'s comedy film ''[[UHF (film)|UHF]]'' as janitor Stanley Spadowski. On television, Richards also appeared in ''[[Miami Vice]]'' (as an unscrupulous [[bookie]]), ''[[Cheers]]'' (as a character trying to collect on an old bet with [[Sam Malone]]), and made several guest appearances with [[Jay Leno]] as an accident-prone fitness expert.
+
+According to an interview with executive producer David Hoberman, ABC first conceived the series ''[[Monk (TV series)|Monk]]'' as a procedural police comedy with an [[Inspector Clouseau]]-like character suffering from [[obsessive–compulsive disorder]]. Hoberman said that ABC wanted Richards to play [[Adrian Monk]], but he turned it down.&lt;ref&gt;from "Mr Monk and His Origins," a special feature packaged with the Season One DVDs.&lt;/ref&gt;
+
+=== ''Seinfeld'' ===
+[[File:Michael Richards Jerry Seinfeld.jpg|thumb|Richards with [[Jerry Seinfeld]] at the [[44th Primetime Emmy Awards]] in 1992]]
+
+In 1989, he was cast as [[Cosmo Kramer]] in the [[NBC]] television series ''[[Seinfeld]]'', which was created by fellow ''Fridays'' cast member [[Larry David]] and comedian [[Jerry Seinfeld]]. Although it got off to a slow start, by the mid-1990s, the show had become one of the most popular [[Situation comedy|sitcoms]] in television history. The series ended its nine-year run in 1998 at #1 in the [[Nielsen ratings]]. In the setting of ''Seinfeld'', Kramer is usually referred to by his last name only and is the neighbor of the show's [[Jerry Seinfeld (character)|eponymous character]]. Kramer's first name, Cosmo, was revealed in the sixth-season episode "[[The Switch (Seinfeld)|The Switch]]".
+
+Richards won more Emmys than any other cast member on ''Seinfeld''. He took home the award for Outstanding Supporting Actor in a Comedy Series in 1993, 1994 and 1997.
+
+Starting in 2004, he and his fellow ''Seinfeld'' cast members provided interviews and audio commentaries for the ''Seinfeld'' DVDs, but Richards stopped providing audio commentary after Season 5 though he continued to provide interviews.
+
+=== ''The Michael Richards Show'' ===
+In 2000, after the end of ''Seinfeld'', Richards began work on a new series for NBC, his first major project since ''Seinfeld''{{'}}s finale. ''[[The Michael Richards Show]]'', for which the actor received co-writer and co-[[Television producer|executive producer]] credits, was originally conceived as a comedy/mystery starring Richards as a bumbling private investigator. However, after the first pilot failed with test audiences, NBC ordered that the show be retooled into a more conventional, office-based sitcom before its premiere. After a few weeks of poor ratings and negative reviews, it was cancelled.
+
+===2006 Laugh Factory incident ===
+During a performance on November 17, 2006 at the [[Laugh Factory]] in [[Hollywood]], [[California]] Richards shouted a racially charged response to noise from black audience members, shouting "He's a [[nigger]]!" several times, and referring to [[lynching]], and the [[Jim Crow]] era.&lt;ref name="TMZ-2006"/&gt;&lt;ref name="Vibe"&gt;{{cite web|url=http://www.vibe.com/news/news_headlines/2006/11/comedian_michael_kramer_richards_goes_into_racial_tirade/|archiveurl=https://web.archive.org/web/20061231201005/http://www.vibe.com/news/news_headlines/2006/11/comedian_michael_kramer_richards_goes_into_racial_tirade/|archivedate=December 31, 2006|title=Comedian Michael "Kramer" Richards Goes into Racial Tirade, Banned From Laugh Factory|accessdate=2006-11-21|publisher=[[VIBE]].com|year=2006|author=Mariel Concepción|work=News wire}}&lt;/ref&gt;&lt;ref name="washingtonpost.com"&gt;{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/11/21/AR2006112100242.html |title="Seinfeld" Comic Richards Apologizes for Racial Rant |publisher=Washingtonpost.com |date= November 21, 2006|accessdate=2010-10-12}}&lt;/ref&gt;&lt;ref name="Canadian Broadcasting Corporation"&gt;{{cite news|url=http://www.cbc.ca/news/arts/richards-deeply-deeply-sorry-for-racial-slurs-1.618610|title=Richards 'deeply, deeply sorry' for racial slurs|accessdate=2006-11-20|publisher=[[Canadian Broadcasting Corporation]]|work=CBC arts | date=November 20, 2006}}&lt;/ref&gt;&lt;ref name="Reuters-2006"&gt;{{cite news|url=https://www.reuters.com/article/2006/11/20/us-richards-idUSN2041340020061120|title="Seinfeld" Star Richards Under Fire For Racial Outburst|accessdate=2013-06-28|publisher=Reuters|work=News wire|date=November 20, 2006}}&lt;/ref&gt; &lt;!-- NOTE TO EDITORS: SEE REMARKS ABOVE THE PRECEDING PARAGRAPH ABOUT CONSENSUS ON THE LAUGH FACTORY INCIDENT, AS IN TALK ARCHIVE 2. CONSENSUS SECTION CONTINUES BELOW --&gt;Kyle Doss, a member of the group Richards addressed, said that the group had arrived in the middle of the performance, explaining:
+
+{{Quote|text=[H]ere's what happened. As we walked in, we sat down and started ordering drinks. And, as we ordered drinks, I guess we're being a little loud, because there was 20 of us ordering drinks. And he said, "Look at the stupid Mexicans and blacks being loud up there." That's the first thing he said. And then he kept on with his bit. And, then, after a while, I told him, "My friend doesn't think you're funny." And then when I told him that, that's when he flipped me off and said, "F-you N-word." And that's how it all started.|sign=Kyle Doss|source=Interview on ''[[The Situation Room with Wolf Blitzer|The Situation Room]]''&lt;ref name="CNN-transcripts"/&gt;}}&lt;!-- END OF CONSENSUS SECTION, WHICH COVERS THE LAUGH FACTORY INCIDENT. SEE TALK ARCHIVE 2. NEW DEVELOPMENTS SINCE FEBRUARY 2007 MAY BE ADDED AFTER HERE --&gt;
+
+Richards made a public apology when he spoke via satellite on the ''[[Late Show with David Letterman]]'', when [[Jerry Seinfeld]] was the guest, saying, "For me to be at a comedy club and to flip out and say this crap, I'm deeply, deeply sorry. I'm not a racist, that's what's so insane about this."&lt;ref name="CNN-transcripts2"&gt;{{cite news|url=http://transcripts.cnn.com/TRANSCRIPTS/0611/21/cnr.01.html|title=CNN Newsroom|accessdate=2007-02-16|publisher=[[CNN]].com|year=2006}}&lt;/ref&gt; The audience initially laughed at Richards using the terms "Afromerican" and "Afro Americans" and during uncomfortable pauses in Richards' explanation and apology, unable to decide if the interview was a bit; at one point Seinfeld chided the audience, "Stop laughing, it's not funny." Richards said that he had been trying to defuse heckling by being even more outrageous, but that it had backfired. He later called civil rights leaders [[Al Sharpton]] and [[Jesse Jackson]] to apologize.&lt;ref name="CNN-transcripts"&gt;{{cite news|url=http://transcripts.cnn.com/TRANSCRIPTS/0611/22/sitroom.03.html|title=''The Situation Room'' transcript|accessdate=2006-12-04|publisher=CNN|year=2006|work=[[The Situation Room with Wolf Blitzer|The Situation Room]]}}&lt;/ref&gt;&lt;ref name="CNN-article"&gt;{{cite news|url=http://www.cnn.com/2006/SHOWBIZ/TV/11/22/sharpton.richard/index.html|title= Sharpton: Comedian's apology not enough|accessdate=2007-04-22|work=[[CNN]] |date=November 23, 2006 }}&lt;/ref&gt; He also appeared as a guest on Jackson's syndicated radio show.&lt;ref name="CBS-2007"&gt;{{cite news|url=http://www.cbsnews.com/stories/2006/11/25/entertainment/main2208718.shtml?source=RSSattr=U.S._2208718|title=Jesse Jackson Talks To Michael Richards: Jackson Says Apology For Actor's Racist Rant Is Only A Beginning Before Healing|accessdate=2007-04-23|publisher=CBS|work=News wire | date=November 25, 2006}}&lt;/ref&gt; However both Doss and Sharpton have refused to accept Richards' apology, with the former saying "...if he wanted to apologize, he could have contacted somebody to one of us from the group...but he didn't. He apologized on camera just because the tape got out."&lt;ref name="CNN-article"/&gt;&lt;ref&gt;[https://www.youtube.com/watch?v=2VFGv0mdckM Kyle Doss wants reparations for Kramer calling him a nigger] at YouTube&lt;/ref&gt;
+
+The incident was later [[parody|parodied]] on several TV shows, including ''[[MadTV]]'', ''[[Family Guy]]'', ''[[With Apologies to Jesse Jackson|South Park]]'', and ''[[Extras (TV series)#US and UK version differences|Extras]]''. In an episode of ''[[Curb Your Enthusiasm]]'', Richards appeared as himself and poked fun at the incident. In a 2012 episode of Seinfeld's web series ''[[Comedians in Cars Getting Coffee]]'', Richards admitted that the outburst still haunted him, and was a major reason for his withdrawal from performing stand-up.&lt;ref&gt;{{cite web |url=http://comediansincarsgettingcoffee.com/michael-richards-its-bubbly-time-jerry |title=Michael Richards It's Bubbly Time, Jerry – Comedians in Cars Getting Coffee by Jerry Seinfeld |publisher=Comediansincarsgettingcoffee.com |date= |accessdate=2014-05-13 |deadurl=yes |archiveurl=https://web.archive.org/web/20140511134913/http://comediansincarsgettingcoffee.com/michael-richards-its-bubbly-time-jerry/ |archivedate=May 11, 2014 |df=mdy-all }}&lt;/ref&gt;
+
+=== Cameo roles, guest appearances, and film roles ===
+Richards played himself in Episode 2 of Season 1 "The Flirt Episode" (1992) of the [[HBO]] series, ''[[The Larry Sanders Show]]''. Richards also played a [[cameo role]] in the comedy thriller film ''[[So I Married an Axe Murderer]]'', credited as "insensitive man". Richards played radio station employee Doug Beech in ''[[Airheads]]'' and co-starred with [[Jeff Daniels]] as an actor pretending to be a lawyer in 1997's ''[[Trial and Error (1997 film)|Trial and Error]]''. He also made guest appearances on ''[[Miami Vice]]'', ''[[Night Court]]'' and ''[[Cheers]]''. In 2007, Richards voiced character Bud Ditchwater in the animated film ''[[Bee Movie]]'', which starred, and was produced by, Jerry Seinfeld. In 2009, Richards and the other main ''Seinfeld'' cast members appeared in the seventh season of ''[[Curb Your Enthusiasm]]''.&lt;ref&gt;{{cite web|url=http://www.zap2it.com/tv/news/zap-seinfeld-cast-curb-your-enthusiasm,0,1065194.story |title='Curb Your Enthusiasm' hosts a 'Seinfeld' reunion |date=March 6, 2009 |publisher=Zap2It.com |accessdate=2009-07-23 |deadurl=yes |archiveurl=https://web.archive.org/web/20090714021730/http://www.zap2it.com/tv/news/zap-seinfeld-cast-curb-your-enthusiasm%2C0%2C1065194.story |archivedate=July 14, 2009 |df= }}&lt;/ref&gt; In 2012, Richards appeared in comedy web series ''[[Comedians in Cars Getting Coffee]]'', hosted by [[Jerry Seinfeld]].&lt;ref&gt;{{cite web|title=Richards appears on ''Comedians in Cars Getting Coffee|url=http://comediansincarsgettingcoffee.com/michael-richards-its-bubbly-time-jerry/|accessdate=2012-10-07|deadurl=yes|archiveurl=https://web.archive.org/web/20121002001805/http://www.comediansincarsgettingcoffee.com/michael-richards-its-bubbly-time-jerry/|archivedate=October 2, 2012|df=mdy-all}}&lt;/ref&gt; In 2014, Richards appeared as the president of Crackle in a trailer for Season 5. Seinfeld has said that the storyline of the trailer will be expanded upon in one of the episodes.
+
+Richards played the role of Frank in the sitcom ''[[Kirstie (TV series)|Kirstie]]'', costarring [[Kirstie Alley]] and [[Rhea Perlman]], premiering on [[TV Land]] on December 4, 2013.&lt;ref name=HollywoodReporter/&gt; The show was canceled after airing one season.&lt;ref&gt;{{cite web|title=TV Land cancels 'Kirstie'|url=http://insidetv.ew.com/2014/07/29/kirstie-canceled-tv-land/|publisher= Entertainment Weekly and Time Inc.|accessdate=July 30, 2014}}&lt;/ref&gt;
+
+== Personal life ==
+Richards was married for 18 years to Cathleen Lyons, a family therapist. They have one daughter, Sophia (b. 1975). Richards and Lyons separated in 1992 and divorced a year later.&lt;ref name="People" /&gt;&lt;ref name=pp/&gt; In 2010, Richards married longtime girlfriend Beth Skipp. They have been together since 2002.
+
+== Filmography ==
+
+=== Film ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+| 1982 || ''[[Young Doctors in Love]]'' || Malamud Callahan ||
+|-
+| 1984 || ''The House of God'' || Dr. Pinkus ||
+|-
+| 1985 || ''[[Transylvania 6-5000 (1985 film)|Transylvania 6-5000]]'' || Fejos ||
+|-
+| 1986 || ''[[Whoops Apocalypse (film)|Whoops Apocalypse]]'' || Lacrobat ||
+|-
+| 1989 || ''[[UHF (film)|UHF]]'' || Stanley Spadowski ||
+|-
+| 1990 || ''[[Problem Child (film)|Problem Child]]'' || Martin Beck ||
+|-
+| 1993 || ''[[Coneheads (film)|Coneheads]]'' || Motel clerk ||
+|-
+| 1993 || ''[[So I Married an Axe Murderer]]'' || Insensitive Man ||
+|-
+| 1994 || ''[[Airheads]]'' || Doug Beech ||
+|-
+| 1994 || ''[[The Flintstones (1994 film)|The Flintstones]]'' || Paper Man ||
+|-
+| 1995 || ''[[Unstrung Heroes]]'' || Danny Lidz || Nominated—[[American Comedy Award|American Comedy Award for Funniest Supporting Actor in a Motion Picture]]
+|-
+| 1997 || ''[[Redux Riding Hood]]'' || The Wolf || Voice&lt;br/&gt;Short film
+|-
+| 1997 || ''[[Trial and Error (1997 film)|Trial and Error]]'' || Richard 'Ricky' Rietti ||
+|-
+| 2007 || ''[[Bee Movie]]'' || Bud Ditchwater || Voice
+|-
+| 2013 || ''Walk The Light'' || Lester || Short film
+|}
+
+=== Television ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+| 1980–1982 || ''[[Fridays (TV series)|Fridays]]'' || Various roles || 54 episodes; also writer
+|-
+| 1982 || ''[[Faerie Tale Theatre]]'' || King Geoffeey || Episode: "The Tale of the Frog Prince"
+|-
+| 1983 || ''Herndon'' || Dr. Herndon P. Stool || Television film
+|-
+| 1984 || ''[[Faerie Tale Theatre]]'' || Vince || Episode: "Pinocchio"
+|-
+| 1984 || ''At Your Service'' || Rick the gardener || Television film
+|-
+| 1984 || ''[[Night Court]]'' || Eugene Sleighbough || Episode: "Take My Wife, Please"
+|-
+| 1984 || ''[[The Ratings Game]]'' || Sal || Television film
+|-
+| 1985 || ''[[Tall Tales &amp; Legends]]'' || Sneaky Pete || Episode: "My Darlin' Clementine"
+|-
+| 1984–1985 || ''[[St. Elsewhere]]'' || Bill Wolf || 5 episodes
+|-
+| 1985 || ''[[Cheers]]'' || Eddie Gordon || Episode: "Bar Bet"
+|-
+| 1985 || ''[[Scarecrow and Mrs. King]]'' || Petronus || Episode: "Car Wars"
+|-
+| 1985 || ''Slickers'' || Mike Blade || Television film
+|-
+| 1985 || ''[[It's a Living (1980 TV series)|It's a Living]]'' || Hager || Episode: "Desperate Hours"
+|-
+| 1985 || ''[[Hill Street Blues]]'' || Special Agent Durpe || Episode: "An Oy for an Oy"
+|-
+| 1986 || ''[[Miami Vice]]'' || Pagone || Episode: "The Fix"
+|-
+| 1986 || ''[[A Year in the Life]]'' || Ronnie || 3 episodes
+|-
+| 1986 || ''[[Fresno (TV miniseries)|Fresno]]'' || 2nd henchman || 5 episodes
+|-
+| 1987 || ''Jonathan Winters: On the Ledge'' || Various roles || Television special
+|-
+| 1987–1988 || ''[[Marblehead Manor]]'' || Rick || 11 episodes
+|-
+| 1989 || ''[[Camp MTV]]'' || Stanley Spadowski || Television film
+|-
+| 1989–1998 || ''[[Seinfeld]]'' || [[Cosmo Kramer]] || 178 episodes&lt;br&gt;[[Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series]] &lt;small&gt;(1993–94, 1997)&lt;/small&gt;&lt;br&gt;[[Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series]] &lt;small&gt;(1995, 1997–98)&lt;/small&gt;&lt;br&gt;Nominated—[[American Comedy Award|American Comedy Award for Funniest Supporting Male in a Television Series]]&lt;br&gt;Nominated—[[American Comedy Award|American Comedy Award for Funniest Supporting Male in a Television Series]] &lt;small&gt;(shared with [[Jason Alexander]])&lt;/small&gt;&lt;br&gt;Nominated—[[Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series]] &lt;small&gt;(1995–96)&lt;/small&gt;&lt;br&gt;Nominated—[[Satellite Award for Best Actor – Television Series Musical or Comedy]]&lt;br&gt;Nominated—[[Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series]]&lt;br&gt;Nominated—[[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Comedy Series]] &lt;small&gt;(1996–98)&lt;/small&gt;
+|-
+| 1992 || ''[[Dinosaurs (TV series)|Dinosaurs]]'' || Director || Voice&lt;br/&gt;Episode: "Wesayso Knows Best"
+|-
+| 1992 || ''[[Mad About You]]'' || Cosmo Kramer || Episode: "The Apartment"
+|-
+| 1992 || ''[[The Larry Sanders Show]]'' || Himself || Episode: "The Flirt Episode"
+|-
+| 1996 || ''London Suite'' || Mark Ferris || Television film
+|-
+| 2000 || ''[[David Copperfield (2000 film)|David Copperfield]]'' || Mr. Wilkins Micawber || Television film
+|-
+| 2000 || ''[[The Michael Richards Show]]'' || Vic Nardozza || 7 episodes; also co-creator and executive producer
+|-
+| 2009 || ''[[Curb Your Enthusiasm]]'' || Michael Richards || 3 episodes
+|-
+| 2014 || ''[[Comedians in Cars Getting Coffee]]'' || Michael Richards  || 3 episodes
+|-
+| 2013–2014 || ''[[Kirstie (TV series)|Kirstie]]'' || Frank || 12 episodes
+|}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{wikiquote}}
+{{commons category}}
+
+* {{IMDb name|724245}}
+
+{{Navboxes
+|title = Awards for Michael Richards
+|list  = 
+{{EmmyAward ComedySupportingActor 1976-2000}}
+{{ScreenActorsGuildAwards EnsembleTVComedy 1994–1999}}
+}}
+&lt;!-- EDITORS BEWARE: Before tagging this article with any racism-related categories, please see the Talk page discussion. You may be blocked from Wikipedia for violation of 3RR if you continue making edits and do not participate in the discussion here: http://en.wikipedia.org/wiki/Talk:Michael_Richards#Addition_of_Category:Racism
+
+(See e.g., http://en.wikipedia.org/wiki/WP:3rr for more details)--&gt;
+
+{{Authority control}}
+
+{{DEFAULTSORT:Richards, Michael}}
+[[Category:1949 births]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American male voice actors]]
+[[Category:American sketch comedians]]
+[[Category:American stand-up comedians]]
+[[Category:California Institute of the Arts alumni]]
+[[Category:Comedians from California]]
+[[Category:Living people]]
+[[Category:Los Angeles Valley College people]]
+[[Category:Male actors from Los Angeles County, California]]
+[[Category:Outstanding Performance by a Supporting Actor in a Comedy Series Primetime Emmy Award winners]]
+[[Category:Racism in the United States]]
+[[Category:The Evergreen State College alumni]]
+[[Category:United States Army soldiers]]</text>
+      <sha1>r0pky8lr3g2bz952h6rtee115nq7x5g</sha1>
+    </revision>
+  </page>
+</mediawiki>

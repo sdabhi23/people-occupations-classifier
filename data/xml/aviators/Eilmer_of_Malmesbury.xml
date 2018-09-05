@@ -1,0 +1,180 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eilmer of Malmesbury</title>
+    <ns>0</ns>
+    <id>309714</id>
+    <revision>
+      <id>835920881</id>
+      <parentid>828233654</parentid>
+      <timestamp>2018-04-11T15:53:39Z</timestamp>
+      <contributor>
+        <username>SGBailey</username>
+        <id>6019</id>
+      </contributor>
+      <minor/>
+      <comment>/* Historical traditions and influence */ ." -&gt; ".</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10884">{{Use dmy dates|date=February 2017}}
+{{Use British English|date=February 2017}}
+[[File:Elmer flying monk.jpg|thumb|right|175px|Stained glass window showing Eilmer, installed in Malmesbury Abbey in 1920]]
+
+'''Eilmer of Malmesbury''' (also known as '''Oliver''' due to a scribe's miscopying, or '''Elmer''', or '''Æthelmær''') was an [[Timeline of aviation - pre-18th century|11th-century]] English [[Order of Saint Benedict|Benedictine monk]] best known for his early attempt at a gliding flight using wings.
+
+== Life ==
+Eilmer was a monk of [[Malmesbury Abbey]] and is known to have written on [[astrology]].&lt;ref name="White 1961, 98"&gt;{{harvnb|White|1961|p=98}}&lt;/ref&gt; All that is known of him is told in the ''Gesta regum Anglorum'' (Deeds of the English Kings), written by the eminent medieval historian [[William of Malmesbury]] in about 1125.&lt;ref name="White 1961, 98"/&gt;&lt;ref&gt;{{harvnb|White|1961|p=102}}&lt;/ref&gt; Being a fellow monk of the same abbey, William almost certainly obtained his account directly from people who knew Eilmer himself when he was an old man.&lt;ref name="White 1961, 98"/&gt;
+
+Later scholars, such as the American historian of technology [[Lynn White]], have attempted to estimate Eilmer's date of birth based on a quotation in William's ''Deeds'' in regard to [[Halley's Comet]], which appeared in 1066. The difficulty lies in that William recorded what Eilmer said not to establish his age, but to show that his prophecy was fulfilled later that year when the [[Normans]] [[Norman Conquest of England|invaded England]].
+
+{{quote|You've come, have you? &amp;ndash; You've come, you source of tears to many mothers. It is long since I saw you; but as I see you now you are much more terrible, for I see you brandishing the downfall of my country.&lt;ref name="William"&gt;William of Malmesbury, ''Gesta regum Anglorum / The history of the English kings'', ed. and trans. R. A. B. Mynors, R. M. Thomson, and M. Winterbottom, 2 vols., Oxford Medieval Texts (1998–9)&lt;/ref&gt;}}
+
+If Eilmer had seen Halley's comet seventy-six years earlier in 989, he could have been born about 984, making him about five or six years old when he first saw the comet, old enough to remember it. However the periodicity of comets was probably unknown in Eilmer's time, and so his remark "It is long since I saw you" could have referred to a different, later comet. Since it is known that Eilmer was an "old man" in 1066, and that he had made the flight attempt "in his youth", the event is placed some time during the early 11th century, perhaps in its first decade.&lt;ref&gt;{{harvnb|White|1961|p=99}}&lt;/ref&gt;
+
+== The flight ==
+William records that, in Eilmer's youth, he had read and believed the [[Greek mythology|Greek fable]] of [[Daedalus]]. Thus, Eilmer fixed wings to his hands and feet and launched himself from the top of a tower at Malmesbury Abbey:
+
+{{quote|He was a man learned for those times, of ripe old age, and in his early youth had hazarded a deed of remarkable boldness. He had by some means, I scarcely know what, fastened wings to his hands and feet so that, mistaking fable for truth, he might fly like Daedalus, and, collecting the breeze upon the summit of a tower, flew for more than a furlong [201&amp;nbsp;metres]. But agitated by the violence of the wind and the swirling of air, as well as by the awareness of his rash attempt, he fell, broke both his legs and was lame ever after. He used to relate as the cause of his failure, his forgetting to provide himself a tail.&lt;ref name="William" /&gt;}}
+
+Given the geography of the abbey, his landing site, and the account of his flight, to travel for "more than a furlong" (220&amp;nbsp;yards, 201&amp;nbsp;metres) he would have had to have been airborne for about 15&amp;nbsp;seconds. His exact flightpath is not known, nor how long he was in the air, because today’s abbey is not the abbey of the 11th century, when it was probably smaller, although the tower was probably close to the present height.&lt;ref name=woosnam&gt;Woosnam (1986)&lt;/ref&gt; "Olivers Lane", off the present-day High Street and about {{convert|200|m}} from the abbey, is reputed locally to be the site where Eilmer landed.&lt;ref name=woosnam/&gt; That would have taken him over many buildings. Maxwell Woosnam's study concluded that he is more likely to have descended the steep hill off to the southwest of the abbey, rather than the town centre to the south.&lt;ref name=woosnam/&gt;
+
+== Flight analysis ==
+To perform the manoeuvre of gliding downward against the breeze, utilizing both gravity and the wind, Eilmer employed an apparatus somewhat resembling a gliding bird. However being unable to balance himself forward and backwards, as does a bird by slight movements of its wings, head and legs, he would have needed a large tail to maintain equilibrium. Eilmer could not have achieved true soaring flight in any event, but he might have glided down in safety if he had had a tail.&lt;ref&gt;{{cite web |title=Eilmer the Flying Monk, 981&amp;ndash;1069AD |author=James of Wanborough |url=http://www.jane-williams.me.uk/so/cartnav/eilmer.htm |accessdate=2008-05-10 |deadurl=yes |archiveurl=https://web.archive.org/web/20090115195158/http://www.jane-williams.me.uk/so/cartnav/eilmer.htm |archivedate=15 January 2009 |df= }}&lt;/ref&gt; Afterwards, Eilmer remarked that the cause of his crash was that "he had forgotten to provide himself with a tail."&lt;ref name=Hallion/&gt;
+
+== Historical traditions and influence ==
+Other than William's account of the flight, nothing has survived of Eilmer's lifetime work as a monk, although his astrological treatises apparently still circulated as late as the 16th century.&lt;ref name="White 1961, 98"/&gt;
+
+Based on William's account, the story of Eilmer's flight has been retold many times through the centuries by scholars, encyclopaedists, and proponents of man-powered flight, keeping the idea of human flight alive. These include over the years: [[Helinand of Froidmont]] (before 1229), [[Alberic of Trois-Fontaines]] (before 1241), [[Vincent of Beauvais]] (1250s), [[Roger Bacon]] (c. 1260), [[Ranulf Higden]] (before 1352, and the first to misname him "Oliver") and the English translators of his work, [[Henry Knighton]] (before 1367), [[John Nauclerus of Tübingen]] (c.&amp;nbsp;1500), [[John Wilkins]] (1648), [[John Milton]] (1670), and [[John Wise (balloonist)|John Wise]] (1850).&lt;ref&gt;{{harvnb|White|1961|p=102f.}}&lt;/ref&gt;
+
+More recently, Maxwell Woosnam in 1986 examined in more detail the technical aspects such as materials, glider angles, and wind effects.&lt;ref name=woosnam/&gt;
+
+Eilmer typified the inquisitive spirit of medieval enthusiasts who developed small drawstring toy helicopters, windmills, and sophisticated sails for boats. In addition, church artists increasingly showed angels with ever more accurate depictions of bird-like wings, detailing the wing's camber (curvature) that would prove beneficial to generating the lifting forces enabling a bird &amp;ndash; or an aeroplane &amp;ndash; to fly. This climate of thought led to a general acceptance that air was something that could be "worked". Flying was thus not magical, but could be attained by physical effort and human reasoning.&lt;ref name=Hallion&gt;{{cite web |title=Pioneers of Flight: Eilmer of Malmesbury |first=Richard |last=Hallion |url=http://www.af.mil/history/essay2.asp  |year=2004 |publisher=[[USAF]] Centennial of Flight office |accessdate=2008-05-10 |archiveurl = https://web.archive.org/web/20041020011322/http://www.af.mil/history/essay2.asp |archivedate = 2004-10-20}}&lt;/ref&gt; However, although Eilmer seems to have been an inquisitive individual and a keen stargazer, his scientific observation of the heavens would have been coloured by a distinctly medieval awareness of the cosmos and the position of humans therein. As a monk located in Malmesbury Abbey in the eleventh century, he would not have been ignorant of the need to guard and stabilize the soul for its flight in the afterlife; the differences between angelic and human bodies; the weight of sin and the unnaturalness of ascending mortal flesh.&lt;ref&gt;Paz 2015&lt;/ref&gt;
+
+== Legacy ==
+The School of Mechanical and Mining Engineering at the University of Queensland in Brisbane, Australia has developed a Computational Fluid Dynamics simulation code named Eilmer4.&lt;ref&gt;{{cite book|last1=Jacob|first1=Peter|last2=Gollan|first2=Rowan|title=The user's guide to the Eilmer4 flow simulation program|date=2017-01-03|publisher=School of Mechanical &amp; Mining Engineering, The University of Queensland|location=Brisbane, Australia|pages=1-102|edition=1|url=http://cfcfd.mechmining.uq.edu.au/eilmer/pdfs/eilmer-user-guide.pdf|accessdate=2017-10-16}}&lt;/ref&gt;
+
+==See also==
+* [[List of firsts in aviation]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{US Air Force|article=Pioneers of Flight: Eilmer of Malmesbury|url=https://web.archive.org/web/20041020011322/http://www.af.mil/history/essay2.asp|author=Richard Hallion|accessdate=10 May 2008}}
+*{{cite book
+ |last=Lacey
+ |first=Robert
+ |title=Great Tales From English History
+ |year=2004
+ |publisher=Little, Brown
+ |place=New York
+ |isbn=0-316-10910-X}}
+*{{cite journal
+ | last = Paz
+ | first = James
+ | year = 2015
+ | title = Human Flight in Early Medieval England: Reality, Reliability, and Mythmaking (or Science and Fiction)
+ | journal = [[New Medieval Literatures]]
+ | volume = 15
+ | pages = 1–28
+ | isbn = 978-2-503-54851-7}}
+*{{cite book
+ |last=Scott
+ |first=P.
+ |title=The Shoulders of Giants: A History of Human Flight to 1919
+ |chapter=1
+ |year=1995
+ |publisher=Addison Wesley Publishing Co.
+ |place=Reading MA
+ |isbn=}}
+*{{Cite journal
+ | last = White
+ | first = Lynn
+ | author-link = Lynn White
+ | year = 1961
+ | title = Eilmer of Malmesbury, an Eleventh Century Aviator: A Case Study of Technological Innovation, Its Context and Tradition
+ | journal = [[Technology and Culture]]
+ | volume = 2
+ | issue = 2
+ | pages = 97–111
+ | doi = 10.2307/3101411
+ | jstor = 3101411
+ | publisher = Technology and Culture, Vol. 2, No. 2
+ | ref = harv
+ | postscript = &lt;!--None--&gt;}}
+*{{cite journal
+ |last=White
+ |first=Lynn
+ |title=Eilmer of Malmesbury, an eleventh-century aviator: a case study of technological innovation, its context and tradition
+ |journal=Medieval religion and technology
+ |year=1978
+ |pages=59&amp;ndash;73
+ |ref=harv}}
+*{{cite book
+ |last=Woosnam
+ |first=Maxwell
+ |title=Eilmer, The Flight and The Comet
+ |year=1986
+ |publisher=Friends of Malmesbury Abbey
+ |place=Malmesbury, UK
+ |isbn=0-9513798-0-1}}
+
+==External links==
+*[http://www.eilmer.co.uk/eilmer-biog.htm Eilmer of Malmesbury], from the Malmesbury Abbey website.
+
+[[Category:English Benedictines]]
+[[Category:Aviation pioneers]]
+[[Category:Gliding in England]]
+[[Category:11th-century English people]]
+[[Category:People from Malmesbury]]
+[[Category:English people with disabilities]]
+[[Category:Malmesbury Abbey]]
+[[Category:Year of birth unknown]]
+[[Category:Place of birth unknown]]
+[[Category:10th-century births]]</text>
+      <sha1>8ujeqguf447ml8wylj3r1ty5d6kw1xb</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Flip Wilson</title>
+    <ns>0</ns>
+    <id>577798</id>
+    <revision>
+      <id>853647323</id>
+      <parentid>851247946</parentid>
+      <timestamp>2018-08-06T03:37:56Z</timestamp>
+      <contributor>
+        <ip>173.56.80.239</ip>
+      </contributor>
+      <comment>/* Career */ Added italics.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14315">{{Infobox comedian
+| name                 = Flip Wilson 
+| image                = Bob Hope Flip Wilson 1969.JPG
+| imagesize            = 220px
+| caption              = Wilson in 1969
+| pseudonym            = 
+| birth_name           = Clerow Wilson Jr.
+| birth_date           = {{birth date|1933|12|8}}
+| birth_place          = [[Jersey City, New Jersey]], U.S.
+| death_date           = {{death date and age|1998|11|25|1933|12|8}}
+| death_place          = [[Malibu, California]], U.S.
+| medium               = Stand-up, television, film
+| nationality          = American
+| active               = 1963–1997
+| genre                = 
+| subject              = 
+| influences           = 
+| influenced           = 
+| spouse               = {{marriage|Lavenia Patricia "Peaches" Wilson nee Dean|1957|1967|reason=divorced}}&lt;br&gt;{{marriage|Tuanchai MacKenzie|1979|1984|reason=divorced}}  
+| domesticpartner      = 
+| notable_work         =  ''The Flip Wilson Show'' 
+| signature            = 
+| website              = 
+| footnotes            = 
+}}
+
+'''Clerow''' "'''Flip'''" '''Wilson Jr.''' (December 8, 1933 – November 25, 1998) was an American [[comedy|comedian]] and [[actor]] best known for his television appearances during the late 1960s and the 1970s. From 1970 to 1974, Wilson hosted his own weekly [[variety series]], ''[[The Flip Wilson Show]]''. The series earned Wilson a [[Golden Globe Award|Golden Globe]] and two [[Emmy Awards]], and at one point was the second highest rated show on network television.&lt;ref name="nytimes"&gt;{{cite news|url=https://www.nytimes.com/1998/11/27/arts/flip-wilson-outrageous-comic-and-tv-host-dies-at-64.html|title=Flip Wilson, Outrageous Comic and TV Host, Dies at 64|last=Watkins|first=Mel|date=November 27, 1998|publisher=''The New York Times'' |deadurl=no |archive-url=https://web.archive.org/web/20100111145317/http://www.nytimes.com/1998/11/27/arts/flip-wilson-outrageous-comic-and-tv-host-dies-at-64.html |archive-date=January 11, 2010|accessdate=April 1, 2017}}&lt;/ref&gt; Wilson was the first African-American to host a successful variety TV show.&lt;ref name="nytimes" /&gt; ([[Sammy Davis Jr.]] had had a short-lived variety show in 1966). In January 1972, ''[[Time (magazine)|Time]]'' magazine featured Wilson's image on its cover and named him "TV's first black superstar".&lt;ref&gt;{{cite web|url=http://www.time.com/time/covers/0,16641,19720131,00.html|title=Flip Wilson (January 31, 1972)|publisher=time.com|accessdate=10 June 2010}}&lt;/ref&gt;
+
+Wilson released a number of comedy albums in the 1960s and 70s, and won a [[Grammy Award]] for his 1970 album ''[[The Devil Made Me Buy This Dress]]''.&lt;ref&gt;{{cite web |url=https://www.grammy.com/nominees/search?artist=%22Flip+Wilson%22&amp;field_nominee_work_value=&amp;year=All&amp;genre=All |title=The Grammys: Past Winners Search: "Flip Wilson" |author=&lt;!--Not stated--&gt; |date= |website=Grammy.com |publisher=The Recording Academy |deadurl=no |archive-url=https://web.archive.org/web/20170401124024/https://www.grammy.com/nominees/search?artist=%22Flip+Wilson%22&amp;field_nominee_work_value=&amp;year=All&amp;genre=All |archive-date=April 1, 2017 |access-date=April 1, 2017}} Some sources, including Wilson's ''New York Times'' obituary, erroneously state that Wilson won his Grammy in 1968 for his album ''Flip Wilson You Devil You''.&lt;/ref&gt;
+
+After ''The Flip Wilson Show'' ended, Wilson kept performing and acting until the 1990s, though at a reduced schedule. He hosted a short-lived revival of ''[[People are Funny]]'' in 1984, and had the lead role in the 1985-86 sitcom ''[[Charlie &amp; Co.]]''
+
+==Early life==
+Born Clerow Wilson Jr. in [[Jersey City]], [[New Jersey]], he was one of ten children born to Cornelia Bullock and Clerow Wilson Sr.&lt;ref name=tafoya&gt;{{cite book|last=Tafoya|first=Eddie M. |title=Icons of African American Comedy|year=2011|publisher=ABC-CLIO|isbn=0-313-38085-6|page=89}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Pierce|first=Ponchitta|date=April 1968|title=All Flip Over Flip|journal=Ebony|publisher=Johnson Publishing Company|volume=23|issue=6|page=65|issn=0012-9011|url=https://books.google.com/books?id=Ec4DAAAAMBAJ&amp;pg=PA72&amp;dq=flip+wilson+jersey+city&amp;hl=en&amp;sa=X&amp;ei=tTxzUcLoKIj8rAGJq4HICw&amp;ved=0CEAQ6AEwAw#v=onepage&amp;q=flip%20wilson%20jersey%20city&amp;f=false}}&lt;/ref&gt; His father worked as a handyman but, because of the [[Great Depression]], was often out of work. When Wilson was seven years old, his mother abandoned the family. His father was unable to care for the children alone and he placed many of them in foster homes.&lt;ref name=tafoya /&gt; After bouncing from foster homes to reform school, 16-year-old Wilson lied about his age and joined the [[United States Air Force]]. His outgoing personality and funny stories made him popular; he was even asked to tour military bases to cheer up other servicemen. Claiming that he was always "flipped out," Wilson's barracks mates gave him the nickname "Flip" which he used as his stage name. Discharged from the Air Force in 1954, Wilson started working as a bellhop in [[San Francisco]]'s Manor Plaza Hotel.
+
+At the Plaza's nightclub, Wilson found extra work playing a drunken patron in between regularly scheduled acts. His inebriated character proved popular and Wilson began performing it in clubs throughout [[California]]. At first Wilson would simply ad-lib onstage, but eventually he added written material and his act became more sophisticated.
+
+==Career==
+In the late 1950s and early 1960s, Wilson toured regularly through nightclubs with a black clientele in the so-called "[[Chitlin' Circuit]]".&lt;ref name="nytimes" /&gt; During the 1960s, Wilson became a regular at the [[Apollo Theater]] in [[Harlem]]. An unexpected break came in 1965, when comedian [[Redd Foxx]] was a guest on ''[[The Tonight Show Starring Johnny Carson|The Tonight Show]]'' and host [[Johnny Carson]] asked him who the funniest comedian at the time was; Foxx answered, "Flip Wilson".&lt;ref name="nytimes" /&gt; Carson then booked Wilson to appear on ''The Tonight Show'', and Wilson became a favorite guest on that show, as well as on ''[[The Ed Sullivan Show]]''. Wilson later singled out Sullivan as providing his biggest career boost. Wilson also made guest appearances on numerous TV comedies and variety shows, such as ''[[Here's Lucy]]'' (in which he played the role of "Prissy" in a spoof of ''[[Gone With the Wind (film)|Gone With the Wind]]'', with [[Lucille Ball]] as Scarlett),&lt;ref&gt;[https://www.imdb.com/title/tt0600042/?ref_=nm_flmg_act_15 ''Here's Lucy'', episode "Lucy and Flip Go Legit" (1971)] at IMDb&lt;/ref&gt; and ''[[The Dean Martin Show]]'', among others.  
+
+Wilson's warm and ebullient personality was infectious.  [[Richard Pryor]] told Wilson, "You're the only performer that I've ever seen who goes on the stage and the audience hopes that ''you'' like ''them''."
+
+A routine titled "Columbus," from the 1967 album ''Cowboys and Colored People'', brought Wilson to Hollywood industry attention.  In this bit, Wilson retells the story of [[Christopher Columbus]] from an anachronistic urbanized viewpoint, in which Columbus convinces the [[Spain|Spanish]] monarchs to fund his voyage by noting that discovering America means that he can also discover [[Ray Charles]]. Hearing this, [[Isabella I of Castile|Queen "Isabel Johnson,"]] whose voice is an early version of Wilson's eventual "Geraldine" character, says that "Chris" can have "''all'' the money you want, honey—You go ''find'' Ray Charles!"  When Columbus departs from the dock, an inebriated Isabella is there, testifying to one and all that "Chris gonna ''find'' Ray Charles!" 
+
+In 1970, Wilson won a [[Grammy Award]] for his comedy album ''[[The Devil Made Me Buy This Dress]]''. He was also a regular cast member on ''[[Rowan &amp; Martin's Laugh-In]]''. [[DePatie-Freleng Enterprises]] featured Wilson in two TV specials, ''Clerow Wilson and the Miracle of P.S. 14'' and ''Clerow Wilson's Great Escape''.
+
+===''The Flip Wilson Show''===
+[[File:Flip Wilson Geraldine 1971.JPG|thumb|left|[[Geraldine Jones (character)|Geraldine Jones]] (Flip Wilson) interviews sex expert Dr. [[David Reuben (author)|David Reuben]] in a sketch from ''[[The Flip Wilson Show]]'' (1971) ]]
+In 1970 Wilson's variety series, ''[[The Flip Wilson Show]]'', debuted on [[NBC]]. He performed in comedy sketches and played host to many African-American entertainers, including [[the Supremes]], [[the Jackson Five]], [[the Temptations]], [[Gladys Knight &amp; the Pips]], comedian [[Redd Foxx]], and [[basketball]] player [[Bill Russell]]. He greeted all his guests with the "Flip Wilson Handshake,": four hand slaps, two elbow bumps finishing with two hip-bumps. [[George Carlin]] was one of the show's writers, and Carlin also made frequent appearances on the show, as the two would expand Carlin's news-weather-sports satire. Wilson's characters included Reverend Leroy, materialistic pastor of the "Church of What’s Happening Now," and his most popular character, [[Geraldine Jones (character)|Geraldine Jones]], who frequently referred to her unseen boyfriend, "Killer," and whose lines "The devil made me do it" as well as "What you see is what you get" became national catchphrases.
+
+''The Flip Wilson Show'' aired through 1974, generating high ratings and popularity among viewers and winning strong critical acclaim, with eleven [[Emmy Award]] nominations during its run, winning two. Wilson also won a [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Golden Globe Award for Best Actor in a Television Series]].
+
+[[File:Flip Wilson - 1970.jpg|thumb|225px|Wilson in 1970]]
+===Later years===
+Wilson acted in TV and theatrical movies including ''[[Uptown Saturday Night]]'' and ''[[The Fish that Saved Pittsburgh]]''. In 1976, he appeared as the Fox in a television musical adaptation ''[[Pinocchio (1976 TV musical)|Pinocchio]]'', starring [[Sandy Duncan]] in the title role and [[Danny Kaye]] as [[Mister Geppetto]], with songs by ''[[Laugh-In]]'' composer [[Billy Barnes (composer)|Billy Barnes]].&lt;ref name=Pinocchio&gt;{{imdb title|0207653|Pinocchio (1976)}}&lt;/ref&gt;
+
+From March to July 1984, Wilson hosted a revival of ''[[People are Funny]]''. From 1985 to 1986, Wilson played the lead role in the [[CBS]] [[sitcom]] ''[[Charlie &amp; Co.]]'' Two of his last TV appearances were [[cameo appearance|cameos]] on the sitcoms ''[[Living Single]]'' in 1993, and ''[[The Drew Carey Show]]'' in 1996.&lt;ref name="fearn-banks"&gt;{{cite encyclopedia |last=Fearn-Banks |first=Kathleen |date=2006 |encyclopedia=The Historical Dictionary of African-American Television |title=Wilson, Flip (1933–1998)|publisher=Scarecrow Press |location=Lanham, Maryland |url=http://www.blackpast.org/aah/wilson-flip-1933-1998 |deadurl=no |archive-url=https://web.archive.org/web/20170317002105/http://www.blackpast.org/aah/wilson-flip-1933-1998 |archive-date=March 17, 2017 |access-date=April 1, 2017}}&lt;/ref&gt;
+
+==Personal life ==
+Wilson was married twice. In 1957 he wed Lavenia Wilson née Dean. They divorced in 1967. In 1979 he married Tuanchai MacKenzie. They divorced in 1984. After winning custody of his five children in 1979, Wilson performed less, in order to spend more time with his family.&lt;ref name="nytimes" /&gt;
+
+Before becoming ill, he was an active [[Aerostat|lighter-than-air pilot]].&lt;ref name="nytimes" /&gt;
+
+On November 25, 1998, Wilson died of [[liver cancer]] in [[Malibu, California]], aged 64.&lt;ref name="nytimes" /&gt;
+
+==Discography==
+*1961 – ''Flippin''' (Minit 24012)
+*1964 – ''Flip Wilson's Pot Luck'' (Scepter 520, reissued as Funny and Live at the Village Gate, Springboard SP 4004)
+*1967 – ''Cowboys and Colored People'' (Atlantic ATS 8149)
+*1968 – ''You Devil You'' (Atlantic SC 8179)
+*1970 – ''[[The Devil Made Me Buy This Dress]]'' (Little David LD 1000)
+*1970 – ''The Flip Wilson Show'' (Little David LD 2000)
+*''Geraldine'' (Little David LD 1001)
+*''Flipped Out'' (Sunset Records SUS-5297)
+
+==In popular culture==
+Wilson popularized the phrase "The devil made me do it." Also, the phrase, "What you see is what you get," often used by Wilson's Geraldine character, inspired researchers at [[PARC (company)|PARC]] and elsewhere to create the acronym [[WYSIWYG]].&lt;ref&gt;{{cite book |title=Go To |last=Lohr |first=Steve |authorlink= |coauthors= |year=2001 |publisher=Basic Books |location= |isbn=0-465-04226-0 |page=128 |pages= |url=https://books.google.com/books?id=_YijJS-4I5QC }}&lt;/ref&gt;
+
+==See also==
+*{{Portal-inline|Biography}}
+
+==References==
+'''Notes'''
+{{reflist}}
+{{Refimprove|date=October 2011}}
+
+'''Bibliography'''
+*[http://www.britannica.com/eb/article-9124128/Wilson-Flip ''Encyclopædia Britannica'' (1998)]
+*Miles, J. H., Davis, J. J., Ferguson-Roberts, S. E., and Giles, R. G. (2001). ''Almanac of African American Heritage''. Paramus, NJ: Prentice Hall Press.  {{ISBN|978-0735202269}}
+*Potter, J. (2002). ''African American Firsts''. New York, NY: Kensington Publishing Corp. {{ISBN|978-0758292414}}
+
+==External links==
+{{commons category}}
+{{wikiquote}}
+*{{IMDb name|id=0933400}}
+* {{museumtv|wilsonflip}}
+* [http://fearnbanks.blogspot.com/ Biographical Information on Flip Wilson] by Professor Kathleen Fearn-Banks at the University of Washington.
+* {{YouTube|0SLifea3NHQ|Flip Wilson on ''The Ed Sullivan Show''}}
+* {{Find a Grave|4248}}
+
+{{Navboxes
+| title = Awards for Flip Wilson
+| list =
+{{EmmyAward ComedyVarietyMusicWriting 1970s}}
+{{GoldenGlobeBestActorTVComedy 1970-1989}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wilson, Flip}}
+[[Category:1933 births]]
+[[Category:1998 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:African-American comedians]]
+[[Category:African-American male actors]]
+[[Category:African-American male comedians]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American stand-up comedians]]
+[[Category:American television personalities]]
+[[Category:American television writers]]
+[[Category:Best Musical or Comedy Actor Golden Globe (television) winners]]
+[[Category:Deaths from cancer in California]]
+[[Category:Deaths from liver cancer]]
+[[Category:Emmy Award winners]]
+[[Category:Grammy Award winners]]
+[[Category:Male actors from Jersey City, New Jersey]]
+[[Category:Male television writers]]
+[[Category:United States Air Force airmen]]
+[[Category:20th-century American comedians]]</text>
+      <sha1>ghhqzmutv9b4oksf4qhzq2z4rbq40s8</sha1>
+    </revision>
+  </page>
+</mediawiki>

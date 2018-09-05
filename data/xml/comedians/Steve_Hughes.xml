@@ -1,0 +1,280 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steve Hughes</title>
+    <ns>0</ns>
+    <id>8968434</id>
+    <revision>
+      <id>854574877</id>
+      <parentid>838986076</parentid>
+      <timestamp>2018-08-12T09:43:16Z</timestamp>
+      <contributor>
+        <username>Issan Sumisu</username>
+        <id>27991771</id>
+      </contributor>
+      <comment>grammar, not a proper noun</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32762">{{other people||Stephen Hughes (disambiguation)}}
+{{EngvarB|date=October 2017}}
+{{Use dmy dates|date=October 2017}}
+{{Infobox person
+| name          = Steve Hughes
+| image         = Steve Hughes.jpg
+| alt           = &lt;!-- descriptive text for use by the blind and visually impaired's speech synthesis (text-to-speech) software --&gt;
+| caption       = Hughes in 2011
+| residence     = [[Manchester]], England
+| nationality   = Australian
+| other_names   = 
+| occupation    = comedian, [[heavy metal music|heavy metal]] musician
+| known_for     = 
+| notable_works =
+| website       = {{url|www.stevehughes.net.au}}
+| module        = {{Infobox comedian
+| embed         = yes
+| active        = 1994–present
+| genre         = [[Observational comedy]], [[black comedy]], [[surreal humour]], satire
+| subject       = Politics, [[social commentary]], [[conspiracy theories]], [[spirituality]]
+| influences    = [[Dave Allen (comedian)|Dave Allen]], [[Bill Cosby]], [[Richard Pryor]], [[George Carlin]], [[Eddie Murphy]], [[Woody Allen]], [[Bill Hicks]], [[Henry Rollins]], [[Jello Biafra]]
+| influenced    = 
+| website       = 
+}}
+| module2         = {{Infobox musical artist
+| embed           = yes
+| background      = non_vocal_instrumentalist
+| alias           = 
+| origin          = 
+| genre           = {{Flatlist|
+* [[Thrash metal]]
+* [[death metal]]
+* [[black metal]]
+}}
+| instrument      = Drums
+| years_active    = 1985–1998
+| label           = 
+| associated_acts = {{Flatlist|
+* Slaughter Lord
+* [[Nazxul]]
+* [[Mortal Sin (band)|Mortal Sin]]
+}}
+}}
+}}
+
+'''Steve Hughes''' is an [[Australian]]-born [[black metal]] drummer, comedian and actor. Hughes has been referred to both by the press and himself as a "Heavy Metal comedian."&lt;ref name=SMHERALD2&gt;{{cite news |last=Bochenski |first=Natalie |date=27 February 2013 |title=Steve Hughes has issues |url=http://www.smh.com.au/entertainment/steve-hughes-has-issues-20130226-2f3yy.html |newspaper=[[The Sydney Morning Herald]] |location=Sydney, Australia |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=BERGENSAVISEN&gt;{{cite news |last=Sæverås |first=Nils Olav |date=30 August 2013 |title=Heavy metal-humorist |url=http://www.ba.no/hvaskjeribergen/heavy-metal-humorist/s/1-41-6834996 |language=Norwegian |newspaper=[[Bergensavisen]] |location=Norway |access-date=11 February 2016|quote=I call myself a heavy metal humorist because my sense of humor, like metal, are not tailored for everyone to like it.}}&lt;/ref&gt;&lt;ref name=MUSICRADAR&gt;{{cite web |url=http://www.musicradar.com/news/drums/heavy-metal-comedian-steve-hughes-five-greatest-metal-drummers-582229/ |title=Heavy metal comedian Steve Hughes' five greatest metal drummers |last=Chamberlain |first=Rich |date=29 August 2013 |website=[[MusicRadar]] |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=BEATMAG6&gt;{{cite magazine |last=Welby |first=Augustus |date=18 April 2014 |title=Steve Hughes: While It’s Still Legal |url=http://www.beat.com.au/comedy-festival/steve-hughes-while-s-still-legal-0 |magazine=Beat Magazine |location=Melbourne, Australia  |access-date=11 February 2016}}&lt;/ref&gt;
+
+Hughes was an active member of Australia's early [[black metal]] scene.  He founded and played drums for Slaughter Lord, one of the first [[thrash metal]] bands in Australia—a band that had a brief yet notable impact on the country's extreme metal music history.&lt;ref name=ENCYCLOPEDIA&gt;{{cite book |last=Giffin |first=Brian |date=2009 |title=Encyclopedia of Australian Heavy Metal |url=https://books.google.com/books?id=XvqZAgAAQBAJ&amp;pg=PA344 |publisher=Lulu Enterprises Incorporated |page=344 |isbn=9781409263982 |access-date=11 February 2016 |quote="Perhaps the earliest and undoubtedly one of the most legendary of Australia's extreme metal contingent, Slaughter Lord was an early Sydney thrash band whose status during the formative period of the country's metal scene was only rivalled by Mortal Sin. The band was formed by Hughes under the name Onslaught in 1985, but after a clash was discovered with a British thrash band the group changed its name to Devastator.  Unhappy with such a generic name, it was soon changed again to Slaughter Lord."}}&lt;/ref&gt;&lt;ref name=SUBGENRES&gt;{{cite book |last=Kegan |first=Yrjänä |date=2015 |title=Subgenres of the Beast: A Heavy Metal Guide |url=https://books.google.com/books?id=5zI5CwAAQBAJ&amp;lpg=PA51 |publisher=Lulu.com |page=51 |isbn=9781312984509 |access-date=11 February 2016 |quote=Sydney band Slaughter Lord were also impressing fans across the seas, but after only a release of one demo tape (titled Taste of Blood), the band disintegrated in 1987 after only one year of activity.}}&lt;/ref&gt;{{Self-published inline|date=December 2017}}&lt;ref name=CURRENCY&gt;{{cite book |date=2003 |editor1-last=Scott-Maxwell |editor1-first=Aline |editor2-last=Whiteoak |editor2-first=John |title=Currency companion to music and dance in Australia |publisher=Currency House Inc |page=316 |isbn=9780868192604 |quote=Its lightning speed and hammering beat were delivered by Sydney's pioneering Slaughter Lord.}}&lt;/ref&gt; He subsequently played drums for thrash metal band [[Mortal Sin (band)|Mortal Sin]] and the [[black metal]] band [[Nazxul]].&lt;ref name=ROLLINGSTONE&gt;{{cite magazine |last=Reekie |first=Steve |date=May 2010 |title=Steve Hughes |url=http://www.stevehughes.net.au/media/images/layout/SH_RollingStoneMAY2010.jpg |magazine=[[Rolling Stone Australia]] |archive-url=https://web.archive.org/web/20110706123819/http://www.stevehughes.net.au/media/images/layout/SH_RollingStoneMAY2010.jpg |archive-date=6 July 2011 |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=CHORTLE2&gt;{{cite web |url=http://www.chortle.co.uk/features/2012/11/23/16618/the_funniest_thing_about_self-hate_is_the_jokes |title=The funniest thing about self-hate is the jokes: Steve Hughes chooses his comedy favourites |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=23 November 2012 |website=Chortle |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=METALOB&gt;{{cite web |url=http://www.metalobsession.net/2010/04/14/steve-hughes-heavy-metal-comedy-review/ |title=Steve Hughes – The metal messiah returns to Australia |last=Rizk |first=Anwar |date=14 April 2010 |website=Metal Obsession |access-date=11 February 2016}}&lt;/ref&gt;
+
+Hughes started performing stand-up in the 1990s and relocated to England in 2002 to further pursue his career in comedy.&lt;ref name=ROLLINGSTONE/&gt;&lt;ref name=CHORTLE2/&gt;&lt;ref name=METALOB/&gt;&lt;ref name=BGC1&gt;{{cite web |url=https://www.comedy.co.uk/live/feature/steve_hughes_2013_interview/ |title=Steve Hughes interview |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=11 October 2013 |publisher=comedy.co.uk |access-date=11 February 2016}}&lt;/ref&gt; He is based in [[Manchester]],&lt;ref name=POSTMODERN&gt;{{cite magazine |author=&lt;!--Staff writer(s); no by-line.--&gt; |title=Steve Hughes |url=http://www.postmodernink.com.au/media/stevehughes.html |magazine=Post Modern Ink |location=Australia  |date=1 February 2010 |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=ADVERTISER&gt;{{cite news |last=Lloyd |first=Tim |date=20 February 2013 |title=Funny Steve Hughes has serious issues |url=http://www.adelaidenow.com.au/entertainment/funny-steve-hughes-has-serious-issues/story-fn489yir-1226581697247 |newspaper=[[The Advertiser (Adelaide)|The Advertiser]] |location=Adelaide, Australia |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=TNTMAG1&gt;{{cite magazine |last=Morton |first=Alasdair  |date=1 December 2012 |title=Interview: Aussie comedian Steve Hughes discusses his re-tooled Big Issues show and why he's just as irked as ever |url=http://www.tntmagazine.com/entertainment/interviews/aussie-comedian-steve-hughes-brings-his-re-tooled-big-issues-show-to-london-and-hes-just-as-irked-as-ever |magazine=[[TNT (magazine)|TNT Magazine]] |location=United Kingdom  |access-date=11 February 2016}}&lt;/ref&gt; and performs stand-up internationally, primarily across Europe, Australia and New Zealand.&lt;ref name=BGC1/&gt;&lt;ref name=PERTHNOW&gt;{{cite news |last=Symonds |first=Kristy |date=19 July 2014 |title=Australian comedian Steve Hughes returns to Perth stage after burning out and postponing shows |url=https://www.perthnow.com.au/entertainment/australian-comedian-steve-hughes-returns-to-perth-stage-after-burning-out-and-postponing-shows-ng-aa807e03ca3273c3cdad8ee48019ffd6|newspaper=[[The Sunday Times (Western Australia)|The Sunday Times]] |location=Perth, Australia |access-date=11 February 2016}}&lt;/ref&gt;
+
+Hughes also starred in the 2015 [[Independent film|indie]] short film ''Brainless Killers'', which won the awards for Best Film, Best Thriller and Best Special Effects in the short film category at the Sydney Indie Film Festival.&lt;ref name=SYDNEYFILMFEST&gt;{{cite web |url=http://sydneyindiefilmfestival.com/festival/sydney-indie-2015-brainless-killers/ |title=Sydney Indie Film Festival – Brainless Killers – Showing Wednesday 21th October 2015, 8:30&amp;nbsp;pm  |author=&lt;!--Staff writer(s); no by-line.--&gt; |website=Sydney Indie Film Festival |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=NYFA&gt;{{cite web |url=https://www.nyfa.edu/film-school-blog/nyfa-australia-graduate-to-screen-3-films-at-sydney-indie-film-festival/ |title=NYFA Australia Graduate to Screen 3 Films at Sydney Indie Film Festival |last=Pasquine |first=Frank |date=7 October 2015 |website=New York Film Academy |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=SYDFILMAWARDS&gt;[http://sydneyindiefilmfestival.com/festival/short-films-award-winners-2015/ Sydney Indie Film Festival 2015 award winners]&lt;/ref&gt;
+
+==Music career==
+Born in Sydney,&lt;ref name=TNTMAG1/&gt; Hughes became interested in heavy metal in the early 80s.&lt;ref name=MUSICRADAR/&gt; In an interview with [[MusicRadar]] Hughes said he became obsessed with [[Iron Maiden]] in 1982 and "the pounding drumming of Mr [[Clive Burr]]" and was also heavily influenced by [[Black Sabbath]] and [[Dio (band)|Dio]] drummer [[Vinnie Appice]], particularly his work on Dio's first 2 albums, which he would repeatedly play while attempting to play along.&lt;ref name=MUSICRADAR/&gt;
+
+In 1985 he founded a band that was originally named Onslaught, but the band was forced to change their name due to a [[Onslaught (band)|UK-based band by the same name]].&lt;ref name=ENCYCLOPEDIA/&gt; The band briefly changed their name to Devastator, before settling on Slaughter Lord.&lt;ref name=ENCYCLOPEDIA/&gt; Slaughter Lord released one demo tape titled ''Taste of Blood'' before disbanding in 1987.&lt;ref name=SUBGENRES/&gt; In spite of the band's short lifespan, Slaughter Lord had received attention overseas&lt;ref name=SUBGENRES/&gt; and has since been called "legendary"&lt;ref name=ENCYCLOPEDIA/&gt; and "pioneering"&lt;ref name=CURRENCY/&gt; in terms of Australia's extreme metal history.
+
+In 1989{{citation needed|reason=Need confirmation of date|date=February 2016}} Hughes joined [[Mortal Sin (band)|Mortal Sin]]&lt;ref name=ROLLINGSTONE/&gt;&lt;ref name=METALOB/&gt; While he did not appear on any of the band's albums, he played drums for them during their European/American tour in 1990.&lt;ref name=DARKSIDE&gt;{{cite web |url=http://www.voicesfromthedarkside.de/Interviews/SLAUGHTER-LORD--7110.html |title=Voices from the Darkside |last=Stöver |first=Frank |website=Voices from the Darkside |access-date=11 February 2016}}&lt;/ref&gt; After his work with Mortal Sin, Hughes formed a rock band called Presto, releasing 2 CDs.&lt;ref name=DARKSIDE/&gt;&lt;ref&gt;{{cite web |url=http://www.metalcorefanzine.com/slaughterlord.html |title=Slaughter Lord (Interview with Steve Hughes) |author=&lt;!--Staff writer(s); no by-line.--&gt; |website=Metalcore Fanzine |access-date=11 February 2016}}&lt;/ref&gt; In 1993&lt;ref&gt;{{cite book |last=Giffin |first=Brian |date=2009 |title=Encyclopedia of Australian Heavy Metal |url=https://books.google.com/books?id=QK3JCQAAQBAJ&amp;pg=PA2197 |publisher=Lulu.com |page=2197 |isbn=9781409263982 |access-date=11 February 2016}}&lt;/ref&gt; he joined the [[black metal]] band [[Nazxul]].&lt;ref name=ROLLINGSTONE/&gt;&lt;ref name=CHORTLE2/&gt;&lt;ref name=ENCYCLOPEDIA2&gt;{{cite book |last=Giffin |first=Brian |date=2009 |title=Encyclopedia of Australian Heavy Metal |url=https://books.google.com/books?id=QK3JCQAAQBAJ&amp;pg=PA2197 |publisher=Lulu.com |page=2197 |isbn=9781409263982 |access-date=11 February 2016 |quote="(Nazxul) played their first ever gigs in 1998...Hughes lef the band after these show and in early 1999 was replaced by Front End Loader drummer Pete Kostic."}}&lt;/ref&gt;{{Self-published inline|date=December 2017}}&lt;ref name=FEMALE&gt;{{cite web |url=http://www.femalefirst.co.uk/celebrity_interviews/steve-hughes-exclusive-interview-363867.html |title=Steve Hughes Exclusive Interview |last=Falconer |first=Daniel |date=31 October 2013 |website=Female First |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt; He also played live with the band [[Primordial (band)|Primordial]] while living in Ireland in 1999.&lt;ref name=FEMALE/&gt;&lt;ref name=BRISTOLPOST/&gt;
+
+In 2010 Hughes released the album ''Sumaire'' [[Independent music|independently]] under the band name Eternum.&lt;ref name=LOWDOWN/&gt;  ''Sumaire'' contained songs that he had written and arranged and mainly performed himself along with "some shredding solos performed by a variety of metal maniacs."&lt;ref name=LOWDOWN/&gt;&lt;ref&gt;[http://www.stvehughes.fourfour.com/news/post/debut-eternum-album Debut Eternum album – Mar 8, 2010]&lt;/ref&gt;
+
+While Hughes has focused on his comedy career since the early 2000s, he said in a 2010 interview with ''Post Modern Ink'' magazine that music remained his first love.&lt;ref name=POSTMODERN/&gt;
+
+==Comedy career==
+Hughes first tried comedy in 1994, shortly after having joined the band Nazxul,&lt;ref name=CHORTLE2/&gt;&lt;ref name="FEMALE"/&gt; and
+started performing at The Comedy Store in Sydney.&lt;ref name=METALOB/&gt;&lt;ref name=LOWDOWN&gt;{{cite web |url=http://www.thelowdownmagazine.com/STEVEN_HUGHES-3523.html |title=Master of Disaster |author=&lt;!--Staff writer(s); no by-line.--&gt; |year=2012 |publisher=thelowdownmagazine.com |location=Liverpool, England |access-date=11 February 2016}}&lt;/ref&gt;
+
+Hughes quit Nazxul and left Australia for Ireland in 1999,&lt;ref name=FEMALE/&gt; living for a time with members of the band [[Primordial (band)|Primordial]],&lt;ref name=LOUDMAG&gt;{{cite magazine |last=Fischer-Giffin |first=Brian |date=1 April 2011 |title=Steve Hughes: Bringing the Laughter Home |url=http://www.loudmag.com.au/content/steve-hughes-bringing-the-laughter-home |magazine=Loud Magazine |location=Australia |access-date=11 February 2016}}&lt;/ref&gt; then moved on to London, then on to [[Manchester]] where he stayed in a house with fellow Aussie comic [[Jim Jefferies (comedian)|Jim Jefferies]]&lt;ref name=TNTMAG1/&gt;&lt;ref name=BRISTOLPOST&gt;{{cite news |last=Hale |first=Natalie |date=2 February 2012 |title=Anarchic fun from Aussie rocker Steve Hughes |url=http://www.bristolpost.co.uk/Anarchic-fun-Aussie-rocker-Steve-Hughes/story-15106343-detail/story.html |newspaper=The Bristol Post |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=TNTMAG2&gt;{{cite magazine |last=Morton |first=Alasdair |date=30 January 2012 |title=Interview: Steve Hughes on heavy metal, weed and laughing from your balls| url=http://www.tntmagazine.com/entertainment/interviews/interview-steve-hughes-on-heavy-metal-weed-and-laughing-from-your-balls |magazine=TNT Magazine |location=United Kingdom  |access-date=11 February 2016}}&lt;/ref&gt; before finally settling in [[Manchester]] in 2002.&lt;ref name=ROLLINGSTONE/&gt;&lt;ref name=METALOB/&gt;&lt;ref name=TNTMAG1/&gt;
+
+Hughes' early comedy was influenced by [[Bill Cosby]] and the works of [[Woody Allen]], particularly his books ''[[Side Effects (Allen book)|Side Effects]]'' and ''[[Without Feathers]]'' as well as a 1965 recording of one of Allen's stand-up shows that Hughes had owned on [[audio cassette]].&lt;ref name=CHORTLE2/&gt;&lt;ref name=POSTMODERN/&gt;&lt;ref name=HULL&gt;{{cite news |last=Creighton |first=Sam |date=29 October 2013 |title=Steve Hughes at Hull Comedy Festival: 'The end of the world has brought me new fans' |url=http://www.hulldailymail.co.uk/Steve-Hughes-Hull-Comedy-Festival-end-world/story-20001058-detail/story.html |newspaper=Hull Daily Mail |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt; Hughes has also cited having been influenced by the comedy of [[Richard Pryor]], [[Dave Allen (comedian)|Dave Allen]], [[George Carlin]] and [[Eddie Murphy]].&lt;ref name=CHORTLE2/&gt;&lt;ref name=POSTMODERN/&gt; Hughes comedic style has also been influenced by the political and subversive humor of [[Bill Hicks]], as well as the [[spoken word]] performances of musicians [[Henry Rollins]] and [[Jello Biafra]].&lt;ref name=CHORTLE2/&gt;&lt;ref name=TNTMAG2/&gt;
+
+Hughes is known for maintaining his heavy metal look during his stand-up performances.  Hughes has worn his hair long for much of his comedy career and also sports a [[goatee]].&lt;ref name=ROLLINGSTONE/&gt;&lt;ref name=HERALDSUN1&gt;{{cite news |last=van den Berg |first=Lucie |date=19 April 2013 |title=Review: Steve Hughes in Big Issues |url=http://www.heraldsun.com.au/news/special-features/review-steve-hughes-in-big-issues/story-fncv4qxa-1226624691642 |newspaper=Herald Sun |location=Melbourne, Australia |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=MANCUNION&gt;{{cite news |last=Dumitriu |first=Sam |date=10 November 2013 |title=Interview: Steve Hughes |url=http://mancunion.com/2013/11/10/interview-steve-hughes/ |newspaper=[[The Mancunion]] |location=University of Manchester Students' Union |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=EVENINGSTAND2&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=7 September 2006 |title=Top 5 comedy nights |url=https://www.standard.co.uk/goingout/theatre/top-5-comedy-nights-7183192.html |newspaper=London Evening Standard |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt; He often wears all-black, including a [[leather jacket]], [[concert t-shirt]] and jeans.&lt;ref name=TNTMAG1/&gt;&lt;ref name=MANCUNION/&gt;&lt;ref name=BEATMAG2&gt;{{cite magazine |last=Stuart |first=Richard |date=8 April 2011 |title=Steve Hughes – Conspiracy Realist |url=http://www.beat.com.au/comedy-festival/2011/04/8/steve-hughes-conspiracy-realist/cold-sausage-roll-conspiracy-theories-conspiracy-theory-conspiracy-sho |magazine=Beat Magazine |location=Melbourne, Australia  |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=HERALDSUN2&gt;{{cite news |last=Ryan |first=Michael |date=21 April 2014 |title=Steve Hughes in While It's Still Legal |url=http://www.heraldsun.com.au/entertainment/comedy-festival/steve-hughes-in-while-its-still-legal/story-fni0fdju-1226891312392 |newspaper=Herald Sun |location=Melbourne, Australia |access-date=11 February 2016}}&lt;/ref&gt;
+
+Hughes comedy sets often contain social commentary&lt;ref name=SUNDAY&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=13 August 2006 |title=Stars name their must-see shows |url=http://www.timesonline.co.uk/tol/news/uk/scotland/article606579.ece |archive-url=https://web.archive.org/web/20110805102302/http://www.timesonline.co.uk/tol/news/uk/scotland/article606579.ece |archive-date=5 August 2011 |newspaper=The Sunday Times |location=United Kingdom |access-date=11 February 2016 }}&lt;/ref&gt;&lt;ref name=MUSICNEWS&gt;{{cite web |url=http://www.music-news.com/review/UK/9774/Read |title=Steve Hughes – Heavy Metal Comedy |last=Coplin |first=James |date=11 November 2013 |publisher=Music-News.com |access-date=11 February 2016}}&lt;/ref&gt; including criticisms of [[political correctness]],&lt;ref name=HERALDSUN1/&gt;&lt;ref name=SCOTSMAN2&gt;{{cite news |last=Richardson |first=Jay |date=31 October 2013 |title=Comedy review: Steven Hughes, Edinburgh |url=http://www.scotsman.com/news/christian-reilly-and-steve-hughes-1-912953 |newspaper=The Scotsman |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=SKINNY&gt;{{cite magazine |last=Pattullo |first=Simon |date=21 November 2013 |title=Steve Hughes: While it's Still Legal |url=http://www.theskinny.co.uk/comedy/guide/steve-hughes-while-its-still-legal-review |magazine=The Skinny |location=Scotland  |access-date=11 February 2016}}&lt;/ref&gt; religion,&lt;ref name=SCOTSMAN1&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=9 August 2007 |title=Christian Reilly and Steve Hughes |url=http://www.scotsman.com/news/christian-reilly-and-steve-hughes-1-912953 |newspaper=The Scotsman |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=SMHERALD1&gt;{{cite news |date=19 April 2010 |title=10 comedians walk into a bar ... Lenny Ann Low picks 10 comedy festival events not to miss. |url=http://www.smh.com.au/entertainment/comedy/10-comedians-walk-into-a-bar--20100419-sod3.html |newspaper=The Sydney Morning Herald |location=Sydney, Australia |access-date=11 February 2016}}&lt;/ref&gt; war,&lt;ref name=EVENINGSTAND2/&gt;&lt;ref name=BEATMAG4&gt;{{cite magazine |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=18 April 2013 |title=Steve Hughes : Big Issues |url=http://www.beat.com.au/gig/steve-hughes-big-issues-0 |magazine=Beat Magazine |location=Melbourne, Australia  |access-date=11 February 2016}}&lt;/ref&gt; drug laws,&lt;ref name=HERALDSUN1/&gt;&lt;ref name=SKINNY/&gt; [[health and safety]] policies,&lt;ref name=HERALDSUN1/&gt;&lt;ref name=SCOTSMAN2/&gt; [[colonialism]],&lt;ref name=MUSICNEWS/&gt;&lt;ref name=SKINNY/&gt; [[corporate capitalism]],&lt;ref name=MUSICNEWS/&gt;&lt;ref name=SMHERALD1/&gt; and technology.&lt;ref name=SMHERALD2/&gt; Hughes' humor also touches upon topics of a spiritual and philosophical nature.&lt;ref name=CHORTLE1&gt;{{cite web |url=http://www.chortle.co.uk/shows/edinburgh_fringe_2007/s/15683/steve_hughes%3A_heavy_metal_comedy |title=Steve Hughes: Heavy Metal Comedy |last=Bennett |first=Steve |year=2007 |website=Chortle |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=EVENINGSTAND1&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=10 January 2012 |title=Steve Hughes to tackle Big Issues at Leicester Square Theatre |url=https://www.standard.co.uk/goingout/attractions/steve-hughes-to-tackle-big-issues-at-leicester-square-theatre-7306325.html |newspaper=London Evening Standard |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=GUARDIAN&gt;{{cite news |last=Viney |first=Melissa |date=24 March 2007 |title=Tricks of the trade: How do you tell a good joke? |url=https://www.theguardian.com/money/2007/mar/24/careers.work4 |newspaper=The Guardian |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt; He is also known for discussing ideas in the [[conspiracy theory]] realm,&lt;ref name=CHORTLE1/&gt; although he refers to himself as a "conspiracy realist"&lt;ref name=SCOTSMAN1/&gt;&lt;ref name=CHORTLE1/&gt;&lt;ref name=INDEPENDENT&gt;{{cite news |last=Howard |first=Warren |date=30 August 2013 |title=Comedy of the week: Steve Hughes, various venues |url=https://www.independent.co.uk/arts-entertainment/comedy/features/comedy-of-the-week-steve-hughes-various-venues-8791938.html |newspaper=Independent |location=United Kingdom |access-date=11 February 2016}}&lt;/ref&gt; and adopted this title for one of his comedy tours in 2011.&lt;ref name=BEATMAG2/&gt;&lt;ref name=THEAGE2&gt;{{cite news |last=Richards |first=Tim |date=18 April 2011 |title=Conspiracy Realist |url=http://www.theage.com.au/entertainment/comedy/conspiracy-realist-20110418-1dkx2.html |newspaper=The Age |location=Melbourne, Australia |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref name=BEATMAG1&gt;{{cite magazine |last=Thorose |first=Corina |date=28 March 2011 |title=Steve Hughes performs Conspiracy Realist |url=http://www.beat.com.au/comedy-festival/2011/03/28/steve-hughes-performs-conspiracy-realist/conspiracy-realist-old-shit-steve-hughes-old-shit |magazine=Beat Magazine |location=Melbourne, Australia  |access-date=11 February 2016}}&lt;/ref&gt;
+
+Hughes's stand-up has been featured at such festivals as the [[Edinburgh Comedy Festival]]&lt;ref name=METALOB/&gt;&lt;ref name=COMEDYSTORE/&gt; in Scotland, the [[Just for Laughs]]&lt;ref name=COMEDYSTORE&gt;[http://comedystoremanagement.com/artist/steve-hughes/ Steve Hughes' Comedy Store Bio]&lt;/ref&gt; in [[Montreal, Quebec]], Canada, the [[Melbourne International Comedy Festival]]&lt;ref name=BRISTOLPOST/&gt;&lt;ref name=EVENINGSTAND1/&gt; and [[Adelaide Fringe Festival]]&lt;ref name=BRISTOLPOST/&gt;&lt;ref name=EVENINGSTAND1/&gt; in Australia and the [[Hull Comedy Festival]]&lt;ref name=HULL/&gt; held in [[Kingston upon Hull]], England.
+
+Hughes' stand-up has been featured on television shows such as the BBC series [[Michael McIntyre's Comedy Roadshow]] in 2009&lt;ref name=BRISTOLPOST/&gt;&lt;ref name=LOWDOWN/&gt;&lt;ref name=EVENINGSTAND1/&gt;&lt;ref name=IMDB&gt;{{IMDb name | 2552055 | Steve Hughes }}&lt;/ref&gt; and [[Live at the Apollo (TV series)|Live at the Apollo]] in 2011.&lt;ref name=LOWDOWN/&gt;&lt;ref name=IMDB/&gt; He also appeared on [[The Comedy Channel]]'s ''[[Cracker Night]]'' in 2010&lt;ref name=IMDB/&gt; and in 2011 he appeared on the [[Channel 4]] series ''[[Stand Up for the Week]]''.&lt;ref name=BRISTOLPOST/&gt;&lt;ref name=EVENINGSTAND1/&gt;&lt;ref name=IMDB/&gt;
+
+Hughes supported comedian [[Reginald D. Hunter]] on his 2010/2011 British tour&lt;ref&gt;{{cite news |last=Revell |first=Sam |date=2 July 2010 |title=Reginald D Hunter + Steve Hughes, Tivoli Theatre, Wimborne |url=http://www.yorkpress.co.uk/leisure/comedy/9275314.Review__Reginald_D_Hunter_and_Steve_Hughes__Grand_Opera_House__York/ |newspaper=[[Southern Daily Echo]] |location=Southampton, England |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Wilkes |first=Jonathan |date=28 September 2011 |title=Review: Reginald D Hunter and Steve Hughes, Grand Opera House, York |url=http://www.yorkpress.co.uk/leisure/comedy/9275314.Review__Reginald_D_Hunter_and_Steve_Hughes__Grand_Opera_House__York/ |newspaper=[[The Press (York)|The Press]] |location=York, England |access-date=11 February 2016}}&lt;/ref&gt; and appeared on an episode of [[UKTV]]'s ''[[Dave's One Night Stand]]'' featuring Hunter that originally aired on 1 December 2011.&lt;ref name=IMDB/&gt;&lt;ref&gt;{{cite web |url=http://dave.uktv.co.uk/reginald-d-hunters-one-night-stand/ |title=Reginald D. Hunter's One Night Stand |author=&lt;!--Staff writer(s); no by-line.--&gt; |publisher=UKTV |access-date=11 February 2016}}&lt;/ref&gt; Hughes also supported [[Belgian]] comedian [[Alex Agnew]] on his 2011 "Larger than Life" best-of tour.&lt;ref name=LOUDMAG/&gt;&lt;ref&gt;{{cite news |last=Michiels |first=Karel |date=26 February 2011 |title=Alex Agnew, king of comedy |url=http://www.nieuwsblad.be/cnt/dmf20110226_011 |language=Dutch |newspaper=[[Het Nieuwsblad]] |location=Belgium |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.concertnews.be/recensietonen.php?id=944&amp;kop=%20Alex%20Agnew... |title=Alex Agnew Review: Larger than Life |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=25 February 2011 |website=Concertnews.be |location=Belgium |language=Dutch |access-date=11 February 2016}}&lt;/ref&gt;
+
+After touring non-stop for four years and averaging more than 150 shows a year, Hughes took a break for health reasons.&lt;ref name=PERTHNOW/&gt; During this hiatus he quit both drugs and alcohol [[cold turkey]] and cut his long hair short.&lt;ref name=PERTHNOW/&gt;&lt;ref name=HERALDSUN2/&gt; He returned to the comedy stage in 2014.&lt;ref name=PERTHNOW/&gt;
+
+==Television and film==
+In the 1990s Hughes was a [[hard rock]] [[VJ (media personality)|VJ]] for [[MTV Australia]]&lt;ref name=METALOB/&gt;&lt;ref name=LOWDOWN/&gt;&lt;ref name=BGC2&gt;{{cite web |url=https://www.comedy.co.uk/live/circuit_training/steve_hughes_interview/ |title=Circuit Training 45: The Unexpurgated Steve Hughes |last=Hawkins |first=Si |date=24 February 2012 |publisher=comedy.co.uk |access-date=11 February 2016}}&lt;/ref&gt; By Hughes' own account, he got the job at MTV through the help of a friend who was a cameraman, but the job lasted only about 6 weeks after it was determined that there was not enough of a demand in Australia at the time for heavy metal-based programming.&lt;ref name=BGC2/&gt;
+
+Hughes was interviewed for the 2014 documentary film ''Metal Down Under: A History Of Australian Heavy Metal''.&lt;ref&gt;{{cite web |url=http://www.blabbermouth.net/news/metal-down-under-a-history-of-australian-heavy-metal-dvd-now-available/ |title='Metal Down Under': A History of Australian Heavy Metal DVD Now Available |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=21 August 2014 |publisher=[[Blabbermouth.net]] |access-date=11 February 2016}}&lt;/ref&gt;&lt;ref&gt;[http://www.metaldownunder.com/ Official website of ''Metal Down Under'']&lt;/ref&gt;
+
+In 2009 he appeared as a guest panellist on the Australian game show ''[[Good News Week]]''.&lt;ref name=IMDB/&gt; Hughes also played drums during the episode while host [[Paul McDermott]] sang the song "[[Hanging on the Telephone]]".&lt;ref&gt;[https://www.youtube.com/watch?v=vsvULUQEaCc Steve Hughes playing drums on ''Good News Week'' in 2009.]&lt;/ref&gt; He also appeared on the Australian music-themed quiz show ''[[Spicks and Specks (TV series)|Spicks and Specks]]'' in 2010.&lt;ref name=IMDB/&gt;&lt;ref&gt;{{cite web |url=http://www.abc.net.au/tv/spicksandspecks/txt/s2873636.htm |title=Episode 13 – This week on Spicks and Specks |publisher=Australian Broadcasting Corporation |access-date=11 February 2016}}&lt;/ref&gt;
+
+In 2015 he starred in the Australian short film ''Brainless Killers'' as the mayor of Zombridge, a fictional town inhabited by [[zombies]].&lt;ref name=SYDNEYFILMFEST/&gt;&lt;ref name=NYFA/&gt;&lt;ref name=IMDB/&gt; The role required extensive make-up, provided by the same make-up team that worked on ''[[Mad Max: Fury Road]]''.&lt;ref name=NYFA/&gt; The film was nominated for 6 awards in the short film category and went on to win the awards for Best Film, Best Special Effects and Best Thriller.&lt;ref name=SYDNEYFILMFEST/&gt;&lt;ref&gt;[http://sydneyindiefilmfestival.com/festival/short-films-awards-nominations-2015/ Sydney Indie Film Festival 2015 – Short Films Nominations]&lt;/ref&gt;
+
+==Discography==
+
+===Slaughter Lord discography===
+{{Discography list
+ | Type          = Demo
+ | Name          = Taste of Blood
+ | Released      = 1986
+ | Label         = 
+ | Producer      = 
+ | Chart position= 
+ | Certification = 
+ | Sales         = 
+ | Singles       = 
+ | from Album    = &lt;!-- For use with Singles ---&gt;
+ | Writer        = &lt;!-- For use with Singles ---&gt;
+ | Tracks        = &lt;!-- For use with Singles ---&gt;
+ | Other info    = Demo
+}}
+{{Discography list
+ | Type          = Compilation
+ | Name          = Thrash 'til Death 86—87
+ | Released      = 1998 (re-released in 2000)
+ | Label         = Invictus Productions
+ | Producer      = 
+ | Format        = CD
+ | Chart position= 
+ | Certification = 
+ | Sales         = 
+ | Singles       = 
+ | from Album    = &lt;!-- For use with Singles ---&gt;
+ | Writer        = &lt;!-- For use with Singles ---&gt;
+ | Tracks        = &lt;!-- For use with Singles ---&gt;
+ | Other info    = A retrospective of the band's work from 1986 to 1987, including the ''Taste of Blood'' demo tracks as well as other previously unreleased studio and rehearsal tracks.
+}}
+
+===Presto discography===
+{{Discography list
+ | Type          = EP
+ | Name          = The Remedy
+ | Released      = 
+ | Label         = [[Mushroom Records]]
+ | Producer      = 
+ | Format        = CD
+ | Chart position= 
+ | Certification = 
+ | Sales         = 
+ | Singles       = 
+ | from Album    = &lt;!-- For use with Singles ---&gt;
+ | Writer        = &lt;!-- For use with Singles ---&gt;
+ | Tracks        = &lt;!-- For use with Singles ---&gt;
+ | Other info    = EP
+}}
+{{Discography list
+ | Type          = Studio
+ | Name          = Sum of its parts
+ | Released      = 
+ | Label         = Mushroom Records
+ | Producer      = 
+ | Format        = CD
+ | Chart position= 
+ | Certification = 
+ | Sales         = 
+ | Singles       = 
+ | from Album    = &lt;!-- For use with Singles ---&gt;
+ | Writer        = &lt;!-- For use with Singles ---&gt;
+ | Tracks        = &lt;!-- For use with Singles ---&gt;
+ | Other info    = LP
+}}
+
+===Nazxul discography===
+{{Discography list
+ | Type          = Studio
+ | Name          = [[Totem (Nazxul album)|Totem]]
+ | Released      = 1995
+ | Label         = Vampire Records
+ | Producer      = 
+ | Format        = CD
+ | Chart position= 
+ | Certification = 
+ | Sales         = 
+ | Singles       = 
+ | from Album    = &lt;!-- For use with Singles ---&gt;
+ | Writer        = &lt;!-- For use with Singles ---&gt;
+ | Tracks        = &lt;!-- For use with Singles ---&gt;
+ | Other info    = LP
+}}
+
+===Eternum discography===
+{{Discography list
+ | Type          = LP
+ | Name          = Sumaire
+ | Released      = 2010
+ | Label         = 
+ | Producer      = 
+ | Format        = CD
+ | Chart position= 
+ | Certification = 
+ | Sales         = 
+ | Singles       = 
+ | from Album    = &lt;!-- For use with Singles ---&gt;
+ | Writer        = &lt;!-- For use with Singles ---&gt;
+ | Tracks        = &lt;!-- For use with Singles ---&gt;
+ | Other info    = Released independently on-line
+}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{Official website|http://www.stevehughes.net.au}}
+*{{IMDb name | 2552055 | Steve Hughes }}
+
+{{Nazxul}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hughes, Steve}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Australian male comedians]]
+[[Category:Australian heavy metal drummers]]
+[[Category:Black metal musicians]]
+[[Category:Australian people of English descent]]
+[[Category:Australian expatriates in the United Kingdom]]</text>
+      <sha1>m92ssolju6rquzjhx899n1j1018bea0</sha1>
+    </revision>
+  </page>
+</mediawiki>

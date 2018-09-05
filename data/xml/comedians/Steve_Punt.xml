@@ -1,0 +1,125 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steve Punt</title>
+    <ns>0</ns>
+    <id>987178</id>
+    <revision>
+      <id>846669690</id>
+      <parentid>826838564</parentid>
+      <timestamp>2018-06-20T05:54:48Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7640">{{Use dmy dates|date=June 2014}}
+{{Use British English|date=April 2014}}
+{{ infobox comedian
+| name                 = Steve Punt
+| image                = Now Show 2005.jpg
+| caption              = Steve Punt (right) with [[Hugh Dennis]] on ''[[The Now Show]]'' in 2005
+| birth_name           = Stephen Mark Punt&lt;ref name="Directorcheck"/&gt;
+| birth_date           = {{birth date and age|df=yes|1962|09|15|}}
+| birth_place          = [[Dhekelia]], [[Cyprus]]{{cn|date=January 2014}}
+| alma_mater           = [[St Catherine's College, Cambridge]]
+| medium               = [[Radio]], [[television]]
+| nationality          = British
+| active               = 
+| genre                = [[Political satire]]
+| subject              = [[Politics]], [[current events]] 
+| influences           = [[Rowan Atkinson]],&lt;ref name="bucks" /&gt; [[Tony Hancock]]
+| influenced           =  
+| domesticpartner      = 
+| notable_work         = ''[[The Mary Whitehouse Experience]]'' &lt;br /&gt;''[[The Now Show]]''&lt;br /&gt;''[[It's Been a Bad Week]]'' 
+}}
+'''Stephen Punt''' (born 15 September 1962)&lt;ref name="Directorcheck"&gt;[http://company-director-check.co.uk/director/904565415 Mr Stephen Mark Punt] company-director-check.co.uk. Retrieved 4 March 2012.&lt;/ref&gt; is a British writer, comedian and actor. Along with [[Hugh Dennis]], he is part of comedy double act [[Punt and Dennis]] and presenter of [[BBC Radio 4]] satirical news programme ''[[The Now Show]]''.  He is also a writer and programme associate for various television panel game shows, including ''[[Would I Lie to You? (TV series)|Would I Lie to You?]]'' and ''[[Mock the Week]]'', and is a writer for fellow comedians such as [[Rory Bremner]] and [[Jasper Carrott]].
+
+==Early life==
+Punt was educated at [[Whitgift School]]&lt;ref name="bucks"&gt;{{cite news|title=Whitgift's gifted wit|url=http://www.bucksfreepress.co.uk/news/558286.0/|publisher=[[Bucks Free Press]]|date=5 January 2005}}&lt;/ref&gt; and [[St Catharine's College, Cambridge]], where he read English. While at Cambridge, he joined [[Footlights]], where he first met comedy partner [[Hugh Dennis]] and was vice-president from 1983 to 1985 with [[Nick Hancock]] as president. He was in the writing team for three revues in a row.&lt;ref&gt;{{cite web|title=Cambridge Footlights Alumni 1980–1989|url=http://footlights.org/alumni-archive?name=1980-1989|publisher=Cambridge Footlights Alumni Official Website|deadurl=yes|archiveurl=https://web.archive.org/web/20121015035100/http://footlights.org/alumni-archive?name=1980-1989|archivedate=15 October 2012|df=dmy-all}}&lt;/ref&gt;
+
+==Career==
+While at university Punt began writing for the [[BBC Radio 4]] series ''[[Week Ending]]''. Punt and Dennis later became resident guest comedians on shows presented by [[Jasper Carrott]], including ''Carrott Confidential'' and ''[[Canned Carrott]]'' with Punt contributing in the writing team as well. They also toured with Carrott as a live support act.
+
+They were then recruited in 1988, along with fellow former Footlights member [[David Baddiel]] and his comedy partner [[Robert Newman (comedian)|Rob Newman]], to write and perform a [[satire|satirical]] sketch and stand-up show called ''[[The Mary Whitehouse Experience]]'' on [[BBC Radio 1]]. After three years, the show had proved such a big hit that it transferred to television. Punt and Dennis went on to perform in their own TV sketch show, ''[[The Imaginatively Titled Punt &amp; Dennis Show]]'', and co-wrote and starred with [[Nick Hancock]] in the sitcom, ''[[Me, You and Him]]''.
+
+Punt has worked more as a writer, [[script editor]] and voice-over artist in recent years, though he has also performed with Dennis in ''[[It's Been a Bad Week]]'' for [[BBC Radio 2]]. The pair are also the main presenters and writers of [[BBC Radio 4]]'s ''[[The Now Show]]'' and the writers of Radio 4 sitcom ''[[The Party Line (radio)|The Party Line]]''. Punt, with [[Mark Tavener]], is co-writer of the 2007 Radio 4 series ''[[His Master's Voice (radio series)|His Master's Voice]]''. He also, with the help of [[Hugh Dennis]], [[Jon Holmes]], [[Marcus Brigstocke]] and [[Mitch Benn]] wrote ''The Now Show Book of World Records'', a follow-up book for ''The Now Show''.
+
+Punt is a "programme associate" for the satirical programme ''[[Mock The Week]]'', in which Dennis is a regular team member. He has also written and provided additional material for ''[[Would I Lie to You? (TV series)|Would I Lie to You?]]''.
+
+In 2008 Punt wrote the script for and performed in ''[[Rockford's Rock Opera]]'', a critically acclaimed ecological musical story created with school friend, Matthew Sweetapple, which has been published as an audiobook.&lt;ref&gt;[https://www.theguardian.com/books/2008/dec/13/rockfords-rock-opera-review Review of '&amp;#39;Rockford's Rock Opera'&amp;#39;]. The Guardian. 13 December 2008. Retrieved on 2011-12-05.&lt;/ref&gt;&lt;ref&gt;[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article5251252.ece '&amp;#39;The Times'&amp;#39;: Review of '&amp;#39;Rockford's Rock Opera'&amp;#39;]. Entertainment.timesonline.co.uk (1 December 2011). Retrieved on 2011-12-05.&lt;/ref&gt; 
+
+In 2011, he began as presenter of a new quiz show on [[BBC Radio 4]], called [[The 3rd Degree (radio series)|The 3rd Degree]]. Punt played [[Eric Idle]] in the BBC adaptation ''[[Holy Flying Circus]]'', covering the controversy surrounding the release of ''[[Monty Python's Life of Brian]]''.&lt;ref name="life of brian"&gt;{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-13856561|title=BBC to dramatise Life of Brian controversy in new film|date=21 June 2011|publisher=BBC|accessdate=22 June 2011}}&lt;/ref&gt;
+
+Unlike his comedy partner Dennis, Punt has mostly done screenwriting and script editing for various [[BBC]] shows, television programmes and documentaries. His credits include ''The Rory Bremner Show'', ''[[The Nearly Complete and Utter History of Everything (film)|The Nearly Complete and Utter History of Everything]]'', various episodes of ''[[Spitting Image]]'' and its retrospective documentary ''Best Ever Spitting Image'', ''[[Baddiel's Syndrome]]'' and ''[[Horrible Histories (2009 TV series)|Horrible Histories]]''.
+
+On 3 January 2013 Punt appeared on ''[[Celebrity Mastermind]]''. His specialist subject was [[Tony Hancock]] and his chosen supported charity was [[Stillbirth and Neonatal Death Society|SANDS]]. Punt won the contest.
+
+During 2016 Punt toured with the production of ''[[The Rocky Horror Show]]'' in the role of the narrator. &lt;ref&gt;[http://www.dailyecho.co.uk/leisure/stage/14171116.Steve_Punt_joins_The_Rocky_Horror_Show_at_Mayflower/ Steve Punt joins The Rocky Horror Show at Mayflower (From Daily Echo)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==Personal life==
+Punt lives in [[Wimbledon, London|Wimbledon]] with his wife and children.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Cite news|last=Shimmon|first=Katie| title=My Media|work=The Guardian |url=https://www.theguardian.com/media/2004/nov/29/mondaymediasection9 |date=29 November 2004|accessdate=2008-02-14}}
+*{{Cite news |last=Asher |first=Libby |title=The Now Factor |work=Time &amp; Leisure online |url=http://www.timeandleisure.co.uk/Articles/tabid/125/EntryID/115/Default.aspx |archive-url=https://web.archive.org/web/20070827151835/http://www.timeandleisure.co.uk/Articles/tabid/125/EntryID/115/Default.aspx |dead-url=yes |archive-date=27 August 2007 |date=1 February 2007 |accessdate=2008-02-14 |df=dmy-all }}
+
+{{Authority control}}
+{{DEFAULTSORT:Punt, Steve}}
+[[Category:1962 births]]
+[[Category:Alumni of St Catharine's College, Cambridge]]
+[[Category:British male comedians]]
+[[Category:Living people]]
+[[Category:People educated at Whitgift School]]</text>
+      <sha1>p2z1lpoc483odq7cpml7az3j3zm27e1</sha1>
+    </revision>
+  </page>
+</mediawiki>

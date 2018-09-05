@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Caesar Meadows</title>
+    <ns>0</ns>
+    <id>8671572</id>
+    <revision>
+      <id>805354352</id>
+      <parentid>773664618</parentid>
+      <timestamp>2017-10-14T20:37:18Z</timestamp>
+      <contributor>
+        <username>GrahamHardy</username>
+        <id>2956291</id>
+      </contributor>
+      <minor/>
+      <comment>+defsort</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2224">{{BLP sources|date=November 2007}}
+'''Caesar Meadows''' (born November 6, 1968) is an American [[cartoonist]] whose monthly [[comic strip]] ''Mumbeaux Gumbo'' in the [[New Orleans]] magazine ''[http://www.whereyat.com/ Where Y'at]'' ran from August 2001 to August 2011. His other monthly [[comic strip]] ''Qomix'' has been published in ''[http://www.antigravitymagazine.com Antigravity]'' magazine since 2005. He is also the current comic editor for the magazine.
+
+He likes to reformat his comic strips as special-edition micro-comics which he then gives out to people during Mardi Gras. He also sells them in capsule vending machines in select locations around New Orleans.
+
+He is the current president of the New Orleans Krewe of [http://www.titrexparade.com/  'tit Rex], a micro carnival street parade where the floats are shoebox sized and the throws are tiny and handmade. 
+
+In 2010, Caesar edited and released the first issue of "FEAST yer eyes," a New Orleans Illustration &amp; Comix tabloid newspaper anthology featuring the work of several crescent city cartoonists.
+
+In 2014, he created and hand-assembled 30,840 custom designed micro-comic throws for the New Orleans all women [[Krewe of Muses]] carnival parade.
+
+In 2015, he was invited to become a member of the [http://antenna.works/  Antenna] gallery collective located in the Saint Claude arts district of New Orleans.
+
+Caesar used to operate Jigsaw Junction, an archive of comics, in [[Reserve, Louisiana]].
+
+==External links==
+* [http://www.jigsawjct.com/ Official web site]
+* [http://noladefender.com/category/tags/caesar-meadows/ Review of Caesar Meadows "Dank Mirth" show]
+* [http://blog.nola.com/dougmaccash/2008/02/local_artists_hope_their_oneof.html Times-Picayune Micro-Comic Mardi Gras throw article]
+* [http://s.nola.com/UknQvVJ/  Times-Picayune Krewe of Muses Qomik throw article]
+* [http://www.myneworleans.com/New-Orleans-Magazine/January-2015/The-Little-Krewe-That-Could/  New Orleans Magazine Krewe of 'tit Rex article]
+
+{{DEFAULTSORT:Meadows, Caesar}}
+[[Category:American cartoonists]]
+[[Category:Artists from New Orleans]]
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:People from Reserve, Louisiana]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>5aqinqb8lkd7n6bueynycem84gevdz2</sha1>
+    </revision>
+  </page>
+</mediawiki>

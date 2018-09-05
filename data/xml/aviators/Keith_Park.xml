@@ -1,0 +1,254 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Keith Park</title>
+    <ns>0</ns>
+    <id>266989</id>
+    <revision>
+      <id>846811435</id>
+      <parentid>842393171</parentid>
+      <timestamp>2018-06-21T01:38:38Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26513">{{for|the Australian rules footballer|Keith Park (footballer)}}
+{{Use dmy dates|date=April 2012}}
+{{Infobox military person
+|name= Sir Keith Rodney Park
+|image= Air Marshal Sir Keith Park.jpg
+|caption= Sir Keith Park
+|nickname= "The Defender of London"&lt;br/&gt;"Skipper"
+|birth_date= {{birth date|1892|06|15|df=yes}}
+|death_date= {{death date and age|1975|02|06|1892|06|15|df=yes}}
+|birth_place= [[Thames, New Zealand|Thames]], New Zealand
+|death_place= [[Auckland]], New Zealand
+|placeofburial= 
+|allegiance= [[British Empire]]
+|branch= [[New Zealand Army]] (1911–15)&lt;br/&gt;[[British Army]] (1915–18)&lt;br/&gt;[[Royal Air Force]] (1918–46)
+|serviceyears= 1911–1946
+|rank= [[Air Chief Marshal]]
+|commands= [[Air Command, South East Asia]] (1945–46)&lt;br/&gt;[[RAF Middle East Command|Middle East Command]] (1944–45)&lt;br/&gt;[[AHQ Malta]] (1942–44)&lt;br/&gt;[[AHQ Egypt]] (1942)&lt;br/&gt;[[No. 23 Group RAF|No. 23 (Training) Group]] (1940–42)&lt;br/&gt;[[No. 11 Group RAF|No. 11 (Fighter) Group]] (1940)&lt;br/&gt;[[RAF Tangmere]] (1937–38)&lt;br/&gt;[[RAF Northolt]] (1931–32)&lt;br/&gt;[[RAF Hornchurch]] (1928–29)&lt;br/&gt;[[No. 111 Squadron RAF|No. 111 Squadron]] (1927–28)&lt;br/&gt;[[No. 48 Squadron RAF|No. 48 Squadron]] (1918–19)
+|unit=
+|battles= First World War
+* [[Gallipoli campaign]]
+* [[Battle of the Somme (1916)|Battle of the Somme]]
+Second World War
+* [[Battle of Britain]]
+* [[Siege of Malta (World War II)|Battle of Malta]]
+* [[Pacific Theatre of Operations]]
+|awards= [[Knight Grand Cross of the Order of the Bath]]&lt;br/&gt;[[Knight Commander of the Order of the British Empire]]&lt;br/&gt;[[Military Cross]] &amp; [[Medal bar|Bar]]&lt;br/&gt;[[Distinguished Flying Cross (United Kingdom)|Distinguished Flying Cross]]&lt;br/&gt;[[Croix de guerre 1914–1918 (France)|Croix de guerre]] (France)&lt;br/&gt;[[Legion of Merit|Commander of the Legion of Merit]] (United States)
+|relations= 
+|laterwork= City Councillor, New Zealand
+}}
+[[Air Chief Marshal]] '''Sir Keith Rodney Park''', {{postnominals|country=GBR|size=100%|sep=,|GCB|KBE|MC1|DFC}} (15 June 1892 – 6 February 1975) was a New Zealand soldier, First World War [[flying ace]] and Second World War [[Royal Air Force]] commander. He was in operational command during two of the most significant air battles in the [[European Theatre of World War II|European theatre in the Second World War]], helping to win the [[Battle of Britain]] and the [[Siege of Malta (World War II)|Battle of Malta]]. In Germany, he was supposedly known as "the Defender of London".&lt;ref&gt;Benn, Tony and Lord Tebbit. [https://www.telegraph.co.uk/comment/personal-view/4284451/United-in-praise-of-The-Defender-of-London.html "United in praise of the Defender of London."] ''The Telegraph,'' 18 January 2009.&lt;/ref&gt;
+
+==Early life and army career==
+Park was born in [[Thames, New Zealand]]. He was the son of [[James Park (geologist)|James Park]] from [[Scotland]], geologist for a mining company and later a professor at the [[University of Otago]] in [[Dunedin]].
+
+An undistinguished young man, but keen on guns and riding, Keith Park was educated at [[King's College, Auckland]] until 1906&lt;ref&gt;[http://www.teara.govt.nz/en/biographies/5p9/1 "Park, Keith Rodney."] ''Dictionary of New Zealand Biography.'' Retrieved: 8 September 2011.&lt;/ref&gt; and then at [[Otago Boys' High School]], [[Dunedin]] where he served in the cadets. Later he joined the [[New Zealand Army|Army]] as a [[New Zealand Army#Territorial Force|Territorial]] soldier in the [[Royal Regiment of New Zealand Artillery|New Zealand Field Artillery]].&lt;ref name=air&gt;[http://www.rafweb.org/Biographies/Park.htm "Air Chief Marshal Sir Keith Park."] ''Air of Authority – A History of RAF Organisation.'' Retrieved: 8 September 2011.&lt;/ref&gt; In 1911, at age 19, he went to sea as a [[purser]] aboard collier and passenger steamships, earning the family nickname "skipper".
+
+When the [[First World War]] broke out, Park left the ships and joined his artillery battalion.&lt;ref name=air/&gt; As a non-commissioned officer, he participated in the landings at [[Battle of Gallipoli|Gallipoli]] in April 1915, going ashore at [[Anzac Cove]]. In the [[trench warfare]] that followed, Park's achievements were recognised and in July 1915 he gained a commission as second lieutenant.&lt;ref name=air/&gt; He commanded an artillery battalion during the August 1915 attack on [[Suvla Bay]] and endured more months of squalor in the trenches. At this time Park took the unusual decision to transfer from the [[New Zealand Army]] to the [[British Army]], joining the [[Royal Horse Artillery|Royal Horse and Field Artillery]].&lt;ref&gt;{{London Gazette|issue=29308|date=25 September 1915|page=9514 |supp=y}}&lt;/ref&gt;
+
+Park was evacuated from Gallipoli in January 1916. The battle had left its mark on him both physically and mentally, though later on in life, he would remember it with nostalgia. He particularly admired the [[Australian and New Zealand Army Corps|ANZAC]] commander, Sir [[William Birdwood]], whose leadership style and attention to detail would be a model for Park in his later career.
+
+After the hardship at Gallipoli, Park's battalion was shipped to France to take part in the [[Battle of the Somme (1916)|Battle of the Somme]]. Here he learned the value of aerial reconnaissance, noting the manner in which German aircraft were able to spot Allied artillery for counter-fire and getting an early taste of flight by being taken aloft to check his battalion's camouflage. On 21 October 1916, Park was blown off his horse by a German shell. Wounded, he was evacuated to England and medically certified "unfit for active service," which technically meant he was unfit to ride a horse. After a brief remission recovering from his wounds, recuperating and doing training duties at [[Royal Arsenal|Woolwich Depot]], he joined the [[Royal Flying Corps]] (RFC) in December 1916.&lt;ref name=air/&gt;
+
+==Flying career==
+
+===First World War===
+In the RFC, Park first learned to instruct and then learned to fly. After a spell as an instructor (March 1917 to the end of June), he was posted to France and managed a posting to join [[No. 48 Squadron RAF|48 Squadron]],&lt;ref name=air/&gt; at La Bellevue (near [[Arras]]), on 7 July 1917. Within a week, the squadron moved to Frontier Aerodrome just east of [[Dunkirk]]. Park flew the new [[Bristol F.2 Fighter|Bristol Fighter]] (a two-seat biplane fighter and reconnaissance aircraft) and soon achieved successes against German fighters, earning, on 17 August, the [[Military Cross]] for "conspicuous gallantry and devotion to duty", after shooting down an enemy aircraft and causing the destruction of three others&lt;ref&gt;{{London Gazette|issue=30466|date=9 January 1918|page=634 |supp=y}}&lt;/ref&gt; with [[Arthur Noss]] as his gunner.&lt;ref&gt;Franks et al. 1997, p. 40.&lt;/ref&gt; He was promoted to temporary [[Captain (British Army and Royal Marines)|captain]] on 11 September.
+
+After a break from flying, Park returned to France as a [[Major (United Kingdom)|major]] to command 48 Squadron,&lt;ref name=air/&gt; where he showed his ability as a tough but fair commander by demonstrating discipline, leadership and an understanding of the technical aspects of air warfare.
+
+By the end of the war, the strain of command had all but exhausted Park, but he had achieved much as a pilot and commander. He had earned a [[Medal bar|bar]] to his Military Cross,&lt;ref&gt;{{London Gazette|issue=30355|date=27 October 1917|page=11108 |supp=y}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=30583|date=18 March 1918|page=3418 |supp=y}}&lt;/ref&gt; the [[Distinguished Flying Cross (United Kingdom)|Distinguished Flying Cross]]&lt;ref&gt;{{London Gazette|issue=31378|date=3 June 1919|page=7032 |supp=y}}&lt;/ref&gt; and the French [[Croix de guerre 1914–1918 (France)|Croix de Guerre]]. His final tally of aircraft claims was five destroyed and 14 (and one shared) "out of control". (His 13th "credit" of 5 September 1917 was Lieutenant Franz Pernet of ''[[Jasta]] [[Oswald Boelcke|Boelcke]]'' (a stepson of General [[Erich Ludendorff]])).&lt;ref&gt;[http://www.theaerodrome.com/forum/people/32657-ludendorffs-son.html "Ludendorff."] ''theaerodrome.com.'' Retrieved: 8 September 2011.&lt;/ref&gt; Park was also shot down twice during this period.
+
+After the [[Armistice with Germany (Compiègne)|Armistice]], he married the London socialite Dorothy "Dol" Parish.
+
+===Inter-war years===
+After the War, Park was awarded a permanent commission as a captain in the Royal Air Force and when the new [[RAF officer ranks]] were introduced in 1919, Park became a [[flight lieutenant]].&lt;ref name=air/&gt;  He served as a flight commander on [[No. 25 Squadron RAF|No. 25 Squadron]] from 1919 to 1920 before taking up duties as a squadron commander at the School of Technical Training.&lt;ref name=air/&gt;  In 1922 he was selected to attend the newly formed [[RAF Staff College, Andover|RAF Staff College]].&lt;ref name=air/&gt;  Later on, Park commanded RAF stations and was an instructor before promotion to Air Commodore and an appointment as Senior Air Staff Officer at Fighter Command under [[Air Chief Marshal]] Sir [[Hugh Dowding]] in 1938.&lt;ref name=air/&gt; In 1937 he attended the [[Royal College of Defence Studies|Imperial Defence College]].&lt;ref&gt;http://www.rafweb.org/Biographies/Park.htm&lt;/ref&gt;
+
+===Second World War===
+[[File:Sir Keith Park.jpg|thumb|right|150px|Park in front of his [[Hawker Hurricane|Hurricane]] on Malta.]]
+[[File:Keith Park Replica Hurricane MoTaT2007.jpg|thumb|[[Museum of Transport and Technology|MoTaT]]'s replica of OK1; a [[Hawker Hurricane|Hurricane Mk I]] painted as Park's personal mount during the Battle of Britain]]
+
+====Battle of Britain====
+Promoted to the rank of air vice marshal,&lt;ref&gt;{{London Gazette|issue=34822|date=2 April 1940|page=1917}}&lt;/ref&gt; Park took command of [[No. 11 Group RAF]], responsible for the fighter defence of London and southeast England, in April 1940.&lt;ref name=air/&gt; He organized fighter patrols over France during the [[Dunkirk, France|Dunkirk]] evacuation and in the [[Battle of Britain]] his command took the brunt of the [[Luftwaffe]]'s air attacks. Flying his personalised [[Hawker Hurricane]] around his fighter airfields during the battle, Park gained a reputation as a shrewd tactician with an astute grasp of strategic issues and as a popular "hands-on" commander. However, he became embroiled in an acrimonious dispute with ambitious Air Vice Marshal [[Trafford Leigh-Mallory]], commander of [[No. 12 Group RAF|12 Group]]. 
+Leigh-Mallory, already envious of Park for leading the key 11 Group while No. 12 Group was left to defend airfields, repeatedly failed to support No. 11 Group.  Leigh-Mallory and his [[Big Wing]] (led by [[Douglas Bader]]) often ran amok through No. 11 Group airspace confusing the UK's defences. [[Quintin Brand]]'s No. 10 Group in the South West successfully supported No. 11 Group when required despite having far more arduous defensive duties in its own area than No. 12 Group.
+
+Park's subsequent objection to Leigh-Mallory's behaviour during the Big Wing controversy may have contributed to his and Dowding's removal from command at the end of the battle, but neither Park nor Dowding had much time for internal politics and fell easy prey to their waiting critics. [[Richard Saul]] of 13 Group on the other hand, wrote to Park on learning of his pending departure from No. 11 Group, commenting on "the magnificent achievements of your group in the past six months; they have borne the brunt of the war, and undoubtedly saved England".&lt;ref&gt;Orange, p135 ''Sir Keith Park''&lt;/ref&gt; Park was to remain indignant however over his and Dowding's treatment for the rest of his life. Park was posted immediately to [[RAF Training Command|Training Command]] before seeing later high ranking service in the Mediterranean and elsewhere, while Dowding was sent to America.
+
+Park's [[No. 11 Group RAF]] were coordinated by fighter controllers in the No. 11 Group Operations Room in the underground bunker, now known as the [[Battle of Britain Bunker]] at [[RAF Uxbridge]]. Park himself was not based in the bunker but did visit to impart his wisdom at numerous key points during the battle, along with visits from the Royal Family and [[Winston Churchill]]. Among the many air battles fought over Britain, Park personally commanded RAF forces on several important dates; 13 August ([[Adlertag]]), 18 August ([[The Hardest Day]]) and the 15 September ([[Battle of Britain Day]]).
+
+While overseeing the operations at RAF Uxbridge, Air Vice-Marshal Park stayed in a house opposite the entrance to the bunker. He used a small door to get from the house each day to the bunker. In 1996, the house, named Park House after the war in his honour, was demolished. Only the door and garden wall were retained.&lt;ref&gt;Skinner 2008, pp. 66—67.&lt;/ref&gt;
+
+====Later war career====
+[[File:Air Chief Marshal Sir Keith Park, KCB, KBE, MC, DFC (1945) (Art.IWM ART LD 5921).jpg|thumb|''Air Chief Marshal Sir Keith Park, KCB, KBE, MC, DFC'' (1945) by [[Bernard Hailstone]] (Art.IWM ART LD 5921)]]
+In January 1942 Park went to [[Egypt]] as Air Officer Commanding,&lt;ref name=air/&gt; where he built up the air defence of the [[Nile Delta]]. In July 1942, following growing concern over the German and Italian attacks on [[Siege of Malta (World War II)#Arrival of Keith Park|Malta]], he returned to action, commanding the vital air defence of the island.&lt;ref name=air/&gt; From there his squadrons participated in the North African and Sicilian campaigns. In January 1944 he was made Air Officer Commanding-in-Chief [[RAF Middle East Command|Middle East Command]].&lt;ref name=air/&gt;
+
+In June 1944, Park was considered by the Australian government to command the [[RAAF]], because of rivalry between the nominal head, Chief of the Air Staff Air Vice Marshal [[George Jones (RAAF officer)|George Jones]] and his deputy the operational head, Air Vice Marshal [[William Bostock]], but General [[Douglas MacArthur]] said it was too late in the war to change. In February 1945 Park was appointed Allied Air Commander, South-East Asia, where he served until the end of the war.&lt;ref name=air/&gt; Park was made a Commander of the [[United States|American]] [[Legion of Merit]] in 1947.&lt;ref&gt;{{London Gazette|issue=37998 |date=24 June 1947 |page=2940 |supp=y }}&lt;/ref&gt; On leaving the Royal Air Force, Park personally selected a [[Supermarine Spitfire]] to be donated to the [[Auckland War Memorial Museum]], New Zealand. This aircraft is still on display today along with his service decorations and uniform.
+
+==Assessments==
+Park retired and was promoted to Air Chief Marshal on 20 December 1946 and returned to New Zealand, where he took up a number of civic roles and was elected to the [[Auckland City Council]] in 1962. He lived in New Zealand until his death on 6 February 1975, aged 82 years.
+
+{{quote box |quote =  If any one man won the Battle of Britain, he did. I do not believe it is realised how much that one man, with his [[leadership]], his calm judgement and his skill, did to save, not only this country, but the world.|[[Arthur William Tedder|Lord Tedder]], Chief of the Air Staff, February 1947.}}
+
+While Sir Hugh Dowding controlled the Battle from day to day, it was Keith Park who controlled it hour by hour. Air Vice Marshal [[Johnnie Johnson (RAF officer)|'Johnnie' Johnson]], one of the top Allied air aces of the war, said: "He was the only man who could have lost the war in a day or even an afternoon".&lt;ref name="sirkeithpark.com"&gt;[http://www.sirkeithpark.com "Introduction by Terry Smith, chairman of the Sir Keith Park Memorial Campaign"] ''sirkeithpark.com.'' Retrieved: 8 September 2011.&lt;/ref&gt;
+This was an echo of [[Winston Churchill]]'s description of [[John Jellicoe, 1st Earl Jellicoe|Admiral Jellicoe]] in the [[World War I|First World War]].
+
+Another ace who fought in the Battle of Britain, the RAF pilot [[Douglas Bader]], said that "the awesome responsibility for this country's survival rested squarely on Keith Park's shoulders. British military history of this century has been enriched with the names of great fighting men from New Zealand, of all ranks and in every one of our services. Keith Park's name is carved into history alongside those of his peers."&lt;ref name="sirkeithpark.com"/&gt;
+
+Although Park has not received widespread public recognition, either in Britain or his native New Zealand, he has a claim to be one of the greatest commanders in the history of aerial warfare.
+
+==Recognition==
+[[File:Rth Rly SR 34053 Sir Keith Park plate edited-2.jpg|thumb|right|''Sir Keith Park'' commemorative nameplate and RAF shield on a [[Southern Railway (UK)|Southern Railway]] "Battle of Britain" Class locomotive]] 
+Keith Park Crescent, a residential road near the former [[RAF Biggin Hill]], is named after Park, as is Keith Park Road within [[RAF Uxbridge]].
+
+A [[Southern Railway (Great Britain)]] [[SR West Country and Battle of Britain Classes|West Country Class/Battle of Britain]] Class locomotive, no. [[SR Battle of Britain class 21C153 Sir Keith Park|21C153 / 34053]] was named after him in 1948. This locomotive carried Park's name and the RAF coat of arms on plates mounted each side of its boiler. The locomotive has survived into preservation, and has been restored from scrapyard condition. The locomotive is owned by [[Southern Locomotives Ltd]] and based on the [[Severn Valley Railway]]. Bewdley Brewery makes a real ale, Sir Keith Park (4.5% ABV), named for the locomotive but indirectly commemorating Park himself.&lt;ref&gt;https://www.bewdleybrewery.co.uk/beer/sir-keith-park&lt;/ref&gt;
+
+Park was portrayed by [[Trevor Howard]] in the 1969 film ''[[Battle of Britain (film)|Battle of Britain]]''.
+
+Sir Keith Park is commemorated by the Sir Keith Park Memorial Airfield in Thames, New Zealand; and at the aviation section of the [[Museum of Transport and Technology]], [[Auckland]], New Zealand, the gate guardian of which is a replica of Park's [[Hawker Hurricane]], OK1. The machine is not accurately painted, as it has a stripe around the rear of the fuselage in duck-egg green, which was not introduced until the spring of 1941, by which time he was commanding Training Command. [http://www.skp.school.nz/home/home.aspx The Sir Keith Park Special School] in Mangere south Auckland bears his name. There is a Keith Park Crescent in Biggin Hill and a Keith Park Road in Hillingdon, London.
+
+[[File:Keith Park statue, Waterloo Place.jpg|thumb|right|150px|Statue of Sir Keith Park in Waterloo Place, London.]]
+
+In 2008, London financier [[Terry Smith (businessman)|Terry Smith]] and others initiated an international campaign to erect a permanent statue of Park on the [[Fourth plinth]] in [[Trafalgar Square]], in recognition of his work as commander of No. 11 Group during the Battle of Britain.&lt;ref&gt;Smith, Terry. [http://www.sirkeithpark.com "The Sir Keith Park Memorial Campaign site."] ''sirkeithpark.com''. Retrieved: 17 June 2010.&lt;/ref&gt;&lt;ref&gt;Harding, Thomas. [https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/02/25/nhero125.xml "City boss calls for statue of war hero".] ''The Daily Telegraph'' 26 February 2008. Retrieved: 16 August 2008.&lt;/ref&gt;&lt;ref&gt;[http://business.timesonline.co.uk/tol/business/movers_and_shakers/article5576596.ece "They were the Few – but Sir Keith Park was a one-off."] ''timesonline.co.uk,'' 24 January 2009. Retrieved; 16 June 2010.&lt;/ref&gt; London Mayor [[Boris Johnson]] is on record as saying that devoting the plinth permanently to Park, while certainly worthy, might not be easy to facilitate.&lt;ref&gt;Kay, Martin. [http://www.stuff.co.nz/stuff/4566463a11.html "Kiwi war hero in battle of the plinth."] ''The Dominion Post'', 31 May 2008. Retrieved: 16 August 2008.&lt;/ref&gt;
+
+On 8 May 2009 [[Westminster City Council]] agreed to erect a 2.78&amp;nbsp;m (9&amp;nbsp;ft) statue in [[Waterloo Place]].&lt;ref&gt;[http://news.bbc.co.uk/1/hi/england/london/8039472.stm "Fourth Plinth RAF hero unveiled."] ''BBC News'', 4 November 2009. Retrieved: 16 June 2010.&lt;/ref&gt; A temporary 5&amp;nbsp;m (16.4&amp;nbsp;ft) statue was unveiled on the fourth plinth in Trafalgar Square on 4 November 2009. The fibre glass sculpture was in place for six months,&lt;ref&gt;[http://news.bbc.co.uk/1/hi/england/london/8341772.stm "Two statues will honour RAF hero."] ''BBC News'', 8 May 2009. Retrieved: 16 June 2010.&lt;/ref&gt;&lt;ref&gt;Rennell, Tony. [http://www.dailymail.co.uk/news/article-1225286/Battle-Britain-legend-Sir-Keith-Park-honoured-Boris-Johnson-unveils-statue-Trafalgar-Squares-fourth-plinth.html "A fitting place for a hero: The man who won the Battle of Britain, Sir Keith Park, stands proud on Trafalgar Square's fourth plinth."] ''Daily Mail, 5 November 2009.'' Retrieved: 16 June 2010.&lt;/ref&gt; until it was temporarily moved to the [[Royal Air Force Museum]]'' in London in May 2010.&lt;ref&gt;[http://www.rafmuseum.org.uk/london/news/article.cfm?news_id=274 "4th Plinth Statue Arrives At Museum."] ''rafmuseum.org.uk'', 12 May 2010. Retrieved: 16 June 2010.&lt;/ref&gt;
+Finally, a permanent bronze version of the sculpture was installed at Waterloo Place and unveiled there in front of the [[Athenaeum Club, London|Athenaeum Club]] on 15 September 2010, [[Battle of Britain Day]], during the 70th anniversary commemorations of the Battle. Chief of the Air Staff, Air Chief Marshal Sir [[Stephen Dalton]], said that Park was "a man without whom the history of the Battle of Britain could have been disastrously different. He was a man who never failed at any task he was given."&lt;ref&gt;[https://www.bbc.co.uk/news/uk-england-london-11306600 "Sir Keith Park bronze statue unveiled at Waterloo Place."] ''BBC News,'' 15 September 2010.&lt;/ref&gt;
+
+==References==
+;Notes
+{{Reflist|30em}}
+
+;Bibliography
+{{refbegin}}
+* Bungay, Stephen. ''The Most Dangerous Enemy: A History of the Battle of Britain''. London: Aurum, 2001. {{ISBN|978-1-85410-801-2}}.
+* Deighton, Len. ''Fighter: The True Story of the Battle of Britain''. London: Jonathan Cape, 1977 (Originally published: London: Pimlico, 1996). {{ISBN|0-7126-7423-3}}.
+* [[Norman Franks|Franks, Norman]]; Russell Guest and Gregory Alegi. ''Above the War Fronts: The British Two-seater Bomber Pilot and Observer Aces, the British Two-seater Fighter Observer Aces, and the Belgian, Italian, Austro-Hungarian and Russian Fighter Aces, 1914–1918'' (Volume 4 of Fighting Airmen of WWI Series) (Volume 4 of Air Aces of WWI). London: Grub Street, 1997. {{ISBN|978-1-898697-56-5}}.
+* Hough, Richard. ''The Battle of Britain: The Greatest Air Battle of World War II''. New York: W.W. Norton, 1989 (hardcover, {{ISBN|0-393-02766-X}}); 2005 (paperback, {{ISBN|0-393-30734-4}}).
+* Orange, Vincent. ''Park: The Biography of Air Chief Marshal Sir Keith Park, GCB, KBE, MC, DFC, DCL''. London: Grub Street, 2000. {{ISBN|1-902304-61-6}}.
+{{refend}}
+
+==External links==
+{{commons category}} 
+* [http://www.archway.archives.govt.nz/ViewFullItem.do?code=21383814 ''Keith Rodney Park 2/1254'' WWI NZEF Military Personnel Record (online)] 
+* [http://www.theaerodrome.com/aces/nzealand/park.php Keith Park at The Aerodrome]
+* [http://www.tcdc.govt.nz/Our-Services/Airfields/Thames-Airfield-NZTH Thames Coromandel District Council – our airfields]
+* [http://www.dnzb.govt.nz/dnzb/default.asp?Find_Quick.asp?PersonEssay=1B39 Park, Keith Rodney 1892 – 1975, New Zealand Dictionary of Biography]
+* [http://nzedge.com/heroes/park.html Opinion of "The New Zealand Edge"]
+* [http://www.rafweb.org/Biographies/Park.htm Air of Authority – A History of RAF Organisation – Air Chief Marshal Sir Keith Park]
+* [http://spitfiresite.com/2010/04/1942-defence-of-malta.html Combat History of the Supermarine Spitfire – The Defence of Malta (1942)]
+* [http://news.bbc.co.uk/1/hi/uk/7837196.stm Profile] on [[BBC News]] website.
+* [http://news.bbc.co.uk/2/hi/uk_news/magazine/8359288.stm Clive James, BBC]
+* [http://www.da.mod.uk/colleges/jscsc/jscsc-library/bibliographies/command-and-leadership-studies/ParkInternet.pdf Joint Services Command and Staff College – Command and Leadership Series – Air Chief Marshal Sir Keith Rodney Park]
+* [http://www.bbc.co.uk/archive/battleofbritain/11422.shtml 1961 BBC Interview – Park describes Battle of Britain tactics, strategies and post-campaign conspiracies.]
+
+{{s-start}}
+{{s-mil}}
+{{s-bef|before=[[C. W. Hill]]}}
+{{s-ttl|title=Station Commander [[RAF Tangmere]]|years=1937–1938}}
+{{s-aft|after=F Sowrey}}#
+|-
+{{s-bef|before=[[William Welsh (RAF officer)|William Welsh]]}}
+{{s-ttl|title=[[Air Officer Commanding]] [[No. 11 Group RAF|No. 11 Group]]|years=April – December 1940}}
+{{s-aft|after=[[Trafford Leigh-Mallory]]}}
+|-
+{{s-bef|before=[[Lawrence Pattinson]]}}
+{{s-ttl|title=[[Air Officer Commanding]] [[No. 23 Group RAF|No. 23 (Training) Group]]|years=1940–1942}}
+{{s-aft|after=[[Douglas Harries]]}}
+|-
+{{s-bef|before=[[Hugh Pughe Lloyd|Hugh Lloyd]]}}
+{{s-ttl|title=[[Air Officer Commanding]] [[AHQ Malta]]|years=1942–1944}}
+{{s-aft|after=[[Robert Foster (RAF officer)|Robert Foster]]}}
+|-
+{{s-bef|before=[[William Douglas, 1st Baron Douglas of Kirtleside|Sir Sholto Douglas]]}}
+{{s-ttl|title=Commander-in-Chief [[RAF Middle East Command|Middle East Command]]|years=1944–1945}}
+{{s-aft|after=[[Charles Medhurst|Sir Charles Medhurst]]}}
+|-
+{{s-bef|before=[[Guy Garrod|Sir Guy Garrod]]}}
+{{s-ttl|title=Allied [[Commander-in-Chief|C-in-C]] [[Air Command, South East Asia]]|years=1945–1946}}
+{{s-aft|after=[[George Pirie (RAF officer)|Sir George Pirie]]}}
+{{s-end}}
+
+{{WW2AirDefenceUK}}
+{{wwi-air}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Park, Keith}}
+[[Category:1892 births]]
+[[Category:1975 deaths]]
+[[Category:Battle of Britain]]
+[[Category:British Army personnel of World War I]]
+[[Category:People educated at Otago Boys' High School]]
+[[Category:New Zealand air marshals]]
+[[Category:New Zealand Army personnel]]
+[[Category:New Zealand military personnel of World War I]]
+[[Category:New Zealand World War I flying aces]]
+[[Category:New Zealand World War II pilots]]
+[[Category:New Zealand people of Scottish descent]]
+[[Category:New Zealand people of World War II]]
+[[Category:Recipients of the Croix de Guerre 1914–1918 (France)]]
+[[Category:Commanders of the Legion of Merit]]
+[[Category:Royal Air Force air marshals]]
+[[Category:Royal Air Force personnel of World War I]]
+[[Category:Royal Air Force personnel of World War II]]
+[[Category:Royal Air Force air marshals of World War II]]
+[[Category:Royal Flying Corps officers]]
+[[Category:New Zealand military personnel of World War II]]
+[[Category:New Zealand commanders]]
+[[Category:People from Thames, New Zealand]]
+[[Category:New Zealand knights]]
+[[Category:Alumni of the Royal College of Defence Studies]]
+[[Category:Auckland City Councillors]]</text>
+      <sha1>81d428yih2v162hfg3hwgoay1bcecnu</sha1>
+    </revision>
+  </page>
+</mediawiki>

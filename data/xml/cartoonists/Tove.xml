@@ -1,0 +1,369 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tove Jansson</title>
+    <ns>0</ns>
+    <id>49274</id>
+    <revision>
+      <id>855665704</id>
+      <parentid>855026646</parentid>
+      <timestamp>2018-08-20T00:09:14Z</timestamp>
+      <contributor>
+        <username>Catslash</username>
+        <id>1883085</id>
+      </contributor>
+      <comment>Miscellaneous: 'as' → 'under the pseudonym of' (reversion - since I don't believe I would have understood 'as' in this context)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38433">{{Use dmy dates|date=August 2013}}
+{{Infobox writer
+| name          = Tove Jansson
+| image         = Tove-Jansson-1967.jpg
+| caption       = In 1967
+| birth_name    = Tove Marika Jansson
+| birth_date    = {{birth date|1914|8|9|df=y}}
+| birth_place   = [[Helsinki]], [[Grand Duchy of Finland]], [[Russian Empire]]
+| death_date    = {{death date and age|2001|6|27|1914|8|9|df=y}}
+| death_place   = [[Helsinki]], Finland
+| citizenship   =
+| nationality   = [[Finland|Finnish]]
+| language      = [[Swedish language|Swedish]]
+| occupation    = Artist, writer
+| notableworks = ''[[Moomins|The Moomins]]''&lt;br&gt;''[[The Summer Book]]''
+| partner       = [[Tuulikki Pietilä]]
+| awards        = {{awd |[[Hans Christian Andersen Award]]&lt;!-- for Writing --&gt; |1966}} {{awd |[[Order of the Smile]] |1975}} {{awd |[[Pro Finlandia]] |1976}}
+| signature     = Tove Jansson signature.svg
+}}
+'''Tove Marika Jansson''' was a [[Swedish-speaking population of Finland|Swedish-speaking Finn]]ish author, novelist, painter, [[illustrator]] and [[comic strip]] author. Brought up by artistic parents, Jansson studied art from 1930 to 1938 in [[Stockholm]], [[Helsinki]] and [[Paris]]. Her first solo art exhibition was in 1943. At the same time, she was writing short stories and articles for publication, as well as creating the graphics for book covers and other purposes. She continued to work as an artist and a writer for the rest of her life.
+
+Jansson wrote the ''[[Moomins|Moomin]]'' books for children, starting in 1945 with ''[[The Moomins and the Great Flood]]''. The next two books, ''[[Comet in Moominland]]'' and ''[[Finn Family Moomintroll]]'', published in 1946 and 1948 respectively, were highly successful in sales, adding to sales of the first book. For her work as a children's writer she received the [[Hans Christian Andersen Medal]] in 1966.&lt;ref name=andersen/&gt;&lt;ref name=ibby-jansson/&gt;
+
+Starting with the semi-autobiographical ''Bildhuggarens dotter'' (''Sculptor's Daughter'') in 1968, Jansson wrote six novels, including the admired&lt;ref name=Westin/&gt; ''Sommarboken'' (''[[The Summer Book]]''), and five books of short stories for adults. 
+== Biography ==
+
+=== Early life ===
+[[File:Tove Jansson 1923.jpg|thumb|upright|left|Jansson in 1923]]
+
+Tove Jansson  (&lt;small&gt;Finland &lt;/small&gt;{{IPA-sv|ˈtuːve ˈjaːnsɔn|-|Sv-Tove_Jansson.ogg}}) was born in [[Helsinki]], [[Grand Duchy of Finland]], [[Russian Empire]]. Her family, part of the [[Swedish-speaking population of Finland|Swedish-speaking]] minority of [[Finland]], was an artistic one: her father, [[Viktor Jansson]], was a sculptor, and her mother, [[Signe Hammarsten-Jansson]], was a Swedish-born [[graphic designer]] and illustrator. Tove's siblings also became artists: [[Per Olov Jansson]] became a photographer and [[Lars Jansson (cartoonist)|Lars Jansson]] an author and cartoonist. Whilst their home was in [[Helsinki]], the family spent many of their summers in a rented cottage on an island near [[Porvoo|Borgå]], 50 [[km]] east of Helsinki.&lt;ref name=Liukkonen/&gt;
+
+Jansson studied at [[University College of Arts, Crafts and Design]], in Stockholm in 1930–33, the Graphic School of the [[Academy of Fine Arts (Finland)|Finnish Academy of Fine Arts]] in 1933–1937, and finally at L'École d'Adrien Holy and L'[[École des Beaux-Arts]] in Paris in 1938. She displayed a number of artworks in exhibitions during the 30s and early 40s, and her first solo exhibition was held in 1943.
+
+At age 14, Jansson wrote and illustrated her first picture book "Sara och Pelle och [[Neck (water spirit)|näck]]ens [[Cephalopod|bläckfisk]]ar" ("Sara and Pelle and Neptune's Children".&lt;ref&gt;{{cite web|url=https://www.moomin.com/en/event/villain-moominhouse-archway-words-literary-festival-england/// |title=ArchWay With Words |website=ArchWayWithWords.co.uk |date= |accessdate=2017-09-05}}&lt;/ref&gt;) It was not published until 1933. She also sold drawings that were published in magazines in the 1920s.&lt;ref name=biografiakeskus /&gt;
+
+During the 1930s Jansson made several trips to other European countries. She drew from these for her short stories and articles, which she also illustrated, and which were also published in magazines, periodicals and daily papers. During this period, Jansson also designed many book covers, adverts and postcards. Following her mother's example, she drew illustrations for ''Garm'', an anti-fascist Finnish-Swedish satirical magazine.&lt;ref name=biografiakeskus /&gt;
+
+[[File:Tuulikki Pietilä Tove Jansson and Signe Hammarsten-Jansson 1956.jpeg|thumb|[[Tuulikki Pietilä]], Tove Jansson and her mother at Klovharu, the island in the [[Porvoo|Borgå]] archipelago where the Janssons had a summerhouse, 1958]]
+
+She was briefly engaged in the 1940s to [[Atos Wirtanen]].&lt;ref name=biografiakeskus /&gt; During her later studies, Jansson met her future [[Significant other|partner]] [[Tuulikki Pietilä]].&lt;ref&gt;{{cite web | url = http://www.zein.se/ing-marie/mumintrollen.htm | title = Tove Janssons mumintroll
+| accessdate  = 9 April 2007 | last = Hassel | first = Ing-Marie | language = Swedish}}&lt;/ref&gt; The two women collaborated on many works and projects, including a model of the Moominhouse, in collaboration with [[Pentti Eistola]]. This is now exhibited at the [[Moomin museum]] in [[Tampere]].
+
+=== Moomin books ===
+
+Jansson wrote and illustrated her first Moomin book, ''[[The Moomins and the Great Flood]]'', in 1945, during [[World War II]]. She said later that the war had depressed her, and she had wanted to write something naïve and innocent. This first book was hardly noticed, but the next Moomin books, ''[[Comet in Moominland]]'' (1946) and ''[[Finn Family Moomintroll]]'' (1948), sold well and made her famous. She went on to write and publish six more Moomin books, as well as a number of picture books and comic strips. Her fame spread quickly and she became Finland's most widely read author abroad.&lt;ref&gt;Schoolfield, George C. ''A History of Finland's Literature'', p. 571. University of Nebraska Press, 1998. {{ISBN|978-0-8032-4189-3}}&lt;/ref&gt; For her "lasting contribution to children's literature", in 1966 Jansson received the biennial, international [[Hans Christian Andersen Award]] for Writing. She continued painting and writing for the rest of her life, although her contributions to the Moomin series became rare after 1970. 
+
+=== Novelist ===
+
+Jansson's first foray outside children's literature was ''{{ill|Bildhuggarens dotter|sv}}'' (''Sculptor's Daughter''), a semi-autobiographical novel published in 1968. After that, she wrote five more novels, including ''Sommarboken'' (''[[The Summer Book]]'') and five collections of short stories.
+
+=== Later life ===
+
+Although she had a studio in Helsinki, Jansson lived many summers on a small island called Klovharu, one of the [[Pellinki|Pellinge]] Islands near the town of [[Porvoo|Borgå]]. Jansson's and Pietilä's travels and summers spent together on the Klovharu island in Pellinki have been captured on several hours of film, shot by Pietilä. Several documentaries have been made of this footage, the latest being ''Haru, yksinäinen saari'' (''Haru, the lonely island'') (1998) and ''Tove ja Tooti Euroopassa'' (''Tove and Tooti in Europe'') (2004).
+
+Jansson died on 27 June 2001 at the age of 86.&lt;ref&gt;{{cite web |url=http://www.historyorb.com/deaths/date/2001?p=2 |title=Famous Deaths for Year 2001 (Part 2)|work=HistoryOrb.com |accessdate=18 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.theguardian.com/books/2014/jan/15/tove-jansson-life-words-westin-review |title=Tove Jansson: Life, Art, Words by Boel Westin – review |work=the Guardian |accessdate=18 November 2014}}&lt;/ref&gt; She is buried in the [[Hietaniemi Cemetery]] in Helsinki.&lt;ref&gt;{{Cite web |url=https://www.helsinginseurakunnat.fi/material/attachments/hautausmaat/hietaniemi/w8GZkM0y7/Hietaniemen_merkittavia_vainajia.pdf |title=Hietaniemen hautausmaa – merkittäviä vainajia |publisher=Helsingin seurakuntayhtymä |access-date=2016-08-26}}&lt;/ref&gt;
+
+==Family==
+*Viktor Jansson (born 1829) married Ida Maria Lemström (born 1842)
+**Julius Viktor Jansson (1862–1892) married Johanna Theresia Karlsson (1864–1938)
+***[[Viktor Jansson|Viktor Bernhard Jansson]] (1886–1958) married [[Signe Hammarsten-Jansson|Signe Hammarsten]] (1882–1970)
+****'''[[Tove Jansson|Tove Marika Jansson]]''' (1914-2001)
+****[[Per Olov Jansson]] (born 1920)
+****[[Lars Jansson (cartoonist)|Lars Jansson]] (1926–2000)
+*****[[Sophia Jansson|Vivica Sophia Jansson]] (born 1962) married ______ Zambra
+******James Zambra
+***Julius Edvard Jansson (born 1887) married Toini Maria Ilmonen
+
+== Career ==
+
+=== Wartime satire in ''Garm'' magazine ===
+[[File:Tove_Jansson_cover_of_Garm_magazine_October_1944.jpg|thumb|left|upright|Cover of ''Garm'' magazine, October 1944, lampooning [[Adolf Hitler]] as "self-important and comic"&lt;ref name=McDonagh/&gt;]]
+
+Tove Jansson worked as an illustrator and cartoonist for the Swedish-language satirical magazine ''Garm''{{efn|[[Garmr]] or Garm is the blood-stained wolf or dog of [[Norse mythology]] that guards the gate of [[Hel (location)|Hel]].}} from the 1930s to 1953. One of her [[political cartoon]]s achieved a brief international fame: she drew [[Adolf Hitler]] as a crying baby in diapers, surrounded by [[Neville Chamberlain]] and other great European leaders, who tried to calm the baby down by giving it slices of cake – Austria, Poland, [[Czechoslovakia]], etc. In the [[Second World War]], during which [[Military history of Finland during World War II|Finland fought against the Soviet Union]], part of the time cooperating with Nazi Germany,&lt;ref&gt;{{cite web |last1=Taylor |first1=Alan |title=Finland in World War II |url=https://www.theatlantic.com/photo/2013/05/finland-in-world-war-ii/100519/ |publisher=[[The Atlantic]] |accessdate=5 January 2018 |date=23 May 2013}}&lt;/ref&gt; her cover illustrations for Garm courageously&lt;ref name=McDonagh/&gt; lampooned both Hitler and [[Joseph Stalin]]: in one, Stalin draws his sword from his impressively long [[scabbard]], only to find it absurdly short; in another, multiple Hitlers ransack a house, carrying away food and artworks. In ''[[The Spectator]]''{{'}}s view, Jansson made Hitler a preposterous little figure, self-important and comic.&lt;ref name=McDonagh&gt;{{cite journal |last1=McDonagh |first1=Melanie |title=A chance to see the Moomins' creator for the genius she really was: Tove Janssons&lt;!--sic--&gt; reviewed |url=https://www.spectator.co.uk/2017/11/a-chance-to-see-the-moomins-creator-for-the-genius-she-really-was-tove-janssons-reviewed/ |work=[[The Spectator]] |issue=November 2017 |date=18 November 2017}}&lt;/ref&gt;
+
+=== Comic strip artist ===
+{{See also|Moomin comic strips}}
+
+Jansson also produced illustrations during this period for the Christmas magazines ''Julen'' and ''Lucifer'' (just as her mother had earlier) as well as several smaller productions. Her earliest comic strips were created for productions including ''Lunkentus'' (''Prickinas och Fabians äventyr'', 1929), ''Vårbrodd'' (''Fotbollen som Flög till Himlen'', 1930), and ''Allas Krönika'' (''Palle och Göran gå till sjöss'', 1933).&lt;ref&gt;{{cite web|url=http://lambiek.net/artists/j/jansson_t.htm|title=Comic creator: Tove Jansson|work=lambiek.net|accessdate=18 November 2014}}&lt;/ref&gt;
+
+The figure of the Moomintroll appeared first in Jansson's political cartoons, where it was used as a signature character near the artist's name. This "Proto-Moomin," then called Snork or Niisku,&lt;ref name=biografiakeskus/&gt; was thin and ugly, with a long, narrow nose and devilish tail. Jansson said that she had designed the Moomins in her youth: after she lost a philosophical quarrel about [[Immanuel Kant]] with one of her brothers, she drew "the ugliest creature imaginable" on the wall of their outhouse and wrote under it "Kant". This Moomin later gained weight and a more pleasant appearance, but in the first Moomin book ''[[The Moomins and the Great Flood]]'' (originally ''Småtrollen och den stora översvämningen''), the Immanuel-Kant-Moomin is still perceptible. The name "Moomin" comes from Tove Jansson's uncle, [[Einar Hammarsten]]: when she was studying in [[Stockholm]] and living with her Swedish relatives, her uncle tried to stop her pilfering food by telling her that a "Moomintroll" lived in the kitchen closet and breathed cold air down people's necks.&lt;ref name=biografiakeskus/&gt;
+
+[[File:Tove Jansson 1956.jpg|thumb|upright|Jansson in 1956 with moomintroll dolls made by Atelier Fauni]]
+
+In 1952, after ''Comet in Moominland'' and ''Finn Family Moomintroll'' had been translated into English, a British publisher asked if Tove Jansson would be interested in drawing comic strips about the Moomins. Jansson had already drawn a long Moomin comic adventure, ''[[Mumintrollet och jordens undergång]]'' ("Moomintrolls and the End of the World"), based loosely on ''Comet in Moominland'', for the Swedish-language newspaper ''[[Ny Tid (Finland)|Ny Tid]]'', and she accepted the offer. The comic strip ''Moomintroll'', started in 1954 in the London ''[[Evening News (London)|Evening News]]''. Tove Jansson drew 21 long Moomin stories from 1954 to 1959, writing them at first by herself and then with her brother Lars Jansson. She eventually gave the strip up because the daily work of a comic artist did not leave her time to write books and paint, but Lars took over the strip and continued it until 1975.
+
+The series was published in book form in Swedish; books 1 to 6 have been published in English, ''Moomin: The Complete Tove Jansson Comic Strip''.
+
+===Inspiration for Moomins===
+Critics have interpreted various Moomin characters as being inspired by real people, especially members of the author's family, and Jansson spoke in interviews about the backgrounds of, and possible models for, her characters.&lt;ref name=biografiakeskus /&gt;
+
+Pietilä's personality inspired the character Too-Ticky in ''Moominland Midwinter''.&lt;ref name=Liukkonen&gt;{{cite web|url=http://www.kirjasto.sci.fi/tjansson.htm |title=Tove Jansson |website=Books and Writers ''(kirjasto.sci.fi)'' |first=Petri |last=Liukkonen |publisher=[[Kuusankoski]] Public Library |location=Finland |archiveurl=https://web.archive.org/web/20080916102623/http://www.kirjasto.sci.fi/tjansson.htm |archivedate=16 September 2008 |dead-url=yes |df=dmy-all }}&lt;/ref&gt;&lt;ref name=biografiakeskus/&gt; and Moomintroll and [[Little My]] have been seen as psychological [[self-portrait]]s of the artist.&lt;ref name=Liukkonen/&gt;&lt;ref name=biografiakeskus/&gt;
+
+The Moomins, generally speaking, relate strongly to Jansson's own family – they were [[Bohemianism|bohemian]] and lived close to nature. Moominpappa and Moominmamma are often seen as portraits of Jansson's parents.&lt;ref name=Liukkonen/&gt;&lt;ref name=biografiakeskus/&gt;&lt;ref name=Rahunen&gt;{{cite journal|first = Suvi |last = Rahunen |title = Om Översättning Av Kulturbunda Element Från Svenska Till Finska Och Franska I Två Muminböcker Av Tove Jansson |publisher = [[University of Jyväskylä]] |date = Spring 2007 |url = http://urn.fi/URN:NBN:fi:jyu-2007235 |format = PDF |accessdate =28 October 2014}}&lt;/ref&gt; Jansson remained close to her mother until her mother's death in 1970; even after Tove had become an adult, the two often traveled together, and during her final years Signe also lived with Tove part-time.&lt;ref name=biografiakeskus /&gt;
+
+=== Author ===
+
+==== Moomin books ====
+[[File:Finn Family.png|thumb|upright|Cover of ''Finn Family Moomintroll'' (1948)]]
+
+Jansson is principally known as the author of the Moomin books. Jansson created the [[Moomin]]s, a family of [[troll]]s who are white, round and smooth in appearance, with large snouts that make them vaguely resemble [[hippopotamus]]es.
+
+The first Moomin book, ''[[The Moomins and the Great Flood]]'', was written in 1945. Although the primary characters are Moominmamma and Moomintroll, most of the principal characters of later stories were only introduced in the next book, so ''The Moomins and the Great Flood'' is frequently considered a forerunner to the main series. The book was not a success (and was the last Moomin book to be translated into English), but the next two installments in the Moomin series, ''[[Comet in Moominland]]'' (1946) and ''[[Finn Family Moomintroll]]'' (1948), brought Jansson some fame. The original title of ''Finn Family Moomintroll'', ''Trollkarlens Hatt'', translates as "The Magician's Hat".
+
+The style of the Moomin books changed as time went by. The first books, written starting just after the Second World War, up to ''[[Moominland Midwinter]]'' (1957), are adventure stories that include floods, comets and supernatural events. ''The Moomins and the Great Flood'' deals with Moominmamma and Moomintroll's flight through a dark and scary forest, where they encounter various dangers. In ''Comet in Moominland'', a comet nearly destroys the Moominvalley (some critics have considered this an allegory of [[nuclear weapons]]&lt;ref&gt;Schoolfield, George C. ''A history of Finland's literature'', p. 572. University of Nebraska Press, 1998. {{ISBN|978-0-8032-4189-3}}&lt;/ref&gt;). ''Finn Family Moomintroll'' deals with adventures brought on by the discovery of a magician's hat. ''[[The Exploits of Moominpappa]]'' (1950) tells the story of Moominpappa's adventurous youth and cheerfully parodies the [[genre]] of [[memoir]]s. Finally, ''[[Moominsummer Madness]]'' (1955) pokes fun at the world of the theatre: the Moomins explore an empty theatre and perform Moominpappa's pompous [[hexameter|hexametric]] [[melodrama]].
+
+''[[Moominland Midwinter]]'' marks a turning point in the series. The books take on more realistic settings ("realistic" in the context of the Moomin universe) and the characters start to acquire some psychological depth. ''Moominland Midwinter'' focuses on Moomintroll, who wakes up in the middle of the winter (Moomins hibernate from November to April, as mentioned on the back of the book), and has to cope with the strange and unfriendly world he finds. The short story collection ''[[Tales from Moominvalley]]'' (1962) and the novels ''[[Moominpappa at Sea]]'' (1965) and ''[[Moominvalley in November]]'' (1970) are serious and psychologically searching books, far removed from the light-heartedness and cheerful humor of ''Finn Family Moomintroll''.
+
+In addition to the Moomin novels and short stories, Tove Jansson also wrote and illustrated four original and popular picture books: ''[[The Book about Moomin, Mymble and Little My]]'' (1952), ''[[Who will Comfort Toffle?]]'' (1960), ''[[The Dangerous Journey]]'' (1977) and ''[[An Unwanted Guest]]'' (1980). As the Moomins' fame grew, two of the original novels, ''Comet in Moominland'' and ''The Exploits of Moominpappa'', were revised by Jansson and republished.
+
+==== For adults ====
+
+After ''Moominvalley in November'' Tove Jansson stopped writing about Moomins and started writing for adults. 
+
+''[[The Summer Book]]'' is the best known of her adult fiction translated into English. It is a work of charm, subtlety and simplicity, describing the summer stay on an island of a young girl and her grandmother. The girl is modelled on her niece, Sophia Jansson; the girl's father on Sophia's father, Lars Jansson; and the grandmother on Tove's mother Signe.&lt;ref name=Westin&gt;{{cite book |title=Tove Jansson - Ord, bild, liv |author=Westin, Boel |year=2013  |url=https://books.google.se/books?id=iF1gAgAAQBAJ&amp;pg=PT324&amp;lpg=PT324&amp;dq=Sommarboken+Boel+Westin&amp;source=bl&amp;ots=j3GPREpca7&amp;sig=1i947Sfk5Xa49eBPDX2lzWbov10&amp;hl=sv&amp;sa=X&amp;ei=VuTZU8aDPYL9ygP74ILoBg&amp;ved=0CDcQ6AEwBA#v=onepage&amp;q=Sommarboken%20Boel%20Westin&amp;f=false |publisher= Albert Bonniers |isbn=978-9-51-501672-0 |language=Swedish}}&lt;/ref&gt;
+
+=== Painter and illustrator ===
+Although she became known first and foremost as an author, Tove Jansson considered her careers as author and painter to be of equal importance. She painted her whole life, changing style from the classical [[impressionism]] of her youth to the highly abstract modernist style of her later years. Jansson displayed a number of artworks in exhibitions during the 1930s and early 1940s, and her first solo exhibition was held in 1943. Despite generally positive reviews, criticism induced Jansson to refine her style such that in her 1955 solo exhibition her style had become less overloaded in terms of detail and content. Between 1960 and 1970 Jansson held five more solo exhibitions.&lt;ref name=biografiakeskus&gt;{{cite web |last = Ahola |first = Suvi |others=Fletcher, Roderick (trans.)|title = Jansson, Tove (1914–2001) |work = Biografiakeskus|publisher = [[Suomalaisen Kirjallisuuden Seura]] |year = 2008 |url = http://www.kansallisbiografia.fi/english/?id=1395|accessdate =4 February 2009}}&lt;/ref&gt;
+
+Jansson also created a series of commissioned murals and public works throughout her career, which may still be viewed in their original locations. These works of Jansson's included:
+* The canteen at the [[Stromberg (company)|Strömberg]] factory at [[Pitäjänmäki]], Helsinki (1945)&lt;ref name=biografiakeskus/&gt;
+* The Aurora Children's Hospital in Helsinki&lt;ref name="Liukkonen"/&gt;
+* The Kaupunginkellari restaurant of [[Helsinki City Hall]]&lt;ref name="Liukkonen"/&gt; – Transferred in 1974 to Helsinki Swedish-language Adult Education Centre "Workers' Institute" Arbis and in 2016 to a permanent Jansson exhibition at [[Helsinki Art Museum]]&lt;ref&gt;{{cite web|title=Tove Jansson|url=https://www.hamhelsinki.fi/en/exhibition/tove-jansson/|publisher=Helsinki Art Museum|accessdate=19 August 2016}}&lt;/ref&gt;
+* The Seurahuone hotel at [[Hamina]]&lt;ref name=biografiakeskus/&gt;
+* The ''[[Parable of the Ten Virgins|Wise and Foolish Virgins]]'' altarpiece in [[Teuva]] Church (1954)&lt;ref name=biografiakeskus/&gt;
+* A number of fairy-tale murals in schools and kindergartens including the kindergarten in [[Pori]] (1984)&lt;ref name=biografiakeskus/&gt;
+
+In addition to providing the illustrations for her own Moomin books, Jansson also illustrated Swedish translations of classics such as [[J. R. R. Tolkien]]'s ''[[The Hobbit]]''&lt;ref&gt;{{cite web|url=https://www.flickr.com/photos/mymuk/4647022944|title=Hobbit illustrations|work=Flickr|accessdate=18 November 2014}}&lt;/ref&gt; and [[Lewis Carroll]]'s ''[[The Hunting of the Snark]]''&lt;ref&gt;{{cite web|url=https://www.flickr.com/photos/mymuk/4646406897|title=Hunting of the Snark illustrations|work=Flickr|accessdate=18 November 2014}}&lt;/ref&gt; and ''[[Alice's Adventures in Wonderland]]''&lt;ref&gt;{{cite web|url=https://www.flickr.com/photos/mymuk/4647020396|title=Alice in Wonderland illustrations|work=Flickr|accessdate=18 November 2014}}&lt;/ref&gt; (some used later in Finnish translations as well). She also illustrated her late work, ''[[The Summer Book]]'' (1972).
+
+=== Theatre ===
+Several stage productions have been made from Jansson's Moomin series, including a number that Jansson herself was involved in.
+
+The earliest production was a 1949 theatrical version of ''Comet in Moominland'' performed at [[Åbo Svenska Teater]].&lt;ref name=biografiakeskus/&gt;
+
+In the early 1950s, Jansson collaborated on Moomin-themed children's plays with [[Vivica Bandler]]. In 1952, Jansson designed stage settings and dresses for ''Pessi and Illusia'', a ballet by [[Ahti Sonninen]] (''[[Radio tekee murron]]'') which was performed at the [[Finnish National Opera]].&lt;ref name=biografiakeskus/&gt; By 1958, Jansson began to become directly involved in theater as Lilla Teater produced ''Troll i kulisserna'' (''Troll in the [[Wings (theater)|wings]]''), a play with lyrics by Jansson and music composed by [[Erna Tauro]]. The production was a success, and later performances were held in Sweden and Norway.&lt;ref name="Liukkonen"/&gt;
+
+In 1974 the first Moomin opera was produced, with music composed by [[Ilkka Kuusisto]].&lt;ref name="Liukkonen"/&gt;
+
+== Cultural legacy ==
+
+The biennial [[Hans Christian Andersen Award]] conferred by the [[International Board on Books for Young People]] is the highest recognition available to a writer or illustrator of children's books. Jansson received the writing award in 1966.&lt;ref name=andersen/&gt;&lt;ref name=ibby-jansson/&gt;
+
+[[File:Tove_Jansson_at_Dulwich_Picture_Gallery_Poster.jpg|thumb|upright|The first major retrospective exhibition of Jansson's art in the United Kingdom was held at the [[Dulwich Picture Gallery]], 2017–2018.&lt;ref name="Kennedy2018"/&gt;]]
+
+Jansson's books, originally written in Swedish, have been translated into 45 languages.&lt;ref&gt;Hällsten, Annika: "Boksuccé efterlyses." ''Hufvudstadsbladet'' 22 January 2014, p. 21.&lt;/ref&gt; After the ''[[Kalevala]]'' and books by [[Mika Waltari]], they are the most widely translated works of [[Finnish literature]].
+
+The [[Moomin Museum]] in [[Tampere]] displays much of Jansson's work on the Moomins. There is also a Moomin theme park named [[Moomin World]] in [[Naantali]].
+
+Tove Jansson was selected as the main motif in the 2004 minting of a Finnish commemorative coin, the €10 [[Euro gold and silver commemorative coins (Finland)#2004 coinage|Tove Jansson and Finnish Children's Culture commemorative coin]]. The obverse depicts a combination of Tove Jansson portrait with several objects: the skyline, an artist's palette, a crescent and a sailing boat. The reverse design features three Moomin characters. In 2014 she was again featured on a commemorative coin, minted at €10 and €20 values, being the only person other than the former Finnish president [[Urho Kekkonen]] to be granted two such coins.&lt;ref&gt;{{cite web|url=http://www.suomenrahapaja.fi/eng/news/Tove_Jansson|title=Another collector coin is minted in honour of Tove Jansson|publisher=Mint of Finland|date=30 January 2014|accessdate=14 March 2014|archive-url=https://web.archive.org/web/20140314104906/http://www.suomenrahapaja.fi/eng/news/Tove_Jansson|archive-date=14 March 2014|dead-url=yes|df=dmy-all}}&lt;/ref&gt; She was also featured on a [[€2 commemorative coin]] that entered general circulation in June 2014.&lt;ref&gt;{{cite web|url=http://www.suomenrahapaja.fi/eng/news/tove_jansson_special_2_euro|title=Tove Jansson to feature on two-euro commemorative coin|publisher=Mint of Finland|date=16 May 2014|accessdate=17 June 2014|archive-url=https://web.archive.org/web/20140613151657/http://www.suomenrahapaja.fi/eng/news/tove_jansson_special_2_euro|archive-date=13 June 2014|dead-url=yes|df=dmy-all}}&lt;/ref&gt;
+
+Since 1988, [[Itella|Finland's Post]] has released several postage stamp sets and one [[postal card]] with Moomin motifs.&lt;ref&gt;''Norma Suomi 2011: Postimerkkiluettelo'', pp. 147, 152, 169, 180, 195, 202, 219, 233. [Stamp catalogue.] Käpylän merkki, Helsinki 2010. {{ISSN|0358-1225}}&lt;/ref&gt; In 2014, Jansson herself was featured on a Finnish stamp set.&lt;ref&gt;{{cite web|url=http://www.posti.fi/english/current/2013/20131016_stamps.html|title=The first stamps of 2014 celebrate Tove Jansson and ancient castles|publisher=Posti|date=16 October 2013|accessdate=14 March 2014}}&lt;/ref&gt;
+
+In 2014 the City of Helsinki honored Jansson by renaming a park in [[Katajanokka]] as Tove Jansson's Park ({{lang-fi|Tove Janssonin puisto}}, {{lang-sv|Tove Janssons park}}). The park is located near Jansson's childhood home.&lt;ref&gt;{{cite web|title=Tove Jansson saa puiston Katajanokalle|url=http://www.hs.fi/kaupunki/Tove+Jansson+saa+puiston+Katajanokalle/a1394511247387|publisher=Helsingin Sanomat|language=fi|date=11 March 2014|accessdate=11 March 2014}}&lt;/ref&gt;&lt;ref name="Tove100y"&gt;{{cite web | url=http://www.finlandtimes.fi/culture/2014/03/12/5377/Katajanokanpuisto-renamed--Tove-Jansson-Park | title=Katajanokanpuisto renamed Tove Jansson Park FTimes-STT Report, March 12 | publisher=Finland Times | date=12 March 2014 | accessdate=12 March 2014}}&lt;/ref&gt;
+
+In March 2014, the [[Ateneum|Ateneum Art Museum]] opened a major centenary exhibition showcasing Jansson's works as an artist, an illustrator, a political caricaturist and the creator of the Moomins. The exhibition drew nearly 300,000 visitors in six months.&lt;ref&gt;{{cite web|title=The Tove Jansson centenary exhibition attracted 293,837 visitors |url=http://www.ateneum.fi/en/tove-jansson-centenary-exhibition-attracted-293837-visitors |publisher=Ateneum |accessdate=11 December 2014 |date=7 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141213013855/http://www.ateneum.fi/en/tove-jansson-centenary-exhibition-attracted-293837-visitors |archivedate=13 December 2014 |df=dmy-all }}&lt;/ref&gt; After Helsinki the exhibition embarked on a tour in Japan to visit five Japanese museums.&lt;ref&gt;{{cite web|url=http://www.ateneum.fi/en/tove-jansson |title=Tove Jansson 14.03.2014 – 07.09.2014 |publisher=Ateneum Art Museum |accessdate=14 March 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140320025622/http://www.ateneum.fi/en/tove-jansson |archivedate=20 March 2014 |df=dmy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://yle.fi/uutiset/ei_vain_muumien_aiti__tove_janssonilla_oli_taiteilijana_sadat_kasvot/7133913|title=Ei vain muumien äiti – Tove Janssonilla oli taiteilijana sadat kasvot|publisher=Yle Uutiset|language=fi|date=13 March 2014|accessdate=14 March 2014}}&lt;/ref&gt;
+
+In 2012, the BBC broadcast a one-hour documentary on Jansson, ''Moominland Tales: The Life of Tove Jansson''.&lt;ref&gt;https://www.bbc.co.uk/iplayer/episode/b01pgrk2/moominland-tales-the-life-of-tove-jansson&lt;/ref&gt;
+
+From October 2017 to January 2018, the [[Dulwich Picture Gallery]] held an exhibition of Jansson's paintings, illustrations, and cartoons.&lt;ref&gt;{{cite web|title=Tove Jansson (1914-2001)|url=https://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/2017/october/tove-jansson/|publisher=Dulwich Picture Gallery|accessdate=2 January 2018 |archiveurl=https://web.archive.org/web/20171107015752/https://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/2017/october/tove-jansson/ |archivedate=7 November 2017}}&lt;/ref&gt; This was the first major retrospective exhibition of her work in the United Kingdom.&lt;ref name="Kennedy2018"&gt;{{cite news|last1=Kennedy|first1=Maev|title=Moomins and more: UK show to exhibit Tove Jansson's broader work|url=https://www.theguardian.com/books/2017/oct/22/moomins-and-more-uk-show-to-exhibit-tove-janssons-broader-work|accessdate=2 February 2018|work=[[The Guardian]]|date=22 October 2017}}&lt;/ref&gt;
+
+With a new animated series, "Moominvalley" &lt;ref&gt;https://www.moomin.com/en/blog/star-cast-new-moomin-animation-series-moominvalley/&lt;/ref&gt; to be broadcast in 2019, [[Rhianna Pratchett]] wrote an article about the impact Tove Jansson had had on her father [[Sir Terry Pratchett]]; he called Jansson one of the greatest children’s writers there has ever been and credited her writing as one of the reasons he became an author.&lt;ref&gt;https://www.theguardian.com/books/booksblog/2018/mar/12/terry-pratchett-moomins-rhianna-pratchett&lt;/ref&gt;.
+
+== Works ==
+
+=== The Moomin books ===
+
+==== Novels ====
+* ''Småtrollen och den stora översvämningen'' (1945, ''[[The Moomins and the Great Flood]]'') 
+* ''Kometjakten'' (1946, ''[[Comet in Moominland]]'') 
+** ''Kometen kommer'' (1968; reworked edition of ''Comet in Moominland'')
+* ''Trollkarlens hatt'' (1948, ''[[Finn Family Moomintroll]]''; in some editions ''The Happy Moomins'') 
+* ''Muminpappans bravader'' (1950, ''[[The Exploits of Moominpappa]]'') 
+** ''Muminpappans memoarer'' (1968, ''The Memoirs of Moominpappa''; reworked edition of ''The Exploits of Moominpappa'') 
+* ''Farlig midsommar'' (1954, ''[[Moominsummer Madness]]'')
+* ''Trollvinter'' (1957, ''[[Moominland Midwinter]]'') 
+* ''Pappan och havet'' (1965, ''[[Moominpappa at Sea]]'') 
+* ''Sent i November'' (1970, ''[[Moominvalley in November]]'') 
+
+==== Short story collections ====
+* ''Det osynliga barnet och andra berättelser'' (1962, ''[[Tales from Moominvalley]]'') 
+
+==== Picture books ====
+* ''Hur gick det sen?'' (1952, ''[[The Book about Moomin, Mymble and Little My]]'')
+* ''Vem ska trösta Knyttet?'' (1960, ''[[Who Will Comfort Toffle?]]'') 
+* ''Den farliga resan'' (1977, ''[[The Dangerous Journey]]'') 
+* ''Skurken i Muminhuset'' (1980, ''[[Villain in the Moominhouse]]'') 
+* ''Visor från Mumindalen'' (1993, ''Songs From Moominvalley'') (songbook. With Lars Jansson and Erna Tauro)
+
+==== Comic strips ====
+* ''Mumin'', Books 1–7 (1977–1981, ''[[Moomin comic strips|Moomin]]''; Books 3–7 with Lars Jansson) (Books 1–6 released in English).&lt;ref&gt;{{cite web | url=http://www.drawnandquarterly.com/shopCatalogLong.php?st=art&amp;art=a43cd43019761a | title=Products by Tove Jansson | publisher=[[Drawn &amp; Quarterly]] | accessdate=15 February 2009}}&lt;/ref&gt;
+
+=== Other books ===
+
+==== Novels ====
+* ''Sommarboken'' (1972, ''[[The Summer Book]]'')
+* ''Solstaden'' (1974, ''[[Sun City (novel)|Sun City]]'') 
+* ''Den ärliga bedragaren'' (1982, ''[[The True Deceiver]]'')
+* ''Stenåkern'' (1984, ''The Field of Stones'')
+* ''Rent spel'' (1989, ''[[Fair Play (novel)|Fair Play]]'')
+
+==== Short story collections ====
+* ''Bildhuggarens dotter'' (1968, ''[[Sculptor's Daughter]]'') (semi-autobiographical)
+* ''Lyssnerskan'' (1971, ''The Listener'') 
+* ''Dockskåpet och andra berättelser'' (1978, ''Art in Nature'')
+* ''Resa med lätt bagage'' (1987, ''Travelling Light'')
+* ''Brev från Klara och andra berättelser'' (1991, ''Letters from Klara and Other Stories'')
+* ''Meddelande. Noveller i urval 1971–1997'' (1998 compilation, ''Messages. Selected stories 1971–1997'')
+* ''[[A Winter Book]]'' (2006 compilation)
+
+==== Miscellaneous ====
+* ''Sara och Pelle och näckens bläckfiskar'' (under the pseudonym of Vera Haij, 1933, ''Sara and Pelle and the Octopuses of the Water Sprite'')
+* ''Anteckningar från en ö'' (1993, ''Notes from an Island'') (autobiography; illustrated by [[Tuulikki Pietilä]])
+
+== Awards ==
+* [[Hans Christian Andersen Award]] (gold medal, 1966)&lt;ref&gt;{{cite web|url=http://finland.fi/Public/default.aspx?contentid=160071&amp;nodeid=41797&amp;culture=en-US|title=thisisFINLAND: People – Tove Jansson|publisher=|accessdate=18 November 2014}}&lt;/ref&gt;
+* Award for State Literature (1963, 1971 and 1982)&lt;ref name="Liukkonen"/&gt;
+* [[Swedish Academy Finland Prize]] (1972)
+* [[Order of the Smile]] (1975)
+* [[Pro Finlandia]] Medal (1976)&lt;ref name="Liukkonen"/&gt;
+* Swedish Culture Foundation Honorary Award (1983)&lt;ref name=wsoy&gt;{{cite web|url=http://www.wsoy.fi/index.jsp?c=/author&amp;id=51|title=WSOY|publisher=|accessdate=18 November 2014}}{{Dead link|date=February 2017}}&lt;/ref&gt;
+* The Finnish Cultural Award (1990)&lt;ref name=wsoy/&gt;
+* [[Selma Lagerlöf Prize]] (1992)&lt;ref name=wsoy/&gt;
+* The Finland Art Prize (1993)&lt;ref name=wsoy/&gt;
+* Mercuri International pronssiomena (1994)&lt;ref name=wsoy/&gt;
+* The [[Swedish Academy]] Award (1994)&lt;ref name=wsoy/&gt;
+* [[The American-Scandinavian Foundation]] Honorary Cultural Award (1996)&lt;ref name=wsoy/&gt;
+* [[SanomaWSOY|WSOY]] Literary Foundation Award (1999)&lt;ref name=wsoy/&gt;
+* Le Prix de l'Office Chrétien du Livre&lt;ref name=wsoy/&gt;
+
+==See also==
+{{Portal bar|Children's literature|Comics|Finland|Visual arts|Biography|LGBT}} &lt;!-- delete the word "bar" if there are enough ordinary See also --&gt;
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist |25em |refs=
+
+&lt;ref name=andersen&gt;
+[http://www.ibby.org/index.php?id=273 "Hans Christian Andersen Awards"]. [[International Board on Books for Young People]] (IBBY). Retrieved 2013-08-01.&lt;/ref&gt;
+&lt;ref name=ibby-jansson&gt;
+[http://www.literature.at/viewer.alo?objid=14769&amp;viewmode=fullscreen&amp;rotate=&amp;scale=3.33&amp;page=27 "Tove Jansson"] (pp. 32–33, by Sus Rostrup).&lt;br&gt; &lt;!--  full-page profile not used --&gt;
+''The Hans Christian Andersen Awards, 1956–2002''. IBBY. [[Gyldendal]]. 2002. Hosted by [[Austrian Literature Online]]. Retrieved 2013-08-01.&lt;/ref&gt;
+}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+*[https://web.archive.org/web/20110620093034/http://www.moomin.com/tove/ Tove Jansson] at www.moomin.com {{fi icon}} {{sv icon}} {{en icon}}
+*[https://web.archive.org/web/20141127174059/http://www.schildts.fi/forfattare/jansson-tove.html Tove Jansson] at [[Schildts]] {{fi icon}} {{sv icon}}
+*[http://www.toveteuvalla.fi/en Tove Jansson and the altarpiece "Ten Virgins"] {{fi icon}} {{sv icon}} {{en icon}} {{jp icon}}
+*[http://www.wsoy.fi/kirjailijat/-/author/name/JanssonTove Tove Jansson] at [[Sanoma|WSOY]] {{fi icon}}
+*[http://finland.fi/Public/default.aspx?contentid=160071&amp;nodeid=44499&amp;culture=en-US thisisFINLAND: People – Tove Jansson]: writer, painter and illustrator
+*[http://www.moomintrove.com/ The Moomin Trove] Comprehensive lists of Tove Jansson's Moomin books
+*[https://sites.google.com/site/finlandtravelclub/moomins Tove Jansson and The Moomin Trove] by Finland Travel Club
+*[http://www.bbc.co.uk/programmes/b01pgrk2/ ''Moominland Tales: The Life of Tove Jansson'' (BBC)] by Eleanor Yule
+* {{isfdb name|2148}}
+* {{LCAuth|n79046514|Tove Jansson|91|ue}}
+*[https://kansallisbiografia.fi/english/person/1395 Jansson, Tove (1914 - 2001)] at National Biographies of Finland
+
+{{Tove Jansson}}
+{{The Moomin Series}}
+{{Hans Christian Andersen Medal}}
+{{LGBT in Nordic countries}}
+{{Authority control}}
+
+{{DEFAULTSORT:Jansson, Tove}}
+[[Category:1914 births]]
+[[Category:2001 deaths]]
+[[Category:Writers from Helsinki]]
+[[Category:People from Uusimaa Province (Grand Duchy of Finland)]]
+[[Category:Swedish-speaking Finns]]
+[[Category:Finnish writers in Swedish]]
+[[Category:Writers from Uusimaa]]
+[[Category:Finnish comic strip cartoonists]]
+[[Category:Finnish cartoonists]]
+[[Category:Finnish children's writers]]
+[[Category:Finnish comics artists]]
+[[Category:Finnish fantasy writers]]
+[[Category:Finnish illustrators]]
+[[Category:Finnish women short story writers]]
+[[Category:Finnish women novelists]]
+[[Category:Finnish people of Swedish descent]]
+[[Category:Konstfack alumni]]
+[[Category:Lesbian writers]]
+[[Category:Lesbian artists]]
+[[Category:LGBT comics creators]]
+[[Category:LGBT people from Finland]]
+[[Category:Moomin series]]
+[[Category:Tolkien artists]]
+[[Category:Finnish female comics artists]]
+[[Category:Female comics writers]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:Finnish women artists]]
+[[Category:Hans Christian Andersen Award for Writing winners]]
+[[Category:Selma Lagerlöf Prize winners]]
+[[Category:Children's book illustrators]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Women children's writers]]
+[[Category:20th-century Finnish women writers]]
+[[Category:20th-century women artists]]
+[[Category:Artists from Helsinki]]
+[[Category:20th-century short story writers]]
+[[Category:Burials at Hietaniemi cemetery]]
+[[Category:Finnish painters]]
+[[Category:Modern painters]]
+[[Category:20th-century Finnish novelists]]</text>
+      <sha1>90drj1nzjrc47vdateysrw2m9uxfap0</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russell Taylor (cartoonist)</title>
+    <ns>0</ns>
+    <id>1452661</id>
+    <revision>
+      <id>835990738</id>
+      <parentid>817238123</parentid>
+      <timestamp>2018-04-12T00:49:50Z</timestamp>
+      <contributor>
+        <username>Rayman60</username>
+        <id>11276832</id>
+      </contributor>
+      <comment>Added {{[[:Template:BLP sources|BLP sources]]}} tag to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1530">{{BLP sources|date=April 2018}}
+{{Use dmy dates|date=July 2014}}
+'''Russell Philip Taylor''' MBE (born 8 July 1960) is a British writer, journalist and composer.  He is best known as half of the team (with [[Charles Peattie]]) that created the comic strip [[Alex (cartoon)|Alex]]. He studied at [[Abingdon School]] and read Russian and Philosophy at [[St Anne's College, Oxford]]. He was appointed MBE in 2002.
+
+He also writes TV and film music with Steve Cooke. Among others, they composed the music for the documentaries ''[[The Dying Rooms]]'' in 1995 and Chosen and ''[[Saving Africa's Witch Children]]'' – both of which won [[BAFTA]]s in April 2009.
+
+He has also written books on Russia and marathon running.
+
+Taylor is a supporter of [[Tottenham Hotspur]] football club, and as a private joke (and to avoid libel accusations) always names characters who are fired in the ''Alex'' strip after Tottenham footballers.&lt;ref&gt;"{{cite web |url=http://spurs.wippit.com/spurs/200904/Phil_Cornwell~The_Spurs_Show_-_April_2009~1~2nd_April_-_The_Boycott_the_Pru_Show.mp3 |title=The Spurs Show 2 April 2009 episode |publisher=Spurs.wippit.com |date= |accessdate=3 April 2009 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+==References==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Taylor, Russell}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:British cartoonists]]
+[[Category:People educated at Abingdon School]]
+[[Category:Members of the Order of the British Empire]]
+
+
+{{UK-cartoonist-stub}}</text>
+      <sha1>1a02nzw5112wl0i8yut2pa1u6j71zku</sha1>
+    </revision>
+  </page>
+</mediawiki>

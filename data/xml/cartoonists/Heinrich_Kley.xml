@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Heinrich Kley</title>
+    <ns>0</ns>
+    <id>3157044</id>
+    <revision>
+      <id>744224175</id>
+      <parentid>706248215</parentid>
+      <timestamp>2016-10-13T21:57:25Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */clean up; http&amp;rarr;https for [[Google Books]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3957">{{Refimprove|date=January 2011}}
+
+'''Heinrich Kley''' (April 15, 1863 in [[Karlsruhe]] – 1945 in [[Munich]]) was a [[Germany|German]] illustrator, editorial illustrator and [[Painting|painter]].
+
+Kley studied "practical arts" at the Karlsruhe Akademie and finished his studies in Munich.&lt;ref&gt;Applebaum, Stanley. ''Simplicissimus: 180 satirical drawings from the famous German weekly''. p. 85. Dover Publications. 1975.&lt;/ref&gt; His early works were conventional portraits, landscapes, [[still life]]s, city scenes and historical paintings. From about 1892 he won a reputation as an "industry artist", painting manufacturing scenes in oils and watercolors. They proved his deep understanding of the modern machine world. Kley attained greater notoriety with his sometimes darkly humorous pen drawings, published in ''[[Jugend]]'' and the notorious ''[[Simplicissimus]]''.
+
+The date of Kley's death is uncertain. Rumors initially suggested his demise in the early 1940s. It is also suggested that Kley died on August 2, 1945. Some sources mention the time of death on February 8, 1952.
+
+Cartoonist [[Joe Grant]] was well aware of Kley's work and introduced his drawings to [[Walt Disney]], who built an extensive private collection. A number of early Disney productions, notably ''[[Fantasia (1940 film)|Fantasia]]'', reveal Kley's inspiration.
+
+Due to Disney's interest and reprints by Dover Publications, Kley is still known in the USA, while he is nowadays little regarded in Germany.
+
+== References ==
+{{Reflist}}
+
+== Books ==
+* Heinrich Kley, Leut‘ und Viecher''. Album. Albert Langen Verlag München o. J.
+* Heinrich Kley, Skizzenbuch. Hundert Federzeichnungen''. Albert Langen Verlag München o. J.
+* Heinrich Kley, Skizzenbuch II. Hundert Federzeichnungen. Albert Langen Verlag München o. J.
+* Hetaerenbriefe. Eine Auswahl aus Alciphron, Lucian u. a. Übersetzt von Dr. Hans W. Fischer. Mit Bildern von Heinrich Kley. Georg H. Wigand‘sche Verlagsbuchhandlung Leipzig o.J.
+* Lucian, Lucius oder der Esel. Vorwort von Georg Cordesmühl. Bilder von Heinrich Kley. Georg H. Wigand‘sche Verlagsbuchhandlung Leipzig o.J.
+* Vergils Aeneis. Travestiert von Alois Blumauer. Illustriert von Heinrich Kley. Berthold Sutter Verlag München 1910
+* Justinus Kerner, Die Reiseschatten. Mit Urzinkzeichnungen von Heinrich Kley . Hans von Weber Verlag München 1921
+* Festzug. Jubiläum der Universität Heidelberg 1386 - 1886. Festzugs-Album, von Heinrich Kley in Karlsruhe unter Leitung von Professor Hoff entworfen und gezeichnet. Verlag von Bangel &amp; Schmitt (Otto Petters), Univ.-Buchhandlung und Edmund von König, Kunsthandlung in Heidelberg (vermutlich Kleys erste Veröffentlichung)
+* ''The Drawings of Heinrich Kley''. Dover Publications New York 1962
+* ''More Drawings of Heinrich Kley. Sketchbook I and II''. With an introduction. Dover Publications New York 1961
+* ''The Lost Art of Heinrich Kley, Volume 1: Drawings''. With a foreword by Michael Wm. Kaluta. Picture This Press, Silver Spring: Maryland, 2012
+* ''The Lost Art of Heinrich Kley, Volume 2: Paintings and Sketches''. With a foreword by Joseph V. Procopio. Picture This Press, Silver Spring: Maryland, 2012
+
+==External links==
+*[https://books.google.com/books?id=20VHWRG-vlAC&amp;printsec=frontcover&amp;dq=the+drawings+of+Heinrich+Kley&amp;source=bl&amp;ots=PZHt_Mt6ZR&amp;sig=bZIWnAqX8RPJXBC7jo5w-dMDE_s&amp;hl=en&amp;ei=X6YcTLXrMoatOI-I2YkM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CCYQ6AEwAg#v=onepage&amp;q&amp;f=false The drawings of Heinrich Kley]
+* [http://www.thescreamonline.com/art/art7-1/kley/kley.html The Art of Heinrich Kley]
+* [http://www.heinrich-kley.com/ Heinrich Kley Online]
+* [http://www.bpib.com/illustrat/kley.htm Heinrich Kley Biography]
+* [http://www.picturethispress.com/the-lost-art-of-heinrich-kley-volumes-1-2/ Heinrich Kley's Life and Art (with video)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kley, Heinrich}}
+[[Category:1863 births]]
+[[Category:1945 deaths]]
+[[Category:German illustrators]]</text>
+      <sha1>godehlu5rbycu7rt9ouialyyt1n5skd</sha1>
+    </revision>
+  </page>
+</mediawiki>

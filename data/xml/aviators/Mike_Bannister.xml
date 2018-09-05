@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mike Bannister</title>
+    <ns>0</ns>
+    <id>3206116</id>
+    <revision>
+      <id>820683391</id>
+      <parentid>818359897</parentid>
+      <timestamp>2018-01-16T00:51:32Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.2) ([[User:Balon Greyjoy|Balon Greyjoy]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2541">{{Use dmy dates|date=January 2018}}
+{{Use British English|date=January 2018}}
+{{Infobox aviator
+| name           = Mike Bannister
+| image          = 
+| alt            = 
+| caption        = 
+| birth_date     = {{birth year and age|1949}}
+| nationality    = British
+| known_for      = Chief Pilot of [[British Airways]]' [[Concorde]] fleet
+}}
+'''Mike Bannister''' (born 1949) is an [[aviator|airline pilot]]. He is most famous as the Chief Pilot of [[British Airways]]' [[Concorde]] fleet,&lt;ref&gt;{{cite web |url=http://www.jeremyjosephs.com/concorde.htm |title=Concorde pilot Captain Mike Bannister head of BA Concorde fleet |publisher=Jeremyjosephs.com |date= |accessdate=2010-05-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20110713102250/http://www.jeremyjosephs.com/concorde.htm |archivedate=13 July 2011 |df=dmy-all }}&lt;/ref&gt;&lt;ref name="concorde is back"&gt;{{cite web|url=http://www.concordesst.com/returntoflight/relaunch.html|title=Concorde is Back!|date=7 November 2001|publisher=concordesst.com|accessdate=9 May 2010}}&lt;/ref&gt; a post which he held from 1995 until its withdrawal from service in 2003. 
+
+He joined the British Airways crew of Concorde in 1977 where he became its youngest pilot. In his Concorde career Bannister accumulated around 9,600 Concorde flight hours almost 7,000 of which were Supersonic.  Bannister captained the Concorde's retirement flight, from New York to London on 24 October 2003.&lt;ref&gt;{{cite news |url = http://news.bbc.co.uk/1/hi/uk/3211053.stm |title = End of an era for Concorde |publisher = BBC News |date = 24 October 2003}}&lt;/ref&gt; 
+
+Since the retirement of Concorde, Bannister has contributed significantly to the raising of over £350,000 for good causes by lectures, signings and personal contributions etc.  Wishing to "Put Something Back" he is very active in the Voluntary/Third Sector including having taken on roles as a Chair of School Governors of an Independent School in Surrey, Corporate Non Executive Directorships, Anglican Church Lay PCC Chair and as a Trustee of a number of organisations, including Brooklands Museum, where he has recently been interim Chairman during an internal reorganisation.
+
+He currently runs an Aviation Consultancy specialising in Airline Management, Operational, Safety and Security matters across a wide range of aircraft types and geographical locations.
+
+==References==
+{{reflist}}
+
+
+{{DEFAULTSORT:Bannister, Mike}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:British aviators]]
+[[Category:Concorde pilots]]
+
+{{aviation-bio-stub}}</text>
+      <sha1>ortu11c54br3lbtnrf33py866zveki6</sha1>
+    </revision>
+  </page>
+</mediawiki>

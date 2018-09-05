@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ernst Heinkel</title>
+    <ns>0</ns>
+    <id>261520</id>
+    <revision>
+      <id>853077891</id>
+      <parentid>852985380</parentid>
+      <timestamp>2018-08-02T08:39:06Z</timestamp>
+      <contributor>
+        <username>Caroca2</username>
+        <id>31756405</id>
+      </contributor>
+      <comment>/* External links */ pm20</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10540">{{Infobox person
+| name = Dr. Ernst Heinkel
+| residence = 
+| other_names = 
+| image = Ernst Heinkel.jpg
+| image_size = 150px
+| caption = 
+| birth_name = 
+| birth_date = {{birth date|1888|1|24|df=y}}
+| birth_place = [[Remshalden|Grunbach]], [[German Empire]]
+| death_date = {{death date and age|1958|1|30|1888|1|24|df=y}}
+| death_place = [[Stuttgart]], [[West Germany]]
+| death_cause = 
+| known = 
+| occupation = German aircraft designer and manufacturer
+| awards = [[German National Prize for Art and Science]] &lt;small&gt;(1938)&lt;/small&gt;
+| party = 
+| spouse = 
+| children = 
+| footnotes = 
+}}
+
+Dr. '''Ernst Heinkel''' (24 January 1888 &amp;ndash; 30 January 1958) was a [[Germans|German]] aircraft designer, manufacturer, [[Wehrwirtschaftsführer]] in the [[Third Reich]], and member of the [[Nazi party]]. His company [[Heinkel|Heinkel Flugzeugwerke]] produced the [[Heinkel He 178]], the world's first turbojet aircraft and jet plane, and the [[Heinkel He 176]], the first rocket aircraft.
+
+==Early life==
+He was born in Grunbach, today a part of [[Remshalden]]. As a young man he became an [[apprentice#German|apprentice]] [[machinist]] at a [[foundry]]. Heinkel studied at the [[University of Stuttgart|Technical Academy of Stuttgart]],&lt;ref name=WW&gt;[https://books.google.com/books?id=PrYwT3eI3wcC&amp;pg=PA102&amp;dq=heinkel,+german+navy&amp;cd=5#v=onepage&amp;q=heinkel%2C%20german%20navy&amp;f=false "Who's who in Nazi Germany"], Robert S. Wistrich. Routledge, 2001. {{ISBN|0-415-26038-8}}, {{ISBN|978-0-415-26038-1}}. Retrieved March 16, 2010.&lt;/ref&gt; where he initially became interested in aviation through a fascination with [[Zeppelin]]s, and in 1909 attended an international airshow in [[Frankfurt am Main]]. He determined flight was the future of transportation, and the following year, he built his first aircraft, working from a set of plans by [[Henri Farman]]. Heinkel crashed the plane in 1911 and suffered severe injuries.&lt;ref&gt;[https://books.google.com/books?id=FW_50wm8VnMC&amp;pg=PA301&amp;dq=Ernst+Heinkel,+German+navy&amp;lr=&amp;as_brr=3&amp;cd=13#v=onepage&amp;q=&amp;f=false "Air Warfare: an International Encyclopedia"], Walter J. Boyne. ABC-CLIO, 2002. {{ISBN|1-57607-345-9}}, {{ISBN|978-1-57607-345-2}}. Retrieved March 16, 2010.&lt;/ref&gt;
+
+==Albatros Flugzeugwerke==
+Soon afterwards, he gained employment at [[Luft-Verkehrs Gesellschaft]] (LVG), who were building Farman aircraft. From there, he went to [[Albatros Flugzeugwerke|Albatros]]. Heinkel claimed post-war to have designed the [[Albatros B.II]], a successful reconnaissance and trainer aircraft used during the early stages of the [[World War I|First World War]], but its main designer was in fact [[Robert Thelen]].&lt;ref&gt;Grosz, Peter M. ''Albatros C.I'', Windsock Datafile No. 57, Albatros Productions, 1996, {{ISBN|0-948414-76-6}}, p.5, 10&lt;/ref&gt; His planes were used by the Austro-Hungarian army and Germany's ''[[Kaiserliche Marine]]'' during the war.&lt;ref name=WW /&gt; After leaving the Albatros, Heinkel designed several land- and seaplanes for the [[Hansa-Brandenburg]] company starting in 1914.
+
+==Heinkel-Flugzeugwerke==
+In [[1921 in aviation|1921]], Heinkel was appointed head designer of the recently re-established [[Caspar-Werke]], but soon left after a dispute over ownership of a design. In 1922 he established the [[Heinkel|Heinkel-Flugzeugwerke]] company at [[Warnemünde]]. Due to the restrictions placed on German aircraft manufacturing by the [[Treaty of Versailles]], Heinkel looked overseas for contracts, with some seaplane designs being licence-built in [[Sweden]] and working on [[catapult]]-launched seaplanes for the [[Imperial Japanese Navy]]. He installed a similar catapult on the [[ocean liner]] [[SS Bremen (1929)|Bremen]] for launching [[mail plane]]s.
+
+===Versailles Treaty violations===
+Between 1921-1924, the Japanese government placed several orders with Heinkel's company, and helped him skirt the [[Versailles Treaty]], which banned the construction of military aircraft in Germany, by informing the company of facility inspections by allied commissions in advance.&lt;ref name=JG&gt;[https://books.google.com/books?id=IijlCfMFUW8C&amp;pg=PA44&amp;dq=ernst+heinkel,+german+navy&amp;as_brr=3&amp;cd=1#v=onepage&amp;q=ernst%20heinkel%2C%20german%20navy&amp;f=false "Japanese-German relations, 1895-1945"], Christian W. Spang, Rolf-Harald Wippich. Routledge, 2006. {{ISBN|0-415-34248-1}}, {{ISBN|978-0-415-34248-3}}. Retrieved March 16, 2010.&lt;/ref&gt; Japan was part of the inspection commission.&lt;ref name=HV&gt;[https://books.google.com/books?id=QXuQbyoF04AC&amp;pg=PA46&amp;dq=ernst+heinkel,+jews&amp;lr=&amp;cd=7#v=onepage&amp;q=ernst%20heinkel%2C%20jews&amp;f=false "Hans von Ohain: elegance in flight"], Margaret Conner. AIAA, 2001. {{ISBN|1-56347-520-0}}, {{ISBN|978-1-56347-520-7}}. Retrieved March 16, 2010.&lt;/ref&gt; Heinkel hid his aircraft in [[dune]]s behind his plant and were never discovered during inspections.&lt;ref name=HV /&gt; Heinkel noted in his memoirs that his company's relationship with Japan in the 1920s led to decades of cooperation.&lt;ref name=JG /&gt;
+
+==1933-1945==
+[[File:Bundesarchiv Bild 101I-317-0043-17A, Flugzeug Heinkel He 111.jpg|thumb|[[Heinkel 111]]P dropping bombs over [[Poland]], September 1939]]
+After [[Adolf Hitler]] came to power, designs by Heinkel's firm formed a vital part of the [[Luftwaffe|Luftwaffe's]] growing strength in the years leading up to the [[World War II|Second World War]]. This included the [[Heinkel He 59]], the [[Heinkel He 115]] and the [[Heinkel He 111]]. He was designated a Wehrwirtschaftführer (~ defence industry leader) by the German government for his commitment to rearmament.
+
+Heinkel was passionate about [[high-speed flight]], and was keen on exploring alternative forms of aircraft propulsion. He donated aircraft to [[Wernher von Braun]] who was investigating [[rocket]] propulsion for aircraft, as well as sponsoring the research of [[Hans von Ohain]] into [[turbojet]] engines, leading to the flight of the [[Heinkel He 178]], the first aircraft to fly solely under turbojet power by [[Erich Warsitz]] on August 27, 1939.
+
+Heinkel had been a critic of Hitler's regime concerning being forced to fire [[Jew]]ish designers and staff in 1933, however, he was a member of the Nazi party,&lt;ref name=HV /&gt; awarded the [[German National Prize for Art and Science]] in 1938, one of the rarest honors of the German government,&lt;ref&gt;[https://books.google.com/books?id=7WtKH-9ha4MC&amp;pg=PA266&amp;dq=Ernst+Heinkel,+hitler&amp;cd=10#v=onepage&amp;q=Ernst%20Heinkel%2C%20hitler&amp;f=false "The automobile age"], James J. Flink. MIT Press, 1990. {{ISBN|0-262-56055-0}}, {{ISBN|978-0-262-56055-9}}. Retrieved March 16, 2010.&lt;/ref&gt; and he used forced Jewish labor starting in 1941, in which his company was considered a "model for slave labor."&lt;ref&gt;[https://books.google.com/books?id=KOv3GtkGbAoC&amp;pg=PA375-IA13&amp;lpg=PA375-IA13&amp;dq=heinkel,+jews&amp;source=bl&amp;ots=rAtX_NjV2p&amp;sig=HsfJe4_8Iut7nSqoXIFA3yXAnds&amp;hl=en&amp;ei=rT6fS_-2DdWUtgem5-jvDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CAkQ6AEwAQ#v=onepage&amp;q=heinkel%2C%20jews&amp;f=false "Oskar Schindler: the untold account of his life"], David Crowe. Westview Press, 2004. {{ISBN|0-8133-3375-X}}, 9780813333755. Retrieved March 16, 2010.&lt;/ref&gt;
+
+In 1942 the government "nationalised" the Heinkel works. In practice, this meant that Heinkel was detained until he sold his controlling interest in his factories to [[Hermann Göring]]. Heinkel moved to [[Vienna]] and started a new design bureau and corporate offices in Vienna's [[Vienna International Airport|Schwechat]] suburb, establishing manufacturing facilities in [[Zwölfaxing]] and [[Floridsdorf]] as the ''Heinkel-Sud'' complex for his firm, the original Rostock-"Marienhe" plant (today's Rostock-Schmarl neighborhood) becoming the ''Heinkel-Nord'' facility.  It was at the ''Heinkel-Sud'' offices that Dr. Heinkel worked on the [[Heinkel He 274]] four-engined high-altitude heavy bomber design - as one of the trio of proposals for aircraft designs to succeed his firm's failed [[Heinkel He 177]]A heavy bomber — until the war ended.
+
+==Post-war==
+With Germany forbidden from manufacturing aircraft by the Allies, Heinkel used his company's facilities to build private transportation.  In 1953 Heinkel began production of the [[Heinkel Tourist|Tourist]] [[scooter (motorcycle)|scooter]], followed by the Perle [[moped]] in 1954.  In 1956 he introduced the [[Heinkel Kabine]] [[bubble car]].  Bubble car and moped production ceased shortly after the restriction on aircraft manufacture was lifted, but scooter production continued until 1965. In 1959, Heinkel's company was sued by Edmund Bartl for being enriched by slave labor during World War II, however, the German Supreme Court dismissed his claims for filing too late and ordered Bartl to pay court costs and attorney's fees.&lt;ref&gt;[https://books.google.com/books?id=h-QM56pLM-gC&amp;pg=PA175&amp;dq=Heinkel,+jews&amp;as_brr=3&amp;cd=6#v=onepage&amp;q=Heinkel%2C%20jews&amp;f=false "Less than slaves: Jewish forced labor and the quest for compensation"], Benjamin B. Ferencz. Indiana University Press, 2002. {{ISBN|0-253-34105-1}}, {{ISBN|978-0-253-34105-1}}. Retrieved March 16, 2010.&lt;/ref&gt;
+
+==Death and Legacy==
+Ernst Heinkel died in 1958 in [[Stuttgart]]. His autobiography, ''Stürmisches Leben'', was published in 1956 and translated into English as ''He1000'' in its British edition and ''Stormy Life: Memoirs of a Pioneer of the Air Age'' in its US edition.
+
+In 1981, Heinkel was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==Sources==
+* {{cite book|first=Lutz |last=Warsitz|title=The First Jet Pilot - The Story of German Test Pilot Erich Warsitz|publisher=Pen and Sword Books |year=2009|id=9781844158188}}[http://www.pen-and-sword.co.uk/?product_id=1762 English Edition]
+
+==External links==
+* [http://www.erichwarsitz.com Audio commentary by Erich Warsitz (world's first jet pilot) about Ernst Heinkel, Switzerland, August 2, 1979]
+* {{PM20|FID=pe/007461}}
+
+{{Authority control}}
+{{DEFAULTSORT:Heinkel, Ernst}}
+[[Category:1888 births]]
+[[Category:1958 deaths]]
+[[Category:Aircraft designers]]
+[[Category:German aerospace engineers]]
+[[Category:German company founders]]
+[[Category:German people of World War II]]
+[[Category:Heinkel]]
+[[Category:People from the Kingdom of Württemberg]]
+[[Category:Research and development in Nazi Germany]]</text>
+      <sha1>b42fp5ifo3uncwd8gnmvh7yufzf953l</sha1>
+    </revision>
+  </page>
+</mediawiki>

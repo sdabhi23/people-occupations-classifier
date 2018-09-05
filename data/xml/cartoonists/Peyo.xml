@@ -1,0 +1,154 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Peyo</title>
+    <ns>0</ns>
+    <id>196124</id>
+    <revision>
+      <id>839110843</id>
+      <parentid>839110837</parentid>
+      <timestamp>2018-05-01T09:47:33Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/77.246.18.10|77.246.18.10]] to version by Fram. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3365562) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10649">{{moresources|date=July 2016}}
+{{Infobox comics creator
+| image         = Peyo (1990) by Erling Mandelmann.jpg
+| imagesize     =
+| caption       = Peyo in 1990
+| birth_name    = Pierre Culliford
+| birth_date    = {{birth date|1928|06|25|df=yes}}
+| birth_place   = [[Brussels]], [[Belgium]]
+| death_date    = {{death date and age|1992|12|24|1928|06|25|df=yes}}
+| death_place   = Brussels, Belgium
+| nationality   = Belgian
+| write         = y
+| art           = y
+| alias         =
+| signature     = Peyo signature.svg
+| signature_alt =
+| notable works = ''[[The Smurfs]]''&lt;ref&gt;{{cite news|title= Pierre Culliford, Smurf Creator, Dies at 64|work= The New York Times|date=25 December 1992|url= https://www.nytimes.com/1992/12/25/arts/pierre-culliford-smurf-creator-dies-at-64.html?scp=4&amp;sq=smurfs&amp;st=cse|accessdate=2010-08-14}}&lt;/ref&gt; &lt;br/&gt;''[[Johan and Peewit|Johan et Pirlouit]]''&lt;br/&gt;''[[Steven Strong|Benoît Brisefer]]''
+| awards        = [[#Awards and honours|full list]]
+| subcat        = Belgian
+}}
+'''Pierre Culliford''' ({{IPA-fr|kylifɔʁ|lang}}; 25 June 1928&amp;nbsp;– 24 December 1992) was a Belgian cartoonist who worked under the pseudonym '''Peyo''' ({{IPA-fr|pejo|}}).  His best-known works are the comic strips ''[[The Smurfs]]'' and ''[[Johan and Peewit]]'', in which the Smurfs first appeared.&lt;ref&gt;{{cite news|title= Pierre Culliford; Created the Widely Popular Smurfs |publisher= LA Times|date=25 December 1992|url= http://articles.latimes.com/1992-12-25/news/mn-2392_1_pierre-culliford|accessdate=2010-08-24 | first=Burt A. | last=Folkart}}&lt;/ref&gt;
+
+After working briefly at a Belgian animation studio, Peyo began making comic strips for daily newspapers such as ''[[Le Soir]]'' shortly after World War&amp;nbsp;II.  At the beginning of the 1950s, he brought his character Johan to the magazine ''[[Spirou (magazine)|Spirou]]'', whom he soon gave a companion, the diminutive Peewit; the strip soon became a staple of the weeklies.  Peyo introduced the Smurfs in the ''Johan and Peewit'' storyline ''The Magic Flute'' in 1958; the characters quickly supplanted Johan and Peewit in popularity and left them behind for their own series.
+
+In 1960 Peyo founded a studio to accommodate his assistants such as François Walthéry, Gos, and Marc Wasterlain and created the series ''[[Steven Strong]]'' and ''[[Jacky and Célestin]]''.  Peyo's output diminished in the 1970s, at first due to the time he invested in the film ''[[The Smurfs and the Magic Flute]]'' (1976); in the 1980s he put in more time, despite recurring health problems, into an American adaptation of ''The Smurfs'' as [[The Smurfs (TV series)|an animated television series]].  After the series concluded he left his publisher [[Dupuis]] to found his own publishing house, Cartoon Creation, and a cartoon magazine, ''Schtroumpf!'', which soon folded due to management problems.  He joined [[Le Lombard]] in 1992 but died a few months later.  Since his death, Peyo's children have continued to promote his work under the brand "Peyo".
+
+==Personal life==
+Peyo was born in 1928 in the Belgian municipality [[Schaerbeek]], as the son of an [[English people|English]] father and a Belgian mother.&lt;ref name=Weyer&gt;De Weyer, Geert (2005). "Peyo". In België gestript, pp. 148-149. Tielt: Lannoo.&lt;/ref&gt; On [[Christmas Eve]] 1992, Peyo died of a [[myocardial infarction|heart attack]] in Brussels at age 64.
+
+==Career==
+He took on the name "Peyo" early in his professional career, based on an [[England|English]] cousin's mispronunciation of Pierrot (a diminutive form of [[Pierre]]).
+
+Peyo began work, fresh from his coursework at the [[Académie Royale des Beaux-Arts]] in Brussels, at the [[Compagnie Belge d'Animation]] (CBA), a small Belgian animation studio, where he met a few of his future colleagues and co-celebrities, like [[André Franquin]], [[Morris (comics)|Morris]], and [[Eddy Paape]]. When the studio folded after the war, the other artists went to work for [[Dupuis]], but Peyo, a few years younger than the others, was not accepted.&lt;ref name=Weyer/&gt; He made his first comics for the newspaper ''[[La Dernière Heure]]'' (The Latest Hour), but also accepted many promotional drawing jobs for income. From 1949 to 1952, he drew ''[[Poussy]]'', a stop comic about a cat, for ''[[Le Soir]]''. For the same newspaper, he also created ''Johan''.
+
+In 1952, Franquin introduced Peyo to ''[[Spirou (magazine)|Spirou]]'', a children's [[Franco-Belgian comics]] magazine published by [[Dupuis]].&lt;ref name=Weyer/&gt; Peyo wrote and drew a number of characters and storylines, including ''Pierrot'', and ''Benoît Brisefer'' (translated into English as ''[[Steven Strong]]''). But his favourite was ''Johan et Pirlouit'' (translated into English as ''[[Johan and Peewit]]''), which was a continuation of the series ''Johan'' he had created earlier. He also continued ''Poussy'' in ''Spirou''.
+
+Set in the [[Middle Ages]] in [[Europe]], ''Johan et Pirlouit'' stars a brave young [[Page (occupation)|page]] to the king, and his faithful, if boastful and cheating, midget [[sidekick]]. Johan rides off to defend the meek on his trusty horse, while Peewit gallops sporadically behind on his goat, named Biquette. The pair was driven by duty to their king and the courage to defend the underpowered. Peewit only appeared in the third adventure in 1954 but would stay for all later adventures.
+
+===Smurfs===
+The first Smurf appeared in ''[[Johan and Peewit]]'' on 23 October 1958 in the album ''La Flûte à Six Schtroumpfs'' (''The Six Smurfed Flute''). As the Smurfs became increasingly popular, Peyo started a studio in the early 1960s, where a number of talented [[comics artist]]s started to work. Peyo himself supervised the work and worked primarily on ''Johan and Peewit'', leaving the Smurfs to the studio. The most notable artists to come out of this studio were [[François Walthéry|Walthéry]], [[Marc Wasterlain]], [[Roland Goossens|Gos]], [[Claude de Ribaupierre|Derib]], [[Lucien De Gieter]], and [[Daniel Desorgher]].
+
+In 1959, the Smurfs got their own [[The Smurfs (comics)|series]], and in 1960, two more began: ''[[Steven Strong]]'' and ''Jacky and Célestin''. Many authors of the [[Marcinelle school]] collaborated on the writing, or on the artwork, including [[Will (comics)|Willy Maltaite]] (aka 'Will'), [[Yvan Delporte]], and [[Roger Leloup]]. Peyo became more of a businessman and supervisor and was less involved in the actual creation of the comics. He let his son, Thierry Culliford, lead the studio, while his daughter Véronique was responsible for the merchandising (I.M.P.S. was established in 1985 by her).&lt;ref name=Weyer/&gt;
+
+The [[The Smurfs (merchandising)|merchandising of the Smurfs]] began in 1959, with the PVC figurines as the most important aspect until the late 1970s. Then, with the success of [[The Smurfs (music)|The Smurfs]] records by [[Pierre Kartner]], the Smurfs achieved more international success, with a new boom in toys and gadgets. Some of these reached the [[United States]], where [[Hanna-Barbera]] created a [[The Smurfs (TV series)|Saturday morning animated series]] in 1981 for which Peyo served as story supervisor. Peyo's health began to fail. In 1989, after his partnership with Dupuis ended, he established Cartoon Creation to publish new Smurf stories. In late 1991, the company was forced to shut down due to mismanagement. The publishing rights were soon sold to Le Lombard. Peyo died at age 64, on [[Christmas Eve]] 1992, of a [[myocardial infarction|heart attack]] in Brussels. His studio still exists, and new stories for various series are regularly produced under his name.
+
+In the 2011 film ''[[The Smurfs (film)|The Smurfs]]'', Peyo was included in the plot as a researcher who studied the myths concerning the Smurfs, who were made to be real-life legendary creatures in the film's storyline.
+
+==Awards and honours==
+{{Expand section|date=December 2009}}
+* He received the [[Angoulême International Comics Festival Prix Jeunesse 9-12 ans|Youth Prize (9-12 years)]] award 1984 at the [[Angoulême International Comics Festival]], [[France]].
+* The 50th anniversary of [[The Smurfs]] and the 80th anniversary of the birth of its creator was celebrated by issuing a high-value collectors' coin: the Belgian 5 euro [[Euro gold and silver commemorative coins (Belgium)#2008 coinage|50th anniversary of The Smurfs commemorative coin]], minted in 2008.
+
+==Bibliography==
+Only those comics Peyo collaborated on are listed here: the comics made in those series after his death can be found in the articles for each series. Artist and writers mentioned are only those officially credited: unnamed studio collaborators are not listed here.
+
+*''[[Jacky and Célestin]]'', 1960–1978: 10 stories in ''Le Soir'', 4 albums by [[Dupuis]]: artwork by [[François Walthéry]], [[Francis (comics)|Francis]], [[Jo-El Azara]] and [[Mitteï]], stories by Peyo, [[Roland Goossens|Gos]], and [[Vicq (comics)|Vicq]]
+*''[[Johan and Peewit]]'' (''Johan et Pirlouit''), 1952-1970: 13 albums by Dupuis
+*''[[Natacha (comics)|Natacha]]'', 1992: 1 album by Dupuis, artwork by Walthéry, story by Peyo
+*''[[Pierrot (comics)|Pierrot]]'': 1991, 1 album by Cartoon Creation
+*''[[Poussy]]'', 1977–1978, 3 albums by Dupuis
+*''[[The Smurfs (comics)|The Smurfs]]'' (''Les Schtroumpfs''), 1959–1992, 17 albums by Dupuis: additional artwork by Alain Maury and Luc Parthoens, additional stories by [[Yvan Delporte]], Gos, Thierry Culliford
+*''[[Spirou et Fantasio]]'', 1969, 1 album by Dupuis, artwork by [[André Franquin]] and [[Jidéhem]], story by Peyo and Gos
+*''[[Steven Strong]]'' (''Benoît Brisefer''), 1960–1978, 7 albums by Dupuis, additional artwork by [[Will (comics)|Will]], Walthéry, [[Marc Wasterlain]] and Albert Blesteau, additional stories by Yvan Delporte, Gos, and Blesteau
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Peyo}}
+* [http://lambiek.net/artists/p/peyo.htm Peyo biography] on Lambiek Comiclopedia, lambiek.net
+* [http://www.dupuis.com/servlet/jpecat?pgm=VIEW_AUTHOR&amp;lang=UK&amp;AUTEUR_ID=92 Peyo biography], dupuis.com {{en icon}}
+* [https://web.archive.org/web/20111013103939/http://www.smurf.com/en/history Peyo biography] ''The Smurfs'' official site
+
+{{The Smurfs Series}}
+
+{{Use dmy dates|date=January 2011}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Peyo}}
+[[Category:Peyo| ]]
+[[Category:Belgian comics artists]]
+[[Category:Belgian satirists]]
+[[Category:People from Brussels]]
+[[Category:1928 births]]
+[[Category:1992 deaths]]
+[[Category:Belgian people of English descent]] 
+[[Category:Pseudonymous artists]]
+[[Category:Hanna-Barbera people]]
+[[Category:Académie Royale des Beaux-Arts alumni]]</text>
+      <sha1>ocabkwtnj9ha557l1gl0dr0i3cjq6au</sha1>
+    </revision>
+  </page>
+</mediawiki>

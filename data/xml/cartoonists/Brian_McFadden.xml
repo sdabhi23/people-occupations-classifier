@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Brian McFadden (cartoonist)</title>
+    <ns>0</ns>
+    <id>35393000</id>
+    <revision>
+      <id>836143375</id>
+      <parentid>797109071</parentid>
+      <timestamp>2018-04-12T22:36:00Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>Birth/death year categories, [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4410">{{about|the cartoonist|the Irish singer|Brian McFadden (singer)}}
+{{Infobox comics creator
+| bgcolour      = #6495ED
+| name          = Brian McFadden
+| image         = 
+| imagesize     = 
+| caption       = 
+| birth_name     =
+| birth_date     = {{birth year and age|1984}}&lt;ref name=Beat&gt;{{cite web|url=http://www.comicsbeat.com/2011/06/24/editorial-cartoonist-brian-mcfadden-moves-to-the-new-york-times |website=[[ComicsBeat.com]] |title=Editorial cartoonist Brian McFadden moves to the New York Times |date=2011-06-24 |deadurl=unfit |archiveurl=https://web.archive.org/web/20111124064954/http://www.comicsbeat.com/2011/06/24/editorial-cartoonist-brian-mcfadden-moves-to-the-new-york-times |archivedate=November 24, 2011 }}&lt;/ref&gt;
+| birth_place      = 
+| death_date     = 
+| death_place    = 
+| nationality   = [[United States|American]]
+| field         = [[Cartoonist]]
+| training      = [[Mechanical engineering]]
+| movement      =
+| works         = ''[[Big Fat Whale]]''
+| patrons       =
+| influenced by = [[Matt Groening]]
+| influenced    =
+| awards        =
+| website       = http://brianmcfadden.org
+}}
+
+'''Brian McFadden''' is an [[United States|American]] [[cartoonist]] who started on [[GeoCities]] in 2001,&lt;ref&gt;{{cite news|author=Goldfond, Joshua|title=‘The Bamboo Online Interview: Brian McFadden, NY Times Cartoonist &amp; Creator of the "Big Fat Whale" online comic strip|url=http://www.thebambooonline.com/index.php?option=com_content&amp;view=article&amp;id=109:a-conversation-with-brian-mcfadden-ny-times-cartoonist|accessdate=April 8, 2012|publisher=The Bamboo Online}}&lt;/ref&gt; created '''''Big Fat Whale''''', and became a featured artist at ''[[The New York Times]]'' in 2011.&lt;ref name=WashingtonPost&gt;{{cite news|author=Cavna, Michael|title=New York Times Debut: Alt-cartoonist Brian McFadden revels in paper’s first Sunday Review slot|url=https://www.washingtonpost.com/blogs/comic-riffs/post/new-york-times-debut-thrilled-alt-cartoonist-brian-mcfadden-on-landing-the-papers-first-sunday-review-slot/2011/06/27/AGCmWFnH_blog.html|work=[[The Washington Post]]|date=June 26, 2011|accessdate=April 8, 2012}}&lt;/ref&gt;
+
+==Personal life==
+As of June 2011, McFadden was 27 years old and lived in [[Massachusetts]].&lt;ref name=Beat /&gt; At a young age, McFeddan was influenced by [[Matt Groening]]'s alternative comic ''[[Life in Hell]]''.&lt;ref name=WashingtonPost /&gt;
+
+==''Big Fat Whale''==
+''Big Fat Whale'' was a weekly [[webcomic]] both written and illustrated by McFadden. The comic started on October 16, 2001, in a form which the cartoonist described as "terrible, even by webcomic standards."&lt;ref name="Big Fat Whale History"&gt;[http://www.bigfatwhale.com/history.html "Big Fat Whale History"] {{webarchive |url=https://web.archive.org/web/20070704223403/http://www.bigfatwhale.com/history.html |date=July 4, 2007 }}&lt;/ref&gt; Eventually, the strip improved.
+
+The strip began its print run in [[Boston, Massachusetts|Boston's]] monthly publication ''[[Editorial Humor]]'' in 2002. However, the publication went out of business and the strip stayed on the web for almost a year.&lt;ref name="Big Fat Whale History" /&gt; In February 2004, ''Big Fat Whale'' was picked up by ''[[Cleveland Free Times]]'' and later by ''[[The Boston Phoenix]]''.&lt;ref name="Big Fat Whale History" /&gt; ''Big Fat Whale'' was included in [[Ted Rall|Ted Rall's]] [[Attitude 3: The New Subversive Online Cartoonists]].
+
+==At ''The New York Times''==
+McFadden described being chosen as being a featured artist in ''[[The New York Times]]'' as being "plucked from some sandlot and dropped into a [[Major League Baseball|Major League]] stadium." The online newspaper was reinventing its Week in Review" section in May 2011, and [[Aviva Michaelov]] asked McFadden personally to join the section’s opening-debut roster. McFadden has been producing a weekly strip since; though he has stated to get a lot of leeway, McFeddan needs to get his scripts approved by mid-week so that he has enough time for his editing process.&lt;ref name=WashingtonPost /&gt;
+
+McFadden is supposed to give the section a "younger perspective".&lt;ref name=Beat /&gt;
+
+==Notes==
+{{reflist}}
+
+==External links==
+* {{official website|http://brianmcfadden.org/}}
+* At [https://www.nytimes.com/thestrip ''The New York Times'']
+
+{{DEFAULTSORT:Mcfadden, Brian}}
+[[Category:Living people]]
+[[Category:American cartoonists]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:1984 births]]</text>
+      <sha1>qw2cdwnqtl41tojk8w8yor5kljbcbo3</sha1>
+    </revision>
+  </page>
+</mediawiki>

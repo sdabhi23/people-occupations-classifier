@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rik Kemp</title>
+    <ns>0</ns>
+    <id>24489302</id>
+    <revision>
+      <id>828407411</id>
+      <parentid>773954335</parentid>
+      <timestamp>2018-03-02T10:34:21Z</timestamp>
+      <contributor>
+        <username>Colonies Chris</username>
+        <id>577301</id>
+      </contributor>
+      <comment>minor fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1653">{{BLP sources|date=May 2012}}
+'''Richard "Rik" Kemp''' (born 9 January 1939) is an Australian former cartoonist.&lt;ref&gt;{{cite web|url=http://www.daao.org.au/main/read/3674|title=Rik Kemp|work=Dictionary of Australian Artists Online|date=2007-11-14|accessdate=2010-08-23}}&lt;/ref&gt;
+
+==Cartooning and illustration==
+Kemp began his passion for art at college in London. From the late 1950s he had several single frame cartoons published nationally as well as a comic strip titled "Bold Sir Bold". In 1981, Kemp emigrated to Australia and continued his cartoon career in [[Sydney]]. From 1981 to 1999, Kemp's cartoons could be seen in the ''[[Australasian Post]]'', ''[[Woman's Day (Australian magazine)|Woman's Day]]'', ''[[The Australian Women's Weekly|Women's Weekly]]'', ''[[People (Australian magazine)|People Magazine]]'', ''[[The Bulletin]]'' and several others. He has illustrated books, designed colouring-in stencils for children, taught art classes and exhibited in galleries as well as being reviewed by the ''Macarthur Advertiser'' and the ''Macarthur Chronicle''. Kemp retired in 2001 and now writes short stories and is working on his first novel.
+
+==Family and personal life==
+Kemp was married to his first wife for 12 years and father to two children. His second wife, Janet, a school teacher from Wolverhampton, moved with him to Australia where they had a daughter Gillian and settled in Sydney. The couple now live in [[Queensland]].
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Kemp, Rik}}
+[[Category:Living people]]
+[[Category:1939 births]]
+[[Category:Australian cartoonists]]
+[[Category:English emigrants to Australia]]
+
+
+{{cartoonist-stub}}</text>
+      <sha1>s29nde9uy99xhy28sc0t79f1bkalf74</sha1>
+    </revision>
+  </page>
+</mediawiki>

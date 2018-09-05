@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Arja Kajermo</title>
+    <ns>0</ns>
+    <id>6129518</id>
+    <revision>
+      <id>841607624</id>
+      <parentid>838167851</parentid>
+      <timestamp>2018-05-16T21:33:22Z</timestamp>
+      <contributor>
+        <username>Paracel63</username>
+        <id>2249817</id>
+      </contributor>
+      <comment>photo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2461">[[File:Arja Kajermo, 2010-09-06, Stockholm (IMG 0479-2).jpg|thumb|Arja Kajermo, 2010]]
+'''Arja Kajermo''' is a cartoonist, born in Finland, raised in Sweden, currently residing in Ireland.
+
+Arja started working as a cartoonist for the magazine [[In Dublin]] in the 1970s. She drew a fortnightly strip for In Dublin for ten years. Her first book of cartoons ''The Dirty Dublin Strip Cartoons'' (Poolbeg Press) was based on these strips.
+
+She contributed cartoons to the feminist publisher Attic Press and occasionally to The Sunday Press (now gone), [[The Irish Times]], [[Image magazine (Ireland)|Image magazine]], [[Magill]] and others. Her strip ''Dublin Four'' ran in the [[Sunday Tribune]].
+
+She now draws the strip ''Tuula'' in the Sunday edition of Swedish daily newspaper [[Dagens Nyheter]].
+
+The ''Tuula'' strip was turned into a book, ''En pillig sol i Särholmen'' (Nisses Böcker 2005). It is a light-hearted look at daily life in a suburb south of Stockholm. A second book, ''Tuula-underbar, underbetald undersköterska'' (Nisses Böcker 2008), expanded the subject matter to expectations, class, culture, cliché and gender.
+
+Some of the books illustrated by Arja Kajermo include the children's book ''Address Vintergatan'' (Almqvist&amp;Wiksell, 2003), ''Hämta kraft'' (UR, 2008) by Annamaria Dahlöf about stress in the workplace, and ''Get Through'' (Royal Society of Medicine Press, 2008) by Bruno Rushforth and Val Wass, dealing with MRCGP Clinical Skills Assessment.
+
+Arja Kajermo's debut novel 'The Iron Age' was published by [[Tramp Press]] 2017&lt;ref&gt;http://www.tramppress.com/product/the-iron-age-paperback/&lt;/ref&gt;. This darkly funny novel with illustrations throughout by Susanna Kajermo Törner grew out of a story shortlisted for the Davy Byrne's Short Story Award 2014&lt;ref&gt;https://www.writing.ie/writing-comps/the-2014-davy-byrnes-short-story-award/&lt;/ref&gt;. The Iron Age was longlisted for the Republic of Consiousness Prize and was one of twenty on the Walter Scott Prize recommended reads (2018)&lt;ref&gt;http://www.tramppress.com/the-iron-age-longlisted-for-the-republic-of-consciousness-prize/&lt;/ref&gt;
+
+==References==
+&lt;references /&gt;
+
+== External links ==
+* http://www.tuula.se/
+* http://www.nissesbocker.se/ Nisse Boker, publisher
+* http://www.tramppress.com/  Tramp Press, publisher
+
+{{DEFAULTSORT:Kajermo, Arja}}
+[[Category:Finnish comics artists]]
+[[Category:Finnish comic strip cartoonists]]
+[[Category:Living people]]
+
+
+{{cartoonist-stub}}</text>
+      <sha1>sp3vrifh4ijh6pmd1qxbqyn4qya0g9q</sha1>
+    </revision>
+  </page>
+</mediawiki>

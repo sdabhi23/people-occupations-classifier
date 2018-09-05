@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sharifah Czarena</title>
+    <ns>0</ns>
+    <id>55758378</id>
+    <revision>
+      <id>851257180</id>
+      <parentid>829825129</parentid>
+      <timestamp>2018-07-21T03:02:10Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4137">{{Infobox aviator
+| name             = Sharifah Czarena
+| image            = 
+| image_size       = 
+| alt              = 
+| caption          = 
+| full_name        = 
+| birth_name       =
+| birth_date       = &lt;!-- {{Birth date|YYYY|MM|DD}} --&gt;
+| birth_place      = 
+| nationality      = Bruneian
+| education        = 
+| spouse           = 
+| relatives        = 
+| known_for        = First female Captain from Brunei
+| first_flight_date     = 
+| first_flight_aircraft = 
+| famous_flights   = 
+| license_date     = 
+| license_place    = 
+| rank             = Captain
+| awards           = 
+| memorials        = 
+| website          = &lt;!-- {{URL|example.com}} --&gt;
+| child            = 
+| module           = 
+}}
+
+'''Sharifah Czarena''' is a [[Brunei]]an pilot, who was the first woman from Brunei to captain a commercial airliner. She was initially seconded to [[Loganair]], where she flew the [[Saab 340]]. Since flying for [[Royal Brunei Airlines]], she has flown [[Boeing 767]]s and [[Boeing 787 Dreamliner]]s.
+
+==Career==
+Sharifah Czarena trained as a pilot cadet in 2003, taking her lessons at the Cabair Flying School, [[Cranfield]].&lt;ref name="inspire"&gt;{{cite web|title=Captain Sharifah Czarena|url=https://yesinspire.com/captain-sharifah-czarena/|publisher=Inspire|accessdate=9 November 2017}}&lt;/ref&gt; After graduating in 2004, she was seconded from [[Royal Brunei Airlines]] to Scottish carrier [[Loganair]] for two years, flying the [[Saab 340]].&lt;ref name="inspire"/&gt;&lt;ref name="travel"&gt;{{cite news|title=A day in the life: Captain Sharifah Czarena|url=http://www.travelweekly.co.uk/articles/63466/a-day-in-the-life-captain-sharifah-czarena|accessdate=9 November 2017|work=Travel Weekly|date=12 October 2016}}&lt;/ref&gt; On her return to Royal Brunei Airlines, she flew the [[Boeing 767]] as a First Officer.&lt;ref name="inspire"/&gt;
+
+Czarena was promoted to Senior First Officer in 2007, and to Captain in 2012.&lt;ref name="inspire"/&gt; She was the first woman from Brunei to become the captain of a commercial airliner.&lt;ref name=nyt&gt;{{cite news|title=First all-women flight crew from Brunei lands in country where women can’t drive|url=http://nytlive.nytimes.com/womenintheworld/2016/03/15/first-all-women-flight-crew-from-brunei-lands-in-country-where-women-cant-drive/|accessdate=9 November 2017|work=New York Times|date=15 March 2016}}&lt;/ref&gt; At the time, she said "Being a pilot, people normally see it as being a male dominant occupation. As a woman, a Bruneian woman, it is such a great achievement. It’s really showing the younger generation or the girls especially that whatever they dream of, they can achieve it."&lt;ref&gt;{{cite news|last1=O'Shea|first1=Ronan J.|title=Southwest Airlines celebrates first all-female flight crew|url=https://www.msn.com/en-gb/lifestyle/travel/southwest-airlines-celebrates-first-all-female-flight-crew/ar-AAtKSRG|accessdate=9 November 2017|work=The Independent|date=23 October 2017}}&lt;/ref&gt;
+
+In 2016, she made history as the Captain of the first all female flight crew to land in [[Jeddah]], [[Saudi Arabia]],&lt;ref&gt;{{cite news|last1=Sandhu|first1=Serina|title=Royal Brunei Airlines' first all-female pilot crew lands plane in Saudi Arabia - where women are not allowed to drive|url=https://www.independent.co.uk/news/world/asia/royal-brunei-airlines-first-all-female-flight-deck-crew-lands-plane-in-saudi-arabia-where-women-are-a6931726.html|accessdate=9 November 2017|work=The Independent|date=15 March 2016}}&lt;/ref&gt; a country at which time did not allow women to get [[driving licence]]s. The flight was timed to celebrate Brunei's National Day.&lt;ref&gt;{{cite news|title=Saudi Arabia: All female Brunei crew in historic flight|url=https://www.bbc.co.uk/news/world-middle-east-35816887|accessdate=9 November 2017|work=BBC News|date=15 March 2016}}&lt;/ref&gt; Alongside her in the [[Boeing 787 Dreamliner]] were Senior First Officers Dk Nadiah Pg Khashiem and [[Sariana Nordin]].&lt;ref name=nyt/&gt;
+
+==References==
+{{reflist|30em}}
+
+{{DEFAULTSORT:Czarena, Sharifah}}
+[[Category:Living people]]
+[[Category:Female aviators]]
+[[Category:Commercial aviators]]
+[[Category:Female commercial aviators]]
+[[Category:Bruneian women]]</text>
+      <sha1>553rdm8t8mb41m962x3s5n7y6os29oe</sha1>
+    </revision>
+  </page>
+</mediawiki>

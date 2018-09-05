@@ -1,0 +1,301 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nick Thune</title>
+    <ns>0</ns>
+    <id>16534594</id>
+    <revision>
+      <id>851275533</id>
+      <parentid>841167221</parentid>
+      <timestamp>2018-07-21T06:13:02Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6531">{{Infobox person
+| name         = Nick Thune
+| image        = Nick_Thune.jpg
+| caption      = Thune performing at the [[Upright Citizens Brigade Theatre|UCB Theatre]] in [[Los Angeles]], January 2010
+| birth_name   = Nicholas Ivan Thune
+| birth_date   = {{Birth date and age|1979|12|08}}
+| birth_place  = [[Seattle, Washington]], U.S.
+| occupation   = Actor, comedian, musician
+| years_active = 
+| website      = {{URL|http://nickthune.com/|NickThune.com}}
+}}
+
+'''Nicholas Ivan Thune''' (born December 8, 1979) is an American actor, comedian,  and musician.
+
+==Career==
+Thune was born in [[Seattle, Washington]],&lt;ref name="earwolf"&gt;{{Cite web |url=http://www.earwolf.com/person/nick-thune |title=Nick Thune |date=5 May 2011 |website=Earwolf |access-date=26 June 2013}}&lt;/ref&gt; to parents Erik and Cindy Thune. He has one sister and twin brothers.  At age 24, Thune moved to [[Los Angeles]] to pursue his career in [[Stand-up comedy|stand-up]]. He has performed on ''[[The Tonight Show]]'' eight times, and was featured in a ''[[Comedy Central Presents]]'' special in 2007.&lt;ref name="cc"&gt;{{Cite web |url=http://www.cc.com/comedians/nick-thune |title=Nick Thune |website=Comedy Central Stand-Up |access-date=26 June 2013}}&lt;/ref&gt;  Aside from numerous stand up gigs, he has also had roles in the movies ''[[Knocked Up]]'' and ''[[Unaccompanied Minors]]''.&lt;ref name="earwolf" /&gt;
+
+In February 2009, Thune performed at the DTD Reality concert at the [[University of Southern California]].&lt;ref name="loud"&gt;{{Cite web |url=http://www.loudletters.com/ll/rest/celebrityprofile/3A/Nick%20thune |title=Nick Thune profile |website=Loud Letters |archive-url=https://web.archive.org/web/20110713234423/http://www.loudletters.com/ll/rest/celebrityprofile/3A/Nick%20thune |archive-date=13 July 2011 |access-date=12 March 2017}}&lt;/ref&gt;
+
+Thune's debut album ''[[Thick Noon]]'' was released on February 23, 2010 by [[Comedy Central Records]].&lt;ref name="earwolf"/&gt;
+
+Thune was cast as a lead in the 2010 [[NBC]] pilot for ''Beach Lane'' starring opposite [[Matthew Broderick]].&lt;ref&gt;{{Cite web |url=http://www.deadline.com/2010/04/nick-thune-enters-nbcs-beach-lane/ |title=Nick Thune Enters NBC's 'Beach Lane' |last=Andreeva |first=Nellie |date=17 April 2010 |website=Deadline |publisher=Penske Business Media, LLC |access-date=26 June 2013}}&lt;/ref&gt; However, the pilot was not picked up as a series.&lt;ref&gt;{{Cite web |url=http://tv.broadwayworld.com/article/NBC_Cancels_Matthew_Broderick_Pilot_Beach_Lane_20100513 |title=NBC Cancels Matthew Broderick Pilot, 'Beach Lane' |date=13 May 2010 |website=Broadway World |publisher=Wisdom Digital Media |access-date=26 June 2013}}&lt;/ref&gt;  He has since made guest appearances on the comedy programs ''[[Traffic Light (TV series)|Traffic Light]]'' and ''[[Happy Endings (TV series)|Happy Endings]]'' in 2011, and ''[[Don't Trust the B---- in Apartment 23]]'' in 2012.
+
+In 2017, Thune starred in ''[[Dave Made a Maze]]'', playing the titular character.&lt;ref&gt;{{cite web|url=https://www.dreadcentral.com/news/238841/fantasy-horror-collide-dave-made-maze-trailer/|title=Fantasy and Horror Collide in Dave Made a Maze Trailer|last=Barkan|first=Jonathan|publisher=Dread Central|date=6 July 2017|accessdate=6 July 2017}}&lt;/ref&gt; He also starred in the film ''[[People You May Know]]'', directed by [[Sherwin Shilati]].&lt;ref&gt;https://www.imdb.com/title/tt5318534/?ref_=ext_shr_eml_tt&lt;/ref&gt;
+
+==Discography==
+*''[[Thick Noon]]'' (2010)
+*”[[Folk Hero]]” (2017)
+
+==Filmography==
+{| class = "wikitable sortable"
+|-
+|+ Television
+! Year
+! Title
+! Role
+! class = "unsortable" | Notes
+|-
+|2009
+|''The Very Funny Show''
+|
+|
+|-
+|2010
+|''Beach Lane''
+|James Wilson
+|TV Movie
+|-
+|rowspan="3"|2011
+|''I Hate That I Love You''
+|Brad
+|TV Movie
+|-
+|''[[Traffic Light (TV series)|Traffic Light]]''
+|Ben
+|Episode: "Pilot"
+|-
+|''[[Happy Endings (TV series)|Happy Endings]]''
+|Tommy
+|Episode: "Barefoot Pedaler"
+|-
+|2012
+|''[[Don't Trust the B---- in Apartment 23]]''
+|Willoughby
+|Episode: " A Weekend in the Hamptons..."
+|-
+|rowspan="4"|2013
+|''[[Burning Love (TV series)|Burning Love]]''
+|Teddy
+|Recurring
+|-
+|''Crazytown''
+|Boomer
+|TV Movie
+|-
+|''Above Average Presents''
+|
+|Episode: "Finish What We Started - Behind the Scenes"
+|-
+|''Laugh Trek''
+|
+|4 episodes
+|-
+|rowspan="4"|2014
+|''Old Soul''
+|Charlie
+|TV Movie
+|-
+|''[[Tom Green Live]]''
+|Himself
+|Episode: "Guests: David Faustino, Stacy Keach &amp; Nick Thune"
+|-
+|''[[Garfunkel and Oates (TV series)|Garfunkel and Oates]]''
+|Nick
+|Episode: "Speechless"
+|-
+|''[[Comedy Bang! Bang!]]''
+|Charlie Pedactor
+|Episode: "Dane Cook Wears a Black Blazer &amp; Tailored Pants"
+|-
+|2015
+|''WTF America''
+|Casey
+|Pilot
+|}
+
+{| class = "wikitable sortable"
+|-
+|+ Film
+! Year
+! Title
+! Role
+! class = "unsortable" | Notes
+|-
+| 2006
+| ''[[Unaccompanied Minors]]'' 
+| Handsome Santa
+| 
+|-
+| 2007
+| ''[[Knocked Up]]''
+| Allison's Friend
+| 
+|-
+|rowspan="2"| 2009
+| ''[[Spring Breakdown]]''
+| Dan - Announcer
+| 
+|-
+| ''[[Extract (film)|Extract]]''
+| Guitar Salesman #2
+| 
+|-
+|rowspan="4"| 2010
+| ''Successful Alcoholics''
+| Alex
+| Short
+|-
+| ''Ed Hardy Boyz: The Case of the Missing Sick Belt Buckle''
+| 
+| Short
+|-
+| ''Screwball: The Ted Whitfield Story''
+| Petey Sinclair
+| 
+|-
+| ''[[Don't Fade Away]]''
+| Matty P
+| 
+|-
+|rowspan="3"| 2011
+| ''Talking Hedz''
+| 
+| Short
+|-
+| ''Poolboy: Drowning Out the Fury''
+| Barry
+| 
+|-
+| ''Nick and Andy: Coming Soon''
+| 
+| Short
+|-
+|rowspan="2"| 2012
+| ''Dream World''
+| Deke
+| 
+|-
+| ''Not That Funny''
+| Norm Getz
+| 
+|-
+| 2013
+| ''Miles Fisher: Finish What We Started''
+| 
+| Short
+|-
+| 2014
+| ''[[Bad Johnson]]''
+| Rich's Penis
+| 
+|-
+| 2015
+| ''[[The Breakup Girl]]''
+| Lewis
+| 
+|-
+|rowspan="2"| 2016
+| ''[[Dreamland (2016 film)|Dreamland]]''
+| Jason
+| 
+|-
+| ''[[Urge (film)|Urge]]''
+| Danny
+| 
+|-
+|rowspan="4"| 2017
+| ''[[Dave Made a Maze]]''
+| Dave
+| 
+|-
+| ''[[Mr. Roosevelt (film)|Mr. Roosevelt]]''
+| Eric
+| 
+|-
+| ''People You May Know''
+| Jed
+| 
+|-
+| ''61: Highway to Hell''
+| The Haunted
+| 
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Portal|Biography}}
+* {{Official website|http://nickthune.com/}}
+* [http://nickblogthune.com/ Official blog]
+* {{IMDb name|2326897}}
+* {{vimeo|u=287985}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thune, Nick}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:American comedy musicians]]
+[[Category:American male television actors]]
+[[Category:American stand-up comedians]]
+[[Category:American people of South African descent]]
+[[Category:21st-century American comedians]]
+
+{{Washington-bio-stub}}
+{{US-comedian-stub}}</text>
+      <sha1>cxcoydgwvgf9odkt2w1w730lngjc1b2</sha1>
+    </revision>
+  </page>
+</mediawiki>

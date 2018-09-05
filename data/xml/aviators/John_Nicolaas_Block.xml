@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Nicolaas Block</title>
+    <ns>0</ns>
+    <id>3165272</id>
+    <revision>
+      <id>805773835</id>
+      <parentid>805660524</parentid>
+      <timestamp>2017-10-17T15:14:08Z</timestamp>
+      <contributor>
+        <username>Necrothesp</username>
+        <id>64853</id>
+      </contributor>
+      <comment>deprod; looks like someone who could well be notable</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1702">{{Unreferenced|date=December 2009}}
+[[File:John Block (1985).jpg|thumb|John Block (1985)]]
+'''Johan Nicolaas Block''' (May 18, 1929, [[Amsterdam]] &amp;ndash; April 11, 1994) was a [[Netherlands|Dutch]] aviation pioneer. He was the co-founder of [[Martinair]], founder of [[Transavia]] and [[Air Holland]].
+
+John Block was born as the son of a schoolteacher in Amsterdam. After [[World War II]] he applied for a job with [[KLM]] but wasn't hired. He joined the Dutch airforce and became an [[aviator|airforce pilot]]. After his service he briefly worked with a radio division of the Dutch postal services and obtained his commercial aviation licence. Together with [[Martin Schröder (Martinair)|Martin Schröder]] he founded Martinair. They introduced leisure travel by plane in the Netherlands. Block left the company in 1965 and shortly after bought the 'sleeping' airline Transavia Limburg which he renamed to Transavia. he built up the airline from scratch and ten years later Transavia had a marketshare of 45% of the Dutch holiday market. After a quarrel with some investors Block left Transavia in 1975.
+He went on and founded the small company Jetstar Holland BV in 1977. As such he introduced the use of executive jet travel in the Netherlands. He sold the company soon after to an investment holding and went back to the larger scheme: in 1984 he founded the airline Air Holland that went public in 1989.
+Block left Air Holland in 1991 and died in 1994.
+{{Martinair}}
+{{DEFAULTSORT:Block, John Nicolaas}}
+[[Category:1929 births]]
+[[Category:1994 deaths]]
+[[Category:Dutch aviators]]
+[[Category:Dutch businesspeople]]
+[[Category:Businesspeople from Amsterdam]]
+
+
+{{Netherlands-business-bio-stub}}</text>
+      <sha1>ao2rlwob4otra3sp5e1wqkcfx676e7f</sha1>
+    </revision>
+  </page>
+</mediawiki>

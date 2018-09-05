@@ -1,0 +1,1411 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bea Arthur</title>
+    <ns>0</ns>
+    <id>217201</id>
+    <revision>
+      <id>854018142</id>
+      <parentid>853983962</parentid>
+      <timestamp>2018-08-08T12:05:40Z</timestamp>
+      <contributor>
+        <username>Roberticus</username>
+        <id>14570496</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/2600:1700:F781:1350:59:F708:496:C922|2600:1700:F781:1350:59:F708:496:C922]] ([[User talk:2600:1700:F781:1350:59:F708:496:C922|talk]]): Unsourced. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52702">{{Use mdy dates|date=November 2013}}
+{{Infobox person
+| name          = Bea Arthur
+| image         = File:Beatrice Arthur - 1973.jpg
+| caption       = Bea Arthur as [[Maude (TV series)|Maude]] in 1973.
+| birth_name    = Bernice Frankel
+| birth_date    = {{birth date|1922|5|13}}&lt;!-- this birth_date is reliably sourced to her birth certificate. Please don't change it--&gt;
+| birth_place   = [[Brooklyn, New York]], U.S.  
+| death_date    = {{death date and age|2009|4|25|1922|5|13}}
+| death_place   = {{nowrap|[[Los Angeles]], [[California]], U.S.}}
+| death_cause   = Cancer
+| alias         = Beatrice Arthur
+| alma_mater    = [[Blackstone College for Girls|Linden Hall School for Girls]]
+| occupation    = Actress, comedian, singer, activist
+| years_active  = 1945–2008
+| spouse        = {{marriage|[[Robert Alan Aurthur]]&lt;br/&gt;|1947|1950|end=div}}&lt;br/&gt;{{marriage|[[Gene Saks]]&lt;br/&gt;|1950|1978|end=div}}
+| children      = 2
+| parents       = {{Unbulleted list|Rebecca Pressner |Philip Frankel|}}
+| module        = {{Infobox military person|embed=yes
+  | allegiance  = {{flag|United States|1912}}
+  | branch      = {{flag|United States Marine Corps}}
+  | rank = [[Staff Sergeant]]
+  | unit = [[United States Marine Corps Women's Reserve]]
+  | service years = 1942–1944
+  | battles = [[World War II]]}}
+}}
+
+'''Beatrice Arthur''' (born '''Bernice Frankel'''; May 13, 1922 – April 25, 2009)&lt;!-- this birth date is reliably sourced to her birth certificate and the 1930 United States census as well! Please don't change it--&gt; was an American actress, comedian, singer, Marine, and animal rights activist.&lt;!-- &lt;ref name="auto"&gt;{{cite news|last=Mathews|first=Dan|title=Honorary PETA Director, Bea Arthur Passes On|url=http://www.peta.org/b/thepetafiles/archive/2009/04/25/honorary-peta-director-bea-arthur-passes-on.aspx|accessdate=November 15, 2013|newspaper=[[PETA]]|date=April 25, 2009}}&lt;/ref&gt; --&gt; Her career spanned seven decades.
+
+Arthur achieved fame as the character [[Maude Findlay]] on the 1970s sitcoms ''[[All in the Family]]'' (1971–72) and ''[[Maude (TV series)|Maude]]'' (1972–78), and as [[Dorothy Zbornak]] on the 1980s sitcom ''[[The Golden Girls]]'' (1985–92), winning [[Primetime Emmy Award|Emmy Award]]s for both roles. A stage actress both before and after her television success, she won the [[Tony Award for Best Featured Actress in a Musical]] for her performance as Vera Charles in the original cast of ''[[Mame (musical)|Mame]]'' 
+(1966).
+
+==Early life==
+Beatrice Arthur was born Bernice Frankel on May 13, 1922, to Rebecca ({{née}} Pressner; 1895–1985) and Philip Frankel (1885–1973) in Brooklyn, New York.&lt;ref&gt;{{cite web |url=https://www.haaretz.com/1.5043197|title='Golden Girls' star Bea Arthur dies aged 86|work=Haaretz|date=April 26, 2009|accessdate=December 4, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author=|title=Certificate and Record of Birth #21106|format=.JPG|publisher=City of New York, Department of Health|url=http://www.kevinbuckstiegel.com/bea/wp-content/uploads/2014/01/bea_birthcert.jpg|date=May 13, 1922|accessdate=July 12, 2008}}&lt;/ref&gt; Arthur was raised in a [[American Jews|Jewish]] home with sisters Gertrude and Marian.
+
+In 1933, the Frankel family relocated to [[Cambridge, Maryland]], where her parents subsequently operated a women's clothing shop. She attended [[Linden Hall (school)|Linden Hall School for Girls]], an all-girls' boarding school in [[Lititz, Pennsylvania]], before enrolling at [[Blackstone College for Girls]] in [[Blackstone, Virginia]], where she was active in the school's drama program.{{citation needed|date=April 2017}}
+
+During [[World War II]], she worked as a truck driver and typist in the [[United States Marine Corps Women's Reserve]], receiving an [[Honorable Discharge]] in September 1944 with the rank of Staff Sergeant.&lt;ref name="marines"&gt;Her Marine Corps records are available for perusal at the National Archives and Records Administration [https://www.archives.gov/st-louis/military-personnel/public/persons-of-prominence.html#R website]&lt;/ref&gt;&lt;ref&gt;Beatrice Arthur interview (March 15, 2001) with Karen Herman, part 1 of 5. Archive of American Television website; accessed June 11, 2014.&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Hoo-rah! Bea Arthur was a truck-driving Marine|url=http://www.today.com/id/40631076/ns/today-today_entertainment/t/hoo-rah-bea-arthur-was-truck-driving-marine/|work=[[Today (U.S. TV program)|Today]]|accessdate=July 23, 2015|date=December 12, 2010}}&lt;/ref&gt;&lt;ref&gt;http://www.thesmokinggun.com/documents/celebrity/bea-arthur-was-truck-driving-marine&lt;/ref&gt;
+
+==Career==
+===Theater===
+[[File:U.S. Marine Corps portrait of Beatrice Arthur.jpg|thumb|right|1943 United States Marine Corps identification card photo]]
+From 1947, Arthur studied at the [[Dramatic Workshop]] of [[The New School]] in New York, N.Y. with German director [[Erwin Piscator]]. Arthur began her acting career as a member of an off Broadway theater group at the [[Cherry Lane Theatre]] in New York City in the mid 1940s. On stage, her roles included Lucy Brown in the 1954 [[Off-Broadway]] premiere of [[Marc Blitzstein]]'s English-language adaptation of [[Kurt Weill]]'s ''[[The Threepenny Opera]]'', Nadine Fesser in the 1957 premiere of [[Herman Wouk]]'s ''Nature's Way'' at the Coronet Theatre, Yente the Matchmaker in the 1964 premiere of ''[[Fiddler on the Roof]]'' on Broadway, and a 1966 [[Tony Award]]-winning portrayal of Vera Charles to [[Angela Lansbury]]'s ''[[Mame (musical)|Mame]]''. She reprised the role in the [[Mame (film)|unsuccessful 1974 film version]] opposite [[Lucille Ball]]. In 1981, she appeared in [[Woody Allen]]'s ''[[The Floating Light Bulb]]''.&lt;ref&gt;{{cite web|title=Bea Arthur|url=http://www.playbillvault.com/Person/Detail/24703/Bea-Arthur|work=[[Playbill.com]]|publisher=Playbill, Inc|accessdate=November 15, 2013}}&lt;/ref&gt;
+
+She made her debut at the [[Metropolitan Opera]] in 1994 portraying the Duchess of Krakenthorp, a speaking role, in [[Gaetano Donizetti]]'s ''[[La fille du régiment]]''.&lt;ref name="opera"&gt;{{cite news|url=http://www.operanews.com/operanews/templates/content.aspx?id=2299|title=Obituaries: Actors Dom DeLuise and Beatrice Arthur; mezzo Margreta Elkins; soprano Anne Brown, Gershwin's original Bess; composer Lukas Foss dies at eighty-six.|work=[[Opera News]]|date=July 2009|volume=74|issue=1|accessdate=December 28, 2010}} {{subscription required}}&lt;/ref&gt;
+
+===Television===
+In 1971, Arthur was invited by [[Norman Lear]] to guest-star on his sitcom ''[[All in the Family]]'', as [[Maude Findlay]], the cousin of [[Edith Bunker]]. An outspoken liberal feminist, Maude was the [[antithesis]] role to the conservative Republican character [[Archie Bunker]], who described her as a "[[New Deal]] fanatic". Nearly 50, Arthur's tart turn on ''All in the Family'' impressed viewers as well as executives at [[CBS]] who, she would later recall, asked "'Who is that girl? Let's give her her own series.'"&lt;ref&gt;{{cite news|title=''Golden Girls'' Star Be Arthur Dies at 86|publisher=NPR|date=April 25, 2009|url=https://www.npr.org/templates/story/story.php?storyId=103494550|accessdate=April 27, 2009|archiveurl=https://web.archive.org/web/20090427165314/http://www.npr.org/templates/story/story.php?storyId=103494550|archivedate= April 27, 2009|deadurl=no}}&lt;/ref&gt;
+
+That series, previewed in her second ''All in the Family'' appearance, would be simply titled "[[Maude (pilot)|Maude]]". The show, debuting in 1972, found her living in the affluent community of [[Tuckahoe, Westchester County, New York]], with her fourth husband Walter ([[Bill Macy]]) and divorced daughter Carol ([[Adrienne Barbeau]]). Her performance in the role garnered Arthur several Emmy and Golden Globe nominations, including her Emmy win in 1977 for Outstanding Lead Actress in a Comedy Series. ''Maude'' would also earn a place for Arthur in the history of the [[women's liberation movement]].&lt;ref&gt;{{cite web|author=|title=Feminist Timeline: United States|url=http://www.brooklynmuseum.org/eascfa/feminist_timeline/plain_text.php|work=Feminist Timeline: United States|publisher=Brooklyn Museum|accessdate=April 27, 2009|quote="The television show Maude, a spin-off of All in the Family, premiers, starring Beatrice Arthur as Maude Findlay, a leftist feminist who supports [[abortion]] and [[civil rights]]."}}&lt;/ref&gt;
+
+The series addressed serious sociopolitical topics of the era that were considered taboo for a sitcom, including the [[Vietnam War]], the [[Nixon Administration]], Maude's bid for a [[United States Congress|Congressional]] seat, [[divorce]], [[menopause]], [[Substance abuse|drug use]], [[alcoholism]], [[nervous breakdown]], [[mental illness]], [[women's lib]], [[gay rights]], abortion, and [[spousal abuse]]. A prime example is "[[Maude's Dilemma]]", a two-part episode airing near Thanksgiving of 1972 in which Maude's character grapples with a late-life pregnancy, ultimately deciding to have an abortion.&lt;ref&gt;Maude's Dilemma. IMDB. September 2017. https://m.imdb.com/title/tt0793153/&lt;/ref&gt; 
+Even though abortion was legal in New York State since 1970, as well as in California since its state's 1969 on-demand ruling, it was illegal in many other regions of the country and, as such, sparked controversy. As a result, dozens of [[Network affiliate|affiliates]] refused to broadcast the episode when it was originally scheduled, substituting either a repeat from earlier in the season or a [[Thanksgiving]] [[TV special]] in its place. However, by the time of the summer rerun season six months later all the flak had died down, and the stations that refused to air the episode upon its first run reinstated it for the reruns the following summer. As a result, a reported 65 million viewers watched the two episode arc either in their first run that November or during the following summer as a rerun.&lt;ref&gt;{{cite web|author=|title=Susan Harris |url=http://www.shemadeit.org/meet/biography.aspx?m=32 |accessdate=April 27, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20071021142015/http://www.shemadeit.org/meet/biography.aspx?m=32 |archivedate=October 21, 2007 |df=mdy }}&lt;/ref&gt; The episode initially aired two months before the [[U.S. Supreme Court]] legalized the procedure nationwide in the [[Roe v. Wade]] outcome in January 1973.&lt;ref&gt;{{cite news|last=Whitcomb|first=Dan|title="Golden Girls" star Bea Arthur dies at 86|url=https://www.reuters.com/article/2009/04/26/us-arthur-idUSTRE53O2IV20090426?feedType=RSS&amp;feedName=topNews&amp;rpc=22&amp;sp=true|accessdate=November 15, 2013|newspaper=[[Reuters]]|date=April 26, 2009}}&lt;/ref&gt; 
+
+By 1978, however, Arthur decided to move on from the series. Later the same year (1978), she costarred in ''[[Star Wars Holiday Special]]'', in which she had a song and dance routine in the [[Mos Eisley Cantina]]. She hosted ''[[The Beatrice Arthur Special]]'' on [[CBS]] on January 19, 1980, which paired the star in a musical comedy revue with [[Rock Hudson]], [[Melba Moore]] and [[Wayland Flowers and Madame]].&lt;ref&gt;{{cite news|last=Hall|first=Phil|title=The Bootleg Files: "the Beatrice Arthur Special"|url=http://www.filmthreat.com/features/1010|accessdate=November 15, 2013|newspaper=[[Film Threat]]|date=March 26, 2004|deadurl=yes|archiveurl=https://web.archive.org/web/20110127021641/http://www.filmthreat.com/features/1010|archivedate=January 27, 2011}}&lt;/ref&gt;
+
+Arthur returned to television in the short-lived 1983 sitcom ''[[Amanda's]]'' (an adaptation of the British series ''[[Fawlty Towers]]''). Unfortunately, the show was a not a hit with audiences and only 10 of the 13 filmed episodes actually aired.
+
+In 1985, Arthur was cast in ''[[The Golden Girls]]'', in which she played [[Dorothy Zbornak]], a divorced [[substitute teacher]] living in a Miami house owned by widow [[Blanche Devereaux]] ([[Rue McClanahan]]). Her other roommates included widow [[Rose Nylund]] ([[Betty White]]) and Dorothy's [[Sicily|Sicilian]] mother, [[Sophia Petrillo]] ([[Estelle Getty]]). Getty was actually a year younger than Arthur in real life. The series was a hit, and remained a top-ten ratings fixture for six of its seven seasons. Her performance led to several Emmy nominations over the course of the series and an Emmy win in 1988. Arthur decided to leave the show after seven years, and in 1992 the show was moved from [[NBC]] to [[CBS]] and retooled as ''[[The Golden Palace]]'' in which the other three actresses reprised their roles, with [[Cheech Marin]] as their new foil. Arthur made a guest appearance in a two-part episode, but the new series lasted only one season.&lt;ref&gt;{{cite news|last1=Hayward|first1=Anthony|title=Bea Arthur: Actress who found fame as the acid-tongued Dorothy in 'The Golden Girls' sitcom|url=https://www.independent.co.uk/news/obituaries/bea-arthur-actress-who-found-fame-as-the-acidtongued-dorothy-in-the-golden-girls-sitcom-1675213.html|accessdate=June 13, 2014|work=[[The Independent]]|date=April 28, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Ferguson|first1=Lee|title=And then there's Bea: Remembering Bea Arthur|url=http://www.cbc.ca/news2/arts/things-that-go-pop-blog/2009/04/and-then-theres-bea-remembering-bea-arthur.html|accessdate=June 13, 2014|work=[[CBC News]]|date=April 27, 2009}}&lt;/ref&gt;
+
+===Film===
+[[File:Maude Bea Arthur 1973.jpg|thumb|Bea Arthur as Maude, circa 1973]]
+Arthur sporadically appeared in films, reprising her stage role as Vera Charles in the 1974 film adaption of ''[[Mame (film)|Mame]]'', opposite [[Lucille Ball]]. She portrayed overbearing mother Bea Vecchio in ''[[Lovers and Other Strangers]]'' (1970), and had a cameo as a Roman unemployment clerk in [[Mel Brooks]]' ''[[History of the World, Part I]]'' (1981). She appeared in the 1995 American movie ''[[For Better or Worse (film)|For Better or Worse]]'' as Beverly Makeshift. {{citation needed|date=June 2014}}
+
+===Later career===
+After Arthur left ''The Golden Girls'', she made several guest appearances on television shows and organized and toured in her one-woman show, alternately titled ''An Evening with Bea Arthur'' as well as ''And Then There's Bea''.&lt;ref&gt;{{cite news|last1=Shirley|first1=Don|title=Being Bea: A Life Set to Music|url=http://articles.latimes.com/2001/aug/30/entertainment/ca-40060|accessdate=January 27, 2018|work=Los Angeles Times|date=August 30, 2001}}&lt;/ref&gt; She made a guest appearance on the American cartoon ''[[Futurama]]'', in the [[Emmy Award|Emmy]]-nominated 2001 episode "[[Amazon Women in the Mood]]", as the voice of the [[Femputer]] who ruled the giant Amazonian women.&lt;ref&gt;{{cite news|last1=Handlen|first1=Zack|title=Futurama: "Parasites Lost"/"Amazon Women in the Mood"|url=https://tv.avclub.com/futurama-parasites-lost-amazon-women-in-the-mood-1798183241|accessdate=January 27, 2018|work=[[The A.V. Club]]|date=March 26, 2015}}&lt;/ref&gt; She appeared in a first-season episode of ''[[Malcolm in the Middle]]'' as Mrs. White, one of Dewey's babysitters.&lt;ref&gt;{{cite news|last1=Snierson|first1=Dan|title=Fall TV Preview: 'Malcolm in the Middle'|url=http://ew.com/article/2000/09/29/fall-tv-preview-malcolm-middle/|accessdate=January 27, 2018|work=[[Entertainment Weekly]]|date=September 29, 2000}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Lyons|first1=Margaret|title=The Best Sitcom of the Past 30 Years, Round One: Roseanne vs. Malcolm in the Middle|url=http://www.vulture.com/2013/03/roseanne-vs-malcolm-in-the-middle-sitcom-smackdown.html|accessdate=January 27, 2018|work=[[Vulture.com]]|date=March 1, 2013}}&lt;/ref&gt; She was nominated for an Emmy for Outstanding Guest Actress in a Comedy Series for her performance.&lt;ref&gt;{{cite web|title=Beatrice Arthur|url=https://www.emmys.com/bios/beatrice-arthur|publisher=[[Emmys]]|accessdate=January 27, 2018}}&lt;/ref&gt; She also appeared as [[Larry David]]'s mother on ''[[Curb Your Enthusiasm]]''.&lt;ref&gt;{{cite news|last1=Ledonne|first1=Rob|title=The 10 Best 'Curb Your Enthusiasm' Cameos Ever|url=http://www.complex.com/pop-culture/curb-your-enthusiasm-guest-cameos/dustin-hoffman-sacha-baron-cohen-bea-arthur|accessdate=January 27, 2018|work=[[Complex (magazine)|Complex]]|date=September 25, 2017}}&lt;/ref&gt;
+
+In 2002, she returned to [[Broadway theatre|Broadway]], starring in ''Bea Arthur on Broadway: Just Between Friends'', a collection of stories and songs (with musician [[Billy Goldenberg]]) based on her life and career.&lt;ref&gt;{{cite news|last1=Brantley|first1=Ben|title=THEATER REVIEW; Bea Arthur's Ceremony Lacking All Innocence|url=https://www.nytimes.com/2002/02/18/theater/theater-review-bea-arthur-s-ceremony-lacking-all-innocence.html|accessdate=June 13, 2014|work=The New York Times|date=February 18, 2002}}&lt;/ref&gt; The show was nominated for a [[Tony Award]] for Best Special Theatrical Event.&lt;ref&gt;{{cite news|last1=Jones|first1=Kenneth|title=Bea Arthur Will Play Just Between Friends in Toronto Beginning Nov. 20|url=http://www.playbill.com/news/article/71938-Bea-Arthur-Will-Play-Just-Between-Friends-in-Toronto-Beginning-Nov-20|accessdate=June 13, 2014|work=Playbill.com|date=September 9, 2002|deadurl=yes|archiveurl=https://web.archive.org/web/20140714112428/http://www.playbill.com/news/article/71938-Bea-Arthur-Will-Play-Just-Between-Friends-in-Toronto-Beginning-Nov-20 |archivedate=July 14, 2014 |df=mdy }}&lt;/ref&gt;
+
+In addition to appearing in a number of programs looking back at her own work, Arthur performed in stage and television tributes for [[Jerry Herman]], [[Bob Hope]], [[Ellen DeGeneres]]. In 2004, she appeared in [[Richard Barone]]'s "There'll Be Another Spring: A Tribute to Miss [[Peggy Lee]]" at the [[Hollywood Bowl]], performing "Johnny Guitar" and "The Shining Sea". In 2005, she participated in the [[Comedy Central roast]] of [[Pamela Anderson]], where she recited sexually explicit passages from Anderson's book ''Star Struck'' in a [[deadpan]] fashion.&lt;ref&gt;{{cite news|last1=Leo|first1=Alex|title=Bea Arthur Roasts Pamela Anderson (NSFW VIDEO)|url=http://www.huffingtonpost.com/2009/04/27/bea-arthur-roasts-pamela_n_192042.html|accessdate=June 13, 2014|work=[[The Huffington Post]]|date=May 28, 2009}}&lt;/ref&gt;
+
+===Influences===
+In 1999, Arthur told an interviewer of the three influences in her career: "[[Sid Caesar]] taught me the outrageous; [method acting guru] [[Lee Strasberg]] taught me what I call reality; and [original ''[[Threepenny Opera]]'' star] [[Lotte Lenya]], whom I adored, taught me economy."&lt;ref name="NYT16"&gt;{{cite news|last=Weber|first=Bruce|title=Bea Arthur, Star of Two TV Comedies, Dies at 86|url=https://www.nytimes.com/2009/04/26/arts/television/26arthur.html|accessdate=November 15, 2013|newspaper=The New York Times|date=April 25, 2009}}&lt;/ref&gt; Another source of influence to Arthur, was that of famed actress/director [[Ida Lupino]] whom Arthur praised as, "My dream was to become a very small blonde movie star like [[Ida Lupino]] and those other women I saw up there on the screen during the [[Great Depression|Depression]].&lt;ref&gt;{{cite web|url=https://www.quotemaster.org/qde3ccd8c3f681ea43caab6ceb33982e7|title=My dream was to become a very small blonde movie star like Ida Lupino and those other women I saw up there on the screen during the Depression. Bea Arthur|website=Quotemaster.org|accessdate=August 10, 2017}}&lt;/ref&gt; "
+
+==Personal life==
+Arthur was married twice. Her first marriage took place during her time in the military&lt;!-- This can't be right, if she was discharged in 1945, and married in 1947, how did the marriage "take place during her time in the military"? --&gt;, when she married fellow Marine [[Robert Alan Aurthur]],&lt;!-- Yes, this IS the correct spelling, as you'll discover if you read on a little --&gt;&lt;ref name=marines/&gt; later a screenwriter, television, and film producer and director, whose surname she took and kept (though with a modified spelling). Shortly after they divorced in 1950, she married director [[Gene Saks]] with whom she adopted two sons, Matthew (born in 1961), an actor, and Daniel (born in 1964), a set designer; they remained married until 1978.&lt;ref&gt;{{cite news|last=Hall|first=Jane|title=Sex and the Senior Girls: NBC's Golden Girls Are the Toast of TV with Their Mid-Life Miami Spice|url=http://www.people.com/people/archive/article/0,,20092686,00.html|accessdate=November 15, 2013|newspaper=[[People (magazine)|People]]|date=January 6, 1986}}&lt;/ref&gt;
+
+In 1972, she moved to [[Los Angeles, California|Los Angeles]] and [[sublet]] her apartment on [[Central Park West]] in New York City and her country home in [[Bedford (town), New York|Bedford, New York]].&lt;ref&gt;Moritz, Charles (editor) (1973) "Arthur, Beatrice", ''Current Biography Yearbook, 1973'' H. W. Wilson, New York, pp. 17–20, page 20; {{ISBN|0-8242-0543-X}}&lt;/ref&gt; In a 2003 interview, in [[London]] promoting her one-woman show, she described the British capital as her "favourite city in the world".&lt;ref&gt;{{cite web|title=Bea Arthur|url=http://www.bbc.co.uk/radio4/womanshour/2003_31_fri_03.shtml|work=[[Woman's Hour]]|publisher=BBC|accessdate=November 15, 2013|date=August 8, 2003}}&lt;/ref&gt;
+
+Arthur was a committed animal rights activist and frequently supported [[People for the Ethical Treatment of Animals]] campaigns. Arthur joined PETA in 1987 after a ''Golden Girls'' anti-fur episode. Arthur wrote letters, made personal appearances and placed ads against the use of [[fur]]s, [[foie gras]], and farm [[animal cruelty]] by [[KFC]] suppliers. In [[Norfolk, Virginia]], near the site of the PETA headquarters, there is a dog park named the Bea Arthur Dog Park in her honor.&lt;ref&gt;{{cite web|url=http://features.peta.org/PETADogPark|title=PETA's Dog-Park Webcam|website=Features.peta.org |date=2014-07-01|accessdate=2016-08-29}}&lt;/ref&gt;
+
+Arthur was a longtime champion of equal rights for women and an active advocate of the elderly, and Jewish communities, in both her major television roles and through her charity work and personal outspokenness.&lt;ref&gt;{{cite news|last=Portwood|first=Jerry|title=My Last Chat With Bea Arthur: Sometimes she felt like Judy Garland|url=http://www.nypress.com/blogs/blog-3973-my-last-chat-with-bea-arthur-sometimes-she-felt-like-judy-garland.html|accessdate=November 15, 2013|newspaper=[[New York Press]]|date=April 27, 2009|archiveurl=https://web.archive.org/web/20090627032801/http://www.nypress.com/blogs/blog-3973-my-last-chat-with-bea-arthur-sometimes-she-felt-like-judy-garland.html|archivedate=June 27, 2009}}&lt;/ref&gt;
+
+Regarding politics, Arthur herself was a [[liberalism|liberal]] [[Democratic Party (United States)|Democrat]] who confirmed her views by saying, "I've been a Democrat my whole life. That's what makes Maude and Dorothy so believable, we have the same viewpoints on how our country should be handled."&lt;ref&gt;Interview, TV Legends, August 6, 2005.&lt;/ref&gt;
+
+Arthur was also a mentor, surrogate mother and a friend to [[Adrienne Barbeau]], who co-starred, opposite her on ''Maude''. For 6 seasons, they had a wonderful chemistry together, while her younger co-star was unavailable for the last 2 seasons, due to her busy scheduling, Barbeau remained close to Arthur, and stayed in touch until Arthur's passing. Barbeau said in a 2018 interview with Dread Central.com about her on- and off-screen chemistry with her TV mother was: "I was doing an interview for this 1-woman show that I am doing and the interviewer asked that... she asked: 'What do people usually ask you,' and I said, 'They always want to know ... What It Was Like Working with Bea?' She was fantastic and you know, I realized years later, how much I took it for granted, because it was my first experience on television... I just assumed that everyone was as giving as she was, as professional a she was that everyone who was doing a TV show, showed up, knowing their lines and showed up on time and was willing to say to the writers: 'I think this line was funnier if Adie had said it, or Conrad had said it or Bill had said it,' I mean, she was just the best, she was the best, very funny, she was not 'Maude,' when she wasn't saying those lines. I don't know if I say she was quiet, she was a homebody. She had her sons, her dog and her cooking and she wasn't into the celebrity scene and she was a great lady. I loved her dearly, and we had a great cast and they were my family for 6 years that I loved each of them and all of them and it was the best experience anyone could've had, being introduced to television, like that!"&lt;ref&gt;{{cite web|url=http://www.dreadcentral.com/news/268471/brainwaves-episode-80-legendary-actress-adrienne-barbeau-listen-now|title=Brainwaves Episode 80: Legendary Actress Adrienne Barbeau|publisher=dreadcentral.com|date=March 8, 2018 |accessdate=March 9, 2018}}&lt;/ref&gt;
+
+==Death and legacy==
+A private and introverted woman, according to her friends,&lt;ref&gt;{{cite web|url=http://people.com/celebrity/betty-white-rue-mcclanahan-recall-shy-bea-arthur|title=Betty White, Rue McClanahan Recall 'Shy' Bea Arthur|publisher=People.com|date=April 27, 2009|accessdate=July 31, 2017}}&lt;/ref&gt; Arthur died of cancer at her home in the [[Brentwood, Los Angeles|Brentwood area of Los Angeles]] on April 25, 2009. She was two and a half weeks short of her 87th birthday.&lt;ref&gt;{{cite web|last=Korn|first=Steven|url=http://www.ew.com/article/2009/04/25/beatrice-arthur|title=Beatrice Arthur, 'Golden Girls' star, dies at 86|publisher=[[Entertainment Weekly]]|date=April 25, 2009|accessdate=July 20, 2015}}&lt;/ref&gt; She was survived by her two sons and two granddaughters.&lt;ref name="NYT16"/&gt;&lt;ref&gt;{{cite news|author=Lynn Elber|title=Golden Girls, Maude star Bea Arthur dies at 86|url=http://www.chron.com/disp/story.mpl/chronicle/6392273.html|work=The Houston Chronicle|date=April 25, 2009|accessdate=December 28, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.cnn.com/2009/SHOWBIZ/TV/04/25/bea.arthur.obit/index.html|work=CNN|title=Two-time Emmy Award winner Bea Arthur dead at 86|accessdate=April 26, 2010|date=April 27, 2009|archiveurl=https://web.archive.org/web/20100529033037/http://www.cnn.com/2009/SHOWBIZ/TV/04/25/bea.arthur.obit/index.html|archivedate=May 29, 2010|deadurl=no}}&lt;/ref&gt; Her body was [[Cremation|cremated]] and the ashes were spread throughout Miami.{{citation needed|date=September 2017}}
+
+On April 28, 2009, the Broadway community paid tribute to Arthur by dimming the [[marquee (sign)|marquees]] of New York City's Broadway theater district in her memory for one minute at 8:00&amp;nbsp;pm.&lt;ref&gt;{{cite news|title=Broadway Plans Tribute to Bea Arthur|url=http://www.etonline.com/news/73316_Broadway_Plans_Tribute_to_Bea_Arthur|accessdate=November 15, 2013|newspaper=[[Entertainment Tonight]]|date=April 28, 2009}}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+Arthur's co-stars from ''The Golden Girls'', [[Rue McClanahan]] and [[Betty White]], commented on her death via telephone on an April 27 episode of ''[[Larry King Live]]''. On the ''Today Show'' by phone, McClanahan said she and Arthur got along together "like cream." White said, "I knew it would hurt, I just didn't know it would hurt this much."&lt;ref&gt;{{cite news|last=Slezak|first=Michael|title=Rue McClanahan remembers Bea Arthur|url=http://popwatch.ew.com/2009/04/26/bea-arthur-rue|accessdate=November 15, 2013|newspaper=Entertainment Weekly|date=April 26, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Kaufman|first=Gil|title=Bea Arthur Remembered By 'Golden Girls' Co-Stars|url=http://www.mtv.com/news/articles/1610049/bea-arthur-remembered-by-golden-girls-co-stars.jhtml|accessdate=November 15, 2013|newspaper=[[MTV News]]|date=April 27, 2009}}&lt;/ref&gt;
+
+Longtime friends [[Adrienne Barbeau]] (with whom she had worked on ''Maude'') and [[Angela Lansbury]] (with whom she had worked in ''[[Mame (musical)|Mame]]'') reflected on her death. Barbeau said, "We've lost a unique, incredible talent. No one could deliver a line or hold a take like Bea and no one was more generous or giving to her fellow performers".&lt;ref&gt;{{cite news|last=Eng|first=Joyce|title=Friends and Colleagues Remember Beatrice Arthur|url=http://www.tvguide.com/News/Beatrice-Arthur-Tribute-1005473.aspx|accessdate=November 15, 2013|newspaper=TV Guide|date=April 27, 2009}}&lt;/ref&gt; Lansbury said, "She became and has remained my [[Mame (musical)|bosom buddy]] [...] I am deeply saddened by her passing, but also relieved that she is released from the pain".&lt;ref&gt;{{cite news|title=Angela Lansbury 'Deeply Saddened' by Bea Arthur's Passing|url=http://www.etonline.com/news/73215_Angela_Lansbury_Deeply_Saddened_by_Bea_Arthur_s_Passing/index.html|accessdate=November 15, 2013|newspaper=Entertainment Tonight|date=April 25, 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20131110153546/http://www.etonline.com/news/73215_Angela_Lansbury_Deeply_Saddened_by_Bea_Arthur_s_Passing/index.html|archivedate=November 10, 2013}}&lt;/ref&gt;
+
+Arthur [[bequeathed]] $300,000 to the [[Ali Forney Center]], a New York City organization that provides housing for homeless [[LGBT]] youths.&lt;ref&gt;{{cite news|last=Garcia|first=Michelle|title=Bea Leaves $300K to Homeless Youths|url=http://www.advocate.com/news/daily-news/2009/10/27/bea-leaves-300k-homeless-youths|accessdate=November 15, 2013|newspaper=[[The Advocate]]|date=October 27, 2009}}&lt;/ref&gt;&lt;ref&gt;[http://www.aliforneycenter.org/Bea/ The Ali Forney Center – The Bea Arthur Residence for LGBT Youth] {{webarchive|url=https://web.archive.org/web/20091026043256/http://www.aliforneycenter.org/Bea|date=October 26, 2009}}&lt;/ref&gt; The center was heavily damaged in October 2012 by [[Hurricane Sandy]],&lt;ref&gt;{{cite news|title=Ali Forney Center For LGBT Youth Drop-In Center Destroyed By Hurricane Sandy|url=http://www.pridesource.com/article.html?article=56683|accessdate=November 15, 2013|newspaper=[[PrideSource]]|date=November 8, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Pearce|first=Matt|title=Twitter in the time of Sandy: A few lies, and then redemption|url=http://articles.latimes.com/2012/nov/05/nation/la-na-nn-twitter-social-media-sandy-20121105|accessdate=November 15, 2013|newspaper=[[Los Angeles Times]]|date=November 5, 2012}}&lt;/ref&gt; but has since been restored and re-opened.&lt;ref&gt;{{cite web|url=http://www.aliforneycenter.org/about-us|title=About Us – Ali Forney|publisher=Aliforneycenter.org|accessdate=July 20, 2015}}&lt;/ref&gt; The Bea Arthur Residence, which opened in 2017, is an 18-bed residence in Manhattan for homeless LGBT youth operated by the Ali Forney Center.&lt;ref&gt;{{cite web|author=|url=http://www.broadwayworld.com/article/Bea-Arthur-Residence-for-LGBT-Homeless-Youth-Breaks-Ground-in-Manhattan-20150720|title=Bea Arthur Residence for LGBT Homeless Youth Breaks Ground in Manhattan|publisher=Broadwayworld.com|accessdate=July 20, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://m.huffpost.com/us/entry/us_5a283792e4b0c2117627e650 |title=Shelter For Homeless LGBTQ Youth, Named For 'Golden Girls' Star, Opens in NYC &amp;#124; HuffPost |publisher=M.huffpost.com |date= |accessdate=2017-12-07}}&lt;/ref&gt;
+
+==Awards==
+[[File:Bea Arthur &amp; Angela Lansbury (211193459).jpg|thumb|right|Arthur (left) at the 1989 Emmy Awards with close friend [[Angela Lansbury]] (right)]]
+Arthur won the [[American Theatre Wing]]'s [[Tony Award]] in 1966 as Best Featured Actress in a Musical for her performance that year as Vera Charles in the original Broadway production of [[Jerry Herman]]'s musical ''[[Mame (musical)|Mame]]''.{{citation needed|date=September 2016}}
+
+Arthur received the third most nominations for the [[Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series]] with nine; only [[Julia Louis Dreyfus]] (11) and [[Mary Tyler Moore]] (10) have more. She received the [[Academy of Television Arts &amp; Sciences]]' [[Emmy Award]] for Outstanding Lead Actress in a Comedy Series twice, once in 1977 for ''Maude'' and again in 1988 for ''The Golden Girls''.&lt;ref&gt;{{cite web|url=http://www.emmys.tv/awards/awardsearch.php|title=Academy of Television Arts and Sciences Emmy Awards Database|publisher=Emmys.tv|accessdate=December 4, 2013}}&lt;/ref&gt; She was inducted into the Academy's [[Television Hall of Fame]] in 2008.&lt;ref&gt;{{cite press release|title=Television Academy Hall of Fame Reveals Six Honorees for 2008|url=http://www.emmys.tv/media/releases/2008/rel-hof2008.php|publisher=The Academy of Television Arts &amp; Sciences|date=April 17, 2008|accessdate=July 12, 2008}}&lt;/ref&gt;
+
+On June 8, 2008, ''[[The Golden Girls]]'' was awarded the Pop Culture award at the Sixth Annual [[TV Land|TV Land Awards]]. Arthur (in one of her final public appearances) accepted the award with McClanahan and White.&lt;ref&gt;{{cite news|author=Julie Keller|title=TV Land Awards Party Like It's 1979|url=http://uk.eonline.com/uberblog/b11229_tv_land_awards_party_like_its_1979.html|work=E! Online|date=June 8, 2008|accessdate=July 12, 2008}}&lt;/ref&gt;
+
+==Filmography==
+===Film===
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1959
+| ''[[That Kind of Woman]]''
+| WAC
+| Uncredited
+|-
+| 1970
+| ''[[Lovers and Other Strangers]]''
+| Bea Vecchio
+| 
+|-
+| 1974
+| ''[[Mame (film)|Mame]]''
+| Vera Charles
+|
+|-
+| 1981
+| ''[[History of the World, Part I]]''
+| Dole office clerk
+| Uncredited
+|-
+| 1995
+| ''[[For Better or Worse (film)|For Better or Worse]]''
+| Beverly Makeshift
+|
+|-
+| 2000
+| ''Enemies of Laughter''
+| Paul's Mother
+|
+|}
+
+===Television===
+{| class="wikitable"
+|-
+! Year
+! Film
+! Role
+! Notes
+|-
+| 1951–58
+| ''[[Kraft Television Theatre]]''
+|
+|
+|-
+| 1951
+| ''[[Once Upon a Tune]]''
+|
+|
+|-
+| 1951–53, 1955–58
+| ''[[Studio One (U.S. TV series)|Studio One in Hollywood]]''
+|
+|
+|-
+| 1955
+| ''[[Max Liebman Spectaculars|Max Liebman Presents: Kaleidoscope]]''
+|
+|
+|-
+| 1954–56
+| ''[[Caesar's Hour]]''
+|
+| Regular performer
+|-
+| rowspan="2" |1957
+| ''Washington Square''
+|
+| 2 episodes
+|-
+| ''[[The Steve Allen Show]]''
+|
+|
+|-
+| rowspan="4" |1958
+| ''[[The Seven Lively Arts]]''
+|
+|
+|-
+| ''[[Tonight Starring Jack Paar]]''
+|
+|
+|-
+| ''[[Omnibus (U.S. TV series)|Omnibus]]''
+|
+|
+|-
+| ''[[The Gift of the Magi]]''
+|
+|
+|-
+| 1959
+| ''[[George Gobel|The George Gobel Show]]''
+|
+|
+|-
+| 1960
+| ''The Best of Anything''
+|
+| Television film
+|-
+| 1961
+| ''[[Perry Como|The Perry Como Show]]''
+|
+|
+|-
+| 1962
+| ''[[The Garry Moore Show]]''
+|
+|
+|-
+| 1963
+| ''[[Sid Caesar|The Sid Caesar Show]]''
+|
+|
+|-
+| 1971–72
+| ''[[All in the Family]]''
+| rowspan="2" |Maude Findlay
+| 2 episodes
+|-
+| 1972–78
+| ''[[Maude (TV series)|Maude]]''
+| 141 episodes
+|-
+| 1973
+| ''[[45th Academy Awards|The 45th Annual Academy Awards]]''
+|
+|
+|-
+|1974
+|''[[28th Tony Awards|The 28th Annual Tony Awards]]''
+|
+|
+|-
+| 1974–80
+| ''[[The Mike Douglas Show]]''
+|
+| 6 episodes
+|-
+| 1974–85
+| ''[[The Merv Griffin Show]]''
+|
+| 3 episodes
+|-
+| 1974–90
+| ''[[The Tonight Show Starring Johnny Carson]]''
+|
+| 8 episodes
+|-
+| 1975–80
+| ''[[Dinah!]]''
+|
+| 5 episodes
+|-
+| 1976–79
+| ''[[Saturday Night Live]]''
+|
+| 2 episodes
+|-
+| 1976
+| ''[[Cos (TV series)|Cos]]''
+| Herself
+|
+|-
+| rowspan="3" |1977
+| ''[[31st Tony Awards|The 31st Annual Tony Awards]]''
+|
+|
+|-
+| ''[[29th Primetime Emmy Awards|The 29th Annual Primetime Emmy Awards]]''
+|
+|
+|-
+| ''[[Rowan &amp; Martin's Laugh-In|Laugh-In]]''
+|
+|
+|-
+| rowspan="3" |1978
+| ''CBS: On the Air''
+|
+|
+|-
+| ''[[30th Primetime Emmy Awards|The 30th Annual Primetime Emmy Awards]]''
+|
+|
+|-
+| ''[[Star Wars Holiday Special]]''
+| Ackmena
+| Television film
+|-
+| 1979
+| ''[[The Mary Tyler Moore Hour]]''
+| Herself
+| Episode #1.2
+|-
+| rowspan="4" |1980
+| ''[[The Beatrice Arthur Special]]''
+| Herself (Host / Performer)
+| Television special
+|-
+| ''30 Years of TV Comedy's Greatest Hits: To Laughter with Love''
+|
+|
+|-
+| ''[[Soap (TV series)|Soap]]''
+| Angel
+| Episode: "Jessica's Wonderful Life"
+|-
+| ''[[Bob Hope television specials|Bob Hope Special: Bob Hope-Hope, Women and Song]]''
+|
+|
+|-
+| rowspan="3" |1981
+| ''Omnibus''
+|
+|
+|-
+| ''[[35th Tony Awards|The 35th Annual Tony Awards]]''
+|
+|
+|-
+| ''[[33rd Primetime Emmy Awards|The 33rd Annual Primetime Emmy Awards]]''
+|
+|
+|-
+| rowspan="3" |1982
+| ''[[Bob Hope television specials|Bob Hope's Women I Love: Beautiful But Funny]]''
+|
+|
+|-
+| ''Nights of 100 Stars''
+|
+|
+|-
+| ''Broadway Plays Washington on Kennedy Center Tonight''
+|
+|
+|-
+| rowspan="2" |1983
+| ''[[Amanda's]]''
+| Amanda Cartwright
+| 13 episodes
+|-
+| ''[[9th People's Choice Awards|The 9th Annual People's Choice Awards]]''
+|
+|
+|-
+| rowspan="4" |1984
+| ''[[The Dean Martin Celebrity Roast|The Dean Martin Celebrity Roast: Joan Collins]]''
+|
+|
+|-
+| ''[[Television Hall of Fame|The 1st Academy TV Hall of Fame]]''
+|
+|
+|-
+| ''[[a.k.a. Pablo]]''
+| Press Agent
+| Episode: "My Son, the Gringo"
+|-
+| ''P.O.P.''
+| Rosalyn Gordon
+| Television film
+|-
+| 1985–92
+| ''[[The Golden Girls]]''
+| [[Dorothy Zbornak]]
+| 180 episodes
+|-
+| rowspan="4" |1985
+| ''The NBC All Star Hour''
+|
+|
+|-
+| ''[[37th Primetime Emmy Awards|The 37th Annual Primetime Emmy Awards]]''
+|
+|
+|-
+| ''[[Circus of the Stars|The 10th Circus of the Stars]]''
+|
+|
+|-
+|''[[40th Tony Awards|The 40th Annual Tony Awards]]''
+|
+|
+|-
+| 1985–2008
+| ''[[Entertainment Tonight]]''
+| Herself
+| 7 episodes
+|-
+| rowspan="8" |1986
+| ''All Star Party for Clint Eastwood''
+|
+|
+|-
+| ''[[38th Primetime Emmy Awards|The 38th Annual Primetime Emmy Awards]]''
+|
+|
+|-
+| ''[[NBC 60th Anniversary Celebration]]''
+|
+|
+|-
+| ''[[43rd Golden Globe Awards|The 43rd Annual Golden Globe Awards]]''
+|
+|
+|-
+| ''[[Walt Disney World]]'s 15th Birthday Celebration''
+|
+|
+|-
+| ''[[Late Night with David Letterman]]''
+|
+|
+|-
+| ''The 46th Annual Golden Apple Awards''
+|
+|
+|-
+| ''[[Kennedy Center Honors|The Kennedy Center Honors: A Celebration of the Performing Arts]]''
+|
+|
+|-
+| rowspan="12" |1987
+| ''[[39th Primetime Emmy Awards|The 39th Annual Primetime Emmy Awards]]''
+|
+|
+|-
+| ''All Star Party for Joan Collins''
+|
+|
+|-
+| ''[[Comic Relief USA|Comic Relief '87]]''
+|
+|
+|-
+| ''All Star Gala at Ford's Theater''
+| Host
+|
+|-
+| ''[[American Comedy Awards|The 1st Annual American Comedy Awards]]''
+|
+|
+|-
+| ''[[44th Golden Globe Awards|The 44th Annual Golden Globe Awards]]''
+|
+|
+|-
+| ''The 13th Annual People's Choice Awards''
+|
+|
+|-
+| ''[[This Is Your Life]]''
+|
+|
+|-
+| ''Happy 100th Birthday Hollywood''
+|
+|
+|-
+| ''[[Sally (1983 TV series)|Sally Jessy Raphael Show]]''
+|
+|
+|-
+| ''[[41st Tony Awards|The 41st Annual Tony Awards]]''
+|
+|
+|-
+| ''Family Comedy Hour''
+|
+|
+|-
+| rowspan="8" |1988
+| ''The 9th Annual American Black Achievement Awards''
+|
+|
+|-
+| ''[[45th Golden Globe Awards|The 45th Annual Golden Globe Awards]]''
+|
+|
+|-
+| ''In Performance at the White House; A Salute to Broadway: Showstoppers''
+|
+|
+|-
+| ''[[Irving Berlin]]'s 100th Birthday Celebration''
+|
+|
+|-
+| ''The 40th Annual Primetime Emmy Awards''
+|
+|
+|-
+| ''[[Mickey's 60th Birthday]]''
+| Dorothy Zbornak
+|
+|-
+| ''[[Circus of the Stars|The 13th Circus of the Stars]]''
+|
+|
+|-
+| ''[[My First Love (1988 film)|My First Love]]''
+| Jean Miller
+| Television movie
+|-
+| rowspan="10" |1989
+| ''[[46th Golden Globe Awards|The 46th Annual Golden Globe Awards]]''
+|
+|
+|-
+| ''[[Empty Nest]]''
+| Dorothy Zbornak
+| Episode: "Dumped"
+|-
+| ''The 3rd Annual American Comedy Awards''
+|
+|
+|-
+| ''Bob Hope's Birthday Spectacular in Paris''
+|
+|
+|-
+| ''The Society of Singers Presents a Tribute to Ella Fitzgerald''
+|
+|
+|-
+| ''The 41st Annual Primetime Emmy Awards''
+|
+|
+|-
+| ''[[Later (talk show)|Later with Bob Costas]]''
+|
+|
+|-
+| ''[[The Arsenio Hall Show]]''
+|
+|
+|-
+| ''The 49th Annual Golden Apple Awards''
+|
+|
+|-
+| ''[[Live with Kelly and Ryan|Live with Regis and Kathie Lee]]''
+|
+|
+|-
+| rowspan="10" |1990
+| ''The TV Academy Tribute to Angela Lansbury''
+|
+|
+|-
+| ''The 21st BAFTA Awards''
+|
+|
+|-
+| ''The 4th Annual American Comedy Awards''
+|
+|
+|-
+| ''[[The Earth Day Special]]''
+|
+|
+|-
+| ''Aspel &amp; Company''
+|
+|
+|-
+| ''Night of 100 Stars III''
+|
+|
+|-
+| ''The 42nd Annual Primetime Emmy Awards''
+|
+|
+|-
+| ''[[Des O'Connor Tonight]]''
+|
+|
+|-
+| ''A Conversation with Dinah''
+|
+|
+|-
+| ''Live from the London Palladium: Happy Birthday, Happy New Year!''
+|
+|
+|-
+| rowspan="6" |1991
+| ''The 17th Annual People Choice Awards''
+|
+|
+|-
+| ''[[48th Golden Globe Awards|The 48th Annual Golden Globe Awards]]''
+|
+|
+|-
+| ''The 5th Annual American Comedy Awards''
+|
+|
+|-
+| ''The 43rd Annual Primetime Emmy Awards''
+|
+|
+|-
+| ''Funny Women of Television''
+|
+|
+|-
+| ''[[Dame Edna Everage|Dame Edna's Hollywood]]''
+|
+|
+|-
+| rowspan="7" |1992
+| ''[[Evening at Pops]]''
+|
+|
+|-
+| ''[[The Howard Stern Show]]''
+|
+|
+|-
+| ''Guest Night''
+|
+|
+|-
+| ''The 6th Annual American Comedy Awards''
+|
+|
+|-
+| ''[[The Golden Palace]]''
+| Dorothy Hollingsworth
+| Episodes: "Seems Like Old Times" (Parts 1 &amp; 2)
+|-
+| ''Verstehen Sie Spaß?''
+|
+|
+|-
+| ''The 1992 Pacific Center HIV-AIDS Benefit''
+|
+|
+|-
+| rowspan="6" |1993
+| ''The 7th Annual American Comedy Awards''
+|
+|
+|-
+| ''Out There''
+|
+|
+|-
+| ''This Joint is Jumpin{{'}}''
+|
+|
+|-
+| ''The 47th Annual Tony Awards''
+|
+|
+|-
+| ''Boulevard Bio''
+|
+|
+|-
+| ''[[Sean's Show]]''
+|
+|
+|-
+| rowspan="4" |1994
+| ''Jerry Herman's Broadway at the Hollywood Bowl''
+| Herself (Performer)
+| Television special
+|-
+| ''The 8th Annual American Comedy Awards''
+|
+|
+|-
+| ''Bob Hope's Birthday Memories''
+|
+|
+|-
+| ''She TV''
+|
+|
+|-
+| rowspan="3" |1995
+| ''The 9th Annual Genesis Awards''
+|
+|
+|-
+| ''50 Years of Funny Females''
+|
+|
+|-
+| ''[[This Morning (TV programme)|This Morning]]''
+|
+| {{citation needed|date=August 2014}}
+|-
+| rowspan="2" |1996
+| ''The 10th American Comedy Awards''
+|
+|
+|-
+| ''The 50th Annual Tony Awards''
+|
+|
+|-
+| rowspan="2" |1997
+| ''[[Dave's World]]''
+| Mel Bloom
+| 3 episodes
+|-
+| ''[[The Rosie O'Donnell Show]]''
+|
+|
+|-
+| rowspan="4" |1998
+| ''[[The RuPaul Show]]''
+|
+|
+|-
+| ''[[Ellen (TV series)|Ellen]]''
+| Herself
+| Episode: "Ellen: A Hollywood Tribute: Part 1"
+|-
+| ''CBS: The First 50 Years''
+|
+|
+|-
+| ''NY TV: By the People Who Made It-Part I &amp; II''
+|
+|
+|-
+| rowspan="4" |1999
+| ''The 53rd Annual Tony Awards''
+|
+|
+|-
+| ''[[Beggars and Choosers (TV series)|Beggars and Choosers]]''
+| Herself
+| 5 episodes
+|-
+| ''[[Emily of New Moon]]''
+| The Voice
+| Episode: "A Fall from Grace"
+|-
+| ''[[Martin Short|The Martin Short Show]]''
+|
+|
+|-
+| rowspan="7" |2000
+| ''[[So Graham Norton]]''
+|
+|
+|-
+| ''[[Malcolm in the Middle]]''
+| Mrs. White
+| Episode: "Water Park"
+|-
+| ''Intimate Portrait: Rue McClanahan''
+|
+|
+|-
+| ''E! True Hollywood Story: The Golden Girls''
+|
+|
+|-
+| ''E! True Hollywood Story: Good Times''
+|
+|
+|-
+| ''E! True Hollywood Story: All in the Family''
+|
+|
+|-
+| ''The 70s: The Decade That Changed Television''
+|
+|
+|-
+| rowspan="3" |2001
+| ''Intimate Portrait: Estelle Getty''
+|
+|
+|-
+| ''[[Futurama]]''
+| Femputer
+| Episode: "[[Amazon Women in the Mood]]"
+|-
+| ''[[Today (U.S. TV program)|Today]]''
+|
+|
+|-
+| 2002–07
+| ''[[The View (U.S. TV series)|The View]]''
+| Herself / Guest
+| 2 episodes
+|-
+| rowspan="10" |2002
+| ''[[CBS News Sunday Morning]]''
+|
+|
+|-
+| ''[[The Rosie O'Donnell Show]]''
+|
+|
+|-
+| ''[[Good Morning America]]''
+|
+|
+|-
+| ''[[The Daily Show]]''
+|
+|
+|-
+| ''The Big O! True West Hollywood Story''
+|
+|
+|-
+| ''TV Most Censored Moments''
+|
+|
+|-
+| ''TV Tales: The Golden Girls''
+|
+|
+|-
+| ''Open Mike with [[Mike Bullard (television)|Mike Bullard]]''
+|
+|
+|-
+| ''[[Because I Said So (TV series)|Because I Said So]]''
+|
+|
+|-
+| ''Inside TV Land: Taboo TV''
+|
+|
+|-
+| rowspan="10" |2003
+| ''Great Women on Television Comedy''
+|
+|
+|-
+| ''Intimate Portrait: Bea Arthur''
+|
+|
+|-
+| ''TV Land Awards: A Celebration of Classic TV''
+|
+|
+|-
+| ''[[Rove (TV series)|Rove Live]]''
+|
+|
+|-
+| ''Broadway: The Golden Age by the Legends Who Were There''
+|
+|
+|-
+| ''[[Through the Keyhole]]''
+|
+|
+|-
+| ''[[The Golden Girls: Their Greatest Moments]]''
+| Herself (Host)
+| Television special
+|-
+| ''[[Today with Des and Mel]]''
+|
+|
+|-
+| ''[[Richard &amp; Judy]]''
+|
+|
+|-
+| ''[[The Terry and Gaby Show]]''
+|
+|
+|-
+| rowspan="5" |2004
+| ''The 2nd Annual TV Land Awards: A Celebration of Classic TV''
+|
+|
+|-
+| ''[[Great Performances]]''
+|
+|
+|-
+| ''The Best of [[So Graham Norton]]''
+|
+|
+|-
+| ''Inside TV Land: Primetime Politics''
+|
+|
+|-
+| ''TV's Greatest Sidekicks''
+|
+|
+|-
+| rowspan="4" |2005
+| ''Inside TV Land: Tickled Pink''
+|
+|
+|-
+| ''[[Comedy Central Roast]] of [[Pamela Anderson]]''
+|
+|
+|-
+| ''[[TV Land Confidential]]''
+|
+|
+|-
+| ''[[Curb Your Enthusiasm]]''
+| [[Larry David|Larry]]'s mother
+| Episode: "The End"
+|-
+| rowspan="2" |2006
+| ''Biography: Bea Arthur''
+|
+|
+|-
+| ''The 100 Greatest TV Quotes &amp; Catchphrases''
+| Herself
+| 5 episodes
+|-
+| rowspan="3" |2007
+| ''TV Land Confidential''
+| Herself / Interviewee
+| Documentary (4 episodes)
+|-
+| ''Back to the Grind''
+| Herself
+| Bea Arthur and Ed Begley Jr.
+|-
+| ''Entertainment Weekly &amp; TV Land Present: The 50 Greatest TV Icons''
+|
+|
+|-
+| rowspan="2" |2008
+| ''The 6th Annual [[TV Land Awards]]''
+| rowspan="2" |Herself
+| Winner
+|-
+| ''[[Inside Edition]]''
+| Documentary
+|-
+| 2014
+| ''Broadway: Beyond The Golden Age''
+|
+|
+|}
+
+==Theater performances==
+{| class="wikitable
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1947
+| ''[[Lysistrata]]''
+|
+|
+|-
+| 1947
+| ''Gas''
+|
+|
+|-
+| 1947
+| ''The Dog Beneath the Skin''
+|
+|
+|-
+| 1947
+| ''Yerma''
+|
+|
+|-
+| 1948
+| ''[[No Exit]]''
+|
+|
+|-
+| 1948
+| ''[[The Taming of the Shrew]]''
+| Katherina
+|
+|-
+| 1948
+| ''[[Six Characters in Search of an Author]]''
+|
+|
+|-
+| 1948
+| ''The Owl and the Pussycat''
+|
+|
+|-
+| 1949
+| ''Le Bourgeois Gentilhomme''
+|
+|
+|-
+| 1949
+| ''Yes is for a Very Young Man''
+|
+|
+|-
+| 1949
+| ''The Creditors''
+|
+|
+|-
+| 1949
+| ''[[Heartbreak House]]''
+|
+|
+|-
+| 1951
+| ''[[Gentlemen Prefer Blondes (musical)|Gentlemen Prefer Blondes]]''
+|
+|
+|-
+| 1951
+| ''Personal Appearance''
+|
+|
+|-
+| 1951
+| ''Candle Light''
+|
+|
+|-
+| 1951
+| ''Love or Money''
+|
+|
+|-
+| 1951
+| ''[[The Voice of the Turtle (play)|The Voice of the Turtle]]''
+|
+|
+|-
+| 1951
+| ''Gentlemen Prefer Blondes''
+|
+|
+|-
+| 1953
+| ''[[The New Moon]]''
+|
+|
+|-
+| 1954–55
+| ''[[The Threepenny Opera]]''
+| Lucy Brown
+|
+|-
+| 1955
+| ''What's the Rush?''
+|
+|
+|-
+| 1955
+| ''Shoestring Revue''
+|
+|
+|-
+| 1955
+| ''[[Plain and Fancy]]''
+|
+|
+|-
+| 1955
+| ''Seventh Heaven''
+|
+|
+|-
+| 1956
+| ''Mistress of the Inn''
+|
+|
+|-
+| 1956
+| ''[[Ziegfeld Follies]]''
+|
+|
+|-
+| 1956
+| ''Shoestring '57''
+|
+|
+|-
+| 1957
+| ''Hamlet''
+|
+|
+|-
+| 1957
+| ''Nature's Way''
+|
+|
+|-
+| 1958
+| ''Ulysses in Nighttown''
+|
+|
+|-
+| 1959
+| ''Chic''
+|
+|
+|-
+| 1960
+| ''The Gay Divorcee at the Cherry Lane''
+|
+|
+|-
+| 1962
+| ''A Matter of Position''
+|
+|
+|-
+| 1964
+| ''[[Fiddler on the Roof]]''
+| Yenta the Matchmaker
+|
+|-
+| 1966
+| ''[[Mame (musical)|Mame]]''
+| Vera Charles
+| Won Tony Award-Featured Actress in a Musical
+|-
+| 1968
+| ''A Mother's Kisses''
+|
+| Closed on the road
+|-
+| 1981
+| ''The Floating Lightbulb''
+|
+|
+|-
+| 1981
+| ''Hey, Look Me Over!''
+|
+|
+|-
+| 1994
+| ''Easter Bonnet Competition: A Salute to 100 Years of Broadway''
+|
+|
+|-
+| 1994
+| ''La Fille du Regiment''
+|
+|
+|-
+| 1995–96
+| ''Bermuda Avenue Triangle''
+|
+|
+|-
+| November 17, 1996
+| ''Angela Lansbury – A Celebration''
+|
+|Benefit concert
+|-
+| 1997–98
+| ''After Play''
+|
+|
+|-
+| 1998
+| ''Jubilee''
+|
+|
+|-
+| 1999
+| ''Thoroughly Modern Millie''
+|
+|
+|-
+| 2000
+| ''[[Strike Up the Band (musical)|Strike Up the Band]]''
+|
+|
+|-
+| 2000
+| ''The Threepenny Opera Reunion Concert''
+|
+|
+|-
+| 2000–2006
+| ''An Evening with Bea Arthur'' 
+|
+| Westport, Connecticut (July 28–30, 2000)&lt;br&gt;
+Santa Fe, New Mexico (September 24, 2002)&lt;br&gt;
+Los Angeles, California (January 31 – February 1, 2004)&lt;br&gt;
+Saugatuck, Michigan (May 22–23, 2004)&lt;br&gt;
+Provincetown, Massachusetts (August 21, 2004)&lt;br&gt;
+Columbus, Georgia (October 30, 2004)&lt;br&gt;
+Nyack, New York (March 4–6, 2005)&lt;br&gt;
+Fort Wayne, Indiana (April 17, 2005)&lt;br&gt;
+Mount Pleasant, Michigan (April 19, 2005)&lt;br&gt;
+Atlantic City, New Jersey (June 3–4, 2005)&lt;br&gt;
+Holmdel, New Jersey (June 7, 2005)&lt;br&gt;
+Las Vegas, Nevada (August 27, 2005)&lt;br&gt;
+Hampton, Virginia (September 16–17, 2005)&lt;br&gt;
+Alexandria, Virginia (September 22, 2005)&lt;br&gt;
+Geneva, New York (September 24, 2005)&lt;br&gt;
+San Francisco, California (January 7, 2006)&lt;br&gt;
+Salem, Oregon (January 21, 2006)&lt;br&gt;
+Scottsdale, Arizona (February 24–25, 2006)&lt;br&gt;
+University Park, Illinois (March 19, 2006)
+|-
+| 2001–2003
+| ''And Then There's Bea''
+|
+|United States Tour (April 24, 2001 – January 13, 2002)&lt;br&gt;
+Melbourne, Australia (October 15–27, 2002)&lt;br&gt;
+Sydney, Australia (October 29 – November 10, 2002)&lt;br&gt;
+Johannesburg, South Africa (August 12–24, 2003)&lt;br&gt;
+Cape Town, South Africa (August 26 – September 7, 2003)
+|-
+| 2002
+| ''Bea Arthur on Broadway: Just Between Friends''
+|
+| New York, New York (January 29, 2002 – April 14, 2002)&lt;br&gt;
+Toronto, Canada (November 20 – December 8, 2002)
+|-
+| 2003
+| ''Bea Arthur at The Savoy'' in London, England (September 15 – October 18, 2003)
+|
+|
+|-
+| 2004
+| ''A Celebration of Life'' in Washington, D.C. (May 26, 2004)
+|
+|
+|-
+| 2004
+| ''There'll Be Another Spring: A Tribute to Miss Peggy Lee'' at the Hollywood Bowl, Hollywood, California (July 14, 2004)
+|
+|
+|-
+| 2004
+| ''Bea Arthur at the El Portal'' in North Hollywood, California (August 5–8, 2004)
+|
+|
+|-
+| 2005
+|''Bea Arthur Back on Broadway (at 95th Street)'' in New York, New York (November 21, 2005)
+|
+|
+|-
+| 2006
+|''Bea Arthur Back at the El Portal'' in North Hollywood, California (February 16–19, 2006)
+|
+|
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal|Biography|Theatre|Television|LGBT}}
+{{Commons category|Beatrice Arthur|Bea Arthur}}
+{{Wikiquote}}
+*{{IMDb name|37735}}
+*{{IBDB name}}
+*{{iobdb name|5954}}
+*{{emmytvlegends name|beatrice-arthur}}
+*[http://www.emmytvlegends.org/interviews/people/beatrice-arthur Bea Arthur Interview], emmytvlegends.org; accessed June 13, 2014.
+*[http://comedyhalloffame.com/archives/bea-arthur Bea Arthur profile], Comedy Hall of Fame website; accessed June 13, 2014.
+*[http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;cc=wiarchives;type=simple;rgn=Entire%20Finding%20Aid;q1=Beatrice%20Arthur;view=reslist;subview=detail;sort=freq;didno=uw-whs-tape00339a Beatrice Arthur] at the [[University of Wisconsin]]'s [https://web.archive.org/web/20131004223020/http://digicoll.library.wisc.edu/cgi/f/findaid/findaid-idx?c=wiarchives;view=reslist;subview=standard;didno=uw-whs-tape00339a;focusrgn=summaryinfo;cc=wiarchives;byte=50771135 Actors Studio audio collection]; accessed June 13, 2014.
+*[http://jwa.org/encyclopedia/article/arthur-bea Beatrice Arthur profile] by Kirsten Fermaglich, Jewish Women Encyclopedia; accessed June 13, 2014.
+*[https://www.nytimes.com/2009/04/26/arts/television/26arthur.html?_r=1&amp;hp ''N.Y. Times'' obituary], April 26, 2009; accessed June 13, 2014.
+*[http://www.huffingtonpost.com/2009/04/25/bea-arthur-golden-girls-s_n_191407.html "Huffington Post" obituary]; April 25, 2014; accessed June 13, 2014.
+*[http://www.latimes.com/entertainment/news/arts/la-et-bea-appreciation27-2009apr27,0,1470617.story "Beatrice Arthur: A towering comedic talent from another era"], ''L.A. Times'', August 27, 2009; accessed June 13, 2014
+*[https://web.archive.org/web/20090427082617/http://news-briefs.ew.com/2009/04/beatrice-arthur.html ''Entertainment Weekly'' article about her death], ew.com; accessed June 13, 2014.
+*[https://www.telegraph.co.uk/news/obituaries/culture-obituaries/tv-radio-obituaries/5225791/Beatrice-Arthur.html Beatrice Arthur obituary], ''Daily Telegraph''; accessed June 13, 2014.
+*{{Find a Grave|36348603}}
+
+{{Navboxes
+|title = Awards for Beatrice Arthur
+|list =
+{{EmmyAward ComedyLeadActress 1976-2000}}
+{{TonyAward MusicalFeaturedActress 1947-1975}}
+{{2008 Television Hall of Fame}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arthur, Beatrice}}
+[[Category:1922 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century American actresses]]
+[[Category:21st-century American actresses]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:American military personnel of World War II]]
+[[Category:Actresses from Maryland]]
+[[Category:Blackstone College for Girls alumni]]
+[[Category:American female singers]]
+[[Category:American feminists]]
+[[Category:American film actresses]]
+[[Category:American musical theatre actresses]]
+[[Category:American stage actresses]]
+[[Category:American television actresses]]
+[[Category:American television personalities]]
+[[Category:American women comedians]]
+[[Category:American women in World War II]]
+[[Category:American women's rights activists]]
+[[Category:California Democrats]]
+[[Category:Deaths from cancer in California]]
+[[Category:Deaths from cancer of unknown primary origin]]
+[[Category:Jewish activists]]
+[[Category:Jewish American actresses]]
+[[Category:Jewish feminists]]
+[[Category:Jewish singers]]
+[[Category:LGBT rights activists from the United States]]
+[[Category:New York (state) Democrats]]
+[[Category:Outstanding Performance by a Lead Actress in a Comedy Series Primetime Emmy Award winners]]
+[[Category:People from Cambridge, Maryland]]
+[[Category:Tony Award winners]]
+[[Category:The New School alumni]]
+[[Category:Women in the United States Marine Corps]]
+[[Category:Comedians from New York City]]
+[[Category:Activists from Maryland]]
+[[Category:Jewish American comedians]]</text>
+      <sha1>8117b7t41xdqqsmz9eg1d0gusbpdi9f</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1181 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tracey Ullman</title>
+    <ns>0</ns>
+    <id>53486</id>
+    <revision>
+      <id>856184201</id>
+      <parentid>855939632</parentid>
+      <timestamp>2018-08-23T12:52:22Z</timestamp>
+      <contributor>
+        <username>Loeba</username>
+        <id>15151559</id>
+      </contributor>
+      <comment>/* Early life */ c'mon, this quote really is pointless</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="115862">{{Use dmy dates|date=January 2017}}
+{{Use British English|date=May 2014}}
+{{Infobox person
+| name             = Tracey Ullman
+| image            = Tracey Ullman 1990.jpg
+| caption          = Tracey Ullman at the 1990 Emmy Awards
+| birth_name       = Trace Ullman
+| birth_date       = {{birth date and age|df=yes|1959|12|30}}
+| birth_place      = [[Slough]], [[Buckinghamshire]],{{efn|Prior to 1 April 1974 Slough was in Berkshire.}} England,&lt;ref name=queenofparody&gt;{{cite web|title=Tracey Ullman Is Sitting Pretty as the Queen of Parody and Pops |url=http://www.people.com/people/archive/article/0,,20089118,00.html|first=Barbara|last=Graustark|date=12 November 1984|accessdate=10 June 2015|work=[[People (magazine)|People]]}}&lt;/ref&gt; United Kingdom
+| residence        = [[London]], [[England]], United Kingdom
+| citizenship      = {{ubl|British (1959–present)|American (2006–present)}}
+| education        = 
+| alma_mater       = 
+| occupation       = {{hlist|Actress|comedian|singer|dancer|screenwriter|producer|director|author|businesswoman}}
+| years_active     = 1980–present
+| net_worth        = {{increase}} £80 million&lt;ref name=wealth&gt;{{cite web|title=Starring role for women in the Sunday Times film and TV Rich List|url=https://www.thetimes.co.uk/article/rich-list-2017-starring-role-for-women-in-film-and-tv-rich-list-hk9p620km?shareToken=ea86335bb1b8b37fc5f63f548c003c41|work=[[The Sunday Times]]|publisher=The Sunday Times|accessdate=14 May 2017}}&lt;/ref&gt; (2017)
+| spouse           = {{marriage|[[Allan McKeown]]|27 December 1983|24 December 2013|end=died}}
+| children         = 2
+| awards           = [[List of awards and nominations received by Tracey Ullman|Full list]]
+| website          =
+| module           =
+{{Infobox comedian|embed=yes
+| genre            = {{hlist|[[Sketch comedy]]|[[social commentary]]|[[satire]]|[[character comedy]]|[[parody]]}}
+| medium           = {{hlist|Television|film|theatre|books}} 
+}}
+| module2           =
+ {{Infobox musical artist|embed=yes
+| background        = solo_singer
+| genre             = {{hlist|[[Pop music|Pop]]|[[Rock music|rock]]|[[doo-wop]]|[[synthpop]]}}
+| instrument        = [[Singing|Vocals]]
+| years_active      = 1983–1985
+| label             = [[Stiff Records|Stiff]]
+| associated_acts   =
+}}
+}}
+'''Tracey Ullman''' (born 30 December 1959) is an English actress, comedian, singer, dancer, screenwriter, producer, director, author, and businesswoman. She holds both British and American citizenship.
+
+Her earliest appearances were on British television sketch comedy shows ''[[A Kick Up the Eighties]]'' (with [[Rik Mayall]] and [[Miriam Margolyes]]) and ''[[Three of a Kind (TV series)|Three of a Kind]]'' (with [[Lenny Henry]] and [[David Copperfield (comedian)|David Copperfield]]). After a brief singing career, she appeared as Candice Valentine in ''[[Girls on Top (TV series)|Girls on Top]]'' with [[Dawn French]] and [[Jennifer Saunders]].
+
+She emigrated from the United Kingdom to the United States where she starred in her own network television comedy series, ''[[The Tracey Ullman Show]]'', from 1987 until 1990, which also featured the first appearances of the long-running animated [[media franchise]], ''[[The Simpsons]]''. She later produced programmes for [[HBO]], including ''[[Tracey Takes On...]]'' (1996–99), for which she garnered numerous awards. Her sketch comedy series, ''[[Tracey Ullman's State of the Union]]'', ran from 2008 to 2010 on [[Showtime (TV network)|Showtime]]. She has also appeared in several feature films. Ullman was the first British woman to be offered her own television sketch show in both the United Kingdom and the United States.&lt;ref&gt;{{cite web|title=Tracey Ullman returns to BBC with first television series in 30 years|url=https://www.theguardian.com/culture/2016/jan/08/tracey-ullman-returns-to-bbc-with-first-television-series-in-30-years|work=The Guardian|publisher=Theguardian.com|accessdate=8 January 2016}}&lt;/ref&gt; In 2016, she returned to British television with the [[BBC]] sketch comedy show ''[[Tracey Ullman's Show]]'', her first project for the broadcaster in over thirty years;&lt;ref name=tusjan&gt;{{cite web|title=BBC - Tracey Ullman's Show - Media Centre|url=http://www.bbc.co.uk/mediacentre/proginfo/2016/02/tracey-ullmans-show|work=BBC|publisher=BBC.co.uk|accessdate=22 December 2015}}&lt;/ref&gt; this led to the creation of the topical comedy series ''[[Tracey Breaks the News]]'' in 2017.
+
+Ullman is currently the richest British actress and female comedian and the third richest British comedian overall.&lt;ref&gt;{{cite web|title=Tracey Ullman: I had to wear fatsuit to play Judi Dench and being Dame Maggie Smith was hard|url=https://www.mirror.co.uk/tv/tv-news/tracey-ullman-wear-fatsuit-play-7112472|work=[[Daily Mirror]]|publisher=Mirror Online|accessdate=21 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The UK’s richest comedian unloads Upper East Side pad|url=https://nypost.com/2017/07/26/the-uks-richest-comedian-unloads-upper-east-side-pad/|work=The New York Post|publisher=Nypost.com|accessdate=21 September 2017}}&lt;/ref&gt;
+
+==Early life==
+Tracey Ullman was born Trace Ullman in [[Slough]],&lt;ref name=queenofparody/&gt; [[Buckinghamshire]],&lt;ref name=ReferenceA&gt;Prior to 1 April 1974 Slough was in Buckinghamshire&lt;/ref&gt; the younger of two daughters,&lt;ref name=30years&gt;{{cite web|title=After 30 years, Tracey Ullman is back on the BBC: Comedienne to mark UK comeback with six-episode run of her sketch show|url=http://www.dailymail.co.uk/tvshowbiz/article-2980082/After-30-years-Tracey-Ullman-BBC-Comedienne-mark-UK-comeback-six-episode-run-sketch-show.html|work=The Daily Mail|publisher=Dailymail.co.uk|accessdate=15 September 2015}}&lt;/ref&gt; to Dorin (born Cleaver) and Antony John Ullman. Her mother was British, with [[Romani people|Roma]] ancestry,&lt;ref&gt;{{harvnb|Ullman|1998|p=98}}&lt;/ref&gt; and her father was a [[Roman Catholicism in Poland|Roman Catholic]] [[Poles|Pole]].&lt;ref&gt;{{cite book|title=The International Who's Who 2004|url=https://books.google.com/books?id=wwXjAAAAMAAJ|year=2003|publisher=Psychology Press|page=1712}}&lt;/ref&gt; On the subject of the spelling of her name: "My real name is Trace Ullman, but I added the 'y.' My mother said it was spelled the American way, but I don't think she can spell! I always wanted a middle name. My mum used to tell me it was Mary but I never believed her. I looked on my birth certificate and I didn't have one, just Trace Ullman."&lt;ref&gt;''Look in TV Annual'' (Independent Television Books Ltd, 1984), p. 67.&lt;/ref&gt;
+
+Antony Ullman served in the [[Polish Army]] and was [[Dunkirk evacuation|evacuated from Dunkirk]] in 1940. He subsequently worked as a [[solicitor]], a furniture salesman, and a travel agent. He also brokered marriages and translated among the émigré Polish community. Dorin recognized their younger daughter's talents early on and encouraged her to perform.&lt;ref name=skitcom/&gt;
+
+In an interview with ''[[Fresh Air]]'' host [[Terry Gross]], Ullman revealed that when she was six, her father, who had been recovering from a heart operation, died of a heart attack in front of her while the two were alone and as he was reading to her.&lt;ref name=npr-state&gt;{{cite web|title=Tracy Ullman Takes on the 'State of the Union'|url=https://www.npr.org/templates/story/story.php?storyId=89037585|work=[[NPR]]|publisher=NPR|date=25 March 2008|accessdate=10 June 2015}}&lt;/ref&gt; He was fifty years old.&lt;ref name=vanityfair-88&gt;{{cite journal |last=Kaplan |first=James |date=March 1991 |title=Amazing Trace |url= |journal=Vanity Fair |publisher=Condé Nast Publications Inc.|volume=54 |issue=3 |pages=pg.88}}&lt;/ref&gt; "When that happens to you as a child, you can face anything. You're always waiting for the other shoe to drop. If something great happens, you're like, 'Wow, that's great that happened, because it could have been crap'. The most disappointing thing happened when you were younger [...] You're just braver and if good things happen you're really grateful."&lt;ref name=npr-state/&gt;
+
+Ullman, who had been living an upper-middle class life, was uprooted to [[Hackbridge]], southwest [[London]], along with her older sister Patti and her mother, who could now barely make ends meet without their father's income.&lt;ref name=shemadeit&gt;{{cite web |url=http://www.shemadeit.org/meet/biography.aspx?m=83 |title=The Paley Center for Media &amp;#124; She Made It &amp;#124; Tracey Ullman |publisher=She Made It |date=30 December 1959 |accessdate=17 March 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140317140929/http://www.shemadeit.org/meet/biography.aspx?m=83 |archivedate=17 March 2014 |df=dmy-all }}&lt;/ref&gt; "After [Dad] died, our fortunes came and went because Mum couldn’t speak Polish and had to give up the business."&lt;ref name=30years/&gt;  Mother Dorin would go on to take a host of odd jobs. "My mother was always doing strange things like driving parts around for a garage, all covered in oil and paid 10 pounds a week. But she was very funny, and our defence against hardship was having a great sense of humour."&lt;ref name=shemadeit/&gt; On a separate occasion, on the subject of her mother's jobs, Ullman recalled: "[Mum] worked in a laboratory, testing food, and would bring home samples for our dinner. Sometimes she'd have to report that formula X had been found unfit for human consumption."&lt;ref&gt;{{cite web|url=http://pagesix.com/2008/05/09/mums-the-word-of-the-stars/ |title=Mum's the Word of the Stars |publisher=[[New York Post]] |date= 9 May 2008 |accessdate=19 May 2014}}&lt;/ref&gt; One of her mother's jobs enabled her to indulge in her penchant for observing people. "My mum used to work in a mental institution in London when I was a kid, and I used to go there on Sundays, and I used to love studying the people there."&lt;ref&gt;{{cite news|last=Avasthi |first=Sarubhui |date=17 January 1997 |title=Tracey Ullman Defies Characterization |url=https://www.newspapers.com/image/296428181 |work=[[The News Journal]]|access-date=16 March 2018}}&lt;/ref&gt; Contrary to the truth, her mother maintained that their family was still middle-class in the absence of their father. "My mother always insisted on middle-class because we had money at one time. We're really lower-middle."&lt;ref name=classsystem&gt;{{cite web|title=Television – How to get away from the class system, or not: Tracey Ullman is big in America and back in Britain. Robert Butler met her|url=https://www.independent.co.uk/arts-entertainment/television--how-to-get-away-from-the-class-system-or-not-tracey-ullman-is-big-in-america-and-back-in-britain-robert-butler-met-her-1476279.html|first=Robert|last=Butler|date=3 January 1993|accessdate=10 June 2015|work=[[The Independent]]}}&lt;/ref&gt;
+
+Ullman credits her sense of humour to a feeling of both classlessness as well as her mother's working class roots. "It comes from being classless, I think. My father was Polish and he died when I was six. And from being a little girl who went to gymkhana and had ponies, and went to a private school, and lived in a big house we suddenly didn’t have any money any more and had to go to a state school. And my mother’s family is all from South London, and we have a lot of uncles and friends over there. And when my father died they were very supportive, and they used to come down for the weekend - all these hordes of South London ''oiks''. They used to invade our big Posh Bucks home and use the swimming pool, ride the ponies, and they were so funny these blokes; they really affected my sense of humour ... But I think the man who ''really'' affected my sense of humour was my uncle Butch, he was called Butch Castle. He was a decorator from South London - lazy old sod.  An he’s got the sharpest mind I’ve ever known; he’s so hysterically funny. And I wanted to be like him."&lt;ref&gt;{{cite news |author=Amanda Root|title=Uncle Butch Castle &amp; The Song &amp; Dance Kid|newspaper=New Musical Express|date=24 December 1983|page=61}}&lt;/ref&gt;
+
+In the aftermath of their father's death, their mother would slip into a deep depression and spend a lot of time in bed. In an effort to cheer her up, Ullman, along with her sister, created and performed a nightly variety show on the windowsill in their mother's bedroom. “It was originally the Patti Ullman Show. So I’m a spin-off of my sister’s show, as she likes to point out.” In the show, Ullman would mimic neighbours, teachers, family members, and celebrities such as [[Julie Andrews]] and [[Édith Piaf]].&lt;ref name=liveandexposed&gt;{{cite video |people=Ullman, Tracey |date=2005 |title=Tracey Ullman: Live and Exposed |medium=DVD |publisher=HBO Video}}&lt;/ref&gt; "Some kids can play the piano or kick a football; I could just impersonate everyone."&lt;ref&gt;{{cite episode |title=S 6: Ep 224 |series=[[The View (U.S. TV series)|The View]] |network=[[American Broadcasting Company|ABC]] |airdate=5 August 2003}}&lt;/ref&gt; She would also perform alone for herself after everyone had gone to bed. "I'd stand in front of the mirror and talk to myself until I fell asleep. I'd interview myself as women with problems. Women in documentaries who had three kids and chain-smoked and husbands in prison that hit them."&lt;ref name=liveandexposed/&gt; Her mother would eventually remarry to a man who Ullman has described as a maniac who drove a London taxi and had a son who stole. "We weren't the Brady Bunch, let me tell you!"&lt;ref name=npr-state/&gt; The marriage brought an end to the children's late night antics. "There was a new person in her bed now and I couldn't do my nightly performance anymore. I was nine years old and my show had been cancelled." Alcoholism and domestic violence became a common occurrence in the household.&lt;ref name=liveandexposed/&gt; The marriage also resulted in the family moving around the country, with Ullman attending numerous state schools. Her flair for mimicry helped with the transitions as her new classmates didn't take to her upper crust accent. "I had to talk like them to avoid being beaten up."&lt;ref name=queenofparody/&gt;
+
+Ullman wrote and performed in school plays&lt;ref&gt;{{cite journal |last= |first= |date=16 February 1984 |title=The Tracey Ullman Show |url=http://41.media.tumblr.com/10173329d75001ab79fdb6810b83168b/tumblr_nky5r4PyEW1upi75eo1_1280.jpg |journal=Smash Hits |publisher= |volume= |issue= |pages=pg.38}}&lt;/ref&gt; and it was there that she caught the eye of a headmaster who recommended that she attend a "special school." "I thought he meant a school for juvenile delinquents."&lt;ref name=liveandexposed/&gt; Eventually her mother agreed and at age twelve she won a full scholarship to the [[Italia Conti Academy]]. Despite the encouragement she received from family, friends, and teachers, her big boost of confidence came from a very unlikely source: a clairvoyant who predicted that she would become famous, especially in America.&lt;ref&gt;[[#Ullman|Ullman]], p. 141.&lt;/ref&gt; Some of her earliest work included an appearance on ''The [[Tommy Steele]] Show'' when she was thirteen, and as a model for ''My Guy'' magazine.&lt;ref name=classsystem/&gt;&lt;ref&gt;{{cite web|title=Seventies teen mag My Guy gets one-off relaunch|url=http://www.dailymail.co.uk/news/article-412170/Seventies-teen-mag-My-Guy-gets-relaunch.html|work=The Daily Mail|publisher=Daily Mail Online|date=23 October 2006|accessdate=10 June 2015}}&lt;/ref&gt;
+
+She would end up loathing Italia Conti saying, "I hated the pressure that many of the children were under. Many of the kids were forced to grow up too fast, their careers were being decided for them before they were 13. If I went to an audition then they’d always choose the sweetest, prettiest kid. I wasn’t obviously beautiful so I used to miss out." Ullman has also alleged that the owners taught their own children and that a certain level of favouritism seemed to exist. She also felt that the education she was receiving was of very little value. "These stupid teachers would come in and go, 'Good morning, darlings, lets all be dustbins!' I'd go, 'Oh, shut up! I wanna be a banana!'"&lt;ref&gt;{{cite journal |last= |first= |date=September 1988 |title=20 Questions Tracey Ullman |url= |journal=Playboy |publisher=Playboy Enterprises |volume=35 |issue=9 |pages=pg.166}}&lt;/ref&gt;
+
+The treatment she received at school led to her spending more time in pubs than in class.&lt;ref name=liveandexposed/&gt; Despite her tardiness, she passed her [[GCE Ordinary Level|O levels]].&lt;ref name=pressrelease&gt;{{cite web|title=1982 Stiff Records press release.|url=http://tracey-archives.tumblr.com/post/113162928508/1982-stiff-records-press-release|work=The Tracey Ullman Archives|publisher=Tumblr.com|accessdate=7 December 2015}}&lt;/ref&gt; Her interest in theatre began to wane and her family could no longer afford tuition; she then set her sights on becoming a travel agent like her late father.&lt;ref&gt;{{cite web|title=The Many Faces Of Tracey Ullman|url=http://articles.chicagotribune.com/1998-01-28/features/9801280010_1_tracey-ullman-mrs-noh-nang-ning-paul-mccartney/2|work=The Chicago Tribune|publisher=Chicagotribune.com|accessdate=7 December 2015}}&lt;/ref&gt;&lt;ref name=broadway&gt;{{cite web|title=Interview: Voice No. 1,001 : Her TV show is history, but Tracey Ullman has found another offbeat American misfit to play, this time on Broadway|url=http://articles.latimes.com/1991-03-03/entertainment/ca-102_1_tracey-ullman-show/|work=Los Angeles Times|publisher=Latimes.com|accessdate=1 November 2015}}&lt;/ref&gt;
+
+At sixteen, she was goaded into attending a dance audition by some school friends under the impression that she was applying for summer season in Scarborough.&lt;ref&gt;{{cite journal |last=Furness |first=Adrian |date=27 March 1982 |title=Two Little Words Made Her a Star |journal=TVTimes Magazine |publisher= |volume= |issue= |pages=pg.75}}&lt;/ref&gt; The audition resulted in a contract with a German ballet company for a revival of ''Gigi'' in Berlin.&lt;ref name=TVNYT/&gt; Upon returning to England, she joined the "Second Generation" dance troupe, performing in London, Blackpool and Liverpool.&lt;ref&gt;[http://www.dareland.com/emulsionalproblems/ullman.htm Tracking Tracey] {{webarchive|url=https://web.archive.org/web/20100921223706/http://dareland.com/emulsionalproblems/ullman.htm |date=21 September 2010 }}. Retrieved 1 April 2007.&lt;/ref&gt; Her dancing career would come to an abrupt end when she forgot to wear underwear during a performance.&lt;ref name=liveandexposed/&gt; She subsequently branched out into musical theatre and was cast in numerous West End musicals including ''[[Grease (musical)|Grease]]'', ''[[Elvis (musical)|Elvis The Musical]]'', and ''[[The Rocky Horror Show]]''.&lt;ref name=vanityfair-88/&gt;&lt;ref&gt;[https://web.archive.org/web/20040212073207/http://www.rockyhorror.org/faq/faqframe/m-hrhs.html History Of The RHPS]. Retrieved 1 April 2007.&lt;/ref&gt;
+
+Disillusioned with the entertainment industry, she sought full-time employment working in a paper products distribution company.&lt;ref name=liveandexposed/&gt;&lt;ref&gt;[[#Ullman|Ullman]], p. 111.&lt;/ref&gt;  Her boredom with the job led to her competing in a contest at London's [[Royal Court Theatre]]; ''Four in a Million'', an improvised play about club acts.&lt;ref&gt;[http://www.portmanfilm.com/films/tracey_takes_on.html Portman Films: Tracey Takes On]. Retrieved 1 April 2007. {{webarchive |url=https://web.archive.org/web/20080807170451/http://www.portmanfilm.com/films/tracey_takes_on.html |date=7 August 2008 }}&lt;/ref&gt; She created the character Beverly, a [[born again|born again Christian]] chanteuse. The performance was a big success and won her the [[Critics' Circle Theatre Award|London Critics Circle Theatre Award]] as Most Promising New Actress.&lt;ref&gt;[http://brits.co.uk/show/1984/ The BPI Awards 1984] {{Webarchive|url=https://web.archive.org/web/20070403060011/http://brits.co.uk/show/1984/ |date=3 April 2007 }}. Retrieved 1 April 2007.&lt;/ref&gt; At this point the [[BBC]] became interested, which led to a successful career in television. She would soon go on to become a household name in Britain, with the British media referring to her as 'Our Trace.'&lt;ref name=skitcom&gt;{{cite web|title=Queen of the Skitcom: Tracey Ullman Has Lost Her Prized Anonymity, but Her Ratings Have Fox Grinning
+|url=http://articles.latimes.com/1988-04-17/magazine/tm-2236_1_tracey-ullman|first=Howard|last=Rosenberg|date=17 April 1988|accessdate=10 June 2015|work=[[Los Angeles Times]]}}&lt;/ref&gt;
+
+With fame came intense scrutiny of her personal life. The press became increasingly aggressive, printing untrue or exaggerated stories, soliciting information from people who supposedly knew her. An ex-boyfriend sold his story about his life with her to the ''[[News of the World]]''. "He appeared on television with my dog saying, 'I'm going to tell you about the real Tracey Ullman. Aren’t we Lilly?'"&lt;ref&gt;{{cite episode |title=Scandal |series=[[Tracey Takes On...]] |network=[[HBO]] |airdate=20 January 1999}}&lt;/ref&gt;
+
+When she hastily married [[Allan McKeown]] in 1983, it made front-page news all over the country with the press placing bets on how long the marriage would last; it would last nearly thirty years until his death in 2013.&lt;ref&gt;{{cite journal |last=Robbins |first=Fred |date=19 November 1984 |title=Tracey Ullman Playing Kissy Face with Paul McCartney |journal=US Magazine |publisher= |volume= |issue= |pages=pg.29}}&lt;/ref&gt;
+
+==Music career==
+{{Listen
+| type        = music
+| filename    = Tracey Ullman - They Don't Know.ogg
+| title       = "They Don't Know"
+| description = 18-second sample with chorus
+| pos         =
+}}
+Ullman, who had already made a name for herself as a comedian with her BBC comedy series ''[[Three of a Kind (TV series)|Three of a Kind]]'', had a chance encounter with the wife of the head of the [[Punk rock|punk]] music label [[Stiff Records]], Dave Robinson. The meeting led to her recording her first album. “One day, I was at my hairdresser, and Dave Robinson’s wife Rosemary leant over and said, ‘Do you want to make a record?’ I was having some of those [[Boy George]] kind of dreadlock things put in and I went, ‘Yeah I want to make a record.’ I would have tried anything.”&lt;ref&gt;{{cite book|last=Balls|first=Richard|title=Be Stiff: The Stiff Records Story|url=https://books.google.com/books?id=NOQkBQAAQBAJ|year=2014|publisher=Soundcheck Books|page=274}}&lt;/ref&gt;
+
+Her future husband Allan McKeown had reservations about her launching a music career and tried talking her out of it. “When I first met Miss Ullman, I was a TV producer, and I called her into my office in London and I told her that she had a big career in comedy, and she said to me, ‘Well actually, I’m doing a record next week,’ and I said, ‘Now listen here Miss Ullman, if I know anything about show business, is that you shouldn’t get involved with singing. Imagine how stupid I felt about four months later, I’m in London driving around and I hear, ‘And now, the Top of the Pops, Tracey Ullman with ‘They Don’t Know About Us.’”&lt;ref&gt;{{cite video |people=McKeown, Allan |date=2011 |title=The Making of State Of the Union Season 3 |medium=DVD |publisher=Entertainment One Music}}&lt;/ref&gt;
+
+Her 1983 debut album, ''[[You Broke My Heart in 17 Places]]'', featured her first hit single, "[[Breakaway (Irma Thomas song)|Breakaway]]" (famous for her performance with a hairbrush as a microphone&lt;ref&gt;{{cite web|title=Tracy Ullman - Breakaway HQ Live|url=https://www.youtube.com/watch?v=HuN12Fnc6Wc|website=youtube.com|publisher=diewalkure|accessdate=15 December 2015}}&lt;/ref&gt;), and the international hit cover version of label-mate [[Kirsty MacColl]]'s "[[They Don't Know (Kirsty MacColl song)#Tracey Ullman version|They Don't Know]]," which reached number two in the UK,&lt;ref name=charts&gt;{{cite web|title=Tracey Ullman|url=http://www.officialcharts.com/artist/20221/tracey-ullman/|work=Official Charts Company|publisher=Officialchartscompany.com|accessdate=8 December 2015}}&lt;/ref&gt; and number eight in the United States.&lt;ref&gt;{{cite web|title=Tracey Ullman, "They Don't Know" - 100 Singles of 1984: Pop's Greatest Year|url=https://www.rollingstone.com/music/lists/100-best-singles-of-1984-pops-greatest-year-20140917/tracey-ullman-they-dont-know-20140917|work=Rolling Stone|publisher=Rollingstone.com|accessdate=8 December 2015}}&lt;/ref&gt; MacColl sang backing vocals on Ullman's version.&lt;ref&gt;{{cite web|title=They Don't Know - Kirsty MacColl|url=http://www.kirstymaccoll.com/songs/kirsty-songs/they-dont-know/|work=KirstyMacColl.com|publisher=KirstyMacColl.com|accessdate=8 December 2015}}&lt;/ref&gt; In less than two years, Ullman had six songs in the [[UK Top 100]].&lt;ref name=charts/&gt;
+
+A cover of [[Doris Day]]'s "[[Move Over Darling (song)|Move Over Darling]]" reached number eight in the UK,&lt;ref name=charts/&gt; and a cover of [[Madness (band)|Madness]]' "[[My Girl (Madness song)|My Girl]]", which she changed to "[[My Girl (Madness song)#My Guy's Mad at Me|My Guy]]",&lt;ref&gt;{{cite web|title=Stiff - Tracey Ullman|url=http://www.stiff-records.com/stiff-artists/tracey-ullman|work=Stiff Records|publisher=Stiff-records.com|accessdate=15 December 2015}}&lt;/ref&gt; had a video that featured the [[British Labour Party]] politician [[Neil Kinnock]], at the time the [[Leader of the Opposition (United Kingdom)|Leader of the Opposition]].&lt;ref&gt;[http://www.adamsmith.org/images/uploads/publications/ThatDecade.pdf A Decade Of Revolution The Thatcher Years]. Retrieved 2 April 2007.&lt;/ref&gt;
+
+Ullman's songs were over-the-top evocations of 1960s and 1970s pop music with a 1980s edge, "somewhere between [[Minnie Mouse]] and [[the Supremes]]" as the ''[[Melody Maker]]'' put it, or "retro before retro was cool," as a reviewer wrote in 2002. Her career received another boost when the video for "They Don't Know" featured a [[Cameo appearance|cameo]] from [[Paul McCartney]];&lt;ref&gt;{{cite web|title=Tracey Ullman takes on two new musicals with 'The Band Wagon' and 'Into the Woods'|url=http://www.nydailynews.com/entertainment/tracey-ullman-stars-band-wagon-woods-article-1.1990248|work=New York Daily News|publisher=NYdailynews.com|accessdate=14 December 2015}}&lt;/ref&gt; at the time Ullman was filming a minor role in McCartney's film ''[[Give My Regards to Broad Street (film)|Give My Regards to Broad Street]].''&lt;ref name=bio&gt;[https://web.archive.org/web/20040413013625/http://www.traceytakeson.com/tracey/ Tracey]. traceytakeson.com&lt;/ref&gt; She released her second (and final) album, ''[[You Caught Me Out]],'' in 1984.&lt;ref name=charts/&gt;
+
+Her final hit, "[[Sun Glasses (song)|Sunglasses]]" (1984), featured comedian [[Adrian Edmondson]] in its music video.&lt;ref&gt;{{cite web|title=Be Stuff (The Stiff Records Story) by Richard Balls|url=http://themouthmagazine.com/2014/11/13/be-stiff/|work=The Mouth Magazine|publisher=Themouthmagazine.com|accessdate=8 December 2015}}&lt;/ref&gt; During this time, she also appeared as a guest [[VJ (media personality)|VJ]] on MTV in the United States.&lt;ref&gt;[http://www.cbubemporium.com/ebay/wrcg9.jpg]. Promo Poster of Tracey Ullman MTV Guest VJ.&lt;/ref&gt;
+
+She gave up her music career after an incident that occurred on a German television show. "The host said to me, 'Tracey Ullman. Hello!' I said, 'Hello' and he went, 'Guffaw, guffaw. Crazy as ever!' Then I was standing in the background and he slung a rat over my shoulder. I thought, 'That's it, I don't want to do this anymore.'"&lt;ref name=liveandexposed/&gt;
+
+While she has chosen to end her recording career, she has continued singing in film, television, and theatre.
+
+In 2013, she worked with McCartney again, appearing in his music video for the single, "[[Queenie Eye]]" from his album, ''[[New (album)|New]]''.&lt;ref&gt;{{cite web|title=Stars Come Out For Paul McCartney’s "Queenie Eye" Video|url=http://www.americansongwriter.com/2013/10/stars-come-paul-mccartneys-queenie-eye-video/|work=American Songwriter|publisher=Americansongwriter.com|accessdate=13 September 2015}}&lt;/ref&gt;
+
+==Television career==
+
+===Early years===
+Ullman got her first television acting job when she was seventeen, in a Heinz soup commercial where she had to wear a cow's head.&lt;ref name=skitcom/&gt;
+
+She tried her hand at serious drama, playing [[Lynda Bellingham]]'s daughter in the 1980 BBC TV series ''Mackenzie'',&lt;ref&gt;[https://www.imdb.com/title/tt0165043/combined IMDb: ''"Mackenzie" (1980)''] Linked 13 January 2016&lt;/ref&gt; but said that she found that she wasn't cut out to be a straight actress. "I really thought I was great when I did a quite serious soap opera for the BBC. I played a nice girl from St. John's Wood. 'Mummy, I think I'm pregnant. I don't know who's done it.' Then I would fall down a hill or something. 'EEEEE! Oh, no, lost another baby.' It seemed all I ever did was have miscarriages—or make yogurt."&lt;ref&gt;{{cite web|title=Tracey Ullman Is Sitting Pretty as the Queen of Parody and Pops|url=http://www.people.com/people/article/0,,20089118,00.html|work=Barbara Graustark|publisher=([[People Magazine]])|accessdate=9 January 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140110090524/http://www.people.com/people/article/0,,20089118,00.html|archivedate=10 January 2014|df=dmy-all}}&lt;/ref&gt;
+
+In 1981, the success of her performance in the Royal Court Theatre's production of ''Four in a Million'' led to many offers; one being the chance to move into television comedy. The BBC was quick to cast her in the BBC Scotland sketch comedy programme ''[[A Kick Up the Eighties]]''. The network was so impressed with her that it offered her her own series. She initially turned down the offer. "My first reaction was you must be joking, as women are treated so shoddily in comedy. Big busty barmaids and all those sort of cliches just bore me rigid."&lt;ref&gt;{{cite journal |last= |first= |date= |title=Tracey's Papers |url=http://tracey-archives.tumblr.com/post/113163172393/tracey-ullman-the-face-no37 |journal=The Face |publisher= |volume= |issue= |pages=pg.69}}&lt;/ref&gt; She also had reservations due to a lack of female contemporaries. "At that time English women were't really allowed to be funny on television. I didn't have any examples. I mean, I didn't have a [[Gilda Radner]], [[Carol Burnett]], [[Lily Tomlin]]. I mean, my only point of reference, quite honestly, was the ''[[The Benny Hill Show|Benny Hill]]'' girls."&lt;ref name=liveandexposed/&gt; Ullman got into her performing arts school by doing an impersonation of Lily Tomlin.&lt;ref name=bookpage&gt;{{cite web|title=Enter the antic world of Tracey Ullman|url=http://tracey-archives.tumblr.com/post/148769362063/enter-the-antic-world-of-tracey-ullman|work=Bookpage.com|publisher=Bookpage.com|accessdate=10 August 2016}}&lt;/ref&gt; Eventually a deal was made with the proviso that she would get to choose the show's writers, have script approval, and choose the costumes.&lt;ref name=pressrelease/&gt; ''[[Three of a Kind (TV series)|Three of a Kind]]'', co-starring comedians [[Lenny Henry]] and [[David Copperfield (comedian)|David Copperfield]], debuted in 1981.&lt;ref&gt;{{cite web|title=BFI Screenonline: Three of a Kind (1981-83)|url=http://www.screenonline.org.uk/tv/id/535119/|work=BFI Screenonline|publisher=Screenonline.org.uk|accessdate=12 December 2015}}&lt;/ref&gt;
+
+In an interview with [[Amanda Root]] for ''The Musical Express'' magazine, Ullman was asked about critics labeling the show 'non-sexist humour.' Did it exist? "Not unless it’s cleverly done. When we did ''Three of a Kind'' we kept getting sketches sent in about me as a traffic warden, or me being a busty barmaid. Writers that have no idea about women - their typical way of starting a sketch is to say, Tracey is sitting there, filing her nails and chewing gum, as if all girls are stupid. Sketches beginning like that used to really get on my nerves. But as soon as we found the right team of writers, they weren’t into that sort of thing, so it worked out OK."&lt;ref&gt;{{cite web|title=Tracey Ullman biography and filmography|url=http://www.tribute.ca/people/tracey-ullman/5009/|work=Tribute.ca|publisher=Tribute.ca|accessdate=9 January 2014}}&lt;/ref&gt; She went on to win her first BAFTA Award in the category of Best Light Entertainment Performance for ''Three of a Kind'' in 1984.&lt;ref&gt;{{cite web|title=BAFTA Awards|url=http://awards.bafta.org/award/1984/television/light-entertainment-performance|work=BAFTA|publisher=bafta.org|accessdate=14 September 2015}}&lt;/ref&gt;
+
+In 1982, she met her future husband, Allan McKeown, a television producer with his own production company, Witzend Productions.&lt;ref&gt;{{cite web|title=Allan McKeown obituary|url=https://www.theguardian.com/tv-and-radio/2013/dec/31/allan-mckeown|work=The Guardian|publisher=Theguardian.com|accessdate=15 December 2015}}&lt;/ref&gt; McKeown discovered her when he happened to catch her in an episode of ''Three of a Kind''. The two eventually worked together on a television pilot for [[ITV Central|Central Television]], ''A Cut Above'', about a 1960s hairdresser (McKeown’s former profession) who meets a posh girl (Ullman). “Pilot didn't work, but I got a husband out of it," said Ullman in 1990.&lt;ref name=watchout&gt;{{cite web|title=Watch Out For Ullman She's a Master of Accents, A Wiz at Changing Personalities. The Star of "I Love You To Death" Might Even Tuck Away Your Mannerisms For Future Reference.|url=http://articles.philly.com/1990-04-08/entertainment/25917720_1_shaggy-bob-tracey-ullman-shakespeare|work=The Philadelphia Inquirer|publisher=Philly.com|accessdate=25 May 2015}}&lt;/ref&gt;
+
+In 1983, she signed on to star in a comedy about four women sharing a flat together, ''[[Girls on Top (TV series)|Girls on Top]]'' (provisionally titled ''Four-Play'', ''Bitches on Heat'', and ''Four Fs to Share''). She was cast as the promiscuous golddigger Candice Valentine. The show didn't go into production until early 1985 due to an electricians' strike at the studio where the series was set to film.&lt;ref name=girlsontop&gt;{{cite web|title=The Troubled Production History of Girls On Top|url=http://smarterthantheaverage.tumblr.com/post/57146111/the-troubled-production-history-of-girls-on-top|work=Smarter Than Average|publisher=Tumblr.com|accessdate=25 May 2015}}&lt;/ref&gt; The show, co-starring comedians [[Dawn French]], [[Ruby Wax]] and [[Jennifer Saunders]] (who also wrote the scripts), continued after Ullman bowed out after the first series. In her book, ''Bonkers: My Life in Laughs'', Saunders writes, “If Ruby taught us how to write funny, then Tracey was a lesson in how to act funny. She was by far the most famous of us, having starred with Lenny Henry in ‘Three of a Kind.’”&lt;ref&gt;{{cite book |last=Saunders |first=Jennifer |date=2013 |title=Bonkers: My Life in Laughs |url=https://books.google.com/books?id=LRBuAAAAQBAJ |location= |publisher=Penguin UK |page=202 |isbn=0241967279}}&lt;/ref&gt;
+
+{{Rquote|right|She's just brilliant–a bloodsucker of personalities. You walk away, and she's taken a little bit of your brain.|[[Ruby Wax]] on Ullman's mimic abilities&lt;ref name=skitcom/&gt;}}
+
+In April 1984, it was announced that ''Five Faces of Tracey'', described as an 'all film series of five half hours' starring Ullman as one character per episode in one 'self-contained story,' was to be filmed in July of that year written by Ruby Wax and herself. The series never came to fruition.&lt;ref name=girlsontop/&gt;
+
+===''The Tracey Ullman Show''===
+In 1985, Ullman was persuaded by her husband to join him in Los Angeles, where he was already partially stationed.&lt;ref&gt;{{cite journal |last=Mills |first=Nancy |date=19 November 2000 |title=A Demented Pixie Grows Up |url= |journal=You Magazine |publisher= |volume= |issue= |pages=pg.29–32}}&lt;/ref&gt;  She was no stranger to the United States, as she had promoted her music career there, appearing and performing on an array of American talk shows.&lt;ref&gt;{{cite web|title=1984 MCA Press Release|url=http://tracey-archives.tumblr.com/post/135227006958/1984-mca-press-release|work=The Tracey Ullman Archives|publisher=Tumblr.com|accessdate=15 December 2015}}&lt;/ref&gt; She had also just completed a press junket for her film, the period drama, ''[[Plenty (film)|Plenty]]'' there.&lt;ref&gt;{{cite web|title=Late Night with David Letterman - 9/18/85|url=https://www.youtube.com/watch?v=sc_EvNu6PjA|website=youtube.com|publisher=Bud Sneebra|accessdate=15 December 2015}}&lt;/ref&gt; The US knew her as a singer and a now budding serious film actress; not the television comedian of her homeland.&lt;ref name=plenty&gt;{{cite web|title=British Actress/singer Has `Plenty` To Cheer About|url=http://articles.chicagotribune.com/1985-10-03/features/8503070330_1_tracey-ullman-paul-mccartney-oscar-winner-meryl-streep|work=The Chicago Tribune|publisher=Chicagotribune.com|accessdate=12 December 2015}}&lt;/ref&gt; When she agreed to make the move to the America, she had set her sights on a film and stage career, believing that there was little in the way of television for her.&lt;ref name=realcharacter&gt;{{cite news |url=https://www.nytimes.com/1988/09/25/movies/television-tracey-ullman-she-s-a-real-character.html |title=Television – Tracey Ullman: She's a Real Character |last=O'Connor |first=Thomas |date=25 September 1988 |publisher=The New York Times |accessdate=6 June 2015}}&lt;/ref&gt; "I didn't believe there was anything above ''[[Webster (TV series)|Webster]]'' standard. I was wrong."&lt;ref name=goldfinger&gt;{{cite journal |last=Farr |first=Louise |date=20 February 1988 |title=Enter Ullman, Swinging from a Rope and Singing 'Goldfinger' |url= |journal=TV Guide |publisher= |volume= |issue= |pages=}}&lt;/ref&gt;
+
+Her British agent put together a videotape containing a compilation of her work and began circulating it around Hollywood. The tape landed in the lap of Craig Kellem, vice president for comedy at Universal Television. "I could not believe my eyes. It was just about the most extraordinary piece of material I'd seen in a long time." He wanted production on a series to begin immediately for her.&lt;ref name=skitcom/&gt;
+
+A deal was struck right away with CBS television, who went from ordering a pilot to ordering a full series two weeks later. A script for ''I Love New York'', a show about a "slightly wacky" British woman working in New York, was written by ''[[Saturday Night Live]]'' writer [[Anne Beatts]]. Ullman hated it and the deal deteriorated.&lt;ref name=skitcom/&gt;
+
+Recalling the project, Ullman said, "We'd just hit on an idea, then some white-haired executive - very, very important - would come in from the race track and say, 'I don't like that idea. I think Tracey should be a caring person. I think there should be a kid in this. Now, I'm just pitching here. I don't know if this is funny. But I think Tracey should love this kid and maybe there's a moment where she tells the kid something about life.' And I'd say, "Look - I don't want to work with little kids being cute who I eventually adopt'."&lt;ref name=goldfinger/&gt;
+
+She was also turned off by the industry's materialistic attitude. "Literally, you start your first meeting and already they're thinking about three years' syndication. 'You're going to be worth $13 million. You're going to be a very rich young lady.' I'd say, 'I don't want to talk about the millions of dollars now. Can we put that on hold? I just want to talk about something good'."&lt;ref name=goldfinger/&gt;
+
+{{Rquote|right|I don’t think there’s anybody like her, and that’s a big deal. If you insist, there are parallels to [[Peter Sellers]], an actor who did brilliant sketch comedy.|[[James L. Brooks]] on Tracey Ullman&lt;ref name=realcharacter/&gt;}}
+
+Ullman’s agent then decided to send producer [[James L. Brooks]] some tapes of her work.&lt;ref name=goldfinger/&gt; Brooks, who had had a very successful career producing television sitcoms, had stepped away from the medium, opting instead for a career in film. Ullman's material was so good that it lured him back to television. "I started showing [her work] to people like you'd show home movies," revealed Brooks.&lt;ref name=realcharacter/&gt; "I was just startled by the size of the talent. I got chills."&lt;ref name=foxylady&gt;{{cite journal |title=Foxy Lady |last=Zehme |first=Bill |date=27 August 1987 |work=Rolling Stone |issn=0035-791X}}&lt;/ref&gt;
+
+Brooks felt that a sketch show would best suit her assets (acting, singing, and dancing). "Why would you do something with Tracey playing a single character on TV when her talent requires variety? You can’t categorize Tracey, so it's silly to come up with a show that attempted to."&lt;ref name=realcharacter/&gt;
+
+To ensure that she was well-versed in American comedy, Brooks sent her tapes of American sitcoms and variety shows to watch while at home, now pregnant. Ullman refers to it as "homework."&lt;ref name=bravo&gt;{{cite web|title=Bravo - Influences: Tracey Ullman|url=https://vimeo.com/52657083|website=Vimeo.com|publisher=Vimeo|accessdate=25 November 2015}}&lt;/ref&gt;  She also visited the [[Paley Center for Media|Museum of Television and Radio]], which she would later be inducted into. She had in fact grown up watching American television in the 1970s in England. Two things stood out to her: the vast number of female comedians, as well as their not having to be conventionally attractive to be funny. "It was very true of my childhood that women needed to be sexy in order to be funny."&lt;ref name=bravo/&gt;&lt;ref&gt;{{cite web|title=Tracey Ullman Makes A Face|url=https://www.nytimes.com/1989/10/15/magazine/tracy-ullman-makes-a-face.html?pagewanted=1|work=The New York Times|accessdate=28 July 2015}}&lt;/ref&gt;
+
+Brooks assembled a team of writers, and a deal with Fox Television was made.&lt;ref name=goldfinger/&gt; The network was looking to create its own original programming. Ullman's show, along with ''[[Married... with Children]]'', would be the first two scripted shows produced and launched.&lt;ref&gt;{{cite web|title=Fox Network at 25: Blazing Trails and Burning Bridges|url=https://www.nytimes.com/2012/04/21/arts/television/the-fox-network-celebrates-its-25th-anniversary.html?_r=0|work=The New York Times|accessdate=15 December 2015}}&lt;/ref&gt;
+
+Scouting for a supporting cast to play opposite her began. [[Dan Castellaneta]], a relative unknown, was asked to read for the show after he was spotted by Ullman at Chicago's [[The Second City|Second City]]. Castellaneta's portrayal of a blind man who wants to be a comedian brought her to tears instead of making her laugh.&lt;ref&gt;Lawsom, Tim; Persons, Alisa (2004). ''[[The Magic Behind the Voices: A Who's Who of Cartoon Voice Actors]]''. University Press of Mississippi, pp. 112. {{ISBN|1-578-06696-4}}.&lt;/ref&gt; Actress [[Julie Kavner]] had co-starred in Brooks' spin-off series to ''[[The Mary Tyler Moore Show]]'', ''[[Rhoda]]'', starring [[Valerie Harper]]. Kavner played Harper's younger, socially awkward sister Brenda, a role for which she won an [[Emmy Award]]. Kavner was at the top of the list of people Brooks wanted to be part of the show. Brooks on Kavner: "When somebody's intrinsically funny -- you know, in-their-bones funny -- they never have to work at (being funny), so they're free to work on other things. We were all nuts about her work. She was the person we most wanted to work with Tracey."&lt;ref&gt;{{cite news |url=http://articles.latimes.com/1989-06-15/entertainment/ca-2655_1_character-actress-tracey-ullman-show-sara-lee |title=Julie Kavner: a Private Person in Many Roles |last=Haithman |first=Diane |date=15 June 1989 |publisher=Los Angeles Times |accessdate=5 June 2015}}&lt;/ref&gt; Actor [[Sam McMurray]] read for a guest spot on the show playing William, lover of thirteen-year-old valley girl Francesca's (Ullman) father. McMurray recalling his casting: "The first Francesca sketch, they said, 'Play the guy not so gay.' And I said 'I disagree.' I had a big mouth then -— still do. I said, 'I think he’s more the woman. I think he's more out there.' So I read and I read it big, and they cast me. It was just a one-off, and then we were on hiatus. I did the one week, and I had a friend coincidentally who used to write, a guy named Marc Flanagan, and he was on the show as a staff guy. He called me up and said, 'Did they call your agent?' I said, 'No, why?' He said, 'They wanna make you a regular.'"&lt;ref&gt;{{cite web|title=Sam McMurray - Random Roles|url=http://www.avclub.com/article/sam-mcmurray-66967|first=Kenny  |last=Herzog|date=27 December 2011|accessdate=5 June 2015|work=A.V. Club}}&lt;/ref&gt; Another actor who was originally cast for a guest shot which led to becoming a series regular was choreographer Joseph Malone.&lt;ref&gt;{{cite web|title=Joseph Malone|url=http://www.gototalentagency.com/joseph-malone.html|first=  |last= |date= |accessdate=5 June 2015|work=Go 2 Talent Agency, Inc.}}&lt;/ref&gt;  The show now had its cast.
+
+Singer-songwriter [[George Clinton (musician)|George Clinton]] provided the theme song for the show, "You're Thinking Right."&lt;ref&gt;{{cite web|title=Inductee - George Clinton - North Caroline Music Hall of Fame|url=http://northcarolinamusichalloffame.org/inductee-george-clinton/|work=North Corlina Music Hall of Fame|publisher=Northcarolinamusichalloffame.org|accessdate=24 November 2015}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=no }}&lt;/ref&gt; Dancer [[Paula Abdul]], who had not yet found fame as a singer, was hired to choreograph the show's dance numbers.&lt;ref&gt;{{cite web|title=Paula Abdul: All the Right Moves|url=https://www.rollingstone.com/music/features/all-the-right-moves-19891130|work=Rolling Stone|publisher=Rolling Stone|accessdate=24 November 2015}}&lt;/ref&gt;
+
+Because the Fox network was new to the world of television production, a bureaucracy had not yet been established. This enabled the show to take risks and the freedom to try things that the major networks would never permit. The series landed an initial twenty-six episode commitment deal, unheard of for a television comedy. ''[[The Tracey Ullman Show]]'' debuted on 5 April 1987. Describing the show proved difficult. Creator [[Ken Estin]] dubbed it a "skitcom". A variety of diverse original characters were created for her to perform. Extensive makeup, wigs, teeth, and body padding were utilised, sometimes rendering her unrecognisable. One original character created by Ullman back in Britain was uprooted for the series: long-suffering British spinster [[Kay Clark (character)|Kay Clark]].&lt;ref name=foxylady/&gt;
+
+A typical episode of ''The Tracey Ullman Show'' consisted of three sketches, one including a song and/or a heavily choreographed dance routine. Brooks was keen on showing off all of Ullman's abilities. "It’s 'Can you juggle this and keep throwing on more plates?' I’m constantly amazed." Ullman opened and closed the show as herself, adding her trademark, "Go home!," which she would shout to the studio audience for the closing. The show was shot on film, a departure from previous variety shows which were routinely shot on tape.&lt;ref name=foxylady/&gt;
+
+Looking to add "bumpers"&lt;ref&gt;{{cite web|url=http://www.nydailynews.com/entertainment/tv/simpsons-weekly-half-hour-series-1989-article-1.2468869|title=‘The Simpsons’ weekly half-hour series was announced in 1989|work=New York Daily News|publisher=Nydailynews.com|accessdate=17 December 2015}}&lt;/ref&gt; (before and after commercial breaks) to the show, two cartoon shorts were created: "[[Dr. N!Godatu]]"&lt;ref&gt;{{cite web|title=MK Brown's Dr. N!Godatu!|url=http://www.benway.com/mkbrown/drn/index.html|work=Dr. N!Godatu's Case Files|publisher=Benway.com|accessdate=14 December 2015}}&lt;/ref&gt; and "[[The Simpsons shorts|The Simpsons]]." ''[[The Simpsons]]'' would go on to be spun off into its own television series.&lt;ref&gt;{{cite web|url=http://zap2it.com/2014/12/tracey-ullman-the-simpsons-legacy-breastfed-yellow-people/|title=Tracey Ullman recalls her 'Simpsons' legacy: 'I breastfed the yellow people'|work=Zap2it|publisher=Zap2it.com|accessdate=14 December 2015}}&lt;/ref&gt;
+
+By the time ''The Tracey Ullman Show'' ended in 1990, the show was awarded ten Emmy Awards; Ullman winning three, one in the category of Outstanding Individual Performance in a Variety or Music Program in 1990.&lt;ref&gt;{{cite web|title=The Tracey Ullman Show |url=http://www.emmys.com/shows/tracey-ullman-show|work=Television Academy|publisher=Emmys.com|accessdate=25 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The Best Tracey Ullman Show |url=http://www.emmys.com/shows/best-tracey-ullman-show|work=Television Academy|publisher=Emmys.com|accessdate=25 November 2015}}&lt;/ref&gt; The show not only scored the Fox network its first Emmy nomination, but also earned it its first-ever Emmy win.&lt;ref name=NYTF&gt;{{cite web|title=Tracey Ullman – About This Person – Movies &amp; TV|url=https://www.nytimes.com/movies/person/72400/Tracey-Ullman|work=The New York Times|accessdate=24 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |author= |title=Ullman to leave Fox network|url=https://news.google.com/newspapers?nid=1876&amp;dat=19900516&amp;id=IgYqAAAAIBAJ&amp;sjid=Uc4EAAAAIBAJ&amp;pg=6698,528720&amp;hl=en |newspaper=Spartanburg Herald-Journal |location=Spartanburg, South Carolina |date=16 May 1990 |access-date=24 November 2015}}&lt;/ref&gt;
+
+After four seasons, Ullman decided to end the show in May 1990.&lt;ref&gt;{{cite journal |last=Kaplan |first=James |date=March 1991 |title=Amazing Trace |url= |journal=Vanity Fair |publisher=Condé Nast Publications Inc. |volume=54 |issue=3 |pages=pg.88–90}}&lt;/ref&gt; In 1991, she filed a lawsuit against [[Twentieth Century Fox]] in Los Angeles Superior Court over profits from the later half-hour incarnation of ''The Simpsons''. She wanted a share of ''The Simpsons''{{'}} merchandising and gross profits and believed she was entitled to $2.5 million of the estimated $50 million Fox made in 1992. The Fox network had paid her $58,000 in royalties for ''The Simpsons'' as well as $3 million for the 3½ seasons her show was on the air. According to an article, as Ullman had continued her professional relationship with former producer Brooks, only the studio and not Brooks was named in the suit. Brooks was allowed to videotape his testimony as he was in the middle of filming ''[[I'll Do Anything]]'', in which Ullman appeared. The suit was ultimately dismissed.&lt;ref name=ullman&gt;{{cite web|title=Tracey Ullman sues Fox|url=http://www.ew.com/article/1992/10/23/tracey-ullman-sues-fox|work=Entertainment Weekly|publisher=Ew.com|accessdate=11 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.variety.com/article/VR101001?categoryid=14&amp;cs=1|title=Ullman loses 'Simpsons' suit|agency=Associated Press|work=[[Variety (magazine)|Variety]]|accessdate=24 August 2011|date=21 October 1992}}&lt;/ref&gt; Ullman wasn't the only one to file a lawsuit; ''Tracey Ullman Show'' executive producer Ken Estin filed a similar suit against Fox claiming that his contract called for him to receive 7.5% of revenues from ''The Simpsons'', including a portion of merchandise.&lt;ref&gt;{{cite web|title=Ullman loses ‘Simpsons’ suit|url=https://variety.com/1992/biz/news/ullman-loses-simpsons-suit-101001/|work=Variety|publisher=Variety|accessdate=14 September 2015}}&lt;/ref&gt; Despite losing the 1992 suit, Ullman continues to get an annual share of the show's profits.&lt;ref&gt;{{cite web|title=Tracey Ullman sues Fox|url=http://www.express.co.uk/expressyourself/107345/Who-s-that-girl|work=Daily Express|publisher=Express.co.uk|accessdate=25 August 2016}}&lt;/ref&gt;
+
+Ullman provided the voices of Emily Winthrop, a British dog trainer, and Mrs. Winfield on ''The Simpsons'' episode "[[Bart's Dog Gets an F]]" (1991).&lt;ref&gt;{{cite video | people=Groening, Matt|date=2002|title=The Simpsons season 2 DVD commentary for the episode "Bart's Dog Gets an F"| medium=DVD|publisher=20th Century Fox}}&lt;/ref&gt;
+
+===HBO===
+After ''The Tracey Ullman Show'', Ullman went on to make her big screen starring debut with ''[[I Love You To Death]]'' in 1990.&lt;ref&gt;{{cite web|title=I Love You to Death Movie Review (1990)|url=http://www.rogerebert.com/reviews/i-love-you-to-death-1990|work=Roger Ebert|publisher=Rogerebert.com|accessdate=16 December 2015}}&lt;/ref&gt; That same year she hit the stage with actor [[Morgan Freeman]] for Shakespeare in the Park's production of ''[[The Taming of the Shrew]]'';&lt;ref&gt;{{cite web|title=Taking Shakespeare's Shrew To the Old West of the Late 1800's|url=https://www.nytimes.com/1990/06/19/theater/taking-shakespeare-s-shrew-to-the-old-west-of-the-late-1800-s.html|work=The New York Times|accessdate=14 September 2015}}&lt;/ref&gt; she then made her Broadway debut with her one-woman show, ''[[The Big Love]]''.&lt;ref&gt;{{cite web|title=From 'Schlock Book' To The Stage, 'big Love' Still Evolving|url=http://articles.orlandosentinel.com/1990-12-16/entertainment/9012150052_1_big-love-tracey-ullman-errol-flynn|work=Orlando Sentinel|publisher=Orlandosentinel.com|accessdate=14 September 2015}}&lt;/ref&gt; She had no aspirations to return to the television. In 1991, she had given birth to her second child, Johnny, and her husband was bidding on a television franchise in the South of England. Along with the bid he included a potential television programming lineup. Listed was a Tracey Ullman special. Ullman thought nothing would come of it, but to her horror, she learnt that the bid was successful.&lt;ref name=takeson1&gt;{{harvnb|Ullman|1998|p=xi}}&lt;/ref&gt;
+
+The frantic pace of ''The Tracey Ullman Show'' was one of the key factors in her decision to give up television. That show was shot in front of a live studio audience and featured her playing on average three characters a week. She frequently wore layers of costuming to disguise herself. The prosthetic makeup was at times excessive. In her book ''[[Tracey Takes On (book)|Tracey Takes On]]'', she recalls an incident where she fainted on the makeup room floor, having to be revived before rushing out to give a performance.&lt;ref name=takeson1/&gt;
+
+Unlike the Fox show though, this special would be shot entirely on location, allowing ample time to apply makeup, wigs, and other accoutrements for the characters; so Ullman felt less panicked. She decided to do a send up of the [[Social structure of the United Kingdom|British class system]]. All new characters were created and she was joined by [[Monty Python]]'s [[Michael Palin]] for each of the show's sketches. ''[[Tracey Ullman: A Class Act]]'' premiered on 9 January 1993 on [[ITV (TV network)|ITV]].&lt;ref&gt;{{cite web|title=BBC - Comedy - Guide - Tracey Ullman: A Class Act |url=http://www.bbc.co.uk/comedy/guide/articles/t/traceyullmanacla_66603500.shtml |work=BBC |publisher=BBC.co.uk |accessdate=14 September 2015 |deadurl=unfit |archiveurl=https://web.archive.org/web/20050404051645/http://www.bbc.co.uk/comedy/guide/articles/t/traceyullmanacla_66603500.shtml |archivedate=4 April 2005 }}&lt;/ref&gt;
+
+The American cable network [[Home Box Office|HBO]] became interested in Ullman doing a special for their network with the caveat that she take on a more American subject. She chose New York.&lt;ref&gt;{{harvnb|Ullman|1998|p=xiii}}&lt;/ref&gt;
+
+The special, ''[[Tracey Ullman Takes On New York]]'' debuted on 9 October 1993 and both it and Ullman went on to win two Emmy Awards, a [[CableACE Awards|CableAce Award]], an [[American Comedy Awards|American Comedy Award]], and a [[Writers Guild of America Award]]. The success of the special led the network to broach the subject of a "Takes On" series. Ullman and her husband liked the idea and set up production on ''[[Tracey Takes On...]]'' in Los Angeles in 1995.&lt;ref&gt;{{harvnb|Ullman|1998|p=xv}}&lt;/ref&gt;
+
+As with the special ''Takes On New York'', each episode of ''Tracey Takes On...'' centered on a single subject. Characters created for ''A Class Act'' and ''Takes On New York'' were adapted for the HBO series, along with several new characters, as well as the character Kay Clark. Unlike ''The Tracey Ullman Show'', ''Tracey Takes On...'' had a rotating roster of upwards of twenty characters repeated throughout the run of the show.&lt;ref&gt;{{harvnb|Ullman|1998|p=xix-xxvi}}&lt;/ref&gt; Also, unlike ''The Tracey Ullman Show'', ''Tracey Takes On...'' was a [[Single-camera setup|single-camera comedy]], shot heavily on location, without a studio audience.
+
+Ullman and the show went on to receive a slew of awards including six Emmy Awards, two CableAce Awards, three American Comedy Awards, two [[GLAAD Media Award]]s, as well as a [[Screen Actors Guild Awards|Screen Actors Guild Award]] in 1999 for [[Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Comedy Series|Outstanding Performance by a Female Actor in a Comedy Series]].&lt;ref&gt;{{cite web|title=Tracey Takes On... |url=http://www.bbc.co.uk/comedy/guide/articles/t/traceyullmanacla_66603500.shtml |work=BBC |publisher=BBC.co.uk |accessdate=7 December 2015 |deadurl=unfit |archiveurl=https://web.archive.org/web/20050404051645/http://www.bbc.co.uk/comedy/guide/articles/t/traceyullmanacla_66603500.shtml |archivedate=4 April 2005 }}&lt;/ref&gt;
+
+===Purple Skirt and Oxygen talk show===
+In 2001, Ullman took a break from her character-based work and created a fashion-based talk show for [[Oxygen Network]], ''[[Tracey Ullman's Visible Panty Lines]]''. The series was spun off from her [[e-commerce]] clothing store [[Purple Skirt]], which had been launched a few years prior. Interviewees included [[Arianna Huffington]] and [[Charlize Theron]].&lt;ref&gt;{{cite web|title=Watch Tracey Ullman's Visible Panty Lines Episodes |url=http://www.tvguide.com/tvshows/tracey-ullmans-visible-panty-lines/episodes/430461/|work=TV Guide|publisher=Tvguide.com|accessdate=14 September 2015}}&lt;/ref&gt; The show lasted for two seasons and ended in 2002.&lt;ref&gt;{{cite web|url=http://www.purpleskirt.com/vpl/vplonair/|archive-url=https://web.archive.org/web/20011116031325/http://www.purpleskirt.com/vpl/vplonair/|dead-url=yes|archive-date=16 November 2001|title=Tracey Ullman's "Visible Panty Lines"|date=16 November 2001|accessdate=28 December 2017}}&lt;/ref&gt;
+
+===Return to HBO===
+A pilot for a ''Tracey Takes On...'' spin-off, ''[[Tracey Ullman in the Trailer Tales]]'', was produced in 2003 for HBO.&lt;ref&gt;{{cite web|title=GlennShadix.com - The Official Web Site of Glenn Shadix |url=http://www.glennshadix.com/news.html |work=Glenn Shadix |publisher=Glennshadix.com |accessdate=14 September 2015 |deadurl=unfit |archiveurl=https://web.archive.org/web/20030605140510/http://www.glennshadix.com/news.html |archivedate=5 June 2003 }}&lt;/ref&gt; The show spotlighted just one character, [[Ruby Romaine]]. Ullman made her directorial debut with the show.&lt;ref&gt;Discussed in interview on ''[[The Today Show]]'' (04-08-03)&lt;/ref&gt; No series was commissioned and the episode aired as a one-off comedy special.
+
+She returned to the network again in 2005 with a filmed version of her live autobiographical one-woman stage show, ''[[Tracey Ullman: Live and Exposed]]''.&lt;ref&gt;[http://www.hbo.com/events/tracey/?ntrack_para1=leftnav_category1 "Tracey Ullman: Live and Exposed".] HBO.com. Retrieved 14 March 2007.&lt;/ref&gt;
+
+===Showtime===
+Upon her naturalisation in the United States, it was announced in April 2007 that she would be making the switch from her 14-year working relationship with cable network HBO to [[Showtime (TV network)|Showtime]].&lt;ref&gt;[http://www.sho.com/site/announcements/041607royalflush.do A King, A Comedy Queen &amp; A Radio Ace: Showtime Deals a Royal Flush]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=no }}. Sho.com Announcements. 16 April 2007.&lt;/ref&gt; Ullman created a brand new series for the network&lt;ref&gt;Lyneka Little [https://www.wsj.com/articles/SB120611094557554779?mod=googlenews_wsj Q&amp;A: Tracey Ullman]. [[Wall Street Journal]]. 21 March 2008&lt;/ref&gt; which was concerned with many aspects of American life: "The good, the bad, and the absolutely ridiculous."&lt;ref&gt;{{cite web|title=Tracey Ullman's State of the Union : Complete Season One (DVD 2008)|url=http://www.dvdempire.com/1423868/tracey-ullmans-state-of-the-union-complete-season-one-movie.html|work=DVD Empire|publisher=Dvdempire.com|accessdate=12 December 2015}}&lt;/ref&gt;
+
+Ullman credits both senior programmer [[Robert Greenblatt]] and the network's list of hit shows as having influenced her decision to switch networks.&lt;ref&gt;[http://blogs.usaweekend.com/whos_news/2008/01/tracey-ullman-o.html Tracey Ullman on Ira Glass and becoming a citizen]. USA Weekend. 31 January 2008.&lt;/ref&gt; Greenblatt was a young development director during her ''Tracey Ullman Show'' days and was enthusiastic to get her over to Showtime.&lt;ref&gt;[http://www.broadcastingcable.com/article/CA6523842.html Showtime Picks Up Tracy Ullman Sketch Comedy]. Broadcasting &amp; Cable. Alex Weprin. 18 January 2008.&lt;/ref&gt; Five episodes were ordered for the first season.
+
+''[[Tracey Ullman's State of the Union]]'' debuted on 30 March 2008. The show not only featured original characters, but also celebrity impersonations, something she hadn't done since ''Three of a Kind''.&lt;ref&gt;[http://www.variety.com/article/VR1117982080.html?categoryid=2526&amp;cs=1 Comic turns celebs into recurring characters]. Variety. Cynthia Littleton. 7 March 2008.&lt;/ref&gt;
+
+The critical response to ''State of the Union'' was overwhelmingly positive.&lt;ref&gt;[http://www.variety.com/review/VE1117936582.html?categoryid=32&amp;cs=1 Tracey Ullman State of the Union]. Variety. Brian Lowry. 20 March 2008.&lt;/ref&gt;&lt;ref&gt;[https://www.usatoday.com/life/television/reviews/2008-03-27-ullman-union_N.htm State of Tracey Ullman's 'Union' is strong]. USA Today. Robert Bianco. 27 March 2008.&lt;/ref&gt;&lt;ref&gt;[http://www.philly.com/philly/entertainment/columnists/20080329_Jonathan_Storm__Tracey_Ullman_takes_her_licks_at_the_U_S_.html Jonathan Storm: Tracey Ullman takes her licks at the U.S]. [[Philadelphia Inquirer]]. 29 March 2008.&lt;/ref&gt; One critic pointed out a change in Ullman's humour:
+
+{{cquote|It's been fascinating to watch Ullman evolve from, say, [[Imogene Coca]] and Carol Burnett to something leaner and meaner, like a young [[Whoopi Goldberg]]. Or [[Lenny Bruce]], with his surreal jive and need to shock. Or Lily Tomlin, signalling in coded transmissions through a worm hole to some parallel universe. Or [[Anna Deavere Smith]], chameleon and exorcist, seeing around corners and speaking in tongues. Or, of course, [[Robin Williams]], before all the bad films and worse career choices, a brilliant mind unmade of equal parts politics and paranoia, music video and [[psychotherapy]], a scrambled shaman egghead and Jack–in–a–Pandora's box. Think of America as performance art.&lt;ref&gt;[http://nymag.com/arts/tv/reviews/45294/ America (The Cable Show)]. New York Magazine. John Leonard. 24 March 2008.&lt;/ref&gt;}}
+
+Ullman commented that the United States is "now able to laugh at itself more," embracing more [[satire|satiric]] humour rather than deeming it "unpatriotic." Now that she is a citizen, she joked that she "won't end up in [[Guantanamo Bay detention camp|Guantánamo Bay]]"&lt;ref&gt;[http://canadianpress.google.com/article/ALeqM5hrvjp8YgMitKSLUWtvdNj3o4IxOQ Tracey Ullman plays characters real and imagined on 'State of the Union']. Canadian Press. 25 March 2008. {{webarchive |url=https://web.archive.org/web/20080408031613/http://canadianpress.google.com/article/ALeqM5hrvjp8YgMitKSLUWtvdNj3o4IxOQ |date=8 April 2008 }}&lt;/ref&gt; for speaking her mind.
+
+The show ran for three seasons, concluding in 2010.
+
+===Return to network television===
+In March 2014, Ullman was introduced as Genevieve Scherbatsky, the mother of character [[Robin Scherbatsky]] in ''[[How I Met Your Mother]]''.&lt;ref&gt;[http://popwatch.ew.com/2014/03/03/how-i-met-your-mother-recap-vesuvius/ 'How I Met Your Mother' recap: Mom's the word']. Retrieved 21 March 2014.&lt;/ref&gt;
+
+On 20 March 2014, it was announced that she was tapped to co-star in the upcoming CBS sitcom pilot, ''Good Session''. The single-camera comedy was written and executive produced by [[Matt Miller (producer)|Matt Miller]] (''[[Chuck (TV series)|Chuck]]''), along with actor [[James Roday]] (''[[Psych]]'') and [[Bruce Campbell]]. Ullman's character, Ellen, was described as an 'astute, straightforward therapist who uses her own brand of insight and humor to inspire the couples she helps to tell the truth.'&lt;ref&gt;[http://www.hollywoodreporter.com/live-feed/tracey-ullman-star-cbs-comedy-689995 Tracey Ullman to Co-Star in CBS Comedy 'Good Session']. Retrieved 21 March 2014.&lt;/ref&gt;
+
+===Return to British television: ''Tracey Ullman's Show'' and ''Tracey Breaks the News''===
+On 4 March 2015, it was announced that Ullman would return to the BBC with a new six-part comedy series for [[BBC One]]. It was her first project for the broadcaster in thirty years, and her first original project for British television in twenty-two.&lt;ref&gt;{{cite web|url=https://www.bbc.com/news/entertainment-arts-31726907|title=Tracey Ullman returns to BBC with own comedy show|publisher=BBC News|date=4 March 2015|accessdate=4 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/mediacentre/latestnews/2015/the-kennedys|title=BBC One announces the cast for brand new family comedy The Kennedys|publisher=BBC Media Centre|date=6 March 2015|accessdate=7 October 2015}}&lt;/ref&gt; The press release stated that she would play 'a multitude of diverse and distinct characters living in, or visiting, the busy global hub that is the UK.'&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/mediacentre/latestnews/2015/comedy-commissions?ns_mchannel=social&amp;ns_campaign=bbc_press_office&amp;ns_source=twitter&amp;ns_linkname=corporate|title=BBC celebrates its commitment to comedy with raft of new commissions|publisher=BBC Media Centre|date=4 March 2015|accessdate=5 March 2015}}&lt;/ref&gt; On 7 October 2015, it was confirmed that HBO had picked up the American rights to the show, and like the BBC, would broadcast it in 2016.&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/news/tracey-ullman-bbcs-female-revolution-830223|title=MIPCOM: Tracey Ullman on Her New Show, BBC's Female Revolution|work=The Hollywood Reporter|date=7 October 2015|accessdate=7 October 2015}}&lt;/ref&gt; On 25 August 2016, HBO formally announced that it would begin airing the series on 28 October 2016.&lt;ref&gt;{{cite web|url=http://deadline.com/2016/08/hbo-acquires-tracey-ullman-sketch-show-stand-up-comedy-specials-1201808791/|title=HBO Acquires Tracey Ullman’s New Sketch Show; Sets Stand-up Comedy Specials|publisher=Deadline.com|date=25 August 2016|accessdate=25 August 2016}}&lt;/ref&gt;
+
+''[[Tracey Ullman's Show]]'' premiered 11 January 2016.&lt;ref name=tusjan/&gt; Ullman became internationally famous for parodying [[German chancellor]] [[Angela Merkel]] in this show. According to German media, her impersonation is the best spoof of Merkel in the world.&lt;ref&gt;[http://meedia.de/2016/01/21/true-total-hottie-frau-die-bislang-beste-merkel-parodie-kommt-von-der-bbc/ „True total hottie Frau“: Die bislang beste Merkel-Parodie kommt von der BBC], Buzzer, 21 January 2016.&lt;/ref&gt;
+
+The BBC ordered a second series of the show in 2016.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/tv-and-radio/2016/feb/15/monday-best-tv-stephen-fry-manic-depressive-oj-simpson-x-files|title=Monday’s best TV: The Not So Secret Life of the Manic Depressive, The People v OJ Simpson, The X-Files, The Renaissance Unchained|publisher=The Guardian|date=15 February 2016|accessdate=18 February 2016}}&lt;/ref&gt; HBO in the United States will begin broadcasting the show's second series 20 October 2017.&lt;ref&gt;{{cite web|url=http://www.denofgeek.com/us/tv/tracey-ullmans-show/267571/tracey-ullman-s-show-season-2-trailer-drops-from-a-tree|title=Tracey Ullman’s Show Season 2 Trailer Drops from a Tree|publisher=Den of Geek|date=14 September 2017|accessdate=15 September 2017}}&lt;/ref&gt;
+
+In 2017, ''Tracey Ullman's Show'' earned its first [[Primetime Emmy Award]] nomination in the category of [[Primetime Emmy Award for Outstanding Variety Sketch Series|Outstanding Variety Sketch Series]].&lt;ref name=moresatire&gt;{{cite web|url=http://www.bbc.co.uk/mediacentre/latestnews/2017/tracey-ullman-breaks-the-news|title=BBC One commits to more satire from Tracey Ullman|publisher=BBC Media Centre|accessdate=13 September 2017}}&lt;/ref&gt;
+
+On 26 May 2017, the BBC announced that it had ordered a new topical half-hour Tracey Ullman special, ''[[Tracey Breaks the News (pilot)|Tracey Breaks the News]]'' for BBC One. The show is inspired by and aired on 23 June 2017, shortly after the [[United Kingdom general election, 2017|2017 United Kingdom general election]]. Impersonations expected are Angela Merkel, Nicola Sturgeon, as well as Ullman's first take on Prime Minister [[Theresa May]] and [[Melania Trump]]. Like ''Tracey Ullman's Show'', it will feature a mix of famous and everyday people all reacting to the aftermath of the general election along with the anniversary of the [[Brexit]] vote. It will include the reaction of not only the UK, but Europeans and Russians. "I'm excited the BBC has asked me to make a show at this time. We've decided to shake it up with a more topical format because things move so fast these days it's like every 10 minutes I'm voting for something. There's never been a better time to be imitating world famous political women, and I admire and thank them all: Angela Merkel, Nicola Sturgeon, and my home girl newbie Theresa May. I can't wait to get stuck in - thanks to the BBC and my brilliant team. It really is a privilege."&lt;ref&gt;{{cite web|url=http://www.beyondthejoke.co.uk/content/3989/news-bbc-unveils-raft-satire-shows|title=News: BBC Unveils Raft Of Satire Shows|publisher=Beyondthejoke.co.uk|accessdate=26 May 2017}}&lt;/ref&gt; The special aired 23 June.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/mediacentre/proginfo/2017/25/tracey-breaks-the-news|title=BBC - Tracey Breaks The News – Media Centre|publisher=BBC Media Centre|accessdate=3 June 2017}}&lt;/ref&gt;
+
+On 13 September 2017, the BBC announced that it had ordered a full series of ''[[Tracey Breaks the News]]'' following the success of the one-off special that aired in June. Like the one-off special, the three new shows will "tackle topical stories and current issues in a sketch show written and filmed right up to the day of broadcast". Ullman is expected to impersonate French First Lady [[Brigitte Macron]] and Labour Leader [[Jeremy Corbyn]].&lt;ref name=moresatire/&gt; The programme debuted on 27 October on BBC One.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/mediacentre/proginfo/2017/43/tracey-breaks-the-news|title=BBC - Tracey Breaks the News - Media Centre|publisher=BBC Media Centre|accessdate=23 October 2017}}&lt;/ref&gt; On 15 May 2018, it was formally announced that the show had been picked up for a second series to begin airing the following June on BBC One.&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/news/2018/05/15/39965/tracey_will_break_the_news_again|title=Tracey Will Break the News Again|work=[[Chortle]]|date=15 May 2018|accessdate=15 May 2018}}&lt;/ref&gt;
+
+===Other notable work===
+In 1987, Ullman filmed a sketch for ''[[Saturday Night Live]]'', "Hollywood Mom." In it, she plays an English actress who focuses more on her career than on her newborn daughter.&lt;ref&gt;{{cite web|title=Hollywood Mom|url=http://www.nbc.com/saturday-night-live/video/hollywood-mom/n9601|work=Saturday Night Live|publisher=NBC.com|accessdate=13 September 2015}}&lt;/ref&gt;
+
+In 1995, she became the first modern-day cartoon voice of [[Little Lulu]].&lt;ref&gt;[http://www.hbofamily.com/programs/jam/little_lulu.html HBO Family: The Little Lulu Show] {{webarchive|url=https://web.archive.org/web/20040818075817/http://www.hbofamily.com/programs/jam/little_lulu.html |date=18 August 2004 }}. Retrieved 1 April 2007.&lt;/ref&gt; In 1999, she had a recurring role as an unconventional psychotherapist on ''[[Ally McBeal]]''. Her performance garnered her an Emmy Award and an American Comedy Award.&lt;ref&gt;[http://www.moviegames.com/Features/Awards/Emmys99/Blow/index3.html E! Online Features – Awards – Emmys '99 – Blow By Blow]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=no }}. Retrieved 1 April 2007.&lt;/ref&gt;
+
+In 2005, she co-starred with [[Carol Burnett]] in the television adaptation of ''[[Once Upon a Mattress]]''. She played Princess Winnifred, a role originally made famous by Burnett on Broadway. This time Burnett took on the role of the overbearing Queen Aggravain.&lt;ref&gt;A. Stanley [https://www.nytimes.com/2005/12/16/arts/television/16matt.html?ex=1175572800&amp;en=247748e0693234e8&amp;ei=5070 The Affable Princess Is Back as Queen]. NY Times. 16 December 2005&lt;/ref&gt;
+
+On 15 April 2016, Ullman became the 100th guest host of ''[[Have I Got News for You]]''.&lt;ref&gt;{{cite web|title=Tracey Ullman becomes HIGNFY's 100th guest host|url=http://www.chortle.co.uk/news/2016/03/31/24509/tracey_ullman_becomes_hignfys_100th_guest_host|work=Chortle|publisher=Chortle.co.uk|accessdate=15 April 2016}}&lt;/ref&gt;
+
+On 15 February 2017, it was announced that she would star in the [[Starz]]-BBC co-produced limited series adaptation of ''[[Howards End (miniseries)|Howards End]]'' playing Aunt Juley Mund. The four-part series, directed by [[Hettie MacDonald]], co-starring [[Hayley Atwell]] and [[Matthew Macfadyen]], will be shot in and around London and is expected to air on BBC One in the United Kingdom and on the Starz network in the United States.&lt;ref&gt;{{cite web|title=Starz Boards ‘Howards End’ BBC Limited Series; Hayley Atwell, Matthew Macfadyen &amp; Tracey Ullman To Star|url=http://deadline.com/2017/02/starz-bbc-howards-end-limited-series-based-on-novel-hayley-atwell-matthew-macfadyen-star-1201912774/|work=Deadline|publisher=Deadline.com|accessdate=15 February 2017}}&lt;/ref&gt; On 14 September, it was announced that the series would begin broadcasting in November 2017 on BBC One.&lt;ref&gt;{{cite web|title=The must-watch TV of autumn 2017, from Blue Planet to Stranger Things|url=https://www.theguardian.com/tv-and-radio/2017/sep/14/must-watch-tv-autumn-2017-larry-david-attenborough|work=[[The Guardian]]|publisher=Theguardian.com|accessdate=15 September 2017}}&lt;/ref&gt;
+
+==Film career==
+Along with her television work, Ullman has featured in many films throughout her career. Her first theatrical film was a small role in [[Paul McCartney]]'s 1984 film ''[[Give My Regards to Broad Street (film)|Give My Regards to Broad Street]]''.&lt;ref name=bio/&gt; This was followed by a supporting role in the 1985 [[Meryl Streep]] drama ''[[Plenty (film)|Plenty]]''.&lt;ref name=plenty/&gt; She re-teamed with Streep for 1992's ''[[Death Becomes Her]]'', playing Toni, a bartender who runs away with Ernest ([[Bruce Willis]]) and lives happily ever after. Director [[Robert Zemeckis]] decided to re-shoot the ending, opting for a darker, "more risky ending." This meant that Ullman's scenes would have to be cut. "We were all heartbroken over losing the character. (She) was so great." Despite the cut, some of her scenes were released in an early trailer for the film.&lt;ref&gt;{{cite web|title=A look inside Hollywood and the movies. : THE VANISHING : 'Death Becomes Her' and the Lost Ullman Ending|url=http://articles.latimes.com/1992-08-09/entertainment/ca-6132_1_ullman-ending|work=Los Angeles Times|publisher=LATimes.com|accessdate=13 September 2015}}&lt;/ref&gt; ''Death Becomes Her'' is one of two instances in which her scenes in a film have ended up on the [[cutting room floor]]. Due to time constraints, her song in 1996's ''[[Everyone Says I Love You]]'' was deleted.&lt;ref&gt;{{cite web|title=Ullman, By Hook &amp; By 'Crooks' Tracey's tireless efforts landed her a role as Woody Allen's leading lady|url=http://www.nydailynews.com/ullman-hook-crooks-tracey-tireless-efforts-landed-role-woody-allen-leading-lady-article-1.859726|work=NY Daily News|publisher=NYdailynews.com|accessdate=13 September 2015}}&lt;/ref&gt;
+
+She made her big screen leading role debut in 1990's ''[[I Love You to Death]]'' acting alongside [[Kevin Kline]], [[River Phoenix]] and [[Joan Plowright]]. She subsequently appeared in lead and supporting roles in films such as ''[[Robin Hood: Men in Tights]]'',&lt;ref&gt;{{cite web|title=See the Cast of 'Robin Hood: Men in Tights' Then and Now|url=http://screencrush.com/robin-hood-men-in-tights-then-and-now|work=Screen Crush|publisher=Screencrush.com|accessdate=16 December 2015}}&lt;/ref&gt; [[Nancy Savoca]]'s ''[[Household Saints]]'',&lt;ref&gt;{{cite web|title=Household Saints Movie Review (1993)|url=http://www.rogerebert.com/reviews/household-saints-1993|work=Roger Ebert|publisher=Rogerebert.com|accessdate=16 December 2015}}&lt;/ref&gt; ''[[Bullets over Broadway]]'',&lt;ref&gt;{{cite web|title=Movie Review - Bullets Over Broadway (1994) Film Festival Review – Allen's Ode to Theater and, as Always, New York|url=https://www.nytimes.com/movie/review?res=9D00EFDC1F3AF933A0575AC0A962958260|work=The New York Times|accessdate=16 December 2015}}&lt;/ref&gt; ''[[Small Time Crooks]]'' and ''[[A Dirty Shame]]''.&lt;ref&gt;{{cite web|title=Crab Grass, Cookouts, Sex Addicts and Neuters|url=https://www.nytimes.com/2004/09/24/movies/crab-grass-cookouts-sex-addicts-and-neuters.html|work=The New York Times|accessdate=16 December 2015}}&lt;/ref&gt; She was nominated for a [[Golden Globe Award]] in the category of [[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress – Motion Picture Musical or Comedy]] for her work in ''Small Time Crooks'' in 2001.&lt;ref&gt;{{cite web|title=Soderbergh dominates Golden Globe nominationsy|url=https://www.theguardian.com/film/2000/dec/22/news|work=The Guardian|publisher=Theguardian.com|accessdate=13 September 2015}}&lt;/ref&gt;
+
+Her voice work in film includes ''[[Tim Burton's Corpse Bride]]''&lt;ref&gt;{{cite web|title=A 'Bride' to Die For. Delightful 'Corpse' has the ghoul of your dreams|url=http://www.nydailynews.com/archives/nydn-features/bride-die-delightful-corpse-ghoul-dreams-article-1.610931|work=NY Daily News|publisher=NYdailynews.com|accessdate=16 December 2015}}&lt;/ref&gt; and the computer-animated ''[[The Tale of Despereaux (film)|The Tale of Despereaux]]''.&lt;ref&gt;{{cite web|title=' The Tale of Despereaux' stars the voices of Matthew Broderick, Robbie Coltrane, Emma Watson|url=http://www.chicagotribune.com/entertainment/movies/chi-despereaux-review-1219dec19-story.html|work=Chicago Tribune|publisher=Chicagotribune.com|accessdate=16 December 2015}}&lt;/ref&gt; She acted as creative consultant on the 2006 [[DreamWorks Pictures|DreamWorks]] feature, ''[[Flushed Away]]''.&lt;ref name=NYTF/&gt;
+
+In 2014, she played Jack's Mother in the [[Into the Woods (film)|film adaptation]] of the Broadway musical ''[[Into the Woods]]''.&lt;ref&gt;[http://www.hollywoodreporter.com/heat-vision/tracey-ullman-talks-join-disneys-567666 Tracey Ullman in Talks to Join Disney's 'Into the Woods'] (Exclusive)&lt;/ref&gt;
+
+Ullman was under serious consideration for a number of roles: Betty Rubble in 1994's ''[[The Flintstones (film)|The Flintstones]]'';&lt;ref&gt;{{cite journal |last=Palmer |first=Martyn |date=1998 |title=Tracey's World |journal=The Express |publisher= |volume= |issue= |pages=pg.14}}&lt;/ref&gt;
+Effie Trinket in ''[[The Hunger Games (film)|The Hunger Games]]''.&lt;ref&gt;{{cite web|title=Sutherland plays laid-back villain|url=http://www.torontosun.com/2012/03/18/sutherland-plays-laid-back-villain|first=Jim|last=Slotek|date=18 March 2012|accessdate=16 August 2015|work=Toronto Sun}}&lt;/ref&gt; Director [[Adrian Lyne]] asked her to screen test for his film ''[[Fatal Attraction]]''. She passed on the idea and the role went to [[Glenn Close]].&lt;ref&gt;Stated in interview on ''[[Late Show with David Letterman]]'' (22-01-88)&lt;/ref&gt; She was also sought for reuniting with her ''Plenty'' co-star Meryl Streep in ''[[She-Devil]]''. The part ultimately went to comedian [[Roseanne Barr]].&lt;ref&gt;{{cite web|title=Filmmakers Rush To Beat Threat Of Actors Strike|url=http://articles.chicagotribune.com/1989-02-09/features/8903040106_1_costar-blaze-starr-actors-strike|first=Anne |last=Thompson|date=9 February 1989|accessdate=16 August 2015|work=Chicago Tribune}}&lt;/ref&gt;
+
+==Theatre==
+{{further|Tracey Ullman#Early life}}
+
+Ullman has an extensive stage career spanning back to the 1970s.
+
+In 1980, she appeared in [[Victoria Wood]]'s ''Talent'' at the [[Everyman Theatre, Liverpool|Everyman Theatre]] in Liverpool.&lt;ref&gt;{{cite web|title=Tracey Ullman Returns To London Theatre In New Stephen Poliakoff Play At The Almeida|url=http://www.westendtheatre.com/12340/news/tracey-ullman-returns-to-london-theatre-in-new-stephen-poliakoff-play/|work=Westendtheatre.com|publisher=Westendtheatre.com|accessdate=30 October 2015}}&lt;/ref&gt;
+
+Her award-winning performance in [[Les Blair]]'s [[avant-garde]] ''Four in a Million'' in 1981 led to a career in television.&lt;ref name=watchout/&gt;
+
+In 1982, she played Kate Hardcastle in ''[[She Stoops to Conquer]]''.&lt;ref name=TVNYT&gt;{{cite web|last=O'Connor|first=John J.|title=Television Review – A Case of Multiple Personalities|url=https://www.nytimes.com/1996/01/24/arts/television-review-a-case-of-multiple-personalities.html|work=The New York Times|accessdate=15 December 2015}}&lt;/ref&gt;
+
+In 1983, she took part in the workshops for [[Andrew Lloyd Webber]]'s upcoming musical, ''[[Starlight Express]]'', playing the part of Pearl&lt;ref&gt;{{cite web|title=Tracey Ullman Getting Plenty Of Laughs|url=http://articles.mcall.com/1985-11-09/entertainment/2499745_1_tracey-ullman-london-theatre-critics-award-meryl-streep|work=The Morning Call|publisher=Mcall.com|accessdate=15 December 2015}}&lt;/ref&gt; and [[Snoo Wilson]]'s ''The Grass Widow'' at the Royal Court Theatre with actor [[Alan Rickman]].&lt;ref&gt;{{cite web|title=Theatre &gt;&gt; 12 Nov 1983 &gt;&gt; The Spectator Archive|url=http://archive.spectator.co.uk/article/12th-november-1983/34/theatre|work=The Spectator|publisher=Spectator.co.uk|accessdate=5 September 2016}}&lt;/ref&gt;
+
+In 1990, she starred opposite actor [[Morgan Freeman]] as Kate in Shakespeare in the Park's production of ''[[Taming of the Shrew]]'' set in the [[American frontier|Wild West]] for [[Joe Papp]].&lt;ref&gt;{{cite web|title=The Taming Of Tracey|url=http://articles.chicagotribune.com/1990-03-08/features/9001190984_1_shrew-lyrics-by-leslie-bricusse-million-broadway-production|work=The Chicago Tribune|publisher=Chicagotribune.com|accessdate=1 November 2015}}&lt;/ref&gt; In 1991, she made her Broadway debut with [[Jay Presson Allen]]'s one-woman show ''[[The Big Love]]'', based on the book of the same name. ''The Big Love'' recounts an alleged love affair between actor [[Errol Flynn]] and a then fifteen-year-old actress [[Beverly Aadland]], as told by her mother, Florence Aadland (Ullman).&lt;ref name=broadway/&gt; Both ''Taming of the Shrew'' and ''The Big Love'' garnered her Theatre World Awards.&lt;ref&gt;{{cite web|title=Theatre World Award Recipients|url=http://www.theatreworldawards.org/past-recipients.html|work=Theatre World Awards|publisher=Theatreworldawards.org|accessdate=30 October 2015}}&lt;/ref&gt;
+
+In February 2005, she performed her autobiographical one-woman show ''Tracey Ullman: Live and Exposed'' at [[The Fonda Theatre]] in Los Angeles, where it ran for ten performances.&lt;ref&gt;{{cite web|title=Tracey Ullman Readies Best Bits for Broadway|url=http://www.broadway.com/buzz/93620/tracey-ullman-readies-best-bits-for-broadway/|work=Broadway.com|publisher=Broadway.com|accessdate=28 October 2015}}&lt;/ref&gt;
+
+In 2011, she returned to the British stage in the [[Stephen Poliakoff]] drama ''My City''.&lt;ref&gt;{{cite web|title=Tracey Ullman Takes on My City at the West End's Almeida Theatre Beginning Sept. 8|url=http://www.playbill.com/news/article/tracey-ullman-takes-on-my-city-at-the-west-ends-almeida-theatre-beginning-s-182391|work=Playbill|publisher=Playbill.com|accessdate=13 September 2015}}&lt;/ref&gt; Her performance earned her an [[Evening Standard Theatre Awards|''Evening Standard'' Theatre Awards]] nomination for Best Actress.&lt;ref&gt;{{cite web|title=London Evening Standard Theatre Awards longlist revealed|url=https://www.standard.co.uk/goingout/theatre/london-evening-standard-theatre-awards-longlist-revealed-6359103.html|work=London Evening Standard|publisher=Standard.co.uk|accessdate=27 October 2015}}&lt;/ref&gt;
+
+In 2012, she joined the cast of [[Eric Idle]]'s ''What About Dick?'', described as a 1940s-style stand-up improv musical comedy radio play, taking on three roles. The show played for four nights in April in Los Angeles at the Orpheum Theater. She had performed the piece previously in a test run for Idle back in 2007.&lt;ref&gt;{{cite web|title=Eric Idle asks ‘What About Dick?’|url=https://variety.com/2007/legit/markets-festivals/eric-idle-asks-what-about-dick-1117974601/|work=Variety|publisher=Variety.com|accessdate=27 October 2015}}&lt;/ref&gt; Cast members included Idle, [[Eddie Izzard]], [[Billy Connolly]], [[Russell Brand]], [[Tim Curry]], [[Jane Leeves]], [[Jim Piddock]], and [[Sophie Winkleman]].&lt;ref&gt;{{cite web|title=Idle Worship: Eric Idle on "What About Dick?"|url=http://nerdist.com/idle-worship-eric-idle-on-what-about-dick/|work=Nerdist|publisher=Nerdist.com|accessdate=27 October 2015}}&lt;/ref&gt;
+
+On 6 October 2014, it was formally announced that she would star in a limited engagement of ''[[The Band Wagon]]'', from 6 to 16 November 2014 at [[New York City Center|City Center]]. The production was directed and choreographed by [[Kathleen Marshall]].&lt;ref&gt;{{cite web|url=http://www.broadway.com/buzz/177764/roger-rees-tracey-ullman-michael-mckean-laura-osnes-will-star-in-the-band-wagon-at-encores|title=Roger Rees, Tracey Ullman, Michael McKean &amp; Laura Osnes Will Star in The Band Wagon at Encores!|last=Lloyd Webber |first=Imogen|date=6 October 2014|publisher=''[[Broadway.com]]''|accessdate=27 March 2015}}&lt;/ref&gt;
+
+==Personal life==
+Ullman married producer Allan McKeown in 1983. They had two children: Mabel, born in 1986, and Johnny, born in 1991.&lt;ref&gt;{{cite web|title=Overview for Tracey Ullman|url=http://www.tcm.com/tcmdb/person/195718%7C0/Tracey-Ullman/|work=Turner Classic Movies|publisher=TCM.com|accessdate=25 November 2015}}&lt;/ref&gt; Mabel worked as assistant to former Labour deputy leader [[Harriet Harman]]; she stood as a [[parliamentary candidate]] for the [[Labour Party (UK)|Labour Party]] in 2015,&lt;ref&gt;{{cite web|title=Daughter of US-based comedian Tracey Ullman running in bid to be Labour's parliamentary candidate for Neath|url=http://www.walesonline.co.uk/news/local-news/daughter-us-based-comedian-tracey-ullman-8012734|work=Wales Online|publisher=Walesonline.co.uk|accessdate=25 November 2015}}&lt;/ref&gt; and subsequently went on to become a charity director.&lt;ref&gt;{{cite web|url=https://www.mirror.co.uk/tv/tv-news/tracey-ullman-wear-fatsuit-play-7112472|title=Top impersonator Tracey Ullman set to return to UK TV screens after 30 years|first=Nicola|last=Methven|date=4 January 2016|website=Mirror.co.uk|accessdate=28 December 2017}}&lt;/ref&gt; Johnny is an actor and currently writes for ''[[The Late Late Show with James Corden]]''.&lt;ref&gt;{{cite web|title=Tracey Ullman interview: 'I was a one-hit wonder in 1984 and I’m still here'|url=https://www.independent.co.uk/arts-entertainment/films/features/tracey-ullman-interview-i-was-a-one-hit-wonder-in-1984-and-i-m-still-here-9935432.html|work=The Independent|publisher=Independent.co.uk|accessdate=25 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Tracey Ullman returns to BBC with first television series in 30 years|url=https://www.theguardian.com/culture/2016/jan/08/tracey-ullman-returns-to-bbc-with-first-television-series-in-30-years|work=The Guardian|publisher=Theguardian.com|accessdate=18 February 2016}}&lt;/ref&gt; On 24 December 2013, Allan McKeown died at home from [[prostate cancer]], three days before their 30th wedding anniversary.&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/news/tracey-ullmans-husband-producer-allan-667717|title=Tracey Ullman's Husband, Producer Allan McKeown Dies at 67|date=26 December 2013|work=[[The Hollywood Reporter]]}}&lt;/ref&gt; Ullman's mother died in a fire at her flat on 23 March 2015.&lt;ref&gt;{{cite news|url=http://www.bucksfreepress.co.uk/news/11883664.TV_star_Tracey_Ullman_tells_of_sadness_at_loss_of_mother_in_Holtspur_flat_fire_tragedy/|title=TV star Tracey Ullman tells of sadness at loss of mother in flat fire tragedy in Holtspur, near Beaconsfield|date=26 March 2015|publisher=Bucks Free Press}}&lt;/ref&gt; An inquest ruled the death to be accidental.&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/news/uk-news/comedian-tracey-ullmans-mother-died-6028422|title=Comedian Tracey Ullman's mother died in fire 'started by cigarette not stubbed out properly'|date=8 July 2015|publisher=Mirror Online}}&lt;/ref&gt; She was 85 years old.&lt;ref&gt;{{cite news|url=http://www.bucksfreepress.co.uk/news/11885352.Inquest_opened_after_Holtspur_flat_fire/|title=Inquest opened after flate fire that claimed the life of Doreen Skinner, mother of Tracey Ullman, in Holtspur near Beaconsfield|date=27 March 2015|publisher=Bucks Free Press}}&lt;/ref&gt;
+
+Ullman became an American citizen in December 2006 and holds [[Multiple citizenship|dual citizenship]] in the United States and the United Kingdom.&lt;ref name=dual&gt;{{cite news|url=http://www.msnbc.msn.com/id/35146556/ns/msnbc_tv-rachel_maddow_show/t/rachel-maddow-show-thursday-january-th/#.TlUC_ajNn9o|title='The Rachel Maddow Show' for Thursday, January 28th, 2010|date=29 January 2010|publisher=[[MSNBC]]}}&lt;/ref&gt; The results of the [[United States presidential election, 2004|2004 United States presidential election]], and a comment made by actor [[Tom Hanks]], prompted her desire to naturalise. “Tom Hanks was standing in a corridor at a party and I said something, and he was just very nice and he went, ‘Oh, yeah. I know that but you’re British. You know, you don’t have to put up with that stuff ... I went, ‘No. Actually I’ve been here a long time.‘ I thought, that’s it. I’m going to join in. So I took the [citizenship] test.”&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2008/04/01/arts/01iht-ullman.1.11577919.html|title=With U.S. citizenship under her belt, Tracey Ullman sharpens her satire|work=[[The New York Times]]|author=Wyatt, Edward|date=1 April 2008|accessdate=24 August 2011}}&lt;/ref&gt; In 2006, she topped the list for the "Wealthiest British Comedians," with an estimated wealth of [[£]]75 million.&lt;ref&gt;{{cite news|url=http://www.chortle.co.uk/news/2006/12/29/4870/where_the_funny_money_is|title=Where the funny money is|date=29 December 2006|publisher=Chortle}}&lt;/ref&gt; In 2015, Ullman's wealth was estimated to be £77 million, making her the wealthiest British actress and female comedian.&lt;ref name=wealthiest&gt;{{cite web|title=Fifty Shades of Grey author earns £75m in four years from worldwide hit making her the country’s fourth wealthiest author….but JK Rowling holds on to the top spot|url=http://www.dailymail.co.uk/news/article-3066041/Fifty-Shades-Grey-author-makes-75million-four-years-worldwide-hit-making-country-s-fourth-wealthiest-author-JK-Rowling-holds-spot.html#ixzz3bHbs3Wm4|work=The Daily Mail|publisher=Daily Mail Online|accessdate=26 May 2015}}&lt;/ref&gt; In 2017, ''[[The Sunday Times]]'' increased it to £80 million.&lt;ref name=wealth/&gt;
+
+She has described herself as a [[Republicanism in the United Kingdom|British republican]]. "Even as a kid, I never got why we pay people millions of pounds to be better than us."&lt;ref&gt;{{cite web|title=Tracey Ullman: 'You can be anything'|url=https://www.newspapers.com/newspage/5022673/|work=The Salina Journal|publisher=Newspapers.com|accessdate=13 October 2015}}&lt;/ref&gt; On a particular incident: "An MP once suggested I be put in the [[Tower of London]] for saying derogatory things about the royals."&lt;ref&gt;{{cite web|title=Sunday: January 11, 1998: Questions for Tracey Ullman|url=https://www.nytimes.com/1998/01/11/magazine/sunday-january-11-1998-questions-for-tracey-ullman.html|work=The New York Times|accessdate=13 September 2015}}&lt;/ref&gt;
+
+An avid [[knitting|knitter]], she co-wrote a knitting book, ''Knit 2 Together: Patterns and Stories for Serious Knitting Fun'' in 2006.&lt;ref&gt;{{cite web|title=Tracey Ullman Takes on Knitting|url=https://www.npr.org/templates/story/story.php?storyId=6159769|work=NPR|publisher=NPR.org|accessdate=14 September 2015}}&lt;/ref&gt;
+
+==Filmography==
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1980
+| ''Mackenzie''
+| Lisa MacKenzie
+| TV series
+|-
+| rowspan=2|1981
+| ''Screenplay''
+| Karen
+| Episode: "Happy Since I Met You"
+|-
+| ''[[A Kick Up the Eighties]]''
+| Various
+| TV series
+|-
+| 1981–83
+| ''[[Three of a Kind (TV series)|Three of a Kind]]''
+| Various
+| TV series
+|-
+| 1985
+| ''[[Girls on Top (TV series)|Girls on Top]]''
+| Candice Valentine
+| Series 1 only; additional material credit
+|-
+| 1987
+| ''[[Saturday Night Live]]''
+| Herself (uncredited)
+| Episode: Garry Shandling/Los Lobos&lt;br /&gt;"Hollywood Mom" (sketch)
+|-
+| 1987–1990
+| ''[[The Tracey Ullman Show]]''
+| Various
+| 
+|-
+| rowspan=2|1989
+| ''[[Sesame Street]]''
+| Herself&lt;br /&gt;Trasha
+| Episode 2584; Season 20; 6 April 1989
+|-
+| ''I, Martin Short, Goes Hollywood ''
+|  Tina Wise
+| TV film
+|-
+| rowspan=3|1991
+| ''The Full Wax''
+| Herself
+| Episode: #1.4
+|-
+| ''[[The Simpsons]]''
+| Emily Winthrop&lt;br /&gt;Mrs. Winfield
+| Episode: "[[Bart's Dog Gets An F]]"
+|- 
+| ''Funny Women of Television''
+| Herself
+|
+|-
+| 1992
+| ''Sibs''
+|
+| Episode: "If I Only Had a Dad"
+|-
+| rowspan=3|1993
+| ''Love &amp; War''
+| Dava Levine
+| Episode: "The Prima Dava"
+|-
+| ''[[Tracey Ullman: A Class Act]]''
+| Various 
+| Additional material credit
+|-
+| ''[[Tracey Ullman Takes On New York]]''
+| Various
+|
+|-
+| rowspan=2|1995
+| ''[[The Little Lulu Show]]''
+| Lulu 
+| Season 1
+|-
+| ''Women of the Night IV''
+| Herself
+|
+|-
+| 1996–99
+| ''[[Tracey Takes On...]]''
+| Various
+| Creator; writer; executive producer; second unit director (season 4) 
+|-
+| 1998–99
+| ''[[Ally McBeal]]''
+| Dr. Tracey Clark
+| Episode: "Troubled Water"&lt;br /&gt;Episode: "Sideshow"&lt;br /&gt;Episode: "The Real World"&lt;br /&gt;Episode: "The Playing Field"&lt;br /&gt;Episode: "Theme of Life"
+|-
+| 2001–02
+| ''[[Tracey Ullman's Visible Panty Lines]]''
+| Herself
+| TV series
+|-
+| 2003
+| ''[[Tracey Ullman in the Trailer Tales]]''
+| Ruby Romaine&lt;br /&gt;Svetlana&lt;br /&gt;Pepper Kane
+| Directorial debut; writer; executive producer
+|-
+| 2004
+| ''[[Will &amp; Grace]]''
+| Ann
+| Episode: "Looking for Mr. Good Enough"
+|-
+| rowspan=2|2005
+| ''[[Tracey Ullman: Live and Exposed]]''
+| Herself
+| Writer
+|-
+| ''[[Once Upon a Mattress]]''
+| Princess Winnifred
+| TV film
+|-
+| 2006
+| ''[[Dawn French's Girls Who Do Comedy]]''
+| Herself
+| 3 episodes
+|-
+| 2007
+| ''If It Ain't Stiff''
+| Herself
+|
+|-
+| 2008
+| ''[[Mumbai Calling]]''
+| Telephone Voice
+| 7 episodes
+|-
+| 2008–2010
+| ''[[Tracey Ullman's State of the Union]]''
+| Various
+| Creator; writer; director; executive producer
+|-
+| 2011
+| ''[[Kennedy Center Honors]]''
+| Herself
+| Tribute to Meryl Streep
+|-
+| rowspan=2|2014
+| ''[[How I Met Your Mother]]''
+| Genevieve Scherbatsky
+| Episode: "[[Vesuvius (How I Met Your Mother)|Vesuvius]]"&lt;br /&gt;Episode: "[[Daisy (How I Met Your Mother)|Daisy]]"&lt;br /&gt;Episode: "[[The End of the Aisle]]"
+|-
+| ''[[Sofia the First]]''
+| Marla
+| Episode: "Mom's the Word"
+|-
+| 2015
+| ''Shakespeare Uncovered''
+| Herself
+| Episode: "The Taming of the Shrew With Morgan Freeman"
+|-
+| 2016–17
+| ''[[Tracey Ullman's Show]]''
+| Various 
+| Devised by credit; executive producer
+|-
+| 2016
+| ''[[Have I Got News for You]]''
+| Herself
+| Guest presenter; Series 51, Episode 2
+|-
+| rowspan=4|2017
+| ''[[Girls (TV series)|Girls]]''
+| Ode Montgomery
+| Episode: "Painful Evacuation" 
+|-
+| ''[[Tracey Breaks the News (pilot)|Tracey Breaks the News]]''
+| Various
+| Devised by credit; executive producer
+|-
+| ''[[Howards End (miniseries)|Howards End]]''
+| Aunt Juley
+| Miniseries
+|-
+| ''[[The President Show]]''
+| Herself
+| Episode: "I Came Up with Christmas: A President Show Christmas"
+|-
+| 2017–present
+| ''[[Tracey Breaks the News]]''
+| Various
+| TV series
+|-
+| 2018
+| ''Have I Got News for You''
+| Herself
+| Guest host; Series 55, Episode 9
+|}
+
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| rowspan=2|1984
+| ''[[Give My Regards to Broad Street (film)|Give My Regards to Broad Street]]''
+| Sandra
+|
+|-
+| ''The Young Visiters''
+| Ethel Monticue 
+|
+|-
+| 1985
+| ''[[Plenty (film)|Plenty]]''
+| Alice Park
+| Nominated - [[BAFTA Award for Best Actress in a Supporting Role]]
+|-
+| 1986
+| ''[[Jumpin' Jack Flash (film)|Jumpin' Jack Flash]]''
+| Fiona
+|
+|-
+| rowspan=2|1990
+| ''[[I Love You to Death]]''
+| Rosalie Boca
+|
+|-
+| ''[[Happily Ever After (1990 film)|Happily Ever After]]''
+| Thunderella (voice)&lt;br /&gt;Moonbeam (voice)
+|
+|-
+| 1992
+| ''[[Death Becomes Her]]''
+| Toni
+| Scenes deleted
+|-
+| rowspan=2|1993
+| ''[[Robin Hood: Men in Tights]]''
+| Latrine
+|
+|-
+| ''[[Household Saints]]''
+| Catherine Falconetti
+|
+|-
+| rowspan=3|1994
+| ''[[I'll Do Anything]]''
+| Beth Hobbs
+|
+|-
+| ''[[Bullets over Broadway]]''
+| Eden Brent
+|
+|-
+| ''[[Prêt-à-Porter (film)|Prêt-à-Porter]]''
+| Nina Scant
+|
+|-
+| 1996
+| ''[[Everyone Says I Love You]]''
+|
+|Scenes deleted
+|-
+| rowspan=3|2000
+| ''C-Scam''
+| 
+|
+|-
+| ''[[Panic (2000 film)|Panic]]''
+| Martha
+|
+|-
+| ''[[Small Time Crooks]]''
+| Frenchy
+| Nominated – [[Golden Globe Award for Best Actress in a Motion Picture – Comedy or Musical]]
+|-
+| rowspan=2|2004
+| ''[[A Dirty Shame]]''
+|  Sylvia Stickles
+|
+|-
+| ''[[The Cat That Looked at a King]]''
+| The Cat (voice)
+| Video
+|-
+| rowspan=2|2005
+| ''[[Corpse Bride]]''
+| Nell Van Dort (voice)&lt;br /&gt;Hildegarde (voice)
+|
+|-
+| ''[[Kronk's New Groove]]''
+| Ms. Birdwell (voice)
+| Video
+|-
+| rowspan=2|2006
+| ''[[The Queen (2006 film)|The Queen]]''
+| Self (uncredited)
+| Archive footage
+|-
+| ''[[Flushed Away]]''
+|
+| Creative consultant 
+|-
+| 2007
+| ''[[I Could Never Be Your Woman]]''
+| Mother Nature
+|
+|-
+| 2008
+| ''[[The Tale of Despereaux (film)|The Tale of Despereaux]]''
+|  Mig (voice)
+|
+|-
+| 2014
+| ''[[Into the Woods (film)|Into the Woods]]'' 
+| Jack's Mother
+|
+|}
+
+===Music videos===
+{| class="wikitable sortable"
+! Year
+! Single
+! Director
+|-
+| rowspan=3|1983
+| "Breakaway"
+| Dave Robinson
+|-
+| "They Don't Know"
+| Dave Robinson
+|-
+| "Move Over Darling"
+|
+|-
+| rowspan=3|1984
+| "My Guy"
+| 
+|-
+| "Sunglasses"
+|
+|-
+| "Helpless"
+|
+|-
+| 1985
+| "Terry"
+| 
+|-
+| 1989
+| "Monster in the Mirror"
+| Laura DiTrapani
+|-
+| 2013
+| "[[Queenie Eye]]"
+| Simon Aboud
+|}
+
+==Stage credits==
+{| class="wikitable sortable"
+|-
+! Year
+! Production
+! Role
+! Location
+|-
+| 1976
+| ''[[Gigi]]''
+|
+| Theater des Westens Berlin
+|-
+| 1977
+| ''Second Generation''
+|
+| Blackpool and Liverpool
+|-
+| 1977/78
+| ''[[Aladdin]]''
+|
+| [[Liverpool Empire]]
+|-
+| rowspan=2|1978
+| ''[[Elvis (musical)|Elvis The Musical]]''
+|
+| [[London Astoria]]
+|-
+| ''Oh! Boy''
+|
+| London Astoria
+|-
+| rowspan=2|1979
+| ''[[Grease (musical)|Grease]]''
+| Frenchy
+| London Astoria
+|-
+| ''[[The Rocky Horror Show]]''
+| Janet
+| [[Harold Pinter Theatre|Comedy Theatre]]
+|-
+| rowspan=5|1980
+| ''Talent''
+|
+| [[Everyman Theatre, Liverpool|Everyman Theatre]]
+|-
+| ''It's a Madhouse''
+| Vera
+| Everyman Theatre
+|-
+| ''Zack''
+| Sally
+| Everyman Theatre
+|-
+| ''Gloo Joo''
+| Irene
+|
+|-
+| ''[[Dracula]]''
+| Lucy
+| [[Young Vic]]
+|-
+| 1981
+| ''Four in a Million''
+| Beverly
+| [[Royal Court Theatre]]
+|-
+| 1981–82
+| ''[[Dick Whittington]]''
+| Dick
+| [[Theatre Royal, Newcastle]]
+|-
+| rowspan=3|1982
+| ''Rita, Sue and Bob Too''
+| Bob's wife
+| Royal Court Theatre
+|-
+| ''[[She Stoops to Conquer]]''
+| Kate Hardcastle
+| [[Lyric Theatre (Hammersmith)|Lyric Hammersmith]]
+|-
+| ''Bows and Arrows''
+| Henrietta 
+| Young Writer's Festival
+|-
+| 1983
+| ''The Grass Widow''
+| Carmen
+| Royal Court Theatre
+|-
+| 1990
+| ''[[The Taming of the Shrew]]''
+| Kate Hardcastle
+| [[Delacorte Theater]]
+|-
+| 1991
+| ''[[The Big Love]]''
+| Florence Aadland
+| [[Gerald Schoenfeld Theatre|The Orpheum Theatre]]
+|-
+| 2005
+| ''[[Tracey Ullman: Live and Exposed]]''
+| Self
+| [[The Fonda Theatre]]
+|-
+| 2011
+| ''My City''
+| Elizabeth Lambert
+| [[Almeida Theatre]]
+|-
+| 2012
+| ''What About Dick?''
+| Aunt Maggie&lt;br /&gt;Enid Bastard&lt;br /&gt;The Countess von Kuns
+| The Orpheum Theatre
+|-
+| 2014
+| ''[[The Band Wagon]]''
+| Lily Martin
+| [[New York City Center]]
+|-
+|}
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:11em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="2"| Peaks
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[UK Albums Chart|UK]]
+! scope="col" style="width:3em;font-size:90%;"|[[Billboard 200|US]]
+|-
+! scope="row"| ''[[You Broke My Heart in 17 Places]]''
+|
+* Released: 25 November 1983
+* Label: [[Stiff Records|Stiff]]
+* Format: [[LP record|LP]], [[Compact Cassette|cassette]], [[Compact Disc|CD]]
+| 14 || 34
+| 
+*[[British Phonographic Industry|BPI]]: Gold&lt;ref&gt;{{cite web|title=Tracey Ullman Getting Plenty Of Laughs|url=http://articles.mcall.com/1985-11-09/entertainment/2499745_1_tracey-ullman-london-theatre-critics-award-meryl-streep|work=The Morning Call|publisher=Mcall.com|accessdate=5 September 2016}}&lt;/ref&gt;
+|-
+! scope="row"| ''[[You Caught Me Out]]''
+|
+* Released: November 1984
+* Label: Stiff
+* Format: LP, cassette, CD
+| 92 || —
+|
+|-
+| colspan="14" style="font-size:90%" | "—" denotes a recording that failed to chart or was not released in that territory.
+|}
+
+===Soundtrack albums===
+{|class="wikitable plainrowheaders" style="text-align:center;" border="2"
+|+ List of albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="4"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:90%;"|[[ARIA Charts|ARIA]] 
+! scope="col" style="width:2.5em;font-size:90%;"|[[US Billboard 200|US]]
+! scope="col" style="width:2.5em;font-size:90%;"|[[US Billboard 200|US ''Billboard'' Top Soundtracks]] 
+! scope="col" style="width:2.5em;font-size:90%;"|[[Syndicat National de l'Édition Phonographique|SNEP]]
+|-
+! scope="row" | ''[[The Corpse Bride#Music|The Corpse Bride]]''
+|
+*Released: 20 September 2005
+*Formats: [[Compact Disc|CD]]
+*Label: [[Warner Bros. Records|Warner Bros.]]
+| — || — || 8 || 105
+|-
+|-
+! scope="row" | ''[[Into the Woods (soundtrack)|Into the Woods]]''
+|
+*Released: 16 December 2014
+*Formats: CD, [[Music download|digital download]]
+*Label: [[Walt Disney Records|Walt Disney]]
+| 13 || 8 || 2 || —
+|-
+|align="center" colspan="15" style="font-size:8pt"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+===Comedy albums===
+{|class="wikitable plainrowheaders" style="text-align:center;" border="2"
+|+ List of albums
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:16em;"| Album details
+|-
+! scope="row" | ''Three of a Kind'' (with [[Lenny Henry]] and David Copperfield)
+|
+*Released: 1983
+*Formats: [[LP record|LP]]
+*Label: [[BBC Records|BBC Recordings]]
+|-
+|}
+
+===Compilation albums===
+{|class="wikitable plainrowheaders" style="text-align:center;" border="2"
+|+ List of albums
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:16em;"| Album details
+|-
+! scope="row" | ''Forever – The Best of Tracey Ullman''
+|
+*Released: 1985
+*Formats: [[LP record|LP]], [[Compact Cassette|cassette]], [[Compact Disc|CD]]
+*Label: [[Stiff Records|Stiff]]
+|-
+! scope="row" | ''The Best of Tracey Ullman: You Broke My Heart in 17 Places''
+|
+*Released: 12 May 1992
+*Formats: CD
+*Label: [[Rhino Records|Rhino]]
+|-
+! scope="row" | ''Breakaway: The Very Best of...''
+|
+*Released: 1992
+*Formats: CD
+*Label: BR Music
+|-
+! scope="row" | ''The Very Best of Tracey Ullman''
+|
+*Released: 1993
+*Formats: CD
+*Label: Stiff
+|-
+! scope="row" | ''The Best of... Tracey Ullman''
+|
+*Released: 26 February 2002
+*Formats: CD
+*Label: [[Metro Music]]
+|-
+! scope="row" | ''Tracey Ullman Takes on the Hits''
+|
+*Released: 10 September 2002
+*Formats: CD
+*Label: [[Varèse Sarabande|Varese Vintage]]
+|-
+! scope="row" | ''Tracey Ullman - Move Over Darling: The Complete Stiff Recordings''
+|
+*Released: 14 September 2010
+*Formats: CD
+*Label: Salvo
+|-
+|}
+
+===Other appearances===
+*''[[Puss in Boots]]'' (Told by Tracey Ullman with Music by Jean Luc Ponty, [[Rabbit Ears Productions|Rabbit Ears Entertainment]]), 1993.
+*''[[Wise Children]]'' (Performed by Tracey Ullman, [[Audible (store)|Audible Studios]]), 2018.
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="3"| Peak chart positions
+! scope="col" rowspan="2" style="width:18em;"| Album
+|-
+|- style="font-size:smaller;"
+! style="width:25px;"| [[UK Singles Chart|UK]]
+! style="width:25px;"| [[Billboard Hot 100|US]]
+! style="width:25px;"| [[Adult Contemporary (chart)|US AC]]
+|-
+| style="text-align:left;"| "[[Breakaway (Irma Thomas song)|Breakaway]]"
+| rowspan="3" | 1983
+| 4 || 70 || —
+| rowspan="3"| ''[[You Broke My Heart in 17 Places]]''
+|-
+| style="text-align:left;"| "[[They Don't Know (Kirsty MacColl song)#Tracey Ullman version|They Don't Know]]"
+| 2 || 8 || 11
+|-
+| style="text-align:left;"| "[[Move Over Darling (song)|Move Over Darling]]"
+|  8 || — || —
+|-
+| style="text-align:left;"| "[[My Girl (Madness song)#My Guy's Mad at Me|My Guy]]"
+| rowspan="3" | 1984
+| 23 || — || —
+| rowspan="4"| ''[[You Caught Me Out]]''
+|-
+| style="text-align:left;"| "[[Sun Glasses (song)|Sunglasses]]"
+| 18 || — || —
+|-
+| style="text-align:left;"| "Helpless"
+| 61 || — || —
+|-
+| style="text-align:left;"| "[[Terry (Kirsty MacColl song)|Terry]]"
+| 1985
+| 81 || — || —
+|-
+| colspan="14" style="font-size:90%" | "—" denotes a recording that failed to chart or was not released in that territory.
+|}
+
+==Awards and honours==
+{{main|List of awards and nominations received by Tracey Ullman}}
+
+[[File:Tracey Ullman (1989).jpg|thumb|right|upright|Tracey Ullman at the 1989 Emmy Awards]]
+Ullman is a seven-time [[Emmy Award]]-winning actress. To date, she has been nominated twenty-four times.&lt;ref&gt;{{cite web|title=Tracey Ullman - Awards - IMDB|url=https://www.imdb.com/name/nm0001808/awards?ref_=nm_ql_2|work=IMDB|publisher=IMDB.com|accessdate=14 September 2015}}&lt;/ref&gt;
+
+On 5 December 2006, she was honoured at the [[The Paley Center for Media|Museum of Television and Radio]] along with the likes of [[Carol Burnett]], [[Lesley Visser]], [[Lesley Stahl]], [[Jane Pauley]], and [[Betty White]], in the "She Made It" category.&lt;ref&gt;{{cite web|title=Women rule at MT&amp;R gala|url=https://variety.com/2006/scene/vpage/women-rule-at-mt-r-gala-1117955445/|work=Variety|publisher=Variety.com|accessdate=13 September 2015}}&lt;/ref&gt;
+
+In April 2009, it was announced that Ullman would be awarded a Lifetime Achievement BAFTA Award the following May. She became the first recipient of the Charlie Chaplin Lifetime Achievement Award for Comedy on 9 May 2009.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/7989633.stm|title='Lifetime Bafta award' for Ullman | work=BBC News | date=8 April 2009}}&lt;/ref&gt;
+
+===Awarded===
+; [[American Comedy Awards]]
+* 1988–Funniest Female Performer of the Year
+* 1988–Funniest Female Performer in a TV Series (Leading Role) Network, Cable or Syndication, ''The Tracey Ullman Show''
+* 1989–Funniest Female Performer in a TV Special (Leading or Supporting) Network, Cable or Syndication, ''Tracey Ullman: Backstage''
+* 1990–Funniest Female Performer in a TV Series (Leading Role) Network, Cable or Syndication, ''The Tracey Ullman Show''
+* 1991–Funniest Female Performer in a TV Series (Leading Role) Network, Cable or Syndication, ''The Tracey Ullman Show''
+* 1992–American Comedy Award Funniest Female Performer in a Television Special, ''Funny Women of Television'' 
+* 1994–Funniest Female Performer in a TV Special (Leading or Supporting) Network, Cable or Syndication, ''Tracey Takes on New York''
+* 1996–American Comedy Award Funniest Female Performer in a Television Special, ''Women of the Night IV'' 
+* 1998–American Comedy Award Funniest Female Leading Performer in a Television Series, ''Tracey Takes On...'' 
+* 1999–American Comedy Award Funniest Female Guest Appearance in a Television Series, ''Ally McBeal'' 
+* 1999–American Comedy Award Funniest Female Leading Performer in a Television Series, ''Tracey Takes On...'' 
+* 2000–American Comedy Award Funniest Female Leading Performer in a Television Series ''Tracey Takes On...''
+
+; [[British Academy of Film and Television Arts|BAFTA Awards]]
+* 1984–Best Light Entertainment Performance, ''Three of a Kind''
+* 2009–Lifetime Achievement Award
+
+; [[CableACE Awards]]
+* 1995–Best Performance in a Comedy Series, ''Tracey Ullman: Takes on New York'' 
+* 1996–Best Actress in a Comedy Series, ''Tracey Takes On...'' 
+* 1996–Best Variety Special or Series, ''Tracey Takes On...''
+
+; [[Primetime Emmy Awards]]
+* 1989–Outstanding Variety, Music or Comedy Program, ''The Tracey Ullman Show'' 
+* 1990–Outstanding Writing in a Variety or Music Program, ''The Tracey Ullman Show'' 
+* 1990–Outstanding Individual Performance in a Variety or Music Program, ''The Best of the Tracey Ullman Show''
+* 1993–Outstanding Guest Actress in a Comedy Series, ''Love &amp; War''
+* 1994–Outstanding Individual Performance in a Variety or Music Programme, ''Tracey Ullman: Takes On New York''
+* 1997–Outstanding Variety, Music or Comedy Series, ''Tracey Takes On...''
+* 1999–Outstanding Guest Actress in a Comedy Series, ''Ally McBeal''
+
+; [[Golden Globe Awards]]
+* 1988–Best Actress in a Television Series - Comedy or Musical
+
+; [[Critics' Circle Theatre Award]]
+* 1981–Most Promising New Actress, ''Four in a Million''
+
+; [[Museum of Television and Radio]]
+* 2006–She Made It
+
+; [[Satellite Awards]]
+* 1998–Best Performance by an Actress in a Television Series - Comedy or Musical, ''Tracey Takes On...'' 
+* 2008–Best Actress in a Series, Comedy or Musical, ''State of the Union''
+
+; [[Screen Actors Guild Awards]]
+* 1999–Outstanding Performance by a Female Actor in a Comedy Series, ''Tracey Takes On...''
+
+; [[Theatre World Award]]
+* 1991–''Taming of the Shrew''
+* 1991–''The Big Love''
+
+; [[Women in Film Los Angeles|Women in Film]]
+* 1995–[[Women in Film Crystal + Lucy Awards#THE LUCY AWARD|Lucy Award]] in recognition of her excellence and innovation in her creative works that have enhanced the perception of women through the medium of television&lt;ref&gt;[http://wif.org/past-recipients Past Recipients] {{webarchive|url=https://www.webcitation.org/614ten37o?url=http://wif.org/past-recipients |date=20 August 2011 }}. Wif.org. Retrieved on 2 September 2011.&lt;/ref&gt;
+
+==Bibliography==
+* {{cite book |last=French |first=Dawn |last2=Wax |first2=Ruby |last3=Saunders |first3=Jennifer |title=Girls on Top |year=1986 |publisher=HarperCollins Publishers |isbn=0586068929}}
+* {{cite book |last=Ullman |first=Tracey |title=[[Tracey Takes On (book)|Tracey Takes On]] |year=1998 |publisher=Hyperion |isbn=978-0-7868-6340-2 |ref=harv }}
+* {{cite book |last=Ullman |first=Tracey |last2=Clark |first2=Mel |title=Knit 2 Together: Patterns and Stories for Serious Knitting Fun |year=2006 |publisher=Stewart, Tabori and Chang |isbn=9781584795346|url=https://www.worldcat.org/title/knit-2-together-patterns-and-stories-for-serious-knitting-fun/oclc/894738032/viewport}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* [https://www.imdb.com/name/nm0001808/awards List of awards and nominations received by Tracey Ullman]
+* [http://www.emmys.com/shows/tracey-ullman-show Emmy Awards for ''The Tracey Ullman Show'']
+* [http://www.emmys.com/shows/tracey-takes Emmy Awards for ''Tracey Takes On...'']
+* {{Worldcat id|lccn-n93-41932}}
+* [http://www.officialcharts.com/artist/20221/tracey-ullman/ British music charts history for Tracey Ullman]
+* ''[[Guinness Book of British Hit Singles]]'' 7th Edition
+* [https://web.archive.org/web/20051201213947/http://www.snpp.com/other/articles/ullman.html Archive] of an ''[[Entertainment Weekly]]'' story by Frank Spotnitz on 1992 lawsuit
+
+==External links==
+{{Sister project links|d=Q130549|b=no|n=no|v=no|voy=no|wikt=no|m=no|mw=no|s=no}}
+* {{IMDb name|0001808}}
+* {{IBDB name}}
+* {{discogs artist}}
+* {{Britannica|678820}}
+* [http://www.bfi.org.uk/films-tv-people/4ce2b9f01fcd4 Tracey Ullman] at the [[British Film Institute]]
+* [http://www.stiff-records.com/stiff-artists/tracey-ullman/ Tracey Ullman] – [[Stiff Records]]
+* [https://www.facebook.com/traceyullman Tracey Ullman Facebook page]
+* [http://www.allabouttracey.com All About Tracey] – a fan site 
+* [http://tracey-archives.tumblr.com The Tracey Ullman Archives]
+
+{{Tracey Ullman}}
+{{Navboxes
+| title = [[List of awards and nominations received by Tracey Ullman|Awards for Tracey Ullman]]
+| list =
+{{British Academy Television Award for Best Entertainment Performance}}
+{{EmmyAward ComedyGuestActress}}
+{{EmmyAward VarietyPerformance 1976-2000}}
+{{EmmyAward ComedyVarietyMusicWriting 1990s}} 
+{{GoldenGlobeBestActressTVComedy 1969-1989}}
+{{Satellite Award for Best Actress – Television Series Musical or Comedy}}
+{{ScreenActorsGuildAward FemaleTVComedy 1994-2009}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ullman, Tracey}}
+[[Category:Tracey Ullman]]
+[[Category:1959 births]]
+[[Category:20th-century British comedians]]
+[[Category:20th-century American comedians]]
+[[Category:20th-century English actresses]]
+[[Category:20th-century American actresses]]
+[[Category:20th-century American singers]]
+[[Category:20th-century English singers]]
+[[Category:20th-century English writers]]
+[[Category:20th-century American writers]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century British businesspeople]]
+[[Category:21st-century British comedians]]
+[[Category:21st-century American businesspeople]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century English actresses]]
+[[Category:21st-century American actresses]]
+[[Category:21st-century English writers]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American women writers]]
+[[Category:Actresses from Berkshire]]
+[[Category:Alumni of the Italia Conti Academy of Theatre Arts]]
+[[Category:Audiobook narrators]]
+[[Category:BAFTA winners (people)]]
+[[Category:Best Musical or Comedy Actress Golden Globe (television) winners]]
+[[Category:English people of Polish descent]]
+[[Category:British people of Romani descent]]
+[[Category:British company founders]]
+[[Category:English republicans]]
+[[Category:British sketch comedians]]
+[[Category:American people of English descent]]
+[[Category:American people of Polish descent]]
+[[Category:American people of Romani descent]]
+[[Category:American comedy writers]]
+[[Category:American company founders]]
+[[Category:American women company founders]]
+[[Category:American female dancers]]
+[[Category:American dancers]]
+[[Category:American female singers]]
+[[Category:American film actresses]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American satirists]]
+[[Category:American stage actresses]]
+[[Category:American sketch comedians]]
+[[Category:American television actresses]]
+[[Category:American television directors]]
+[[Category:American television producers]]
+[[Category:Women television producers]]
+[[Category:American television writers]]
+[[Category:American voice actresses]]
+[[Category:American women comedians]]
+[[Category:English comedy writers]]
+[[Category:English female dancers]]
+[[Category:English female pop singers]]
+[[Category:English female singers]]
+[[Category:English film actresses]]
+[[Category:English impressionists (entertainers)]]
+[[Category:English satirists]]
+[[Category:English stage actresses]]
+[[Category:English television actresses]]
+[[Category:English television directors]]
+[[Category:English television producers]]
+[[Category:English television writers]]
+[[Category:English voice actresses]]
+[[Category:English women comedians]]
+[[Category:English women writers]]
+[[Category:English emigrants to the United States]]
+[[Category:Living people]]
+[[Category:Outstanding Performance by a Female Actor in a Comedy Series Screen Actors Guild Award winners]]
+[[Category:People educated at Burnham Grammar School]]
+[[Category:People educated at Licensed Victuallers' School]]
+[[Category:People from Slough]]
+[[Category:People with acquired American citizenship]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:Stiff Records artists]]
+[[Category:Women company founders]]
+[[Category:Women television directors]]
+[[Category:Women television writers]]
+[[Category:British social commentators]]</text>
+      <sha1>aztk5z8ivm9bxvsuzhb6kfq07gkrpe4</sha1>
+    </revision>
+  </page>
+</mediawiki>

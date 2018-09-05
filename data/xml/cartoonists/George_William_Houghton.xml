@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>George William Houghton</title>
+    <ns>0</ns>
+    <id>31782579</id>
+    <revision>
+      <id>785772415</id>
+      <parentid>771166755</parentid>
+      <timestamp>2017-06-15T10:14:43Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3062">{{Use dmy dates|date=March 2017}}
+{{Use British English|date=March 2017}}
+'''George William Houghton''' (9 September 1905 &amp;ndash; 1993) was a prolific British golf writer and cartoonist. He was born in [[Perth, Scotland|Perth]], Scotland.
+
+==Life and works==
+Houghton  served as a [[RAF]] officer in the [[Western Desert Campaign|Western Desert]] in [[World War II]] and later recounted his experiences in ''They Flew Through Sand'' (1943).
+
+During the 1950s and 1960s, he published over 20 humorous books on golf. His books were highly popular and were said to be on every public library shelf  in Australia.&lt;ref&gt;Martin R. Farrally, Alastair J. Cochran.'' Science and Golf III'', Human Kinetics, 1999, p. 328  {{ISBN|0-7360-0020-8}} {{ISBN|978-0736000208}}&lt;/ref&gt; In 1974, sales of his golf humor books reached 600,000 copies.&lt;ref&gt;Clare D. Kinsman, Christine Nasso. ''Contemporary Authors: A Bio-bibliographical Guide to Current Authors and their Works'', Vols 21-24, Gale Research Co., 1975, p.404&lt;/ref&gt;
+
+His "Golf Addict" series with titles such as ''Golf Addict Visits the USA'' (1955), ''Golf Addict Invades Wales'' (1969) and ''Golf Addict in Gaucho Land'' (1970) describe his golfing experiences and encounters  in the [[British Isles]], [[Sweden]], [[Japan]], [[China]], [[Russia]], [[South America]] and the [[United States]]. He illustrated his books with his own cartoons.
+
+Comedian [[Bob Hope]] contributed an introduction to his cartoon collection ''Addict in Bunkerland'', as did Scottish golfer [[Ronnie Shade]] to his collection ''Golf Addicts Galore''.
+
+One reviewer said of him: "George Houghton's "Addict" is the "little man" of golf who likes to think himself, and is, the backbone of the game. Golf cuts us all down to size, and we realise that, on the links at any rate, we are all little men . . . "&lt;ref&gt;Henry Longhurst. ''The Bookseller'', Issues 3139-3153, Booksellers Association of Great Britain and Ireland,1982, p.1458&lt;/ref&gt;
+
+Houghton collaborated with Scotland's famous lady golfer Jessie Valentine to write a book with tips for amateurs ''Better Golf - Definitely!'' (1967).
+
+He wrote one junior novel, ''Between the Red Lines'' (1949). Based on fact, it is  the lively and often humorous story of a father and son who take a three-week walking holiday off the beaten track in England.&lt;ref&gt;''British Book News'': Issues 113-124, British Council, 1950&lt;/ref&gt;
+
+Based on his own medical experience, he also wrote ''The Penny Spenders'' (1966), a book on [[prostate]] diseases.
+
+==Selected anthologies==
+* ''Golf With a Whippy Shaft: The Best of George Houghton''. A.S. Barnes, 1971 {{ISBN|0-498-06936-2}} {{ISBN|9780498069369}}
+* ''The Best of George Houghton''. London, Sean Arnold, 1991 {{ISBN|0-9516078-2-0}}
+
+== References ==
+&lt;references /&gt;
+
+{{DEFAULTSORT:Houghton, George William}}
+[[Category:1905 births]]
+[[Category:1993 deaths]]
+[[Category:Royal Air Force officers]]
+[[Category:Royal Air Force personnel of World War II]]
+[[Category:English cartoonists]]
+[[Category:English humorists]]
+[[Category:Golf writers and broadcasters]]</text>
+      <sha1>a7wbdjq2kiw4tufxnjawym9md972xqu</sha1>
+    </revision>
+  </page>
+</mediawiki>

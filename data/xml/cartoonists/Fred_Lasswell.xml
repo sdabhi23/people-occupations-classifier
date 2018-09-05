@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fred Lasswell</title>
+    <ns>0</ns>
+    <id>3360936</id>
+    <revision>
+      <id>847477383</id>
+      <parentid>847477255</parentid>
+      <timestamp>2018-06-25T16:53:55Z</timestamp>
+      <contributor>
+        <ip>63.146.190.230</ip>
+      </contributor>
+      <comment>Undid revision 794389739 by [[Special:Contributions/Quagoldbook|Quagoldbook]] ([[User talk:Quagoldbook|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7519">{{Infobox comics creator
+| name = Fred Lasswell
+| image = Fredlasswellself.jpg
+| caption = In this imaginative self-caricature, Fred Lasswell showed how he has merged with his comic strip character, [[Barney Google and Snuffy Smith|Snuffy Smith]], who has taken over both his body and brain.
+| birth_name = 
+| birth_date = {{birth date|1916|7|25}}
+| birth_place =  [[Kennett, Missouri]]
+| death_date = {{death date and age|2001|03|04|1916|07|25}}
+| death_place = [[Tampa, Florida]]
+| nationality = [[United States|American]]
+| area =
+| cartoonist = y
+| write = 
+| art = 
+| pencil =
+| ink =
+| letter =
+| color =
+| edit =
+| alias = 
+| notable works = ''[[Barney Google and Snuffy Smith]]''
+| awards = [[National Cartoonists Society]] Humor Comic Strip Award, 1963&lt;br /&gt;[[Reuben Award]], 1963&lt;br /&gt;[[Elzie Segar|Elzie Segar Award]], 1984 &amp; 1994
+| website =  
+| subcat = American
+}}
+'''Fred Lasswell''' (July 25, 1916 – March 4, 2001) was an [[Americans|American]] cartoonist best known for his decades of work on the [[comic strip]] ''[[Barney Google and Snuffy Smith]]''.
+
+== Biography ==
+
+Born in [[Kennett, Missouri]], he got his start as a sports cartoonist for the ''[[The Tampa Tribune|Tampa Daily Times]]''. While playing golf in the area, ''[[Barney Google and Snuffy Smith|Barney Google]]'' creator [[Billy DeBeck]] noticed Lasswell's work and hired the 17-year-old as an assistant. Lasswell worked closely with DeBeck for the next 18 years. DeBeck and Lasswell changed the focus of the urban-oriented strip when they introduced Google's hillbilly cousin Snuffy Smith in 1934.
+
+After DeBeck's death from cancer in 1942, Lasswell took over ''Barney Google and Snuffy Smith''. Under Lasswell's tenure, Barney was gradually phased out (although he did reappear occasionally), and the strip's emphasis shifted to Snuffy Smith and his rural setting. Lasswell also introduced his own characters, including Elviney Barlow, Parson Tuttle and Ol' Doc Pritchart.
+
+===World War II===
+During [[World War II]], Lasswell served as a flight radio operator in [[Africa]] and was a staffer for ''[[Leatherneck Magazine]]'', for which he created the comic strip ''Sgt. Hashmark''.
+
+Lasswell was a prolific inventor and early adopter of new technology. He was one of the first cartoonists to [[email]] his strips to his syndicate, [[King Features Syndicate]], and to invent his own computer-generated lettering. In the early 1980s, he used a [[Macintosh II]] and a laserprinter to create a font that simulated his lettering style. A member of the [[American Society of Agricultural Engineers]], he patented a citrus fruit harvester. In addition to devising a [[HyperCard|hypercard]] stack for computers and a bilingual [[laserdisc]], he developed a method of [[Braille]] for reading comics when he created a comic book, ''This Is Charlie'', in Braille. He also produced the video series ''Draw and Color with Uncle Fred''.
+
+=== Looking back at age 79 ===
+[[File:Flasswellxmas.jpg|right|thumb|310px|Fred Lasswell employed a different art style when he drew this Christmas card featuring characters from his comic strip.]]
+In 1996, Lasswell reflected on the increase of social commentary into comic strips:
+:Now you have all these little messages all over the page. I feel like saying, "If they'll keep this stuff off the comics page, I promise to stay off the editorial page." I just try to do what tickles me. You can't go to school and take a course in sense of humor, and if you don't love this stuff, it gets to be just like chopping wood. It can be a real chore. I've always believed that creative talent gravitates to the marketplace. Someone told me once to always remember that there's never room at the bottom. But there's always room at the top.&lt;ref&gt;[http://chronicle.augusta.com/headlines/090396/comics.html Carter, John. "Serious Comics," ''Augusta Chronicle'', September 2, 1996.]&lt;/ref&gt;
+
+     
+Fred Lasswell was one of the first cartoonists to create a digital type font and a digital image archive of his work. He did this to insure that his art could provide source material for future art students and to insure the continuation of his comic strips. His archive contains thousands of images of his characters, all of their expressions, costumes, poses and actions, interior and exterior background and seasonal scenes, cartoon drawings of county fairs, farms, farm animals, back-woods scenes and the critters who live there, cartoon depictions of leisure activities, pass times, sports; thousands of categorized and cartoon drawings of useful objects, tools, gadgets and props; and pictures of cartoony animals, birds, creepy critters and sea life.
+  
+"On the day he died he was twelve weeks ahead on his strips; he finished his last video for kids and schools; he called his patent lawyer with his new invention for animating comics on the internet; he spent the evening remembering wonderful times; he went to bed in a high spirited mood and passed away in his sleep. A gentle death for a wonderful, genuine man who spent his life making millions of people laugh every day. He was the cartoonists' cartoonist and his colleagues honored him many times with every industry award, some of which they awarded him twice. He left us with a Charitable Foundation for "Learning and Laughter," which, since 2001 has worked on programs for nutrition, recreation, arts education and advocacy for kids and is working on developing some of his brilliant ideas for teacher learning aids." {{https://www.lambiek.net/artists/l/lasswell_fred.htm}} 
+
+Cartoonist R.C. Harvey remembers:  "He was "Uncle Fred" to his colleagues in the National Cartoonist Society. He was an actively contributing member to the convivialities of the group for almost its entire existence, and no Reuben Weekend was complete without some shenanigan from Uncle Fred. Even the last year when he didn’t attend, an unprecedented occurrence, he supplied punchlines for others standing at the microphone: all you had to do was refer to Uncle Fred—to one or another of his well-known proclivities—and you could get a laugh. Even though absent in person, he was present. His picture was on the cover of the program booklet. And one of the souvenirs of the event was a flip book featuring Uncle Fred in action.
+
+Lasswell was survived by his wife, [[Shirley Slesinger Lasswell|Shirley]], three sons, a daughter and two grandchildren. Lasswell wrote and drew all of his material.
+He was blessed with many remarkably gifted art assistants over the years, including Bob Donovan, Bobbie Swain, Beau Break, John R. Rose who was chosen to take over the production of Snuffy, for King Features Syndicate, and other young Tampa Artists as well as the students he mentored. Cartoonist Bob Donovan worked with Lasswell for the longest stretch.
+
+==Awards==
+Lasswell received the [[National Cartoonists Society]] Humor Comic Strip Award in 1963 and its [[Reuben Award]], which had originally been named after DeBeck, that same year. He also received their Elzie Segar Award in 1984 and 1994.
+
+==See also==
+*[[Shirley Slesinger Lasswell]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.unclefred.com/ Uncle Fred]
+*[http://lambiek.net/artists/l/lasswell_fred.htm Lambiek Comiclopedia]
+*[https://web.archive.org/web/20060106021759/http://www.reuben.org/ncs/awards.asp NCS Awards]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lasswell, Fred}}
+[[Category:1916 births]]
+[[Category:2001 deaths]]
+[[Category:People from Tampa, Florida]]
+[[Category:Reuben Award winners]]</text>
+      <sha1>78b086uv4e99jhk8vu2xb432pb3czit</sha1>
+    </revision>
+  </page>
+</mediawiki>

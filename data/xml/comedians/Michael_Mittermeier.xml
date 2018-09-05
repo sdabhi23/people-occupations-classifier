@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Michael Mittermeier</title>
+    <ns>0</ns>
+    <id>25160301</id>
+    <revision>
+      <id>841221107</id>
+      <parentid>821914989</parentid>
+      <timestamp>2018-05-14T17:19:48Z</timestamp>
+      <contributor>
+        <username>DeprecatedFixerBot</username>
+        <id>33330201</id>
+      </contributor>
+      <minor/>
+      <comment>Removed deprecated parameter(s) from [[Template:Columns-list]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? See [[Template:Div col#Usage of "cols" parameter]] or [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #2!))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3292">{{BLP primary sources|date=November 2009}}
+[[Image:Michael Mittermeier in Freiburg 9753.jpg|thumb|Michael Mittermeier (2007)]]
+[[File:Michael Mittermeier (ZMF 2017) jm39496.jpg|thumb|Michael Mittermeier  	[[Zelt-Musik-Festival]] 2017 in [[Freiburg]], [[Germany]]]]
+'''Michael Mittermeier''' (born 3 April 1966 in [[Dorfen]], [[West Germany]]) is a [[Germany|German]] [[comedian]].
+
+== Life ==
+Mittermeier was born in [[Dorfen]], [[Upper Bavaria]]. During his childhood he lived in [[Bavaria]]. After school he studied theatre. In 1996, he  started the comedy program ''Zapped''.&lt;ref&gt;[http://anstalt.zdf.de/ZDFde/inhalt/16/0,1872,7402032,00.html ZDF:Biography Michael Mittermeier]&lt;/ref&gt; ''Zapped'' (1996) was shown on his tours in Germany, Austria and Switzerland. He participated in comedy television shows as well as the German TV show ''Wetten, dass..?''. The most well-known parts of Zapped are parodies of German advertisements as well as the US television series [[MacGyver (1985 TV series)|MacGyver]], which later became a running gag. Mittermeier popularized the term “Arschgeweih” (literally: ass antler) (tramp stamp). His next comedy programs were ''Wahnsinnlich'' (1990), ''Zapped!'' (1999), ''Back to Life'' (2002), ''Paranoid'' (2004), ''Safari'' (2007) and ''Achtung, Baby!'' (2010).
+
+In 2001, he was featured in the music video for the [[Guano Apes]] (credited here as the Guano Babes) song, "Kumba Yo".
+
+Mittermeier was also involved in the 2010 documentary ''This Prison Where I Live'', featuring the Burmese comedian [[Zarganar]] who was imprisoned by [[State Peace and Development Council|his country's military junta]] for lampooning and criticizing them.
+
+In 2012, Mittermeier performed his English-language show ''A German on Safari'' in New York, London and at the Edinburgh Fringe.&lt;ref&gt;[http://www.mittermeier.de/safari/ Mittermeier:Safari]&lt;/ref&gt; Mittermeier married singer [[Gudrun Allwang]] in 1998.
+
+Having been born (and brought up) in Bavaria, Mittermeier has also been a lifelong fan of the soccer team [[FC Bayern Munich|Bayern Munich]].
+
+== Literature ==
+In 1998 he published ''Im Rausch der Kanäle'' (together with [[Thomas Hermanns]] and Gudrun Allwang.)
+
+In 2010 he published ''Achtung, Baby!''
+
+== Awards ==
+{{columns-list|colwidth=30em|
+* [[Grazer Kleinkunstvogel]]
+** 1988
+* [[Prix Pantheon]]
+** 1996: Publikumspreis Beklatscht &amp; Ausgebuht
+* [[Goldene Europa]]
+** 1998: Category Comedy
+* [[Deutscher Comedypreis]]
+** 1999: Best Comedian (Publikumspreis)
+** 2000: Best Comedian (Publikumspreis)
+** 2002: Best Live-Comedy for „Back to life“
+** 2004: Best Live-Comedy
+** 2008: Best Comedian
+* [[Eins Live Krone]] ([[Westdeutscher Rundfunk|WDR]])
+** 2000: Best Comedian
+** 2001: Best Comedian
+* [[Echo (music award)|Echo]]
+** 2001: Category Comedy
+* [[Schneestern von Arosa]]
+** 2000
+* ''Zeck-Kabarettpreis''
+** 2005: Award
+}}
+
+== Notes ==
+&lt;references/&gt;
+
+== External links ==
+* {{Official website|http://www.mittermeier.de/ Michael Mittermeier}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mittermeier, Michael}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:People from Erding (district)]]
+[[Category:German television personalities]]
+[[Category:German male voice actors]]
+[[Category:German comedy writers]]
+[[Category:German comedians]]</text>
+      <sha1>qm7q8txcoc52uxs78568p762rfna635</sha1>
+    </revision>
+  </page>
+</mediawiki>

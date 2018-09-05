@@ -1,0 +1,259 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adam Hills</title>
+    <ns>0</ns>
+    <id>2236881</id>
+    <revision>
+      <id>854410553</id>
+      <parentid>854379144</parentid>
+      <timestamp>2018-08-11T04:27:45Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <comment>Rescuing orphaned refs ("auto" from [[Wendy Harmer]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21050">{{about|the Australian comedian|the British politician|Adam Hills (politician)|the New Zealand rugby footballer|Adam Hill}}
+{{EngvarB|date=April 2015}}{{Use dmy dates|date=April 2015}}
+{{Infobox comedian
+| name              = Adam Hills
+| image             = File:Xx0809 - Adam Hills in Paralympic Village - 3b (cropped).jpg
+| imagesize         =
+| caption           =Hills during the [[2008 Summer Paralympics|2008 Beijing Paralympics]]
+| pseudonym         =
+| birth_name        =
+| birth_date        = {{Birth date and age|df=yes|1970|07|10}}
+| birth_place       = [[Sydney]], [[New South Wales]]
+| death_date        =
+| death_place       =
+| medium            = Television, radio
+| nationality       = Australian
+| active            = 1989–present
+| genre             = Social satire, observational comedy
+| subject           = Everyday life, current events, disability
+&lt;!-- | influences        = [[Chris Addison]], [[Greg Fleet]], [[Rich Hall]], [[Daniel Kitson]], [[Ross Noble]], [[David O'Doherty]]&lt;ref name="auto"&gt;{{cite web |author=Slattery, Annette | url=http://www.thegroggysquirrel.com/articles/2006/04/02/2006-comedy-festival-preview-part-2/adam-hills-characterful/ | title=An Interview with Adam Hills |work=The Groggy Squirrel |date=2 April 2006|accessdate=19 August 2008| archiveurl= https://web.archive.org/web/20080720142746/http://www.thegroggysquirrel.com/articles/2006/04/02/2006-comedy-festival-preview-part-2/adam-hills-characterful/| archivedate= 20 July 2008 | deadurl= no}}&lt;/ref&gt;
+| influenced        = [[Sammy J]]&lt;ref&gt;{{cite web |author=Baily, John | url=http://www.smh.com.au/news/executive-style-home/culture/the-50-year-plan/2008/09/23/1221935613841.html | title=The 50-year plan |work=[[The Sydney Morning Herald]] |date=23 September 2008|accessdate=4 October 2008| archiveurl= https://web.archive.org/web/20080926062427/http://www.smh.com.au/news/executive-style-home/culture/the-50-year-plan/2008/09/23/1221935613841.html| archivedate= 26 September 2008 | deadurl= no}}&lt;/ref&gt; --&gt;
+| spouse            = {{marriage|[[Ali McGregor]]|2009}}
+| children = 2
+| domesticpartner   =
+| notable_work      = {{Plainlist|
+*{{Nowrap|''[[Spicks and Specks (TV series)|Spicks and Specks]]'' (2005–11)}}
+*''[[Adam Hills Tonight]]'' (2011–13)
+*''[[The Last Leg]]'' (2012–)}}
+| signature         =
+| website           ={{url|adamhills.com}}
+| footnotes         =
+}}
+
+'''Adam Hills''' (born 10 July 1970) is an Australian comedian and radio and television presenter. In Australia, he hosted the music quiz show ''[[Spicks and Specks (TV series)|Spicks and Specks]]'' from 2005 until 2011 and the talk show ''[[Adam Hills Tonight]]'', and in Britain hosted ''[[The Last Leg]]''. He has been nominated for an [[Edinburgh Comedy Award]] and [[Gold Logie]] Award.
+
+Born in Sydney, He began performing as a stand-up comedian in 1989 at the age of 19, and since 1997 has produced ten solo shows which have toured internationally. He has performed at the [[Edinburgh Festival Fringe]], the [[Melbourne International Comedy Festival]] and the Montreal [[Just for Laughs]] festival, earning three consecutive Edinburgh Award nominations for his Edinburgh shows in 2001, 2002 and 2003.
+
+In 2002, he scored a minor hit in Australia with his single "[[working class|Working Class]] Anthem", in which he sang the lyrics of the [[Advance Australia Fair|Australian National Anthem]] to the tune of "[[Working Class Man]]", a song by Australian rocker [[Jimmy Barnes]].
+
+==Career==
+
+===Stand-up career===
+
+Hills first appearance in comedy scene was in 1989 at the Sydney Comedy Store. He did breakfast radio on SAFM in Adelaide besides stand-up gigs, and by the mid-1990s he decided to focus on live comedy. In 1997 he premiered "Stand Up and Deliver", the first of 10 solo shows, all of which have toured internationally. He has travelled widely, performing at the [[Edinburgh Festival Fringe]], the Melbourne International Comedy Festival and the Montreal Just For Laughs festival.&lt;ref&gt;{{cite web |author=Elliott, Tim | url=http://www.smh.com.au/news/tv--radio/adam-hills-loves-bringing-people-together/2008/06/27/1214472741818.html | title=Mr Nice Guy |work=[[The Sydney Morning Herald]]|date=28 June 2008|accessdate=19 August 2008}}&lt;/ref&gt; He has been nominated for three consecutive Edinburgh Comedy Awards for his 2001, 2002 and 2003 solo shows at the Edinburgh Fringe.&lt;ref&gt;{{cite web |author=Staff writer|url=http://www.chortle.co.uk/comics/a/452/adam_hills|title=Adam Hills|work=Chortle|accessdate=19 August 2008| archiveurl= https://web.archive.org/web/20080829150440/http://chortle.co.uk/comics/a/452/adam_hills| archivedate= 29 August 2008 | deadurl= no}}&lt;/ref&gt;
+
+The title of his 2001 show, "Go You Big Red Fire Engine", was coined during a 1999 performance in Melbourne. Hills asked an audience member to yell his name to the audience and for the audience to yell it back, but instead the man yelled "Go you big red fire engine!"&lt;ref name="hill be back"&gt;{{cite web |author=Burgess, Marissa | url=http://www.manchestereveningnews.co.uk/entertainment/comedy/s/133/133570_hill_be_back.html | title=Hill Be Back |work=[[Manchester Evening News]]|date=14 October 2004|accessdate=19 August 2008}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt; The phrase quickly became an audience chant, and Hills promised he would make it the name of his next show because, he says, "it was such an uplifting and genuinely silly moment."&lt;ref&gt;{{cite web |author=Whittaker, Andrea |url=http://www.reachout.com.au/default.asp?ti=1631 |title=Adam Hills |work=Reach Out! |accessdate=19 August 2008 |archiveurl=https://web.archive.org/web/20080726130000/http://www.reachout.com.au/default.asp?ti=1631 |archivedate=26 July 2008 |deadurl=yes |df=dmy }}&lt;/ref&gt; "Go You Big Red Fire Engine" later became the name of a second stand-up show and a comedy album; it also appeared in a Detroit newspaper, on a Swedish website and was yelled by Senator [[Natasha Stott Despoja]] in the [[Parliament of Australia|Australian Parliament]].&lt;ref name="hill be back" /&gt;
+
+His artificial right foot is commonly used as a source of humour in his shows and the comedian has been known to remove it and pass it around. However, Hills had been performing live comedy for over a decade before he made reference to his prosthesis on stage, and it was only after "Go You Big Red Fire Engine" was nominated for a Perrier Award in 2001 that he began incorporating it into his act. Hills says he felt he could too easily have become a novelty act and that he "didn't want to be known as the one-legged comedian ... I wanted to prove myself as a comic before talking about this."&lt;ref&gt;{{cite web |author=Scott-Norman, Fiona | url=http://www.theage.com.au/articles/2002/04/05/1017206254254.html | title=Unspeakably Funny |work=[[The Age]]|date=5 April 2006|accessdate=19 August 2008}}&lt;/ref&gt;
+
+Hills regularly performs alongside [[Leanne Beer]], an [[AUSLAN]] sign interpreter at his festival shows, a move sparked by a performance he did in [[Adelaide]] at a disability art conference.&lt;ref&gt;{{cite web |author=Hills, Adam |url=http://www.bbc.co.uk/ouch/columnists/adam/060803_index.shtml |title=Sign Here If You're Normal |work=Ouch! |date=6 August 2003 |accessdate=19 August 2008 |deadurl=yes |archivedate=7 December 2003 |archiveurl=https://web.archive.org/web/20031207085910/http://www.bbc.co.uk/ouch/columnists/adam/060803_index.shtml}}&lt;/ref&gt; An interpreter had been provided at the show, and Hills found that it not only allowed the deaf audience members to enjoy his material but was also an entertaining and fascinating experience for the hearing audience members. "Now I have hearing people who will only book [for sign interpreted shows]", he says.&lt;ref name="Di Fonzo, Benito" /&gt;
+
+His influences are [[Chris Addison]], [[Greg Fleet]], [[Rich Hall]], [[Daniel Kitson]], [[Ross Noble]] and [[David O'Doherty]]&lt;ref name="auto"&gt;[http://www.adelaidenow.com.au/ipad/wendy-harmer-on-men-and-talk-radio/story-fn3o6wog-1226630023934 Wendy Harmer on men and talk radio]; ''Adelaide Now''; April 27, 2013&lt;/ref&gt;
+
+===Television career===
+Hills hosted the music trivia show ''Spicks and Specks'' from its premiere in 2005. In late 2007, he joined the show on a national live tour dubbed the "Spicks and Speck-tacular", with appearances in Melbourne, Sydney, Brisbane, Adelaide, Newcastle and Perth.&lt;ref&gt;{{cite web |author=Braithwaite, Alyssa |url=http://www.news.com.au/story/0,23599,22289550-1702,00.html |archive-url=https://archive.is/20070728091913/http://www.news.com.au/story/0,23599,22289550-1702,00.html |dead-url=yes |archive-date=28 July 2007 |title=Spicks and Specks to hit the road |work=NEWS.com.au |date=22 August 2007 |accessdate=19 August 2008 }}&lt;/ref&gt; In late 2011 and early 2012, the show hit the road again for ''Spicks and Speck-tacular – The Finale'', appearing in Sydney, Newcastle, Brisbane, Gold Coast, Wollongong, Canberra, Adelaide, Perth and Melbourne. He has also made appearances on Australian shows ''[[Rove (TV series)|Rove Live]]'', ''[[The Glass House (2001 TV series)|The Glass House]]'' and ''[[The Fat]]'', as well as the British ''[[Never Mind the Buzzcocks]]'', ''[[Mock the Week]]'' ''[[QI]]'' and ''[[Ask Rhod Gilbert]]''.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b00vjry8 |title=BBC One – Ask Rhod Gilbert, Series 1, Episode 5 |publisher=BBC |date=27 October 2010 |accessdate=23 April 2013}}&lt;/ref&gt;&lt;ref&gt;{{IMDb name|0998928|Adam Hills}}&lt;/ref&gt; Additionally he appeared on the first TV edition of BBC Northern Ireland's ''Great Unanswered Questions''.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b00q2pnt|title=BBC One – Great Unanswered Questions, Series 1, Episode 1|work=BBC}}&lt;/ref&gt; He conducted backstage interviews at Australia's 2005 and 2006 [[Logie Award]]s and was one of three presenters at the 2007 awards.&lt;ref&gt;{{cite web |author=Enker, Debbie | url=http://www.smh.com.au/news/tv--radio/hills-hoist/2006/04/22/1145344318173.html | title=Hills Hoist |work=[[The Sydney Morning Herald]]|date=24 May 2006|accessdate=19 August 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web |author=Sydney Confidential | url=http://www.news.com.au/dailytelegraph/story/0,22049,21600462-5006002,00.html | title=Fifi reluctant star on box |work=[[The Daily Telegraph (Sydney)|The Daily Telegraph]]|date=23 May 2007|accessdate=19 August 2008}}&lt;/ref&gt;
+
+In September 2008, Hills co-hosted the ABC coverage of the [[2008 Summer Paralympics]].&lt;ref&gt;{{cite web |author=Metlikovec, Jane | url=http://www.news.com.au/heraldsun/story/0,21985,23888693-661,00.html | title=Comedian Adam Hills to host Paralympics |work=Herald Sun |date=19 June 2008|accessdate=19 August 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.abc.net.au/paralympics/2008/abcteam/ | title=Beijing 2008 Paralympic Games: The ABC TV Sports's Team in Beijing |work=ABC TV online |accessdate=7 September 2008| archiveurl= https://web.archive.org/web/20080913113119/http://www.abc.net.au/paralympics/2008/abcteam/| archivedate= 13 September 2008 | deadurl= no}}&lt;/ref&gt;
+
+In July 2009, Hills appeared in ''[[Thank God You're Here]]''; he also appeared on ''[[Good News Week]]''.
+
+Hills presented his own weekly talk show, ''[[Adam Hills in Gordon Street Tonight]]'', on the ABC from early 2011.&lt;ref&gt;{{Cite news
+ |title=Adam Hills to host ABC talk show 
+ |work=The Spy Report 
+ |publisher=Media Spy 
+ |date=2 December 2010 
+ |url=http://www.mediaspy.org/report/2010/12/02/adam-hills-to-host-abc-talk-show/
+ |archive-url=https://archive.is/20120805000858/http://www.mediaspy.org/report/2010/12/02/adam-hills-to-host-abc-talk-show/
+ |dead-url=yes
+ |archive-date=5 August 2012
+ |accessdate=2 December 2010 
+}}&lt;/ref&gt; In 2012 it was renamed ''[[Adam Hills Tonight]]'' and ended with its third season finale on 31 July 2013.&lt;ref name=named&gt;{{cite news|last=AAP|first=Staff writer|title=Adam Hills calls it quits from ABC series Adam Hills Tonight|url=http://www.smh.com.au/entertainment/tv-and-radio/adam-hills-calls-it-quits-from-abc-series-adam-hills-tonight-20131128-2yb2n.html|accessdate=28 November 2013|newspaper=[[The Age]]|date=28 November 2013}}&lt;/ref&gt;
+
+In 2012, he was part of the UK [[Channel 4]] TV commentary team for the London [[2012 Summer Paralympics]],&lt;ref&gt;[http://www.channel4.com/info/press/news/channel-4-assembles-groundbreaking-paralympic-presenting-team "Channel 4 assembles groundbreaking Paralympic presenting team"], [[Channel 4]], 28 February 2012&lt;/ref&gt; and hosted a daily alternative review of each day's events, ''[[The Last Leg]]'', with [[Alex Brooker]] and comedian [[Josh Widdicombe]].&lt;ref&gt;{{Cite news
+| title = The Last Leg With Adam Hills
+|work=Metro|location=UK
+| date = 30 August 2012
+| url = http://www.metro.co.uk/tv/910042-the-last-leg-with-adam-hills-and-the-kindness-of-strangers-tv-picks
+| accessdate = 1 September 2012}}&lt;/ref&gt; ''The Last Leg'' was renewed for seven episodes in 2013, then extended to nine episodes,&lt;ref&gt;[http://www.smh.com.au/entertainment/tv-and-radio/risking-laugh-and-limb-pays-off-20130220-2eq3f.html "Risking laugh and limb pays off"] by Paul Kalina, ''[[The Sydney Morning Herald]]'', 21 February 2013&lt;/ref&gt; beginning on 25 January 2013. The 150th edition is due to air on 23 February 2018. Hills hosted the panel game ''Monumental'' for [[BBC Northern Ireland]] in 2013.
+
+In August 2013, it was announced that Hills would present a special one-off revival episode of Channel 4's quiz show, ''[[Fifteen to One]]''.&lt;ref&gt;{{cite news|url=https://www.mirror.co.uk/tv/tv-news/fifteen-one-channel-4-comeback-2163383 |title=Fifteen To One in Channel 4 comeback for special show during 1980s weekend |work=[[Daily Mirror]] |date=14 August 2013 |accessdate=20 August 2013}}&lt;/ref&gt; This was aired on 20 September 2013, as part of the channel's 1980s-themed ''Back to the Future'' weekend of programmes.&lt;ref&gt;{{cite web|url=http://www.channel4.com/info/press/news/back-to-the-future |title=Back to the Future |publisher=''Channel 4'' Press |date=14 August 2013 |accessdate=20 August 2013}}&lt;/ref&gt; He was credited under the name "Adam C. Hills" in a tribute to the original presenter, [[William G. Stewart]]. In 2014, Hills will return to present four more celebrity specials; a full daytime series will be hosted by [[Sandi Toksvig]].&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/tv/news/a536910/fifteen-to-one-to-return-for-full-series-and-celebrity-specials.html |title=Fifteen to One to return for full series and celebrity specials |work=[[Digital Spy]] |accessdate=9 December 2013}}&lt;/ref&gt;
+
+In August 2013, Hills set viewers of ''The Last Leg'' a challenge to see if they could get away with editing his Wikipedia page and filling it with misinformation. This led to some short-lived vandalisation of his page as well as vandalism on the pages of his co-hosts Alex Brooker and Josh Widdicombe, and also several guests who appeared in later shows of that run – most notably that of [[Boris Johnson]], the Mayor of London.{{citation needed|date=December 2013}}
+
+In 2016, Hills voiced Buddy Pendergast in ''[[Thunderbirds Are Go (TV series)|Thunderbirds Are Go]]''.&lt;ref&gt;{{cite web|url=https://www.thunderbirds.com/en/news/article/19|title=News - Thunderbirds Are Go|publisher=}}&lt;/ref&gt;
+
+===Other work===
+In 2002, Hills released a single titled ''Working Class Anthem'', in which he sang the lyrics of the Australian National Anthem, "[[Advance Australia Fair]]", to the tune of "[[Working Class Man]]", a famous song by iconic Australian rocker [[Jimmy Barnes]]. Around 40 comedians contributed to the song, which made the independent top 10 in Australia. All proceeds went to the [[Australasian Fire and Emergency Service Authorities Council]], an organisation supported by Barnes and [[Jon Bon Jovi]] that supports [[firefighter]]s. Hills has performed the song several times on television, including a performance honouring Barnes' guest appearance on ''Spicks and Specks''.&lt;ref&gt;{{cite web |author=Staff writer | url=http://www.chortle.co.uk/news/2003/01/22/2530/disco_inferno | title=Disco Inferno |work=Chortle |date=22 January 2003| accessdate=19 August 2008}}&lt;/ref&gt;
+
+Between 2003 and 2005, Hills wrote as a columnist for the [[BBC]]'s disability website ''Ouch!''.&lt;ref&gt;{{cite web | url=http://www.bbc.co.uk/ouch/writers/adamhills/ | title=Adam Hills |work=Ouch! |date=21 November 2005|accessdate=19 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20051222230912/http://www.bbc.co.uk/ouch/writers/adamhills/ |archivedate=22 December 2005}}&lt;/ref&gt;
+
+== Solo shows ==
+* Stand Up and Deliver (1997)
+* Life Is Good (1998)
+* My Own Little World (1999)
+* Goody Two Shoes (2000)
+* Go You Big Red Fire Engine (2001) – Perrier nominee
+* Happy Feet (2002) – Perrier nominee
+* Cut Loose (2003) – Perrier nominee
+* Go You Big Red Fire Engine 2: Judgement Day (2004)
+* Characterful (2006)
+* Joymonger (2007)
+* Inflatable (2009)
+* Mess Around (2010)
+* Mess Around (2011)
+* Adam Hills Stands Up Live (2012)
+* Happyism (2013)
+* Clown Heart (2015)&lt;ref&gt;{{cite web|url=http://www.comedyfestival.com.au/2015/season/shows/clown-heart-adam-hills |archive-url=https://web.archive.org/web/20150324060213/http://www.comedyfestival.com.au/2015/season/shows/clown-heart-adam-hills |dead-url=yes |archive-date=2015-03-24 |title=Clown Heart, Adam Hills – Melbourne International Comedy Festival 2015 |work=comedyfestival.com.au }}&lt;/ref&gt;
+
+== Awards and nominations ==
+{| class="wikitable"
+|-
+! Year
+! Award
+! Category
+! Result
+! Work
+|-
+| rowspan="2"|[[Logie Awards of 2006|2006]]
+| rowspan="13" align="centr"|[[Logie Award]]s
+| Most Popular New Male Talent
+| {{nom}}
+| rowspan="10" align="centr"|''[[Spicks and Specks (TV series)|Spicks and Specks]]''
+|-
+| [[Logie Award for Most Outstanding New Talent|Most Outstanding New Talent]]
+| {{nom}}
+|-
+| rowspan="2"|[[Logie Awards of 2008|2008]]
+| [[Gold Logie|Most Popular Personality on TV]]
+| {{nom}}
+|-
+| Most Popular Presenter
+| {{nom}}
+|-
+| rowspan="2"|[[Logie Awards of 2009|2009]]
+| Most Popular Personality on TV
+| {{nom}}
+|-
+| Most Popular Presenter
+| {{nom}}
+|-
+| rowspan="2"|[[Logie Awards of 2010|2010]]
+| Most Popular Personality on TV
+| {{nom}}
+|-
+| Most Popular Presenter
+| {{nom}}
+|-
+| rowspan="2"|[[Logie Awards of 2011|2011]]
+| Most Popular Personality on TV
+| {{nom}}
+|-
+| Most Popular Presenter
+| {{nom}}
+|-
+| rowspan="2"|[[Logie Awards of 2012|2012]]
+| Most Popular Personality on TV
+| {{nom}}
+| rowspan="2" align="centr" |''[[Adam Hills in Gordon Street Tonight]]''/''[[Spicks and Specks (TV series)|Spicks and Specks]]''
+|-
+| Most Popular Presenter
+| {{won}}
+|-
+| [[Logie Awards of 2013|2013]]
+| Most Popular Personality on TV
+| {{nom}}
+| ''[[Adam Hills in Gordon Street Tonight]]''
+|}
+
+== Personal life ==
+Hills was born in the southern Sydney suburb of [[Loftus, New South Wales|Loftus]].&lt;ref&gt;{{Cite news |url=http://www.smh.com.au/entertainment/tv-and-radio/up-and-adam-20110129-1a8wn.html |title=Up and Adam |last=Dunn |first=Amanda |date=30 January 2011 |work=The Sydney Morning Herald |access-date=29 March 2017}}&lt;/ref&gt; He developed an interest in comedy after discovering an inflight comedy channel on a plane at the age of eight. Hills was born without a right foot and wears a [[prosthesis]], which has become a frequent source of comedy in his act.&lt;ref name="Di Fonzo, Benito"&gt;{{cite web |author=Di Fonzo, Benito | url=http://www.smh.com.au/news/arts-reviews/adam-hills-joymonger/2007/05/17/1178995307115.html | title=Adam Hills: Joymonger |work=[[The Sydney Morning Herald]]|date=17 May 2007|accessdate=19 August 2008}}&lt;/ref&gt; He studied for a Bachelor of Arts (Communications) at [[Macquarie University]], graduating in 1991.
+
+In December 2009, Hills married opera [[soprano]] [[Ali McGregor]].&lt;ref&gt;[http://www.news.com.au/entertainment/celebrity/wedding-caps-a-top-month-for-adam-hills/story-e6frfmqr-1225824108869 "Wedding caps a top month for Adam Hills"], ''[[The Daily Telegraph (Sydney)|The Daily Telegraph]]'' (28 January 2010)&lt;/ref&gt; They have two daughters.&lt;ref&gt;{{cite web |url=http://www.news.com.au/entertainment/tv/comedian-adam-hills-wont-be-hosting-adam-hills-tonight-in-2014/story-e6frfmyi-1226769786417 |title=Comedian Adam Hills won't be hosting Adam Hills Tonight in 2014|author=&lt;!--Staff writer(s); no by-line.--&gt; |date=27 November 2013 |website=News.com.au |publisher=News Ltd |accessdate=3 January 2014}}&lt;/ref&gt;
+
+==References==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+*{{Official website|http://www.adamhills.com/}}
+
+{{HelpmannAward ComedyPerformer 2007-2020}}
+{{Silver Logie Award for Most Popular TV Presenter on Australian Television}}
+{{Logie Awards hosts}}
+
+{{Authority control}}
+{{DEFAULTSORT:Hills, Adam}}
+[[Category:Adam Hills Tonight]]
+[[Category:Australian game show hosts]]
+[[Category:Australian male comedians]]
+[[Category:Australian people with disabilities]]
+[[Category:Australian stand-up comedians]]
+[[Category:Australian television talk show hosts]]
+[[Category:1970 births]]
+[[Category:Comedians from Sydney]]
+[[Category:Helpmann Award winners]]
+[[Category:Living people]]
+[[Category:Logie Award winners]]
+[[Category:Macquarie University alumni]]</text>
+      <sha1>41ga17n2wrizhk9tgldt2xeh7rwf954</sha1>
+    </revision>
+  </page>
+</mediawiki>

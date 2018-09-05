@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ernie Bushmiller</title>
+    <ns>0</ns>
+    <id>728199</id>
+    <revision>
+      <id>852273482</id>
+      <parentid>846771907</parentid>
+      <timestamp>2018-07-27T19:27:57Z</timestamp>
+      <contributor>
+        <username>Vchimpanzee</username>
+        <id>3723122</id>
+      </contributor>
+      <comment>/* Comic strips */ Interview with the real Nancy</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10289">{{Use mdy dates|date=September 2016}}
+{{Infobox comics creator
+| image         = Bushmillerin1950s.jpg
+| imagesize     =
+| caption       = Ernie Bushmiller in the 1950s
+| birth_name    = Ernest Paul Bushmiller, Jr.
+| birth_place   = [[The Bronx]], [[New York (state)|New York]]
+| death_date    ={{Death date and age|1982|08|15|1905|08|23}}
+| death_place   = [[Stamford, Connecticut]]
+| nationality   = American
+| cartoonist    = y
+| write         =
+| pencil        = 
+| ink           =
+| letter        =
+| color         =
+| alias         =
+| collaborators = 
+| signature     = &lt;!-- very optional --&gt;
+| notable works = ''[[Nancy (comic strip)|Nancy]]''
+| awards        = Humor Comic Strip Award ([[National Cartoonists Society]]), 1976&lt;br /&gt;[[Reuben Award]], 1976&lt;br /&gt;[[The Will Eisner Award Hall of Fame]] (Judges' Choice), 2011
+| subcat        = American
+| birth_date={{Birth date|1905|08|23}}
+}}
+'''Ernest Paul "Ernie" Bushmiller, Jr.'''  (August 23, 1905 – August 15, 1982) was an American cartoonist, best known for creating the daily [[comic strip]] ''[[Nancy (comic strip)|Nancy]]''.
+
+Born in the [[The Bronx|South Bronx]], [[New York (state)|New York]], Bushmiller was the son of immigrant parents, Ernest George Bushmiller and Elizabeth Hall. His father was an artist, vaudevillian and bartender. Bushmiller quit school at 14 to work as a copy boy at the ''[[New York World]]'' newspaper, while attending evening art classes at the [[National Academy of Design]]. He ran errands for the staff cartoonists and was given occasional illustration assignments, including a Sunday feature by Harry Houdini.&lt;ref name=harvey&gt;[http://www.tcj.com/the-lawrence-welk-of-cartoonists-ernie-nancy-and-the-bushmiller-society/ Harvey, R. C. "The Lawrence Welk of Cartoonists: Ernie, Nancy, and the Bushmiller Society". ''The Comics Journal'', April 10, 2012.]&lt;/ref&gt;&lt;ref name=lambiek&gt;[http://lambiek.net/artists/b/bushmiller_e.htm Lambiek: Ernest Bushmiller]&lt;/ref&gt;
+
+==Comic strips==
+Early in 1925, cartoonist Larry Whittington, creator of the comic strip ''[[Fritzi Ritz]]'',&lt;ref&gt;[http://cartoonician.com/fritzi-ritz-before-bushmiller-shes-come-a-long-way-baby/ "Fritzi Ritz Before Bushmiller: She’s Come a Long Way, Baby!," ''Hogan's Alley'' #7, 1999]&lt;/ref&gt; left to produce another strip, ''Mazie the Model''. Bushmiller then took over ''Fritzi Ritz'', [[ghost writer|ghostwriting]] it, before eventually taking over officially. Bushmiller's name did not appear on the strip until May 1926. He expanded to a [[Sunday strip]] on October 6, 1929.&lt;ref name=harvey/&gt; Bushmiller had already been producing a comic strip for the ''New York Evening Graphic'' titled ''Mac the Manager''.&lt;ref&gt;[http://cartoonician.com/punch-lines-ernie-bushmillers-mac-the-manager/ ''Punch Lines: Ernie Bushmiller's Mac the Manager'', Hogan's Alley, 1999]&lt;/ref&gt;
+
+The character of Fritzi was modeled after Bushmiller's fiance, Abby Bohnet, the daughter of a train conductor. The couple, who married July 9, 1930, had no children. In 1931, they headed for Hollywood, where Bushmiller wrote gags for [[Harold Lloyd]]'s ''[[Movie Crazy]]'',&lt;ref&gt;[https://books.google.com/books?id=IWqjaXc_4QUC&amp;pg=PA98&amp;dq=%22ernie+bushmiller%22+%22movie+crazy%22&amp;hl=en&amp;sa=X&amp;ei=VmfZUc_KJYr5qwHbxIHICw&amp;ved=0CDAQ6AEwAA Comic Strip Artists in American Newspapers: 1945 - 1980], by Moira Davison Reynolds; published 2003, by [[McFarland &amp; Company]] (via [[Google Books]])&lt;/ref&gt; continuing to draw ''Fritzi Ritz'' at the same time. A year later, they returned to the Bronx.&lt;ref name=harvey/&gt;&lt;ref name=don&gt;[http://www.toonopedia.com/fritzi.htm Markstein, Don. Toonopedia: ''Fritzi Ritz'']&lt;/ref&gt;
+
+In an interview with [[List of WFMU Radio Hosts|Chris Tsakis]] of [[WFMU]]'s ''Lowest Common Denominator'', Nancy Carbonaro, a childhood friend of Bushmiller, said the Nancy character was based on her. She said Phil Fumble of his ''Fritzi Ritz'' strip was actually Bushmiller, and that after Nancy was added to the strip, she believed Sluggo was Bushmiller having the relationship he could not have in real life. She also said Bushmiller used events from her life in the strip. Before his death, Bushmiller told Carbonaro she was his [[Alice in Wonderland|Alice]].&lt;ref&gt;{{cite news|url=http://www.wfmu.org/LCD/Early/nancyw.html|title=Nancy in wonderland: the exclusive interview by Chris T.|work=[[WFMU]]|accessdate=July 27, 2018}}&lt;/ref&gt;
+
+Bushmiller introduced Nancy, Fritzi's niece, to the strip on January 2, 1933. The character proved popular, so she appeared more often. As Aunt Fritzi was seen less frequently, the strip was eventually retitled ''[[Nancy (comic strip)|Nancy]]'' in 1938. The popular strip was translated into various languages, including Italian, German, Swedish and Norwegian. ''Phil Fumble'' was a Bushmiller strip which ran from 1932 through 1938.&lt;ref name=lambiek/&gt;&lt;ref name=don/&gt;
+
+Bushmiller started working each day about 2pm, and he often sat at his drawing table well into the early morning hours of the next day. He usually began a strip with the last panel and then worked back toward the first panel. The simplicity of his style brought praise from [[Art Spiegelman]] and other artists. Tom Smucker, writing in ''[[The Village Voice]]'', observed:
+{{blockquote|Bushmiller's strong point was never the content of his comic strip's jokey plots&amp;mdash;a friend once described him as "a moron on an acid trip." In fact, the gags were even simpler than was necessary for a "children's" strip. That's because they were just a vehicle for the controlled and brilliant manipulation of repetition and variety that gave the strip its unique visual rhythm and composition. Bushmiller choreographed his familiar formal elements inside the tightest frame of any major strip, and that helped make it the most beautiful, as a whole, of any in the papers.&lt;ref&gt;[http://www.interestingideas.com/ii/nansmuk.htm Smucker, Tom. ''The Village Voice'', 1982.]&lt;/ref&gt;}}
+
+As [[Paul Karasik]] and [[Mark Newgarden]] noted in their essay, "[[How to Read Nancy]]": 
+{{blockquote|Ernie Bushmiller had the hand of an architect, the mind of a silent film comedian, and the soul of an accountant. His formulaic approach to humor beautifully revealed the essence of what a perfect gag is all about – balance, symmetry, economy. His gags have the abstract feel of math and ''Nancy'' was, in fact, a mini-algebra equation masquerading as a comic strip for close to 50 years.&lt;ref&gt;[http://www.laffpix.com/howtoreadnancy.pdf Newgarden, Mark and Paul Karasik. "How to Read Nancy", 1988]&lt;/ref&gt;}}
+
+Comics theorist Scott McCloud described the essence of Bushmiller and his creation:
+{{blockquote|Ernie Bushmiller's comic strip ''Nancy'' is a landmark achievement: A comic so simply drawn it can be reduced to the size of a postage stamp and still be legible; an approach so formulaic as to become the very definition of the "gag-strip"; a sense of humor so obscure, so mute, so without malice as to allow faithful readers to march through whole decades of art and story without ever once cracking a smile. ''Nancy'' is Plato's playground. Ernie Bushmiller didn't draw A tree, A house, A car. Oh, no. Ernie Bushmiller drew ''the'' tree, ''the'' house, ''the'' car. Much has been made of the "three rocks." Art Spiegelman explains how a drawing of three rocks in a background scene was Ernie's way of showing us there were some rocks in the background. It was always three. Why? Because two rocks wouldn't be "some rocks." Two rocks would be a pair of rocks. And four rocks was unacceptable because four rocks would indicate "some rocks" but it would be one rock more than was necessary to convey the idea of "some rocks." A ''Nancy'' panel is an irreduceable concept, an atom, and the comic strip is a molecule.&lt;ref&gt;McCloud, Scott. [http://www.scottmccloud.com/4-inventions/nancy/index.html "Five Card Nancy,"] ScottMcCloud.com. Accessed Dec. 12, 2011.&lt;/ref&gt;}}
+
+In 1979, Bushmiller was diagnosed with [[Parkinson's disease]], but he continued to produce the strip with the help of assistants Will Johnson and [[Al Plastino]]. He lived in [[Stamford, Connecticut]], where he died in 1982.
+
+==Awards==
+Bushmiller, one of the founding members of the [[National Cartoonists Society]], received its Humor Comic Strip Award and its [[Reuben Award]] in 1976 for his work on ''Nancy.''&lt;ref name=lambiek/&gt;&lt;ref&gt;[http://www.reuben.org/ncs/awards.asp  NCS Awards] {{webarchive |url=https://web.archive.org/web/20051228043005/http://www.reuben.org/ncs/awards.asp |date=December 28, 2005 }}&lt;/ref&gt; In 2011, Bushmiller was listed as a Judges' Choice for [[The Will Eisner Award Hall of Fame]].&lt;ref&gt;[http://www.comic-con.org/cci/cci_eisners_11nom.php#nominees The 2011 Will Eisner Comic Industry Award Nominees] {{webarchive|url=https://web.archive.org/web/20110812132518/http://www.comic-con.org/cci/cci_eisners_11nom.php |date=August 12, 2011 }}. Accessed December 12, 2011.&lt;/ref&gt;
+
+==Legacy==
+Bushmiller's work has been repeatedly addressed by other artists: [[Andy Warhol]] made a 1961 painting based on ''Nancy'', and [[Joe Brainard]] made numerous works based on ''Nancy''. Many cartoonists have produced work directly inspired by or commenting on Bushmiller's art, including [[Art Spiegelman]], [[Mark Newgarden]], [[Chris Ware]] and ''[[Zippy the Pinhead|Zippy]]'' cartoonist [[Bill Griffith]], who has also written an essay on Bushmiller.
+
+The ''[[American Heritage Dictionary]]'' uses a Bushmiller ''Nancy'' strip to illustrate its entry on "comic strip."
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+*[[Dave Strickler|Strickler, Dave]]. ''Syndicated Comic Strips and Artists, 1924-1995: The Complete Index.'' Cambria, California: Comics Access, 1995. {{ISBN|0-9700077-0-1}}
+
+==External links==
+*[http://www.zippythepinhead.com/media/bushmiller.jpg "Charting the Known: The Geography of Ernie Bushmiller"]
+*[http://www.interestingideas.com/ii/nanfan.htm "Confessions of a ''Nancy'' Addict" by William Swislow]
+*[http://www.deniskitchen.com/docs/TMCM.Bushmiller.html The Bushmiller Society]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bushmiller, Ernie}}
+[[Category:1905 births]]
+[[Category:1982 deaths]]
+[[Category:American comic strip cartoonists]]
+[[Category:People from the Bronx]]
+[[Category:Reuben Award winners]]
+[[Category:Will Eisner Award Hall of Fame inductees]]</text>
+      <sha1>8wljm5ohg8vw79a65lkt3owhu7kufcw</sha1>
+    </revision>
+  </page>
+</mediawiki>

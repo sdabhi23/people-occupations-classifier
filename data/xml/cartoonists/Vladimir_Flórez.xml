@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vladdo</title>
+    <ns>0</ns>
+    <id>14326741</id>
+    <revision>
+      <id>713054036</id>
+      <parentid>607885768</parentid>
+      <timestamp>2016-04-01T17:21:09Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Vladdo|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1535">{{Expand Spanish|topic=cult|date=March 2009|Vladdo}}
+
+'''Vladimir Flórez''' also known as '''Vladdo''' (born 1963 in [[Armenia, Colombia|Armenia]], [[Quindío Department|Quindío]]) is a [[Colombia]]n [[cartoonist]] and political satirist. His work is published in the Colombian weekly magazine ''[[Revista Semana]]'' and has received numerous journalistic awards including 3 National Journalistic Awards (Premio Nacional de Periodismo) and an Excellency Award (''Premio de Excelencia'') by the [[Inter American Press Association]] in the "Cartoon" category.
+
+== Aleida ==
+
+He created his feminine character called [[Aleida]] in 1997. She is a harsh interpretation of the feminine behaviour who criticizes men and uses cynicism to make fun of herself. Her frames have many followers not only in Colombia but also in other Latin American countries as well as in the whole world.
+Vladdo runs the monthly satire newspaper "Un Pasquín", which is delivered for free.
+
+== Works ==
+Vladdo has written three books of caricature and politics.
+
+Mis Memorias, 1989
+Vladdografías, 1996 
+Lo mejor de lo peor, 2002
+
+==External links==
+*{{es icon}} [http://www.vladdo.com/index1.html Vladdo official website]
+*{{es icon}} [http://www.semana.com/wf_InfoArticulo.aspx?idArt=107809 Vladdo in Revista Semana]
+
+{{DEFAULTSORT:Vladdo}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:People from Quindío Department]]
+[[Category:Colombian cartoonists]]
+[[Category:People from Armenia, Colombia]]
+
+
+{{Colombia-bio-stub}}
+{{cartoonist-stub}}</text>
+      <sha1>4dg2hb7zqj3ssmj3wmlj7henph37e0o</sha1>
+    </revision>
+  </page>
+</mediawiki>

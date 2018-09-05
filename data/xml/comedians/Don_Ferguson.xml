@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Don Ferguson (actor)</title>
+    <ns>0</ns>
+    <id>532827</id>
+    <revision>
+      <id>848086978</id>
+      <parentid>831506306</parentid>
+      <timestamp>2018-06-29T18:12:32Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3346">{{Infobox person |
+| name        = Don Ferguson
+| image       = 
+| imagesize   = 
+| caption     = 
+| birth_date  = {{birth date and age|1946|5|30|}}
+| birth_place = [[Montreal]], [[Quebec]], Canada
+| death_date  = 
+| death_place = 
+| occupation = [[actor]], writer, and producer
+| nationality = [[Canadians|Canadian]] 
+}}
+
+'''Don Ferguson''' (born May 30, 1946) is a Canadian [[actor]], writer, and producer and is one of the stars of the ''[[Royal Canadian Air Farce]]''. He and [[Dave Broadfoot]] were the only Canadian-born original cast members of ''Air Farce''. In 1998, Ferguson and the original Air Farce cast of [[Roger Abbott]], [[Luba Goy]], and [[John Morgan (comedian)|John Morgan]] received the [[Governor General's Performing Arts Award]] for Lifetime Artistic Achievement, Canada's highest honour in the performing arts.&lt;ref&gt;{{cite web|title=Air Farce biography|url=http://ggpaa.ca/award-recipients/1998/the-royal-canadian-air-farce-(roger-abbott-1946-20.aspx|publisher=Governor General's Performing Arts Awards Foundation|accessdate=4 February 2015}}&lt;/ref&gt;
+
+His many ''Air Farce'' roles included parodies of [[Paul Martin]], [[Pierre Trudeau]], [[Ron MacLean]], [[Jack Layton]], [[Joe Clark]], [[Preston Manning]], [[Stockwell Day]],  [[Rex Murphy]], [[Lucien Bouchard]], [[Bill Clinton]], [[Brian Mulroney]], [[Vladimir Putin]], [[Bob Dylan]], and [[Keith Richards]]. Many of these portrayals involve Ferguson as the 'straight man' to the more eccentric personalities played by [[Roger Abbott]].
+
+Don Ferguson is a graduate from Loyola High School, [[Loyola College (Montreal)|Loyola College]], (now [[Concordia University (Montreal)|Concordia University]]), in [[Montreal]], with an [[Honours English degree]], and afterward worked in radio and as an audio-visual producer and photographer until he discovered that he preferred comedy writing and performing. He has written and directed documentary programs for [[Canadian Broadcasting Corporation|CBC]], a science-fantasy series for radio (″Johnny Chase″), a political farce for the stage, ("Skin Deep"), and a stage drama about the [[World War II]] raid of [[Dieppe Raid|Dieppe]]. 
+
+Ferguson starred in the 2004 situation comedy pilot ''[[XPM (TV series)|XPM]]''. In 2012 he produced ''Comedy Bar'', a sketch comedy series for [[Makeful|Bite TV]]. He previously produced a similar series, ''SketchCom'', in the late 1990s. Ferguson was also a producer on the various Air Farce television series since 2004 and has been the executive producer of the annual Air Farce New Year's Eve specials since 2010.&lt;ref&gt;https://www.imdb.com/name/nm0272416/&lt;/ref&gt;
+
+==Projects==
+
+==References==
+{{Reflist}}
+
+==External links==
+*http://www.comedy.ca
+*http://www.airfarce.com
+*http://www.whyhorrror.com
+*{{IMDb name|0272416}}
+
+{{Royal Canadian Air Farce}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ferguson, Don}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:Canadian television personalities]]
+[[Category:Canadian people of Scottish descent]]
+[[Category:Royal Canadian Air Farce]]
+[[Category:Anglophone Quebec people]]
+[[Category:Loyola College alumni]]
+[[Category:Canadian radio personalities]]
+[[Category:Canadian sketch comedians]]
+[[Category:Male actors from Montreal]]
+[[Category:Writers from Montreal]]
+[[Category:Canadian television producers]]
+
+
+{{Canada-actor-stub}}</text>
+      <sha1>pusug5c68vvr6kgb0q2vlz6u1xmitvq</sha1>
+    </revision>
+  </page>
+</mediawiki>

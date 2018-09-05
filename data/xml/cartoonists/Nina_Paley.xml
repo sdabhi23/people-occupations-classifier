@@ -1,0 +1,219 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nina Paley</title>
+    <ns>0</ns>
+    <id>9453535</id>
+    <revision>
+      <id>855865630</id>
+      <parentid>855662170</parentid>
+      <timestamp>2018-08-21T10:18:33Z</timestamp>
+      <contributor>
+        <username>14GTR</username>
+        <id>17170909</id>
+      </contributor>
+      <comment>/* Nina's Adventures and other work */ Remove dead link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30915">{{pp-protect|small=yes}}
+{{Infobox comics creator
+| image         = Nina Paley Chiaroscuro.jpg
+| image_size    = 260
+| caption       = Nina Paley (2006)
+| birth_name    =
+| birth_date    = {{Birth date and age|1968|5|3|mf=y}}
+| birth_place   = [[Urbana, Illinois]]
+| death_date    =  
+| death_place   =  
+| nationality   = American
+| area          = Writer, cartoonist, animator
+| alias         = 
+| notable works = {{plainlist|
+*''[[Sita Sings the Blues]]''
+*''[[Seder-Masochism]]''
+}}
+| awards        = 
+}}
+
+'''Nina Paley''' (born May 3, 1968) is an American [[cartoonist]], [[animator]] and [[free culture movement|free culture]] activist.&lt;ref&gt;{{cite web |url=http://blog.ninapaley.com/2009/03/18/my-official-position-on-copyright/ |title=My Official Position on Copyright |last=Paley |first=Nina |date=March 18, 2009 |website=blog.ninapaley.com|access-date=August 6, 2018}}&lt;/ref&gt; She was the artist and often the writer of the [[comic strip]]s ''Nina's Adventures'' and ''Fluff'', but most of her recent work has been in animation.&lt;ref name="Lambiek"&gt;{{cite web|url=https://www.lambiek.net/artists/p/paley_nina.htm|title=Nina Paley|author=&lt;!--Not stated--&gt; |date=October 11, 2017 |website=Lambiek Comiclopedia|access-date=August 6, 2018}}&lt;/ref&gt; She is perhaps best known for creating the animated feature film ''[[Sita Sings the Blues]]'', loosely based on the ''[[Ramayana]]'', with parallels to her personal life. In 2018, she released her second animated feature, ''[[Seder-Masochism]]'', a retelling of [[The Book of Exodus]] as patriarchy emerging from goddess worship.
+
+Paley distributes much of her work, including ''Nina’s Adventures'', ''Fluff'', and all the original work in ''Sita Sings The Blues'', under a [[copyleft]] licence.
+
+== Early life ==
+Paley was born in [[Urbana, Illinois]],&lt;ref name="imdb"&gt;{{cite web |url=https://www.imdb.com/name/nm1315434/?ref_=nv_sr_1 |title=Nina Paley |author=&lt;!--Not stated--&gt; |date=2018 |website=www.imdb.com|access-date=August 6, 2018}}&lt;/ref&gt; the daughter of Jean (Passovoy) and Hiram Paley.&lt;ref&gt;{{cite web|url=http://www.heathandvaughn.com/paley,_hiram.html|title=Obituaries: Hiram Paley|author=&lt;!--Not stated--&gt; |date=January 2012|website=www.heathandvaughn.com |access-date=August 6, 2018}}&lt;/ref&gt; Her family was [[American Jewish|Jewish]].&lt;ref&gt;{{cite web |url=http://www.kickstarter.com/projects/1850676295/seder-masochism-phase-i/posts/135921 |title=Seder Masochism: Phase I |last=Paley |first=Nina |date=September 8, 2011 |website=www.kickstarter.com|access-date=August 6, 2018}}&lt;/ref&gt;&lt;ref name="Merli2"&gt;{{cite news |last=Merli |first=Melissa |date=October 21, 2012 |title=Studio Visit: Nina Paley |url=http://www.news-gazette.com/news/local/2012-10-21/studio-visit-nina-paley.html |work=The News-Gazette |location=Champaign, IL |access-date=August 6, 2018}}&lt;/ref&gt; Her father was a mathematics professor at the [[University of Illinois at Urbana-Champaign|University of Illinois]] and was mayor of Urbana for a term in the early 1970s.&lt;ref&gt;{{cite news |last=Wade |first=Patrick |date=January 10, 2012 |title=Life Remembered: Hiram Paley was a leading progressive for Urbana |url=http://www.news-gazette.com/news/local/2012-01-10/life-remembered-hiram-paley-was-leading-progressive-urbana.html |work=The News-Gazette |location=Champaign, IL |access-date=August 6, 2018}}&lt;/ref&gt;
+
+She attended local elementary and high schools, graduating from [[University Laboratory High School (Urbana, Illinois)|University High School]] in 1986.&lt;ref name="Merli"&gt;{{cite news |last=Merli |first=Melissa |date=May 18, 2008 |title=First movie 'a full-time job' for Uni High grad, illustrator |url=http://www.news-gazette.com/living/2008-05-18/first-movie-full-time-job-uni-high-grad-illustrator.html |work=The News-Gazette |location=Champaign, IL |access-date=August 2, 2018}}&lt;/ref&gt; She illustrated a "History of the North Pole" comic in collaboration with University High School history teacher Chris Butler, and attended the [[University of Illinois]], studying art for two years before dropping out. While in college, her comic "Joyride" ran in ''[[The Daily Illini]]'' newspaper.&lt;ref name="Merli"/&gt;
+
+Her first animation was made when she was 13; it was recorded on [[Super-8]] reels. Her first animation as an adult was the short story ''Follow your Bliss''. Her second clay animation, ''I Heart My Cat'', was shot on a [[Krasnogorsk (camera)|Krasnogorsk camera]]. These two, along with ''Cancer'', were found on VHS with the description "NINA PALEY DEMO REEL 1998". In 2012, Paley decided to publish them under [[Creative Commons license|Creative Commons]] Attribution-[[Share Alike]] license.&lt;ref&gt;{{cite web |url=http://blog.ninapaley.com/2012/01/21/ye-olde-animation/ |title=Ye Olde Animation |last=Paley |first=Nina |date=January 21, 2012|website=blog.ninapaley.com|access-date=August 6, 2018}}&lt;/ref&gt;
+
+== Nina's Adventures and other work ==
+[[File:Hots Dishrack.png|thumb|The Hots strip]]
+In 1988, Paley moved to [[Santa Cruz, California]], and began to write and draw the strip ''Nina's Adventures''. In 1991, she illustrated ''The Santa Cruz Haggadah''&lt;ref&gt;{{cite book |last= Roekard |first=Karen G.R. |date=1991 |title=The Santa Cruz Haggadah : a Passover Haggadah, coloring book, and journal for the evolving consciousness|others=illustrations by Nina Paley |edition=private|location=Capitola, CA |publisher=Hineni Consciousness Press|isbn= 9780962891380 |oclc=52729227}}&lt;/ref&gt; and moved to San Francisco. In 1995, she began to draw the more mainstream ''Fluff'', a comic strip about a cat, which enjoyed a modest success in syndication. In 1998, she also began to experiment with animation.&lt;ref&gt;{{cite web |url=http://www.ninapaley.com/bio.html |title=Big Long Nina Paley Biography|last=Paley |first=Nina |date=October 2005 |website=www.ninapaley.com|access-date=August 6, 2018}}&lt;/ref&gt;
+
+In 1999, she made the world's first cameraless [[IMAX]] film, ''Pandorama'',&lt;ref&gt;{{cite web |url=http://www.ninapaley.com/pandoramahome.html|title=Pandorama |last=Paley |first=Nina |website=www.ninapaley.com|access-date=August 6, 2018}}&lt;/ref&gt; a short [[Modernist]] film which was shown widely at major film festivals in [[35 mm]] form during 2000 and 2001. In [[70 mm]] form, it also ran for about a year as a short feature at [[Berlin Cinestar]] and has been shown at IMAX theaters elsewhere.
+
+In 2002, she wrote and directed ''Fetch!'', a humorous short cartoon feature based on a variety of optical illusions, which has enjoyed popularity ever since.&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt0350927/?ref_=nm_knf_t4 |title=Fetch! (2002) |author=&lt;!--Not stated--&gt; |date=2018 |website=IMDb.com |access-date=August 7, 2018}}&lt;/ref&gt;&lt;ref name="speculist"&gt;{{cite web |url=http://www.speculist.com/archives/000312.html |title=An Animated Discussion: Speaking of the Future with Nina Paley|author=&lt;!--Not stated--&gt; |date=October 16, 2003 |website=www.speculist.com|access-date=August 7, 2018}}&lt;/ref&gt;
+
+Beginning in 2002, Paley focused her work on the controversial subject of population growth. The most notable entry she produced on this subject was ''The Stork'', in which the natural environment is bombed to destruction by storks dropping bundled babies. The film is a compact expression of the conflict between increasing human population and the ecosystem in which it must live. The 3½ minute film was a considerable success at festivals and resulted in an invitation to the [[Sundance Film Festival]].&lt;ref name="speculist"/&gt;
+
+During this period of this time, Paley also contributed several comic strips for the [[Voluntary Human Extinction Movement]], of which she is a member and occasional spokesperson.&lt;ref&gt;{{cite web |url=https://bloggingheads.tv/videos/2707 |title= Nina Paley and Mike Treder|author=&lt;!--Not stated--&gt; |date=September 11, 2010 |website=bloggingheads.tv |publisher= The Nonzero Foundation|access-date=August 13, 2018}}&lt;/ref&gt; Her work for the group still remains on their official website.&lt;ref&gt; {{cite web |url=http://vhemt.org/paleyart.htm |title= VHEMT-related cartoons
+ |author=&lt;!--Not stated--&gt; |website=vhemt.org |publisher=Voluntary Human Extinction Movement |access-date=August 13, 2018}}&lt;/ref&gt;
+
+Early in 2010, Paley started drawing a three-panel comic strip called ''[[Mimi &amp; Eunice]]''. She is distributing it on the web using a [[copyleft]] license.&lt;ref&gt; {{cite web |url= http://blog.ninapaley.com/2010/03/09/mimi-eunice/ |title=Mimi &amp; Eunice |last=Paley |first=Nina |date=March 9, 2010 |website=blog.ninapaley.com|access-date=August 13, 2018}}&lt;/ref&gt; 
+
+In 2012, Paley posted an animation to Vimeo titled ''This Land Is Mine'' depicting the Middle East conflicts over history; it was named a Staff Pick.&lt;ref&gt;{{cite web |url= http://vimeo.com/50531435 |title=This Land is Mine |last=Paley |first=Nina |date=October 1, 2012 |website=vimeo.com|access-date=August 13, 2018}}&lt;/ref&gt;
+
+Between projects, Paley has worked as a freelance director at [[Duck Studios]] in Los Angeles.&lt;ref name="Duck Studios"&gt; {{cite web |url= http://www.animationinsider.net/article.php?articleID=2566|title= Tiny Inventions Takes to DUCK Studios |date=September 29, 2010 |publisher=Animation Insider|access-date=August 13, 2018 |archive-url= https://web.archive.org/web/20101025104615/http://www.animationinsider.net/article.php?articleID=2566 |archive-date=October 25, 2010}}&lt;/ref&gt; She has also taught in the Design and Technology section of [[Parsons The New School for Design|Parsons]], part of [[The New School]].&lt;ref name="Tribeca"/&gt;
+
+== Feature films ==
+As of 2018, Paley has created two animated feature films.
+
+===''Sita Sings the Blues''===
+[[Image:NinaAtBerlinale.jpg|thumb|right|At the [[Berlinale]] premiere of ''Sita Sings the Blues'' in 2008]]
+In 2002, Paley moved to [[Trivandrum]], India, where her husband had taken a job. While she was visiting New York City on business concerning her third comic strip, ''The Hots'', her husband terminated their marriage. Unable to return to either Trivandrum or San Francisco, she moved to [[Brooklyn]], New York.  Her personal crisis caused her to see more deeply into the ''[[Ramayana]]'', the Indian epic, which she had encountered in India, and motivated her to produce a short animation which combines an episode from the ''Ramayana'' with a [[torch song]] recorded in 1929 by [[Annette Hanshaw]], "Mean To Me".&lt;ref&gt;{{cite web |url=http://www.flashgoddess.com/html/gallery_NinaPaley.html |title=Featured artist - Nina Paley: Sita Sings the Blues |author=&lt;!--Not stated--&gt; |date=October 2005 |website=www.flashgoddess.com|access-date=August 14, 2018}}&lt;/ref&gt; Paley later added episodes and other material to the work, which is now called ''[[Sita Sings the Blues]]''. Many of the episodes appeared in animation festivals. She expanded it into a feature-length treatment of the ''Ramayana'' focused on [[Rama]]'s wife, [[Sita]], using a variety of animation styles and techniques. 
+
+The finished work premiered at the [[Berlin International Film Festival]] on February 11, 2008&lt;ref name="IMDb"&gt;{{cite web |url=https://www.imdb.com/title/tt1172203/releaseinfo?ref_=tt_ql_dt_2 |title=Sita Sings the Blues (2008) Release Info |author=&lt;!--Not stated--&gt; |date=October 2, 2010 |website=www.imdb.com|access-date=August 14, 2018}}&lt;/ref&gt;&lt;ref name=”Ebertfest”&gt;{{cite web |url=http://archive.ebertfest.media.illinois.edu/eleven/sita_sings_the_blues.html |title= Sita Sings the Blues|last=Ebert |first=Roger |date=2009 |website=Ebertfest.media.illinois.edu |publisher=Roger Ebert's Film Festival |access-date=August 14, 2018}}&lt;/ref&gt; and had its North American premiere at the [[Tribeca Film Festival]] on April 25, 2008.&lt;ref name="Tribeca"&gt; {{cite web |url=https://www.tribecafilm.com/filmguide/archive/512ce78a1c7d76e046000db0-sita-sings-the-blues |title=Discovery: Sita Sings the Blues |author=&lt;!--Not stated--&gt; |date=April 2008 |website=www.tribecafilm.com |publisher=Tribeca Film Festival |access-date=August 14, 2018}}&lt;/ref&gt; The film was screened at more than 150 film festivals globally&lt;ref name="Merli4"/&gt; and was broadcast on [[PBS]] in New York City.&lt;ref name="Merli5"/&gt; For her work on ''Sita Sings the Blues'', Paley was nominated for an [[Independent Spirit Award]]&lt;ref&gt;{{cite web|date=December 2, 2008|last1=Moody|first1=Annemarie|title=Sita Sings Blues Creator Nominated For Indie Spirit Award|url=https://www.awn.com/news/sita-sings-blues-creator-nominated-indie-spirit-award|website=Animation World Network|accessdate=May 8, 2018}}&lt;/ref&gt; and garnered more than 35 international awards,&lt;ref name="Merli4"/&gt; including the top award at [[Annecy International Animated Film Festival|Annecy]] in 2008.&lt;ref name="wapost"&gt;{{cite news |last= Ramanathan|first= Lavanya |date=September 25, 2008 |title= An Ancient Tale, Newly Animated |url= http://www.washingtonpost.com/wp-dyn/content/article/2008/09/24/AR2008092404245.html |work=The Washington Post|access-date=August 11, 2018}}&lt;/ref&gt;  ''[[The New York Times]]'' review of ''Sita'' described it as "ambitious and visually loaded" and the film was named a NYT Critic's Pick.&lt;ref&gt;{{cite news |last=Scott |first=A.O. |date=December 24, 2009 |title=Legendary Breakups: Good (Animated) Women Done Wrong in India |url=https://www.nytimes.com/2009/12/25/movies/25sita.html |work=The New York Times |access-date=August 7, 2018}}&lt;/ref&gt;
+
+===''Seder-Masochism''===
+In 2011 she began work on a project called ''[[Seder-Masochism]]'',&lt;ref&gt;{{cite web |url= http://blog.ninapaley.com/category/seder-masochism/|title=Where is Seder-Masochism |last=Paley |first=Nina |date=July 16, 2018 |website=blog.ninapaley.com|access-date=August 18, 2018}}&lt;/ref&gt;&lt;ref name="Merli2"/&gt; an unorthodox animated film about [[The Exodus]], showing the rise of patriarchy and the fall of goddess worship. Early support was obtained for the project through a crowd-funding campaign on [[Kickstarter]].&lt;ref&gt;{{cite web |url=https://www.kickstarter.com/projects/1850676295/seder-masochism-phase-i |title=Seder Masochism: Phase I |last=Paley |first=Nina |date=September 8, 2011 |website= www.kickstarter.com |access-date=August 18, 2018}}&lt;/ref&gt; In June 2018, after having worked sporadically on the film for six years, ''Seder-Masochism'' premiered at the [[Annecy International Animated Film Festival]] in France.&lt;ref&gt;{{cite web|title=Annecy 2018: 23 Animated Feature Films In Official Selection |author=Amid Amidi| date=April 23, 2018| url=https://www.cartoonbrew.com/feature-film/annecy-2018-23-animated-feature-films-in-official-selection-157991.html|website=Cartoon Brew|access-date=August 19, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt8328612/releaseinfo?ref_=tt_ql_dt_2 |title=Seder-Masochism (2018) Release Info |author=&lt;!--Not stated--&gt; |date=June 2018 |website=www.imdb.com|access-date=August 14, 2018}}&lt;/ref&gt;&lt;ref name="Croll"&gt;{{cite web |url=https://variety.com/2018/film/festivals/annecy-seder-masochism-nina-paley-1202839427/ |title=Annency: 'Seder-Masochism' Director Nina Paley: 'I Have No Idea How This Movie Will Go Into the World'|last=Croll |first=Ben |date=June 10, 2018 |website=variety.com |access-date=August 14, 2018}}&lt;/ref&gt; Reviewers compared Paley's style to [[Monty Python]], and praised the film's irreverent humor.&lt;ref&gt;{{cite news |url=http://www.elmundo.es/cultura/cine/2018/06/14/5b222e9ce5fdea49598b45ba.html |author=Luis Martinez |title=El patriarcado desacralizado y otros milagros de la animación radical en Annecy |language=Spanish |date=June 14, 2018 |work=[[El Mundo (Spain)|El Mundo]]|access-date=August 19, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.courte-focale.fr/cinema/festivals/annecy-2018/annecy-seder-masochism/ |title=Annecy 2018 &lt;nowiki&gt;|&lt;/nowiki&gt; Wall / Seder-Masochism |author=Matthieu Ruard |date=June 2018 |work=Courte-Focale |language=French |access-date=August 15, 2018}}&lt;/ref&gt; In Poland, the film was screened at the [[ANIMATOR (festival)|ANIMATOR]] film festival where it was chosen by the audience as the festival's best feature-length animated film.&lt;ref name=ANIMATOR&gt;{{cite web |url=http://www.animator-festival.com/en/posts/here-are-the-winners--2 |title=Here Are the Winners |date=July 12, 2018 |publisher=[[ANIMATOR (festival)|ANIMATOR festival]] |access-date=August 15, 2018}}&lt;/ref&gt;
+
+== Free culture activism ==
+[[File:Copying Is Not Theft.webm|thumb|right|200px|'Copying is Not Theft' by Paley]]
+[[File:GlamCamp NY Kippelboy nina Paley (2).JPG|thumb|"Copying is not theft!" badge by Paley]]
+Because of obstacles in [[copyright|clearing the rights]] to Hanshaw's recordings for the ''[[Sita Sings the Blues]]'', Paley took active part in the [[free culture movement]].&lt;ref name="Bell"&gt;{{cite news |last=Bell |first=Melissa |date=April 6, 2012 |title= Online leaders look to create offline experiences|url= https://www.washingtonpost.com/lifestyle/style/2012/04/05/gIQAUH5E0S_story.html?utm_term=.0ca806c9a86c |work=The Washingon Post|access-date=August 11, 2018}}&lt;/ref&gt;&lt;ref name="Merli5"&gt;{{cite news |last=Merli |first=Melissa |date=April 20, 2009 |title=Urbana native’s film part of her push for free culture |url=http://www.news-gazette.com/arts-entertainment/local/2009-04-20/urbana-natives-film-part-her-push-free-culture.html|work=The News-Gazette |location=Champaign, IL |access-date=August 11, 2018}}&lt;/ref&gt;
+
+Since 2009 she is an [[artist-in-residence]] at the non-profit organization QuestionCopyright.org,&lt;ref name="Merli4"/&gt; which includes running the projects "Minute Memes" and the "Sita Distribution Project".&lt;ref&gt;{{cite web |url=http://questioncopyright.org/about |title=About QuestionCopyright.org |author=&lt;!--Not stated--&gt; |date=2011|publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; "Minute Memes"&lt;ref&gt;{{cite web |url=http://questioncopyright.org/minute_memes |title=Minute Memes |author=&lt;!--Not stated--&gt; |date=November 25, 2008 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; is a series of short ("one-minute") video "[[Internet meme|memes]]" made by Paley about copyright restrictions and artistic freedom. She wrote and performed the song "Copying Isn't Theft" meant to be freely [[remix]]ed by other people,&lt;ref&gt;{{cite web |url=http://questioncopyright.org/rearranging_isnt_theft_either |title= Copying Isn't Theft" -- Your Versions |author=&lt;!--Not stated--&gt; |date=April 3, 2009 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; with the animated clip issued as Minute Meme #1.&lt;ref&gt;{{cite web |url=https://questioncopyright.org/minute_memes/copying_is_not_theft |title=Copying Is Not Theft (Minute Meme #1) |last=Paley |first=Nina |date=December 14, 2009 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; Subsequent animations in this series are "All Creative Work Is Derivative",&lt;ref&gt;{{cite web |url= https://questioncopyright.org/minute_memes/all_creative_work_is_derivative |title= All Creative Work Is Derivative (Minute Meme #2) |last=Paley |first=Nina |date=February 9, 2010 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; [[Electronic Frontier Foundation|EFF]] Tribute&lt;ref&gt;{{cite web |url=https://questioncopyright.org/happy_20th_birthday_eff |title=Electronic Frontier Foundation celebrates 20 years with new animation from Nina Paley |author=&lt;!--Not stated--&gt; |date=July 10, 2010 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; and "Credit is Due: The Attribution Song".&lt;ref&gt;{{cite web |url=https://questioncopyright.org/minute_memes/credit_is_due |title=Credit is Due (The Attribution Song) |last=Paley |first=Nina |date=June 27, 2011 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt; She also wrote "Understanding Free Content", an illustrated guide to the idea of [[free content]].&lt;ref&gt;{{cite web |url=https://questioncopyright.org/understanding_free_content|title= Understanding Free Content |last=Paley |first=Nina |date=April 2, 2009 |publisher=QuestionCopyright.org |access-date=August 19, 2018}}&lt;/ref&gt;
+
+In 2010 she started a new comic strip ''[[Mimi &amp; Eunice]]'', highlighting [[intellectual property]] problems and paradoxes.&lt;ref name="Lambiek"/&gt;
+
+She has published much of her work, including ''Nina’s Adventures'', ''Fluff'', and all original work in ''Sita Sings The Blues'', under a [[copyleft]] licence.&lt;ref&gt;{{cite web |url=http://www.sitasingstheblues.com/faq.html |title=Frequently Asked Questions |last=Paley |first=Nina |date=November 2010 |website=www.sitasingstheblues.com |access-date=August 19, 2018 |quote=The whole struggle with our broken copyright system turned me into a Free Culture activist. I’m actually going to release all my old “Nina’s Adventures” and “Fluff” comics under a Share Alike (copyleft) license too.}}&lt;/ref&gt; The website for ''Sita Sings the Blues'' includes a wiki where its fans contributed translated subtitles for the DVD of the film.&lt;ref&gt;See its lists of [http://sitasingstheblues.com/wiki/index.php?title=Subtitles subtitles] and [http://sitasingstheblues.com/wiki/index.php?title=SitaSingsTheBlues:Current_events screenings]&lt;/ref&gt;  On January 18, 2013, Paley posted on her blog that the copyright license for ''Sita Sings The Blues'' was being switched from CC-BY-SA to CC-0, thus placing the work into the public domain.&lt;ref&gt;{{cite web |url=http://blog.ninapaley.com/2013/01/18/ahimsa-sita-sings-the-blues-now-cc-0-public-domain/ |title=Ahimsa: Sita Sings the Blues now CC-0 'Public Domain'|last=Paley |first=Nina |date=January 18, 2013 |website=blog.ninapaley.com|access-date=August 19, 2018}}&lt;/ref&gt;
+
+In 2012 she was a special guest at the international [[CopyCamp]] conference in Warsaw.&lt;ref&gt;{{cite web|title=Copycamp Talk|url=http://blog.ninapaley.com/2012/12/14/copycamp-talk/|website=blog.ninapaley.com|date=December 14, 2012|access-date=December 3, 2014}}&lt;/ref&gt;
+
+Paley won a [[Public Knowledge]] IP3 award in 2010 "for her work in intellectual property".&lt;ref&gt;{{cite web |url= http://www.publicknowledge.org/public-knowledge-presents-seventh-ip3-awards-samue |title=Public Knowledge Presents Seventh IP3 Awards to Samuelson, Crawford, Geist and Paley|last=Brodsky |first=Art |date=August 3, 2010 |website=www.publicknowledge.org |access-date=August 19, 2018}}&lt;/ref&gt;
+
+== Personal life ==
+
+In 2015, when Paley posted her views about trans-women such as [[Caitlyn Jenner]], some of her friends called her "[[Transphobia|transphobic]]". This prompted Paley to read about [[Feminist views on transgender topics|trans-exclusionary radical feminism (TERF)]], and to realize that she was not transphobic but a "gender-critical radical feminist" who argues against the social constructs that lead to a pattern of male violence.&lt;ref&gt;{{cite web |url=http://blog.ninapaley.com/2017/03/22/the-terfening-online-silencing-campaign/ |title= The TERFening: attempting to document a convoluted online silencing campaign |last=Paley |first=Nina |date=March 22, 2017 |website=blog.ninapaley.com|access-date=August 19, 2018}}&lt;/ref&gt;&lt;ref name="Dolle"&gt;{{cite web |url= https://www.nycreligion.info/moses-exodus-makeover-animator-nina-paley-grooving/ |title= Moses make-over by animator Nina Paley will have you grooving|last=Dolle |first=Pauline |date=April 3, 2018 |website=nycreligion.info |publisher=A Journey Through NYC Religions |access-date=August 11, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://blog.ninapaley.com/2017/03/23/the-banality-of-stupid/|title= The Banality of Stupid |last=Paley |first=Nina |date=March 23, 2017 |website=blog.ninapaley.com|access-date=August 19, 2018}}&lt;/ref&gt;
+
+Though of [[Jewish]] ancestry, Paley is an [[atheist]]&lt;ref name="Merli2"/&gt; as was her father.&lt;ref name="Merli4"&gt;{{cite news |last=Merli |first=Melissa |date=August 10, 2014 |title=Paley’s ‘This Land Is Mine’ a viral hit |url=http://www.news-gazette.com/arts-entertainment/local/2014-08-10/paleys-land-mine-film-viral-hit.html|work=The News-Gazette |location=Champaign, IL |access-date=August 11, 2018}}&lt;/ref&gt;&lt;ref name="Dolle"/&gt; She has been especially critical of [[Judaism]] and considers it a form of indoctrination and exploitation.&lt;ref&gt;{{cite web |url= http://blog.ninapaley.com/2012/10/19/jews-zionists-israelis/|title=Jews, Zionists, Israelis |last=Paley |first=Nina |date=October 19, 2012 |website=blog.ninapaley.com|access-date=August 19, 2018}}&lt;/ref&gt;
+
+Paley is openly [[childfree]],&lt;ref name="Dolle"/&gt; a position she actively promotes and encourages others to adopt.&lt;ref&gt;{{cite web |url=http://www.ninapaley.com/childfree.html |title=Childfree! |last=Paley |first=Nina |website=blog.ninapaley.com|access-date=August 19, 2018}}&lt;/ref&gt;
+
+In 2011, she began making art [[quilt]]s, some of which she has featured on her official blog.&lt;ref&gt;{{cite web |url=http://blog.ninapaley.com/category/quilting/ |title=Quilting |last=Paley |first=Nina|website=blog.ninapaley.com|access-date=August 19, 2018}}&lt;/ref&gt; The first public exhibition of her quilts was held in June 2013 in central Illinois.&lt;ref name="Merli3"&gt;{{cite news |last=Merli |first=Melissa |date=June 13, 2013 |title=Urbana artist Paley putting quilt art on display |url=http://www.news-gazette.com/arts-entertainment/local/2013-06-13/urbana-artist-paley-putting-quilt-art-display.html|work=The News-Gazette |location=Champaign, IL |access-date=August 11, 2018}}&lt;/ref&gt;
+
+== Works ==
+
+=== Comic strips ===
+* ''[[Nina's Adventures]]'' 
+* ''[[Fluff (comic strip)|Fluff]]''
+* ''[[the Hots]]''
+* ''[[Mimi &amp; Eunice]]''
+
+=== Filmography ===
+[[File:05.RamSitaGods.png|thumb|Still image from the feature film ''[[Sita Sings the Blues]]'']]
+* ''Cancer'' (1998. Drawing directly on film. 2 minutes. Color. 35mm.)
+* ''Luv Is...'' (1998. Clay animation. 3.5 minutes. Beta SP / Super-8. Color.)
+* ''I (heart) My Cat'' (1998. Clay animation. 3 minutes. 16mm. Color.)
+* ''Pandorama'' (2000. Drawing directly on film. 3 minutes. color. 15perf/70mm - also known as "[[IMAX]]")
+* ''Fetch!''&lt;ref name="fetch"&gt;[https://www.youtube.com/watch?v=Hbla1JXVwaU ''Fetch!'' on Youtube]&lt;/ref&gt;  (2001. 2-D computer animation. 4.5 minutes. 35mm. Color.)
+* ''Thank You for Not Breeding''&lt;ref name="thankyoufornotbreeding"&gt;[https://vimeo.com/7652051 ''Thank You for Not Breeding'' on Vimeo]&lt;/ref&gt; (2002. Documentary. 36 minutes. Video. Color.)
+* ''The Stork''&lt;ref name="stork"&gt;[https://www.youtube.com/watch?v=qWrMDlafrAI ''The Stork'' on Youtube]&lt;/ref&gt; (2002. 2-D computer animation (Flash/Photoshop/Final Cut Pro). 3 minutes.  Video. Color.)
+* ''Goddess of Fertility'' (2002. 2-D digital animation. 2 minutes. Clay animated on glass.  Color. 35mm.)
+* ''Fertco''  (2002. 2-D digital animation. 3 minutes. Color. Video.)
+* ''The Wit and Wisdom of Cancer''&lt;ref name="wit"&gt;[https://www.youtube.com/watch?v=y3C-ERBfCms ''The Wit &amp; Wisdom of Cancer'' on Youtube]&lt;/ref&gt; (2002. 2-D digital animation. 4.5 minutes. Color. Dialog. Video.)
+* ''[[Sita Sings the Blues]]'' (82 min, 2003–2008, 2-D digital animation. Color.)
+* ''This Land Is Mine - A brief history of the land called Israel/Palestine/Canaan/the Levant''&lt;ref name="thisland"&gt;[https://vimeo.com/50531435 ''This Land Is Mine'' on Vimeo]&lt;/ref&gt; (3.32 min, 2012, 2-D digital animation. Color.)
+* ''On Children'', a segment in ''[[Kahlil Gibran's The Prophet]]'' (2015. 2-D digital animation. Color.)&lt;ref&gt;{{cite news |last=Murphy |first=Mekado |date=August 5, 2015 |title=Bill Plympton Lends His Animation Skills to ‘Kahlil Gibran’s The Prophet’ |url=https://artsbeat.blogs.nytimes.com/2015/08/05/bill-plympton-lends-his-animation-skills-to-kahlil-gibrans-the-prophet/|work=The New York Times|access-date=August 7, 2018}}&lt;/ref&gt;
+* ''[[Seder-Masochism]]'' (2018)
+
+=== Media Appearances ===
+* ''The Tom and Doug Show'' - Paley has been a regular guest on the nationally syndicated [[Tom and Doug]] radio show, a weekly comedy music show on the [[Pacifica Radio Network]].&lt;ref&gt;[http://www.tomanddoug.com/tndpodcasts.html Tomanddoug.com]&lt;/ref&gt;  She "showed" her film ''The Wit and Wisdom of Cancer'' on show 304, discussed her "Christmas Resistance movement" on show 336, discussed Tom and Doug's songs "Gangsta Knitter" and "Sooner or Later" on show 232, discussed ''Sita Sings the Blues'' on show 361, and Tom and Doug rewrote her song "Copying is Not Theft" and played it for her on show 377.&lt;ref&gt;[http://audioport.org/index.php?op=search&amp;nav=&amp;searchtext=tom+and+doug Audioport.org]&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category}}
+{{wikiquote}}
+* {{official website|http://blog.ninapaley.com/}}
+* [http://mimiandeunice.com/ Mimi &amp; Eunice]
+* [http://www.sitasingstheblues.com/ ''Sita Sings The Blues'']
+* [http://sedermasochism.com/ ''Seder-Masochism'']
+* {{cite web |url= http://home.earthlink.net/~twoeyesmagazine/issue2/richman.htm |publisher= Two Eyes Magazine |title= The Rich Man's Burden |display-authors= 0 |first= Nina |last= Paley |quote= A modern adaptation of Rudyard Kipling's "White Man's Burden," 1899  |deadurl= yes |archive-date= March 31, 2002 |archive-url= https://web.archive.org/web/20020331152431/http://home.earthlink.net/~twoeyesmagazine/issue2/richman.htm }}
+* {{IMDb name|1315434|Nina Paley}}
+* {{cite web |url= http://www.amateurillustrator.com/articles/?p=202 |website= Amateur Illustrator |title= Interview with Nina Paley |first= Ingmar |last= Zahorsky |date= Nov 30, 2006 |deadurl= yes |archive-date= February 8, 2007 |archive-url= https://web.archive.org/web/20070208202453/http://www.amateurillustrator.com/articles/?p=202 }}
+Archives:
+*[http://www.cartoonistgroup.com/ Cartoonistgroup: extensive archives of many of Paley's comic strips]
+*[http://www.things.org/~jym/nina-bibliography.html Partial bibliography of Paley's comic strips]
+*[https://archive.org/details/FluffComicStrips Archive of "Fluff" comic strips]  - [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons BY-SA 3.0]
+*[https://archive.org/details/NinasAdventuresFree An almost complete collection of "Nina's Adventures" comic strips] - [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons BY-SA 3.0]
+*[https://archive.org/details/TheHots Collection of "The Hots" comic strips], written by StephenHersh and drawn by Nina Paley - [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons BY-SA 3.0]
+*[https://archive.org/details/NinaVision ''Nina Vision'', an archive of Nina Paley's short animated films] - [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons BY-SA 3.0]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Paley, Nina}}
+[[Category:1968 births]]
+[[Category:American animators]]
+[[Category:American atheists]]
+[[Category:American comic strip cartoonists]]
+[[Category:American feminists]]
+[[Category:Radical feminists]]
+[[Category:Living people]]
+[[Category:Open content activists]]
+[[Category:People from Urbana, Illinois]]
+[[Category:University Laboratory High School (Urbana, Illinois) alumni]]
+[[Category:American female comics artists]]
+[[Category:Female comics writers]]
+[[Category:American Jews]]
+[[Category:Jewish atheists]]
+[[Category:Women animators]]
+[[Category:American women film directors]]
+[[Category:Anti-natalists]]</text>
+      <sha1>69n9r54freqd1hhzr1kiu5osl4i6ur5</sha1>
+    </revision>
+  </page>
+</mediawiki>

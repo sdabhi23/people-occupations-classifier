@@ -1,0 +1,384 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pappy Boyington</title>
+    <ns>0</ns>
+    <id>514170</id>
+    <revision>
+      <id>851633926</id>
+      <parentid>851633505</parentid>
+      <timestamp>2018-07-23T16:06:44Z</timestamp>
+      <contributor>
+        <username>FlightTime</username>
+        <id>8356162</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/Jsiconcept|Jsiconcept]] ([[User talk:Jsiconcept|talk]]): Restore. Wasn't broke. (Using [[Wikipedia:Twinkle|Twinkle]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="47959">{{Infobox military person
+|name= Pappy Boyington
+|image= Pappy Boyington.jpg
+|image_size=
+|alt=
+|caption= Major Gregory "Pappy" Boyington during World War II
+|nickname= "Pappy", "Gramps"
+|birth_name= Gregory Boyington
+|other_name= Gregory Hallenbeck
+|birth_date= {{Birth date|1912|12|4}}
+|birth_place= [[Coeur d'Alene, Idaho]], United States
+|death_date= {{Death date and age|1988|1|11|1912|12|4}}
+|death_place= [[Fresno, California]], United States
+|placeofburial= [[Arlington National Cemetery]]
+|allegiance= {{plainlist|
+* United States
+* China}}
+|branch= {{plainlist|
+* [[United States Marine Corps]]
+* [[Republic of China Air Force]]}}
+|serviceyears= 1934–1947
+|rank= [[Colonel (United States)|Colonel]]
+|unit=
+|commands= {{plainlist|
+* [[VMF-112]]
+* [[VMF-214]]}}
+|battles= {{plainlist|
+* [[Second Sino-Japanese War]]
+* [[World War II]]}}
+* [[Solomon Islands campaign]]
+|awards= {{plainlist|
+* [[Medal of Honor]]
+* [[Navy Cross]]
+* [[Purple Heart]]}}
+|relations=
+|laterwork= [[Boeing]] — [[Technical drawing|draftsman]] and [[Engineering|engineer]].
+}}
+
+'''Gregory "Pappy" Boyington''' (December 4, 1912&amp;nbsp;– January 11, 1988) was an American combat [[Pilot (aircraft)|pilot]] who was a [[United States Marine Corps]] [[Fighter aircraft|fighter]] [[flying ace|ace]] during [[World War II]]. He received both the [[Medal of Honor]] and the [[Navy Cross (United States)|Navy Cross]].
+
+Boyington was initially a US Marine Corps aviator with the Pacific fleet before being recruited by the legendary [[American Volunteer Group|"Flying Tigers"]] (1st American Volunteer Group) in the [[Republic of China Air Force]] in [[Burma]] at the end of 1941 and part of 1942, during the [[Second Sino-Japanese War|military conflict]] between [[Republic of China|China]] and [[Empire of Japan|Japan]], and the beginning of World War II.
+
+In September 1942, he rejoined the Marine Corps. In early 1943, he deployed to the [[South Pacific area|South Pacific]] and began flying combat missions as a Marine [[Vought F4U Corsair|F4U Corsair]] fighter pilot. In September 1943, he took command of Marine fighter squadron [[VMA-214|VMF-214]] ("Black Sheep"). In January 1944, Boyington, outnumbered by Japanese [[Mitsubishi A6M Zero|"Zero"]] planes, was shot down into the [[Pacific Ocean]] after downing one of the enemy planes. He was captured by a Japanese [[submarine]] crew and was held as a [[prisoner of war]] for more than a year and a half. He was released shortly after the [[surrender of Japan]], and a few days before the official surrender documents were signed.
+
+The television series ''[[Baa Baa Black Sheep (TV series)|Baa Baa Black Sheep]]'' was inspired by Boyington and his men in the "Black Sheep" squadron. It ran for two seasons in the late 1970s.
+
+==Early life==
+Born on December 4, 1912 in [[Coeur d'Alene, Idaho]],&lt;ref name="Whoswho"&gt;{{cite web|accessdate=2007-10-21|url=http://www.tecom.usmc.mil/HD/Whos_Who/Boyington_G.htm|title=Colonel Gregory Boyington, USMCR|work=Who's Who in Marine Corps History|publisher=History Division, United States Marine Corps|archiveurl=https://web.archive.org/web/20110615072415/http://www.tecom.usmc.mil/HD/Whos_Who/Boyington_G.htm|archivedate=2011-06-15|dead-url=yes}}&lt;/ref&gt;&lt;ref name=pbisillde&gt;{{cite news|url=https://news.google.com/newspapers?id=jL5YAAAAIBAJ&amp;sjid=DukDAAAAIBAJ&amp;pg=7097%2C386850 |newspaper=Spokesman-Review|location=Spokane, Washington|last=Muir|first=Florabel|agency=''(New York News)''|title=Pappy Boiyngton is ill, destitute|date=July 16, 1967|page=12}}&lt;/ref&gt; he moved with his family to the logging town of [[St. Maries, Idaho|St. Maries]] at age three and lived there until age twelve.&lt;ref name=mmamffwo&gt;{{cite news|url=https://news.google.com/newspapers?id=-LQWAAAAIBAJ&amp;sjid=AyMEAAAAIBAJ&amp;pg=3979%2C3486773|newspaper=Milwaukee Journal|agency=Associated Press|last=Geissler|first=Jessie|title=Missing Marine ace made first flight when only 8|date=January 10, 1944}}&lt;/ref&gt;
+He then lived in [[Tacoma, Washington]], where he was a [[sport wrestling|wrestler]] at [[Lincoln High School (Tacoma)|Lincoln High School]].&lt;ref name=Whoswho/&gt; He took his first flight at St. Maries when he was six years old, with [[Clyde Pangborn]],&lt;ref name=jinx26&gt;{{cite news|url=https://news.google.com/newspapers?id=mBwaAAAAIBAJ&amp;sjid=DyMEAAAAIBAJ&amp;pg=3265%2C2266189|newspaper=Milwaukee Journal|last=Price|first=Bem|agency=(U.S. Marine Corps)|title=Who'll break the 26 jinx, shoot down more planes?|date=February 22, 1944}}&lt;/ref&gt; who later became the first pilot to fly over the [[Pacific Ocean]] non-stop.&lt;ref name=Whoswho/&gt;
+
+After graduation from high school in 1930, Boyington attended the [[University of Washington]] in [[Seattle]], where he was a member of the [[Army Reserve Officers' Training Corps|Army ROTC]] and joined the [[Lambda Chi Alpha]] [[Fraternities and sororities in North America|fraternity]].&lt;ref name=Whoswho/&gt; He was on the [[Washington Huskies|Husky]] wrestling and swimming teams, and for a time he held the Pacific Northwest Intercollegiate middleweight wrestling title. He spent his summers working in Washington in a mining camp and at a logging camp, and with the Coeur d'Alene Fire Protective Association in road construction. He graduated in 1934 with a [[Bachelor of Science|B.S.]] in [[Aerospace engineering|aeronautical engineering]]. Boyington married shortly after graduation and worked as a [[Technical drawing|draftsman]] and [[Engineering|engineer]] for [[Boeing]] in Seattle.&lt;ref name=Whoswho/&gt;
+
+In the spring of 1935, he applied for flight training under the [[Aviation Cadet Training Program (USN)#Naval Aviation Cadet Act (1935)|Aviation Cadet Act]], but he discovered that it excluded married men.&lt;ref&gt;{{cite book|author=Gamble, Bruce|title=Black Sheep One: The Life of Gregory "Pappy" Boyington|page=49}}&lt;/ref&gt; Boyington had grown up as Gregory Hallenbeck, and assumed his stepfather, Ellsworth J. Hallenbeck, was his father.&lt;ref name=pbisillde/&gt;&lt;ref name=pmvicty&gt;{{cite news|url=https://news.google.com/newspapers?id=1tpXAAAAIBAJ&amp;sjid=kPUDAAAAIBAJ&amp;pg=6304%2C3359432|newspaper=Spokane Daily Chronicle|location=Washington|title=Pappy's mother visitor in city|date=November 17, 1945|page=3}}&lt;/ref&gt;&lt;ref name=apbda75&gt;{{cite news|url=https://news.google.com/newspapers?id=WoROAAAAIBAJ&amp;sjid=5voDAAAAIBAJ&amp;pg=6885%2C1220377|newspaper=Spokane Chronicle|location=Washington|title=Ace 'Pappy' Boyington dies at 75|date=January 11, 1988|page=C5}}&lt;/ref&gt;&lt;!--{{citation needed|date=May 2015}}--&gt;
+
+When he obtained a copy of his birth certificate, however, he learned that his father was actually Charles Boyington, a dentist, and that his parents had divorced when he was an infant.&lt;ref name=mmamffwo/&gt; As there was no record of any Gregory Boyington had ever been married, he enrolled as [[United States Marine Corps|U.S. Marine Corps]] [[Aviation Cadet Training Program (USN)|aviation cadet]] using that name.&lt;ref&gt;{{cite book|author=Gamble, Bruce|title=Black Sheep One: The Life of Gregory "Pappy" Boyington| page=51}}&lt;/ref&gt;
+
+==Military career==
+Boyington had begun his military training in college as a member of Army ROTC and became a cadet captain. He was [[Commissioned officer|commissioned]] a [[Second lieutenant#United States|second lieutenant]] in the [[United States Army|U.S. Army]] [[Coast Artillery]] Reserve in June 1934, and then served two months of active duty with the 630th Coast Artillery at [[Fort Worden]], Washington.{{citation needed|date=March 2017}}
+
+===United States Marine Corps===
+On June 13, 1935, he managed to transfer to the [[United States Marine Corps Reserve|U.S. Marine Corps Reserve]]. He returned to inactive duty on July 16 that year.&lt;ref name=Whoswho/&gt; On February 18, 1936, Boyington accepted an appointment as an aviation cadet in the [[USMCR|Marine Corps Reserve]]. He was assigned to [[Naval Air Station Pensacola|Naval Air Station, Pensacola]], [[Florida]], for flight training. Boyington was designated a [[Naval aviation|Naval Aviator]] on March 11, 1937, then transferred to [[Marine Corps Base Quantico|Quantico]], [[Virginia]], for duty with Aircraft One, [[Fleet Marine Force]]. He was discharged from the Marine Corps Reserve on July 1, 1937 in order to accept a second lieutenant's commission in the regular [[United States Marine Corps|Marine Corps]] the following day.&lt;ref name=Whoswho/&gt;
+
+Boyington attended [[The Basic School]] in [[Philadelphia]] from July 1938 to January 1939. On completion of the course, he was assigned to the 2nd Marine Aircraft Group at the [[NAS San Diego|San Diego Naval Air Station]]. He took part in [[fleet problems]] off the aircraft carriers {{USS|Lexington|CV-2|6}} and {{USS|Yorktown|CV-5|6}}. Promoted to [[lieutenant#United States|first lieutenant]] on November 4, 1940, Boyington returned to Pensacola as an instructor in December.&lt;ref name=Whoswho/&gt;
+
+===Flying Tigers===
+Boyington resigned his commission in the Marine Corps on August 26, 1941, to accept a position with the [[Central Aircraft Manufacturing Company|Central Aircraft Manufacturing Company (CAMCO)]]. CAMCO was a civilian firm that contracted to staff a Special Air Unit to defend [[China]] and the [[Burma Road]]. This later became known as the [[American Volunteer Group]] (AVG), the famed [[Flying Tigers]] in Burma. During his time with the Tigers, Boyington became a flight leader. He was frequently in trouble with the commander of the outfit, [[Claire Chennault]]. Boyington was officially credited with 2 Japanese aircraft destroyed in the air and 1.5 on the ground, but AVG records suggest that one additional ground "kill" may have been due to him.{{cn|date=October 2017}} (He afterward claimed six victories as a Tiger, each kill detailed in his autobiography, but there is no substantiation for that figure, and aircraft destroyed on the ground normally do not count as victories.) In April 1942, he broke his contract with the American Volunteer Group and returned on his own to the United States.
+[[File:Boyingtons Corsair.jpg|thumb|Vought F4U-1A Corsair, BuNo 17883, of Gregory "Pappy" Boyington, the commander of VMF-214, Vella Lavella end of 1943]]
+
+===Return to the Marine Corps===
+On September 29, 1942, he rejoined the Marine Corps and managed to gain a [[Major (United States)|major]]'s commission.&lt;ref name=Whoswho/&gt; The Marine Corps needed experienced combat pilots and in early 1943, he was assigned to [[Marine Aircraft Group 11]] of the [[1st Marine Aircraft Wing]] and deployed to the South Pacific as [[Executive Officer]] of [[VMF-122|Marine Fighter Squadron 122]] operating from [[Guadalcanal]] until April 1943. While assigned to VMF-122, Boyington did not gain any victories. He became commander of [[VMF-112|Marine Fighter Squadron 112]] from July to August 1943. In September 1943, he became [[Commanding Officer]] (CO) of [[VMA-214|Marine Fighter Squadron 214]], better known by its nickname, the "[[Black Sheep Squadron]]."&lt;ref name=Whoswho/&gt;
+
+Boyington received the nickname "Gramps", because at age 31, he was a decade older than most of the Marines serving under him. The name "Gramps" was changed to "Pappy" in a variation on [[The Whiffenpoofs|"The Whiffenpoof Song"]] whose new lyrics had been written by Paul "Moon" Mullen, one of his pilots, and this version was picked up by war correspondents.&lt;ref name=Whoswho/&gt;
+
+Boyington is best known for his exploits in the [[Vought F4U Corsair]] in VMF-214. During periods of intense activity in the [[Russell Islands]]-[[New Georgia]] and [[Bougainville Island|Bougainville]]-[[New Britain]]-[[New Ireland (island)|New Ireland]] areas, Boyington added to his total almost daily. During his squadron's first tour of combat duty, he shot down 14 enemy fighter planes in 32 days. By December 27, his record had climbed to 25.&lt;ref name=Whoswho/&gt;
+
+A typical feat was his attack on Kahili airdrome at the southern tip of Bougainville on October 17, 1943. Boyington and 24 fighters circled the field, where 60 hostile aircraft were based, goading the enemy into sending up a large force. In the fierce battle that followed, 20 enemy aircraft were shot down, while the Black Sheep returned to their base without loss.&lt;ref name=Whoswho/&gt;
+
+Boyington’s squadron, flying from the island of [[Vella Lavella]], offered to down a [[Japanese Zero]] for every baseball cap sent to them by major league players in the [[World Series]]. They received 20 caps and shot down more than that number of enemy aircraft.{{citation needed|date=March 2017}}
+
+On January 3, 1944, he tied [[World War I]] ace [[Eddie Rickenbacker]]'s record of 26 enemy planes destroyed, before he was himself shot down.&lt;ref name=jinx26/&gt;&lt;ref name=mbmia&gt;{{cite news|url=https://news.google.com/newspapers?id=OKcLAAAAIBAJ&amp;sjid=FVUDAAAAIBAJ&amp;pg=6415%2C1070757 |newspaper=The Evening Independent|location=St. Petersburg, Florida|agency=Associated Press|title=Major Boyington, Marine air hero, missing in action|date=January 7, 1944|page=9}}&lt;/ref&gt;&lt;ref name=bsalrop&gt;{{cite news|url=https://news.google.com/newspapers?id=66YkAAAAIBAJ&amp;sjid=uGkDAAAAIBAJ&amp;pg=2147%2C826249|newspaper=Pittsburgh Post-Gazette|agency=Associated Press|last=Hampson|first=Fred|title=Boyington still alive, rumor over Pacific|date=May 23, 1944|page=5}}&lt;/ref&gt;  Boyington himself claimed his total as 28, including the six kills he claimed with the Flying Tigers.
+
+On that mission, forty-eight American fighters, including four planes from the Black Sheep Squadron, were sent on a sweep over [[Rabaul]]. Boyington was tactical commander of the flight and arrived over the target at eight o'clock AM. He was seen to shoot down his 26th plane, but he then became mixed in the general melee of dogfighting planes and was not seen or heard from during the battle, nor did he return with his squadron. Boyington's wingman, Captain George Ashmun, was killed in action.&lt;ref name=Whoswho/&gt;
+
+In later years, Masajiro "Mike" Kawato claimed to have been the pilot who shot down Boyington. He described the combat in two books and numerous public appearances (often with Boyington), but this claim was eventually "disproven," though Kawato repeated his story until his death. Kawato was present during the action in which Boyington was shot down, as one of 70 Japanese fighters which engaged about 30 American fighters.&lt;ref&gt;[http://www.warbirdforum.com/kawato.htm "Kawato Masajiro: The man who didn't shoot down Pappy Boyington"], warbirdforum.com; retrieved April 11, 2006.&lt;/ref&gt;
+
+===Prisoner of war===
+Following a determined but futile search, Boyington was declared [[missing in action]] (MIA).&lt;ref name=bsalrop/&gt; He had been picked up by a Japanese [[submarine]] and became a [[prisoner of war]]. (The submarine was sunk 13 days after picking him up.) According to Boyington's autobiography, he was never accorded official P.O.W. status by the Japanese and his captivity was not reported to the Red Cross.&lt;ref name=bmaralijp&gt;{{cite news|url=https://news.google.com/newspapers?id=DhwKAAAAIBAJ&amp;sjid=rUoDAAAAIBAJ&amp;pg=4203%2C4464174 |newspaper=Ellensburg Daily Record|agency=Associated Press|title=Boyington, Marine ace, reported alive in Japan|date=August 29, 1945|page=1}}&lt;/ref&gt;
+
+He spent the rest of the war, some 20 months, in Japanese [[internment|prison camps]]. After being held temporarily at Rabaul and then [[Chuuk Lagoon|Truk]], where he survived the massive U.S. Navy raid known as "[[Operation Hailstone]]", he was transported first to [[Ōfuna (Prisoner of War Camp)|Ōfuna]] and finally to [[Ōmori|Ōmori Prison Camp]] near [[Tokyo]].  During that time he was selected for temporary promotion to the rank of [[Lieutenant colonel (United States)|lieutenant colonel]]. A fellow American prisoner of war was Medal of Honor recipient submarine captain [[Richard O'Kane]].&lt;ref name=Whoswho/&gt; At Ōfuna Boyington was interned with the former Olympic distance runner and downed aviator [[lieutenant]] [[Louis Zamperini]].&lt;ref&gt;As recounted by Boyington in his book ''Baa baa, black sheep''.&lt;/ref&gt;
+
+On August 29, 1945,&lt;ref name=bmaralijp/&gt; after the atomic bombs and the Japanese capitulation, Boyington was liberated from Japanese custody at Omori Prison Camp. Boyington returned to the United States at [[Naval Air Station Alameda]] on September 12, 1945, where he was met by 21 former squadron members from VMF-214.&lt;ref name=bwbhbsp/&gt;&lt;ref name=pbmogohr&gt;{{cite news |url=https://news.google.com/newspapers?id=wSVSAAAAIBAJ&amp;sjid=qXcDAAAAIBAJ&amp;pg=6975%2C1122902 |newspaper=Deseret News |location=Salt Lake City, Utah |agency=Associated Press |title='Pappy' Boyington meets old gang on his return |date=September 12, 1945 |page=5 }}&lt;/ref&gt; That night a party for him was held at the [[St. Francis Hotel]] in downtown [[San Francisco]] that was covered by [[Life (magazine)|''Life'' Magazine]] in its issue Oct. 1, 1945.  The coverage of the party marked the first time that the magazine had ever shown people consuming alcohol.&lt;ref&gt;Reed, ''Lost Black Sheep'', p.86-7.&lt;/ref&gt;  Prior to his arrival, on September 6, he accepted his temporary lieutenant colonel's commission in the Marine Corps.&lt;ref name=Whoswho/&gt;
+
+===Post-war===
+[[File:Boyington MOH.JPEG|thumb|Boyington shortly after receiving the Medal of Honor]]
+Shortly after his return to the U.S., as a lieutenant colonel,&lt;ref name=bwbhbsp&gt;{{cite news|url=https://news.google.com/newspapers?id=5tZYAAAAIBAJ&amp;sjid=jvUDAAAAIBAJ&amp;pg=4938%2C2071347|newspaper=Spokane Daily Chronicle|location=Spokane, Washington|title=Boyington welcomed by his "Black Sheep"|agency=United Press|date=September 12, 1945|page=1}}&lt;/ref&gt;&lt;ref name=okhlslh&gt;{{cite news|url=https://news.google.com/newspapers?id=wipWAAAAIBAJ&amp;sjid=o-QDAAAAIBAJ&amp;pg=6156%2C5857309|newspaper=Spokesman-Review|location=Spokane, Washington|title=Okanogan crowd hails Boyington|last=Starmont|first=Leon|date=September 24, 1945|page=1}}&lt;/ref&gt; Boyington was ordered to Washington to receive the nation's highest honor&amp;nbsp;— the [[Medal of Honor]]&amp;nbsp;— from the President. The medal had been awarded by the late president, [[Franklin Delano Roosevelt|Franklin D. Roosevelt]] in March 1944 and held in the capital until such time as he could receive it. On October 4, 1945, Boyington received the [[Navy Cross (United States)|Navy Cross]] from the [[Commandant of the Marine Corps]] for the Rabaul raid. On October 5, "Nimitz Day," he and some other sailors and Marines who were also awarded the Medal of Honor, were presented their medals at the [[White House]] by President [[Harry S. Truman]].&lt;ref name=Whoswho/&gt;
+
+Following the receipt of his Medal of Honor and Navy Cross, Boyington made a [[Victory Bond Tour]]. Originally ordered to the Marine Corps Schools, Quantico, he was later directed to report to the Commanding General, Marine Air West Coast, Marine Corps Air Depot, Miramar, San Diego, California. He retired from the Marine Corps on August 1, 1947, and because he was specially commended for the performance of duty in actual combat, he was promoted to colonel.&lt;ref name=Whoswho/&gt;
+
+==Later life==
+Boyington was a tough, hard-living character known for being unorthodox. He was also a heavy drinker, which plagued him in the years after the war, and possibly contributed to his multiple divorces. He freely admitted that during the two years he spent as a P.O.W. his health improved, due to the enforced sobriety. He worked various civilian jobs, including refereeing and participating in [[professional wrestling]] matches.&lt;ref name=Whoswho/&gt;
+
+===Author===
+Boyington wrote his autobiography, ''Baa Baa Black Sheep'', published in 1958.&lt;ref name=birkpbmp&gt;{{cite news|url=https://news.google.com/newspapers?id=NvdPAAAAIBAJ&amp;sjid=VVUDAAAAIBAJ&amp;pg=7564%2C139701|newspaper=Evening Independent|location=St. Petersburg, Florida|last=Cannel|first=Ward|agency=NEA|title=Brass irk Pappy Boyington, famed Marine pilot of war|date=October 2, 1958|page=3A}}&lt;/ref&gt;&lt;ref&gt;{{cite book|author=Boyington, Gregory "Pappy"|year=1958|title=Baa Baa BlackSheep| publisher=Wilson Press|isbn=978-0686111092}}&lt;/ref&gt; He wrote a novel about the [[American Volunteer Group|AVG]]. ''Tonya'' is a spy story with characters who evoked actual individuals, sometimes by transposing the syllables of their names ("Ross Dicky" for Dick Rossi, for example).&lt;ref name=Whoswho/&gt;&lt;ref&gt;{{cite book|author=Boyington, Colonel Gregory|title=Tonya: A Novel|publisher=The Bobbs-Merrill Company, Inc.|date=1960|edition=First|asin=B00225DQ20}}&lt;/ref&gt;
+
+===TV series===
+Many people know him from the mid-1970s television show ''[[Baa Baa Black Sheep (TV series)|Baa Baa Black Sheep]]'', a drama about the Black Sheep squadron based very loosely on Boyington's memoir, with Boyington portrayed by [[Robert Conrad]].&lt;ref name=apbhonsr&gt;{{cite news|url=https://news.google.com/newspapers?id=oBwiAAAAIBAJ&amp;sjid=MGcEAAAAIBAJ&amp;pg=6845%2C3617103|newspaper=Sarasota Herald-Tribune|location=Sarasota, Florida|agency=UPI|title=Ace 'Pappy' Boyington hero of new series|date=April 25, 1976|page=5B}}&lt;/ref&gt;&lt;ref name=bshdwb&gt;{{cite news|url=https://news.google.com/newspapers?id=f8swAAAAIBAJ&amp;sjid=nQUEAAAAIBAJ&amp;pg=6939%2C3647492|newspaper=Ocala Star-Banner|location=Ocala, Florida|agency=Associated Press|title=Black Sheep doing well: Boyington|date=December 15, 1976|page=8B}}&lt;/ref&gt; Like [[Chuck Yeager]] in ''[[The Right Stuff (film)|The Right Stuff]]'' (1983), Pappy had a short walk-on role, as a visiting general for two episodes in the first season ("The Deadliest Enemy of All: Part 2" and "The Fastest Gun") and one episode in the second season ("Ten'll Get You Five") of the show.&lt;ref&gt;http://www.orgsites.com/ny/port-jefferson-station-marines/MCVNewsletter2015_05.pdf&lt;/ref&gt;
+
+Many of Boyington's men were irate over the show, charging it was mostly fiction and presented a glamorized portrayal of Boyington. On the television show, Boyington was depicted as owning a [[bull terrier]] dog, named "Meatball". However, he was heard commenting at a 1970s [[Experimental Aircraft Association]] air show book signing that if he did have a dog at the time, it wouldn't have been such "an ugly" dog. Boyington frequently told interviewers and audiences that the television series was fiction and only slightly related to fact, calling it "hogwash and Hollywood [[Bullshit|hokum]]".&lt;ref&gt;{{cite magazine|author=Bates, Tom|title=Black Sheep of the South Pacific|magazine=[[Soldier of Fortune (magazine)|SOF's Action Series]]|volume= II|number=6: Valor|date=December 1986|publisher= Omega Group, Ltd.|pages=56–57}}&lt;/ref&gt;
+
+===Publicity===
+While paintings and publicity photographs often show Boyington with aircraft number 86 "LuluBelle" covered in victory flags, he had not flown this in combat. In fact, he rarely flew the same aircraft more than a few times. Reportedly, he would choose the F4U in the worst shape, so that none of his pilots would be afraid to fly their own aircraft.&lt;ref name=Whoswho/&gt;
+
+A publicity photo taken of Boyington in F4U-1A Corsair number 86 was taken at [[Espiritu Santo]] (code named BUTTON), in the [[New Hebrides]] on 26 November 1943. It was taken while VMF-214 was on R&amp;R, between VMF-214s first and second combat tours with Boyington as the commanding officer.  Though Boyington claimed after the war that the name of the plane was "LuluBelle", according to Bruce Gamble's analysis, it was most likely called "LucyBelle". VMF-214 had previously served two combat tours in the [[Solomon Islands]] before Boyington assumed command of the squadron.&lt;ref name=Whoswho/&gt;
+
+===Museum Corsair===
+He visited the [[Smithsonian Institution]]'s [[National Air and Space Museum]] [[Paul E. Garber Preservation, Restoration, and Storage Facility]], coincidentally just as the Museum's F4U Corsair left the restoration shop. According to [[Museum docent|docents]] who witnessed the occasion, Boyington climbed into the cockpit "for old time's sake" and attempted to start the engine. He autographed the Corsair with a magic marker in one of the landing gear wells, saying, in effect, that it was a Corsair in the best condition he'd ever seen. Years later that same Corsair hangs from the ceiling at the [[Steven F. Udvar-Hazy Center|NASM Dulles Annex]], and Boyington's autograph is visible from floor level to the sharp-eyed.&lt;ref name=Whoswho/&gt;
+
+===TV appearance===
+In 1957, he appeared as a guest contestant on the television panel show ''[[To Tell The Truth]]''.&lt;ref name=ToTellTruth&gt;{{youtube|oV3SAAtb3XY|Greg "Pappy" Boyington on "To Tell The Truth"}}&lt;/ref&gt; In 1976 Boyington appeared on NBC's [[Today (U.S. TV program)|''Today Show'']] with actor Robert Conrad and was interviewed about the new NBC drama ''Baa Baa Black Sheep''.&lt;ref name=nyt&gt;{{cite web|url=http://mrdsneighborhood.com/2011/01/03/this-day-in-history-13-pappy-boyington-is-shot-down-over-the-pacific|title=This Day in History|date=January 3, 2011|website=mrdsneighborhood.com|accessdate=November 6, 2015}}&lt;/ref&gt;
+
+==Family==
+Boyington had three children with his first wife Helen Clark.&lt;ref name=okhlslh/&gt; They married after his graduation from the University of Washington in 1934. She was 17 years old; they had met at a university dance. One daughter (Janet Boyington) took her own life;&lt;ref&gt;{{cite book|author=Gamble, Bruce|title=Black Sheep One: The Life of Gregory "Pappy" Boyington|page=423}}&lt;/ref&gt; one son (Gregory Boyington, Jr.) graduated from the [[United States Air Force Academy|U.S. Air Force Academy]] in 1960 and retired from the U.S. Air Force as a [[Lieutenant colonel (United States)|lieutenant colonel]]. His youngest child was Gloria Boyington.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=ZKgpAAAAIBAJ&amp;sjid=p-8DAAAAIBAJ&amp;pg=7088%2C6064408|title=Marine ace 'Pappy' Boyington, North Idaho native, dies at 75|newspaper=Spokesman-Review|location=Spokane, Washington|date=January 12, 1988|page=A8}}&lt;/ref&gt;
+
+During World War II, his three children were placed in the charge of their aunt and grandmother after Boyington divorced Helen when he returned to America in 1941 after serving with the Flying Tigers. He charged his ex-wife with neglecting the children. Boyington married Frances Baker, 32, of Los Angeles on January 8, 1946. Marriage records showed Boyington had been divorced in Seattle in 1941 and Baker won her freedom from a previous mate in San Francisco in 1932.&lt;ref name="acesofww2.com"&gt;[http://acesofww2.com/USA/aces/boyington Aces of WWII: Gregory "Pappy" Boyington], acesofww2.com; accessed March 2, 2017.&lt;/ref&gt;
+
+His third marriage was to Delores Tatum, 33, on October 28, 1959. It was the second marriage for Tatum, and the third for the 46-year-old Boyington.&lt;ref name="acesofww2.com"/&gt; Boyington and Delores had one adopted child.&lt;ref&gt;{{cite web |url=http://ww2gravestone.com/people/boyington-pappy-gregory/ |title=World War II Graves: Boyington, "Pappy" Gregory}}&lt;/ref&gt; He married Josephine Wilson Moseman of Fresno in 1978. This marriage was his fourth.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/1988/01/12/obituaries/pappy-boyington-is-dead-at-75-hero-of-the-black-sheep-squadron.html|title='Pappy' Boyington Is Dead at 75; Hero of the Black Sheep Squadron|newspaper=NY Times|date=January 12, 1988}}&lt;/ref&gt;
+
+==Death==
+A heavy smoker for years, Boyington died in his sleep on January 11, 1988, at the age of 75 in [[Fresno, California]]. He had battled cancer since the 1960s.&lt;ref&gt;{{cite news|last=Folkart|first=Burt A.|title=Flying Ace Pappy Boyington, Who Shot Down 28 Zeros, Dies at 75|url=http://articles.latimes.com/1988-01-12/news/mn-35105_1_gregory-pappy-boyington|accessdate=August 22, 2011|newspaper=Los Angeles Times|date=January 12, 1988}}&lt;/ref&gt;
+
+Boyington was buried in [[Arlington National Cemetery]] on January 15 in plot 7A-150 with [[Military funeral|full military honors]] accorded to a Medal of Honor recipient, including a [[Missing man formation|missing man fly-by]] conducted by the [[F-4 Phantom II]]s of the [[USMC|Marine]] detachment at [[Andrews Air Force Base]].&lt;ref&gt;{{cite web|url=http://ww2gravestone.com/general/boyington-pappy-gregory|website=ww2gravestone.com|title=Boyington, Pappy Gregory}}&lt;/ref&gt; Before his flight from Fresno, [[VMA-214]] (the current incarnation of the [[Black Sheep Squadron]]) did a flyby. They intended to perform a [[missing man formation]], but one of the four aircraft suffered a mechanical problem.&lt;ref&gt;{{cite book|author=Gamble, Bruce|title=Black Sheep One: The Life of Gregory "Pappy" Boyington|page=415}}&lt;!-- ISSN/ISBN --&gt;&lt;/ref&gt;
+
+After the burial service for Boyington, one of his friends, Fred Losch, looked down at the headstone next to which he was standing, that of boxing legend [[Joe Louis]], and remarked that "Ol' Pappy wouldn't have to go far to find a good fight."&lt;ref&gt;{{cite book|author=Gamble, Bruce|title=Black Sheep One: The Life of Gregory "Pappy" Boyington|page=416}}&lt;!-- ISSN/ISBN needed --&gt;&lt;/ref&gt;
+
+==Military awards==
+Boyington's military decorations and awards include:
+&lt;center&gt;
+{|
+|-
+| colspan="4" style="text-align:center;"|[[File:Naval Aviator Badge.jpg|200px]]
+|-
+|{{Ribbon devices|number=0|type=award-star|ribbon=Medal of Honor ribbon.svg|width=106|alt=A light blue ribbon with five white five pointed stars}}
+|{{Ribbon devices|number=0|type=award-star|ribbon=Navy Cross ribbon.svg|width=106}}
+|{{Ribbon devices|number=0|type=award-star|ribbon=Purple Heart BAR.svg|width=106}}
+|-
+|{{Ribbon devices|number=1|type=service-star|ribbon=Ribbon, U.S. Navy Presidential Unit Citation.svg|width=106}}
+|{{Ribbon devices|number=0|type=service-star|ribbon=Prisoner of War ribbon.svg|width=106}}
+|{{Ribbon devices|number=1|type=service-star|ribbon=American Defense Service Medal ribbon.svg|width=106}}
+|-
+|{{Ribbon devices|number=0|type=service-star|ribbon=American Campaign Medal ribbon.svg|width=106}}
+|{{Ribbon devices|number=5|type=service-star|ribbon=Asiatic-Pacific Campaign ribbon.svg|width=106}}
+|{{Ribbon devices|number=0|type=service-star|ribbon=World War II Victory Medal ribbon.svg|width=106}}
+|}
+{| class="wikitable"
+|-
+| colspan="5" style="text-align:center;"|[[Naval Aviator insignia]]
+|-
+|[[Medal of Honor]]
+|[[Navy Cross (United States)|Navy Cross]]
+|[[Purple Heart Medal]]
+|-
+|[[Presidential Unit Citation (United States)|Presidential Unit Citation]] w/ [[service star|{{frac|3|16}}" bronze star]]
+|[[Prisoner of War Medal]]
+|[[American Defense Service Medal]] w/ {{frac|3|16|}}" bronze star
+|-
+|[[American Campaign Medal]]
+|[[Asiatic-Pacific Campaign Medal]] w/ {{frac|3|16}}" silver star
+|[[World War II Victory Medal (United States)|World War II Victory Medal]]
+|}&lt;/center&gt;
+
+===Medal of Honor citation===
+Boyington's Medal of Honor citation reads:
+&lt;blockquote&gt;
+"The [[President of the United States]] in the name of [[United States Congress|The Congress]] takes pleasure in presenting the MEDAL OF HONOR to
+&lt;center&gt;'''MAJOR GREGORY BOYINGTON'''&lt;br /&gt;
+UNITED STATES MARINE CORPS RESERVE
+&lt;/center&gt;
+for service as set forth in the following
+
+CITATION:
+
+For extraordinary heroism above and beyond the call of duty as Commanding Officer of Marine Fighting Squadron TWO FOURTEEN in action against enemy Japanese forces in Central Solomons Area from September 12, 1943 to January 3, 1944.  Consistently outnumbered throughout successive hazardous flights over heavily defended hostile territory, Major Boyington struck at the enemy with daring and courageous persistence, leading his squadron into combat with devastating results to Japanese shipping, shore installations and aerial forces.  Resolute in his efforts to inflict crippling damage on the enemy, Major BOYINGTON led a formation of twenty-four fighters over Kahili on October 17,  and, persistently circling the airdrome where sixty hostile aircraft were grounded, boldly challenged the Japanese to send up planes.  Under his brilliant command, our fighters shot down twenty enemy craft in the ensuing action without the loss of a single ship.  A superb airman and determined fighter against overwhelming odds,  Major BOYINGTON personally destroyed 26 of the many Japanese planes shot down by his squadron and by his forceful leadership developed the combat readiness in his command which was a distinctive factor in the Allied aerial achievements in this vitally strategic area.
+
+&lt;center&gt;[[Franklin D. Roosevelt|FRANKLIN D. ROOSEVELT]]&lt;/center&gt;&lt;/blockquote&gt;
+
+&lt;small&gt;Source:&lt;/small&gt;&lt;ref name=AMOHW&gt;{{cite web
+ |accessdate=June 8, 2009
+ |url = http://www.history.army.mil/html/moh/wwII-a-f.html
+ |title = Medal of Honor recipients
+ |work = World War II (A–F)
+ |publisher= [[United States Army Center of Military History]]
+ |date = June 8, 2009}}&lt;/ref&gt;
+
+==Personal honors==
+Boyington's personal honors include:
+
+===Airport renaming===
+[[File:Pappy Boyington Field Sign.jpg|thumb|Sign on the perimeter fence of the Coeur D'Alene (Idaho) Airport]]
+In August 2007, the Coeur d'Alene airport was renamed the "[[Coeur d'Alene Airport|Coeur d'Alene Airport–Pappy Boyington Field]]" in his honor and dedicated the following month.&lt;ref name=psbbtag&gt;{{cite news|url=https://news.google.com/newspapers?id=JLsyAAAAIBAJ&amp;sjid=SvMDAAAAIBAJ&amp;pg=5082%2C5596452|last=Curless|first=Erica|title=Persistent Boyington backers try again|newspaper=Spokesman-Review|location=Spokane, Washington|date=June 19, 2007|page=B1}}&lt;/ref&gt;&lt;ref name=Curless&gt;{{cite news|url=https://news.google.com/newspapers?id=3A0zAAAAIBAJ&amp;sjid=dvMDAAAAIBAJ&amp;pg=3806%2C5995309|last=Curless|first=Erica|title=CdA airport renamed for 'Pappy'|newspaper=Spokesman-Review|location=Spokane, Washington|date=August 8, 2007|page=B3}}&lt;/ref&gt;&lt;ref name=iplipbf&gt;{{cite news|url=https://news.google.com/newspapers?id=FHYzAAAAIBAJ&amp;sjid=c_MDAAAAIBAJ&amp;pg=3397%2C1409665|newspaper=Spokesman-Review|location=Spokane, Washington|last=Prager|first=Mike|title=In proud landing, it's Pappy Boyington Field|date=September 23, 2007|page=B1}}&lt;/ref&gt;&lt;ref name=mpoapnm&gt;{{cite news|url=https://news.google.com/newspapers?id=2ZhXAAAAIBAJ&amp;sjid=ePMDAAAAIBAJ&amp;pg=3716%2C3141898|newspaper=Spokesman-Review|location=Spokane, Washington|title=Marines proud of airport's name|last=Hagengruber|first=James|date=October 6, 2007 |page=B1 }}&lt;/ref&gt; An independent documentary film called ''[[Pappy Boyington Field]]'' was produced by filmmaker Kevin Gonzalez in 2008, chronicling the grassroots campaign to add the commemorative name.&lt;ref&gt;{{cite web|url=https://www.usatoday.com/news/world/2008-02-09-boyington_N.htm|title=Film tracks effort to honor 'Black Sheep' figure|author=Nicholas K. Geranios|publisher=Associated Press/''[[USA Today]]''|date=2008-02-09}}&lt;/ref&gt; The film showcases many of the local veterans who were involved with the campaign, as well as the personal insights into Boyington's life provided by his son, Gregory Boyington, Jr., and the actor Robert Conrad, who portrayed him in the television series. The documentary film has been [https://web.archive.org/web/20130311182225/http://www.hqmc.marines.mil/News/NewsArticleDisplay/tabid/3488/Article/78724/movie-review-pappy-boyington-field.aspx reviewed by the Marines].
+
+===University of Washington Medal of Honor Memorial===
+In February 2006, a resolution recommending a memorial be erected to honor Boyington for his service during World War II was raised and defeated at the [[University of Washington]]&lt;ref&gt;[http://senate.asuw.org/legislation/12/R/R-12-18.html "A Resolution to Calling for a Tribute for Col. Gregory 'Pappy' Boyington, USMC", Resolution R-12-18] {{webarchive|url=https://web.archive.org/web/20090107021432/http://senate.asuw.org/legislation/12/R/R-12-18.html |date=2009-01-07 }}, Associated Students of the University of Washington Student Senate, submitted January 11, 2006; retrieved February 24, 2006.&lt;/ref&gt; (Boyington's alma mater) during a meeting of the Associated Students of the University of Washington's Student Senate.&lt;ref&gt;[http://archives.thedaily.washington.edu/search.lasso?-database=DailyWebSQL&amp;-table=Articles&amp;-response=searchpage.lasso&amp;-keyField=__Record_ID__&amp;-keyValue=15449&amp;-search Boyington memorial&amp;nbsp;— A word from the Senate]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, ''The Daily'', February 17, 2006; retrieved February 24, 2006.&lt;/ref&gt; Some people did not believe the resolution's sponsor had fully addressed the financial and logistical problems of installing a memorial, and questioned the widely held assumption that all warriors and acts of war are automatically worthy of memorialization. The story was picked up by some [[blogs]] and conservative news outlets, focusing on two statements made by student senators during the meeting.&lt;ref&gt;Flickinger, Christopher. [http://www.humanevents.com/blog-detail.php?id=12579 "Marines Not Welcome at University of Washington"] {{webarchive|url=https://web.archive.org/web/20120217193038/http://www.humanevents.com/blog-detail.php?id=12579 |date=2012-02-17 }}, ''Human Events", February 20, 2006.&lt;/ref&gt; One student senator, Ashley Miller, said that the UW already had many monuments to "rich, white men" (Boyington claimed partial [[Sioux]] ancestry&lt;ref name=gsnmohrp&gt;{{cite news |url=http://www.lbst.org/newsite/files/MoHGreatSiouxNation.html |publisher=Lower Brule Sioux Tribe |title=Great Sioux Nation Medal of Honor Recipients |accessdate=October 9, 2015}}&lt;/ref&gt; and was not rich);&lt;ref name=pbisillde/&gt; another, Jill Edwards, questioned whether the UW should memorialize a person who killed others, summarized in the minutes as saying "she didn't believe a member of the [[Marine Corps]] was an example of the sort of person UW wanted to produce."&lt;ref&gt;[http://senate.asuw.org/secretary/minutes/senate/12/02-07-2006.pdf UW Senate minutes] {{webarchive|url=https://web.archive.org/web/20090326044450/http://senate.asuw.org/secretary/minutes/senate/12/02-07-2006.pdf |date=2009-03-26 }}, asuw.org; accessed March 2, 2017.&lt;/ref&gt;
+
+After its defeat, a new version of the original resolution was submitted that called for a memorial to all eight UW alumni who received the [[Medal of Honor]].&lt;ref name=bmfuwrevs&gt;{{cite news |url=http://www.seattlepi.com/local/article/Boyington-memorial-for-UW-revisited-1196521.php |newspaper=Seattle Post-Intelligencer |title=Boyington memorial for UW revisited |last=Frey |first=Christine |date=February 21, 2006 |accessdate=October 9, 2015}}&lt;/ref&gt;&lt;ref&gt;[http://senate.asuw.org/legislation/12/R/R-12-26.html "A Resolution Calling a Memorial for UW Alumni awarded the Medal of Honor"] {{webarchive|url=https://web.archive.org/web/20080511145054/http://senate.asuw.org/legislation/12/R/R-12-26.html |date=2008-05-11 }}, Resolution R-12-16, Associated Students of the University of Washington Student Senate, submitted 02/17/2006.&lt;/ref&gt; On April 4, 2006, the resolution passed by a vote of 64 to 14 with several abstentions, on a [[roll call vote]]. The University of Washington Medal of Honor memorial was constructed at the south end of Memorial Way (17th Ave NE), north of [[Red Square (University of Washington)|Red Square]], in the interior of a traffic circle between Parrington and Kane Halls ({{coord|47.6573|-122.3097}}).
+
+Privately funded, it was completed in time for a [[Veterans Day (United States)|Veterans Day]] dedication in November 2009.&lt;ref&gt;[http://uwnews.org/article.asp?articleID=53378 "Honoring the men behind the Medals of Honor with ceremony, exhibit"], University of Washington News website, November 10, 2009.&lt;/ref&gt; In addition to Boyington, it honors [[Deming Bronson]], [[Bruce Crandall]], [[Robert E. Galer|Robert&amp;nbsp;Galer]], [[John D. Hawk|John&amp;nbsp;Hawk]], [[Robert Leisy]], [[William Kenzo Nakamura|William&amp;nbsp;Nakamura]], and [[Archie Van Winkle]].&lt;ref name=nmhmohuw&gt;{{cite news|url=http://www.washington.edu/news/2009/10/21/new-university-of-washington-memorial-honors-alumni-who-hold-the-congressional-medal-of-honor|publisher=University of Washington|agency=UW News|last=O'Donnell|first=Catherine|title=New UW memorial honors alumni who hold the Congressional Medal of Honor|date=October 21, 2009|accessdate=October 9, 2015}}&lt;/ref&gt;&lt;ref name=jkbrmst09&gt;{{cite news|url=http://www.seattletimes.com/seattle-news/uw-to-honor-war-heroes-with-medal-of-honor-memorial|newspaper=Seattle Times|last=Broom|first=Jack|title=UW to honor war heroes with Medal of Honor memorial|date=November 10, 2009|accessdate=October 9, 2015}}&lt;/ref&gt;&lt;ref name=militfrm&gt;{{cite web|url=http://www.usmilitariaforum.com/forums/index.php?/topic/111945-university-of-washington-medal-of-honor-memorial-dedication|publisher=U.S. Militaria Forum|title=University of Washington Medal of Honor Memorial Dedication|accessdate=October 9, 2015}}&lt;/ref&gt;
+
+{{Quotation|&lt;blockquote&gt;&lt;poem&gt;
+Ordinary individuals
+facing extraordinary circumstances
+with courage and selflessness
+answer the call
+and change the course of destiny.
+{{spaces|30}} Medal of Honor&lt;/poem&gt;&lt;/blockquote&gt;}}
+
+{{spaces|25}}&lt;small&gt;Sacrifice - Humility - Courage - Resolve - Valor&lt;/small&gt;  &lt;!-- outer ring --&gt;
+
+===Naval Aviation Hall of Honor===
+Boyington was inducted into the [[Naval Aviation Hall of Honor]] in 1994, located at the [[National Naval Aviation Museum]] in [[Pensacola, Florida]].
+
+==See also==
+* [[List of Medal of Honor recipients]]
+* [[List of Medal of Honor recipients for World War II#B|List of Medal of Honor recipients for World War II]]
+* [[List of Historically Important U.S. Marines]]
+* [[List of military figures by nickname]]
+* [[Baa Baa Black Sheep (TV series)]]
+
+==References==
+{{Marine Corps}}
+
+'''Specific'''
+{{Reflist|30em}}
+
+'''Bibliography'''
+* {{Cite book
+ |last = Crocker
+ |first = H.W.
+ |year = 2006
+ |title = Don't Tread on me: A 400-year history of America at War, from Indian Fighting to Terrorist Hunting
+ |publisher = Crown Forum
+ |location =
+ |isbn = 1-4000-5363-3}}
+* Gamble, Bruce (2000) ''Black Sheep One: The Life of Gregory "Pappy" Boyington'' Presidio Press, Novato, California; {{ISBN|0-89141-716-8}}
+* {{Cite book
+ |last = Reed
+ |first = Robert T.
+ |year = 2001
+ |title = Lost Black Sheep: The Search for WWII Ace Chris Magee
+ |publisher = Hellgate Press
+ |location = Central Point, Oregon
+ |isbn = 1-55571-549-4}}
+* {{cite journal|last=Allison|first=Dr. Fred H.|date=March 2010|title=Boyington and Combat Leadership|journal=Fortitudine|publisher=[[United States Marine Corps History Division]]|location=[[Marine Corps Base Quantico|Quantico]]|volume=35|issue=1|pages=13–18|url=http://www.mcu.usmc.mil/historydivision/Documents/Fortitudine/Fortitudine%20Vol%2035%20No%201.pdf}}
+
+'''Web'''
+* [http://www.acesofww2.com/USA/aces/boyington Pappy Boyington at acesofww2.com]
+* {{cite web|accessdate=October 4, 2010|url=http://www.acepilots.com/usmc_boyington.html|title="Major Gregory "Pappy" Boyington", AcePilots.com}}
+* {{cite web|accessdate=October 4, 2010|url=http://www.acepilots.com/usmc_boyington.html |title=Major Gregory "Pappy" Boyington at acepilots.com}}
+* {{cite web|accessdate=2009-07-15|url=http://www.usmc.mil/moh.nsf/000003c919889c0385255f980058f5b6/000003c919889c0385255fa2005c5eeb?OpenDocument|title=Medal of Honor — Major Gregory Boyington|work=Marines Awarded the Medal of Honor|publisher=History Division, United States Marine Corps|archivedate=2007-01-02|archiveurl=https://web.archive.org/web/20070102234746/http://www.usmc.mil/moh.nsf/000003c919889c0385255f980058f5b6/000003c919889c0385255fa2005c5eeb?OpenDocument|deadurl=yes|df=}}
+* {{cite web|accessdate=2009-07-15|url=http://www.homeofheroes.com/moh/citations_1940_wwii/boyington_gregory.html|title=MOH Citation for Gregory Boyington|publisher=HomeOfHeroes.com}}
+* {{cite web|accessdate=October 4, 2010|url=http://www.warbirdforum.com/roster.htm|title=Complete Roster of the American Volunteer Group}}
+* {{cite web|accessdate=October 4, 2010|url=http://www.flyingtigersavg.22web.org/camco.htm|title=Roster of the American Volunteer Group showing Boyington's status as flight leader}}
+* {{cite web|accessdate=October 4, 2010|url=http://www.warbirdforum.com/gregboy.htm|title=Greg Boyington, Flying Tiger (including AVG citation crediting him with 2 air-to-air and 2.5 ground victories)}}
+* Heaton, Colin. [https://web.archive.org/web/20070129134724/http://www.historynet.com/historical_conflicts/3031276.html Boyington's final interview], originally published in ''Aviation History'', May 2001.
+
+==Further reading==
+* {{Cite book |first = Gregory |last = Boyington |title = Baa baa, black sheep |location = New York |publisher = Bantam Books |year = 1990 |origyear = 1958 |isbn = 0-553-26350-1 |oclc = 2124961}}
+* {{Cite book |first = Daniel |last = Ford |authorlink = Daniel Ford |title = Flying Tigers: Claire Chennault and His American Volunteers, 1941-1942 |location = New York |publisher = Smithsonian Books/Collins |year = 2007 |edition = Updated and rev. |isbn = 978-0-06-124655-5 |oclc = 76481585}}
+* {{Cite book |first = Bruce |last = Gamble |title = Black Sheep One, The Life of Gregory "Pappy" Boyington |location = California |publisher = Presidio Press |year = 2000 |edition = Hardcover |isbn = 0-89141-716-8}}
+* {{Cite book |first = Bruce |last = Gamble |title = Black Sheep One, The Life of Gregory "Pappy" Boyington |location = California |publisher = Presidio Press |year = 2000 |edition = Paperback |isbn = 0-89141-801-6 |ref=Gamble_BS1}}
+* {{Cite book |first = Bruce |last = Gamble |title = The Black Sheep, The Definitive Account of Marine Fighting Squadron 214 in World War II |location = New York |publisher = Presidio Press/Random House |year = 1998 |edition = Hardcover |isbn = 0-89141-644-7}}
+* {{Cite book |first = Bruce |last = Gamble |title = The Black Sheep, The Definitive Account of Marine Fighting Squadron 214 in World War II |location = New York |publisher = Presidio Press/Random House |year = 1998 |edition = Paperback |isbn = 0-89141-825-3 |ref=Gamble_VMF214}}
+* Colonel R. Bruce Porter and [[Eric M. Hammel]] ''ACE!:A Marine Night-Fighter Pilot in World War II'' Pacifica Press, {{ISBN|0-935553-31-2}}
+
+==External links==
+* [http://navylog.navymemorial.org/boyington-gregory United States Navy Memorial] – Gregory 'Pappy' Boyington
+* [http://www.arlingtoncemetery.net/ghboying.htm Arlington National Cemetery] – Gregory H. 'Pappy' Boyington
+* [http://www.historylink.org/index.cfm?displaypage=output.cfm&amp;file_id=10798 History Link] – Gregory 'Pappy' Boyington
+* {{cite web |accessdate=October 4, 2010 |url=http://www.pappyboyingtonfield.com |title=Pappy Boyington Field" documentary film}}
+* {{cite web |accessdate=October 4, 2010 |url=https://www.youtube.com/watch?v=8nKTRodbxcY&amp;feature=related |title=Video showing two interviews with Pappy Boyington}}
+* {{Internet Archive film clip|id=August291945Newsreel-MajorBoyingtonIsFoundAlive|description=of a August 29, 1945 Newsreel — "Major Boyington Is Found Alive"}}
+* [http://www.airnav.com/airport/KCOE AirNav.com] — airport information — Pappy Boyington Field — Coeur d'Alene, Idaho
+* {{Find a Grave|2075}}
+
+{{US Marine Corps navbox}}
+{{Native Americans and World War II}}
+{{Top US World War II Aces}}
+{{Authority control}}
+{{Subject bar
+| portal1=Aviation
+| portal2=Biography
+| portal3=United States Marine Corps
+| portal4=World War II
+| commons=y
+| commons-search=Gregory "Pappy" Boyington
+}}
+
+{{DEFAULTSORT:Boyington, Pappy}}
+[[Category:1912 births]]
+[[Category:1988 deaths]]
+[[Category:American World War II flying aces]]
+[[Category:United States Marine Corps Medal of Honor recipients]]
+[[Category:Recipients of the Navy Cross (United States)]]
+[[Category:American prisoners of war in World War II]]
+[[Category:Flying Tigers]]
+[[Category:Shot-down aviators]]
+[[Category:Sioux people]]
+[[Category:United States Marine Corps officers]]
+[[Category:United States Marine Corps pilots of World War II]]
+[[Category:United States Naval Aviators]]
+[[Category:World War II prisoners of war held by Japan]]
+[[Category:World War II recipients of the Medal of Honor]]
+[[Category:University of Washington alumni]]
+[[Category:American autobiographers]]
+[[Category:Aviators from Idaho]]
+[[Category:Aviators from Washington (state)]]
+[[Category:Burials at Arlington National Cemetery]]
+[[Category:Deaths from cancer in California]]
+[[Category:People from St. Maries, Idaho]]
+[[Category:People from Coeur d'Alene, Idaho]]
+[[Category:Military personnel from Tacoma, Washington]]</text>
+      <sha1>gohqpay58yqas7h5sai4d1scclovge2</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,328 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bob Monkhouse</title>
+    <ns>0</ns>
+    <id>151565</id>
+    <revision>
+      <id>853846433</id>
+      <parentid>851524936</parentid>
+      <timestamp>2018-08-07T09:37:01Z</timestamp>
+      <contributor>
+        <username>Rcb1</username>
+        <id>3780800</id>
+      </contributor>
+      <comment>format postnominal</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28247">{{Use British English|date=October 2014}}
+{{Use dmy dates|date=January 2014}}
+{{Infobox person
+| name         = Bob Monkhouse
+| honorific_suffix = [[Order of the British Empire|OBE]]
+| image        = File:Bob Monkhouse.jpg
+| caption      = 
+| birth_name   = Robert Alan Monkhouse
+| birth_date   = {{Birth date|1928|6|1|df=yes}}
+| birth_place  = [[Beckenham]], [[Kent]], England
+| death_date   = {{Death date and age|df=yes|2003|12|29|1928|6|1}}
+| death_place  = [[Eggington]], [[Bedfordshire]], England
+| years_active = 1952–2003
+| spouse       = Elizabeth Thompson (1949–1972)&lt;br /&gt;Jacqueline Harding (1973–2003; his death)
+| children     = 3 (1 adopted)
+}}
+'''Robert Alan Monkhouse''' {{post-nominals|country=GBR|OBE}} (1 June 1928 – 29 December 2003) was an English entertainer and comedian.
+
+He was a comedy writer, comedian and actor and was also well known on television as a presenter and game show host.  He was probably best known for being host of the TV game shows ''[[The Golden Shot]]'', ''[[Celebrity Squares]]'', and ''[[Family Fortunes]]''.
+
+== Early life and career ==
+Monkhouse was born on 1 June 1928&lt;ref&gt;{{cite web|url=http://www.findmypast.com/|title=Trace your Family Tree Online – Genealogy &amp; Ancestry from Findmypast – findmypast.com|publisher=}}&lt;/ref&gt; at 168 Bromley Road, [[Beckenham]], [[Kent]], the son of Wilfred Adrian Monkhouse (1894–1957) and Dorothy Muriel Monkhouse ''née'' Hansard (1895–1971). Monkhouse had an elder brother, John, who was born in 1922. Monkhouse's grandfather John Monkhouse (1862–1938) was a prosperous [[Methodist]] businessman who co-founded Monk and Glass, which made custard powder and jelly.&lt;ref name="BBC obit"&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/1958051.stm |title=Obituary: Bob Monkhouse |accessdate=31 August 2008 |publisher=BBC News |date=29 December 2003 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=Viner |first=Brian |title=King Arthur, Attila the Hun and BobMonkhouse |journal=The Independent |publisher=Independent (The)|url=https://www.independent.co.uk/opinion/columnists/brian-viner/king-arthur-attila-the-hun-and-bob-monkhouse-755955.html |date=13 July 2004 |accessdate=26 April 2010}}&lt;/ref&gt;In a 2015 documentary, it was revealed that Monkhouse and his older brother suffered from [[Physical abuse|physical]] and [[verbal abuse]] by their mother.
+
+Bob Monkhouse was educated at Goring Hall School in [[Worthing]], [[Sussex]] and [[Dulwich College]] in south London, from which he was expelled for climbing the clock tower&lt;ref&gt;https://www.reddit.com/r/unitedkingdom/comments/6zvtvi/what_was_the_biggest_scandal_at_your_school/dmyuxkf/&lt;/ref&gt;. While still at school, Monkhouse wrote for ''[[The Beano]]'' and ''[[The Dandy]]'' and drew for other comics including ''[[Hotspur (comic)|Hotspur]]'', ''[[Wizard (DC Thomson)|Wizard]]'' and ''Adventure''.&lt;ref name="Guardian obit" /&gt; He established a comics writing and art partnership with Dulwich schoolmate [[Denis Gifford]] and the two formed their own publishing company in the early 1950s. Among other writing, Monkhouse wrote more than 100 ''Harlem Hotspots'' erotic novelettes.&lt;ref name="Guardian obit" /&gt;
+
+Monkhouse completed his [[National Service]] with the [[Royal Air Force]] in 1948. He won a contract with the BBC after his unwitting RAF group captain signed a letter that Monkhouse had written telling the BBC he was a war hero and that the corporation should give him an audition.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/124769.stm |title=BBC fooled into giving Bob his big break |accessdate=31 August 2008 |publisher=BBC News |date=2 July 1998}}&lt;/ref&gt;
+
+Before establishing himself as a successful writer and comedian, Monkhouse appeared on stage in London, first as [[Aladdin]] in [[Aladdin (1958 film)|a stage show of the same name]] written by [[S. J. Perelman]] and [[Cole Porter]]. Then in the first London production of the musical ''[[The Boys from Syracuse]]'' (Antipholus of Syracuse) in 1963 at the [[Theatre Royal, Drury Lane]], alongside [[Ronnie Corbett]].&lt;ref&gt;London Cast Recording. The Boys from Syracuse. Decca Record Company Limited, 1963. LK 4564.&lt;/ref&gt;
+
+== Writing and acting success ==
+Monkhouse's adult career began as a scriptwriter for radio comedy in partnership with [[Denis Goodwin]], a fellow [[Old Alleynian]] with whom he also compèred ''Smash Hits'' on [[Radio Luxembourg (English)|Radio Luxembourg]]. Aside from performing as a double act, Monkhouse and Goodwin wrote for comedians such as [[Arthur Askey]], [[Jimmy Edwards]], [[Ted Ray (comedian)|Ted Ray]] and [[Max Miller (comedian)|Max Miller]].&lt;ref name="BBC obit" /&gt;&lt;ref name="Times obit"&gt;{{cite news |url=http://www.timesonline.co.uk/tol/tools_and_services/specials/article840298.ece |title=Bob Monkhouse – The Times obituary |accessdate=31 August 2008 |publisher=Times Online |date=29 December 2003 | location=London |first=Fiona |last=Hamilton}}&lt;/ref&gt;  In addition, they were also gag writers for American comedians including [[Bob Hope]] when they wanted jokes for British tours. Indeed, when Goodwin broke up the partnership in 1962 it was to go and work for Hope.&lt;ref name="youtube1"&gt;{{cite web |url=https://www.youtube.com/watch?v=tooDIHN6o2o&amp;feature=related |title=The Secret Life Of Bob Monkhouse (BBC) |publisher=YouTube |date=15 February 2012 |accessdate=12 June 2012}}&lt;/ref&gt;
+
+In 1956, Monkhouse was  the host of ''Do You Trust Your Wife?'', the British version of an American game show. He went on to host more than 30 different quiz shows on British television.&lt;ref name="BBC obit" /&gt; His public profile growing, Monkhouse also began appearing in comedy films including the first of the [[Carry On films|Carry On]] film series, ''[[Carry On Sergeant]]'' in 1958. He appeared in ''[[Dentist in the Chair]]'' (1961) and later regretted not choosing the ''Carry On''s over the dental comedies. Other presenting jobs in the 1960s included hosting ''[[Candid Camera]]'' and compèring ''[[Sunday Night at the London Palladium]]''. Around 1969 he was a partner, with Malcolm Mitchell, in the Mitchell Monkhouse Agency. In 1979 he starred in a US sketch comedy television series called ''[[Bonkers!]]'' with the [[Hudson Brothers]] and [[Joan Rivers]], a job he hated. In the early 1970s he appeared on BBC Radio in ''Mostly Monkhouse'' with [[Josephine Tewson]] and [[David Jason]].
+
+== Stand-up comedy ==
+A respected [[Stand-up comedy|stand-up]] comedian, Monkhouse was known for his talent at [[ad-libbing]]. He became much in demand as an after-dinner speaker and wrote a book about the subject, ''Just Say a Few Words'' (Lennard Publishing, 1988, 1999).
+
+He also became a favourite with [[impressionist (entertainment)|impressionists]], and, as his comedy style fell out of favour in the 1980s, he was mocked for his slickness and accused of insincerity. He came back into fashion during the 1990s, and an appearance on ''[[Have I Got News for You]]'' helped to restore his popularity.
+
+Monkhouse's final stand-up show was performed at the Albany Comedy Club in London in 2003&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/news/2016/12/23/26517/bob_monkhouses_last_gig|title=Bob Monkhouse's last gig|date=23 December 2016}}&lt;/ref&gt;, a few months before his death. The show was broadcast by the BBC in 2016&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/iplayer/episode/b086tw3q/bob-monkhouse-the-last-stand|title=Bob Monkhouse: The Last Stand|date=26 December 2016}}&lt;/ref&gt;. Among the audience were a number of British comedians who had been personally invited by Monkhouse, including [[Reece Shearsmith]], [[Jon Culshaw]], [[David Walliams]], [[Fiona Allen]] and [[Mark Steel]]. The show also included a rare public appearance from Monkhouse's friend [[Mike Yarwood]].
+
+== Game shows ==
+In his later years, Monkhouse was probably better known for hosting television quiz shows than for being a comedian. One of his biggest successes was ''[[The Golden Shot]]'' from 1967 until 1972 and again in 1974. This was broadcast live for 52 weeks a year and drew up to 17 million viewers.&lt;ref name="Times obit" /&gt; His tenure ended with allegations, which he denied, that he had taken bribes to include branded goods on the programme as advertisements.&lt;ref name="youtube1" /&gt; He returned in 1974 after comedians [[Norman Vaughan (comedian)|Norman Vaughan]] and [[Charlie Williams (comedian)|Charlie Williams]] were found wanting.&lt;ref name="youtube1" /&gt; The dozens of other shows Monkhouse presented included ''[[Celebrity Squares]]'', ''[[Family Fortunes]]'' and ''[[Bob's Full House]]''. Audiences regularly topped 15 million.&lt;ref name="Guardian obit" /&gt; In the late 1980s he hosted two series of the revival of the talent show ''[[Opportunity Knocks (UK TV series)|Opportunity Knocks]]'', which aired as ''Bob Says Opportunity Knocks.'' He then moved to ITV to front two more game shows, ''Bob's Your Uncle'' and the ''$64,000 Dollar Question'', neither of which were popular successes.
+
+Between 1996 and 1998, Monkhouse presented the [[National Lottery (United Kingdom)|National Lottery]] show on Saturday evenings on BBC One for which he created the catchphrase: "I know I'm a sinner, but make me a winner!" The opening to each show would see him deliver several minutes of topical jokes and on one occasion, where his [[autocue]] failed, he improvised a new and topical routine. This talent was used in ''Bob Monkhouse on the Spot'', a return to pure television comedy, in which audience members suggested topics and Monkhouse came up with a routine. Monkhouse returned to quizzes when he took over hosting duties on ''[[Wipeout (UK game show)|Wipeout]]'' from [[Paul Daniels]], when its studio recordings moved from London to [[Manchester]] and the show moved from primetime to daytime. Monkhouse hosted ''Wipeout'' between 1998 and 2003.
+
+== Chat show ==
+After being a stalwart of chat shows, in the mid-1980s Monkhouse presented his own for the BBC, ''The Bob Monkhouse Show''. The show lasted two series and showcased comedians of every age. Monkhouse was criticised for sycophancy towards his guests but said that they were all heroes of his and that was how he really felt about them.&lt;ref name="youtube1" /&gt; Monkhouse was known as a keen supporter of new comedy and he used the show to introduce audiences to new comedians such as [[Kelly Monteith]], [[Robin Williams]] and [[Jim Carrey]]. The format of the interviews varied between "true" chat and analysis of comedy, to scripted routines in which Monkhouse would willingly play the role of the guest's [[Stooge (comedian)|stooge]] as he did with [[Bob Hope]].&lt;ref name="youtube1" /&gt; On one occasion the guest was the comedian [[Pamela Stephenson]] who, after prior arrangement with the show's producer, appeared in a series of fake plaster casts, apparently the result of accidents whilst at home. During the interview she produced a handgun and fired it on several occasions, destroying a plant pot on the set and a series of lights in the studio roof. She then presented a rocket launcher which she promptly "fired" destroying a camera. The gun, launcher and camera were props. None of this was known to Monkhouse who appeared genuinely frightened (although the production crew were aware).
+
+== Film and television archive ==
+An expert on the history of [[silent movies|silent cinema]] and a film collector, Monkhouse presented ''Mad Movies'' in 1966. He wrote, produced, financed and syndicated the show worldwide. The show featured clips from comic silent films, many from his own private collection, some of which he had helped to recover and restore. This film collection was the cause of a court case at the [[Old Bailey]] in 1979. Having loaned [[Terry Wogan]]'s son a film, Monkhouse was charged with attempting to defraud film distributors of royalties, but after two years the judge decided that there was no case to answer.&lt;ref name="youtube1" /&gt; Many of the films in his collection were seized and not returned to Monkhouse.&lt;ref name="films"&gt;{{Cite web|url=https://www.independent.co.uk/news/obituaries/bob-monkhouse-37715.html |title=Bob Monkhouse: Obituary |accessdate=17 April 2016 |work=The Independent}}&lt;/ref&gt;
+
+In 2008, the [[British Film Institute]] was contacted by Monkhouse's daughter, Abigail, who asked if they would like to view the collection and provide some advice as to the best way of preserving it. Amongst the discoveries were many radio and TV shows long thought lost. Dick Fiddy, the archivist, said "It's a huge, unwieldy collection which deals with a number of areas. It's not just film and TV. Initially, we found half a dozen TV shows that we knew to be missing."
+
+Amongst those shows rediscovered were many that feature Monkhouse himself, including ''The Flip Side'', a 1966 play in which he starred as a television DJ with his own late night show, and the 1957/58 series of his comedy ''[[My Pal Bob]]'' including an episode in which he is suspected of an extramarital affair.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/7774828.stm |title=Bob's full house yields TV treasure  |accessdate=18 December 2008 |publisher=BBC | date=12 December 2008 |first=Kevin |last=Young}}&lt;/ref&gt; The archive consisted of 36,000 videotapes, going back to when Monkhouse first bought a home video recorder in 1966. His film archive began in the late 1950s.
+
+The entire Monkhouse film and television archive is now held by Kaleidoscope, including all the material previously held by the [[BFI National Archive|National Film and Television Archive]] (NFTVA). It was catalogued and restored to digital formats for a major event at [[British Academy of Film and Television Arts]] (BAFTA) on 24 October 2009. Chris Perry, of Kaleidoscope and [[Kaleidoscope Publishing]], said: "We are painstakingly transferring the important contents of the video tapes and restoring radio shows. There are many incredible finds, and the event [is] an exciting time for all concerned."
+
+In his final years, Monkhouse hosted a show on [[BBC Radio 2]] called ''The Monkhouse Archive'', in which he provided humorous links to clips of comedy acts spanning the previous 50 years.
+
+== Honours, awards and legacy==
+In 1993 Monkhouse was appointed an [[Officer of the Order of the British Empire]], for services to entertainment.&lt;ref&gt;Alistair D. McGown, ''BFI Television Handbook 2005: The Essential Guide to UK TV'' (2005), p. 198&lt;/ref&gt;
+
+In 1995 the [[British Comedy Awards]] gave him its [[British Comedy Awards winners#1995|Lifetime Achievement Award for Comedy]], and eight years later, a few weeks before he died, the [[Television and Radio Industries Club]] awarded him a ''Special Award for Outstanding Contribution to Broadcasting''. He first appeared on ''[[This Is Your Life (UK TV series)|This Is Your Life]]'' in 1982 and unusually received a second appearance on the show on 23 April 2003, just months before his death.&lt;ref&gt;{{cite web|url=http://www.bigredbook.info/bob_monkhouse_1.html |title=Bob Monkhouse |publisher=Bigredbook.info |date= |accessdate=9 November 2017}}&lt;/ref&gt; 
+
+In a poll of fellow comedians and comedy insiders to find the Comedians' Comedian in 2005, Monkhouse was voted among the best 50 comedy acts.
+
+In a piece written several years after Monkhouse's death, critic and satirist [[Michael Deacon (journalist)|Michael Deacon]] suggested that although Monkhouse had feared that his legacy as a comedian would be limited as many people knew him only from his decades of work as a game show host, that his style or writing and performing could be seen as influencing many contemporary British comedians, such as [[Jimmy Carr]] (whose book on comedy ''The Naked Jape'' quoted several Monkhouse jokes), [[Michael McIntyre]], [[Peter Kay]], [[John Bishop]], [[Lee Mack]] and [[Tim Vine]].&lt;ref&gt;{{cite web |url=https://www.telegraph.co.uk/culture/comedy/7927089/Modern-comedys-unlikely-hero-Bob-Monkhouse.html |title=Modern comedy’s unlikely hero: Bob Monkhouse |last=Deacon |first=Michael |author-link=Michael Deacon (journalist) |date=3 June 2015 |website=[[telegraph.co.uk]]|access-date=18 February 2018}}&lt;/ref&gt;
+
+== Personal life ==
+Monkhouse was married twice, firstly to Elizabeth Thompson on 5 November 1949. The couple separated in 1967&lt;ref&gt;''The Secret Life of Bob Monkhouse'', 3 January 2011&lt;/ref&gt; and divorced in 1972. His second marriage was to Jacqueline Harding until his death. He had three children from his first marriage, but only his adopted daughter Abigail survived him. His eldest son Gary Alan, who had [[cerebral palsy]], died in [[Braintree (district)|Braintree]], [[Essex]], in 1992, aged 40; Monkhouse was an avid campaigner for the disabled. His other son Simon, a stand-up poet, from whom he had been estranged for 13 years, died aged 46 from a heroin overdose in a hotel in northern [[Thailand]] in April 2001.&lt;ref name="BBC obit" /&gt;&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/showbiz/1325054.stm |title=Monkhouse 'shattered' by son's death |accessdate=31 August 2008 |work= |publisher=BBC News |date=11 May 2001 }}&lt;/ref&gt;
+
+Monkhouse lived in a house called "Claridges" in [[Eggington]], near [[Leighton Buzzard]], and had a flat in London and a holiday home in [[Barbados]].
+
+In his autobiography, he admitted to hundreds of sexual liaisons and affairs, including one with a [[transsexual]], but claimed that he only undertook this course of action because his first wife was unfaithful.&lt;ref&gt;{{cite news| url=https://www.theguardian.com/theobserver/2000/aug/20/features.magazine27 | location=London | work=The Guardian | first=Lynn | last=Barber | title=Interview: Bob Monkhouse | date=20 August 2000|accessdate=22 January 2014}}&lt;/ref&gt; His lovers before his second marriage included the actress [[Diana Dors]], about whose parties he later commented after her death: "The awkward part about an [[orgy]], is that afterwards you're not too sure who to thank."&lt;ref&gt;{{cite news| url=https://www.theguardian.com/theobserver/2002/sep/29/features.review137 | location=London | work=The Guardian | first=Andrew | last=Anthony | title=Television: Under the weather | date=29 September 2002|accessdate=22 January 2014}}&lt;/ref&gt;
+
+Throughout his career Monkhouse had jotted down jokes, odd facts, one-liners, sketches and ideas in a series of leather bound books, which he took with him to every television, radio, stage and nightclub performance he made. In July 1995, two were stolen and Monkhouse offered a £15,000 reward. They were returned after 18 months,&lt;ref name="Times obit" /&gt; but the thief, although arrested, was never charged. On Monkhouse's death, the books were bequeathed to Colin Edmonds.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/3898261.stm |title=BOB Monkhouse passes on jokes in will |work=[[BBC News]] |date=15 July 2004|accessdate=22 January 2014}}&lt;/ref&gt;
+
+Monkhouse was a vocal supporter of the [[Conservative Party (UK)|Conservative Party]] for some years. He later told his friend Colin Edmonds that this may have been a mistake, but that he wanted to be associated with a winner and he knew [[Margaret Thatcher]] could not lose the 1987 General Election.&lt;ref name="youtube1" /&gt;
+
+He died from [[prostate cancer]] on 29 December 2003.&lt;ref name="Guardian obit"&gt;{{cite news |url=https://www.theguardian.com/news/2003/dec/30/guardianobituaries.artsobituaries |title=Bob Monkhouse&amp;nbsp;– A much-loved comedian and television personality who could also inspire harsh criticism |accessdate=31 August 2008 |author=Dennis Barker |date=30 December 2003 |work=The Guardian |publisher= }}&lt;/ref&gt;
+
+== Posthumous advertisement ==
+On 12 June 2007, Monkhouse posthumously appeared on British TV in an advertisement promoting awareness of [[prostate cancer]] for Male Cancer Awareness Week. Using computer animation techniques, Monkhouse was seen in a [[graveyard]] next to his own grave (though in reality he was [[cremated]]) talking about the disease seriously, interspersed with humorous asides to another camera ("What killed me kills one man per hour in Britain. That's even more than my wife's cooking."). He ended by saying, "As a comedian, I've died many deaths. Prostate cancer, I don't recommend. I'd have paid good money to stay out of this place. What will it take you?" before walking away from his grave and disappearing. 
+
+The advertisement was made with the support of Monkhouse's estate and supported by poster campaigns, including award-winning panels displayed in [[London Underground]] trains.&lt;ref&gt;{{cite journal 
+ |title=Winning Entry in CBS Outdoor ‘Underground Writer’ competition 2008 
+ |first=Alan 
+ |last=Curson 
+ |first2=Shaun 
+ |last2=Patchett 
+ |publisher=[[Exterion Media|CBS Outdoor]] 
+ |url=http://www.cbsoutdoor.co.uk/Global/UK/pr/tcp/_001.jpg 
+ |format=jpg 
+ |archivedate=24 March 2011 
+ |archiveurl=https://www.webcitation.org/5xQP1OYpS?url=http://www.cbsoutdoor.co.uk/Global/UK/pr/tcp/_001.jpg 
+ |postscript={{inconsistent citations}} 
+ |deadurl=yes 
+ |df=dmy 
+ }}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=CBS Outdoor announces The Communications Agency as "The Next Great Underground Writers" |publisher=[[Exterion Media|CBS Outdoor]] |url=http://www.cbsoutdoor.co.uk/en-gb/Discover-CBS-Outdoor/Press-Centre/CBS-Outdoor-announces-The-Communications-Agency-as-The-Next-Great-Underground-Writers/ |archivedate=24 March 2011 |archiveurl=https://www.webcitation.org/5xQPA0vry?url=http://www.cbsoutdoor.co.uk/en-gb/Discover-CBS-Outdoor/Press-Centre/CBS-Outdoor-announces-The-Communications-Agency-as-The-Next-Great-Underground-Writers/ |deadurl=yes |df=dmy }}&lt;/ref&gt; Money raised went to the Prostate Cancer Research Foundation.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/health/6743261.stm |title=Monkhouse to appear in cancer ads |accessdate=31 August 2008 |work= |publisher=BBC News |date=12 June 2007 }}&lt;/ref&gt;
+
+== Partial career summary ==
+
+{{S-start}}
+{{Succession box
+| before = Jackie Rae
+| title  = Host of ''[[The Golden Shot]]''
+| years  = 1967–1972
+| after  = [[Norman Vaughan (comedian)|Norman Vaughan]]
+}}
+{{Succession box
+| before = [[Charlie Williams (comedian)|Charlie Williams]]
+| title  = Host of ''[[The Golden Shot]]''
+| years  = 1974–1975
+| after  = Programme ended
+}}
+{{Succession box
+| before = Programme started
+| title  = Host of ''[[Family Fortunes]]''
+| years  = 1980–1983
+| after  = [[Max Bygraves]]
+}}
+{{Succession box
+| before = [[Paul Daniels]]
+| title  = Host of ''[[Wipeout (UK game show)|Wipeout]]''
+| years  = 1998–2002
+| after  = Programme ended
+}}
+{{S-end}}
+
+=== Television ===
+
+==== As a performer or presenter ====
+{{Div col|colwidth=30em}}
+* ''Fast and Loose'' (1954) (with [[Denis Goodwin]])
+* ''Christmas Box'' (1955)
+* ''The Bob Monkhouse Show'' (1956)
+* ''Beat Up The Town'' (1957)
+* ''[[My Pal Bob]]'' (1957) (with [[Denis Goodwin]])
+* ''[[Royal Variety Performance]]'' (1957)
+* ''[[The Bob Monkhouse Hour]]'' (1958)
+* ''The Big Noise'' (1964)
+* ''Thirty Minute Theatre: The Flip Side'' (1966)
+* ''Mad Movies'' (1966) (he wrote and also produced this show)
+* ''[[Sunday Night at the London Palladium]]'' (January–March 1967)
+* ''Half Hour Story: Bug'' (1967)
+* ''[[The Golden Shot]]'' (1967–72, 1974–75)
+* ''Friends In High Places'' (1969)
+* ''The Bob Monkhouse Comedy Hour'' (1972)
+* ''Quick on the Draw'' (1974)
+* ''[[Celebrity Squares]]'' (UK version of ''[[Hollywood Squares]]'') (1975–79, 1993–96)
+* ''I'm Bob, He's Dickie'' (1977) (6 TV specials)
+* ''[[Bonkers!]]'' (1979)
+* ''[[Family Fortunes]]'' (UK version of ''[[Family Feud]]'') (1980–83)
+* ''[[The Bob Monkhouse Show]]'' (1981–86)
+* ''[[Bob's Full House]]'' (1984–90)
+* ''Bob Says [[Opportunity Knocks (UK TV series)|Opportunity Knocks]]'' (1987–89)
+* ''[[The $64,000 Question (UK game show)|The $64,000 Question]]'' (UK version of ''[[The 64,000 Dollar Question]]'') (1990–93)
+* ''Bob's Your Uncle'' (1991–92)
+* ''All or Nothing at All'' (1993)
+* ''Gagtag'' (1994)
+* ''[[An Audience with...|An Audience With Bob Monkhouse]]'' (1994)
+* ''Bob Monkhouse On The Spot'' (1995)
+* ''[[The National Lottery Live]]'' (1996–98)
+* ''[[Royal Variety Performance]]'' (1996)
+* ''Bob Monkhouse – Over The Limit'' (1998)
+* ''Bob Monkhouse On Campus'' (1998)
+* ''Bob Monkhouse's 70th Birthday'' (1998)
+* ''[[Jonathan Creek]]'' (1998)
+* ''[[Wipeout (UK game show)|Wipeout]]'' (1998–2003)
+* ''[[BBC New Comedy Awards]]'' (1999)
+* ''[[Smash Hits Poll Winners Party]]'' (1999)
+* ''[[Parkinson (TV series)|Parkinson]]'' (2000)
+* ''[[Party at the Palace]]'' (2002)
+* ''[[The Royal Variety Performance]]'' (2002)
+* ''[[Parkinson (TV series)|Parkinson]]'' (2003)
+{{div col end}}
+
+==== As a writer ====
+* ''Fast And Loose'' UK 1954
+* ''Cyril's Saga'' UK 1957
+* ''Early To Braden'' UK 1957
+* ''My Pal Bob'' UK 1957
+* ''The Bob Monkhouse Hour'' UK 1958
+* ''The Big Noise'' UK 1964
+* ''Mad Movies'' UK 1966
+* ''The Bob Monkhouse Comedy Hour'' UK 1972
+* ''I'm Bob, He's Dickie'' UK 1977
+* ''Marti'' UK 1977
+* ''Bonkers'' UK 1979
+* ''An Audience With Bob Monkhouse'' UK 1994
+* ''Bob Monkhouse On The Spot'' UK 1995
+* ''Bob Monkhouse – Over The Limit'' UK 1998
+
+==== As an author ====
+* ''The Book of Days'', 1981, {{ISBN|0-09-927150-8}}
+* ''Just Say a Few Words'' 1988 {{ISBN|0-7535-0908-3}}
+* ''Crying with Laughter: My Life Story'' 1994 {{ISBN|0-09-925581-2}}
+* ''Over the Limit: My Secret Diaries 1993–98'', 1999 {{ISBN|0-09-979981-2}}
+
+==== As a singer ====
+* ''[[You Rang, M'Lord?]]'' 1988
+* ''[[I Remember Natalie]]  1968 CBS Records
+
+==== As a voice actor ====
+* ''[[Thunderbirds Are Go]]'' (1966) 
+* ''[[Rex the Runt]]'' (1998) (Johnny Saveloy in "Johnny Saveloy's Undoing")
+* ''[[Aaagh! It's the Mr Hell Show]]'' (2001) (Mr Hell in all 13 episodes)
+
+=== Radio ===
+* ''Mostly Monkhouse''
+* ''I Think I've Got a Problem''
+* BBC Radio 4's "[[Just A Minute]]" panel game, appearing with Clement Freud, Derek Nimmo and Kenneth Williams in March, 1980.
+
+=== Films ===
+* ''[[Secret People (film)|Secret People]]'' (1952) as Hairdresser
+* ''[[Carry On Sergeant]]'' (1958) as Charlie Sage
+* ''[[Dentist in the Chair]]'' (1960) as David Cookson
+* ''[[A Weekend with Lulu]]'' (1961) as Fred Scrutton
+* ''[[Dentist on the Job]]'' (1961) as David Cookson
+* ''[[She'll Have to Go]]'' (1962) as Francis Oberon
+* ''[[Thunderbirds Are Go]]'' (1966) as Space Navigator Brad Newman / Swinging Star Compere (voice)
+* ''[[The Bliss of Mrs. Blossom]]'' (1968) as Dr. Taylor
+* ''[[Simon, Simon]]'' (1970) as Photographer
+
+=== Stand-up videos ===
+* ''Exposes Himself'' (17 October 1994)
+* ''Live And Forbidden'' (23 October 1995)
+* ''Way Over The Limit'' (23 November 1998)
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Portal|Biography}}
+{{Wikiquote}}
+* {{IMDb name|0598257}}
+* [http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/3353445.stm BBC Obituary for Bob Monkhouse]
+* [http://louderthanwar.com/dying-on-stage-review/ A review of Dying On Stage, a stage play loosely based on Bob Monkhouse's life and career]
+* [http://www.televisionheaven.co.uk/bobmonkhouse.htm Television Heaven]
+* [http://www.chortle.co.uk/comics/b/513/bob_monkhouse Bob Monkhouse on Chortle]
+* {{IMDb title|id=0487838 Mad Movies}}
+* {{cite episode | series=[[The $64,000 Question (UK game show)|The $64,000 Question]]|title = Series 3 final show | credits = Hosted by Bob Monkhouse and produced by [[ITV Central|Central Television]] | url = https://www.youtube.com/watch?v=dogFVzJuTQU&amp;feature=related }}
+{{Authority control}}
+{{DEFAULTSORT:Monkhouse, Bob}}
+[[Category:1928 births]]
+[[Category:2003 deaths]]
+[[Category:BBC television presenters]]
+[[Category:Deaths from cancer in England]]
+[[Category:Deaths from prostate cancer]]
+[[Category:English comics writers]]
+[[Category:Freemasons of the United Grand Lodge of England]]
+[[Category:English game show hosts]]
+[[Category:English male comedians]]
+[[Category:English male film actors]]
+[[Category:English male voice actors]]
+[[Category:English male television actors]]
+[[Category:English television presenters]]
+[[Category:Male actors from Kent]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:People educated at Dulwich College]]
+[[Category:People from Beckenham]]
+[[Category:20th-century British comedians]]
+[[Category:British male comedy actors]]
+[[Category:People from Central Bedfordshire (district)]]</text>
+      <sha1>0a8b92xrjqipkn66tr69lt28egm8w5q</sha1>
+    </revision>
+  </page>
+</mediawiki>

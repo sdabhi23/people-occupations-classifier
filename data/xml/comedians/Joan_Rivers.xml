@@ -1,0 +1,2127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joan Rivers</title>
+    <ns>0</ns>
+    <id>265883</id>
+    <revision>
+      <id>856002639</id>
+      <parentid>856002517</parentid>
+      <timestamp>2018-08-22T07:17:08Z</timestamp>
+      <contributor>
+        <ip>2600:1700:CAF0:6D30:58E:5B46:192B:BFC1</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="130312">{{Use mdy dates|date=September 2014}}
+{{Infobox person
+| name         = Joan Rivers
+| image        =Joan Rivers 2010 - David Shankbone.jpg   
+| caption      = Rivers in 2010
+| birth_name   = Joan Alexandra Molinsky
+| birth_date   = {{birth date|1933|6|8}}
+| birth_place  = [[Brooklyn]], [[New York (state)|New York]], U.S.
+| death_date   = {{death date and age|2014|9|4|1933|6|8}}
+| death_place  = [[Manhattan]], [[New York (state)|New York]], U.S.
+| death_cause  =  [[Cerebral hypoxia]]
+| resting_place = Ashes scattered in [[Wyoming]] &lt;ref&gt;{{cite web |url= http://www.nydailynews.com/entertainment/gossip/melissa-rivers-scattered-mom-joan-rivers-ashes-wyoming-article-1.2345698 | title= Melissa Rivers reveals she scattered mom Joan Rivers’ ashes in Wyoming }}&lt;/ref&gt;
+| parents = Meyer C. Molinsky&lt;br&gt;Beatrice Molinsky
+| years_active = 1959–2014
+| alma_mater= [[Barnard College]] &lt;small&gt;([[Bachelor of Arts|B.A.]], 1954)&lt;/small&gt;
+| occupation   = Comedian, actress, writer, producer, television host
+| spouse       = {{marriage|James Sanger&lt;br&gt;|1955|1955|reason=annulled}}&lt;br/&gt;{{marriage|[[Edgar Rosenberg]]&lt;br&gt;|July 15, 1965|August 14, 1987|reason=died}}
+| children     = [[Melissa Rivers]]
+| module       = {{Infobox comedian|embed=yes
+| medium       = Stand-up, film, television, theatre, literature
+| genre        = [[Observational comedy]], [[insult comedy]], [[shock humour|shock comedy]], [[black comedy]], [[blue comedy]], [[improvisational comedy]]
+| influences    = [[Lenny Bruce]],&lt;ref&gt;Shalom Goldman, July 9, 2014 [http://jwa.org/encyclopedia/article/rivers-joan "Joan Rivers"], ENCYCLOPEDIA&lt;/ref&gt; [[Phyllis Diller]],&lt;ref name=schum/&gt; [[Sophie Tucker]],&lt;ref name=schum/&gt; [[Pearl Williams]], [[Belle Barth]],&lt;ref name=schum /&gt; [[Totie Fields]],&lt;ref name=schum/&gt; [[Johnny Carson]], [[Zsa Zsa Gabor]],&lt;ref name=new/&gt; [[Bob Newhart]],&lt;ref name=new&gt;Emily Langer, September 4, 2014 [https://www.washingtonpost.com/entertainment/celebrities/joan-rivers-comedian-who-skewered-everyone-including-herself-dies/2014/09/04/f033ed16-2ec8-11e4-9b98-848790384093_story.html "Joan Rivers, Comedian Who Skewered Everyone Including Herself, Dies"] ''[[The Washington Post]]''&lt;/ref&gt; [[Woody Allen]], [[Don Rickles]]
+|influenced    = [[Sarah Silverman]],&lt;ref&gt;{{cite web|url=https://www.bbc.com/news/entertainment-arts-28975074|title=Joan Rivers: In pictures|work=BBC News}}&lt;/ref&gt; [[Margaret Cho]],&lt;ref&gt;DAVID HINCKLEY, September 4, 2014 [http://www.nydailynews.com/entertainment/tv/joan-rivers-blazed-trail-modern-day-women-comedy-article-1.1928240 "Joan Rivers Blazed a Trail for Female Comics"] New York Daily News&lt;/ref&gt; [[Kathy Griffin]],&lt;ref&gt;{{cite web|url=http://www.nbcnews.com/storyline/joan-rivers-death/joan-rivers-remembered-stand-comics-tv-legends-n196156|title=Joan Rivers Remembered by Stand-Up Comics, TV Legends|author=Daniel Arkin|work=NBC News}}&lt;/ref&gt; [[Amy Schumer]]&lt;ref name=schum&gt;Debra Nussbaum Cohen, July 9, 2014 [http://www.huffingtonpost.com/debra-nussbaum-cohen/joan-rivers-women-in-comedy_b_5773468.html "Joan Rivers Women in Comedy"]&lt;/ref&gt; [[Chelsea Handler]],&lt;ref name=cnn&gt;{{cite news|url=http://www.cnn.com/2014/09/04/showbiz/celebrity-news-gossip/joan-rivers-obit/index.html|title=Joan Rivers, a pointed, pioneering comedian, dead at 81 - CNN.com|author=Todd Leopold, CNN|date=September 4, 2014|work=CNN}}&lt;/ref&gt; [[Roseanne Barr]],&lt;ref name=cnn /&gt; [[Greg Proops]]&lt;ref&gt;{{cite podcast |url=http://nerdist.com/nerdist-podcast-greg-proops-4/ |title=Greg Proops #4 |website= [[The Nerdist Podcast]] |publisher=[[Nerdist Industries]] |host=[[Chris Hardwick]] |date=May 9, 2015 |time= |access-date=May 10, 2015 }}&lt;/ref&gt;
+| website      = [http://www.joanrivers.com JoanRivers.com]
+}}
+}}
+
+'''Joan Alexandra Molinsky'''&lt;ref&gt;{{cite web|url=http://jwa.org/encyclopedia/article/rivers-joan|title=Joan Rivers|last=Goldman|first=Shalom|work=Jewish Women's Archive|accessdate=March 24, 2014}}&lt;/ref&gt; (June 8, 1933 – September 4, 2014), known professionally as '''Joan Rivers''', was an American comedian, actress, writer, producer, and television host. She was noted for her often controversial comedic persona—heavily self-deprecating or sharply acerbic, especially toward celebrities and politicians.
+
+Rivers rose to prominence in 1965 as a guest on ''[[The Tonight Show Starring Johnny Carson|The Tonight Show]]''. Hosted by her mentor, [[Johnny Carson]], the show established Rivers' comedic style. In 1986, with her own rival program, ''[[The Late Show (1986 TV series)|The Late Show with Joan Rivers]]'', Rivers became the first woman to host a late night network television talk show. She subsequently hosted ''[[The Joan Rivers Show]]'' (1989–1993), winning a [[Daytime Emmy Award|Daytime Emmy]] for Outstanding Talk Show Host.  Since the mid-1990s, she became known for her comedic [[red carpet]] awards show celebrity interviews,&lt;ref&gt;{{cite video| url=https://www.youtube.com/watch?v=XLs4emOXWKg |title=Joan Rivers' Greatest Red Carpet Moments|publisher=[[ABC News]] |date=September 5, 2014|accessdate=April 30, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url=http://www.eonline.com/news/576107/how-joan-rivers-changed-the-red-carpet-interview-forever-with-one-simple-question-watch-her-best-moments |title=How Joan Rivers Changed the Red Carpet Interview Forever With One Simple Question: Watch Her Best Moments!| publisher=[[E!]] |date=September 4, 2014|accessdate=April 30, 2015}}&lt;/ref&gt; and in 2009, she was the [[Celebrity Apprentice]] Winner. Rivers co-hosted the [[E!]] celebrity fashion show ''[[Fashion Police]]'' from 2010 to 2014 and starred in the reality series ''[[Joan &amp; Melissa: Joan Knows Best?]]'' (2011–2014) with daughter [[Melissa Rivers]]. She was the subject of the documentary ''[[Joan Rivers: A Piece of Work]]'' (2010).
+
+In addition to marketing a line of jewelry and apparel on the [[QVC]] shopping channel, Rivers authored 12 best-selling books and three LP comedy albums under her own name: ''Mr. Phyllis And Other Funny Stories'' (Warner Bros 1965), ''The Next To Last Joan Rivers Album'' (Buddah 1969), and ''What Becomes A Semi-Legend Most?'' (Geffen 1983).  She was nominated in 1984 for a [[Grammy Award for Best Comedy Album|Grammy Award]] for her album ''What Becomes a Semi-Legend Most?;'' and was nominated in 1994 for the [[Tony Award for Best Actress in a Play]] for her performance of the title role in ''[[Sally Marr]]...and Her Escorts''. In 2015, Rivers posthumously received a [[Grammy Award for Best Spoken Word Album]] for her book, ''Diary of a Mad Diva''.&lt;ref&gt;{{cite web|url=https://www.usatoday.com/story/life/people/2015/02/08/joan-rivers-wins-a-grammy/23090009/|title=Joan Rivers wins a Grammy|author=  Oldenburg, Ann|date=February 8, 2015|work=USA TODAY}}&lt;/ref&gt;
+
+In 1968, ''[[The New York Times]]'' television critic [[Jack Gould]] called Rivers "quite possibly the most intuitively funny woman alive".&lt;ref name="huff12"&gt;{{cite news |title=Joan Rivers Honors Robin Williams In Resurfaced Interview |work=Huffington Post|date=September 5, 2014|author=  Sieczkowski, Cavan |quote=Playboy: Jack Gould, former television critic of The New York Times, called you "quite possibly the most intuitively funny woman alive." So whom does America's most intuitively funny woman find funny? |url=http://www.huffingtonpost.com/2014/09/04/joan-rivers-robin-williams_n_5768720.html}}&lt;/ref&gt;&lt;ref name="nyt12"&gt;{{cite news |title=TV: Frank and Mature Discussion of Birth Control; Contraceptive Devices Displayed on Channel 4 Vivacious Joan Rivers Brightens Own Show |work=The New York Times |author=  Gould, Jack|date=October 3, 1968 |quote=GOOD television often turns up at unexpected hours; it did from 9 to 10 A. M. yesterday on WNBC-TV (Channel 4). The first half was a major breakthrough in the educational use of the home screen—a totally frank and completely mature discussion of birth control. The second half hour offered Joan Rivers, quite possibly the most intuitively funny woman alive. |url=https://query.nytimes.com/gst/abstract.html?res=9803E1DF1E38E134BC4B53DFB6678383679EDE}}&lt;/ref&gt; In 2017, ''[[Rolling Stone]]'' magazine ranked her sixth (behind disciples [[Chris Rock]], [[Louie C.K.]], [[Lenny Bruce]], [[George Carlin]], and [[Richard Pryor]]) on its list of the 50 best stand-up comics of all time,&lt;ref&gt;[https://www.rollingstone.com/culture/lists/50-best-stand-up-comics-of-all-time-w464199 The 50 Best Stand-up Comics of All Time]. Rollingstone.com, retrieved February 22, 2017.&lt;/ref&gt; and in October the same year, she was inducted into the Television Academy Hall of Fame. 
+==Early life==
+Joan Alexandra Molinsky was born on June 8, 1933, in [[Brooklyn]], New York,&lt;ref&gt;{{cite web|url=http://www.biography.com/people/joan-rivers-324890|title=Joan Rivers Biography – Facts, Birthday, Life Story|publisher=[[Fyi (TV network)|The Biography Channel]]|accessdate=June 16, 2013}}&lt;/ref&gt;&lt;ref name="cathylynngrossmanwp"&gt;Grossman, Cathy Lynn, [https://www.washingtonpost.com/national/religion/joan-rivers-gift-wicked-humor-with-a-jewish-touch/2014/09/04/78b62246-3476-11e4-9f4d-24103cb8b742_story.html Joan Rivers' gift: Wicked humor with a Jewish touch], ''[[The Washington Post]]'', September 4, 2014.&lt;/ref&gt;&lt;ref name="nytimescomicstiletto"&gt;{{cite news|url=http://nyti.ms/1u4kzdZ |title=Joan Rivers, a Comic Stiletto Quick to Skewer, Is Dead at 81|work= The New York Times|date= September 4, 2014}}&lt;/ref&gt; to [[History of the Jews in Russia|Russian Jewish]] immigrants Beatrice (née Grushman) and Meyer C. Molinsky,&lt;ref name="nytimescomicstiletto"/&gt; who graduated from [[SUNY Downstate Medical Center#History|Long Island College of Medicine]]. She had an elder sister named Barbara Waxler.&lt;ref name=Pfefferman&gt;{{cite web|last=Pfefferman |first=Naomi |url=http://www.jewishjournal.com/arts_in_la/article/joan_rivers_life_audacious_as_always_20071228|title=Joan Rivers' 'Life'—audacious, as always|publisher=Jewish Journal |date=December 27, 2007|accessdate=April 29, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Barbara Waxler Obituary|url=http://www.legacy.com/obituaries/mainlinemedianews/obituary.aspx?n=barbara-waxler&amp;pid=165153015&amp;fhid=18292#fbLoggedOut|work=legacy.com|accessdate=July 6, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.filmreference.com/film/84/Joan-Rivers.html|title=Joan Rivers profile|publisher=Filmreference.com|accessdate=April 29, 2009}}&lt;/ref&gt; Rivers spent her early life in [[Prospect Heights, Brooklyn|Prospect Heights]]&lt;ref&gt;''[[Daily News (New York)]]'', September 5, 2014. [http://www.nydailynews.com/entertainment/gossip/joan-rivers-memory-lives-brooklyn-neighborhood-article-1.1930052 "Joan Rivers Memory Lives Brooklyn Neighborhood"].&lt;/ref&gt; and [[Crown Heights, Brooklyn|Crown Heights]]&lt;ref&gt;''[[The Wall Street Journal]]'', September 5, 2014. [https://blogs.wsj.com/metropolis/2014/09/05/joan-rivers-on-growing-up-in-brooklyn-and-attending-progressive-school/ "Joan Rivers on Growing Up in Brooklyn and Attending Progressive School"]&lt;/ref&gt; in Brooklyn, where she attended the progressive and now-defunct Brooklyn Ethical Culture School and Adelphi Academy of Brooklyn, a college preparatory day school, where she was co-chairman of her school, due to her past experiences in theatrical activities. Within 2 years, she performed in the School Cavalcades, and in 1949, aged 16, she was vice president of the Dramatic Club.&lt;ref&gt;{{cite web|url=http://buffalonews.com/2014/09/06/rivers-was-always-a-little-joan-molinsky-to-the-end|title=Rivers was always a little Joan Molinsky to the end|publisher=BuffaloNews.com|date=September 6, 2014|accessdate= April 6, 2017}}&lt;/ref&gt; She graduated from the Adelphi Academy of Brooklyn, in 1950, at almost 17. In her adolescence, Rivers relocated with her family to [[Larchmont, New York|Larchmont]], north of New York City.&lt;ref name="nytimescomicstiletto"/&gt; Rivers stated in interviews that she was [[overweight]] throughout her childhood and adolescence, and that it had a profound impact on her [[body image]], which she would struggle with throughout her life.&lt;ref name=stephenson&gt;{{cite interview|interviewer=[[Pamela Stephenson]]|first=Joan|last=Rivers|work=Shrink Rap|date=April 21, 2008|publisher=Finestripe Productions|title=Joan Rivers}}&lt;/ref&gt;
+
+She attended [[Connecticut College]] between 1950 and 1952, and graduated from [[Barnard College]] in 1954 with a [[B.A.]] ''[[summa cum laude]]'' in [[English literature]] and [[anthropology]]; she was a member of [[Phi Beta Kappa]].&lt;ref name="cathylynngrossmanwp"/&gt;&lt;ref name="nytimescomicstiletto"/&gt; Before entering show business, Rivers worked at various jobs such as a tour guide at [[Rockefeller Center]],{{Sfn|Rivers|1997|pages=74–75}} a writer/proofreader at an advertising agency{{Sfn|Rivers|1997|p=93}} and a fashion consultant at [[Bond Clothing Stores]].&lt;ref name="nytimescomicstiletto"/&gt;{{Sfn|Riley|1995|p=265}} During this period, agent Tony Rivers advised her to change her name, so she chose Joan Rivers as her stage name.&lt;ref name="Sochen"&gt;Sochen, June (1998). "From Sophie Tucker to Barbra Streisand: Jewish Women Entertainers as Reformers". Talking Back: Images of Jewish Women in American Popular Culture. Ed. Joyce Antler. Brandeis series in American Jewish history, culture, and life. Hanover, NH: Brandeis University Press Published by University Press of New England. pp. 68–84.&lt;/ref&gt;
+
+==Career==
+===1950s–1960s===
+[[File:Jim Connell Jake Holmes Joan Rivers circa 1960s.JPG|thumb|upright|Rivers with Jim Connell and [[Jake Holmes]] in "Jim, Jake &amp; Joan", circa early 1960s]]
+During the late 1950s, Rivers appeared in a short off-[[Off-Broadway|Broadway]] run play, ''Driftwood'', co-starring [[Barbra Streisand]]. It ran for six weeks on playwright Maurice Tei Dunn's apartment on 49th Street, in NYC, according to an interview with ''[[Adweek]]''.{{Sfn|Rivers|1986|pages=85–96}}&lt;ref&gt;http://www.adweek.com/digital/2014-year-in-review-joan-rivers/&lt;/ref&gt; Rivers performed in numerous comedy clubs in the [[Greenwich Village]] area of New York City in the early 1960s, including [[The Bitter End]], [[The Gaslight Cafe]] {{Sfn|Rivers|1986|p=230}} and [[The Duplex]]. Between 1963 and 1964, Rivers, along with Jim Connell and [[Jake Holmes]], were in the  cabaret act "Jim, Jake &amp; Joan". A 1964 appearance at The Bitter End resulted in their appearance in the motion picture, ''Once Upon A Coffee House'', which was also Rivers' first big screen credit. The group parted ways shortly afterwards, on which member Holmes later recalled: "We were supposed to do this rally for [[Bobby Kennedy]], who was running for New York senator in 1964. We were going to play at the rally. Joan showed up with a [Republican Senate nominee Kenneth] [[Kenneth Keating|Keating]] button on. And Jim said take that off. She said no — she was sticking to her political guns. And Jim said, "Who needs you, anyway?" That was the end [of Jim, Jake &amp; Joan] [...]".&lt;ref&gt;https://www.hollywoodreporter.com/news/story-joan-rivers-24-famous-731383&lt;/ref&gt;
+
+She also made an appearance as a guest on the television program ''[[The Tonight Show]]'' originating from New York, hosted at the time by [[Jack Paar]].{{Sfn|Rivers|1986|pages=233–239}} By 1965, Rivers had a stint on ''[[Candid Camera]]'' as a gag writer and participant; she was "the bait" to lure people into ridiculous situations for the show. After seven auditions during a period of three years, she made her first appearance on ''[[The Tonight Show Starring Johnny Carson|The Tonight Show]]'' with new host [[Johnny Carson]], on February 17, 1965.{{Sfn|Rivers|1986|pages=359–373}} Rivers credited this episode to be her breakthrough, as Carson said to her on the air "you're gonna be a star".&lt;ref&gt;https://www.hollywoodreporter.com/news/joan-rivers-why-johnny-carson-398088&lt;/ref&gt; Following this appeareance, she became a frequent guest on the program and a close friend of Carson.
+
+As her profile raised significantly in the subsequent years, she started to make guest-appearances in numerous popular shows, including ''[[The Ed Sullivan Show]]'', ''[[The Mike Douglas Show]]'', ''[[The Dick Cavett Show]]'' and ''Girl Talk'', with [[Virginia Graham]]. She also wrote material for the puppet [[Topo Gigio]]. She had a brief role in the cult drama film ''[[The Swimmer (1968 film)|The Swimmer]]'' (1968), starring [[Burt Lancaster]], and at the time, she also had a short-lived syndicated daytime talk show, ''That Show with Joan Rivers'', which premiered on September 16, 1968. Each episode had a theme and Rivers did an opening monologue based on the day's topic.&lt;ref&gt;http://www.tv.com/shows/that-show-with-joan-rivers/&lt;/ref&gt; The show also featured an expert on the subject and a celebrity guest; [[Johnny Carson]] was her first guest.&lt;ref name=jr1969&gt;{{cite web|url=https://www.imdb.com/title/tt0124948|title=The Joan Rivers Show|publisher=Imdb.com|accessdate=April 29, 2009}}&lt;/ref&gt; In the middle of the 1960s, she released at least two comedy albums, ''The Next to Last Joan Rivers Album''&lt;ref&gt;{{cite web|title=The Next to Last Joan Rivers Album|url=http://rateyourmusic.com/release/album/joan_rivers/the_next_to_last_joan_rivers_album/ |accessdate=September 5, 2014}}&lt;/ref&gt; and ''Rivers Presents Mr. Phyllis &amp; Other Funny Stories''.&lt;ref&gt;{{cite web|title=Joan Rivers Presents Mr. Phyllis &amp; Other Funny Stories |url=http://www.allmusic.com/album/joan-rivers-presents-mr-phyllis-and-other-funny-stories-mw0002076502 |accessdate=September 5, 2014}}&lt;/ref&gt;
+
+===1970s===
+By the 1970s, Rivers continued to be a prominent fixture on television. Along with her other guest-spots on the late-night circuit, she also made appearances in ''[[The Carol Burnett Show]]'', had a semi-regular stint on ''[[Hollywood Squares]]'' and guest-starred in ''[[Here's Lucy]]''. Rivers made her Broadway debut in the play ''Fun City'', which opened on January 2, 1972 and co-starred [[Gabriel Dell]], [[Rose Marie]] and [[Paul Ford]]. It ran for only nine performance amid a negative critical reception. Though a ''[[New York Times]]'' reviewer criticized the production as "frenetic to the point of being frazzled", he praised Rivers as "a deft comedy writer" and "a very funny lady".&lt;ref&gt;https://www.nytimes.com/1972/01/03/archives/stage-her-water-bed-frozen-solid-joan-rivers-is-star-in-comedy-fun.html&lt;/ref&gt; From 1972 to 1976, she narrated ''[[The Adventures of Letterman]]'', an animated segment for ''[[The Electric Company]]''.
+
+In 1973, Rivers wrote the made-for-television movie ''[[The Girl Most Likely to...]]'', a black comedy starring [[Stockard Channing]] as an ugly girl who becomes beautiful after undergoing plastic surgery, and takes revenge of people who previously mistreated her. The film, based on a Rivers' story, became a ratings success and has been considered a "cult classic".&lt;ref&gt;https://books.google.com.co/books?id=qQQEAAAAMBAJ&amp;pg=PA62&amp;lpg=PA62&amp;dq=the+girl+most+likely+to+1973++film+success&amp;source=bl&amp;ots=6nWV0zZ6lD&amp;sig=Ov657PkzAK1bNyZDbgYrr4uWkqQ&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjtif-9ldvZAhVS0FMKHQ9_CLUQ6AEIjQEwDQ#v=onepage&amp;q=the%20girl%20most%20likely%20to%201973%20%20film%20success&amp;f=false&lt;/ref&gt; She also wrote a thrice-weekly column for ''The Chicago Tribune'' from 1973 to 1976, and published her first book, ''Having a Baby Can Be a Scream'', in 1974; she described it as a "catalogue of gynaecological anxieties".&lt;ref&gt;https://www.telegraph.co.uk/news/obituaries/11075283/Joan-Rivers-obituary.html&lt;/ref&gt; In 1978, Rivers made her directorial debut with the comedy ''[[Rabbit Test (film)|Rabbit Test]]'', which she also wrote and starred her friend [[Billy Crystal]] in his film debut as the world's first pregnant man. The film flopped at the box office and was panned by critics.&lt;ref&gt;http://www.vulture.com/2014/09/joan-rivers-directed-only-one-movie-pregnant-man-billy-crystal.html&lt;/ref&gt; [[Janet Maslin]] of ''The New York Times'' concluded: "Miss Rivers has turned to directing without paying much heed to whether a whole movie constructed from one-liners is worth even the sum of its parts".&lt;ref&gt;https://www.nytimes.com/movie/review?res=9D04E1D71431E632A2575AC0A9629C946990D6CF&lt;/ref&gt; During the same decade, she was the opening act for singers [[Helen Reddy]], [[Robert Goulet]], [[Mac Davis]] and [[Sergio Franchi]] on the [[Las Vegas Strip]].&lt;ref&gt;{{cite news|title=Joan Rivers dies at age 81|url=http://www.mamamia.com.au/news/joan-rivers-dead/|accessdate=September 26, 2014|date=September 5, 2014}}&lt;/ref&gt;
+
+===1980s===
+During the early and mid-1980s, Rivers found further success on stand-up and television, through the decade subsequently proved to be controversial for her. The year 1983, in particular, was very successful; she performed at [[Carnegie Hall]] in February,&lt;ref&gt;{{cite news|url=http://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&amp;d=cs19830209-01.2.12&amp;e=-------en-20--1--txt-txIN-Teichner-----|title=Joan Rivers at Carnegie Hall|work=Columbia Spectator|date= February 9, 1983|volume=CVII|number=66}} {{Open access}}&lt;/ref&gt; did the March stand-up special ''[[An Audience With|An Audience with Joan Rivers]]'', hosted the April 9 episode of ''[[Saturday Night Live]]'', and released the best-selling comedy album ''What Becomes a Semi-Legend Most?'', which reached No. 22 on the U.S. [[Billboard 200|''Billboard'' 200]] and was nominated for a [[Grammy Award for Best Comedy Album]].&lt;ref name=metrolyrics&gt;{{cite web|url=http://www.metrolyrics.com/1984-grammy-awards.html |title=Grammy Awards |publisher=Metrolyrics.com |date=February 28, 1984 |accessdate=April 29, 2009}}&lt;/ref&gt; By August 1983, Carson established Rivers as his first regular guest host on ''The Tonight Show''. At the time, she spoke of her primary ''Tonight Show'' life as having been "Johnny Carson's daughter", a reference to his longtime mentoring of her.&lt;ref&gt;{{cite web|url=https://www.imdb.com/title/tt0695000/ |title=Saturday Night Live |publisher=Imdb.com |date=April 9, 1983 |accessdate=April 29, 2009}}&lt;/ref&gt;
+
+During the 1980s and 1990s Rivers served on the advisory board of the [[National Student Film Institute]].&lt;ref&gt;{{cite book|author1=Editor|title=National Student Film Institute/L.A:  The Sixteenth Annual Los Angeles Student Film Festival|date=June 10, 1994|location=The Directors Guild Theatre|pages=10–11|accessdate=6 January 2018|ref=Program}}&lt;/ref&gt;&lt;ref&gt;{{cite book|author1=Editor|title=Los Angeles Student Film Institute: 13th Annual Student Film Festival|date=June 7, 1991|location=The Directors Guild Theatre|page=3|accessdate=6 January 2018|ref=Program}}&lt;/ref&gt; A friend of [[Nancy Reagan|Nancy]] and President [[Ronald Reagan]], Rivers attended a [[state dinner]] in 1983, and later, at the invitation of Nancy, spoke at luncheon at the [[1984 Republican National Convention]].&lt;ref&gt;{{cite news |last=Lavender |first=Paige |date=September 4, 2014 |title=Joan Rivers Said Nancy Reagan Helped Her After Her Husband's Suicide |url=http://www.huffingtonpost.com/2014/09/04/joan-rivers-nancy-reagan_n_5768458.html |newspaper=Huffington Post |accessdate=October 18, 2014 }}&lt;br/&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |agency=Washington Post |title=Nancy Reagan didn't mine Joan Rivers' off-color jokes |url=https://news.google.com/newspapers?id=QKxQAAAAIBAJ&amp;sjid=heEDAAAAIBAJ&amp;pg=5090%2C6067634 |newspaper=Eugene Register-Guard |date=August 24, 1984 |accessdate=October 18, 2014 }}&lt;br/&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |title=Joan Rivers Explains in 2012 E! True Hollywood Story Interview Why She's a "Very Good Dinner Guest"—Watch |url=http://www.eonline.com/news/576614/joan-rivers-explains-in-2012-e-true-hollywood-story-interview-why-she-s-a-very-good-dinner-guest-watch |newspaper=E! |date=September 6, 2014 |accessdate=October 18, 2014 }}&lt;br/&gt;{{cite news |last=Taube |first=Michael |date=September 9, 2014 |title=Joan Rivers, a rare brand of Republican |url=http://www.washingtontimes.com/news/2014/sep/9/taube-joan-rivers-a-rare-brand-of-republican/?page=all |newspaper=Washington Times |accessdate=October 18, 2014 }}&lt;/ref&gt; In 1984, Rivers published a best-selling humor book, ''The Life and Hard Times of Heidi Abramowitz'', a mock memoir of her brassy, loose comedy character, which was mostly jokes about promiscuity - of a type that would have been considered unacceptable even in [[burlesque]] a generation earlier. A television special based on the character, a mock tribute called ''Joan Rivers and Friends Salute Heidi Abramowitz,'' later aired on [[Showtime (TV network)|Showtime]].&lt;ref&gt;https://www.nytimes.com/1985/06/21/movies/tv-weekend-comedy-a-la-cinemax-and-showtime.html&lt;/ref&gt; She later wrote her next book, ''Enter Talking'', which was released in 1986, and described her rise to stardom and the evolution of her comedic persona.&lt;ref&gt;https://www.amazon.com/Enter-Talking-Joan-Rivers/dp/0385294409&lt;/ref&gt;
+
+[[File:Joan Rivers 1987.jpg|left|thumb|upright|Rivers in 1987]]
+In 1986 came the move that ended Rivers' longtime friendship with Johnny Carson. The soon-to-launch [[Fox Broadcasting Company|Fox Television Network]] announced that it was giving her a late night talk show, ''[[The Late Show (1986 TV series)|The Late Show Starring Joan Rivers]]'', making Rivers the first woman to have her own late-night talk show on a major network.{{Sfn|Hoyle|2013|p=197}}{{Sfn|King|1993|pages=47–48}} The new network planned to broadcast the show 11 p.m. to 12 a.m. [[Eastern Time Zone|Eastern Time]], making her a Carson competitor. Carson learned of the show from Fox and not from Rivers. In the documentary, ''Johnny Carson: King of Late Night,'' Rivers said she only called Carson to discuss the matter after learning he may have already heard about it and that he immediately hung up on her. In the same interview, she said that she later came to believe that maybe she should have asked for his blessing before taking the job. Rivers was banned from appearing on the ''Tonight Show,'' a decision respected by Carson's first two successors [[Jay Leno]] and [[Conan O'Brien]]. Rivers did not appear on the ''Tonight Show'' again until February 17, 2014, when she made a brief appearance on new host [[Jimmy Fallon]]'s first episode.&lt;ref&gt;{{cite news|title=Joan Rivers Returns To 'Tonight Show' After Decades-Long Ban|url=https://variety.com/2014/tv/news/joan-rivers-returns-to-tonight-show-after-decades-long-ban-1201109889/|accessdate=February 19, 2014|newspaper=Variety|date=February 17, 2014}}&lt;/ref&gt; On March 27, 2014, Rivers returned to the show for an interview.
+
+''The Late Show Starring Joan Rivers'' premiered on October 9, 1986 and soon turned out to be flecked by tragedy. When Rivers challenged FOX executives, who wanted to fire her husband [[Edgar Rosenberg]] as the show's producer, the network fired them both on May 15, 1987. Three months later, on August 14, 1987, Rosenberg committed suicide in Philadelphia; Rivers blamed the tragedy on his "humiliation" by Fox.&lt;ref&gt;{{cite web|first1=Joanne |last1=Kaufman|first2=Alan|last2= Carter|url=http://www.people.com/people/archive/article/0,,20116863,00.html|title=Rocked by Tragedy and Failure, Joan Rivers Comes Back with a New Show and a New Life|work=People|date= February 19, 1990|accessdate=April 29, 2017}}&lt;/ref&gt; Rivers credited Nancy Reagan with helping her after her husband's suicide.&lt;ref&gt;{{cite news |last=Kurtz |first=Judy |date=September 4, 2014 |title=Gillibrand, Nancy Reagan mourn Joan Rivers' death |url=http://thehill.com/blogs/in-the-know/in-the-know/216712-gillibrand-mourns-death-of-joan-rivers |newspaper=The Hill |accessdate=October 19, 2014 |quote=Rivers credited the former president's wife with helping her after the 1987 suicide of her husband, Edgar Rosenberg. The comedy queen recalled the conversation with Reagan in a 2010 interview, "I said, 'I can't get Edgar's body out of Philadelphia.' She said, 'Let me see what I can do.' The next day, his body came back to L.A. You don't ever forget that, especially when the chips are down." }}&lt;/ref&gt; Fox attempted to continue the show with a new name (''[[The Late Show (1986 TV series)|The Late Show]]'') and rotating guest hosts.
+
+During the airing of her late-night show, she made the voice-over role of Dot Matrix in the science-fiction comedy ''[[Spaceballs]]'' (1987), a parody mainly on ''[[Star Wars]]''. The film, directed and co-starring [[Mel Brooks]], was a critical and commercial success, later becoming a "cult classic".&lt;ref&gt;https://www.allmovie.com/movie/spaceballs-v45901&lt;/ref&gt; After the Fox controversy, her career went into hiatus. Rivers subsequently appeared on various television shows, including the ''[[Pee-wee's Playhouse]]'' Christmas Special in December 1989. She also appeared as one of the center square occupants on the 1986–89 version of ''The [[Hollywood Squares]]'', hosted by [[John Davidson (entertainer)|John Davidson]]. On September 5, 1989, ''[[The Joan Rivers Show]]'', her daytime television program, premiered in [[broadcast syndication]]. The show, which ran for five seasons, was a success and earned Rivers the [[Daytime Emmy Award|Daytime Emmy]] in 1990 for Outstanding Talk Show Host.{{Sfn|TV Guide|2004|p=331}} ''[[Entertainment Weekly]]'', in a September 1990 article, asserted: "''The Joan Rivers Show'' is a better showcase for her funny edginess than her doomed 1988 Fox nighttime program was. The best thing about her daytime talker is that Rivers' stream-of-consciousness chattiness is allowed to guide the show — you never know where the conversation is going to go".&lt;ref&gt;http://ew.com/article/1990/09/14/joan-rivers-show/&lt;/ref&gt;
+
+===1990s===
+In addition to winning the Emmy for ''The Joan Rivers Show'', Rivers starred in the made-for-television comedy ''How to Murder a Millionaire'', which premiered in May 1990 on [[CBS]]. In the film, co-starring [[Alex Rocco]] and [[Telma Hopkins]], she took on the role of a [[Beverly Hills]] matron possessed with the idea her husband is trying to kill her.&lt;ref&gt;http://articles.latimes.com/1990-05-20/news/tv-87_1_joan-rivers&lt;/ref&gt; Also in 1990, she started to design jewelry, clothing and beauty products for the shopping channel [[QVC]]. On this professional endeavor, Rivers said: "In those days, only dead celebrities went on [QVC]. My career was over. I had bills to pay. [...] It also intrigued me at the beginning".&lt;ref&gt;https://www.forbes.com/sites/natalierobehmed/2015/10/27/the-curious-case-of-joan-rivers-qvc-line/#118a419e7cf8&lt;/ref&gt; The sales of Rivers' products exceed $1 billion by 2014, making her one of the network's top sellers.&lt;ref&gt;https://www.hollywoodreporter.com/news/joan-rivers-rise-rags-tv-731620&lt;/ref&gt; In 1991, she wrote her next book, ''Still Talking'', which described the cancellation of her late-night show and her husband's suicide.&lt;ref&gt;https://www.amazon.com/Still-Talking-Joan-Rivers/dp/0517158531&lt;/ref&gt; Until 1993, she received five additional Emmy nominations for her daytime talk-show ''The Joan Rivers Show'' — two for Outstanding Writing – Special Class and three for Outstanding Talk Show Host.&lt;ref&gt;https://www.imdb.com/title/tt0262164/awards&lt;/ref&gt;
+
+In 1994, Rivers and daughter [[Melissa Rivers|Melissa]] first hosted the [[E!|E! Entertainment Television]] pre-awards show for the [[Golden Globe Award]]s{{Sfn|Rivers|1997|p=207}} and, beginning in 1995, E!'s annual [[Academy Awards]] pre-awards show as well.{{Sfn|Rivers|1997|p=207}} Rivers and her daughter quickly became credited for revolutionizing the red carpet as a space to showcase designers' work and celebrity interactions. "Joan and Melissa were the first people who came out and made it more of a true conversation between star and reporter", E!'s Senior Vice President of production, Gary Snegaroff, remarked to ''[[Vanity Fair (magazine)|Vanity Fair]]''. "They asked about what [actresses] were wearing because that's what the magazines would cover after the fact, and turned it into a candid conversation on the carpet where anything could happen".&lt;ref&gt;https://www.vanityfair.com/hollywood/2014/08/red-carpet-history&lt;/ref&gt; Rivers and Melissa, at the time, both portrayed themselves in the made-for-television drama ''Tears and Laughter: The Joan and Melissa Rivers Story'', which chronicled the aftermath of Rosenburg's suicide. It aired on [[NBC]] on May 15, 1994.&lt;ref&gt;https://variety.com/1994/film/reviews/tears-and-laughter-the-joan-and-melissa-rivers-story-2-1200437248/&lt;/ref&gt; The next year, she wrote her book ''Jewelry by Joan Rivers''.&lt;ref&gt;https://www.amazon.com/Jewelry-Joan-Rivers/dp/1558598081&lt;/ref&gt;
+
+Influenced by the stand-up comedy of [[Lenny Bruce]], Rivers co-wrote and starred in a play about Bruce's mother [[Sally Marr]], who was also a [[Stand-up comedy|stand-up comic]] and influenced her son's development as a comic. After 27 previews, ''Sally Marr&amp;nbsp;... and Her Escorts,'' a play "suggested by the life of Sally Marr" ran on Broadway for 50 performances in May and June 1994.&lt;ref name="Sally Marr"&gt;{{cite news|last=Scheck|first=Frank|title='Sally Marr' Ranks High Only With Joan Rivers Fans|url=http://www.csmonitor.com/1994/0516/16122.html|accessdate=December 28, 2013|newspaper=Christian Science Monitor|date=May 16, 1994}}&lt;/ref&gt; The production received mixed reviews, but her performance was applauded by critics. ''The Chicago Sun Times'' found Rivers to be "compelling" as an actress&lt;ref&gt;https://chicago.suntimes.com/entertainment/recalling-a-show-that-justifies-dimming-broadway-marquees-for-joan-rivers/&lt;/ref&gt; while ''The New York Times'' wrote: "[...] [S]he is exuberant, fearless and inexhaustible. If you admire performers for taking risks, then you can't help but applaud her efforts".&lt;ref&gt;https://www.nytimes.com/1994/05/06/theater/review-theater-comic-survival-in-sally-marr.html&lt;/ref&gt; Rivers was nominated for a [[Drama Desk Award]] as Outstanding Actress in a Play and a [[Tony Award]] for Best Actress in a Play for playing Marr.&lt;ref&gt;{{cite web|title=Awards: Sally Marr...and her escorts|url=http://ibdb.com/production.php?id=4608|publisher=Internet Broadway Database|accessdate=December 28, 2013}}&lt;/ref&gt; Beginning in 1997, Rivers hosted her own radio show on [[WOR (AM)|WOR]] in New York City, and wrote three self-help books: ''Bouncing Back: I've Survived Everything ... and I Mean Everything ... and You Can Too!'' in 1997,&lt;ref&gt;https://www.amazon.com/Bouncing-Back-Survived-Everything-Mean/dp/0061096016/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1520538109&amp;sr=1-2&amp;refinements=p_27%3AJoan+Rivers&lt;/ref&gt; ''From Mother to Daughter: Thoughts and Advice on Life, Love and Marriage'' in 1998,&lt;ref&gt;https://www.amazon.com/Mother-Daughter-Thoughts-Advice-Marriage/dp/1559724935/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1520538109&amp;sr=1-1&amp;refinements=p_27%3AJoan+Rivers&lt;/ref&gt; and ''Don't Count the Candles: Just Keep the Fire Lit!'', in 1999.&lt;ref&gt;https://www.amazon.com/Dont-Count-Candles-Joan-Rivers/dp/0694520810/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1520538109&amp;sr=1-3&amp;refinements=p_27%3AJoan+Rivers&lt;/ref&gt;
+
+===2000s===
+[[File:Joan Rivers.jpg|thumb|right|upright|Rivers poses for a photograph at [[The Pierre]] hotel in New York City, May 24, 2001]]
+Rivers was a guest speaker at the opening of the American Operating Room Nurses' San Francisco Conference in 2000, and by the first part of the decade, she continued to host the awards' red carpet for the [[E!]] channel. Between 2002 and 2004, she embarked on tour with her one-person comedy show ''Joan Rivers: Broke and Alone'', which was presented in the United Kingdom ([[Edinburgh]] and [[London]]) and in the United States ([[Los Angeles]], and [[Boston]]), to generally positive reviews.&lt;ref&gt;http://onstageboston.com/Articles/2004/03/March/rivers.html&lt;/ref&gt; ''The Telegraph'' felt that her "hilarious assaults on fellow celebrities and tirades about the perils of ageing and plastic surgery are well worth the expense",&lt;ref&gt;https://www.telegraph.co.uk/culture/3576255/Critics-choice-stage.html&lt;/ref&gt; while ''The Guardian'' remarked that "Rivers returned triumphant, a victorious heavyweight after a great fight, conscious that she is still the champion".&lt;ref&gt;https://www.theguardian.com/stage/2002/apr/16/comedy.artsfeatures&lt;/ref&gt;
+
+In 2003, Rivers left  the network red-carpet show for a three-year contract (valued at $6–8 million) to cover award shows' red carpet events for the [[TVGN|TV Guide Channel]].&lt;ref&gt;{{cite web|url=http://community.seattletimes.nwsource.com/archive/?date=20040625&amp;slug=tvbriefs25 |title=TV briefs: Rivers duo may leave E! for TV Guide Channel |date=June 25, 2004|accessdate=April 22, 2017|work=[[The Seattle Times]]|location=Seattle, Washington}}&lt;/ref&gt; Meanwhile, Rivers guest-starred as herself in several television series, including ''[[Curb Your Enthusiasm]]'', ''[[Nip/Tuck]]'', and ''[[Boston Legal]]'',&lt;ref&gt;{{cite web |url=http://www.tvguide.com/detail/tv-show.aspx?tvobjectid=100325&amp;more=ucepisodelist&amp;episodeid=4265215 |title=Nip/Tuck Episode: "Joan Rivers" |work=[[TV Guide]] |publisher=[[Lions Gate Entertainment]] |date=October 5, 2004|accessdate=April 27, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.tvguide.com/detail/tv-show.aspx?tvobjectid=100325&amp;more=ucepisodelist&amp;episodeid=5009985 |title=Nip/Tuck Episode: "Ben White" |work=TV Guide |publisher=Lions Gate Entertainment |date=November 1, 2005 |accessdate=April 27, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.tvguide.com/detail/tv-show.aspx?tvobjectid=100325&amp;more=ucepisodelist&amp;episodeid=14278245 |title=Nip/Tuck Episode: "Hiro Yoshimura" |work=TV Guide |publisher=Lions Gate Entertainment |date=March 3, 2010 |accessdate=April 27, 2010}}&lt;/ref&gt; and also voiced herself for a brief scene in the 2004 animated fantasy film ''[[Shrek 2]]''.&lt;ref&gt;https://nypost.com/2004/05/16/green-party-the-all-star-cast-of-shrek-2-makes-a-seriously-silly-sequel/&lt;/ref&gt; In 2004, Rivers was part of the formal receiving party when [[Ronald Reagan]] was placed [[Death and state funeral of Ronald Reagan#Capitol Hill|in state]] at the [[United States Capitol]].&lt;ref&gt;{{cite news |last=Noonan |first=Peggy |date=September 5, 2014 |title=Joan Rivers: The Entertainer |url=https://blogs.wsj.com/peggynoonan/2014/09/05/joan-rivers-the-entertainer/ |newspaper=Wall Street Journal |accessdate=October 16, 2014 }}&lt;br/&gt;{{cite news |last=Purdum |first=Todd S. |date=June 12, 2004 |title=THE 40TH PRESIDENT: IN WASHINGTON; At Rites for Reagan, Soaring Farewells |url=https://www.nytimes.com/2004/06/12/us/the-40th-president-in-washington-at-rites-for-reagan-soaring-farewells.html |newspaper=New York Times |accessdate=October 18, 2014 }}&lt;br/&gt;{{cite news |last=Von Drehle |first=David |date=June 12, 2004 |title=Reagan Hailed as Leader for 'the Ages' |url=https://www.washingtonpost.com/wp-dyn/articles/A35593-2004Jun11.html |newspaper=Washington Post |accessdate=October 18, 2014 }}&lt;/ref&gt;{{Sfn|Colacello|2004|p=15}} On December 3, 2007, Rivers performed at the 79th Royal Variety Show at the [[Liverpool Empire Theatre]], England, with [[Elizabeth II|Queen Elizabeth II]] and [[Prince Philip, Duke of Edinburgh|Prince Philip]] present.&lt;ref&gt;{{cite web |url=http://www.digitalspy.co.uk/showbiz/i718579-8/joan-rivers-life-in-pictures-joan-rivers-performing-at-the-79th-royal-variety-performance.html#~oPk6mp7Q0JrdyV |title=Joan Rivers performing at The 79th Royal Variety Performance |work=[[Digital Spy]] |publisher=[[Hearst Magazines UK]] |date=September 4, 2014 |accessdate=September 9, 2014}}&lt;/ref&gt; She wrote and starred in the play ''Joan Rivers: A Work in Progress by a Life in Progress'', which was directed by [[Sean Foley (director)|Sean Foley]], and presented through 2008 at the [[Geffen Playhouse]] in Los Angeles, the [[Edinburgh Festival Fringe]] and the [[Leicester Square Theatre]], to a mixed critical reception.&lt;ref&gt;https://www.theguardian.com/culture/2008/aug/15/edinburghfestival.joan.rivers&lt;/ref&gt;&lt;ref&gt;https://variety.com/2008/legit/markets-festivals/joan-rivers-a-work-in-progress-by-a-life-in-progress-1200548015/&lt;/ref&gt;
+
+Throughout the decade, Rivers often appeared in various television game shows, including ''[[8 Out of 10 Cats]]'', ''[[Big Brother: Celebrity Hijack]]'', and ''Celebrity Family Feud'', in which she competed with her daughter against [[Ice-T]] and [[Coco Austin|Coco]]. In 2009, Rivers and daughter Melissa were contestants on the season eight of ''[[The Apprentice (U.S. season 8)|Celebrity Apprentice]]''. During the season, each celebrity raised money for a charity of his or her choice; Rivers selected God's Love We Deliver.&lt;ref&gt;{{cite web|title=Joan Rivers and The Celebrity Apprentice|url=https://www.youtube.com/watch?v=rTUR6A2b8K4|publisher=Youtube|accessdate=September 26, 2014}}&lt;/ref&gt; After a [[The Apprentice (U.S. season 8)#Episode 9|falling out]] with poker player [[Annie Duke]]&lt;!--Yes, she called Annie Duke Hitler. No, you don't need to insert it here.--&gt;, following Melissa's on-air firing (elimination) by Donald Trump, Rivers left the [[green room]] telling [[Clint Black]] and [[Jesse James (customizer)|Jesse James]] that she would not be in the next morning. Rivers later returned to the show and on May 3, 2009, she became a finalist in the series. The other finalist was Duke.&lt;ref&gt;{{cite web|url=http://blogs.courant.com/roger_catlin_tv_eye/2009/04/celebrity-apprentice-recap-mel.html |archive-url=https://archive.is/20120701162331/http://blogs.courant.com/roger_catlin_tv_eye/2009/04/celebrity-apprentice-recap-mel.html |dead-url=yes |archive-date=July 1, 2012 |title='Celebrity Apprentice': Rivers Run |last=Catlin |first=Roger |date=April 27, 2009 |work=Hartford Courant |accessdate=April 28, 2009 }}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.google.com/hostednews/ap/article/ALeqM5gxJl3i8sRHRwqSDxnzD42BzGaW8gD97R3FDO0|title=Rivers defends daughter on 'Celebrity Apprentice'|date=April 27, 2009|agency=Associated Press|accessdate=April 28, 2009}}&lt;/ref&gt; On the season finale, which aired live on May 10, Rivers was announced the winner and hired to be the 2009 Celebrity Apprentice.
+
+Also in 2009, Rivers was a special "pink-carpet" presenter for the broadcast of the [[Sydney Mardi Gras|Sydney Gay and Lesbian Mardi Gras]] parade, was [[Roast (comedy)|roasted]] in a [[Roast of Joan Rivers|Comedy Central special]], and her reality show, ''[[How'd You Get So Rich?]]'', premiered on [[TV Land]]. The program, which ran for two seasons, followed Rivers traveling around the United States interviewing self-made millionaires.&lt;ref&gt;https://web.archive.org/web/20151204224006/http://community.foxtel.com.au/t5/Foxtel-Blog/New-This-Week-Dec-7-40-new-shows-including-Da-Vinci-s-Demons/ba-p/102717&lt;/ref&gt; She also wrote two books in 2009: ''Murder at the Academy Awards (R): A Red Carpet Murder Mystery'' and ''Men Are Stupid...And They Like Big Boobs: A Woman's Guide to Beauty Through Plastic Surgery (with Valerie Frankel)''.
+
+===2010s===
+A documentary film about Rivers, ''[[Joan Rivers: A Piece of Work]]'', premiered at the [[San Francisco International Film Festival]] on May 6, 2010. The film follows Rivers for 14 months, mostly during the 76th year of her life,&lt;ref name="NYT Synopsis"&gt;{{cite news|title=A Comic's Life and Times: Enter Talking or Mocking|url=https://movies.nytimes.com/2010/06/11/movies/11joan.html|accessdate=May 16, 2012|newspaper=[[The New York Times]]|date=June 10, 2010}}&lt;/ref&gt; and made an effort to "[peel] away the mask" and expose the "struggles, sacrifices and joy of living life as a ground breaking female performer."&lt;ref name="IFC Synopsis"&gt;{{cite web|title=Joan Rivers - A Piece of Work|url=http://www.ifcfilms.com/films/joan-rivers-a-piece-of-work|publisher=IFC Entertainment|accessdate=May 16, 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120626061308/http://www.ifcfilms.com/films/joan-rivers-a-piece-of-work|archivedate=June 26, 2012|df=mdy-all}}&lt;/ref&gt; The documentary found commercial success in its limited release and was acclaimed by critics for providing "an honest, behind-the-scenes look at [Rivers]' career — and at show business in general".&lt;ref&gt;https://www.rottentomatoes.com/m/joan_rivers_a_piece_of_work?&lt;/ref&gt; Beginning on September 10, 2010, Rivers co-hosted the [[E!]] show ''[[Fashion Police]]'', along with [[Giuliana Rancic]], [[Kelly Osbourne]], and [[George Kotsiopoulos]], commenting on celebrity fashion. The show started as a half-hour program but due to its success with viewers, it was expanded to one hour on March 9, 2012. The August 26, 2014 episode of ''Fashion Police'', about the [[66th Primetime Emmy Awards]] and the 2014 [[MTV Movie Awards]], was her last television appearance before her death.&lt;ref&gt;https://www.independent.co.uk/news/people/joan-rivers-remains-on-life-support-five-days-after-heart-and-lung-failure-comediennes-daughter-9707928.html&lt;/ref&gt;
+
+In 2011, Rivers appeared in a commercial for [[Go Daddy]], which debuted during the broadcast of [[Super Bowl XLV]],&lt;ref&gt;{{cite web|url=http://www.nydailynews.com/gossip/2011/02/07/2011-02-07_joan_rivers_go_daddy_super_bowl_commerical_is_that_really_the_77yearold_comedien.html|title=Joan Rivers Go Daddy Super Bowl commerical [sic]: Is that really the 77-year-old comedienne's body?|last=Weiss|first=Shari|date=February 7, 2011|work=[[New York Daily News]]|accessdate=February 7, 2011}}&lt;/ref&gt; and was featured as herself in the season two of [[Louis C.K.]]'s self-titled show ''[[Louie (U.S. TV series)|Louie]]'', where she performed on-stage. Also in 2011, Rivers and her daughter starred in the reality show ''[[Joan &amp; Melissa: Joan Knows Best?]]'', which premiered on [[WE tv]]. The series follows her moving in with her daughter to California to be closer to her family. The show ran for four seasons until 2014. On the December 4, 2011 episode of ''[[The Simpsons]]'', "[[The Ten-Per-Cent Solution]]", Rivers took on the role of Annie Dubinsky, an agent trying to revive [[Krusty]]'s career.&lt;ref&gt;http://www.tvguide.com/news/weekend-tv-guide-1040315/&lt;/ref&gt; Hayden Childs of ''[[The A.V. Club]]'' praised the choice of having Rivers guest star since she was able to "employ her trademark humor within the world of ''The Simpsons'' without hijacking the plot or satire".&lt;ref&gt;https://tv.avclub.com/the-simpsons-the-ten-per-cent-solution-1798170729&lt;/ref&gt; In 2012, she guest-starred in two episodes of two series: ''[[Drop Dead Diva]]'' and ''[[Hot in Cleveland]]''.
+
+Rivers released her eleventh book ''I Hate Everyone...Starting with Me'' on June 5, 2012. It received generally positive reviews and made [[The New York Times Best Seller list|''The New York Times'' Best Seller list]] for several weeks. ''The New York Times'' remarked that there were "more punch lines per paragraph than any book I've read in years",&lt;ref&gt;https://www.nytimes.com/2012/05/25/books/following-tina-fey-comedians-churn-out-books.html?mtrref=www.google.com.co&amp;gwh=183B62FC2F1EDC08FE6EC4BDEEA2E74D&amp;gwt=pay&lt;/ref&gt; and ''Publishers Weekly'' felt that "Rivers is equally passionate and opinionated on every subject she discusses. Hilarious and undeniably original".&lt;ref&gt;https://www.amazon.com/Diary-Mad-Diva-Joan-Rivers/dp/0425269027&lt;/ref&gt; On August 7, 2012, Rivers showed up in [[Burbank, California]] to protest that the warehouse club [[Costco]] would not sell the book. She handcuffed herself to a shopping cart and shouted through a megaphone. The police were called to the scene and she left without incident; no arrests were made.&lt;ref&gt;{{cite web|last=Abbey|first=Jennifer|title=Joan Rivers Chains Herself to Costco Shopping Cart in Protest|url=http://gma.yahoo.com/blogs/abc-blogs/joan-rivers-chains-herself-costco-shopping-cart-protest-134450183--abc-news-celebrities.html|publisher=ABC News|accessdate=August 8, 2012}}&lt;/ref&gt; On March 5, 2013, she launched the online talk show ''[[In Bed with Joan]]'' on YouTube. In it, Rivers invited a different guest to talk to her in bed about different things including their past, their love life and their career.
+
+Rivers released her twelfth book, ''Diary of a Mad Diva'', on July 1, 2014, which also made ''The NY Times'' Best Seller list.&lt;ref&gt;The New York Times Best Seller list&lt;/ref&gt; For the book, she posthumously won the [[Grammy Award for Best Spoken Word Album]] in 2015. Before her death, she filmed a part, along with other female comedians, for the documentary ''MAKERS: Women in Comedy'', which premiered on PBS in October 2014.&lt;ref&gt;{{cite web|url=http://insidetv.ew.com/2014/09/30/women-in-comedy-doc-joan-rivers/|title='MAKERS: Women in Comedy' director recalls interviewing Joan Rivers|work=Entertainment Weekly's EW.com}}&lt;/ref&gt;
+
+==Comedic style==
+{{quote box|width=30em|quote="He was an epiphany. Lenny told the truth. It was a total affirmation for me that I was on the right track long before anyone said it to me. He supplied the revelation that personal truth can be the foundation of comedy, that outrageousness can be cleansing and healthy. It went off inside me like an enormous flash.|source= — Rivers on seeing [[Lenny Bruce]] perform at a local club while she was in college influenced her developing style{{Sfn|Nachman|2003|p=608}}}}
+
+During her 55-year career as a comedian, her tough-talking style of satirical humor was both praised and criticized as truthful, yet too personal, too gossipy, and very often abrasive. Nonetheless, with her ability to "tell it like it is," she became a pioneer of contemporary stand-up comedy. Commenting about her style, she told biographer [[Gerald Nachman (journalist)|Gerald Nachman]], "Maybe I started it. We're a very gossipy culture. All we want to know now is private lives."{{Sfn|Nachman|2003|p=619}} However, her style of humor, which often relied on making jokes about her own life and [[Satire|satirizing]] the lives of celebrities and public figures, was sometimes criticized as insensitive. Her jokes about [[Elizabeth Taylor]] and [[Adele]]'s weight, for instance, were often commented on, although Rivers would never apologize for her humor.&lt;ref&gt;{{cite news|url=http://www.usmagazine.com/celebrity-news/news/joan-rivers-calls-adele-chubby-says-the-singer-should-lose-weight-2013313|title=Joan Rivers Calls Adele 'Chubby', Says the Singer Should 'Lose Weight'|work=[[Us Weekly]]|first=Zach|last=Johnson|date=March 31, 2013|accessdate=February 28, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.nydailynews.com/entertainment/gossip/joan-rivers-sticks-fat-adele-comments-article-1.1304702|title= Joan Rivers sticks to 'fat' Adele comments after singer demands apology: 'She should just calm down — or lose weight!'|work=New York Daily News}}&lt;/ref&gt;
+
+Rivers, who was Jewish, was also criticized for making jokes about [[the Holocaust]] and later explained, "This is the way I remind people about the Holocaust. I do it through humor", adding, "my husband lost his entire family in the Holocaust."&lt;ref&gt;{{cite news|url=http://www.monstersandcritics.com/smallscreen/news/article_1712229.php/Leave-Joan-Rivers-alone-Holocaust-remark-part-of-her-lifelong-comedic-style-VIDEO |title=Leave Joan Rivers alone! Holocaust remark part of her lifelong comedic style |work=M&amp;C |date=March 1, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140904192511/http://www.monstersandcritics.com/smallscreen/news/article_1712229.php/Leave-Joan-Rivers-alone-Holocaust-remark-part-of-her-lifelong-comedic-style-VIDEO |archivedate=September 4, 2014 }}&lt;/ref&gt; Her joke about the victims of the [[Ariel Castro kidnappings]] similarly came under criticism, but she again refused to apologize,&lt;ref&gt;{{cite news|url=https://news.yahoo.com/ohio-women-held-captive-seek-joan-rivers-apology-222137908.html |title=Ohio women held captive seek Joan Rivers' apology|work=Yahoo! News|date=April 23, 2014}}&lt;/ref&gt; stating, "I know what those girls went through. It was a little stupid joke."&lt;ref&gt;{{cite news|work=Huffington Post|url=http://www.huffingtonpost.com/2014/04/24/joan-rivers-kidnapping-victims_n_5206222.html|title=Joan Rivers Refuses To Apologize For Cleveland Kidnapping Victims Joke|date=April 24, 2014}}&lt;/ref&gt; She received multiple death threats throughout her career.&lt;ref&gt;{{cite news|url=http://thehill.com/homenews/news/241293-fbi-records-joan-rivers-received-death-threats|title=FBI records: Joan Rivers received death threats|last=Wilson|first=Megan R.|work=The Hill|date=May 6, 2015|accessdate=February 24, 2017}}&lt;/ref&gt; Rivers accepted such criticism as part of her using social satire as a form of humor: "I've learned to have absolutely no regrets about any jokes I've ever done&amp;nbsp;... You can tune me out, you can click me off, it's OK. I am not going to bow to [[political correctness]]. But you do have to learn, if you want to be a satirist, you can't be part of the party."&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/news/joan-rivers-best-jokes-one-565826|title=Joan Rivers Interview: Her 6 best one-liners|work=[[The Hollywood Reporter]]|date=June 12, 2013}}&lt;/ref&gt;
+
+As an unknown stand-up comedian out of college, she struggled for many years before finding her comic style. She did stints in the [[Catskills]] and found that she disliked the older style of comedy at the time, such as [[Phyllis Diller]]'s, who she felt was a pioneer female comedian.&lt;ref name=Greenspoon&gt;Leonard Jay Greenspoon, ed. ''Jews and Humor'', Purdue University Press (2011) p. 163&lt;/ref&gt; Her breakthrough came at [[The Second City]] in Chicago in 1961, where she was dubbed "the best girl since [[Elaine May]]," who also got her start there. But May became her and fellow comedian [[Treva Silverman]]'s role model, as Rivers saw her as "an assertive woman with a marvelous, fast mind and, at the same time, pretty and feminine."&lt;ref name=Greenspoon/&gt; It was also there that she learned "self reliance," she said, "that I didn't have to talk down in my humor" and could still earn an income by making intelligent people laugh. "I was really born as a comedian at Second City. I owe it my career."{{Sfn|Nachman|2003|p=607}}
+
+[[File:Joan Rivers - Life in Progress - Fringe.jpg|thumb|left|Rivers performing in her show at the 2008 [[Edinburgh Festival Fringe]]]]
+In early 1965, at the suggestion of comedian [[Bill Cosby]], Johnny Carson gave Rivers, whom he billed as a comedy writer, her debut appearance on his show.&lt;ref name=Zoglin&gt;Zoglin, Richard. ''Comedy at the Edge: How Stand-up in the 1970s Changed America'', Bloomsbury Publishing (2008) e-book&lt;/ref&gt;&lt;ref&gt;video: [https://www.youtube.com/watch?v=QUKI-_TXuUY Joan Rivers on Johnny Carson Show]&lt;/ref&gt; Cosby, who knew Rivers from their early stand-up days, described her as "an intelligent girl without being a weirdo ... a human being, not a kook."{{Sfn|Nachman|2003|p=596}} Sitting alongside Johnny after her monologue, she displayed an intimate, conversational style which he appreciated, and she was invited back eight more times that year.&lt;ref name=Zoglin/&gt; ''Time'' magazine compared her humor to that of [[Woody Allen]], by expressing "how to be neurotic about practically everything," but noting that "her style and femininity make her something special." Rivers also compared herself to Allen, stating: "He was a writer, which I basically was ... and talking about things that affected our generation that nobody else talked about."{{Sfn|Nachman|2003|p=596}} ''The New York Times'' critic [[Charles L. Mee]] likewise compared her to Allen, explaining that her "style was personal, an autobiographical stream-of-consciousness."&lt;ref name=Zoglin /&gt;
+
+Rivers' image contrasted starkly with Carson's stage demeanor, which was one of the reasons he made her co-host according to critic [[Michael Pollan]], who compared their style of humor: Where Carson is scrupulously polite, Rivers is bitchy; where he is low-key, she is overheated; where he is Midwest, Waspy and proper, she is urban, ethnic and gossipy. Carson conducts interviews as if he were at the country club; Rivers does hers at the kitchen table.&lt;ref&gt;Timberg, Bernard. ''Television Talk: A History of the TV Talk Show'', University of Texas Press (2002) p. 132.&lt;/ref&gt; In her personal life, she had fewer of those neurotic or intense character traits, according to Ralph Schoenstein, who dated her and worked with her on her humor books. He said, "She has no airs. She doesn't stand on ceremony. The woman has absolutely no pretense. She'll tell you everything immediately. Joan isn't cool—she's completely open. It's all grist. It's her old thing—'Can we talk?'"{{Sfn|Nachman|2003|p=623}} According to biographer [[Victoria Price]], Rivers' humor was notable for taking aim at and overturning what had been considered acceptable female behavior. By her bravura she broke through long-standing taboos in humor, which paved the way for other women, including [[Roseanne Barr]], [[Ellen DeGeneres]] and [[Rosie O'Donnell]].{{Sfn|Price|2000|pages=219–220}}
+
+==Personal life==
+In 2002, Rivers told the ''[[Montreal Mirror]]'' that she was a [[Republican Party (United States)|Republican]].&lt;ref&gt;{{cite news|last=Hays |first=Matthew |title=Can she talk |work=[[Montreal Mirror]] |year=2002 |url=http://www.montrealmirror.com/ARCHIVES/2002/070402/comedy1.html |archive-url=https://web.archive.org/web/20021116053759/http://www.montrealmirror.com/ARCHIVES/2002/070402/comedy1.html |dead-url=yes |archive-date=November 16, 2002 |accessdate=May 18, 2010 |df= }}&lt;/ref&gt; On January 28, 2014, during a conversation between Rivers and Reza Farahan of the ''[[Shahs of Sunset]]'', Melissa Rivers interjected to clarify that she and her mother were "[[Fiscal conservatism|fiscally conservative]], [[Cultural liberalism|socially liberal]]" Republicans.&lt;ref&gt;{{cite web|last=Rivers|first=Joan|title=In Bed With Joan|url=https://www.youtube.com/watch?v=fSnM3t7giOg}}&lt;/ref&gt; Rivers was raised in [[Reform Judaism]]; she stated in a 2008 interview that she considered herself to be more [[agnostic]] and she "did not believe in the afterlife."&lt;ref name=stephenson/&gt;
+
+Rivers was one of only four Americans invited to the [[Wedding of Charles, Prince of Wales, and Camilla Parker Bowles]] on April 9, 2005.&lt;ref name=jmiller&gt;{{cite news|author=Miller, Julie|title=Prince Charles Is Just as Broken Up Over Joan Rivers' Death as We Are|url=http://www.vanityfair.com/vf-hollywood/2014/09/prince-charles-mourns-joan-rivers|accessdate=September 20, 2014|work=Vanity Fair|date=September 5, 2014}}&lt;/ref&gt;
+
+===Relationships and family===
+Rivers' first marriage was in 1955 to James Sanger, the son of a [[Bond Clothing Stores]] merchandise manager.&lt;ref name="nytimescomicstiletto"/&gt;{{Sfn|Rivers|1986|pages=67–71}} The marriage lasted six months&lt;ref name="nytimescomicstiletto"/&gt;{{Sfn|Rivers|1986|pages=182–183}} and was annulled on the basis that Sanger did not want children and had not informed Rivers before the wedding.{{Sfn|Rivers|1986|p=70}}
+
+[[File:Joan Rivers and Melissa Rivers during NY Fashion Week 2012 (crop).jpg|thumb|left|Rivers with her daughter, Melissa, during [[New York Fashion Week]], 2012.]]
+
+Rivers married [[Edgar Rosenberg]] on July 15, 1965.{{Sfn|Rivers|1986|p=375}} Their only child, [[Melissa Rivers]], was born on January 20, 1968. Joan Rivers had one grandson, Cooper, born Edgar Cooper Endicott in 2000.&lt;ref&gt;{{cite journal|last=Fink |first=Mitchell |url=http://articles.nydailynews.com/2000-12-02/entertainment/18144280_1_melissa-rivers-movie-star-joan-rivers |title=Stars To Swell Cathedral For Mottola Wedding|journal= New York Daily News |date=December 2, 2000 |accessdate=November 25, 2011}}&lt;/ref&gt; Along with his mother and grandmother, Cooper was featured in the [[WE tv]] series ''Joan &amp; Melissa: Joan Knows Best?''&lt;ref&gt;{{cite news |url=http://www.miamiherald.com/2010/06/24/1697267/joan-rivers-is-a-nice-person-really.html |title=Joan Rivers is a nice person – really |work=[[The Miami Herald]] |date=June 24, 2010}}&lt;/ref&gt; Rivers was married to Rosenberg until his [[suicide]] in 1987, four days after she asked him for a separation.&lt;ref&gt;{{cite interview|work=The Joan Rivers Show|first=Joan|last=Rivers|interviewer=[[Dick Cavett]]|year=1991|title=Joan Rivers Interview}}&lt;/ref&gt;&lt;ref name="separation"&gt;{{cite journal|title=The Rivers Run Together |quote="The way I see it," explains Joan, "Melissa blamed me." After all, Joan and Edgar had only recently separated when he killed himself. |work=People Magazine|date=June 21, 1993|volume=39|issue=24|author=Marjorie Rosen|url=http://www.people.com/people/archive/article/0,,20110665,00.html}}&lt;/ref&gt; She would later describe her marriage to Rosenberg as a "total sham", complaining bitterly about his treatment of her during their 22-year marriage.&lt;ref name="telegraph2"&gt;{{cite web |title=Joan Rivers - obituary |work=The Telegraph |url=https://www.telegraph.co.uk/news/obituaries/11075283/Joan-Rivers-obituary.html|date=September 4, 2014|accessdate=December 28, 2016}}&lt;/ref&gt; In a 2012 interview with [[Howard Stern]], Rivers said she had several extramarital affairs when married to Rosenberg, including a one-night affair with actor [[Robert Mitchum]] in the 1960s and an affair with actor [[Gabriel Dell]].&lt;ref&gt;{{cite news|title=Joan Rivers on ''Howard Stern Show''|work=[[Sirius Radio]]|date=June 5, 2012}}&lt;!-- link to audio for verification: https://www.youtube.com/watch?v=SEfl8XBALi0 --&gt;&lt;/ref&gt; In the 1990s, she was in an eight year relationship with the commissioner of the [[New York State Office of Parks, Recreation and Historic Preservation|New York State Office of Parks and Recreation]] and disabled World War II veteran, [[Orin Lehman]] of the [[Lehman family]].&lt;ref&gt;[http://www.thedailybeast.com/joan-rivers-our-last-interview Daily Beast: "Truth to Power Joan Rivers: Our Last Interview" by Tim Teeman] September 14, 2014&lt;/ref&gt;&lt;ref&gt;[http://nymag.com/movies/features/66181/index6.html New York Magazine: "Joan Rivers Always Knew She Was Funny"] retrieved September 25, 2017&lt;/ref&gt;
+
+In her book ''Bouncing Back'', Rivers described how she developed [[bulimia nervosa]] after the 1987 suicide of Rosenberg, and the subsequent death of her [[psychologist]], with whom she'd developed a close friendship, of [[AIDS]].&lt;ref name=stephenson/&gt; Additionally, Rivers' relationship with her daughter had been strained at the time; according to Rivers, the confluence of events resulted in her contemplating suicide in her California home.&lt;ref name=stephenson/&gt; "I got the gun out, the whole thing," she recalled in a 2008 interview. "And [then] my dog came and sat in my lap... and that was a big turning point in my life. My little, stupid dog, a [[Yorkshire terrier|Yorkie]], who I adored, literally came and sat on my lap....and literally, he saved my life. Truly saved my life."&lt;ref name=stephenson/&gt; Rivers eventually recovered with counseling and the support of her family.{{Sfn|Rivers|1997|p=125}}
+
+===Philanthropy===
+As a philanthropist, Rivers supported causes including [[HIV/AIDS]] activism,&lt;ref name="cathylynngrossmanwp" /&gt; and in May 1985, she appeared along with [[Nichols and May]] at a [[Comic Relief USA|Comic Relief]] benefit for the new [[AIDS Medical Foundation]] in New York City, where tickets at the Shubert Theatre sold for as much as $500.&lt;ref&gt;''New York Magazine'', May 13, 1985&lt;/ref&gt; She supported the [[Elton John AIDS Foundation]]&lt;ref name=charities&gt;{{cite web|url=https://www.looktothestars.org/celebrity/joan-rivers |title=Joan Rivers Charity Work, Events and Causes|work=Look to the Stars|accessdate=April 22, 2017}}&lt;/ref&gt; and [[God's Love We Deliver]], which delivers meals to HIV/AIDS patients in New York City.&lt;ref name="huffingtonrobbie"&gt;{{cite news|author=Couch, Robbie| url=http://www.huffingtonpost.com/2014/09/04/joan-rivers-humanitarian_n_5768272.html?ir=Entertainment |title=Joan Rivers Didn't Just Tell Jokes. She Fought For AIDS Patients And Suicide Prevention, Too|work=The Huffington Post|date=September 4, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.aidshealth.org/archives/18521 |title=AHF mourns Joan Rivers: 'Her heart was as big as her mouth was tart.' |publisher=AIDS Health Foundation |date=September 4, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140905234558/http://www.aidshealth.org/archives/18521 |archivedate=September 5, 2014 }}&lt;/ref&gt; In 2008, she was commended by the City of San Diego, California for her philanthropic work regarding HIV/AIDS, where the HIV/AIDS community called her their "Joan of Arc."&lt;ref name="daniabacchus"&gt;{{cite news|author=Bacchus, Danya |url=http://www.nbcsandiego.com/news/local/Joan-Rivers-Comedian-San-Diego-Balboa-Theatre-Joan-of-Arc-274092631.html |title=Joan Rivers Considered 'Joan of Arc' for HIV/AIDS Community|publisher=KNSD|date=September 5, 2014}}&lt;/ref&gt;
+
+Additionally, she served as an Honorary Director of the [[American Foundation for Suicide Prevention]].&lt;ref name="huffingtonrobbie"/&gt;&lt;ref&gt;{{cite web|url=https://www.afsp.org/about-afsp/our-organization/board-of-directors|publisher=American Foundation for Suicide Prevention|title=Board of Directors|deadurl=yes|archiveurl=https://archive.is/20140905163248/https://www.afsp.org/about-afsp/our-organization/board-of-directors|archivedate=September 5, 2014|df=mdy-all}}&lt;/ref&gt; She also supported [[Guide Dogs for the Blind]], a non-profit organization which provides [[guide dogs]] to blind people.&lt;ref name="huffingtonrobbie" /&gt; She donated to Jewish charities, animal welfare efforts, and suicide prevention causes.&lt;ref name="cathylynngrossmanwp" /&gt; Among the other non-profit organizations she helped were [[Rosie's Theater Kids]], [[Habitat for Humanity – New York City|Habitat for Humanity]], [[Human Rights Campaign]]&lt;ref name=charities/&gt; and the [[Boy Scouts of America]].&lt;ref&gt;{{cite web |url=http://blog.scoutingmagazine.org/2014/09/04/remembering-joan-rivers-friend-scouting/ |title=Remembering Joan Rivers, a friend of Scouting |date=September 4, 2014 |publisher=Bryan on Scouting |accessdate=September 11, 2014}}&lt;/ref&gt;
+
+===Cosmetic procedures===
+Rivers was open about her multiple cosmetic surgeries and was a patient of plastic surgeon [[Steven Hoefflin]], beginning in 1983. She had her nose thinned while still at college; her next procedure, an [[Blepharoplasty|eye lift]], was performed in 1965 (when she was in her thirties) as an attempt to further her career.&lt;ref&gt;{{cite news|title=Talk about a boob job: Joan Rivers' hymn to the joys of plastic surgery leaves Carole Cadwalladr feeling queasy|work=The Observer|author= Cadwalladr, Carole|date= February 21, 2009| url=https://www.theguardian.com/books/2009/feb/22/joan-rivers-plastic-surgery-books}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Kron|first=Joan|date=July 2005|title=Nip/Talk|journal=[[Allure (magazine)|Allure]]|publisher=[[Condé Nast]]|url=http://www.accessmylibrary.com/article-1G1-134837369/niptalk-interview-joan-rivers.html|accessdate=January 11, 2011}}&lt;/ref&gt; When promoting her book, ''Men Are Stupid ... And They Like Big Boobs: A Woman's Guide to Beauty Through Plastic Surgery'', described by ''[[The New York Times Magazine]]'' as "a detailed and mostly serious guide to eye lifts, tummy tucks and other forms of [[plastic surgery]]", she quipped: "I've had so much plastic surgery, when I die they will donate my body to [[Tupperware]]."&lt;ref&gt;{{cite news|work=New York Daily News| title=Joan Rivers dead at 81: Comedian's Top 10 jokes about celebs, plastic surgery, herself (A look back at the comedian's top zingers from her decades-long career)|author=Ramisetti, Kirthana|date= September 4, 2014 |url=http://www.nydailynews.com/entertainment/joan-rivers-top-10-jokes-celebs-plastic-surgery-article-1.1928398#ixzz3CWeoRaTP}}&lt;/ref&gt;&lt;ref&gt;{{cite news|work=The New York Times Magazine|date=December 31, 2008 |url=https://www.nytimes.com/2009/01/04/magazine/04wwln-Q4-t.html?_r=1&amp;|author=Solomon, Deborah|title=Questions for Joan Rivers: ''Cutup''}}&lt;/ref&gt;
+
+==Death==
+On August 28, 2014, Rivers experienced serious complications and stopped breathing while undergoing what was scheduled as a minor throat procedure at an outpatient clinic in [[Yorkville, Manhattan]].&lt;ref&gt;{{cite book|url=http://www.cnn.com/2014/09/04/showbiz/joan-rivers-clinic-probe/index.html?iid=article_sidebar |title=Clinic where Joan Rivers stopped breathing is under investigation|work= CNN|date=September 4, 2014|author=Duke, Alan|accessdate=April 22, 2017}}&lt;/ref&gt;&lt;ref name="CBS 2014"&gt;{{cite web|title=Joan Rivers In Medically-Induced Coma After Going Into Cardiac Arrest|url=http://newyork.cbslocal.com/2014/08/28/cbs-2-sources-joan-rivers-rushed-to-hospital-after-suffering-cardiac-arrest|website=CBS Local|publisher=CBS News|accessdate=August 29, 2014}}&lt;/ref&gt; Resuscitated an hour later, Rivers was transferred to [[Mount Sinai Hospital (Manhattan)|Mount Sinai Hospital]] and later put on [[life support]].&lt;ref&gt;{{cite web|last=McShane|first=Larry|title=Joan Rivers on life support, family members stand vigil|url=http://www.nydailynews.com/entertainment/gossip/joan-rivers-life-support-family-members-stand-vigil-article-1.1922473|work=[[Daily News (New York)|New York Daily News]]|date=August 30, 2014|accessdate=August 31, 2014}}&lt;/ref&gt; She died on September 4 at [[Mount Sinai Hospital (Manhattan)|Mount Sinai Hospital]] in New York, having never awoken from a medically [[induced coma]].&lt;ref name="BBC 2014"&gt;{{cite web|title=Joan Rivers 'resting comfortably' after health scare|url=https://www.bbc.co.uk/news/entertainment-arts-28980251|publisher=BBC News|accessdate=August 29, 2014}}&lt;/ref&gt; The [[Office of Chief Medical Examiner of the City of New York|New York City Medical Examiner's Office]] said she died from brain damage caused by a lack of oxygen, and the details of her surgery would be investigated by officials.&lt;ref&gt;{{cite news|url=http://newyork.cbslocal.com/2014/10/16/medical-examiner-joan-rivers-death-resulted-from-predictable-complication/|title=Medical Examiner: Joan Rivers' Death 'Resulted From Predictable Complication'|publisher=[[WCBS-TV]]|date=October 16, 2014|accessdate=October 16, 2014}}&lt;/ref&gt; Rivers was 81 years old.
+
+After nearly two months of investigations, federal officials said on November 10 that the clinic made a number of mistakes both before and during the procedure. Among those were the clinic's failure to respond to Rivers' deteriorating vital signs, including a severe drop in her blood pressure, possibly administering an incorrect anesthetic dosage, performing a surgical procedure without her consent, and other medical-clinic irregularities.&lt;ref&gt;[https://www.nytimes.com/2014/11/11/nyregion/joan-riverss-doctor-didnt-immediately-notice-deteriorating-vital-signs-federal-inquiry-says.html?_r=0 "Joan Rivers' Treatment Had Numerous Violations, U.S. Inquiry Finds"], ''New York Times'', November 10, 2014&lt;/ref&gt;&lt;ref&gt;[https://www.theguardian.com/stage/2014/nov/11/joan-rivers-clinic-series-mistakes-routine-surgery-that-led-to-her-death "Joan Rivers' daughter 'outraged' over mistakes that led to comedian's death"], ''The Guardian'', U.K., November 11, 2014&lt;/ref&gt;
+
+On September 7, after Rivers' cremation,&lt;ref&gt;{{cite web |url=http://5tjt.com/rabbi-perl-to-joan-rivers-can-we-talk-the-tragic-cremation-of-joan-rivers/|title=Rabbi Perl to Joan Rivers "Can We Talk?" The Tragic Cremation of Joan Rivers|work=[[Five Towns Jewish Times]]|year=2014|accessdate=October 30, 2014}}&lt;/ref&gt; a private memorial service took place at [[Congregation Emanu-El of New York|Temple Emanu-El]] in Manhattan.&lt;ref name=CNN&gt;{{cite web |url=http://edition.cnn.com/2014/09/07/showbiz/joan-rivers-funeral/|title=Joan Rivers gets showbiz send-off with New York funeral|first=Alan|last=Duke|date=September 8, 2014|accessdate=October 30, 2014|work=[[CNN]]}}&lt;/ref&gt;&lt;ref name="timesofisraelfuneral"&gt;[http://www.timesofisrael.com/joan-rivers-gets-star-studded-new-york-funeral/ Joan Rivers gets star-studded New York funeral], ''[[The Times of Israel]]'', September 7, 2014&lt;/ref&gt; The service was attended by an estimated 1,500 people.&lt;ref name="timesofisraelfuneral" /&gt; The guest list included Rivers' many celebrity friends, public figures and the [[New York City Gay Men's Chorus]] singing old show tunes.&lt;ref name=CNN /&gt; Talk show host [[Howard Stern]], delivering the eulogy, described Rivers as "brassy in public [and] classy in private&amp;nbsp;... a troublemaker, trail blazer, pioneer for comics everywhere,&amp;nbsp;... [who] fought the stereotypes that women can't be funny."&lt;ref&gt;{{cite news|last1=Barron|first1=James|title=At Joan Rivers' Memorial, Celebrities, Cameras and Crowds|url=https://www.nytimes.com/2014/09/08/arts/television/joan-rivers-funeral.html?_r=0|accessdate=September 14, 2014|work=The New York Times|date=September 7, 2014}}&lt;/ref&gt; Daughter Melissa read a comedic note to her mother as part of her eulogy.&lt;ref&gt;{{cite web |url=http://www.usmagazine.com/celebrity-news/news/melissa-rivers-eulogy-joan-rivers-funeral-funny-letter-2014109|title=Melissa Rivers Reads Hilarious Note to Joan Rivers as Eulogy at Funeral: Read the Entire Letter|first=Rachel|last=McRady|date=September 10, 2014|accessdate=October 30, 2014|work=[[Us Weekly]]}}&lt;/ref&gt;
+
+On January 26, 2015, Melissa Rivers filed a malpractice lawsuit against the clinic and doctors performing surgery on her mother.&lt;ref&gt;{{cite news|url=http://www.foxnews.com/entertainment/2015/01/26/lawyers-melissa-rivers-files-lawsuit-in-mother-joan-death/|title=Lawyers: Melissa Rivers files malpractice lawsuit in mother Joan's death|publisher=[[Fox News]]|agency=[[Associated Press]]|date=January 26, 2015|accessdate=January 27, 2015}}&lt;/ref&gt; The suit was settled for an undisclosed amount in May 2016, with the doctors accepting responsibility.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2016/05/13/nyregion/settlement-reached-in-joan-rivers-malpractice-case.html|title=Settlement Reached in Joan Rivers Malpractice Case|accessdate=May 13, 2016|work=
+The New York Times|date=May 13, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.cnn.com/2016/05/13/health/joan-rivers-death-settlement/ |title=Family of Joan Rivers settles with clinic at the center of a medical malpractice |last1=Frehse |first1=Rob |last2=Newsome |first2=John |date=May 13, 2016 |website=[[CNN.com]] |access-date=May 13, 2016}}&lt;/ref&gt;
+
+===Reactions and tributes===
+[[File:Joan Rivers - 1967.jpg|thumb|Rivers in 1967]]
+Upon Rivers' death, friends, fans, family and celebrities paid tribute.&lt;ref&gt;{{cite web|url=http://www.tmz.com/2014/09/04/joan-rivers-death-hollywood-reacts/|title=Joan Rivers Death: Hollywood Reacts|publisher=[[TMZ]]|date=September 4, 2014|accessdate=February 28, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.foxnews.com/entertainment/2014/09/04/joan-rivers-dead-stars-react-to-comedian-death-81/|title=Stars react to the death of comedian Joan Rivers|publisher=[[Fox News]]|date=September 4, 2014|accessdate=February 28, 2015}}&lt;/ref&gt; Numerous comedians recognized Rivers' influence on their career, including [[Kathy Griffin]], who considered Rivers her "mentor", noting, "She brought a fearlessness and a brand of humor into our homes that we really need."&lt;ref&gt;{{cite web|url=http://www.usmagazine.com/entertainment/news/kathy-griffin-was-offered-joan-rivers-fashion-police-spot-2014411|title=Kathy Griffin Was Offered Joan Rivers' Spot on Fashion Police: "I Don't Know If It's Right for Me"|work=[[Us Weekly]]|date=November 4, 2014|accessdate=February 28, 2015|first=Allison|last=Takeda}}&lt;/ref&gt; [[Chris Rock]] felt "she was the hippest comedian from the time she started to the day she died". Describing her as a force in comedy, he added, "No man ever said, 'Yeah, I want to go on after Joan.' No, Joan Rivers closed the show every night."&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/culture/videos/chris-rock-salutes-joan-rivers-one-of-the-greatest-stand-ups-20140908|title=Chris Rock Salutes Joan Rivers: 'One of the Greatest' Stand-Ups|work=[[Rolling Stone]]|date=September 8, 2014|accessdate=February 28, 2015|first=Ryan|last=Reed}}&lt;/ref&gt; Other comedians recalled working with her on stage and television decades earlier: stand-up performer [[Don Rickles]] said "working with her and enjoying the fun times of life with her was special". [[Carol Burnett]] calls Rivers "the poster child for the [[Energizer Bunny]]".&lt;ref&gt;{{cite web|url=http://www.nbcnews.com/storyline/joan-rivers-death/joan-rivers-remembered-stand-comics-tv-legends-n196156|title=Joan Rivers Remembered by Stand-Up Comics, TV Legends|publisher=[[NBC News]]|date=September 5, 2014|accessdate=February 28, 2015|first=Daniel|last=Arkin}}&lt;/ref&gt;
+
+Numerous talk show hosts, including [[Jimmy Fallon]], [[Jimmy Kimmel]], [[Oprah Winfrey]], [[Sally Jessy Raphael]], [[Geraldo Rivera]], [[Regis Philbin]], [[Arsenio Hall]], [[Ellen DeGeneres]] and [[David Letterman]], paid tribute to Rivers, often including video clips of her appearances. Letterman called her a "real pioneer for other women looking for careers in stand-up comedy. And talk about guts."&lt;ref&gt;[http://www.cbsnews.com/news/joan-rivers-dead-star-pays-tribute/ "Stars pay tribute to Joan Rivers"], CBS News, September 4, 2014&lt;/ref&gt; [[Conan O'Brien]] discussed Rivers' legacy with fellow comedian and lifelong friend [[Chris Hardwick]] on ''[[Conan (talk show)|Conan]]'', while [[Seth Meyers]] recalled Rivers' appearance on [[Late Night with Seth Meyers|his talk show]], saying, "I have not sat next to anyone who told more jokes faster than Joan Rivers did when she was here."&lt;ref name=today&gt;[http://www.today.com/popculture/can-we-talk-joan-rivers-gets-all-due-respect-late-1D80128332 "Can we talk? Jimmy Fallon and more late-night hosts pay tribute to Joan Rivers"], ''Today'', September 5, 2014&lt;/ref&gt; And on ''[[The Daily Show]]'', host [[Jon Stewart]] noted her contributions: "There are very few people in my business that you can say are, or were, actually groundbreaking talents. Joan Rivers was one of them."&lt;ref name=today/&gt; Radio host [[Howard Stern]], who delivered her funeral eulogy, devoted an entire one-hour show to Rivers.&lt;ref&gt;[https://www.youtube.com/watch?v=TE0DRlbgPh8 "Howard Stern Pays Tribute to Joan Rivers"], video 1 hour&lt;/ref&gt; Stern began the eulogy with, "Joan Rivers had a dry vagina," a joke that was intended, and reportedly received by guests, as a humorous honoring of Rivers' comedic sensibility.&lt;ref&gt;{{Cite web|url=https://www.huffingtonpost.com/2014/09/09/howard-stern-eulogy-joan-rivers_n_5791576.html|title=Howard Stern's Perfect Eulogy For Joan Rivers May Be The Dirtiest Thing You'll Hear At A Funeral|date=September 9, 2014|publisher=Huffington Post|accessdate=January 18, 2018|first=Ron|last=Dicker}}&lt;/ref&gt;&lt;ref&gt;[https://www.howardstern.com/show/2014/9/8/mondays-show-rundownshow-2197/ "The Howard Stern Show: Monday September 8, 2014"].&lt;/ref&gt; [[Sarah Silverman]] paid tribute to Rivers while hosting ''[[Saturday Night Live]]''.&lt;ref&gt;[http://www.usmagazine.com/entertainment/news/sarah-silverman-plays-joan-rivers-saturday-night-live-skit-video-2014510 "Sarah Silverman Plays Joan Rivers in Saturday Night Live Heaven Skit: Watch Now!"], ''Us Weekly'', October 5, 2014&lt;/ref&gt; Long-time friend, comedian, fellow talk show hostess and television personality [[Whoopi Goldberg]] tweeted: "My friend Joan Rivers has passed away," She said: "Once again to quote Billy Crystal ... There are no words."&lt;ref&gt;{{cite web|url=http://www.etonline.com/news/150748_celebs_react_to_the_death_of_joan_rivers|title=Stars React to the Death of Joan Rivers|publisher=ETOnline.com|date=September 5, 2014|accessdate=November 22, 2016}}&lt;/ref&gt;  Comedian [[Amy Schumer]], speaking at the 2014 [[Glamour (magazine)|''Glamour'']] magazine "Woman of the Year Awards" ceremony in [[Carnegie Hall]], paid tribute to Rivers, calling her the bravest female comedian.&lt;ref&gt;[http://www.shalomlife.com/culture/27061/amy-schumer-pays-tribute-to-joan-rivers-at-glamours-women-of-the-year-awards-video/ "Amy Schumer Pays Tribute to Joan Rivers at Glamour's Women Of The Year Awards"] {{webarchive|url=https://web.archive.org/web/20141124222205/http://www.shalomlife.com/culture/27061/amy-schumer-pays-tribute-to-joan-rivers-at-glamours-women-of-the-year-awards-video/ |date=November 24, 2014 }}, ''Shalom Life'', November 21, 2014&lt;/ref&gt;
+
+Political figures giving tribute to Rivers included former first lady [[Nancy Reagan]], who had helped Rivers after the death of her husband, Edgar Rosenberg.&lt;ref&gt;[http://thehill.com/blogs/in-the-know/in-the-know/216712-gillibrand-mourns-death-of-joan-rivers "Gillibrand, Nancy Reagan mourn Joan Rivers' death"], ''The Hill'', September 4, 2014&lt;/ref&gt; As a friend of [[Prince Charles]], Rivers was one of only four Americans invited to his wedding to [[Camilla Parker Bowles]] in 2005. Upon hearing of her death, they said she was "utterly irreplaceable".&lt;ref name=jmiller/&gt; Israel's Prime Minister [[Benjamin Netanyahu]] noted that besides bringing laughter to millions of people around the world, she was "proud of her Jewish heritage".&lt;ref&gt;[http://www.jpost.com/Diaspora/Legendary-American-Jewish-comedian-Joan-Rivers-dies-at-81-374508 "Netanyahu hails legendary American Jewish comedian Rivers as 'vocal supporter of Israel'"], ''Jerusalem Post'', September 4, 2014&lt;/ref&gt; Future U.S. President [[Donald Trump]] attended her funeral and [[Twitter|tweeted]] that she "was an amazing woman and a great friend".&lt;ref&gt;{{cite web|url=http://www.nydailynews.com/news/joan-rivers-funeral-stars-goodbye-legendary-comedian-gallery-1.1931140?pmSlide=1.1931132|title=Stars say goodbye at Joan Rivers' funeral|work=New York Daily News|date=September 7, 2014|accessdate=February 24, 2017}}&lt;/ref&gt; After her mother's death, Melissa Rivers said she received a letter from President [[Barack Obama]] in which he wrote, despite being a frequent target of Rivers' jokes: "not only did she make us laugh, she made us think".&lt;ref&gt;[http://abcnews.go.com/Entertainment/melissa-rivers-president-obama-hand-written-condolences-joan/story?id=25619819 "Melissa Rivers: President Obama Sent Handwritten Condolences After Joan Rivers' Death"], ABC News, September 19, 2014&lt;/ref&gt;
+
+In a subsequent interview with ''The Huffington Post'', Melissa Rivers cited [[Courtney Love]]'s public tribute to her mother as her favorite, adding: "I loved seeing that outpouring from these women, especially the ones who took the heat on ''[[Fashion Police]]'', because it meant they got it. It meant they loved her. It meant they saw the humor."&lt;ref&gt;{{cite web|url=http://www.huffingtonpost.com/2015/05/13/joan-rivers-courtney-love_n_7277442.html|work=The Huffington Post|title=Melissa Rivers' Favorite Tribute To Mom Joan Was Surprisingly By Courtney Love|author=Katz, Emily Tess|date=May 13, 2015|accessdate=May 3, 2017}}&lt;/ref&gt;
+
+==Books==
+*{{cite book|title=Having a Baby Can Be a Scream|year=1974|publisher=J.P. Tarcher}} (Self-Help/Humor)
+*{{cite book|title=The Life and Hard Times of Heidi Abromowitz|year=1984|publisher=Doubleday|isbn=978-0385293594}} (Humor)
+*{{cite book|title=Enter Talking|year= 1986|publisher=Dell Publishing Co|isbn=978-0440122449}} (Autobiography)
+*{{cite book|title=Still Talking|year=1991|publisher=Random House|isbn=978-0394579917}} (Autobiography)
+*{{cite book|title=Jewelry by Joan Rivers|year=1995|publisher=Abbeville Press|isbn=978-1558598089}} (Non-Fiction)
+*{{cite book|title=Bouncing Back: I've Survived Everything ... and I Mean Everything ... and You Can Too!|year= 1997|publisher=HarperTorch|isbn=978-0061096013}} (Self-Help/Humor)
+*{{cite book|title=From Mother to Daughter: Thoughts and Advice on Life, Love and Marriage|year=1998|publisher=Birch Lane Pr|isbn=978-1559724937}} (Self-Help)
+*{{cite book|title=Don't Count the Candles: Just Keep the Fire Lit!|year=1999|publisher=[[HarperCollins]]|isbn=978-0060183837}} (Self-Help)
+*{{cite book|title=Murder at the Academy Awards (R): A Red Carpet Murder Mystery|year=2009|publisher= Pocket|isbn=1416599371}} (Fiction)
+*{{cite book|title=Men Are Stupid...And They Like Big Boobs: A Woman's Guide to Beauty Through Plastic Surgery (with Valerie Frankel)|year=2009|isbn=141659924X}} (Non-Fiction)
+*{{cite book|title=I Hate Everyone...Starting with Me|year=2012|publisher=Berkley Trade|isbn=978-0425255896}} (Humor)
+*{{cite book|title=Diary of a Mad Diva|year=2014|publisher=Berkley Publishing Group|isbn=978-0425269022}} (Humor)
+
+===Biographical===
+*{{cite book|title=The Book of Joan: Tales of Mirth, Mischief, and Manipulation|author=[[Melissa Rivers]]|year=2015|publisher=Crown Archetype|isbn=978-1101903827}} (Memoir)
+*{{cite book|title=Last Girl Before Freeway: The Life, Loves, Losses, and Liberation of Joan Rivers|author=Leslie Bennetts|year=2016|publisher=Little, Brown and Company|isbn=978-0316261302}} (Biography)
+*{{cite book|title=Joan Rivers Confidential: The Unseen Scrapbooks, Joke Cards, Personal Files, and Photos of a Very Funny Woman Who Kept Everything|author=Melissa Rivers, Scott Currie|year=2017|publisher=Harry N. Abrams|isbn=978-1419726736}} (Photography)
+
+==Discography==
+
+===Albums===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Label
+! Formats
+|-
+|1965
+|''Mr. Phyllis And Other Funny Stories''  
+| [[Warner Bros. Records]]
+| LP, CD 2012, Download
+|-
+|1969
+|''The Next To Last Joan Rivers Album''  
+| [[Buddah Records]]
+| LP, CD 2015, Download
+|-
+|1983
+|''What Becomes A Semi-Legend Most?''  
+| [[Geffen Records]]
+| LP, Cassette, 8-Track, CD 2005, Download
+|-
+|2005
+|''Live at the London Palladium''  
+| Redbush Entertainment
+| [[Audible (store)|Audible]] Download&lt;ref&gt;https://www.audible.com/pd/Comedy/Joan-Rivers-Live-at-the-Palladium-Audiobook/B009ZHDEMU/ref=a_search_c4_1_8_srTtl?qid=1512054258&amp;sr=1-8&lt;/ref&gt; (2012)
+|-
+|2013
+|''Don't Start With Me''  
+| [[Entertainment One]]
+| CD, Download
+|}&lt;ref name="discogs.com"&gt;https://www.discogs.com/artist/585596-Joan-Rivers&lt;/ref&gt;
+
+===Compilation/Collaboration appearances===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Label
+! Track
+! Formats
+|-
+|1960
+|''Adam And Eve / Little Mozart'' w/ [[Sandy Baron]]
+| Sure Records
+| both sides
+| 7" Single
+|-
+|rowspan="2"|1963
+|''Heaven On $5 A Day''
+| [[Kapp Records]]
+| Various
+|rowspan="2"| LP
+|-
+|''At Home With That Other Family''
+| [[Roulette Records]]
+| Cosmonaut's Wife, Telephone Operator, Reporter
+|-
+|rowspan="2"|1970
+|''The Golden Age Of Comedy; 50 Years Of Great Humor, From Vaudville To Video''
+| [[Longines Symphonette Society]]
+| Various
+| 5xLP Box Set
+|-
+|''[[Ben Bagley]]'s [[Vernon Duke]] Revisited''
+| Crewe Records/[[RCA Victor]]
+| Tracks 5 &amp; 8
+| LP, CD
+|-
+|ca. 70s
+|''The Comedians''
+| Jericho Marketing Corp.
+| Side 1, Track 2
+| LP
+|-
+|rowspan="2"|1974
+|''Zingers From The [[Hollywood Squares]]''
+| Event Records
+| Side B, Track 4 "Divorce"
+| Book, LP, 8-Track, CD
+|-
+|''[[The Bitter End]] Years''
+| [[Roxbury Records]]
+| Side D, Track 2 "First Four Minutes: Live"
+| 3xLP Box Set
+|-
+|1986
+|''Kings Of Comedy: The Best Of The Contemporary Comedians''
+| [[K-Tel Records]]
+| Side A, Tracks 2 &amp; 5
+| LP
+|-
+|1990
+|''The Best of [[Comic Relief USA|Comic Relief]] '90''
+| [[Rhino Entertainment]]
+| Track 5
+| CD, Cassette, VHS
+|-
+|1991
+|''The Sullivan Years: Comedy Classics''
+| [[TVT Records]]
+| Track 2
+| LP, Cassette, CD
+|-
+|1995
+|''Word Of Mouth: The Very Best Of Comedy''
+| Speaking Books Ltd.
+| Side 2, Track 6
+| 2xCassette
+|-
+|2000
+|''[[The Second City]]: Backstage at the World's Greatest Comedy Theater''
+| [[Sourcebooks MediaFusion]]
+| Disc 1, Track 4 "Our Children"
+| Book &amp; 2xCD
+|-
+|2005
+|''[[The Ed Sullivan Show]]: A Classic Christmas''
+| Ventura/SOFA Home Entertainment
+| Chapter 19 "Holiday Calendar"
+| DVD
+|-
+|2010
+|''[[Fresh Air with Terry Gross]]: Just For Laughs''
+| [[Workman Publishing Company|Highbridge Company]]/[[NPR]]
+| Disc 3, Track 3 Interview
+| 3xCD, Digital
+|-
+|2011
+|''[[The Rolling Stones]]: 4 Ed Sullivan Shows''
+| SOFA Home Entertainment
+| Disc 2, Track 6 "Comedienne"
+| 2xDVD
+|-
+|2014
+|''[[The Midnight Special (TV series)|The Midnight Special]]''
+| [[StarVista Entertainment]]
+| Disc 9, "Comedy Routines"
+| 11xDVD Box Set
+|}&lt;ref name="discogs.com"/&gt;
+
+===Audiobooks===
+All authored and read by Joan Rivers, except where noted.
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Notes
+! Publisher
+! Reference
+! Formats
+|-
+|1986
+|''Enter Talking'' 
+| with [[Richard Meryman]]
+|rowspan="4"| Dove Entertainment / [[Phoenix Books]]
+| {{ASIN|B00S00SSBU}}
+|rowspan="5"| Cassette, Digital
+|-
+|1987
+|''Murder on the Aisle: The 1987 Mystery Writers of America Anthology'' 
+| Narrator only
+| {{ASIN|B074QWM7TD}}
+|-
+|1991
+|''Still Talking''
+| with Richard Meryman
+| {{ASIN|B01K3J268G}}
+|-
+|1993
+|''Carnival of the Animals'' 
+|rowspan="2"| Narrator only
+| {{ASIN|B074QTYMFM}}
+|-
+|1998
+|''The Emperor's New Clothes: An All-Star Illustrated Retelling of the Classic Fairy Tale''
+| [[Harcourt (publisher)|Harcourt Brace &amp; Company]] Audioworks
+| {{ISBN|978-0671043933}}
+|-
+|2008
+|''Men Are Stupid . . . And They Like Big Boobs: A Woman's Guide to Beauty Through Plastic Surgery'' 
+| with Valerie Frankel
+| [[Simon &amp; Schuster]] Audio
+| {{ISBN|978-0743581509}}
+| CD, Digital
+|-
+|rowspan="2"| 2009
+|''New Treasury of Great Humorists''
+|rowspan="2"| Narrator only
+|rowspan="2"| Phoenix Books
+| {{ASIN|B002QUL4UW}}
+|rowspan="2"| Digital
+|-
+|''Murder in America''
+| {{ASIN|B002E04DH0}}
+|-
+|2012
+|''I Hate Everyone...Starting with Me''
+| Unabridged
+|rowspan="2"| [[Penguin Random House|Penguin Audio]]
+| {{ISBN|978-1611760651}}
+|rowspan="4"| CD, Digital
+|-
+|2014
+|''Diary of a Mad Diva''
+| Grammy winner
+| {{ISBN|978-1611764055}}
+|-
+|2015
+|''The Book of Joan: Tales of Mirth, Mischief, and Manipulation''
+| Read by author [[Melissa Rivers]]
+| [[Random House Audio]]
+| {{ASIN|B00UKDY6FW}}
+|-
+|2016
+|''Last Girl Before Freeway: The Life, Loves, Losses, and Liberation of Joan Rivers''
+| Author Leslie Bennetts, Read by Erin Bennett
+| [[Hachette Audio]]
+| {{ASIN|B01M279XBK}}
+|}
+&lt;ref&gt;https://www.audible.com/search/ref=a_search_c4_1_8_1_srAuth?searchAuthor=Joan+Rivers&amp;qid=1512054258&amp;sr=1-8&lt;/ref&gt;
+
+===Documentary===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Studio
+! Formats
+|-
+|2010
+|''[[Joan Rivers: A Piece of Work]]''  
+| [[IFC Films|IFC Independent Films]]
+| DVD, Blu-ray, Streaming
+|}
+
+===Stand-up comedy specials===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Studio
+! Formats
+|-
+|1984
+|''[[An Audience with...|An Audience With Joan Rivers]]''  
+| [[Channel 4]]
+| Broadcast, DVD 2006
+|-
+|1992
+|''Abroad In London''  
+| [[Showtime (TV network)|Showtime]], [[Paramount Home Media Distribution|Paramount Video]]
+| Broadcast, VHS 1995
+|-
+|2004
+|''[[Live at the Apollo (TV series)|Live At the Apollo]]''  
+| [[BBC]]
+| Broadcast, Streaming
+|-
+|2005
+|''(Still A) Live at the London Palladium (Allegedly)''  
+| Standing Room Only
+| DVD, Streaming
+|-
+|rowspan="2"|2006
+|''[[An Audience with...|An Audience With Joan Rivers]]''  
+| [[ITV (TV channel)|ITV]]
+| Broadcast, DVD
+|-
+|''Before Melissa Pulls the Plug''  
+| [[Bravo (U.S. TV network)|Bravo!]]
+| Broadcast, Streaming
+|-
+|2012
+|''Don't Start With Me''  
+| Showtime, Entertainment One
+| Broadcast, DVD/Blu-ray 2013, Streaming
+|}&lt;ref&gt;https://www.dead-frog.com/comedians/comic/joan-rivers&lt;/ref&gt;
+
+===Sketch/Tribute specials===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Studio
+! Formats
+|-
+|1985
+|''Joan Rivers and Friends Salute Heidi Abromowitz''  
+| Showtime
+| Broadcast, VHS
+|-
+|1996
+|''Shopping for Fitness''  
+| [[ABC Video]]
+| VHS
+|-
+|2009
+|''[[Comedy Central Roast|Comedy Central Roast of Joan Rivers]]''  
+| [[Comedy Central]]
+|rowspan="2"| Broadcast, Streaming
+|-
+|2016
+|''Joan Rivers - Exit Laughing''  
+| [[Gotham Comedy Club]]
+|}&lt;ref name="imdb.com"&gt;https://www.imdb.com/name/nm0001672/&lt;/ref&gt;
+
+==Filmography==
+[[File:One Upon a Coffeehouse - Joan Rivers.png|thumb|300px|Rivers' first onscreen credit, in the obscure ''Hootenanny a Go-Go'' a.k.a. ''Once Upon a Coffeehouse'' (1965)]]
+
+===Films===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+|1951
+|''Mister Universe''
+| Teenage Girl in Audience (uncredited)
+| Cameo
+|-
+|1965
+|''Hootenanny a Go-Go'' aka ''Once Upon a Coffee House''&lt;ref&gt;{{cite news | url=http://www.avclub.com/article/1965s-ihootenanny-a-go-goi-teaches-us-that-boats-a-88278| first=Tasha |last=Robinson |work= ''[[The A.V. Club]]''| title=1965's ''Hootenanny A Go-G''o teaches us that boats and folk songs are the key to getting lucky| date=November 5, 2012|accessdate= April 30, 2015|quote=A couple of songs [are] performed by comedy act Jim, Jake &amp; Joan. The Joan is Joan Rivers in her first film role, looking peppy and caffeinated as she brays out counterpoint lines to the more tuneful guys. Their initial number, riffing on the day's news, seems inspired by Mel Brooks and Carl Reiner's routines, but less funny.| archiveurl=https://web.archive.org/web/20140923024418/http://www.avclub.com/article/1965s-ihootenanny-a-go-goi-teaches-us-that-boats-a-88278 | archivedate=September 23, 2014}}&lt;/ref&gt;
+| Herself 
+| As folk singing trio "Jim, Jake and Joan"
+|-
+|1968
+|''[[The Swimmer (1968 film)|The Swimmer]]''
+| Joan
+| Cameo
+|-
+|1978
+|''[[Rabbit Test (film)|Rabbit Test]]''
+| Second nurse (cameo)
+| Director and writer
+|-
+|1981
+|''Uncle Scam''&lt;ref&gt;{{cite web|url=http://www.tcm.com/tcmdb/title/94342/Uncle-Scam/ |title=''Uncle Scam'' (1981) |publisher=[[Turner Classic Movies]] |accessdate=April 30, 2015| archivedate=April 30, 2015| archiveurl=https://web.archive.org/web/20150430231815/http://www.tcm.com/tcmdb/title/94342/Uncle-Scam/ |deadurl=no}}&lt;/ref&gt;
+| Herself
+| 
+|-
+|1984
+|''[[The Muppets Take Manhattan]]''
+| Perfume Saleswoman
+|rowspan="2"| Cameo
+|-
+|rowspan="2"|1987
+|''[[Les Patterson Saves the World]]''
+| President Rivers (uncredited)
+|-
+|''[[Spaceballs]]''
+| Dot Matrix
+|rowspan="2"| Voice role
+|-
+|1989
+| ''[[Look Who's Talking]]''
+| Julie (uncredited)
+|-
+|1993
+|''Public Enemy #2''&lt;ref name=allmoviefilmography /&gt;
+|rowspan="2"| Herself
+|rowspan="2"| Cameo
+|-
+|1994
+|''[[Serial Mom]]''
+|-
+|1995
+|''[[Napoleon (1995 film)|Napoleon]]''
+| Mother Penguin
+| Voice role
+|-
+|1997
+|''KnitWits''
+| Becky
+| Voice role (animated short)
+|-
+|1999
+|''[[Goosed]]''
+| Mom / Blanche
+| 
+|-
+|rowspan="2"|2000
+|''[[The Intern (2000 film)|The Intern]]''
+| Dolly Bellows
+|
+|-
+|''[[Whispers: An Elephant's Tale]]''&lt;ref name=allmoviefilmography /&gt;
+| Spike 
+| Voice role
+|-
+|2002
+|''Hip! Edgy! Quirky!''
+| Floressa
+| 
+|-
+|rowspan="2"|2004
+|''[[Shrek 2]]''
+|rowspan="2"| Herself
+| Voice role
+|-
+|''[[First Daughter (2004 film)|First Daughter]]''
+| Cameo
+|-
+|2009
+|''[[Hipster (contemporary subculture)|The Hipsters]]''
+| Floressa Malone
+| 
+|-
+|2010
+|''[[Wall Street: Money Never Sleeps]]''
+| Herself (uncredited)
+|rowspan="4"| Cameo
+|-
+|rowspan="4"|2011
+|''[[The Smurfs (film)|The Smurfs]]''
+| Party Guest
+|-
+|''[[Tower Heist]]''
+| Herself (uncredited)&lt;ref&gt;{{cite news|url=http://articles.baltimoresun.com/2011-11-10/explore/ph-ho-movie-rev-tower-heist-20111110_1_parade-balloons-movie-wallet|title='Tower Heist' actually has its eyes on your wallet|date=November 10, 2011|first=Mike|last=Giuliano|work=[[The Baltimore Sun]]|accessdate=May 1, 2015|archivedate=December 10, 2014|archiveurl=https://web.archive.org/web/20141210011818/http://articles.baltimoresun.com/2011-11-10/explore/ph-ho-movie-rev-tower-heist-20111110_1_parade-balloons-movie-wallet|deadurl=yes|df=mdy-all}}&lt;/ref&gt;
+|-
+|''Growing Up Barnard''
+| Herself (short film)
+|-
+|''TMI with Joan Rivers''
+| Herself
+| [[Funny or Die]] short
+|-
+|2013
+|''[[Iron Man 3]]''
+| Herself
+| Cameo
+|-
+|2014
+|''[[Mostly Ghostly: Have You Met My Ghoulfriend?]]''
+| Grandma Doyle
+| Final acting role
+|}
+
+===Documentary appearances===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Director
+! Synopsis
+|-
+|1990
+|''[[Jewish-American comedy|The World of Jewish Humor]]''
+| Rex Bloomstein
+| Comedy profile featuring comedians such as [[Mort Sahl]], [[Billy Crystal]] and [[Milton Berle]].
+|-
+|2002
+|''The Making and Meaning of [[We Are Family (song)|We Are Family]]''
+| [[Danny Schechter]]
+| [[Nile Rodgers]]' re-making of the classic hit song in support of the victims of the [[September 11 attacks]] and creating the [[We Are Family Foundation]].
+|-
+|rowspan="2"|2005
+|''[[Spaceballs]]: The Documentary''
+|rowspan="2"| [[Mel Brooks]] (original film)
+|rowspan="2"| Making of feature and profile from the Spaceballs Special Edition DVD featuring interviews with Mel Brooks and [[Bill Pullman]].
+|-
+|''[[John Candy]]: Comic Spirit''
+|-
+|rowspan="2"|2007
+|''Making Trouble''
+| Rachel Talbot
+| Comedy profile featuring comedians such as [[Judy Gold]], [[Gilda Radner]] and [[Martin Short]].
+|-
+|''[[Mr. Warmth: The Don Rickles Project]]''
+| [[John Landis]]
+| Comedy profile featuring comedians such as [[Chris Rock]], [[Sarah Silverman]], [[Richard Lewis (comedian)|Richard Lewis]], [[Whoopi Goldberg]], [[Robin Williams]], [[Roseanne Barr]], [[Kathy Griffin]], [[Christopher Guest]] and featuring appearances by [[Robert De Niro]], [[Clint Eastwood]], [[Harry Dean Stanton]] and [[Martin Scorsese]].
+|-
+|2008
+|''[[Every Little Step (film)|Every Little Step]]''
+| Adam Del Deo, [[James D. Stern]]
+| (uncredited) Profile of the [[Broadway theatre|Broadway]] revival of "[[A Chorus Line]]".
+|-
+|2009
+|''What's the Name of the Dame?''
+| [[Allan Neuwirth]]
+| Profile of 9 top drag divas and their love for [[ABBA]]!
+|-
+|rowspan="3"|2013
+|''Why We Laugh: Funny Women''  
+| Bernard Gourley
+| (Narrator, Executive Producer) Showtime comedy profile featuring comedians such as Whoopi Goldberg, Kathy Griffin, Judy Gold, [[Lily Tomlin]], [[Aisha Tyler]], [[Janeane Garofalo]] and [[Tig Notaro]].
+|-
+|''[[Moms Mabley]]: I Got Somethin' to Tell You''
+| [[Whoopi Goldberg]]
+| Profile of the legendary African-American stand-up comedienne, real name: Loretta Mary Aiken.
+|-
+|''[[Scatter My Ashes at Bergdorf's]]''
+| Matthew Miele
+| Fashion profile of the legendary Manhattan department store.
+|-
+|rowspan="3"|2014
+|''Women Aren't Funny''
+| [[Bonnie McFarlane]]
+| Comedy profile featuring comedians such as [[Maria Bamford]], Sarah Silverman, Judy Gold, [[Lisa Lampanelli]], [[Chelsea Peretti]], [[Amy Schumer]] and [[Wanda Sykes]].
+|-
+|''The Story of [[The Swimmer (1968 film)|The Swimmer]]''
+| [[Chris Innis]]
+| About the making of the cult film starring [[Burt Lancaster]].
+|-
+|''Where the Sun Kisses the Ocean''
+| Rainbeau Mars
+| Poetry.
+|-
+|2016
+|''Love, Sweat and Tears''
+| Scott Jacobs
+| Women on a mission to de-stigmatize menopause and start the "Menopause Romance Revolution."
+|}
+&lt;ref&gt;https://www.imdb.com/name/nm0001672&lt;/ref&gt;
+
+===Television===
+
+====Series====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role/Notes
+! Episodes
+|-
+|rowspan="2"|1973
+|''[[Here's Lucy]]''
+|Joan Reynolds (Juror)
+|Season 6 - Ep. 9 - "[[List of Here's Lucy episodes|Lucy and Joan Rivers Do Jury Duty]]"
+|-
+|''[[Needles and Pins (TV series)|Needles and Pins]]''
+|Eleanor Karp
+|Season 1 - Ep. 8 - "The Wife You Save May Be Your Own"
+|-
+|rowspan="2"|1978
+|''Husbands, Wives &amp; Lovers''
+|Creator/Writer
+|1 Season, 10 Eps.
+|-
+|''[[America 2-Night]]''
+|Herself, talk-show parody
+|Season 1 - Ep. 57
+|-
+|1983
+|''[[The Love Boat]]''
+|Allison Newman
+|Season 6 - Ep. 17 - "[[List of The Love Boat episodes|Gopher's Daisy/Our Son, the Lawyer/Salvaged Romance]]"
+|-
+|1987
+|''[[The Dame Edna Experience]]''
+|Herself, talk-show parody
+|Season 1 - Ep. 2
+|-
+|1988
+|''Offshore Television''
+|rowspan="2"|Herself
+|1 Season, 1 Ep.
+|-
+|1990
+|''[[227 (TV series)|227]]''
+|Season 5 - Ep. 20: "[[List of 227 episodes|You Gotta Have Art]]"
+|-
+|rowspan="2"|1997
+|''[[Another World (TV series)|Another World]]'' 
+|Meredith Dunston (publicist for a political candidate)
+|Episode 8374
+|-
+|''[[Dr. Katz, Professional Therapist]]''
+|Joan (voice), additional material writer
+|Season 3 - Ep. 9: "[[List of Dr. Katz, Professional Therapist episodes|Studio Guy]]"
+|-
+|1998–99
+|''[[Suddenly Susan]]''
+|Edie
+|Season 2 - Eps. 25 and 26 / Season 3 - Ep. 16
+|-
+|2002
+|''[[Curb Your Enthusiasm]]''
+|rowspan="2"|Herself
+|Season 3 - Ep. 2: "[[List of Curb Your Enthusiasm episodes|The Benadryl Brownie]]"
+|-
+|rowspan="2"|2004
+|''[[I'm with Her]]''
+|Season 1 - Eps. 15 and 16
+|-
+|''[[Dave the Barbarian]]''
+|Zonthara - Empress of Evil (voice)
+|Season 1 - Eps. 3, 16 and 20
+|-
+|2004–05, 2010
+|''[[Nip/Tuck]]
+|Herself 
+|[[List of Nip/Tuck episodes|Season 2 - Ep. 16, Season 3 - Ep. 7 and Season 6 - Ep. 17]]
+|-
+|2005
+|''[[Less than Perfect]]''
+|Louise
+|Season 3 - Ep. 18: "[[List of Less Than Perfect episodes|Pre-Wedded Bliss]]"
+|-
+|2006
+|''[[Boston Legal]]''
+|Herself
+|Season 3 - Ep. 5: "[[List of Boston Legal episodes|Whose God Is It Anyway?]]"
+|-
+|rowspan="2"|2008–09
+|''[[Z Rock (TV series)|Z Rock]]'' 
+|Herself - Aunt Joan (Dina's)
+|Season 1 - Eps. 1, 5, 8, 9 and 10; Season 2 - Ep. 20
+|-
+|''[[Spaceballs: The Animated Series]]''
+|Dot Matrix (voice)
+|1 Season, 11 Eps.
+|-
+|2008, 2010
+|''[[Arthur (TV series)|Arthur]]''
+|Bubbe (Francine's Grandmother) / Camel (voice)
+|[[List of Arthur episodes|Season 12 - Ep. 1 and Season 14 - Ep. 18]]
+|-
+|rowspan="2"|2011
+|''[[Louie (U.S. TV series)|Louie]]''
+|Herself
+|Season 2, Ep. 4 - "[[Louie (season 2)|Joan]]"
+|-
+|''[[The Simpsons]]''
+|Annie Dubinsky (voice)
+|Season 23, Ep. 8 - "[[The Ten-Per-Cent Solution]]"
+|-
+|rowspan="2"|2012
+| ''[[Drop Dead Diva]]''&lt;ref&gt;[http://www.cbsnews.com/news/drop-dead-diva-canceled-by-lifetime/ "Drop Dead Diva cancelled by Lifetime"]. CBS News. Accessed 31 August 2015.&lt;/ref&gt;
+|Herself
+|Season 4 - Ep. 6: "[[List of Drop Dead Diva episodes|Rigged]]" and Ep. 9 "Ashes to Ashes"
+|-
+|''[[Hot in Cleveland]]''
+|Anka
+|Season 3 - Ep. 19 - "[[List of Hot in Cleveland episodes|Bye George, I Think He's Got It!]]" and Ep. 21 "Some Like it Hot"
+|}
+
+====Stand-up comedy series====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Episodes/Role
+! Network
+|-
+|1984
+2006
+|''[[An Audience with...]]''
+|Joan Rivers
+|[[ITV (TV channel)|ITV]]
+|-
+|2004
+|''[[Just for Laughs]]''
+|21 March 2004 / Performer
+|[[Radio Telefís Éireann|RTE]]
+|-
+|2004
+2007
+|''[[Live at the Apollo (TV series)|Jack Dee Live at the Apollo]]''
+|Pilot / Featured Performer
+Season 3, Episode 5 / Guest Host
+|[[BBC One]]
+|}
+
+====Documentary series====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Episode
+! Network
+|-
+|rowspan="2"|1993
+|''[[Intimate Portrait]]''
+|"Joan Rivers" (Available on VHS)
+|[[Lifetime (TV network)|Lifetime]]
+|-
+|rowspan="3"|''[[Biography (TV series)|Biography]]''
+|"[[Vincent Price]]"
+|rowspan="3"|[[A&amp;E Networks|A&amp;E]]
+|-
+|1997
+|"[[Fabergé egg|Fabulous World of Fabergé]]"
+|-
+|1998
+|"[[Roddy McDowall]]: Hollywood's Best Friend"
+|-
+|rowspan="2"|1999
+|''The Hollywood Fashion Machine''
+|"Hollywood Rocks"
+|[[American Movie Classics]]
+|-
+|''[[Heroes of Comedy]]''
+|"[[Barry Humphries]]"
+|[[Channel 4]]
+|-
+|rowspan="4"|2000
+|''Intimate Portrait''
+|"[[Judy Collins]]"
+|Lifetime
+|-
+|''Biography''
+|"[[Phyllis Diller]]"
+|A&amp;E
+|-
+|''[[Michael Parkinson|The Talk Show Story]]''
+|2 Part Series
+|[[BBC]]
+|-
+|rowspan="2"|''E! [[Mysteries and Scandals]]''
+|[[Hedy Lamarr]]
+|rowspan="2"|[[E!]]
+|-
+|rowspan="3"|2001
+|Vincent Price
+|-
+|''[[The Human Face]]''
+|"Beauty"
+|BBC
+|-
+|''[[E! True Hollywood Story]]''
+|Joan Rivers [[Parody]] aired April 1&lt;ref name=THS&gt;{{cite web|url=https://www.imdb.com/title/tt0291280/fullcredits |title=E! True Hollywood Story: Joan Rivers|publisher=Imdb.com |date= |accessdate=April 29, 2009}}&lt;/ref&gt;
+|E!
+|-
+|rowspan="6"|2002
+|rowspan="2"|''Heroes of Black Comedy''
+|"[[Whoopi Goldberg]]"
+|rowspan="2"|Channel 4/[[Comedy Central]]
+|-
+|"[[Richard Pryor]]"
+|-
+|''[[Hollywood Greats]]''
+|"[[Burt Lancaster]]"
+|BBC
+|-
+|''[[E! News Live]]''
+|"September 20th"
+|E!
+|-
+|''Biography''
+|"Bio's 15 Sexiest"
+|A&amp;E
+|-
+|''[[The South Bank Show]]''
+|"Joan Rivers"
+|[[Bravo (U.S. TV network)|Bravo!]]/[[ITV (TV network)|ITV]]
+|-
+|rowspan="4"|2003
+|rowspan="2"|''E! True Hollywood Story''
+|"Richard Pryor"
+|rowspan="2"|E!
+|-
+|"[[Hollywood Squares]]"
+|-
+|''[[Jewish-American comedy|Heroes of Jewish Comedy]]''
+|5 episodes
+|Channel 4/Comedy Central
+|-
+|''When I Was a Girl''
+|"Singers"
+|[[We TV]]
+|-
+|2005
+|''Favouritism''
+|"[[Julian Clary]]'s Showbiz Hissy Fits"
+|Channel 4
+|-
+|rowspan="3"|2006
+|''[[Dawn French's Girls Who Do Comedy]]''
+|3 Part Series / Full Interview
+|rowspan="3"|BBC
+|-
+|''[[The Story of Light Entertainment]]''
+|3 episodes
+|-
+|''[[Dawn French's Girls Who Do Comedy|Dawn French's More Girls Who Do Comedy]]''
+|1 episode
+|-
+|2007
+|''E! True Hollywood Story''
+|"[[Kathy Griffin]]"
+|E!
+|-
+|2012
+|''E! True Hollywood Story''
+|"Joan and [[Melissa Rivers]]"
+|E!
+|}
+
+====Television movies====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+|1973
+|''[[The Girl Most Likely to...]]''
+|Writer of story/teleplay
+|[[ABC Movie of the Week]] starring [[Stockard Channing]], MGM DVD 2005
+|-
+|1977
+|''Husbands and Wives''
+|Writer
+|Spin-off TV series followed
+|-
+|1985
+|''Joan Rivers and Friends Salute Heidi Abromowitz''  
+|Host / Writer
+|[[Showtime (TV network)|Showtime]] sketch comedy
+|-
+|1990
+|''How to Murder a Millionaire''
+|Irma
+|Starred with [[Morgan Fairchild]]
+|-
+|1992
+|''[[Lady Boss]]''
+|Bibi Grant
+|Based on book by [[Jackie Collins]]
+|-
+|1994
+|''Tears and Laughter: The Joan and Melissa Rivers Story''&lt;ref&gt;{{cite web|url=https://www.imdb.com/title/tt0111379/ |title=Tears and Laughter: The Joan and Melissa Rivers Story|publisher=Imdb.com |date= |accessdate=April 29, 2009}}&lt;/ref&gt;
+|Herself
+|Biographical teleplay about her and daughter [[Melissa Rivers]]
+|-
+|1999
+|''KnitWits Revisited''
+|Becky (voice)
+|Animated
+|}
+
+====Stand-up comedy specials====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role/Notes
+|-
+|1978
+|''[[Bernard Manning]] in Las Vegas''
+|Cameo (UK)
+|-
+|1981
+|''[[Lily Tomlin|Lily: Sold Out]]''
+|Cameo ([[CBS]])
+|-
+|rowspan="2"|1984
+|''[[Johnny Carson]] Presents the Tonight Show Comedians''
+|Performer (also featuring [[Bill Cosby]], [[Steve Martin]] and [[Steven Wright]])
+|-
+|''[[Garry Shandling]]: Alone in Vegas''
+|Cameo ([[Showtime (TV network)|Showtime]])
+|-
+|1990
+|''[[Comic Relief USA|Comic Relief IV]]''
+|Performer ([[Comic Relief, Inc.]] [[HBO]] charity benefit)
+|-
+|1992
+|''Joan Rivers: Abroad In London''
+|Star–Writer–Producer (Showtime)
+|-
+|1994
+|''[[New York Friars Club|The Annual Friars Club Tribute Presents a Salute to Barbara Walters]]''
+|Roaster ([[Roast (comedy)|Roast]] of the legend)
+|-
+|2002
+|''[[Just for Laughs]]''
+|Performer (stand-up festival doc with many comedians)
+|-
+|2006
+|''Joan Rivers: Before Melissa Pulls the Plug''
+|Star–Writer (with comic Jeremy Blaine and publicist Jordan Roberts)
+|-
+|2012
+|''Joan Rivers: Don't Start With Me''
+|Star–Writer–Producer (Showtime)
+|}
+
+====Documentaries====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Notes
+! Network
+|-
+|2002
+|''[[Cleavage (breasts)|Cleavage]]''
+|Narrated by [[Carmen Electra]]
+|[[A&amp;E Networks|A&amp;E]]
+|-
+|rowspan="2"|2003
+|''[[100 Greatest (TV series)|100 Greatest Sexy Moments]]''
+|Narrated by [[Anna Chancellor]]
+|rowspan="3"|[[Channel 4]]
+|-
+|''[[100 Greatest (TV series)|The 100 Greatest Musicals]]''
+|Presenter [[Denise van Outen]]
+|-
+|rowspan="3"|2004
+|''[[Jewish humour|Funny Already: A History of Jewish Comedy]]''
+|Directed by Emma Cahusac
+|-
+|''CMT: 40 Greatest Done Me Wrong Songs''
+|Writer
+|[[CMT (U.S. TV channel)|CMT]]
+|-
+|''[[Happy Birthday Oscar Wilde]]''
+|Quote
+|[[BBC]]/[[Radio Telefís Éireann|RTE]]
+|-
+|rowspan="3"|2005
+|''The Comedians' Comedian''
+|Presenter [[Jimmy Carr]]
+|rowspan="2"|Channel 4
+|-
+|''Britain's 50 Greatest Comedy Sketches''
+|Narrator [[Tom Baker]]
+|-
+|''50 Questions of Political Incorrectness''
+|Presenter [[Clive Anderson]]
+|[[Sky UK]]
+|-
+|rowspan="2"|2006
+|''[[List of films considered the best|The 50 Greatest Comedy Films]]''
+|Narrator [[Stephen Fry]]
+|Channel 4
+|-
+|''[[The Electric Company|The Electric Company's Greatest Hits &amp; Bits]]''
+|DVD 2007
+|[[PBS]]
+|-
+|2013
+|''Whoopi Goldberg Presents Moms Mabley''
+|Interviewee&lt;ref name=allmoviefilmography /&gt;
+|[[HBO]]
+|}
+
+====Talk shows====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Roles/Notes
+! Episodes
+|-
+|1965–86
+|''[[The Tonight Show Starring Johnny Carson]]''
+|Guest–Host–Writer
+|223
+|-
+|1965
+|''[[The Jack Paar Program]]''
+|rowspan="2"|Guest
+|1
+|-
+|1965–67
+|''Girl Talk with [[Virginia Graham]]''
+|5
+|-
+|1965–78
+|''[[The Mike Douglas Show]]''
+|Co-host–Guest
+|36
+|-
+|1968
+|''Frost on Sunday''
+|Guest
+|1
+|-
+|1968–69
+|''That Show starring Joan Rivers''
+|Host
+|71
+|-
+|1968–72
+|''[[The Dick Cavett Show]]'' ([[American Broadcasting Company|ABC]])
+|rowspan="13"|Guest
+|4
+|-
+|1969–72
+|''[[The David Frost Show]]''
+|3
+|-
+|1970
+|''The [[Irv Kupcinet]] Show''
+|1
+|-
+|1974
+|''[[The Merv Griffin Show]]''
+|1
+|-
+|1974–76
+|''[[Dinah!]]''
+|2
+|-
+|rowspan="2"|1978
+|''The [[Bob Braun]] Show''
+|1
+|-
+|''[[The Joe Franklin Show]]''
+|1
+|-
+|1978, 1990
+|''[[The Phil Donahue Show|Donahue]]''
+|2
+|-
+|1981–87
+|''Hour Magazine''
+|8
+|-
+|rowspan="2"|1982
+|''The [[Regis Philbin]] Show''
+|1
+|-
+|''The [[Barbara Walters]] Special''
+|1
+|-
+|1984
+|''[[Wogan]]''
+|2
+|-
+|1985
+|''America'' (CBS)
+|1
+|-
+|rowspan="2"|1986
+|''Joan Rivers: Can We Talk?''
+|Host
+|6
+|-
+|''[[Late Night with David Letterman]]''
+|Guest
+|1
+|-
+|1986–87
+|''[[The Late Show (1986 TV series)|The Late Show Starring Joan Rivers]]''
+|Host–Writer (first season)
+|150
+|-
+|1987
+|''[[Michael Aspel|Aspel &amp; Company]]''
+|Guest
+|1
+|-
+|rowspan="2"|1989
+|''The [[Byron Allen]] Show''
+|Guest (pilot episode)
+|1
+|-
+|''[[The Arsenio Hall Show]]''
+|rowspan="2"|Guest
+|2
+|-
+|1989–91
+|''[[CBS This Morning]]''
+|3
+|-
+|1989–93
+|''[[The Joan Rivers Show]]''
+|Host–Writer
+|600
+|-
+|1990
+|''[[Geraldo (talk show)|Geraldo]]''
+|rowspan="11"|Guest
+|1
+|-
+|1990–92
+|''[[The Howard Stern Show (WWOR)]]''
+|3
+|-
+|rowspan="4"|1991
+|''[[Ruby Wax|The Full Wax]]''
+|1
+|-
+|''[[Alan King: Inside the Comedy Mind]]''
+|1
+|-
+|''[[The Dick Cavett Show]]'' ([[PBS]])
+|1
+|-
+|''Tonight with [[Jonathan Ross]]''
+|1
+|-
+|1993
+|''[[Howard Stern television shows|The Howard Stern Interview]]''
+|1
+|-
+|1994
+|''[[Des O'Connor Tonight]]''
+|1
+|-
+|1994–2004
+|''[[Howard Stern (E! show)|Howard Stern]]''
+|14
+|-
+|1995
+|''[[Clive Anderson]] Talks Back''
+|1
+|-
+|1995–2005
+|''[[Late Night with Conan O'Brien]]'' 
+|4
+|-
+|1995–2014
+|''Can We Shop?'' 
+|Host ([[QVC]] style shopping in a talk show format)
+|
+|-
+|1996
+|''[[The Daily Show]]'' 
+|rowspan="10"|Guest
+|1
+|-
+|1997
+|''[[The Rosie O'Donnell Show]]''
+|1
+|-
+|1997, 2010
+|''[[Charlie Rose (TV series)|Charlie Rose]]''
+|2
+|-
+|rowspan="2"|1999
+|''[[Brian Linehan|Linehan]]''
+|1
+|-
+|''[[Howard Stern television shows|The Howard Stern Radio Show]]''
+|1
+|-
+|2000
+|''[[So Graham Norton]]''
+|1
+|-
+|2002
+|''[[V Graham Norton]]''
+|2
+|-
+|2003
+|''[[The Wayne Brady Show]]''
+|1
+|-
+|rowspan="4"|2004
+|''[[Graham Norton|NY Graham Norton]]''
+|1
+|-
+|''[[Film... (TV programme)|Film 2004 with Jonathan Ross]]''
+|1
+|-
+|''[[Alf's Hit Talk Show]]''
+|Cameo
+|Pilot
+|-
+|''[[The Graham Norton Effect]]''
+|Guest
+|1
+|-
+|2004–06
+|''The Joan Rivers Position''
+|Host–Writer
+|18
+|-
+|rowspan="7"|2005
+|''[[Nigella Lawson|Nigella]]''
+|Guest
+|1
+|-
+|''[[The Big Idea with Donny Deutsch]]''
+|Guest
+|1
+|-
+|''[[Good Day Live]]''
+|Guest
+|1
+|-
+|''[[The Late Late Show (Irish TV series)|The Late Late Show]]''
+|rowspan="5"|Guest
+|1
+|-
+|''[[Distinguished Artists]]''
+|1
+|-
+|''[[Friday Night with Jonathan Ross]]''
+|1
+|-
+|''[[The Paul O'Grady Show]]''
+|1
+|-
+|2005-06
+|''[[The Tony Danza Show (2004 talk show)|The Tony Danza Show]]''
+|3
+|-
+|rowspan="2"|2006
+|''[[Tom Green's House Tonight|Tom Green Live]]!''
+|Guest (voice)
+|1
+|-
+|''Straight Talk''
+|Host–Writer ([[Bravo (U.S. TV network)|Bravo!]] pilot)
+|1
+|-
+|2008
+|''[[Shrink Rap (TV series)|Shrink Rap]]'' 
+|Guest (with host Dr. [[Pamela Stephenson|Pamela Connolly]])
+|1
+|-
+|2010–14
+|''[[Fashion Police]]''
+|Host
+|286
+|-
+|2013–14
+|''[[In Bed with Joan]]''
+|Host–Writer–Executive producer 
+|72
+|}
+
+====Variety shows====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role
+! Episodes
+|-
+|rowspan="2"|1966
+|''The [[Sammy Davis Jr.]] Show''
+|rowspan="2"|Guest - Comedienne
+|1
+|-
+|''[[The Hollywood Palace]]''
+|1
+|-
+|1966–70
+|''[[The Ed Sullivan Show]]''
+|Guest–Comedienne
+|18
+|-
+|rowspan="2"|1968
+|''The [[Kraft Music Hall]]''
+|rowspan="7"|Guest–Comedienne
+|3
+|-
+|''[[Operation: Entertainment]]''
+|1
+|-
+|1970–75
+|''[[The Carol Burnett Show]]''
+|3
+|-
+|rowspan="2"|1971
+|''[[The Jim Nabors Hour]]''
+|1
+|-
+|''The [[Pearl Bailey]] Show''
+|1
+|-
+|1971–73
+|''[[The Flip Wilson Show]]''
+|3
+|-
+|1972
+|''[[Dean Martin]] Presents: The [[Bobby Darin]] Amusement Co.''
+|1
+|-
+|1972–76
+|''[[The Electric Company]]''
+|Narrator (voice; ''[[The Adventures of Letterman]]'' segment)
+|60
+|-
+|rowspan="2"|1973
+|''[[Stand Up and Cheer (variety show)|Stand Up and Cheer]]''
+|rowspan="5"|Guest–Comedienne
+|1
+|-
+|''[[The Helen Reddy Show]]''
+|1
+|-
+|1975
+|''[[Sammy Davis Jr.|Sammy and Company]]''
+|1
+|-
+|1978
+|''The [[Jim Nabors]] Show''
+|1
+|-
+|1979
+|''[[Bonkers!]]''
+|1
+|-
+|rowspan="3"|1983
+|''[[Saturday Night Live]]''
+|Host–Writer
+|1
+|-
+|''On Stage America''
+|rowspan="3"|Guest–Comedienne
+|1
+|-
+|''Live... And in Person''
+|1
+|-
+|1983–86
+|''[[The Bob Monkhouse Show]]''
+|2
+|-
+|1989–92
+|''[[Sesame Street]]''
+|Narrator (voice; ''[[The Adventures of Letterman]]'' segment)
+|3
+|-
+|1990–91
+|''[[Shalom Sesame]]''
+|Microphone (voice)
+Herself
+|"Chanukah"
+"The Aleph-Bet Telethon"
+|-
+|1991
+|''[[Square One Television]]''
+|Herself
+|1
+|}
+
+====Variety/Tribute specials====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role/Notes
+|-
+|1973
+|''The Shape of Things''
+|Variety special featuring [[Phyllis Diller]], [[Brenda Vaccaro]], [[Valerie Harper]], [[Lynn Redgrave]] and directed by [[Lee Grant]].
+|-
+|1977
+|''Happy Birthday, Las Vegas''
+|Variety special hosted by [[Don Meredith]] and [[Cindy Williams]], featuring [[Rodney Dangerfield]], [[Redd Foxx]] and [[David Brenner]].
+|-
+|rowspan="2"|1978
+|''ABC Presents Tomorrow's Stars''
+|Talent contest hosted by [[John Ritter]], featuring [[Charles Nelson Reilly]], [[Norm Crosby]] and [[Dick Van Patten]].
+|-
+|''Hollywood's Diamond Jubilee''
+|Historical variety special hosted by [[Douglas Fairbanks Jr.]] and [[Raquel Welch]], featuring [[Woody Allen]], [[Fred Astaire]], [[Marlon Brando]] and [[Bette Davis]].
+|-
+|1979
+|''The 3rd Annual People's Command Performance''
+|Variety special featuring [[Chubby Checker]], [[Lainie Kazan]], [[Jerry Lewis]], [[Vincent Price]] and [[Rod Stewart]].
+|-
+|1980
+|''[[Circus of the Stars]] #5''
+|Circus-acts variety special featuring [[Lloyd Bridges]], [[Angela Lansbury]], [[Rock Hudson]] and [[Valerie Perrine]].
+|-
+|1985
+|''[[CBS|Moving Image]] Salutes [[Sidney Lumet]]''  
+|An honor celebrating the film director.
+|-
+|rowspan="3"|1986
+|''[[George Burns]]' 90th Birthday Party: A Very Special Special''
+|Celebration of the legendary comedian.
+|-
+|''[[WrestleMania 2]]'' 
+|Second [[Pay-per-view]] [[WWE|WWF]] [[WrestleMania]] event.
+|-
+|''[[NBC 60th Anniversary Celebration]]'' 
+|Unveiling of new peacock logo featuring Johnny Carson, [[Bob Hope]], [[Sid Caesar]], [[Ted Danson]], [[The Monkees]], [[Betty White]] and [[The Cosby Show]] kids.
+|-
+|1988
+|''[[Pee-wee's Playhouse]] Christmas Special''&lt;ref name=allmoviefilmography&gt;{{cite web | url=https://www.nytimes.com/movies/person/108387/Joan-Rivers/filmography |title=Joan Rivers: Filmography |publisher=[[AllMovie.com]] / [[Rovi]] via ''[[The New York Times]]'' |accessdate=April 30, 2015 |archivedate=May 1, 2015 |archiveurl=https://web.archive.org/web/20150501013413/http://www.nytimes.com/movies/person/108387/Joan-Rivers/filmography |deadurl=no}}&lt;/ref&gt;
+|rowspan="2"|Herself
+|-
+|1989
+|''[[Macy's Thanksgiving Day Parade]]''  
+|-
+|rowspan="2"|1990
+|''Happy Birthday, Bugs!: 50 Looney Years''
+|[[Bugs Bunny]] celebration special.
+|-
+|''Night of 100 Stars III''
+|Performer, charity benefit for the [[Actors Fund of America]].
+|-
+|1992
+|''[[Alistair Cooke]] Salute''  
+|A tribute hosted by [[Peter Ustinov]], airing shortly after Cooke's last appearance as the 22-year host of "[[Masterpiece (TV series)|Masterpiece Theatre]]."
+|-
+|1995
+|''[[The Beatles]]: All Together Now''
+|Celebrities recall their earliest and fondest memories of the Beatles. Premiere of [[Free as a Bird]] music video to promote [[The Beatles Anthology]].
+|-
+|rowspan="2"|1996
+|''The [[Royal Variety Performance]]''
+|Annual [[Royal Variety Charity]] benefit.
+|-
+|''Disney's Most Unlikely Heroes''
+|Hosted by [[Roy E. Disney]].
+|-
+|1997
+|''50 Years of Television: A Celebration of the [[Academy of Television Arts &amp; Sciences]] Golden Anniversary''
+|rowspan="2"|Herself
+|-
+|2002
+|''Stars: An [[Academy Awards|Oscar]]'s [[Oscar party|Party]]''
+|-
+|2003
+|''[[Bob Hope|100 Years of Hope and Humor]]''
+|Birthday celebration of the comedy legend.
+|-
+|rowspan="2"|2004
+|''The Best of 'So Graham Norton'''
+|DVD Special
+|-
+|''[[Bob Monkhouse]]: A [[BAFTA]] Tribute''
+|Celebration of Britain's King of Comedy
+|-
+|2005
+|''[[Wedding of Charles, Prince of Wales, and Camilla Parker Bowles|The Royal Wedding of HRH the Prince of Wales and Camilla Parker Bowles]]''
+|Live broadcast coverage of the event
+|-
+|2014
+|''[[Howard Stern]] Birthday Bash''
+|[[Sirius XM]] Special
+|}
+
+====Award shows====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role/Notes
+|-
+|1976
+|''[[American Comedy Awards|The Second Annual Comedy Awards]]''
+|Attendee
+|-
+|1983
+|''The [[35th Primetime Emmy Awards]]''
+|Hostess &amp; Presenter
+|-
+|1984
+|''The [[26th Annual Grammy Awards]]''
+|Nominee – [[Grammy Award for Best Comedy Album|Best Comedy Album]]
+|-
+|1986
+|''The [[38th Primetime Emmy Awards]]''
+|rowspan="2"|Presenter
+|-
+|1987
+|''The [[39th Primetime Emmy Awards]]''
+|-
+|rowspan="2"|1990
+|''The [[44th Tony Awards]]''
+|Presenter: Best Scenic, Costume &amp; Lighting Design
+|-
+|''The [[Horror Hall of Fame]]''
+|Herself / Skit
+|-
+|1992
+|''The 6th Annual [[American Comedy Awards]]''
+|Nominee – Funniest Female Performer in a Television Special
+|-
+|1994
+|''The [[48th Tony Awards]]''
+|Nominee – Best Performance by a Leading Actress in a Play
+|-
+|1995–2004
+|''E! [[Live from the Red Carpet]]''
+|Hostess
+|-
+|1998
+|''The [[50th Primetime Emmy Awards]]''
+|rowspan="2"|Attendee
+|-
+|1999
+|''The [[51st Primetime Emmy Awards]]''
+|-
+|rowspan="4"|2005
+|''Joan &amp; Melissa: Live at the [[62nd Golden Globe Awards|Golden Globes]]''
+|rowspan="8"|Hostess for the [[TV Guide Channel]] [[Red carpet]] events
+|-
+|''Joan &amp; Melissa: Live at the [[47th Annual Grammy Awards|Grammys]]''
+|-
+|''Joan &amp; Melissa: Live at the [[77th Academy Awards|Academy Awards]]''
+|-
+|''Joan &amp; Melissa: Live at the [[CMA Awards]]''
+|-
+|rowspan="5"|2006
+|''Joan &amp; Melissa: Live at the [[78th Academy Awards|Academy Awards]]''
+|-
+|''Academy Awards Fashion Wrap with Joan and Melissa''
+|-
+|''Joan &amp; Melissa: Live at the [[58th Primetime Emmy Awards|Emmys]]''
+|-
+|''Emmy Awards Fashion Wrap with Joan and Melissa''
+|-
+|''The [[58th Primetime Emmy Awards]]''
+|Attendee
+|}
+
+====Reality television shows====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Role
+|-
+|1960
+1965
+|''[[Candid Camera]]''
+|Writer (4 episodes)
+Herself / "Bait"
+|-
+|1979
+|''Celebrity Challenge of the Sexes 4''
+|Bicycle racer
+|-
+|2003
+|''[[I'm a Celebrity...Get Me Out of Here! (U.S. TV series)|I'm A Celebrity, Get Me Out Of Here!]]''
+|Herself
+|-
+|2008
+|''[[Big Brother: Celebrity Hijack]]''
+|Celebrity hijacker
+|-
+|rowspan="2"|2009
+|''[[Celebrity Ghost Stories]]''
+|Storyteller
+|-
+|''[[The Apprentice (U.S. season 8)|Celebrity Apprentice 2]]''
+|Winner
+|-
+|2009–2010
+|''[[How'd You Get So Rich?]]''
+|Host (10 episodes)
+|-
+|2010
+|''[[The Apprentice (U.S. season 12)|Celebrity Apprentice 3]]''
+|Boardroom Advisor
+|-
+|2011–14
+|''[[Joan &amp; Melissa: Joan Knows Best?]]'' 
+|Executive producer
+|-
+|2013
+|''[[The Apprentice (U.S. season 13)|Celebrity Apprentice 6]]''
+|Boardroom advisor
+|-
+|2015
+|''[[The Apprentice (U.S. season 14)|Celebrity Apprentice 7]]''
+|Boardroom advisor
+|}
+
+====Game shows====
+{|class="wikitable sortable"
+|+
+|-
+! Year
+! Title
+! Host
+! Role
+! Episodes
+|-
+|1965–68
+|''The [[Match Game]]''
+|[[Gene Rayburn]]
+|Team Captain
+|25
+|-
+|1967–69
+|''[[Personality (TV series)|Personality]]''
+|rowspan="3"|[[Larry Blyden]]
+|rowspan="4"|Contestant
+|6
+|-
+|1969
+|''[[You're Putting Me On]]''
+|3
+|-
+|rowspan="2"|1970
+|''[[The Movie Game (U.S. TV series)|The Movie Game]]''
+|1
+|-
+|''[[Concentration (game show)|Concentration]]''
+|[[Bob Clayton]]
+|1
+|-
+|1970–80
+|''[[The Hollywood Squares]]'' (Daytime version)
+|[[Peter Marshall (entertainer)|Peter Marshall]]
+|Panelist
+|80
+|-
+|1971
+|''[[Can You Top This?]]''
+|[[Wink Martindale]]
+|Contestant
+|1
+|-
+|1971–81
+|''The Hollywood Squares'' (Syndicated version)
+|Peter Marshall
+|Panelist
+|Semi-regular
+|-
+|1973
+|''[[Pyramid (game show)|The $10,000 Pyramid]]''
+|[[Dick Clark]]
+|Celebrity contestant
+|1
+|-
+|1975
+|''[[The Magnificent Marble Machine]]''
+|[[Art James]]
+|Contestant
+|2
+|-
+|1987–89
+|''[[Hollywood Squares|The New Hollywood Squares]]''
+|[[John Davidson (entertainer)|John Davidson]]
+|Center square
+|66
+|-
+|1997
+|''[[Noel's House Party]]''
+|[[Noel Edmonds]]
+|Celebrity contestant
+|''Noel's New York House Party'' special
+|-
+|1999–2004
+|''[[Hollywood Squares]]''
+|[[Tom Bergeron]]
+|Panelist
+|65
+|-
+|2004
+|''[[Ant &amp; Dec's Saturday Night Takeaway]]''
+|[[Ant &amp; Dec]]
+|Celebrity guest
+|1
+|-
+|2006–07
+|''[[8 Out of 10 Cats]]''
+|[[Jimmy Carr]]
+|rowspan="2"|Contestant
+|3
+|-
+|2008
+|''[[Celebrity Family Feud]]''
+|[[Al Roker]]
+|[[Ice-T]] vs. Joan &amp; [[Melissa Rivers]]
+|}
+&lt;ref name="imdb.com"/&gt;
+
+==Theater work==
+{|class="wikitable sortable"
+|-
+! Year
+! Show
+! Role/Credit
+! Venue
+|-
+| 1965
+| ''The Game is Up''
+| Material writer
+| Downstairs at the Upstairs,&lt;ref&gt;http://www.lortel.org/Archives/CreditableEntity/26833&lt;/ref&gt; Off-Broadway
+|-
+| 1972
+| ''Fun City''
+| Jill Fairchild, original play written and performed
+| [[Morosco Theatre]],&lt;ref&gt;{{cite web|url=http://www.ibdb.com/production.php?id=3632 |title=Fun City |publisher=Ibdb.com |date= |accessdate=August 9, 2013}}&lt;/ref&gt; Broadway
+|-
+| 1988
+| ''[[Broadway Bound]]''
+| Kate, replacement performer
+| [[Broadhurst Theatre]],&lt;ref&gt;{{cite web|url=http://www.ibdb.com/productionreplacements.asp?ID=4434 |title=Broadway Bound – Replacements |publisher=Ibdb.com |date= |accessdate=April 29, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20100905121507/http://www.ibdb.com/productionreplacements.asp?ID=4434 |archivedate=September 5, 2010 }}&lt;/ref&gt; Broadway
+|-
+| 1994
+| ''[[Sally Marr]]...and her escorts''
+| Sally Marr, original play written and performed
+| [[Helen Hayes Theatre]], Broadway
+|-
+| 2002–04
+| ''Joan Rivers: Broke and Alone Tour''
+|rowspan="3"| Herself, original material written and performed
+| US and UK tour&lt;ref&gt;Martinez, Julio, [https://variety.com/2003/legit/reviews/joan-rivers-broke-and-alone-in-l-a-1200542018/ "Joan Rivers: Broke and Alone … in L.A."], ''[[Variety (magazine)|Variety]]'', April 27, 2003.&lt;/ref&gt;
+|-
+| 2008
+| ''Joan Rivers: A Work in Progress by a Life in Progress''
+| [[Geffen Playhouse]], [[Edinburgh Festival Fringe]], [[Leicester Square Theatre]]
+|-
+| 2012
+| ''Joan Rivers: The Now or Never Tour''
+| UK tour
+|}
+&lt;ref&gt;https://www.ibdb.com/broadway-cast-staff/joan-rivers-6752&lt;/ref&gt;
+
+==Awards and nominations==
+{|class="wikitable sortable"
+|-
+! Year
+! Nominated work
+! Award
+! Category
+! Result
+|-
+|rowspan="2"|1984
+|''What Becomes a Semi-Legend Most?''
+|[[Grammy Award]]
+|[[Grammy Award for Best Comedy Album|Best Comedy Album]]
+|{{nom}}
+|-
+|Career
+|[[Hasty Pudding Theatricals|Hasty Pudding Theatricals, USA]]
+|[[Hasty Pudding Woman of the Year|Woman of the Year]]
+|{{won}}
+|-
+|1990
+|rowspan="6"|''[[The Joan Rivers Show]]''
+|rowspan="6"|[[Daytime Emmy Award]]
+|rowspan="2"|[[Daytime Emmy Award for Outstanding Talk Show Host|Outstanding Talk Show Host]] 
+|{{won}}
+|-
+|1991
+|{{nom}}
+|-
+|rowspan="2"|1992
+|Outstanding Writing – Special Class
+|{{nom}}
+|-
+|[[Daytime Emmy Award for Outstanding Talk Show Host|Outstanding Talk Show Host]] 
+|{{nom}}
+|-
+|rowspan="2"|1993
+|Outstanding Writing – Special Class
+|{{nom}}
+|-
+|[[Daytime Emmy Award for Outstanding Talk Show Host|Outstanding Talk Show Host]] 
+|{{nom}}
+|-
+|1994
+|''Sally Marr...and her escorts''
+|[[Tony Award]]
+|[[Tony Award for Best Actress in a Play|Best Actress in a Play]]
+|{{nom}}
+|-
+|2009
+|''[[Arthur (TV series)|Arthur]]''
+|[[Daytime Emmy Award]]
+|[[Daytime Emmy Award for Outstanding Performer In An Animated Program|Outstanding Performer in an Animated Program]]
+|{{nom}}
+|-
+|2010
+|''The Hipsters''
+|[[Maverick Movie Awards|Maverick Movie Award]]
+|Best Supporting Actress: Feature
+|{{nom}}
+|-
+|rowspan="2"|2011
+|Career
+|[[Alliance of Women Film Journalists]]
+|EDA Female Focus - Perseverance Award
+|{{won}}
+|-
+|''[[Fashion Police]]''
+|rowspan="2"|[[Women's Image Network Awards|WIN Award]]
+|rowspan="2"|Actress - Comedy Series
+|{{nom}}
+|-
+|rowspan="2"|2014
+|''[[Fashion Police]]'': episode "September Issue"
+|{{nom}}
+|-
+|''[[Iron Man 3]]''
+|[[MTV Movie &amp; TV Awards|MTV Movie Award]]
+|Best Cameo
+|{{nom}}
+|-
+|2015
+|''Diary of a Mad Diva''
+|[[Grammy Award]]
+|[[Grammy Award for Best Spoken Word Album|Best Spoken Word Album]]
+|{{won}}
+|}
+&lt;ref&gt;https://www.imdb.com/name/nm0001672/awards?ref_=nm_awd&lt;/ref&gt;
+:'''Note:''' Emmy nominations for Outstanding Writing – Special Class shared with Toem Perew and Hester Mundis.
+
+===Honors===
+*On July 26, 1989, she received a [[List of stars on the Hollywood Walk of Fame#R|star]] on the [[Hollywood Walk of Fame]], in the 7000 block of [[Hollywood Boulevard]].&lt;ref&gt;{{cite web|title=Joan Rivers|url=http://www.walkoffame.com/joan-rivers|publisher=[[Hollywood Walk of Fame]]|accessdate=September 4, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Joan Rivers gets Walk of Fame star|url=https://news.google.com/newspapers?nid=348&amp;dat=19890726&amp;id=16MkAAAAIBAJ&amp;sjid=ljUDAAAAIBAJ&amp;pg=3222,5495170|accessdate=September 4, 2014|work=[[Rome News-Tribune]]|date=July 26, 1989}}&lt;/ref&gt;
+*On March 1, 2013, Rivers and her daughter, [[Melissa Rivers]], were honored by the [[Ride of Fame]] and a double decker tour bus was dedicated to them in New York City.&lt;ref&gt;{{cite web|url=https://www.aol.com/video/view/joan-and-melissa-rivers-debut-their-glamorous-ride-of-fame-in-nyc/517688550/|work=AOL|title=Joan And Melissa Rivers Debut Their Glamorous Ride Of Fame In NYC|accessdate=April 22, 2017}}&lt;/ref&gt;
+
+==Notes and references==
+===Notes===
+{{reflist|colwidth=30em|refs=}}
+
+===References===
+{{ref begin|2}}
+*{{cite book|last=Colacello|first=Bob|title=Ronnie and Nancy: Their Path to the White House--1911 to 1980|url=https://books.google.com/books?id=2euWse_mWlgC&amp;pg=PT15|date=October 1, 2004|publisher=Grand Central Publishing|isbn=978-0-7595-1267-2|ref=harv}}
+*{{cite book|last=Hoyle|first=Matt|year=2013|publisher=Chronicle Books|title=Comic Genius: Portraits of Funny People |ref=harv}}
+*{{cite book|last=King|first=Norman |year=1993|title= Arsenio Hall|location=New York|publisher= William Morrow &amp; Co.|ref=harv|isbn=978-0-688-10827-4 }}
+*{{cite book |last1= Nachman |first1=Gerald |author-link1= Gerald Nachman (journalist) |title=Seriously Funny |script-title=The Rebel Comedians of the 1950s and 1960s|url=http://geraldnachman.com/about.html |location=New York, NY |publisher=Pantheon Books |publication-date=2003 |isbn=  978-0-375-41030-7 &lt;!-- 0375410309 --&gt; |oclc=50339527  |trans-title= |author-mask1= |date= |year= |orig-year= |editor1-last= |editor1-first= |editor1-link= |editor1-mask= |display-editors= |type= |language= |edition= |page= |access-date= |quote= |postscript= |ref=harv }} 
+*{{cite book|last=Price|first=Victoria, ed. |title=St. James Encyclopedia of Popular Culture|volume= 4 |publisher= St. James Press|year=2000|oclc=42295812|ref=harv}}
+*{{cite book|last=Riley |first= Sam G. |year=1995 |title=Biographical Dictionary of American Newspaper Columnists|publisher=Greenwood Publishing Group|isbn=978-0-313-29192-0|ref=harv}}
+*{{cite book|last=Rivers|first=Joan|title=Enter Talking|year=1986|publisher=Delacorte Press|isbn=978-0-385-29440-9 |ref=harv}}
+*{{cite book|last=Rivers|first=Joan|year=1997|title=Bouncing Back : I've Survived Everything...and I Mean Everything...and You Can Too! |publisher=HarperCollins|ref=harv|isbn=978-0-060-17821-5}}
+*{{cite book|title=TV Guide Guide to TV|year=2004|publisher=Barnes and Noble|isbn=0-7607-5634-1|ref={{SfnRef|TV Guide|2004}}}}
+{{Ref end}}
+
+==External links==
+{{sisterlinks|d=Q240933|c=category:Joan Rivers|b=no|v=no|voy=no|s=no|wikt=no|m=no|mw=no|species=no|n=no}}
+* {{Official website}}
+* {{DMOZ|Arts/People/R/Rivers%2C_Joan/}}
+* {{IMDb name|1672}}
+* {{tcmdb name|id=162407|name=Joan Rivers}}
+* {{IBDB name}}
+* {{iobdb name|26833}}
+* {{EmmyTVLegends name|joan-rivers}}
+* [https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=135411896 Joan Rivers] at [[Find A Grave]]
+
+{{The Apprentice (U.S. TV series)}}
+{{Daytime Emmy Award Outstanding Talk Show Host}}
+{{Grammy Award for Best Spoken Word Album 2010s}}
+{{Hasty Pudding Woman of the Year}}
+{{2017 Television Hall of Fame}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rivers, Joan}}
+[[Category:Joan Rivers]]
+[[Category:1933 births]]
+[[Category:2014 deaths]]
+[[Category:20th-century American comedians]]
+[[Category:20th-century American actresses]]
+[[Category:20th-century American writers]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century American actresses]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American women writers]]
+[[Category:Actresses from New York City]]
+[[Category:American comedy writers]]
+[[Category:American film actresses]]
+[[Category:American film producers]]
+[[Category:American health activists]]
+[[Category:American humorists]]
+[[Category:Jewish American comedians]]
+[[Category:American memoirists]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American Reform Jews]]
+[[Category:American satirists]]
+[[Category:American soap opera actresses]]
+[[Category:American stand-up comedians]]
+[[Category:American television actresses]]
+[[Category:American television talk show hosts]]
+[[Category:American television writers]]
+[[Category:American voice actresses]]
+[[Category:American women comedians]]
+[[Category:American women film directors]]
+[[Category:American women screenwriters]]
+[[Category:American Zionists]]
+[[Category:Barnard College alumni]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:Comedians from New York (state)]]
+[[Category:Connecticut College alumni]]
+[[Category:Daytime Emmy Award for Outstanding Talk Show Host winners]]
+[[Category:Disease-related deaths in New York (state)]]
+[[Category:Edinburgh Comedy Festival]]
+[[Category:Film directors from New York City]]
+[[Category:Geffen Records artists]]
+[[Category:HIV/AIDS activists]]
+[[Category:Jewish activists]]
+[[Category:Jewish American actresses]]
+[[Category:Jewish American philanthropists]]
+[[Category:Jewish American writers]]
+[[Category:Jewish women writers]]
+[[Category:Late night television talk show hosts]]
+[[Category:New York (state) Republicans]]
+[[Category:People from Larchmont, New York]]
+[[Category:Women memoirists]]
+[[Category:Women television writers]]
+[[Category:Writers from Brooklyn]]
+[[Category:Women satirists]]
+[[Category:Grammy Award winners]]</text>
+      <sha1>m44y7gvkiryqkz9795zlysp85j47f91</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Phil Austin</title>
+    <ns>0</ns>
+    <id>48748</id>
+    <revision>
+      <id>832059038</id>
+      <parentid>832058180</parentid>
+      <timestamp>2018-03-23T15:57:03Z</timestamp>
+      <contributor>
+        <username>JustinTime55</username>
+        <id>11561890</id>
+      </contributor>
+      <comment>/* top */ Infobox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5181">{{Infobox comedian
+| name             = Phil Austin
+| image            = Philip Austin 01.jpg
+| alt              = 
+| caption          = 
+| birth_name       = Philip Baine Austin
+| birth_date       = {{Birth date|1941|4|6}}
+| birth_place      = [[Denver]], [[Colorado]], [[United States]]
+| death_date       = {{death date and age|mf=yes|2015|6|18|1941|4|6}}
+| death_place      = [[Fox Island, Washington]], [[United States]]
+| medium           = {{Flat list|
+*Radio
+*recording
+*film
+}}
+| nationality      = American
+| education        = High school
+| alma_mater       = 
+| active           = 1966–2015
+| employer         = 
+| genre            = {{Flat list|
+*[[Surreal humor]]
+*[[sketch comedy]]
+*[[word play]]
+}}
+
+| subject          = 
+| spouse           = Annalee Austin, Oona Elliot
+| children         = 
+| parents          = 
+| relatives        = 
+| notable_work     = 
+| memorials        = 
+| signature        = 
+| website          = 
+| footnotes        = 
+}}
+'''Philip Baine Austin''' (April 6, 1941 – June 18, 2015) was a comedian and writer, best known as a member of [[The Firesign Theatre]].
+
+==Biography==
+
+Austin was born in [[Denver]], [[Colorado]] and later grew up in [[Fresno, California]], attending [[Fresno High School]].  His mother was a drama teacher which influenced his upbringing as an actor.&lt;ref name=lat/&gt;  He attended [[Bowdoin College]] in [[Brunswick, Maine]] because it was the most distant point in the continental United States from Fresno.  He also attended [[Fresno State College]] and [[UCLA]], but did not graduate from any of them.  He was in the UCLA Drama Department at the same time as another dropout, [[The Doors]]' [[Ray Manzarek]].&lt;ref&gt;http://mag.chromiumswitch.org/CSMagazine-03.pdf&lt;/ref&gt;  In Los Angeles in the late 1960s, he was one of the first apprentices for the [[Center Theatre Group]] and worked on the staff of [[KPFK]] radio in [[Los Angeles]].  At KPFK he worked with other staffers [[David Ossman]] and [[Peter Bergman (comedian)|Peter Bergman]] who hosted Radio Free Oz on that station. Along with Bergman's friend [[Phil Proctor]], they formed [[The Firesign Theatre]].
+
+Starting as live radio actors, the group would go on to record a series of [[Surrealism|surrealistic]] [[comedy]] albums that were a hit amongst an underground audience.&lt;ref&gt;http://www.allmusic.com/artist/firesign-theatre-mn0000795481/credits&lt;/ref&gt;  Austin played the group's best-known creation, private investigator [[Nick Danger]]. Other prominent roles were as (Happy) Harry Cox, the narrator of ''[[Everything You Know Is Wrong]]'' and Bebop Loco/Lobo on ''[[Give Me Immortality or Give Me Death]]''. He had also served as the troupe's musician and record producer. 
+
+{{quote|"It was those comments, the off-mic things, that made Phil so funny.  He was the most surreal writer of all of us."|[[David Ossman]]&lt;ref name=lat/&gt;}}
+
+His collection of short stories, ''Tales of the Old Detective and Other Big Fat Lies'', is published by Audio Editions. Two of his stories appear in the third volume of ''[[Mirth of a Nation]]''.&lt;ref&gt;http://firesigntheatre.com/media/media.php?member=Austin&lt;/ref&gt;
+
+Austin also wrote a solo work, ''[[Roller Maidens From Outer Space]]'', and directed (and acted in) ''Eat Or Be Eaten''. 
+
+Stage versions of ''[[Don't Crush That Dwarf, Hand Me the Pliers]]''; ''[[How Can You Be in Two Places at Once When You're Not Anywhere at All|The Further Adventures of Nick Danger, Third Eye]]''; ''[[Waiting for the Electrician or Someone Like Him]]''; and ''Temporarily Humboldt County'' are published by [[Broadway Play Publishing Inc.]]. 
+
+Austin died of at his home in [[Fox Island, Washington]] on June 18, 2015 at the age of 74. The cause of death was originally given as [[cardiac arrest]],&lt;ref name=lat&gt;{{cite news |last=Colker |first=David |date=June 19, 2015 |url=http://www.latimes.com/local/obituaries/la-me-phil-austin-20150620-story.html |title=Phil Austin, dies at 74; voice of Firesign Theatre's Nick Danger |newspaper=Los Angeles Times}}&lt;/ref&gt; but this was later changed to an [[aneurysm]].&lt;ref name=nyt&gt;{{cite news |url=https://www.nytimes.com/2015/06/26/arts/phil-austin-who-played-nick-danger-on-firesign-theater-dies-at-74.html |title=Phil Austin (a.k.a. Nick Danger) of Firesign Theater Dies at 74 |last=Roberts |first=Sam |newspaper=The New York Times |date=June 25, 2015}}&lt;/ref&gt; He also had cancer.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://austin.weblogger.com/ Phil Austin's Blog of the Unknown]
+* [http://www.firesigntheatre.com/albums/austin.html Austin's bio on Firesign Theatre site]
+* [http://www.firezine.net/issue4/fz4_05.htm Phil Austin: The Man Under The Hat]
+* {{IMDb name|0042494}}
+
+{{Firesign Theatre}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Austin, Phil}}
+[[Category:1941 births]]
+[[Category:2015 deaths]]
+[[Category:American male stage actors]]
+[[Category:American male comedians]]
+[[Category:American comedians]]
+[[Category:American male radio actors]]
+[[Category:American male writers]]
+[[Category:Bowdoin College alumni]]
+[[Category:Deaths from aneurysm]]
+[[Category:The Firesign Theatre]]
+[[Category:Writers from Denver]]
+[[Category:Writers from Fresno, California]]</text>
+      <sha1>ik268scunwrmn8k6c3w28be0rohr1eb</sha1>
+    </revision>
+  </page>
+</mediawiki>

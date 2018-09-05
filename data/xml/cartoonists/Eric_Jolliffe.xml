@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eric Jolliffe</title>
+    <ns>0</ns>
+    <id>2256047</id>
+    <revision>
+      <id>786310858</id>
+      <parentid>734720042</parentid>
+      <timestamp>2017-06-18T16:55:48Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3843">{{inline|date=August 2016}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+|image =
+|imagesize = 150px |
+ | name        = Eric Joliffe
+ | caption     =
+ | pseudonym   =
+ | birth_date  = {{birth date|1907|01|31|df=yes}}
+ | birth_place = [[Portsmouth]], England
+ | death_date  = {{death date and age|2001|11|16|1907|01|31|df=yes}}
+ | death_place = [[Central Coast, New South Wales]], Australia
+ | occupation  = Cartoonist, Illustrator, Artist (painter)
+ | nationality = Australian
+ | period      =
+ | genre       = 
+ | subject     =
+ | movement    =
+ | influences  =
+ | influenced  =
+ | signature   =
+ | website     = 
+}}
+'''Eric Ernest Jolliffe''' (31 January 1907{{spaced ndash}}16 November 2001) was an [[Australia]]n cartoonist and illustrator.
+
+Born in [[Portsmouth]], England, he was the youngest boy in a family of twelve children. The family migrated to [[Perth, Western Australia|Perth]] in 1911 before settling in [[Sydney, New South Wales|Sydney]] after six months, where they settled in [[Balmain, New South Wales|Balmain]]. Eric left school at the age of fifteen, where he spent the next six years in the country [[New South Wales]] and [[Queensland]], working as a [[boundary rider]], [[rabbit]] [[Animal trapping|trapper]] and in [[shearing shed]]s. A visit to [[Angus &amp; Robertson]] bookstore, whilst visiting his family in Sydney, led to the discovery of a book on drawing. He afterwards reflected: 'I learned to my surprise that art wasn't necessarily a gift divine but a craft that could be studied and worked at'.
+
+Jolliffe enrolled in an introductory course at [[East Sydney Technical College]] (now the [[National Art School]]), where his teachers commented on his lack of talent. During the [[Great Depression|depression]] he worked as a window cleaner, during which time he inundated ''[[The Bulletin]]'' with cartoons, which they subsequently rejected. Eventually they began to buy his cartoons and by the beginning of [[World War II]] he became a regular contributor, taking over ''Andy'' from [[Arthur Horner (cartoonist)|Arthur Horner]].  During the war he served as a camouflage officer with the [[RAAF]] and spent time in [[Arnhem Land]].
+
+After the war he joined ''[[Smith's Weekly]]'' but resigned and began freelancing selling his cartoon strips, ''Saltbush Bill'' and ''Witchetty's Tribe'' to ''Pix Magazine''.&lt;ref&gt;{{cite web|url=http://www.mickjoffe.com/Eric_Jolliffe|title=Interview with Eric Jolliffe|work=Mick Joffe Caricatures}}&lt;/ref&gt; Another cartoon strip by him, ''Sandy Blight'', appeared in Sydney's ''Sun-Herald''. In 1973 Jolliffe began publishing his own magazine, ''Jolliffe's Outback''. He was particularly fond of "bush" subjects.
+
+Jolliffe died at the age of 94 in the [[Central Coast, New South Wales]] on 16 November 2001.
+
+==References==
+&lt;references /&gt;
+
+==External links==
+* [http://nla.gov.au/nla.cat-vn2339145 Conversation with Eric Jolliffe] (sound recording) - interviewered by Hazel de Berg on 18 November 1974
+* [http://nla.gov.au/nla.cat-vn2335249 Interview with Eric Jolliffe, bush cartoonist and comic strip artist] (sound recording) - interviewed by Ros Bowden., 5 December 1995.
+* ''[http://nla.gov.au/nla.cat-vn2082499 ACE biographical portraits: the artists behind the comic book characters: the Australian comic book exhibition, Australian comics 1930s-1990s, touring Australia during 1995/96]'' / edited by Annette Shiell and Ingrid Unger (1994, {{ISBN|0-7326-0829-5}})
+* ''[http://catalogue.nla.gov.au/Search/Home?lookfor=author:%22Jolliffe%2C%20Eric%2C%201907-2001%22&amp;iknowwhatimean=1 Catalog at the National Library of Australia] of Eric Jolliffe's material.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jolliffe, Eric}}
+[[Category:Australian cartoonists]]
+[[Category:Australian comics artists]]
+[[Category:1907 births]]
+[[Category:2001 deaths]]</text>
+      <sha1>o1fyp78hdnz6yl4qm4ysuu9am38dhpe</sha1>
+    </revision>
+  </page>
+</mediawiki>

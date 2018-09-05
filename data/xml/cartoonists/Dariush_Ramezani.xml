@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dariush Ramezani</title>
+    <ns>0</ns>
+    <id>32984351</id>
+    <revision>
+      <id>856012544</id>
+      <parentid>720487888</parentid>
+      <timestamp>2018-08-22T08:53:20Z</timestamp>
+      <contributor>
+        <username>Accesscrawl</username>
+        <id>32481963</id>
+      </contributor>
+      <comment>Flag added</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2439">{{Infobox comics creator
+| name          = Dariush Ramezani
+| image         = PHOTO-Dariush.JPG
+| imagesize     = 
+| caption       = 
+| birth_name    = 
+| birth_date    = {{Birth date and age|1976|3|21}}
+| birth_place   = Rasht, Iran
+| death_date    = 
+| death_place   = 
+| nationality   = {{flag|Iran}}ian
+| area          = Cartoonist 
+| alias         = Dariush
+| notable works = ''[[Dear Deer]]''
+| awards        = 
+}}
+'''Dariush Ramezani''' was born in 1976 in [[Rasht]], a northern city in [[Iran]]. He received his B.S. in Civil from [[Gilan University]] in Rasht in 2000. He began drawing cartoon in 1997 as a professional cartoonist. His cartoons and comic strips are published in some newspapers and magazines in Iran.
+He has published some cartoons books and won some international and national prizes in cartoon contests.
+
+== Prizes and honors ==
+
+* First prize in International cartoon contest TURHAN SELCUK (Turkey, 2011)
+* Honor prize in International cartoon contest PIRACICABA(Brazil, 2011)
+* Honor prize in International cartoon contest CANADIAN BANANA(Montreal, Canada, 2010)
+* First prize in International cartoon contest (Tabriz, Iran, 2008)
+* First prize in UMO cartoon contest (India, 2007)
+* Grand prize in EUROHUMOUR (Italy.2006)
+* winning prize in international Web Cartoon (China, 2006)
+* winning prize in International cartoon contest (Syria, 2006)
+* Honor prize in International cartoon contest (Tehran, Iran, 2004)
+* Honor prize in International cartoon contest (Tabriz, Iran, 2003)
+* First prize in scholar cartoon contest (Iran, 1998)
+* Special overseas junior prize in International Cartoon Contest YUMIURI(Japan, 1994)
+
+==Books==
+
+* [[Don’t wake me up, please!]] in 2005.
+* [[The lonely little ant]] in 2005.
+* [[The deer]] in 2007.
+* [[Sometimes…]] in 2008.
+
+==Exhibitions==
+
+* More than 15 solo and group exhibitions in Iran.
+
+==References==
+* [http://www.irancartoon.ir/artists/categories.php?cat_id=64 Page on Iranian House of Cartoon]
+
+==External links==
+{{Portal|Biography}}
+* [http://www.tabrizcartoons.com/fa/detail.asp?ID=20 Interview with Tabriz Cartoons website]
+* [http://irancartoon.ir/news/archives/2011/08/post_3798.php First prize in Turhan Selcuk 2011]
+
+{{DEFAULTSORT:Ramezani, Dariush}}
+[[Category:1976 births]]
+[[Category:Iranian caricaturists]]
+[[Category:Iranian cartoonists]]
+[[Category:Iranian comics artists]]
+[[Category:Living people]]
+
+
+{{Iran-artist-stub}}
+{{cartoonist-stub}}</text>
+      <sha1>bd2wf6gkaigfao043ujyow45btkaj1k</sha1>
+    </revision>
+  </page>
+</mediawiki>

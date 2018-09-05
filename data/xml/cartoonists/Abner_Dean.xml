@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Abner Dean</title>
+    <ns>0</ns>
+    <id>6014760</id>
+    <revision>
+      <id>835969264</id>
+      <parentid>794793039</parentid>
+      <timestamp>2018-04-11T21:33:39Z</timestamp>
+      <contributor>
+        <username>Athaenara</username>
+        <id>2460180</id>
+      </contributor>
+      <minor/>
+      <comment>piped [[Esquire (magazine)|Esquire]] link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6511">{{Infobox artist
+| bgcolour      = #6495ED
+| name          = Abner Dean
+| image         =
+| imagesize     =
+| caption       = 
+| birth_name    = Abner Epstein
+| birth_date    = {{birth date|1910|3|18|mf=y}}
+| birth_place   = [[New York City|New York City, New York]], U.S.
+| death_date    = {{death date and age|1982|06|30|1910|3|8|mf=y}}
+| death_cause = 
+| death_place   = 
+| nationality   = American
+| field         = [[Cartoonist]]
+| training      =  [[National Academy of Design]]
+| alma_mater = [[Dartmouth College]]
+| movement      =
+| works         =
+| patrons       =
+| influenced by =
+| influenced    =
+| awards        =
+}}
+[[Image:Deanmole.jpg|right|thumb|400px|"I'm looking for someone with a mole on her elbow" from Abner Dean's ''What Am I Doing Here?'' (1947)]]
+'''Abner Dean''' (18 March 1910 &amp;ndash; 30 June 1982), born '''Abner Epstein''' in New York City, was an [[United States|American]] [[cartoonist]].&lt;ref name=tcj20140130&gt;{{cite web|title='This Strange Profession': Abner Dean Interrogates the Gag|url=http://www.tcj.com/this-strange-profession-abner-dean-interrogates-the-gag/|publisher=''The Comics Journal''|author=Ken Parille|date=30 January 2014}}&lt;/ref&gt; In allegorical or surrealist situations, Dean often depicted extremes of human behavior amid grim, decaying urban settings or barren landscapes. His artwork prompted [[Clifton Fadiman]] to comment, "His pictures are trick mirrors in which we catch sight of those absurd fragments of ourselves that we never see in the smooth glass of habit."&lt;ref&gt;Fadiman, Clifton. "Prefatory Note," in Abner Dean's ''What Am I Doing Here?'' (New York Review of Books, 2016).&lt;/ref&gt;
+
+The nephew of [[sculptor]] [[Jacob Epstein]], Dean graduated from [[Dartmouth College]] in 1931, and studied at the [[National Academy of Design]]. He worked as a commercial illustrator, contributing to ''[[The New Yorker]]'', ''[[Esquire (magazine)|Esquire]]'', and other publications. His work for ''[[Life (magazine)|Life]]'' included illustrations of George Orwell's ''[[Nineteen Eighty-Four|1984]]'' for a ''Life'' article on Orwell.
+
+His first book, ''It's a Long Way to Heaven'' (Farrar and Rinehart, 1945) had an introduction by [[Philip Wylie]]. Chris Lanier, in "Abner Dean Made This: An Appreciation," analyzed the approach Dean took in the book:
+{{blockquote|The characters in these drawings are modestly sexless, but they reveal all sorts of things about themselves through their activities. Their guiding star is folly, and when they act in groups, it’s always under the direction of a collective id... Some of the drawings are under the sway of a symbolism that suggests a simplified modern version of the instructive images Bosch or Bruegel composed — there are men turning into birds, or mushrooms turning into men, and people with portentous objects affixed to their pates — eggs, books, irons. Of course, when the rest of you is naked, even a hat becomes a portentous object: a naked man wearing a policeman’s hat is not simply a man wearing a hat. But even in the most hermetic and perplexing cartoons, you feel there might be some unacknowledged part of yourself acting out its pet obsession in some corner of the diorama.
+
+At first these pictures look like gag cartoons (there’s a funny drawing, and then a caption that might provide a laugh) but on closer examination they reveal themselves to be a different animal. In a gag strip, the caption usually puts the image to a full stop — the joke has been released from the image, and so the image has been “used up” — disposable as the burnt rind of a firecracker. With some of Dean’s images, the caption can indeed provide a laugh, but the image, instead of coming to a full stop, begins to spool out in disquieting directions... But even the drawings that are closer to gags, like “Double Thinking,” showing a man who has a doll doppelganger of himself strapped to his back (a woman is embracing the doppelganger, while the man himself is observing her and taking notes), are drawn with such an atmosphere of blasted loneliness that what you take away from them, more than the laugh or the cleverness, is a sense of chilly disconnect. In Heaven, Dean situates his scenes in landscapes, even when he doesn’t strictly need a wider environment to sell the situation — and most of the landscapes are barren, showing empty hills or dead cracked trees, piles of jagged rocks, horizons stretching out the promise of more nothingness.&lt;ref&gt;Lanier, Chris.[http://thehighhat.com/Marginalia/006/Abner_Dean.html "Abner Dean Made This: An Appreciation,"] ''High Hat'' (Spring 2006).&lt;/ref&gt;}}
+
+Seven more Dean collections were published over the next 16 years. As indicated by the title of his ''Naked People'' (1963), his more personal work portrayed most often [[nudity|unclothed]] people in a variety of [[absurdism|absurdist]] situations, reflecting the themes of disillusionment, self-delusion, yearning and the meaninglessness of [[modernity|modern life]]. Despite this, he usually drew in a very slick, professional and cleanly drawn, even cute style. Dean's vision expressed a darkness atypical of cartoon work of his time. He has begun to accumulate a posthumous [[cult following]] of admirers.
+
+==Collections==
+*''It's a Long Way to Heaven'' (1945)
+*''What Am I Doing Here?'' (1947); new edition: New York : New York Review Books, [2016], {{ISBN|978-1-68137-049-1}}
+*''And On the Eighth Day'' (1949)
+*''Come As You Are: A Book about People at Parties'' (1952)
+*''Cave Drawings for the Future'' (1954)
+*''Wake Me When It's Over'' (1955)
+*''Not Far From the Jungle'' (1956)
+*''Abner Dean's Naked People: A Selection of Drawings from Four of His Books'' (1963)
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070929020717/http://www.comicartmagazine.com/archive-issue9sect04.php Comic Art 9 features a long essay on Dean's life and work, with many color images]
+*[http://www.thehighhat.com/Marginalia/006/Abner_Dean.html "Abner Dean Made This: An Appreciation" by Chris Lanier]
+*[http://usscatastrophe.com/kh/dean.html Small selection of Dean's cartoons]
+*[http://www.sovereignliege.com/archives/2005/02/abner_dean_fasc.html#more Sovereign Liege: Dean art with comments]
+*{{IBDB name|108514}}
+
+{{Authority control}}
+{{DEFAULTSORT:Dean, Abner}}
+[[Category:1910 births]]
+[[Category:1982 deaths]]
+[[Category:American cartoonists]]
+[[Category:American illustrators]]
+[[Category:Artists from New York City]]
+[[Category:Dartmouth College alumni]]</text>
+      <sha1>tnzr7qhuw1bgf2zewr01i7ekn1qkqtu</sha1>
+    </revision>
+  </page>
+</mediawiki>

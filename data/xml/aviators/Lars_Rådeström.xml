@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lars Rådeström</title>
+    <ns>0</ns>
+    <id>12554459</id>
+    <revision>
+      <id>853745840</id>
+      <parentid>779922425</parentid>
+      <timestamp>2018-08-06T19:09:33Z</timestamp>
+      <contributor>
+        <username>HandsomeFella</username>
+        <id>12971673</id>
+      </contributor>
+      <comment>Undid revision 719433708 by [[Special:Contributions/Ala Bahma|Ala Bahma]] ([[User talk:Ala Bahma|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2331">{{notability|date=June 2013}}
+'''Lars Gunnar Robert Rådeström''' (born 7 June 1944) is a [[Sweden|Swedish]] former [[fighter aircraft]] [[test pilot]].
+
+==Crashes with Gripen==
+
+Rådeström was the pilot in the first two [[JAS 39 Gripen|Gripens]] to [[Aviation accidents and incidents|crash]], while the aircraft was still in the test series. Both crashes were caught on film by television crews from [[Sveriges Television]].&lt;ref name=svt&gt;[http://svt.se/svt/road/Classic/shared/mediacenter/index.jsp?d=37267&amp;a=399477 Sveriges Television] {{webarchive|url=https://web.archive.org/web/20071114043232/http://svt.se/svt/road/Classic/shared/mediacenter/index.jsp?d=37267&amp;a=399477 |date=2007-11-14 }}, News footage of the 1989 and 1993 crashes (Swedish).&lt;/ref&gt;
+
+* The first crash occurred on 2 February 1989 during an attempt to land at [[Saab Group|Saab]]'s airstrip at [[Linköping Airport]]. Rådeström remained in the tumbling aircraft, but escaped miraculously with only a fractured elbow and a few other minor injuries.
+* The second crash occurred on 8 August 1993, when his aircraft [[Stall (flight)|stalled]] after a slow speed manoeuver during a display over the [[Stockholm Water Festival]]. Rådeström [[Ejection seat|ejected]] and landed safely by [[parachute]] (though he became stuck in a tree), while the aircraft fell to the ground and caught fire at impact. Amazingly, only one person on the ground was injured,&lt;ref&gt;A woman was hospitalized for three weeks for burns. [http://www.fhs.se/Documents/Externwebben/forskning/centrumbildningar/Crismart/Publikationer/Publikationsserier/VOLUME_13.PDF "Coping with a Credibility Crisis: The Stockholm JAS Fighter Crash of 1993"], p. 27. Swedish National Defence College. Retrieved 23 January 2012.&lt;/ref&gt; and the fire was soon put out.
+
+Both crashes were the result of [[pilot-induced oscillation]] (PIO).
+
+After the second crash Rådeström decided to retire as a test pilot at the age of 49. The usual retirement age of test pilots is 50, but in an interview he said that he "did not want to push [his] luck for just another year."
+
+==See also==
+
+* [[Accidents and incidents involving the JAS 39 Gripen]]
+
+==References==
+
+{{reflist}}
+
+{{DEFAULTSORT:Radestrom, Lars}}
+[[Category:Swedish aviators]]
+[[Category:Test pilots]]
+[[Category:1944 births]]
+[[Category:Living people]]</text>
+      <sha1>9s0atzkzpxgijam3pbw7tfxtiirov4v</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Barry Appleby</title>
+    <ns>0</ns>
+    <id>4941457</id>
+    <revision>
+      <id>798349732</id>
+      <parentid>782475662</parentid>
+      <timestamp>2017-09-01T11:24:50Z</timestamp>
+      <contributor>
+        <username>Certes</username>
+        <id>5984052</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Autocar]] (link changed to [[Autocar (magazine)]]) using [[User:Certes/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2108">{{About|the strip cartoonist and creator of ''The Gambols''|the comics artist|Barrie Appleby}}
+{{Infobox comics creator
+&lt;!-- | name          = Barry Appleby --&gt;
+| image         = 
+| imagesize     = 
+| caption       = 
+| alt           = 
+| birth_name    = 
+| birth_date    ={{Birth date|1909|08|30|df=y}}
+| birth_place   = 
+| death_place   = 
+| nationality   = British
+| area          = 
+| cartoonist    = 1
+| write         = 
+| art           = 
+| pencil        = 
+| ink           = 
+| edit          = 
+| publish       = 
+| letter        = 
+| color         = 
+| alias         = 
+| signature     = &lt;!-- very optional --&gt;
+| signature_alt = 
+| notable works = ''[[The Gambols]]''
+| awards        = 
+| website       = 
+| subcat        = British
+| death_date={{Death date and age|1996|03|11|1909|08|30|df=y}}
+}}
+'''Barry Appleby''' (30 August 1909 – 11 March 1996) was a British cartoonist famous for creating ''[[The Gambols]]'' for the ''[[Daily Express]]''. The strip premiered on 16 March 1950. The script was written by his wife Dobs, and was based on their own lives.
+
+Appleby's father, E J. Appleby, was in the 1940s the editor of [[Autocar (magazine)|Autocar]], a leading British motor magazine,&lt;ref name=Autocar196611&gt;{{cite journal| authorlink = Dennis May|title = The Barrydobb| journal = [[Autocar (magazine)|Autocar]] | volume =  | pages =  1130–1131|date = 25 November 1966 }}&lt;/ref&gt; and one to which Appleby himself contributed his first illustration in 1931.&lt;ref name=Autocar196611/&gt;   Later Appleby also wrote for the magazine edited by his father, using the alias "Helix".&lt;ref name=Autocar196611/&gt;
+
+==References==
+*Strickler, Dave. ''Syndicated Comic Strips and Artists, 1924-1995: The Complete Index.'' Cambria, CA: Comics Access, 1995. {{ISBN|0-9700077-0-1}}.
+
+{{Reflist|2}}
+
+==External links==
+*[http://lambiek.net/artists/a/appleby_b.htm A little biographical information and some cartoons]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Appleby, Barry}}
+[[Category:British cartoonists]]
+[[Category:British comics artists]]
+[[Category:1996 deaths]]
+[[Category:1909 births]]
+
+
+{{UK-cartoonist-stub}}</text>
+      <sha1>oipfhna18eq3db47zn2gbhntfej5wv9</sha1>
+    </revision>
+  </page>
+</mediawiki>

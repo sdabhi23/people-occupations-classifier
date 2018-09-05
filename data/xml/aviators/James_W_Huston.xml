@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>James W. Huston (author)</title>
+    <ns>0</ns>
+    <id>28891542</id>
+    <revision>
+      <id>846439712</id>
+      <parentid>842830711</parentid>
+      <timestamp>2018-06-18T20:07:31Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:American aviators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9329">{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+| image = JamesWHustonPhoto.jpg
+| imagesize = 
+| caption = Photo by Kristen Bons
+| name = James W. Huston
+| birth_date = October 26, 1953
+| birth_place = [[West Lafayette, Indiana]]
+| alma_mater = [[University of South Carolina]]&lt;br/&gt;[[University of Virginia School of Law|University of Virginia]]
+| death_date = {{d-da|April 14, 2016|October 26, 1953}}
+| death_place = [[San Diego|San Diego, California]]
+| occupation = {{hlist|Novelist|lawyer}}
+| nationality = American
+| period = Modern
+| genre = {{hlist|[[War novel|Military fiction]]|[[techno-thriller]]|[[legal thriller]]}}
+| website = {{URL|http://www.jameswhuston.com}}
+}}
+'''James Webb Huston''' (October 26, 1953 – April 14, 2016) was an American author and lawyer, best known for his popular military and legal thrillers. A graduate of [[United States Navy Strike Fighter Tactics Instructor program|TOPGUN]], he served as a [[naval flight officer]] and worked in [[Military intelligence|naval intelligence]]&lt;ref name="jameswhuston1"&gt;{{cite web|url=http://www.jameswhuston.com/about/ |title=James W. Huston's biography |date= |accessdate=2010-09-22}}&lt;/ref&gt; before going on to become a ''[[The New York Times|New York Times]]'' best-selling author.
+
+== Early life ==
+Huston was born and grew up in [[West Lafayette, Indiana]]. His father, James A. Huston, was a [[Purdue University]] history professor and highly decorated World War II veteran who published several books on military and diplomatic history.  In 2009, James A. Huston was awarded the [[Légion d'honneur|French Legion of Honor]], the highest civilian decoration in France. James W. graduated from high school in 1971, and attended the [[University of South Carolina]] on a Navy [[ROTC]] scholarship. Attending the program during the last years of the [[Vietnam War]] was tumultuous; anti-war protests on campus were frequent, and many were directed at the ROTC. During his senior year he completed an exchange cruise on a [[French Navy]] destroyer out of [[Brest, France|Brest]], the EE Kersaint.&lt;ref name="jameswhuston1"/&gt; He then studied English Reformation history and English literature at the [[University of Warwick]] in [[Coventry]], England. He graduated from the University of South Carolina in 1975 with a BA in History and a minor in English. He was commissioned into the [[U.S. Navy]] as an Ensign on the day of his graduation.
+
+== United States Navy ==
+After a year of flight training in [[Pensacola, Florida]] and a year of [[Grumman F-14 Tomcat|F-14 Tomcat]] training at [[Naval Air Station Miramar]], [[California]], he became an F-14 Naval Flight Officer and was assigned to fighter squadron [[VF-84]]—nicknamed the Jolly Rogers—based in [[Virginia Beach, Virginia]]. The unit flew off of the [[USS Nimitz]], one of the largest warships in the world and the first of the Nimitz class of nuclear-powered aircraft carriers. VF-84 participated in the making of [[The Final Countdown (film)|''The Final Countdown'']], a 1980 movie starring Kirk Douglas and Katharine Ross.&lt;ref name="jameswhuston1"/&gt; Huston flew in many of the film's flight scenes, and directed others. He was selected to attend the elite [[Navy Fighter Weapons School]], popularly known as TOPGUN, and graduated in 1978. After his tour with VF-84, Huston taught Seapower and Maritime Affairs at [[The Citadel, The Military College of South Carolina|The Citadel]], The Military College of South Carolina, from 1980-1981.
+
+== Lawyer ==
+In 1981, Huston resigned from active duty in order to attend law school at the [[University of Virginia]].  After graduating in 1984, he moved to California to join San Diego-based law firm Gray Cary Ames &amp; Frye,&lt;ref name="Mofo.com"&gt;{{cite web|url=http://www.mofo.com/james-huston |title=James W. Huston &amp;#124; Morrison Foerster |publisher=Mofo.com |date= |accessdate=2010-09-23 |deadurl=yes |archiveurl=https://web.archive.org/web/20110714130029/http://www.mofo.com/james-huston/ |archivedate=2011-07-14 |df= }}&lt;/ref&gt; and began flying in the Navy Reserves out of NAS Miramar. After a few years, he transferred into the Naval Intelligence Reserves, where he remained—monitoring intelligence reports and briefing personnel when called upon—until retiring as a Commander in 1997. He was elevated to partner at Gray Cary Ames &amp; Frye in 1990, and led the firm's tort and product liability practice group. Huston joined the international law firm [[Morrison &amp; Foerster]] as a partner in May 2004. He was the chairman of the firm's trial practice group,&lt;ref name="Mofo.com"/&gt; and has been involved in numerous high-profile cases. On September 2, 2010, Huston was named one of the top ten product liability litigators in the country by the legal newswire Law 360.&lt;ref&gt;{{cite web|url=http://www.law360.com/registrations/user_registration?article_id=191268&amp;concurrency_check=false |title=Most Admired Attys: MoFo's James Huston |publisher=Law360 |date=2010-09-02 |accessdate=2010-09-22}}&lt;/ref&gt;
+
+== Inspiration for first novel ==
+Writing [[op-eds]] for a local newspaper kick-started Huston's literary interests in the early 1990s. After two years of writing editorial pieces for the ''[[Escondido Times-Advocate]]'' and the ''San Diego Union-Tribune'', he decided to try fiction. His first and second novels met with "hundreds" of rejection letters, and were never published. His third, ''Balance Of Power'', combined Huston's military and legal expertise with political intrigue and was an instant success, with film rights sold to [[Jerry Bruckheimer]] and the Walt Disney Company. The book was based on an obscure clause in the U.S. Constitution that had captured Huston's imagination—Congress's power to issue [[Letters of Marque and Reprisal]]—and he had found his voice. Balance of Power set the tone for his subsequent novels, which feature politics, law and military action.
+
+== Influences and writing habits ==
+Huston's favorite author was [[Patrick O'Brian]], who wrote the [[Aubrey-Maturin]] series of novels about the [[Royal Navy]] during the [[Napoleonic Wars]]. He also admired the works of [[Ernest Hemingway]] and [[Marilynne Robinson]]—Hemingway for his crisp prose and captivating stories, and Robinson for her use of language and depth.  Huston started out writing for an hour or so each night after his children went to sleep. He completed his first two novels on a computer but has dictated the drafts of each novel since, using voice-recognition software to convert his words into text.
+
+== Family ==
+Huston was the father of five grown children and lived near San Diego with his wife of 36 years, Dianna. He had three grandchildren.
+
+== Death ==
+Huston died on April 14, 2016 in San Diego after a long battle with multiple myeloma.&lt;ref&gt;http://www.jameswhuston.com/2016/04/in-memory-of-james-w-huston/&lt;/ref&gt;&lt;ref&gt;http://www.legacy.com/obituaries/sandiegouniontribune/obituary.aspx?n=james-webb-huston&amp;pid=179708141&lt;/ref&gt;
+
+== Books ==
+
+=== Fiction ===
+
+* Balance of Power (1998).&lt;ref name="worldcat1"&gt;{{cite web|last=Huston |first=James W |url=http://www.worldcat.org/search?qt=worldcat_org_all&amp;q=james.w.huston |title=James W. Huston on Worldcat.org |date= |accessdate=2010-09-22}}&lt;/ref&gt;
+* The Price of Power (1999)&lt;ref name="worldcat1"/&gt;
+* Flash Point (2000)&lt;ref name="worldcat1"/&gt;
+* Fallout (2001)&lt;ref&gt;{{cite web|last=Huston |first=James W |url=http://www.worldcat.org/search?qt=worldcat_org_all&amp;q=james.w.huston |title=James W. Huston on Woldcat.org |publisher=Worldcat.org |date= |accessdate=2010-09-22}}&lt;/ref&gt;
+* Shadows of Power (2002)&lt;ref name="worldcat1"/&gt;
+* Secret Justice (2003)&lt;ref name="worldcat1"/&gt;
+* Marine One (2009)&lt;ref name="worldcat1"/&gt;
+* Falcon Seven (2010)&lt;ref name="worldcat1"/&gt;
+* Blood Flag (2015)
+
+== Non-fiction ==
+* 100 Questions &amp; Answers About Myeloma (2005) (with Asad Bashey MD)
+
+== Recurring characters ==
+
+'''Jim Dillon''', attorney and top congressional aide. He appears in Balance of Power and The Price of Power.
+
+'''Lt. Kent "Rat" Rathman''', versatile and legendary Navy SEAL. He was introduced in The Shadows of Power and reappears in Secret Justice.
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://www.jameswhuston.com Official website]
+* [https://web.archive.org/web/20110714130029/http://www.mofo.com/james-huston/ Morrison &amp; Foerster biography]
+* [https://www.amazon.com/James-W.-Huston/e/B000APJOU2/ref=sr_tc_img_2_0?qid=1285000803&amp;sr=8-2-ent Amazon.com's James W. Huston page]
+* [http://www.mofo.com Law Firm]
+* [http://www.worldcat.org/search?qt=worldcat_org_all&amp;q=james.w.huston James W. Huston in libraries (WorldCat catalog)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Huston, James W.}}
+[[Category:1953 births]]
+[[Category:2016 deaths]]
+[[Category:Deaths from multiple myeloma]]
+[[Category:20th-century American novelists]]
+[[Category:American thriller writers]]
+[[Category:American military writers]]
+[[Category:American lawyers]]
+[[Category:Aviators from Indiana]]
+[[Category:University of South Carolina alumni]]
+[[Category:University of Virginia School of Law alumni]]
+[[Category:United States Navy officers]]
+[[Category:United States Naval Flight Officers]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:20th-century male writers]]
+[[Category:21st-century male writers]]</text>
+      <sha1>06rjm24p37mwr7g98qwblknu0tc83h6</sha1>
+    </revision>
+  </page>
+</mediawiki>

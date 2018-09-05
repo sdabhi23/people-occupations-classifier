@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chon Day</title>
+    <ns>0</ns>
+    <id>3616927</id>
+    <revision>
+      <id>853088694</id>
+      <parentid>794065257</parentid>
+      <timestamp>2018-08-02T10:43:55Z</timestamp>
+      <contributor>
+        <username>Amorymeltzer</username>
+        <id>141948</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[John Sloan]] (link changed to [[John French Sloan]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2618">[[File:Brothersebastiancarries.jpg|right|noframe|250px]]
+'''Chauncey Addison Day''', better known as '''Chon Day''', (April 6, 1907 – 2000) was an American cartoonist whose cartoons appeared in ''[[The New Yorker]]'' and other magazines.
+
+Born in [[Chatham, New Jersey]], Day attended [[Lehigh University]] in 1926, where he drew for the college's humor magazine, ''The Burr''.  After one year, he left and later enrolled in 1929 at New York City's [[Art Students League of New York|Art Students League]], where he studied under [[Boardman Robinson]], [[George Bridgman]] and [[John French Sloan|John Sloan]]. That same year his cartoons were first published in national magazines.
+
+==''Brother Sebastian''==
+His cartoon series ''[[Brother Sebastian]]'' began in 1954 in the magazine ''[[Look (American magazine)|Look]]'', where it ran for years. These cartoons were collected in several [[Doubleday (publisher)|Doubleday]] books, ''Brother Sebastian'', ''Brother Sebastian Carries On'' and ''Brother Sebastian at Large'' (1961), reprinted in paperback by [[Pocket Books]].
+
+Day described his character in the introduction to ''Brother Sebastian at Large'':
+:It is a pleasure to bring you a new book of our gentle, imperturbable monk, Brother Sebastian. Now seven years old, he still retains the qualities with which he was born—his hearty appetite for fun (and his large waistline); his love for children, dogs, and underdogs; his tendency to be the "quiet type"; his good-humored but faithful dedication. His glasses are for neither nearsightedness nor farsightedness but are precisely fitted for impish antics.
+
+==Awards==
+Day received the [[National Cartoonists Society]] Gag Cartoon Award for 1956, 1962 and 1970, plus their Special Features Award for ''Brother Sebastian'' in 1969.
+
+Day died in 2000, according to ''[[The Saturday Evening Post]]'' (May 2000), where he had been their "longest running cartoonist" for more than half a century.
+
+==Watch==
+*[http://www.blinkx.com/videos/Chon+Day ''Brother Sebastian'' animated]
+
+==External links==
+*[https://web.archive.org/web/20110209151158/http://www.reuben.org/awards.html NCS Awards]
+*[http://searchingforlaugh.blogspot.com/2007/05/live-with-that-rest-of-your-life.html Looking at Cartoons 1: Chon Day]
+*[http://searchingforlaugh.blogspot.com/2007/06/patent-some-obvious-thing.html Looking at Cartoons 2: Chon Day]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Day, Chauncey}}
+[[Category:American cartoonists]]
+[[Category:The New Yorker cartoonists]]
+[[Category:1907 births]]
+[[Category:2000 deaths]]
+[[Category:Lehigh University alumni]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>dhuw99sgqk36wwz9jxtpzo0eiwn6rg8</sha1>
+    </revision>
+  </page>
+</mediawiki>

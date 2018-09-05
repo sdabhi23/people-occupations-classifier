@@ -1,0 +1,626 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ted Danson</title>
+    <ns>0</ns>
+    <id>217241</id>
+    <revision>
+      <id>854181217</id>
+      <parentid>853557816</parentid>
+      <timestamp>2018-08-09T14:12:30Z</timestamp>
+      <contributor>
+        <username>FrescoBot</username>
+        <id>9021902</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:FrescoBot/Links|link syntax]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43282">{{Use mdy dates|date=May 2012}}
+{{Infobox person
+| name = Ted Danson
+| image = Ted Danson 2008 number 2.jpg
+| caption = Danson in 2008
+| birth_name = Edward Bridge Danson III
+| birth_date = {{birth date and age|1947|12|29}}
+| birth_place = [[San Diego]], [[California]], U.S.
+| residence = [[Los Angeles, California]]&lt;br&gt;[[Chilmark, Massachusetts]]&lt;ref&gt;[http://virtualglobetrotting.com/map/ted-danson-mary-steenburgens-house/view/google/ Ted Danson &amp; Mary Steenburgen's House in Chilmark, MA (Google Maps) - Virtual Globetrotting] Retrieved 2017-05-07.&lt;/ref&gt;
+| education = [[Stanford University]]&lt;br/&gt;[[Carnegie Mellon University]]
+| occupation = Actor, producer
+| years_active = 1975–present
+| spouse = {{unbulleted list|{{marriage|Randall Gosch&lt;br&gt;|1970|1975|end=div}}|{{marriage|Cassandra Coates&lt;br&gt;|1977|1993|end=div}}|{{marriage|[[Mary Steenburgen]]&lt;br&gt;|1995}}}}
+| children = 2
+}}
+'''Edward Bridge "Ted" Danson III''' (born December 29, 1947) is an American actor and producer who played the lead character [[Sam Malone]] on the [[NBC]] sitcom ''[[Cheers]]'', Jack Holden in the films ''[[Three Men and a Baby]]'' and ''[[Three Men and a Little Lady]]'', and Dr. John Becker on the [[CBS]] sitcom ''[[Becker (TV series)|Becker]]''. He also starred in the CBS dramas ''[[CSI: Crime Scene Investigation]]'' and ''[[CSI: Cyber]]'' as [[D.B. Russell]].&lt;ref name="Rice0712" /&gt;&lt;ref name="McEvoy0713" /&gt; Additionally, he plays a recurring role on [[Larry David]]'s [[HBO]] sitcom ''[[Curb Your Enthusiasm]]'', starred alongside [[Glenn Close]] in legal drama ''[[Damages (TV Series)|Damages]]'', and was a regular on the HBO comedy series ''[[Bored to Death]]''. In 2015 he starred as Hank Larsson in the [[Fargo (season 2)|second season]] of FX's black comedy-crime drama anthology ''[[Fargo (TV series)|Fargo]]''. Since 2016, he has played the afterlife "architect" Michael in the NBC sitcom ''[[The Good Place]]''.
+
+During his career, Danson has been nominated for 16 [[Primetime Emmy Awards]], winning two; ten [[Golden Globe Awards]] nominations, winning three; one [[Screen Actors Guild Awards|Screen Actors Guild Award]]; and one [[American Comedy Award]] and has been awarded a star on [[Hollywood's Walk of Fame]]. He was ranked second in ''[[TV Guide]]''{{-'}}s list of the top 25 television stars.&lt;ref&gt;{{cite web |url=http://artsandentertainmentplayground.com/2011/07/14/ted-danson-will-move-into-csi-replacing-laurence-fishburne/ |first=Mike |last=Stringer |title=Ted Danson Will Move Into CSI Replacing Laurence Fishburne |work=A&amp;E Playground |date=July 14, 2011 |accessdate=February 15, 2012}}&lt;/ref&gt; Danson has also been a longtime activist in [[marine conservation|ocean conservation]]. In March 2011, he published his first book, ''Oceana: Our Endangered Oceans and What We Can Do to Save Them'', written with journalist [[Michael D'Orso]].
+
+== Early life ==
+Danson was born in [[San Diego, California]], to Jessica (née MacMaster, 1916 – January 11, 2006&lt;ref&gt;{{cite web |url=http://www.desertfound.org/circleoffriends/circle_tessa_jessica1.html |title=Jessica MacMaster Danson: 1916-2006 |first=Tessa |last=Bielecki |work=Desert Foundation.org |accessdate=June 9, 2016}}&lt;/ref&gt;) and Edward Bridge "Ned" Danson, Jr. (March 22, 1916 – November 30, 2000&lt;ref&gt;{{cite web |url=http://www.desertfound.org/circleoffriends/circle_current.html |title=Voice of the Desert |first=Tessa |last=Bielecki |work=Desert Foundation.org |accessdate=June 9, 2016}}&lt;/ref&gt;), an [[archaeologist]] and museum director. He has an older sister, Jan Haury (née Jessica Ann Danson, born January 11, 1944).&lt;ref&gt;{{Cite web|url=http://www.desertfound.org/circleoffriends/ned_interviews.html|title=DesertFoundation.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://familysearch.org/ark:/61903/1:1:V2WJ-9LD|title=California Birth Index, 1905-1995}}&lt;/ref&gt; He was raised in [[Flagstaff, Arizona]].&lt;ref&gt;{{cite web |url=http://www.filmreference.com/film/68/Ted-Danson.html |title=Ted Danson Biography (1947–) |work=Film Reference.com |accessdate=June 9, 2016}}&lt;/ref&gt; His ancestry includes English and Scottish.&lt;ref&gt;{{cite web |url=http://www.wargs.com/other/danson.html |title=Ancestry of Ted Danson |first=Robert |last=Battle |work=William Addams Reitwiesner Genealogical Services |accessdate=June 9, 2016}}&lt;/ref&gt;&lt;ref&gt;Danson stated in an interview with [[Craig Ferguson]] that he has [[Scottish Americans|Scottish]] ancestry; {{YouTube|GJiLZrOPsOc}}&lt;/ref&gt;
+
+In 1961, he enrolled in the [[Kent School]], a [[University-preparatory school|prep school]] in Connecticut, where he was a star player on the basketball team. He became interested in drama while attending [[Stanford University]] and, seeking a better acting program, transferred to [[Carnegie Mellon University]] in [[Pittsburgh]], Pennsylvania, where he received his [[Bachelor of Fine Arts]] degree in drama in 1972.
+
+== Career ==
+
+=== Television ===
+
+==== Early career ====
+Danson began his television career as a contract player on the daytime soap opera ''[[Somerset (TV series)|Somerset]]''. He played the role of "Tom Conway" from 1975 to 1976. He then spent a few years (1977–1982) as a doctor on the daytime soap opera [[The Doctors (1963 TV series)|''The Doctors'']]. He was also in a number of commercials, most recognizably as the "[[Estée Lauder Inc.|Aramis]] man".
+
+He made a number of guest appearances in episodic television in the late 1970s and early 1980s, including spots on ''[[Laverne and Shirley]]'', ''[[B.J. and the Bear]]'', ''[[Family (1976 TV series)|Family]]'', ''[[Benson (TV series)|Benson]]'', ''[[Taxi (TV series)|Taxi]]'', ''[[Magnum P.I.]]'', ''[[The_Amazing_Spider-Man_(TV_series)|The Amazing Spider-Man]]'', and ''[[Tucker's Witch]]''.
+
+==== Career breakthrough: ''Cheers'' ====
+[[File:Ted Danson.jpg|thumb|Danson at the 42nd Emmy Awards, September 1990]]
+In 1982 Danson was cast in his most recognizable role as the womanizing former baseball player and bartender [[Sam Malone]] on the [[NBC]] sitcom ''[[Cheers]]'', wherein he has an [[Sam and Diane|on-and-off relationship]] with college-educated, sophisticated [[Diane Chambers]]. Though the show finished last in the ratings in the first season, it was well received by critics. Ratings slowly but surely improved in 1983 and by 1986 ''Cheers'' was one of the top ten shows on TV. The show had a run of 11 seasons and [[Cheers finale|its finale]] (May 20, 1993) was watched by 80 million people, becoming the [[List of most watched television broadcasts#Most watched series finales|second most watched finale]] in television history at that time. It won four Emmy Awards for Outstanding Comedy Series and a Golden Globe for Best Series – Musical or Comedy. The show ran from 1982 to 1993, with Danson receiving 11 consecutive Emmy nominations and nine Golden Globe nominations, ultimately winning two Emmys and two Golden Globes. In 2002, ''[[TV Guide]]'' named ''[[Cheers]]'' the 18th Greatest Show of All Time. It was also included in ''Time'' Magazine's 100 Greatest Shows of All Time.
+
+Danson also appeared as [[Sam Malone]] in guest-starring roles on other sitcoms, such as ''[[Frasier]]'' (a ''Cheers'' spin-off), ''[[The Jim Henson Hour]]'' and ''[[The Simpsons]]''.
+
+==== Later career ====
+Although he was best known for his work in comedy, he also appeared in an acclaimed drama, ''[[Something About Amelia]]'', about a family devastated by the repercussions of [[incest]], which co-starred his later co-star on ''[[Damages (TV Series)|Damages]]'', [[Glenn Close]]. He won a Golden Globe Award for Best Actor in a Miniseries or Television Movie and was nominated for an Emmy Award. In 1996, three years after ''Cheers'' concluded, Danson starred in the short-lived [[CBS]] sitcom ''[[Ink (TV series)|Ink]]'' with his real-life wife [[Mary Steenburgen]]. In the same year, they starred as [[Lemuel Gulliver]] and his wife in an acclaimed television miniseries of ''[[Gulliver's Travels (miniseries)|Gulliver's Travels]]''.
+
+Danson went on to star in the successful CBS sitcom ''[[Becker (TV series)|Becker]]'' (produced by [[Paramount Television]], which also produced ''Cheers''), which ran from 1998 to 2004. Danson also plays a fictionalized version of himself on ''[[Curb Your Enthusiasm]]''. He reprised his role of Sam Malone in a second-season episode of ''[[Frasier]]'' and voiced him in ''[[The Simpsons]]'' episode "[[Fear of Flying (The Simpsons)|Fear of Flying]]".
+
+In 1999 Danson was presented with a star on [[Hollywood's Walk of Fame]].
+
+Danson returned to series television in the fall of 2006, playing a psychiatrist in the [[American Broadcasting Company|ABC]] sitcom ''[[Help Me Help You (TV series)|Help Me Help You]]'', which was canceled at midseason due to low [[Nielsen ratings|ratings]].
+
+In 2006 Danson received a nomination for a [[Screen Actors Guild Award]] for Outstanding Performance by a Male Actor in a TV Movie or Miniseries for his role in ''[[Knights of the South Bronx]]''.
+
+In 2007 Danson starred in the FX Network drama ''[[Damages (TV series)|Damages]]'' as a corrupt billionaire, Arthur Frobisher. The role earned him an Emmy nomination for Outstanding Supporting Actor in a Drama Series but he lost to co-star [[Željko Ivanek]]. In the second season Danson became a recurring character instead of one of the principal cast. Nevertheless, Danson received an Emmy nomination for Outstanding Guest Actor in a Drama Series but lost to [[Michael J. Fox]] for his guest appearance in ''[[Rescue Me (U.S. TV series)|Rescue Me]]''.
+
+In 2011 Danson appeared in the music video for "[[Make Some Noise (Beastie Boys song)|Make Some Noise]]" by the [[Beastie Boys]]. He is also mentioned in the song's lyrics.
+
+Danson starred in the HBO sitcom ''[[Bored to Death]]'' as George Christopher, the laconic, salubrious and sometime downright infantile editor of ''Edition'' magazine. Critics often praised Danson as being the highlight of the program, calling his character a "scene stealer".&lt;ref&gt;{{cite news |title=TV Weekend: Private Eye-rony; Also, Curb's Return |first=James |last=Poniewozik |authorlink=James Poniewozik |url=http://tunedin.blogs.time.com/2009/09/18/tv-weekend-private-eye-rony-also-curbs-return/ |work=[[Time (magazine)|TIME]] |date=September 18, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=Franklin |first=Nancy |url=http://www.newyorker.com/arts/critics/television/2009/09/28/090928crte_television_franklin |title=HBO's Bored to Death review |journal=[[The New Yorker]] |date=August 1, 2011 |accessdate=February 15, 2012}}&lt;/ref&gt;
+
+In July 2011 it was announced that Danson would star in the CBS police drama ''[[CSI: Crime Scene Investigation]]''. He played [[D.B. Russell]], a new graveyard shift supervisor who previously headed a crime lab in [[Seattle, Washington]]. [[Tony Shalhoub]], [[Robin Williams]] and [[John Lithgow]] were also considered for the role.&lt;ref name="Rice0712"&gt;{{cite journal |last1=Rice |first1=Lynette |last2=Hibberd |first2=James |title=Breaking: Ted Danson takes over 'CSI' |journal=Entertainment Weekly |date=July 12, 2011 |url=http://insidetv.ew.com/2011/07/12/csi-ted-danson/ |accessdate=July 13, 2011 |archiveurl=https://www.webcitation.org/609FBaIjN?url=http%3A%2F%2Finsidetv.ew.com%2F2011%2F07%2F12%2Fcsi-ted-danson%2F |archivedate=July 13, 2011 |deadurl=yes |df=mdy }}&lt;/ref&gt;&lt;ref name="McEvoy0713"&gt;{{cite news|last=McEvoy |first=Colin |title=Ted Danson to join the cast of 'CSI: Crime Scene Investigation' |newspaper=[[The Express-Times]] |date=July 13, 2011 |url=http://www.lehighvalleylive.com/tv/index.ssf/2011/07/ted_danson_to_join_the_cast_of.html |accessdate=July 13, 2011 |archiveurl=https://www.webcitation.org/609F3sPwD?url=http%3A%2F%2Fwww.lehighvalleylive.com%2Ftv%2Findex.ssf%2F2011%2F07%2Fted_danson_to_join_the_cast_of.html |archivedate=July 13, 2011 |deadurl=yes |df=mdy }}&lt;/ref&gt;&lt;ref name="Variety0712"&gt;{{cite journal |title=Ted Danson moves to 'CSI' |journal=[[Variety (magazine)|Variety]] |date=July 12, 2011 |url=http://www.variety.com/article/VR1118039806 |accessdate=July 13, 2011 |archiveurl=https://www.webcitation.org/609F7fjgc?url=http%3A%2F%2Fwww.variety.com%2Farticle%2FVR1118039806 |archivedate=July 13, 2011 |deadurl=yes |df=mdy }}&lt;/ref&gt;
+
+In March 2013 it was confirmed that Danson had signed a deal extending his stay on ''CSI'' for two more years.&lt;ref name="CSI Extended Stay"&gt;{{cite web |url=http://www.csifiles.com/content/2013/03/cbs-renews-csi-for-season-14/ |title=CBS Renews 'CSI' For Season 14 |work=CSI Files |accessdate=March 20, 2013}}&lt;/ref&gt;
+
+Following the cancellation of ''[[CSI: Crime Scene Investigation]]'', it was announced that his character [[D.B. Russell]] would make a move over to the third spinoff show ''[[CSI: Cyber]]'' in the second season. The show was cancelled after two seasons.&lt;ref&gt;{{cite web |url=http://www.csifiles.com/content/2015/05/petersen-helgenberger-return-for-2-hour-csi-finale-danson-joins-csicyber/ |title=Petersen &amp; Helgenberger Return For 2-Hour 'CSI' Finale, Danson Joins 'CSI:Cyber' |work=CSI Files |accessdate=June 9, 2016}}&lt;/ref&gt;
+
+In 2015 Danson appeared in the second season of the TV show loosely based on the film of the same name, ''[[Fargo (TV series)|Fargo]]''. He portrays sheriff Hank Larsson.&lt;ref name="Andrea Morabito"&gt;{{cite news |url=https://nypost.com/2015/12/14/fargo-ends-season-of-bloodshed-with-a-quieter-finale/ |title='Fargo' ends season of bloodshed with a quieter finale |first=Andrea |last=Morabito |date=December 14, 2015 |newspaper=[[New York Post]] |accessdate=December 17, 2015}}&lt;/ref&gt; Since September 2016 Danson has appeared opposite [[Kristen Bell]] and [[Jameela Jamil]] in the NBC sitcom ''[[The Good Place]]''.&lt;ref&gt;{{cite journal |url=https://variety.com/2016/tv/news/michael-schur-good-place-kristen-bell-ted-danson-1201680566/ |title=Michael Schur Talks 'The Good Place,' New Kristen Bell-Ted Danson Comedy |first=Maureen |last=Ryan |date=January 15, 2016 |journal=Variety |accessdate=June 9, 2016}}&lt;/ref&gt;
+
+=== Film ===
+Danson has also been featured in numerous films. His most notable film appearances were in ''[[Three Men and a Baby]]'' with [[Tom Selleck]] and [[Steve Guttenberg]], its sequel ''[[Three Men and a Little Lady]]'' and ''[[Cousins (film)|Cousins]]'' with [[Isabella Rossellini]]. He also appeared in ''[[The Onion Field (film)|The Onion Field]]'' (his first film, as the bagpipe playing Officer Ian Campbell), ''[[Creepshow]]'', ''[[Body Heat]]'', ''[[Little Treasure]]'', ''[[Just Between Friends]]'', ''[[A Fine Mess (film)|A Fine Mess]]'', ''[[Dad (film)|Dad]]'', ''[[Made in America (1993 film)|Made in America]]'', ''[[Getting Even with Dad]]'' and ''[[Saving Private Ryan]]''.
+
+== Personal life ==
+[[File:TedDansonMarySteenburgenDec09.jpg|thumb|right|Danson with wife Mary Steenburgen in December 2009]]
+Danson and his first wife, actress Randall "Randy" Gosch (now professionally known as Randy Danson), were married in 1970 and divorced in 1975. Danson's second wife was producer Cassandra "Casey" Coates; they were married in 1977. On December 24, 1979, while giving birth to their first daughter Kate, Coates suffered a stroke, and Danson spent several years caring for her and helping her recuperate. They later adopted a second daughter, Alexis. Danson's affair with actress [[Whoopi Goldberg]] led to their divorce in 1993.&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=ka9YAAAAIBAJ&amp;sjid=g-oDAAAAIBAJ&amp;dq=whoopi%20goldberg%20ted%20danson%20casey&amp;pg=6508%2C962890 |title=Ted, Whoopi rumored to have split |newspaper=[[The Register-Guard]] |location=[[Eugene, Oregon]] |page=2A |date=November 6, 1993}}&lt;/ref&gt; It was one of Hollywood's costliest divorces, reportedly costing Danson $30 million.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/news/newstopics/celebritynews/5153802/Mel-Gibson-to-top-list-of-biggest-celebrity-divorce-payouts.html |title=Mel Gibson to top the list of biggest celebrity payouts |location=London |first=Anita |last=Singh |newspaper=[[The Daily Telegraph]] |date=April 14, 2009 |accessdate=July 10, 2010}}&lt;/ref&gt;
+
+On October 7, 1995, Danson married actress [[Mary Steenburgen]], whom he met on the set of the movie ''[[Pontiac Moon]]'' in 1993, and became the stepfather to Steenburgen's children, Lilly and [[Charlie McDowell|Charlie]], from her previous marriage to actor [[Malcolm McDowell]].
+
+Danson has been a [[vegan]] multiple times.&lt;ref&gt;{{cite web |last=Runkle |first=Nathan |url=http://www.mfablog.org/2012/02/cheers-to-ted-danson-for-going-vegan.html |title="Cheers" to Ted Danson for Going Vegan |work=Mercy For Animals |date=5 February 2012 |archiveurl=https://www.webcitation.org/686fEvZgW?url=http://www.mfablog.org/2012/02/cheers-to-ted-danson-for-going-vegan.html |archivedate=June 1, 2012 |dead-url=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.latenightwithjimmyfallon.com/blogs/2009/03/tonights-guest-ted-danson/ |title=Tonights Guest Ted Danson |work=Late Night with Jimmy Fallon |date=March 27, 2007 |accessdate=July 10, 2010}}&lt;/ref&gt; He currently adheres to a [[pescetarian]] diet. Danson suffers from [[Poland syndrome]].&lt;ref&gt;{{cite journal |url=https://books.google.co.uk/books?id=yAQEAAAAMBAJ&amp;pg=PA36&amp;lpg=PA36#v=onepage&amp;q&amp;f=false |title=Cheers to Becker |first=Jill |last=Daniel |journal=[[Orange Coast (magazine)|Orange Coast]] |publisher=[[Emmis Communications]] |date=May 2000 |page=36 |ISSN=0279-0483 |accessdate=June 9, 2016 |via=Google Books}}&lt;/ref&gt;
+
+=== Relationship with Whoopi Goldberg ===
+While a guest on ''[[The Arsenio Hall Show]]'' in late 1988, he met actress [[Whoopi Goldberg]], whom he described as "a sexy, funny woman".&lt;ref&gt;{{cite news |url=http://articles.chicagotribune.com/1993-05-23/features/9305230087_1_ted-danson-whoopi-goldberg-black |title=Sparks Fly As Whoopi (and Ted) Talk About Family, Race, Comedy |newspaper=[[Chicago Tribune]] |date=May 23, 1993 |first=Jeff |last=Hayward |accessdate=June 9, 2016}}&lt;/ref&gt; The two became friends, co-hosting ''Help Save Planet Earth'' in 1990, a video guide to saving the environment (Danson played himself, Goldberg played the role of [[Mother goddess|Mother Earth]]).&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=v6RmLuu7fwo |title=Help Save Planet Earth [x264] [VHS] [1990] |author=Occult Demon Cassette |date=January 14, 2016 |accessdate=June 9, 2016 |via=YouTube}}&lt;/ref&gt; However while making ''Made in America'' in April 1992, the two became romantically involved—a pairing which was heavily featured in gossip tabloids such as the ''[[National Enquirer]]''. The couple also appeared on the [[Rock the Vote]] TV special that same year,&lt;ref&gt;{{cite web |url=https://www.paleycenter.org/collection/item/?q=rebecca&amp;p=5&amp;item=T:29341 |title=Rock The Vote (TV) |work=The Paley Center for Media |accessdate=June 9, 2016}}&lt;/ref&gt; as well as being set to star in a [[Paramount Pictures|Paramount]]-produced version of [[Neal Barrett Jr.]]'s ''Pink Vodka Blues'',&lt;ref&gt;{{cite journal |url=https://variety.com/1993/voices/columns/nicholson-gets-big-offer-for-little-job-1117862146/ |title=Nicholson gets big offer for little job |first=Army |last=Archerd |date=March 17, 1993 |journal=Variety |accessdate=June 9, 2016}}&lt;/ref&gt; written by [[Marshall Brickman]].
+
+Danson experienced substantial negative press attention on October 8, 1993, after his appearance in [[blackface]] at a [[New York Friars Club|Friars Club]] [[roast (comedy)|comedy roast]] in honor of Goldberg. In his monologue, Danson made extensive use of offensive racial stereotypes, used the word "[[nigger]]" more than a dozen times, and [[watermelon stereotype|ate a watermelon]], angering such guests as [[Montel Williams]] and [[Mayor of New York City|Mayor]] [[David Dinkins]].&lt;ref name="jet"&gt;{{cite journal |date=October 25, 1993 |title=Whoopi Goldberg Defends Ted Danson's Blackface Act At Friars Club Roast |journal=[[Jet (magazine)|Jet]] |volume=84 |number=26 |pages=12–14, 60–61}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.nytimes.com/1993/10/10/nyregion/racial-jokes-spur-apology-from-friars.html |title=Racial Jokes Spur Apology from Friars |first=Ian |last=Fisher |newspaper=New York Times |date=October 10, 1993}}&lt;/ref&gt; Goldberg defended the sketch, explaining that she had helped write much of the material and referred Danson to the makeup artist who painted his face.&lt;ref name="jet2"&gt;{{cite journal |url=https://books.google.com/books?id=qOgCAAAAMBAJ&amp;pg=PA43 |title=Whoopi, Frankly |first=Nancy Jo |last=Sales |journal=[[New York (magazine)|New York]] |page=43 |date=February 17, 1997 |ISSN=0028-7369 |accessdate=February 15, 2012 |via=Google Books}}&lt;/ref&gt; Danson and Goldberg issued statements emphasizing "the Friars Club tradition of raucous and over the top humor" and describing those offended as newcomers who "were uncomfortable with what to expect".&lt;ref name="jet"/&gt; Substantial excerpts from the performance were later printed in ''[[Spy (magazine)|Spy]]''.&lt;ref&gt;{{cite journal |last=Theroux |first=Louis |authorlink=Louis Theroux |date=February 1994 |title=The Fine Print: Danson in the Dark |journal=[[Spy (magazine)|Spy]] |pages=21–26}}&lt;/ref&gt; On November 5, 1993, Danson and Goldberg issued a statement signalling the end of their relationship.&lt;ref&gt;{{cite journal |url=http://www.people.com/people/archive/article/0,,20106778,00.html |title=Changing Partners |first=Shelley |last=Levitt |date=November 22, 1993 |journal=[[People (magazine)|People]] |accessdate=June 9, 2016}}&lt;/ref&gt;
+
+=== Environmentalism ===
+Danson's interest in environmental concerns was ignited when he was twelve years old and Bill Breed, then [[curator]] of geology at the [[Museum of Northern Arizona]], introduced Danson and friend Marc Gaede to a game he referred to as "billboarding". Armed with an axe and saw, Breed, Gaede, and Danson ended up destroying over 300 outdoor advertising signs.&lt;ref&gt;{{cite book |last=Chase |first=Alston |title=In A Dark Wood |publisher=[[Houghton Mifflin]] |year=1995 |pages=xvii |isbn=0-395-60837-6}}&lt;/ref&gt;
+
+Danson's interest in [[environmentalism]] continued over the years, and he began to be concerned with the state of the world's oceans. In the 1980s, he was a contributing founder of the ''American Oceans Campaigns'', which merged with [[Oceana (non-profit group)|Oceana]] in 2001, where Danson is a board member.&lt;ref&gt;{{cite journal |url=https://www.thefreelibrary.com/Ted+Danson%3a+acting+for+the+oceans.-a020417682 |title=Ted Danson: acting for the oceans |journal=[[E–The Environmental Magazine]] |first=Campbell |last=Wood |date=January 1, 1998 |via=thefreelibrary}}&lt;/ref&gt;
+
+In March 2011, Danson published his first book, ''Oceana: Our Endangered Oceans And What We Can Do To Save Them'', written with journalist Michael D'Orso.&lt;ref&gt;{{cite news|last1=Kellogg|first1=Carolyn|title=Ted Danson dives into 'Oceana'|url=http://articles.latimes.com/2011/apr/26/entertainment/la-et-ted-danson-20110426 |accessdate=3 December 2015 |newspaper=Los Angeles Times |date=April 26, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Oceana: Our Endangered Oceans and What We Can Do to Save Them|url=http://www.goodreads.com/book/show/10228546-oceana |website=Good Reads |accessdate=3 December 2015}}&lt;/ref&gt;
+
+=== Political activism ===
+Danson is a friend of former United States President [[Bill Clinton]], who attended Danson and Mary Steenburgen's wedding. Danson has donated more than $85,000 to [[Democratic Party (United States)|Democratic]] candidates, including [[Al Gore]], [[John Edwards]], [[Barbara Boxer]], [[Bill Clinton]], [[Al Franken]], and [[John Kerry]]. He has also donated to the [[Democratic Party of Arkansas]] and the [[Democratic Senatorial Campaign Committee]]. Danson and Steenburgen campaigned for Sen. [[Hillary Clinton]] during her [[Hillary Clinton presidential campaign, 2008|2008 Presidential campaign]].&lt;ref&gt;{{cite news |url=http://voices.washingtonpost.com/44/2008/02/danson-to-hit-the-road-for-cli.html |title=Danson to Hit the Road for Clinton Again |first=Juliet |last=Eilperin |newspaper=The Washington Post |date=February 15, 2008 |accessdate=July 10, 2010}}&lt;/ref&gt; He attended the wedding of their daughter [[Chelsea Clinton|Chelsea]] on July 31, 2010.&lt;ref&gt;{{cite journal |url=http://www.people.com/people/article/0,,20406677,00.html |title=Chelsea Clinton Marries Marc Mezvinsky |first=Ramin |last=Setoodeh |journal=[[People (magazine)|People]] |date=July 31, 2010 |accessdate=August 1, 2010}}&lt;/ref&gt; He appeared with Steenburgen at the [[2016 Democratic National Convention]]. On October 3, 2016, he helped open the new headquarters in Lancaster at the old Queen Pharmacy on King Street for [[Hillary Clinton]].&lt;ref&gt;{{cite web |url=http://lancasteronline.com/news/local/ted-danson-opens-hillary-clinton-campaign-office-in-lancaster/article_5b22a38e-89cf-11e6-885e-7781bd1a0a18.html |title=Ted Danson opens Hillary Clinton campaign office in Lancaster |first=Tim |last=Stuhldreher |work=[[Lancaster Online]] |accessdate=January 22, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.wgal.com/news/clinton-in-pennsylvania-tuesday-surrogate-ted-danson-monday/41931532 |title=Actor Ted Danson opening Lancaster campaign office for Clinton |date=October 3, 2016 |work=[[WGAL]] News |accessdate=January 22, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.eveningsun.com/story/news/2016/10/02/actor-ted-danson-stump-clinton-lancaster/91450494/ |title=Actor Ted Danson to stump for Clinton in Lancaster |first=Anthony J. |last=Machcinski |date=October 2, 2016 |newspaper=Hanover Evening Sun |accessdate=January 22, 2017}}&lt;/ref&gt;
+
+== Filmography ==
+
+=== Film ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+| 1979 || ''[[The Onion Field (film)|The Onion Field]]'' || Det. Ian James Campbell || 
+|-
+| 1981 || ''[[Body Heat]]'' || Peter Lowenstein || 
+|-
+| 1982 || ''[[Creepshow]]'' || Harry Wentworth || 
+|-
+| 1985 || ''[[Little Treasure]]'' || Eugene Wilson || 
+|-
+|rowspan="2"|1986 || ''[[Just Between Friends]]'' || Chip Davis || 
+|-
+| ''[[A Fine Mess (film)|A Fine Mess]]'' || Spence Holden || 
+|-
+| 1987 || ''[[Three Men and a Baby]]'' || Jack Holden || 
+|-
+| 1988 || ''[[She's Having a Baby]]'' || Himself || [[Cameo appearance|Uncredited cameo]]
+|-
+|rowspan="2"|1989 || ''[[Cousins (1989 film)|Cousins]]'' || Larry || 
+|-
+| ''[[Dad (film)|Dad]]'' || John Tremont || 
+|-
+| 1990 || ''[[Three Men and a Little Lady]]'' || Jack Holden || 
+|-
+| 1993 || ''[[Made in America (1993 film)|Made in America]]'' || Hal Jackson || 
+|-
+|rowspan="2"|1994 || ''[[Getting Even with Dad]]'' || Raymond Gleason || 
+|-
+| ''[[Pontiac Moon]]'' || Washington Bellamy || 
+|-
+| 1996 || ''[[Loch Ness (film)|Loch Ness]]'' || Dempsey || 
+|-
+| 1998 || ''[[Jerry and Tom]]'' || Guy || 
+|-
+|rowspan="2"|1998 || ''[[Homegrown (film)|Homegrown]]'' || Gianni Saletzzo || 
+|-
+| ''[[Saving Private Ryan]]'' || Capt. Fred Hamill || 
+|-
+| 1999 || ''[[Mumford (film)|Mumford]]'' || Jeremy Brockett || 
+|-
+| 2004 || ''Fronterz'' || {{n/a}} || 
+|-
+| 2005 || ''[[Knights of the South Bronx]]'' || Mr. Richard Mason || 
+|-
+|rowspan="2"|2007 || ''[[Nobel Son]]'' || Harvey Parrish || 
+|-
+| ''[[The Amateurs]]'' || Moose || 
+|-
+|rowspan="2"|2008 || ''[[Mad Money (film)|Mad Money]]'' || Don Cardigan || 
+|-
+| ''[[The Human Contract]]'' || E.J. Winters || 
+|-
+| 2009 || ''[[The Open Road]]'' || Coach || 
+|-
+| 2011 || ''[[Jock the Hero Dog]]'' || Pezulu || [[Voice acting|Voice]]
+|-
+|rowspan="2"|2012 || ''[[Big Miracle]]'' || J.W. McGrath || 
+|-
+| ''[[Ted (film)|Ted]]'' || Himself || Uncredited
+|-
+| 2014 || ''[[The One I Love (film)|The One I Love]]'' || Therapist ||
+|-
+| 2018 || ''[[Hearts Beat Loud]]'' || Dave || 
+|-
+|}
+
+=== Television ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable"| Notes
+|-
+| 1975–1976 || ''[[Somerset (TV series)|Somerset]]'' || Tom Conway #2 || Unknown episodes
+|-
+| 1977–1982 || ''[[The Doctors (1963 TV series)|The Doctors]]'' || Dr. Mitchell Pearson || [[Soap opera]]
+|-
+|rowspan="5"|1979 || ''[[The Amazing Spider-Man (TV series)|The Amazing Spider-Man]]'' || Major Collings || 2 episodes
+|-
+| ''[[Mrs. Columbo (TV series)|Mrs. Columbo]]'' || Richard Dellinger || Episode: "Ladies of the Afternoon"
+|-
+| ''[[Trapper John, M.D.]]'' || Injured Man || Episode: "Love Is a Three-Way Street"
+|-
+| ''[[B. J. and the Bear]]'' || Tom Spencer || Episode: "Silent Night, Unholy Night"
+|-
+| ''[[The French Atlantic Affair]]'' || Assistant || [[Television film]]
+|-
+|rowspan="4"|1980 || ''[[The Women's Room (film)|The Women's Room]]'' || Norman || Television film
+|-
+| ''Once Upon a Spy'' || Jack Chenault || Television film
+|-
+| ''[[Laverne &amp; Shirley]]'' || Randy Carpenter || Episode: "Why Did the Fireman..."
+|-
+| ''[[Family (1976 TV series)|Family]]'' || David Bartels || Episode: "Daylight Serenade"
+|-
+|rowspan="4"|1981 || ''[[Benson (TV series)|Benson]]'' || Dan || 2 episodes
+|-
+| ''[[Magnum, P.I.]]'' || Stewart Crane || Episode: "Don't Say Goodbye"
+|-
+| ''Dear Teacher'' || Steve Goodwin || Television film
+|-
+| ''Our Family Business'' || Gep || Television film
+|-
+|rowspan="2"|1982 || ''[[Taxi (TV series)|Taxi]]'' || Vincenzo Senaca || Episode: "The Unkindest Cut"
+|-
+| ''[[Tucker's Witch]]'' || Danny Kirkwood || Episode: "The Good Witch of Laurel Canyon"
+|-
+| 1982–1993 || ''[[Cheers]]'' || Sam Malone || 275 episodes
+|-
+|rowspan="2"|1983 || ''Allison Sydney Harrison'' || David Harrison || Television film
+|-
+| ''Cowboy'' || Dale Weeks || Television film
+|-
+| 1984 || ''[[Something About Amelia]]'' || Steven Bennett || Television film
+|-
+| 1986 || ''[[When the Bough Breaks (1986 film)|When the Bough Breaks]]'' || [[Alex Delaware]] || Television film
+|-
+| 1987 || ''We Are the Children'' || {{n/a}} || Television film
+|-
+|rowspan="2"|1989 || ''[[Saturday Night Live]]'' || Himself (host) || Episode: "Ted Danson/[[Luther Vandross]]"
+|-
+| ''[[The Jim Henson Hour]]'' || Himself || Episode: "Aquatic Life"
+|-
+| 1994 || ''[[The Simpsons]]'' || Sam Malone (voice) || Episode: "[[Fear of Flying (The Simpsons)|Fear of Flying]]"
+|-
+| 1995 || ''[[Frasier]]'' || Sam Malone || Episode: "[[The Show Where Sam Shows Up]]"
+|-
+| 1996–1997 || ''[[Ink (TV series)|Ink]]'' || Mike Logan || 22 episodes
+|-
+| 1996 || ''[[Gulliver's Travels (miniseries)|Gulliver's Travels]]'' || Lemuel Gulliver || 2 episodes
+|-
+| 1997 || ''[[Pearl (TV series)|Pearl]]'' || Sal || Episode: "The Write Stuff: Part 2"
+|-
+| 1998–2004 || ''[[Becker (TV series)|Becker]]'' || Dr. John Becker || 129 episodes
+|-
+|rowspan="2"|1998 || ''[[Thanks of a Grateful Nation]]'' || Jim Tuite || Television film
+|-
+| ''[[Veronica's Closet]]'' || Nick Vanover || Episode: "Veronica's $600,000 Pop"
+|-
+| 2000–2017 || ''[[Curb Your Enthusiasm]]'' || Ted Danson || 19 episodes
+|-
+|rowspan="2"|2000 || ''Search for Atlantis'' || Himself || Television film
+|-
+| ''[[Grosse Pointe (TV series)|Grosse Pointe]]'' || Jack the Dog (voice) || Episode: "Sleeping with the Enemy"
+|-
+| 2002 || ''[[Living with the Dead (film)|Living with the Dead]]'' || James Van Praagh || Television film
+|-
+| 2003 || ''[[Gary the Rat]]'' || Terry McMillian (voice) || Episode: "Mergers and Acquisions"
+|-
+| 2004 || ''It Must Be Love'' || George Gazelle || Television film
+|-
+|rowspan="2"|2005 || ''[[Our Fathers (film)|Our Fathers]]'' || Mitchell Garabedian || Television film
+|-
+| ''[[Knights of the South Bronx]]'' || Richard || Television film
+|-
+| 2006 || ''[[Heist (TV series)|Heist]]'' || Tom || 2 episodes
+|-
+| 2006–2007 || ''[[Help Me Help You (TV series)|Help Me Help You]]'' || Dr. Bill Hoffman || 14 episodes
+|-
+| 2007–2010 || ''[[Damages (TV series)|Damages]]'' || Arthur Frobisher || 23 episodes
+|-
+| 2008 || ''[[King of the Hill]]'' || Tom Hammond (voice) || Episode: "[[King of the Hill (season 12)#ep226|The Accidental Terrorist]]"
+|-
+| 2009–2011 || ''[[Bored to Death]]'' || George Christopher || 24 episodes
+|-
+| 2010 || ''[[Tim and Eric Awesome Show, Great Job!]]'' || Little Danson Man || Episode: "Greene Machine"
+|-
+| 2011–2015 || ''[[CSI: Crime Scene Investigation]]'' || rowspan="2"| Director [[D.B. Russell]] || 86 episodes
+|-
+| 2013 || ''[[CSI: NY]]'' || Episode: "Seth and Apep"
+|-
+|rowspan="2"|2015 || ''[[American Dad!]]'' || Dr. Ray Petit (voice) || Episode: "[[American Dad! (season 12)#ep187|The Shrink]]"
+|-
+| ''[[Fargo (TV series)|Fargo]]'' || Sheriff Hank Larsson || 10 episodes
+|-
+| 2015–2016 || ''[[CSI: Cyber]]'' || Director D.B. Russell || 16 episodes
+|-
+| 2016–present || ''[[The Good Place]]'' || Michael || Main role
+|-
+| 2017 || ''[[Finding Your Roots]]'' || Himself || Episode: "Puritans and Pioneers"
+|}
+
+== Awards and nominations ==
+{| class="wikitable sortable"
+|-
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+|-
+| 1983
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| rowspan="3"| ''[[Cheers]]''
+| {{nom}}
+|-
+| rowspan="3"| 1984
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| rowspan="2"| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie|Outstanding Lead Actor in a Miniseries or a Movie]]
+| rowspan="2"| ''[[Something About Amelia]]''
+| {{nom}}
+|-
+| rowspan="4"| 1985
+| rowspan="2"| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Miniseries or Television Film|Best Actor – Miniseries or Television Film]]
+| {{won}}
+|-
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| rowspan="13"| ''[[Cheers]]''
+| {{nom}}
+|-
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| 1986
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan="2"| 1987
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan="2"| 1988
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan="4"| 1989
+| [[American Comedy Awards]]
+| [[American Comedy Awards|Funniest Male Performer in a Television Series]]
+| {{nom}}
+|-
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan="6"| 1990
+| rowspan="2"| [[American Comedy Awards]]
+| [[American Comedy Awards|Funniest Male Performer in a Television Series]]
+| {{nom}}
+|-
+| [[American Comedy Awards|Funniest Supporting Actor in a Motion Picture]]
+| ''[[Dad (film)|Dad]]''
+| {{nom}}
+|-
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| rowspan="15"| ''[[Cheers]]''
+| {{won}}
+|-
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{won}}
+|-
+| [[Viewers for Quality Television]]
+| [[Viewers for Quality Television|Best Actor in a Quality Comedy Series]]
+| {{nom}}
+|-
+| rowspan="5"| 1991
+| [[American Comedy Awards]]
+| [[American Comedy Awards|Funniest Male Performer in a Television Series]]
+| {{won}}
+|-
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{won}}
+|-
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| [[Viewers for Quality Television]]
+| [[Viewers for Quality Television|Best Actor in a Quality Comedy Series]]
+| {{nom}}
+|-
+| rowspan="3"| 1992
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan="3"| 1993
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| [[People's Choice Awards]]
+| [[People's Choice Awards|Favorite Male TV Performer]]
+| {{nom}}
+|-
+| [[45th Primetime Emmy Awards|Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{won}}
+|-
+| 1997
+| rowspan="2"| [[Satellite Awards]]
+| [[Satellite Award for Best Actor – Miniseries or Television Film]]
+| ''[[Gulliver's Travels (TV miniseries)|Gulliver's Travels]]''
+| {{nom}}
+|-
+| 2000
+| [[Satellite Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| rowspan="2"| ''[[Becker (TV series)|Becker]]''
+| {{nom}}
+|-
+| 2001
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| 2003
+| rowspan="3"| [[Satellite Awards]]
+| [[Satellite Award for Best Actor – Miniseries or Television Film|Best Actor – Miniseries or Television Film]]
+| ''[[Living with the Dead (film)|Living with the Dead]]''
+| {{nom}}
+|-
+| 2005
+| [[Satellite Award for Best Actor – Miniseries or Television Film|Best Actor – Miniseries or Television Film]]
+| ''[[Our Fathers (film)|Our Fathers]]''
+| {{nom}}
+|-
+| rowspan="2"| 2006
+| [[Satellite Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| ''[[Help Me Help You (TV series)|Help Me Help You]]''
+| {{nom}}
+|-
+| [[Screen Actors Guild Awards]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Miniseries or Television Movie|Outstanding Performance by a Male Actor in a Miniseries or Television Movie]]
+| ''[[Knights of the South Bronx]]''
+| {{nom}}
+|-
+| rowspan="2"| 2008
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film|Best Supporting Actor – Series, Miniseries or Television Film]]
+| rowspan="4"| ''[[Damages (TV series)|Damages]]''
+| {{nom}}
+|-
+| rowspan="3"| [[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series|Outstanding Supporting Actor in a Drama Series]]
+| {{nom}}
+|-
+| 2009
+| rowspan="2"| [[Primetime Emmy Award for Outstanding Guest Actor in a Drama Series|Outstanding Guest Actor in a Drama Series]]
+| {{nom}}
+|-
+| 2010
+| {{nom}}
+|-
+| rowspan="4"| 2018
+| [[Critics' Choice Television Awards]]
+| [[Critics' Choice Television Award for Best Actor in a Comedy Series|Best Actor in a Comedy Series]]
+| ''[[The Good Place]]''
+| {{won}}
+|-
+| [[Screen Actors Guild Awards]]
+| [[Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series|Outstanding Performance by an Ensemble in a Comedy Series]]
+| ''[[Curb Your Enthusiasm]]''
+| {{nom}}
+|-
+| [[34th TCA Awards|Television Critics Association]]
+| [[TCA Award for Individual Achievement in Comedy|Individual Achievement in Comedy]]
+| rowspan="2"|''The Good Place''
+| {{pending}}
+|-
+|[[70th Primetime Emmy Awards|Primetime Emmy Awards]]
+|[[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]]
+| {{pending}}
+|}
+
+== References ==
+{{reflist|2}}
+
+== Further reading ==
+* {{cite news |last=Piccalo |first=Gina |title=Ted Danson is hip again |newspaper=[[Los Angeles Times]] |date=October 18, 2009 |url=http://articles.latimes.com/2009/oct/18/entertainment/ca-ted-danson18}}
+* {{cite web |url=https://www.npr.org/templates/story/story.php?storyId=112884242 |first=David |last=Bianculli |title=Ted Danson, On Life (And 'Death') After 'Cheers' |work=[[Fresh Air]] |publisher=[[NPR]] |date=September 17, 2009}}
+
+== External links ==
+{{External links|date=June 2016}}
+{{Commons category|Ted Danson}}
+* {{IMDb name|1101}}
+* [http://lortel.org/Archives/CreditableEntity/20224 Ted Danson] at [[Internet Off-Broadway Database]]
+* {{cite web |url=http://www.cmu.edu/cmnews/extra/031017_tdanson.html |title= Actor Ted Danson Headlines Prestigious Group of Alumni Award Winners |work=Carnegie Mellon University |year=2003}}
+* {{YouTube|WZvCXHL6y10|Video of Danson at Oceana event}}
+* {{cite news |url=https://www.nytimes.com/2010/03/21/arts/television/21danson.html?ref=arts |title=The Humble Egotist |first=Frank |last=Bruni |newspaper=New York Times |date=March 19, 2010}}
+* {{cite web |url=http://www.hitfix.com/comedy/ted-danson-and-zach-galifianakis-broadway-rock-stars |title=Ted Danson and Zach Galifianakis: Broadway Rock Stars? |first=Louis |last=Virtel |work=[[Uproxx]] |date=July 22, 2014}}
+
+{{Navboxes
+|title = Awards for Ted Danson
+|list =
+{{Critics' Choice Television Award for Best Actor in a Comedy Series}}
+{{EmmyAward ComedyLeadActor 1976-2000}}
+{{GoldenGlobeBestActorTVMiniseriesFilm 1981-1999}}
+{{GoldenGlobeBestActorTVComedy 1990-2009}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Danson, Ted}}
+[[Category:1947 births]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:Male actors from California]]
+[[Category:Male actors from San Diego]]
+[[Category:Best Miniseries or Television Movie Actor Golden Globe winners]]
+[[Category:Best Musical or Comedy Actor Golden Globe (television) winners]]
+[[Category:Outstanding Performance by a Lead Actor in a Comedy Series Primetime Emmy Award winners]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:California Democrats]]
+[[Category:Carnegie Mellon University College of Fine Arts alumni]]
+[[Category:The Huffington Post writers and columnists]]
+[[Category:Kent School alumni]]
+[[Category:American people of English descent]]
+[[Category:American people of Scottish descent]]
+[[Category:Living people]]
+[[Category:People from Flagstaff, Arizona]]
+[[Category:People from Chilmark, Massachusetts]]
+[[Category:Stanford University alumni]]</text>
+      <sha1>1orba7c8txxl4xgtswdtviuh39fqlzy</sha1>
+    </revision>
+  </page>
+</mediawiki>

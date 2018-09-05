@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Glenn Wool</title>
+    <ns>0</ns>
+    <id>4947181</id>
+    <revision>
+      <id>834520002</id>
+      <parentid>833577930</parentid>
+      <timestamp>2018-04-06T03:52:09Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1729">{{BLP sources|date=August 2008}}
+
+'''Glenn Wool''' is a [[Canada|Canadian]] stand-up comedian now living in the [[United Kingdom]].&lt;ref&gt;{{cite news  | last = Bunbury | first = Stephanie  | title = Funny: the joke's on us | publisher = theAge.com.au | date = 2006-04-29 | url = http://www.theage.com.au/news/arts/funny-the-jokes-on-us/2006/04/27/1145861485768.html | accessdate = 2008-08-14}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=
+https://www.telegraph.co.uk/culture/6061946/Edinburgh-Festival-2009-Glen-Wool-review.html|title=Telegraph review: Glenn Wool's 'Let Your Hands Go' 2009|work=The Daily Telegraph|accessdate=1 April 2018}}&lt;/ref&gt; His material veers between political and popular culture such as discussing both the pop group [[Franz Ferdinand (band)|Franz Ferdinand]] and the [[Pope]]'s contribution to cryogenics programmes during his time onstage. Wool starred in a self-titled show produced for Channel 4's "comedy lab" season in 2004. In 2012 he appeared in [[British Broadcasting Company|BBC]]'s show [[Russell Howard's Good News]]. In 2013 he appeared in [[Comedy Central UK]]'s "The Alternative Comedy Experience". He is the voice of the titular character from the [[Cartoon Hangover]] miniseries Slug Riot.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.glennwool.com GlennWool's Website]
+*[http://www.myspace.com/glennwool Glenn Wool's official MySpace page]
+*[http://www.suchsmallportions.com/fringe/live-glenn-wool-goodbye-scars.html Live review: Glenn Wool at the Edinburgh 
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wool, Glenn}}
+[[Category:Canadian comedians]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Canadian emigrants to England]]
+
+
+{{Canada-comedian-stub}}</text>
+      <sha1>sjja9p91dxdkv4hxw0hsq2g2zxcykom</sha1>
+    </revision>
+  </page>
+</mediawiki>

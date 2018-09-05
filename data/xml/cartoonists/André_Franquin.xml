@@ -1,0 +1,285 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>André Franquin</title>
+    <ns>0</ns>
+    <id>145628</id>
+    <revision>
+      <id>812512214</id>
+      <parentid>755906066</parentid>
+      <timestamp>2017-11-28T06:46:33Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18669">{{Use dmy dates|date=November 2015}}
+{{Infobox comics creator
+| image         = FranquinCU1.jpg
+| imagesize     =
+| caption       =
+| alt           =
+| birth_name    = {{birth date|1924|01|03|df=yes}}
+| birth_place   = [[Etterbeek]], [[Belgium]]
+| death_date    = {{death date and age|1997|01|05|1924|01|03|df=yes}}
+| death_place   = [[Saint-Laurent-du-Var]], [[France]]
+| nationality   = Belgian
+| write         = y
+| art           = y
+| alias         =
+| notable works = ''[[Spirou et Fantasio]]'' &lt;br/&gt;''[[Gaston (comics)|Gaston]]'' &lt;br/&gt;''[[Idées noires]]''&lt;br&gt;''[[Marsupilami]]''
+| awards        =  [[#Awards|Full list]]
+| website       =
+| nonUS         = y
+| sortkey       = Franquin, Andre
+| subcat        = Belgian
+| signature     = Franquin signature.png
+| signature_alt = Franquin's signature
+}}
+'''André Franquin''' ({{IPA-fr|fʁɑ̃kɛ̃|lang}}; 3 January 1924 &amp;ndash; 5 January 1997) was an influential [[Belgium|Belgian]] [[comics artist]], whose best known creations are ''[[Gaston (comics)|Gaston]]'' and ''[[Marsupilami]]''.  He also produced the ''[[Spirou et Fantasio]]'' comic strip from 1947 to 1969, a period seen by many as the series' golden age.
+
+==Biography==
+
+===Franquin's beginnings===
+Franquin was born in [[Etterbeek]] in 1924.&lt;ref name=Weyer&gt;De Weyer, Geert (2005). "André Franquin". In België gestript, pp. 113-115. Tielt: Lannoo.&lt;/ref&gt; Although he started drawing at an early age, Franquin got his first actual drawing lessons at ''[[École Saint-Luc]]'' in 1943. A year later however, the school was forced to close down because of the [[World War II|war]] and Franquin was then hired by Compagnie Belge d'Animation|CBA, a short-lived animation studio in [[Brussels]]. It is there he met some of his future colleagues: Maurice de Bevere ([[Morris (comics)|Morris]], creator of ''[[Lucky Luke]]''), Pierre Culliford ([[Peyo]], creator of the ''[[Smurfs]]''), and [[Eddy Paape]]. Three of them (minus Peyo) were hired by [[Dupuis]] in 1945, following CBA's demise. Peyo, still too young, would only follow them seven years later. Franquin started drawing covers and cartoons for ''Le Moustique'', a weekly magazine about radio and culture.&lt;ref name =Weyer/&gt; He also worked for ''Plein Jeu'', a monthly scouting magazine.
+
+During this time, Morris and Franquin were coached by Joseph Gillain ([[Jijé]]), who had transformed a section of his house into a work space for the two young comics artists and [[Will (comics)|Will]].  Jijé was then producing many of the comics that were published in the [[Franco-Belgian comics]] magazine ''[[Spirou (magazine)|Spirou]]'', including its flagship series ''[[Spirou et Fantasio]]''. The team he had assembled at the end of the war is often referred to as ''La bande des quatre'' (lit. "The Gang of Four"), and the graphical style they would develop together was later called the [[Marcinelle school]], [[Marcinelle]] being an outskirt of the industrial city of Charleroi south of [[Brussels]] where Spirou's publisher Dupuis was then situated.
+
+Jijé passed the ''Spirou et Fantasio'' strip to Franquin, five pages into the making of ''[[Spirou et Fantasio (comic book)#Stories|Spirou et la maison préfabriquée]]'', and from ''Spirou'' issue #427 released 20 June 1946, the young Franquin held creative responsibility of the series.&lt;ref name="Franquin-Une vie-1946"&gt;{{cite web | last =franquin.com | title =Une vie - 1946 | url =http://www.franquin.com/bio/1946.php|language=French}}&lt;/ref&gt; For the next twenty years, Franquin largely reinvented the strip, creating longer, more elaborate storylines and a large gallery of burlesque characters.
+
+Most notable among these is the [[Marsupilami]], a fictional monkey-like creature.  The inspiration for the Marsupilami's extremely long, [[prehensile]] tail came from imagining an appendage for the busy [[tram]]way conductors the Franquin and his colleagues often encountered on their way to work. This animal has become part of Belgian and French [[popular culture]], and has spawned cartoons, merchandise, and since 1989 a comic book series of its own. The cartoons have broadened its appeal to English-speaking countries.
+
+===Mid period===
+By 1951, Franquin had found his style.  His strip, which appeared every week on the first page of ''Spirou'', was a hit.  Following Jijé's lead in the 1940s, Franquin coached a younger generation of comics artists in the 1950s, notably [[Jean Roba]] and [[Jean De Mesmaeker|Jidéhem]], who both worked with him on ''Spirou et Fantasio.
+
+In 1955, following a contractual dispute with his publisher Dupuis, Franquin went for a short stint at rival ''[[Tintin (magazine)|Tintin]]'' magazine. This led to the creation of ''[[Modeste et Pompon]]'', a gag series which included contributions from [[René Goscinny]] (of ''[[Astérix]]'' fame) and Peyo. Franquin later returned to ''Spirou'', but his contractual commitment to ''Tintin'' meant that he had to contribute to both magazines, an unusual arrangement in the comic industry. The series was later passed on to authors such as [[Dino Attanasio]] and [[Mittéï]] (Jean Mariette).
+
+In 1957, ''Spirou'' chief editor [[Yvan Delporte]] gave Franquin the idea for a new figure, [[Gaston Lagaffe]] (from the French ''la gaffe'', meaning "the blunder"). Initially a joke designed to fill up blank space in the magazine, the weekly strip, detailing the mishaps and madcap ideas and inventions of a terminally idle office boy working at the ''Spirou'' offices, took off and became one of Franquin's best-known creations.
+
+However, Franquin soon suffered a period of [[clinical depression|depression]], which forced him to stop drawing Spirou for a time. This happened between 1961 and 1963, in the middle of ''[[QRN sur Bretzelburg]]''. During this time, he continued to draw ''Gaston'' despite ill health, most likely because of the lighter nature of the series. (In one story, ''[[Panade à Champignac|Bravo Les Brothers]]'', Gaston's antics drive his boss [[Fantasio]] to yet another nervous breakdown. In desperation he takes some [[anti-depressant]]s which "Franquin left behind".)
+
+In 1967, Franquin passed ''Spirou et Fantasio'' on to a younger artist, [[Jean-Claude Fournier]], and began to work full-time on his own creations.
+
+He was part of the team that developed the concept of ''[[Isabelle (comics)|Isabelle]]'', the adventures of a little girl in a world of witches and monsters. The character was named after Franquin's daughter.
+
+''Gaston'' gradually evolved from pure [[slapstick]] humor to feature themes important to Franquin, such as [[pacifism]] and [[environmentalism]]. Franquin also used its characters in paid ad strips he drew, and worked with the strip on and off until his death.
+
+===Franquin's later period===
+The 1960s saw a clear evolution in Franquin's style, which grew more loose and intricate. This graphical evolution would continue throughout the next decade. Soon, Franquin was considered an undisputed master of the art form, on par with the likes of [[Hergé]] and his influence can be seen in the work of nearly every cartoonist hired by ''Spirou'' up until the end of the 1990s. Early comic [[fanzine]]s from around 1970 featured Franquin's ''Monsters'', individual drawings of imaginary beasts highlighting his graphical craftmanship.
+
+The last, and most radical, shift in Franquin's production happened in 1977, when he went through another nervous breakdown and began his ''[[Idées noires|Idées Noires]]'' strip (lit. ''"Dark Thoughts"''), first for the ''Spirou'' supplement, ''Le Trombone Illustré'' (with other cartoonists like [[René Follet]]) and later for ''[[Fluide Glacial]]''.&lt;ref name=Weyer/&gt;  With ''Idées Noires'', Franquin showed the darker, pessimistic side of his nature. In one strip, a pair of flies are seen wandering through a strange landscape, discussing the mistakes of their predecessors. In the final panel, we see the landscape is a city made from human skulls, and one fly responds: "Don't be too hard on them, they did leave us such splendid cities". Drawn entirely in black and white, ''Idées Noires'' is much more adult-oriented than Franquin's other works, focusing on themes such as death, war, pollution and [[capital punishment]] with a devastatingly sarcastic sense of humour.
+
+Proof of his popular and critical appeal, Franquin was awarded the very first [[Grand Prix de la ville d'Angoulême]] in 1974.  Many books by Franquin have been published, many of which are considered classics of the genre.  They have been translated in many languages.  Several books have been written about Franquin, such as [[Numa Sadoul]]'s ''Et Franquin créa la gaffe'', an exhaustive interview with the artist covering his entire career.
+
+Franquin's death in 1997 in [[Saint-Laurent-du-Var]] didn't quite elicit the kind of worldwide posthumous homage [[Hergé]] received. However, 2004 saw the first major museum retrospective of his work, an exhibit called "Le monde de Franquin"', in Paris' [[Cité des Sciences et de l'Industrie]] this exhibition was continued in 2006 in the city where he was born, [[Brussels]], the latter was fully bilingual (French/Dutch). In 2005, a [[Wallonia|Walloon]] survey elected him as the "16th greatest Belgian ever".
+
+==Influence==
+Franquin's style rests in opposite corners of the aesthetic spectrum from Hergé: If the pictures of Tintin’s creator were characterized by the use of [[ligne claire]], flat colors and a certain staticism, Franquin’s  graphic approach progressively evolved towards a multi-color aesthetics, [[chiaroscuro]] and a vigorous sense of movement. Hergé expressed in several occasions his admiration for Franquin’s work: “Compared to him, I’m but a poor draftsman”.
+
+Franquin was a prominent member of the first generation of the “[[Marcinelle School]]” (École de Marcinelle), also formed by Morris and Will, who would be joined during the 50s by the second generation including, among others, Peyo, [[Maurice Tillieux|Tillieux]], and two subsequent generations joining during the 60s and 70-80s. Within this group, Franquin’s influence was uncontested, especially among the authors that continued the series Spirou et Fantasio after he left. Jean-Claude Fournier, [[:fr:Nicolas Broca|Nic Broca]] and especially [[Jean-Richard Geurts|Janry]] (Jean-Richard Geurts) showed in this series graphic styles that tried to mimic with varying degrees of success the features of Franquin’s style.
+
+Other Franco-Belgian authors that show Franquin’s influence were [[Dino Attanasio]] and [[Mittéï]] (Jean Mariette), both responsible for the series ''Modeste et Pompon'' after he left,  [[Jidéhem]] (Jean De Mesmaeker), a usual collaborator of Franquin for Spirou et Fantasio and Gaston Lagaffe, [[Batem]] (Luc Collin), artist of the Marsupilami series, or [[Pierre Seron]], who cloned Franquin’s style in his series ''Les Petits Hommes''.
+
+A most remarkable case is Franquin’s influence in [[Francisco Ibáñez Talavera|Francisco Ibáñez]], possibly the most widely published Spanish author since the 1950s. Starting in the 1970s, Ibáñez made an extensive use of ideas and designs from Franquin’s works, adapting them to his own universe, but also importing many graphic and narrative solutions. Even one of his characters, “El Botones Sacarino”, can be easily identified as a hybrid of Spirou (he is a bellboy) and Gaston Lagaffe (he works in a publishing company and is the source of never ending disasters), whom he resembles physically. Franquin’s shadow is even more obvious in the work of  [[:es:Ramón María Casanyes|Ramón María Casanyes]], a disciple and ghost collaborator of Ibáñez, especially in some of his solo works such as the short-lived “Tito, Homo Sapiens 2000”, where the Franco-Belgian descent is unquestionable.
+
+==Awards==
+* 1974: First [[Grand Prix de la ville d'Angoulême]], [[France]]
+* 1980: [[Adamson Awards|Adamson Award]], [[Sweden]]
+* 1985: Best Long Comic Strip at the [[Haxtur Awards]], [[Spain]], for ''[[QRN sur Bretzelburg]]''
+* 1987: [[Former prizes of the Angoulême International Comics Festival|Grand Prix for the Graphic Arts]] at the [[Angoulême International Comics Festival]]
+* 1996: Special Prize for outstanding life’s work at the [[Max &amp; Moritz Prizes]] in [[Erlangen]], [[Germany]]
+
+==Bibliography==
+===Series===
+{| class="wikitable" id="noveltable" border="1"
+!Series
+!Years
+!Albums
+!Editor
+!Remarks
+|- align="left"
+| ''[[Spirou et Fantasio]]''
+|1946 - 1968{{0}}
+|20
+|[[Dupuis]]{{0}}
+|with [[Jijé]], [[Henri Gillain]], [[Maurice Rosy]], [[Will (comics)|Will]], [[Greg (comics)|Greg]], [[Jidéhem]], [[Jean Roba]]{{0}}
+|-
+|''[[Modeste et Pompon]]''{{0}}
+| 1955–1959
+|3&lt;small&gt;{{Ref label|A|a|none}}&lt;/small&gt;
+|[[Le Lombard|Lombard]]
+| with [[René Goscinny]] and Greg
+|-
+|''[[Gaston Lagaffe]]''
+|1957–1996
+|19&lt;small&gt;{{Ref label|B|b|none}}&lt;/small&gt;
+|Dupuis and Marsu Productions
+|with [[Yvan Delporte]] and Jidéhem
+|-
+|''[[Le Petit Noël]]''
+| 1957–1959
+|1
+|Dupuis
+|4 volumes half-format editions
+|-
+|''[[Idées noires]]''
+|1977–1983
+|2
+| [[Fluide Glacial]]{{0}}
+|with Yvan Delporte and Jean Roba
+|-
+|''[[Isabelle (comics)|Isabelle]]''
+|1978–1986
+|5
+|Dupuis
+|scenarios with Delporte and [[Raymond Macherot|Macherot]], art by Will
+|-
+|''[[Marsupilami]]''
+|1987–1989
+|3&lt;small&gt;{{Ref label|C|c|none}}&lt;/small&gt;
+| [[Marsu Productions]]{{0}}
+|with [[Batem]], Greg and [[Yann le Pennetier|Yann]]
+|-
+|}
+{{Refbegin}}
+*a. &amp;nbsp; {{Note label|A|a|none}}  The original collection. Some collections consist of four albums. The content is largely the same, however, where the gags have been spread out on thinner albums.
+*b. &amp;nbsp; {{Note label|B|b|none}} The Special Edition series, published in chronological order by Dupuis and Marsu Productions in connection with the series' 40 year anniversary.
+*c. &amp;nbsp; {{Note label|C|c|none}} Except for the first three main albums in the series, Franquin was also the creator of No. 0 ''[[Capturez un Marsupilami]]'', a collection of earlier short stories with the character.
+*For ''Spirou et Fantasio'', ''Modeste et Pompon'', ''Isabelle'' and ''Marsupilami'', several new albums were published by other artists after Franquin left the series.
+{{Refend}}
+
+===One-shots===
+*''Cauchemarrant'' (1979, published by Bédérama)
+*''Les robinsons du rail'' (1981, art by Franquin, text by Yvan Delporte; published by L'Atelier)
+*''Les démêlés d'Arnest Ringard et d'Augraphie'' (1981, art by Frédéric Jannin, text by Franquin and Yvan Delporte)
+*''L'Encyclopédie du Marsupilami'' (1991, illustrated faux encyclopedia about Marsupilami)
+*''Arnest Ringard et Augraphie'' (2006, art by Frédéric Jannin, text by Franquin and Yvan Delporte; redrawn and extended version of the above)
+*''Slowburn'' (1982, art by Franquin, text by Gotlib; published by Collectoropolis)
+*''Les Tifous'' (1990, published by Dessis)
+*''Le trombone illustré'' (2005, published by Marsu Productions)
+*''Un monstre par semaine'' (2005, published by Marsu Productions)
+*''Les noëls de Franquin'' (2006, art by Franquin, text by Yvan Delporte; published by Marsu Productions)
+&lt;!-- Previous bibliography information
+*''Spirou et Fantasio''
+**20 volumes in the regular series
+**Several short stories included in the four off-series (''hors-série'') volumes
+**7 volumes constituting the complete series (published by Rombaldi)
+*''Gaston Lagaffe''
+**5 volumes in an early half-format edition, now collector items
+**16 volumes in the so-called "classic series", including reprints of the above
+**19 volumes in the so-called "definitive series", which collects everything above, but in chronological order of publication in ''Spirou'' (the last 2 volumes are published by Marsu Productions)
+**5 volumes constituting the near-complete series, also in chronological order of publication (published by Rombaldi)
+*''Marsupilami''
+**21 volumes (published by Marsu Productions; now drawn by [[Batem]])
+*''Modeste et Pompon''
+**3 volumes in the regular series (published by Magic Strip)
+**1 volume constituting the complete series (published by Rombaldi)
+*''Isabelle'' (art by [[Will (comics)|Will]], text by Franquin and Yvan Delporte)
+**5 volumes in the regular series
+*''Idées noires''
+**2 volumes in the regular series (published by Audie)
+**1 volume constituting the complete series, plus various "monster drawings" (published by Rombaldi)
+*''Petit Noël''
+**1 album ''Noël et l'élaoin'', 1959
+**4 volumes half-format editions
+
+--&gt;
+
+===Sketchbooks===
+(published by Marsu Productions)
+*''Les doodles de Franquin''
+*''Le bestiaire de Franquin''
+*''Le bestiaire de Franquin tome 2''
+*''Les monstres de Franquin''
+*''Les monstres de Franquin tome 2''
+*''Tronches à gogo''
+*''Les signatures de Franquin''
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* [http://bdoubliees.com/journalspirou/auteurs2/franquin.htm Franquin publications in ''Spirou''] BDoubliées {{fr icon}}
+{{refend}}
+
+==Further reading==
+* Jacky Goupil, ''Livre d'or Franquin: Gaston, Spirou et les autres...''
+* Numa Sadoul, ''Et Franquin créa la gaffe''
+* Philippe Vandooren, ''Franquin/Jijé''
+* ''Les cahiers de la BD'' #47-48
+* ''Le monde de Franquin'' (exhibition catalog)
+* Kris de Saeger, ''Dossier Franquin''
+* Achim Schnurrer and Jef Meert, ''Archief Franquin''
+* José-Louis Bocquet and Eric Verhoest, ''Franquin - Chronologie d'un œuvre''
+* Xavier Chimits and Pedro Inigo Yanez, ''Le garage de Franquin''
+
+== External links==
+*[http://www.franquin.com/ Franquin official site] {{fr icon}}
+*[http://www.gastonlagaffe.com/ Gaston Lagaffe official site] {{fr icon}}
+*[https://web.archive.org/web/20081117130925/http://www.dupuis.com/servlet/jpecat?pgm=VIEW_AUTHOR&amp;lang=UK&amp;AUTEUR_ID=85 Biography on Dupuis.com]
+*[http://lambiek.net/artists/f/franquin_andre.htm Franquin biography] on Lambiek Comiclopedia
+*[http://www.stripspeciaalzaak.be/Toppers_Franquin_EN.htm SSZ: The World ''Around'' Franquin] comics creators discuss Franquin {{fr icon}} {{nl icon}}
+* [https://web.archive.org/web/20070423034459/http://www.lemondedefranquin.com/fr/index.php?pg=doss Le Monde de Franquin Expo, Franquin dossier] pdf downloads {{fr icon}}
+* [https://web.archive.org/web/20150118221449/http://www.2dgalleries.com/artist/andre-franquin-3670?order=10 Original comic art from Franquin]
+
+{{Franquin}}
+{{Use dmy dates|date=February 2011}}
+{{Authority control}}
+{{DEFAULTSORT:Franquin, Andre}}
+[[Category:1924 births]]
+[[Category:1997 deaths]]
+[[Category:People from Etterbeek]]
+[[Category:Spirou et Fantasio]]
+[[Category:Belgian comics artists]]
+[[Category:Belgian illustrators]]
+[[Category:Belgian satirists]]
+[[Category:Grand Prix de la ville d'Angoulême winners]]</text>
+      <sha1>td8wxzuj2fanf27v17rfudmkq76gt07</sha1>
+    </revision>
+  </page>
+</mediawiki>

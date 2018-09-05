@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adam Hartle</title>
+    <ns>0</ns>
+    <id>49032662</id>
+    <revision>
+      <id>848841382</id>
+      <parentid>839480150</parentid>
+      <timestamp>2018-07-04T18:25:12Z</timestamp>
+      <contributor>
+        <username>Kjp993</username>
+        <id>2417181</id>
+      </contributor>
+      <minor/>
+      <comment>/* Early life */clean up, [[WP:AWB/T|typo(s) fixed]]: full time → full-time using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7737">{{BLP sources|date=January 2016}}
+{{Infobox person
+| honorific_prefix   = 
+| name               =  Adam Hartle
+| honorific_suffix   = 
+| image              =  Headshot 6.png
+| image_upright =
+| image_size = &lt;!-- DISCOURAGED per WP:IMGSIZE. Use image_upright. --&gt;
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         =  &lt;!-- only use if different from name above --&gt;
+| birth_date         =  March 22, 1979
+| birth_place        = Fort Wayne, Indiana
+| baptised           =  &lt;!-- will not display if birth_date is entered --&gt;
+| disappeared_date   =  &lt;!-- {{disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         =  &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| burial_place       =  &lt;!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) --&gt;
+| burial_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| monuments          = 
+| residence          = 
+| nationality        = Iraqi American
+| other_names        = 
+| citizenship        = USA
+| education          = 
+| alma_mater         = University of Florida
+| occupation         = Comedian
+| years_active       = 2011-present
+| era                = 
+| employer           = 
+| organization       = 
+| agent              =  &lt;!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source --&gt;
+| known_for          = Stand up comedy/ film
+| notable_works      =  "Mile High- The Comeback of Cannabis" "The Blunt Truth" tour
+| style              = Visual comic
+| home_town          = Jacksonville, FL
+| salary             = 
+| net_worth          =  &lt;!-- Net worth should be supported with a citation from a reliable source --&gt;
+| height             =  6 feet
+| weight             =  165
+| television         = HBO's Vice, Real Time with Bill Maher, The Daily Show with Jon Stewart
+| title              = 
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = Cannabis legalization
+| opponents          = 
+| boards             = 
+| criminal_charge    =  &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             =  &lt;!-- Use article title or common name --&gt;
+| partner            =  &lt;!-- (unmarried long-term partner) --&gt;
+| children           = 
+| parents            =  &lt;!-- overrides mother and father parameters --&gt;
+| mother             =  &lt;!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) --&gt;
+| father             =  &lt;!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) --&gt;
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 2016 North Florida Comedian of the Year
+| website            =  www.AdamHartle.com, www.MileHighFilm.com
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+
+'''Adam Hartle''' is an American stand up comedian.
+
+==Comedy career==
+Hartle first made national headlines in 2012 during filming of his comedy documentary ''[[Mile High: The Comeback of Cannabis]]'' where he and director [[Anthony Hashem]] purchased the first joints legally sold in US history (2nd official purchase).&lt;ref&gt;https://durangoherald.com/articles/66695-legal-sales-create-new-colorado-commodity-marijuana?wallit_nosession=1&lt;/ref&gt; The film enjoyed much critical acclaim including a notable scene, during an interview with former Congressman and Presidential candidate Tom Tancredo where Hartle bet the Congressman that if the marijuana vote passed in [[Colorado]], the two would smoke a legal joint together.&lt;ref&gt;{{cite web|last1=Ferner|first1=Matt|title=Adam Hartle Defends Tom Tancredo's Agreement To Smoke Marijuana In Grassroots Documentary About Amendment 64|url=http://www.huffingtonpost.com/2013/01/25/adam-hartle-defends-tom-t_n_2550849.html|date=25 January 2013|website=Huffington Post|accessdate=7 January 2016|ref=1}}&lt;/ref&gt; In 2014, Hartle and the film's director Anthony Hashem debuted their film at the historic [[Mayan Theater (Denver)|Mayan Theater]] in [[Denver]], CO. The world premiere garnered much media attention both nationally and internationally as the comedian handed out free cannabis legally to all those in attendance over 21 per the new law documented in the film.&lt;ref&gt;{{cite web|last1=Ferner|first1=Matt|title=Former Congressman Scores Free, Legal Marijuana At Film Premiere|url=http://www.huffingtonpost.com/2014/07/14/tom-tancredo-marijuana_n_5585283.html|website=Huffington Post|publisher=Huffington Post|accessdate=7 January 2016|ref=3|date=14 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Beaumont-Thomas|first1=Ben|title=Filmmakers Give Away Free Marijuana To Promote Documentary|url=https://www.theguardian.com/film/2014/jul/08/free-marijuana-documentary-mile-high-colorado|website=The Guardian UK|publisher=The Guardian|accessdate=7 January 2016|ref=2|date=8 July 2014}}&lt;/ref&gt;
+
+Hartle has performed at some of the best comedy clubs in the world including the Icehouse in Pasedena and the Hollywood Laugh Factory.&lt;ref&gt;https://www.youtube.com/watch?v=0zkCtScBH0U&lt;/ref&gt;&lt;ref&gt;https://www.youtube.com/watch?v=hQ6v7tKWjco&lt;/ref&gt; Hartle is currently touring the country performing stand up comedy and resides in [[Jacksonville, Florida]] with his wife and twins.
+
+==Early life==
+Adam Hartle grew up in Jacksonville, FL. He is half Iraqi on his Mother's side whose parents were both born in Mosul, Iraq and immigrated to the US in 1934.&lt;ref&gt;http://www.ossifamily.com/Ossi_Family/Joseph_Ossi_Branch.html&lt;/ref&gt; He attended college at the nearby University of Florida where he worked for the Florida Gator football team as a student assistant in the video department for then head Coach [[Steve Spurrier]]. His duties included filming practices and games for the coaching staff . By the time Hartle was a Senior, he'd gotten to know the staff so well he was able to sit in on strategic team meetings. Upon graduating, with a letter of recommendation from Coach Spurrier, Hartle began coaching high school football despite having never played himself. At the age of 22, Hartle became the head JV Coach at Mandarin High School making him the youngest head Coach in the State of Florida. Two years later he served as the running backs Coach at nearby Nease High School where he Coached then 16 year old [[Tim Tebow]]. In 2004 Hartle rejoined the Florida football team full-time as the game analysis coordinator. In 2005, Hartle introduced Tebow to then head coach [[Urban Meyer]] and was an integral part of his recruiting process in which he'd go on to become the greatest college Quarterback of all time.
+
+==Activism==
+Hartle has lost 3 relatives to the [[opioid epidemic]] in Florida and is vocal supporter of the cannabis legalization movement as a safe, natural pain relieving alternate to dangerous and addictive pain pills.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hartle, Adam}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:21st-century American comedians]]
+[[Category:Comedians from Indiana]]</text>
+      <sha1>komtgohskaoolwbpw0no1bzhcmfjohz</sha1>
+    </revision>
+  </page>
+</mediawiki>

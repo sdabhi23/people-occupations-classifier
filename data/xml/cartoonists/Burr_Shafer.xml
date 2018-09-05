@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Burr Shafer</title>
+    <ns>0</ns>
+    <id>17183068</id>
+    <revision>
+      <id>817354720</id>
+      <parentid>797130315</parentid>
+      <timestamp>2017-12-27T21:13:03Z</timestamp>
+      <contributor>
+        <ip>46.224.249.162</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2161">'''Burr Shafer''' (October 24, 1899&lt;ref&gt;[https://books.google.com/books?id=cDIOAQAAMAAJ&amp;q=Burr+Shafer+1899&amp;dq=Burr+Shafer+1899&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjxlqvXjKvYAhXD26QKHX8MDJgQ6AEISTAJ]&lt;/ref&gt; – June 25, 1965)&lt;ref name=time/&gt; was an American [[cartoonist]]. His cartoon collections featured the character of '''J. Wesley Smith''' appearing in various historical settings.&lt;ref&gt;E.g. ''Through History with J. Wesley Smith'' and its sequels.&lt;/ref&gt; His historical satires moved [[President of the United States|U.S. President]] [[Harry S. Truman]] to write "I'm very proud that I'm smart enough to get the point."&lt;ref name=time&gt;{{cite journal
+|url=http://www.time.com/time/magazine/article/0,9171,833816,00.html
+|title=Milestones: Jun. 25, 1965
+|journal=[[Time (magazine)|Time]]
+|date=June 25, 1965}}&lt;/ref&gt; His cartoons appeared in ''[[The New Yorker]]''&lt;ref&gt;{{cite web
+|url=http://www.artcadeonline.com/artwork/comic/detail.asp?ID=1265
+|title='Women's {{sic|Auxillary|nolink=y}}' Burr Shafer Original panel cartoon
+|work=Comic Cartoons Webportfolio
+|publisher=The Art-cade Gallery}}&lt;/ref&gt; and ''[[Saturday Review (US magazine)|The Saturday Review of Literature]]''.&lt;ref&gt;{{cite book
+|url=https://www.questia.com/PM.qst?a=o&amp;d=282779
+|title="The Saturday Review" Treasury: A Volume of Good Reading Selected from the Complete Files by John Haverstick and the Editors of the Saturday Review
+|first=John
+|last=Haverstick
+|publisher=Simon and Schuster
+|location=New York
+|year=1957
+|page=493
+|oclc=193181}}&lt;/ref&gt;
+
+The J. Wesley Smith character, while not explicitly identified with the explorer [[John Smith (explorer)|John Smith]], was depicted in the explorer's situation in a cartoon panel about [[Pocahontas]]. The joke, as he had his head on her father's chopping block with the ax about to come down, was that, with the middle name of Wesley, he should not be confused with real John Smith.
+
+Burr Shafer died in [[Orange County, California]].&lt;ref name=time/&gt;
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Shafer, Burr}}
+[[Category:1899 births]]
+[[Category:1965 deaths]]
+[[Category:American cartoonists]]
+[[Category:The New Yorker cartoonists]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>jukudidysrikhxvh1gmqrxh94cr2ve4</sha1>
+    </revision>
+  </page>
+</mediawiki>

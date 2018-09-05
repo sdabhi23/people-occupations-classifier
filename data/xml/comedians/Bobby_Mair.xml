@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bobby Mair</title>
+    <ns>0</ns>
+    <id>42192331</id>
+    <revision>
+      <id>854706016</id>
+      <parentid>850795842</parentid>
+      <timestamp>2018-08-13T06:35:21Z</timestamp>
+      <contributor>
+        <ip>46.208.31.241</ip>
+      </contributor>
+      <comment>/* External links */ Trimmed per [[WP:ELNO]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3019">{{Infobox person
+| image       =
+| name        = Bobby Mair
+| birth_name  = 
+| birth_date  = 1986{{cn|date=January 2018}}
+| birth_place = [[Toronto]],{{cn|date=January 2018}} Ontario, Canada
+| occupation  = [[Comedian]]
+| spouse      = Harriet Kemsley
+| website     = 
+}}
+'''Bobby Mair''' is a Canadian stand-up comedian based in London, England who has appeared on ''[[The Hour (Canadian TV series)|The Hour]]'', ''[[Russell Howard's Good News]]'', ''[[Sweat the Small Stuff]]'', ''[[Virtually Famous]]'', ''[[Never Mind the Buzzcocks]]'', ''[[Sam Delaney's News Thing]]'' and ''[[8 Out of 10 Cats]]''. Mair won the Laughing Horse New Act Of The Year competition in 2012.&lt;ref&gt;{{cite web |url= http://www.chortle.co.uk/comics/b/33861/bobby_mair |title=Bobby Mair, comedian : Chortle : The UK Comedy Guide |first= |last= |work=chortle.co.uk |year=2014 |quote=won the Laughing Horse New Act Of The Year competition in 2012. |accessdate=13 March 2014}}&lt;/ref&gt; He has supported the likes of [[Jerry Sadowitz]], [[Doug Stanhope]] and [[Bill Burr]].&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/shows/edinburgh_fringe_2012/m/20882/michelle_de_swarte_&amp;_bobby_mair:_unbalanced|title=Michelle de Swarte &amp; Bobby Mair: Unbalanced :     Chortle : The UK Comedy Guide|first=Powder Blue Internet Business|last=Solutions|website=www.chortle.co.uk}}&lt;/ref&gt;
+
+== Personal life ==
+Mair was adopted.&lt;ref name=RB/&gt; He is married to comedienne Harriet Kemsley.&lt;ref name=RB&gt;''[[Roast Battle]]'' e3, 17 January 2018&lt;/ref&gt; The build-up to the wedding was documented on [[Viceland]] show ''Bobby and Harriet Get Married''.&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/news/2017-08-02/bobby-and-harriet-get-married-a-wry-fresh-take-on-the-dysfunctional-relationship-comedy/|title=Bobby and Harriet Get Married: a wry, fresh take on the dysfunctional relationship comedy|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.comedy.co.uk/tv/bobby_and_harriet_get_married/|title=Bobby And Harriet Get Married - VICELAND Comedy - British Comedy Guide|first=British Comedy|last=Guide|website=British Comedy Guide}}&lt;/ref&gt;
+
+He is a third cousin of Canadian pop star [[Justin Bieber]] - although he says that they have never met - a fact mentioned many times, including in his Edinburgh Fringe show ''obviously adopted''.&lt;ref name="Obviously Adopted"&gt;{{cite web|url=http://www.comedy.co.uk/fringe/2013/bobby_mair/|title=Bobby Mair - Edinburgh Fringe 2013 - British Comedy Guide|first=British Comedy|last=Guide|website=British Comedy Guide}}&lt;/ref&gt; 
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{cite web|url=http://www.bobbymair.com/ |title=Archived copy |accessdate=March 13, 2014 |deadurl=unfit |archiveurl=https://web.archive.org/web/20150622203216/http://www.bobbymair.com/ |archivedate=June 22, 2015 }}
+
+
+{{DEFAULTSORT:Mair, Bobby}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Canadian male comedians]]
+[[Category:Canadian stand-up comedians]]
+[[Category:Comedians from Toronto]]
+[[Category:Date of birth missing (living people)]]</text>
+      <sha1>4hs2ndr91l71qstiqp8i4k5ur8wdqbd</sha1>
+    </revision>
+  </page>
+</mediawiki>

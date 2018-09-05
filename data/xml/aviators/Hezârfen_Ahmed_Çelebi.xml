@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hezârfen Ahmed Çelebi</title>
+    <ns>0</ns>
+    <id>13463</id>
+    <revision>
+      <id>808840931</id>
+      <parentid>806703512</parentid>
+      <timestamp>2017-11-05T14:47:08Z</timestamp>
+      <contributor>
+        <ip>2604:2000:1201:8116:C1DF:FE85:7D0D:E383</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4306">'''Hezârfen Ahmed Çelebi''' was a [[legend]]ary [[Ottoman Empire|Ottoman]] [[Aviation|aviator]] of [[Constantinople]] (present day [[Istanbul]]), reported in the writings of traveler [[Evliya Çelebi]] to have achieved sustained unpowered flight.
+
+==Alleged flight==
+
+The 17th century writings of [[Evliya Çelebi|Evliyâ Çelebi]] relate this story of Hezârfen Ahmed Çelebi, circa 1630–1632:
+
+{{quote|text=First, he practiced by flying over the pulpit of Okmeydanı eight or nine times with [[eagle]] wings, using the force of the wind. Then, as Sultan Murad Khan ([[Murad IV]]) was watching from the Sinan Pasha mansion at [[Sarayburnu]], he flew from the very top of the [[Galata Tower]] (in contemporary [[Karaköy]]) and landed in the Doğancılar Square in [[Üsküdar]], with the help of the south-west wind. Then Murad Khan granted him a sack of golden coins, and said: "This is a scary man. He is capable of doing anything he wishes. It is not right to keep such people," and thus sent him to [[Algeria]] on exile. He died there. | sign = Evliyâ Çelebi|source = &lt;ref name="Evliyâ Çelebi"&gt;Çelebi, Evliya (2003). ''Seyahatname''. Istanbul: Yapı Kredi Kültür Sanat Yayıncılık, p. 318.&lt;/ref&gt;}}
+
+The title ''"Hezârfen"'' ({{lang-fa|هزار}}, ''hazār'' + {{lang-ar|فنّ}}, ''fann'') given by Evliyâ Çelebi to Ahmet Çelebi, means "a thousand sciences"&amp;#160;([[polymath]]).
+
+==Single report==
+In 1648, [[John Wilkins]] cites [[Ogier Ghiselin de Busbecq]], the Austrian ambassador to Constantinople in 1554–1562, as recording that "a Turk in Constantinople" attempted to fly.&lt;ref&gt;Wilkins, John. ''Mathematicall Magick or the Wonders that may be performed by Mechanicall Geometry. In two books. Concerning Mechanicall Powers and Motions'', London 1648, 204; also see a reprint of the same book in ''The Mathematical and Philosophical Works of John Wilkins to which is prefixed the author's life and an account of his works'', 1802, vol. II, 201&lt;/ref&gt; However, if accurate, this citation refers to an event nearly a century prior to the exploits reported by Evliyâ Çelebi.
+
+Evliyâ Çelebi's account of the exploits of Hezârfen Ahmet Çelebi is only three sentences long (of a ten volume work), but the story has great currency in [[Turkey]]. Other than Evliyâ Çelebi's report, there are no other contemporary references to the event.
+
+== Site details ==
+[[File:Hezârfen Ahmed Çelebi Glider Flight Path.png|thumb|300px|Glide path from the [[Galata]] district in Europe to the [[Üsküdar]] district on the Asian side of Istanbul]]
+Measurements of the alleged launch height and flight distance are as follows:
+*The Galata Tower sits {{convert|35|m|ft|0|abbr=on}} above sea level, the peak of its conical dome {{convert|62.59|m|ft|2|abbr=on}} above ground level and {{convert|97.59|m|ft|2|abbr=on}} above sea level.&lt;ref&gt;[http://www.galatatower.net/eng/tarih.php?a=1&amp;b=2 Official Galata Tower Web Site]&lt;/ref&gt;
+*Doğancılar square is about {{convert|12|m|ft|0|abbr=on}} above sea level.
+*The elevation change between the tower (takeoff) and the square (landing) is {{convert|85.59|m|ft|0|abbr=on}}.
+*The distance between the tower and the town square is approximately {{convert|3.358|km|mi|0|abbr=on}}.&lt;ref&gt;Distance and elevation for this calculation as provided by Google Earth – center of tower to center of square.&lt;/ref&gt;
+*[[Glide ratio]] required is 39:1. A modern hang glider has a glide ratio of 15:1 on average.
+
+==Modern era==
+*One of three airports in [[Istanbul]] is named the "[[Istanbul Hezarfen Airfield|Hezarfen Airfield]]".
+*A mosque next to the [[Istanbul Ataturk International Airport|Istanbul Atatürk Airport]] bears the appellation "Hezarfen Ahmet Çelebi".
+*A 1996 feature-length film, "[[Istanbul Beneath My Wings]]" (''İstanbul Kanatlarımın Altında'') concerns the lives of Hezârfen Ahmet Çelebi, his brother and rocket aviator [[Lagari Hasan Çelebi]], and Ottoman society in the early 17th century, as witnessed and narrated by Evliyâ Çelebi.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://www.youtube.com/watch?v=_WA90NHsGnI First Flying Man in History: Hezarfen the movie]
+
+{{DEFAULTSORT:Celebi, Hezarfen Ahmed}}
+[[Category:17th-century people of the Ottoman Empire]]
+[[Category:Turkish aviators]]
+[[Category:Unpowered flight]]</text>
+      <sha1>t7jy43595py7xtxtczkhr9fp18lpu7b</sha1>
+    </revision>
+  </page>
+</mediawiki>

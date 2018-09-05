@@ -1,0 +1,274 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adam Sandler</title>
+    <ns>0</ns>
+    <id>102690</id>
+    <revision>
+      <id>853135789</id>
+      <parentid>852612311</parentid>
+      <timestamp>2018-08-02T17:22:44Z</timestamp>
+      <contributor>
+        <username>ClemsonTiger2001</username>
+        <id>33221248</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26897">{{pp-semi-blp|small=yes}}
+{{Infobox person
+| name    = Adam Sandler
+| image   = Adam Sandler 2011 (Cropped).jpg
+| caption = Sandler receiving his star on the&lt;br/&gt; [[Hollywood Walk of Fame]] in February 2011
+| birth_name = Adam Richard Sandler
+| alias   = &lt;!--This field is for official stage names, ''not'' for nicknames.--&gt;
+| birth_date = {{birth date and age|1966|9|9}}
+| birth_place = [[Brooklyn]], New York, U.S.
+| years_active = 1987–present&lt;ref&gt;{{cite book|author1=Geoffrey M. Horn|title=Adam Sandler|date=2006|publisher=Gareth Stevens|isbn=0836842340|page=17|url=https://books.google.com/books?id=PY35LJZklJkC&amp;pg=PA17&amp;lpg=PA17&amp;dq=adam+sandler+1987+cosby+show&amp;source=bl&amp;ots=ej9ZydMoky&amp;sig=_F5cAXkd5creLp4G7LxyVil74qE&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwif7oqXqM3aAhVEEpAKHcw4CNYQ6AEIiwEwEA#v=onepage&amp;q=adam%20sandler%201987%20cosby%20show&amp;f=false|accessdate=April 22, 2018}}&lt;/ref&gt;
+| occupation = {{Flat list|
+*Actor
+*comedian
+*[[screenwriter]]
+*film producer
+*musician}}
+| alma_mater = [[Tisch School of the Arts]]
+| party =
+| spouse   = {{marriage|Jacqueline Titone|2003}}
+| children = 2
+| signature =
+| module = {{Infobox comedian|embed=yes
+| medium =  [[Stand-up comedy|Stand-up]], [[film]], [[television]]
+| genre =
+&lt;!-- | influences = [[Mel Brooks]], [[Bill Cosby]], [[Redd Foxx]], [[Sam Kinison]], [[Jerry Lewis]], [[Steve Martin]], [[Dennis Miller]], [[Eddie Murphy]], [[Chris Rush]]&lt;ref name="inflooenz.com"&gt;{{cite web|url=http://inflooenz.com/?artist=Adam+Sandler&amp;influencer|title=Discover who influenced Adam Sandler|website=inflooenz.com|accessdate=August 7, 2017}}&lt;/ref&gt;
+| influenced = [[Jimmy Fallon]]&lt;ref name="inflooenz.com"/&gt; --&gt;
+| website  = {{url|adamsandler.com}}
+}}
+}}
+
+'''Adam Richard Sandler''' (born September 9, 1966) is an American actor, comedian, screenwriter, and film producer. After becoming a ''[[Saturday Night Live]]'' cast member, Sandler went on to star in many Hollywood feature films that combined have grossed over $2 billion at the box office.&lt;ref&gt;{{cite web|url=http://www.boxofficemojo.com/people/?view=Actor&amp;sort=sumgross&amp;p=.htm |title=People Index |website=BoxOfficeMojo.com |accessdate=April 30, 2013}}&lt;/ref&gt; He is best known for his roles in the films ''[[Billy Madison]]'' (1995), the sports comedies ''[[Happy Gilmore]]'' (1996) and ''[[The Waterboy]]'' (1998), the romantic comedy ''[[The Wedding Singer]]'' (1998), ''[[Big Daddy (1999 film)|Big Daddy]]'' (1999), and ''[[Mr. Deeds]]'' (2002), and voicing [[Count Dracula|Dracula]] in ''[[Hotel Transylvania]]'' (2012), ''[[Hotel Transylvania 2]]'' (2015), and ''[[Hotel Transylvania 3: Summer Vacation]]'' (2018). Several of his films, most notably the widely panned ''[[Jack and Jill (2011 film)|Jack and Jill]]'', have gained harsh criticism, culminating in a shared second place in the number of [[Raspberry Awards]] (3) and Raspberry Award nominations (11), in both cases second only to [[Sylvester Stallone]]. He has ventured into more dramatic territory with his roles in ''[[Punch-Drunk Love]]'' (2002), ''[[Spanglish (film)|Spanglish]]'' (2004), ''[[Reign Over Me]]'' (2007), ''[[Funny People]]'' (2009), and ''[[The Meyerowitz Stories]]'' (2017), all of which earned him critical praise.&lt;ref&gt;{{cite web|last=Cea|first=Max|url=https://www.salon.com/2017/10/12/noah-baumbach-performs-a-miracle-adam-sandler-doesnt-suck-in-the-meyerowitz-stories/|title=Noah Baumbach performs a miracle: Adam Sandler doesn’t suck in 'The Meyerowitz Stories''|work=[[Salon (website)|Salon]]|date=October 12, 2017|accessdate=April 28, 2017}}&lt;/ref&gt;
+
+== Early life ==
+Sandler was born in [[Brooklyn]], [[New York (state)|New York]] in 1966,&lt;ref name=filmref /&gt;&lt;ref&gt;{{cite news|title=Monitor|newspaper=[[Entertainment Weekly]]|date=September 13, 2013|issue=1276|pages=28}}&lt;/ref&gt; to Judith "Judy" (née Levine), a nursery school teacher, and Stanley Sandler (1935-2003), an electrical engineer.&lt;ref name="filmref"&gt;{{cite web| url = http://www.filmreference.com/film/70/Adam-Sandler.html |title=Adam Sandler Biography (1966?-)| website= Film Reference.com|accessdate=December 24, 2014 | quote=Full name, Adam Richard Sandler; born September 9, 1966 (some sources cite 1964)...}}&lt;/ref&gt; His family is [[Jews|Jewish]] and descends from Russian Jewish immigrants on both sides.&lt;ref&gt;{{Cite news|url=http://jewishjournal.com/opinion/rob_eshman/180474/|title=Adam Sandler: "I'm very pro-Israel"|last=Eshman|first=Rob|date=December 15, 2015|work=[[The Jewish Journal of Greater Los Angeles|Jewish Journal]]|accessdate=May 20, 2018|quote="I'm proud of being a Jew and that's what I am," Sandler said.}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/culture/film/starsandstories/3709985/Adam-Sandler-this-ones-for-the-kids.html|title=Adam Sandler: this one's for the kids|last=Hiscock|first=John|date=December 11, 2008|work=[[The Daily Telegraph]]|accessdate=July 30, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.tabletmag.com/scroll/196117/adam-sandler-and-howard-stern-talk-jewish-shop|title= Adam Sandler and Howard Stern Talk Jewish Shop |first=Jonathan |last=Zalman |work=[[Tablet (magazine)|Tablet Magazine]]|date= December 22, 2015|accessdate= April 18, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/arts-entertainment/films/features/i-didnt-get-into-movies-to-please-the-critics-adam-sandler-interview-8742294.html|title= 'I didn't get into movies to please the critics': Adam Sandler interview |work=[[The Independent]]|first=Emma |last=Jones |date= August 2, 2013|accessdate= April 18, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Галина Галкина |url=http://www.golos-ameriki.ru/content/just-go-with-it-2011-03-21-118361894/224464.html |title=Притворный брак Адама Сэндлера и Дженнифер Энистон |website=Golos-ameriki.ru |date=March 21, 2011 |accessdate=June 13, 2013}}&lt;/ref&gt; He grew up in [[Manchester, New Hampshire]], after moving there at the age of six.&lt;ref&gt;{{cite web|url=http://www.unionleader.com/apps/pbcs.dll/article?AID=/99999999/NEWHAMPSHIRE09/110429372/-1/newhampshire09|title=Adam Sandler|work=UnionLeader.com}}&lt;/ref&gt; He attended [[Manchester Central High School]]. As a teen, Sandler was in [[BBYO]], a popular Jewish youth group. Sandler graduated from [[New York University]]'s [[Tisch School of the Arts]] in 1988.&lt;ref&gt;{{cite web| url= http://www.nyu.edu/alumni.magazine/issue10/10_culture_snl.html | title= Live From New York, It's... | publisher=[[New York University]] | work=NYU Alumni Magazine | date= Spring 2008 | accessdate=June 30, 2010| archiveurl= https://web.archive.org/web/20100530061407/http://www.nyu.edu/alumni.magazine/issue10/10_culture_snl.html| archivedate= May 30, 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+== Career ==
+
+=== Acting career ===
+[[File:Adamsandler(cannesPhotocall).jpg|thumb|Sandler at 2002 [[Cannes Film Festival]]]]
+Early in his career, in 1987, Sandler played [[Theo Huxtable]]'s friend, Smitty in ''[[The Cosby Show]]'' and the Stud Boy or Trivia Delinquent in the [[Game show|MTV game show]] ''[[Remote Control (game show)|Remote Control]]''. After his film debut ''[[Going Overboard]]'' in 1989, Sandler performed in comedy clubs, having first taken the stage at his brother's urging when he was 17. He was discovered by comedian [[Dennis Miller]], who caught Sandler's act in Los Angeles and recommended him to ''[[Saturday Night Live]]'' producer [[Lorne Michaels]]. Sandler was hired as a writer for ''SNL'' in 1990 and became a featured player the following year, making a name for himself by performing amusing original songs on the show, including "[[The Thanksgiving Song]]" and "[[The Chanukah Song]]".&lt;ref&gt;{{cite web | url = http://www.biography.com/people/adam-sandler-9542505|title= Adam Sandler Biography: Film Actor, Singer, Songwriter, Comedian, Screenwriter (1966–)| website=Biography.com ([[A&amp;E Networks]])| accessdate=December 24, 2014}}&lt;/ref&gt; Sandler told [[Conan O'Brien]] on ''[[The Tonight Show with Conan O'Brien|The Tonight Show]]'' that [[NBC]] fired him and [[Chris Farley]] from the show in 1995.&lt;ref name="Sandler fired"&gt;{{cite news| url = http://www.nydailynews.com/entertainment/2010/01/21/2010-01-21_youre_not_alone_conan_obrien_adam_sandler_says_nbc_fired_him_and_chris_farley_fr.html | title= You're not alone, Conan O'Brien: Adam Sandler says NBC fired him and Chris Farley from 'SNL'| first= Joe |last=Dziemianowicz| work=[[Daily News (New York)|Daily News]] | location=New York City |date= January 21, 2010}}&lt;/ref&gt;
+
+In 1993, Adam Sandler appeared in the film ''[[Coneheads (film)|Coneheads]]'' with Chris Farley, [[David Spade]], [[Dan Aykroyd]], [[Phil Hartman]], and [[Jane Curtin]]. In 1994, he co-starred in ''[[Airheads]]'' with [[Brendan Fraser]] and [[Steve Buscemi]]. He starred in ''[[Billy Madison]]'' (1995) playing a grown man repeating grades 1–12 to earn back his father's respect and the right to inherit his father's multimillion-dollar hotel empire; the film received negative reviews. He followed this film with ''[[Bulletproof (1996 film)|Bulletproof]]'' (1996), and the financially successful comedies ''Happy Gilmore'' (1996) and ''The Wedding Singer'' (1998). He was initially cast in the bachelor-party-themed comedy/thriller ''[[Very Bad Things]]'' (1998) but had to back out due to his involvement in ''[[The Waterboy]]'' (1998), one of his first hits.
+
+Although his earliest films did not receive critical praise, he started to receive more positive reviews, beginning with ''Punch-Drunk Love'' in 2002. [[Roger Ebert]]'s review of ''Punch-Drunk Love'' concluded that Sandler had been wasted in earlier films with poorly written scripts and characters with no development.&lt;ref&gt;Ebert, Roger. [http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20021018/REVIEWS/210180308/1023 "Punch-Drunk Love."] ''Chicago Sun-Times''. October 18, 2002.&lt;/ref&gt; Sandler has moved outside the genre of slapstick comedy to take on more serious parts such as the aforementioned ''[[Punch-Drunk Love]]'' (for which he was nominated for a [[Golden Globe]]) and [[Mike Binder]]'s ''[[Reign Over Me]]'' (2007), a drama about a man who loses his entire family in [[9/11]] and rekindles a friendship with his old college roommate ([[Don Cheadle]]).
+
+He starred alongside friend [[Kevin James]] in the film ''[[I Now Pronounce You Chuck and Larry]]'' (2007), and headlined ''[[You Don't Mess with the Zohan]]'' (2008). The film was written by Sandler, [[Judd Apatow]], and [[Robert Smigel]], and it was directed by [[Dennis Dugan]].
+
+[[File:Adam Sandler 6818.jpg|thumb|left|Sandler in [[Berlin]] 2009]]
+Sandler starred along with [[Keri Russell]] and English comedian [[Russell Brand]] in [[Adam Shankman]]'s fantasy film ''[[Bedtime Stories (film)|Bedtime Stories]]'' (2008), as a stressed hotel maintenance worker whose bedtime stories he reads to his niece and nephew begin to come true. It marked as Sandler's first family film and first film under the [[The Walt Disney Company|Walt Disney]] banner.&lt;ref&gt;{{cite web| url = http://www.comingsoon.net/news/movienews.php?id=19719 |title=Adam Sandler's Bedtime Stories Come True| website=ComingSoon.net | date= April 4, 2007}}&lt;/ref&gt;
+
+In 2009, Sandler starred in Judd Apatow's third directorial feature ''[[Funny People]]''. The film was released on July 31, 2009.&lt;ref&gt;{{cite news | author=Michael Fleming | title = Trio joins Judd Apatow film |work=Variety | date = June 11, 2008 | url = http://www.variety.com/article/VR1117987337.html?categoryid=13&amp;cs=1 | accessdate=June 13, 2008| archiveurl= https://web.archive.org/web/20080709034441/http://www.variety.com/article/VR1117987337.html?categoryid=13&amp;cs=1| archivedate=July 9, 2008&lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Following the release of ''Funny People'', it, along with ''Punch-Drunk Love'' were cited in the June 2010 announcement that Sandler was one of 135 people (including 20 actors) invited to join the [[Academy of Motion Picture Arts and Sciences]].&lt;ref&gt;{{cite web| url= http://www.oscars.org/press/pressreleases/2010/20100625.html | title= Academy Invites 135 to Membership | publisher=[[Academy of Motion Picture Arts and Sciences]] | work=[[Press release]] | date= June 25, 2010 | location= Beverly Hills, CA | accessdate=June 29, 2010| archiveurl= https://web.archive.org/web/20100630164148/http://www.oscars.org/press/pressreleases/2010/20100625.html| archivedate= June 30, 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+Sandler appeared in ''[[Grown Ups (film)|Grown Ups]]'', alongside Kevin James, [[Chris Rock]], [[Rob Schneider]], and David Spade. Sandler and ''Dickie Roberts'' scribe Fred Wolf wrote the script and Dennis Dugan directed the film.&lt;ref&gt;{{cite news| url=http://www.variety.com/article/VR1117999951.html?categoryid=13&amp;cs=1 | title = Columbia pic gets Sandler and friends |work=Variety | date = February 10, 2009 | accessdate=February 12, 2009 | first=Tatiana | last=Siegel| archiveurl= https://web.archive.org/web/20090213130229/http://www.variety.com/article/VR1117999951.html?categoryid=13&amp;cs=1| archivedate= February 13, 2009 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+Sandler starred with [[Jennifer Aniston]] in the 2011 romantic comedy film ''[[Just Go with It]]''. Sandler also voiced a capuchin monkey in Kevin James's ''[[Zookeeper (film)|Zookeeper]]'', released on July 8, 2011.&lt;ref&gt;{{cite web|url=https://www.imdb.com/title/tt1222817/|title=Zookeeper (2011)|author=Stephen Cook|date=July 8, 2011|work=IMDb}}&lt;/ref&gt; In 2012, he starred in ''[[That's My Boy (2012 film)|That's My Boy]]'', as a man who fathered a son ([[Andy Samberg]]) with his teacher in high school.
+
+Sandler starred with [[Drew Barrymore]] in the [[Warner Bros.]] romantic comedy ''[[Blended (film)|Blended]]'', which was filmed in [[South Africa]], and was released on May 23, 2014.
+
+In 2013, he guest starred in the [[Disney Channel Original Series]] ''[[Jessie (2011 TV series)|Jessie]]'' as himself. He and [[Cameron Boyce]] previously worked together in ''Grown Ups'' and ''[[Grown Ups 2]]''. The episode is titled "Punched Dumped Love". Sandler co-starred in the drama film ''[[Men, Women &amp; Children (film)|Men, Women &amp; Children]]'' (2014), directed by [[Jason Reitman]].&lt;ref&gt;{{cite news|title=Toronto: Jason Reitman Lining Up His Next Film|url=http://www.hollywoodreporter.com/news/toronto-jason-reitman-lining-up-620958|accessdate=19 December 2013|newspaper=hollywoodreporter.com|date=4 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Pictures|first=Paramount|title=Production Begins on Jason Reitman's Men, Women &amp; Children|url=http://www.comingsoon.net/news/movienews.php?id=112527|accessdate=19 December 2013|newspaper=comingsoon.net|date=16 December 2013}}&lt;/ref&gt; He was considered for the voice of Rocket Raccoon in Marvel's ''[[Guardians of the Galaxy]]'' but [[Bradley Cooper]] was cast instead.&lt;ref&gt;{{cite web | url=http://www.ifc.com/2013/01/jim-carrey-adam-sandler-guardians-of-the-galaxy| work=IFC | title= Jim Carrey and Adam Sandler Being Considered For "Guardians of the Galaxy"| accessdate=October 10, 2016}}&lt;/ref&gt;
+
+Sandler's recent comedy films, including ''Grown Ups'' and ''Grown Ups 2'', have received strongly negative reviews.&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/news/grown-ups-2-best-lines-584676|title='Grown Ups 2': The Best Lines from the Worst Reviews|work=[[The Hollywood Reporter]] |date=July 12, 2013|accessdate=May 27, 2016}}&lt;/ref&gt; In reviewing the latter, critic Mark Olsen of ''[[The Los Angeles Times]]'' remarked that Sandler had become the antithesis of [[Judd Apatow]]; he was instead "the white [[Tyler Perry]]: smart enough to know better, savvy enough to do it anyway, lazy enough not to care."&lt;ref&gt;{{cite web|url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-grown-ups-2-review-20130712-story.html|title='Review: 'Grown Ups 2' refuses to leave the sandbox|work=The Los Angeles Times|date=July 11, 2013|accessdate=May 27, 2016}}&lt;/ref&gt;
+
+In 2015, Sandler released his last theatrical film ''[[Pixels (2015 film)|Pixels]]'', based on French director Patrick Jean's [[Pixels (2010 film)|2010 short film of the same name]], before transitioning into a distribution deal with [[Netflix]]. His first original film for Netflix was the Western comedy film ''[[The Ridiculous 6]]''. Despite being universally panned by critics,&lt;ref name="rotten"&gt;{{cite web |url=http://www.rottentomatoes.com/m/the_ridiculous_six/?search=Ridiculous%20six |title= The Ridiculous Six (2015) |website=Rotten Tomatoes |accessdate=December 15, 2015}}&lt;/ref&gt; on January 6, 2016, it was announced by Netflix that the film had been viewed more times in 30 days than any other movie in Netflix history.&lt;ref&gt;[https://variety.com/2016/film/news/adam-sandlers-ridiculous-six-is-making-history-for-netflix-1201673572 Adam Sandler’s ‘Ridiculous Six’ Is Making History for Netflix] ''Variety.com''.&lt;/ref&gt; He released three additional films on Netflix between 2016 and 2018: ''[[The Do-Over]]'', ''[[Sandy Wexler]]'' and ''[[The Week Of]]''.
+
+He returned to dramatic territory in 2017 with ''[[The Meyerowitz Stories]]'', with his performance receiving acclaim from critics.&lt;ref&gt;{{cite web|url=https://www.salon.com/2017/10/12/noah-baumbach-performs-a-miracle-adam-sandler-doesnt-suck-in-the-meyerowitz-stories/|title=Noah Baumbach performs a miracle: Adam Sandler doesn't suck in "The Meyerowitz Stories"|work=[[Salon (website)|Salon]]|date=October 12, 2017|accessdate=October 14, 2017}}&lt;/ref&gt;
+
+=== Happy Madison Productions ===
+[[File:Adam Sandler (cropped).jpg|thumb|Sandler at a press conference for ''[[Click (2006 film)|Click]]'' in 2005]]
+Sandler formed his film production company, [[Happy Madison Productions]],&lt;ref name="happy"&gt;[http://www.adamsandler.com/index.php?section=happy "Happy Madison."] {{webarchive|url=https://web.archive.org/web/20051118222008/http://www.adamsandler.com/index.php?section=happy |date=November 18, 2005 }} AdamSandler.com. Accessed October 9, 2008.&lt;/ref&gt; in 1999, first producing fellow ''SNL'' alumnus [[Rob Schneider]]'s film ''[[Deuce Bigalow: Male Gigolo]]''. The company has produced most of Sandler's subsequent films to date. The majority of the company's films have received negative reviews from critics, with three considered to be among the [[List of films considered the worst|worst ever made]]&lt;ref&gt;[http://www.metacritic.com/feature/adam-sandler-all-films-considered Adam Sandler: All Films Considered] Metacritic. Accessed April 21, 2015.&lt;/ref&gt; yet most have performed well at box office.
+
+Others who frequently appear in Sandler films include [[David Spade]], [[Kevin James]], [[Steve Buscemi]], [[Chris Rock]], [[John Turturro]], [[Peter Dante]], [[Allen Covert]], [[Jonathan Loughran]], and [[Jon Lovitz]].
+
+In 2014, Netflix announced a four-movie deal with Adam Sandler and Happy Madison Productions.&lt;ref&gt;{{Cite web|title = With Four New Adam Sandler Films, Netflix Takes Aim at Theaters - NYTimes.com|url = http://mobile.nytimes.com/2014/10/02/business/media/with-four-new-adam-sandler-films-netflix-takes-aim-at-theaters.html?ref=media&amp;_r=0&amp;referrer=|website = mobile.nytimes.com|accessdate = 2015-12-13}}&lt;/ref&gt;
+
+The company is located on the Sony/[[Columbia Pictures]] lot in [[Culver City, California]].
+
+==Public image==
+Sandler has been referenced multiple times in various media, including in the TV shows ''[[The Simpsons]]'' in the episode "[[Monty Can't Buy Me Love]]",&lt;ref&gt;{{Cite web|url=http://bbc.adactio.com/cult/simpsons/episodeguide/season10/page20.shtml|title=Monty Can't Buy Me|website=[[BBC Online]]|date=September 2005|access-date=August 11, 2017}}&lt;/ref&gt; in ''[[Family Guy]]'' in the episode "[[Stew-Roids]]",&lt;ref&gt;{{Cite web|url=http://ign.com/articles/2009/04/27/family-guy-stew-roids-review|title=Family Guy: "Stew-Roids" Review|website=[[IGN]]|first=Ahsan|last=Haque|date=April 27, 2009|access-date=August 11, 2017}}&lt;/ref&gt; and in ''[[South Park]]'' in the episode "[[You're Getting Old]]".&lt;ref&gt;{{Cite web|url=http://entertainment.time.com/2011/06/09/south-park-watch-the-tao-of-poo/|title=South Park Watch: The Tao of Poo|work=[[Time (magazine)|Time]] |first=James|last=Poniewozik|date=June 9, 2011|access-date=August 11, 2017}}&lt;/ref&gt; He was also referenced in the video game ''[[Half-Life: Opposing Force]]''.&lt;ref&gt;{{Cite web|url=https://www.vgfacts.com/trivia/6729/|title=Half-Life: Opposing Force|website=[[Did You Know Gaming?#VGFacts|VGFacts]]|author=RetroRex|access-date=August 11, 2017|quote=There is a hidden message on the upper skybox texture in the V-22 osprey g-man sequence. It reads "HACK HACK HACK ALL DAY LONG. HACK HACK HACK WHILE I SING THIS SONG". This is a reference to the Adam Sandler song "The Beating Of A High School Janitor.}}&lt;/ref&gt;
+
+==Personal life==
+On June 22, 2003, Sandler married actress Jacqueline Titone. Titone had [[Conversion to Judaism|converted]] to Sandler's religion, Judaism, in 2000.&lt;ref&gt;{{cite web|url=http://www.nydailynews.com/archives/nydn-features/numbers-drew-adam-article-1.643235 |title=By The Numbers Drew &amp; Adam |work=NY Daily News |date=February 17, 2004 |accessdate=January 29, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Wihlborg |first=Ulrica |url=http://www.people.com/people/article/0,,1191818,00.html |title=Adam Sandler, Wife Have a Baby |work=People |date=May 7, 2006 |accessdate=January 28, 2013}}&lt;/ref&gt; She makes frequent appearances in her husband's Happy Madison films. The couple have two daughters: Sadie (born 2006)&lt;ref&gt;[http://www.people.com/people/article/0,,1191818,00.html "Adam Sandler, Wife Have a Baby."] ''People.com''.&lt;/ref&gt; and Sunny (born 2008).&lt;ref&gt;[https://www.reuters.com/article/domesticNews/idUSTRE4AB18Q20081112 "Adam Sandler and wife have second daughter."] Reuters.com. November 12, 2008.&lt;/ref&gt;
+
+In 2007, Sandler made a $1&amp;nbsp;million donation to the [[Boys &amp; Girls Clubs of America|Boys &amp; Girls Club]] in his hometown, [[Manchester, New Hampshire|Manchester]], New Hampshire.&lt;ref&gt;[http://www.newhampshire.com/nh-people/adam-sandler-biography.aspx "Adam Sandler donates $1&amp;nbsp;million to Manchester charity."] {{webarchive |url=https://web.archive.org/web/20100818203545/http://www.newhampshire.com/nh-people/adam-sandler-biography.aspx |date=August 18, 2010 }} newhampshire.com.&lt;/ref&gt; The same year, he donated $2,100 to former [[New York City]] [[Republican Party (United States)|Republican]] mayor [[Rudy Giuliani presidential campaign, 2008|Rudy Giuliani's presidential campaign]]. Sandler is now believed to be an [[Independent voter|independent]], and has not made his political views known since his donation to Giuliani's campaign in 2007.
+
+Sandler resides in his main residence in [[Los Angeles]], California, and has a second residence in the same condominium building his mother resides in [[Highland Beach, Florida]].
+
+== Filmography ==
+''This is a partial list of Sandler's film work. For the complete list, see [[Adam Sandler filmography]].''
+{{columns-list|colwidth=22em|
+* ''[[Billy Madison]]'' (1995)
+* ''[[Happy Gilmore]]'' (1996)
+* ''[[The Wedding Singer]]'' (1998)
+* ''[[The Waterboy]]'' (1998)
+* ''[[Big Daddy (1999 film)|Big Daddy]]'' (1999)
+* ''[[Little Nicky]]'' (2000)
+* ''[[Punch-Drunk Love]]'' (2002)
+* ''[[Anger Management (film)|Anger Management]]'' (2003)
+* ''[[50 First Dates]]'' (2004)
+* ''[[The Longest Yard (2005 film)|The Longest Yard]]'' (2005)
+* ''[[Click (2006 film)|Click]]'' (2006)
+* ''[[Reign Over Me]]'' (2007)
+* ''[[I Now Pronounce You Chuck and Larry]]'' (2007)
+* ''[[You Don't Mess with the Zohan]]'' (2008)
+* ''[[Grown Ups (film)|Grown Ups]]'' (2010)
+* ''[[Jack and Jill (2011 film)|Jack and Jill]]'' (2011)
+* ''[[Hotel Transylvania]]'' (2012)
+* ''[[Grown Ups 2]]'' (2013)
+* ''[[Pixels (2015 film)|Pixels]]'' (2015)
+* ''[[Hotel Transylvania 2]]'' (2015)
+* ''[[The Ridiculous 6]]'' (2015)
+* ''[[The Meyerowitz Stories|The Meyerowitz Stories (New and Selected)]]'' (2017)
+* ''[[Hotel Transylvania 3: Summer Vacation]]'' (2018)
+* ''[[Murder Mystery (film)|Murder Mystery]]'' (2019)
+}}
+
+== Discography ==
+[[File:Adam Sandler footprint.jpg|thumb|Sandler's handprints and shoeprints in front of [[Grauman's Chinese Theatre]], 2008]]
+;Studio albums
+{| class="wikitable"
+|-
+! Year
+! Title
+! Certification
+|-
+| 1993
+|''[[They're All Gonna Laugh at You!]]''
+| 2× Platinum&lt;ref name="RIAA"&gt;{{cite web|url=https://www.riaa.com/goldandplatinumdata.php?artist=Sandler+Adam|title=RIAA - Gold &amp; Platinum - Sandler, Adam|publisher=[[Recording Industry Association of America]]|accessdate=April 4, 2014}}&lt;/ref&gt;
+|-
+| 1996
+|''[[What the Hell Happened to Me?]]''
+| 2× Platinum&lt;ref name="RIAA"/&gt;
+|-
+| 1997
+|''[[What's Your Name?]]''
+| Gold&lt;ref name="RIAA"/&gt;
+|-
+| 1999
+|''[[Stan and Judy's Kid]]''
+| Gold&lt;ref name="RIAA"/&gt;
+|-
+| 2004
+|''[[Shhh...Don't Tell]]''
+|
+|}
+
+==Awards and nominations==
+{{main|List of awards and nominations received by Adam Sandler}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Wikiquote}}
+{{commons|Adam Sandler}}
+* {{Official|http://www.adamsandler.com}}
+* {{IMDb name|0001191}}
+* {{Mojo name|adamsandler}}
+
+{{Use mdy dates|date=September 2013}}
+{{Adam Sandler}}
+{{Navboxes
+|title = Awards for Adam Sandler
+|list =
+{{MTV Movie Award for Best Fight}}
+{{MTV Movie Award for Best Kiss}}
+{{MTV Movie Award for Best Comedic Performance}}
+{{MTV Movie Award for Best On-Screen Duo}}
+{{Teen Choice Award Choice Hissy Fit}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sandler, Adam}}
+[[Category:Adam Sandler|*]]
+[[Category:1966 births]]
+[[Category:20th-century American comedians]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century American male actors]]
+[[Category:21st-century American writers]]
+[[Category:Actors from Manchester, New Hampshire]]
+[[Category:American comedy musicians]]
+[[Category:American film producers]]
+[[Category:American male comedy actors]]
+[[Category:American male film actors]]
+[[Category:American male screenwriters]]
+[[Category:American male singers]]
+[[Category:American male television actors]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American sketch comedians]]
+[[Category:American stand-up comedians]]
+[[Category:American screenwriters]]
+[[Category:American television writers]]
+[[Category:Comedians from New York City]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish American musicians]]
+[[Category:Jewish American screenwriters]]
+[[Category:Jewish American writers]]
+[[Category:Jewish American comedians]]
+[[Category:Jewish male comedians]]
+[[Category:Living people]]
+[[Category:Male actors from New Hampshire]]
+[[Category:Male actors from New York City]]
+[[Category:Male television writers]]
+[[Category:Manchester Central High School alumni]]
+[[Category:Musicians from Brooklyn]]
+[[Category:Singers from New Hampshire]]
+[[Category:New York (state) Republicans]]
+[[Category:Writers from Manchester, New Hampshire]]
+[[Category:Singers from New York City]]
+[[Category:Television producers from New York City]]
+[[Category:Tisch School of the Arts alumni]]</text>
+      <sha1>ia8si0exw54eyd750vmjyityt4gbavu</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yves Rousseau</title>
+    <ns>0</ns>
+    <id>24698568</id>
+    <revision>
+      <id>833135520</id>
+      <parentid>794570823</parentid>
+      <timestamp>2018-03-29T21:07:13Z</timestamp>
+      <contributor>
+        <username>Thecianinator</username>
+        <id>29975906</id>
+      </contributor>
+      <minor/>
+      <comment>212nd (two hundred tendy second?) replaced with 212th, correct grammar.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2685">'''Yves Rousseau''' is a French inventor and aviator credited with multiple ultralight aircraft [[Fédération Aéronautique Internationale|FAI]] world records. He has received international recognition for his 13 years of work on human-powered [[ornithopter]] flight. Rousseau attempted his first human-powered flight with flapping wings in 1995.
+
+In 2005, Rousseau was given the [[Paul Tissandier Diploma]], awarded to those who have served the cause of aviation in general and sporting aviation in particular, by their work, initiative, devotion or in other ways.
+After having made oscillate the wings of a [[hang glider]], Yves mounted his patented  flapping mechanism on a 'Vector' ultralight airplane and on 20 April 2006, at his 212th attempt, he succeeded in flying a distance of 64 metres, observed by officials of the Aero Club de France. Unfortunately, on his 213th flight attempt, a gust of wind led to a wing breaking up, causing the pilot to be gravely injured and rendered [[paraplegic]].&lt;ref&gt;[http://www.fai.org/awards/recipient.asp?id=4181 FAI award] {{webarchive |url=https://web.archive.org/web/20070707182622/http://www.fai.org/awards/recipient.asp?id=4181 |date=7 July 2007 }}&lt;/ref&gt;
+
+Rousseau patented a few ultralight aircraft, including the wheeled prone ultralights '''Pulcim 220''', the '''Pulcim 521''' and a foot-launched [[powered hang glider]] harness called '''Relax 220'''.&lt;ref&gt;[https://archive.is/20090819151614/http://perso.orange.fr/pulma1/Un%20peu%20d'histoire.htm Yves Rousseau marketed aircraft]&lt;/ref&gt;
+
+==World records==
+{| class="wikitable"
+|+ FAI powered microlight world records by Rousseau
+|-
+! Place || Date || Aircraft || Class || Record
+|-
+| France || 22 October 1989 || Tecma – Colt Ascender || RWL1 || Distance straight line &amp; limited fuel: 397&amp;nbsp;km (247&amp;nbsp;mi)
+|-
+| France || 16 July 1989 || Tecma – Colt Ascender || RWL1 || Distance closed circuit &amp; limited fuel: 213&amp;nbsp;km (132&amp;nbsp;mi)
+|-
+| France || 18 July 1992 || Medium Ropuleim || RWF1 || Altitude above sea level: 5230 m (17,159&amp;nbsp;ft)
+|-
+| France || 18 July 1992 || Medium Ropuleim || RWF1 || Climb time to 3000 m: 24 min (410&amp;nbsp;ft/min = 2.08&amp;nbsp;m/s)
+|}
+
+==References==
+{{reflist}}
+
+== External links==
+*[http://www.vampair.hu/modules.php?name=News&amp;file=article&amp;sid=422 Images of flights]
+*[https://web.archive.org/web/20050311110209/http://www.jumpnfly.privat.t-online.de/ni.htm?nilinks.htm Images of mechanism] (under the 'Links' option)
+
+{{Use dmy dates|date=November 2010}}
+
+{{DEFAULTSORT:Rousseau, Yves}}
+[[Category:French aviators]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:French aviation record holders]]</text>
+      <sha1>6tpfy1ie4n2jyr2s0hb9r9ziqm0kfnt</sha1>
+    </revision>
+  </page>
+</mediawiki>

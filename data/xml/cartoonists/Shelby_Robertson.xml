@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shelby Robertson</title>
+    <ns>0</ns>
+    <id>14558865</id>
+    <revision>
+      <id>770862571</id>
+      <parentid>763403662</parentid>
+      <timestamp>2017-03-18T01:30:37Z</timestamp>
+      <contributor>
+        <username>Hyperbolick</username>
+        <id>30089549</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguated: [[Bad Blood]] → [[Bad Blood (Deadpool)]], [[Creator]] → [[Creative work]] (2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6165">{{BLP primary sources|date=February 2008}}
+{{Infobox comics creator
+| image         = 6.28.13ShelbyRobertsonByLuigiNovi2.jpg
+| size          = Robertson at the 2013 [[Wizard World]]&lt;br&gt;New York Experience in Manhattan
+| caption       = 
+| birth_name    = Shelby Robertson
+| birth_date    = 
+| birth_place   = 
+| death_date    = 
+| death_place   = 
+| nationality   = [[United States|American]], [[Czechoslovakian]]
+| area          = Creator, penciler, writer, colorist, painter
+| alias         = Shelb, War, Warmonger, Mustang
+| notable works = ''[[S-Unit]]''
+| influences    = {{plainlist|
+*[[Michael Turner (comics)|Michael Turner]]&lt;ref name=CreatingGN/&gt;
+*[[Arthur Adams (comics)|Arthur Adams]]&lt;ref name=CreatingGN/&gt;
+*[[Jim Lee]]&lt;ref name=CreatingGN/&gt;
+*[[Marc Silvestri]]&lt;ref name=CreatingGN/&gt;
+*[[Frank Frazetta]]&lt;ref name=CreatingGN/&gt;
+*[[Travis Charest]]&lt;ref name=CreatingGN/&gt;
+*[[Terry Dodson]]&lt;ref name=CreatingGN/&gt;
+}}
+| awards        = 2011 ''[[Phoenix New Times]]'' Best Comic Book Artist Award&lt;ref name=PhoenixNewTimes&gt;[http://www.phoenixnewtimes.com/bestof/2011/award/best-comic-book-artist-2728747/ "Best Comic Book Artist - 2011: Shelby Robertson"]. ''[[Phoenix New Times]]''. Retrieved June 23, 2013.&lt;/ref&gt;
+| website       = http://www.americandischord.com
+}}
+'''Shelby Robertson''' is an [[United States|American]] [[comic book]] illustrator, known for his distinctive style pinup renditions of attractive fictional female characters. His detailed rendering of heavily muscled figures has been compared to that of [[Frank Frazetta]] and [[Michael Turner (comics)|Michael Turner]].&lt;ref name=PhoenixNewTimes&gt;[http://www.phoenixnewtimes.com/bestof/2011/award/best-comic-book-artist-2728747/ "Best Comic Book Artist - 2011: Shelby Robertson"]. ''[[Phoenix New Times]]''. Retrieved June 23, 2013.&lt;/ref&gt; He describes his style as "part Marvel, part DC, and part old school Image".&lt;ref name=CreatingGN&gt;[http://www.sigmatestudio.com/2009/10/shelby-robertson/ "Shelby Robertson"]. Creating a Graphic Novel: Art - Food - Photography. Retrieved July 26, 2013.&lt;/ref&gt;
+
+==Early life==
+Shelby Robertson had no formal art training. His biggest influence is British artist [[Alan Davis]], in particular Davis' work on ''[[Excalibur (comics)|Excalibur]]'' in the late 1980s and early 1990s. Robertson elaborates that it was not Davis' style that he wished to emulate, but that seeing his work inspired him to want to draw for a living. In terms of artists whose work he emulates, he acknowledges that his work appears heavily influenced by [[Michael Turner (comics)|Michael Turner]], [[Arthur Adams (comics)|Arthur Adams]], [[Jim Lee]], [[Marc Silvestri]], and [[Frank Frazetta]], all of whom he is a fan, and also mentions [[Travis Charest]] and [[Terry Dodson]].&lt;ref name=CreatingGN/&gt;
+
+==Career==
+Robertson's art career started at the age of 15 when he was hired by the [[United Kingdom|British]] ''Aeronautics Magazine'' as a lead artist and concept illustrator. He was hired by [[Rob Liefeld]] at the age of 17, and his first submission pin-up became his first published work in the industry.&lt;ref name=CreatingGN/&gt; He did Rascal from the ''Black Flag'' comic serialized tale and after a few months, was permitted to do his own book, "Crypt and tons of fill in pagework".{{Attribution needed|date=February 2014}} He also helped out with many "ghost" inks and was often used as a background assistant to seasoned veteran comic book artists.{{citation needed|date=June 2013}}
+ 
+Since leaving Extreme Studios in 1996, he has worked on a number of different titles for different publishers. He has also done work for the music industry, including layout and pre-press production for [[Glenn Danzig]], [[Bloodhound Gang]], Agent 51 [[Adeline Records]], Box Of Stuff, and Kidd Nasty.{{citation needed|date=June 2013}}
+
+Shelby worked in the [[VideoGames]] industry full-time from 2012 - 2014 as a character designer, portrait painter, and asset designer on several online PC games including asset design freelance. In 2016 and part of 2017, Shelby provided ink finished work on the [[Deadpool]] trade paperback titled [[Bad Blood (Deadpool)|Bad Blood]] with pencils supplied by Deadpool creator [[Rob Liefeld]]. Shelby is also providing artwork for upcoming Extreme relaunch titles, tbd. Shelby is also providing artwork for 2017 installments of 94 and [[Madam Satan]] [[American Dischord]] properties.
+
+==Awards==
+*2011 ''[[Phoenix New Times]]'' Best Comic Book Artist Award&lt;ref name=PhoenixNewTimes/&gt;
+
+==Partial bibliography==
+* 1993 - 1995 British Aeronautics Journal, British Aeronautics Magazine, Aeros Worldwide [[AutoCAD]] Designer
+* 1995 - Early 1998 [[Image Comics]], Crypt 1, Chapel 3, Badrock Fan Magazine, Prophet Chromium Trading Cards
+* 1996 [[Maximum Press]], Black Flag 0, Black Flag 4, Avengelyne Swimsuit 1
+* 1996 [[Malibu Press]] Prime [[Penciler]] *9 issue run cancelled due to [[Marvel Comics]] purchase of the [[West Coast of the United States|West Coast]] publishing house
+* 1996 - 1997 Entity Comics, Fem 5 1 - 5, Fem 5 Untold 1, Stargate 1 - 2, Krusada 1
+* 1997 - 1999 London Night Studios, Morbid Angel 1 - 3, Razor (Various Covers, Trading Cards, and Poster Arts)
+* 1998 [[Verotik]] Albino Spider of Dajette 0 [[Artist]], Satanika 1 - 3 [[Artist]], Verotik Halloween Cards, Dalkiel 1 [[Inker]]
+* 1999 - 2003 Anelektrix Entertainment, Latex Alice 0 - 3, NVN 0, Forever Realms 1, Darkshrine 1 - 4
+* 2004 - 2012 [[United States|American]] Dischord, Latex Alice 1, S-Unit 0, Shelby Robertson Sketchbook Vol. 1
+* 2013 - Current [[United States|American]] Dischord, Deadpool Bad Blood [[Inker]], VexOps [[Colorist]] [[Cover Artist]], Shelby Robertson Sketchbook Vol. 1 - Vol. 3 [[Artist]], [[Madam Satan]] [[Co-Creator]] [[Penciler]] [[Inker]] [[Colorist]], 94 Issues 1 through 3.5 [[Creative work|Creator]] [[Writer]] [[Penciler]] [[Inker]] [[Cover Colorist]], 94 Series 2 [[Creative work|Creator]] [[Writer]] [[Penciler]] [[Inker]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* [http://www.americandischord.com American Dischord]
+
+{{DEFAULTSORT:Robertson, Shelby}}
+[[Category:American comics artists]]
+[[Category:Living people]]</text>
+      <sha1>1jhv7lg6hrcq3h2gsfs6adae6fw1osz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,219 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Albert Scott Crossfield</title>
+    <ns>0</ns>
+    <id>748827</id>
+    <revision>
+      <id>852026151</id>
+      <parentid>851991633</parentid>
+      <timestamp>2018-07-26T04:07:15Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23084">{{Infobox astronaut
+|name=Albert Scott Crossfield
+|image=USAF x15-29 072.jpg
+|alt=
+|caption=
+|type=[[United States Navy|USN]]-[[NACA]]-[[North American Rockwell|NAR]], [[Test pilot|Test Pilot]], [[NASA Astronaut Corps#Astronaut Candidates|Astronaut-Select]]
+|nationality=American
+|birth_date={{birth date|1921|10|2}}
+|birth_place=[[Berkeley, California]], U.S.
+|death_date={{death date and age|2006|4|19|1921|10|2}}
+|death_place=[[Ludville, Georgia]], U.S.
+|resting_place=[[Arlington National Cemetery]]
+|alma_mater=[[University of Washington]], B.S. 1949, M.S. 1950
+|previous_occupation= [[Test pilot]]
+|rank=
+|selection=[[List of astronauts by selection#1957|1957 MISS Group]]
+|time=
+|mission=None
+|insignia=
+| Date of ret   = December 6, 1960
+}}
+'''Albert Scott Crossfield''' (October 2, 1921 – April 19, 2006) was an American [[United States Navy|naval officer]] and [[test pilot]]. In 1953, he became the first pilot to fly at twice the [[speed of sound]].
+
+==Biography==
+Born October 2, 1921, in [[Berkeley, California]], Crossfield grew up in [[California]] and [[Washington (state)|Washington]]. He served with the [[United States Navy|U.S. Navy]] as a [[flight instructor]] and [[fighter pilot]] during [[World War II]]. During this time, he flew the [[F6F]] and [[F4U]] fighters, as well as SNJ trainers, and a variety of other aircraft. From 1946 to 1950, he worked in the [[University of Washington]]'s [[Kirsten Wind Tunnel]] while earning his [[Bachelor of Science]] degree in 1949 and [[Master of Science]] degree in [[Aerospace engineering|Aeronautical Engineering]] in 1950.
+
+=== Military career ===
+In 1950, Crossfield joined the [[National Advisory Committee for Aeronautics]]' (NACA) High-Speed Flight Station (later called the [[NASA]] [[Dryden Flight Research Center]], and now named the [[Neil A. Armstrong Flight Research Center]]) at [[Edwards Air Force Base]], California, as an aeronautical research pilot.&lt;ref&gt;Until 1949, the base was called Muroc Field, reverse spelling of the wealthy California Corum family who donated the land to the Army Air Corps.&lt;/ref&gt;
+[[File:Scott Crossfield and D-558-2, November 20, 1953.jpg|thumb|left|upright|Crossfield in the cockpit a Douglas D-558-II Skyrocket during November 1953]]
+
+Crossfield demonstrated his flight test skills on his very first student solo. His instructor was not available on the designated early morning, so Crossfield, on his own, took off and went through maneuvers he had practiced with his instructor, including spin entry and spin recovery. During the first spin, Crossfield experienced vibrations, banging, and noise in the aircraft that he had never encountered with his instructor. He recovered, climbed to a higher altitude, and repeated his spin entry and spin recovery, getting the same vibration, banging and noise. On his third spin entry, at yet an even higher altitude, he looked over his shoulder as he was spinning and observed the instructor's door disengaged and flapping in the spin. He reached back, pulled the door closed, and discovered all the vibrations, banging and noise stopped. Satisfied, he recovered from the spin, landed (actually, did several landings), and fueled the airplane. He also realized his instructor had been holding the door during their practice spin entries and recoveries, and never mentioned this door quirk. In later years, Crossfield often cited his curiosity about this solo spin anomaly and his desire to analyze what was going on and why it happened, as the start of his test pilot career.
+
+Over the next five years, he flew nearly all of the [[experimental aircraft]] under test at Edwards, including the [[Bell X-1|X-1]], [[XF-92]], [[X-4 Bantam|X-4]], [[Bell X-5|X-5]], [[Douglas Skystreak|Douglas D-558-I Skystreak]] and the [[Douglas Skyrocket|Douglas D-558-II Skyrocket]].  During one of his X-1 flights, the cockpit windows completely frosted and Crossfield was literally flying blind. Ever resourceful, he removed a loafer, took off his sock, and created a peep hole to reference his chase plane wingman all the way to landing.&lt;ref&gt;{{cite web| last =Merlin| first =Peter| title =A test pilot's final dawn| work =The X-Hunters| date =April 2006| url =http://www.thexhunters.com/xtras/crossfield.html| accessdate = 17 April 2013}}&lt;/ref&gt; On November 20, 1953, he became the first person to fly at twice the speed of sound as he piloted the Skyrocket to a speed of 1,291&amp;nbsp;mph (2,078&amp;nbsp;km/h, [[Mach (speed)|Mach]] 2.005).&lt;ref name=NTRS&gt;{{cite web|last=Hallion|first=Richard P.|title=The NACA, NASA, and the Supersonic-Hypersonic Frontier|url=https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100025896_2010028361.pdf|work=NASA|publisher=NASA Technical Reports Server|accessdate=7 September 2011}}&lt;/ref&gt; The Skyrocket D-558-II surpassed its intended design speed by 25 percent on that day. With 99 flights in the rocket-powered X-1 and D-558-II, Crossfield had — by a wide margin — more experience with rocketplanes than any other pilot in the world by the time he left Edwards to join [[North American Aviation]] in 1955.
+
+In September 1954, Crossfield was forced to make a [[deadstick landing]] in the [[North American F-100 Super Sabre]] he was evaluating at the High-Speed Flight Station (now the [[Neil A. Armstrong Flight Research Center]]), a feat which North American's own test pilots doubted could be done, as the F-100 had a high landing speed. Crossfield made a perfect approach and touchdown, but was unable to bring the unpowered aircraft to a halt in a safe distance, and was forced to use the wall of the NACA hangar as a makeshift brake after narrowly missing several parked experimental aircraft ("with great precision," as he later wryly joked). Crossfield was uninjured, and the F-100 was later repaired and returned to service.&lt;ref&gt;{{cite web|url=http://www.dfrc.nasa.gov/gallery/photo/F-100/HTML/E-1366.html |title=NASA Dryden Photo Collection: F-100A with nose through hangar wall |publisher=Dfrc.nasa.gov |accessdate=2010-12-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20100612153650/http://www.dfrc.nasa.gov/gallery/Photo/F-100/HTML/E-1366.html |archivedate=2010-06-12 }}&lt;/ref&gt; Crossfield left NACA in 1955.&lt;ref&gt;{{cite web|url=http://www.nasa.gov/centers/armstrong/news/Biographies/Pilots/bd-dfrc-p021.html|title=Former Pilots: A. Scott Crossfield|work=NASA|accessdate=12 April 2016}}&lt;/ref&gt;
+
+=== North American Aviation career ===
+As chief engineering [[test pilot]] for North American, Crossfield played a major role in the design and development of the [[North American X-15]] and its systems. Once it was ready to fly, it was his job to demonstrate its airworthiness at speeds ranging up to Mach 3 (2,290&amp;nbsp;mph). Because the X-15 and its systems were unproven, these tests were considered extremely hazardous. Crossfield flew 14 of the 199 total X-15 flight tests with most of these tests establishing and validating initial key parameters. Crossfield not only designed the X-15 from the beginning, but introduced many innovations, including putting engine controls of the rocket plane into the cockpit. Previously, all engine adjustments resulted from technicians making adjustments on the ground based upon results of flight profiles.
+
+It was during this time that Crossfield was part of the [[U.S. Air Force]]'s [[Man In Space Soonest]] project.
+
+On June 8, 1959, he completed the airplane's first flight, an unpowered glide from 37,550 feet.  The flight was troubled as the flight controls had not been set up properly.  As Crossfield attempted to land the unfueled X-15, it went into what Crossfield described as "a classic PIO" or pilot induced oscillation.  He managed to set down the X-15 on the desert runway at the bottom of one of the severe oscillations saving himself and the airframe.&lt;ref&gt;https://www.youtube.com/watch?v=3W8iqI4h-zY&lt;/ref&gt;  On September 17, 1959, he completed the first powered flight. Because of delays in the development of the X-15's mammoth 57,000 pounds force (254&amp;nbsp;kN) thrust XLR-99 engine, the early flights were completed with a pair of interim XLR-11 rocket engines.
+
+Shortly after launch on his third flight, one of these engines exploded. Unable to jettison his propellants, Crossfield was forced to make an emergency landing during which the excessive load on the aircraft broke its back just behind the cockpit. He was uninjured and the airplane was repaired.
+
+On June 8, 1960, he had another close call during ground tests with the XLR-99 engine. He was seated in the cockpit of the No. 3 X-15 when a malfunctioning valve caused a catastrophic explosion. Once again he was uninjured as Dr. [[Toby Freedman]], NAA Medical Director, pried open the cockpit to save him and despite being subjected to a later calculated acceleration force of near 50 Gs (although Crossfield stated in the Discovery Channel's series ''Frontiers of Flight'' that he began to have debilitating issues with his night vision after the accident) and the airplane was completely rebuilt. On November 15 of the same year, he completed the X-15's first powered flight with the XLR-99 engine. Two flights later, on December 6, he brought North American's demonstration program to a successful conclusion as he completed his final flight in the X-15. Although it had been his hope to eventually pilot one of the craft into space, the USAF would not allow it, and gave strict orders which basically amounted to "stay in the sky, stay out of space."
+
+All together, he completed 16 captive flights (mated to the [[B-52 Stratofortress|B-52]] launch aircraft), one glide and 13 powered flights in the X-15.  The surprise retirement of the X-15 (due to funding cutbacks) after its record-setting Mach 6.72 (4,520&amp;nbsp;mph) flight prompted pilot [[William J. Knight|Pete Knight]] to remark that he would have pushed it to even faster speeds if he knew it was the last flight. In his remarks to a number of aviation groups, Crossfield cited the X-15 as one of few aircraft that caused grown men to cry upon its retirement.
+
+He remained at North American as systems director of test and quality assurance in the company's Space and Information Systems Division where he oversaw quality, reliability engineering and systems test activities for such programs as the [[Project Apollo|Apollo]] command and service modules and the Saturn II booster. In 1966, he became the division's technical director for research engineering and test.
+
+=== Civilian career ===
+In 1961, Crossfield became division director of test and quality assurance for NAA's Paraglider project.&lt;ref&gt;Page 237, Astronautics and Aeronautics, 1967.&lt;/ref&gt;
+
+In 1967, Crossfield joined [[Eastern Air Lines]] where he served as a division vice president for research and development and, subsequently, as a staff vice president working with U.S. military and civilian agencies on [[air traffic control]] technologies.
+
+In 1974–1975, he worked for [[Hawker Siddeley]] as a senior vice president supporting [[HS146]] activities in the United States. In 1977, he joined the [[United States House of Representatives]] [[United States House Committee on Science, Space and Technology|Committee on Science and Technology]] where he served, until his retirement in 1993, as a technical adviser on all aspects of civil aviation research and development and became one of the nation's leading advocates for a reinvigorated research airplane program. In 1986, this House Committee tasked Crossfield to be a member of the task group assigned to investigate the [[Space Shuttle Challenger disaster]].
+
+In a 2000 public lecture, Crossfield described how the X-15 aeronautical calculations and design required computing power that filled four 10'x12' rooms. He went on to say that these very same calculations could be performed today on a notebook computer. He also hinted that [[Burt Rutan]] and his Scaled Composite company were performing pioneering work for a private aircraft to take-off from an airport, fly into outer space, and return to that airport. In 2004, White Knight carried [[Space Ship One]] to its successful launch and winning of the [[Ansari X-Prize]], the first attempt by a plane since the X-15 cancellation.
+
+=== Later life ===
+[[File:X 15 Test Pilot Scott Crossfield at the launch of Space Ship One. by D Ramey Logan.jpg|thumb|Crossfield at the launch of [[Space Ship One]] in October 2004]]
+Crossfield was played by [[Scott Wilson (actor)|Scott Wilson]] in the [[1983 in film|1983]] film ''[[The Right Stuff (film)|The Right Stuff]]''.
+
+Crossfield co-authored ''Always Another Dawn'', a story of a rocket test pilot, with [[Clay Blair]] Jr, and authored "Onward and Upward" ''Research Airplanes, Act II''.
+
+In 1986 he created and funded the A. Scott Crossfield Aerospace Education Teacher of the Year Award presented annually under the stewardship of the Civil Air Patrol during the National Congress on Aerospace Education now called the National Conference on Aerospace Education (NCASE). After his death in 2006 and the shift of NCASE from an annual to biannual conference, Crossfields's daughter, Sally Crossfield Farley, moved the award to the [[National Aviation Hall of Fame]] and it is now presented during the Enshrinement Weekend each July in [[Dayton, Ohio]].
+
+In the 1991 Discovery Channel series Frontiers of Flight, Crossfield claimed he "...probably had more centrifuge time, pressure suit time and pressure chamber time and all of that than any man alive." &lt;ref&gt;https://www.youtube.com/watch?v=3W8iqI4h-zY&lt;/ref&gt;
+
+From 2001 to 2003, Crossfield trained pilots Terry Queijo, Kevin Kochersberger, Chris Johnson and Ken Hyde for The Wright Experience, which prepared to fly a reproduction [[Wright Flyer]] on the 100th anniversary of the [[Wright Brothers]]' first flight on December 17, 1903. The training was successful, but the re-creation of the flight on December 17, 2003 was ultimately not successful due to low engine power and the flyer's rain-soaked fabric covering which added considerably to its takeoff weight. The Wright replica did fly successfully at [[Kill Devil Hills, North Carolina]] after the Centennial jubilee but without media coverage.
+
+When asked to name his favorite airplane, Crossfield replied, "the one I was flying at the time," because he thoroughly enjoyed them all and their unique personalities.
+
+== Death ==
+{{Infobox aircraft occurrence
+|occurrence_type = Accident
+|name = 2006 Cessna 210A crash
+|image = |caption = 
+|date = Wednesday, April 19, 2006&lt;br/&gt;11:10 AM [[Eastern Time Zone|EST]]
+|type=[[Air traffic control|ATC]] error&lt;br&gt;[[Weather|Foul weather]]&lt;br&gt;[[Pilot error]]
+|site = [[Ludville, Georgia|Ludville]], [[Georgia (U.S. state)|Georgia]], United States
+|aircraft_type = [[Cessna 210]]A
+|aircraft_name = ''Centurion''
+|tail_number = {{hlist |N6579X C/n |msn:21057579}}
+|origin = [[Prattville-Grouby Field]]&lt;br/&gt;[[Prattville, Alabama|Prattville]], [[Alabama]], United States
+|last_stopover = [[Maxwell Air Force Base]]&lt;br/&gt;[[Montgomery, Alabama|Montgomery]], Alabama
+|destination = [[Manassas Regional Airport]]&lt;br/&gt;[[Manassas, Virginia|Manassas]], [[Virginia]]
+|passengers = 0
+|crew = 1
+|fatalities = 1 (all)
+}}
+
+On April 19, 2006, a [[Cessna 210|Cessna 210A]] piloted by Crossfield was reported missing while flying from [[Prattville, Alabama]] toward [[Manassas, Virginia]].&lt;ref name="cnn_missing"&gt;"[http://www.cnn.com/2006/US/04/20/georgia.plane/ Famed test pilot missing in flight]." [[Cable News Network]]. April 20, 2006.&lt;/ref&gt; On April 20, authorities confirmed his body was found in the wreckage of his plane in a remote area of [[Ludville, Georgia|Ludville]], [[Georgia (U.S. state)|Georgia]]. There were severe [[thunderstorm]]s in the area when air traffic monitors lost radio and radar contact with Crossfield's plane.
+
+The [[Gordon County, Georgia|Gordon County]] Sheriff's department reported that debris from Crossfield's aircraft was found in three different locations within a quarter mile,&lt;ref name="avflash_debris_fields"&gt;[http://www.avweb.com/eletter/archives/avflash/621-full.html#192072 '''AV'''''web'' article: Scott Crossfield Final Flight] accessed 4 Oct 2004&lt;/ref&gt; suggesting that the plane broke up while it was still in the air.
+
+Crossfield was returning from [[Maxwell Air Force Base]], [[Montgomery, Alabama]], where he had given a speech to a class of young Air Force officers attending the [[Air and Space Basic Course]].  His funeral ceremony was held at the [[Arlington National Cemetery]] on August 15, 2006.
+
+On September 27, 2007, the [[National Transportation Safety Board]] issued a report stating the probable cause of his crash to be as follows: "The pilot's failure to obtain updated en route weather information, which resulted in his continued instrument flight into a widespread area of severe convective activity, and the air traffic controller's failure to provide adverse weather avoidance assistance, as required by [[Federal Aviation Administration]] directives, both of which led to the airplane's encounter with a severe thunderstorm and subsequent loss of control." &lt;!-- Note that we can use this text as NTSB work is in the public domain --&gt; &lt;ref&gt;[http://www.ntsb.gov/news/2007/070927.htm NTSB RELEASES FINAL REPORT ON ACCIDENT THAT KILLED FAMED AVIATOR SCOTT CROSSFIELD] - September 27, 2007 - accessed 2 Mar 2012.&lt;/ref&gt;&lt;ref&gt;[http://www.ntsb.gov/aviationquery/brief.aspx?ev_id=20060501X00494&amp;key=1 NTSB report CHI06MA115] accessed 2 Mar 2012&lt;/ref&gt;
+
+==Honors==
+Crossfield received the Lawrence Sperry Award (1954), [[Octave Chanute Award]] (1954), [[Iven C. Kincheloe Award]] (1960), American Rocket Society (ARS) Astronautics Award (1960), [[Harmon Trophy|Harmon International Trophy]] (1961 at the [[White House]] by President [[John F. Kennedy]]), [[Collier Trophy]] (1961 at the [[White House]] by President Kennedy in 1962), [[John J. Montgomery Award]] (1962), NASA Distinguished Public Service Medal (1993), and was named Honorary Fellow by the [[American Institute of Aeronautics and Astronautics]] (AIAA) (1999). Crossfield is the only American to be honored in the [[White House]] for his contributions in advancing aeronautical science - or any other discipline - more than once, let alone two consecutive years. He has been inducted into the International Aerospace Hall of Fame (1965)&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. {{ISBN|978-1-57864-397-4}}&lt;/ref&gt;, National Aviation Hall of Fame (1983), the [[International Space Hall of Fame]] (1988), the Virginia Aviation Hall of Fame (1998), [[Aerospace Walk of Honor]] (1990), The Glen A. Gilbert Memorial Award (1990) and the [[National Air and Space Museum Trophy]] (2000).  Posthumously, he has been awarded the [[Hoyt S. Vandenberg]] Award, the [[Paul Tissandier Diploma]], the [[Victor Prather|Victor A. Prather]] Award, and the [[Donald D. Engen]] Award.{{Citation needed|date=January 2016}}
+
+An elementary school was named in his honor near his last residence, in [[Herndon, Virginia]] (a community just northeast of [[Dulles International Airport]]). A ribbon named after him is one of the Aerospace Education Awards in the [[Civil Air Patrol]] Senior Members program. The terminal at the Chehalis-Centralia Airport (CLS) in Washington state bears his name.{{Citation needed|date=January 2016}}
+
+He was also most proud of his A. Scott Crossfield Aerospace Education Teacher of the Year Award which is awarded annually at what is known as the "Oscar Night" in aviation, the Annual Enshrinement Ceremony Weekend at the National Aviation Hall of Fame held each year at the end of July in Dayton, Ohio.{{Citation needed|date=January 2016}}
+
+Crossfield received an honorary doctor of science degree from the [[Florida Institute of Technology]] in 1982.{{Citation needed|date=January 2016}}
+
+==Legacy==
+While he was celebrated as a daring test pilot, he claimed that his actual profession was an engineer. "I am an aeronautical engineer, an aerodynamicist and a designer. My flying was only primarily because I felt that it was essential to designing and building better airplanes for pilots to fly."&lt;ref&gt;[http://www.seattlepi.com/local/article/Famed-aviator-Scott-Crossfield-dies-in-plane-crash-1201589.php Seattle Post-Intelligencer: ''Famed aviator Scott Crossfield dies in plane crash''] accessed 4 Oct 2007&lt;/ref&gt;
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{Cite book|last=Crossfield|first=A. Scott|author2=Blair Jr., Clay|title=Always Another Dawn|publisher=Arno Press|year=1960|isbn=0-405-03758-9}}
+*[[Milton O. Thompson|Thompson, Milton O.]] (1992) ''At The Edge Of Space: The X-15 Flight Program'', Smithsonian Institution Press, Washington and London. {{ISBN|1-56098-107-5}}
+
+==External links==
+{{Commons category|Albert Scott Crossfield}}
+* [http://www.nasa.gov/vision/earth/improvingflight/crossfield.html NASA Story on Scott Crossfield's Death]
+* [http://www.nasa.gov/pdf/147296main_crossfield.pdf Original NACA press release on Mach 2 flight]
+* {{webarchive |url=https://web.archive.org/web/20061009111238/http://www.edwards.af.mil/history/docs_html/people/pilot_crossfield.html |date=October 9, 2006 |title=X-15 Pilot Biographies }}
+* [http://www.spacefacts.de/bios/astronauts/english/crossfield_scott.htm Spacefacts biography of Albert Scott Crossfield]
+* [https://web.archive.org/web/20080513040905/http://www.fcps.k12.va.us/CrossfieldES/ A. Scott Crossfield Elementary School] near his former residence
+* [http://www.nasa.gov/home/hqnews/2006/apr/HQ_06191_Crossfield_death.html Statement by NASA administrator upon his death]
+* [https://www.washingtonpost.com/wp-dyn/content/article/2007/07/21/AR2007072101294.html Crossfield Not Warned of Storm] article from ''Washington Post''
+* [https://web.archive.org/web/20071012132614/http://communitydispatch.com/Announcements_9/Releases_Final_Report_on_Accident_That_Killed_Famed_Aviator_Scott_Crossfield.shtml Accident That Killed Famed Aviator Scott Crossfield, NTSB Releases Final Report]
+* [https://web.archive.org/web/20101118084001/http://scottcrossfieldfoundation.org/ Scott Crossfield Foundation] web site, retrieved March 25, 2008
+* {{Find a Grave|14011429|Scott Crossfield}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crossfield, Albert Scott}}
+[[Category:1921 births]]
+[[Category:2006 deaths]]
+[[Category:People from the San Francisco Bay Area]]
+[[Category:University of Washington alumni]]
+[[Category:Florida Institute of Technology alumni]]
+[[Category:American test pilots]]
+[[Category:Aviators from California]]
+[[Category:Flight instructors]]
+[[Category:United States Navy officers]]
+[[Category:United States Naval Aviators]]
+[[Category:United States Navy pilots of World War II]]
+[[Category:X-15 program]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:Accidental deaths in Georgia (U.S. state)]]
+[[Category:Burials at Arlington National Cemetery]]
+[[Category:Collier Trophy recipients]]
+[[Category:Harmon Trophy winners]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:People from Herndon, Virginia]]</text>
+      <sha1>84w0b92eribkoxqtbakkdittn7l8w1n</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,575 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mike Mignola</title>
+    <ns>0</ns>
+    <id>850381</id>
+    <revision>
+      <id>854980646</id>
+      <parentid>854980519</parentid>
+      <timestamp>2018-08-15T03:01:20Z</timestamp>
+      <contributor>
+        <username>Mtminchi08</username>
+        <id>7190484</id>
+      </contributor>
+      <comment>/* Covers */ add wikilink to [[Conan (Dark Horse Comics)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="50550">{{Use mdy dates|date=September 2011}}
+{{Use American English|date=June 2017}}
+{{Infobox comics creator
+| name          = Mike Mignola
+| image         = MikeMignolaJune2011.jpg
+| caption       = Mignola in June 2011
+| alt           =
+| birth_name    = Michael Joseph Mignola
+| birth_date    = {{Birth date and age|1960|9|16}}
+| birth_place   = [[Berkeley, California]]
+| nationality   = American
+| area          =
+| cartoonist    =
+| write         = y
+| art           =
+| pencil        = y
+| ink           = y
+| edit          =
+| publish       =
+| letter        =
+| color         =
+| alias         =
+| signature     = &lt;!-- very optional --&gt;
+| signature_alt =
+| notable works = ''[[Hellboy]]''&lt;br /&gt;''[[B.P.R.D.]]''&lt;br /&gt;''[[Cosmic Odyssey (comics)|Cosmic Odyssey]]'' &lt;br&gt;''[[Gotham by Gaslight]]''
+| collaborators  =
+| influences    =
+| influenced    =
+| awards        = [[#Awards|Full list]]
+| website       =
+| subcat        = American
+}}
+'''Michael Joseph''' "'''Mike'''" '''Mignola''' ({{IPAc-en|m|ɪ|g|ˈ|n|oʊ|l|ə}}; born September 16, 1960)&lt;ref&gt;{{cite web|last=Miller|first=John Jackson|authorlink= John Jackson Miller|url=http://cbgxtra.com/knowledge-base/for-your-reference/comics-industry-birthdays |title=Comics Industry Birthdays |work=[[Comics Buyer's Guide]] |date=June 10, 2005 |location=Iola, Wisconsin |archiveurl=https://www.webcitation.org/5trAbNQWw?url=http://cbgxtra.com/knowledge-base/for-your-reference/comics-industry-birthdays |archivedate=October 30, 2010 |deadurl=yes|df=mdy-all}}&lt;/ref&gt; is an [[Americans|American]] [[comics artist]] and writer known for creating the [[Hellboy Universe|"Mignola-verse"]] for [[Dark Horse Comics]], a collection of titles including ''[[Hellboy]]'', ''[[B.P.R.D.]]'' and various spinoffs (''[[Lobster Johnson]]'', ''[[Abe Sapien]]'', ''Sir Edward Grey, Witchfinder'', etc.). He has also created similarly themed titles for Dark Horse including ''[[Baltimore (comics)|Baltimore]]'', ''[[The Amazing Screw-On Head]]'', and ''Joe Golem: Occult Detective''. 
+
+Mignola's film work includes ''[[Bram Stoker's Dracula]]'' (1992), ''[[Atlantis: The Lost Empire]]'' (2001), ''[[Blade II]]'' (2002), the 2004 adaptation of ''[[Hellboy (2004 film)|Hellboy]]'', its [[Hellboy II: The Golden Army|2008 sequel]] and [[Hellboy (2019 film)|2019 reboot]].
+
+==Career==
+
+===Marvel and DC===
+Mignola was born in [[Berkeley, California]].&lt;ref name="Bio"&gt;{{cite web|url= http://www.artofmikemignola.com/Bio|title= Art of Mike Mignola - Bio|year= 2010|publisher= Art of Mike Mignola|archiveurl= https://web.archive.org/web/20131105025849/http://www.artofmikemignola.com/Bio|archivedate= November 5, 2013|deadurl= yes|df= mdy-all|accessdate= February 9, 2012}}&lt;/ref&gt; He began his career in 1980 by illustrating spots in ''[[The Comic Reader]]''.&lt;ref&gt;{{cite web |url= http://www.lambiek.net/artists/m/mignola.htm|title= Mike Mignola|date= March 31, 2013|publisher= [[Lambiek|Lambiek Comiclopedia]]|archiveurl= https://web.archive.org/web/20131220150049/http://www.lambiek.net/artists/m/mignola.htm|archivedate= December 20, 2013|deadurl= no|df=mdy-all}}&lt;/ref&gt; His first published piece was in ''The Comic Reader'' #183, a spot illustration of [[Red Sonja]] (pg. 9). His first published front cover was ''The Comic Reader'' #196 in November 1981. In 1982 he graduated from the [[California College of the Arts]] with a BFA in Illustration.&lt;ref name=mm&gt;{{cite web|author=Norrena, Jim|title=Spotlight: Mike Mignola|url=http://www.cca.edu/alumni/profiles/mmignola|publisher=[[California College of the Arts]]|archiveurl= https://web.archive.org/web/20120717040602/http://www.cca.edu/news/2009/11/12/alumnus-spotlight-mike-mignola|archivedate= July 17, 2012|deadurl= no|df=mdy-all|accessdate=February 9, 2012}}&lt;/ref&gt;
+
+In 1983 he worked as an inker at [[Marvel Comics]] on ''[[Daredevil (Marvel Comics series)|Daredevil]]'' and ''[[Power Man and Iron Fist]]'' and later on titles such as ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'', ''[[Alpha Flight (comic book)|Alpha Flight]]'', and the ''[[Rocket Raccoon (limited series)|Rocket Raccoon]]'' limited series.
+
+In 1987, he began working for [[DC Comics]] as well. He drew the ''[[Phantom Stranger]]''&lt;ref&gt;{{cite journal|last= Greenberger|first= Robert|authorlink= Robert Greenberger|title= The Paul Kupperberg ''Phantom Stranger'' Interview|journal= [[Back Issue!]]|issue= 92|pages= 44-50|publisher= [[TwoMorrows Publishing]]|date= October 2016|location= Raleigh, North Carolina}}&lt;/ref&gt; and ''[[Krypton (comics)|World of Krypton]]'' limited series.&lt;ref name="GCD"&gt;{{gcdb|type=credit|search= Mike+Mignola|title= Mike Mignola}}&lt;/ref&gt; With writer [[Jim Starlin]], Mignola produced the ''[[Cosmic Odyssey (comics)|Cosmic Odyssey]]'' miniseries in 1988.&lt;ref&gt;{{cite book|last=Manning|first= Matthew K.|last2=Dolan|first2=Hannah, ed.|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]]|year=2010|location= London, United Kingdom|isbn= 978-0-7566-6742-9 |page= 235 |quote = Writer Jim Starlin and artist Mike Mignola teamed up for a sci-fi miniseries that spanned the [DC Universe].}}&lt;/ref&gt; Mignola drew covers for several Batman stories, including "[[Batman: A Death in the Family]]"&lt;ref&gt;Manning "1980s" in Dolan, p. 235: "Written by Jim Starlin, with art by Jim Aparo and haunting covers by Mike Mignola, 'A Death in the Family' proved a best seller with readers in both single-issue and trade paperback form."&lt;/ref&gt; and "Dark Knight, Dark City".&lt;ref&gt;{{cite book|last= Manning|first= Matthew K.|last2=Dougall|first2=Alastair, ed.|chapter= 1990s|title= Batman: A Visual History|publisher= [[Dorling Kindersley]]|year= 2014|location= London, United Kingdom|page= 188|isbn= 978-1465424563|quote= Writer Peter Milligan penned this memorable three-issue storyline, illustrated by Kieron Dwyer and with cover art by Mike Mignola, in which the Riddler proved that he was still a serious threat to Batman.}}&lt;/ref&gt; Writer [[Brian Augustyn]] and Mignola crafted the ''[[Gotham by Gaslight]]'' one-shot in 1989.&lt;ref&gt;Manning "1980s" in Dolan, p. 241: "An 'alternate history of the Batman' was spawned in this dark prestige format one-shot by writer Brian Augustyn and artist Mike Mignola."&lt;/ref&gt; Through the early 1990s Mignola worked on covers and backup features for various DC and Marvel Comics.&lt;ref name="GCD" /&gt; He collaborated twice with writer [[Howard Chaykin]]. In 1990-1991, they produced the ''[[Fafhrd and the Gray Mouser]]'' limited series for [[Epic Comics]], with inker [[Al Williamson]]. This was followed with the ''[[Ironwolf (comics)|Ironwolf: Fires of the Revolution]]'' graphic novel in 1992.&lt;ref name="Greenberger"&gt;{{cite book|last = Greenberger|first = Robert|title = The Art of Howard Chaykin|publisher = [[Dynamite Entertainment]]|year = 2012|page = 132|isbn = 978-1606901694}}&lt;/ref&gt;
+
+===''Hellboy'' and related spin-offs===
+{{main article|Hellboy Universe}}
+
+====''Hellboy''====
+Prior to 1994 Mignola had done [[work-for-hire]] illustration. That year, [[Dark Horse Comics]] released ''[[Hellboy: Seed of Destruction]]'', Mignola's [[Creator ownership|creator-owned]] project. Though he wrote the story himself, it was scripted by [[John Byrne (comics)|John Byrne]]. The next ''Hellboy'' story, ''[[Hellboy: The Chained Coffin and Others#The Wolves of Saint August|The Wolves of Saint August]]'', was completely written and drawn by Mike Mignola. Since then all ''Hellboy'' stories have been written solely by Mike Mignola with the exception of ''[[Hellboy: The Crooked Man and Others#They That Go Down to the Sea in Ships|They That Go Down to the Sea in Ships]]'' which was co-written by ''Joshua Dysart''.
+
+''[[Hellboy: The Troll Witch and Others#Makoma|Makoma]]'' (2006) was the first ''Hellboy'' story not drawn by Mignola, featuring the art of  [[Richard Corben]]. Corben would return to draw many flashback stories for the series. Other artists have also had a hand in drawing flashback stories including [[Jason Shawn Alexander]], [[Kevin Nowlan]] and [[Scott Hampton]]. In 2007, following after 2005's ''[[Hellboy: Strange Places#The Island|The Island]]'', British artist [[Duncan Fegredo]] took over art duties on the ongoing story arc of ''Hellboy'' from ''[[Hellboy: Darkness Calls|Darkness Calls]]'' onwards.
+
+Mike Mignola returned as the full-time artist for ''Hellboy'' in 2012 for the ongoing series, ''Hellboy in Hell''. The series is currently published sporadically, but multiple-issue stories are monthly.&lt;ref&gt;{{cite web|last=Khouri |first=Andy |title=''Hellboy in Hell'' is the Comic Mike Mignola Will Be Drawing for the Rest of His Life |url=http://www.comicsalliance.com/2012/12/14/hellboy-in-hell-mike-mignola-interview/ |date=December 14, 2012 |publisher=Comics Alliance |archiveurl=https://web.archive.org/web/20131108130929/http://comicsalliance.com/hellboy-in-hell-mike-mignola-interview/ |archivedate=November 8, 2013 |deadurl=yes |accessdate=March 15, 2013|df=mdy-all}}&lt;/ref&gt;
+
+====''Abe Sapien''====
+In 1998 the first ''Hellboy'' spin-off, ''[[Abe Sapien#Publication History|Abe Sapien]]'', was launched. It was not written by Mike Mignola, but it did feature his ''Hellboy'' short story "[[Hellboy: The Right Hand of Doom#Heads|Heads]]" as a back-up. ''Abe Sapien'' did not take off properly until a decade later in 2008's ''The Drowning''. Since then it has had several short stories and beginning in 2013 it became an ongoing series with [[Scott Allie]] as the lead writer with Mignola.&lt;ref&gt;{{cite web|last=Salvatore|first=Brian|title=Talkin’ Abe Sapien with Scott Allie|url=http://multiversitycomics.com/interviews/mignolaversity-talkin-abe-sapien-with-scott-allie-interview/|date= March 1, 2013|archiveurl= https://web.archive.org/web/20131102020721/http://multiversitycomics.com/interviews/mignolaversity-talkin-abe-sapien-with-scott-allie-interview/|archivedate= November 2, 2013|deadurl= no|df=mdy-all|accessdate=March 15, 2013}}&lt;/ref&gt;
+
+====''Lobster Johnson''====
+''[[Lobster Johnson]]'' was the next spin-off, debuting as a back-up feature in 1999's ''[[Hellboy: The Right Hand of Doom#Box Full of Evil|Box Full of Evil]]''. The series got its own title later in 2007's ''Lobster Johnson: The Iron Prometheus''. It returned again with the [[Limited series (comics)|miniseries]] ''The Burning Hand'' in 2012, followed by various short stories.
+
+====''B.P.R.D.''====
+''[[B.P.R.D.#Publication History|B.P.R.D.]]'' was the third spin-off, but it was the first one which was conceived to be more than just a one-off side story, but rather a series of stories.&lt;ref name="Introduction by Scott Allie"&gt;{{cite book|last=Mignola|first=Mike|title=B.P.R.D.: Plague of Frogs - Volume 1|year=2011|publisher=[[Dark Horse Comics]]|isbn=978-1-59582-609-1|chapter= Introduction by Scott Allie|url=http://www.darkhorse.com/Books/17-169/B-P-R-D-Plague-of-Frogs-Hardcover-Collection-Vol-1}}&lt;/ref&gt; It began with 2002's ''[[B.P.R.D.: Hollow Earth and Other Stories|Hollow Earth]]'', which continued on from ''[[Hellboy: Conqueror Worm]]''. Beyond that followed a series of short stories designed to explore what the B.P.R.D. series could be. 2004's ''[[B.P.R.D.: Plague of Frogs|Plague of Frogs]]'' was the story that solidified what the series was, and would set the direction for future books to come, so much so that the first major story cycle is collected in omnibus editions titled ''B.P.R.D.: Plague of Frogs''. A vast majority of the stories in this era were co-written with [[John Arcudi]] and drawn by [[Guy Davis (comics)|Guy Davis]].
+
+====''B.P.R.D.: Hell on Earth''====
+''[[B.P.R.D.#B.P.R.D. Hell on Earth Trade Paperbacks|B.P.R.D.: Hell on Earth]]'' is the main series continuing after the catastrophic events at the conclusion of the ''Plague of Frogs'' cycle. Guy Davis left the series in 2011 with the conclusion of ''Hell on Earth: Gods''. [[Tyler Crook]] became the new ongoing artist beginning with ''Hell on Earth: Monsters'', but he is joined by several regular artists, most notably [[James Harren]] and [[Laurence Campbell]].
+
+====''B.P.R.D.: The Devil You Know''====
+Continuing on where ''Hell on Earth'' left off, ''The Devil You Know'' is written by Mike Mignola and [[Scott Allie]] with Laurence Campbell serving as the regular artist.
+
+====''Sir Edward Grey, Witchfinder''====
+''[[Hellboy Universe#Sir Edward Grey.2C Witchfinder|Sir Edward Grey, Witchfinder]]'' (more commonly known simply as "''Witchfinder''") began with a teaser story in 2008's [[Dark Horse Presents#Second incarnation: MDHP|''MySpace Dark Horse Presents'' #16]], followed by a full miniseries in 2009. It follows the stories of the occult investigator, Sir Edward, agent of [[Queen Victoria]].
+
+====Spin-off miniseries====
+The Hellboy Universe also includes numerous spin-offs that only span a single book:
+* ''Sledgehammer 44'': Set in [[World War II]], this series is about the Epimetheus Vril Energy Suit created by Doctor Helena Gallargas.
+* ''Frankenstein Underground'': Set in 1956, this series follows the Frankenstein monster as he ventures into the [[Pellucidar|Pellucidar-like Hollow Earth]].
+* ''Rise of the Black Flame'': Set in 1923, this series explores how Raimund Diestel became the Black Flame.
+* ''The Visitor: How &amp; Why He Stayed'': This series follows the life of an alien visitor set to kill the infant Hellboy in 1944.
+* ''Rasputin: The Voice of the Dragon'': Set in 1941, this series follows Trevor Bruttenholm as he becomes a agent for the allied forces in World war II.
+* ''Koshchei the Deathless'': Hellboy and Koshchei sit in a pub in Hell and chat.
+
+===''Baltimore''===
+''[[Baltimore (novel and comic series)|Baltimore]]'' is a series begun with a [[Baltimore, or The Steadfast Tin Soldier and the Vampire|2007 illustrated novel]], and continued as a comic book series. It was created by Mike Mignola and [[Christopher Golden]].
+
+===''Joe Golem: Occult Detective''===
+Like ''Baltimore'', ''Joe Golem: Occult Detective'' began as an illustrated prose novel  (2012's ''Joe Golem and the Drowning City'') and later continued as a comic book series. It was created by Mike Mignola and [[Christopher Golden]] and exists in a shared universe with ''Baltimore''.
+
+==Style==
+[[Alan Moore]] has described Mignola's style as "[[German expressionism]] meets [[Jack Kirby]]".&lt;ref&gt;{{cite book|last1 = Mignola|first1 = Mike|last2= Moore|first2= Alan (Foreword only)|chapter= Foreword|title = Hellboy: Wake the Devil|publisher = Dark Horse Comics|year = 1997|pages = |isbn = 978-1593070953}}&lt;/ref&gt; His style has also been likened to an amalgamation of Jack Kirby and [[Alex Toth]].&lt;ref&gt;{{cite journal|last = Cooke|first = Jon B.|title = The Art of Arthur Adams|journal = [[Comic Book Artist]]|issue= 17|pages= |publisher= TwoMorrows Publishing|date= January 2002|location= Raleigh, North Carolina|url= http://www.twomorrows.com/comicbookartist/articles/17adams.html|archiveurl= https://web.archive.org/web/20131103060249/http://www.twomorrows.com/comicbookartist/articles/17adams.html|archivedate= November 3, 2013|deadurl= no|df=mdy-all|quote = Mike's style is almost a weird amalgamation of Kirby and Toth.}}&lt;/ref&gt;
+
+==Film and television==
+Mignola worked as an illustrator for [[Francis Ford Coppola]]'s 1992 movie ''[[Bram Stoker's Dracula]]''. He was also the production designer for the [[The Walt Disney Company|Disney]] feature film, ''[[Atlantis: The Lost Empire]]'' in 2001, and was a concept artist for 2002's ''[[Blade II]]'', also directed by del Toro, and a concept artist for [[Pixar]]'s ''[[Brave (2012 film)|Brave]]''.
+
+Mignola was hired by [[Bruce Timm]] to provide character designs for ''[[Batman: The Animated Series]]'' in 1991. His redesign of [[Mr. Freeze]] was used for the series.&lt;ref name="Bio" /&gt;
+
+Mignola's design of the 1880s Batman costume from the comic ''[[Batman: Gotham by Gaslight]]'' appeared in ''[[Batman: The Brave and the Bold]]''.
+
+''Hellboy'' was made into a [[Hellboy (2004 film)|feature film]] in 2004 by director [[Guillermo del Toro]]. Mignola was closely involved with the movie's production, and a [[Hellboy II: The Golden Army|sequel]] was released in 2008. ''Hellboy'' has been made into two direct-to-video animated films, ''[[Hellboy: Sword of Storms|Sword of Storms]]'' in 2006 and ''[[Hellboy: Blood and Iron|Blood and Iron]]'' in 2007.
+
+Mignola's ''[[The Amazing Screw-On Head]]'' debuted in 2006 on the [[Syfy|Sci-Fi Channel]], starring the voices of [[Paul Giamatti]] and [[David Hyde Pierce]].
+
+In May 2017 it was announced that Mignola will co-write the script for ''[[Hellboy: Rise of the Blood Queen]]'', an R-rated reboot film that will be directed by [[Neil Marshall]] and star [[David Harbour]] as Hellboy.&lt;ref&gt;{{cite web|last=Kit|first=Borys|url=http://www.hollywoodreporter.com/heat-vision/hellboy-reboot-works-stranger-things-star-david-harbour-1001462|title=''Hellboy'' Reboot In the Works With 'Stranger Things' Star David Harbour|work=[[The Hollywood Reporter]]|date=May 8, 2017|archiveurl= https://web.archive.org/web/20170612162910/http://www.hollywoodreporter.com/heat-vision/hellboy-reboot-works-stranger-things-star-david-harbour-1001462|archivedate= June 12, 2017|deadurl= no|df= mdy-all}}&lt;/ref&gt;
+
+In March 2018 [[TSG Entertainment]], makers of the 2017 film ''[[The Shape of Water]]'', approached Mignola to make the [[The Shape of Water|Amphibian Man]] part of the ''Hellboy'' universe. Mignola said that he currently has no plans to do it.
+
+==Awards==
+* 1995:
+** Won "Best Writer/Artist" [[Eisner Award]], for ''Hellboy: Seed of Destruction''
+** Won "Best Graphic Album: Reprint" Eisner Award, for ''Hellboy: Seed of Destruction''
+** Won "Best Artist" [[Harvey Awards]]&lt;ref&gt;{{cite web|url=http://www.harveyawards.org/previous-awards-nominees/1995-harvey-awards/ |title=1995 Harvey Awards |publisher=Harveyawards.org |archiveurl=https://web.archive.org/web/20131108103548/http://www.harveyawards.org/previous-awards-nominees/1995-harvey-awards/ |archivedate=November 8, 2013 |deadurl=yes |accessdate=January 13, 2014 |df=mdy-all}}&lt;/ref&gt;
+** Won "[[Don Thompson Award#Best Achievement by an Inker|Best Achievement by an Inker]]" [[Don Thompson Award]]
+* 1996:
+** Won "Best Artist" Harvey Awards&lt;ref&gt;{{cite web|url=http://www.harveyawards.org/previous-awards-nominees/1996-harvey-awards/ |title=1996 Harvey Awards |publisher=Harveyawards.org |archiveurl=https://web.archive.org/web/20131108095723/http://www.harveyawards.org/previous-awards-nominees/1996-harvey-awards/ |archivedate=November 8, 2013 |deadurl=yes |accessdate=January 13, 2014 |df=mdy-all}}&lt;/ref&gt;
+** Won "Best Graphic Album of Previously Released Material" Harvey Awards, for ''Hellboy: The Wolves of Saint August''
+* 1997:
+** Won "Best Writer/Artist" Eisner Award, for ''Hellboy: Wake the Devil''
+* 1998:
+** Won "Best Writer/Artist" Eisner Award, for ''Hellboy: Almost Colossus'', ''Hellboy Christmas Special'' and ''Hellboy Jr. Halloween Special''
+* 2000:
+** Won "Best Artist" Harvey Award, for ''Hellboy: Box Full of Evil''
+* 2002:
+** Won "Best Finite Series/Limited Series" Eisner Award, for ''Hellboy: Conqueror Worm''
+* 2003:
+** Won "Best Humor Publication" Eisner Award, for ''The Amazing Screw-On Head''
+** Won "Best Short Story" Eisner Award, for "The Magician and the Snake"
+* 2004:
+** Won "Favourite Comics Writer/Artist" [[Eagle Awards#2004|Eagle Award]]
+** Won "Best Comics-Related Book" Eisner Award, for ''The Art of Hellboy''
+** Received "[[Inkpot Award#2004|Inkpot Award]]"&lt;ref&gt;{{cite web |url= http://www.hahnlibrary.net/comics/awards/inkpot.php|title= Inkpot Award Winners |publisher= Hahn Library Comic Book Awards Almanac|archiveurl= https://web.archive.org/web/20120709055558/http://www.hahnlibrary.net/comics/awards/inkpot.php|archivedate= July 9, 2012|deadurl= no|df=mdy-all}}&lt;/ref&gt;
+* 2006:
+** Won "Favourite Comics Writer/Artist" [[Eagle Awards#2006|Eagle Award]]
+* 2007:
+** Won "Roll of Honour" [[Eagle Awards#2007|Eagle Award]]
+** Won "Favourite Colour Comicbook – American" Eagle Award, for ''Hellboy: Darkness Calls''
+* 2008
+** Won "Best Cover Artist" Harvey Awards&lt;ref&gt;{{cite web|url=http://www.harveyawards.org/previous-awards-nominees/2008-harvey-awards/ |title=2008 Harvey Awards |publisher=Harveyawards.org |archiveurl=https://web.archive.org/web/20131108095730/http://www.harveyawards.org/previous-awards-nominees/2008-harvey-awards/ |archivedate=November 8, 2013 |deadurl=yes |accessdate=January 13, 2014 |df=mdy-all}}&lt;/ref&gt;
+** Won "Award for Favourite Colour Comicbook – American" [[Eagle Awards#2008|Eagle Award]]
+** Won "Roll of Honor" Eagle Awards
+** Won "Best Horror Comic Book" Rondo Hatton Classic Horror Awards, for ''Hellboy: In the Chapel of Moloch''&lt;ref&gt;{{cite web|url=http://www.rondoaward.com/rondo/RondoVIIwinners.htm |title= Seventh Annual Rondo Hatton Classic Horror Awards|publisher=Rondoaward.com|archiveurl= https://web.archive.org/web/20131204051925/http://www.rondoaward.com/rondo/RondoVIIwinners.htm|archivedate= December 4, 2013|deadurl= no|df=mdy-all|accessdate=September 9, 2011}}&lt;/ref&gt;
+* 2009
+** Won "Best Finite Series/Limited Series" Eisner Award, for ''Hellboy: The Crooked Man''
+** Won "Best Graphic Album: Reprint" Eisner Award, for ''Hellboy Library Edition, vols. 1 and 2''
+** Won "Best Publication Design" Eisner Award, for ''Hellboy Library Edition, vols. 1 and 2''
+** Won "All-in-One Award" [[Inkwell Awards]]
+* 2010
+** Won "Best Cover Artist" Harvey Awards, for ''Hellboy: Bride of Hell''&lt;ref&gt;{{cite web|url=http://www.harveyawards.org/previous-awards-nominees/2010-harvey-awards/ |title=2010 Harvey Awards |publisher=Harveyawards.org |archiveurl=https://web.archive.org/web/20131108102036/http://www.harveyawards.org/previous-awards-nominees/2010-harvey-awards/ |archivedate=November 8, 2013 |deadurl=yes |accessdate=January 13, 2014 |df=mdy-all}}&lt;/ref&gt;
+* 2011
+** Won "Favorite Writer/Artist" [[Eagle Awards#2011|Eagle Award]]
+** Won "Favorite Artist:Inks" Eagle Award
+** Won "Best Single Issue (or One-Shot)" Eisner Award, for ''Hellboy: Double Feature of Evil''
+
+==Bibliography==
+
+===Comics===
+*''[[Rocket Raccoon (limited series)|Rocket Raccoon]]'' (artist, script by [[Bill Mantlo]], inks by  [[Al Gordon (comics)|Al Gordon]] four-issue limited-series, [[Marvel Comics]], 1985)
+*''[[Amazing High Adventure]]'' #3 - Short Story "Monkey See, Monkey Die" (script by [[Steve Englehart]], anthology series, Marvel Comics, October 1986)
+*''[[Corum Jhaelen Irsei#In other media|The Chronicles of Corum]]'' #1–6, 9, 11-12 (artist, with [[Mike Baron]] and [[Mark Shainblum]], [[First Comics]], 1987)
+*''[[Phantom Stranger]]'' (artist, script by [[Paul Kupperberg]], inks by [[P. Craig Russell]] four-issue limited series, [[DC Comics]], 1987-1988)
+*''[[Krypton (comics)|World of Krypton]]'' (artist, script by [[John Byrne (comics)|John Byrne]], inks by [[Rick Bryant (comics)|Rick Bryant]], four-issue limited series, DC Comics, 1987-1988)
+*''[[Cosmic Odyssey (comics)|Cosmic Odyssey]]'' (artist, with writer [[Jim Starlin]] and inker [[Carlos Garzon]], 1988, DC Comics, [[Trade paperback (comics)|TPB]], 226 pages, [[Titan Books]], {{ISBN|1-84023-715-5}}, DC Comics {{ISBN|1-56389-051-8}})&lt;ref&gt;{{cite web|url= http://www.dccomics.com/graphic-novels/cosmic-odyssey|title= ''Cosmic Odyssey''|publisher= DC Comics|archiveurl= https://web.archive.org/web/20140114022608/http://www.dccomics.com/graphic-novels/cosmic-odyssey|archivedate=January 14, 2014 |deadurl= no|df=mdy-all|accessdate= January 13, 2014}}&lt;/ref&gt;
+*''[[Doctor Strange]]/[[Doctor Doom]]: Triumph and Torment'' (writer [[Roger Stern]], art also by [[Mark Badger]], 1989, Marvel Comics)
+*''[[Batman]]'':
+**''[[Batman: Gotham by Gaslight]]'' (pencils, with writer [[Brian Augustyn]], and with inks by P. Craig Russell, DC Comics [[Elseworlds]], TPB, 48 pages, 1989, Titan, {{ISBN|1-85286-265-3}}, DC, {{ISBN|0-930289-67-6}})
+**''[[Batman: Legends of the Dark Knight]]'' #54: "Sanctum" (pencils and story, with writer [[Dan Raspler]], with letterer [[Willie Schubert]], and with coloring by [[Mark Chiarello]], single issue, DC, 1993)
+**''[[Batman: The Doom That Came to Gotham]]'' (writer, three-issue mini-series, DC Comics [[Elseworlds]], 2000)
+*''[[Wolverine: The Jungle Adventure]]'' (artist, with writer [[Walt Simonson]] and inker [[Bob Wiacek]], single issue prestige format paperback, [[Marvel Comics]], 1990)
+*''[[Fafhrd and the Gray Mouser]]'' (artist, with writer [[Howard Chaykin]] and inker [[Al Williamson]], four-issue limited series, [[Epic Comics]], 1990-1991)&lt;ref name="Greenberger" /&gt;
+*''[[Ted McKeever's Metropol]]'' #9-11 (artist, with [[Ted McKeever]] "The Resurrection of Eddy Current", three-part mini-series, Epic Comics, 1991)
+*''[[Bram Stoker's Dracula]]'': official movie adaptation (artist, with writer [[Roy Thomas]] and inker John Nyberg, four-issue mini-series [[Topps Comics]] 1992)
+*''[[Ironwolf (comics)|Ironwolf]]: Fires of the Revolution'' (art, with writers Howard Chaykin and [[John Francis Moore (comics)|John Francis Moore]], and artist P. Craig Russell, 104 pages, 1992, Titan Books, {{ISBN|1-56389-065-8}}, DC Comics, {{ISBN|1-56389-065-8}})&lt;ref name="Greenberger" /&gt;&lt;ref&gt;{{cite web|url= http://www.dccomics.com/graphic-novels/ironwolf-fires-of-the-revolution|title= ''Ironwolf: Fires of the Revolution''|publisher= DC Comics|archiveurl= https://web.archive.org/web/20140114023424/http://www.dccomics.com/graphic-novels/ironwolf-fires-of-the-revolution|archivedate=January 14, 2014 |deadurl= no|df=mdy-all|accessdate=January 13, 2014}}&lt;/ref&gt; 
+*''[[Ray Bradbury Comics]]'' #4 - Short Story "The City" (with letterer [[Willie Schubert]], anthology series, Topps Comics, 1993)
+*''[[ZombieWorld]]: Champion of the Worms'' (writer, with art by [[Pat McEown]], three-issue mini-series, 1997, Dark Horse, TPB, 80 pages, 1998, {{ISBN|1-56971-334-0}}, 2005, {{ISBN|1-59307-407-7}})&lt;ref&gt;{{cite web|url= http://www.darkhorse.com/Books/47-790/ZombieWorld-Champion-of-the-Worms-TPB|title=''ZombieWorld: Champion of the Worms''|publisher= Dark Horse Comics|archiveurl= https://web.archive.org/web/20120819124114/http://www.darkhorse.com/Books/47-790/ZombieWorld-Champion-of-the-Worms-TPB|archivedate= August 19, 2012|deadurl= no|df=mdy-all|accessdate=September 9, 2011}}&lt;/ref&gt; 
+*''[[Jenny Finn]]: Doom Messiah'' (script, with art by [[Troy Nixey]] and [[Farel Dalrymple]], TPB includes ''Jenny Finn'' #1–2, [[Oni Press]], 1999, 128 pages, [[Boom! Studios]], June 2008, {{ISBN|1-934506-14-1}})&lt;ref&gt;{{cite web |url= http://www.comicbookresources.com/?page=article&amp;old=1&amp;id=13515|title= Read Pages 1–29 of Mike Mignola's ''Jenny Finn: Doom Messiah''|date= March 28, 2008|publisher= [[Comic Book Resources]]|archiveurl= https://web.archive.org/web/20120928072319/http://www.comicbookresources.com/?page=article&amp;old=1&amp;id=13515|archivedate= September 28, 2012|deadurl= no|df=mdy-all}}&lt;/ref&gt;
+*''The Amazing Screw-on Head and Other Curious Objects'' (Dark Horse, 2010) collecting:&lt;ref&gt;{{cite web|title=''The Amazing Screw-on Head and Other Curious Objects''|url=http://www.darkhorse.com/Books/16-870/The-Amazing-Screw-On-Head-and-Other-Curious-Objects-hardcover-collection|publisher=Dark Horse Comics|archiveurl= https://web.archive.org/web/20130721024401/http://www.darkhorse.com/Books/16-870/The-Amazing-Screw-On-Head-and-Other-Curious-Objects-hardcover-collection|archivedate= July 21, 2013|deadurl= no|df=mdy-all|accessdate=July 5, 2013}}&lt;/ref&gt;
+**''[[The Amazing Screw-On Head]]'' ([[One shot (comic)|one shot comic book]], 2002)&lt;ref&gt;{{cite web|url=http://www.darkhorse.com/profile/profile.php?sku=11-820 |title=''The Amazing Screw-On Head''|publisher= Dark Horse Comics|archiveurl= https://web.archive.org/web/20130528145248/http://www.darkhorse.com/Comics/11-820/The-Amazing-Screw-On-Head|archivedate= May 28, 2013|deadurl= no|df=mdy-all|accessdate=September 9, 2011}}&lt;/ref&gt;
+**''The Magician and the Snake'' (with Katie Mignola, published in ''Happy Endings'' anthology, 2002)&lt;ref&gt;{{cite web|title= ''Dark Horse Maverick: Happy Endings''|url=http://www.darkhorse.com/Books/11-975/Dark-Horse-Maverick-Happy-Endings|publisher= Dark Horse Comics|archiveurl= https://web.archive.org/web/20131202012037/http://www.darkhorse.com/Books/11-975/Dark-Horse-Maverick-Happy-Endings|archivedate= December 2, 2013|deadurl= no|df=mdy-all}}&lt;/ref&gt;
+**''Abu Gung and the Beanstalk'' (originally drawn 1998, redrawn and expanded for this collection)
+**''The Witch and Her Soul'' (drawn for this collection)
+**''The Prisoner of Mars'' (drawn for this collection)
+**''In the Chapel of Curious Objects'' (drawn for this collection)
+*''[[Baltimore (novel and comic series)|Baltimore]]'' (Dark Horse):
+**''The Plague Ships'' (with Christopher Golden and [[Ben Stenbeck]], 2010)
+**''A Passing Stranger'' (with Christopher Golden and Ben Stenbeck for [[Free Comic Book Day]], 2011)
+**''The Curse Bells'' (with Christopher Golden and Ben Stenbeck, 2011)
+**''Dr. Leskovar's Remedy'' (with Christopher Golden and Ben Stenbeck, 2012)
+**''The Play'' (with Christopher Golden and Ben Stenbeck, 2012)
+**''The Widow and the Tank'' (with Christopher Golden and Ben Stenbeck, 2013)
+**''The Inquisitor'' (with Christopher Golden and Ben Stenbeck, 2013)
+**''The Infernal Train'' (with Christopher Golden and Ben Stenbeck, 2013)
+**''Chapel of Bones'' (with Christopher Golden and Ben Stenbeck, 2014)
+**''The Witch of Harju'' (with Christopher Golden and Peter Bergting, 2014)
+**''The Wolf and the Apostle'' (with Christopher Golden and Ben Stenbeck, 2014)
+**''The Cult of the Red King'' (with Christopher Golden and Peter Bergting, 2015)
+**''Empty Graves'' (with Christopher Golden and Peter Bergting, 2016)
+**''The Red Kingdom'' (with Christopher Golden and Peter Bergting, 2017)
+*''Joe Golem: Occult Detective'' (Dark Horse):
+**''The Rat Catcher'' (with Christopher Golden and Patric Reynolds, 2015)
+**''The Sunken Dead'' (with Christopher Golden and Patric Reynolds, 2016)
+**''The Outer Dark'' (with Christopher Golden and Patric Reynolds, 2017)
+**''Flesh and Blood'' (with Christopher Golden and Patric Reynolds, 2017)
+**''The Drowning City'' (with Christopher Golden and Peter Bergting, 2018)
+*''Mr. Higgins Comes Home'' (with Warwick Johnson-Cadwell, Dark Horse, 2017)
+
+====Hellboy Universe (Dark Horse)====
+*''[[Hellboy]]''
+**''[[Hellboy: Seed of Destruction|Seed of Destruction]]'' (with John Byrne, 1994)
+**''[[Hellboy: The Chained Coffin and Others|The Wolves of Saint August]]'' (1994)
+**''[[Hellboy: The Chained Coffin and Others|The Corpse]]'' (1995)
+**''[[Hellboy: The Chained Coffin and Others|The Chained Coffin]]'' (1995)
+**''[[Hellboy: The Chained Coffin and Others|The Iron Shoes]]'' (1996)
+**''[[Hellboy: Wake the Devil|Wake the Devil]]'' (1996)
+**''[[Hellboy: The Chained Coffin and Others|Almost Colossus]]'' (1997)
+**''[[Hellboy: The Chained Coffin and Others|A Christmas Underground]]'' (1997)
+**''[[Hellboy: The Right Hand of Doom|Heads]]'' (1998)
+**''[[Hellboy: The Chained Coffin and Others|The Baba Yaga]]'' (1998)
+**''[[Hellboy: The Right Hand of Doom|The Right Hand of Doom]]'' (1998)
+**''[[Hellboy: The Right Hand of Doom|The Vârcolac]]'' (1999)
+**''[[Hellboy: The Right Hand of Doom|Goodbye Mr. Tod]]'' (1999)
+**''[[Hellboy: The Right Hand of Doom|Pancakes]]'' (1999)
+**''[[Hellboy: The Right Hand of Doom|Box Full of Evil]]'' (1999)
+**''[[Hellboy: The Right Hand of Doom|The Nature of the Beast]]'' (2000)
+**''[[Hellboy: The Right Hand of Doom|King Vold]]'' (2000)
+**''[[Hellboy: Conqueror Worm|Conqueror Worm]]'' (2001)
+**''[[Hellboy: Strange Places|The Third Wish]]'' (2002)
+**''[[Hellboy: The Troll Witch and Others|Dr. Carp's Experiment]]'' (2003)
+**''[[Hellboy: The Troll Witch and Others|The Penanggalan]]'' (2004)
+**''[[Hellboy: The Troll Witch and Others|The Troll-Witch]]'' (2004)
+**''[[Hellboy: The Troll Witch and Others|The Ghoul]]'' (2005)
+**''[[Hellboy: Strange Places|The Island]]'' (2005)
+**''[[Hellboy: The Troll Witch and Others|Makoma]]'' (with [[Richard Corben]], 2006)
+**''[[Hellboy: The Troll Witch and Others|The Hydra and the Lion]]'' (2006)
+**''[[Hellboy: The Crooked Man and Others|They That Go Down to the Sea in Ships]]'' (with [[Joshua Dysart]] and [[Jason Shawn Alexander]], 2007)
+**''[[Hellboy: Darkness Calls|Darkness Calls]]'' (with [[Duncan Fegredo]], 2007)
+**''[[Hellboy: The Troll Witch and Others|The Vampire of Prague]]'' (with [[P. Craig Russell]], 2007)
+**''[[Hellboy: The Crooked Man and Others|The Mole]]'' (with Duncan Fegredo, 2008)
+**''[[Hellboy: The Crooked Man and Others|The Crooked Man]]'' (with Richard Corben, 2008)
+**''[[Hellboy: The Crooked Man and Others|In the Chapel of Moloch]]'' (2008)
+**''[[Hellboy: The Wild Hunt|The Wild Hunt]]'' (with Duncan Fegredo, 2008)
+**''The Bride of Hell'' (with Richard Corben, 2009)
+**''Hellboy in Mexico'' (with Richard Corben, 2010)
+**''[[Hellboy: The Storm and the Fury|The Storm]]'' (with Duncan Fegredo, 2010)
+**''The Whittier Legacy'' (2010)
+**''Double Feature of Evil'' (with Richard Corben, 2010)
+**''The Sleeping and the Dead'' (with [[Scott Hampton]], 2010)
+**''Buster Oakley Gets His Wish'' (with [[Kevin Nowlan]], 2011)
+**''Being Human'' (with Richard Corben, 2011, collected in ''[[Bureau for Paranormal Research and Defense#B.P.R.D. Trade Paperbacks|B.P.R.D.: Being Human]]'')
+**''[[Hellboy: The Storm and the Fury|The Fury]]'' (with Duncan Fegredo, 2011)
+**''House of the Living Dead'' (with Richard Corben, 2011)
+**''Hellboy versus the Aztec Mummy'' (2011)
+**''The Midnight Circus'' (with Duncan Fegredo, 2013)
+**''Hellboy Gets Married'' (with Mick McMahon, 2013)
+**''The Coffin Man'' (with Fábio Moon, 2014)
+**''The Coffin Man 2: The Rematch'' (with Gabriel Bá, 2015)
+**''Into the Silent Sea'' (with [[Gary Gianni]], 2017)
+**''Krampusnacht'' (with [[Adam Hughes]], 2018)
+*''Hellboy in Hell'':
+**''The Descent'' (2012)
+**''The Three Gold Whips'' (2013)
+**''The Death Card'' (2014)
+**''The Hounds of Pluto'' (2015)
+**''The Exorcist of Vorsk'' (with Todd Mignola, 2015)
+**''The Spanish Bride'' (2016)
+**''For Whom the Bell Tolls'' (2016)
+*''Hellboy and B.P.R.D.'':
+**''1952'' (with John Arcudi and Alex Maleev, 2014)
+**''1953'':
+***''The Phantom Hand'' (with Ben Stenbeck, 2015)
+***''The Kelpie'' (with Ben Stenbeck, 2015)
+***''The Witch Tree'' (with Ben Stenbeck, 2015)
+***''Rawhead and Bloody Bones'' (with Ben Stenbeck, 2015)
+***''Wandering Souls'' (with Chris Roberson and Michael Walsh, 2016)
+***''Beyond the Fences'' (with Chris Roberson, and Paolo and Joe Rivera, 2016)
+**''1954'':
+***''The Mirror'' (with Richard Corben, 2016)
+***''Black Sun'' (with Chris Roberson and Stephen Green, 2016)
+***''Unreasoning Beast'' (with Chris Roberson and Patric Reynolds, 2016)
+***''Ghost Moon'' (with Chris Roberson and Brian Churilla, 2017)
+**''1955'':
+***''Secret Nature'' (with Chris Roberson and Shawn Martinbrough, 2017)
+***''Occult Intelligence'' (with Chris Roberson and Brian Churilla, 2017)
+***''Burning Season'' (with Chris Roberson, and Paolo and Joe Rivera, 2018)
+*''[[Bureau for Paranormal Research and Defense|B.P.R.D.]]'':
+**''[[B.P.R.D.: Hollow Earth and Other Stories|Hollow Earth]]'' (with Christopher Golden, Tom Sniegoski, Ryan Sook and Curtis Arnold, 2002)
+**''[[B.P.R.D.: The Soul of Venice and Other Stories|The Soul of Venice]]'' (with Miles Gunther and Michael Avon Oeming, 2003)
+**''[[B.P.R.D.: The Dead|Born Again]]'' (with [[John Arcudi]] and [[Guy Davis (comics)|Guy Davis]], 2004)
+**''[[B.P.R.D.: Plague of Frogs|Plague of Frogs]]'' (with Guy Davis, 2004)
+**''[[B.P.R.D.: The Soul of Venice and Other Stories|Another Day at the Office]]'' (with [[Cameron Stewart]], 2004)
+**''[[B.P.R.D.: The Dead|The Dead]]'' (with John Arcudi and Guy Davis, 2004)
+**''[[B.P.R.D.: The Black Flame|The Black Flame]]'' (with John Arcudi and Guy Davis, 2005)
+**''The Universal Machine'' (with John Arcudi and Guy Davis, 2006)
+**''[[B.P.R.D.: Garden of Souls|Garden of Souls]]'' (with John Arcudi and Guy Davis, 2007)
+**''Killing Ground'' (with John Arcudi and Guy Davis, 2007)
+**''1946'' (with [[Joshua Dysart]] and [[Paul Azaceta]], 2008)
+**''Revival'' (with John Arcudi and Guy Davis, 2008)
+**''Bishop Olek’s Devil'' (with Joshua Dysart and Paul Azaceta, 2008)
+**''Out of Reach'' (with John Arcudi and Guy Davis, 2008)
+**''War on Frogs'' #1 (with John Arcudi, [[Herb Trimpe]] and Guy Davis, 2008)
+**''The Ectoplasmic Man'' (with John Arcudi and [[Ben Stenbeck]], 2008)
+**''The Warning'' (with John Arcudi and Guy Davis, 2008)
+**''War on Frogs'' #2 (with John Arcudi and [[John Severin]], 2008)
+**''The Black Goddess'' (with John Arcudi and Guy Davis, 2009)
+**''And What Shall I Find There?''  (with Joshua Dysart and [[Patric Reynolds]], 2009)
+**''War on Frogs'' #3 (with John Arcudi and [[Karl Moline]], 2009)
+**''1947'' (with Joshua Dysart, [[Gabriel Bá]] and [[Fábio Moon]], 2009)
+**''War on Frogs'' #4  (with John Arcudi and [[Peter Snejbjerg]], 2009)
+**''King of Fear'' (with John Arcudi and Guy Davis, 2010)
+**''The Dead Remembered'' (with [[Scott Allie]], Karl Moline and [[Andy Owens]], 2011)
+**''Casualties'' (with John Arcudi and Guy Davis, 2011)
+**''1948'' (with John Arcudi and [[Max Fiumara]], 2012)
+**''Vampire'' (with [[Gabriel Bá]] and [[Fábio Moon]], 2013)
+*''[[Bureau for Paranormal Research and Defense|B.P.R.D.: Hell on Earth]]'':
+**''New World'' (with John Arcudi and [[Guy Davis (comics)|Guy Davis]], 2010)
+**''Gods'' (with John Arcudi and Guy Davis, 2011)
+**''Seattle'' (with John Arcudi and Guy Davis, 2011)
+**''Monsters'' (with John Arcudi and [[Tyler Crook]], 2011)
+**''Russia'' (with John Arcudi and Tyler Crook, 2011)
+**''An Unmarked Grave'' (with John Arcudi and [[Duncan Fegredo]], 2012)
+**''The Long Death'' (with John Arcudi and [[James Harren]], 2012)
+**''The Pickens County Horror'' (with [[Scott Allie]] and [[Jason Latour]], 2012)
+**''The Devil’s Engine'' (with John Arcudi and Tyler Crook, 2012)
+**''The Transformation of J.H. O'Donnell'' (with [[Scott Allie]] and [[Max Fiumara]], 2012)
+**''Exorcism'' (with [[Cameron Stewart]], 2012)
+**''The Return of the Master'' (with John Arcudi and Tyler Crook, 2012)
+**''The Abyss of Time'' (with [[Scott Allie]] and James Harren, 2013)
+**''A Cold Day in Hell'' (with John Arcudi and [[Peter Snejbjerg]], 2013)
+**''Wasteland'' (with John Arcudi and [[Laurence Campbell]], 2013)
+**''Lake of Fire'' (with John Arcudi and Tyler Crook, 2013)
+**''Reign of the Black Flame'' (with John Arcudi and James Harren, 2014)
+**''The Devil's Wings'' (with John Arcudi and Laurence Campbell, 2014)
+**''The Broken Equation'' (with John Arcudi and Joe Querio, 2014)
+**''Grind'' (with John Arcudi and Tyler Crook, 2014)
+**''Flesh and Stone'' (with John Arcudi and James Harren, 2014)
+**''Nowhere, Nothing, Never'' (with John Arcudi and Peter Snejbjerg, 2015)
+**''Modern Prometheus'' (with John Arcudi and Julián Totino Tedesco, 2015)
+**''End of Days'' (with John Arcudi and Laurence Campbell, 2015)
+**''The Exorcist'' (with Camerson Stewart, Chris Roberson, and Mike Norton, 2016)
+**''Cometh the Hour'' (with John Arcudi and Laurence Campbell, 2016)
+*''[[Bureau for Paranormal Research and Defense|B.P.R.D.: The Devil You Know]]'':
+**''Messiah'' (with Scott Allie and Laurence Campbell, 2017)
+**''Pandemonium'' (with Scott Allie, Sebastián Fiumara, and Laurence Campbell, 2018)
+*''[[Lobster Johnson]]:
+**''The Iron Prometheus'' (with [[Jason Armstrong (comics)|Jason Armstrong]], 2007)
+**''The Burning Hand'' (with John Arcudi and [[Tonči Zonjić]], 2012)
+**''Tony Masso’s Finest Hour'' (with John Arcudi and [[Joe Querio]], 2012)
+**''The Prayer of Neferu'' (with John Arcudi and [[Wilfredo Torres]], 2012)
+**''Caput Mortuum'' (with John Arcudi and Tonči Zonjić, 2012)
+**''Satan Smells a Rat'' (with John Arcudi and [[Kevin Nowlan]], 2013)
+**''A Scent of a Lotus'' (with John Arcudi and [[Sebastián Fiumara]], 2013)
+**''Get the Lobster'' (with John Arcudi and Tonči Zonjić, 2014)
+**''A Chain Forged in Life'' (with John Arcudi, Troy Nixey, and Kevin Nowlan, 2015)
+**''The Glass Mantis'' (with John Arcudi and Toni Fejzula, 2015)
+**''The Forgotten Man'' (with John Arcudi and Peter Snejbjerg, 2016)
+**''Metal Monsters of Midtown'' (with John Arcudi and Tonči Zonjić, 2016)
+**''Garden of Bones'' (with John Arcudi and Stephen Green, 2017)
+**''The Pirate's Ghost'' (with John Arcudi and Tonči Zonjić, 2017)
+**''Mangekyō'' (with John Arcudi and Ben Stenbeck, 2017)
+*''[[Abe Sapien]]:
+**''The Drowning'' (with [[Jason Shawn Alexander]], 2008)
+**''The Haunted Boy'' (with John Arcudi and [[Patric Reynolds]], 2009)
+**''The Abyssal Plain'' (with John Arcudi and [[Peter Snejbjerg]], 2010)
+**''The Devil Does Not Jest'' (with John Arcudi and [[James Harren]], 2011)
+**''Dark and Terrible'' (with [[Scott Allie]] and [[Sebastián Fiumara]], 2013)
+**''The New Race of Man'' (with John Arcudi and [[Max Fiumara]], 2013)
+**''The Shape of Things to Come'' (with Scott Allie and Sebastián Fiumara, 2013)
+**''The Land of the Dead'' (with Scott Allie and [[Michael Avon Oeming]], 2013)
+**''To the Last Man'' (with Scott Allie and Max Fiumara, 2014)
+**''The Garden (I)'' (with Scott Allie and Max Fiumara, 2014)
+**''The Healer'' (with Scott Allie and Sebastián Fiumara, 2014)
+**''Visions, Dreams, and Fishin’'' (with Scott Allie and Max Fiumara, 2014)
+**''Lost Lives'' (with Scott Allie and Juan Ferreyra, 2014)
+**''Sacred Places'' (with Scott Allie and Sebastián Fiumara, 2014)
+**''A Darkness so Great'' (with Scott Allie, and Max and Sebastián Fiumara, 2014)
+**''Subconscious'' (with John Arcdui and Mark Nelson, 2015)
+**''The Ogopogo'' (with Scott Allie and Kevin Nowlan, 2015)
+**''The Shadow Over Suwanee'' (with Scott Allie, Sebastián and Max Fiumara, and Tyler Crook 2015)
+**''Icthyo Sapien'' (with Scott Allie and Alise Gluškova, 2015)
+**''The Garden (II)'' (with Scott Allie and Max Fiumara, 2015)
+**''Witchcraft &amp; Demonology'' (with Scott Allie and Santiago Caruso, 2016)
+**''The Black School'' (with Scott Allie and Sebastián Fiumara, 2016)
+**''Regressions'' (with Scott Allie and Max Fiumara, 2016)
+**''Dark and Terrible Deep'' (with Scott Allie and Sebastián Fiumara, 2016)
+**''The Garden (III)'' (with Scott Allie and Max Fiumara, 2016)
+**''The Desolate Shore'' (with Scott Allie and Sebastián Fiumara, 2016)
+*''[[Sir Edward Grey, Witchfinder]]'':
+**''Murderous Intent'' (with [[Ben Stenbeck]] in ''Dark Horse Presents'' #16, November 2008) 
+**''In the Service of Angels'' (with Ben Stenbeck, 2009)&lt;ref&gt;{{cite web |first=Shaun |last=Manning |url=http://www.comicbookresources.com/?page=article&amp;id=21661 |title=Mike Mignola Talks ''Witchfinder''|publisher= Comic Book Resources|date=June 19, 2009|archiveurl= https://web.archive.org/web/20090621074643/http://www.comicbookresources.com/?page=article&amp;id=21661|archivedate= June 21, 2009|deadurl= no|df=mdy-all|accessdate= March 28, 2011}}&lt;/ref&gt;
+**''Lost and Gone Forever'' (with John Arcudi and [[John Severin]], 2011)&lt;ref&gt;{{cite web|first=Paul|last=Montgomery|url=  http://ifanboy.com/articles/sdcc-2010-mignola-arcudi-and-severin-head-west-for-witchfinder-lost-and-gone-forever/|title=SDCC 2010: Mignola, Arcudi, and Severin Head West for ''Witchfinder: Lost and Gone Forever''|publisher=[[iFanboy]]|date=July 22, 2010|archiveurl= https://web.archive.org/web/20120722183125/http://ifanboy.com/articles/sdcc-2010-mignola-arcudi-and-severin-head-west-for-witchfinder-lost-and-gone-forever/|archivedate= July 22, 2012|deadurl= no|df=mdy-all|accessdate=March 28, 2011}}&lt;/ref&gt;
+**''Beware the Ape'' (with Ben Stenbeck, 2014)
+**''City of the Dead'' (with Chris Roberson and Ben Stenbeck, 2016)
+**''The Gates of Heaven'' (with Chris Roberson and [[D'Israeli (cartoonist)|D'Israeli]], 2018)
+*''How Koshchei Became Deathless'' (with Guy Davis, 2009)
+*''Baba Yaga's Feast'' (with Guy Davis, 2009)
+*''Sledgehammer 44'':
+**''Sledgehammer 44'' (with John Arcudi and [[Jason Latour]], 2013)
+**''Lightning War'' (with John Arcudi and [[Laurence Campbell]], 2013)
+*''Frankenstein Underground'' (with Ben Stenbeck, 2015)
+*''Broken Vessels'' (with Scott Allie and Tim Sale, 2016)
+*''Rise of the Black Flame'' (with Chris Roberson and Christopher Mitten, 2016)
+*''The Great Blizzard'' (with Chris Roberson and Christopher Mitten, 2017)
+*''God Rest Ye Merry'' (with Chris Roberson and [[Paul Grist]], 2017)
+*''The Last Witch of Fairfield'' (with Scott Allie and Sebastián Fiumara, 2017)
+*''The Visitor: How &amp; Why He Stayed'' (with Chris Roberson and [[Paul Grist]], 2017)
+*''Rasputin: The Voice of the Dragon'' (with Chris Roberson and Christopher Mitten, 2017)
+*''Koshchei the Deathless'' (with Ben Stenbeck, 2018)
+
+===Novels===
+* ''[[Baltimore, or, The Steadfast Tin Soldier and the Vampire]]'', with Christopher Golden, 2007, ({{ISBN|0553804715}})
+* ''Joe Golem and the Drowning City'', with Christopher Golden, 2012, ({{ISBN|0312644736}})
+* ''Father Gaetano's Puppet Catechism'', with Christopher Golden, 2012, ({{ISBN|0312644744}})
+* ''Grim Death and Bill the Electrocuted Criminal'', with [[Thomas E. Sniegoski]], 2017, ({{ISBN|1250077680}})
+
+===Covers===
+{{div col|colwidth=20em}} 
+
+*''[[Action Comics]]'' No.&amp;nbsp;614 (DC)
+*''[[Action Comics]] Annual'' No.&amp;nbsp;6 (DC)
+*''[[Superman (comic book)#1986 revamp|Adventures Of Superman Annual]]'' No.&amp;nbsp;6 (DC)
+*''[[Aliens versus Predator (comic book)|Aliens versus Predator]]'' No.&amp;nbsp;0 (Dark Horse)
+*''[[Alpha Flight (comic book)|Alpha Flight]]'' No.&amp;nbsp;29–34, 36, 39 (Marvel)
+*''[[The American (comics)|The American: Lost In America]]'' No.&amp;nbsp;3 (Dark Horse)
+*''[[Aquaman]]'' vol. 3 No.&amp;nbsp;6 (DC)
+*''[[Batgirl]] Special'' No.&amp;nbsp;1 (DC)
+*''[[Batman (comic book)|Batman Annual]]'' No.&amp;nbsp;18 (DC)
+*''Batman/Judge Dredd: Vendetta In Gotham''  No.&amp;nbsp;1 (DC)
+*''[[Conan (Dark Horse Comics)|Conan]]'' No.&amp;nbsp;29–31 (Dark Horse)
+*''[[Conan the Barbarian (comics)|Conan the Barbarian]]'' No.&amp;nbsp;236–237 (Marvel)
+*''[[Daredevil (Marvel Comics series)]] Annual'' 1991 (Marvel)
+*''[[Dark Horse Presents]]'' No.&amp;nbsp;88–91, 107, 142, 151 (Dark Horse)
+*''[[Dark Horse Comics]]'' No.&amp;nbsp;2 (Dark Horse)
+*''[[Deadman (DC Comics)|Deadman]]'' No.&amp;nbsp;3–5 (DC)
+*''[[Death Jr.]]'' (Image)
+*''[[Detective Comics]]'' No.&amp;nbsp;583 (February 1988)(DC)
+*''[[Atlantis: The Lost Empire|Disney's Atlantis: The Lost Empire]]'' (Dark Horse)
+*''[[Doctor Tomorrow]]'' No.&amp;nbsp;1 (Valiant)
+*''[[Dylan Dog]]'' No.&amp;nbsp;1-6 and special number "Zed" (Dark Horse)
+*''[[Fallen Angels (comics)|Fallen Angels]]'' No.&amp;nbsp;6 (Marvel)
+*''Frankenstein Dracula War'' No.&amp;nbsp;1–3 (Topps)
+*''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' No.&amp;nbsp;302, 304–309 (covers), 311–313 (covers and interiors) (Marvel)
+*''[[Justice League Quarterly]]'' No.&amp;nbsp;14 (DC)
+*''[[Kickers, Inc.]]'' No.&amp;nbsp;9, 12 (Marvel)
+*''[[Lobo (DC Comics)|Lobo: Unamerican Gladiators]]'' No.&amp;nbsp;1–4 (DC)
+*''[[Marvel Comics Presents]]'' No.&amp;nbsp;20 (Marvel)
+*''[[New Mutants]]'' No.&amp;nbsp;54, ''Annual'' No.&amp;nbsp;7 (Marvel)
+*''[[Power Pack]]'' No.&amp;nbsp;20 (Marvel)
+*''[[Quasar (comics)|Quasar]]'' No.&amp;nbsp;15 (Marvel)
+*''[[Rocket Raccoon]]'' No.&amp;nbsp;1–4 (Marvel)
+*''[[Showcase (comics)|Showcase '94]]'' No.&amp;nbsp;3 (DC)
+*''[[Silver Surfer (comic book)|Silver Surfer]]'' Vol. 3 No.&amp;nbsp;14 (Marvel)
+*''[[Solar (comics)|Solar Man Of The Atom]]'' No.&amp;nbsp;24 (Valiant)
+*''[[Solomon Kane (comics)|Solomon Kane: Castle of the Devil]]''
+*''[[Spectre (comics)|Spectre]]'' No.&amp;nbsp;7–9 (DC)
+*''[[Starman (comics)|Starman]]'' No.&amp;nbsp;42–45 (DC)
+*''[[Strange Tales]]'' Vol. 2 No.&amp;nbsp;19 (Marvel)
+*''[[Strikeforce: Morituri]]'' No.&amp;nbsp;21 (Marvel)
+*''Superman Annual'' No.&amp;nbsp;6 (DC)
+*''[[Superman: The Man of Steel]] Annual'' No.&amp;nbsp;3 (DC)
+*''[[X-Factor (comics)|X-Factor]]'' No.&amp;nbsp;55, 70 (Marvel)
+*''[[Classic X-Men|X-Men Classic]]'' No.&amp;nbsp;57–70 (Marvel)
+*''[[Zorro]]'' No.&amp;nbsp;6 (Topps)
+{{div col end}}
+
+===Media covers===
+*''[[Cronos (film)|Cronos]]'' Criterion Collection Cover
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+*[http://www.notablebiographies.com/news/Li-Ou/Mignola-Mike.html Mike Mignola biography] on Encyclopedia of World Biography
+*[https://web.archive.org/web/20060509013531/http://www.brokenfrontier.com/lowdown/details.php?id=191 "Devil in the Deep Blue Sea"], career synopsis by Fletch Adams, ''Broken Frontier'', June 23, 2005
+* ''Panel Discussions'' (by [[Durwin Talon]], [[TwoMorrows Publishing]], 2002, second edition 2007, {{ISBN|1-893905-14-4}})
+
+==External links==
+{{Commons category}}
+*{{Official website|http://www.hellboy.com}}
+* {{IMDb name|id=0586005|name=Mike Mignola}}
+*{{Comicbookdb|type=creator|id=171|title=Mike Mignola}}
+*[http://www.artofmikemignola.com The Art of Mike Mignola]
+*[https://web.archive.org/web/20110219011020/http://www.completehellboy.com/ The Hellboy Archive]
+*[http://thedailycrosshatch.com/2007/05/17/fafhrd-and-the-gray-mouser-by-chaykin-mignola-and-williamson/ Review of Chaykin and Mignola's Fafhrd and the Gray Mouser adaptation] at The Daily Cross Hatch, from May 17, 2007
+*Fulcher, Robb. [http://www.easyreadernews.com/30747/manhattan-hellboy-signing/ "Hellboy creator Mike Mignola of Manhattan Beach appears amidst climatic battle!"] Easy Reader. August 3, 2011
+
+===Interviews===
+* [http://www.comicbookresources.com/?page=article&amp;id=12754 Mignola on Hellboy's Extended Universe], [[Comic Book Resources]], March 3, 2008
+* [http://www.comicbookresources.com/?page=article&amp;id=16083 NYCC: Hellboy Dominates 2008], [[Comic Book Resources]], April 19, 2008
+* [http://www.hemispheresmagazine.com/2008_06/interview-hellboy.php InnerViews: Hellboy, a Monster Success—Mike Mignola Interview], [[Hemispheres (magazine)|Hemisphere Magazine]], June 2008
+* [http://www.tfaw.com/blog/2009/10/12/mike-mignola-talks-about-15-years-of-hellboy-b-p-r-d-more/?qt=ea_MMigwiki1 Mike Mignola Talks About 15 Years of ''Hellboy'', ''B.P.R.D.'' &amp; More], TFAW.com, October 12, 2009
+* [https://web.archive.org/web/20110219184919/http://www.completehellboy.com/interviews/ Mignola Interview Collection]
+
+----
+{{Hellboy|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mignola, Mike}}
+[[Category:1960 births]]
+[[Category:21st-century American novelists]]
+[[Category:American comics artists]]
+[[Category:American comics writers]]
+[[Category:American male novelists]]
+[[Category:American production designers]]
+[[Category:Artists from Berkeley, California]]
+[[Category:California College of the Arts alumni]]
+[[Category:Eisner Award winners for Best Cover Artist]]
+[[Category:Eisner Award winners for Best Writer/Artist]]
+[[Category:Harvey Award winners for Best Artist or Penciller]]
+[[Category:Hellboy]]
+[[Category:Inkpot Award winners]]
+[[Category:Living people]]
+[[Category:Marvel Comics people]]
+[[Category:Writers from Berkeley, California]]</text>
+      <sha1>b0fkzyasa983j1r8c44om1xy67hruic</sha1>
+    </revision>
+  </page>
+</mediawiki>

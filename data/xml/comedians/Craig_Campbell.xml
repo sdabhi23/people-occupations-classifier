@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Craig Campbell (comedian)</title>
+    <ns>0</ns>
+    <id>10104165</id>
+    <revision>
+      <id>849960181</id>
+      <parentid>849959569</parentid>
+      <timestamp>2018-07-12T16:04:17Z</timestamp>
+      <contributor>
+        <username>Snowycats</username>
+        <id>21322594</id>
+      </contributor>
+      <minor/>
+      <comment>([[WP:HG|HG]]) (3.4.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2159">{{About|the Canadian comedian|other people|Craig Campbell (disambiguation)}}
+
+'''Craig Campbell''' (born 1969) is a [[Canadians|Canadian]] [[stand-up comedian]], who now lives in [[Devon]], [[England]].&lt;ref&gt;http://www.ffwdweekly.com/Issues/2004/0219/comedy.htm&lt;/ref&gt;&lt;ref&gt;http://www.citylife.co.uk/comedy/features/12686_craig_campbell___canadian_wildman&lt;/ref&gt;
+
+==Career==
+
+Campbell was the host of ''Ed's Late Night'' and ''From Wimps to Warriors''. He was also part of a comedy trio called The Dinks, with [[Tony Law]] and [[Dan Antopolski]].&lt;ref name="Laughs"&gt;http://www.justlaugh.co.uk/comedians/Craig_Campbell.html&lt;/ref&gt; He also appeared with Dennis Miller on ''Mountain Madness'' and performed with 'Jim Carrey Live'' and on ''[[Just for Laughs]]''.
+
+In the UK he has appeared on ''[[Russell Howard's Good News]]''&lt;ref name="Craig Campbell on Russell Howard's Good News on YouTube"&gt;https://www.youtube.com/watch?v=Gjjsmx4_ce4&lt;/ref&gt; on [[BBC Three]] and with [[Al Murray]] on ''Edinburgh &amp; Beyond''. He also appeared in the second series of ''[[Michael McIntyre's Comedy Roadshow]]'' on [[BBC One]].
+
+In November 2008 he toured Kazakhstan with UK comic Nick Wilty, performing in Almaty, Aktau and Atyrau.&lt;ref name="Laughs"/&gt;
+
+He supported [[Frankie Boyle]] on his 2010 UK tour and performed his debut stand-up tour in 2011.&lt;ref name="Craig Campbell announces first tour"&gt;http://www.moosefucker.com/index.html&lt;/ref&gt; He opened for Boyle on his 2012 tour.
+
+He appeared on ''[[Dave's One Night Stand]]'' in April 2011, with [[Chris Addison]] and Jo Enright. &lt;http://uktv.co.uk/dave/series/tvseries/254381&gt;
+
+In November 2015 Craig performed in Moscow, Russia.
+
+Campbell hosts a monthly comedy night in Tiverton, Devon.&lt;ref&gt;[http://www.comedyhall.co.uk/]&lt;/ref&gt;
+
+==DVDs==
+* ''Death of a Badger'' (2010)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.avalonuk.com/artists/view/14 Page at agents' website]
+
+{{DEFAULTSORT:Campbell, Craig}}
+[[Category:Canadian stand-up comedians]]
+[[Category:Canadian people of Scottish descent]]
+[[Category:Canadian emigrants to England]]
+[[Category:1969 births]]
+[[Category:Living people]]
+
+
+{{Canada-comedian-stub}}</text>
+      <sha1>fnxug6ooder2y2bsy92pue0lsi11d60</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chumy Chúmez</title>
+    <ns>0</ns>
+    <id>9489376</id>
+    <revision>
+      <id>762925840</id>
+      <parentid>749825503</parentid>
+      <timestamp>2017-01-31T13:19:06Z</timestamp>
+      <contributor>
+        <username>WOSlinker</username>
+        <id>3138265</id>
+      </contributor>
+      <comment>use IMDb name template</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2373">'''Jose María González Castrillo''', more known as '''Chumy Chúmez''', (May 8, 1927 - April 10, 2003) was a Spanish [[cartoon]] humorist, writer and film director.
+
+Born in [[San Sebastián]], [[Guipúzcoa]], received training as mercantile professor and later studied drawing and painting. Due to his passion for painting he travelled to Madrid, where he would be devoted to humor, with sporadic collaborations in newspapers and later regularly in the weekly magazines ''La Codorniz'' and ''[[Triunfo (Spain)|Triunfo]]'' and also in the newspaper ''Madrid'', in which he used to write on the third page until it was suspended by government order in 1971. During the transition towards democracy in Spain he collaborated with the humor weekly magazine ''Hermano Lobo'', of which he was a founder.
+
+In the 1960s he directed several documentaries, a majority on [[Andalusia]]n localities. He also collaborated writing up cinematographic scripts and he got to write some of his own. He also directed several films, among them, ''Dios bendiga cada rincón de esta casa'' (1977) and ''¿Pero no vas a cambiar nunca Margarita?'' (1978), produced by [[Manuel Summers]].
+
+He worked as panelist in radio (''Protagonistas'' and ''Las mañanas de Radio 1'') and television (''Este país necesita un repaso'').
+
+Of his facet as a writer, it is possible to mention ''Yo fui feliz en la guerra'' (1986), an autobiography about his memories of the [[Spanish Civil War]]. Other titles are ''Por fin un hombre honrado'' (1994) and ''Pase Vd. sin llamar'' (1995)
+He was also known as a lecturer and contributor.
+
+Throughout his life he received a several prizes, the ''Paleta Agromán'' Prize (1977), the ''Mingote'' Prize (1985), the Prize of Journalism ''Francisco Cerecedo'' (1991) and the Latin American Prize of Graphical Humor ''Quevedos'' (2002).
+
+On April 10, 2003 Chumy died of liver cancer. Part of his ashes remained in Spain, whereas the rest was scattered near [[Cascais]].
+
+==External links==
+* [http://www.tebeosfera.com/Seccion/IM/06Chumy.htm Tebeosfera, in memóriam]
+* {{IMDb name|0161728}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chumez, Chumy}}
+[[Category:1927 births]]
+[[Category:2003 deaths]]
+[[Category:People from San Sebastián]]
+[[Category:Spanish film directors]]
+[[Category:Deaths from liver cancer]]
+[[Category:Deaths from cancer in Spain]]
+
+
+{{spain-bio-stub}}</text>
+      <sha1>2kozsmwni37by90ta24uhrwmnsl0faa</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,189 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Greg Fitzsimmons</title>
+    <ns>0</ns>
+    <id>7644588</id>
+    <revision>
+      <id>855076885</id>
+      <parentid>855066194</parentid>
+      <timestamp>2018-08-15T19:39:42Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:American radio personalities]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8928">{{Infobox comedian
+| name              = Greg Fitzsimmons
+| image             = GregStandup.jpg
+| caption           = Fitzsimmons performing stand-up comedy
+| pseudonym         = 
+| birth_date        = {{birth date and age|1966|4|5}}
+| birth_name        = Gregory Sebastian Fitzsimmons
+| birth_place       = [[New York, New York]], U.S.
+| medium            = [[Stand up comedy|Stand-up]], [[television]]
+| nationality       = American
+| active            = 1988–present
+| genre             = [[Stand-up comedy]]
+| subject           = [[observational comedy]]
+| influences        = [[George Carlin]], [[Richard Pryor]], [[Steve Martin]], [[Bill Cosby]]&lt;ref&gt;{{cite interview |last= Pollak |first= Kevin |interviewer= Kevin Pollak |title=  Kevin Pollak's Chat Show |url=https://www.youtube.com/watch?v=4fmvC6Iaw6o |access-date= 2016-05-04}}&lt;/ref&gt;
+| website           = [http://www.gregfitzsimmons.com Official website]}}
+
+'''Gregory Sebastian "Greg" Fitzsimmons''' (born April 5, 1966) is an American [[stand-up comedian]], writer, producer and radio host. He is currently the host of ''[[The Greg Fitzsimmons Show]]'' on [[Howard 100 and Howard 101|Howard 101]].
+
+==Life and career==
+Fitzsimmons was born in [[New York City]], New York, to New York City radio personality Bob Fitzsimmons, and Patricia (née McCarthy) Fitzsimmons.&lt;ref&gt;{{cite web|url=http://www.howardstern.com/rundown.hs?d=1155614400|title=Superstars visit sirius|publisher=Howardstern.com|date=2006-08-15|accessdate=2011-10-19}}&lt;/ref&gt; He grew up in [[Tarrytown, New York]].
+
+He began his stand up comedy career while attending [[Boston University]]. Fitzsimmons has since appeared on such programs as ''[[The Tonight Show with Jay Leno]]'', ''[[Late Show with David Letterman]]'', ''[[Late Night with Conan O'Brien]]'', ''[[Chelsea Lately]]'' and his one-hour Comedy Central special "Life on Stage".   In 2001 he won "The Jury Award for Best Comedian" at The HBO US Comedy Arts Festival in [[Aspen, Colorado]].
+
+==Education==
+He received his undergrad degree from Boston University.
+==Broadcasting and television==
+He has a highly rated comedy podcast called "Fitzdog Radio". Fitzsimmons is a frequent guest on ''[[The Howard Stern Show]]'' on [[Sirius Satellite Radio]], and hosts his own show on [[Howard 101]], ''[[The Greg Fitzsimmons Show]]''. He is also a frequent guest on ''[[The Adam Carolla Podcast]]'' and the ''[[Joe Rogan Experience]]''.
+
+As an actor, he has appeared on ''Louie'', ''C.S.I.'', ''Comedy Bang Bang'', ''Aqua Teen Hunger Force'', and the film ''Division III: Football's Finest'', and "Santa Clarita Diet"
+In 1996, Fitzsimmons hosted the [[MTV]] game show ''[[Idiot Savants (game show)|Idiot Savants]]'', which won a Cable Ace Award. He was a regular commentator on [[Vh1]]'s ''[[Best Week Ever]]'', ''[[I Love The]]'' series and ''Tough Crowd w/ Colin Quinn''. In 2014 he starred in TruTV's ''How to Be a Grownup'' and became a recurring panelist on ''[[@midnight]]'' on [[Comedy Central]].
+
+He voiced Randy in the ''[[Aqua Teen Hunger Force]]'' episode "Rabbit, Not Rabbot” as well as guest starred on ''[[Crashing (U.S. TV series)|Crashing]]''.
+
+===''The Greg Fitzsimmons Show''===
+{{Infobox radio show
+| name          = The Greg Fitzsimmons Show
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| other_names   = 
+| format        = 
+| runtime       = ~1 hour
+| start_time    = 
+| end_time      = 
+| runtime_note  = 
+| country       = United States
+| language      = English
+| home_station  = [[Howard 100 and Howard 101|Howard 101]]
+| syndicates    = 
+| television    = 
+| presenter     = Greg Fitzsimmons
+| starring      = 
+| announcer     = 
+| creator       = 
+| writer        = 
+| director      = 
+| senior_editor = 
+| editor        = 
+| producer      = 
+| exec_producer = 
+| narrated      = 
+| rec_location  = 
+| rem_location  = 
+| oth_location  = 
+| first_aired   = 2006
+| last_aired    = 
+| num_series    = 
+| num_episodes  = 
+| audio_format  = 
+| opentheme     = 
+| othertheme    = 
+| endtheme      = 
+| sponsor       = 
+| website       = 
+| podcast       = 
+}}
+
+''The Greg Fitzsimmons Show'' is a [[talk radio]] program hosted by American [[Stand-up comedy|stand-up comic]], actor, writer, and television producer, Greg Fitzsimmons. ''The Greg Fitzsimmons Show'' is uncensored and featured on ''[[Sirius XM Satellite Radio]]'', on [[Howard Stern]]'s ''[[Howard 101]]''.  The radio program was first transmitted in 2006, and continues to be broadcast live on Monday nights at 9pm PST/11:59pm EST.  A rebroadcast of the show is "''replayed''" throughout the week on ''Howard 101''.
+
+Unlike most shows on [[Sirius XM Radio]], which are broadcast out of Sirius headquarters in [[New York City]], ''The Greg Fitzsimmons Show'' is broadcast from Fitzsimmons' ''DogHouse Studios'' in [[Venice, Los Angeles|Venice Beach]], California or at Sirius’ Los Angeles studio in [[Hollywood]], [[California]].&lt;ref&gt;[https://archive.org/search.php?query=greg%20fitzsimmons Episode Directory - Audio Archive - Shows repeatedly mention the location of broadcast]&lt;/ref&gt;
+
+Mike Gibbons (aka "Gibby"),&lt;ref&gt;[http://sports.espn.go.com/espn/page3/story?page=lateword/040511 Article mentioning "Gibby"]&lt;/ref&gt; who is also a comedy writer and [[television producer]], is Fitzsimmons’ sidekick/producer.  Gibbons is a long-time friend of Fitzsimmons, which allows for natural, quick-witted banter between the two men, and occasional disagreements that are hashed out on-air.  The [[executive producer]] is Jim McClure (NY), and associate producers are Cori Lahners (CA) and Mike Farese (NY).&lt;ref&gt;[https://archive.org/details/GregFitzsimmonsShow-JerryOconnell12-23-08 Archive.org: Jerry O'Connell Interview 12-23-2008 - Staff Cited in end credits]&lt;/ref&gt;
+
+The show features interviews with [[Celebrity|celebrities]], musical guests and [[comedian]]s, and listener [[Phone-in|call-ins]] encouraged throughout the show.  As veteran comedy writers, Fitzsimmons and Gibbons offer a unique perspective on Hollywood and a behind-the-scenes look at the industry.  Their experience and insight provides a notable twist to celebrity interviews.
+
+Some past guests include: [[Jimmy Kimmel]], [[Ray Romano]], [[Bob Saget]], [[Dave Navarro]], [[Sarah Silverman]], [[Kevin Nealon]], [[Jerry O’Connell]], [[Joe Rogan]], [[Andy Richter]], [[Adam Carolla]], [[Andy Dick]], [[Dave Attell]], [[Daniel Tosh]], [[Judah Friedlander]], [[Patton Oswalt]], [[Doug Benson]], [[Rick Shapiro]], [[Carlos Mencia]], [[Joel McHale]], [[John Henson (comedian)|John Henson]], [[Belladonna (actress)|Belladonna]], [[Olivia Munn]], [[Dave Koechner]], [[Spike Feresten]], [[Robert Morton (producer)|Robert Morton]], [[Mary Lynn Rajskub]], [[Zack Galifianakis]], [[Karen Kilgariff]] and [[Robert Schimmel]].&lt;ref&gt;[https://archive.org/search.php?query=greg%20fitzsimmons Episode Directory - audio archive]&lt;/ref&gt;
+
+==Writing==
+From 2003 to 2005, he was a writer/ producer on ''[[The Ellen DeGeneres Show]]''&lt;ref&gt;{{IMDb title|0379623|Ellen: The Ellen DeGeneres Show (2003)}}&lt;/ref&gt; for which he won four [[Daytime Emmys]]. He went on to write for [[Louis C.K.]]'s [[sitcom]] ''[[Lucky Louie]]''.&lt;ref&gt;[https://www.imdb.com/title/tt0878482/fullcredits#writers Full cast and crew for "Lucky Louie" Clown Time Is Over (2007)], imdb.com&lt;/ref&gt; He also wrote for the Emmy Awards, ''Politically Incorrect w/ Bill Maher'', ''Cedric the Entertainer Presents'', ''The Man Show'', ''The Wanda Sykes Show'', ''The Gong Show w/ Dave Attell'' and ''The Chelsea Handler Show''.
+
+He is currently writing on HBO's Crashing with Pete Holmes.
+
+==Books==
+*{{cite book|title=Dear Mrs. Fitzsimmons: Tales of Redemption from an Irish Mailbox|publisher=[[Simon &amp; Schuster]]|location=New York|year=2010|isbn=1-43918-26-9-8|author=Greg Fitzsimmons.}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.gregfitzsimmons.com/ Official site]
+*{{Twitter}}
+*{{IMDb name|id=0280624|name=Greg Fitzsimmons}}
+;News articles and interviews
+*[https://web.archive.org/web/20070311005249/http://onetrickpony.ws/greg_fitzsimmons2 Interview from October 27 2006]
+*[https://web.archive.org/web/20070807144002/http://onetrickpony.ws/greg_fitzsimmons Interview from September 2005]
+*[https://web.archive.org/web/20070928063229/http://www.wickedinfo.com/content/view/79/61/ Interview from February 2007]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fitzsimmons, Greg}}
+[[Category:1966 births]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:American people of Irish descent]]
+[[Category:American podcasters]]
+[[Category:American stand-up comedians]]
+[[Category:American talk radio hosts]]
+[[Category:American game show hosts]]
+[[Category:American television producers]]
+[[Category:American television writers]]
+[[Category:Boston University alumni]]
+[[Category:Comedians from New York City]]
+[[Category:Living people]]
+[[Category:Male television writers]]</text>
+      <sha1>pivnvngfdpxdis5mvu59w8fmnbrzk04</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,609 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dave Chappelle</title>
+    <ns>0</ns>
+    <id>339365</id>
+    <revision>
+      <id>854413496</id>
+      <parentid>853709133</parentid>
+      <timestamp>2018-08-11T05:02:48Z</timestamp>
+      <contributor>
+        <ip>72.180.87.88</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63492">{{Infobox comedian
+|name = Dave Chappelle
+|image = File:Dave Chapelle cropped.jpg
+| image_size       =
+| alt              = Dave Chappelle in April 2016
+|caption = Chappelle in April 2016
+|birth_name   = David Khari Webber Chappelle
+|birth_date   = {{birth date and age|1973|8|24}}
+|birth_place  = [[Washington, D.C.]], U.S.
+|medium       = Stand-up, television, film
+|active       = 1992–present
+|genre         = [[Observational comedy]], [[surreal humor]], [[sketch comedy]], [[black comedy]], [[blue comedy]], [[satire]]
+|subject       = [[American politics]], [[African-American culture]], [[popular culture|pop culture]], [[racism]], [[race relations]], [[recreational drug use]], [[human sexuality]], [[morality]]
+|signature    = Dave Chapelle Signature.svg
+|spouse       = {{marriage|Elaine Erfe&lt;br /&gt;|2001}}
+|children = 3
+}}
+
+'''David Khari Webber Chappelle''' ({{IPAc-en|ʃ|ə|ˈ|p|ɛ|l}}; born August 24, 1973) is an American stand-up comedian, actor, writer, and producer. After beginning his film career in 1993 as Ahchoo in [[Mel Brooks]]' ''[[Robin Hood: Men in Tights]]'', he landed supporting roles in box office hits including ''[[The Nutty Professor (1996 film)|The Nutty Professor]]'', ''[[Con Air]]'', ''[[You've Got Mail]]'', ''[[Blue Streak (film)|Blue Streak]]'' and ''[[Undercover Brother]]''. His first lead role was in the 1998 comedy film ''[[Half Baked]]'', which he co-wrote with [[Neal Brennan]]. Chappelle also starred in the [[American Broadcasting Company|ABC]] TV series ''[[Buddies (TV series)|Buddies]]''. His comedy focuses on racism, relationship problems, social problems, politics, current events, and pop culture.
+
+In 2003, Chappelle became more widely known for his [[sketch comedy]] television series, ''[[Chappelle's Show]]'', also co-written with Brennan, which ran until his retirement from the show two years later. After leaving the show, Chappelle returned to performing stand-up comedy across the U.S.&lt;ref&gt;{{cite web|url=http://sonicawareness.net/post/60640495538/show-recap-dave-chappelle-flight-of-the-conchords|title=Show Recap Dave Chappelle and Flight of the Conchords|publisher=Sonicawareness.net}}&lt;/ref&gt;
+
+In 2016 he signed a $20 million-per-release comedy-special deal with Netflix, which has released four of his specials.&lt;ref&gt;{{cite web|url=https://variety.com/2017/tv/news/dave-chappelle-netflix-stand-up-special-fourth-the-bird-revelation-1202647930/|title=Dave Chappelle to Drop Two Netflix Specials on New Year’s Eve|first=Joe|last=Otterson|date=22 December 2017|website=Variety.com|accessdate=29 January 2018}}&lt;/ref&gt;
+
+By 2006, Chappelle was called the "comic genius of America" by ''[[Esquire (magazine)|Esquire]]''&lt;ref name="esquire"/&gt; and, in 2013, "the best" by a ''[[Billboard (magazine)|Billboard]]'' writer.&lt;ref&gt;{{cite news|url=http://www.billboard.com/articles/list/1532254/chappelles-show-10-best-musical-sketches|title= Chappelle's Show: 10 Best Musical Sketches|publisher=''Billboard''}}&lt;/ref&gt; In 2017, ''[[Rolling Stone]]'' ranked him No. 9 in their "50 Best Stand Up Comics of All Time."&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/culture/lists/50-best-stand-up-comics-of-all-time-w464199/mort-sahl-w464257|title=50 Best Stand-Up Comics of All Time|first=Matthew|last=Love|date=14 February 2017|publisher=}}&lt;/ref&gt; Chappelle was awarded an [[69th Primetime Emmy Awards|Emmy Award]] for his guest appearance on ''[[Saturday Night Live]]'' In 2017.&lt;ref name="auto"&gt;{{cite news|url=https://editorial.rottentomatoes.com/article/2017-emmy-award-winners/|title= 2017 Emmy Award Winners|publisher=''Rotten Tomatoes''}}&lt;/ref&gt; He received a [[60th Annual Grammy Awards|Grammy Award]] for his [[Netflix]]  specials ''The Age of Spin &amp; Deep in the Heart of Texas''.&lt;ref&gt;{{cite web|url= https://www.theguardian.com/music/2018/jan/28/grammy-awards-2018-the-full-list-of-winners|title=Grammys awards 2018: full list of winners|date=29 January 2018|work=The Guardian|accessdate=31 January 2018}}&lt;/ref&gt;
+
+== Early life ==
+David Khari Webber Chappelle was born in [[Washington, D.C.]] on August 24, 1973,&lt;ref&gt;{{cite news|title=Obituaries: Henry T. Chappelle|publisher=''Yellow Springs News''|date=March 1991}}&lt;/ref&gt; the youngest of three children.&lt;ref name="esquire"&gt;{{cite web|url=http://www.esquire.com/features/ESQ0506CHAPPELLE_92|title=Heaven Hell Dave Chappelle|publisher=''[[Esquire Magazine|Esquire]]''|author=Powell, Kevin|authorlink=Kevin Powell|date=2006-04-30|accessdate=2008-11-01}}&lt;/ref&gt; His father, William David Chappelle III, worked as a statistician before becoming a professor at [[Antioch College]] in [[Yellow Springs, Ohio]].&lt;ref name="InsideActorsStudio"&gt;{{cite episode|title = Dave Chappelle|series = Inside the Actors Studio|serieslink = Inside the Actors Studio|network = [[Bravo (US TV channel)|Bravo]]|airdate = 2006-02-12|season = 12|number = 10}}&lt;/ref&gt; His mother, Yvonne K Chappelle Seon (''née'' Reed), is half white&lt;ref&gt;{{cite web|url=https://www.nytimes.com/2005/11/27/arts/television/dave-chappelle-is-alive-and-well-and-playing-las-vegas.html|title=Dave Chappelle Is Alive and Well (and Playing Las Vegas)|first=Dave|last=Itzkoff|date=27 November 2005|accessdate=29 January 2018|website=Nytimes.com}}&lt;/ref&gt; and was a professor at [[Howard University]], [[Prince George's Community College]], and the [[University of Maryland, College Park|University of Maryland]]. Seon also worked for [[Democratic Republic of the Congo|Congo]] Prime Minister [[Patrice Lumumba]].&lt;ref&gt;{{cite web|url=http://africasacountry.com/2015/05/how-many-of-you-know-dave-chappelles-mother-worked-for-patrice-lumumba/|title=How many of you know Dave Chappelle’s mother worked for Patrice Lumumba?|date=19 May 2015|website=Africasacountry.com|accessdate=29 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://ysnews.com/news/2009/07/a-lifetime-of-making-a-difference|title=A lifetime of making a difference|website=Ysnews.com|accessdate=29 January 2018}}&lt;/ref&gt; She is also a [[Unitarian Universalist]] [[Minister of religion|minister]].&lt;ref name="nytimesItzkoff" /&gt; Chappelle has a stepmother and a stepbrother.&lt;ref name=esquire/&gt; He is the great-grandson of Bishop [[William D. Chappelle]], a former president of [[Allen University]].&lt;ref&gt;{{Cite news|url=http://www.thestate.com/news/local/article130740989.html|title=Comedian Dave Chappelle given keys to city|work=thestate|access-date=2017-03-20|language=en}}&lt;/ref&gt;
+
+Chappelle grew up in [[Silver Spring, Maryland]], and attended [[Woodlin Elementary School]].&lt;ref name="InsideActorsStudio"/&gt; His parents were politically active, and family house visitors included [[Pete Seeger]] and [[Johnny Hartman]].&lt;ref name=esquire/&gt; The latter predicted Chappelle would be a comedian and, around this time, Chappelle's comic inspiration came from [[Eddie Murphy]] and [[Richard Pryor]]. After his parents separated, Chappelle stayed in Washington with his mother while spending summers with his father in [[Ohio]]. In 1991, he graduated from Washington's [[Duke Ellington School of the Arts]], where he studied [[theatre arts]].&lt;ref name="InsideActorsStudio"/&gt;
+
+== Career ==
+
+=== Early career ===
+Chappelle moved to [[New York City]] to pursue a career as a comedian. He performed at [[Harlem]]'s famed [[Apollo Theater]] in front of the infamous "Amateur Night" audience, but he was [[booing|boo]]ed off stage. Chappelle described the experience as the moment that gave him the courage to continue his show business aspirations.&lt;ref name="InsideActorsStudio"/&gt; He quickly made a name for himself on the New York comedy circuit, even performing in the city's parks.{{Citation needed|date=May 2017}} In 1992, he won critical and popular acclaim for his television appearance in Russell Simmons' Def Comedy Jam on HBO. It was his appearance on this show that allowed his popularity to really begin rising, eventually allowing him to become a regular guest on late-night television shows such as Politically Incorrect, The Late Show With David Letterman, The Howard Stern Show, and Late Night With Conan O'Brien. [[Whoopi Goldberg]] even nicknamed him "The Kid".&lt;ref name="esquire"/&gt; At 19, he made his film debut as "Ahchoo" in [[Mel Brooks]]' ''[[Robin Hood: Men in Tights]]''. He also appeared on [[Star Search]] three times but lost over competing comedian [[Lester Barrie]]; Dave later joked about the irony of him ultimately becoming more successful than Barrie. The same year, Chappelle was offered the role of Benjamin Buford "Bubba" Blue in ''[[Forrest Gump]]''.  Concerned the character was demeaning and the movie would bomb, he turned down the part.&lt;ref name="ajc2007"&gt;Staff report (August 23, 2007). [http://nl.newsbank.com/nl-search/we/Archives?p_product=AT&amp;p_theme=at&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=11B34F8754BA55E0&amp;p_field_direct-0=document_id "COMEDY: Watching Dave make his stand"]. ''[[Atlanta Journal-Constitution]]''&lt;/ref&gt;&lt;ref name="wiser2006"&gt;Wiser, Paige (December 17, 2006). [http://www.highbeam.com/doc/1P2-3692172.html Might-have-beens who (thankfully) weren't: The wacky world of Hollywood's strangest casting calls.] ''[[Chicago Sun-Times]]''&lt;/ref&gt; He parodied the film in the 1997 short ''Bowl of Pork'', where a dim-witted black man is responsible for the [[Rodney King|Rodney King beating]], the [[1992 Los Angeles riots|LA riots]] and [[O. J. Simpson murder case|OJ Simpson being accused of murder]].&lt;ref name="gore1998"&gt;Gore, Chris (January 26, 1998). [http://www.filmthreat.com/festivals/161/ Park City Madness: Sundance, Slamdance, and Slamdunk 1998.] {{webarchive|url=https://web.archive.org/web/20121007153637/http://www.filmthreat.com/festivals/161/ |date=2012-10-07 }} ''[[Film Threat]]''&lt;/ref&gt; Chappelle played another supporting role in an early [[Doug Liman]] film, ''[[Getting In]]'' in 1994.&lt;ref&gt;{{cite book|title=Historical Dictionary of African American Cinema|year=2007|publisher=[[Rowman &amp; Littlefield|Scarecrow Press]]|isbn=9780810855458|page=63|author1=Berry, Torriano |author2=Berry, Venise }}&lt;/ref&gt; At age 19, he was the opening act for R&amp;B soul singer [[Aretha Franklin]].&lt;ref&gt;Reed, Ryan (June 11, 2014). [https://www.rollingstone.com/tv/videos/dave-chappelle-i-never-quit-im-seven-years-late-for-work-20140611 "Dave Chappelle: 'I Never Quit – I'm Seven Years Late for Work{{'"}}]. ''[[Rolling Stone]]''.&lt;/ref&gt;
+
+He attracted the attention of TV network executives and developed numerous [[television pilot|pilot]]s but none were picked up for development into a series.&lt;ref name="InsideActorsStudio"/&gt;&lt;ref name=freedom&gt;{{cite news|url=http://www.cbsnews.com/stories/2004/10/19/60II/main650149.shtml|title = Chappelle: 'An Act of Freedom'|work=[[60 Minutes II]] |publisher=[[CBS News]]|author=Leung, Rebecca|date=December 29, 2004|accessdate = 2007-03-16}}&lt;/ref&gt; In 1995, he made a guest appearance on an episode of [[American Broadcasting Company|ABC]]'s popular [[situation comedy|sitcom]] ''[[Home Improvement (TV series)|Home Improvement]]''. The storyline had Chappelle and real-life friend and comedian [[Jim Breuer]] ask [[Tim Taylor (fictional character)|Tim Taylor]] for advice on their girlfriends.&lt;ref name="latimes1995"&gt;{{cite news|url=http://articles.latimes.com/1995-04-16/news/tv-55110_1_abc-sitcom|title=Boys Will Be 'Buddies': ABC Sitcom Explores the Relationship and the Differences Between Best Friends|work=[[Los Angeles Times]] |author=Kleid, Beth| date=1995-04-16|accessdate=2013-09-06}}&lt;/ref&gt; The characters' single outing in the episode proved so popular that ABC decided to give them their own [[Spin-off (media)|spin-off]] sitcom titled ''[[Buddies (TV series)|Buddies]]''. However, after taping a pilot episode, Jim Breuer was fired and replaced with actor [[Christopher Gartin]]. ''Buddies'' premiered in March 1996 to disappointing [[Nielsen ratings|ratings]] and the show was canceled after only five episodes out of 13 that had been produced.
+
+After the failure of ''Buddies'', Chappelle starred in another pilot. According to Chappelle, the network was uncomfortable with the [[African-American]] cast and wanted [[White American|white]] actors added.&lt;ref name="varietyhontz"&gt;{{cite news|url=https://variety.com/1998/tv/news/tv-s-race-card-1117478261/|title=TV’s race card|publisher=''[[Variety (magazine)|Variety]]''|author=Hontz, Jenny|date=1998-07-08|accessdate=2013-09-03}}&lt;/ref&gt; Chappelle resisted and subsequently accused the network of racism. Shortly afterwards, Chappelle's father died and returning to Ohio, he considered leaving the entertainment business.&lt;ref name="InsideActorsStudio"/&gt;&lt;ref name=freedom/&gt;
+
+He later appeared as a nightclub comedian ("''women be shopping!''") in the 1996 comedy ''[[The Nutty Professor (1996 film)|The Nutty Professor]]'' starring [[Eddie Murphy]], one of his major comedic influences.  The movie grossed nearly $129 million on a budget of $54 million.&lt;ref name="boxofficenutty"&gt;{{cite news|url=http://www.boxofficemojo.com/movies/?id=nuttyprofessor.htm|title=The Nutty Professor (1996)|publisher=[[Box Office Mojo]]}}&lt;/ref&gt; He had a minor role in 1997's ''[[Con Air]]'' which made $26 million after production costs.&lt;ref name="boxofficecon"&gt;{{cite news|url=http://www.boxofficemojo.com/movies/?id=conair.htm|title=Con Air (1997)|publisher=Box Office Mojo}}&lt;/ref&gt; At the beginning of 1998, he did a stand-up performance for [[HBO]] Comedy Half-Hour. That same year, he appeared in "Pilots and Pens Lost," a 1998 episode of ''[[The Larry Sanders Show]]'''s sixth season, in which he and the executives of the show's unnamed [[television network]] satirized the treatment that scriptwriters and show creators were subjected to, as well as the executives' knee-jerk tendencies toward [[Ethnic stereotype|racial stereotypes]].&lt;ref name="ifclarry"&gt;[http://www.ifc.com/shows/the-larry-sanders-show/episodes/season-6/pilots-and-pens-lost "Season 6, Episode 4: Pilots and Pens Lost"] {{webarchive|url=https://web.archive.org/web/20140107232154/http://www.ifc.com/shows/the-larry-sanders-show/episodes/season-6/pilots-and-pens-lost |date=2014-01-07 }}. [[IFC (U.S. TV network)|IFC]], [[AMC Networks]]. Retrieved 2014-01-07&lt;/ref&gt;
+
+He and [[Neal Brennan]] co-wrote the 1998 [[cult film|cult]] [[stoner film]] ''[[Half Baked]]'', Chappelle's first starring role, about a group of [[Cannabis (drug)|marijuana]]-smoking friends trying to get their other friend out of jail.  It made money at the box office and remains a classic so-called "stoner" film, a genre that includes the "Cheech and Chong" films as well as more recent fare like [[Judd Apatow]]'s ''[[Pineapple Express (film)|Pineapple Express]]''.&lt;ref name="ewstoner"&gt;{{cite news|url=http://www.ew.com/ew/gallery/0,,20483133_20362224_20445193,00.html|title=Stoner Flicks: 20 'High-Rated' Faves|newspaper=[[Entertainment Weekly]] | first1=Whitney|last1=Pastorek|first2=Jeff|last2=Labrecque|date=April 20, 2013}}&lt;/ref&gt;&lt;ref name="mjcommovies"&gt;{{cite web|url=http://www.marijuana.com/news/2013/05/top-10-marijuana-movies-from-up-in-smoke-to-half-baked-hollywood-loves-pot-flicks/ |title=Top 10 Marijuana Movies: From "Up In Smoke" to "Half Baked" Hollywood Loves Pot Flicks |publisher=Marijuana.com |deadurl=yes |archiveurl=https://web.archive.org/web/20130606214454/http://www.marijuana.com/news/2013/05/top-10-marijuana-movies-from-up-in-smoke-to-half-baked-hollywood-loves-pot-flicks/ |archivedate=June 6, 2013 }}&lt;/ref&gt; In December 1998, Chappelle appeared as [[Tom Hanks]]' character's friend and confidant in ''[[You've Got Mail]]''. The $65 million movie made $115 million at the box office.&lt;ref name="boxofficemail"&gt;{{cite news|url=http://www.boxofficemojo.com/movies/?id=youvegotmail.htm|title=You've Got Mail|publisher=Box Office Mojo}}&lt;/ref&gt; In 1999, he appeared in the [[Martin Lawrence]] film ''[[Blue Streak (film)|Blue Streak]]'', which made $117 million at the box office.&lt;ref&gt;{{cite news|url=http://www.boxofficemojo.com/movies/?id=bluestreak.htm|title=Blue Streak (1999)|publisher=Box Office Mojo}}&lt;/ref&gt;
+
+In 2000, Chappelle recorded his first hour-long [[HBO]] special, ''Dave Chappelle: Killin' Them Softly'', in [[Washington, DC]]. He followed this up with an appearance as "Conspiracy Brother" in the 2002 racial satire ''[[Undercover Brother]]''.&lt;ref name=NYTF&gt;{{cite news|url=https://www.nytimes.com/movies/person/12383/Dave-Chappelle/filmography|title=Dave Chappelle: Filmography|newspaper=The New York Times}}&lt;/ref&gt;
+
+=== 2003–2006: ''Chappelle's Show'' ===
+{{main|Chappelle's Show}}
+[[File:DaveChappelle.jpg|alt=Dave Chappelle in 2003.|thumb|right|Chappelle in 2003]]
+In 2003, Chappelle debuted his own weekly [[sketch comedy]] show on [[Comedy Central]] called ''[[Chappelle's Show]]''.  The show parodied many aspects of American culture, including [[Ethnic stereotype|racial stereotypes]], politics and [[popular culture|pop culture]].  Along with comedy skits, the show also featured musical performances by mostly [[hip-hop music|hip-hop]] and [[soul (music)|soul]] artists. He promoted the work of other black comedians as well, most notably Paul Mooney and the late [[Charlie Murphy]].&lt;ref name=Als/&gt;
+
+Due to the show's popularity, Comedy Central's new parent company [[Viacom]]&lt;ref name=esquire/&gt; reportedly offered Chappelle a $55 million contract (giving Chappelle a share of DVD sales) to continue production of ''Chappelle's Show'' for two more years, while allowing him to do side projects.  Chappelle has said that sketches are not his favorite form of comedy,&lt;ref name=esquire/&gt; and that the show's format was somewhat like [[short film]]s.
+
+In June 2004, based on the popularity of the "[[Rick James]]" sketch, it was announced that Chappelle was in talks to portray James in a [[biopic]] from [[Paramount Pictures]], also owned by Viacom.&lt;ref&gt;{{cite web|url=http://www.mtv.com/movies/news/articles/1488300/06102004/story.jhtml|title = Dave Chappelle Is Rick James, Bitch!|publisher= [[MTV News]]|first = Alyssa|last = Rashbaum|date=June 10, 2004|accessdate = 2007-03-21}}&lt;/ref&gt; James' estate disagreed with the proposed comical tone of the film and put a halt to the talks.&lt;ref&gt;{{cite news|url=http://www.variety.com/article/VR1117955707.html?categoryid=13&amp;cs=1|title = Turner to script singer James's biopic|publisher= [[Variety (magazine)|Variety]]|first = Michael|last = Fleming|date=December 13, 2006|accessdate = 2007-03-21}}&lt;/ref&gt;
+
+That same month, Chappelle recorded his second comedy special, this time airing on [[Showtime (TV network)|Showtime]], ''Dave Chappelle: For What It's Worth'', at [[San Francisco]]'s [[The Fillmore|Fillmore Auditorium]], where his idols, including [[Lenny Bruce]], [[George Carlin]], [[Richard Pryor]], and [[Robin Williams]], had performed.
+
+==== Season 3 problems ====
+In a June 2004 stand-up performance in [[Sacramento, California]], Chappelle walked off the stage after berating his audience for constantly shouting "I'm [[Rick James]], bitch!" which had become a [[catchphrase]] from his popular "Rick James" sketch. After a few minutes, Chappelle returned and resumed by saying, "The show is ruining my life." He stated that he disliked working "20 hours a day" and that the popularity of the show was making it difficult for him to continue his stand-up career, which was "the most important thing" to him.  He told the audience:
+
+{{quote|You know why my show is good? Because the network officials say you're not smart enough to get what I'm doing, and every day I fight for you. I tell them how smart you are. Turns out, I was wrong. You people are stupid.&lt;ref&gt;{{cite news|title = Dave Chappelle lets rude crowd have it, sticks up for Cosby's comment|newspaper= [[Sacramento Bee]]|first = Jim|last = Carnes|date=June 18, 2004|accessdate = 2007-03-20}}&lt;/ref&gt;}}
+
+Season 3 was scheduled to begin airing on May 31, 2005, but earlier in May, Chappelle stunned fans and the entertainment industry when he abruptly left during production and took a trip to South Africa.&lt;ref name="esquire"/&gt; Chappelle said that he was unhappy with the direction the show had taken, and expressed in an interview with ''[[Time (magazine)|Time]]'' his need for reflection in the face of tremendous stress:
+
+{{quote|Coming here, I don't have the distractions of fame. It quiets the ego down. I'm interested in the kind of person I've got to become. I want to be well-rounded and the industry is a place of extremes. I want to be well-balanced. I've got to check my intentions, man.&lt;ref name="Time"&gt;{{cite news|url=http://www.time.com/time/arts/article/0,8599,1061415,00.html|title = On the Beach With Dave Chappelle|newspaper= [[Time magazine|Time]]|first = Simon|last = Robinson|date=May 15, 2005|accessdate = 2007-03-20}}&lt;/ref&gt;}}
+
+Immediately following Chappelle's departure, tabloids speculated that Chappelle's exit was driven by drug addiction or a mental health issue, rather than the ethical and personal concerns as Chappelle stated.&lt;ref name="Time"/&gt;
+
+Chappelle's decision to quit the show meant walking away from his $50 million contract with Comedy Central,&lt;ref name=Als/&gt; and a rift with longtime collaborator [[Neal Brennan]].&lt;ref name=esquire/&gt;
+
+=== ''Dave Chappelle's Block Party'' ===
+[[File:Broken Angel House.jpg|alt=A picture of The Broken Angel House in Brooklyn on May 16, 2007.|thumb|right|The Broken Angel House in [[Brooklyn]] on May 16, 2007, which was the site of the documentary ''[[Dave Chappelle's Block Party]]'' (2005)]]
+Chappelle was the star and a [[Film producer|producer]] of the [[Michel Gondry]]-directed documentary ''[[Dave Chappelle's Block Party]]'', which chronicles his hosting a free concert in the [[Clinton Hill, Brooklyn|Clinton Hill]] neighborhood of [[Brooklyn]] on September 18, 2004.&lt;ref name=esquire/&gt; Several musical artists, including [[Kanye West]], [[The Roots]], [[Erykah Badu]], [[Mos Def]], [[Dead Prez]] and [[Jill Scott]], are featured in the movie both performing in the concert and in conversation off-stage; Chappelle brought Yellow Springs residents to Brooklyn at his own expense.&lt;ref name=esquire/&gt; Another highlight of the event was the temporary reunion of 1990s [[hip-hop]] group [[The Fugees]].&lt;ref&gt;[http://www.bluesandsoul.com/feature/360/wyclef_jean_perfect_gentelman/ "Wyclef Jean interview by Pete Lewis"]. Blues &amp; Soul. 2008-12. Retrieved 2014-01-08&lt;/ref&gt;
+
+Chappelle toured several cities in February and March 2006 to promote the film under the name "Block Party All-Stars Featuring Dave Chappelle". [[Universal Pictures]]' genre division, [[Rogue Pictures]], released the film in the U.S. on March 3, 2006.  It was a success, grossing a total of $11.7 million on a $3 million budget.&lt;ref&gt;{{cite news|url=http://boxofficemojo.com/movies/?id=blockparty.htm|title=Dave Chappelle's Block Party|publisher=Box Office Mojo}}&lt;/ref&gt;
+
+=== 2006–2013: Infrequent stand-up and TV appearances ===
+In June 2005, Chappelle performed impromptu stand-up shows in Los Angeles,&lt;ref name="nytimesItzkoff"&gt;{{cite news|url=https://www.nytimes.com/2005/11/27/arts/television/27itzkoff.html?pagewanted=1&amp;ei=5090&amp;en=d4621faea456d339&amp;ex=1290747600&amp;partner=rssuserland&amp;emc=rss|title = Dave Chappelle Is Alive and Well (and Playing Las Vegas)|newspaper=[[The New York Times]]|first = Dave|last = Itzkoff|date=November 27, 2005|accessdate = 2007-03-21}}&lt;/ref&gt;&lt;ref name="ewbuckeye"&gt;{{cite news|url=http://www.ew.com/ew/article/0,,1065847,00.html|title = The Buckeye Stops Here|newspaper=Entertainment Weekly|first = Gary|last = Susman|date=May 26, 2005|accessdate = 2007-03-20}}&lt;/ref&gt;&lt;ref name="ewtruestory"&gt;{{cite news|url=http://www.ew.com/ew/article/0,,1068717,00.html|title = True Hollywood Story|newspaper=Entertainment Weekly|first = Gary|last = Susman|date=June 3, 2005|accessdate = 2007-03-20}}&lt;/ref&gt; then went on a tour that began in [[Newport, Kentucky]], not far from his Ohio home.&lt;ref name="MTV"&gt;{{cite web|url=http://www.mtv.com/news/articles/1509344/20050912/index.jhtml?headlines=true|title = Dave Chappelle Is Back Onstage|publisher= [[MTV News]]|first = Gil|last = Kaufman|date=September 12, 2005|accessdate = 2007-03-20}}&lt;/ref&gt; He made a surprise appearance on HBO's ''[[Def Poetry]]'', where he performed two poems, titled "Fuck [[Ashton Kutcher]]" and "How I Got the Lead on ''[[Jeopardy!]]''"&lt;ref&gt;{{cite web|url=http://www.litkicks.com/DPJ20050610 |title=Def Poetry Jam: June 10, 2005 &amp;#124; Literary Kicks |website=Litkicks.com |date= |accessdate=2017-03-30}}&lt;/ref&gt;
+
+In an interview with [[Oprah Winfrey]] that aired on February 3, 2006, Chappelle explained his reasoning for quitting ''[[Chappelle's Show]]''.&lt;ref&gt;{{cite web|last=Cosgrove |first=Bootie |url=http://www.cbsnews.com/news/dave-chappelle-i-wasnt-crazy/ |title=Dave Chappelle: 'I Wasn't Crazy' |publisher=[[CBS News]] |date=2006-02-03 |accessdate=2017-03-30}}&lt;/ref&gt; He also expressed his contempt for the entertainment industry's tone-deafness toward black entertainers and audiences:
+
+{{quote|When I see that they put every black man in the movies in a dress at some point in their career, I start connecting the dots.&lt;ref name="oprah" /&gt;&lt;ref name="vice2014"&gt;{{cite web|title=Power - The Evolution of Black Masculinity Through Fashion |url=https://www.vice.com/en_uk/read/power-0000227-v21n2|publisher=[[Vice Magazine]] | date=March 3, 2014 |accessdate=March 27, 2014|author=Wilbert L. Cooper}}&lt;/ref&gt;}}
+
+Chappelle was interviewed for ''[[Inside the Actors Studio]]'' on December 18, 2005, at [[Pace University]]'s [[Michael Schimmel Center for the Arts]].  The show premiered on February 12, 2006.&lt;ref name="InsideActorsStudio" /&gt; Four days earlier, he had introduced the musical tribute to [[Sly Stone]] at the [[48th Annual Grammy Awards]].&lt;ref name=esquire/&gt;
+
+Chappelle said on ''Inside the Actors Studio'' that the death of his father seven years prior influenced his decision to go to South Africa. By throwing himself into his work, he had not taken a chance to mourn his father's death. He also said the rumors that he was in drug or psychiatric treatment only persuaded him to stay in South Africa.&lt;ref name="InsideActorsStudio"/&gt; He said,
+
+{{quote|I would go to work on the show and I felt awful every day, that's not the way it was. ... I felt like some kind of prostitute or something. If I feel so bad, why keep on showing up to this place? I'm going to Africa. The hardest thing to do is to be true to yourself, especially when everybody is watching.&lt;ref name="InsideActorsStudio"/&gt;}}
+
+[[File:Dave Chappelle (cropped).jpg|alt=Dave Chappelle in October 2007.|thumb|left|Chappelle in October 2007]]
+Chappelle said that he felt some of his sketches were "socially irresponsible".&lt;ref name="oprah"&gt;{{cite web|url=http://www.oprah.com/oprahshow/Chappelles-Story/5|title=Chappelle's Story: Dave's Moral Dilemma|publisher=''[[The Oprah Winfrey Show]]''}}&lt;/ref&gt;&lt;ref name="CNN"&gt;{{cite web|url=http://insidecable.blogsome.com/2006/07/07/dave-chappelle-on-360-tonight/ |title=Transcript: Interview With Dave Chappelle, July 7, 2006 |publisher=[[CNN]]|deadurl=yes |archiveurl=https://web.archive.org/web/20061029205225/http://insidecable.blogsome.com/2006/07/07/dave-chappelle-on-360-tonight/ |archivedate=2006-10-29 |df= }}&lt;/ref&gt; He singled out the "[[pixie]] sketch" in which pixies appear to people and encourage them to reinforce stereotypes of their races.  In the sketch, Chappelle is wearing [[blackface]] and is dressed as a character in a [[minstrel show]].&lt;ref name="fears"/&gt; According to Chappelle, during the filming of the sketch, a white crew member was laughing in a way that made him feel uncomfortable and made him question himself.&lt;ref name="oprah"/&gt;&lt;ref name="CNN"/&gt; Chappelle said, "It was the first time I felt that someone was not laughing with me but laughing at me."&lt;ref name="oprah"/&gt;
+
+During these interviews, Chappelle did not rule out returning to ''Chappelle's Show'' to "finish what we started," but promised that he would not return without changes to the production, such as a better working environment.  He desired to donate half of the DVD sales to charity.&lt;ref name="oprah" /&gt; Chappelle expressed disdain at the possibility of his material from the unfinished third season being aired, saying that to do so would be "a bully move," and that he would not return to the show if Comedy Central were to air the unfinished material.&lt;ref name="CNN" /&gt; On July 9, 2006, Comedy Central aired the first episode of ''[[Chappelle's Show: The Lost Episodes]]''. After the DVD release, Chappelle was interviewed by [[Anderson Cooper]] on CNN and reiterated he would not return to ''[[Chappelle's Show]]''. An uncensored DVD release of the episodes was made available on July 25.
+
+The show still plays in syndication on several television networks, despite the relatively small number of episodes compared to most American syndicated television programs.&lt;ref name="Wisniewski2009" /&gt;
+
+Chappelle has been known to make impromptu and unannounced appearances at comedy venues,&lt;ref&gt;Hogan, Marc (May 28, 2014). [https://www.spin.com/2014/05/dave-chappelle-radio-city-music-hall-roots-janelle-monae-erykah-badu-busta-rhymes/ "Dave Chappelle Enlists the Roots, Janelle Monae for New York Comeback"]. ''[[Spin (magazine)|Spin]]''.&lt;/ref&gt; and continues to do so following his post–''Chappelle's Show'' return to standup.&lt;ref&gt;Doggett, Jolie A. (July 7, 2014). [http://www.essence.com/2014/07/06/dave-chappelle-essence-festival/ "Dave Chappelle Makes Surprise Appearance at 2014 ESSENCE Festival"]. ''[[Essence (magazine)|Essence]]''.&lt;/ref&gt;
+
+In April 2007, Chappelle set a stand-up endurance record at the [[Laugh Factory]] Sunset Strip comedy club, beating comedian [[Dane Cook]]'s record of three hours and 50 minutes.  In December of the same year, Chappelle broke his own record with a time of six hours and 12 minutes.  Cook reclaimed the record in January 2008, with a time of seven hours.&lt;ref&gt;{{cite news|url=http://www.foxnews.com/story/0,2933,320330,00.html|title = Dane Cook Breaks Dave Chappelle's Laugh Factory Endurance Record|publisher= [[Fox News]]/[[Associated Press]]|date=January 4, 2008}}&lt;/ref&gt; On November 19, 2009 Chappelle performed at the Laugh Factory again, where it was speculated that he would attempt to take back the record.  However, he was disqualified according to the club owner after he left the stage five hours into his routine.&lt;ref name="huffingtonrecord"&gt;[http://www.huffingtonpost.com/2009/10/20/dave-chappelle-fails-to-s_n_327977.html "Dave Chappelle Fails To Set Comedy Endurance Record When Nature Calls"] ''[[The Huffington Post]]''; October 20, 2009&lt;/ref&gt;
+
+Chappelle again appeared on ''Inside the Actors Studio'' and, in celebration of the show's 200th episode, he humorously interviewed the show's usual host, [[James Lipton]].  The episode aired on November 11, 2008.  He appeared again on ''Inside the Actors Studio'' in 2013, for its 250th episode.
+
+In August 2011, Chappelle appeared at Comedy Jam in San Francisco.&lt;ref&gt;{{Cite news|url=http://humormillmag.com/dave-chappelle-chris-tucker-katt-williams-comedy-show-a-huge-success/|title=Dave Chappelle, Chris Tucker, Katt Williams Comedy Show A Huge Success!|date=2011-08-15|work=The Humor Mill|access-date=2017-03-23|language=en-US}}&lt;/ref&gt;
+
+=== 2013–present: career resurgence ===
+[[File:Dave Chappelle and Donnell Rawlings stand in front of a C-17 Globemaster III (32666816002).jpg|alt=Dave Chappelle and Donnell Rawlings in February 2017.|thumb|256px|right|Chappelle (right) and [[Donnell Rawlings]] (left) stand in front of a C-17 Globemaster III at Joint Base Charleston, S.C. on February 2, 2017.]]
+
+In August 2013, Chappelle returned to full-time touring stand-up,&lt;ref&gt;[https://www.nytimes.com/2013/08/18/arts/dave-chappelle-returns-to-stand-up-with-stories-to-tell.html Dave Chappelle returns to stand-up with stories to tell] New York Times, August 18, 2013&lt;/ref&gt; as a headliner&lt;ref name="economist2013"&gt;{{cite news|url=https://www.economist.com/news/books-and-arts/21584313-one-americas-most-gifted-and-mercurial-comics-returns-stage-funny-man|title= Dave Chappelle’s comeback: Funny man|publisher=''[[The Economist]]''|date=Aug 29, 2013|author=&lt;!--Staff writer, not named--&gt;}}&lt;/ref&gt; when he was featured during the Oddball Comedy &amp; Curiosity festival.  Sponsored by [[Funny or Die]], Chappelle co-headlined with comedy act [[Flight of the Conchords]].&lt;ref name="nytimesstandupreeturn"&gt;{{cite news|url=https://www.nytimes.com/2013/08/18/arts/dave-chappelle-returns-to-stand-up-with-stories-to-tell.html?pagewanted=all |title=Dave Chappelle Returns to Stand Up With Stories to Tell|newspaper=The New York Times| first=Jason|last=Zinoman|date=August 15, 2013}}&lt;/ref&gt;
+
+During a stop in Hartford, Chappelle walked off the stage due to heckling from the crowd that lasted throughout his entire performance. The heckling was so raucous that it drowned out Chappelle's voice over the PA system and included chants of "White Power", a line used in a ''Chappelle's Show'' episode that was viewed as wildly inappropriate and out-of-context by other audience members who later wrote about the event.&lt;ref name="usatoday"&gt;Oldenburg, Ann (August 30, 2013). [https://www.usatoday.com/story/life/people/2013/08/30/dave-chappelle-heckled-off-stage-in-connecticut/2742657/ "Dave Chappelle walks off stage in Connecticut"]. ''[[USA Today]]''.&lt;/ref&gt;&lt;ref name="huffingtonhartford"&gt;{{cite news|title=It Wasn't a 'Meltdown': Here's What Really Happened at Dave Chappelle's Show in Hartford |url=http://www.huffingtonpost.com/mike-dunn/dave-chappelle-hartford_b_3844742.html |work=[[The Huffington Post]] | date=August 30, 2013 |accessdate=March 27, 2014|author=Mike Dunn }}&lt;/ref&gt; A few days later, Chappelle stopped in Chicago for a performance. The comedy website ComedyHype.com acquired and released audio of him on stage responding to the heckling. Chappelle referenced the Hartford incident, stating that "young, white, alcoholic[s]" should be blamed for the prior incident, that he hoped North Korea would bomb Hartford, that in the future he would not stop in Hartford for gas, and finally summarizing his feelings on the situation by saying, "Fuck Hartford!"&lt;ref&gt;{{cite news|author=Sacks, Ethan|url=http://www.nydailynews.com/entertainment/gossip/dave-chappelle-hartford-conn-hope-north-korea-drops-bomb-article-1.1446701|title=Gossip: Dave Chappelle blames 'young, white alcoholic' hecklers for Hartford, Conn. debacle, says he hopes North Korea drops bomb on city|newspaper=[[Daily News (New York)|Daily News]]|location=New York}}&lt;/ref&gt; However, in August 2014 Chappelle returned to Hartford for a surprise appearance at the 2014 Oddball Festival and received multiple standing ovations during his set.&lt;ref&gt;Zinoman, Jason (August 24, 2014). [https://www.nytimes.com/2014/08/25/arts/chappelle-returns-to-hartford-all-is-forgiven.html?_r=0 "Chappelle Returns to Hartford (All Is Forgiven)"]. ''The New York Times''.&lt;/ref&gt;
+
+In June 2014, Chappelle made his first major New York City appearance in eleven years, performing ten nights at [[Radio City Music Hall]].&lt;ref name=Als&gt;Als, Hilton, "Who's Your Daddy," ''New Yorker'', 7 &amp; 14, July 2014.&lt;/ref&gt; Chappelle promoted the dates by appearing on ''[[Today (U.S. TV program)|The Today Show]]'', ''[[The Tonight Show Starring Jimmy Fallon]]'' and ''[[Late Show with David Letterman]]''.
+
+In 2015, Chappelle appeared in the [[Spike Lee]] film, ''[[Chi-Raq]]'', his first film role in 13 years.&lt;ref&gt;{{cite web|title=Dave Chappelle Joins Spike Lee’s Chiraq|url=http://www.vulture.com/2015/06/dave-chappelle-joins-spike-lees-chiraq.html|website=''[[New York (magazine)|New York]]''|accessdate=22 December 2015}}&lt;/ref&gt;
+
+On November 12, 2016, Chappelle made his hosting debut on ''[[Saturday Night Live]]'', with [[A Tribe Called Quest]] as musical guest.&lt;ref&gt;{{cite web|title=Dave Chappelle To Host 'Saturday Night Live' On November 12|url=http://deadline.com/2016/11/dave-chappelle-saturday-night-live-host-tribe-called-quest-1201848662/|first=Erik|last= Pedersen|website=[[Deadline Hollywood]]|date=November 4, 2016|accessdate=November 22, 2016}}&lt;/ref&gt; His performance on ''SNL'' received widespread acclaim from critics and audiences alike. At the [[69th Primetime Emmy Awards]], he received an [[Emmy Award]] for [[Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series|Outstanding Guest Actor in a Comedy Series]] for his guest appearance on ''Saturday Night Live''.&lt;ref name="auto"/&gt; He donated the Emmy to his former high school while filming an episode of [[Jerry Seinfeld|Jerry Seinfeld's]] [[Netflix]] series, [[Comedians in Cars Getting Coffee]] (Season 10, Episode 2: "Nobody Says, “I Wish I Had A Camera”").&lt;ref&gt;{{cite web|title=Dave Chappelle Returns to His DC Alma Mater, Gives Emmy to School|url=https://www.nbcwashington.com/news/local/Dave-Chappelle-Returns-to-His-DC-Alma-Mater-Gives-Emmy-to-School-448741183.html|website=''[[WRC-TV|NBC Washington]]''|accessdate=July 9, 2018}}&lt;/ref&gt;
+
+On November 21, 2016, [[Netflix]] announced that they would be releasing three new stand-up comedy specials from Chappelle in 2017, with Chappelle being paid $20 million per special.&lt;ref&gt;{{cite web |url=https://www.wired.com/2016/11/dave-chappelle-netflix/ |title=Dave Chappelle is doing three netflix specials in 2017 |last=Watercutter |first=Angela |date=21 November 2016 |website=[[Wired.com]] |access-date=22 November 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.thewrap.com/dave-chappelle-netflix-comedy-specials-set-premiere-dates/ |title=Dave Chappelle Fans, Rejoice: Netflix Sets Release Date for 2 New Stand-Up Specials |publisher=thewrap.com |date=2 March 2017 |accessdate=3 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author= |url=http://www.businessinsider.com/dave-chappelle-salary-netflix-comedy-specials-deal-2016-11 |title=Dave Chappelle is making $60 million for his Netflix comedy specials |publisher=[[Business Insider]] |date=2016-11-22 |accessdate=2017-03-30}}&lt;/ref&gt; The first two specials were released on Netflix on March 21, 2017, which hail directly from Chappelle's personal comedy vault. These two specials were filmed at [[Block 21|Austin City Limits Live]] in April 2015 and at the [[Hollywood Palladium]] in March 2016. The specials marked the comedian's first concert specials released in 12 years, and proved to be an immediate success as Netflix announced a month later that they were the most viewed comedy specials in Netflix's history.&lt;ref&gt;{{cite web|url=http://www.vladtv.com/article/227164/dave-chappelles-special-is-the-most-watched-in-netflix-history|title=Dave Chappelle's Special is the Most Watched in Netflix History|website=Vladtv.com|accessdate=29 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Dave Chappelle Headed to Netflix With 3 Stand-Up Specials|url=http://www.hollywoodreporter.com/live-feed/dave-chappelle-netflix-stand-up-specials-949616|first=Kate|last=Stanhope|work=[[The Hollywood Reporter]]|date=November 21, 2016|accessdate=November 22, 2016}}&lt;/ref&gt;
+
+The third special, ''Equanimity'', was filmed in September 2017 at the Warner Theater in Washington, D.C., and then on November 20, 2017, Chappelle filmed a fourth special, ''The Bird Revelation'', at [[The Comedy Store]] in Los Angeles.&lt;ref name=equanimity&gt;{{cite web|author=Lesley Goldberg |url=https://www.hollywoodreporter.com/live-feed/dave-chappelle-sets-second-new-years-eve-stand-up-special-netflix-1070034 |title=Dave Chappelle Sets Second New Year's Eve Stand-Up Special on Netflix |work=[[The Hollywood Reporter]] |date=2017-12-22 |accessdate=2017-12-24}}&lt;/ref&gt; On December 22, 2017, Netflix announced the expansion of the deal to include ''The Bird Revelation'', which was released with ''Equanimity'' on December 31.&lt;ref name=equanimity/&gt;
+
+In 2018 at the [[60th Annual Grammy Awards]], Chappelle received a [[Grammy Award]] for [[Grammy Award for Best Comedy Album|Best Comedy Album]] for his first two specials ''The Age of Spin &amp; Deep in the Heart of Texas''.&lt;ref&gt;{{citeweb|url= https://www.theguardian.com/music/2018/jan/28/grammy-awards-2018-the-full-list-of-winners|title=Grammys awards 2018: full list of winners|date=29 January 2018|work=Guardian|accessdate=31 January 2018}}&lt;/ref&gt;
+
+== Legacy ==
+Chappelle has been praised by fellow comedians for his work. [[Katt Williams]] believes Chappelle to be the greatest stand-up comedian alive,&lt;ref&gt;{{cite av media|url=https://www.youtube.com/watch?v=s8qwrdpd6rA|title=Katt Williams: Dave Chappelle Is Funnier Than Me|date=17 July 2014|work=YouTube}}&lt;/ref&gt;&lt;ref&gt;{{cite av media|url=https://www.youtube.com/watch?v=IsySq5OLoik|title=Katt Williams on Dave Chappelle Getting Blacklisted|date=12 April 2013|work=YouTube}}&lt;/ref&gt; while [[Kevin Hart]] considers Chappelle to be the greatest stand-up comedian of all time.&lt;ref&gt;{{cite av media|url=https://www.youtube.com/watch?v=lwHx0yt2LxI|title=Kevin Hart: Dave Chappelle is Greatest Comedian Ever|date=2 July 2013|work=YouTube}}&lt;/ref&gt;
+
+In 2009, his show was the subject of a book of critical essays, ''The Comedy of Dave Chappelle'', edited by [[University of Maryland]] doctoral student K. A. Wisniewski.&lt;ref name="Wisniewski2009"&gt;{{cite book|author=K.A. Wisniewski|title=The Comedy of Dave Chappelle: Critical Essays|url=https://books.google.com/books?id=JWqnueNtCT8C&amp;pg=PA140|date=2 July 2009|publisher=McFarland|isbn=978-0-7864-5427-3|pages=11,99,140}}&lt;/ref&gt; His work, as well as that of [[Margaret Cho]], was also the subject of a book by a Canadian [[dramaturge|dramaturg]] Elizabeth Ludwig, ''American Stand-Up and Sketch Comedy'', that was published at the end of 2010.&lt;ref name="Ludwig2007"&gt;{{cite book|author=Elizabeth Janet Ludwig|title=American Stand-up and Sketch Comedy: Between Race and Gender. The Works of Dave Chappelle and Margaret Cho|url=https://books.google.com/books?id=ZAcJOAAACAAJ|year=2007|publisher=University of Alberta (Canada)|isbn=978-0-494-29890-9}}&lt;/ref&gt; A [[monograph]] published by the [[University of Gothenburg]] titled ''Representations of Ethnicity in Stand-up comedy: A Study of the Comedy of Dave Chappelle'' examined the racial significance of language used in Chappelle's routines.&lt;ref name="oskarthesis"&gt;{{Cite thesis |last=Falk |first=Oskar |title=Representations of ethnicity in stand-up comedy: A study of the comedy of Dave Chappelle |url=https://gupea.ub.gu.se/bitstream/2077/23796/1/gupea_2077_23796_1.pdf |format=PDF |publisher=Göteborgs universitet |accessdate=March 27, 2011 |quote=Abstract: This study has two main aims: (1) to look at, and analyze, how language is used in stand-up comedy in order to portray characters of different ethnicity, and (2) to look at how these characters are portrayed and what images of these ethnic groups are conveyed to the audience. The main results are that the linguistic features typically associated with the ethnic group in question are strengthened and exaggerated in order for the viewers to determine the characters’ ethnic origin more easily, and that the characters are often displayed as racial stereotypes. In this particular essay two stand-up shows by comedian Dave Chappelle are examined.}}&lt;/ref&gt;
+
+Chappelle's abrupt departure from his show in 2005 continues to be a focus of interviews and profiles of Chappelle and of Chappelle's own comedy.&lt;ref&gt;{{cite web|url=http://www.cbsnews.com/news/dave-chappelle-netflix-comedy-fame-leaving-chappelles-show/|title=Dave Chappelle on fame, leaving "Chappelle's Show" and Netflix special|website=Cbsnews.com|accessdate=29 January 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.vanityfair.com/hollywood/2014/06/dave-chappelle-why-he-left-chappelle-show|title=Dave Chappelle Finally Breaks His Silence About Abruptly Leaving Chapelle’s Show|last=Robinson|first=Joanna|work=HWD|access-date=2017-03-29|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|title=Lessons Learned from Popular Culture|last=Delaney|first=Tim|last2=Madigan|first2=Tim|publisher=SUNY Press|year=2016|isbn=9781438461458|location=Albany|page=195}}&lt;/ref&gt; In ''Bird Revelation'', Chappelle draws an analogy between his departure and the book ''Pimp'', the memoir of [[Iceberg Slim]]. One interpretation of this analogy is that Chappelle was placed in the position of a pawn serving entertainment executives to deliver irresponsible racial humor to white audiences, and the executives manipulated him into staying at ''Chappelle's Show'' through contractual maneuvers and deception.&lt;ref&gt;{{Cite news|url=http://www.vulture.com/2018/01/dave-chappelle-pimp-story-bird-revelation-close-read.html|title=A Close Read of the Pimp Story Dave Chappelle Tells in The Bird Revelation|last=Schilling|first=Dave|work=Vulture|access-date=2018-06-23|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.reddit.com/r/NetflixBestOf/comments/7o7192/discussion_what_is_the_meaning_of_the_bird/|title=r/NetflixBestOf - [DISCUSSION] What is the Meaning of the Bird Revelation story?|website=reddit|language=en|access-date=2018-06-23}}&lt;/ref&gt; The comparison to prostitution here perhaps serves as an indication of Chappelle's desire to gain more control and autonomy over his comedy and delivering his perspective on race.
+
+In April 2013, [[Charlie Sheen]] appeared on [[Conan (talk show)|Conan O'Brien's talk show]] and claimed that in 2011 he had laughed so hard while watching a ''Chappelle's Show'' episode that he experienced a ruptured [[hernia]], and was rushed to a hospital.&lt;ref name="huffingtonsheen"&gt;{{cite news|title=Charlie Sheen Blames Dave Chappelle, Testosterone Cream For 2010 Meltdown On 'Conan'|url=http://www.huffingtonpost.com/2013/04/12/charlie-sheen-blames-dave-chappelle-meltdown_n_3070968.html|website=''Huffington Post'' | date= April 12, 2013 |access-date=March 27, 2014|author=&lt;!--Staff writer, not named--&gt;}}&lt;/ref&gt;
+
+In August 2013, Chappelle's impersonation of [[Prince (musician)|Prince]] from ''Chappelle's Show'' was selected by the singer as the cover art for his single "[[Breakfast Can Wait]]".&lt;ref&gt;{{cite web|url=http://music-mix.ew.com/2013/08/19/prince-dave-chappelle/ |title=Dave Chappelle and Prince, together at last! (Sort of)|newspaper=Entertainment Weekly|date= |accessdate=2013-08-21}}&lt;/ref&gt;
+
+== Influences ==
+In his interview with ''[[Inside the Actors Studio]]'' host [[James Lipton]], he said that his biggest influences in comedy are [[Richard Pryor]], [[Eddie Murphy]], [[Chris Rock]], [[Paul Mooney (comedian)|Paul Mooney]], [[Roy Chubby Brown|Roy "Chubby" Brown]] and [[Mel Blanc]].&lt;ref name="InsideActorsStudio"/&gt;
+
+When asked about his earliest influence on comedy, Chappelle said:
+
+{{quote|You know who was a big influence on me that is really weird is [[Bugs Bunny]], that's just weird. If you watch a lot of the stuff I do, you can almost see the influence in it, because these animators would animate these performances that were off the hook, And the guy that, the guy that did the voices was Mel Blanc. This guy was like some kind of savant or genius or something, But they had some kind of real big comedic influence on me, like I liked those cartoons, I think that was my first real big comedy influence, was a rabbit.&lt;ref&gt;{{cite web|url=https://youtube.com/watch?v=jCFMhrmKUV8 |title=Dave Chappelle's Comedy Influenced By Bugs Bunny (2006) |publisher=[[YouTube]] |date=2015-07-03 |accessdate=2017-03-30}}&lt;/ref&gt;}}
+
+When asked about the biggest influence on him in comedy, Chappelle spoke of Richard Pryor:
+
+{{quote|What a precedent he set. Not just as a comic, but as a dude. The fact that someone was able to open themselves wide-open like that. It's so hard to talk in front of people or to open yourself up to your closest friends. But to open yourself up for everybody: I freebase, I beat my women, I shot my car. And nobody's mad at Richard for that. They understand. Somehow they just understand. And when I was going through this thing this year, that is the example I would think to myself that gave me the courage to just go back on the stage.&lt;ref&gt;{{cite web|url=https://youtube.com/watch?v=Vfw3lRZRPjs |title=Dave Chappelle - Richard Pryor Influence |publisher=[[YouTube]] |date=2015-12-03 |accessdate=2017-03-30}}&lt;/ref&gt;}}
+
+== Personal life ==
+Chappelle married Elaine Mendoza Erfe in 2001.&lt;ref name="esquire"/&gt; They live with their two sons&lt;ref name="fears"&gt;{{cite web|url=http://www.msnbc.msn.com/id/7773670/site/newsweek/ |title=Fears of a Clown |publisher=[[Newsweek]] |first=Devin |last=Gordon |date=May 16, 2005 |accessdate=2007-03-20 |archiveurl=https://web.archive.org/web/20070205143048/http://www.msnbc.msn.com/id/7773670/site/newsweek/ |archivedate=2007-02-05 |deadurl=yes |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.avclub.com/content/node/22774 |title=The sixth man |work=[[The A.V. Club]] |first=Joshua |last=Klein |date=March 7, 2001 |accessdate=2007-03-21 |deadurl=yes |archiveurl=https://web.archive.org/web/20071008183820/http://www.avclub.com/content/node/22774 |archivedate=2007-10-08 |df= }}&lt;/ref&gt; and daughter on a {{convert|65|acre|ha|adj=on}} farm&lt;ref name="InsideActorsStudio"/&gt;&lt;ref name=freedom/&gt; near [[Yellow Springs, Ohio]].&lt;ref name="MTV"/&gt; He also owned several houses in [[Xenia, Ohio]]. Chappelle told Yellow Springs' residents in September 2006, "Turns out you don't need $50 million to live around these parts, just a nice smile and a kind way about you. You guys are the best neighbors ever. That's why I came back and that's why I'm staying."&lt;ref&gt;{{cite news|url=https://www.usatoday.com/life/people/2006-09-11-chappelle-ohio_x.htm|title = Chappelle plans to stay in Ohio town|agency=Associated Press |work=[[USA Today]] |date=September 11, 2006|access-date=March 21, 2007}}&lt;/ref&gt;
+
+Chappelle converted to [[Islam]] in 1998. He told ''[[Time (magazine)|Time]]'' in May 2005, "I don't normally talk about my religion publicly because I don't want people to associate me and my flaws with this beautiful thing. And I believe it is beautiful if you learn it the right way."&lt;ref name="Time"/&gt;&lt;ref&gt;Van Boom, Daniel (January 23, 2014). [http://www.dailymail.co.uk/tvshowbiz/article-2544440/U-S-comedian-Dave-Chappelle-heads-Australia-tour-outside-North-America.html "U.S. comedian Dave Chappelle heads to Australia for his first ever tour outside North America"]. ''[[Daily Mail]]''.&lt;/ref&gt; Chappelle appears in a video explaining the religious backstory of the [[Zamzam Well|Well of Zamzam]] in Mecca.&lt;ref&gt;{{Citation|last=West Dawn Media|title=Muslim Dave Chappelle talks Islamic beliefs|date=2017-05-25|url=https://www.youtube.com/watch?v=MlpgjWst9cE|access-date=2018-06-16}}&lt;/ref&gt;
+
+=== Charity ===
+In 2004, he donated his time to [[Seeds of Peace]] International Camp, a camp located in Otisfield, Maine, which brings together young leaders from communities in conflict.&lt;ref name="seedsbball"&gt;{{cite web|url=https://www.seedsofpeace.org/nba-stars-to-hold-basketball-clinic-for-middle-east-youth-at-seeds-of-peace-international-camp/|title=Dave Chappelle to Emcee NBA Basketball Clinic|date=July 21, 2004|location=Otisfield, Maine |publisher=Seeds of Peace}}&lt;/ref&gt;
+
+== Filmography ==
+
+=== Film ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1982
+| ''The End of August''
+| Kid on beach
+| Uncredited
+|-
+| 1993
+| ''[[Robin Hood: Men in Tights]]''
+| Ahchoo
+|
+|-
+| 1993
+| ''[[Undercover Blues]]''
+| Ozzie
+|
+|-
+| 1994
+| ''[[Getting In]]''
+| Ron
+|
+|-
+| 1996
+| ''[[The Nutty Professor (1996 film)|The Nutty Professor]]''
+| Reggie Warrington
+|
+|-
+| 1996
+| ''[[Joe's Apartment]]''
+| Cockroach (voice)
+|
+|-
+| 1997
+| ''[[Con Air]]''
+| Pinball
+|
+|-
+| 1997
+| ''[[The Real Blonde]]''
+| Zee
+|
+|-
+| 1997
+| ''Damn Whitey''
+| Dave
+| Short film
+|-
+| 1997
+| ''Bowl of Pork''
+| Black Forrest Gump
+| Short film
+|-
+| 1998
+| ''[[Half Baked]]''
+| Thurgood Jenkins / Sir Smoke-a-Lot
+| Also writer and producer
+|-
+| 1998
+| ''[[Woo (film)|Woo]]''
+| Lenny
+|
+|-
+| 1998
+| ''[[You've Got Mail]]''
+| Kevin Jackson
+|
+|-
+| 1999
+| ''[[200 Cigarettes]]''
+| Disco Cabbie
+|
+|-
+| 1999
+| ''[[Blue Streak (film)|Blue Streak]]''
+| Tulley
+|
+|-
+| 2000
+| ''[[Screwed (2000 film)|Screwed]]''
+| Rusty P. Hayes
+|
+|-
+| 2002
+| ''[[Undercover Brother]]''
+| Conspiracy Brother
+|
+|-
+| 2006
+| ''[[Dave Chappelle's Block Party]]''
+| Himself
+| Also writer and producer
+|-
+| 2015
+| ''[[Chi-Raq]]''
+| Morris
+|
+|-
+| 2018
+| ''[[A Star Is Born (2018 film)|A Star Is Born]]''
+| Noodles
+| Post-production
+|}
+
+=== Television ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1995
+| ''[[Home Improvement (TV series)|Home Improvement]]''
+| Dave
+| Episode: "Talk to Me"
+|-
+| 1996
+| ''[[Buddies (TV series)|Buddies]]''
+| Dave Carlisle
+| 14 episodes, lead role
+|-
+| 1997
+| ''[[Dr. Katz, Professional Therapist]]''
+| Dave (voice)
+| Episode: "Electric Bike"
+|-
+| 1997
+| ''[[Happily Ever After: Fairy Tales for Every Child]]''
+| Spider (voice)
+| Episode: "Mother Goose"
+|-
+| 1998
+| ''[[The Larry Sanders Show]]''
+| Dave Chappelle
+| Episode: "Pilots and Pens Lost"
+|-
+| 1998
+| ''[[HBO Comedy Half-Hour]]''
+| Himself
+| Episode: "Dave Chappelle"
+|-
+| 2000
+| ''Dave Chappelle: Killin' Them Softly''
+| Himself
+| Stand-up special
+|-
+| 2002–2007
+| ''[[Crank Yankers]]''
+| Francis, Shavin (voice)
+| 2 episodes
+|-
+| 2003
+| ''[[Wanda at Large]]''
+| Vincent
+| Episode: "The Favor"
+|-
+| 2003–2006
+| ''[[Chappelle's Show]]''
+| Himself (host) / Various
+| 28 episodes; also co-creator, writer, executive producer
+|-
+| 2004
+| ''Dave Chappelle: For What It's Worth''
+| Himself
+| Stand-up special
+|-
+| 2016
+| ''[[Saturday Night Live]]''
+| Himself (host)
+| Episode: "Dave Chappelle/[[A Tribe Called Quest]]"
+|-
+| 2017
+| ''Deep in the Heart of Texas: Dave Chappelle Live at Austin City Limits''
+| Himself
+| Stand-up special
+|-
+| 2017
+| ''The Age of Spin: Dave Chappelle Live at the Hollywood Palladium''
+| Himself
+| Stand-up special
+|-
+| 2017
+| ''Dave Chappelle: Equanimity''
+| Himself
+| Stand-up special
+|-
+| 2017
+| ''Dave Chappelle: The Bird Revelation''
+| Himself
+| Stand-up special
+|}
+
+== Awards ==
+{| class="wikitable"
+|-
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+! {{Abbr|Ref.|Reference}}
+|-
+| rowspan="2"|[[35th NAACP Image Awards|2004]]
+| rowspan="2"|[[NAACP Image Awards]]
+| [[NAACP Image Award for Outstanding Variety – Series or Special|Outstanding Variety (Series or Special)]]
+| rowspan="7"|''[[Chappelle's Show]]''
+| {{nom}}
+! style="text-align:center;" rowspan="2"|&lt;ref&gt;{{cite web|url=https://www.imdb.com/event/ev0000345/2004|title=2004 Image Award Winners|website=IMDb|accessdate=August 2, 2016}}&lt;/ref&gt;
+|-
+| [[NAACP Image Award for Outstanding Actor in a Comedy Series|Outstanding Actor in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan="2"|2004
+| rowspan="2"| BET Comedy Awards
+| Outstanding Comedy Variety Series
+| {{won}}
+! style="text-align:center;" rowspan="2"|&lt;ref name="bet04"&gt;{{cite web|url=http://www.whosdatedwho.com/tpx_2870643/bet-comedy-awards/2004|title=BET COMEDY AWARDS (List of Award Winners and Nominees)|work=Who's Dated Who?|accessdate=August 12, 2015}}&lt;/ref&gt;
+|-
+| Outstanding Writing for a Comedy Series
+| {{won}}
+|-
+| 2004
+| NAMIC Vision Awards
+| Best Comedic Performance
+| {{won}}
+! style="text-align:center;"|&lt;ref name="namic"&gt;{{cite web |url=http://www.namic.com/events/awards/downloads/VA_Winners_Noms_2003-2005.pdf |title=Archived copy |accessdate=2015-06-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20100714233225/http://www.namic.com/events/awards/downloads/VA_Winners_Noms_2003-2005.pdf |archivedate=July 14, 2010 |df=mdy-all }}&lt;/ref&gt;
+|-
+| rowspan="3"|[[2004 Teen Choice Awards|2004]]
+| rowspan="3"|[[Teen Choice Awards]]
+| Choice TV Show: Late Night
+| {{nom}}
+! style="text-align:center;" rowspan="3"|&lt;ref name="BTCAW"&gt;{{cite web|url=http://www.billboard.com/articles/news/67001/2004-teen-choice-awards-winners|title=2004 Teen Choice Awards Winners|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|date=August 9, 2004|accessdate=November 19, 2014}}&lt;/ref&gt;
+|-
+| [[Teen Choice Award for Choice Breakout Series|Choice TV Show: Breakout]]
+| {{nom}}
+|-
+| colspan="2"|Choice Comedian
+| {{nom}}
+|-
+| rowspan="2"|[[56th Primetime Emmy Awards|2004]]
+| rowspan="2"|[[Primetime Emmy Award]]
+| [[Primetime Emmy Award for Outstanding Variety Series|Outstanding Variety, Music or Comedy Series]]
+| rowspan="5"|''Chappelle's Show''
+| {{nom}}
+! style="text-align:center;" rowspan="2"|&lt;ref&gt;{{cite web|url=http://www.emmys.com/awards/nominees-winners/2004|title=Nominees/Winners|publisher=}}&lt;/ref&gt;
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Variety Series|Outstanding Writing for a Variety, Music or Comedy Program]]
+| {{nom}}
+|-
+| [[Producers Guild of America Awards 2004|2005]]
+| [[Producers Guild of America Award]]
+| Outstanding Producer of Variety Television
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite news|last1=King|first1=Susan|title=Producers' '04 nominees|url=http://articles.latimes.com/2005/jan/06/news/wk-quick6.3|accessdate=21 September 2017|work=Los Angeles Times|date=6 January 2005|archiveurl=https://web.archive.org/web/20150921120139/http://articles.latimes.com/2005/jan/06/news/wk-quick6.3|archivedate=21 September 2015|deadurl=no}}&lt;/ref&gt;
+|-
+| rowspan="3"|[[36th NAACP Image Awards|2005]]
+| rowspan="3"|[[NAACP Image Awards]]
+| [[NAACP Image Award for Outstanding Comedy Series|Outstanding Comedy Series]]
+| {{nom}}
+! style="text-align:center;" rowspan="3"|&lt;ref&gt;{{cite web|url=http://awardsandwinners.com/category/naacp-image-award/2005/|title=2005 Image Award Winners|website=Awards and Winners|accessdate=August 2, 2016}}&lt;/ref&gt;
+|-
+| [[NAACP Image Award for Outstanding Actor in a Comedy Series|Outstanding Actor in a Comedy Series]]
+| {{nom}}
+|-
+| [[NAACP Image Award for Outstanding Variety – Series or Special|Outstanding Variety (Series or Special)]]
+| ''Dave Chappelle: For What It's Worth''
+| {{nom}}
+|-
+| 2005
+| BET Comedy Awards
+| Outstanding DVD Release
+| rowspan="3"|''Chappelle's Show''
+| {{won}}
+! style="text-align:center;"|&lt;ref name="bet05"&gt;{{cite web|url=http://www.whosdatedwho.com/tpx_2870643/bet-comedy-awards/2005|title=BET COMEDY AWARDS (List of Award Winners and Nominees)|work=Who's Dated Who?|accessdate=August 12, 2015}}&lt;/ref&gt;
+|-
+| rowspan="3"|2005
+| rowspan="3"|NAMIC Vision Awards
+| Comedy
+| {{won}}
+! style="text-align:center;" rowspan="3"|&lt;ref name="namic"/&gt;
+|-
+| Best Comedic Performance
+| {{won}}
+|-
+| Comedy
+| ''Dave Chappelle: For What It's Worth''
+| {{nom}}
+|-
+| [[2005 Teen Choice Awards|2005]]
+| [[Teen Choice Awards]]
+| colspan="2"|Choice Comedian
+| {{nom}}
+! style="text-align:center;"|&lt;ref name=AnW&gt;{{cite web|url=http://awardsandwinners.com/category/teen-choice-awards/2005/|title=Teen Choice Awards - 2005|publisher=Awards and Winners|accessdate=October 31, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20170221020719/http://awardsandwinners.com/category/teen-choice-awards/2005/|archivedate=February 21, 2017|df=}}&lt;/ref&gt;
+|-
+| [[57th Primetime Emmy Awards|2005]]
+| [[Primetime Emmy Award]]
+| [[Primetime Emmy Award for Outstanding Variety Special (Pre-Recorded)|Outstanding Variety, Music or Comedy Special]]
+| ''Dave Chappelle: For What It's Worth''
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web|url=http://www.emmys.com/awards/nominees-winners/2005|title=Nominees/Winners|publisher=}}&lt;/ref&gt;
+|-
+| rowspan="2"|2006
+| rowspan="2"|[[DVD Exclusive Awards]]
+| Overall DVD, TV Program
+| rowspan="2"|''Chappelle's Show''
+| {{nom}}
+! style="text-align:center;" rowspan="2"|&lt;ref&gt;{{cite web|title=About DVD Exclusive Magazine|url=http://www.dvdexclusive.com/about_dvd_magazine.asp|archiveurl=https://web.archive.org/web/20060524220701/http://www.dvdexclusive.com/about_dvd_magazine.asp|archivedate=May 24, 2006|publisher=DVD Exclusive Magazine}}&lt;/ref&gt;
+|-
+| Best Deleted Scenes, Outtakes and Bloopers
+| {{nom}}
+|-
+| [[Black Reel Awards of 2017|2017]]
+| [[Black Reel Awards]]
+| Outstanding Guest Performer, Comedy Series
+| rowspan="2"|''[[Saturday Night Live]]''
+| {{won}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web |url=http://blackreelawards.com/blackish-paces-the-black-reel-awards-for-telvision/ |title= Black Reel Awards|publisher= |first=Patrick |last=Hipes |date=July 14, 2016 |accessdate=July 14, 2016}}&lt;/ref&gt;
+|-
+| [[69th Primetime Emmy Awards|2017]]
+| [[Primetime Emmy Award]]
+| [[Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series|Outstanding Guest Actor in a Comedy Series]]
+| {{won}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web|url=https://variety.com/2017/tv/news/2017-emmy-nominees-list-nominations-1202494465/|title=Emmys 2017: Full List of Nominations|author=&lt;!-- Variety Staff report --&gt;|date=July 13, 2017|work=[[Variety (magazine)|Variety]]|accessdate=July 13, 2017}}&lt;/ref&gt;
+|-
+| [[49th NAACP Image Awards|2018]]
+| [[NAACP Image Awards]]
+| [[NAACP Image Award for Outstanding Variety – Series or Special|Outstanding Variety or Game Show – (Series or Special)]]
+| rowspan="2"|''The Age of Spin &amp; Deep in the Heart of Texas''
+| {{nom}}
+! style="text-align:center;"|&lt;ref&gt;{{cite web|url=http://deadline.com/2017/11/naacp-image-awards-netflix-own-annapurna-universal-pictures-open-road-films-anthony-anderson-1202212017/|title=NAACP Image Awards Nominees: Netflix, OWN Lead In TV; Universal, Annapurna, Open Road Top Film|website=Deadline|date=November 20, 2017 |first=Bruce |last=Haring|accessdate=November 20, 2017}}&lt;/ref&gt;
+|-
+| [[60th Annual Grammy Awards|2018]]
+| [[Grammy Award]]
+| [[Grammy Award for Best Comedy Album|Best Comedy Album]]
+| {{won}}
+! style="text-align:center;"|&lt;ref&gt;{{Cite news|url=https://www.grammy.com/grammys/awards/60th-annual-grammy-awards|title=The Full List Of 60th GRAMMY Nominees|date=2017-11-28|work=GRAMMY.com|access-date=2017-11-28}}&lt;/ref&gt;
+|}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Sisterlinks|d=Q40321|n=no|b=no|v=no|voy=no|s=no|wikt=no|mw=no|species=no|m=no}}
+* {{IMDb name|id=0152638}}
+* [http://transcripts.cnn.com/TRANSCRIPTS/0607/07/acd.01.html "Transcripts: Interview with Dave Chappelle"]. ''[[Anderson Cooper 360]]'', July 7, 2006. [[CNN]].
+* {{Cite news |title=Dave Chapelle |url=https://www.npr.org/templates/story/story.php?storyId=5540951 |work=[[Fresh Air]] |publisher=[[NPR]] |date=July 7, 2006}}
+* {{cite web |url=http://www.believermag.com/issues/201310/?read=article_ghansah|title=If He Hollers Let Him Go|date=October 2013|author=Rachel Kaadzi Ghansah |journal=The Believer |volume=11 |issue=8}}
+
+{{EmmyAward ComedyGuestActor}}
+{{Authority control}}
+
+{{DEFAULTSORT:Chappelle, Dave}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:20th-century American male actors]]
+[[Category:20th-century Muslims]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century American male actors]]
+[[Category:21st-century Muslims]]
+[[Category:African-American comedians]]
+[[Category:African-American film producers]]
+[[Category:African-American male comedians]]
+[[Category:African-American Muslims]]
+[[Category:African-American stand-up comedians]]
+[[Category:African-American television producers]]
+[[Category:American comedy writers]]
+[[Category:American film producers]]
+[[Category:American humorists]]
+[[Category:American male film actors]]
+[[Category:American male screenwriters]]
+[[Category:American male television actors]]
+[[Category:American people of African descent]]
+[[Category:American people of Grenadian descent]]
+[[Category:American people of Ivorian descent]]
+[[Category:American satirists]]
+[[Category:Comedians from Ohio]]
+[[Category:Converts to Islam]]
+[[Category:Grammy Award winners]]
+[[Category:Journalists from Ohio]]
+[[Category:Male actors from Maryland]]
+[[Category:Male actors from Ohio]]
+[[Category:Male actors from Washington, D.C.]]
+[[Category:Muslim male comedians]]
+[[Category:People from Silver Spring, Maryland]]
+[[Category:People from Xenia, Ohio]]
+[[Category:People from Yellow Springs, Ohio]]
+[[Category:Primetime Emmy Award winners]]</text>
+      <sha1>5a5iedrg1f5g963ryswd04zqlmfc205</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mike Lynch (cartoonist)</title>
+    <ns>0</ns>
+    <id>9600232</id>
+    <revision>
+      <id>824105422</id>
+      <parentid>809540260</parentid>
+      <timestamp>2018-02-05T10:17:07Z</timestamp>
+      <contributor>
+        <ip>79.115.117.169</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2247">{{other people|Michael Lynch}}
+{{BLP sources|date=May 2014}}
+{{Infobox comics creator
+| name= Mike Lynch
+| image         = 
+| imagesize     =
+| caption       =
+| birth_name    = 
+| birth_date = {{Birth date and age|1962|01|18}}
+| birth_place   = [[Iowa City]], [[California]], U.S.
+| death_date    =
+| death_place   =
+| nationality   = American
+| cartoonist    = y
+| write         =
+| pencil        =
+| ink           =
+| letter        =
+| color         =
+| alias         =
+| collaborators = 
+| signature     = &lt;!-- very optional --&gt;
+| notable works = 
+| awards        =
+| website       = {{url|http://heykidscomics.com}}
+| subcat        = American
+}}
+'''Mike Lynch''' &lt;!--(born January 18, 1962, [[Iowa City, Iowa]])--&gt; is a cartoonist&lt;ref name="Hinkle2005"&gt;{{cite book|last=Hinkle|first=Richard Paul|title=Good Wine: The New Basics|url=https://books.google.com/books?id=AyQ4KR9rj5wC&amp;pg=PA34|accessdate=10 October 2014|year=2005|publisher=Silverback Books|isbn=9781930603783|page=34}}&lt;/ref&gt; whose work can be seen in ''[[Reader's Digest]]'', ''[[The Wall Street Journal]]'', ''[[Playboy]]'' and other [[mass media]] markets.
+
+==Career==
+Mike Lynch illustrated the book ''Classical Music for Beginners'', and drew the cover for ''Chamber Music Magazine''. He spent five years working as a graphic artist for companies like Goldman Sachs and Deloitte &amp; Touche.
+
+==Clients==
+His cartoons have appeared in ''Barron's'', ''Harvard Business Review'', ''The New York Daily News'', ''Prospect'', ''Punch'', ''The Spectator'', ''The Funny Times'', ''First for Women'', ''Chronicle of Higher Education'' and ''Brandweek''.
+
+==Societies==
+He is the National Representative for the [[National Cartoonists Society]], and Chair of the National Cartoonists Society Long Island Chapter aka the "Berndt Toast Gang".&lt;ref&gt;[http://berndttoastgang.com The Berndt Toast Gang&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; He is also a member of the [[Freelancers Union]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://heykidscomics.com Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lynch, Mike (Cartoonist)}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:American cartoonists]]
+[[Category:People from Iowa City, Iowa]]
+
+{{US-cartoonist-stub}}</text>
+      <sha1>qmcquo0ub6b6mbwxouruwsshvndj646</sha1>
+    </revision>
+  </page>
+</mediawiki>

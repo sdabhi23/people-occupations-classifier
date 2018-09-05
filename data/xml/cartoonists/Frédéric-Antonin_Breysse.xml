@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frédéric-Antonin Breysse</title>
+    <ns>0</ns>
+    <id>35682207</id>
+    <revision>
+      <id>842388076</id>
+      <parentid>760465661</parentid>
+      <timestamp>2018-05-22T03:52:04Z</timestamp>
+      <contributor>
+        <username>Qetuth</username>
+        <id>15931398</id>
+      </contributor>
+      <minor/>
+      <comment>stub sorting</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1751">{{notability|Biographies|date=December 2013}}
+'''Frédéric-Antonin Breysse''' (20 November 1907 &amp;ndash; 13 September 2001) was a [[France|French]] [[cartoonist]] and [[illustrator]]. He was the creator of the comic series [[The Adventures of Oscar Hamil]], published in the weekly ''[[Message to the Hearts Valiant]] ''and ''[[Cœurs Vaillants|Valiant Hearts]]'' between 1945 and 1955.
+
+==Publications==
+* 1947: The Most Beautiful Story, text of Father Gaston Courtois, from collection Beautiful Stories and Beautiful Lives, ed. Fleurus
+* 1952: St Francis of Assisi, the text of Father Jean Pihan from collection Beautiful Stories and Beautiful Lives, ed. Fleurus
+
+===The Adventures of Oscar Hamel and Isidore===
+* 1945: ''Strange Adventure'', reissued in 1996 as Volume 9 of the series
+* 1947: ''The Conquerors of Infinity'', reissued in 1982 as Volume 7 of the series
+* 1952: ''The Mystery of Ker-Polik, ''Oscar Hamel and Isidore T.1
+* 1952: ''Uncle Chad'', Oscar Hamel and Isidore T.2
+* 1952 ''S.O.S. 23-75'', Oscar Hamel and Isidore T.3
+* 1953: ''The Mountain of Fear'', Oscar Hamel and Isidore T.4
+* 1954: ''The river of fire'', Oscar Hamel and Isidore T.5
+* 1954: ''The Forgotten City'', Oscar Hamel and Isidore T.6
+* 1995: ''The Idol Emerald Eyes'', Oscar Hamel and Isidore T.8 ed. du Triomphe
+* ''The mystery of Vultur Totem'', an unfinished adventure appearing in Valiant Hearts. Most of these stories have also appeared in this weekly before forthcoming albums.
+
+==References==
+*1979: ''Hop!'' No.&amp;nbsp;19, ''Dossier F.A.Breysse'' and interview, by [[Gérard Thomassian]]
+
+{{DEFAULTSORT:Breysse, Frederic-Antonin}}
+[[Category:1907 births]]
+[[Category:2001 deaths]]
+[[Category:French cartoonists]]
+
+{{France-artist-stub}}
+{{cartoonist-stub}}</text>
+      <sha1>4l0rnvcfqso7j2ga4dbl6cgtq57dc5o</sha1>
+    </revision>
+  </page>
+</mediawiki>

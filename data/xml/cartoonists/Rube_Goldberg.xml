@@ -1,0 +1,215 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rube Goldberg</title>
+    <ns>0</ns>
+    <id>25822</id>
+    <revision>
+      <id>848905474</id>
+      <parentid>846812988</parentid>
+      <timestamp>2018-07-05T04:38:54Z</timestamp>
+      <contributor>
+        <username>GoldenBearKirk</username>
+        <id>32129852</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22103">{{pp-vandalism|expiry=20:05, 2 February 2019|small=yes}}
+{{for|the namesake contraption|Rube Goldberg machine}}
+{{Use mdy dates|date=May 2015}}
+{{Infobox person
+| name               = Rube Goldberg
+| image              = Goldberg Himself.jpg
+| image_size         = 
+| caption            = c. 1916
+| birth_name         = Reuben Garrett Lucius Goldberg
+| birth_date         = {{Birth date|1883|7|4}}
+| birth_place        = [[San Francisco]], [[California]], U.S.
+| death_date         = {{Death date and age|1970|12|7|1883|7|4}}
+| death_place        = [[New York City]], U.S.
+| resting_place      = Mount Pleasant Cemetery in [[Hawthorne, New York]]
+| known_for          = [[Rube Goldberg machine]]s
+| alma_mater         = [[UC Berkeley]]
+| occupation         = Engineer, sculptor, news reporter, cartoonist
+}}
+
+[[File:Something for nothing (1940).ogv|thumb|thumbtime=18|upright=1.1|''Something for nothing'' (1940)]]
+'''Reuben Garrett Lucius Goldberg''' (July 4, 1883 – December 7, 1970), known best as '''Rube Goldberg''', was an American [[cartoonist]], sculptor, author, engineer, and inventor.
+
+Goldberg is best known for a series of popular cartoons depicting complicated gadgets that perform simple tasks in indirect, convoluted ways, giving rise to the term [[Rube Goldberg machine]]s for any similar gadget or process. Goldberg received many honors in his lifetime, including a [[Pulitzer Prize for Editorial Cartooning|Pulitzer Prize]] for his political cartooning in 1948 and the Banshees' Silver Lady Award in 1959.&lt;ref name="ab"&gt;{{cite web|last= Goldberg | first = Reuben | title = Members / In Memoriam / Rube Goldberg | url = http://reuben.org/ncs/members/memorium/goldberg.jpg| format = [[JPEG]]| work=reuben.org |publisher=National Cartoonists Society |accessdate = August 5, 2009}}&lt;/ref&gt;
+
+Goldberg was a founding member and the first president of the [[National Cartoonists Society]],&lt;ref&gt;[http://www.reuben.org/history.html "The History of the NCS"] {{webarchive|url=https://web.archive.org/web/20111223081551/http://www.reuben.org/history.html |date=December 23, 2011 }}. ''reuben.org''. National Cartoonists Society.&lt;/ref&gt; and he is the namesake of the [[Reuben Award]], which the organization awards to the Cartoonist of the Year. He is the inspiration for various international competitions, known as [[Rube Goldberg Machine Contest]]s, which challenge participants to make a complicated machine to perform a simple task.
+
+==Personal life==
+Goldberg was born July 4, 1883, in [[San Francisco]], [[California]], to Jewish parents Max and Hannah (Cohen) Goldberg.&lt;ref name="Cont448"&gt;{{cite book |url=https://books.google.com/books?id=kHREAAAAMAAJ&amp;q=%22rube+goldberg%22+jewish+max+hannah&amp;dq=%22rube+goldberg%22+jewish+max+hannah&amp;hl=en&amp;sa=X&amp;ei=5a-TUtXUGejKsQTK7YGoDg&amp;ved=0CDMQ6AEwAQ |title=Contemporary Authors: First revision, Volumes 5–8 |publisher=Gale Research Company |year=1969 |page=448 }}&lt;/ref&gt; He was the third of seven children, three of whom died as children (older brother Garrett, younger brother Walter, and younger sister Lillian also survived).&lt;ref name="marzio"&gt;{{cite book |title=Rube Goldberg: His Life and Work |first=Peter C. |last=Marzio |publisher=Harper and Row |year=1973|isbn=0060128305 }}&lt;/ref&gt;
+
+Goldberg began tracing illustrations when he was four years old, and first took professional drawing lessons when he was eleven.&lt;ref name="marzio"/&gt;
+
+Goldberg married Irma Seeman on October 17, 1916.&lt;ref name="Cont448"/&gt; They lived at 98 Central Park West in New York City and had two sons named Thomas and [[George W. George|George]].
+
+During [[World War II]] Goldberg's sons changed their surname, at Goldberg's insistence, because of the amount of hatred towards him stemming from the political nature of his cartoons.&lt;ref&gt;{{cite news |first=Alison J.|last=Peterson |title= George W. George, at 87; writer, producer of films and Broadway plays |url=http://www.boston.com/bostonglobe/obituaries/articles/2007/11/20/george_w_george_at_87_writer_producer_of_films_and_broadway_plays|work= [[New York Times News Service]] |publisher=[[Boston Globe]] |date=November 20, 2007|accessdate=January 28, 2015}}&lt;/ref&gt;
+Thomas chose the surname of George, in order to honor his brother; George, wanting to keep a sense of family cohesiveness, adopted the same surname. Thomas and George's children now run a company called RGI (Rube Goldberg Incorporated) to maintain the Goldberg name. John George (Thomas's son) is assisted by his cousin Jennifer George&lt;ref&gt;{{cite web|url=http://jennifergeorge-nyc.com/rube-about/ |title=''The Art of Rube Goldberg'' |publisher=Jennifer George NYC |date= |accessdate=December 13, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rubegoldberg.com/about |first=Jennifer |last=George |title=About |publisher=Rubegoldberg.com}}&lt;/ref&gt; (George's daughter) and John's son Joshua George to keep the family name alive.&lt;ref name=bg&gt;{{Cite news| first= Alison J. |last=Peterson| title= Obituaries – George W. George, at 87; writer, producer of films and Broadway plays|url= http://www.boston.com/bostonglobe/obituaries/articles/2007/11/20/george_w_george_at_87_writer_producer_of_films_and_broadway_plays| agency= New York Times News Service| publisher=The Boston Globe |date=November 20, 2007| accessdate = November 28, 2007}}&lt;/ref&gt;
+
+==Career==
+[[File:Rube Goldberg &amp; family 1929.jpg|thumb|175px|left|Rube Goldberg with family, 1929]]
+Goldberg's father was a San Francisco police and fire commissioner, who encouraged the young Reuben to pursue a career in engineering. Rube graduated from the [[University of California, Berkeley]] in 1904 with a degree in Engineering&lt;ref name="ab" /&gt; and was hired by the [[San Francisco|city of San Francisco]] as an engineer for the Water and Sewers Department. After six months he resigned his position with the city to join the ''[[San Francisco Chronicle]]'' where he became a sports cartoonist.&lt;ref name="ab"/&gt; The following year, he took a job with the ''San Francisco Bulletin'', where he remained until he moved to New York City in 1907, finding employment as a cartoonist with the ''[[New York Evening Mail]]''.&lt;ref name= marzio /&gt;
+
+The ''New York Evening Mail'' was syndicated to the first newspaper syndicate, the [[McClure Newspaper Syndicate]], giving Goldberg's cartoons a wider distribution, and by 1915 he was earning $25,000 per year and being billed by the paper as America's most popular cartoonist.&lt;ref name= marzio /&gt; [[Arthur Brisbane]] had offered Goldberg $2,600 &lt;!-- $2,600 is not a typo. The Hearst chain offer was a highly prestigious position but at a low salary, and it was later raised to $50,000 --&gt; per year in 1911 in an unsuccessful attempt to get him to move to [[William Randolph Hearst]]'s newspaper chain, and in 1915 raised the offer to $50,000 per year. Rather than lose Goldberg to Hearst, the ''New York Evening Mail'' matched the salary offer and formed the Evening Mail Syndicate to syndicate Goldberg's cartoons nationally.&lt;ref name= marzio /&gt;
+
+In 1916, Goldberg created a series of seven short animated films, finding humorous aspects to details of everyday life&lt;ref&gt;{{cite news | date=July 24, 2016 | title=Goldberg is Again Star of the Film: Artist-Humorist of The Times Seen in New Set of Animated Cartoons | work=The Washington Times | page=12 | url=https://chroniclingamerica.loc.gov/lccn/sn84026749/1916-07-24/ed-1/seq-12/ | access-date=May 21, 2018}}&lt;/ref&gt; in the form of an animated [[newsreel]] &lt;ref&gt;{{cite news | last=Photoplay Editor | date=May 5, 1916 | title=Pathé Boob Weekly News from Nowhere: Goldberg Does Some Clever Satiric Cartoons on News Pictures | page=10 | work=[[Philadelphia Evening Ledger]] | url=https://chroniclingamerica.loc.gov/lccn/sn83045211/1916-05-05/ed-1/seq-10/ | access-date=May 21, 2018}}&lt;/ref&gt;.  The seven films were released on these dates in 1916:  May 8, "The Boob Weekly"; May 22, "Leap Year"; June 5, "The Fatal Pie"; Jun 19, "From Kitchen Mechanic to Movie Star"; July 3, "Nutty News"; July 17, "Home Sweet Home"; July 31, "Losing Weight."&lt;ref&gt;{{cite book | last=George | first=Jennifer | title=The Art of Rube Goldberg: (A) Inventive (B) Cartoon (C) Genius | date=November 12, 2013 | location=New York | publisher=[[Harry N. Abrams]] | url=https://books.google.com/books?id=JpcxDwAAQBAJ&amp;pg=PA60 | access-date=May 21, 2018 | isbn=1-419-70852-X}}&lt;/ref&gt;
+
+Goldberg was syndicated by the [[McNaught Syndicate]] from 1922 until 1934. 
+
+A prolific artist, Goldberg produced several cartoon series simultaneously, including ''[[Mike and Ike (They Look Alike)]]'', ''[[Boob McNutt]]'', ''Foolish Questions'',&lt;ref name="toonopediafoolishquestions"&gt;[http://toonopedia.com/foolishq.htm] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6jOdtzEQN?url=http://toonopedia.com/foolishq.htm Archived] from the original on July 30, 2016.&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Foolish Questions hi|url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1910-06-02/ed-1/seq-13 |newspaper=[[The San Francisco Call]] |date=December 2, 1910 |page=13}}&lt;/ref&gt; ''What Are You Kicking About'',&lt;ref&gt;{{cite news |title=What Are You Kicking About |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1910-06-01/ed-1/seq-13 |newspaper=[[The San Francisco Call]] |date=June 1, 1910 |page=13}}&lt;/ref&gt; ''Telephonies'',&lt;ref&gt;{{cite news |title=Telephonies |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1911-07-12/ed-1/seq-10 |newspaper=[[The San Francisco Call]] |date=July 12, 1911 |page=10}}&lt;/ref&gt; ''Lala Palooza'', ''The Weekly Meeting of the Tuesday Women's Club'', and the uncharacteristically serious [[soap-opera]] strip, ''Doc Wright'', which ran for 10 months beginning January 29, 1933.&lt;ref&gt;[http://toonopedia.com/docwri.htm ''Doc Wright''] at [[Don Markstein's Toonopedia]].  {{webarchive|url=https://www.webcitation.org/6gWihdn6h?url=http://toonopedia.com/docwri.htm |date=April 4, 2016 }} from the original on April 4, 2016.&lt;/ref&gt; The cartoons that brought him lasting fame involved a character named Professor Lucifer Gorgonzola Butts. In that series, Goldberg drew labeled schematics of the comical "inventions" that would later bear his name. Professor Butts was based on a couple of college professors he studied with (and found boring) while earning his degree from the College of Mining and Engineering at the University of California from 1901-1903 Samuel B Christie and Frederick Slate.&lt;ref&gt;{{Cite web|url=http://screwballcomics.blogspot.com/2013/04/the-origins-of-rube-goldbergs-professor.html|title=Screwball Comics: The Origins of Rube Goldberg's Professor Lucifer Gorganzola Butts, A.K.|last=Tumey|first=Paul|date=2013-04-30|website=Screwball Comics|access-date=2018-06-13}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.brainstuffshow.com/podcasts/the-man-behind-rube-goldberg-machines.htm|title=The Man Behind Rube Goldberg Machines|date=2018-06-13|work=BrainStuff|access-date=2018-06-13|language=en}}&lt;/ref&gt;
+
+From 1938 to 1941, Goldberg drew two weekly strips for the [[Register and Tribune Syndicate]]: ''Brad and Dad'' (1939-1941) and ''Side Show'' (1938-1941).&lt;ref&gt;[http://www.bailsprojects.com/bio.aspx?Name=GOLDBERG%2c+RUBE Goldberg profile], ''Who's Who of American Comic Book Artists, 1928–1999''. Accessed Jan. 5, 2018.&lt;/ref&gt;
+
+==Cultural legacy==
+The popularity of Goldberg's cartoons was such that the term "Goldbergian" was in use in print by 1915,&lt;ref&gt;{{cite book|title=Oxford English Dictionary Online|publisher=Oxford University Press|accessdate=30 September 2016|quote=1915 ''Vanity Fair'' The Goldbergian answer would be ‘No, I paint my nose and eyes red every day to frighten the gypsy-moths away.'}}&lt;/ref&gt; and "Rube Goldberg" by 1928.&lt;ref&gt;{{cite news|last1=Atkinson|first1=J. Brooks|title=THE PLAY; "Rain or Shine," Joe Cook|accessdate=30 September 2016|publisher=New York Times|date=10 February 1928|page=26|quote=He then introduces the Fuller Construction Orchestra, which is one of those Rube Goldberg crazy mechanical elaborations for passing a modest musical impulse from a buzz.}}&lt;/ref&gt; "Rube Goldberg" appeared in the [[Random House Dictionary of the English Language]] in 1966 meaning "having a fantastically complicated improvised appearance", or "deviously complex and impractical."&lt;ref name="marzio"/&gt;{{rp|118}} The 1915 usage of "Goldbergian" was in reference to Goldberg's early comic strip ''Foolish Questions'' which he drew from 1909 to 1934, while later use of the terms "Goldbergian", "Rube Goldberg" and "
+Rube Goldberg machine" refer to the crazy inventions for which he is now best known from his strip ''The Inventions of Professor Lucifer Gorgonzola Butts'', drawn from 1914 to 1964.&lt;ref name="marzio"/&gt;{{rp|305}}
+
+The corresponding term in the UK was, and still is, "[[Heath Robinson]]", after the English illustrator with an equal devotion to odd machinery, also portraying sequential or [[chain reaction]] elements.
+[[Image:Rube Goldberg's "Self-Operating Napkin" (cropped).gif|right|thumb|428px|Professor Butts and the Self-Operating Napkin (1931)]]
+Goldberg's work was commemorated posthumously in 1995 with the inclusion of ''Rube Goldberg's Inventions'', depicting his 1931 "Self-Operating Napkin" in the [[Comic Strip Classics]] series of U.S. [[postage stamp]]s.&lt;ref&gt;{{cite news| title = American Topics: 20 Classic Comic Strips Get (Postage) Stamp of Approval| url = https://www.nytimes.com/1995/05/08/news/08iht-amtopics_14.html| work = The New York Times
+|date = May 8, 1995| accessdate = August 5, 2009}}&lt;/ref&gt;
+
+===Film and television===
+[[File:Goldberg Cartoons.jpg|thumb|Advertisement (1916)]]
+[[File:Goldberg 1916.jpg|thumb|Advertisement (1916)]]
+Rube Goldberg wrote a feature film featuring his machines and sculptures called ''[[Soup to Nuts]]'', which was released in 1930 and starred [[Ted Healy]] and the pre-[[Curly Howard]] version of [[The Three Stooges]].
+
+In the 1962 John Wayne movie ''[[Hatari!]],'' an invention to catch monkeys by character Pockets, played by [[Red Buttons]], is described as a "Rube Goldberg."
+
+In the late 1960s and early 70s, educational shows like ''[[Sesame Street]]'', ''[[Vision On]]'' and ''[[The Electric Company]]'' routinely showed bits that involved Rube Goldberg devices, including the ''Rube Goldberg Alphabet Contraption'', and the ''What Happens Next Machine''.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=cog2a3YeDMM |title=Sesame Street: What Happens Next Machine|publisher=Youtube.com |date=August 6, 2010 |accessdate=December 8, 2013}}&lt;!-- official, not copyvio--&gt;&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=B17OvPYM040 |title=Rube Goldberg alphabet contraption, Sesame Street |publisher=Youtube.com |date= |accessdate=December 8, 2013}}&lt;/ref&gt;
+
+Various other films and cartoons have included highly complicated machines that perform simple tasks. Among these are ''[[Flåklypa Grand Prix]]'', ''[[Looney Tunes]]'', ''[[Tom and Jerry]]'', ''[[Wallace and Gromit]]'', ''[[Pee-wee's Big Adventure]]'', ''[[The Way Things Go]]'', ''[[Edward Scissorhands]]'', ''[[Back to the Future]]'', ''[[Honey, I Shrunk the Kids]]'', ''[[The Goonies]]'', ''[[Gremlins]]'', the [[Saw (franchise)|''Saw'' film series]], ''[[Chitty Chitty Bang Bang (film)|Chitty Chitty Bang Bang]]'', ''[[The Cat from Outer Space]]'', ''[[Malcolm (film)|Malcolm]]'', ''[[Hotel for Dogs (film)|Hotel For Dogs]]'', the [[Home Alone (franchise)|''Home Alone'' film series]], ''[[Family Guy]]'', ''[[American Dad!]]'', and ''[[Waiting... (film)|Waiting...]]''
+
+Also in the [[Final Destination (film series)|''Final Destination'' film series]] the characters often die in Rube Goldberg-esque ways. In the film ''[[The Great Mouse Detective]]'', the villain Ratigan attempts to kill the film's heroes, Basil of Baker Street and David Q. Dawson, with a Rube Goldberg style device.
+The classic video in this genre was done by the artist duo [[Peter Fischli &amp; David Weiss]] in 1987 with their 30-minute video "Der Lauf der Dinge" or "The Way Things Go".
+
+Honda produced a video in 2003 called "[[Cog (advertisement)|The Cog]]" using many of the same principles that Fischli and Weiss had done in 1987.
+
+In 2005, the American alternative rock/indie band [[The Bravery]] released a video for their debut single, "An Honest Mistake," which features the band performing the song in the middle of a Rube Goldberg machine.
+
+In 1999, an episode of ''[[The X-Files]]'' was titled "[[The Goldberg Variation (The X-Files)#ep6|The Goldberg Variation]]". The episode intertwined characters FBI agents Mulder and Scully, a simple apartment super, Henry Weems (Willie Garson) and an ailing young boy, Ritchie Lupone ([[Shia LaBeouf]]) in a real-life Goldberg device.
+
+The 2010 music video "This Too Shall Pass – RGM Version" by the rock band [[OK Go]] features a machine that, after four minutes of kinetic activity, shoots the band members in the face with paint. "RGM" presumably stands for Rube Goldberg Machine.&lt;ref name="yt"&gt;{{cite web
+  | title = OK Go – This Too Shall Pass – Rube Goldberg Machine version
+  | publisher = [[YouTube]]
+  | date = March 1, 2010
+  | url = https://www.youtube.com/watch?v=qybUFnY7Y8w
+  | accessdate = March 2, 2010}}&lt;!-- official --&gt;&lt;/ref&gt;
+
+2012 The CBS show ''[[Elementary (TV series)|Elementary]]'' features a machine in its opening sequence.
+
+2014 The Web Series, "Deadbeat," on Hulu features an episode titled, "The Ghost in the Machine," which features the protagonist, Kevin, helping the ghost of Rube Goldberg complete a contraption that will bring his grandchildren together after making a collection of random items into a machine that ends up systematically injuring two of his grandchildren so they end up in the same hospital and finally meet.
+
+===Games===
+Both board games and video games have been inspired by Goldberg's creations, such as the 60's board game ''[[Mouse Trap (game)|Mouse Trap]]'',&lt;ref&gt;{{cite magazine | last=Kiniry | first=Laura | date=November 13, 2013 | title=7 Unbelievable Rube Goldberg Machines We Love | work=[[Popular Mechanics]] | url=https://www.popularmechanics.com/technology/g1348/7-unbelievable-rube-goldberg-machines-we-love/?slide=1 | access-date=April 10, 2018}}&lt;/ref&gt; the 1990s series of ''[[The Incredible Machine (game)|The Incredible Machine]]'' games,&lt;ref&gt;{{cite magazine | last=Moore | first=Bo | date=May 13, 2013 | title=The Incredible Machine is Back, Spiritually | work=[[Wired (magazine)|Wired]] | url=https://www.wired.com/2013/05/contraption-maker/ | access-date=April 10, 2018}}&lt;/ref&gt; and ''[[Crazy Machines]]''.&lt;ref&gt;{{cite web | last=Colayco | first=Bob | date=January 20, 2006 | title=Crazy Machines: The Wacky Contraptions Game Review | work=[[GameSpot]] | url=https://www.gamespot.com/reviews/crazy-machines-the-wacky-contraptions-game-review/1900-6142774/ | access-date=April 10, 2018}}&lt;/ref&gt; The ''[[Humongous Entertainment]]'' game ''[[Freddi Fish 2: The Case of the Haunted Schoolhouse]]'' involves searching for the missing pieces to a Rube Goldberg machine to complete the game.
+
+In 1909 Goldberg invented the "Foolish Questions" game based on his successful cartoon by the same name. The game was published in many versions from 1909 to 1934.&lt;ref&gt;{{cite book|last1=Wolfe|first1=Maynard Frank|title=Rube Goldberg Inventions|date=2000|publisher=Simon &amp; Schuster|isbn=0-684-86724-9|page=25}}&lt;/ref&gt;
+
+''[[Rube Works: The Official Rube Goldberg Invention Game]]'', the first game authorized by The Heirs of Rube Goldberg, was published by Unity Games (the publishing arm of [[Unity Technologies]]) in November 2013.&lt;ref&gt;{{cite web|title=Rube-Goldberg Puzzler "Rube Works" Now Available for iPad and iPhone|url=http://www.gamasutra.com/view/pressreleases/204689/RubeGoldberg_Puzzler_ldquoRube_Works_Now_Available_foriPad_and_iPhone.php|work=[[Gamasutra]]|date= November 13, 2013|accessdate=December 27, 2013}}&lt;/ref&gt;
+
+==See also==
+*[[Chindōgu]]
+*[[Deathtrap (plot device)]]
+*[[Domino effect]]
+*[[Domino show]]
+*[[Frederick Rowland Emett]]
+*[[W. Heath Robinson]], British artist who drew "inventions" similar to Rube Goldberg's
+*[[Jean Tinguely]], Swiss artist who created Rube Goldberg–like sculptures
+*''[[Mickey One]]''
+*[[PythagoraSwitch]]
+*[[Storm P]], a Danish contemporary artist who drew "inventions" similar to Rube Goldberg's
+
+==References==
+
+{{reflist}}
+{{refbegin}}
+*{{cite book | last = Wolfe | first = Maynard Frank | title = Rube Goldberg: Inventions | publisher = Simon &amp; Schuster | location = New York | year = 2000 | isbn = 0684867249 }}
+{{refend}}
+
+==External links==
+{{Commons category|Rube Goldberg}}
+*[http://RubeGoldberg.com Official Rube Goldberg website]
+*[https://archive.is/20130204113116/http://www.toonopedia.com/articles/goldberg.htm Toonopedia entry]
+*[http://www.aaa.si.edu/collections/interviews/rube-goldberg-interview-11521 Smithsonian's Archives of American Art: Oral History Interview with Rube Goldberg, 1970]
+*[https://web.archive.org/web/20110209151158/http://www.reuben.org/awards.html NCS Awards]
+*{{IMDb name|0325298}}
+*[http://www.oac.cdlib.org/findaid/ark:/13030/tf7b69n96m/ Guide to the Rube Goldberg Papers] at [[The Bancroft Library]]
+* [https://www.youtube.com/watch?v=QQs4ZD3HjwQ Rube Goldberg interviewed] by [[Edward Murrow]], 1959
+* [http://RubeWorks.com Rube Works: The Official Rube Goldberg Invention Game]
+
+{{PulitzerPrize EditorialCartooning 1922–1950}}
+{{Society of Illustrators' Hall of Fame}}
+{{Authority control}}
+
+
+{{DEFAULTSORT:Goldberg, Rube}}
+[[Category:1883 births]]
+[[Category:1970 deaths]]
+[[Category:American editorial cartoonists]]
+[[Category:American engineers]]
+[[Category:University of California, Berkeley College of Engineering alumni]]
+[[Category:American humorists]]
+[[Category:American male journalists]]
+[[Category:American journalists]]
+[[Category:Artists from New York City]]
+[[Category:Writers from San Francisco]]
+[[Category:Pulitzer Prize for Editorial Cartooning winners]]
+[[Category:Reuben Award winners]]
+[[Category:Jewish American journalists]]
+[[Category:Jewish engineers]]
+[[Category:Jewish humorists]]
+[[Category:Artists from San Francisco]]
+[[Category:Jewish inventors]]
+[[Category:Articles containing video clips]]
+
+[[la:Machina Rube Goldberg]]</text>
+      <sha1>j1i8u1vnndm9s3726qhy9zcpxoym6to</sha1>
+    </revision>
+  </page>
+</mediawiki>

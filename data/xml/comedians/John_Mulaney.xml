@@ -1,0 +1,362 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Mulaney</title>
+    <ns>0</ns>
+    <id>13829646</id>
+    <revision>
+      <id>855997058</id>
+      <parentid>855636860</parentid>
+      <timestamp>2018-08-22T06:22:15Z</timestamp>
+      <contributor>
+        <username>Msprimeminister</username>
+        <id>31827557</id>
+      </contributor>
+      <comment>/* Television */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27063">{{lead too short|date=June 2018}}
+{{Use mdy dates|date=November 2017}}
+{{Infobox comedian &lt;!-- for individuals - see Template:Infobox comedian for usage --&gt;
+| name                 = John Mulaney
+| image                = John Mulaney at PaleyFest 2014.jpg
+| caption              = Mulaney in 2014
+| birth_name=John Edmund Mulaney
+| birth_date           = {{Birth date and age|1982|8|26}}
+| birth_place          = [[Chicago]], [[Illinois]], U.S.
+| medium               = {{Flat list|
+* Stand-up
+* television
+}}            
+| active               = 2004–present
+| genre                = {{hlist|[[Observational comedy]]|[[sketch comedy]]|[[surreal humour|surreal humor]]}}
+| subject              = {{hlist|[[Culture of the United States|American culture]]|[[everyday life]]|[[Embarrassment|social awkwardness]]|[[pop culture]]}}
+| alma_mater           = [[Georgetown University]]
+| notable_work         =
+| website              = {{Official website|http://www.johnmulaney.com}}
+| spouse               = {{Marriage|[[Annamarie Tendler]]|July 5, 2014}}
+}}
+
+'''John Edmund Mulaney'''&lt;ref&gt;United States Public Records, 1970–2009&lt;/ref&gt; (born August 26, 1982) is an American stand-up comedian, actor, writer, and producer. He is best known for his work as a writer on ''[[Saturday Night Live]]'' and as a stand-up comedian with stand-up specials ''The Top Part'', ''New in Town'', ''The Comeback Kid,'' and ''Kid Gorgeous.''&lt;ref name="formerSNL"&gt;{{cite news|last=Holson|first=Laura M.|title=The Family Franchise|url=https://www.nytimes.com/2013/01/06/fashion/nathaniel-and-simon-the-brothers-rich.html?pagewanted=all|accessdate=January 6, 2013|newspaper=[[The New York Times]]|date=January 4, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tvguide.com/celebrities/john-mulaney/279976|title=John Mulaney biodata|work=[[TV Guide]]|accessdate=February 12, 2013}}&lt;/ref&gt; He was the creator and star of the short-lived [[Fox Broadcasting Company|Fox]] sitcom ''[[Mulaney]]'', a semi-autobiographical series about his fictional life.
+
+==Early life==
+Mulaney was born in [[Chicago, Illinois]],&lt;ref name=TO2 /&gt; the son of Ellen (''[[née]]'' Stanton), a law professor at [[Northwestern University Pritzker School of Law|Northwestern University]], and Charles W. "Chip" Mulaney, Jr., an attorney and partner at [[Skadden Arps]], who is of [[Irish Catholic]] descent.&lt;ref&gt;{{cite web |last=Downing |first=Andy |url=http://host.madison.com/entertainment/arts_and_theatre/a-stand-up-guy-snl-vet-john-mulaney-takes-the/article_551ca6fe-802a-11e2-9ed6-0019bb2963f4.html |title=A stand-up guy: 'SNL' vet John Mulaney takes the Barrymore stage |publisher=madison.com |date=February 27, 2013 |accessdate=September 26, 2014}}&lt;/ref&gt;&lt;ref name=charm/&gt;&lt;ref&gt;{{cite web |last=Peters |first=Charlene |url=http://www.wickedlocal.com/article/20120417/News/304179679 |title=Saturday Night Live’ writer-actors Seth Meyers and John Mulaney embrace Marblehead connection |publisher=wickedlocal.com |date=April 17, 2012 |accessdate=September 26, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Pitchel |first=Samantha |url=http://austin.culturemap.com/news/music_film/05-12-12-14-34-john-mulaney-takes-us-behind-the-scenes-at-snl |title=John Mulaney on the power of parody, and what really goes on behind the scenes at SNL |publisher=Culture Map Austin |date=May 12, 2012 |accessdate=September 26, 2014}}&lt;/ref&gt; Mulaney's maternal great-grandfather was [[George J. Bates]], a Republican mayor of [[Salem, Massachusetts]], who also served as a congressman from that state. His maternal great-uncle is [[William H. Bates]], who also served as a U.S. congressman.&lt;ref&gt;{{cite web|title = BATES, William Henry - Biographical Information|url = http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000239|website = bioguide.congress.gov|accessdate = November 30, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Glatter |first=Hayley |date=February 8, 2018 |title=Seth Moulton Told Seth Meyers about Being an Iraqi TV Star |url=https://www.bostonmagazine.com/news/2018/02/08/seth-moulton-late-night/ |work=Boston Magazine |location=Boston, MA}}&lt;/ref&gt; Coincidentally, Mulaney's grandmother, Carolyn Stanton, and Hilary Meyers—mother of Mulaney's future ''[[Saturday Night Live]]'' coworker [[Seth Meyers]]—performed together in a hospital benefit show in [[Marblehead, Massachusetts]], called ''Pills A Poppin{{'}}'' directed by [[Tommy Tune]], then 19.&lt;ref&gt;{{cite news|title=John Mulaney Can't Wear Regular Tuxedoes to Events Anymore|url=https://www.youtube.com/watch?v=k4hK4palYWU|accessdate=June 13, 2017|work=[[Late Night with Seth Meyers]]|date=June 12, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Healey|first1=Barbara|title=LETTER: 'SNL' story proves it's a small world|url=http://marblehead.wickedlocal.com/x1780487669/LETTER-SNL-story-proves-it-s-a-small-world|accessdate=June 13, 2017|work=Marblehead Reporter|date=April 23, 2012|language=en}}&lt;/ref&gt;
+
+Mulaney's parents both attended [[Georgetown University]] and [[Yale Law School]] with the future president [[Bill Clinton]], whom Mulaney met in 1992.&lt;ref name="comebackkid"&gt;''The Comeback Kid'', 2015&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Walters|first1=John|title=John Mulaney's Charm Offensive|url=http://www.newsweek.com/2014/05/30/john-mulaneys-charm-offensive-251748.html|accessdate=November 20, 2015|work=[[Newsweek]]|date=May 22, 2014}}&lt;/ref&gt; Mulaney was an [[altar boy]]. He is the third of four children.&lt;ref&gt;{{cite news|title=John Mulaney Bonds With Stephen Over Their Time As Altar Boys|url=https://www.youtube.com/watch?v=TxlwLr4b4E0|accessdate=February 27, 2017|work=The Late Show with Stephen Colbert|date=December 9, 2016}}&lt;/ref&gt;
+
+At the age of seven, Mulaney had an opportunity to audition for the role of Kevin in the film ''[[Home Alone]]'', but his parents declined.&lt;ref name=charm/&gt; For junior high, he attended [[St. Clement School]]&lt;ref&gt;{{cite web|title = Saint Clement School: Alumni|url = http://www.stclementschool.org/page.cfm?p=354|publisher = stclementschool.org|access-date = February 16, 2016}}&lt;/ref&gt; where, in lieu of doing reports, he and his best friend, John O'Brien, would offer to perform what they had learned in the format of a skit.&lt;ref name=charm/&gt; Mulaney would also frequent the [[Museum of Broadcast Communications]], where he would watch archived episodes of shows such as ''[[I Love Lucy]]'' or ''[[The Tonight Show Starring Johnny Carson]]''.&lt;ref name=charm/&gt;  He then attended [[St. Ignatius College Prep]], and finally [[Georgetown University]], where he studied English Literature and Religion.&lt;ref name=TO2&gt;{{cite news|url=http://chicago.timeout.com/articles/comedy/86501/john-mulaney-and-kristen-schaal-just-for-laughs-fest|title=
+Double our pleasure: Two comics with a Chicago past team up at this year’s Just for Laughs fest|author=Heidemann, Jason A.|date=June 17–23, 2010|newspaper=[[Time Out Chicago]]|issue=277|accessdate=October 24, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Joke's on us: Rivalry week comedians heckle the audience and share maybe too much|url=http://www.thelaf.com/a-e/joke-s-on-us-rivalry-week-comedians-heckle-the-audience-and-share-maybe-too-much-1.2961412|date=November 29, 2012|newspaper=The Lafayette|issue=277|accessdate=February 12, 2013|author=Tringali, Steven}}&lt;/ref&gt;
+
+==Career==
+After graduating from Georgetown, he moved to New York with ambitions of a career in comedy, and was hired as an office assistant at [[Comedy Central]].&lt;ref name=charm/&gt; After a year, he pitched the idea for a parody of the ''[[I Love the '80s (U.S. TV series)|I Love the '80s]]'' called ''I Love the '30s'', which he developed along with fellow comedian [[Nick Kroll]].&lt;ref name=charm/&gt;
+
+===''Saturday Night Live''===
+{{Main article|Saturday Night Live|Stefon}}
+After first working as a commentator on ''[[Best Week Ever]]'', Mulaney auditioned for ''[[Saturday Night Live]]'' in August 2008, along with Kroll and [[T.J. Miller]].&lt;ref name=charm/&gt;  Mulaney won a spot on the writing team, where he remained for six seasons.&lt;ref name=charm/&gt; He also occasionally appeared on the show's ''[[Weekend Update]]'' segment.&lt;ref name=WaPo&gt;{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/07/07/AR2010070701947.html | newspaper=[[The Washington Post]] |location=Washington, DC | title=Comedian John Mulaney at Arlington Cinema 'N' Drafthouse |date=July 8, 2010 |author=Berman, Mark|accessdate=September 1, 2010}}&lt;/ref&gt;&lt;ref name=NYMag&gt;{{cite web|website=Vulture| title= John Mulaney Talks About Debuting on Saturday Night Live With His Girl Scout Cookie Tale of Woe |author=Jada, Yuan|date=April 26, 2010|url= http://www.vulture.com/2010/04/john_mulaney_girl_scout_cookie.html|accessdate=September 1, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://watching-tv.ew.com/2010/10/24/saturday-night-live-emma-stone-snl/ | title='Saturday Night Live' review: Emma Stone was rock-solid, and flexible|work=[[Entertainment Weekly]]|date=October 24, 2010|author=Tucker, Ken |accessdate=October 24, 2010}}&lt;/ref&gt; He and ''SNL'' actor [[Bill Hader]] co-created the recurring ''SNL'' character [[Stefon]].&lt;ref&gt;{{cite web|url=http://www.aoltv.com/2010/09/24/snl-star-bill-hader-talks-the-new-season-jon-hamms-return-an/ |title='SNL' Star Bill Hader Talks the New Season, Jon Hamm's Return and His 'Surreal Life' Experience with Corey Feldman |author=Potts, Kim |date=September 24, 2010 |publisher=[[HuffPost TV]] |accessdate=November 24, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120921063946/http://www.aoltv.com/2010/09/24/snl-star-bill-hader-talks-the-new-season-jon-hamms-return-an/ |archivedate=September 21, 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;"[https://www.youtube.com/watch?v=aWv7x5mJMA4&amp;ab_channel=TeamCoco Interview with John Mulaney]". ''[[Conan (talk show)|Conan]]''. ''[[TBS (U.S. TV channel)|TBS]]''. January 26, 2012.&lt;/ref&gt; Mulaney was nominated for the [[Primetime Emmy Award for Outstanding Writing for a Variety Series]] with the ''SNL'' writing staff from 2009–2012.&lt;ref&gt;{{cite web|url= https://www.emmys.com/bios/john-mulaney |title= John Mulaney |publisher= Academy of Television Arts and Sciences|accessdate= May 16, 2018}}&lt;/ref&gt; Mulaney won a [[Primetime Emmy Award for Outstanding Original Music and Lyrics]] at the [[63rd Primetime Emmy Awards]] with [[Justin Timberlake]], [[Seth Meyers]] and Katreese Barnes.&lt;ref&gt;{{cite web|url=http://www.emmys.com/nominations/2011/Outstanding%20Original%20Music%20And%20Lyrics |title=Outstanding Original Music and Lyrics 2011 |publisher=Academy of Television Arts and Sciences |deadurl=yes |archiveurl=https://web.archive.org/web/20120505022538/http://www.emmys.com/nominations/2011/Outstanding%20Original%20Music%20And%20Lyrics |archivedate=May 5, 2012 |df= }}&lt;/ref&gt; Mulaney returned to host ''Saturday Night Live'' on April 14, 2018, making him the third ''SNL'' writer (after [[Conan O'Brien]] and [[Larry David]]) to host ''SNL'' despite never being promoted to a cast member.
+
+===Stand-up comedy===
+In addition to his work on ''SNL'', Mulaney has worked for a number of years as a stand-up comedian. He has performed on ''[[Live at Gotham]]'', ''[[Conan (talk show)|Conan]]'', ''[[Jimmy Kimmel Live]]'', ''[[Late Night With Jimmy Fallon]]'', ''[[Late Night With Conan O'Brien]]'', and ''[[Comedy Central Presents]]''. Mulaney also released a [[stand-up comedy]] album titled ''The Top Part'' in 2009,&lt;ref&gt;{{cite book|author=Mulaney, John|title=The Top Part|year=2009|publisher=[[Comedy Central Records]]|location=New York|oclc=317698024}}&lt;/ref&gt; and a stand-up comedy special called ''New In Town'' in 2012. Both were produced with [[Comedy Central]]. He frequently tours his comedy shows, sometimes with his ''Mulaney'' co-star Seaton Smith.{{citation needed|date=June 2015}}  He performed at the 2008 Bonnaroo Music Festival.&lt;ref&gt;(May 2008), [https://books.google.com/books?id=kic4tNzhZF8C Ad].  ''Spin''. '''24''' (5):107&lt;/ref&gt;
+
+Mulaney's third [[stand-up comedy]] special titled ''The Comeback Kid'' was released on November 13, 2015, on [[Netflix]]. His second stand-up show, ''New In Town'', which premiered on Comedy Central in 2012, is also on Netflix. ''The Comeback Kid'' received critical acclaim,&lt;ref&gt;{{cite web|last1=Adams|first1=Erik|title=John Mulaney moves on in a triumphant Comeback special|url=https://tv.avclub.com/john-mulaney-moves-on-in-a-triumphant-comeback-special-1798185646|website=The A.V. Club|accessdate=May 16, 2018|date=November 13, 2015}}&lt;/ref&gt; with David Sims of ''[[The Atlantic]]'' calling it "a reminder of everything that makes Mulaney so singular: storytelling rich with well-observed details, delivered with the confidence of someone decades older than 33."&lt;ref&gt;{{cite web|last1=Sims|first1=David|title=John Mulaney: Comedy’s Comeback Kid|url=https://www.theatlantic.com/entertainment/archive/2015/11/john-mulaneys-comedy-comeback/415659/|date=November 12, 2015|work=[[The Atlantic]]|accessdate=May 25, 2016}}&lt;/ref&gt; In 2016, Mulaney received a nomination for the [[Primetime Emmy Award for Outstanding Writing for a Variety Special]] for ''The Comeback Kid'', losing to [[Patton Oswalt]]'s ''Talking for Clapping''.&lt;ref&gt;{{cite news|title=Emmy Awards: The Complete Winners List|url=https://www.hollywoodreporter.com/lists/emmy-winners-2016-complete-list-926352|accessdate=May 16, 2018|work=The Hollywood Reporter|date=September 18, 2016}}&lt;/ref&gt;
+
+Mulaney's fourth stand-up comedy tour, ''Kid Gorgeous'', kicked off its first leg in May 2017, concluding in July of that year.&lt;ref&gt;{{Cite news|last=McKellop|first=Mario|url=https://www.axs.com/john-mulaney-announces-kid-gorgeous-north-american-tour-116380|title=John Mulaney announces Kid Gorgeous North American tour|work=AXS|date=March 22, 2017|access-date=February 20, 2018}}&lt;/ref&gt; A second leg began September 2017 in Colorado Springs, Colorado&lt;ref&gt;{{Cite web|last=McKellop|first=Mario|url=https://www.axs.com/john-mulaney-announces-second-leg-of-kid-gorgeous-tour-119819|title=John Mulaney announces second leg of Kid Gorgeous tour|website=AXS|date=June 17, 2017|access-date=February 20, 2018}}&lt;/ref&gt; and concluded April 2018 in [[Jacksonville, Florida]].&lt;ref&gt;{{Cite web|url=http://www.johnmulaney.com/|title=John Mulaney, KID GORGEOUS|website=www.johnmulaney.com|access-date=February 20, 2018}}&lt;/ref&gt; The tour featured seven shows at [[Radio City Music Hall]] in New York City in February 2018,&lt;ref&gt;{{Cite web|first=Andrew|last=Sacher|url=http://www.brooklynvegan.com/john-mulaney-adds-6th-radio-city-show-played-night-of-too-many-stars/|title=John Mulaney adds 6th Radio City show, played "Night of Too Many Stars"|website=BrooklynVegan|access-date=February 20, 2018|date=November 20, 2017}}&lt;/ref&gt; one of which was filmed for another Netflix special.&lt;ref&gt;{{cite web|title=John Mulaney: Kid Gorgeous at Radio City|url=https://www.netflix.com/de/title/80238110|website=Netflix|accessdate=May 16, 2018}}&lt;/ref&gt; ''Kid Gorgeous'' was met with critical acclaim,&lt;ref&gt;{{cite web|last1=Lyons|first1=Margaret|title=John Mulaney: Kid Gorgeous at Radio City|url=https://www.nytimes.com/watching/titles/John-Mulaney-Kid-Gorgeous|website=New York Times Watching|accessdate=May 16, 2018|date=April 30, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Perkins|first1=Dennis|title=John Mulaney packs the house with laughs in Kid Gorgeous At Radio City|url=https://tv.avclub.com/john-mulaney-packs-the-house-with-laughs-in-kid-gorgeou-1825650072|website=The A.V. Club|accessdate=May 16, 2018|date=May 1, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Sims|first1=David|title=The Secret Star of John Mulaney's Kid Gorgeous|url=https://www.theatlantic.com/entertainment/archive/2018/05/john-mulaneys-kid-gorgeous-netflix-special-review/559286/|website=The Atlantic|accessdate=May 16, 2018|date=May 1, 2018}}&lt;/ref&gt; with Steve Greene of ''[[IndieWire]]'' calling it "one of the year’s best pieces of writing."&lt;ref&gt;{{cite web|last1=Greene|first1=Steve|title=‘Kid Gorgeous at Radio City’: John Mulaney’s Netflix Standup Special Is One of the Year’s Best Pieces of Writing|url=http://www.indiewire.com/2018/05/john-mulaney-netflix-kid-gorgeous-review-writing-1201959218/|website=IndieWire|accessdate=May 16, 2018|date=May 1, 2018}}&lt;/ref&gt; At the [[70th Primetime Emmy Awards]], Mulaney received a nomination for Outstanding Writing for a Variety Special for ''Kid Gorgeous''.&lt;ref&gt;{{cite web |title=Here Are the 2018 Emmy Nominations |url=http://www.vulture.com/2018/07/2018-emmy-nominations-see-the-full-list.html |website=Vulture |accessdate=July 12, 2018 |date=July 12, 2018}}&lt;/ref&gt;
+
+===''Mulaney''===
+{{Main article|Mulaney}}
+{{quote box|align=right|width=300px|quote="I wanted to do the type of live-audience multi-camera sitcoms that I grew up on."|source=John Mulaney, ''[[Maclean's]]''&lt;ref name=Weinman&gt;{{cite magazine |title=The New Seinfeld |last=Weinman |first=Jaime J. |date=August 4, 2014 |work=[[Maclean's]] |volume=127 |issue=30/31 |pages=60-62}}&lt;/ref&gt;}}
+In May 2013, NBC passed on picking up Mulaney's semi-autobiographical sitcom pilot, titled ''[[Mulaney]]''.&lt;ref&gt;{{cite web|last=Fox|first=Jesse David|title=NBC Passes on John Mulaney's Pilot|url=http://www.vulture.com/2013/05/nbc-passes-on-john-mulaneys-pilot.html|work=Vulture|accessdate=May 10, 2013|date=May 10, 2013}}&lt;/ref&gt; In June 2013, [[Fox Broadcasting Company]] ordered a new script while considering whether to order the production of several episodes.&lt;ref&gt;{{cite web|last=Andreeva|first=Nellie|title=John Mulaney’s NBC Comedy Pilot Eyes Series Pickup At Fox With Script Order|url=http://www.deadline.com/2013/06/john-mulaneys-nbc-comedy-pilot-eyes-series-pickup-at-fox-with-script-order/|date=June 29, 2013|publisher=[[Deadline Hollywood]]|accessdate=August 14, 2013}}&lt;/ref&gt;
+
+In October 2013, Fox announced that they picked up the show for a six-episode season order.&lt;ref&gt;{{cite news|title=John Mulaney Sitcom Gets Series Order At Fox|url=https://www.huffingtonpost.com/2013/10/02/john-mulaney-fox_n_4031744.html|date=October 2, 2013|work=HuffPost|accessdate=October 4, 2013|first=Chris|last=Harnick}}&lt;/ref&gt; Mulaney was the creator, producer, and writer of his eponymous series until its cancellation in May 2015.&lt;ref&gt;{{cite web|last=Finbow |first=Katy |url=http://www.digitalspy.com/tv/news/a646786/fox-officially-cancels-weird-loners-mulaney-and-red-band-society.html |title=Fox officially cancels Weird Loners, Mulaney and Red Band Society|work=Digital Spy |date=May 11, 2015 |accessdate=July 18, 2015}}&lt;/ref&gt; The series received poor reviews, &lt;ref&gt;{{cite web|url=https://www.rottentomatoes.com/tv/mulaney/|title=Mulaney|accessdate=May 16, 2018|website=Rotten Tomatoes}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.metacritic.com/tv/mulaney|title=Mulaney: Season 1|website=Metacritic|accessdate=May 16, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Jensen|first1=Jeff|last2=Maerz|first2=Melissa|url=http://ew.com/gallery/5-worst-tv-shows-2014/4-mulaney-fox|title=5 Worst TV Shows of 2014|work=Entertainment Weekly|accessdate=November 27, 2017|date=December 4, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Holmes|first1=Linda|title=Please Don't Judge John Mulaney By 'Mulaney'|url=https://www.npr.org/sections/monkeysee/2014/10/03/353470213/please-dont-judge-john-mulaney-by-mulaney|website=NPR|accessdate=June 20, 2015|date=October 3, 2014}}&lt;/ref&gt; including playwright and ''[[The New York Times]]'' TV critic [[Neil Genzlinger]]'s, who wrote "It rips off ''Seinfeld'' so aggressively that in Episode 2 it even makes fun of its own plagiarism. But one thing it forgot to borrow from ''Seinfeld'' was intelligence."&lt;ref&gt;{{cite news|last=Genzlinger|first=Neil|title=A Comic and 3 Friends: Sound Familiar?|url=https://www.nytimes.com/2014/10/04/arts/television/mulaney-a-comedy-that-riffs-on-seinfeld.html|date=October 3, 2014|work=The New York Times|accessdate=May 16, 2018}}&lt;/ref&gt;
+
+===George St. Geegland===
+{{Main article|The Oh, Hello Show|Kroll Show}}
+Mulaney regularly performs as George St. Geegland, an elderly man from the Upper West Side of New York. St. Geegland and fellow New Yorker Gil Faizon (portrayed by Georgetown classmate and comedian [[Nick Kroll]]), host a prank show called ''Too Much Tuna'' in which contestants are given sandwiches with too much tuna fish.&lt;ref&gt;{{Cite web |author= B. G. Henne|url=https://news.avclub.com/watch-oh-hello-stars-gil-faizon-and-george-st-geegl-1798275918|title=Watch “Oh, Hello” stars Gil Faizon and George St. Geegland drop in at 92Y|website=The A.V. Club|date=January 23, 2015|accessdate=May 16, 2018}}&lt;/ref&gt; Mulaney has toured the United States alongside Kroll in a show called ''[[The Oh, Hello Show|Oh, Hello]]'', with both in character as George St. Geegland and Gil Faizon, respectively. The show premiered on Broadway on September 23, 2016, and concluded its run on January 22, 2017. The Broadway production was filmed and released on Netflix on June 13, 2017.&lt;ref&gt;{{Cite news|url=https://uproxx.com/tv/oh-hello-netflix-john-mulaney-nick-kroll/|title=John Mulaney And Nick Kroll’s ’Oh, Hello’ Is Coming To Netflix|date=2017-05-18|work=UPROXX|access-date=2018-06-02|language=en-US}}&lt;/ref&gt; [[Steve Martin]] was the celebrity special guest, with a bonus clip showing [[Michael J. Fox]] as the guest. [[Matthew Broderick]] appeared as himself in a brief cameo towards the end of the special.
+
+==Personal life==
+On July 5, 2014, Mulaney married makeup artist [[Annamarie Tendler]]. Mulaney and Tendler had their wedding ceremony performed by friend [[Dan Levy]].&lt;ref name="comebackkid"/&gt;
+
+Mulaney had a drinking problem in the past, and no longer drinks alcohol.&lt;ref name=charm&gt;Walters, John (May 30, 2014), [http://www.newsweek.com/2014/05/30/john-mulaneys-charm-offensive-251748.html "John Mulaney's Charm Offensive"]. ''Newsweek Global''. '''162''' (21):1–7&lt;/ref&gt;
+
+== Works ==
+
+=== Comedy specials ===
+{| class="wikitable"
+|+
+!Year
+!Title
+!Distributor
+|-
+|2009
+|''The Top Part''
+|[[Comedy Central]]
+|-
+|2012
+|''John Mulaney: New in Town''
+|[[Comedy Central]]
+|-
+|2015
+|''John Mulaney: The Comeback Kid''
+|[[Netflix]]
+|-
+|2018
+|''John Mulaney: Kid Gorgeous at Radio City''
+|[[Netflix]]
+|}
+
+===Television===
+{|class="wikitable sortable"
+|-
+! Year
+! Title 
+! Role
+! Notes
+|-
+| 2006 
+| ''[[Live at Gotham]]''
+| Himself 
+| Episode: "1.3"
+|-
+| 2007
+| ''[[Late Night with Conan O'Brien]]''
+| Himself
+| Episodes: "7 June 2007" &amp; "15 February 2007"
+|-
+| 2007
+| ''[[Human Giant]]''
+| Various
+| Episode: "24 Hour Marathon"
+|-
+| 2008
+| ''[[Best Week Ever]]''&lt;ref name=WaPo /&gt;&lt;ref name=TO&gt;{{cite news|url=http://chicago.timeout.com/articles/comedy/23886/may-the-best-man-win | newspaper=[[Time Out Chicago]] | title=May the ''Best'' Man Win| author=Heisler, Steve | date=November 1–7, 2007|issue=140|accessdate=October 24, 2010}}&lt;/ref&gt; 
+| Himself
+| 4 episodes
+|-
+| 2008
+| ''[[Important Things with Demetri Martin]]''
+| John Mulaney/Green Beret
+| 2 episodes; also writer
+|-
+| 2008–2018
+| ''[[Saturday Night Live]]''
+| Various roles
+| 7 episodes; also writer&lt;br&gt;Won—[[Primetime Emmy Award for Outstanding Music and Lyrics]] (2011)&lt;br&gt;Nominated—[[Primetime Emmy Award for Outstanding Variety Series]] (2012)&lt;br&gt;Nominated—[[Primetime Emmy Award for Outstanding Writing for a Variety Series]] (2009–12)&lt;br&gt;Nominated—[[Primetime Emmy Award for Outstanding Writing for a Variety Special]] (2013, 2015)&lt;br&gt;Nominated—Primetime Emmy Award for Outstanding Music and Lyrics (2012)
+|-
+| 2009
+| ''[[Comedy Central Presents]]''
+| Himself
+| Stand-up half hour 
+|-
+| 2010
+| ''Mayne Street''
+| Dylan
+| 6 episodes
+|-
+| 2010
+| ''[[Ugly Americans (TV series)|Ugly Americans]]''
+| Tony / The In-Between World Guide (voice)
+| 2 episodes
+|-
+| 2011, 2017
+| ''[[The Chris Gethard Show]]''
+| Himself
+| Episodes: "The Kickboxer Episode" &amp; "Innocuous Opinions, Dire Consequences"
+|-
+| 2012
+| ''John Mulaney: New in Town''
+| Himself
+| Stand-up special
+|-
+| 2012
+| ''Funny As Hell''
+| Himself 
+| Episode #2.2
+|-
+| 2013–2015
+| ''[[Kroll Show]]''
+| George St. Geegland
+| 11 episodes
+|-
+| 2013
+| ''[[The Jeselnik Offensive]]''
+| Himself
+| 2 episodes
+|-
+| 2013
+| ''[[The Pete Holmes Show]]''
+| Himself
+| Episode: "John Mulaney"
+|-
+| 2014–2015
+| ''[[Mulaney]]''
+| John Mulaney 
+| 13 episodes; also creator, producer, writer
+|-
+| 2015–present
+| ''[[Documentary Now!]]''
+| —
+| Writer/co-writer of 5 episodes, consulting producer (season 1, episode 4), co-executive producer (season 2)&lt;br&gt;Nominated—[[Primetime Emmy Award for Outstanding Variety Sketch Series]] (2017)
+|-
+| 2015–2016
+| ''[[The Jim Gaffigan Show]]''
+| Himself
+| 4 episodes
+|-
+| 2015
+| ''John Mulaney: The Comeback Kid''
+| Himself
+| Stand-up special&lt;br&gt;Nominated—Primetime Emmy Award for Outstanding Writing for a Variety Special (2016)
+|-
+| 2016
+| ''[[Lady Dynamite]]''
+| James Earl James
+| Episode: "Pilot"
+|-
+| 2016
+| ''[[Comedy Bang! Bang! (TV series)|Comedy Bang! Bang!]]''
+| George St. Geegland
+| Episode: "The Lonely Island Wear Dark Pants and Eyeglasses"
+|-
+| 2016
+| ''[[Maya &amp; Marty]]''
+| —
+| Writer (6 episodes)
+|-
+| 2016
+| ''[[Difficult People]]''
+| Cecil Jellford
+| Episode: "Unplugged"
+|-
+| 2017
+| ''[[32nd Independent Spirit Awards]]'' 
+| Himself (host) 
+| Television special
+|-
+| 2017
+| ''[[The Oh, Hello Show|Oh, Hello on Broadway]]''
+| George St. Geegland
+| Television special
+|-
+| 2017–present
+| ''[[Big Mouth (TV series)|Big Mouth]]''
+| Andrew Glouberman / Mint / various voices
+| 10 episodes; also consulting producer
+|-
+| 2018
+| ''[[Crashing (U.S. TV series)|Crashing]]''
+| Himself
+| Episode: "Too Good"
+|-
+| 2018
+| ''[[33rd Independent Spirit Awards]]'' 
+| Himself (host) 
+| Television special
+|-
+| 2018
+| ''[[Portlandia (TV series)|Portlandia]]''
+| George St. Geegland
+| Episode: "Peter Follows P!nk"
+|-
+| 2018
+| ''[[Saturday Night Live]]'' 
+| Himself (host) 
+| Episode: "John Mulaney/Jack White"
+|-
+| 2018
+| ''John Mulaney: Kid Gorgeous at Radio City''
+| Himself
+| Stand-up special&lt;br&gt;Pending—Primetime Emmy Award for Outstanding Writing for a Variety Special (2018)
+|}
+
+===Film===
+{|class="wikitable sortable"
+|-
+! Year
+! Title 
+! Role
+! Notes
+|-
+|2018
+|''[[Spider-Man: Into the Spider-Verse]]''
+|[[Spider-Ham|Peter Porker / Spider-Ham]]
+|Voice role
+|}
+
+=== Discography ===
+* ''The Top Part'' ([[Comedy Central Records]], 2009)
+* ''New in Town'' (Comedy Central Records, 2012)
+* ''The Comeback Kid'' ([[Drag City (record label)|Drag City]], 2017)
+* ''Kid Gorgeous '' (Drag City, 2018)
+
+==References ==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://www.johnmulaney.com}}
+* {{IMDb name|1825214}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mulaney, John}}
+[[Category:1982 births]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century American male actors]]
+[[Category:American male television actors]]
+[[Category:American people of Irish descent]]
+[[Category:American stand-up comedians]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:Georgetown University alumni]]
+[[Category:Living people]]
+[[Category:Male actors from Chicago]]
+[[Category:New York (state) Democrats]]
+[[Category:St. Ignatius College Prep alumni]]
+[[Category:Writers from Chicago]]
+[[Category:Comedians from Illinois]]
+[[Category:American Roman Catholics]]</text>
+      <sha1>fq2vqepimvdx0csxzjtq1y7zlgl0q7v</sha1>
+    </revision>
+  </page>
+</mediawiki>

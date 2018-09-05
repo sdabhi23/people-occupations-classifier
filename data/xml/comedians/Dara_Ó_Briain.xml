@@ -1,0 +1,249 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dara Ó Briain</title>
+    <ns>0</ns>
+    <id>699659</id>
+    <revision>
+      <id>854005910</id>
+      <parentid>852934257</parentid>
+      <timestamp>2018-08-08T09:44:42Z</timestamp>
+      <contributor>
+        <username>DragonFury</username>
+        <id>6209078</id>
+      </contributor>
+      <comment>/* Stand-up DVDs */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28567">{{about||the Irish politician|Darragh O'Brien}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox comedian
+| name              = Dara Ó Briain
+| image             = Dara Ó Briain 2011 BAFTAs.jpg
+| caption           = Ó Briain at the 2011 BAFTA awards.
+| birth_name        =
+| birth_date        = {{Birth date and age|1972|2|4|df=y}}
+| birth_place       = [[Bray, County Wicklow|Bray]], [[County Wicklow]], Ireland
+| height            = {{convert|6|ft|4.75|in|abbr=on}}
+| death_date        =
+| death_place       =
+| children = 2
+| medium            = Stand-up, Television
+| nationality       = [[Irish nationality law|Irish]]
+| active            = 1994–present
+| genre             = [[Observational comedy]]
+| subject           =
+| influences        = [[Eddie Izzard]]&lt;br /&gt;[[Paul Merton]]&lt;br /&gt;[[Lewis Black]]&lt;ref&gt;{{cite web|title=Ditzy Boomhaha answers your questions|url=http://www.chortle.co.uk/interviews/2006/12/04/4772/ditzy_boomhaha_answers_your_questions|work=Chortle: The UK Comedy Guide|date=4 December 2006|accessdate=27 July 2007}}&lt;/ref&gt;
+| domestic'partner   =
+| notable_work      = ''[[Echo Island]]''&lt;br /&gt;''[[Don't Feed The Gondolas]]'' &lt;small&gt;(1998–2000)&lt;/small&gt;&lt;br /&gt;''[[The Panel (Irish TV series)|The Panel]]'' &lt;small&gt;(2003–06)&lt;/small&gt;&lt;br /&gt; ''[[Mock the Week]]'' &lt;small&gt;(2005—)&lt;/small&gt;&lt;br /&gt;''[[Turn Back Time (TV series)|Turn Back Time]]'' &lt;small&gt;(2006)&lt;/small&gt; &lt;br /&gt; ''[[The Apprentice: You're Fired!]]'' &lt;small&gt;(2010–14)&lt;/small&gt;&lt;br /&gt;''[[Stargazing Live]]'' &lt;small&gt;(2011—)&lt;/small&gt;&lt;br /&gt;''[[Dara Ó Briain: School of Hard Sums|School of Hard Sums]]'' &lt;small&gt;(2012—14)&lt;/small&gt;&lt;br /&gt;''[[Dara Ó Briain's Science Club]]'' &lt;small&gt;(2012—13)&lt;/small&gt;&lt;br /&gt;''[[Dara &amp; Ed's Big Adventure]]'' &lt;small&gt;(2015)&lt;/small&gt;&lt;br /&gt;''[[Robot Wars (TV series)|Robot Wars]]'' &lt;small&gt; (2016—2018)&lt;/small&gt;&lt;br /&gt;''[[Dara O Briain's Go 8 Bit]]''&lt;small&gt; (2016-)&lt;/small&gt;
+| signature            =
+| website              = {{official website|www.daraobriain.com}}
+| footnotes            =
+|module         = &lt;center&gt;{{Listen|embed=yes|filename=Dara O Briain BBC Radio4 Front Row 12 Apr 2012 b01fjx72.flac|title=&lt;center&gt;Dara Ó Briain's voice&lt;/center&gt;|type=speech|description=&lt;center&gt;[[:File:Dara O Briain BBC Radio4 Front Row 12 Apr 2012 b01fjx72.flac|Recorded April 2012]] from the BBC Radio 4 programme ''[[Front Row (radio)|Front Row]]''&lt;/center&gt;}}&lt;/center&gt;
+}}
+
+'''Dara Ó Briain''' ({{IPAc-en|ˈ|d|ɑːr|ə|_|oʊ|ˈ|b|r|iː|ə|n|,_|ˈ|d|ær|ə|_|-}}; {{IPA-ga|ˈd̪ˠaɾˠə oː ˈbʲɾʲiənʲ|lang}}; born 4 February 1972)&lt;ref&gt;{{cite news |title=Birthdays and anniversaries |url=https://www.thetimes.co.uk/article/birthdays-and-anniversaries-nz0jsjg8q |accessdate=19 June 2018 |work=The Sunday Times |date=4 February 2018 |language=en}}&lt;/ref&gt; is an [[Irish people|Irish]] comedian and television presenter based in the [[United Kingdom]] and [[Ireland]]. He is noted for hosting topical panel shows such as ''[[Mock the Week]]'', ''[[The Panel (Irish TV series)|The Panel]]'', and ''[[The Apprentice: You're Fired!]]''. His TV work also includes starring in and writing of television comedy and documentary series. Ó Briain has also been a newspaper columnist, with pieces published in national papers in both Britain and Ireland.
+
+In 2009, the ''[[Irish Independent]]'' described Ó Briain as "[[Terry Wogan]]'s heir apparent as Britain's 'favourite Irishman'"&lt;ref name="ii-irishman"/&gt; and in 2010, Ó Briain was voted the 16th greatest stand-up comic on Channel 4's ''[[100 Greatest Stand-Ups]]''.
+
+==Early life==
+Ó Briain was born in 1972 in [[Bray, County Wicklow|Bray]], [[County Wicklow]],&lt;ref&gt;{{cite news |url=https://www.irishmirror.ie/showbiz/irish-showbiz/comedian-presenter-dara-obriain-says-8630460 |publisher=Irish Mail |title=Comedian and presenter Dara O’Briain says he will not force Irishness on his children |last=Lynott |first=Laura |date=14 August 2016}}&lt;/ref&gt; and attended [[Coláiste Eoin]] secondary school, a ''[[Gaelcholáiste]]'' (Irish-speaking medium school) on Dublin's southside. He attended [[University College, Dublin]] (UCD), where he studied mathematics, chemistry and [[theoretical physics]]. In 2008, he remarked: "I haven't written it into my act, but it occasionally comes through. I could come on with a chalkboard and say: 'Now you're all going to pay attention.{{'"}}&lt;ref name="Pl"&gt;{{cite news|url=http://www.thisisplymouth.co.uk/displayNode.jsp?nodeId=181429&amp;command=displayContent&amp;sourceNode=231133&amp;contentPK=20550308&amp;folderPk=108026&amp;pNodeId=231167|title=Time has come for stand-up guy Dara|last=Carroll|first=Su|date=6 May 2008|newspaper=[[The Herald (Plymouth)|The Herald]]|location=[[Plymouth]]|accessdate=25 May 2008}} {{Dead link|date=July 2011}}&lt;!-- Link dead as of 11 July 2011. There appears to be a version behind a pay-wall at http://plymouth-evening-herald.vlex.co.uk/vid/time-come-for-stand-up-guy-dara-76492330, but I've not been able to verify the content. ~~~~ --&gt;&lt;/ref&gt;
+
+While a student at UCD, he was both the auditor of the [[Literary and Historical Society (University College Dublin)|Literary and Historical Society]] (the university's oldest [[debate|debating society]]) and the co-founder and co-editor of ''[[The University Observer]]'' college newspaper. In 1994, he won the [[Irish Times National Debating Championship|''Irish Times'' National Debating Championship]] and ''[[The Irish Times]]''/[[Gael Linn]] National Irish language debating championship; he is a fluent [[Irish language|Irish]] speaker, and speaks to his father only in that language.&lt;ref&gt;{{Cite web|url=http://www.scotsman.com/lifestyle/dara-o-briain-interview-laughter-lines-1-1301444|title=Dara O'Briain interview - Laughter lines|last=|first=|date=2008-11-21|website=www.scotsman.com|publisher=|access-date=2017-01-12}}&lt;/ref&gt;
+
+==After university==
+After leaving university, Ó Briain began working at [[Raidió Teilifís Éireann|RTÉ]] as a children's TV presenter. At this time, he also began performing his first stand-up gigs on the Irish comedy circuit.&lt;ref name="II"&gt;
+{{cite news
+  | last = Kelleher
+  | first = Lynne
+  | title = Funnyman Dara O Briain lands his own BBC chat show
+  | work = [[Irish Independent]]
+  | publisher = [[Independent News &amp; Media]]
+  | date = 30 July 2006
+  | url = http://www.independent.ie/national-news/funnyman-dara-o-briain-lands-his-own-bbc-chatshow-133079.html
+  | accessdate = 25 May 2008
+}}
+&lt;/ref&gt; He admitted, "I did the trip from [[Dublin]] to [[County Donegal|Donegal]] to play to six people; then I turned round and drove home again. I did about three or four years playing to a lot of bad rooms, but learning as I went. It's not bad when someone gives you £40 for standing up and telling jokes. I remember thinking: 'This is the life.'"&lt;ref name="Pl" /&gt; Ó Briain spent three years as a presenter on the bilingual (Irish and English) children's programme ''[[Echo Island]]''  but came to prominence as a team captain on the topical panel show'' [[Don't Feed The Gondolas]]'' (1998–2000) hosted by [[Seán Moncrieff]]. Ó Briain also hosted RTÉ family entertainment gameshow ''It's A Family Affair''.&lt;ref&gt;{{cite web|title=Green Inc. – It's A Family Affair|url=http://www.greeninc.tv/programme.asp?id=46}}&lt;/ref&gt;
+
+Ironically, Dara would successfully persuade [[Paul Merton]] to put children's television presenters into ''Room 101'', on the [[television]] [[talk show]] of that name.
+
+==Stand-up comedy==
+Ó Briain's stand up international career took off around this time as he began to tour heavily, performing across Europe, Asia, Australia and North America, with gigs in [[Dubai]], Paris, [[Adelaide]], Shanghai and New York City. He was a regular at the [[Cat Laughs|Kilkenny Cat Laughs]] and the [[Edinburgh Festival]], as well as making one notable appearance at the [[Just For Laughs]] festival in [[Montreal]] in 2002, where he was offered a prestigious gala show because of his performances at the Irish showcase. Around this time, Ó Briain presented the weekend game show ''It's a Family Affair'' on [[RTÉ Television]]. It was the first time he worked with former Channel 4 [[commissioning editor]] Séamus Cassidy. They later set up the production company Happy Endings Productions, and together they produced (and Ó Briain presented) the chat show ''Buried Alive'' (2003) and most famously in Ireland ''[[The Panel (Irish TV series)|The Panel]]'' (2003–2006).
+
+In 2005, Ó Briain's show at the [[Edinburgh Festival Fringe]] was the biggest selling solo comedy show of the festival.&lt;ref&gt;"[http://livebrum.co.uk/2008/03/17.rss Live Brum: Events on 17 March 2008]". Live Brum, 17 March 2008. Retrieved on 28 May 2008.&lt;/ref&gt;
+
+In early 2006, Ó Briain conducted his third tour of the United Kingdom and Ireland. This included shows at the [[Theatre Royal, Drury Lane|Theatre Royal]], in London as well as nine nights in [[Dublin]] at [[Vicar Street]]. His second night in the [[Theatre Royal, Drury Lane]], in London was recorded for his first live DVD. His fourth multinational tour followed in late 2007, which as he says in his routine has "no title" but was almost entitled "You Had to Be There".
+
+He performed new tours across the UK and Ireland in 2008, 2010 and 2012. His 2010 tour played for 150 dates, to over 225,000 people, including 37 nights in Vicar St. in Dublin, 9 nights at the Hammersmith Apollo in London and a first date in Dubai. Each of those three tours were recorded for DVD, and the 2012 tour, entitled 'Craic Dealer', was similarly recorded during his shows at the Edinburgh Playhouse in May 2012. 2015 saw Dara on tour again with Crowd Tickler.
+
+On 12 March 2011, Ó Briain, [[Jack Whitehall]] and [[Jon Richardson (comedian)|Jon Richardson]] set a new ''[[Guinness World Records]]'' title for hosting the 'highest stand-up comedy gig in the world', on a [[British Airways]] flight in support of [[Comic Relief]].&lt;ref&gt;{{cite web |url= http://www.redorbit.com/news/business/2014025/british_airways_announces_smile_high_gig_sets_new_guinness_world/ |title=British Airways Announces Smile High Gig, Sets New Guinness World Record |work=redOrbit |date=17 March 2011 |accessdate=19 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{YouTube|Ux30pnqvQQE|British Airways and Comic Relief 'Flying Start' – Gig in the Sky Highlights}}&lt;/ref&gt;
+
+In 2011, Ó Briain took part in two shows of the 16-date ''Uncaged Monkeys'' tour with [[Brian Cox (physicist)|Professor Brian Cox]], [[Robin Ince]], [[Ben Goldacre]], [[Simon Singh]] and [[Chris Addison]].
+
+==Panel shows==
+''[[The Panel (Irish TV series)|The Panel]]'' was hosted by Ó Briain.  Three times nominated for the Best Entertainment show [[Irish Film and Television Awards|IFTA]] (Irish Film and Television Awards) the show has a rotating cast of panellists, usually drawn from the world of Irish comedy, discussing the events of the week and interviewing guests. The most regular panellists have been [[Colin Murphy (comedian)|Colin Murphy]], [[Ed Byrne (comedian)|Ed Byrne]], [[Neil Delamere]], [[Andrew Maxwell]] and [[Mairead Farrell (radio presenter)|Mairéad Farrell]].
+
+Around 2002, with his profile rising in the UK due to his one-man shows at the [[Edinburgh Fringe|Edinburgh Festival Fringe]], Ó Briain began making appearances on UK television shows such as ''Bring Me the Head of Light Entertainment'' (a [[Five (channel)|Channel 5]] production) and ''[[Never Mind the Buzzcocks]]''. In early 2003, he hosted the second series of [[BBC Scotland]]'s ''[[Live Floor Show]]''.&lt;ref&gt;Dessau, Bruce. "[http://www.irish-comedy.com/daraobriain/index.htm Dara O Briain] {{webarchive|url=https://web.archive.org/web/20080202010321/http://www.irish-comedy.com/daraobriain/index.htm |date= 2 February 2008 }}". ''The Evening Standard''. Retrieved on 4 February 2008.&lt;/ref&gt; His big break in UK television came in 2003, when he appeared as a guest panellist on news quiz, ''[[Have I Got News for You]]'', subsequently making several appearances as guest host of the show.&lt;ref&gt;"[http://www.paramountcomedy.com/comedy/comedians/comedian.aspx?id=1014 Dara Ó Briain] {{webarchive|url=https://web.archive.org/web/20071024221949/http://www.paramountcomedy.com/comedy/comedians/comedian.aspx?id=1014 |date=24 October 2007 }}". [[Paramount Comedy 1|Paramount UK]]. Retrieved on 25 May 2008.&lt;/ref&gt;
+
+In 2003, Ó Briain was nominated at the ''Chortle Comedy Awards for Live Comedy'' in the categories Best Compère and Best Headline Act (which he would go on to win). In 2004, he won the Best Headliner award again, as well as being nominated for Best Full-length Show. Since 2005, he has been the host of the comedy panel show ''[[Mock the Week]]'' on [[BBC Two]], a blend between ''Have I Got News for You'' and ''[[Whose Line Is It Anyway? (UK TV series)|Whose Line Is It Anyway?]]''. He is a relatively frequent panellist on ''[[QI]]'' and wrote about Ireland in the ''QI'' series E annual, and appears occasionally on ''[[Just a Minute]]'' on [[BBC Radio 4]]. He has also appeared in and hosted the stand-up show ''[[Live at the Apollo (TV series)|Live at the Apollo]]''.
+
+Ó Briain has appeared several times in the [[BBC Radio]] science / comedy show ''[[The Infinite Monkey Cage]]'' which premiered on 30 November 2009 on [[BBC Radio 4|Radio 4]].&lt;ref name=bbc-mc&gt;{{cite web|title=BBC Radio 4 – The Infinite Monkey Cage, Series 1, Episode 1|url=http://www.bbc.co.uk/programmes/b00p29kc|publisher=BBC|accessdate=13 September 2012}}&lt;/ref&gt;
+
+In 2010, Ó Briain replaced [[Adrian Chiles]] as the presenter of ''[[The Apprentice: You're Fired!]]''. After five years, he quit following the 2014 series.&lt;ref&gt;{{cite web |url= http://www.digitalspy.co.uk/tv/s108/the-apprentice/news/a620679/dara--briain-quits-as-host-of-the-apprentice-spinoff-youre-fired.html#~p14z2gkroQBk6C |title=Dara Ó Briain quits as host of The Apprentice spinoff You're Fired |first=Susannah |last=Alexander |work=[[Digital Spy]] |date=10 January 2015|accessdate=19 January 2015}}&lt;/ref&gt;
+
+In 2016, Ó Briain hosted a panel show about video games called ''[[Dara O Briain's Go 8 Bit]]''.&lt;ref&gt;{{cite web |url= http://dave.uktv.co.uk/shows/dara-o-briains-go-8-bit/ |title=Dara Ó Briain's Go 8 Bit | work=[[Dave (TV Channel)|Dave]] |accessdate=1 September 2016}}&lt;/ref&gt; Series 3 began in February 2018.
+
+==Chat shows, television programmes and writing==
+Since 2006, Ó Briain has starred in the BBC's ''[[Three Men in a Boat (TV Series)|Three Men in a Boat]]'' series, with [[Griff Rhys Jones]] and [[Rory McGrath]]. The series has included the trio rowing the [[River Thames]], as in the 1889 novel of the same name, sailing from London to the [[Isle of Wight]] for a sail boat race, borrowing numerous [[watercraft|vessels]] to make their way from [[Plymouth]] to the [[Isles of Scilly]]. In 2009, the three took to the Irish canals and rivers on a trip from [[Dublin]] to [[Limerick]]. In 2010, they explored the Isles of Scotland. Other notable television work includes hosting the BBC sitcom writing competition "Last Laugh".
+
+On 14 September 2005, Ó Briain appeared as a guest on ''[[Room 101 (TV series)|Room 101]]'', where he got rid of children's television presenters (following his work as a presenter on ''Echo Island'') and once-in-a-lifetime experiences (he was given a once-in-a-lifetime experience on the show by being the second guest to pull the lever that opens the chute to Room 101 – the first had been former host Nick Hancock). He also got rid of banter, [[Gillian McKeith]]  and magicians.
+
+Ó Briain has also been an extensive newspaper columnist, with pieces published in many national papers in both the UK and Ireland, from ''[[The Sunday Times (UK)|The Sunday Times]]'' to ''[[Daily Telegraph|The Daily Telegraph]]''. On 9 August 2006, he hosted the first edition of his chat show ''[[Turn Back Time (TV)|Turn Back Time]]''.&lt;ref name="II" /&gt;
+
+On 1 October 2009, Ó Briain released his first book entitled ''Tickling the English'',  about what he considers it means to be English. As part of its promotion, he has stated that he is enthusiastic about [[English culture]] and a student of [[History of England|English history]], his favourite events being the [[Gin Craze]] and the [[English Civil War|civil war]].&lt;ref name="int-natthe"&gt;Dara Ó Briain Interview, National Theatre, 23 October 2009&lt;/ref&gt; In a review of ''Tickling the English'' Ó Briain was described as [[Terry Wogan|Sir Terry Wogan]]'s [[heir apparent]] as Britain's "favourite Irishman".&lt;ref name="ii-irishman"&gt;{{cite news | url = http://www.independent.ie/entertainment/books/dara-the-irishman-1936567.html | title = Dara the Irishman | newspaper = [[Irish Independent]] |publisher = [[Independent News &amp; Media]] | location = Dublin | date = 7 November 2009 | accessdate = 6 May 2010 }}&lt;/ref&gt;
+
+Ó Briain has hosted the [[British Academy Video Games Awards]] in 2009, 2010 and again in 2011 and once more in 2012, when highlights were also shown on [[Challenge (TV channel)|Challenge]].&lt;ref&gt;{{cite web |url= http://www.bafta.org/press/press-releases/game-bafta-video-games-awards-host-announced |title=GAME BAFTA Video Games Awards Host Announced |work=BAFTA |date=26 January 2010 |accessdate=19 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.bafta.org/press/press-releases/game-british-academy-video-games-awards-winners-in-2011 |title=GAME British Academy Video Games Awards Winners in 2011 |work=BAFTA |date=16 March 2011 |accessdate=19 January 2015}}&lt;/ref&gt;
+
+From 3 to 5 January 2011, Ó Briain and [[Brian Cox (physicist)|Brian Cox]] presented ''[[Stargazing Live]]'' on [[BBC Two]], three programmes based at the [[Jodrell Bank Observatory]], scheduled to coincide with the [[Conjunction (astronomy and astrology)|conjunction]] of Jupiter and Uranus, a [[Solar eclipse of January 4, 2011|partial solar eclipse]], and the [[Quadrantids|Quadrantid]] [[meteor shower]].&lt;ref&gt;{{Cite news
+ |url= http://news.bbc.co.uk/local/northeastscotlandnorthernisles/hi/people_and_places/nature/newsid_9318000/9318210.stm
+ |title= Stargazing Live
+ |work=news.bbc.co.uk
+ |accessdate=4 January 2011
+ |date=23 December 2010
+}}&lt;/ref&gt; The two presenters hosted a second series of three-hour-long programmes, plus follow-up 30-minute shows called ''Stargazing Live: Back to Earth'', from 16 to 18 January 2012.  From 8 to 10 January 2013, they presented the third series, again accompanied by ''Back to Earth''.&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/|title=Home|website=Radio Times}}&lt;/ref&gt;
+
+From 16 April 2012, Ó Briain presented an eight-episode series of ''[[Dara Ó Briain: School of Hard Sums|School of Hard Sums]]'' with co-host [[Marcus du Sautoy]] on [[Dave (TV channel)|Dave]].  Each episode was themed and Ó Briain along with a guest attempted to solve various conundrums posted by du Sautoy. Series 2 began on 1 May 2013. On 6 November 2012, Ó Briain began presenting a series called ''[[Dara Ó Briain's Science Club]]'', in which he and other celebrities discuss science issues. The first edition of this programme features [[Ed Byrne (comedian)|Ed Byrne]] talking about how closely related he is to the [[Neanderthals]]. Each episode in the series includes a short animated history that has been created by the UK animation and illustration agency [[12Foot6]].&lt;ref&gt;{{cite web|url=http://folksonomy.co/?keyword=35400 |title=UK animation and illustration agency 12Foot6 |publisher=Folksonomy.co |accessdate=30 December 2012}}&lt;/ref&gt;
+
+In 2013, Ó Briain joined [[Jack Dee]], [[Chelsee Healey]], [[Greg James]], [[Melanie C]] and [[Philips Idowu]] in ''Through Hell and High Water'', a [[Comic Relief]] challenge which involved British celebrities canoeing the most difficult rapids of the [[Zambezi River]]. They raised over £1 million for the charity.
+
+''[[Dara and Ed's Great Big Adventure]]'', a 2015 three-part [[fly-on-the-wall]] television series, followed Ó Briain and Ed Byrne on their journey by car down the [[Pan-American Highway]].&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b05pc177|title=Dara and Ed's Great Big Adventure - BBC Two|website=BBC}}&lt;/ref&gt;
+
+In June 2015, ''Dara Ó Briain Meets Stephen Hawking'', in which Ó Briain travels to Cambridge for a series of interviews with theoretical physicist [[Stephen Hawking]], aired on BBC One.
+
+From January to March 2016, Ó Briain presented ''Tomorrow’s Food'', a three-episode series alongside [[Angela Hartnett]], [[Chris Bavin]] and Dr Shini Somara. The [[BBC One]] show looked at the technologies and produce in farms, supermarkets, kitchens and restaurants around the world.&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/programmes/articles/42ssmBZdhZ0rRBTRQnJJ1NB/presenter-biographies  |title=Tomorrow’s Food- Presenter Biographies |publisher=BBC |accessdate=July 13, 2016}}&lt;/ref&gt;
+
+Ó Briain presented the 2016 reboot of ''[[Robot Wars (TV series)|Robot Wars]]'' starting on 24 July, as well as the subsequent 2 series in 2017.
+
+==Film work==
+Ó Briain had a cameo role as a generalised [[alternative comedy|alternative comedian]] in the 2013 British film ''[[The Look of Love (film)|The Look of Love]]'' directed by [[Michael Winterbottom]].
+
+==Personal life==
+Ó Briain married his wife Susan, a surgeon, in 2006;&lt;ref&gt;{{cite news| url=https://www.telegraph.co.uk/culture/tvandradio/5712453/Interview-Dara-OBriain.html |work=The Daily Telegraph | location=London |title=Interview: Dara Ó Briain tells Andrew Pettie that ''Mock the Week'' doesn't discriminate against women. |date=2 July 2009 |accessdate=1 May 2010}}&lt;/ref&gt; they live in West London with their two children.&lt;ref&gt;{{cite news| url=https://www.independent.co.uk/news/people/profiles/dara-o-briain-can-nothing-stop-this-mans-takeover-of-our-tv-screens-7645960.html |work=The Independent |first=Emily |last=Dugan |title=Dara Ó Briain: Can nothing stop this man's takeover of our TV screens? |date=15 April 2012}}&lt;/ref&gt; He was best man at his best friend [[Ed Byrne (comedian)|Ed Byrne]]'s wedding in 2008 after Byrne had previously been Ó Briain's best man.&lt;ref&gt;[[Mock the Week]], Series 10 Episode 12&lt;/ref&gt; He describes himself as looking like "one of [[Tony Soprano]]'s henchmen, on a bad day", and admits that, "living in London I probably only get recognised about once a day. And that's okay by me. I'm not a celebrity. And I certainly don't see myself as one."&lt;ref name="ugg"&gt;Taylor, Richie. "[http://www.independent.ie/entertainment/tv-radio/ill-never-be-a-famous-face-im-an-ugly-bloke-1290055.html I'll never be a famous face. I'm an ugly bloke!]". ''[[Irish Independent]]'', 15 February 2008. Retrieved on 15 November 2008.&lt;/ref&gt;
+
+Ó Briain has said he sees himself as an [[atheist]], but "[[Irish Catholic|ethnically Catholic]]": "I'm staunchly atheist, I simply don't believe in God, even if he believes in me. But I'm still [[Catholicism|Catholic]], of course. Catholicism has a much broader reach than just the religion. I'm technically Catholic, it's the box you have to tick on the census form: 'Don't believe in God, but I do still hate [[Rangers F.C.|Rangers]].{{'"}}&lt;ref&gt;"[http://homepage.eircom.net/%257Eodyssey/Politics/Quotes/Ireland_Society.html Only in Ireland]". [[Eircom]]. Retrieved on 12 November 2008.&lt;/ref&gt;
+
+His surname is the original Irish form of O'Brien. He said, "My dad was involved in the Irish language movement and changed it. Even Irish people are now confused by it".&lt;ref name="ugg"/&gt;
+
+Ó Briain is an [[Arsenal F.C.]] fan,&lt;ref&gt;{{cite news|url=https://www.theguardian.com/football/blog/2009/aug/15/dara-o-briain-arsenal-premier-league |title=Every week there'll be a new 'Crisis' to mock |work=[[The Guardian]]|accessdate=16 August 2009 |last=Ó Briain |first=Dara |date=15 August 2009 }}&lt;/ref&gt; and he is also a fan of [[Gaelic games]]. When his tweet congratulating [[London GAA|London]] on knocking [[Sligo GAA|Sligo]] out of the 2013 [[All-Ireland Senior Football Championship|Football Championship]] was read out on ''[[The Sunday Game]]'', Ó Briain expressed amazement and vowed to try to have one read out every week.&lt;ref&gt;{{cite web |url=https://twitter.com/daraobriain/status/338769005181550593 |title=I didn't know there was a chance of getting a tweet on ''The Sunday Game''. Will definitely be trying to achieve that every week. |date=26 May 2013 |accessdate=26 May 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |first=Sean |last=Nolan |url=http://www.joe.ie/gaa/the-championship/monday-morning-corner-back-ohara-tears-into-walshobriain-on-the-sunday-game-and-prediction-woes-0038278-1 |title=Monday Morning Corner Back: O'Hara tears into Walsh, O'Briain on the Sunday Game and prediction woes |work=JOE |date=27 May 2013|accessdate=27 May 2013}}&lt;/ref&gt; Ó Briain has also expressed an interest in Irish [[cricket]], and has written about the subject for the ''[[The Guardian|Guardian]]'' newspaper.&lt;ref&gt;{{cite web |url= https://www.theguardian.com/sport/blog/2010/may/08/ireland-england-cricket-world-twenty20 |title=Ask England's Twenty20 team: only weather can rein in Irish cricket |first=Dara |last=Ó Briain |work=The Guardian |date=8 May 2010 |accessdate=19 January 2015}}&lt;/ref&gt;
+
+&lt;!-- Please see discussion on Talk page before editing this section. Thanks. --&gt;
+Ó Briain was one of fifteen members of a racing greyhound syndicate for several years.&lt;ref name=Mail&gt;{{cite news|url=http://findarticles.com/p/news-articles/mail-on-sunday-london-england-the/mi_8003/is_2010_Jan_31/daras-dog-starred-men-comedian/ai_n48850564/?tag=content;col1 |title=Dara's dog starred in ''Three Men'' after she was put down; Comedian too upset to talk about death of his greyhound Snip Nua |publisher=findarticles.com |accessdate=21 February 2010 |date=31 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20130814221103/http://findarticles.com/p/news-articles/mail-on-sunday-london-england-the/mi_8003/is_2010_Jan_31/daras-dog-starred-men-comedian/ai_n48850564/?tag=content%3Bcol1 |archivedate=14 August 2013 |df= }}&lt;/ref&gt; The December 2009 transmission of ''Three Men Go to Ireland'' featured their dog [[Snip Nua]] who, by the time of transmission, had been [[animal euthanasia|put down]] following injuries sustained in a race. Ó Briain was so upset about the death that he and his fellow syndicate members immediately disbanded the syndicate permanently.&lt;ref name="Mail" /&gt; In early 2010 a series of small demonstrations were held outside some of Ó Briain's tour venues, urging him to publicly denounce the sport of [[greyhound racing]] due to the dog's death.&lt;ref&gt;{{cite news |url=http://www.thefreelibrary.com/IT%27S+A+DOG%27S+%2c+LIFE+DARA%3b+Activists+target+comic+after+his+greyhound...-a0224796604 |title=It's a dog's life Dara; Activists target comic after his greyhound dies |work=Sunday Mirror) |first=Darren |last=Boyle  |date=25 April 2010 |accessdate=19 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://www.indymedia.org.uk/en/2010/04/449445.html |title=Greyhound death demo greets Dara |first=Tony |last=Peters |work=UK Indymedia |date=21 April 2010 |accessdate=19 January 2015}}&lt;/ref&gt;
+
+==Stand-up DVDs==
+{| class="wikitable" border="1"
+|-
+!Title
+!Released
+!Venue
+|-
+| ''Live at the Theatre Royal''
+| 13 November 2006
+| [[Theatre Royal, Drury Lane|Theatre Royal]], London
+|-
+| ''Dara Ó Briain Talks Funny – Live in London''
+| 17 November 2008
+| [[Hammersmith Apollo]], London
+|-
+| ''This Is the Show''
+| 22 November 2010
+| [[Hammersmith Apollo]], London
+|-
+| ''Craic Dealer''
+| 12 November 2012
+| [[Edinburgh Playhouse|The Playhouse]], Edinburgh
+|-
+| ''Crowd Tickler''
+| 23 November 2015
+| [[Hammersmith Apollo]], London
+|}
+
+==See also==
+* [[Auditors of the Literary and Historical Society (University College Dublin)]]
+
+==References==
+
+{{Reflist|2}}
+
+==External links==
+{{wikiquote}}
+* {{official website}}
+* {{IMDb name|id=1465223|name=Dara Ó Briain}}
+* [http://www.chortle.co.uk/comics/d/321/dara_o_briain/review Dara Ó Briain on Chortle]
+
+{{Meteor Music Awards hosts}}
+{{Authority control}}
+
+{{DEFAULTSORT:Obriain, Dara}}
+[[Category:1972 births]]
+[[Category:20th-century Irish people]]
+[[Category:21st-century Irish people]]
+[[Category:Living people]]
+[[Category:Auditors of the Literary and Historical Society (University College Dublin)]]
+[[Category:Alumni of University College Dublin]]
+[[Category:Echo Island presenters]]
+[[Category:Former Roman Catholics]]
+[[Category:Irish atheists]]
+[[Category:Irish expatriates in the United Kingdom]]
+[[Category:Irish male comedians]]
+[[Category:Irish stand-up comedians]]
+[[Category:Irish television personalities]]
+[[Category:People from Bray, County Wicklow]]
+[[Category:The Panel (Irish TV series) presenters]]
+[[Category:Robot Wars presenters]]</text>
+      <sha1>9ge8a5egk52jv9jszccpjq1fbf82ul2</sha1>
+    </revision>
+  </page>
+</mediawiki>

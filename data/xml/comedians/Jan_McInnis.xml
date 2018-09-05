@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jan McInnis</title>
+    <ns>0</ns>
+    <id>28846852</id>
+    <revision>
+      <id>839860086</id>
+      <parentid>830148235</parentid>
+      <timestamp>2018-05-06T05:04:09Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP;add/change/refine category; MOS fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2950">{{Multiple issues|
+{{orphan|date=September 2010}}
+{{one source|date=October 2010}}
+{{notability|Biographies|date=October 2010}}
+{{like resume|date=June 2012}}
+{{cleanup|date=September 2010}}
+}}
+
+'''Jan McInnis''' is an American [[Stand-up comedy|stand-up comedian]] and professional speaker. McInnis specializes in comedy shows and humor [[keynote]]s for corporations, associations, and company events. Her act is clean and original, and it focuses on work (she spent 15 years as a marketing professional before comedy), family and day-to-day life. She has performed at hundreds of conferences and professional events, for groups such as the [[Mayo Clinic]], [[Anthem Blue Cross]], the [[Federal Reserve Bank of Atlanta]], the [[American Bankers Association]], and [[Pep Boys]].
+
+McInnis was born in [[Washington, D.C.]] and grew up in [[Arlington, Virginia]] before moving to [[Los Angeles]] in 2000. She graduated from [[Virginia Polytechnic Institute and State University|Virginia Tech]] with a degree in Communications. She was a [[Disc jockey|disk jockey]] (DJ) at Virginia Tech's [[punk rock]] radio station, and played the drums in the marching band. She went on to work for the National Ocean Service, the National Academy of Sciences on the original "Planet Earth" PBS television series, and several associations including a construction trade association and the Optical Society of America. She started her comedy career in 1994 working in comedy clubs throughout the county, and then moved into the convention market.
+
+McInnis has been featured in the Wall Street Journal and the Washington Post for her clean humor and her clean comedy writing. She has sold comedy material to radio stations, late night television, syndicated comic strips, greeting cards, and individuals. She was the Washington, DC winner for the HBO Stand-up, Stand-off comedy contest, and she has been featured on XM Satellite Radio, KLOS Five O-Clock Funnies and hundreds of other radio stations. At one point she had a weekly radio comedy bit titled "Cubicle Comedy from The Work Lady". In addition to her comedy show (titled Cubicle Comedy), she also offers 2 humor keynotes – Finding the Funny in Change and Finding the Funny in Communications, and she has hosted many events with her Hilarious Hosting. McInnis has also been a favorite entertainer at holiday parties throughout the country.
+
+McInnis is author of the book Finding the Funny FAST: how to create quick humor to connect with clients, coworkers and crowds.
+
+==References==
+:1. Washington Post – on writing clean punch lines.
+:2. The Wall Street Journal – Comedy Comes Clean article
+:3. ^ KLOS Five O-Clock Funnies
+
+==External links==
+* [http://theworklady.com Official website]
+
+{{DEFAULTSORT:McInnis, Jan}}
+[[Category:Living people]]
+[[Category:American stand-up comedians]]
+[[Category:American women comedians]]
+[[Category:Virginia Tech alumni]]
+[[Category:Radio personalities from Virginia]]</text>
+      <sha1>ap550fsp0xvzh68jof08nvhrjoqibr6</sha1>
+    </revision>
+  </page>
+</mediawiki>

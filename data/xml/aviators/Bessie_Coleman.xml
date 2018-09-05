@@ -1,0 +1,201 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bessie Coleman</title>
+    <ns>0</ns>
+    <id>273081</id>
+    <revision>
+      <id>855686509</id>
+      <parentid>854042820</parentid>
+      <timestamp>2018-08-20T03:31:33Z</timestamp>
+      <contributor>
+        <username>Natalie Bueno Vasquez</username>
+        <id>24372172</id>
+      </contributor>
+      <comment>Added citation for DOB &amp; DOD</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27432">{{pp-move-indef}}
+{{Use mdy dates|date=October 2012}}
+{{Infobox person 
+| name             = Bessie Coleman
+| image            = Bessie Coleman, First African American Pilot - GPN-2004-00027.jpg
+| birth_date       = {{birth date |1892|1|26|mf=yes}}
+| birth_place      = [[Atlanta, Texas]], U.S.
+| death_date       = {{death date |1926|4|30|mf=yes}} (age 34)
+| death_place      = [[Jacksonville, Florida]], U.S.
+| occupation       = Pilot
+| known_for        = [[Aviator]]
+| nationality      = American
+| spouse           = Claude Glenn (1917) separated soon after&lt;ref name="marri"&gt;{{cite web |author= Roni Morales|title= Bessie Coleman - Aviator|url=http://www.rootsweb.ancestry.com/~txecm/bessie_coleman.htm|date=November 1, 2014 |publisher= [[Rootsweb]]|accessdate=December 17, 2017}}&lt;/ref&gt; 
+| burial_place     = [[Lincoln Cemetery (Cook County)|Lincoln Cemetery]], Cook County, Illinois
+}}
+
+'''Bessie Coleman''' (January 26, 1892{{spaced ndash}}April 30, 1926)&lt;ref&gt;{{Cite news|url=https://www.britannica.com/biography/Bessie-Coleman|title=Bessie Coleman {{!}} American aviator|work=Encyclopedia Britannica|access-date=2018-08-20|language=en}}&lt;/ref&gt;was an American [[civil aviation|civil aviator]]. She was the first woman of [[African-American]] descent and the first of [[Native Americans in the United States|Native American]] descent, to hold a [[Pilot certification in the United States|pilot]] license.&lt;ref name="PBS"&gt;{{cite web |url=https://www.pbs.org/wgbh/amex/flygirls/peopleevents/pandeAMEX02.html |title=Bessie Coleman (1892-1926) |website=PBS.org |accessdate=March 3, 2010 |archiveurl=https://web.archive.org/web/20170326115727/https://www.pbs.org/wgbh/amex/flygirls/peopleevents/pandeAMEX02.html |archivedate=March 26, 2017}}&lt;/ref&gt;&lt;ref name="Women in Aviation International"&gt;{{cite web |website=Women in Aviation International |title=Some Notable Women In Aviation History |url=http://www.wai.org/resources/history.cfm |accessdate=April 10, 2008 |archiveurl=https://web.archive.org/web/20160629144039/http://www.wai.org/resources/history.cfm |archivedate=June 29, 2016}}&lt;/ref&gt;&lt;ref name="essence"/&gt;
+She achieved her [[Pilot licensing and certification|international pilot license]] in 1921.&lt;ref name="Women in Aviation International"/&gt;&lt;ref name="essence"/&gt;&lt;ref name="phof"&gt;{{cite web |website=Women in Aviation International |title=Pioneer Hall of Fame |url=http://www.wai.org/pioneers/1995pioneers.cfm |accessdate=April 10, 2008 |archiveurl=https://web.archive.org/web/20080327073439/http://www.wai.org/resources/pioneers.cfm#1995 |archivedate=March 27, 2008}}&lt;/ref&gt; Born to a family of [[sharecroppers]] in [[Texas]], she went into the cotton fields at a young age but also studied in a small [[Racial segregation in the United States|segregated]] school and went on to attend one term of college at [[Langston University]].  She developed an early interest in flying, but African Americans, Native Americans, and women had no flight-school opportunities in the United States, so she saved up money to go to [[France]] to become a licensed pilot. She soon became a successful [[air show]] pilot in the United States, and hoped to start a school for African-American fliers.  She died in a plane crash in 1926 while testing her new aircraft.  Her pioneering role was an inspiration to early pilots and to the African-American and Native American communities.
+
+==Early life==
+Coleman was born on January 26, 1892, in [[Atlanta, Texas]], the tenth of thirteen children to sharecroppers George Coleman, who was mostly [[Cherokee]] and part African-American, and Susan Coleman, who was mostly African-American.&lt;ref name="Texas_Takes_Wing"&gt;{{cite book |last=Ganson |first=Barbara |date=2014 |title=Texas Takes Wing: A Century of Flight in the Lone Star State |location=Austin, Texas |publisher=University of Texas Press |page=46 |isbn=978-0-292-75408-9}}&lt;/ref&gt;&lt;ref name="essence"&gt;{{cite web |url=https://www.nrcs.usda.gov/wps/portal/nrcs/detail/nv/about/?cid=nrcs144p2_037528 |title=Women in History: Bessie Coleman |first=David H. |last=Onkst |accessdate=January 5, 2016 |year=2016 |website=Natural Resources Conservation Service Nevada}}&lt;/ref&gt;&lt;ref name="Texas_Roots"&gt;{{cite web |title=Texas Roots |url=http://www.bessiecoleman.com/Other%20Pages/texas.html |website=BessieColeman.com |publisher=Atlanta Historical Museum |year=2008 |accessdate=January 22, 2008}}&lt;/ref&gt; When Coleman was two years old, her family moved to [[Waxahachie, Texas]], where she lived until age 23.&lt;ref name="Texas_Roots" /&gt; Coleman began attending school in Waxahachie at the age of six. She had to walk four miles each day to her segregated, one-room school, where she loved to read and established herself as an outstanding math student. She completed all eight grades in that school. Every year, Coleman's routine of school, chores, and church was interrupted by the cotton harvest. In 1901, George Coleman left his family. He returned to [[Oklahoma]], or [[Indian Territory]], as it was then called, to find better opportunities; but Susan and her family did not go along. At the age of 12, Bessie was accepted into the Missionary Baptist Church School on scholarship. When she turned eighteen, she took her savings and enrolled in the Oklahoma Colored Agricultural and Normal University (now called [[Langston University]]) in [[Langston, Oklahoma|Langston]]. She completed one term before her money ran out and she returned home.&lt;ref&gt;{{cite web |url=http://www.tshaonline.org/handbook/online/articles/fcobq |title=Coleman, Bessie |website=The Handbook of Texas Online |last1=Morales |first1=Roni |publisher=Texas State History Association |archiveurl=https://web.archive.org/web/20111224053347/http://www.tshaonline.org/handbook/online/articles/fcobq |archivedate=December 24, 2011 |deadurl=no |accessdate=May 19, 2013|quote=Upon graduation from high school, she enrolled at the Colored Agricultural and Normal University (now Langston University) in Langston, Oklahoma. Financial difficulties, however, forced her quit after one semester.}}&lt;/ref&gt;
+
+==Career==
+
+===Chicago===
+In 1916 at the age of 24, she moved to [[Chicago]], Illinois, where she lived with her brothers.  In Chicago, she worked as a [[manicurist]] at the White Sox Barber Shop. There she heard stories from pilots returning home from [[World War I]] about flying during the war. She took a second job at a chili parlor to procure money faster to become a pilot.&lt;ref&gt;{{cite journal |last1=Creasman |first1=Kim |title=Black Birds in the Sky: The Legacies of Bessie Coleman and Dr. Mae Jemison |journal=The Journal of Negro History |date=Winter 1997 |volume=82 |issue=1 |page=159 |jstor=2717501}}&lt;/ref&gt; As American flight schools of the time admitted neither women nor blacks, [[Robert S. Abbott]], founder and publisher of the ''[[Chicago Defender]]'', encouraged her to study abroad.&lt;ref name="PBS"/&gt; Coleman received financial backing from banker [[Jesse Binga]] and the ''Defender''.&lt;ref&gt;{{cite web |url=http://www.biography.com/articles/Bessie-Coleman-36928 |title=Bessie Coleman biography |website=Biography.com |accessdate=January 20, 2011 |archiveurl=https://web.archive.org/web/20110907013619/http://www.biography.com/articles/Bessie-Coleman-36928 |archivedate=September 7, 2011}}&lt;/ref&gt;
+
+===France===
+[[File:Coleman-licens.jpg|thumb|250px|right|Coleman's aviation license.]]
+Coleman took a French-language class at the [[Berlitz Language Schools|Berlitz school]] in Chicago and then traveled to [[Paris]] on November 20, 1920 so she could earn her pilot license. She learned to fly in a [[Nieuport 82]] biplane with "a steering system that consisted of a vertical stick the thickness of a [[baseball bat]] in front of the pilot and a [[rudder#Aircraft rudders|rudder]] bar under the pilot's feet."&lt;ref name=rich&gt;{{cite book |last=Rich |first=Doris |title=Queen Bess: Daredevil Aviator |pages=37, 47, 57, 109–111, 145 |location=Washington |publisher=Smithsonian Institution Press |year=1993 |isbn=1-56098-265-9}}&lt;/ref&gt; On June 15, 1921, Coleman became the first woman of African-American and Native American descent to earn an aviation pilot's license and the first person of African-American and Native American descent to earn an international aviation license from the [[Fédération Aéronautique Internationale]].{{cn|date=June 2018}} Determined to polish her skills, Coleman spent the next two months taking lessons from a French ace pilot near Paris and in September 1921 she sailed for New York. She became a media sensation when she returned to the United States.
+
+===Airshows===
+{{quote box|quoted=true |bgcolor=#F3F0FD |salign=right|quote=The air is the only place free from prejudices. 
+I knew we had no aviators, neither men nor women, and I knew the Race needed to be represented along this most 
+important line, so I thought it my duty to risk my life to learn aviation... |source=– Bessie Coleman &lt;ref&gt;{{cite web |url=http://blackhistorypages.net/pages/bcoleman.php |title=Bessie Coleman |website=Black History pages (BHP)}}&lt;/ref&gt;|align=left |width=250px}}
+
+With the age of commercial flight still a decade or more in the future, Coleman quickly realized that in order to make a living as a civilian aviator she would have to become a "[[barnstorming]]" stunt flier, and perform for paying audiences. But to succeed in this highly competitive arena, she would need advanced lessons and a more extensive repertoire. Returning to Chicago, Coleman could not find anyone willing to teach her, so in February 1922, she sailed again for Europe. She spent the next two months in France completing an advanced course in aviation, then left for the [[Netherlands]] to meet with [[Anthony Fokker]], one of the world's most distinguished aircraft designers. She also traveled to Germany, where she visited the [[Fokker]] Corporation and received additional training from one of the company's chief pilots. She then returned to the United States to launch her career in exhibition flying.&lt;ref name=rich/&gt;
+
+"Queen Bess," as she was known, was a highly popular draw for the next five years. Invited to important events and often interviewed by newspapers, she was admired by both blacks and whites. She primarily flew [[Curtiss JN-4]] "Jenny" [[biplanes]] and other aircraft which had been army surplus aircraft left over from the war. She made her first appearance in an American [[airshow]] on September 3, 1922, at an event honoring veterans of the all-black [[369th Infantry Regiment (United States)|369th Infantry Regiment]] of [[World War I]]. Held at [[Roosevelt Field, New York|Curtiss Field]] on [[Long Island, New York|Long Island]] near New York City and sponsored by her friend Abbott and the ''Chicago Defender'' newspaper, the show billed Coleman as "the world's greatest woman flier"&lt;ref&gt;{{cite news |last=Toth |first=Maria Lynn |date=10 February 2001 |url=http://www.latimes.com/features/kids/readingroom/la-et-story10-feb10-2006,0,7374705,full.story |title=Daredevil of the Sky: The Bessie Coleman Story |newspaper=Los Angeles Times |accessdate=February 24, 2011 |archiveurl=https://web.archive.org/web/20121105072047/http://www.latimes.com/features/kids/readingroom/la-et-story10-feb10-2006,0,7374705,full.story |archivedate=November 5, 2012}}&lt;/ref&gt; and featured aerial displays by eight other American ace pilots, and a jump by black parachutist [[Hubert Julian]].&lt;ref&gt;{{cite news |url=https://www.nytimes.com/1922/09/04/archives/negress-pilots-airplane-bessle-coleman-makes-three-flights-for.html |title=Negress Pilots Airplane: Bessie Coleman Makes Three Flights for Fifteenth Infantry |newspaper=The New York Times |date=September 4, 1922 |page=9 |subscription=yes}}&lt;/ref&gt; Six weeks later she returned to Chicago to deliver a stunning demonstration of daredevil maneuvers—including figure eights, loops, and near-ground dips to a large and enthusiastic crowd at the Checkerboard Airdrome (now the grounds of Hines Veterans Administration Medical Center, Hines, Illinois, Loyola Hospital, Maywood, and nearby Cook County Forest Preserve).&lt;ref&gt;{{cite web |url=http://www.encyclopedia.chicagohistory.org/pages/1483.html |title=Bessie Coleman: Pioneer Chicago Aviator |last=Keating |first=Ann Durkin |date=2005 |work=Encyclopedia of Chicago |accessdate=February 28, 2017}}&lt;/ref&gt;
+
+But the thrill of stunt flying and the admiration of cheering crowds were only part of Coleman's dream. Coleman never lost sight of her childhood vow to one day "amount to something." As a professional aviatrix, Coleman would often be criticized by the press for her opportunistic nature and the flamboyant style she brought to her exhibition flying. However, she also quickly gained a reputation as a skilled and daring pilot who would stop at nothing to complete a difficult stunt. In Los Angeles she broke a leg and three ribs when her plane stalled and crashed on February 22, 1923.
+[[File:Bessie Coleman and her plane (1922).jpg|thumb|Bessie Coleman, c.1922.]]
+
+In the 1920s, in Orlando, Florida on a speaking tour, she met the Rev. Hezakiah Hill and his wife Viola, community activists who invited her to stay with them at the parsonage of Mount Zion Missionary Baptist Church on Washington Street in the neighborhood of [[Parramore]].  A local street was renamed  "Bessie Coleman" Street in her honor in 2013. The couple, who treated her as a daughter, persuaded her to stay and Coleman opened a beauty shop in Orlando to earn extra money to buy her own plane.&lt;ref name="os"&gt;{{cite news |url=http://www.orlandosentinel.com/news/orange/os-black-pilot-bessie-coleman-orlando-20150131-story.html |title=Orlando renames street in honor of black 'daredevil aviatrix' |first=Stephen |last=Hudak |date=January 31, 2015 |newspaper=[[Orlando Sentinel]]}}&lt;/ref&gt;
+
+Through her media contacts, she was offered a role in a feature-length film titled ''Shadow and Sunshine'', to be financed by the African American Seminole Film Producing Company. She gladly accepted, hoping the publicity would help to advance her career and provide her with some of the money she needed to establish her own flying school. But upon learning that the first scene in the movie required her to appear in tattered clothes, with a walking stick and a pack on her back, she refused to proceed. ''"Clearly ... [Bessie's] walking off the movie set was a statement of principle. Opportunist though she was about her career, she was never an opportunist about race. She had no intention of perpetuating the derogatory image most whites had of most blacks"'' wrote Doris Rich.&lt;ref name=rich/&gt;
+
+Coleman would not live long enough to establish a school for young black aviators but her pioneering achievements served as an inspiration for a generation of African-American men and women. "Because of Bessie Coleman," wrote Lieutenant [[William J. Powell]] in ''Black Wings'' (1934), dedicated to Coleman, "we have overcome that which was worse than racial barriers. We have overcome the barriers within ourselves and dared to dream."&lt;ref&gt;{{cite book |last=Powell |first=William J. |title=Black Wings |location=Los Angeles |publisher=Ivan Deach, Jr. |year=1934 |oclc=3261929}}&lt;/ref&gt; Powell served in a segregated unit during [[World War I]], and tirelessly promoted the cause of black aviation through his book, his journals, and the Bessie Coleman Aero Club, which he founded in 1929.&lt;ref&gt;{{cite book |last=Broadnax |first=Samuel L. |title=Blue Skies, Black Wings: African American Pioneers of Aviation |page=17 |location=Westport, CT |publisher=Praeger |year=2007 |isbn=0-275-99195-4}}&lt;/ref&gt;
+&lt;ref name=rich&gt;{{cite book |last=Rich |first=Doris |title=Queen Bess: Daredevil Aviator |pages=37, 47, 57, 109–111, 145 |location=Washington |publisher=Smithsonian Institution Press |year=1993 |isbn=1-56098-265-9}}&lt;/ref&gt;
+
+==Death==
+On April 30, 1926, Coleman was in [[Jacksonville, Florida]]. She had recently purchased a Curtiss JN-4 (Jenny) in [[Dallas]]. Her mechanic and publicity agent, 24-year-old William D. Wills, flew the plane from Dallas in preparation for an airshow but had to make three [[emergency landing|forced landings]] along the way because the plane had been so poorly maintained.&lt;ref&gt;{{cite web |url=http://biography.yourdictionary.com/bessie-coleman |title=Bessie Coleman Facts |work=yourdictionary.com}}&lt;/ref&gt; Upon learning this, Coleman's friends and family did not consider the aircraft safe and implored her not to fly it. On take-off, Wills was flying the plane with Coleman in the other seat. She had not put on her seatbelt because she was planning a parachute jump for the next day and wanted to look over the cockpit sill to examine the terrain. About ten minutes into the flight the plane unexpectedly went into a [[Dive (aviation)|dive]] and then a [[Spin (flight)|spin]]. Coleman was thrown from the plane at {{convert|2000|ft|m|abbr=on}} and died instantly when she hit the ground. William Wills was unable to regain control of the plane and it plummeted to the ground. Wills died upon impact and the plane exploded and burst into flames. Although the wreckage of the plane was badly burned, it was later discovered that a wrench used to service the engine had jammed the controls. Coleman was 34 years old.&lt;ref name=rich/&gt;
+
+==Honors==
+[[File:BessiesColemanhappy.jpg|imagesize=250px|thumb|Bessie Coleman's portrait.]]
+
+* A public library in Chicago was named in Coleman's honor,&lt;ref&gt;{{cite web |url=https://www.chipublib.org/about-coleman-branch/ |title=About Coleman Branch |author= |date= |work=Chicago Public Library |accessdate=February 28, 2017}}&lt;/ref&gt; as are roads at [[O'Hare International Airport]] in Chicago,&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/320340442 |title=Bessie Coleman Drive, Chicago |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt; [[Oakland International Airport]] in [[Oakland]], [[California]],&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/53790862 |title=Bessie Coleman Drive, Alameda |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt; [[Tampa International Airport]] in [[Florida]],&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/147380733 |title=Bessie Coleman Boulevard, Tampa |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt; and at Germany's [[Frankfurt International Airport]].&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/38767016 |title=Bessie-Coleman-Straße, Frankfurt |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt; A memorial plaque has been placed by the [[Chicago Cultural Center]] at the location of her former home, 41st and King Drive in Chicago, and it is a tradition for African-American aviators to drop flowers during flyovers of her grave at [[Lincoln Cemetery (Cook County)|Lincoln Cemetery]].&lt;ref&gt;{{cite web |url=http://www.chicagotribute.org/Markers/Coleman.htm |title=Markers of Distinction: Bessie Coleman |website=Chicago Tribute |publisher=City of Chicago, Chicago Cultural Center}}&lt;/ref&gt;
+
+* A roundabout leading to [[Nice Airport]] in the South of France was named after her in March 2016, and there are streets in [[Poitiers]], and the [[20th arrondissement of Paris|20th Arrondissement]] of Paris named after her.&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/39350488 |title=Rue Bessie Coleman, Poitiers |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/178064306 |title=Rue Bessie Coleman, Paris |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt;
+
+* Bessie Coleman Middle School in [[Cedar Hill, Texas]] is named for her.
+
+* Bessie Coleman Boulevard in Waxahachie, Texas, where she lived as a child is named in her honor.&lt;ref&gt;{{cite web |url=http://www.openstreetmap.org/way/60856796 |title=Bessie Coleman Boulevard, Waxahachie |website=Open Street Map |accessdate=13 October 2017}}&lt;/ref&gt;
+
+* B. Coleman Aviation, a [[fixed-base operator]] based at [[Gary/Chicago International Airport]], is named in her honor.&lt;ref&gt;{{cite web |url=http://www.b-coleman.com/about/ |title=About |website=B. Coleman Aviation |accessdate=May 21, 2014}}&lt;/ref&gt;
+
+* Several Bessie Coleman Scholarship Awards have been established for high school seniors planning careers in aviation.
+
+* The U.S. Postal Service issued a 32-cent stamp honoring Coleman in 1995.&lt;ref&gt;{{cite web |title=Stamp Series |website=United States Postal Service |url=http://beyondtheperf.com/stamp-series |accessdate=September 9, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130810160707/http://beyondtheperf.com/stamp-series |archivedate=August 10, 2013 |df=mdy}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://usstampgallery.com/view.php?id=b30836d8dce06d547fbb3f470f8c46c0929fd64c |first1=Richard L. |last1=Sine |first2=Jonathan |last2=Galpin |title=Bessie Coleman |website=US Stamp Gallery.com |accessdate=13 October 2017}}&lt;/ref&gt; The Bessie Coleman Commemorative is the 18th in the U.S. Postal Service Black Heritage series.
+
+* In 2006, she was inducted into the [[National Aviation Hall of Fame]].&lt;ref&gt;{{cite web |url=http://www.nationalaviation.org/our-enshrinees/coleman-bessie/ |title=Coleman, Bessie |website=[[National Aviation Hall of Fame]] |accessdate=13 October 2017}}&lt;/ref&gt;
+
+* In 2012, a bronze plaque with Coleman's likeness was installed on the front doors of [[Paxon School for Advanced Studies]] located on the site of the Jacksonville airfield where Coleman's fatal flight took off.&lt;ref&gt;{{Cite news |last=Soergel |first=Matt |date=October 28, 2013 |title=Looking to honor the daring 'Queen Bess' |newspaper=The Florida Times-Union |page=A-4}}&lt;/ref&gt;
+
+* Coleman was honored with a toy character in season 5, episode 11a of the children's animated television program ''[[Doc McStuffins]]''.
+
+* She was placed No. 14 on ''[[Flying (magazine)|Flying]]''{{'}}s 2013 list of the "51 Heroes of Aviation".&lt;ref&gt;{{cite magazine |url=http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41841 |title=51 Heroes of Aviation |magazine=Flying |date=July 24, 2013}}&lt;/ref&gt;
+*In 2014, Coleman was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+* On January 25, 2015, Orlando renamed West Washington Street to recognize the street's most accomplished resident.&lt;ref name="os" /&gt;
+
+* On January 26, 2017, the 125th anniversary of her birth, a [[Google Doodle]] was posted in her honor.&lt;ref&gt;{{cite web |url=http://www.aljazeera.com/indepth/features/2017/01/bessie-coleman-matter-170126114158228.html |title=Who was Bessie Coleman and why does she still matter? |website=[[AlJazeera]] |date=January 26, 2017}}&lt;/ref&gt;
+
+==See also==
+{{Portal|African American|Biography|Indigenous peoples of North America}}
+*[[Military history of African Americans]]
+*[[Mae Jemison]], the first African-American female astronaut in space, who carried a picture of Bessie Coleman with her on her first mission
+*[[Mary Riddle]], the second Native American woman to earn a pilot's license
+*[[Eugene Bullard]], the first African-American to earn a pilot's license
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal |last=King |first=Anita |title=Brave Bessie: First Black Pilot |series=Parts 1 &amp;amp; 2 (May, June) |journal=Essence Magazine |date=1976}}
+* {{cite book |last=Bilstein |first=Roger |title=Aviation in Texas |location=Austin |publisher=Texas Monthly Press |date=1985 |isbn=9780932012951}}
+* {{cite book |last=Freydberg |first=Elizabeth Hadley |title=Bessie Coleman: The Brownskin Lady Bird |publisher=Garland |date=1994 |isbn=9780815314615}}
+* {{cite book |last=Fisher |first=Lillian M. |title=Brave Bessie: Flying Free |publisher=Hencrick-Long |date=1995 |isbn=9780937460948}}
+* {{cite |last=Hart |first=Philip S. |title=Up in the Air: The Story of Bessie Coleman |publisher=First Avenue Editions |date=1996 |series=Trailblazer Biographies |isbn=978-0876149782}}
+* {{cite book |last=Johnson |first=Dolores |title=She Dared to Fly: Bessie Coleman |location=New York |publisher=Benchmark Books |date=1997 |isbn=978-0761404873}}
+* {{cite book |last=Plantz |first=Connie |title=Bessie Coleman: First Black Woman Pilot |publisher=Enslow Publishers |date=2001  |asin=B01K3N5GUM |series=African-American Biographies}}
+* {{cite book |first=John R. |last=Holway |date=2012 |title=Bessie Coleman: Pioneering Black Woman Aviator |isbn=9780985738914}}
+
+==External links==
+{{Commons category|Bessie Coleman}}
+* {{official website|http://www.bessiecoleman.org/}}
+** {{cite web |url=http://www.bessiecoleman.org/lugemwa.php |title=Captain Tadesse and First Officer Lugemwa from ExpressJet |website=bessiecoleman.org |quote=The legacy of Queen Bess continues!}}
+* {{cite web |url=http://www.bessiecoleman.com/ |title=Bessie Coleman |first=Lynne |last=Spivey |website=bessiecoleman.org |publisher=Atlanta Historical Museum}}&lt;!-- Verified, see: &lt;ref&gt;{{cite news |url=http://atlantacitizensjournal.com/articles/2017/01/26/remembering-bessie-coleman-0 |title=Remembering Bessie Coleman |newspaper=Atlanta citizens Journal |date=January 26, 2017 |quote=Lynne Spivey, former Atlanta City Development Corporation executive director and founder of the Atlanta Historical Museum}}&lt;/ref&gt; --&gt;
+* {{findagrave|19750}}
+* {{cite web |url=http://www.hmdb.org/marker.asp?MarkerID=4848 |title=Bessie Coleman |publisher=Texas Historical Commission |website=Historical Marker Database (HMdb) |date=2002 |archiveurl=https://web.archive.org/web/20160927204800/http://www.hmdb.org/Marker.asp?Marker=13782 |archivedate=September 27, 2016}} {{coord|33|6.848|N|94|9.931|W |type:landmark |display=inline |name=Bessie Coleman historical marker}}
+* Video:
+** {{youtube|wckEiKzCBqc|''The First Female African American Pilot'' (January 4, 2012) Smithsonian channel}}
+** {{cite web |url=http://www.blogger.com/video-play.mp4?contentId=196edbfc57f3d015&amp;type=video/mp4 |title=Bessie Coleman |series=Black History Month |website=[[Nick Jr]] |format=video}}
+** {{cite web |url=http://sheroesofhistory.wordpress.com/2014/03/20/bessie-coleman-shero-of-the-skies/ |website=Sheroes of History |title=Bessie Coleman - Shero of the skies |date=March 20, 2014 |author=katacharin}}
+*** {{youtube|fW722TdKJYU|Sheroes of History - Bessie Coleman (October 10, 2015)}}
+* {{cite web |url=http://www.latebloomerstories.com/2009/07/bessie-coleman-1892-1926.html |title=Bessie Coleman: Late Bloomer |date=July 2009 |website=Late Bloomer stories |first=Belinda |last=Darcey}}
+* {{cite web |url=http://www.hiatoys.com/bessie.html |title=Bessie Coleman: Fearless Fly Girl |website=History in Action (HIA Toys)}}
+
+{{National Women's Hall of Fame}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coleman, Bessie}}
+[[Category:American female aviators]]
+[[Category:1892 births]]
+[[Category:1926 deaths]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:Aviators from Texas]]
+[[Category:Accidental deaths in Florida]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:Deaths by falling out of airplane]]
+[[Category:Native American history]]
+[[Category:People from Atlanta, Texas]]
+[[Category:People from Chicago]]
+[[Category:American people of Cherokee descent]]
+[[Category:American people of Native American descent]]
+[[Category:20th-century African-American people]]
+[[Category:20th-century Native Americans]]</text>
+      <sha1>65yf6ndhyhyiiqx7qqtds5ydw5cvod9</sha1>
+    </revision>
+  </page>
+</mediawiki>

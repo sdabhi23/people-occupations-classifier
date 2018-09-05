@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Brian Binnie</title>
+    <ns>0</ns>
+    <id>739327</id>
+    <revision>
+      <id>847122049</id>
+      <parentid>846439718</parentid>
+      <timestamp>2018-06-23T03:08:07Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>2304267</id>
+      </contributor>
+      <comment>Replacing BrianBinnie.jpg with [[File:Brian_Binnie_by_Don_Ramey_Logan.jpg]] (by [[commons:User:CommonsDelinker|CommonsDelinker]] because: [[:c:COM:FR|File renamed]]: [[:c:COM:FR#FR1|Criterion 1]] (original uploader’s request)).</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6592">{{Use mdy dates|date=April 2014}}
+{{Infobox astronaut
+| name          = William Brian Binnie
+| image         = Brian Binnie by Don Ramey Logan.jpg
+| type          = [[Commercial astronaut]]&lt;br /&gt;[[File:US - FAA Astronaut Wings.png|150px]]
+| nationality   = American
+| birth_date    = {{birth year and age|1953}}
+| death_date    =
+| birth_place   = [[West Lafayette, Indiana]], U.S.
+| death_place   =
+| occupation    = [[Test pilot]]
+| rank          = [[Commander]], [[United States Navy]]
+| selection     = [[List of astronauts by year of selection#2003|SpaceShipOne 2003]]
+| space_time    = ~5 minutes
+| missions      = [[SpaceShipOne flight 17P]]
+| insignia      =
+}}
+
+'''William Brian Binnie''' (born 1953) is a former United States Navy officer and is one of the test pilots for [[SpaceShipOne]], the experimental [[spaceplane]] developed by [[Scaled Composites]].
+
+==History==
+[[File:Wife of astronaut Brian Binnie greets him upon compleation of the final flight photo D Ramey Logan.jpg|thumb|left|Wife Bub Binnie upon completion of the final flight]]
+Binnie was born in [[West Lafayette, Indiana]], where his Scottish father William P. Binnie was a professor of physics at [[Purdue University]]. The family returned to Scotland when Binnie was five, and lived in [[Aberdeen]] (his father taught at [[University of Aberdeen|Aberdeen University]]) and later in [[Stirling]].&lt;ref&gt;{{cite news |url=http://icstirlingshire.icnetwork.co.uk/observer/news/tm_method=full%26objectid=17409899%26siteid=92391-name_page.html |title=Stirling has a space ace |work=Stirling Observer |date=July 19, 2006 |accessdate=November 4, 2006}}&lt;/ref&gt; When Binnie was a teenager the family moved to [[Boston]].&lt;ref&gt;{{cite news |url=http://www.princeton.edu/~paw/archive_new/PAW04-05/09-0223/features4.html |title=Rocket man |work=Princeton Alumni Weekly |first=Kathy |last=Kiely |date=February 23, 2005 |accessdate=November 4, 2006}}&lt;/ref&gt;
+
+Binnie, an alumnus of [[Brown University|Brown]] and [[Princeton University|Princeton]] Universities, served for 21 years in the [[United States Navy]] as a [[United States Naval Aviator|naval aviator]] flying the [[A-7 Corsair II]], [[A-6 Intruder]], [[F/A-18 Hornet]], and [[AV-8B Harrier II]]. He graduated from the [[United States Naval Test Pilot School|U.S. Naval Test Pilot School]] in 1988. Binnie also copiloted the Atmospheric Test Vehicle of the [[Rotary Rocket]]. In 2006, he received an Honorary degree from University of Aberdeen.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/go/pr/fr/-/1/hi/scotland/north_east/5140682.stm |title=Degree for 'first Scot in space' |work=BBC News |date=July 3, 2006 |accessdate=November 4, 2006}}&lt;/ref&gt;
+
+===SpaceShipOne and spaceflight===
+On December 17, 2003, the 100th anniversary of the [[Wright brothers]]' first powered flight, Binnie piloted the first powered test flight of SpaceShipOne, [[SpaceShipOne flight 11P|flight 11P]], which reached a top speed of Mach 1.2 and a height of {{convert|20.7|km|mi|disp=flip}}. On October 4, 2004, he piloted SpaceShipOne's second [[Ansari X Prize]] flight, [[SpaceShipOne flight 17P|flight 17P]], winning the X Prize and becoming the 435th person to go into space. His flight, which peaked at {{convert|367442|ft|mi km|1}}, set a winged aircraft altitude record,&lt;ref name=alt&gt;"[http://www.fai.org/fai-record-file/?recordId=9881 FAI Record ID #9881 – Altitude above the earth's surface with or without maneuvres of the aerospacecraft, Class P-1 (Suborbital missions)] {{webarchive|url=https://web.archive.org/web/20151018225245/http://www.fai.org/fai-record-file/?recordId=9881 |date=October 18, 2015 }}" [http://www.fai.org/fai-record-file/?recordId=10434 Mass] {{webarchive|url=https://web.archive.org/web/20150924043352/http://www.fai.org/fai-record-file/?recordId=10434 |date=September 24, 2015 }} [http://www.fai.org/fai-record-file/?recordId=9882 Time] {{webarchive|url=https://web.archive.org/web/20150924045447/http://www.fai.org/fai-record-file/?recordId=9882 |date=September 24, 2015 }} ''[[Fédération Aéronautique Internationale]] (FAI).'' Retrieved: 21 September 2014.&lt;/ref&gt; breaking the old record set by the [[North American X-15]] in 1963.&lt;ref name="wired041004"&gt;{{cite news |url=https://www.wired.com/science/space/news/2004/10/65212 |title=SpaceShipOne Wins the X Prize |work=[[Wired (magazine)|Wired]] | first=Dan |last=Brekke |date=October 4, 2004 |accessdate=November 4, 2006}}&lt;/ref&gt; It also earned him the second set of [[Astronaut Badge|Astronaut Wings]] to be given by the [[Federal Aviation Administration|FAA]] for a flight aboard a privately operated commercial spacecraft.&lt;ref&gt;{{cite web |url=http://www.faa.gov/data_research/commercial_space_data/current_licenses/ |title=Active Commercial Space Licenses |work=FAA.gov |accessdate=May 3, 2009}}&lt;/ref&gt;
+
+===After space-shot===
+In 2014 Binnie joined [[XCOR Aerospace]] as senior engineer and [[test pilot]], after working as a test pilot and program business manager for [[Scaled Composites]] for many years.&lt;ref name=sn20140403&gt;{{cite news |url=http://www.spacenews.com/article/features/40089spaceship-pilot-joins-rival-firm |title=Spaceship Pilot Joins Rival Firm |work=Space News |first=Irene |last=Klotz |date=April 3, 2014 |accessdate=April 4, 2014}}&lt;/ref&gt;
+
+==Quotes==
+{{quote|I wake up every morning and thank God I live in a country where all of this is possible. Where you have the Yankee ingenuity to roll up your sleeves, get a band of people who believe in something and go for it and make it happen. It doesn't happen anywhere else.|Brian Binnie|October 4, 2004, after completing flight 17P&lt;ref name="wired041004" /&gt;}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal|Biography}}
+{{commons category|Brian Binnie}}
+* [http://www.scaled.com/projects/tierone/pilots/brian_binnie Biography at Scaled Composites website]
+* [http://www.spacefacts.de/bios/astronauts/english/binnie_brian.htm Biography at SpaceFacts.de]
+
+{{The Spaceship Company}}
+{{Scaled Composites}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Binnie, Brian}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:American astronauts]]
+[[Category:Aviators from Indiana]]
+[[Category:Brown University alumni]]
+[[Category:Princeton University alumni]]
+[[Category:Commercial astronauts]]
+[[Category:Scaled Composites]]
+[[Category:Scaled Composites Tier One program]]
+[[Category:United States Navy officers]]
+[[Category:United States Naval Aviators]]
+[[Category:American test pilots]]
+[[Category:Flight altitude record holders]]
+[[Category:American people of Scottish descent]]
+[[Category:American aviation record holders]]</text>
+      <sha1>6yrhyw8jh7lu3qktof910b4psof2x9p</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,483 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yuri Gagarin</title>
+    <ns>0</ns>
+    <id>34226</id>
+    <revision>
+      <id>853955281</id>
+      <parentid>849084867</parentid>
+      <timestamp>2018-08-08T01:03:58Z</timestamp>
+      <contributor>
+        <username>Audaciter</username>
+        <id>5839510</id>
+      </contributor>
+      <minor/>
+      <comment>/* Soviet Air Force */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="59350">{{Redirect|Gagarin}}
+{{About|the Russian cosmonaut|the Swedish rock band|Yuri Gagarin (band)}}
+{{pp-semi-indef}}
+{{Eastern Slavic name|Alekseyevich|Gagarin}}
+{{Use dmy dates|date=October 2015}}
+{{Infobox astronaut
+|name        = Yuri Gagarin
+|image       = Yuri-Gagarin-1961-Helsinki-crop.jpg
+|caption     = Gagarin in [[Helsinki]], 1961
+|type        = [[File:Gagarin Signature.svg|150px]]&lt;br/&gt;[[Soviet space program|Soviet]] cosmonaut
+|native_name = Ю́рий Алексе́евич Гага́рин
+|nationality = Soviet
+|birth_name  = Yuri Alekseyevich Gagarin
+|birth_date  = {{Birth date|df=yes|1934|3|9}}
+|birth_place = [[Klushino]], [[Russian SFSR]], Soviet Union
+|death_date  = {{Death date and age|df=yes|1968|3|27|1934|3|9}}
+|death_place = [[Novosyolovo]], Russian SFSR, Soviet Union
+|resting_place = [[Kremlin Wall Necropolis]]
+|occupation  = [[Pilot (aircraft)|Pilot]]
+|rank        = [[File:CCCP air-force Rank polkovnik infobox.svg|x15px]] Colonel ([[Polkovnik]]), [[Soviet Air Forces]]
+|time        = {{time interval|12 April 1961 06:07|12 April 1961 07:55|show=hm|sep=,}}
+|selection   = [[List of astronauts by year of selection#1960|Soviet Air Force Group 1]]
+|mission     = [[Vostok 1]]
+|insignia    = 
+|awards      = {{Hero of the Soviet Union}} {{Order of Lenin}}
+}}
+{{Soviet space program sidebar}}
+'''Yuri Alekseyevich Gagarin'''{{hsp}}&lt;ref name="yuri-alt-names" group="note" /&gt; ({{lang-rus|Ю́рий Алексе́евич Гага́рин|p=ˈjʉrʲɪj ɐlʲɪˈksʲejɪvʲɪtɕ ɡɐˈɡarʲɪn}}; 9 March 1934 – 27 March 1968) was a [[USSR|Soviet]] [[Soviet Air Forces|pilot]] and [[cosmonaut]]. He was the first human to journey into [[outer space]] when his [[Vostok (spacecraft)|Vostok]] [[spacecraft]] completed an [[orbit]] of the [[Earth]] on 12 April 1961.
+
+Gagarin became an international celebrity and was awarded many medals and titles, including [[Hero of the Soviet Union]], the nation's highest honour. [[Vostok 1]] marked his only spaceflight, but he served as backup crew to the [[Soyuz 1]] mission (which ended in a fatal crash). Gagarin later became deputy training director of the [[Yuri Gagarin Cosmonaut Training Center|Cosmonaut Training Centre]] outside [[Moscow]], which was later named after him. Gagarin died in 1968 when the [[Mikoyan-Gurevich MiG-15|MiG-15]] training jet he was piloting crashed. The [[Fédération Aéronautique Internationale]] awards the [[Yuri A. Gagarin Gold Medal]] in his honor.
+
+==Early life and education==
+
+Yuri Gagarin was born 9 March 1934 in the village of [[Klushino]], near [[Gagarin, Smolensk Oblast|Gzhatsk]] (renamed Gagarin in 1968 after his death).&lt;ref name="Hanbury2010"/&gt; His parents worked on a [[collective farm]]:&lt;ref name="time2006"/&gt; Alexey Ivanovich Gagarin as a [[carpenter]] and [[bricklayer]], and Anna Timofeyevna Gagarina as a [[milkmaid]].&lt;ref name="parents-alt-names" group="note" /&gt;&lt;ref name="Rosenberg-About" /&gt; Yuri was the third of four children: older brother Valentin, older sister Zoya, and younger brother Boris.&lt;ref name="indep20110403" /&gt;
+
+Like millions of people in the [[Soviet Union]], the Gagarin family suffered during Nazi occupation in [[World War II]]. Klushino was occupied in November 1941 during the German advance on Moscow, and an officer took over the Gagarin residence. The family was allowed to build a mud hut, approximately {{convert|3|by|3|m|ft|0}} inside, on the land behind their house, where they spent a year and nine months until the end of the occupation.&lt;ref name="Moskvitch2011" /&gt; His two older siblings were deported by the Germans to Poland for [[OST-Arbeiter|slave labour]] in 1943, and did not return until after the war in 1945.&lt;ref name="indep20110403" /&gt;&lt;ref name="eandt20110314" /&gt; In 1946, the family moved to Gzhatsk, where Gagarin continued his secondary education.&lt;ref name="Moskvitch2011" /&gt;
+
+In 1950, Gagarin entered into an apprenticeship at age 16 as a [[foundry]]man at the [[Lyubertsy]] Steel Plant near Moscow,&lt;ref name="indep20110403" /&gt;&lt;ref name="eandt20110314" /&gt; and also enrolled at a local "young workers" school for seventh grade evening classes.&lt;ref name="rian20110330" /&gt; After graduating in 1951 from both the seventh grade and the vocational school with honours in [[moldmaker|moldmaking]] and foundry work,&lt;ref name="rian20110330" /&gt; he was selected for further training at the [[Saratov]] Industrial Technical School, where he studied [[tractor]]s.&lt;ref name="indep20110403" /&gt;&lt;ref name="eandt20110314" /&gt;&lt;ref name="bbc20110404" /&gt; While in Saratov, Gagarin volunteered for weekend training as a Soviet air cadet at a local flying club, where he learned to fly — at first in a [[biplane]] and later in a [[Yakovlev Yak-18|Yak-18]] trainer.&lt;ref name="eandt20110314" /&gt;&lt;ref name="bbc20110404" /&gt; He also earned extra money as a part-time dock laborer on the [[Volga River]].&lt;ref name="Moskvitch2011" /&gt;
+
+==Soviet Air Force==
+[[File:В. И.Гагарина, С. Р. Эйвазова, Ю. А. Гагарин София, Болгария 1966 год.jpg|thumb|Valentina Gagarina, [[:ru:Эйвазова, Сима Рахмановна|Sima Eivazova]] and Yuri Gagarin in Bulgaria in 1966]]
+After he graduated from the technical school in 1955, the Soviet Army drafted Gagarin.&lt;ref name="rian20110330" /&gt; On a recommendation, Gagarin was sent to the First Chkalov Air Force Pilot's School in [[Orenburg]], and soloed in a [[Mikoyan-Gurevich MiG-15|MiG-15]] in 1957.&lt;ref name="indep20110403" /&gt;&lt;ref name="eandt20110314" /&gt;&lt;ref name="rian20110330" /&gt; After graduation, he was assigned to the [[Luostari]] airbase in [[Murmansk Oblast]], close to the Norwegian border, where terrible weather made flying risky. He became a [[Lieutenant]] in the [[Soviet Air Forces]] on 5 November 1957; on 6 November 1959 he received the rank of [[Senior lieutenant|Senior Lieutenant]].&lt;ref name="astro"/&gt;
+
+==Soviet space program==
+
+===Selection and training===
+{{see also|Vostok programme}}
+In 1960, after an extensive search and selection process, Gagarin was chosen with 19 other pilots for the [[Soviet space program]]. Gagarin was further selected for an elite training group known as the Sochi Six, from which the first cosmonauts of the [[Vostok programme]] would be chosen. Gagarin and other prospective candidates were subjected to experiments designed to test physical and psychological endurance; he also underwent training for the upcoming flight. Out of the twenty selected, the eventual choices for the first launch were Gagarin and [[Gherman Titov]] due to their performance during training sessions as well as their physical characteristics&amp;nbsp;— space was limited in the small [[Vostok (spacecraft)|Vostok]] cockpit, and both men were rather short. Gagarin was {{convert|1.57|m|ftin}} tall.&lt;ref Name="time2006" /&gt;
+
+In August 1960, when Gagarin was one of 20 possible candidates, a Soviet Air Force doctor evaluated his personality as follows:
+{{quote|text=Modest; embarrasses when his humor gets a little too racy; high degree of intellectual development evident in Yuriy; fantastic memory; distinguishes himself from his colleagues by his sharp and far-ranging sense of attention to his surroundings; a well-developed imagination; quick reactions; persevering, prepares himself painstakingly for his activities and training exercises, handles celestial mechanics and mathematical formulae with ease as well as excels in higher mathematics; does not feel constrained when he has to defend his point of view if he considers himself right; appears that he understands life better than a lot of his friends.&lt;ref name="Siddiqi262q"/&gt;}}
+
+Gagarin was also a favoured candidate by his peers. When the 20 candidates were asked to anonymously vote for which other candidate they would like to see as the first to fly, all but three chose Gagarin.&lt;ref name="Siddiqi262"/&gt; One of these candidates, [[Yevgeny Khrunov]], believed that Gagarin was very focused, and was demanding of himself and others when necessary.&lt;ref name="Siddiqi261"/&gt;
+
+Gagarin kept physically fit throughout his life, and was a keen sportsman. Cosmonaut [[Valery Bykovsky]] wrote:
+
+{{quote|Service in the Air Force made us strong, both physically and morally. All of us cosmonauts took up sports and PT seriously when we served in the Air Force. I know that Yuri Gagarin was fond of [[ice hockey]]. He liked to play goal keeper... I don't think I am wrong when I say that sports became a fixture in the life of the cosmonauts.&lt;ref name="Gavrilin2627q"/&gt;}}
+In addition to being a keen ice hockey player, Gagarin was also a [[basketball]] fan, and coached the Saratov Industrial Technical School team, as well as being a referee.&lt;ref name="Louis1980"/&gt;
+
+===Vostok 1===
+
+{{Main|Vostok 1}}
+
+On 12 April 1961, the [[Vostok (spacecraft)#Vostok 3KA|Vostok 3KA-3]] ([[Vostok 1]]) spacecraft with Gagarin aboard was launched from [[Baikonur Cosmodrome]]. Gagarin thus became both the first human to travel into [[outer space|space]], and the first to [[Orbit (celestial mechanics)|orbit]] the Earth. His call sign was ''Kedr'' ({{lang-ru|Кедр}}, [[Pinus sibirica|Siberian pine]] or [[Cedrus|Cedar]]).&lt;ref name="Siddiqi275"/&gt;
+
+{{Listen
+| filename     = Gagarin-Poyekhali.ogg
+| title        = ''Poyekhali!''
+| alt          =
+| description  = Gagarin's voice
+}}
+The radio communication between the launch control room and Gagarin included the following dialogue at the moment of rocket launch:
+
+{{quote|Korolev: "Preliminary stage..... intermediate..... main..... lift off! We wish you a good flight. Everything is all right."
+
+Gagarin: "{{lang|ru-Latn|Поехали!}}" (''Poyekhali!''—''Let's go!'').&lt;ref&gt;Hall and Shayler, p. 150&lt;/ref&gt;}}
+
+Gagarin's informal ''poyekhali!'' became a historical phrase in the [[Eastern Bloc]], used to refer to the beginning of the [[Space Age]] in human history.&lt;ref name=Dushenko&gt;{{cite book |url=https://books.google.com/books?id=UZqhAAAAQBAJ&amp;lpg=PT920&amp;pg=PT920 |title=Большой словарь цитат и крылатых выражений |publisher=Litres |language=Russian |first=Константин |last=Душенко |date=2014 |isbn=978-5-699-40115-4}}&lt;/ref&gt;&lt;ref&gt;{{cite book |chapterurl=https://books.google.com/books?id=kMGlvz53P3cC&amp;lpg=PT488&amp;pg=PT440 |chapter=6.2 Он сказал «Поехали!» |title=108 минут, изменившие мир |publisher=Эксмо |language=Russian |first=Антон |last=Первушин |date=2011 |isbn=9785457022300}}&lt;/ref&gt;
+
+In his post-flight report, Gagarin recalled his experience of spaceflight, having been the first human in space:{{quote|The feeling of weightlessness was somewhat unfamiliar compared with Earth conditions. Here, you feel as if you were hanging in a horizontal position in straps. You feel as if you are suspended.&lt;ref name="Siddiqi278q"/&gt;}}
+
+[[File:Gagarin Capsule.jpg|thumb|Vostok I capsule on display at the [[RKK Energiya museum]]]]
+Following the flight, Gagarin told the [[General Secretary of the Communist Party of the Soviet Union|Soviet leader]] [[Nikita Khrushchev]] that during reentry he had whistled the tune "The Motherland Hears, The Motherland Knows" ({{lang-ru|"Родина слышит, Родина знает"}}).&lt;ref name="autobiography"/&gt;&lt;ref name="sovmusic-download"/&gt; The first two lines of the song are: "''The Motherland hears, the Motherland knows/Where her son flies in the sky''".&lt;ref name="sovmusic-text"/&gt; This patriotic song was written by [[Dmitri Shostakovich]] in 1951 (opus 86), with words by [[Yevgeniy Dolmatovsky]].
+
+Some sources have claimed that Gagarin commented during the flight, "I don't see any God up here." However, no such words appear in the verbatim record of his conversations with Earth-based stations during the spaceflight.&lt;ref name="cosmoworld"/&gt; In a 2006 interview, Gagarin's friend Colonel Valentin Petrov stated that the cosmonaut never said such words, and that the quote originated from [[Nikita Khrushchev]]'s speech at the plenum of the [[Central Committee of the CPSU]] about the state's [[USSR anti-religious campaign (1958–1964)|anti-religion campaign]], saying "Gagarin flew into space, but didn't see any god there."&lt;ref name="ir73"/&gt; Petrov also said that Gagarin had been baptised into the [[Orthodox Church]] as a child, and a 2011 ''Foma'' magazine article quoted the rector of the Orthodox church in [[Star City, Russia|Star City]] saying, "Gagarin baptized his elder daughter Yelena shortly before his space flight; and his family used to celebrate Christmas and Easter and keep icons in the house."&lt;ref name="ir8361"/&gt;
+
+==After the Soviet space program==
+Gagarin's flight was a triumph for the Soviet space program. The announcement on the Soviet radio was made by [[Yuri Levitan]], the same speaker who announced all major events in the [[Great Patriotic War]]. Gagarin became a national hero of the Soviet Union and Eastern Bloc, and a worldwide celebrity. Newspapers around the globe published his biography and details of his flight. Moscow and other cities in the USSR held mass demonstrations, the scale of which was second only to [[Moscow Victory Parade of 1945|World War II Victory Parades]]. Gagarin was escorted in a long motorcade of high-ranking officials through the streets of Moscow to the Kremlin where, in a lavish ceremony, he was awarded the title of [[Hero of the Soviet Union]], by Nikita Khrushchev.&lt;ref&gt;{{cite book |chapterurl=https://books.google.com/books?id=kMGlvz53P3cC&amp;lpg=PT488&amp;pg=PT488 |chapter=7.1 Гражданин мира |title=108 минут, изменившие мир |publisher=Litres |language=Russian |first=Антон |last=Первушин |date=October 2013 |isbn=9785457022300}}&lt;/ref&gt;
+
+[[File:Yuri Gagarin welcome Warsaw 1961.jpg|thumb|left|Gagarin in [[Warsaw]], 1961]]
+Later on, Gagarin toured widely abroad. He visited Italy, Germany, Canada, Brazil, Japan, Egypt&lt;ref name="mkegypt"/&gt; and Finland to promote the Soviet Union's accomplishment of putting the first human in space. He visited the United Kingdom three months after the Vostok 1 mission, going to [[London]] and [[Manchester]].&lt;ref name="wcml" /&gt;&lt;ref name="French1998" /&gt;
+
+The sudden rise to fame took its toll on Gagarin. While acquaintances say Gagarin had been a "sensible drinker", his touring schedule placed him in social situations where he was always expected to drink. Gagarin was also reportedly caught by his wife in a room with another woman, a nurse named Anna who had aided him after a boating incident earlier in the day, at a Black Sea resort in September 1961. He attempted to escape by leaving through a window and jumping off her second floor balcony, hitting his face on a [[curb|kerbstone]] and leaving a permanent scar above his left eyebrow.&lt;ref name="indep20110403"/&gt;&lt;ref name="bbc20110404"/&gt;
+
+In 1962, he began serving as a Deputy to the [[Soviet of the Union]],&lt;ref name="redstar20110412"&gt;{{cite news |url=http://old.redstar.ru/2011/04/12_04/1_02.html |title=Космонавт и Депутат |trans-title=Astronaut and Deputy |work=Red Star |language=Russian |first=Nail |last=Gafutulin |date=12 April 2011 |accessdate=10 January 2015}}&lt;/ref&gt; and was elected to the Central Committee of the [[Komsomol|Young Communist League]]. He later returned to [[Star City, Russia|Star City]], the cosmonaut facility, where he spent several years working on designs for a reusable spacecraft. He became a [[Podpolkovnik|lieutenant colonel]] of the [[Soviet Air Forces]] on 12 June 1962, and received the rank of [[Polkovnik|colonel]] on 6 November 1963.&lt;ref name="astro" /&gt; Soviet officials tried to keep him away from any flights, being worried of losing their hero in an accident. Gagarin was backup pilot for his friend [[Vladimir Komarov]] in the [[Soyuz 1]] flight, which was launched despite Gagarin's protests that additional safety precautions were necessary.&lt;ref name="krulwich2011"/&gt; When Komarov's flight ended in a fatal crash, Gagarin was permanently banned from training for and participating in further spaceflights.
+
+On 20 December 1963, Gagarin had become Deputy Training Director of the [[Star City, Russia|Star City]] cosmonaut training base.&lt;ref name="astronaut.ru"&gt;{{cite web |url=http://www.astronaut.ru/as_rusia/vvs/text/gagarin.htm |title=Юрий Алексеевич Гагарин |trans-title=Yuri Alekseyevich Gagarin |work=Astronaut.ru |language=Russian |date=2 June 2013 |accessdate=10 January 2015}}&lt;/ref&gt; Two years later he was re-elected as a deputy to the SSSU, but this time to the [[Soviet of Nationalities]].&lt;ref name="redstar20110412"/&gt; Next year he began to re-qualify as a [[fighter pilot]].&lt;ref&gt;{{Cite web |title=Gagarin |url=http://www.astronautix.com/astros/gagarin.htm |website=www.astronautix.com |accessdate=2015-11-28 |deadurl=yes |archiveurl=https://web.archive.org/web/20131102093601/http://www.astronautix.com/astros/gagarin.htm |archivedate=2 November 2013 |df=dmy-all}}&lt;/ref&gt; On 17 February 1968 he successfully defended his aerospace engineering thesis on the subject of [[spaceplane]] aerodynamic configuration, passing with flying colors.&lt;ref name="Lebedev201108"&gt;{{cite journal |url=http://en.dfnc.ru/upload/NOZ4_11.pdf |title=Диплом Гагарина |trans-title=Gagarin's Diploma |journal=New Defence Order Strategy |language=Russian |first=Vitaliy |last=Lebedev |issue=16 |pages=117–118 |date=August 2011}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name="Lebedev201110"&gt;{{cite journal |url=http://en.dfnc.ru/upload/NOZ_5_11.pdf |title=Диплом Гагарина |trans-title=Gagarin's Diploma |journal=New Defence Order Strategy |language=Russian |first=Vitaliy |last=Lebedev |issue=17 |pages=68–69 |date=October 2011}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+==Death==
+[[File:Kremlin Wall Necropolis 08.JPG|thumb|alt=Plaque on a brick wall with inscription: Юрий Алексеевич Гагарин, 1934-03-09–1968-03-27|Plaque indicating Gagarin's interment in the Kremlin Wall]]
+On 27 March 1968, while on a routine training flight from [[Chkalovsky Airport|Chkalovsky Air Base]], he and flight instructor [[Vladimir Seryogin]] died in a [[Mikoyan-Gurevich MiG-15|MiG-15UTI]] crash near the town of [[Kirzhach]]. The bodies of Gagarin and Seryogin were cremated and the ashes were buried in the [[Kremlin Wall Necropolis|walls of the Kremlin]] on [[Red Square]].
+
+Gagarin was survived by his wife Valentina, a graduate of the Orenburg medical school; and two daughters, Yelena (born 1959) and Galina (born 1961).&lt;ref&gt;{{cite book |url=https://archive.org/details/firstmaninspace00unse |title=The First Man in Space |publisher=Crosscurrents Press |location=New York |page=79 |date=1961 |oclc=220499322}}&lt;/ref&gt;
+
+===Cause of jet crash===
+The cause of the crash that killed Gagarin is not entirely certain, and has been subject to speculation about [[conspiracy theories]] over the ensuing decades.
+
+Soviet documents declassified in March 2003 showed that the [[KGB]] had conducted their own investigation of the accident, in addition to one government and two military investigations. The KGB's report dismissed various conspiracy theories, instead indicating that the actions of airbase personnel contributed to the crash. The report states that an [[air traffic controller]] provided Gagarin with outdated weather information, and that by the time of his flight, conditions had deteriorated significantly. Ground crew also left external fuel tanks attached to the aircraft. Gagarin's planned flight activities needed clear weather and no outboard tanks. The investigation concluded that Gagarin's aircraft entered a [[spin (flight)|spin]], either due to a [[bird strike]] or because of a sudden move to avoid another aircraft. Because of the out-of-date weather report, the crew believed their altitude to be higher than it actually was, and could not react properly to bring the MiG-15 out of its spin.&lt;ref name="telegraph080801"/&gt;
+
+Another theory, advanced by the original crash investigator in 2005, hypothesizes that a cabin air vent was accidentally left open by the crew or the previous pilot, leading to [[oxygen deprivation]] and leaving the crew incapable of controlling the aircraft.&lt;ref name="ScotlandSunday-GagarinInquiry"/&gt; A similar theory, published in ''Air &amp; Space'' magazine, is that the crew detected the open vent and followed procedure by executing a rapid dive to a lower altitude. This dive caused them to lose consciousness and crash.&lt;ref name="airspace20100901"/&gt;
+
+On 12 April 2007, the Kremlin vetoed a new investigation into the death of Gagarin. Government officials said that they saw no reason to begin a new investigation.&lt;ref name="belfast171"/&gt;
+
+[[File:Landing. Mig-15 RA-0488G (10316391126).jpg|thumb|A Russian MiG-15UTI, the same type as Gagarin was flying]]
+
+In April 2011, documents from a 1968 commission set up by the [[Central Committee of the Communist Party of the Soviet Union|Central Committee of the Communist Party]] to investigate the accident were declassified. Those documents revealed that the commission's original conclusion was that Gagarin or Seryogin had maneuvered sharply either to avoid a weather balloon, leading the jet into a "super-critical flight regime and to its stalling in complex meteorological conditions," or to avoid "entry into the upper limit of the first layer of cloud cover".&lt;ref name="afp20110408"/&gt;
+
+In his 2004 book ''Two Sides of the Moon'', [[Alexey Leonov]], who was part of a State Commission established to investigate the death in 1968, recounts that he was flying a helicopter in the same area that day when he heard "two loud booms in the distance." Corroborating other theories, his conclusion is that a Sukhoi jet (which he identifies as a [[Sukhoi Su-15|Su-15 'Flagon']]) was flying below its minimum allowed altitude, and "without realizing it because of the terrible weather conditions, he passed within 10 or 20 meters of Yuri and Seregin's plane while breaking the sound barrier." The resulting turbulence would have sent the MiG into an uncontrolled spin. Leonov believes the first boom he heard was that of the jet breaking the sound barrier, and the second was Gagarin's plane crashing.&lt;ref name="LeonovBook"/&gt; In a June 2013 interview with Russian television network [[RT (TV network)|RT]], Leonov said that a declassified report on the incident revealed the presence of a second, "unauthorized" Su-15 flying in the area. Leonov states that this aircraft had descended to {{convert|450|m}} and that, while running afterburners, "the aircraft reduced its echelon at a distance of 10–15 meters in the clouds, passing close to Gagarin, turning his plane and thus sending it into a tailspin – a deep spiral, to be precise – at a speed of 750 kilometers per hour." As a condition of being allowed to discuss the report, however, Leonov was required to not disclose the name of the other pilot, who was reported to be 80 years old (as of 2013) and in poor health.&lt;ref name="rt20130614"/&gt;&lt;ref name="unitoday20130614"/&gt;
+
+==Personal life==
+In 1957, while at the First Chkalov Air Force Pilot's School in Orenburg, Gagarin met Valentina Ivanovna Goryacheva,&lt;ref name="Rosenberg-About" /&gt; a medical technician graduate of the Orenburg Medical School.&lt;ref name="eandt20110314" /&gt;&lt;ref name="bbc20110404" /&gt; They were married on 7 November 1957, the same day Gagarin graduated from Orenburg, and they have two daughters.&lt;ref name="Rosenberg-About" /&gt;&lt;ref name="eandt20110314" /&gt;
+
+Yelena Yurievna Gagarina is an art historian who has worked as the [[director-general|Director-General]] of the [[Moscow Kremlin Museums]] since 2001.&lt;ref name="airspace20110501" /&gt;&lt;ref name="euronews20110412" /&gt;
+
+Galina Yurievna Gagarina is a professor of economics and the department chair at [[Plekhanov Russian University of Economics]] in Moscow.&lt;ref name="airspace20110501" /&gt;&lt;ref name="rea20110411" /&gt;
+
+==Legacy and tributes==
+[[File:10 Rouble 2001-2.JPG|thumb|Russian Rouble commemorating Gagarin in 2001]]
+{{multiple image |align=right |direction=horizontal |total_width=300
+|image1=Памятник Гагарину на Ленинском проспекте - panoramio.jpg |caption1=[[Monument to Yuri Gagarin]] in [[Moscow]]
+|image2=Памятник Гагарину - panoramio.jpg |caption2=Monument to Yuri Gagarin in [[Qaraghandy|Karaganda]], Kazakhstan
+}}
+[[File:Statue of Yuri Gagarin at the Royal Observatory in Greenwich.jpg|thumb|upright|[[Statue of Yuri Gagarin, Greenwich|Yuri Gagarin statue]] at the [[Royal Observatory, Greenwich|Royal Greenwich Observatory]] in [[London]]]]
+[[File:Yuri Gagarin-Wayside Dr Statue1.jpg|thumb|''John Glenn'' panel and ''Yuri Gagarin'' statue in [[Houston]], at the former NASA office on Wayside Drive]]
+===Legacy===
+
+Aside from his short stature at {{convert|1.57|m|ftin}}, one of Gagarin's most notable traits was his smile.&lt;ref name="bbc20110307"/&gt; Many commented on how Gagarin's smile gained the attention of crowds on the frequent tours he did in the months after the Vostok 1 mission success.&lt;ref name="French1998" /&gt;
+
+Gagarin also garnered a reputation as an adept public figure. When he visited [[Manchester]] in the United Kingdom, it was pouring rain. However, Gagarin insisted that the convertible top remain down so that the cheering crowds could catch a glimpse of him. Gagarin stated, "If all these people have turned out to welcome me and can stand in the rain, so can I." Gagarin refused an [[umbrella]] and remained standing in his open-top [[Bentley]] so that the cheering crowds could still see him.&lt;ref name="French1998" /&gt;
+
+[[Sergei Korolev]], one of the masterminds behind the early years of the Soviet space program, later said that Gagarin possessed a smile "that lit up the darkness of the Cold War".&lt;ref name="guardian20110313"/&gt;
+
+===Tributes===
+12 April, the date of Gagarin's space flight, has been commemorated as a special date. Since 1962, it has been celebrated in the USSR and later in Russia and other post-Soviet states as the [[Cosmonautics Day]]. In 2011 it was declared the [[International Day of Human Space Flight]] by the [[United Nations]].&lt;ref&gt;{{cite web |url=https://www.un.org/en/events/humanspaceflightday/ |title=UN Resolution A/RES/65/271, The International Day of Human Space Flight (12 April) |date=7 April 2011 |accessdate=19 January 2015}}&lt;/ref&gt;
+
+Since 2001, [[Yuri's Night]], an international celebration, is held every 12 April to commemorate milestones in space exploration.
+
+A number of buildings and other sites on Earth have been named for Gagarin.  The [[Yuri Gagarin Cosmonaut Training Center|Cosmonaut Training Center]] in [[Star City, Russia|Star City]] was named in 1969. The launch pad at [[Baikonur Cosmodrome]] from which [[Sputnik 1]] and Vostok 1 were launched, is now known as [[Gagarin's Start]]. [[Gagarin Raion]] in the [[Sevastopol]] city ([[Ukraine]]) was named after him during the period of the Soviet Union. The Air Force Academy was renamed [[Gagarin Air Force Academy]] in 1968.
+
+Gagarin has been honored on the [[Moon]] by both astronauts and astronomers. He was honored by the American space program during [[Apollo 11]] in 1969 when astronauts [[Neil Armstrong]] and [[Buzz Aldrin]] left a memorial satchel containing medals commemorating Gagarin and fellow cosmonaut [[Vladimir Komarov]] on the surface.&lt;ref name="natgeo20090721"/&gt;&lt;ref name="Aldrin1989"/&gt; In 1971, [[Apollo 15]] astronauts [[David Scott]] and [[James Irwin]] left the ''[[Fallen Astronaut]]'' at their landing site as a memorial to all the American astronauts and Soviet cosmonauts who died in the [[Space Race]], with Yuri Gagarin listed among 14 others.&lt;ref name="Geppert2012"/&gt;&lt;ref name="slate20131216"/&gt; He is memorialized by the official naming of a 265&amp;nbsp;km [[Gagarin (crater)|crater on the Far Side]] after him.
+
+Gagarin is memorialized in music, including a [[song cycle|cycle]] of Soviet patriotic songs ''The Constellation Gagarin'' ({{lang-rus|Созвездье Гагарина|Sozvezdie Gagarina}}) was written by [[Alexandra Pakhmutova]] and [[Nikolai Dobronravov]] in 1970–1971.&lt;ref name=Pakhmutova&gt;[http://www.pakhmutova.ru/songs/sozv.shtml Созвездье Гагарина]. Alexandra Pakhmutova's website&lt;/ref&gt; The most famous of these songs referred to Gagarin's ''poyekhali!'': ''He said "let's go!" He waved his hand''.&lt;ref name=Dushenko /&gt;&lt;ref name=Pakhmutova /&gt; He was the inspiration for the pieces "Hey Gagarin" by [[Jean Michel Jarre]] (on ''[[Métamorphoses]]''), "Gagarin" by [[Public Service Broadcasting (band)|Public Service Broadcasting]], and "Gagarin, I loved you" by [[Undervud]].
+
+Vessels have been named for him. Soviet [[tracking ship]] ''[[Kosmonavt Yuri Gagarin]]'' was built in 1971. [[Armenia]]n airline [[Armavia]] named their first [[Sukhoi Superjet 100]] in Gagarin's honour in 2011.&lt;ref name="flight20110115"/&gt;
+
+There were [[commemorative coins of the Soviet Union|two commemorative coins]] issued in the Soviet Union to honour the 20th and 30th anniversaries of his flight: 1 [[Soviet ruble|ruble]] coin (1981, copper-nickel) and 3 ruble coin (1991, silver). In 2001, to commemorate the 40th anniversary of Gagarin's flight, a series of four coins bearing his likeness was issued in Russia: 2 [[Russian ruble|ruble]] coin (copper-nickel), 3 ruble coin (silver), 10 ruble coin (brass-copper, nickel), and 100 ruble coin (silver).&lt;ref name="cbr"/&gt; In 2011, Russia issued a 1,000 ruble coin (gold) and 3 ruble coin (silver) to mark the 50th anniversary of his flight.&lt;ref name="coinupdate"/&gt;
+
+In 2008, the [[Kontinental Hockey League]] named their championship trophy the [[Gagarin Cup]].&lt;ref name="spm100519"/&gt; In a 2010 [[Space Foundation]] survey, Gagarin was ranked as the #6 most popular space hero, tied with ''[[Star Trek]]''{{'}}s fictional Capt. [[James T. Kirk]].&lt;ref name="spacefoundation"/&gt; The Russian docudrama, ''[[Gagarin: First in Space]]'', was released in 2013.
+
+====Statues====
+Several statues have been erected in his honor.
+
+On 4 June 1980, a [[Monument to Yuri Gagarin|monument to Gagarin]] was opened on Gagarin Square in [[Leninsky Avenue, Moscow]]. The monument is 42.4 m tall and constructed of titanium. Beside the column is a replica of the descent module used by Gagarin.
+
+In 2011 a statue, [[Statue of Yuri Gagarin, Greenwich|''Yuri Gagarin'']], was unveiled at the [[Admiralty Arch]] end of [[The Mall, London|The Mall]] in London, opposite the permanent sculpture of [[:File:James Cook statue 569r.jpg|James Cook]]. It is a copy of the statue outside Gagarin's former school in [[Lyubertsy]].&lt;ref name="guardian20110406"/&gt; In 2013 the statue was moved to a permanent location outside the [[Royal Observatory, Greenwich|Royal Observatory]] in [[Greenwich]].&lt;ref name="ria20130307"&gt;{{cite news |url=http://en.ria.ru/world/20130307/179877261/Gagarin-Monument-Moved-from-Londons-Mall-to-Greenwich.html |title=Gagarin Monument Moved from London's Mall to Greenwich |work=RIA Novosti |date=7 March 2013 |accessdate=13 April 2014}}&lt;/ref&gt;
+
+In 2012 a statue was unveiled at the site of NASA's original spaceflight headquarters on South Wayside Drive in [[Houston]]. The sculpture, completed in 2011 by artist/cosmonaut [[Alexsei Leonov]], was a gift to Houston by various Russian organisations. Houston Mayor [[Annise Parker]], NASA Administrator [[Charles Bolden]], and Russian Ambassador [[Sergey Kislyak]] were present for the dedication.&lt;ref name="houstonstatue"&gt;{{cite news |url=http://www.houstontx.gov/municipalart/glenngagarin.html |title=Houston Mayor, NASA Administrator &amp; Russian Ambassador Dedicate Gifts of Artworks Honoring Russian and US Space Pioneers |publisher=City of Houston |date=15 October 2012 |accessdate=6 February 2015 |archiveurl=https://web.archive.org/web/20140813080100/http://www.houstontx.gov/municipalart/glenngagarin.html |archivedate=13 August 2014}}&lt;/ref&gt;
+
+In April 2018 a bust of Gagarin, erected on the street which bears his name in the Serbian capital [[Belgrade]], was removed, after less than week, following an outcry over the size of its head. Locals said that the tribute, was an "insult" to Gagarin. A new work will be commissioned.&lt;ref&gt;{{cite news|title=Tiny head Gagarin tribute is removed|url=https://www.bbc.com/news/blogs-news-from-elsewhere-43737372|work=BBC News|date=12 April 2018}}&lt;/ref&gt; It was revealed that the city had had no prior knowledge of the design, and neither had the Serbian [[Ministry of Culture and Information (Serbia)|Ministry of Culture]], nor the foundation which had financed it.&lt;ref&gt;{{cite news |url=https://www.b92.net/eng/news/society.php?yyyy=2018&amp;mm=04&amp;dd=10&amp;nav_id=103905 |title=Controversial Gagarin monument to be removed, new one built |publisher=[[B92]] |date=10 April 2018 |accessdate=12 April 2018}}&lt;/ref&gt;
+
+Apart from these, Gagarin has also statues and monuments for example in [[Qaraghandy|Karaganda]], [[Orenburg]], [[Izhevsk]], [[Gagarin, Smolensk Oblast|Gagarin-Smolensk Oblast]], [[Yoshkar-Ola]], [[Cheboksary]], [[Druzhkivka]], [[Tiraspol]], [[Irkutsk]], [[Komsomolsk-on-Amur]] and [[Nicosia]].
+
+====50th anniversary====
+[[File:Stamp 2011 Gagarin (1).JPG|thumbnail|50th anniversary stamp of [[Ukraine]]]]
+The 50th anniversary of Gagarin's journey into space was marked in 2011 by tributes around the world.  A film titled ''[[First Orbit]]'' was shot from the [[International Space Station]], combining the original flight audio with footage of the route taken by Gagarin.&lt;ref name="guardian20110411"/&gt;  The Russian, American, and Italian [[Expedition 27]] crew aboard the ISS sent a special video message to wish the people of the world a "Happy [[Yuri's Night]]", wearing shirts with an image of Gagarin.&lt;ref name="youtube20110411"/&gt;
+
+Swiss-based German watchmaker Bernhard Lederer created a limited edition of 50 Gagarin Tourbillons to commemorate the 50th anniversary of Yuri Gagarin's flight.&lt;ref name="tourbillon"/&gt;
+
+The launch of [[Soyuz TMA-21]] on 4 April 2011 was devoted to the 50th anniversary of the first manned space mission.&lt;ref name="mannedaero"/&gt;
+
+===Honours and awards===
+{{refimprove section|date=April 2018}}
+[[File:Графити Гагарина, Марадоне и Кастра, Дрвенград, Србија 1.jpg|thumbnail|Graffiti of Gagarin (with [[Diego Maradona|Maradona]] and [[Fidel Castro|Castro]]), in [[Drvengrad]], Serbia.]]
+* [[Jubilee Medal "40 Years of the Armed Forces of the USSR"]] (USSR, 1958)
+* [[Hero of the Soviet Union]] (14 April 1961)
+* [[Order of Lenin]] (USSR, 14 April 1961)
+* [[Hero of Socialist Labour]] (Czechoslovak Socialist Republic, 29 April 1961)
+* [[Hero of Socialist Labour]], (People's Republic of Bulgaria, 24 May 1961)
+* [[Order of Georgi Dimitrov]] (Bulgaria, 24 May 1961)
+* [[Order of the Star of Indonesia]], 2nd Class (Indonesia, 10 June 1961)
+* [[Cross of Grunwald]], 1st class (Poland, 20 June 1961)
+* [[Pilot-Cosmonaut of the USSR]] (27 June 1961)
+* The first Commander of the [[Order of Playa Girón]] (Cuba, 18 July 1961)
+* "For achievements in aeronautics" (Brazil, 2 August 1961)
+[[File:Jânio da Silva Quadros, presidência da República, condecora o major Iuri Alekseievitch Gagarin, em Brasília..tif|thumb|[[Jânio Quadros]], President of Brazil, decorated Gagarin in 1961.]]
+* [[Order of the Southern Cross]] (Brazil, 3 August 1961)&lt;ref name="almanaquebrasil"/&gt;
+* Order of the Flag of the Hungarian Republic, 1st class with diamonds (Hungary, 21 August 1961)
+* Honored Master of Sports of the USSR (1961, title obtained as a reward for a space flight)
+* Military Pilot 1st Class (1961, awarded the qualification of space flight)
+* Gold Medal of the [[British Interplanetary Society]], 1961
+* Honorary suvorovets (Moscow [[Suvorov Military School]], 1962)
+* [[Order of the Nile]] (Egypt, 31 January 1962)
+* [[Order of the African Star]] (Liberia, 6 February 1962)
+* [[Hero of Labour]], (Democratic Republic of Vietnam, 28 April 1962)
+* Gold Medal of the Austrian Government, 1962
+* Honorary president of the Soviet-Cuban friendship society
+* Honorary Member of the Society, "the Finland-Soviet Union"
+* [[Order of Karl Marx]] (German Democratic Republic, 22 October 1963)
+* [[Jubilee Medal "Twenty Years of Victory in the Great Patriotic War 1941–1945"]] (USSR, 9 May 1965)
+* [[Medal "For Impeccable Service"]], 3rd class (Soviet Union, March 1966)
+* Honorary member of the [[International Academy of Astronautics]] (1966)
+* [[Order of Klement Gottwald]] (Czechoslovak Socialist Republic)
+* [[Jubilee Medal "50 Years of the Armed Forces of the USSR"]] (USSR, January 1968)
+* Konstantin Tsiolkovsky Gold Medal "for outstanding work in the field of interplanetary communications" (USSR)
+* Medal of de Lavaux (FAI)
+* Gold medal and diploma "Man in Space", the Italian Association of Space
+* Gold Medal "For outstanding difference" and the Royal Aero Club Diploma, [[Sweden]]
+* Medal of Columbus (Italy)
+* Gold Medal of Saint-Denis (France)
+* Gold Medal Award "for courage" of the Fund Matstsotti (Italy), 2007
+and others.
+
+Yuri Gagarin was elected an honorary citizen of the following cities:
+* [[USSR]]: [[Kaluga]], [[Novozybkov]], [[Klintsy]], [[Novocherkassk]], [[Lyubertsy]], [[Sumqayit]] (in modern-day [[Azerbaijan]]), [[Smolensk]], [[Vinnytsia]] (in modern-day [[Ukraine]]), [[Sevastopol]] (in [[Crimea]]), [[Saratov]], [[Komsomolsk-on-Amur]], [[Tyumen]]
+* Russia: [[Orenburg]]&lt;ref&gt;{{cite web |url=http://www.orenburg.ru/town/honorary_citizens/ |title=Почётные граждане |trans-title=Honorary citizens |publisher=City of Orenburg |accessdate=30 October 2016}}&lt;/ref&gt;
+* [[Bulgaria]]: [[Sofia]], [[Pernik]], [[Plovdiv]]
+* [[Greece]]: [[Athens]]
+* [[Cyprus]]: [[Famagusta]], [[Limassol]]
+* France: [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+* [[Czechoslovakia]]: [[Trenčianske Teplice]]
+He was also awarded the golden keys to the gates of the [[Egypt]]ian cities [[Cairo]] and [[Alexandria]].
+
+==See also==
+{{portal bar|Biography|Spaceflight|Soviet Union}}
+
+==Notes==
+{{Reflist|group=note|refs=
+&lt;ref name="yuri-alt-names"&gt;Gagarin's first name is sometimes transliterated as ''Yuriy'', ''Youri'', or ''Yury''.&lt;/ref&gt;
+
+&lt;ref name="parents-alt-names"&gt;Alexey and Anna's names are sometimes transliterated as Aleksei Ivanovich and Anna Timofeevna, respectively (Bassin 2012).&lt;/ref&gt;
+}}
+
+==References==
+{{Reflist|30em|refs=
+&lt;ref name="Hanbury2010"&gt;{{Cite book |title=The Great Explorers |publisher=Thames &amp; Hudson |location=London |editor1-first=Robin |editor1-last=Hanbury-Tenison |page=270 |year=2010 |isbn=978-0-500-25169-0}}&lt;/ref&gt;
+
+&lt;ref name="time2006"&gt;{{cite news |url=http://www.time.com/time/europe/hero2006/gagarin.html |title=Yuri Gagarin |work=Time Europe ''via '' Time.com |first=Dennis |last=Tito |date=13 November 2006 |archiveurl=https://web.archive.org/web/20080326180036/http://www.time.com/time/europe/hero2006/gagarin.html |archivedate=26 March 2008}}&lt;/ref&gt;
+
+&lt;ref name="Rosenberg-About"&gt;{{cite web |url=http://history1900s.about.com/od/1960s/a/yurigagarin.htm |title=Yuri Gagarin: The First Man in Space |work=About.com |first=Jennifer |last=Rosenberg |accessdate=26 March 2013}}&lt;/ref&gt;
+
+&lt;ref name="indep20110403"&gt;{{cite news |url=https://www.independent.co.uk/news/science/yuri-gagarin-the-man-who-fell-to-earth-2257505.html |title=Yuri Gagarin: The man who fell to Earth |work=[[The Independent]] |first=Paul |last=Rodgers |date=3 April 2011 |archiveurl=https://web.archive.org/web/20110404093839/http://www.independent.co.uk/news/science/yuri-gagarin-the-man-who-fell-to-earth-2257505.html |archivedate=4 April 2011 |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name="Moskvitch2011"&gt;{{cite news |url=https://www.bbc.co.uk/news/science-environment-12875848 |title=Yuri Gagarin's Klushino: Forgotten home of space legend |work=[[BBC News]] |last=Moskvitch |first=Katia |date=3 April 2011 |accessdate=4 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="eandt20110314"&gt;{{cite journal |url=http://eandt.theiet.org/magazine/2011/03/yuri-gagarin.cfm |title=First man of Space – the flight and plight of Yuri Gagarin |journal=[[Engineering &amp; Technology]] |first=Piers |last=Bizony |authorlink=Piers Bizony |volume=6 |issue=3 |date=14 March 2011 |archiveurl=https://archive.is/20130326130352/http://eandt.theiet.org/magazine/2011/03/yuri-gagarin.cfm |archivedate=26 March 2013 |deadurl=yes |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="rian20110330"&gt;{{cite news |url=http://en.rian.ru/science/20110330/163289008.html |title=Yury Gagarin: Biography |work=[[RIA Novosti]] |date=30 March 2011 |archiveurl=https://archive.is/20120523205020/http://en.rian.ru/science/20110330/163289008.html |archivedate=23 May 2012 |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name="bbc20110404"&gt;{{cite news |url=https://www.bbc.co.uk/news/science-environment-12460720 |title=Profile: Yuri Gagarin |work=[[BBC News]] |first1=Paul |last1=Rincon |first2=Katia |last2=Moskvitch |date=4 April 2011 |archiveurl=https://www.webcitation.org/6DrGGmul5?url=http://www.bbc.co.uk/news/science-environment-12460720 |archivedate=22 January 2013 |deadurl=no |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="astro"&gt;{{cite web |url=http://www.astronaut.ru/as_rusia/vvs/text/gagarin.htm |script-title=ru:Юрий Алексеевич Гагарин |work=Astronaut.ru |date=11 July 2007 |accessdate=30 March 2008 |language=ru}}&lt;/ref&gt;
+
+&lt;ref name="Siddiqi262q"&gt;Quoted in Siddiqi 2000, p. 262.&lt;/ref&gt;
+
+&lt;ref name="Siddiqi262"&gt;Siddiqi 2000, p. 262.&lt;/ref&gt;
+
+&lt;ref name="Siddiqi261"&gt;Siddiqi 2000, p. 261.&lt;/ref&gt;
+
+&lt;ref name="Gavrilin2627q"&gt;Bykovsky quoted in Gavrilin 1973, p. 26-27.&lt;/ref&gt;
+
+&lt;ref name="Louis1980"&gt;{{cite book |title=Sport in the Soviet Union |publisher=Pergamon |location=Oxford |first1=Victor E |last1=Louis |first2=Jennifer M |last2=Louis |page=43 |year=1980 |isbn=0-08-024506-4}}&lt;/ref&gt;
+
+&lt;ref name="Siddiqi275"&gt;Siddiqi 2000, p. 275.&lt;/ref&gt;
+
+&lt;ref name="Siddiqi278q"&gt;Quoted in Siddiqi 2000, p. 278.&lt;/ref&gt;
+
+&lt;ref name="autobiography"&gt;{{cite web |url=http://epizodsspace.testpilot.ru/bibl/gagarin/doroga/obl.html |script-title=ru:Дорога в космос |work=Pravda ''via'' TestPilot.ru |first=Юрий |last=Гагарин |date=3 December 2004 |accessdate=30 March 2008 |language=ru |deadurl=yes |archiveurl=https://web.archive.org/web/20080315230319/http://epizodsspace.testpilot.ru/bibl/gagarin/doroga/obl.html |archivedate=15 March 2008 |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="sovmusic-download"&gt;{{cite web |url=http://www.sovmusic.ru/english/download.php?fname=rodinasl |title=Motherland Hears (download) |work=SovMusic.ru |accessdate=30 March 2008}}&lt;/ref&gt;
+
+&lt;ref name="sovmusic-text"&gt;{{cite web |url=http://www.sovmusic.ru/english/text.php?fname=rodinasl |title=Motherland Hears (lyrics) |work=SovMusic.ru |accessdate=30 March 2008}}&lt;/ref&gt;
+
+&lt;ref name="cosmoworld"&gt;{{cite web |url=http://www.cosmoworld.ru/spaceencyclopedia/gagarin/index.shtml?doc10.html |script-title=ru:Полная стенограмма переговоров Юрия Гагарина с Землей с момента его посадки в корабль (за два часа до старта) до выхода корабля "Востока-1" из зоны радиоприема |work=Cosmoworld.ru |accessdate=30 March 2008 |language=ru}}&lt;/ref&gt;
+
+&lt;ref name="ir73"&gt;{{cite web |url=http://www.interfax-religion.com/?act=interview&amp;div=24 |title=I am proud to be accused of having introduced Yury Gagarin to Orthodoxy |work=Interfax-religion.com |date=12 April 2006 |accessdate=30 March 2008 |archiveurl=https://archive.is/20130521230555/http://www.interfax-religion.com/?act=interview&amp;div=24 |archivedate=21 May 2013 |deadurl=no |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="ir8361"&gt;{{cite web |url=http://www.interfax-religion.com/?act=news&amp;div=8361 |title=Gagarin's family celebrated Easter and Christmas, Korolev used to pray and confess |work=Interfax-religion.com |date=11 April 2011 |archiveurl=https://archive.is/20130521231326/http://www.interfax-religion.com/?act=news&amp;div=8361 |archivedate=21 May 2013 |deadurl=no |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="mkegypt"&gt;{{cite web |url=http://mkegypt.net/etobilonedavno/308--11 |script-title=ru:На орбите дружбы |work=МК в Египте |date=24 April 2011 |language=ru |deadurl=yes |archiveurl=https://web.archive.org/web/20121027112813/http://mkegypt.net/etobilonedavno/308--11 |archivedate=27 October 2012 |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="wcml"&gt;{{cite web |url=http://www.wcml.org.uk/contents/international/cold-war/yuri-gagarin-in-manchester/ |title=Yuri Gagarin in Manchester |work=WCML.org.uk |first=John |last=Callow |date=17 January 2009 |accessdate=12 April 2010}}&lt;/ref&gt;
+
+&lt;ref name="French1998"&gt;{{Cite journal |url=http://yurigagarin50.org/history/gagarin-in-britain/gagarin-in-manchester |title=Yuri Gagarin's Visit to Manchester |journal=Spaceflight |publisher=British Interplanetary Society |first=Francis |last=French |authorlink=Francis French |date=July 1998 |volume=40 |issue=7 |accessdate=7 March 2011}}&lt;/ref&gt;
+
+&lt;ref name="krulwich2011"&gt;{{cite web |url=https://www.npr.org/blogs/krulwich/2011/03/23/134597833/cosmonaut-crashed-into-earth-crying-in-rage |title=Cosmonaut Crashed Into Earth 'Crying In Rage' |work=Krulwich Wonders ''via'' NPR.org |first=Robert |last=Krulwich |date=18 March 2011 |accessdate=12 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="airspace20110501"&gt;{{cite journal |url=http://www.airspacemag.com/space-exploration/The-Family-He-Left-Behind.html?story=fullstory |title=The Family He Left Behind |journal=[[Air &amp; Space]] |first=Allen |last=Abel |date=May 2011 |accessdate=26 March 2013}}&lt;/ref&gt;
+
+&lt;ref name="euronews20110412"&gt;{{cite web |url=http://www.euronews.net/2011/04/12/gagarin-in-his-daughter-s-words/ |title=Gagarin in his daughter's words |work=Euronews.net |date=12 April 2011 |accessdate=27 April 2012}}&lt;/ref&gt;
+
+&lt;ref name="rea20110411"&gt;{{cite web |url=http://www.rea.ru/Main.aspx?page=REA_NEWS&amp;NewsItem=2975 |archive-url=https://archive.is/20130417123044/http://www.rea.ru/Main.aspx?page=REA_NEWS&amp;NewsItem=2975 |dead-url=yes |archive-date=17 April 2013 |script-title=ru:Праздничные мероприятия, посвященные 50-летию полета Ю.А. Гагарина в космос |publisher=Rea.ru |date=11 April 2011 |accessdate=27 April 2012 |language=ru}}&lt;/ref&gt;
+
+&lt;ref name="telegraph080801"&gt;{{Cite news |url=https://www.telegraph.co.uk/news/worldnews/europe/russia/1425937/KGB-held-ground-staff-to-blame-for-Gagarin%27s-death.html |title=KGB held ground staff to blame for Gagarin's death |work=[[The Daily Telegraph]] |first=Ben |last=Aris |date=28 March 2008 |accessdate=1 August 2008}}&lt;/ref&gt;
+
+&lt;ref name="ScotlandSunday-GagarinInquiry"&gt;{{cite news |url=http://scotlandonsunday.scotsman.com/world/Inquiry-promises-to-solve-Gagarin.2615429.jp |title=Inquiry promises to solve Gagarin death riddle |work=[[Scotland on Sunday]] |first=Ed |last=Holt |date=3 April 2005 |accessdate=30 March 2008}}&lt;/ref&gt;
+
+&lt;ref name="airspace20100901"&gt;{{Cite journal |url=http://www.airspacemag.com/space-exploration/What-Made-Yuri-Fall.html |title=What Made Yuri Fall? |journal=[[Air &amp; Space]] |first=Andrew |last=Osborn |date=September 2010 |accessdate=24 September 2010}}&lt;/ref&gt;
+
+&lt;ref name="belfast171"&gt;{{cite news |url=http://www.belfasttelegraph.co.uk/news/world-news/article2442171.ece |title=Kremlin vetoes new inquiry into mystery death of Yuri Gagarin |work=[[The Belfast Telegraph]] |first=Andrew |last=Osborn |date=12 April 2007 |accessdate=30 March 2008 |archiveurl=https://archive.is/20130114013704/http://www.belfasttelegraph.co.uk/news/world-news/kremlin-vetoes-new-inquiry-into-mystery-death-of-yuri-gagarin-13432548.html |archivedate=14 January 2013 |deadurl=yes |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="afp20110408"&gt;{{Cite news |url=https://www.google.com/hostednews/afp/article/ALeqM5iyJUQulpBwoJk3rHAiK7mNM73eRw?docId=CNG.a9a3bd2a391cf386442c29b6c7f67b99.3b1 |title=Russia sheds light on Gagarin death mystery |work=[[Agence France-Presse|AFP]] |first=Anna |last=Malpas |date=8 April 2011 |accessdate=8 April 2011 |archiveurl=https://archive.is/20130326071427/http://www.google.com/hostednews/afp/article/ALeqM5iyJUQulpBwoJk3rHAiK7mNM73eRw?docId=CNG.a9a3bd2a391cf386442c29b6c7f67b99.3b1 |archivedate=26 March 2013 |deadurl=no |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="LeonovBook"&gt;{{Cite book |title=Two Sides of the Moon |publisher=Thomas Dunne Books |location=[[New York City|New York]] |first1=Alexei |last1=Leonov |first2=David |last2=Scott |page=218 |year=2004 |isbn=0-312-30865-5 |oclc=56587777}}&lt;/ref&gt;
+
+&lt;ref name="rt20130614"&gt;{{cite news |url=http://rt.com/news/gagarin-death-truth-revealed-674/ |title=Death of Yuri Gagarin demystified 40 years on |work=[[RT (TV network)|RT.com]] |date=14 June 2013 |archiveurl=https://archive.is/20130615070238/http://rt.com/news/gagarin-death-truth-revealed-674/ |archivedate=15 June 2013 |deadurl=yes |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="unitoday20130614"&gt;{{cite news |url=http://www.universetoday.com/102934/details-of-yuri-gagarins-tragic-death-revealed/ |title=Details of Yuri Gagarin's Tragic Death Revealed |work=Universe Today |first=Jason |last=Major |date=14 June 2013 |accessdate=17 June 2013}}&lt;/ref&gt;
+
+&lt;ref name="bbc20110307"&gt;{{cite web |url=https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-12661377 |title=Memories sought of Yuri Gagarin's way into space |work=BBC News |last=Williams |first=Huw |date=7 March 2011 |accessdate=11 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="guardian20110313"&gt;{{cite news |url=https://www.theguardian.com/science/2011/mar/13/yuri-gagarin-first-space-korolev |title=Sergei Korolev: the rocket genius behind Yuri Gagarin |work=[[The Guardian]] |last=McKie |first=Robin |date=13 March 2011 |accessdate=11 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="natgeo20090721"&gt;{{cite web |url=http://news.nationalgeographic.com/news/2009/07/090721-apollo-11-moonlanding-facts.html |title=Apollo 11: 5 Little-Known Facts About the Moon Landing |work=National Geographic |first=Anne |last=Minard |date=21 July 2009 |accessdate=3 April 2014}}&lt;/ref&gt;
+
+&lt;ref name="Aldrin1989"&gt;{{cite book |title=Men From Earth |publisher=Bantam |location=New York |first1=Buzz |last1=Aldrin |first2=Malcolm |last2=McConnell |year=1989 |isbn=0553053744}}&lt;/ref&gt;
+
+&lt;ref name="Geppert2012"&gt;{{cite book |title=Imagining Outer Space: European Astroculture in the Twentieth Century |publisher=Palgrave Macmillan |location=New York |first=Philip |last=Pocock |editor-first=Alexander C. T. |editor-last=Geppert |pages=335–336 |year=2012 |isbn=0230231721}}&lt;/ref&gt;
+
+&lt;ref name="slate20131216"&gt;{{cite news |url=http://www.slate.com/articles/health_and_science/science/2013/12/sculpture_on_the_moon_paul_van_hoeydonck_s_fallen_astronaut.html |title=The Sculpture on the Moon |work=[[Slate (magazine)|Slate]] |first1=Corey S. |last1=Powell |first2=Laurie Gwen |last2=Shapiro |date=16 December 2013 |accessdate=3 April 2014}}&lt;/ref&gt;
+
+&lt;ref name="cbr"&gt;{{cite web |url=http://www.cbr.ru/bank-notes_coins/base_of_memorable_coins/main.asp?IsDetal=0&amp;Year=9&amp;s_cat=1 |script-title=ru:База данных по памятным и инвестиционным монетам |work=CBR.ru |accessdate=30 March 2008 |language=ru |deadurl=yes |archiveurl=https://web.archive.org/web/20081219070358/http://www.cbr.ru/bank-notes_coins/base_of_memorable_coins/main.asp?IsDetal=0&amp;Year=9&amp;s_cat=1 |archivedate=19 December 2008 |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="coinupdate"&gt;{{cite web |url=http://news.coinupdate.com/yuri-gagarin-featured-on-russian-gold-and-silver-coins-0772/ |title=Yuri Gagarin Featured on Russian Gold and Silver Coins |work=Coin Update |date=14 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="spm100519"&gt;{{Cite news |url=http://www.sportspromedia.com/news/ufa_sports_to_market_kontinental_hockey_league/ |title=UFA Sports to market Kontinental Hockey League |work=SportsPro Media |first=Adam |last=Fraser |date=19 May 2010 |accessdate=19 August 2010}}&lt;/ref&gt;
+
+&lt;ref name="spacefoundation"&gt;{{cite web |url=http://www.spacefoundation.org/news/story.php?id=1038 |title=Space Foundation Survey Reveals Broad Range of Space Heroes |work=Space Foundation |date=27 October 2010 |accessdate=17 January 2011 |deadurl=yes |archiveurl=https://www.webcitation.org/69vzcgxKu?url=http://www.spacefoundation.org/media/press-releases/space-foundation-survey-reveals-broad-range-space-heroes-early-astronauts-still?id=1038 |archivedate=15 August 2012 |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="flight20110115"&gt;{{cite news |url=http://www.flightglobal.com/articles/2011/01/15/351904/picture-first-armavia-superjet-awaits-delivery.html |title=Picture: First Armavia Superjet awaits delivery |work=FlightGlobal.com |first=David |last=Kaminski-Morrow |date=15 January 2011 |accessdate=17 January 2011}}&lt;/ref&gt;
+
+&lt;ref name="guardian20110406"&gt;{{Cite news |url=https://www.theguardian.com/science/2011/apr/06/yuri-gagarin-orbital-flight-1961 |title=How Yuri Gagarin's historic flight was nearly grounded |work=[[The Guardian]] |first=Tom |last=Parfitt |date=6 April 2011 |accessdate=7 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="guardian20110411"&gt;{{cite news |title=What Yuri Gagarin saw: First Orbit film to reveal the view from Vostok 1 |url=https://www.theguardian.com/science/blog/2011/apr/11/yuri-gagarin-first-orbit-vostok |work=[[The Guardian]] |first=Christopher |last=Riley |date=11 April 2011 |accessdate=12 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="youtube20110411"&gt;{{cite web |url=//www.youtube.com/watch?v=H6BThA641Rg |title=Yuri's Night 2011 International Space Station Crew: 50th Anniversary of Human Spaceflight |publisher=YouTube.com |date=11 April 2011 |accessdate=27 April 2012}}&lt;/ref&gt;
+
+&lt;ref name="tourbillon"&gt;{{cite web |url=http://www.thegagarintourbillon.com/en/ |title=The Gagarin Tourbillon |publisher=The Gagarin Tourbillon |accessdate=27 April 2012}}&lt;/ref&gt;
+
+&lt;ref name="mannedaero"&gt;{{cite web |url=http://space.kursknet.ru/cosmos/english/machines/stma21.sht |title=Spacecraft "Soyuz-TMA21" |work=Manned Aeronautics |first=Alexander |last=Anikeev |date=29 April 2011 |accessdate=1 May 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120313132659/http://space.kursknet.ru/cosmos/english/machines/stma21.sht |archivedate=13 March 2012 |df=dmy-all}}&lt;/ref&gt;
+
+&lt;ref name="almanaquebrasil"&gt;{{cite web |url=http://www.almanaquebrasil.com.br/curiosidades-historia/6522-para-yuri-gagarin-brasilia-era-um-planeta-diferente.html |title=Para Yuri Gagarin, Brasília era um planeta diferente |trans-title=For Yuri Gagarin, Brasil was a different planet |work=Brasil Almanaque de Cultura Popular |language=Portuguese |first=Bruno |last=Hoffmann |accessdate=26 September 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20121030172525/http://www.almanaquebrasil.com.br/curiosidades-historia/6522-para-yuri-gagarin-brasilia-era-um-planeta-diferente.html |archivedate=30 October 2012 |df=dmy-all}}&lt;/ref&gt;
+
+}}
+
+===Sources===
+* {{cite book |url=https://books.google.com/books?id=2f4pSA4S8UwC&amp;pg=PA140 |title=Soviet and Post-Soviet Identities |publisher=Cambridge University Press |location=Cambridge |editor1-first=Mark |editor1-last=Bassin |editor2-first=Catriona |editor2-last=Kelly |pages=140–141 |year=2012 |isbn=1107011175}}
+* {{cite book |title=Sportsmen of the Soviet Army |publisher=Novosti Press Agency |location=Moscow |first=Vyacheslav Mikhailovich |last=Gavrilin |year=1973 |oclc=23374154}}
+* {{cite book |title=The Rocket Men: Vostok &amp; Voskhod, the First Soviet Manned Spaceflights |publisher=Springer |first1=Rex |last1=Hall |first2=David |last2=Shayler |page=350 |date=May 2001 |isbn=1-85233-391-X}}
+* {{cite book |title=Challenge to Apollo: The Soviet Union and the Space Race, 1945–1974 |publisher=NASA |location=Washington, D.C. |first=Asif A |last=Siddiqi |year=2000 |id=SP-2000-4408 |oclc=48909645}} [https://history.nasa.gov/SP-4408pt1.pdf Part 1 (page 1-500)], [https://history.nasa.gov/SP-4408pt2.pdf Part 2 (page 501-1011)].
+
+==Further reading==
+* {{Cite book |title=Vostok 1: First Human in Space |publisher=Enslow |location=Springfield, NJ |first=Michael D |last=Cole |year=1995 |isbn=0-89490-541-4}}
+* {{Cite book |title=Starman: The Truth Behind the Legend of Yuri Gagarin |publisher=Bloomsbury |location=London |first1=Jamie |last1=Doran |first2=Piers |last2=Bizony |authorlink=Piers Bizony |year=1998 |isbn=0-7475-4267-8}}
+* {{Cite book |title=The Cosmonaut Who Couldn't Stop Smiling: The Life and Legend of Yuri Gagarin |publisher=Northern Illinois University Press |first=Andrew L |last=Jenks |year=2012 |isbn=978-0-87580-447-7}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|Yuri Gagarin}}
+{{External media
+|topic     = Memorial to Gagarin and Seregin at crash location
+|subtopic  = Google Maps
+|font-size = 110
+|image1    = [https://maps.google.com/maps?ll=56.061303,39.032707&amp;spn=0.047057,0.165997&amp;t=h&amp;z=13&amp;iwloc=lyrftr:com.panoramio.all,767965484473153919,56.046541,39.027214&amp;lci=com.panoramio.all Memorial obelisk photo]
+|image2    = [https://maps.google.com/maps?ll=56.046493,39.027214&amp;spn=0,0.165997&amp;t=h&amp;z=13&amp;lci=com.panoramio.all&amp;layer=c&amp;cbll=56.046493,39.027214&amp;cbp=12,0,0,5&amp;photoid=po-12066999 Memorial obelisk closeup photo]
+|image3    = Coordinates {{coord|56.04664|N|39.0265|E|}}
+}}
+* [https://web.archive.org/web/20020309191044/http://www.astronautix.com/astros/gagarin.htm Biography] by [[Encyclopedia Astronautica]]
+* [http://www.ispyspace.com/Yuri_Gagarin.html Biography] by [[Colin Burgess (author)|Colin Burgess]]
+* [http://www.yurisnight.net/ Yuri's Night], an annual worldwide space party
+* [http://www.yurigagarin50.org/ YuriGagarin50.org], the 50th anniversary of Yuri Gagarin's flight into space
+* [https://www.nytimes.com/learning/general/onthisday/bday/0309.html Obituary] by ''[[The New York Times]]'', 28 March 1968
+* {{Find a Grave|3485}}
+
+; Multimedia
+* [https://www.youtube.com/watch?v=RKs6ikmrLgg ''First Orbit''], feature film on YouTube by [[First Orbit]]
+* [https://www.youtube.com/watch?v=b0ktgWlN7SE ''First Man in Space: Yuri Gagarin''], short film on YouTube by [[Roscosmos]]
+* {{Internet Archive film|id=gov.archives.arc.2049958|title=Soviet Man in Space (1961)}}
+* {{Internet Archive film|id=1961-04-19_First_Pictures|title=Soviets Hail Space Hero (1961)}}
+* [http://kp.ru/photo/gallery/1918/?showall=1 Photo gallery] by KP.ru
+* [http://sputniknews.com/photo/20140309/188254029.html Photo gallery] by Sputnik News
+{{Pilot-Cosmonaut of the USSR}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gagarin, Yuri}}
+[[Category:1934 births]]
+[[Category:1961 in spaceflight]]
+[[Category:1968 deaths]]
+[[Category:Aviators killed in aviation accidents or incidents]]
+[[Category:Burials at the Kremlin Wall Necropolis]]
+[[Category:Foundrymen]]
+[[Category:Heroes of the Soviet Union]]
+[[Category:Honorary citizens of Baikonur]]
+[[Category:People from Gagarinsky District, Smolensk Oblast]]
+[[Category:Recipients of the Order of Georgi Dimitrov]]
+[[Category:Recipients of the Order of Karl Marx]]
+[[Category:Recipients of the Order of Klement Gottwald]]
+[[Category:Recipients of the Order of Lenin]]
+[[Category:Recipients of the Order of the African Star]]
+[[Category:Recipients of the Order of the Cross of Grunwald, 1st class]]
+[[Category:Recipients of the Order of the Flag of the Hungarian Republic]]
+[[Category:Recipients of the Order of the Nile]]
+[[Category:Russian aviators]]
+[[Category:Russian explorers]]
+[[Category:Russian Orthodox Christians from Russia]]
+[[Category:Russian Orthodox Christians from the Soviet Union]]
+[[Category:Soviet Air Force officers]]
+[[Category:Soviet cosmonauts]]
+[[Category:Victims of aviation accidents or incidents in the Soviet Union]]
+[[Category:Yuri Gagarin| ]]</text>
+      <sha1>7f4xdyny6vr973hh54n7wsf8fgnvxm1</sha1>
+    </revision>
+  </page>
+</mediawiki>

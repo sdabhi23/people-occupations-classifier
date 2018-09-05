@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wil Shriner</title>
+    <ns>0</ns>
+    <id>3258058</id>
+    <revision>
+      <id>854699026</id>
+      <parentid>827347037</parentid>
+      <timestamp>2018-08-13T05:10:21Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3857">{{Infobox person
+| name          = Wil Shriner
+| image         = 
+| imagesize     = 200px
+| caption       = Wil Shriner
+| birth_name    =
+| birth_date    = {{birth date and age|1953|12|06}}
+| birth_place   = [[New York City, New York]], [[United States|U.S.]]
+| othername     = 
+| website       = 
+| spouse        = 
+| occupation    = {{Flatlist|
+* [[Comedian]]
+* [[actor]]
+* [[film director]]
+* [[screenwriter]]
+* [[game show host]]}}
+| parents = [[Herb Shriner]]
+| relatives = [[Kin Shriner]] (twin brother)
+}}
+
+'''Wil Shriner''' (born December 6, 1953) is an American actor, comedian, film director, screenwriter and game show host.&lt;ref&gt;[http://movies.nytimes.com/person/65464/Wil-Shriner The New York Times] {{webarchive |url=https://web.archive.org/web/20080624191000/http://movies.nytimes.com/person/65464/Wil-Shriner |date=June 24, 2008 }}&lt;/ref&gt;
+
+==Life and career==
+Shriner was born in [[New York City]], [[New York (state)|New York]], the twin brother of soap opera actor [[Kin Shriner]], and the son of Eileen "Pixie" McDermott and [[Herb Shriner]], a [[Hoosier]] humorist who had several shows in the early days of television, including ''Two for the Money'' and ''The Herb Shriner Show''. Wil made his first appearance on ''[[The Tonight Show Starring Johnny Carson]]'' and then went on to be a regular on the NBC morning show ''[[The David Letterman Show]].''  For one season in the 1980s (1987–88), he hosted ''The Wil Shriner Show'', a nationally syndicated Group W television talk show. ''[[TV Guide]]'' described the program as "a daily variety-talk show featuring celebrity guests, segments on health and fitness, and interviews with authors and experts."&lt;ref&gt;''TV Guide'' (San Francisco Metropolitan Edition), Sept. 12, 1987.&lt;/ref&gt;
+
+He also hosted two game shows, the American version of ''[[That's My Dog]]'' (replacing [[Steve Skrovan]]) from 1993 until its cancellation in 1995 and ''[[Small Talk (U.S. game show)|Small Talk]]''.  During the early 1990s, he also hosted a weekly syndicated series about amateur and well-known inventors called ''Why Didn't I Think of That?'', which ran for two years.  He also hosted the [[Miss Teen USA 1989]] pageant.  He spent four years as a correspondent and guest host on the ABC network morning show ''Home Show''.
+
+In a 1990 episode of the television show ''[[Designing Women]]'', Suzanne Sugarbaker ([[Delta Burke]]) references Wil Shriner as being the emcee for the 1976 [[Miss Georgia (U.S. state)|Miss Georgia]] pageant.
+
+He began directing sitcoms in 2000, including episodes of ''Frasier'', ''Becker'', and ''Everybody Loves Raymond.'' He also directed episodes of ''Raising Dad'', ''My Wife and Kids'', ''Norm'', ''Married to the Kellys'', ''Luis'', ''Ladies Man'', ''Two Guys and a Girl'', and ''[[Living With Fran]]''.
+
+In 2006, he wrote the screenplay for, and directed, the feature film ''[[Hoot (film)|Hoot]]'', which was released by New Line Cinema on over 3000 screens. The family film came out on DVD in August 2006. ''Hoot'' was added to the film collection of the Museum of Modern Art in 2009.&lt;ref&gt;[http://www.moma.org/collection/object.php?object_id=128415 Hoot's acquisition by MOMA] Retrieved May 9, 2009.&lt;/ref&gt;
+
+He now regularly appears on the Paul and Young Ron morning radio show on BIG105.9 FM and also on Real Radio 94.3 FM.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.willshriner.com}}
+*{{IMDb name|795407}}
+*{{facebook|wil.shriner}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shriner, Wil}}
+[[Category:1953 births]]
+[[Category:American film directors]]
+[[Category:American game show hosts]]
+[[Category:American television directors]]
+[[Category:Living people]]
+[[Category:Male actors from New York City]]
+[[Category:Twin people from the United States]]
+[[Category:University of Florida alumni]]
+[[Category:American male screenwriters]]</text>
+      <sha1>8r64cxlm9z2cs6fc88jauphqi5on054</sha1>
+    </revision>
+  </page>
+</mediawiki>

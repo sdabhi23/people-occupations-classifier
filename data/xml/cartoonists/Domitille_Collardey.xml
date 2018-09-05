@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Domitille Collardey</title>
+    <ns>0</ns>
+    <id>24200037</id>
+    <revision>
+      <id>837626057</id>
+      <parentid>733291842</parentid>
+      <timestamp>2018-04-22T00:29:01Z</timestamp>
+      <contributor>
+        <username>Mitch Ames</username>
+        <id>6326132</id>
+      </contributor>
+      <comment>Remove supercategory of existing category per [[WP:SUBCAT]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1558">{{Multiple issues|
+{{BLP sources|date=January 2013}}
+{{No footnotes|date=January 2013}}
+{{BLP primary sources|date=September 2009}}
+}}
+
+'''Domitille Collardey''' (born 1981) is a French [[cartoonist]] and comic book designer. She is best known for her founding the Chicou-Chicou comics collective with Aude Picault.
+She currently lives in [[Paris]] and Brooklyn, NY.
+
+==Education==
+Domitille graduated from les Arts Decoratifs de Paris in 2004.
+
+==Comics==
+Domitille founded and participated in the project Chicou-Chicou with Aude Picault, Lisa Mandel, Boulet and Erwann Surcouf for three years. A 485-page compilation of the artists' work was published by French publisher Delcourt in November 2008, in the Lewis Trondheim imprint Shampooing. Lewis Trondheim, Ruppert et Mulot and [[Émile Bravo]] have made guest appearances in the project Chicou-Chicou.
+
+Domitille collaborated with journalist Jacques Braunstein on "Famille recompose toi" in 2008. Hachette Litératures
+
+She is currently working on the adaptation of Jean Teulé's novel "The Suicide Shop" for French publisher Delcourt, with Olivier Ka.
+
+She works for various press publications, such as Technikart, Beaux Arts Magazine, and Double.
+
+
+
+==External links==
+* [http://www.domitille-collardey.com/ Domitille Collardey's Official Site]
+* [http://www.chicou-chicou.com/ Project chicou-Chicou]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Collardey, Domitille}}
+[[Category:French women artists]]
+[[Category:French cartoonists]]
+[[Category:1981 births]]
+[[Category:Living people]]
+
+
+{{cartoonist-stub}}</text>
+      <sha1>3ovnbrqmcezl0bl5epfc2h2811rdqp3</sha1>
+    </revision>
+  </page>
+</mediawiki>

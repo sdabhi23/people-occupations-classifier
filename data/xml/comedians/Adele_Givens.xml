@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adele Givens</title>
+    <ns>0</ns>
+    <id>14076440</id>
+    <revision>
+      <id>853417459</id>
+      <parentid>824886141</parentid>
+      <timestamp>2018-08-04T17:08:40Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2795">{{Infobox person
+| name          = Adele Givens
+| image         = 
+| image_size    =
+
+| birth_date    = {{Birth date and age|mf=yes|1968|7|1}}
+| birth_place   = [[Chicago, Illinois]], U.S.
+| nationality = [[United States|American]]
+| death_date    = 
+| death_place   = 
+| occupation    = Actress, comedian, writer
+| years_active  = 1989–present 
+| website= [http://adelegivenstoo.com/ Official Website]
+}}
+'''Adele Givens''' (born '''Willadele Givens'''; July 1, 1968) is an [[United States|American]] [[actress]] and [[comedian]]. Her television appearances include ''[[The Hughleys]]'', ''[[Moesha]]'', ''[[The Parkers]]'', ''[[Comedy Central Presents]]'', ''[[Def Comedy Jam]]'', ''[[Russell Simmons Presents Def Poetry]]'', ''[[Martin (TV series)|Martin]]'', ''[[Tracey Takes On...]]'' and ''[[The Steve Harvey Show]]''.  She currently lives in [[Lexington, Kentucky]].
+
+==Career==
+Givens was the 1989 Grand Prize Winner of the Crown Royal Comedy Contest held at the [[New Regal Theater|Regal Theater]] in [[Chicago, Illinois]]. The next year, Givens was a finalist in the [[Miller Lite Comedy Search]], which was won by [[Bernie Mac]]. Her movie appearances include ''[[Beauty Shop]]'' and ''[[The Players Club]]''. Givens and fellow African American female comedians [[Mo'Nique]], [[Laura Hayes]] and [[Sommore]] were the stars of ''[[The Queens of Comedy]]'' tour, which was filmed and subsequently shown on [[Showtime (TV network)|Showtime]] and released on [[DVD]]. In 2001, she hosted ''[[The Source (magazine)|The Source]]'''s Hip Hip Awards Preshow which was shown on [[UPN]].
+
+==References==
+*Anonymous. [http://www.highbeam.com/doc/1P3-1092037841.html "'Queen of Comedy' Adele Givens to perform at Funny Bone"] Call &amp; Post. Call and Post Newspapers P-W Publishing. 2006. HighBeam Research. 16 Aug. 2009 &lt;http://www.highbeam.com&gt;.
+*[http://www.highbeam.com/doc/1P3-622356151.html "Miller Comedy Search celebrates 16 years of hilarious comedy"] [[Chicago Defender]], Real Times Inc. 2003. HighBeam Research. 16 Aug. 2009 &lt;http://www.highbeam.com&gt;.
+*[http://www.highbeam.com/doc/1G1-119328454.html "Adele Givens: `Queen' for a while"] Philadelphia Daily News (via Knight-Ridder/Tribune NewsService). 2003. HighBeam Research. 16 Aug. 2009 &lt;http://www.highbeam.com&gt;.
+
+==External links==
+*{{IMDb name|0321437}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Givens, Adele}}
+[[Category:African-American actresses]]
+[[Category:20th-century American actresses]]
+[[Category:African-American comedians]]
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:Actresses from Chicago]]
+[[Category:American women comedians]]
+[[Category:American television actresses]]
+[[Category:Comedians from Illinois]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>2okebdmtc82tu29fbatzvuv0jlboznv</sha1>
+    </revision>
+  </page>
+</mediawiki>

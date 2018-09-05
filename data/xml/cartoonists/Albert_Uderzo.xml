@@ -1,0 +1,154 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Albert Uderzo</title>
+    <ns>0</ns>
+    <id>77788</id>
+    <revision>
+      <id>846844803</id>
+      <parentid>838377434</parentid>
+      <timestamp>2018-06-21T06:59:54Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10018">{{multiple issues|
+{{BLP sources|date=March 2012}}
+{{lead too short|date=March 2012}}
+}}
+{{Infobox comics creator
+| image         = Uderzo.jpg
+| imagesize     = 
+| caption       = Uderzo in 2005.  Photo by Christian Koehn
+| birth_place   = [[Fismes]], [[Marne]], [[French Third Republic|France]]
+| death_date    = 
+| death_place   = 
+| nationality   = French
+| write         = y
+| art           = y
+| alias         = 
+| signature     = Uderzo signature.png
+| signature_alt = Albert Uderzo's signature
+| notable works = ''[[Asterix|Astérix]]''&lt;br/&gt;''[[Tanguy et Laverdure]]''&lt;br/&gt;''[[Oumpah-pah]]''
+| collaborators = [[René Goscinny]]
+| influences    = 
+| influenced    = 
+| awards        = [[#Awards|full list]]
+| website       = 
+| nonUS         = y
+| subcat        = French
+| birth_date    = {{Birth date and age|1927|04|25|df=yes}}
+}}
+'''Alberto Aleandro Uderzo''' ({{IPA-fr|albɛʁ ydɛʁzo}}; {{IPA-it|uˈdɛrtso|lang}}; born 25 April 1927), known as '''Albert Uderzo''', is a French [[comic book artist]] and [[Script (comic)|scriptwriter]]. The son of [[Italians|Italian]] immigrants, he is best known for his work on the ''[[Asterix|Astérix]]'' series and also drew other comics such as ''[[Oumpah-pah]]'', also in collaboration with [[René Goscinny]].
+
+Uderzo retired from drawing in September 2011.&lt;ref&gt;[https://www.bbc.co.uk/news/entertainment-arts-15072853]&lt;/ref&gt;
+
+==Early life==
+Uderzo was born in [[Fismes]] ([[Marne]], France), to parents, Silvio (of [[Veneto|Venetian]] descent) and Iria Crestini (of [[Tuscany|Tuscan]] descent), who had recently immigrated from [[La Spezia]], [[Italy]].&lt;ref&gt;{{cite book|last1=Uderzo|first1=Albert|title=Albert Uderzo se raconte...|date=2008|publisher=Stock|isbn=9782234062726|page=8|url=https://books.google.com/books?id=iR6Jnlm2i14C}}&lt;/ref&gt; He was born with six fingers on each hand, and the redundant fingers were later surgically removed.&lt;ref&gt;{{cite news|title=Un irréductible gaulois né en un quart d'heure|url=http://www.lejdd.fr/Culture/Livres/Actualite/Un-irreductible-gaulois-ne-en-un-quart-d-heure-143209|accessdate=3 January 2018|publisher=Le Journal du Dimanche|date=18 October 2009}}&lt;/ref&gt; When he first tried painting as a child, it was discovered he was color-blind, unable to distinguish red from green.&lt;ref&gt;{{cite web|title=Albert Uderzo Dessinateur|url=http://www.dargaud.com/bd/Auteurs/Uderzo-Albert|website=Dargaud|publisher=Dargaud|accessdate=3 January 2018}}&lt;/ref&gt; His childhood ambition was to become an aircraft mechanic, despite his talents in art becoming apparent at an early age.
+
+Uderzo obtained French citizenship in 1934, and during [[World War II]], the teenaged Uderzo left Paris and spent a year in [[Brittany]], where he worked on a farm and helped with his father's furniture business. He loved Brittany, both for its scenery and its people. Many years later, when the time came to choose a location for Asterix's village, Goscinny left the decision entirely to Uderzo, only stipulating it should be near the sea in case the characters needed to travel by boat. Uderzo had no hesitation in choosing Brittany.
+
+Uderzo began a successful career as an artist in Paris after the war ended in 1945, with creations such as ''Flamberge'' and also ''Clopinard'', a small one-legged old man who triumphs against the odds. From 1947 to 1948 he created some other comics, such as ''Belloy'' and ''Arys Buck''.
+
+==Working with Goscinny==
+Throughout some more creations and travelling for the next few years, he eventually met [[René Goscinny]] in 1951. The two men quickly became good friends, and decided to work together in 1952 at the newly opened Paris office of the Belgian company, World Press. Their first creations were the characters [[Oumpah-pah]], Jehan Pistolet and Luc Junior.&lt;ref name="lambiek"&gt;{{cite web | last = Lambiek Comiclopedia | title = Albert Uderzo | url =http://lambiek.net/artists/u/uderzo.htm}}&lt;/ref&gt;&lt;ref name="lagardere"&gt;{{cite web | last = Lagardère | title = Release of the 33rd Asterix volume | url =http://www.lagardere.com/us/actualites/detail_actu.cfm?idt=9&amp;idn=5994&amp;nav=0 }}&lt;/ref&gt; In 1958 they adapted ''Oumpah-pah'' for serial publication in the [[Franco-Belgian comics]] magazine ''[[Tintin (magazine)|Tintin]]'', though it ran only until 1962.&lt;ref name="asterix int"&gt;{{cite web|last=Asterix International! |title=Albert Uderzo |url=http://www.asterix-international.de/asterix/uderzo.shtml |deadurl=yes |archiveurl=https://web.archive.org/web/20041208183211/http://www.asterix-international.de/asterix/uderzo.shtml |archivedate=2004-12-08 }}&lt;/ref&gt; In 1959 Goscinny and Uderzo became editor and artistic director (respectively) of ''[[Pilote]]'' magazine, a new venture aimed at older children. The magazine's first issue introduced Astérix to the French world, and it was an instant hit.&lt;ref name="lambiek"/&gt;&lt;ref name="Pilote-1959"&gt;{{cite web | last =BDoubliées | title =Pilote année 1959 | url =http://bdoubliees.com/journalpilote/series1/asterix.htm | language = French }}&lt;/ref&gt; During this period Uderzo also collaborated with [[Jean-Michel Charlier]] on the realistic series ''[[Tanguy et Laverdure|Michel Tanguy]]'', later named ''Les Aventures de Tanguy et Laverdure''.&lt;ref name="lambiek"/&gt;
+
+Astérix was serialised in ''Pilote'', but in 1961 the first album ''Astérix le gaulois (Asterix the Gaul)'' was published as an individual album. By 1967, the comic had become so popular that both decided to completely dedicate their time to the series. After Goscinny's death in 1977, Uderzo continued to write and illustrate the books on his own, though at a significantly slower pace (averaging one album every three to five years compared to two albums a year when working with Goscinny). The cover credits still read "Goscinny and Uderzo".
+
+==Family==
+Uderzo married Ada Milani in 1953 and has one daughter Sylvie Uderzo (b. 1956).  According to ''The Book of Asterix the Gaul'', it was speculated that Uderzo had based the characters [[Recurring characters in Asterix#Gauls|Panacea]] and [[Asterix and Caesar's Gift|Zaza]] on Ada and Sylvie respectively, though this has been denied by Uderzo.
+
+After Uderzo fired Sylvie and her husband in 2007 as managers of his estate and agreed to sell his share of Editions Albert René to [[Hachette Livre]], Sylvie accused him in a column in ''[[Le Monde]]'', that with this sale to a corporation it was "as if the gates of the Gaulish village had been thrown open to the Roman Empire". Uderzo had previously stated in interviews that Asterix would end with his death; however, the terms of the sale to Hachette allowed the company to continue producing Asterix titles indefinitely with or without Uderzo's participation. Uderzo in 2013 sued his daughter and son-in-law for "psychological violence". Sylvie responded with a lawsuit claiming persons unnamed had abused her father's "frailty". Her case was thrown out of court in 2014 and the two reached an amicable settlement.&lt;ref&gt;{{cite news|title=Asterix creator Uderzo ends long dispute with daughter|url=https://www.bbc.com/news/world-europe-29378542|accessdate=3 January 2018|publisher=BBC|date=26 September 2014}}&lt;/ref&gt;
+
+Since Uderzo's retirement in 2011, Asterix has been taken over by [[Jean-Yves Ferri]] (script) and [[Didier Conrad]] (art).
+
+Sylvie owns 40% of [[Editions Albert René]], while the remaining 60%, previously owned by Uderzo and by Goscinny's daughter, is currently owned by Hachette Livre.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/news/world/europe/dont-leave-our-asterix-in-a-fix-dad-1366733.html | title=Don't leave our Asterix in a fix, dad |accessdate=2009-01-16 |author=Estelle Shirbon |date=2009-01-15 |publisher=The Independent| archiveurl= https://web.archive.org/web/20090118005556/http://www.independent.co.uk/news/world/europe/dont-leave-our-asterix-in-a-fix-dad-1366733.html| archivedate= 18 January 2009 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+Uderzo has a brother, Marcel, also a cartoonist.&lt;ref&gt;{{cite web|author= |url=http://lambiek.net/artists/u/uderzo_marcel.htm |title=Comic creator: Marcel Uderzo |publisher=Lambiek.net |date=2006-12-18 |accessdate=2010-12-31}}&lt;/ref&gt;
+
+''[[Asterix and the Falling Sky]]'' was dedicated to his late brother Bruno (1920–2004).
+
+==Awards==
+* 1985: Awarded the Knight of the [[Légion d'honneur|Legion of Honour]].
+* 2005: Inducted into the [[Eisner Award]] Hall of Fame, U.S.
+* 2007: Awarded the Knight of the [[Order of the Netherlands Lion]]
+
+According to the [[UNESCO]]'s [[Index Translationum]], Uderzo is the 10th most often translated French language author (Goscinny being 4th) and the third most often translated French language comics author behind [[René Goscinny]] and [[Hergé]].&lt;ref&gt;[http://databases.unesco.org/xtrans/stat/xTransStat.a?VL1=A&amp;top=10&amp;sl=FRA&amp;lg=0 Index Translationum French top 10]&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons|Albert Uderzo|Albert Uderzo}}
+* [http://www.asterix.com ''Astérix'' official site]
+* {{cite web |url= http://lambiek.net/artists/u/uderzo.htm |title= Albert Uderzo |website= [[Lambiek|Lambiek Comiclopedia]] }}
+* {{cite web |url= http://www.asterix-international.de/asterix/uderzo.shtml |title= Albert Uderzo |website= Asterix International |quote= Pre-1977 biography |dead-url= usurped |archive-date= Dec 8, 2004 |archive-url= https://web.archive.org/web/20041208183211/http://www.asterix-international.de/asterix/uderzo.shtml }}
+
+{{Asterix|Uderzo, Albert|type=people}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Uderzo, Albert}}
+[[Category:1927 births]]
+[[Category:French comics artists]]
+[[Category:French comics writers]]
+[[Category:Living people]]
+[[Category:People from Marne]]
+[[Category:French people of Italian descent]]
+[[Category:People of Venetian descent]]
+[[Category:People of Tuscan descent]]
+[[Category:Asterix]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:Will Eisner Award Hall of Fame inductees]]
+[[Category:Chevaliers of the Légion d'honneur]]
+[[Category:Knights of the Order of the Netherlands Lion]]</text>
+      <sha1>gesqgch4dcpgk2qfrjfdjdvgh7o9h4z</sha1>
+    </revision>
+  </page>
+</mediawiki>

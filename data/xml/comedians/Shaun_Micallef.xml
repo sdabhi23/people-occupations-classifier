@@ -1,0 +1,255 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shaun Micallef</title>
+    <ns>0</ns>
+    <id>1289475</id>
+    <revision>
+      <id>852783017</id>
+      <parentid>851447982</parentid>
+      <timestamp>2018-07-31T10:00:00Z</timestamp>
+      <contributor>
+        <ip>121.221.164.199</ip>
+      </contributor>
+      <comment>/* Books */Added content</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24525">{{EngvarB|date=November 2013}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox comedian
+| name        = Shaun Micallef
+| image       = Shaun Micallef in ABC Studio 31.jpg
+| caption     = Shaun Micallef in July 2012
+| birth_name  = Shaun Patrick Micallef
+| birth_date  = {{birth date and age|1962|7|18|df=y}}
+| birth_place = [[Adelaide|Adelaide, South Australia]], Australia
+| education = [[University of Adelaide]]
+| medium      = Television, radio, books, internet
+| nationality = Australian
+| active      = 1987–present
+| genre       = [[Sketch comedy]], [[surrealism]], [[dada]]ism, [[absurdism]], [[political satire]]
+| subject     = Humour
+| influences  = [[The Goons]],&lt;ref name="Age Interview" /&gt; [[Peter Sellers]], [[Marx Brothers]],&lt;ref&gt;{{cite web |author=MacNaughton, Tanya |url=http://www.shaunmicallef.com/articles/xpress.html |title=Shaun Micallef |work=Xpress Online |date=16 February 2005 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106013704/http://www.shaunmicallef.com/articles/xpress.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt; [[S. J. Perelman]], [[James Thurber]], [[Spike Milligan]],&lt;ref name="comedy bites" /&gt; [[Barry Humphries]], [[Frank Muir]],&lt;ref name="full frontal"&gt;{{cite web |author=Dodds, Joy |url=http://www.shaunmicallef.com/articles/cityweekly.html |title=Full Frontal Shaun |work=City Weekly |date=30 September 2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20070819015012/http://www.shaunmicallef.com/articles/cityweekly.html |archivedate=19 August 2007 |df=dmy-all }}&lt;/ref&gt; [[Monty Python]],&lt;ref&gt;{{cite web |author=Micallef, Shaun |url=http://www.shaunmicallef.com/articles/fanqa.html |title=Smowah's Exlusive Fan Q &amp; A with Shaun Micallef |work=Shaun Micallef's Online World Around Him |year=2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106004659/http://www.shaunmicallef.com/articles/fanqa.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt; [[Woody Allen]]
+| influenced  = [[Sammy J]]&lt;ref&gt;{{cite web |author=Davidson, Erin |url=http://www.thegroggysquirrel.com/articles/2006/06/18/nuts-about-sammy-j/ |title=Nuts About Sammy J |work=The Groggy Squirrel |date=18 June 2007 |accessdate=19 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080724214337/http://www.thegroggysquirrel.com/articles/2006/06/18/nuts-about-sammy-j/ |archivedate=24 July 2008 |df=dmy-all }}&lt;/ref&gt;
+| spouse      = {{marriage|Leandra|1989}}
+| children    = 3 
+| notable_work=''[[The Micallef P(r)ogram(me)]]''&lt;br /&gt;''[[Welcher &amp; Welcher]]''&lt;br /&gt;''[[Micallef Tonight]]''&lt;br /&gt;''[[Newstopia]]''&lt;br /&gt;''[[Thank God You're Here]]'' (2006–2007)&lt;br /&gt;''[[Talkin' 'Bout Your Generation]]''&lt;br /&gt;''[[Shaun Micallef's Mad as Hell]]''
+| signature   =
+| website     =
+| footnotes   =
+}}
+'''Shaun Patrick Micallef''' (born 18 July 1962) is an Australian actor, comedian and writer. After ten years of working in insurance law as a solicitor in [[Adelaide]], Micallef moved to [[Melbourne]] to pursue a full-time comedy career in 1993.  He first gained recognition as a cast member of the [[sketch comedy]] show ''[[Full Frontal (Australian TV series)|Full Frontal]]'', which led to a number of television roles including his own sketch show, ''[[The Micallef P(r)ogram(me)]]'', the sitcom ''[[Welcher &amp; Welcher]]'' and the variety show ''[[Micallef Tonight]]''.  He also fronted the satirical news comedy series ''[[Newstopia]]'' on [[Special Broadcasting Service|SBS]], hosted the game show ''[[Talkin' 'Bout Your Generation]]'' on [[Network Ten]] for four seasons, and ''[[Shaun Micallef's Mad as Hell]]'' on the [[ABC Television|ABC]]. He also co-created and starred in ''[[Mr &amp; Mrs Murder]]'' on Network Ten. 
+ 
+In addition to his television work Micallef has appeared on stage, most notably in the Australian production of ''[[Boeing Boeing (play)|Boeing Boeing]]'' and on radio as the co-host of Melbourne station [[Vega FM|Vega 91.5 FM]]'s morning program.  He is also a published author with three books: ''[[Smithereens (book)|Smithereens]]'' (2004, re-released 2011), ''[[Preincarnate (book)|Preincarnate]]'' (2010) and ''The President's Desk''  (2014).
+
+==Early life and education==
+Micallef was born in [[Adelaide|Adelaide, South Australia]], and is of [[Maltese people|Maltese]] and Irish descent.&lt;ref name="Age Interview"&gt;{{cite web |author=Beck, Chris | url=http://www.theage.com.au/news/tv--radio/the-interview/2005/11/08/1131407640193.html?oneclick=true | title=The Interview |work=The Age |date=10 November 2005 | accessdate=20 August 2008}}&lt;/ref&gt; His father worked for a company that sold parts for Volvos and his mother was employed at the [[Adelaide Bank]].&lt;ref name="anything"&gt;{{cite web |author=Wilkie, Meredith |url=http://www.shaunmicallef.com/articles/anything.html |title=Anything for a laugh |work=The Sun-Herald |date=4 February 2001 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106111214/http://www.shaunmicallef.com/articles/anything.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt;
+
+As a child, Micallef lived in [[Clovelly Park, South Australia|Clovelly Park]] and attended St Bernadette's School in [[St. Marys, South Australia|St Marys]] then St Joseph's Catholic School in [[Mitchell Park, South Australia|Mitchell Park]] (now [[Sacred Heart College Middle School]]) before moving on to [[Sacred Heart College Senior, Adelaide|Sacred Heart Senior College]] where he was the College Captain.&lt;ref name="messenger"&gt;{{cite web |author=Goldsmith, David | url=http://guardian-messenger.whereilive.com.au/news/story/illustrious-company-for-sacred-heart-old-scholars/ | title=Illustrious company for Sacred Heart old scholars |work=Guardian Messenger |date=16 September 2009 | accessdate=20 October 2010}}&lt;/ref&gt;
+
+Micallef studied law at the [[University of Adelaide]], where he was frequently involved in comedy revues, often involving [[Francis Greenslade]] and [[Gary McCaffrie]], with whom he continues to work.&lt;ref&gt;{{cite web |author=Rafalowicz, Alex |url=http://www.shaunmicallef.com/articles/flinders.html |title=Interview: Shaun Micallef |work=Empire Times (Flinders University) |date=February 2005 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106131513/http://www.shaunmicallef.com/articles/flinders.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt;
+
+==Career==
+
+Shaun Micallef was influenced by [[The Goons]],&lt;ref name="Age Interview" /&gt; [[Peter Sellers]], [[Marx Brothers]],&lt;ref&gt;{{cite web |author=MacNaughton, Tanya |url=http://www.shaunmicallef.com/articles/xpress.html |title=Shaun Micallef |work=Xpress Online |date=16 February 2005 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106013704/http://www.shaunmicallef.com/articles/xpress.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt; [[S. J. Perelman]], [[James Thurber]], [[Spike Milligan]],&lt;ref name="comedy bites" /&gt; [[Barry Humphries]], [[Frank Muir]],&lt;ref name="full frontal"&gt;{{cite web |author=Dodds, Joy |url=http://www.shaunmicallef.com/articles/cityweekly.html |title=Full Frontal Shaun |work=City Weekly |date=30 September 2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20070819015012/http://www.shaunmicallef.com/articles/cityweekly.html |archivedate=19 August 2007 |df=dmy-all }}&lt;/ref&gt; [[Monty Python]],&lt;ref&gt;{{cite web |author=Micallef, Shaun |url=http://www.shaunmicallef.com/articles/fanqa.html |title=Smowah's Exlusive Fan Q &amp; A with Shaun Micallef |work=Shaun Micallef's Online World Around Him |year=2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106004659/http://www.shaunmicallef.com/articles/fanqa.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt; and [[Woody Allen]].
+
+===Early theatre===
+In 1972, having three younger sisters taking ballet classes, ten-year-old Micallef was often asked to help out when a dance routine required a boy. The following year he auditioned for the Bunyip Children's Theatre and over the next four years participated in plays that they performed in the Scott Theatre during school holidays. In 1976 he doubled for [[Humphrey B. Bear]] for personal appearances.&lt;ref&gt;{{cite web|title=Spicks and Specks, Episode Twenty Three|url=http://www.abc.net.au/tv/spicksandspecks/txt/s2287764.htm|publisher=Australian Broadcasting Corporation|accessdate=9 February 2014|quote=He recently admitted on a raido that he played the popular children's character Humphrey B. Bear for a period of three weeks during the 1970s.}}&lt;/ref&gt;
+
+===Legal career===
+Micallef was a practising solicitor for ten years in the field of insurance law before making the decision to move to Melbourne and pursue a full-time career in comedy in 1993.&lt;ref name="anything" /&gt;
+
+He relates the story that, while working as a solicitor, he talked so much about making a career change and becoming a comedian that his wife Leandra gave him an ultimatum: she marked a date on a calendar and told him to quit his job and become a comedian by that date or never talk about it again.&lt;ref&gt;{{cite news|last=Lallo|first=Michael|title=His current affair|url=http://www.theage.com.au/news/tv--radio/btvb-micallef-rewrites-headlines-with-comedy-inewstopiai/2007/10/02/1191091106590.html?page=fullpage|accessdate=9 February 2014|newspaper=The Age|date=4 October 2007|quote=Fed up with his all-talk, no-action attitude, his wife Leandra issued an ultimatum. "She put an X on the calendar and said, 'You have to have done something about it by this date or you have to shut up.'"}}&lt;/ref&gt;
+
+===Television and film===
+Following early TV appearances on ''[[Theatre Sports]]'' (1987) and ''[[The Big Gig]]'' (1989), in early 1993 Micallef was offered a job writing for the ''[[Jimeoin]]'' show which was soon followed by an offer to also write for the sketch comedy show ''[[Full Frontal (Australian TV series)|Full Frontal]]'' where six months later he took on the role as co-producer with Gary McCaffrie. In 1994, Micallef became a full-time cast member of ''Full Frontal'', where he became well known for characters such as [[Milo Kerrigan]], [[Nobby Doldrums]] and a send-up of Italian [[male model]] [[Fabio Lanzoni|Fabio]].  Micallef recalls that the show was a good introduction to television comedy because, with an ensemble cast, its success did not hinge on his performance and he had more freedom to make and learn from mistakes.  However, he was frustrated with the lack of control he had over his work in the series as well as the repetition of characters and gags.&lt;ref name="anything" /&gt;
+
+Micallef's role on ''Full Frontal'' led to a 1996 special ''[[Shaun Micallef's World Around Him]]'' and three seasons of the two-time [[Logie Award]]-winning [[ABC Television|ABC]] series ''[[The Micallef Program]]'' (1998–2001), which he co-wrote and produced with long-time writing partner [[Gary McCaffrie]].&lt;ref&gt;{{cite web |author=Martin, Simon |url=http://www.shaunmicallef.com/articles/mercury.html |title=Shaun Micallef |work=The Mercury |date=October 2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106123822/http://www.shaunmicallef.com/articles/mercury.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt; Since the series' end he has created and starred in two short-lived television series, the sitcom ''[[Welcher &amp; Welcher]]'' (2003) and the variety show ''[[Micallef Tonight]]'' (2003),&lt;ref name=record&gt;{{cite web |author=Witham, Katrina |url=http://www.shaunmicallef.com/articles/couriermail.html |title=Micallef on the Record |work=The Courier Mail |date=9 September 2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090106120309/http://www.shaunmicallef.com/articles/couriermail.html |archivedate=6 January 2009 |df=dmy-all }}&lt;/ref&gt; and devised a series of telemovies, ''[[BlackJack (telemovie)|BlackJack]]'' (2003–present).&lt;ref&gt;{{cite web |author=Courtis, Brian | url=http://www.theage.com.au/news/tv--radio/grumpy-old-man/2005/09/08/1125772628702.html | title=Grumpy old man |work=The Age |date=11 September 2005 | accessdate=20 August 2008}}&lt;/ref&gt;
+
+Micallef has also had acting roles in the television series ''[[SeaChange]]'' (2000), ''Through My Eyes'' (2004) and ''[[Offspring (TV series)|Offspring]]'' (2010) as well as supporting roles in the films ''[[Bad Eggs]]'' (2003), ''[[The Honourable Wally Norman]]'' (2003), ''[[The Extra]]'' (2005), ''[[Aquamarine (film)|Aquamarine]]'' (2006) and ''[[The King (2007 film)|The King]]'' (2007).  In 2006, he was a recurring guest on the [[Network Ten]] [[Improvisational theatre]] show ''[[Thank God You're Here]]''.
+
+In 2007, along with partners McCaffrie and Michael Ward, Micallef developed the satirical comedy program ''[[Newstopia]]'', which he hosted. The show began airing on 10 October 2007 on SBS and in August 2008 it was announced that a third series had been commissioned.&lt;ref&gt;{{cite web |author=Body, Michael | url=http://www.theaustralian.news.com.au/story/0,25197,24139143-7582,00.html | title=Fremantle gives old favourites a new lease of life |work=The Australian |date=7 August 2008 | accessdate=20 August 2008}}&lt;/ref&gt; In 2009, Micallef joined the Ten Network and hosted ''[[Talkin' 'Bout Your Generation]]'', which aired for four seasons.
+
+In 2012, Micallef began hosting [[ABC (Australian TV channel)|ABC1]]'s ''[[Shaun Micallef's Mad as Hell]]''.&lt;ref&gt;[http://www.abc.net.au/tv/madashell/ Shaun Micallef's Mad As Hell] – Australian Broadcasting Corporation – Retrieved 1 June 2012.&lt;/ref&gt;
+
+He co-created ''[[Mr &amp; Mrs Murder]]'', a crime comedy television series for Channel Ten which aired in 2013, and starred in the lead role of Charlie Buchanan alongside [[Kat Stewart]]. Also that year, Micallef signed on to voice the artificially intelligent robot REEF in the Australian feature length science fiction film ''Arrowhead'' (2014).
+
+===Other work===
+In September 2005, Micallef began hosting the breakfast show "Shaun, Beverley and Denise" on Melbourne radio station Vega 91.5 FM with comedian [[Denise Scott]] and television presenter [[Beverley O'Connor]].  In July 2006, comedian [[Dave O'Neil]] took over as host and the show was renamed "Dave and Denise with Shaun Micallef".  Micallef left the network on 23 November 2007.&lt;ref&gt;{{cite web |author=McPhee, Ross |url=http://www.shaunmicallef.com/articles/earlylight.html |title=By Shaun's Early Light |work=Herald Sun |date=28 September 2005 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20060520131946/http://www.shaunmicallef.com/articles/earlylight.html |archivedate=20 May 2006 |df=dmy-all }}&lt;/ref&gt;
+
+Micallef released a book, ''Smithereens'', which was published in 2004 and contains a collection of prose, poetry and plays.  He describes it as a collection of "all sorts of bits and pieces I have written".&lt;ref name="comedy bites"&gt;{{cite web |author=Brookfield, Joanne |url=http://www.shaunmicallef.com/articles/bigissue.html |title=Comedy Bites |work=The Big Issue No. 214 |date=18 October 2004 |accessdate=20 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20070817194457/http://www.shaunmicallef.com/articles/bigissue.html |archivedate=17 August 2007 |df=dmy-all }}&lt;/ref&gt;&lt;ref name="record" /&gt;  His second book, a novella titled ''[[Preincarnate (book)|Preincarnate]]'', was released in 2010.
+
+In October 2014, Micallef released his third book, ''The President's Desk: An Alt-History of the United States''; a semi-fictitious history, told from the perspective of the [[Resolute desk]].&lt;ref&gt;{{cite web|title=The President's Desk - Shaun Micallef|url=http://www.hardiegrant.co.uk/books/the-presidents-desk|archive-url=https://web.archive.org/web/20141006085855/http://www.hardiegrant.co.uk/books/the-presidents-desk|dead-url=yes|archive-date=6 October 2014|website=www.hardiegrant.co.uk/books|accessdate=3 October 2014}}&lt;/ref&gt;
+
+===Mainstream popularity===
+With Micallef's 2009 move to the Ten Network's ''Talkin' 'Bout Your Generation'', a sudden and unprecedented rise in his popularity within the Australian mainstream has been observed.&lt;ref&gt;{{cite web |author=Hassall, Greg | url=http://www.smh.com.au/news/entertainment/tv--radio/talking-bout-regeneration/2009/06/22/1245522773961.html | title=Talking 'bout regeneration |work=The Sydney Morning Herald |date=22 July 2009 | accessdate=23 September 2009}}&lt;/ref&gt; His contract with the program marks his first long-term position in a commercial network and has raised his profile in commercial television. The extent of this has been demonstrated with celebrity appearances on [[Rove McManus]]'s ''[[Rove (TV series)|Rove]]'',&lt;ref&gt;{{cite web |url=http://www.rovedaily.com.au/show-info-the-show-guest-shaun-micallef.htm |title=Archived copy |accessdate=2009-09-23 |deadurl=yes |archiveurl=https://web.archive.org/web/20090917110930/http://www.rovedaily.com.au/show-info-the-show-guest-shaun-micallef.htm |archivedate=17 September 2009 |df=dmy-all }}&lt;/ref&gt; ''[[Are You Smarter Than a 5th Grader? (Australian game show)|Are You Smarter Than a 5th Grader?]]''&lt;ref&gt;https://www.imdb.com/name/nm0584017/&lt;/ref&gt; and on ''[[9am with David &amp; Kim]]''.&lt;ref name="9am.ten.com.au"&gt;http://9am.ten.com.au/9am-05-05-2009.htm{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;  In 2010, he was voted most popular presenter at the annual [[Logie Award]]s.&lt;ref name="9am.ten.com.au"/&gt;
+
+==Personal life==
+Micallef currently lives in [[Williamstown, Victoria]], with his wife Leandra, whom he married in 1988, and their three sons.&lt;ref name="Age Interview" /&gt;&lt;ref&gt;{{cite web |author=McCulloch, Janelle | url=http://www.shaunmicallef.com/articles/city.html | title=Interview: Shaun Micallef |work=My City |date=August 2003 | accessdate=20 August 2008 |archiveurl=https://web.archive.org/web/20120330212727/http://www.shaunmicallef.com/articles/city.html |archivedate=30 March 2012 }}&lt;/ref&gt;
+
+==List of works==
+
+===Films===
+*''Arrowhead'' (2014) – REEF (voice)
+*''[[The Cup (2011 film)|The Cup]]'' (2011) – [[Lee Freedman]]
+*''[[The King (2007 film)|The King]]'' (2007) – Colin Bednall
+*''[[Aquamarine (film)|Aquamarine]]'' (2006) – Storm Banks
+*''[[The Extra]]'' (2005) – Paul Ridley
+*''[[Bad Eggs]]'' (2003) – Premier Cray
+*''[[The Honourable Wally Norman]]'' (2003) – Ken Oats
+* The 13th House (2003) – Sir
+*''Silly Billy Don't Touch That!'' (unknown)
+
+===Television===
+*''[[The Ex-PM]]'' (2015) - Andrew Dugdale
+*''[[Shaun Micallef's Stairway to Heaven]]'' (2014) - himself
+*''[[Live On Bowen]]'' (2014) - himself (guest)
+*''[[It's a Date (TV series)|It's a Date]]'' (2013-) – Roland (Season 2, Episode 2)
+*''[[Danger 5]]'' (2012, 2014) - Principal
+*''[[Mr &amp; Mrs Murder]]'' (2013) – Charlie Buchanan
+*''[[Shaun Micallef's Mad as Hell]]'' (2012–) – host
+*''Mollusks'' (2011) – Easty (voice)
+*''[[The Bazura Project|The Bazura Project's Guide To Sinema]]'' (2011) – MK-Ultra (voice)
+*''[[Laid (TV series)|Laid]]'' (2011–2012) – G-Bomb
+*''[[A Quiet Word With&amp;nbsp;...]]'' (2011) – himself (guest)
+*''[[Offspring (TV series)|Offspring]]'' (2010) – Lachlan
+*''Shaun Micallef's New Year's Rave'' – host
+*''[[Are You Smarter Than a 5th Grader? (Australian game show)|Are You Smarter Than a 5th Grader?]]''
+*''[[The Chaser's War on Everything]]'' (2009) – himself (guest in the Rudd song sketch)
+*''[[Rove (TV series)|Rove]]'' (2009) – himself (guest)
+*''Melbourne International Comedy Festival'' (2009) – host
+*''[[Talkin' 'Bout Your Generation]]'' (2009–2012, 2018–) – host
+*''[[Good News Week]]'' (2009) – himself (guest)
+*''[[Spicks and Specks (TV series)|Spicks and Specks]]'' (2008) – himself (guest)
+*''[[Newstopia]]'' (2007–2008) – himself
+*''[[Dogstar (TV series)|Dogstar]]'' (2007) – narrator
+*''[[Thank God You're Here]]'' (2006–2007) – various (semi-regular guest)
+*''[[The Shambles (community television program)|The Shambles]]'' (2006) – (guest cameo)
+*''[[Through My Eyes (film)|Through My Eyes]]'' (2005) – Jack Winneke
+*''[[BlackJack (telemovie)|BlackJack]]'' (2003–2007) (writer)
+*''[[Micallef Tonight]]'' (2003) – himself (also writer)
+*''[[Welcher &amp; Welcher]]'' (2003) – Quentin Welcher (also writer and producer)
+*''[[SeaChange]]'' (2000) – Warwick Munro
+*''[[The Micallef Program]]'' (1998–2001) – various (also writer and producer)
+*''[[Under Melbourne Tonight]]'' (1996) -  Guest&lt;ref&gt;{{cite web |url=http://web.aanet.com.au/~vfok/umt/episodes/list96.htm |title=Archived copy |accessdate=2014-02-06 |deadurl=yes |archiveurl=https://web.archive.org/web/20140116120913/http://web.aanet.com.au/~vfok/umt/episodes/list96.htm |archivedate=16 January 2014 |df=dmy-all }}&lt;/ref&gt;
+*''[[Shaun Micallef's World Around Him]]'' (1996) – various (also writer and producer)
+*''[[The Glynn Nicholas Show]]'' (1996) (writer)
+*''[[Full Frontal (Australian TV series)|Full Frontal]]'' (1994–1997) – various (also writer and producer)
+*''[[Jimeoin (TV series)|Jimeoin]]'' (1994) – various (also writer)
+*''[[The Big Gig]]'' (1989) (writer)
+
+===Theatre===
+*''[[Boeing-Boeing (play)|Boeing Boeing]]'' (2008) – Bernard
+*''[[Good Evening - Sketches from Dudley Moore and Peter Cook]]'' (2010)
+*''[[The Odd Couple (play)|The Odd Couple]]'' (2016)
+
+===Radio shows===
+*''[[Dave and Denise with Shaun Micallef]]'' on [[Vega FM|Vega 91.5 FM]] (2005–2007)
+*''[[Hamish &amp; Andy]]'' on [[Fox FM (Melbourne)|Fox FM]] (a guest twice)
+*''[[Pete and Myf]]'' (with ''[[Newstopia]]'' writer [[Richard Marsland]] on [[Triple M]] (guest two times)
+*''[[Get This]]'' appeared on the final show in the first hour
+*''The Comedy Crystal Set'' – Adelaide University Radio, Co-host
+
+===Books===
+*''Tales from a Tall Forest'' (2017)
+*''The President's Desk'' (2014)
+*''[[Preincarnate (book)|Preincarnate]]'' (2010)
+*''[[Smithereens (book)|Smithereens]]'' (2004)
+
+===Music===
+* His Generation (2009)
+
+==Awards==
+*2012: Named Comedian of the Year at the GQ Men of the Year Awards, which celebrates the country's finest actors, comedians, sportsmen, musicians and creative visionaries.&lt;ref&gt;{{cite web | author=Joanne Hawkins |  url=https://www.gq.com.au/men+of+the+year/2012+winners/shaun+micallef,20839 | title=Men of the Year 2012 Winners | accessdate= 14 November 2012}}&lt;/ref&gt;
+*2008: Won [[ARIA Music Awards|Aria Award]] [[ARIA Music Awards of 2008|Best Comedy Release]] – ''The Expurgated Micallef Tonight: The Very Best of Shaun Micallef's Short-Lived but Brilliant Tonight Show''&lt;ref&gt;{{cite news|author=Cameron Adams &amp; Jane Metlikovec|url=http://www.news.com.au/heraldsun/story/0,21985,24521049-2902,00.html|title=Dandenong teenager Gabriella Cilmi: she'll be sweet|newspaper=The Age|date=20 October 2008|accessdate=20 October 2008|deadurl=yes|archiveurl=https://web.archive.org/web/20081021132227/http://www.news.com.au/heraldsun/story/0,21985,24521049-2902,00.html|archivedate=21 October 2008}}&lt;/ref&gt;
+*2010: Won Most Popular Presenter and nominated for the [[Gold Logie]] at the [[Logie Awards]] for his role on ''Talkin' 'Bout Your Generation''.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikiquote}}
+*[http://www.shaunmicallefonline.com Unofficial Shaun Micallef fansite]
+*[https://web.archive.org/web/*/http://www.shaunmicallef.com Original unofficial Shaun Micallef fansite (archived)]
+* {{IMDb name|584017}}
+
+{{Portal|Biography}}
+
+{{s-start}}
+{{s-ach}}
+{{s-bef|before=[[Andrew Denton]]}}
+{{s-ttl|title=Host of the [[Logie Awards]]|years=2001}}
+{{s-aft|after=[[Wendy Harmer]]}}
+{{s-break}}
+{{s-bef|before=[[Rove McManus]]}}
+{{s-ttl|title=[[Logie Award]]&lt;br /&gt;[[Logie Award for Most Popular TV Presenter|Most Popular TV Presenter]]|years=2010&lt;br /&gt;for ''[[Talkin' 'Bout Your Generation]]''}}
+{{s-aft|after=[[Karl Stefanovic]]}}
+{{s-end}}
+
+{{AACTAAward ComedyPerformance}}
+{{Logie Awards hosts}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Micallef, Shaun}}
+[[Category:1962 births]]
+[[Category:ARIA Award winners]]
+[[Category:Australian male comedians]]
+[[Category:Australian male film actors]]
+[[Category:Australian people of Irish descent]]
+[[Category:Australian people of Maltese descent]]
+[[Category:Australian solicitors]]
+[[Category:Australian television presenters]]
+[[Category:Comedians from Melbourne]]
+[[Category:Lawyers from Adelaide]]
+[[Category:Living people]]
+[[Category:Logie Award winners]]
+[[Category:People from Williamstown, Victoria]]
+[[Category:Talkin' 'Bout Your Generation]]
+[[Category:University of Adelaide Law School alumni]]</text>
+      <sha1>nmhj5myknnfk8knb82suqx4ncf3kza8</sha1>
+    </revision>
+  </page>
+</mediawiki>

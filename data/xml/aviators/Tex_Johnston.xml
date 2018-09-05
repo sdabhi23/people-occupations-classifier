@@ -1,0 +1,165 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alvin M. Johnston</title>
+    <ns>0</ns>
+    <id>928314</id>
+    <revision>
+      <id>846434796</id>
+      <parentid>844765853</parentid>
+      <timestamp>2018-06-18T19:31:34Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:American aviators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7641">{{Redirect|Tex Johnston|the baseball player|Rankin Johnson, Sr.}}
+{{Use mdy dates|date=May 2012}}
+{{Infobox aviator
+|name=Alvin M. "Tex" Johnston
+|image=
+|image_size=
+|caption=
+|full_name=Alvin Melvin "Tex" Johnston
+|birth_date={{birth date|1914|8|18}}
+|birth_place=[[Admire, Kansas]]
+|death_date={{death date and age|1998|10|29|1914|8|14}}
+|death_place=
+|death_cause=
+|nationality=American
+|spouse=
+|relatives=
+|known_for=
+|first_flight_aircraft=
+|first_flight_date=1925
+|famous_flights=[[Boeing 707]] and [[B-52]] test flights
+|license_date=
+|license_place=
+|air_force=
+|battles=
+|rank=
+|awards=1946 [[Thompson Trophy]]
+}}
+
+'''Alvin Melvin "Tex" Johnston''' (August 18, 1914 – October 29, 1998) was an American jet-age [[test pilot]] for [[Bell Aircraft]] and the [[Boeing Commercial Airplanes|Boeing Company]].
+
+==Early years==
+Johnston was born August 18, 1914, in [[Admire, Kansas]], to farmers Alva and Ella Johnston. He made his first flight in 1925, at eleven years old, when a [[Barnstorming|barnstormer]] landed near his home. That day, he decided to become a pilot. He received mechanics and pilot instruction, soloing at age fifteen. After graduating from high school, Johnston began barnstorming himself. Later he returned to school for engineering, but dropped out in 1939 before he finished the required courses to get his degree.
+
+He married his wife DeLores in 1935.
+
+He was a civilian instructor for the [[Civilian Pilot Training Program]]. Once the United States entered World War II, Johnston transferred to the U.S. Army Air Corps Ferry Command.&lt;ref&gt;{{cite book
+  | last1 = Jackson
+  | first1 = Kenneth T.
+  | last2= Markoe
+  | first2 = Karen
+  | last3 = Markoe
+  | first3 = Arnie
+  | title = The Scribner Encyclopedia of American Lives
+  | publisher = Simon and Schuster
+  | year = 1998
+  | location = United States
+  | pages = 295–296
+  | url = https://books.google.com/books?id=7QsOn9_NviAC&amp;printsec=frontcover&amp;dq=The+Scribner+Encyclopedia+of+American+Lives| doi = 
+  | isbn = 978-0-684-80663-1}}&lt;/ref&gt;
+
+==Test pilot==
+In December 1942, Johnston moved to Bell Aircraft as a flight test engineer. He flew the [[P-39 Airacobra]] and the [[Bell P-63 Kingcobra|XP-63 Kingcobra]] during the prototype phases. He also flew the first US jet, the [[XP-59|XP-59 Airacomet]]. Johnston earned his nickname "Tex" because of his penchant for wearing cowboy boots and a [[Stetson hat]] on the flightline.&lt;ref name="Jet Age"&gt;Sam Howe Verhovek, ''[https://books.google.com/books?id=C3rlY7K3y5sC&amp;pg=PT28 Jet Age: The Comet, the 707, and the Race to Shrink the World]'', c. pp. 48-49&lt;!-- Sorry! Google books provides it w/o page numbers, and the index gives the entries but not the page #s --&gt;&lt;/ref&gt;
+
+After [[World War II]] ended, he bought two surplus Airacobras and modified them to enter and win the [[Thompson Trophy]] at the 1946 [[National Air Races]].  He set a race speed record of {{convert|373|mph|0}}.&lt;ref&gt;{{cite web|url=http://www.airrace.com/thompson_trophy_story.htm|title=THOMPSON TROPHY STORY|publisher=}}&lt;/ref&gt;
+
+Johnston helped design and later flew the rocket propelled [[Bell X-1]] on May 22, 1947.&lt;ref name="dryden_flight_summary"&gt;"[http://www.nasa.gov/centers/dryden/history/HistoricAircraft/X-1/fltsummary.html NASA - Dryden History - Historic Aircraft - X-1 Flight Summary]."&lt;/ref&gt; He stayed on the program as a design advisor on modifications to the trim controls that he discovered were unusable in their manufactured configuration at high subsonic speeds.  In 1991, he recounted his experience in the rocket plane in [[The Discovery Channel]]'s documentary series ''Frontiers of Flight'' stating "...the airplane was just gorgeous" and that its 18 G design was "indestructible".
+
+He became a test pilot for Boeing in July 1948. He flew the [[B-47 Stratojet]] and piloted the first flight of the Boeing [[B-52 Stratofortress]] prototype.&lt;ref name="boeing_b52_first_flight"&gt;"[http://www.boeing.com/defense-space/military/b52-strat/b52_50th/ff.htm Boeing: News Feature - B-52 50th Anniversary - First Flight] {{webarchive|url=https://web.archive.org/web/20091217203816/http://boeing.com/defense-space/military/b52-strat/b52_50th/ff.htm |date=December 17, 2009 }}."&lt;/ref&gt;
+
+Johnston is best known for performing a barnstormer-style [[barrel roll]] maneuver with Boeing's pioneering [[Boeing 367-80|367-80]] jet in a demonstration flight over [[Lake Washington]] outside [[Seattle]], on August 7, 1955.&lt;ref&gt;{{cite web | last=Thompson | first=R.G.
+  | title = Dash 80 - The story of the prototype 707
+  | publisher=Air &amp; Space Magazine | date=May 1, 1987
+  | url=http://www.airspacemag.com/history-of-flight/Dash_80.html
+  | accessdate=March 14, 2009}}
+&lt;/ref&gt; The maneuver was caught on film and was frequently shown on the Discovery Wings cable channel in a three-minute short as part of the ''Touched by History'' series, while the channel still aired. Called before the then-president of Boeing, [[William McPherson Allen|Bill Allen]], for rolling the airplane, Johnston was asked what he thought he was doing, and responded with "I was selling airplanes".  He kept his position as a test pilot, and did not get in legal trouble for his actions. Along with his cowboy style of dress, such maverick behavior is said to have inspired the creation of [[Dr. Strangelove#Slim Pickens as Major T. J. "King" Kong|''Dr. Strangelove's'' Maj. T.J. "King" Kong]] character, who, in [[rodeo]] style, rode a balky [[nuclear weapon]] to its target.&lt;ref name="Jet Age"/&gt;
+
+From 1960 to 1963, he was assistant program manager for Boeing's [[X-20 Dyna-Soar]] program in [[Seattle, Washington]].
+
+From 1964 to 1968, he was manager of the Boeing Atlantic Test Center in [[Cocoa Beach, Florida]], working on two of Boeing's programs, the [[LGM-30 Minuteman|Minuteman missile]] and the [[Lunar Orbiter program|Lunar Orbiter]] designed for the [[Apollo program|Apollo]] missions. He also worked with [[NASA]] managing Saturn and Apollo programs.
+
+In 1968 Johnston left Boeing to manage Tex Johnston, Inc., Total-In-Flight-Simulator Inc. and [[Aero Spacelines]] (which handled the manufacture and certification of an outsized cargo airplane known as the [[Aero Spacelines Pregnant Guppy|Pregnant Guppy]]).
+
+In 1975, he became director and chief pilot of [[Stanley Aviation]] Corporation, focusing on personnel escape systems ([[ejection seat]]s). Johnston was inducted into the [[National Aviation Hall of Fame]] in 1993.&lt;ref name=AviationHOF&gt;{{cite web|title=Alvin "Tex" Johnston|url=http://www.nationalaviation.org/johnston-alvin/|publisher=National Aviation Hall of Fame|accessdate=April 6, 2011}}&lt;/ref&gt;
+
+==Family and death==
+In 1991, Johnston wrote his memoirs, ''Tex Johnston: Jet Age Test Pilot'', with writer Charles Barton.
+
+Johnston developed [[Alzheimer's disease]] in the 1990s and died in 1998.
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* Johnston, A.M. and Barton, C.. ''Tex Johnston: Jet Age Test Pilot''. [[Washington, D.C.]]: [[Smithsonian Institution|Smithsonian Press]], 2000. {{ISBN|1-56098-931-9}}.
+
+==External links==
+*[http://www.aviationexplorer.com/707_roll_video.htm Video interview]
+*{{YouTube|3IV9PZW1N9U|Video of Johnston's Barrel Roll}}
+*[http://www.nationalaviation.org/johnston-alvin/ Alvin "Tex" Johnston at the National Aviation Hall of Fame]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Johnston, Alvin M.}}
+[[Category:1914 births]]
+[[Category:1998 deaths]]
+[[Category:American test pilots]]
+[[Category:Aviators from Kansas]]
+[[Category:Boeing people]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:People from Lyon County, Kansas]]
+[[Category:American aviation record holders]]</text>
+      <sha1>49bw34e9x1g2g3k8rhgrw1ehq74e3ol</sha1>
+    </revision>
+  </page>
+</mediawiki>

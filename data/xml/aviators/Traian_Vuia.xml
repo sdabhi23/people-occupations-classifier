@@ -1,0 +1,183 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Traian Vuia</title>
+    <ns>0</ns>
+    <id>300675</id>
+    <revision>
+      <id>845102219</id>
+      <parentid>843626587</parentid>
+      <timestamp>2018-06-09T11:32:39Z</timestamp>
+      <contributor>
+        <username>Kelutral</username>
+        <id>33359216</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17387">{{Infobox person
+| name        = Traian Vuia
+| image       = Traian Vuia portrait.png
+| alt         = 
+| image size  = 270px
+| caption     = 
+| birth_date  = {{Birth date |1872|08|17}} 
+| birth_place = Surducul-Mic, [[Austro-Hungarian Empire]] (now [[Traian Vuia, Timiș|Traian Vuia]], Romania)
+| death_date  = {{Death date and age
+|1950|09|03|1872|08|17}}
+| death_place = [[Bucharest]], Romania
+| nationality = Romanian&lt;ref&gt;Vuia was born to ethnically Romanian parents in the [[Kingdom of Hungary]] in territory that became part of Romania.&lt;/ref&gt;
+| other_names = 
+| known_for   = Early flying machine
+| occupation  = Inventor}}
+'''Traian Vuia''' or '''Trajan Vuia''' ({{IPA-ro|traˈjan ˈvuja}}; August 17, 1872 – September 3, 1950) was a Romanian inventor and aviation pioneer who designed, built and tested the first [[tractor configuration|tractor]] [[monoplane]]. He was the first to demonstrate that a flying machine could rise into the air by running on wheels on an ordinary road.&lt;ref&gt;{{cite journal|last1=Chanute |first1=Octave |title=Pending European Experiments in Flying |journal=The American aeronaut and aerostatist |date=October 1907 |volume=1 |issue=1 |page=13 |url=http://babel.hathitrust.org/cgi/pt?id=hvd.hx3qbs;view=image;seq=19;page=root;size=100;orient=0}}&lt;/ref&gt; He is credited with a powered hop of {{convert |11|m|ft|abbr=on}} made on March 18, [[1906 in aviation|1906]] and he later claimed a powered hop of {{convert|24|m|ft|abbr=on}}.&lt;ref&gt;{{Citation|url = http://www.airspacemag.com/history-of-flight/the-birthplaces-of-aviation-35726318/ | first = Roger A | last = Mola | title = The Birthplaces of Aviation. It didn't all happen at Kitty Hawk | newspaper = Air &amp; Space Magazine |date=August 2009}}&lt;/ref&gt;&lt;ref&gt;Angelucci,E. and Matricardi, P.; "World Aircraft: Origins–World War 1", Sampson Low (1977).&lt;/ref&gt; Though unsuccessful in sustained flight, Vuia's invention influenced [[Louis Blériot]] in designing monoplanes.&lt;ref&gt;{{cite book |title=The world's first aeroplane flights (1903–1908) and earlier attempts to fly | last =Gibbs-Smith |first=Charles Harvard |authorlink=Charles Harvard Gibbs-Smith |publisher=Her Majesty's Stationery Office |year=1965 |page=31}}&lt;/ref&gt; Later, Vuia also designed [[helicopter]]s.
+
+A French citizen from 1918, Vuia led the [[Romanians]] (especially [[Transylvania]]ns) of France in the [[French Resistance|Resistance]] during World War II. He returned to Romania just before his death in 1950.{{Sfn|Orna|1956|p =366}}
+
+==Education and early career==
+Vuia was born to Romanian parents Simion Popescu and Ana Vuia living in Surducul-Mic, a village in the [[Banat]] region, [[Austro-Hungarian Empire]], today in Romania; the place is now called [[Traian Vuia, Timiș|Traian Vuia]]. After graduating from high school in [[Lugoj]], in 1892, he enrolled in the School of Mechanics at the Polytechnic University of [[Budapest]] where he received his engineering diploma. He then joined the Faculty of Law in Budapest, Hungary, where he earned a Ph.D. in law in May 1901 with the thesis "Military and Industry, State and Contract regime".&lt;ref name="early"&gt;{{Citation | contribution-url = http://earlyaviators.com/evuia1.htm | contribution = Traia Vuia History | title = Early Aviators | accessdate = October 14, 2010}}.&lt;/ref&gt;
+
+He returned to [[Lugoj]], where he studied the problem of human flight and designed his first flying machine, which he called the "airplane-car".  He attempted to build the machine, but due to financial constraints decided to go to [[Paris]] in July 1902, hoping to find someone interested in financing his project, possibly balloon enthusiasts. He met with considerable skepticism from people who believed that a heavier-than-air machine could not fly. He then visited [[Victor Tatin]], the well-known theoretician and experimenter who had built an aircraft model which flew in 1879.  Tatin was interested in the project, but doubted that Vuia had a suitable engine or that his aircraft would be stable. Vuia then presented his plan to the [[French Academy of Sciences|Académie des Sciences]] in Paris on February 16, 1903, but was rejected with the comment: "The problem of flight with a machine which weighs more than air can not be solved and it is only a dream."&lt;ref name="PIONEER"&gt;{{Cite web|url=http://www.ctie.monash.edu.au/hargrave/vuia.html | work =Hargrave: The Pioneers | title = Traian Vuia | publisher = Centre for Telecommunications and Information Engineering, Monash University| place =  | accessdate=June 29, 2010}}&lt;/ref&gt;
+
+Undeterred, Vuia applied for a French patent on May 15, 1903, and obtained patent No. 332106 for his design.&lt;ref&gt;{{Citation | url = http://worldwide.espacenet.com/publicationDetails/biblio?FT=D&amp;CC=FR&amp;NR=332106A | title = Aéroplane automobile | type = French Patent | publisher = Espace net | id = FR332106}}.&lt;/ref&gt;&lt;ref name="acad"/&gt; He began to build his first flying machine in the winter of 1902–[[1903 in aviation|3]].  Overcoming more financial difficulties, he also started construction of an engine of his own design for which he was granted various patents, the first in 1904.&lt;ref name="acad"&gt;[http://www.bar.acad.ro/Vuiaeng.htm Traian Vuia - a Century of Aviation]&lt;/ref&gt;&lt;ref&gt;[http://romaniancoins.org/50lei2001aviatia.html Romanian Aviation Pioneers] Romainian Coins&lt;/ref&gt;
+
+==Flying experiments==
+[[File:Traian Vuia aircraft.jpg|thumb|Traian Vuia in his ''Vuia I'' flying machine in 1906]]
+By December 1905 Vuia had finished construction of his first airplane, the "Vuia I".  This was a high-wing monoplane constructed entirely of steel tubing.  The basic framework consisted of a pair of triangular frames, the lower members forming the sides of the rectangular chassis which bore four pneumatic-tyred wheels, the front pair steerable. The wing was mounted on the apices of these frames and resembled those of [[Otto Lilienthal]]'s gliders, with a number of curved steel tubes radiating outwards from centres at the apex of each of the side frames, braced by wires attached to a pair of [[kingpost#Aviation|kingposts]], and covered in varnished linen.  Pitch control was achieved by varying the [[angle of attack]] of the wing.  A trapezoidal rudder was mounted behind and below the wing.&lt;ref&gt;{{cite journal |url= http://gallica.bnf.fr/ark:/12148/bpt6k65512832/f21.image|title=L'Aéroplane sur Roues de M, Vuia|journal= [[l'Aérophile]]|date=February 1906|language=French|pages=54–5}}.&lt;/ref&gt;  It was powered by a [[carbonic acid]] gas engine driving a single tractor propeller. The 25&amp;nbsp;hp engine had to be adapted by Vuia himself as a suitable engine was not available.{{Sfn|Orna|1956|p =365}}  Liquid carbon dioxide was vaporized in a [[Gardner-Serpollet|Serpollet]] boiler and fed to a Serpollet engine. The fuel supply was enough for a running time of about five minutes at full power.&lt;ref&gt;{{citation |url= http://www.flightglobal.com/pdfarchive/view/1916/1916%20-%200912.html |title=Ten Years Ago |magazine= Flight |number=43 |volume=VIII | publisher = |via=Flightglobal |date= 19 October 1916 | page = 908 | quote = excerpts from the ''Auto'', ''Flight''’s precursor and sister journal}}.&lt;/ref&gt; The aircraft was constructed for Vuia by the Parisian engineering company of Hockenjos and Schmitt.
+ 
+Vuia chose a site in [[Montesson]], near Paris, for testing.  At first he used the machine without the wings mounted so he could gather experience controlling it on the ground. The wings were put on in March and on March 18, 1906, it lifted off briefly. After accelerating for about {{convert |50|m|ft| abbr= on}}, the aircraft left the ground and travelled through the air at a height of about {{convert|1|m|0|abbr= on}} for a distance of about {{convert |12|m|abbr= on}}, but then the engine cut out and it came down. Caught by the wind it was damaged against a tree.{{Sfn | Orna | 1956 | p = 366}}&lt;ref name= "Hadirca"&gt;{{cite web | url = http://www.biblacad.ro/Vuiaeng.htm |title=Traian Vuia |work=Century of Aviation |first1=Dan |last1= Hadirca | publisher = [[Romanian Academy Library]] |accessdate=March 18, 2012}}&lt;/ref&gt; On August 9 a longer hop of {{convert|24|m|ft|abbr=on}} at a height of about 2.5&amp;nbsp;m (8&amp;nbsp;ft) was made, ending in a heavy landing which damaged the propeller.&lt;ref&gt;{{cite magazine|url=http://gallica.bnf.fr/ark:/12148/bpt6k6551289j/f22.image|date=September 1906|pages=195–6|title=L'Aéroplane à Moteur de M. Vuia|magazine=[[L'Aérophile]]|language=French}}&lt;/ref&gt;
+
+In August 1906 he modified the aircraft, reducing the [[camber (aerodynamics)|camber]] of the wing and adding an [[elevator (aircraft)|elevator]].&lt;ref name="L'Aérophile Oct 1906"/&gt;  In this form it is sometimes called the Vuia&amp;nbsp;I-bis.
+The British aviation historian [[Charles Harvard Gibbs-Smith]] described this aircraft as "the first man-carrying monoplane of basically modern configuration", yet "unsuccessful" because it was incapable of sustained flight.&lt;ref name=Hops&gt;{{cite |authorlink=Charles Harvard Gibbs-Smith |last=Gibbs-Smith |first=Charles Harvard |date=3 April 1959 |number=2619 |volume=75 |url=http://www.flightglobal.com/pdfarchive/view/1959/1959%20-%200938.html |title=Hops and Flights |magazine=Flight |publisher=Iliffe &amp; Sons |via=flightglobal.com |page=469}}&lt;/ref&gt;
+
+The French journal ''L'Aérophile'' emphasized that Vuia's machine had the capability to take off from a flat surface, without assistance such as an incline, rails, or catapult.&lt;ref name = "L'Aérophile Feb. 1906a"&gt;{{citation |url=http://gallica.bnf.fr/ark:/12148/bpt6k65512832/f21.image |title=L'Aéroplane sur Roues de M. Vuia |trans-title=Mr Vuia’s aircraft on wheels | language = French |magazine= L'Aérophile | volume = 14 |date=February 1906  | page = 53}}.&lt;/ref&gt; At the time Europe was aware of the efforts of the [[Wright brothers]] who on December 17, 1903, had flown their ''[[Wright Flyer]]'' from level ground using a dolly undercarriage running on a guide rail, though few yet recognised the achievement. The Wrights had made sustained and controlled flights in a complete circuit by September 1904.{{Sfn | Gibbs-Smith | 1970 | pp = 100–2}}
+
+The main characteristics of the Vuia&amp;nbsp;I:&lt;ref name="L'Aérophile Feb. 1906b" &gt;{{cite magazine |url=http://gallica.bnf.fr/ark:/12148/bpt6k65512832/f22.image |title= L'Aéroplane sur Roues de M. Vuia |date=February 1906 |page = 54 |magazine=[[L'Aérophile]] |language=French}}&lt;/ref&gt;
+* Span : 8.70&amp;nbsp;m (28.7&amp;nbsp;ft)
+* Length : 5.65&amp;nbsp;m (18.6&amp;nbsp;ft)
+* Height : 2.90&amp;nbsp;m (9.5&amp;nbsp;ft)
+* Lifting surface : 20 sq.m (217 sq.ft)
+* Engine (using carbonic acid as fuel): 25&amp;nbsp;hp
+* Propeller: 2-bladed, 2.2&amp;nbsp;m (7&amp;nbsp;ft 2&amp;nbsp;in) diameter, designed by [[Victor Tatin]].
+* Weight: {{convert|241|kg|lb|abbr=on}} including fuel and pilot
+[[Image:Traian vuia flying machine.jpg|thumb|A postcard of Vuia and his 1907 airplane ''Vuia II'', shown here with folded wings]]
+
+In 1907 Vuia built the Vuia II, using an [[Leon Levavasseur|Antoinette {{convert|25|hp|kW|abbr=off}}]] internal combustion engine.  This aircraft had the same basic configuration as the Vuia&amp;nbsp;I-bis, but was both smaller and lighter, with a total weight (including pilot) of {{convert|210|kg|lb|abbr=on}} and a wingspan of {{convert|7.9|m|ft}}.&lt;ref&gt;{{cite journal|url=http://gallica.bnf.fr/ark:/12148/bpt6k6551462k/f174.image.r=vuia|date=June 1907|page=194|journal=[[l'Aérophile]]|title=L'Aéroplane Vuia No.2|language=French}}&lt;/ref&gt;  Vuia succeeded in making a brief powered hop on July 5, travelling {{convert|20|m|ft|abbr=on}}, but damaging the aircraft and suffering slight injuries on landing.&lt;ref&gt;{{cite journal|url= http://gallica.bnf.fr/ark:/12148/bpt6k6551462k/f206.image|date=July 1907|page=196|journal=[[l'Aérophile]]|language=French|title= Essais de L'Aéroplane Vuia No.2|trans-title=Trials of the Vuia No.2 aeroplane }}&lt;/ref&gt; No further attempts were made to fly the aircraft.{{Sfn | Gibbs-Smith | 1970 | p = 144}}
+
+Charles Dollfus, former curator of the Air Museum in Paris, wrote that aviation pioneer [[Alberto Santos Dumont]]'s use of wheels on his aircraft was influenced by Dumont's having seen Vuia's flight attempts.&lt;ref name="Hadirca" /&gt;
+
+==Documentation==
+Vuia reportedly made his first powered hop on March 18, 1906, in the presence of his mechanic and two close friends. Accounts of this test, published at the time, and of his later airborne tests, till August 19, 1906, are based on letters he wrote to ''[[L'Aérophile]]'', the official journal of the [[Aéro-Club de France|Aéro Club of France]].&lt;ref name=Orna365&gt;Orna 1956, p.365&lt;/ref&gt;  Vuia made the first known public demonstration of his airplane on October 8, 1906, when he became airborne for four meters, witnessed by [[Ernest Archdeacon]] and [[Eduoard Surcouf]].&lt;ref name="L'Aérophile Oct 1906"&gt;{{citation | url= http://gallica.bnf.fr/ark:/12148/bpt6k65512906/f25.image| title= L'Aéroplane Vuia |trans-title=The Vuia aircraft | language = French | newspaper = L'Aérophile | volume = 14 |date=October 1906  | pages = 242–43}}&lt;/ref&gt; Another journal of the period, ''[[Flight International|Flight]]'', credited him with a five-meter hop on October 8, 1906, as the earliest entry in a list of his tests shown in a table of "the performances which have been made by the most prominent aviators of the last few years".&lt;ref name= "flight1909"&gt;{{citation | url = http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200010.html | title = Progress of Mechanical Flight | work =Flight |date=2 January 1909 |page=12 }}&lt;/ref&gt;
+
+==Later career==
+[[File:vuia1918.jpg|thumb|Vuia helicopter 1918]]
+Between 1918 and 1921 Vuia built two experimental helicopters on the [[Juvisy]] and [[Issy-les-Moulineaux]] aerodromes.&lt;ref name = "Hadirca" /&gt;&lt;ref&gt;{{Citation | url = https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US1423636.pdf | place = US | title = Patent | id = 1423636 | publisher = Google | format = [[Portable document format|PDF]]}}.&lt;/ref&gt;
+
+He is buried at the [[Bellu Cemetery|Bellu]] cemetery in Bucharest, Romania.&lt;ref&gt;{{cite book |url= https://books.google.com/books?id=dpCCjvJ_fyQC&amp;pg=PA160-IA8 |page=160 |first=Marcel |last=Catillon |title= Mémorial aéronautique: qui était qui? |trans-title=Aeronautical memorial: who was who? | language=French |publisher=Nouvelles Editions Latines |year=1997 |isbn= 2-7233-0529-5}}&lt;/ref&gt;
+
+==Legacy==
+Another invention by Vuia was a steam generator with internal combustion that generates very high pressure – more than 100 atm (10 MPa) – that is still used today in thermal power stations. Traian Vuia and one of his partners, Emmanuel Yvonneau, patented several types of gas generators.&lt;ref name="early"/&gt;&lt;ref&gt;[http://www.google.com/patents/US1841230 Steam generator patent]&lt;/ref&gt;
+
+On May 27, 1946, Vuia was named an Honorary Member of the [[Romanian Academy]].&lt;ref&gt;{{Citation | url = http://www.acad.ro/bdar/armembriLit.php?vidT=V | publisher = Romanian Academy | title = Member list}}.&lt;/ref&gt;
+
+His birthplace, Bujoru, in [[Timiș County|Timiș]] was renamed [[Traian Vuia, Timiș|Traian Vuia]] after his death.
+
+[[Traian Vuia International Airport|Timişoara International Airport Traian Vuia]] (TSR), [[Romania]]'s third largest airport, carries his name.
+
+==Gallery==
+&lt;gallery&gt;
+File:Vuia I - 1906 (3).png|&lt;center&gt;Vuia I&lt;/center&gt;
+File:Vuia I - 1906 (4).png|&lt;center&gt;Vuia I&lt;/center&gt;
+File:Vuia II - 1907.png|&lt;center&gt;Vuia II&lt;/center&gt;
+File:Vuia II - 1907 (2).png|&lt;center&gt;Vuia II&lt;/center&gt;
+File:Vuia 1920.png|&lt;center&gt;Vuia helicopter&lt;/center&gt;
+&lt;/gallery&gt;
+
+==See also==
+* [[History of aviation]]
+* [[List of aviation pioneers]]
+* [[Early flying machines]]
+* [[Alberto Santos-Dumont]]
+* [[Clement Ader]]
+* [[Du Temple Monoplane]]
+* [[Richard Pearse]]
+* [[Gustave Whitehead]]
+
+==References==
+
+{{Reflist|30em}}
+
+===Bibliography===
+* {{cite book |last=Gibbs-Smith |first=Charles Harvard |title=Aviation: an historical survey from its origins to the end of World War II |url= https://books.google.com/books?id=hxEOAQAAIAAJ |year=1970 |location=London | publisher =[[Her Majesty's Stationery Office]] | ref = harv}}
+* {{cite magazine|url=http://www.flightglobal.com/pdfarchive/view/1956/1956%20-%200367.html |title= Modest Experimenter – Vuias Powered Flights: the Successes of a Little-known Pioneer | last= Orna | first = Bernard | date = 30 March 1956 |pages=365–66 |magazine=Flight | ref = harv}}
+
+==External links==
+{{Commons category|Traian Vuia}}
+* [http://worldwide.espacenet.com/searchResults?query=Trajan+Vuia Patents of Trajan Vuia] on Espace net.
+* [http://www.earlyaviators.com/evuia.htm Trajan Vuia] on Early aviators.
+* [http://www.century-of-flight.net/Aviation%20history/aviation%20timeline/1906.htm Aviation Timeline 1906], Century of flight.
+* [http://fly.historicwings.com/2013/02/the-traan-vuia-1/ The Traian Vuia 1] on historicwings.com.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vuia, Traian}}
+[[Category:1872 births]]
+[[Category:1950 deaths]]
+[[Category:People from Timiș County]]
+[[Category:Romanian Austro-Hungarians]]
+[[Category:French people of Romanian descent]]
+[[Category:Romanian engineers]]
+[[Category:Romanian aerospace engineers]]
+[[Category:Romanian inventors]]
+[[Category:Romanian aviators]]
+[[Category:Aviation history of Romania]]
+[[Category:Aviation inventors]]
+[[Category:Aviation pioneers]]
+[[Category:Romanian Freemasons]]
+[[Category:Honorary members of the Romanian Academy]]
+[[Category:Burials at Bellu]]</text>
+      <sha1>ekwh0fa7qa4x24l6ui7vgsrunywm62j</sha1>
+    </revision>
+  </page>
+</mediawiki>

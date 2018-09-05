@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tom Bunk</title>
+    <ns>0</ns>
+    <id>1993568</id>
+    <revision>
+      <id>804748679</id>
+      <parentid>802056808</parentid>
+      <timestamp>2017-10-10T22:10:03Z</timestamp>
+      <contributor>
+        <username>TAnthony</username>
+        <id>1808194</id>
+      </contributor>
+      <comment>Deprecated {{reflist}} parameters, remove [[Category:Redundant infobox title param|redundant]] infobox title parameter, as infobox uses the article name using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4923">{{Multiple issues|
+{{BLP sources|date=October 2017}}
+{{like resume|date=April 2017}}
+}}
+
+{{Infobox comics creator
+| image         =
+| imagesize     = 
+| caption       = {{deletable image-caption|Saturday, 17 June 2017|F7}}
+| birth_name    = 
+| birth_date    = 
+| birth_place   = 
+| death_date     = 
+| death_place    = 
+| nationality   = American
+| education     = 
+| alma_mater    = 
+| area          = Cartoonist
+| notable works = ''[[Mad (magazine)|Mad]]'' magazine
+| influenced    = 
+| website       = {{official|http://www.spalato.net/}}
+}}
+'''Tom Bunk''' (born 1945{{citation needed|date=April 2017}}) is a lifetime award-winning cartoonist known for adding multiple extraneous details to his posters, cartoons and illustrations created for both American and German publishers.
+
+==Early life==
+Tomas Maria Bunk was born in [[Split (city)|Split]], [[Croatia]]. He studied stage design and fine art at the Academy of Arts in [[Hamburg]], Germany.{{citation needed|date=April 2017}}
+
+==Career==
+In 1973, he moved to Berlin, where he began rendering humorous subjects in oil paintings. After selling these paintings in three successful shows, he turned to cartooning and contributed to underground comics in 1976.&lt;ref name=bunk&gt;Bunk, Tom. [http://www.spalato.net/index.asp "Artist Profile"]. spalato.net.  {{webarchive|url=https://web.archive.org/web/20080920065308/http://www.spalato.net/index.asp |date=2008-09-20 }}&lt;/ref&gt;
+
+His cartoon creations appeared monthly in the satirical magazine ''Pardon'', other European comic magazines and comic anthologies. After collecting his comics in three books, he moved to New York in 1983 and began drawing for ''Raw'', the graphic story magazine edited and published by [[Françoise Mouly]] and [[Art Spiegelman]]. He drew [[Topps]] trading cards, including [[Wacky Packages]] and [[Garbage Pail Kids]]. In 1990, he became a regular ''[[Mad (magazine)|Mad]]'' cartoonist, and his contributions have led some to regard him as the modern-day replacement at ''Mad'' for [[Will Elder]].&lt;ref name=bunk/&gt;
+
+He illustrates humorous and surreal oil paintings of strange situations and subjects, explaining, "In my paintings, I am interested in telling a story. I like the story to be open ended and enigmatic. It should have an internal truth, which the viewer will recognize in his/her own way. As elements in my storytelling, I use symbols and their arrangement. I like everyday objects to have a meaning beyond the obvious, a metaphysical meaning. When I paint I try to keep a balance between my intellect, my intuition and my somewhat humouristic approach. In this way I keep the painting always interesting and alive for me. This is also what I would like the painting to be for the viewer, a stimulating and entertaining puzzle."&lt;ref name=bunk/&gt;
+
+His list of American clients also includes [[Burger King]], [[Byron Preiss]], Silly Productions, Springer International, It's About Time (in association with the American Institute of Physics, the National Science Foundation and the American Geological Institute) and UNICEF. His clients in Germany: Carlsen Verlag, Ravensburger Verlag, Semmel Verlach, Volksverlag, Weissmann Verlag and in 2008 Frankfurter Allgemeine Zeitung, where he had a daily comic running (Ein Berliner in New York) In addition to doing book covers, he also has illustrated  children's books, and since 1990, he contributes illustrations and posters for school science books for the "It's About Time" publisher.{{citation needed|date=April 2017}}
+
+For well over a decade, he has contributed to ''Quantum'', a bimonthly science and mathematics magazine for students. These illustrations were exhibited in 2005 at the New York Hall of Science in Queens and collected in a book, ''Quantoons'', published by the National Science Teachers Association in 2006.{{citation needed|date=April 2017}}
+ 
+Tom Bunk has exhibited his comics and illustrations in Germany. In 2009 he took part in a comic show "Jahrhundert der Comics, die Zeitungs-Strip-Jahre" in Bielefeld and Rehmscheid in 2010 in the Jewish Museum in Berlin, and he exhibited his Quantoons again in 2010 in Frankfurt during the 2015 comicfestival in Munich, Germany.{{citation needed|date=April 2017}}
+
+He continues working mainly for ''Mad'' magazine.{{citation needed|date=April 2017}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official|http://www.spalato.net/}}
+*Gilford, Doug. [http://www.madcoversite.com/ugoi-tom_bunk.html "Tom Bunk"]. Mad Cover Site.
+*[http://www.bunkart.blogspot.com bunkArt]. [[Blogger (service)|Blogger]].
+*[http://www.bunkomix.blogspot.com BUNKOMIX]. Blogger.
+*[http://www.bunkartoons.blogspot.com bunkartoons]. Blogger.
+
+{{Mad magazine}}
+{{Madcontribs}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bunk, Tom}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:Mad (magazine) cartoonists]]
+[[Category:People from Split, Croatia]]
+[[Category:Alternative cartoonists]]</text>
+      <sha1>70nd1k6mpstyct516g7ls7jyw83n96c</sha1>
+    </revision>
+  </page>
+</mediawiki>

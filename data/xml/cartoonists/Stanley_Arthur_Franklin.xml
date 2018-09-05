@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Stanley Arthur Franklin</title>
+    <ns>0</ns>
+    <id>28140340</id>
+    <revision>
+      <id>807745915</id>
+      <parentid>718562963</parentid>
+      <timestamp>2017-10-29T22:27:14Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v475)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3029">{{Infobox person
+| name        = Stanley Arthur Franklin
+| image       = &lt;!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] --&gt;
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|1930|10|30}}
+| birth_place =  Bow, London, England
+| death_date  = {{Death date and age|2004|2|2|1930|10|30}}
+| death_place =  Kingston-upon-Thames, England
+| nationality = 
+| other_names = 
+| known_for   = 
+| occupation  = 
+}}
+'''Stanley Arthur Franklin''' (30 October 1930 – 2 February 2004) was a British [[political cartoonist]] whose career on the ''Daily Mirror'' and ''The Sun'' newspapers  covered almost forty years.&lt;ref name=independent&gt;[https://www.independent.co.uk/news/obituaries/stanley-franklin-549397.html ''The Independent'' 6 February 2004] Retrieved 25 July 2010&lt;/ref&gt;
+
+Stanley (Stan) Franklin, born at Bow in the [[East End of London]], was the son of [[coppersmith]] Harry Franklin. He left school at 14, and later attended [[Hammersmith School of Art|Hammersmith School of Arts and Crafts]] where he produced his first cartoon published in [[Fleet Street]], and took classes in [[lithography]] at [[The Working Men's College|The Working Men’s College]], [[London Borough of Camden|Camden]]. He admired work of the [[Daily Mirror]]’s [[Philip Zec]] which inspired him to become a political cartoonist. However, he failed to gain employment at the [[Evening Standard]], and joined an [[advertising agency]].
+
+First employed as cartoonist with the ''[[Daily Herald (UK newspaper)|Daily Herald]]'' in 1954, he moved on to the ''Daily Mirror'' in 1959, succeeding ‘Vicky’ ([[Victor Weisz]]). He stayed at the ''Mirror'' until 1970, moved to ''[[The Sun (United Kingdom)|The Sun]]'' in 1974, and worked with that paper until 1998. His work included many cartoons of leading politicians and aristocracy, including several prime ministers, and  [[Prince Philip, Duke of Edinburgh|Prince Philip]] who collected Franklin's sketches of the Royal Familty.&lt;ref&gt;[http://www.thesun.co.uk/sol/homepage/news/article139848.ece ''The Sun''] Retrieved 25 July 2010&lt;/ref&gt;
+
+As a [[free-lance]] cartoonist he produced work for the [[New Statesman]] and for [[illustrated books]]:  ''[[Alf Garnett]]'s Little Blue Book (1973)'',  ''The Thoughts of Chairman Alf (1973)'', ''Alf Garnett Scripts (1973)'', and ''[[Dick Emery]]'s In Character (1973)''. He was a founder member of the Cartoonists' Association, formed in 1966, and was a member of the Fleets Street’s old [[Press Club]] and a guarantor of the London Press Club.&lt;ref name=independent /&gt;
+
+Franklin died at [[Kingston-upon-Thames]] in 2004.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.cartoons.ac.uk/artists/stanleyfranklin/biography Biography]
+*[http://www.thefreelibrary.com/OBITUARY%3A+Stanley+Franklin.-a0113079993 Obituary]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Franklin, Stanley Arthur}}
+[[Category:English cartoonists]]
+[[Category:1930 births]]
+[[Category:2004 deaths]]
+
+
+{{UK-cartoonist-stub}}</text>
+      <sha1>2tmgnd9ftmalk5ppc89tm43zf29c5l5</sha1>
+    </revision>
+  </page>
+</mediawiki>

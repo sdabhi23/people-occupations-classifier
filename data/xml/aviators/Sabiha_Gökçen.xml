@@ -1,0 +1,184 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sabiha Gökçen</title>
+    <ns>0</ns>
+    <id>1032325</id>
+    <revision>
+      <id>854800980</id>
+      <parentid>854284846</parentid>
+      <timestamp>2018-08-13T21:38:35Z</timestamp>
+      <contributor>
+        <ip>109.175.101.66</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22260">{{For|the airport|Sabiha Gökçen International Airport}}
+{{Infobox person
+| name               = Sabiha Gökçen
+| image              = Sabiha gokcen2.jpg
+| image_size         = 
+| caption            = A photo of Sabiha Gökçen from the 1930s
+| birth_date         = {{birth date|1913|3|22|df=y}}
+| birth_place        = [[Bursa, Turkey|Bursa]], [[Hüdavendigâr Vilayet]], [[Ottoman Empire]]
+| spouse             =
+| parents            = Mustafa İzzet Bey and Hayriye Hanım
+| known_for          = World's first female [[fighter pilot]]&lt;ref name="First Female Combat Pilot"&gt;{{cite web|title=First Female Combat Pilot|url=http://www.guinnessworldrecords.com/world-records/first-female-combat-pilot|website=Guinness World Records Official Web Site|accessdate=15 May 2016}}&lt;/ref&gt;
+| nationality        = [[Turkey|Turkish]]
+| alma_mater         = [[Üsküdar American Academy]]
+| death_date         = {{death date and age|2001|3|22|1913|3|22|df=y}}
+| death_place        = [[Ankara]], [[Turkey]]
+| occupation         = Aviator, author and spokesperson
+| awards             = [[FAI Gold Air Medal]]
+}}
+
+'''Sabiha Gökçen''' ({{IPA-tr|sabiha ɡøkt͡ʃen|lang}}; 22 March 1913 – 22 March 2001)&lt;ref&gt;{{cite web|url=http://www.ntv.com.tr/turkiye/sabiha-gokcen-google-ana-sayfasinda,84NXBXk620mwTL0rKrwfSA|title=Sabiha Gökçen Google ana sayfasında|date=22 March 2009|publisher=|accessdate=11 January 2018}}&lt;/ref&gt; was a [[Turkish people|Turkish]]/Bosnian aviator. She was the first Turkish female combat pilot, aged 23,&lt;ref&gt;{{cite web |url= http://www.ctie.monash.edu.au/hargrave/gokcen.html |title=Sabiha Gokcen (1913-2001), Pioneer Aviatrix |first=Russell  |last=Naughton |work=Hargrave Pioneers of Aviation |year=2014 |accessdate=17 November 2014}}&lt;/ref&gt; and is believed to have been the world's first female [[fighter pilot]].&lt;ref name="First Female Combat Pilot" /&gt;&lt;ref&gt;{{Cite book|title=Atatürk: The Biography of the Founder of Modern Turkey|last=Mango|first=Andrew|publisher=Overlook Press|year=2000|isbn=|location=|pages=}}&lt;/ref&gt;&lt;ref name=":0"&gt;{{Cite web|url=https://www.goefoundation.com/eagles/biographies/g/216/G%C3%B6k%C3%A7en-Sabiha|title=Eagle Biography - Sabiha Gökçen|last=|first=|date=|website=GoE Foundation|language=en|archive-url=https://web.archive.org/web/20180424183749/https://www.goefoundation.com/eagles/biographies/g/216/G%C3%B6k%C3%A7en-Sabiha|archive-date=2018-04-24|dead-url=|access-date=2018-04-24}}&lt;/ref&gt; Others such as [[Marie Marvingt]]&lt;ref&gt;{{cite news|title=1915 - First woman pilot in combat missions as a bomber pilot - Marie Marvingt (France)|url=http://www.centennialofwomenpilots.com/content/1915-first-woman-pilot-combat-missions-bomber-pilot-marie-marvingt-france|publisher=Centennial of Women Pilots|accessdate=10 January 2015|quote=In 1915, Marvingt became the first woman in the world to fly combat missions when she became a volunteer pilot flying bombing missions over German-held territory and she received the Croix de Guerre (Military Cross) for her aerial bombing of a German military base in Metz.|deadurl=yes|archiveurl=https://web.archive.org/web/20150111004457/http://www.centennialofwomenpilots.com/content/1915-first-woman-pilot-combat-missions-bomber-pilot-marie-marvingt-france|archivedate=11 January 2015|df=}}&lt;/ref&gt;&lt;ref&gt;Historic Wings – Online Magazine; Article on Hélène Dutrieu Coupe Femina and Marie Marvingt:, Published on December 21, 2012:
+http://fly.historicwings.com/2012/12/helene-dutrieux-and-the-coupe-femina
+Retrieved 10 January 2015.&lt;/ref&gt; and [[Evgeniya Shakhovskaya]]&lt;ref&gt;{{cite book|last=Lawson|first=Eric and Jane|title=The First Air Campaign: August 1914- November 1918|url=https://books.google.com/books?id=9PGHckhHiX0C&amp;pg=PA56&amp;lpg=PA56&amp;dq=aviatrix+Shakhovskaya&amp;source=bl&amp;ots=dP4jdGetaf&amp;sig=7hN0XUfHRRuS7Hal_Qna9a-Ngbs&amp;hl=ru&amp;ei=0fdDTuDoE42YOqnR2aEJ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CEIQ6AEwBA#v=onepage&amp;q=aviatrix%20Shakhovskaya&amp;f=false|date=1996|publisher=[[Da Capo Press]]|isbn=0-306-81213-4|page=56|quote=Eugenie Shakhovskaya, a 25 year old Russian princess, was the first female fighter pilot in history.}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ctie.monash.edu.au/hargrave/women_combat_pilots_ww1.html|title=Women Combat Pilots of WW1|accessdate=10 January 2015|quote=Princess Eugenie M. Shakhovskaya was Russia's first woman military pilot. Served with the 1st Field Air Squadron. Unknown if she actually flew any combat missions, and she was ultimately charged with treason and attempting to flee to enemy lines. Sentenced to death by firing squad, sentence commuted to life imprisonment by the Tsar, freed during the Revolution, became chief executioner for Gen. Tchecka and drug addict, shot one of her assistants in a narcotic delirium and was herself shot.|publisher=[[Monash University]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.britannica.com/women/timeline?tocId=9404138&amp;section=249216|title=300 Women who changed the world |accessdate=10 January 2015|quote=In Russia, Princess Eugenie Shakhovskaya is the first female military pilot. She flies reconnaissance missions.|publisher=[[Encyclopædia Britannica]]}}&lt;/ref&gt; preceded her as military pilots in other roles, but not as fighter pilots and without military academy enrollment. She was an [[orphan]], and one of the eight [[Adoption|adopted]] children of [[Mustafa Kemal Atatürk]].
+
+She is recognized as the first female combat pilot by [[The Guinness Book of World Records]]&lt;ref name="First Female Combat Pilot"/&gt; and was selected as the only female pilot for the poster of "''The 20 Greatest Aviators in History''" published by the [[United States Air Force]] in 1996.&lt;ref name=trt/&gt;
+
+== Early life ==
+[[File:ZehraRukiyeSabiha.jpg|thumb|right|200px|Daughters of Mustafa Kemal; left to right: Zehra Aylin, Rukiye (Erkin) and Sabiha (Gökçen).]]
+[[File:RukiyeSabihaAfetZehra.jpg|thumb|right|200px|Left to right: Rukiye (Erkin), Sabiha (Gökçen), [[Afet İnan|Afet]] (İnan), and Zehra Aylin.]] 
+Sabiha Gökçen's [[Bosniak]] or [[Armenians|Armenian]] origins are a matter of some dispute. According to official Turkish sources and interviews with Sabiha Gökçen, she was the daughter of Mustafa Izzet Bey and Hayriye Hanım, both of whom were of Bosniak origin.&lt;ref name="armedia"&gt;{{cite web|title=Ataturk's Daughter was an Armenian|url=http://armedia.am/eng/news/29750/ataturks-daughter-was-an-armenian.html|website=armedia.am|accessdate=17 May 2017|language=en|date=2 November 2016|quote=According to Turkish sources and the interview with Sabiha Gokcen herself, she was born on March 22, 1913 in Bursa. She was the daughter of Mustafa İzzet Bey and Hayriye Hanim who were ethnic Bosniaks}}&lt;/ref&gt; During Atatürk's visit to [[Bursa]] in 1925, Sabiha, who was only twelve years old, asked for permission to talk with Atatürk and expressed her wish to study at a [[boarding school]]. After learning her story and about her miserable living conditions, Atatürk decided to adopt her and asked Sabiha's brother for permission to take her to the [[Çankaya Mansion|Çankaya Presidential Residence]] in [[Ankara]], where Sabiha would live with Atatürk's other adoptive daughters, Zehra, [[Afet İnan|Afet]] and Rukiye. Sabiha attended the Çankaya Primary School in [[Ankara]] and the [[Üsküdar American Academy]] in [[Istanbul]].
+
+In February 2004 an article in the newspaper ''[[Agos]]'', headlined "The Secret of Sabiha Hatun", contained an interview with Hripsime Sebilciyan, a former resident of [[Gaziantep]], who claimed to be Gökçen's niece and that Gökçen herself was of Armenian ancestry.&lt;ref name=dink&gt;{{cite news |work=[[Agos]] |title=Sabiha Hatun'un Sırrı |first=Hrant |last=Dink |date=6 February 2004 }}&lt;/ref&gt; Mustafa Kemal had also adopted Sebilciyan, who was in an orphanage shortly after the [[Armenian Genocide]].&lt;ref&gt;{{cite book |last=Morris |first=Chris |title=The New Turkey: The Quiet Revolution On The Edge Of Europe |url=https://books.google.com/books?id=AfeZAwAAQBAJ |date=1 May 2014 |publisher=Granta Publications |isbn=978-1-78378-031-0}}&lt;/ref&gt; According to Turkish-Armenian linguist Pars Tuğlacı, who deemed Sebilciyan's claim as false, Gökçen herself found out about her Armenian roots while in Ankara, when members of her family contacted her from [[Beirut]].&lt;ref name=hurriyet&gt;{{cite news |title=Gökçen Ermeni’ydi |url=http://arama.hurriyet.com.tr/arsivnews.aspx?id=204371 |newspaper=[[Hürriyet]] |date=22 February 2004 |language=tr}}&lt;/ref&gt; It is claimed that Gökçen visited her Armenian relatives in Beirut and had four brothers, Sarkis, Boğos, Haçik and Hovhannes.&lt;ref&gt;{{cite news |last1=Bal |first1=Ali |title=Sabiha Gökçen et la controverse sur ses origines |url=http://www.turquie-news.com/rubriques/histoire/sabiha-gokcen-et-la-controverse,3990.html |agency=Turquie News |date=16 April 2010 |language=French |deadurl=yes |archiveurl=https://web.archive.org/web/20141006131026/http://www.turquie-news.com/rubriques/histoire/sabiha-gokcen-et-la-controverse,3990.html |archivedate=6 October 2014 |df= }}&lt;/ref&gt;
+
+However, along with Turkish sources and interviews with Sabiha, her adopted sister [[Ülkü Adatepe]], also in an interview, disputed these claims and reiterated that Sabiha and her both parents, Mustafa İzzet Bey and Hayriye Hanım, were of Bosniak ancestry.&lt;ref name="Koser"/&gt;&lt;ref name="armedia"/&gt;&lt;ref name="Fatma-Ulgen-eScholarship"&gt;{{cite web|last1=Fatma|first1=Ulgen,|title="Sabiha Gök̨cen's 80-year-old secret" : Kemalist nation formation and the Ottoman Armenians|url=http://escholarship.org/uc/item/2mh3z3k6#page-7|website=eScholarship|accessdate=18 May 2017|language=en|format=.pdf|date=1 January 2010}}&lt;/ref&gt;
+
+Just after the introduction of the [[Surname Law]], Atatürk gave her the family name Gökçen on 19 December 1934. 'Gök' means sky in [[Turkish language|Turkish]] and Gökçen means 'belonging or relating to the sky'. However, she was not an aviator at that time,&lt;ref name="TurkishAirForce"&gt;{{cite web |url=http://www.hvkk.tsk.tr/tr/IcerikDetay.aspx?ID=34&amp;IcerikID=86 |title=Dünyanın İlk Kadın Savaş Pilotu: Sabiha Gökçen |trans-title=The world's first female combat pilot: Sabiha Gökçen |work=Türk Hava Kuvvetleri |year=2014 |accessdate=17 November 2014 |language=tr |deadurl=yes |archiveurl=https://web.archive.org/web/20141006181638/http://www.hvkk.tsk.tr/tr/IcerikDetay.aspx?ID=34&amp;IcerikID=86 |archivedate=6 October 2014 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Atatürk |first=Kemal |title=Atatürk'ün bütün eserleri |trans-title=Ataturk's Complete Works |url=https://books.google.com/books?id=p49AAQAAIAAJ|volume=27 |date=1 January 1998 |publisher=Kaynak Yayınları |isbn=978-975-343-235-1 |page=109 |language=tr }}&lt;/ref&gt; and it was only six months later that Sabiha developed a passion for flying.
+
+==Career==
+[[File:Sabiha Gokcen with cap.jpg|thumb|right|Sabiha Gökçen with officers.]]
+[[File:Sabiha Gokcen in Athens.jpg|thumb|left|Sabiha Gökçen in [[Athens]], during her 1938 [[Balkans|Balkan]] tour.]]
+Atatürk attached great importance to [[aviation]] and for that purpose oversaw the foundation of the [[Turkish Aeronautical Association]] in 1925. He took Sabiha along with him to the opening ceremony of ''Türkkuşu'' (''Turkishbird'') ''Flight School'' on 5 May 1935. During the [[airshow]] of [[Glider aircraft|gliders]] and [[Parachute|parachutists]] invited from foreign countries, she got very excited. As Atatürk asked her whether she would also want to become a skydiver, she nodded "yes indeed, I am ready right now". Atatürk instructed Fuat Bulca, the head of the school, to enroll her as the first female trainee. She was meant to become a [[skydiver]], but she was much more interested in flying, so she earned her [[pilot's licence]]. Gökçen was sent to [[Russia]], together with seven male students, for an advanced course in glider and powered aircraft piloting. However, when she was in Moscow, she learned the news that Zehra had died, and with collapsed morale, she immediately returned to Turkey, isolating herself from social activities for some time.
+
+As girls were not being accepted by the [[Turkish War Academies]] in those years, Sabiha Gökçen was provided, on Atatürk's orders, with a personalized uniform, and attended a special education programme of eleven months at the ''Tayyare Mektebi'' (Aviation School) in [[Eskişehir]] in the academic year 1936-1937. After receiving her flight patents (diploma) she trained to become a war pilot at the 1st Airplane Regiment in Eskişehir for six months.
+
+She improved her skills by flying bomber and fighter planes at the 1st Aircraft Regiment in [[Eskişehir Province|Eskişehir]] Airbase and got experience after participating in the [[Aegean Sea|Aegean]] and [[Thrace]] exercises in 1937. In that same year, she took part in the [[Dersim rebellion]] and became the first Turkish female air force combat pilot. A report of the General Staff mentioned the "serious damage" that had been caused by her 50&amp;nbsp;kg bomb to a group of fifty fleeing "bandits"&lt;ref&gt;{{cite book |first=Reşat |last=Hallı |title=Türkiye Cumhuriyetinde Ayaklanmalar (1924–1938) |trans-title=The Rebellions in the Republic of Turkey, 1924-1938 |publisher=T. C. Genelkurmay Baskanlığı Harp Tarihi Dairesi |year=1972 |page=382 |language=tr }}&lt;/ref&gt; and she was awarded with a ''takdirname'' (letter of appreciation). She was also awarded the [[Turkish Aeronautical Association]]'s first "''Murassa'' (Jeweled) Medal" for her superior performance in this operation.&lt;ref name="TurkishAirForce"/&gt;
+
+In 1938, she carried out a five-day flight around the [[Balkan]] countries to great acclaim. In the same year, she was appointed "chief trainer" of the [[Türkkuşu Flight School]] of the [[Turkish Aeronautical Association]], where she served until 1954 as a flight instructor&lt;ref name="TurkishAirForce"/&gt; and became a member of the association's executive board. She trained four female aviators, Edibe Subaşı, Yıldız Uçman, Sahavet Karapas and [[Nezihe Viranyalı]]. Sabiha Gökçen flew around the world for a period of 28 years until 1964. Her book entitled "''A Life Along the Path of Atatürk''" was published in 1981 by the Turkish Aeronautical Association to commemorate Atatürk's 100th birthday.
+
+Throughout her career in the [[Turkish Air Force]], Gökçen flew 22 different types of aircraft for more than 8,000 hours, 32 hours of which were active combat and bombardment missions.&lt;ref name=trt&gt;{{YouTube|id=m-hv6MfohTs#t=9m30s|title=TRT documentary on Sabiha Gökçen}}. See 9m30s in for 1996 USAF poster claim.&lt;/ref&gt;
+
+== Controversies ==
+[[File:Atatürk, Ali Çetinkaya and Sabiha Gökçen in Diyarbakır.jpg|thumb|200px|right|Atatürk, [[Ali Çetinkaya]] and Sabiha Gökçen in [[Diyarbakır]].]]
+
+Gökçen made headlines and sparked controversy, in 2004, when [[Hrant Dink]], a journalist of Turkish-Armenian descent, published an interview with a person claiming to be Sabiha's niece that claimed that she was of [[Armenians|Armenian]] origin. Many contested the matter, including her adopted sister and last living daughter of Atatürk, [[Ülkü Adatepe]], disputing this during an interview and stating that Sabiha was of [[Bosniaks|Bosniak]] ancestry.&lt;ref name="Koser"&gt;{{cite news
+|url = http://arama.hurriyet.com.tr/arsivnews.aspx?id=204528
+|accessdate = 13 July 2008
+|title = İşte soyağacı
+|date = 23 February 2004
+|work = [[Hürriyet]]
+|first = Mutlu
+|last = Koser
+|archive-url = https://web.archive.org/web/20150402171256/http://www.hurriyet.com.tr/index/ArsivNews.aspx?id=204528
+|archive-date = 2 April 2015
+}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+|url = http://webarsiv.hurriyet.com.tr/2004/02/28/419832.asp
+|title = Sabiha Gökçen tartışmasında kim ne yazdı
+|work = [[Hürriyet]]
+|date = 28 February 2004
+|accessdate = 13 July 2008
+|first = Hüseyin
+|last = Tekin
+|language = Turkish
+}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Morgan |first=Tabitha |url=http://news.bbc.co.uk/2/hi/europe/3519561.stm |title=Turkish heroine's roots spark row |work=[[BBC News]] |date=29 February 2004}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+|url = https://www.state.gov/g/drl/rls/hrrpt/2004/41713.htm
+|title = 2004 Country Report on Human Rights Practices in Turkey
+|date = 28 February 2005
+|accessdate = 25 July 2008
+|publisher = [[US State Department]]
+|work = [[Country Reports on Human Rights Practices]]
+|author = Bureau of Democracy, Human Rights, and Labor
+|quote = In February, the Hurriyet newspaper's publication of a report that Sabiha Gokcen--an adopted daughter of Mustafa Kemal Ataturk, who was the country's first female pilot--was of Armenian descent drew a number of racist public statements. The Turkish General Staff issued a statement criticizing the reports on Gokcen's Armenian ancestry as 'a claim that abuses national values and feelings' while the Turkish Air Association called the report 'an insult' to Gokcen and to Ataturk.
+}}&lt;/ref&gt; According to Adatepe, Sabiha's mother Hayriye and father Mustafa İzzet were ethnic [[Bosniaks|Bosniak]]s.&lt;ref name="Koser"/&gt; The notion that Gökçen could have been Armenian caused controversies in the country; the [[General Staff of the Republic of Turkey|Turkish General Staff]] said the debate "mocked national values" and was "not conducive to social peace".&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/1/hi/world/europe/3519561.stm|title=Turkish heroine's roots spark row|date=29 February 2004|publisher=|accessdate=11 January 2018|via=news.bbc.co.uk}}&lt;/ref&gt; Hrant Dink, the journalist who wrote the article, came under criticism, most notably from newspaper columnists and Turkish nationalist groups.&lt;ref name="Cable"&gt;{{cite web |url=http://www.cablegatesearch.net/cable.php?id=04ISTANBUL374 |archiveurl=https://web.archive.org/web/20131209123810/http://www.cablegatesearch.net/cable.php?id=04ISTANBUL374 |archivedate=9 December 2013 |title=Cable reference id: #04ISTANBUL374 |work=web.archive.org |date=10 March 2004 |accessdate=17 November 2014}}&lt;/ref&gt; A [[United States diplomatic cables leak|US consul dispatch]] leaked by [[WikiLeaks]] and penned by an official from the consulate in Istanbul observed that the entire affair "exposed an ugly streak of racism in Turkish society."&lt;ref name="Cable"/&gt; It is also believed that the affair was one of the reasons that led to [[Assassination of Hrant Dink|Hrant Dink's assassination]] in Istanbul in January 2007.&lt;ref&gt;{{cite news|last1=Insel |first1=Ahmet |title="Bu Hareket Beşeriyet Namına Bir Cinayetti": Ermenilerden Özür Dileme Girişiminin Değerlendirilmesi |url=http://www.birikimdergisi.com/birikim/dergiyazi.aspx?did=1&amp;dsid=367&amp;dyid=5466&amp;dergiyazi=%22Bu%20Hareket%20Be%FEeriyet%20Nam%FDna%20Bir%20Cinayetti%22:%20Ermenilerden%20%D6z%FCr%20Dileme%20Giri%FEiminin%20De%F0erlendirilmesi |agency=Birikim |date=28 February 2009 |language=Turkish}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last1=Kemal Cengiz |first1=Orhan |title=The ‘smoke’ which killed Hrant Dink |url=http://www.todayszaman.com/news-198552-109-the-smoke-which-killed-hrant-dink-byorhan-kemal-cengiz.html |agency=Zaman |date=15 January 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20141007071137/http://www.todayszaman.com/news-198552-109-the-smoke-which-killed-hrant-dink-byorhan-kemal-cengiz.html |archivedate=7 October 2014 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last1=Göktaş |first1=Kemal |title=Hrant Dink cinayeti: medya, yargı, devlet |date=2009 |publisher=Güncel Yayıncılık |location=İstanbul |isbn=9944840491 |edition=1. baskı. |url=https://books.google.com/books?ei=vkMyVIjNNs2togTV24GYAg}}&lt;/ref&gt;
+
+== Legacy and recognition ==
+[[File:İstanbul 5366.jpg|thumb|175px|right|Bust of Sabiha Gökçen at the [[Istanbul Aviation Museum]].]]
+[[Sabiha Gökçen International Airport]] in [[Istanbul]] is named after her.&lt;ref&gt;{{Cite book|url=https://books.google.tn/books?id=3kwRlzejIl4C&amp;pg=PT46&amp;dq=sabiha+gok%C3%A7en+international+airport+named+after+first+turkish+woman&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwjL9oqukdLXAhXJuRQKHYamCyMQ6AEIJTAA#v=onepage&amp;q=sabiha%20gok%C3%A7en%20international%20airport%20named%20after%20first%20turkish%20woman&amp;f=false|title=War, Welfare &amp; Democracy: Rethinking America's Quest for the End of History|last=Munson|first=Peter J.|date=2013|publisher=Potomac Books, Inc.|isbn=9781612345406|language=en}}&lt;/ref&gt;
+
+She is recognized as the first female combat pilot by [[The Guinness Book of World Records]].&lt;ref name="First Female Combat Pilot"/&gt;
+
+She was selected as the only female pilot for the poster of "''The 20 Greatest Aviators in History''" published by the [[United States Air Force]] in 1996.&lt;ref name=trt/&gt;
+
+That year, she was also honored at the [[Air Command and Staff College]]'s [[Gathering of Eagles Program|Gathering of Eagles]] at [[Maxwell Air Force Base]]. The program encourages the study of aviation history by emphasizing the contributions of aviation pioneers.&lt;ref name=":0" /&gt;
+
+She was the subject of a [[Google Doodle]] honouring her birthday which was displayed in Turkey on 22 March 2009.&lt;ref&gt;{{cite web |url= https://www.google.com/doodles/sabiha-gokcens-birthday |title=Sabiha Gökçen's Birthday |work=Google Doodles Archive |year=2014 |accessdate=17 November 2014}}&lt;/ref&gt;
+
+== See also ==
+{{Portal|Turkey|Biography|Aviation}}
+* [[Bedriye Tahir Gökmen]]
+* [[List of firsts in aviation]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* {{commons category-inline|Sabiha Gökçen}}
+* Atatürk Arşivi - Sabiha Gökçen: [https://www.youtube.com/watch?v=k0C_DraLdXU Part 1][https://www.youtube.com/watch?v=uFNZpeaikxs Part 2][https://www.youtube.com/watch?v=XI7WMjPnTok Part 3][https://www.youtube.com/watch?v=AyiJrVj2vnA Part 4][https://www.youtube.com/watch?v=m-hv6MfohTs Part 5][https://www.youtube.com/watch?v=NS5yB9FdIzs Part 6]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gokcen, Sabiha}}
+[[Category:1913 births]]
+[[Category:2001 deaths]]
+[[Category:People from Bursa]]
+[[Category:People from Hüdavendigâr Vilayet]]
+[[Category:Bosniak diaspora]]
+[[Category:Turkish people of Bosniak descent]]
+[[Category:Turkish women in warfare]]
+[[Category:Turkish Air Force personnel]]
+[[Category:Turkish female aviators]]
+[[Category:Mustafa Kemal Atatürk]]
+[[Category:Aviation pioneers]]
+[[Category:Üsküdar American Academy alumni]]
+[[Category:People of the Dersim rebellion]]
+[[Category:Women in war 1900–1945]]</text>
+      <sha1>ae7w879afqfprjlhry3v7gr3bssiqfx</sha1>
+    </revision>
+  </page>
+</mediawiki>

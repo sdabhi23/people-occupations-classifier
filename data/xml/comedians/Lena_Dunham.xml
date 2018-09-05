@@ -1,0 +1,523 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lena Dunham</title>
+    <ns>0</ns>
+    <id>30789098</id>
+    <revision>
+      <id>856114980</id>
+      <parentid>856114932</parentid>
+      <timestamp>2018-08-23T00:14:29Z</timestamp>
+      <contributor>
+        <username>Vmars22</username>
+        <id>21145068</id>
+      </contributor>
+      <comment>/* Filmography */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="83782">{{pp-blp|small=yes}}
+{{Use mdy dates|date=May 2017}}
+{{Infobox person
+| name        = Lena Dunham
+| image       = Lena Dunham TFF 2012 Shankbone 3.JPG
+| image_size  = 
+| alt         = Lena Dunham at the 2012 Tribeca Film Festival premiere for the film, Supporting Characters
+| caption     = Dunham in 2012
+| birth_name  =
+| birth_date  = {{birth date and age|1986|05|13}}
+| birth_place = [[New York City]], U.S.
+| residence   = [[Brooklyn, New York]], U.S.
+| alma_mater  = [[Oberlin College]]
+| occupation  = {{flatlist|
+* Actress
+* writer
+* director
+* producer
+}}
+| years_active = 2006–present
+| parents      = [[Carroll Dunham]]&lt;br/&gt;[[Laurie Simmons]]
+| relatives    = [[Grace Dunham]] {{small|(sister)}}
+}}
+'''Lena Dunham''' ({{IPAc-en|ˈ|d|ʌ|n|ə|m}}; born May 13, 1986)&lt;ref name=FamilySearch-USPR-2009&gt;{{cite web|title=Lena Dunham - United States Public Records |url=https://familysearch.org/ark:/61903/1:1:K2T6-M93 |website=[[FamilySearch]] |accessdate=March 5, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160307062635/https://familysearch.org/ark%3A/61903/1%3A1%3AK2T6-M93 |archivedate=March 7, 2016 |df= }}&lt;/ref&gt; is an American actress, writer, producer, and director.&lt;ref name="NPR-TinyFurniture-2010"&gt;{{cite news|last1=Gross |first1=Terry |title=Lena Dunham's Big Dreams Rest On 'Tiny Furniture' |url=https://www.npr.org/2010/12/06/131761926/lena-dunham-s-big-dreams-rest-on-tiny-furniture |accessdate=March 5, 2016 |work=[[Fresh Air]] |publisher=[[NPR]] |date=December 7, 2010 |deadurl=no |archiveurl=https://web.archive.org/web/20160304002142/http://www.npr.org/2010/12/06/131761926/lena-dunham-s-big-dreams-rest-on-tiny-furniture |archivedate=March 4, 2016 |df= }}&lt;/ref&gt; She is best known as the creator, writer, and star of the [[HBO]] series ''[[Girls (TV series)|Girls]]'' (2012–2017), for which she has received numerous [[Emmy Award]] nominations,&lt;ref name=ATAS-Emmys-Bio&gt;{{cite web|title=Lena Dunham - Bio |url=http://www.emmys.com/bios/lena-dunham |website=[[Academy of Television Arts &amp; Sciences]] / [[Emmy Award]] |accessdate=March 5, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160304060338/http://www.emmys.com/bios/lena-dunham |archivedate=March 4, 2016 |df= }}&lt;/ref&gt; and two [[Golden Globe Award]]s.&lt;ref name="HFPA-GoldenGlobes-Bio"&gt;{{cite web|title=Winners &amp; Nominees: Lena Dunham |url=http://www.goldenglobes.com/person/lena-dunham |website=[[Hollywood Foreign Press Association]] / [[Golden Globe Award]] |accessdate=March 5, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160119190648/http://www.goldenglobes.com/person/lena-dunham |archivedate=January 19, 2016 |df= }}&lt;/ref&gt; Dunham also directed several episodes of ''Girls'' and became the first woman to win the [[Directors Guild of America Award for Outstanding Directing – Comedy Series]].&lt;ref name="DGA-ItGirl-2013"&gt;{{cite news|last1=Gates |first1=Anita |title=The It Girl |url=https://www.dga.org/Craft/DGAQ/All-Articles/1304-Fall-2013/Indie-Voice-Lena-Dunham.aspx |accessdate=March 5, 2016 |work=[[Directors Guild of America]] |date=Fall 2013 |deadurl=no |archiveurl=https://web.archive.org/web/20160308021923/https://www.dga.org/Craft/DGAQ/All-Articles/1304-Fall-2013/Indie-Voice-Lena-Dunham.aspx |archivedate=March 8, 2016 |df= }}&lt;/ref&gt; Prior to ''Girls'', Dunham wrote, directed, and starred in the semi-autobiographical [[independent film]] ''[[Tiny Furniture]]'' (2010), for which she won an [[Independent Spirit Awards 2010|Independent Spirit Award]] for Best First Screenplay.&lt;ref name=":1" /&gt;
+
+In 2013, Dunham was included in the annual ''[[Time (magazine)|Time]]'' 100 list of the most influential people in the world.&lt;ref&gt;{{Cite news|url=http://time100.time.com/2013/04/18/time-100/slide/lena-dunham/ |title=The 2013 TIME 100 |last=Danes |first=Claire |newspaper=Time |issn=0040-781X |access-date=June 26, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160709141743/http://time100.time.com/2013/04/18/time-100/slide/lena-dunham/ |archivedate=July 9, 2016 |df= }}&lt;/ref&gt; In 2014, Dunham released her first book, ''[[Not That Kind of Girl|Not That Kind of Girl: A Young Woman Tells You What She's "Learned"]]''.&lt;ref name="NPR-FreshAir-NTKOG-2014"&gt;{{cite news|last1=Gross |first1=Terry |title=Lena Dunham On Sex, Oversharing And Writing About Lost 'Girls' |url=https://www.npr.org/2014/09/29/352276798/lena-dunham-on-sex-oversharing-and-writing-about-lost-girls |accessdate=March 5, 2016 |work=[[Fresh Air]] |publisher=[[NPR]] |date=September 29, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20160306183231/http://www.npr.org/2014/09/29/352276798/lena-dunham-on-sex-oversharing-and-writing-about-lost-girls |archivedate=March 6, 2016 |df= }}&lt;/ref&gt; In 2015, along with close friend and ''Girls'' [[showrunner]] [[Jennifer Konner|Jenni Konner]], Dunham created the [[publication]] ''[[Lenny Letter]]'', a [[Feminism|feminist]] online newsletter.&lt;ref name="NYDailyNews-LennyLetter-2015"&gt;{{cite news|last1=Jagannathan |first1=Meera |title=10 fast facts about Lena Dunham and Jenni Konner's first Lenny Letter |url=http://www.nydailynews.com/entertainment/10-facts-lena-dunham-jenni-konner-lenny-letter-article-1.2378131 |accessdate=March 4, 2016 |work=[[New York Daily News]] |date=September 29, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20160307041145/http://www.nydailynews.com/entertainment/10-facts-lena-dunham-jenni-konner-lenny-letter-article-1.2378131 |archivedate=March 7, 2016 |df= }}&lt;/ref&gt;&lt;ref name="NiemanLab-LennyLetters-2016"&gt;{{cite news|last1=Owen |first1=Laura Hazard |title=Lena Dunham's Lenny Letter has grown to 400,000 subscribers with a 65 percent open rate |url=http://www.niemanlab.org/2016/03/lena-dunhams-lenny-letter-has-grown-to-400000-subscribers-with-a-65-percent-open-rate/ |accessdate=March 4, 2016 |work=[[Nieman Foundation for Journalism|NiemanLab]] |date=March 4, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160303201730/http://www.niemanlab.org/2016/03/lena-dunhams-lenny-letter-has-grown-to-400000-subscribers-with-a-65-percent-open-rate/ |archivedate=March 3, 2016 |df= }}&lt;/ref&gt;
+
+==Early life==
+Dunham was born in [[New York City]].&lt;ref name=CapitalNY-Stringer-2013&gt;{{cite news|last1=Paybarah |first1=Azi |title=Lena Dunham on not considering Spitzer and not losing the next Patti Smith to Tampa |url=http://www.capitalnewyork.com/article/politics/2013/08/8532620/lena-dunham-not-considering-spitzer-and-not-losing-next-patti-smith |accessdate=March 5, 2016 |work=[[Politico]] f/k/a [[Capital New York]] |date=August 7, 2013 |deadurl=no |archiveurl=https://web.archive.org/web/20160309183425/http://www.capitalnewyork.com/article/politics/2013/08/8532620/lena-dunham-not-considering-spitzer-and-not-losing-next-patti-smith |archivedate=March 9, 2016 |df= }}&lt;/ref&gt;&lt;ref name=Argotist-2012&gt;{{cite web|url=http://www.argotistonline.co.uk/Lena%20Dunham.htm |title=Lena Dunham. Editor, Dead Horse Review |work=The Argotist Online |accessdate=October 14, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20130126162209/http://www.argotistonline.co.uk/Lena%20Dunham.htm |archivedate=January 26, 2013 |df= }}&lt;/ref&gt; Her father, [[Carroll Dunham]], is a painter, and her mother, [[Laurie Simmons]], is an artist and photographer, and a member of [[The Pictures Generation]], known for her use of dolls and dollhouse furniture in her photographs of setup interior scenes.&lt;ref&gt;{{cite news|author=Walker, Tim |url=https://www.independent.co.uk/news/people/profiles/lena-dunham-could-she-be-the-voice-of-a-generation-8200071.html |title=Lena Dunham: Could she be the voice of a generation? |work=The Independent |date=October 6, 2012 |accessdate=October 14, 2012 |location=London, UK |deadurl=no |archiveurl=https://web.archive.org/web/20121010180215/http://www.independent.co.uk/news/people/profiles/lena-dunham-could-she-be-the-voice-of-a-generation-8200071.html |archivedate=October 10, 2012 |df= }}&lt;/ref&gt;&lt;ref name=NewYorker-TinyFurniture-2010&gt;{{Cite journal|last=Mead |first=Rebecca |date=November 15, 2010 |title=Downtown's Daughter |journal=[[The New Yorker]] |pages=38–45 |url=http://www.newyorker.com/reporting/2010/11/15/101115fa_fact_mead |accessdate=April 7, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20120329193311/http://www.newyorker.com/reporting/2010/11/15/101115fa_fact_mead |archivedate=March 29, 2012 |df= }}&lt;/ref&gt; Her father is [[Protestant]] of mostly English ancestry, and her mother is [[Jews|Jewish]];&lt;ref&gt;{{Cite news|url=https://nylon.com/articles/lena-dunham-nylon-february-cover|title=Lena Dunham Is Our February Cover Star|last=Wappler|first=Margaret|date=January 11, 2017|work=[[Nylon (magazine)|NYLON]]|accessdate=July 2, 2018|quote=Lena Dunham: "I learned it from my Jewish mother."}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://jewishweek.timesofisrael.com/laurie-simmons-eye-opening-art/|title=Laurie Simmons’ Eye Opening Art|last=Goldberg|first=David|date=March 31, 2015|work=[[The Jewish Week]]|access-date=July 2, 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://heebmagazine.com/lena-dunham-and-judd-apatow/34561|title=The Most Boobs Ever: Lena Dunham and Judd Apatow in Conversation|accessdate=July 2, 2018|date=March 29, 2012|last=Poritsky|first=Jonathan|work=[[Heeb|Heeb Magazine]]}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.standard.co.uk/lifestyle/esmagazine/meet-lena-dunhams-mother-laurie-simmons-10008631.html|title=Meet Lena Dunham's mother: Laurie Simmons|last=Crisell|first=Luke|date=January 28, 2015|work=[[London Evening Standard]]|quote=both first-generation Jewish Americans.|access-date=July 2, 2018}}&lt;/ref&gt; Dunham has described herself as feeling "very culturally Jewish, although that's the biggest cliché for a Jewish woman to say."&lt;ref&gt;{{cite web|url=http://jewishjournal.com/mobile_20111212/103436/|title='Girls' writer lays bare women's insecurities|last=|first=|date=April 25, 2012|work=Jewish Journal|archiveurl=https://web.archive.org/web/20121009055321/http://www.jewishjournal.com/the_ticket/item/girls_writer_lays_bare_womens_insecurities_20120425|archivedate=October 9, 2012|deadurl=no|accessdate=October 14, 2012|df=}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.jta.org/2017/10/01/news-opinion/united-states/lena-dunham-says-she-connected-to-judaism-through-israeli-poet-yehuda-amichai|title=Lena Dunham says she connected to Judaism through Israeli poet Yehuda Amichai|accessdate=July 2, 2018|date=October 1, 2017|work=[[Jewish Telegraphic Agency]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|first=Melissa |last=Silverstein |url=https://www.huffingtonpost.com/melissa-silverstein/interview-with-lena-dunha_b_782760.html|title=Interview with Lena Dunham – Writer/Director of Tiny Furniture |work=Women &amp;  Hollywood |publisher=Womenandhollywood.com |date=November 12, 2010 |accessdate=October 14, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20130403092632/http://womenandhollywood.com/2010/11/12/interview-with-lena-dunham-writerdirector-of-tiny-furniture/ |archivedate=April 3, 2013 |df= }}&lt;/ref&gt; The Dunham family are cousins of the [[Tiffany &amp; Co.|Tiffany]] family, prominent in the jewelry trade.&lt;ref&gt;{{cite web|url=http://www.hrvh.org/cdm/ref/collection/ipl/id/24 |title=Hillcrest, residence of Dr. Carroll Dunham, Jr. and Margaret Dows Dunham, Broadway, Irvington, (N.Y.). |work=Hudson River Valley Heritage |accessdate=March 10, 2017 |deadurl=no |archiveurl=https://web.archive.org/web/20170312051312/http://www.hrvh.org/cdm/ref/collection/ipl/id/24 |archivedate=March 12, 2017 |df= }}&lt;/ref&gt;
+
+Dunham attended [[Saint Ann's School (New York City)|Saint Ann's School]] in [[Brooklyn]], where she met ''Tiny Furniture'' actress and future ''[[Girls (TV series)|Girls]]'' co-star [[Jemima Kirke]].&lt;ref name=Vogue-JemimaKirke-2014&gt;{{cite web|url=http://www.vogue.com/vogue-daily/article/childs-play-lena-dunham-and-jemima-kirkes-first-appearance-in-vogue/#1 |title=Child's Play: Lena Dunham and Jemima Kirke's First Appearance in Vogue |work=[[Vogue (magazine)|Vogue]] |author=[[Plum Sykes|Sykes, Plum]] |date=January 15, 2014 |accessdate=March 22, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140322131809/http://www.vogue.com/vogue-daily/article/childs-play-lena-dunham-and-jemima-kirkes-first-appearance-in-vogue/ |archivedate=March 22, 2014 |df= }}&lt;/ref&gt; As a teen, Dunham also won a [[Scholastic Art and Writing Awards|Scholastic Art and Writing Award]].&lt;ref&gt;{{Cite press release|title=America’s Most Creative Teens Named Aas National 2016 Scholastic Art &amp; Writing Awards Recipients |publisher=[[Scholastic Corporation]] |url=http://mediaroom.scholastic.com/press-release/america-s-most-creative-teens-named-national-2016-scholastic-art-writing-awards-recipi |access-date=May 20, 2017 |deadurl=no |archiveurl=https://web.archive.org/web/20170215014410/http://mediaroom.scholastic.com/press-release/america-s-most-creative-teens-named-national-2016-scholastic-art-writing-awards-recipi |archivedate=February 15, 2017 |df= }}&lt;/ref&gt; She attended [[The New School]] for a year before transferring to [[Oberlin College]],&lt;ref&gt;{{cite web|url=http://oberlin.edu/alummag/spring2014/lenadunham.html |title=Lena Dunham is Entitled... / Oberlin Alumni Magazine / Spring 2014 |author= |date= |work=oberlin.edu |accessdate=December 17, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161028202411/http://oberlin.edu/alummag/spring2014/lenadunham.html |archivedate=October 28, 2016 |df= }}&lt;/ref&gt;&lt;ref name="NewYorker-TinyFurniture-2010" /&gt; where she graduated in 2008 with a degree in creative writing.&lt;ref name=NewYorker-TinyFurniture-2010 /&gt;
+
+She has a younger sister, [[Grace Dunham|Grace]], a 2014 graduate of [[Brown University]], who appeared in Dunham's first film, ''Creative Nonfiction'', and starred in her second film, ''[[Tiny Furniture]]''.&lt;ref name= NewYorker-TinyFurniture-2010 /&gt;&lt;ref&gt;{{Cite news|url=https://www.forbes.com/sites/carolinehoward/2010/11/12/names-you-need-to-know-in-2011-lena-dunham |title=Names You Need to Know in 2011: Lena Dunham |last=Howard |first=Caroline |date=November 12, 2010 |work=Forbes |access-date=May 20, 2017 |archive-url=https://web.archive.org/web/20170427043019/https://www.forbes.com/sites/carolinehoward/2010/11/12/names-you-need-to-know-in-2011-lena-dunham/ |archive-date=April 27, 2017 |dead-url=no |df= }}&lt;/ref&gt; The sisters were raised in Brooklyn and spent summers in [[Salisbury, Connecticut]].&lt;ref&gt;{{cite news|url=http://tmagazine.blogs.nytimes.com/2011/11/04/living-large/ |title=Living Large |last=Browne |first=Alix |date=November 4, 2011 |work=[[T: The New York Times Style Magazine]] |archive-url=https://web.archive.org/web/20131205063838/http://tmagazine.blogs.nytimes.com/2011/11/04/living-large/ |archive-date=December 5, 2013 |dead-url=no |publisher=[[The New York Times]] |accessdate=October 7, 2013 |df= }}&lt;/ref&gt;
+
+==Career==
+===2000s: Oberlin College and early works===
+While a student at Oberlin College, Dunham produced several independent short films and uploaded them to [[YouTube]]. Many of her early films dealt with themes of sexual enlightenment and were produced in a [[mumblecore]] filmmaking style, a dialog-heavy style in which young people talk about their personal relationships. In 2006, she produced ''Pressure'', in which a girl and two friends talk about experiencing an orgasm for the first time, which makes Dunham's character feel pressured to do so as well.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=WRZhZiA5q9o |title=Pressure - An Early Short by Lena Dunham |first= |last=criterioncollection |date=April 14, 2012 |publisher= |accessdate=December 17, 2016 |via=YouTube |deadurl=no |archiveurl=https://web.archive.org/web/20161130104222/https://www.youtube.com/watch?v=WRZhZiA5q9o |archivedate=November 30, 2016 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://theabsolutemag.com/17462/videos/pressure-an-early-short-film-by-lena-dunham/ |title="Pressure," an Early Short Film by Lena Dunham |work=The Absolute Mag |accessdate=March 27, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150402121216/http://theabsolutemag.com/17462/videos/pressure-an-early-short-film-by-lena-dunham/ |archivedate=April 2, 2015 |df= }}&lt;/ref&gt; "I didn't go to film school", Dunham explains. "Instead I went to liberal arts school and self-imposed a curriculum of creating tiny flawed video sketches, brief meditations on comic conundrums, and slapping them on the Internet."&lt;ref name="everyonesacritic"&gt;{{cite news |title=Everyone |work=Guggenheim |publisher=The Take (blog) |date=July 27, 2010 |url=http://www.guggenheim.org/new-york/interact/participate/youtube-play/the-take/moving-images/3589-everyones-a-critic |archiveurl=https://web.archive.org/web/20100802142537/http://www.guggenheim.org/new-york/interact/participate/youtube-play/the-take/moving-images/3589-everyones-a-critic |archivedate=August 2, 2010|accessdate=March 28, 2015 }}&lt;/ref&gt;
+
+Another early film, entitled ''The Fountain'', which depicted her in a bikini brushing her teeth in the public fountain at Oberlin College, went viral on YouTube.&lt;ref&gt;{{cite web|url=http://wikimapia.org/32694288/Lena-Dunham-s-Fountain |title=Lena Dunham's Fountain - Wikimapia |author= |date= |work=wikimapia.org |accessdate=December 17, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20170214214215/http://wikimapia.org/32694288/Lena-Dunham-s-Fountain |archivedate=February 14, 2017 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.chroniclet.com/news/2014/02/09/Girls-creator-Lena-Dunham-returns-to-Oberlin.html |title='Girls' creator Lena Dunham returns to Oberlin |author= |date=February 9, 2014 |work=chroniclet.com |accessdate=December 17, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161220161724/http://www.chroniclet.com/news/2014/02/09/Girls-creator-Lena-Dunham-returns-to-Oberlin.html |archivedate=December 20, 2016 |df= }}&lt;/ref&gt; "Her blithe willingness to disrobe without shame caused an outburst of censure from viewers," observed ''[[The New Yorker]]''&lt;nowiki&gt;'&lt;/nowiki&gt;s Rebecca Mead.&lt;ref name="NewYorker-TinyFurniture-2010" /&gt; Dunham was shocked by the backlash and decided to take the video down:
+
+&lt;blockquote&gt;"There were just pages of YouTube comments about how fat I was, or how not fat I was," Dunham said. "I didn't want you to Google me and the first thing you see is a debate about whether my breasts are misshapen."&lt;ref name="NewYorker-TinyFurniture-2010" /&gt;&lt;/blockquote&gt;
+
+[[File:Rob Wynne, Cake Cake, with Lidia Bastianich, Brooks Headley of Del Posto, Tabboo! and the Delusional Downtown Divas.jpg|thumb|234x234px|Dunham on the set of ''Delusional Downtown Divas'']]
+''Pressures'' (2006), ''Open the Door'' (2007), ''Hooker on Campus'' (2007), and ''The Fountain'' (2007) were released as [[DVD]] extras with ''Tiny Furniture''.&lt;ref&gt;{{cite web|url=http://www.dvdbeaver.com/film3/blu-ray_reviews56/tiny_furniture_blu-ray.htm |title=Tiny Furniture Blu-ray - Lena Dunham |author= |date= |work=dvdbeaver.com |accessdate=December 17, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20150905195717/http://www.dvdbeaver.com/film3/blu-ray_reviews56/tiny_furniture_blu-ray.htm |archivedate=September 5, 2015 |df= }}&lt;/ref&gt;
+
+In 2007, Dunham starred in a ten-episode web series for [[Nerve (website)|Nerve.com]] entitled ''Tight Shots'',&lt;ref&gt;{{cite web|url=http://www.nerve.com/tight-shots |title=Tight Shots Archives - Nerve |author= |date= |work=nerve.com |accessdate=December 18, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161220142925/http://www.nerve.com/tight-shots |archivedate=December 20, 2016 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Anderson |first=LV |url=http://www.slate.com/blogs/browbeat/2012/04/02/lena_dunham_s_the_fountain_tight_shots_and_other_early_work_everything_the_filmmaker_directed_before_girls_and_tiny_furniture.html |title=The Mini-Completist: Lena Dunham |work=[[Slate (magazine)|Slate]] |date=April 2, 2012 |accessdate=March 27, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150402120317/http://www.slate.com/blogs/browbeat/2012/04/02/lena_dunham_s_the_fountain_tight_shots_and_other_early_work_everything_the_filmmaker_directed_before_girls_and_tiny_furniture.html |archivedate=April 2, 2015 |df= }}&lt;/ref&gt; described by ''[[The New York Times Magazine]]''&lt;nowiki/&gt;'s [[Virginia Heffernan]] as "a daffy serial about kids trying to make a movie and be artsy and have tons of sex."&lt;ref&gt;{{cite news|last=Heffernan |first=Virginia |url=http://themedium.blogs.nytimes.com/2007/08/10/tight-spots/ |title=Tight Spots |work=[[The New York Times]] |date=April 2, 2012 |accessdate=March 27, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150402222903/http://themedium.blogs.nytimes.com/2007/08/10/tight-spots/ |archivedate=April 2, 2015 |df= }}&lt;/ref&gt;
+
+In 2009, Dunham created the ''[[Index Magazine]]'' web series, ''[[Delusional Downtown Divas]]'', which satirized the New York City art scene. The production was unpaid, so Dunham and her friends "pooled their money from babysitting and art-assistant gigs and borrowed some camera gear."&lt;ref&gt;{{cite news|last=Yuan |first=Jada |url=http://nymag.com/arts/art/features/58305/ |title=Almost Famous |work=New York |date=August 16, 2009 |accessdate=March 28, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150402131636/http://nymag.com/arts/art/features/58305/ |archivedate=April 2, 2015 |df= }}&lt;/ref&gt;
+
+Also in 2009, Dunham premiered ''Creative Nonfiction''—a comedy where she plays Ella, a college student struggling to complete a screenplay&lt;ref&gt;{{cite news|url=https://www.usatoday.com/story/life/tv/2014/03/10/lena-dunham-girls-sxsw/6261067/ |title='Girls' creator Lena Dunham recounts her start at SXSW |work=[[USA Today]] |date=March 10, 2014 |accessdate=March 28, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20141130000820/http://www.usatoday.com/story/life/tv/2014/03/10/lena-dunham-girls-sxsw/6261067/ |archivedate=November 30, 2014 |df= }}&lt;/ref&gt;—at the [[South by Southwest]] Festival in Austin, Texas. She was initially rejected by the festival the year before; she re-edited it and successfully resubmitted the film.&lt;ref&gt;{{cite news|url=http://nymag.com/arts/tv/features/girls-lena-dunham-2012-4 |title=It's Different for 'Girls' |work=[[New York (magazine)|New York]] |date=March 25, 2012 |accessdate=March 28, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150313024734/http://nymag.com/arts/tv/features/girls-lena-dunham-2012-4/ |archivedate=March 13, 2015 |df= }}&lt;/ref&gt;
+
+=== 2010–11: Breakthrough with ''Tiny Furniture'' ===
+{{Main|Tiny Furniture}}
+[[File:Lena Dunham (cropped).jpg|thumb|Dunham in 2010|278x278px|left]]Dunham had a career breakthrough with her semiautobiographic 2010 feature film ''[[Tiny Furniture]]''; the film won Best Narrative Feature at [[South by Southwest|South by Southwest Music and Media Conference]], and subsequently screened at such festivals as [[Maryland Film Festival]].&lt;ref&gt;{{Cite web|url=http://www.marieclaire.com/career-money/advice/tips/lena-dunham |title=Lena Dunham Profile – Filmmaker |last=Maura |first=Sophie |date= |website=Marieclaire.com |archive-url=https://web.archive.org/web/20100917110644/http://www.marieclaire.com/career-money/advice/tips/lena-dunham |archive-date=September 17, 2010 |dead-url=yes |access-date=February 8, 2011 |df= }}&lt;/ref&gt; Dunham plays the lead role of Aura.&lt;ref name="NewYorker-TinyFurniture-2010" /&gt; [[Laurie Simmons]] (Lena Dunham's real-life mother) plays Aura's mother, and Lena's real-life sister Grace plays Aura's on-screen sister. For her work on ''Tiny Furniture'', Dunham also won an [[Independent Spirit Awards 2010|Independent Spirit Award]] for Best First Screenplay.&lt;ref name=":1"&gt;{{cite news|title=26th Independent Spirit Awards Winners – 'Black Swan' Gets Four! |url=http://www.firstshowing.net/2011/26th-independent-spirit-awards-winners-black-swan-gets-four/ |website=Firstshowing.net |accessdate=June 29, 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20111201183945/http://www.firstshowing.net/2011/26th-independent-spirit-awards-winners-black-swan-gets-four/ |archivedate=December 1, 2011 |df= }}&lt;/ref&gt;
+
+The success of ''Tiny Furniture'' earned Dunham a blind script deal at [[HBO]].&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/news/girls-star-lena-dunham-her-410179/|title=The Rise of Lena Dunham: From the NYC Art Scene to Hollywood Lightning Rod|date=January 9, 2013|work=[[The Hollywood Reporter]]|accessdate=March 28, 2015|archiveurl=https://web.archive.org/web/20150412123148/http://www.hollywoodreporter.com/news/girls-star-lena-dunham-her-410179/|archivedate=April 12, 2015|deadurl=no|df=}}&lt;/ref&gt; The network set Dunham up with veteran show runner [[Jennifer Konner]]. Konner told [[New York (magazine)|Vulture]]'s Jada Yuan that she got involved with Dunham because she was an obsessive ''Tiny Furniture'' fan:
+
+&lt;blockquote&gt;I got a copy of ''Tiny Furniture'' from [HBO president] [[Sue Naegle]]. Actually, [''[[New Girl]]'' creator] [[Liz Meriwether]] told me about it and said, 'Oh, there's this great movie. This girl, she's 23, she wrote, directed, and starred in it; she's in her underwear the whole time.' And I was like, 'I really don't want to see that.' And then she was like, 'Oh, trust me, it's great.' So Sue gave it to me just because she had it...I used to, like, give out copies of the movie. But I'd just broken up with my writing partner and couldn't be less interested in the idea of supervising anybody. I really was like, "I'm going to find my voice, and be on my own." And then they called me and they were like, 'Oh, the ''Tiny Furniture'' girl is doing a show, do you want to supervise her?' And I was like, 'Yes! One million percent. Sign me up. Totally on board.'&lt;ref&gt;{{cite news|url=http://www.vulture.com/2012/05/girls-jenni-konner-interview.html|title=Girls Producer Jenni Konner on the Critics, Judd Apatow, and Loving Lena Dunham|date=May 14, 2012|work=[[New York (magazine)|New York]]|accessdate=March 28, 2015|archiveurl=https://web.archive.org/web/20150402163410/http://www.vulture.com/2012/05/girls-jenni-konner-interview.html|archivedate=April 2, 2015|deadurl=no|df=}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+Dunham's star was also raised considerably when she was profiled by [[David Carr (journalist)|David Carr]] in ''[[The New York Times]]''; he was later credited with introducing her to [[Judd Apatow]].&lt;ref&gt;{{cite web|url=https://oberlinreview.org/4788/arts/lena-dunham-dispenses-life-advice-in-finney-convocation/|title=The Oberlin Review :   Lena Dunham Dispenses Life Advice in Finney Convocation|last=Pride-Wilt|first=Anne|date=|work=oberlinreview.org|archiveurl=https://web.archive.org/web/20161223074608/http://oberlinreview.org/4788/arts/lena-dunham-dispenses-life-advice-in-finney-convocation/|archivedate=December 23, 2016|deadurl=no|accessdate=December 17, 2016|df=}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://gawker.com/5991066/how-david-carr-became-the-daddy-of-girls|title=How David Carr Became the Daddy of Girls|date=March 18, 2013|work=[[Gawker]]|accessdate=March 28, 2015|archiveurl=https://web.archive.org/web/20150215095534/http://gawker.com/5991066/how-david-carr-became-the-daddy-of-girls|archivedate=February 15, 2015|deadurl=yes|df=}}&lt;/ref&gt; Apatow watched ''Tiny Furniture'', and was surprised Dunham had also written and directed the film. "I emailed her and told her I thought it was great," Apatow told ''[[The Hollywood Reporter]]''. "It turned out she was in the middle of negotiating a deal to develop a show for HBO and that her partner was Jenni Konner, whom I had worked with on ''[[Undeclared]]'' and a bunch of other projects. They asked me if I wanted to be a part of it, and I was thrilled to jump in."&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/news/girls-star-lena-dunham-her-410179/|title=Judd Apatow on 'Girls' Awkward Sex Scenes: 'People Are Way Too Prudish' (Q&amp;A)|date=August 10, 2012|work=[[The Hollywood Reporter]]|accessdate=March 28, 2015|archiveurl=https://web.archive.org/web/20150412123148/http://www.hollywoodreporter.com/news/girls-star-lena-dunham-her-410179/|archivedate=April 12, 2015|deadurl=no|df=}}&lt;/ref&gt;
+
+=== 2012–13: Mainstream success with ''Girls'' ===
+{{main|Girls (TV series)}}[[File:Lena Dunham 2012 Shankbone.JPG|thumb|245x245px|Dunham at the [[Tribeca Film Festival|2012 Tribeca Film Festival]]]]Dunham's television series, ''[[Girls (TV series)|Girls]]'', was greenlit by [[HBO]] in early 2011.&lt;ref&gt;[http://www.huffingtonpost.com/2011/01/07/lena-dunhams-show-girls-p_n_806034.html "Lena Dunham's Show 'Girls' Picked Up By HBO"] {{webarchive|url=https://web.archive.org/web/20110111101944/http://www.huffingtonpost.com/2011/01/07/lena-dunhams-show-girls-p_n_806034.html |date=January 11, 2011 }}. ''The Huffington Post''. January 7, 2011.&lt;/ref&gt; Three episodes were screened to positive response at the 2012 South by Southwest Festival.&lt;ref&gt;Nussbaum, Emily. [http://nymag.com/arts/tv/features/girls-lena-dunham-2012-4 "It's Different for 'Girls'"] {{webarchive|url=https://web.archive.org/web/20150313024734/http://nymag.com/arts/tv/features/girls-lena-dunham-2012-4/ |date=March 13, 2015 }}, ''New York'', April 1, 2012.&lt;/ref&gt;
+
+The first season premiered on HBO on April 15, 2012, and received critical acclaim. ''[[The New York Times]]'' applauded the series, writing that "''Girls'' may be the [[millennial generation]]'s rebuttal to ''[[Sex and the City]]'', but the first season was at times as cruelly insightful and bleakly funny as ''[[Louie (U.S. TV series)|Louie]]'' on FX or ''[[Curb Your Enthusiasm]]'' on HBO."&lt;ref&gt;[https://www.nytimes.com/2013/01/11/arts/television/lena-dunhams-girls-returns-to-hbo.html "The Edges Are Still Sharp in Brooklyn"]. ''[[The New York Times]]''. January 10, 2013.&lt;/ref&gt; James Poniewozik from ''[[Time (magazine)|Time]]'' reserved high praise for the series, calling it "raw, audacious, nuanced and richly, often excruciatingly funny".&lt;ref name="Time"&gt;{{cite news|url=http://entertainment.time.com/2012/04/05/dead-tree-alert-brave-new-girls/|title=Dead Tree Alert: Brave New Girls|last=Poniewozik|first=James|date=April 5, 2012|work=[[Time (magazine)|Time]]|accessdate=May 5, 2012}}&lt;/ref&gt;
+
+The first season garnered Dunham four Emmy nominations for her roles in acting, writing, and directing the series, as well as two [[Golden Globe Award]]s for [[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] and [[Golden Globe Award for Best Actress – Television Series Musical or Comedy|Best Actress – Television Series Musical or Comedy]].&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=ABc0cg5YuHE |title=Lena Dunham is "Not That Kind of Girl" |first= |last=q on cbc |date=October 1, 2014 |publisher= |accessdate=December 18, 2016 |via=YouTube |deadurl=no |archiveurl=https://web.archive.org/web/20170214043156/https://www.youtube.com/watch?v=ABc0cg5YuHE |archivedate=February 14, 2017 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=eqNPqCaxLE8 |title=Nora Ephron and Lena Dunham in Conversation |first= |last=criterioncollection |date=June 27, 2012 |publisher= |accessdate=December 17, 2016 |via=YouTube |deadurl=no |archiveurl=https://web.archive.org/web/20160629032001/https://www.youtube.com/watch?v=eqNPqCaxLE8 |archivedate=June 29, 2016 |df= }}&lt;/ref&gt; In February 2013, Dunham became the first woman to win a [[Directors Guild of America Award for Outstanding Directing – Comedy Series]] for her work on ''Girls''.&lt;ref&gt;{{cite web|url=http://www.goldderby.com/news/3961/lena-dunham-%28%27girls%27%29-makes-dga-history-as-first-female-to-win-best-tv-comedy-director.html|title=Lena Dunham ('Girls') makes DGA history as first female to win Best TV Comedy Director|publisher=Goldderby.com|date=February 3, 2013|accessdate=May 13, 2013}}&lt;/ref&gt;
+
+''Girls'' was renewed for a second season in April 2012, before the first season had finished airing.&lt;ref&gt;{{Cite news|url=https://www.huffingtonpost.com/2012/04/30/girls-renewed-veep-renewed-season-2_n_1465540.html|title='Girls' Renewed And 'Veep' Renewed For Season 2 By HBO|date=2012-04-30|work=Huffington Post|access-date=2018-03-15|language=en-US}}&lt;/ref&gt; The finale episode of the first season drew over one million viewers.&lt;ref&gt;{{Cite web|url=http://tvbythenumbers.zap2it.com/sdsdskdh279882992z1/sunday-cable-ratings-true-blood-break-falling-skies-real-housewives-of-nj-keeping-up-with-the-kardashians-nascar-more/|title=Sunday Cable Ratings: 'True Blood', 'Falling Skies', 'Real Housewives of NJ', 'Keeping up with the Kardashians' + NASCAR &amp; More|date=2012-06-19|website=TV By The Numbers|language=en|access-date=2018-03-15}}&lt;/ref&gt;
+
+==== Controversy ====
+
+Upon release, ''Girls'' was met with criticism regarding the all-[[White people|white]] main cast in the otherwise culturally diverse setting of New York City (the only black actors in the pilot were a homeless man and a taxi driver, and the only Asian actress had the sole trait of being good at [[Photoshop]]).&lt;ref name="Fox"&gt;{{cite news|url=http://www.foxnews.com/entertainment/2012/04/18/criticism-hbo-girls-for-being-about-white-girls-money-whining-justified |title=Criticism of HBO's 'Girls' for being about 'white girls, money, whining' justified? |last=McKay |first=Hollie |date=April 18, 2012 |publisher=[[FoxNews.com]] |accessdate=April 18, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20120419142927/http://www.foxnews.com/entertainment/2012/04/18/criticism-hbo-girls-for-being-about-white-girls-money-whining-justified/ |archivedate=April 19, 2012 |df= }}&lt;/ref&gt;&lt;ref name="HP"&gt;{{cite news|url=http://www.huffingtonpost.com/2012/04/16/girls-reviews-backlash-hbo-show_n_1429328.html |title='Girls' Reviews: New HBO Show And Lena Dunham Face Backlash On Racism And More |last=Makarechi |first=Kia |date=April 16, 2012 |work=[[The Huffington Post]] |accessdate=April 18, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20120419010428/http://www.huffingtonpost.com/2012/04/16/girls-reviews-backlash-hbo-show_n_1429328.html |archivedate=April 19, 2012 |df= }}&lt;/ref&gt; Agreeing that there is a lack of racial diversity on ''Girls'', a comment from ''[[The Huffington Post]]'' argued that the issue is the industry as a whole.&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.com/maureen-ryan/girls-hbo-racist_b_1451931.html |title='HBO's 'Girls' Isn't Racist, Television Is Racist (And Sexist) |last=Ryan III |first=Maureen |date=April 25, 2012 |publisher=Huffington Post |accessdate=March 23, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150605123417/http://www.huffingtonpost.com/maureen-ryan/girls-hbo-racist_b_1451931.html |archivedate=June 5, 2015 |df= }}&lt;/ref&gt;
+
+Lesley Arfin, a writer for the show, responded sarcastically to the controversy with the tweeted comment about a movie that highlights an African-American girl's rise from incestuous sexual abuse while living in Harlem: "What really bothered me most about ''[[Precious (film)|Precious]]'' was that there was no representation of ME." Arfin later deleted the comment following criticism on social media claiming her tweet was [[Racism|racist]].&lt;ref name="Lesley-Arfin-Tweet"&gt;{{cite web|url=http://www.theatlanticwire.com/entertainment/2012/04/girls-writer-responds-critique-girls-horrible-joke/51314/ |title='Girls' Writer Responds to Critique of 'Girls' with Horrible Joke |last=Reeve |first=Elspeth |date=April 18, 2012 |publisher=[[The Atlantic]] |accessdate=January 14, 2013 |deadurl=no |archiveurl=https://web.archive.org/web/20121230032415/http://www.theatlanticwire.com/entertainment/2012/04/girls-writer-responds-critique-girls-horrible-joke/51314/ |archivedate=December 30, 2012 |df= }}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://gawker.com/5903468/a-girls-writers-ironic-racism-and-other-white-people-problems |title=A Girls Writer's Ironic Racism And Other 'White People Problems' |last=Read |first=Max |website=Gawker |language=en-US |access-date=April 23, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160419143831/http://gawker.com/5903468/a-girls-writers-ironic-racism-and-other-white-people-problems |archivedate=April 19, 2016 |df= }}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://observer.com/2012/04/girls-writer-has-been-lynched-for-her-casual-racism-says-gavin-mcinnes/ |title=Girls Writer Has Been 'Lynched' for Her Casual Racism, Says Gavin McInnes |website=Observer |language=en-US |access-date=April 23, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160412002616/http://observer.com/2012/04/girls-writer-has-been-lynched-for-her-casual-racism-says-gavin-mcinnes/ |archivedate=April 12, 2016 |df= }}&lt;/ref&gt;
+
+Dunham spoke publicly about the issues on several occasions. In an interview with [[IndieWire]], she said:
+
+&lt;blockquote&gt;I am a half-Jew, half-[[White Anglo-Saxon Protestant|WASP]], and I wrote two Jews and two WASPs. Something I wanted to avoid was tokenism in casting. If I had one of the four girls, if, for example, she was African-American, I feel like — not that the experience of an African-American girl and a white girl are drastically different, but there has to be specificity to that experience [that] I wasn't able to speak to. I really wrote the show from a gut-level place, and each character was a piece of me or based on someone close to me. And only later did I realize that it was four white girls. As much as I can say it was an accident, it was only later as the criticism came out, I thought, 'I hear this and I want to respond to it.' And this is a hard issue to speak to because all I want to do is sound sensitive and not say anything that will horrify anyone or make them feel more isolated, but I did write something that was super-specific to my experience, and I always want to avoid rendering an experience I can't speak to accurately.&lt;ref&gt;{{cite web|url=http://blogs.indiewire.com/shadowandact/2c060de0-993b-11e1-bcc4-123138165f92 |title=Lena Dunham Addresses "Girls" Diversity Criticism &amp; Why I Just Don't Care... &amp;#124; Shadow and Act |date= |publisher=Blogs.indiewire.com |accessdate=January 23, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20131013205833/http://blogs.indiewire.com/shadowandact/2c060de0-993b-11e1-bcc4-123138165f92 |archivedate=October 13, 2013 |df= }}&lt;/ref&gt;&lt;/blockquote&gt;
+
+[[Donald Glover]] guest starred as Sandy, a black Republican and Hannah's love interest, in the first two episodes of season two, which was criticized as [[tokenism]] in response to the initial backlash from the first season.&lt;ref&gt;{{Cite web|url=https://www.theatlantic.com/entertainment/archive/2013/01/im-a-white-girl-why-girls-wont-ever-overcome-its-racial-problem/267345/ |title='I'm a White Girl': Why 'Girls' Won't Ever Overcome Its Racial Problem |last=Berman |first=Judy |website=The Atlantic |language=en-US |access-date=April 23, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160423180223/http://www.theatlantic.com/entertainment/archive/2013/01/im-a-white-girl-why-girls-wont-ever-overcome-its-racial-problem/267345/ |archivedate=April 23, 2016 |df= }}&lt;/ref&gt;
+
+=== 2014–17: First book, further work, and the end of ''Girls'' ===
+{{Main|Not That Kind of Girl}}
+In late 2012, Dunham signed a $3.5&amp;nbsp;million deal with [[Random House]] to publish her first book.&lt;ref&gt;Bosman, Julie. [http://mediadecoder.blogs.nytimes.com/2012/10/08/lena-dunham-sings-book-deal-for-more-than-3-5-million "Lena Dunham Signs Book Deal for More Than $3.5 Million"] {{webarchive|url=https://web.archive.org/web/20121008211532/http://mediadecoder.blogs.nytimes.com/2012/10/08/lena-dunham-sings-book-deal-for-more-than-3-5-million/ |date=October 8, 2012 }}, ''The New York Times'', October 8, 2012.&lt;/ref&gt; Her essay collection, ''[[Not That Kind of Girl|Not That Kind of Girl: A Young Woman Tells You What She's "Learned"]]'', was published in September 2014,&lt;ref&gt;{{cite news|last1=Daum |first1=Meghan |authorlink1=Meghan Daum |title=Lena Dunham Is Not Done Confessing |url=https://www.nytimes.com/2014/09/14/magazine/lena-dunham.html |accessdate=November 8, 2014 |work=The New York Times Magazine |date=September 10, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20141117055652/http://www.nytimes.com/2014/09/14/magazine/lena-dunham.html |archivedate=November 17, 2014 |df= }}&lt;/ref&gt; and reached number two on ''[[The New York Times Best Seller list]]'' on October 19.&lt;ref&gt;{{cite news|title=COMBINED PRINT &amp; E-BOOK NONFICTION |url=https://www.nytimes.com/best-sellers-books/2014-10-19/combined-print-and-e-book-nonfiction/list.html |accessdate=November 7, 2014 |work=The New York Times |date=October 19, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20141108054727/http://www.nytimes.com/best-sellers-books/2014-10-19/combined-print-and-e-book-nonfiction/list.html |archivedate=November 8, 2014 |df= }}&lt;/ref&gt;
+
+In the book, Dunham wrote about being [[sexual assault|sexually assaulted]] by an [[Oberlin College]] classmate, which resulted in controversy regarding the accuracy of her account&lt;ref&gt;{{cite web|last1=Heller |first1=Karen |title=Lena Dunham and the challenges of memoir |url=https://www.washingtonpost.com/lifestyle/style/lena-dunham-and-the-challenges-of-memoir/2014/12/10/10db2002-806d-11e4-81fd-8c4814dfa9d7_story.html |website=The Washington Post |accessdate=April 1, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150402104451/http://www.washingtonpost.com/lifestyle/style/lena-dunham-and-the-challenges-of-memoir/2014/12/10/10db2002-806d-11e4-81fd-8c4814dfa9d7_story.html |archivedate=April 2, 2015 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Volokh |first1=Eugene |title=Could 'Barry' sue Lena Dunham over her memoirs? |url=https://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/12/04/could-barry-sue-lena-dunham-over-her-memoirs/ |accessdate=April 1, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150330103257/http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/12/04/could-barry-sue-lena-dunham-over-her-memoirs/ |archivedate=March 30, 2015 |df= }}&lt;/ref&gt; and a case of mistaken identity when a former Oberlin College student named Barry (the pseudonym used for Dunham's alleged attacker in her book) sought legal advice to ensure people didn't associate him with the content.&lt;ref&gt;{{cite web|last1=Collman |first1=Ashley |last2=Nathan |first2=Sara |last3=McCormack |first3=David |last4=DeGraff |first4=Mia |title=Lena Dunham breaks silence to say she gave her rapist a pseudonym to protect HIM as she apologizes to man falsely identified as her attacker |url=http://www.dailymail.co.uk/news/article-2867898/Lena-Dunham-breaks-silence-say-gave-rapist-pseudonym-protect-apologizes-man-falsely-identified-attacker.html |website=Daily Mail |accessdate=April 1, 2015 |deadurl=no |archiveurl=https://archive.is/20141227035558/http://www.dailymail.co.uk/news/article-2867898/Lena-Dunham-breaks-silence-say-gave-rapist-pseudonym-protect-apologizes-man-falsely-identified-attacker.html |archivedate=December 27, 2014 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Bond |first1=Paul |title=Publisher to Alter Lena Dunham Book After Rape Story Questioned, Attorney Says |url=http://www.hollywoodreporter.com/news/publisher-alter-lena-dunham-book-755193 |work=The Hollywood Reporter |accessdate=April 1, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150331194532/http://www.hollywoodreporter.com/news/publisher-alter-lena-dunham-book-755193 |archivedate=March 31, 2015 |df= }}&lt;/ref&gt; In the book, Dunham describes "Barry" as a guy who wore cowboy boots, sported a mustache, hosted a radio show, worked at a campus library, and graduated Oberlin in 2005. According to the man's attorney, Aaron Minc, that description warrants enough detail to point a finger at his client.&lt;ref name=":0"&gt;{{Cite web|url=http://pagesix.com/2014/12/09/publisher-to-alter-rape-story-in-lena-dunhams-book/ |title=Lena Dunham's book to be reprinted with 'rapist' clarification |last=Kupfer |first=Lindsey |website=Page Six |access-date=April 23, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160508160733/http://pagesix.com/2014/12/09/publisher-to-alter-rape-story-in-lena-dunhams-book/ |archivedate=May 8, 2016 |df= }}&lt;/ref&gt; Dunham later apologized for the confusion and Random House reprinted the book with a clarification, releasing a statement saying: "Random House, on our own behalf and on behalf of our author, regrets the confusion."&lt;ref name=":0" /&gt;&lt;ref&gt;{{Cite web|url=http://www.hollywoodreporter.com/news/publisher-alter-lena-dunham-book-755193 |title=Publisher to Alter Lena Dunham Book After Rape Story Questioned, Attorney Says |work=The Hollywood Reporter |access-date=April 23, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160507102010/http://www.hollywoodreporter.com/news/publisher-alter-lena-dunham-book-755193 |archivedate=May 7, 2016 |df= }}&lt;/ref&gt;
+
+Other passages in the book recounting interactions of a sexual nature, starting when she was seven years old, with her then one-year-old sister Grace also attracted significant controversy,&lt;ref&gt;{{cite web|url=https://www.theguardian.com/books/2014/nov/05/lena-dunham-statement-abuse-claims |title=Lena Dunham apologises after critics accuse her of sexually molesting sister |author=Alison Flood |work=The Guardian |deadurl=no |archiveurl=https://web.archive.org/web/20161227200800/https://www.theguardian.com/books/2014/nov/05/lena-dunham-statement-abuse-claims |archivedate=December 27, 2016 |df= }}&lt;/ref&gt; and prompted numerous [[think piece]]s about [[Child sexuality|children's sexuality]] and personal boundaries.&lt;ref&gt;{{cite news|last1=McDonald |first1=Soraya Nadia |title=Lena Dunham responds to sites accusing her of sexually abusing her sister |url=https://www.washingtonpost.com/news/morning-mix/wp/2014/11/03/lena-dunham-responds-to-sites-accusing-her-of-sexually-abusing-her-sister/ |accessdate=November 8, 2014 |work=The Washington Post |date=November 3, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20141111125431/http://www.washingtonpost.com/news/morning-mix/wp/2014/11/03/lena-dunham-responds-to-sites-accusing-her-of-sexually-abusing-her-sister/ |archivedate=November 11, 2014 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Clark-Flory |first1=Tracy |title=Child therapists: Stop freaking out about Lena Dunham |url=http://www.salon.com/2014/11/04/child_therapists_stop_freaking_out_about_lena_dunham/ |accessdate=November 7, 2014 |work=Salon |issue=November 4, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20141107191019/http://www.salon.com/2014/11/04/child_therapists_stop_freaking_out_about_lena_dunham/ |archivedate=November 7, 2014 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Oldenburg |first1=Ann |title=Lena Dunham: Sexual abuse or sexual exploration? |url=https://www.usatoday.com/story/life/people/2014/11/06/lena-dunam-sexual-abuse-sister-grace-exploration-lawsuit/18524915 |accessdate=February 13, 2015 |work=USA Today |date=November 6, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20150211223612/http://www.usatoday.com/story/life/people/2014/11/06/lena-dunam-sexual-abuse-sister-grace-exploration-lawsuit/18524915/ |archivedate=February 11, 2015 |df= }}&lt;/ref&gt;
+
+In February 2014, Dunham hosted an episode of ''[[Saturday Night Live]]'' on March 8, 2014 with musical guest [[The National (band)|The National]].&lt;ref&gt;Ng, Philiana (February 25, 2014). [http://www.hollywoodreporter.com/live-feed/snl-girls-star-lena-dunham-683251 "'Girls' Star Lena Dunham to Host 'SNL'"] {{webarchive|url=https://web.archive.org/web/20140228125554/http://www.hollywoodreporter.com/live-feed/snl-girls-star-lena-dunham-683251|date=February 28, 2014}}, ''The Hollywood Reporter''. Retrieved February 9, 2015.&lt;/ref&gt; On January 5, 2015, days before the premiere of the fourth season, ''Girls'' was renewed for a fifth season.&lt;ref&gt;[https://variety.com/2015/tv/news/hbo-girls-renewed-season-5-1201393224 ''Girls'' renewed for fifth season] {{webarchive|url=https://web.archive.org/web/20150209063519/http://variety.com/2015/tv/news/hbo-girls-renewed-season-5-1201393224/|date=February 9, 2015}}, ''Variety''. Retrieved February 9, 2015.&lt;/ref&gt;
+
+On February 20, 2015, it was reported that Dunham had been cast in a then unknown guest role in an episode of the [[American Broadcasting Company|ABC]] drama series ''[[Scandal (TV series)|Scandal]]'', which aired March 19, 2015.&lt;ref&gt;{{cite web|url=https://variety.com/2015/tv/news/lena-dunham-scandal-guest-star-girls-1201438055|title=Lena Dunham To Guest Star on 'Scandal'|last1=Weinstein|first1=Shelli|work=Variety|archiveurl=https://web.archive.org/web/20150221034502/http://variety.com/2015/tv/news/lena-dunham-scandal-guest-star-girls-1201438055/|archivedate=February 21, 2015|deadurl=no|accessdate=February 21, 2015|df=}}&lt;/ref&gt;
+
+In April 2015, Dunham, [[Jennifer Konner]], and Ericka Naegle launched A Casual Romance Productions, a production company which will develop television and film projects.&lt;ref&gt;{{cite web|url=https://variety.com/2015/tv/news/lena-dunham-girls-hbo-production-company-girls-a-casual-romance-1201476138/ |title=How Lena Dunham is Launching an Empire for Comedic Women |website=[[Variety (magazine)|Variety]] |first=Ramin |last=Seetoodeh |date=April 21, 2015 |accessdate=July 4, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160710121328/http://variety.com/2015/tv/news/lena-dunham-girls-hbo-production-company-girls-a-casual-romance-1201476138/ |archivedate=July 10, 2016 |df= }}&lt;/ref&gt; The company has produced ''Suited'', and ''It's Me Hilary: The Man Who Drew Eloise'', with additional projects in development.&lt;ref&gt;{{cite web|url=http://www.indiewire.com/2015/04/lena-dunham-and-rose-byrne-launch-all-female-production-companies-203899/ |title=Lena Dunham and Rose Byrne Launch All-Female Production Companies |website=[[Indiewire.com]] |first=Inkoo |last=Kang |date=March 23, 2016 |accessdate=July 4, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160711051505/http://www.indiewire.com/2015/04/lena-dunham-and-rose-byrne-launch-all-female-production-companies-203899/ |archivedate=July 11, 2016 |df= }}&lt;/ref&gt;
+
+In September 2015, Dunham stated that season 6 of ''Girls'' will most likely be the last season for the show.&lt;ref&gt;{{cite web|url=http://www.ew.com/article/2015/09/29/lena-dunham-girls-season-6|title=Lena Dunham on Girls season 6|work=Entertainment Weekly's EW.com|archiveurl=https://web.archive.org/web/20151006210938/http://www.ew.com/article/2015/09/29/lena-dunham-girls-season-6|archivedate=October 6, 2015|deadurl=no|df=}}&lt;/ref&gt; This was confirmed by HBO on January 6, 2016.&lt;ref&gt;{{Cite web|url=http://www.hbo.com/girls/news/girls-final-season-to-air-in-2017.html|title=HBO: Girls: News|website=HBO|archiveurl=https://web.archive.org/web/20160113223247/http://www.hbo.com/girls/news/girls-final-season-to-air-in-2017.html|archivedate=January 13, 2016|deadurl=no|access-date=January 14, 2016|df=}}&lt;/ref&gt; That year, Dunham appeared in her mother's film, ''My Art'',&lt;ref&gt;{{cite web|url=https://news.artnet.com/art-world/laurie-simmons-casts-daughter-lena-dunham-in-new-film-23194|title=Laurie Simmons Casts Daughter Lena Dunham in New Film|last=Cascone|first=Sarah|date=May 20, 2014|website=Artnet.com|accessdate=May 8, 2016}}&lt;/ref&gt; which had its world premiere at the [[73rd Venice International Film Festival]].&lt;ref&gt;{{cite web|url=http://www.labiennale.org/en/cinema/73rd-festival/line-up/off-sel/cinema-nel-giardino/my-art.html|title=My Art|website=Venice Film Festival|archiveurl=https://web.archive.org/web/20161224031205/http://www.labiennale.org/en/cinema/73rd-festival/line-up/off-sel/cinema-nel-giardino/my-art.html|archivedate=December 24, 2016|deadurl=no|accessdate=December 23, 2016|df=}}&lt;/ref&gt;
+
+''Girls''&lt;nowiki/&gt;' sixth and final season concluded on April 16, 2017.&lt;ref&gt;{{cite web|url=http://deadline.com/2016/11/hbo-premiere-dates-girls-last-week-tonight-john-oliver-crashing-1201856417/|title=HBO Sets Premiere Dates For 'Girls,' 'Last Week Tonight' &amp; New Comedy 'Crashing|last=Pederson|first=Erik|date=November 17, 2016|website=[[Deadline Hollywood]]|accessdate=November 17, 2016}}&lt;/ref&gt;
+
+=== 2018–present: Second book and ''Camping'' ===
+In June 2016, Dunham announced she would be writing another book.&lt;ref&gt;{{cite web|url=http://entertainment.inquirer.net/196773/lena-dunham-on-wrapping-up-girls-kevin-spacey-sex-dream-tweets|title=Lena Dunham on wrapping up 'Girls,' Kevin Spacey sex dream tweets|last=V. Nepales|first=Ruben|date=June 30, 2016|website=Inqurier|archiveurl=https://web.archive.org/web/20160630191820/http://entertainment.inquirer.net/196773/lena-dunham-on-wrapping-up-girls-kevin-spacey-sex-dream-tweets|archivedate=June 30, 2016|deadurl=no|accessdate=July 4, 2016|df=}}&lt;/ref&gt;
+
+On February 8, 2018, A Casual Romance Productions announced that it would be producing ''[[Camping (U.S. TV series)|Camping]]'', a remake of the British comedy series [[Camping (UK TV series)|of the same name]] for HBO, with [[Jennifer Garner]] in the lead and Dunham and Konner as showrunners and writers.&lt;ref name="garnerstar"&gt;{{cite news|url=https://www.hollywoodreporter.com/live-feed/jennifer-garner-star-hbo-comedy-girls-duo-lena-dunham-jenni-konner-1083111|title=Jennifer Garner to Star in HBO Comedy From 'Girls' Duo Lena Dunham, Jenni Konner|last=Goldberg|first=Lesley|date=February 8, 2018|work=[[The Hollywood Reporter]]|accessdate=}}&lt;/ref&gt;&lt;ref name="garnerdunham"&gt;{{cite news|url=http://ew.com/tv/2018/02/08/jennifer-garner-lena-dunham-hbo-comedy/|title=Jennifer Garner to star in a new Lena Dunham HBO comedy|last=Hibberd|first=James|date=February 8, 2018|work=Entertainment Weekly|accessdate=}}&lt;/ref&gt; In August 2018, it was announced Dunham would appear in ''[[Once Upon a Time in Hollywood]]'', directed by [[Quentin Tarantino]], set to be released on July 26, 2019.&lt;ref&gt;{{cite web|url=https://deadline.com/2018/08/lena-dunham-austin-butler-maya-hawke-lorenza-izzo-quentin-tarantino-once-upon-a-time-in-hollywood-1202450671/|title=Lena Dunham, Austin Butler, Maya Hawke, Lorenza Izzo Board Quentin Tarantino’s ‘Once Upon A Time In Hollywood’|website=[[Deadline Hollywood]]|first=Amanda|last=N'Duka|date=August 22, 2018|accessdate=August 22, 2018}}&lt;/ref&gt; Dunham will protray the role of [[Catherine Share|Catherine "Gypsy" Share]].&lt;ref&gt;{{cite web|url=https://ew.com/movies/2018/08/22/lena-dunham-quentin-tarantino-once-upon-a-time-in-hollywood/|title=Lena Dunham to play Manson disciple in Tarantino's Once Upon A Time in Hollywood|website=[[Entertainment Weekly]]|first=Piya|last=Sinha-Roy|date=August 22, 2018|accessdate=August 22, 2018}}&lt;/ref&gt;
+
+== In the media ==
+Dunham has appeared on several magazine covers, including ''[[Vogue (magazine)|Vogue]]'', ''[[Elle (magazine)|Elle]]'', ''[[Marie Claire]]'', and ''[[Rolling Stone]]''. After Dunham posed with bare legs for ''[[Glamour Awards|Glamour]]''&lt;nowiki/&gt;'s February 2017 cover, she praised the magazine for featuring an unedited photo and leaving the [[cellulite]] on her thighs visible.&lt;ref&gt;{{Cite news|url=http://www.etonline.com/news/206304_lena_dunham_thanks_glamour_for_featuring_her_cellulite_on_the_cover/ |title=Lena Dunham Thanks 'Glamour' for Featuring Her Cellulite on Its Cover |last=Bueno |first=Antoinette |date=January 3, 2017 |work=Entertainment Tonight |access-date=May 20, 2017 |archive-url=https://web.archive.org/web/20170204102205/http://www.etonline.com/news/206304_lena_dunham_thanks_glamour_for_featuring_her_cellulite_on_the_cover/ |archive-date=February 4, 2017 |dead-url=no |language=en |df= }}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.huffingtonpost.ca/2017/01/04/lena-dunham-glamour-cellulite_n_13952302.html |title=Lena Dunham Thanks Glamour Mag For Putting Her Cellulite On Cover |last=Markovinovic |first=Monika |date=January 4, 2017 |website=The Huffington Post |archive-url=https://web.archive.org/web/20170222053727/http://www.huffingtonpost.ca/2017/01/04/lena-dunham-glamour-cellulite_n_13952302.html |archive-date=February 22, 2017 |dead-url=no |access-date=May 20, 2017 |df= }}&lt;/ref&gt;
+
+=== ''Lenny Letter'' ===
+{{Main|Lenny Letter}}
+In 2015, Dunham, with [[Jenni Konner]], co-founded ''[[Lenny Letter]]'', a [[Feminism|feminist]] online newsletter.&lt;ref name="NYDailyNews-LennyLetter-2015" /&gt;&lt;ref name="NiemanLab-LennyLetters-2016" /&gt; ''Lenny Letter'' was supported by [[Hearst Corporation]] advertising.&lt;ref name="NiemanLab-LennyLetters-20162"&gt;{{cite news|url=http://www.niemanlab.org/2016/03/lena-dunhams-lenny-letter-has-grown-to-400000-subscribers-with-a-65-percent-open-rate/|title=Lena Dunham's Lenny Letter has grown to 400,000 subscribers with a 65 percent open rate|last1=Owen|first1=Laura Hazard|date=4 March 2016|work=[[Nieman Foundation for Journalism|NiemanLab]]}}&lt;/ref&gt; As of December 2017, it is now supported by [[Condé Nast]].&lt;ref&gt;{{Cite news|url=https://www.hollywoodreporter.com/news/style-notes-lenny-letter-moves-hearst-conde-nast-stance-socks-expands-intimates-1049357|title=Style Notes: Lenny Letter Moves From Hearst to Conde Nast; Stance Socks Expands to Intimates|work=The Hollywood Reporter|access-date=2018-03-16|language=en}}&lt;/ref&gt;
+
+Notable articles include an essay written by actress [[Jennifer Lawrence]] about the [[gender wage gap]] in Hollywood,&lt;ref name="Lenny-JenniferLawrence-2016"&gt;{{cite news|url=http://www.lennyletter.com/work/a147/jennifer-lawrence-why-do-i-make-less-than-my-male-costars/|title=Jennifer Lawrence: "Why Do I Make Less Than My Male Co‑Stars?"|last1=Lawrence|first1=Jennifer|date=14 October 2015|work=Lenny Letter}}&lt;/ref&gt; and one written by singer [[Alicia Keys]] about her decision to start wearing little to no make-up.&lt;ref&gt;{{cite news|url=http://www.lennyletter.com/style/a410/alicia-keys-time-to-uncover/|title=Alicia Keys: Time to Uncover|last1=Keys|first1=Alicia|date=31 May 2016|work=Lenny Letter}}&lt;/ref&gt;
+
+In addition to the regular newsletter, ''Lenny Letter'' published a Fiction Issue and a Poetry Issue during fall 2015. ''Lenny Letter'' is developing a book imprint and a possible HBO short film series.&lt;ref name="Nylon-DunhamGirlsEnding-2017"&gt;{{cite news|url=http://www.nylon.com/articles/lena-dunham-nylon-february-cover|title=Lena Dunham Is Our February Cover Star: Dunham talks the end of 'Girls,' our new president, and being a workaholic|last1=Wappler|first1=Margaret|date=January 11, 2017|work=[[Nylon (magazine)|Nylon]]|archiveurl=https://web.archive.org/web/20170128022929/http://www.nylon.com/articles/lena-dunham-nylon-february-cover|archivedate=January 28, 2017|deadurl=no|language=en|df=}}&lt;/ref&gt;
+
+==Controversies==
+In September 2016, Dunham criticized [[NFL]] player [[Odell Beckham Jr.]] for his interactions with her at the [[Met Gala]]. Dunham said, "I was sitting next to Odell Beckham Jr., and it was so amazing because it was like he looked at me and he determined I was not the shape of a woman by his standards. He was like, 'That's a marshmallow. That's a child. That's a dog.' It wasn't mean — he just seemed confused. The vibe was very much like, 'Do I want to f--- it? Is it wearing a … yep, it's wearing a tuxedo. I'm going to go back to my cell phone." She added, "It was like we were forced to be together, and he literally was scrolling Instagram rather than have to look at a woman in a bow tie. I was like, 'This should be called the Metropolitan Museum of Getting Rejected by Athletes'.&lt;ref&gt;{{cite web |last1=Williams |first1=Alex |title=Odell Beckham Jr. Responds to the Lena Dunham Dust-Up: ‘I Have to Learn More About the Situation’ |url=https://www.nytimes.com/2016/09/08/fashion/odell-beckham-jr-lena-dunham-met-gala-response.html |website=New York Times |publisher=New York Times |accessdate=June 20, 2018}}&lt;/ref&gt; Dunham later apologized for her characterization of his interactions and thoughts.&lt;ref&gt;{{cite web |last1=Kelly |first1=Seth |title=Lena Dunham Pens Apology to Odell Beckham Jr. After Met Gala Comments Backlash |url=https://variety.com/2016/digital/news/lena-dunham-apology-odell-beckham-jr-amy-schumer-lenny-letter-1201851866/ |website=Variety |accessdate=June 20, 2018}}&lt;/ref&gt;
+
+In December 2016, Dunham declared on a podcast that she wished she'd had an [[abortion]], explaining that she wanted to better understand women who have. The comment was widely condemned as insensitive.&lt;ref&gt;[http://motto.time.com/4608364/lena-dunham-wish-abortion-comments/?xid=time_socialflow_facebook "Lena Dunham Said She Wishes She Had an Abortion"] {{webarchive|url=https://web.archive.org/web/20161222151840/http://motto.time.com/4608364/lena-dunham-wish-abortion-comments/?xid=time_socialflow_facebook |date=December 22, 2016 }}, ''Us Weekly'', December 20, 2016.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://variety.com/2016/biz/news/lena-dunham-abortion-controversy-1201946387/ |title=Lena Dunham Faces Backlash for Saying She Wishes She'd Had an Abortion |website=[[Variety (magazine)|Variety]] |first=Arya |last=Roshanian |date=December 20, 2016 |accessdate=December 23, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161223171503/http://variety.com/2016/biz/news/lena-dunham-abortion-controversy-1201946387/ |archivedate=December 23, 2016 |df= }}&lt;/ref&gt; Dunham later issued a lengthy apology on her [[Instagram]].&lt;ref&gt;{{cite web|last1=Gibson |first1=Caitlin |title=Lena Dunham gave a very Lena Dunham apology for her controversial comment on abortion |url=https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/12/21/lena-dunham-gave-a-very-lena-dunham-apology-for-her-controversial-comment-on-abortion/ |website=[[Washington Post]] |date=December 21, 2016 |accessdate=December 22, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161223140501/https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/12/21/lena-dunham-gave-a-very-lena-dunham-apology-for-her-controversial-comment-on-abortion/ |archivedate=December 23, 2016 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/news/lena-dunham-apologizes-distasteful-joke-abortion-958213 |title=Lena Dunham Apologizes for "Distasteful Joke" About Abortion |website=[[The Hollywood Reporter]] |first=Meena |last=Jang |date=December 20, 2016 |accessdate=December 23, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161222213910/http://www.hollywoodreporter.com/news/lena-dunham-apologizes-distasteful-joke-abortion-958213 |archivedate=December 22, 2016 |df= }}&lt;/ref&gt;
+
+In November 2017, Dunham briefly defended ''Girls'' writer [[Murray Miller]], whom actress [[Aurora Perrineau]] had accused of sexually assaulting her in 2012 when she was seventeen. Dunham responded to the accusations by saying "While our first instinct is to listen to every woman's story, our insider knowledge of Murray's situation makes us confident that sadly this accusation is one of the 3% of assault cases that are misreported every year."&lt;ref name=BBC&gt;{{cite news |url=https://www.bbc.com/news/entertainment-arts-42042852 |title=Lena Dunham sorry for comment on writer accused of sexual assault |date=November 19, 2017 |publisher=BBC News}}&lt;/ref&gt; After an immediate backlash, Dunham apologized for that statement, saying that it was "absolutely the wrong time to come forward with such a statement" and that "every woman who comes forward deserves to be heard, fully and completely, and our relationship to the accused should not be part of the calculation anyone makes when examining her case."&lt;ref name=BBC /&gt; Dunham was described as a "[[hipster racist]]" for her defense of Miller, as Perrineau is of mixed race.&lt;ref&gt;{{cite news | last=D'Zurilla | first=Christie | date=20 November 2017 | title=Lena Dunham accused of 'hipster racism' after she initially defended 'Girls' writer | work=[[Los Angeles Times]] | url=http://www.latimes.com/entertainment/la-et-entertainment-news-updates-lena-dunham-accused-of-hipster-racism-1511203068-htmlstory.html | access-date=25 November 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news | last=Mahdawi | first=Arwa | date=25 November 2017 | title=Is Lena Dunham's 'hipster racism' just old-fashioned prejudice? | work=[[The Guardian]] | url=https://www.theguardian.com/world/2017/nov/25/hipster-racism-lena-dunham-prejudice | access-date=25 November 2017 }}&lt;/ref&gt;
+
+==Personal life==
+In 2012, Dunham began dating [[Jack Antonoff]], the lead guitarist of the band [[Fun (band)|Fun]] and the founder of [[Bleachers (band)|Bleachers]].&lt;ref&gt;[http://www.usmagazine.com/celebrity-news/news/girls-lena-dunham-is-dating-funs-jack-antonoff-201259 "Girls' Lena Dunham Is Dating Fun.'s Jack Antonoff"] {{webarchive|url=https://web.archive.org/web/20140219165829/http://www.usmagazine.com/celebrity-news/news/girls-lena-dunham-is-dating-funs-jack-antonoff-201259 |date=February 19, 2014 }}, ''Us Weekly'', September 5, 2012.&lt;/ref&gt;&lt;ref&gt;http://www.eonline.com/news/904908/lena-dunham-and-jack-antonoff-break-up-after-five-years&lt;/ref&gt; Dunham and Antonoff remained together until December 2017; they subsequently announced that the separation was "amicable".&lt;ref&gt;{{cite news|url=http://www.eonline.com/news/904908/lena-dunham-and-jack-antonoff-break-up-after-five-years|title=Lena Dunham and Jack Antonoff Break Up After Five Years|date=January 8, 2018|first=McKenna|last=Aiello|publisher=[[E!]]}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Jensen|first1=Erin|title=Lena Dunham, Jack Antonoff break up after spending more than five years together|url=https://www.usatoday.com/story/life/people/2018/01/09/lena-dunham-jack-antonoff-break-up-after-being-together-more-than-spenmoreding-than-five-yea/1015954001/|accessdate=January 9, 2018|work=[[USA Today]]|date=January 9, 2018}}&lt;/ref&gt;
+
+Dunham was diagnosed with [[obsessive compulsive disorder]] as a child, and continues to take a low dose of an [[antidepressant]] to relieve her [[Anxiety disorder|anxiety]].&lt;ref&gt;{{cite web|last=Suval |first=Lauren |url=http://psychcentral.com/blog/archives/2013/04/28/obsessive-compulsive-disorder-in-the-media |title=Obsessive-Compulsive Disorder in the Media |publisher=Psychcentral.com |accessdate=May 13, 2013 |deadurl=no |archiveurl=https://web.archive.org/web/20130511222605/http://psychcentral.com/blog/archives/2013/04/28/obsessive-compulsive-disorder-in-the-media/ |archivedate=May 11, 2013 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.nytimes.com/2014/09/14/magazine/lena-dunham.html |title=Lena Dunham Is Not Done Confessing |work=The New York Times |date=September 10, 2014 |first=Meghan |last=Daum |accessdate=September 10, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140911013405/http://www.nytimes.com/2014/09/14/magazine/lena-dunham.html |archivedate=September 11, 2014 |df= }}&lt;/ref&gt;
+
+In February 2018, Dunham wrote an essay for ''[[Vogue (magazine)|Vogue]]'' about her decision to have a [[hysterectomy]] due to [[endometriosis]].&lt;ref&gt;{{cite web|url=https://www.vogue.com/article/lena-dunham-hysterectomy-vogue-march-2018-issue|title=In Her Own Words: Lena Dunham on Her Decision to Have a Hysterectomy at 31|publisher=Vogue|first=Lena|last=Dunham|date=February 14, 2018|accessdate=April 2, 2018}}&lt;/ref&gt;
+
+==Political activities==
+In fall of 2012, Dunham appeared in a video advertisement promoting President Barack Obama's re-election, delivering a monologue, which, according to a blog quoted in ''[[The Atlantic]]'', tried to "get the youth vote by comparing voting for the first time to having sex for the first time".&lt;ref&gt;{{cite web|last1=Franke-Ruta |first1=Garance |title=Lena Dunham's New Obama Ad—As Controversial As Everything She Does? |url=https://www.theatlantic.com/politics/archive/2012/10/lena-dunhams-new-obama-ad-as-controversial-as-everything-she-does/264139 |work=The Atlantic |accessdate=February 15, 2015 |date=October 25, 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150209035250/http://www.theatlantic.com/politics/archive/2012/10/lena-dunhams-new-obama-ad-as-controversial-as-everything-she-does/264139/ |archivedate=February 9, 2015 |df= }}&lt;/ref&gt; [[Fox News]] reported criticism from [[Media Research Center]]'s Lauren Thompson, public relations professional [[Ronn Torossian]], and media trainer Louise Pennell, which labeled the advertisement as tasteless, inappropriate, and a ploy to lure the younger female vote. It included a comment from Steve Hall of Ad Rants saying that "not everyone was so offended." A friend of Dunham said the actress was not paid for her performance on the spot, and Dunham defended the ad by tweeting "The video may be light but the message is serious: vote for women's rights."&lt;ref&gt;{{cite news|title=Critics blast Obama campaign for new ad that likens voting for Barack Obama to a young woman losing her virginity |date=October 25, 2012 |publisher=Fox News Channel |url=http://www.foxnews.com/entertainment/2012/10/26/girls-creator-lena-dunham-compares-voting-to-barack-obama-to-losing-virginity |accessdate=October 28, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20121027200054/http://www.foxnews.com/entertainment/2012/10/26/girls-creator-lena-dunham-compares-voting-to-barack-obama-to-losing-virginity/ |archivedate=October 27, 2012 |df= }}&lt;/ref&gt; In ''The Nation,'' Ari Melber wrote "the ad's style is vintage Lena: edgy and informed, controversial but achingly self-aware, sexually proud and affirmatively feminist."&lt;ref&gt;[http://www.thenation.com/blog/170843/obama-campaign-launches-sexy-lena-dunham-ad-your-first-time], ''The Nation''. Retrieved February 26, 2015.&lt;/ref&gt;
+
+In 2014, Dunham was named the Recipient of Horizon Award 2014 by [[Point Foundation (LGBT)|Point Foundation]] for her support of the gay community.&lt;ref&gt;{{cite web|title=Actress Lena Dunham named Winner of Horizon Award 2014 |url=http://news.biharprabha.com/2014/02/actress-lena-dunham-named-winner-of-horizon-award-2014 |agency=Indo-Asian News Service |publisher=news.biharprabha.com |accessdate=February 22, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20141217231437/http://news.biharprabha.com/2014/02/actress-lena-dunham-named-winner-of-horizon-award-2014/ |archivedate=December 17, 2014 |df= }}&lt;/ref&gt;
+
+In April 2016, she wrote in support of [[Hillary Clinton]], pledging to move to [[Vancouver]], British Columbia, Canada, if [[Donald Trump]] won the election.&lt;ref&gt;{{cite web|work=[[Time (magazine)|Time Magazine]] |url=http://time.com/4306966/lena-dunham-hillary-clinton-bernie-sanders/ |title=Why I Chose Hillary Clinton |first=Lena |last=Dunham |date=April 25, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161109220831/http://time.com/4306966/lena-dunham-hillary-clinton-bernie-sanders/ |archivedate=November 9, 2016 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The Hill |url=http://www.nationalreview.com/corner/441937/celebrities-leaving-united-states-if-trump-elected |accessdate=November 9, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161109043036/http://www.nationalreview.com/corner/441937/celebrities-leaving-united-states-if-trump-elected |archivedate=November 9, 2016 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|work=[[New York Post]] |url=https://nypost.com/2016/04/26/donald-trump-wants-to-drive-lena-dunham-out-of-america/ |title=Donald Trump wants to drive Lena Dunham out of America |date=April 26, 2016 |quote=If Trump wins the White House, Dunham said "Girls" is moving to Vancouver. "I know a lot of people have been threatening to do this, but I really will," Dunham said outside an awards event in New York City on Monday. "I know a lovely place in Vancouver, and I can get my work done from there." Dunham is an ardent supporter of Democratic front-runner Hillary Clinton. |deadurl=no |archiveurl=https://web.archive.org/web/20161109221412/http://nypost.com/2016/04/26/donald-trump-wants-to-drive-lena-dunham-out-of-america/ |archivedate=November 9, 2016 |df= }}&lt;/ref&gt; After Trump's win, Dunham wrote she will not be moving to Canada, saying,  "I can survive staying in this country, MY country, to fight and love and use my embarrassment of blessings to do what's right."&lt;ref&gt;{{cite web|last1=Vultaggio |first1=Maria |title=Lena Dunham Instagram Update: Why She Isn't Moving To Canada After Trump Win |url=http://www.ibtimes.com/lena-dunham-instagram-update-why-she-isnt-moving-canada-after-trump-win-2450983 |website=International Business Times |publisher=IBT Media, Inc. |accessdate=November 24, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20161125045212/http://www.ibtimes.com/lena-dunham-instagram-update-why-she-isnt-moving-canada-after-trump-win-2450983 |archivedate=November 25, 2016 |df= }}&lt;/ref&gt;
+
+In June 2017, Dunham endorsed [[Jim Johnson (New Jersey politician)|Jim Johnson]], a Democratic New Jersey gubernatorial candidate.&lt;ref name=NBCJohnson&gt;[http://www.nbcnewyork.com/news/local/Lena-Dunham-Endorses-NJ-Candidate-Jim-Johnson-Pajamas-youtube-425731343.html Lena Dunham Endorses NJ Gubernatorial Candidate Jim Johnson in Pink Pajamas -- From Bed]. [[WNBC]], 1 June 2017&lt;/ref&gt; Later that month, Dunham endorsed [[Jeremy Corbyn]], leader of the [[Labour Party (UK)|Labour Party]], in the [[United Kingdom general election, 2017|United Kingdom general election]].&lt;ref name=TelegraphCorbyn&gt;[https://www.telegraph.co.uk/tv/2017/06/06/lena-dunham-urges-fans-vote-just-fair-jeremy-corbyn/ Lena Dunham urges fans to vote for 'just and fair' Jeremy Corbyn]. ''[[The Daily Telegraph|The Telegraph]]'', 6 June 2017&lt;/ref&gt;
+
+==Filmography==
+{| class="wikitable sortable"
+|+ Film credits
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+|2006
+|''Dealing''
+|Georgia
+|Short film&lt;br /&gt;Also writer, director
+|-
+|2007
+|''Una &amp; Jacques''
+|
+|Video short
+|-
+|2009
+|''[[The House of the Devil]]''
+| 911 Operator
+|Voice
+|-
+|2009
+|''Creative Nonfiction''
+| Ella
+| Also writer, director, editor
+|-
+|2009
+|''The Viewer''
+| Voice
+|Short film
+|-
+|2009
+|''Family Tree''
+| Lena
+|Short film
+|- 
+|2010
+|''[[Gabi on the Roof in July]]''
+| Colby
+|
+|-
+|2010
+|''[[Tiny Furniture]]''
+| Aura
+| Also director, writer
+|-
+|2011
+|''[[The Innkeepers (film)|The Innkeepers]]''
+| Barista
+|
+|-
+|2012
+|''[[Nobody Walks]]''
+|
+| Co-writer
+|-
+|2012
+|''[[Supporting Characters]]''
+| Alexa
+|
+|-
+|2012
+|''[[This Is 40]]''
+| Cat
+|
+|-
+|2014
+|''[[Happy Christmas (film)|Happy Christmas]]''
+|Carson
+|
+|-
+|2015
+|''[[Sky (film)|Sky]]''
+|Billie
+|
+|-
+| 2016
+| ''[[Neighbors 2: Sorority Rising]]''
+| [[Joan of Arc]]
+| Scenes cut&lt;ref&gt;{{cite web|url=http://www.ew.com/article/2016/04/04/neighbors-2-lena-dunham-joan-arc-scene-cut |title=Lena Dunham's Joan of Arc cameo cut from Neighbors 2 |publisher=[[Entertainment Weekly]] |first=Oliver |last=Gettell |date=April 4, 2016 |accessdate=April 8, 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160408122823/http://www.ew.com/article/2016/04/04/neighbors-2-lena-dunham-joan-arc-scene-cut |archivedate=April 8, 2016 |df= }}&lt;/ref&gt;
+|-
+| 2016
+| ''My Art''
+| Meryl
+| 
+|-
+| 2016
+| ''[[My Entire High School Sinking Into the Sea]]''
+| Mary (voice)
+| 
+|-
+| 2019
+| ''[[Once Upon a Time in Hollywood]]''
+|[[Catherine "Gypsy" Share]]
+| Filming
+|}
+
+{| class="wikitable sortable"
+|+ Television credits
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2007
+|''Tight Shots''
+|
+|Main role&lt;br /&gt;Also writer, director, editor
+|-
+| 2009
+|''[[Delusional Downtown Divas]]''
+| Oona
+|Main role&lt;br /&gt;Also writer, director, producer
+|-
+| 2012–2017
+|''[[Girls (TV series)|Girls]]''
+| Hannah Horvath
+|Main role&lt;br /&gt;Also creator, director, writer, executive producer
+|-
+| 2014–2016
+|''[[Adventure Time]]''
+| Betty Grof (voice)
+|"[[Betty (Adventure Time)|Betty]]" (Season 5, Episode 48)&lt;br /&gt;"You Forgot Your Floaties" (Season 6, Episode 38)&lt;br /&gt;"Broke His Crown" (Season 7, Episode 27)
+|-
+| 2014
+|''[[Saturday Night Live]]''
+| Host
+|"Lena Dunham/[[The National (band)|The National]]" (Season 39, Episode 15)
+|-
+| 2015
+|''[[Scandal (TV series)|Scandal]]''
+| Susanne Thomas
+|"It's Good to Be Kink" (Season 4, Episode 63)
+|-
+| 2015
+| ''[[7 Days in Hell]]''
+| Lanny Denver
+| Television film
+|-
+| 2015
+|''[[The Simpsons]]''
+| Candace/Hannah Horvath (voice)
+|"[[Every Man's Dream]]" (Season 27, Episode 1)
+|-
+| 2017
+|''[[Travel Man]]''
+| Herself
+|"48 Hours in Tenerife" (Season 5, Episode 3)
+|-
+| 2017
+|''[[American Horror Story: Cult]]''
+| [[Valerie Solanas]]
+|"[[Valerie Solanas Died for Your Sins: Scumbag]]" (Episode 7)
+|}
+
+==Awards and nominations==
+{{BLP unsourced section|date=June 2017}}
+{| class="wikitable sortable"
+|-
+! Year
+! Association
+! Category
+! Nominated work
+! Result
+|-
+| rowspan=2|2010
+| rowspan=2|[[Gotham Awards]]
+| [[Gotham Awards|Best Ensemble Cast]]
+| rowspan=3|''Tiny Furniture''
+| {{nom}}
+|-
+| [[Gotham Awards|Breakthrough Director Award]]
+| {{nom}}
+|-
+| 2011
+| [[Independent Spirit Awards]]
+| [[Independent Spirit Award for Best First Screenplay]]
+| {{won}}
+|-
+| rowspan=8|2012
+| [[Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Comedy Series|Outstanding Directing – Comedy Series]]
+| rowspan=17|''Girls''
+| {{won}}
+|-
+| rowspan=4|[[Primetime Emmy Awards]]
+| [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]]
+| {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Directing for a Comedy Series|Outstanding Directing for a Comedy Series]]
+| {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series|Outstanding Lead Actress in a Comedy Series]]
+| {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Comedy Series|Outstanding Writing for a Comedy Series]]
+| {{nom}}
+|-
+| [[Satellite Awards]]
+| [[Satellite Award for Best Actress – Television Series Musical or Comedy|Best Actress – Television Series Musical or Comedy]]
+| {{nom}}
+|-
+| [[2nd Critics' Choice Television Awards|Critics' Choice Television Awards]]
+| [[Critics' Choice Television Award for Best Actress in a Comedy Series|Best Actress in a Comedy Series]]
+| {{nom}}
+|-
+| [[Television Critics Association Awards]]
+| [[TCA Award for Individual Achievement in Comedy|Individual Achievement in Comedy]]
+| {{nom}}
+|-
+| rowspan=6|2013
+| rowspan=2|[[Golden Globe Awards]]
+| [[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]]
+| {{won}}
+|-
+| [[Golden Globe Award for Best Actress – Television Series Musical or Comedy|Best Actress – Television Series Musical or Comedy]]
+| {{won}}
+|-
+| [[Gracie Allen Awards]]
+| [[Gracie Awards|Outstanding Director – Entertainment Series or Special]]
+| {{won}}
+|-
+| [[3rd Critics' Choice Television Awards|Critics' Choice Television Awards]]
+| [[Critics' Choice Television Award for Best Actress in a Comedy Series|Best Actress in a Comedy Series]]
+| {{nom}}
+|-
+| rowspan=3|[[Primetime Emmy Awards]]
+| Outstanding Lead Actress in a Comedy Series
+| {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Directing for a Comedy Series|Outstanding Directing for a Comedy Series]]
+| {{nom}}
+|-
+| 2014
+| Outstanding Lead Actress in a Comedy Series
+| {{nom}}
+|-
+| rowspan=2|2015
+| rowspan=2|[[Golden Globe Awards]]
+| [[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Actress – Television Series Musical or Comedy|Best Actress – Television Series Musical or Comedy]]
+| {{nom}}
+|}
+
+==Bibliography==
+{{Expand list|date=October 2017}}
+
+=== Books ===
+* {{cite book|last1=Dunham|first1=Lena|title=Not That Kind of Girl: A Young Woman Tells You What She's "Learned"|date=2014|publisher=[[Random House]]|location=New York, NY|ISBN=978-0-812-99499-5|url=http://www.worldcat.org/title/not-that-kind-of-girl-a-young-woman-tells-you-what-shes-learned/oclc/931726295/viewport|OCLC=931726295}}
+
+===Essays and reporting===
+* {{cite journal|last1=Dunham|first1=Lena|title=Funny Girl: Sarah Silverman|journal=[[Paper (magazine)|Paper]]|date=April 28, 2010|url=http://www.papermag.com/funny-girl-1425688679.html}}
+* {{cite journal|last1=Dunham|first1=Lena|title=Seeing Nora Everywhere|journal=The New Yorker|date=June 28, 2012|url=http://www.newyorker.com/culture/culture-desk/seeing-nora-everywhere}}
+* {{cite journal|last1=Dunham|first1=Lena|title=First Love|journal=The New Yorker|date=August 13, 2012|url=http://www.newyorker.com/magazine/2012/08/13/first-love-3}}
+* {{cite journal|last1=Dunham|first1=Lena|title=A Box of Puppies|journal=The New Yorker|date=March 25, 2013|url=http://www.newyorker.com/magazine/2013/03/25/a-box-of-puppies}}
+* {{cite journal |author=Dunham, Lena |authorlink= |authormask= |date=November 4, 2013 |title=Deliverance |department=Take Out |journal=The New Yorker |volume=89 |issue=35 |pages=78 |url=https://www.newyorker.com/magazine/2013/11/04/deliverance-3 |&lt;!--accessdate=2017-10-13--&gt;}}
+* {{cite journal|last1=Dunham|first1=Lena|title=Difficult Girl|journal=The New Yorker|date=September 1, 2014|url=http://www.newyorker.com/magazine/2014/09/01/difficult-girl}}
+* {{cite journal|last1=Dunham|first1=Lena|title=Dog or Jewish Boyfriend? A Quiz|journal=The New Yorker|date=March 30, 2015|url=http://www.newyorker.com/magazine/2015/03/30/dog-or-jewish-boyfriend-a-quiz}}
+* {{cite journal|last1=Dunham|first1=Lena|title=The Bride in Her Head|journal=The New Yorker|date=July 10, 2015|url=http://www.newyorker.com/culture/cultural-comment/the-bride-in-her-head}}
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+* {{cite journal|last1=Heti|first1=Sheila|last2=Simonini|first2=Ross|title=Judy Blume and Lena Dunham in Conversation|journal=[[The Believer (magazine)|The Believer]]|date=2013|url=http://www.mcsweeneys.net/articles/judy-blume-in-conversation-with-lena-dunham|publisher=Believer Books, a Division of [[McSweeney's]]|location=San Francisco, Calif|OCLC=879574140}}
+* {{cite journal|last1=San Filippo|first1=Maria|title="Art Porn Provocauteurs": Queer Feminist Performances of Embodiment in the Work of Catherine Breillat and Lena Dunham|journal=[[The Velvet Light Trap]]|date=Spring 2016|volume=77|issue=1|pages=28–49|accessdate=March 5, 2016|publisher=University of Wisconsin at Madison and The University of Texas at Austin|location=Madison, WI and Austin, TX|ISSN=0149-1830|OCLC=5985111614|url=https://muse.jhu.edu/login?auth=0&amp;type=summary&amp;url=/journals/the_velvet_light_trap/v077/77.filippo.html}}
+
+== External links ==
+* {{IMDb name|2501633}}
+* {{amg name|517409}}
+* {{rotten-tomatoes-person|lena_dunham}}
+* [http://www.makers.com/lena-dunham Lena Dunham] at ''[[Makers: Women Who Make America]]''
+
+{{Navboxes
+| title = Awards for Lena Dunham
+| list =
+{{DirectorsGuildofAmericaOutstandingDirectingComedySeries 2010–2029}}
+{{GoldenGlobeBestActressTVComedy 2010–2029}}
+}}
+
+{{Subject bar|portal1=Biography|portal2=Feminism|portal3=Film in the United States|portal4=Television in the United States|commons=yes|commons-search=Category:Lena Dunham|d=yes|d-search=Q288359}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dunham, Lena}}
+[[Category:1986 births]]
+[[Category:21st-century American actresses]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American women writers]]
+[[Category:Actresses from New York City]]
+[[Category:American feminists]]
+[[Category:American film actresses]]
+[[Category:American people of English descent]]
+[[Category:American people of Jewish descent]]
+[[Category:American television actresses]]
+[[Category:American television directors]]
+[[Category:American television producers]]
+[[Category:American television writers]]
+[[Category:American voice actresses]]
+[[Category:American women film directors]]
+[[Category:American women screenwriters]]
+[[Category:Best Musical or Comedy Actress Golden Globe (television) winners]]
+[[Category:Directors Guild of America Award winners]]
+[[Category:Film directors from New York City]]
+[[Category:Jewish American actresses]]
+[[Category:Jewish American writers]]
+[[Category:Jewish feminists]]
+[[Category:LGBT rights activists from the United States]]
+[[Category:Living people]]
+[[Category:Oberlin College alumni]]
+[[Category:Showrunners]]
+[[Category:The New School alumni]]
+[[Category:The New Yorker people]]
+[[Category:Women television directors]]
+[[Category:Women television producers]]
+[[Category:Women television writers]]
+[[Category:Writers from New York City]]</text>
+      <sha1>kqcfygrorcy30tdv9zpz6pbaaix78vo</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,555 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Charles Grodin</title>
+    <ns>0</ns>
+    <id>225903</id>
+    <revision>
+      <id>848167198</id>
+      <parentid>827723104</parentid>
+      <timestamp>2018-06-30T05:23:46Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25927">{{Use dmy dates|date=April 2013}}
+{{Infobox person
+| name = Charles Grodin
+| image =Charles Grodin 2013.jpg
+| caption = Grodin in February 2013
+| birth_name =
+| birth_date = {{birth date and age|1935|4|21}}
+| birth_place =  [[Pittsburgh, Pennsylvania]], U.S.
+| occupation = Actor, author, comedian
+|spouse=Julie Ferguson (divorced)&lt;br&gt;Elissa Durwood (1985–present)
+| children = 2
+| imagesize = 
+| yearsactive = 1954–present
+}}
+
+'''Charles Grodin''' (born April 21, 1935) is an American actor, comedian, author, and former television talk show host. Grodin began his acting career in the 1960s appearing in [[TV serial]]s including ''[[The Virginian (TV series)|The Virginian]]''. He had a small part as an [[obstetrician]] in [[Roman Polanski]]'s ''[[Rosemary's Baby (film)|Rosemary's Baby]]'' in 1968. In the 1970s he moved into film acting, including playing the lead in ''[[The Heartbreak Kid (1972 film)|The Heartbreak Kid]]'' (1972) and supporting roles in ''[[Catch-22 (film)|Catch-22]]'' (1970) and ''[[Heaven Can Wait (1978 film)|Heaven Can Wait]]'' (1978). He became a familiar face as a supporting actor in many Hollywood comedies of the era, including ''[[Real Life (1979 film)|Real Life]]'' (1979), ''[[Seems Like Old Times (film)|Seems Like Old Times]]'' (1980), ''[[The Incredible Shrinking Woman]]'' (1981), ''[[The Great Muppet Caper]]'' (1981), ''[[The Woman in Red (1984 film)|The Woman in Red]]'' (1984), ''[[The Lonely Guy]]'' (1984), ''[[Ishtar (film)|Ishtar]]'' (1987), ''[[The Couch Trip]]'' (1988), ''[[Taking Care of Business (film)|Taking Care of Business]]'' (1990), and ''[[Dave (film)|Dave]]'' (1993). 
+
+He is perhaps best known for his appearances on ''[[The Tonight Show]]'' and ''[[Late Show (CBS TV series)|The Late Show]]'', for co-starring alongside [[Robert De Niro]] in the classic action comedy ''[[Midnight Run]]'' (1988), and for his role as George Newton in the 1990s [[Ivan Reitman]]-produced comedy [[Media franchise|franchise]] ''[[Beethoven (film)|Beethoven]]''.
+
+Grodin has won several acting awards, including [[American Comedy Award|American Comedy Award for Funniest Supporting Actor in a Motion Picture]] for ''Dave'', Best Actor at the 1988 [[Valladolid International Film Festival]] for ''Midnight Run''. He was nominated for [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy]] for ''The Heartbreak Kid'' in 1972. He also shared a 1978 [[Primetime Emmy Award for Outstanding Writing for a Variety, Music or Comedy Program]] for his work on ''The Paul Simon Special''.
+
+In the mid-1990s, Grodin retired from acting to become a talk show host on [[CNBC]] and in 2000 a political commentator for ''[[60 Minutes II]]''. He has written several autobiographical and acting related works, including 1990's ''It Would Be So Nice If You Weren't Here: My Journey Through Show Business'' and 1994's ''We're Ready for You, Mr. Grodin''. However, he has recently returned to acting.
+
+==Early life==
+Grodin was born in [[Pittsburgh]], Pennsylvania, to [[Orthodox Judaism|Orthodox]] [[Jews and Judaism in the United States|Jewish]] parents,&lt;ref name=foundas&gt;{{cite news |last=Foundas |first=Scott |url=http://www.laweekly.com/2007-05-03/film-tv/don-t-call-it-a-comeback/ |title=Don't Call It a Comeback |work=[[LA Weekly]] |date=2 May 2007 |accessdate=2014-06-13}}&lt;/ref&gt;&lt;ref name=pine&gt;{{cite news| url=http://www.jweekly.com/article/full/24412/the-heartfelt-kid/| title=The heartfelt kid| last=Pine| first=Dan| work=Jewish News Weekly | publisher=jweekly.com |date=26 November 2004 |accessdate=2014-06-13}}&lt;/ref&gt; Lena (née Singer), who worked in the family store and volunteered for disabled veterans, and Theodore I. Grodin, who sold wholesale supplies.&lt;ref name="filmref"&gt;{{cite web| url=http://www.filmreference.com/film/83/Charles-Grodin.html |title=Charles Grodin Biography (1935–) |publisher=Filmreference.com |accessdate=2013-05-29}}&lt;/ref&gt; His maternal grandfather was an immigrant from [[Russia]] who "came from a long line of [[rabbi]]s" and moved to [[Pittsburgh]] at the turn of the 20th century. Grodin has an older brother, Jack.&lt;ref name=vancheri&gt;{{cite news| url=http://www.post-gazette.com/stories/ae/books/humanitarian-always-has-been-charles-grodins-main-role-338525/ |title=Humanitarian always has been Charles Grodin's main role |work=[[Pittsburgh Post-Gazette]] |publisher=Post-gazette.com |date=19 April 2009 |first=Barbara |last=Vancheri  |accessdate=2013-05-29}}&lt;/ref&gt;
+
+Grodin attended the [[University of Miami]] but left without graduating to pursue acting.&lt;ref name=pitt&gt;{{cite news| title=Playhouse provided training ground for Grodin| url=https://news.google.com/newspapers?id=_YA0AAAAIBAJ&amp;sjid=7pYEAAAAIBAJ&amp;pg=6893,2056534&amp;dq=charles-grodin+university+of+miami&amp;hl=en| last=Grodin| first=Charls| date=5 September 1989| work=[[Pittsburgh Press]]| accessdate=2014-03-13}}&lt;/ref&gt;
+
+==Career==
+
+===Early career-1950s/1960s===
+Grodin's film debut was an uncredited bit part in [[Disney]]'s 1954 film ''[[20,000 Leagues Under the Sea (1954 film)|20,000 Leagues Under the Sea]]''.{{citation needed|date=November 2012}} A student of [[Lee Strasberg]] and [[Uta Hagen]], he made his Broadway debut in a production of ''[[Tchin-Tchin]]'', opposite [[Anthony Quinn]].&lt;ref name=Brennan&gt;{{cite web |last=Brennan |first=Sandra |title=Charles Grodin Information Biography |url=http://www.allrovi.com/name/charles-grodin-p28942 |archive-url=https://web.archive.org/web/20111023104549/http://www.allrovi.com/name/charles-grodin-p28942 |dead-url=yes |archive-date=23 October 2011 |publisher=All Rovi.com |accessdate=18 October 2011 |df=dmy-all }}&lt;/ref&gt; In 1965, he became an assistant to director [[Gene Saks]] and appeared on several television series including ''[[The Virginian (TV series)|The Virginian]]''.{{Citation needed|date=November 2011}}
+
+Grodin had a small  but pivotal part playing an [[obstetrician]] in the 1968 horror film, ''[[Rosemary's Baby (film)|Rosemary's Baby]]''. In 1964, he played Matt Stevens on the [[American Broadcasting Company|ABC]] soap opera ''[[the Young Marrieds]]''.&lt;ref&gt;{{cite book|title=TV Guide Guide to TV|year=2004|publisher=Barnes and Noble|isbn=0-7607-5634-1|page=716}}&lt;/ref&gt; During the late 1960s, he also co-wrote and directed ''Hooray! It's a Glorious Day...and All That'', a Broadway play, and directed ''[[Lovers and Other Strangers]]'' and ''[[Thieves (play)|Thieves]]'', also on Broadway.&lt;ref name=ibdb&gt;{{Cite web| title=Thieves| url=http://www.ibdb.com/production.php?id=3325| publisher=Internet Broadway Database| accessdate=2014-06-13}}&lt;/ref&gt; He also directed [[Simon and Garfunkel]]'s television special ''Songs of America'' in 1969.  However, he turned down the part of Benjamin Braddock in ''[[The Graduate]]'' because of the low salary offered by producer [[Lawrence Turman]], although Turman assured him that the part would make him a star, as it ultimately did for [[Dustin Hoffman]].
+
+===1970s and 1980s film work===
+After a supporting role in the 1970 comedy film ''[[Catch-22 (film)|Catch-22]]'', Grodin gained recognition as a comedy actor when he played the lead role in the 1972 film ''[[The Heartbreak Kid (1972 film)|The Heartbreak Kid]]''. Grodin subsequently appeared in several  films during the decade, including ''[[11 Harrowhouse]]'' in 1974, the 1976 version of ''[[King Kong (1976 film)|King Kong]]'' and the hit 1978 comedy ''[[Heaven Can Wait (1978 film)|Heaven Can Wait]]''. During the 1970s, he also frequently appeared on Broadway and was involved in producing several plays.
+
+In 1981, he landed in a role in ''[[The Great Muppet Caper]]'' playing Nicky Holiday, a jewel thief who falls in love with [[Miss Piggy]]. He also appeared that same year opposite Lily Tomlin in ''[[The Incredible Shrinking Woman]]''. His 1980s roles included [[Neil Simon]]'s ''[[Seems Like Old Times (film)|Seems Like Old Times]]'' (opposite [[Chevy Chase]] and [[Goldie Hawn]]) and 1988's well-reviewed comedy ''[[Midnight Run]]'', a [[buddy movie]] co-starring [[Robert De Niro]]. Grodin also appeared in the 1986 CBS mini-series sendup ''[[Fresno (TV miniseries)|Fresno]]'', playing the evil son of a raisin matriarch ([[Carol Burnett]]).
+
+His Hollywood film roles of the 1980s usually saw him cast as uptight, bland and world-weary [[White-collar worker|white collar]] professionals, such as a psychiatrist having a nervous breakdown (''[[The Couch Trip]]''), a health conscious accountant (''Midnight Run''), an ineffectual advertising executive (''[[Taking Care of Business (film)|Taking Care of Business]]''), and a lonely, socially awkward nerd (''[[The Lonely Guy]]''). He was cast against this type as a scheming CIA agent in ''[[Ishtar (film)|Ishtar]]''.
+
+Commenting on his work with regard to ''Ishtar'', Hal Hinson in the Washington Post observed:  "Grodin has a one-of-a-kind quality on the screen, a sort of inspired spinelessness. And with his cat-burglar rhythms – he seems to play all his scenes as if someone were asleep in the next room – he's become a very sly scene-stealer."&lt;ref name=Hinson-05-15-1987&gt;{{cite news| last=Hinson| first=Hal| title=Ishtar| url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/ishtarpg13hinson_a0c971.htm| accessdate=18 October 2011| newspaper=[[The Washington Post]]| date=15 May 1987}}&lt;/ref&gt; Sandra Brennan at Rovi noted that: "Whereas many funnymen have been popular for their ability to overreact and mug their way around everyday obstacles, Grodin belonged, from the beginning, to the [[Bob Newhart]] school of wry comedy that values understatement and subtlety."&lt;ref name="Brennan"/&gt;
+
+Aside from his film work, he was a frequent presence on television. In 1977, Grodin hosted an episode of the [[NBC]] sketch show, ''[[Saturday Night Live]]'', where the entire episode revolved around his forgetting that the show was live, and he proceeded to wreck sketches because of his failure to prepare accordingly.{{Citation needed|date=November 2011}} His many talk show appearances from the 1970s to the present have often included confrontational and mock angry segments. At one time [[Johnny Carson]] "banned" him from ''[[The Tonight Show]]'' appearances after taking offense at things Grodin had said. The NBC network would receive angry letters from viewers who didn't understand the joke, that he was playing a persona, trying to be as different from typical talk show guests as possible. His appearances on ''[[Late Night With David Letterman]]'' would sometimes erupt into shouting and name-calling, but Letterman always enjoyed Grodin's segments.
+
+===1990s and recent return to acting===
+Grodin's career took a turn in 1992, when he played the nervous family man George Newton in the kids' comedy ''[[Beethoven (film)|Beethoven]]'', opposite [[Bonnie Hunt]]. The film was a box-office hit, and he reprised the role in the 1993 sequel, ''[[Beethoven's 2nd (film)|Beethoven's 2nd]]''. After a supporting role in the acclaimed [[Ivan Reitman]] comedy ''[[Dave (film)|Dave]]'', Grodin took a lead role in ''[[My Summer Story|It Runs in the Family]]'' (a.k.a. ''My Summer Story''), which received a limited theatrical release in 1994. That same year also saw the much-delayed release of ''[[Clifford (film)|Clifford]]'', in which Grodin portrayed the frustrated uncle opposite [[Martin Short]]'s title role. After a 12-year-long hiatus from film, Grodin returned to acting in the [[Zach Braff]] comedy ''[[The Ex (2006 film)|The Ex]]'' (2006).&lt;ref name=ex&gt;{{cite web| title=The Ex| url=https://www.imdb.com/title/tt0458364/| publisher=[[Internet Movie Database]]| accessdate=2014-06-13}}&lt;/ref&gt;
+[[File:Charlesgrodin.jpg|thumb|Grodin at the Book Expo 2007 at the Javits Center, New York City]]
+Grodin made more frequent acting appearances in the 2010s. After guest starring on television shows such as ''[[The Michael J. Fox Show]]'' and starring in a recurring role on ''[[Louie (U.S. TV series)|Louie]]'', Grodin had several supporting roles in films, including [[Barry Levinson]]'s ''[[The Humbling (film)|The Humbling]]'' and [[Noah Baumbach]]'s ''[[While We're Young (film)|While We're Young]]''.
+
+=== Talk show host ===
+From 1995 to 1998, Grodin hosted his own issues-oriented talk show, ''[[The Charles Grodin Show]]'', on [[CNBC]] and, starting in 2000, became a political commentator for ''[[60 Minutes II]]''. In 2004, Grodin wrote ''The Right Kind of People'', an [[Off-Broadway]] play about [[cooperative|co-op]] boards in certain buildings in [[Manhattan]]. Grodin's commentaries continue to be heard on New York City radio station [[WCBS (AM)|WCBS]] and other affiliates of the [[CBS Radio Network]], as well as on the [[CBS Radio Network]]'s ''[[CBS News Weekend Roundup|Weekend Roundup]]''.
+
+=== Author ===
+He is also a best-selling{{citation needed|date=August 2014}} author; his works include ''It Would Be So Nice If You Weren't Here'', ''Just When I Thought I'd Heard Everything: Humorous Observations on Life in America'' and ''How I Get Through Life''. His book, ''If I Only Knew Then...Learning from Our Mistakes'' was released in November 2007 by [[Springboard Press]]. It is a collection of essays from his famous friends (and friends of friends), with all author proceeds going to the [[Help USA]] charity. His book ''How I Got To Be Whoever It Is I Am'' came out in April 2009.
+
+==Personal life==
+Grodin has two children: daughter Marion (a comedian), from his marriage to Julie Ferguson, and son, Nicholas, from his marriage to Elissa Durwood.&lt;ref name=strauss&gt;{{cite news|last=Strauss |first=Robert |url=http://articles.philly.com/1997-01-27/entertainment/25559933_1_charles-grodin-grodin-show-cnbc/2 |title=Getting Serious Charles Grodin, Veteran Of Many Flaky Film Roles, Is Using His Cable Talk Show To Speak Out About Important Social Issues. ``this Is Thrilling To Me,'&amp;#39; He Says| work=[[The Philadelphia Inquirer]] |publisher=Articles.philly.com |date=27 January 1997|accessdate=2014-06-13}}&lt;/ref&gt;&lt;ref name=glassman&gt;{{cite news| first=Marvin| last=Glassman| url=http://www.sun-sentinel.com/florida-jewish-journal/news/miami-dade-county-news/fl-jjdc-grodin-0130-20130130,0,3030905.story |title=Comedienne stars in 'Growing up Grodin' |work=[[Sun-Sentinel]] |date=30 January 2013 |accessdate=2014-06-13}}&lt;/ref&gt;&lt;ref&gt;[http://gothamcomedyclub.com/comedian.cfm?id=454 Charles Grodin]; Gotham Comedy Club. Retrieved 15 April 2012&lt;/ref&gt; For a period in the 2000s, Grodin gave up show business to be a stay-at-home dad to his children.&lt;ref name="Smith"&gt;{{cite news| url=http://www.variety.com/article/VR1117944061.html| work=[[Variety (magazine)|Variety]]| title=More to M than meets the eye| first=Liz| last=Smith| date=24 May 2006}}&lt;/ref&gt;
+
+==Awards==
+
+{| class="wikitable"
+|-
+! Year !! Award !! Film / Program !! Role / credit !! Won / nominated (W/N)
+|-
+|   1972   
+| [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy]]
+| ''[[The Heartbreak Kid (1972 film)|The Heartbreak Kid]]'' 
+| Lenny Cantrow 
+| N 
+|-
+|   1978 
+| [[Primetime Emmy Award for Outstanding Writing for a Variety, Music or Comedy Program]]
+| ''The Paul Simon Special''
+| writing credit
+| W
+|-
+|   1980
+| [[Golden Raspberry Award for Worst Supporting Actor]]
+| ''Seems Like Old Times'
+| Ira Parks
+| N
+|-
+|   1988   
+| [[Valladolid International Film Festival|Valladolid International Film Festival Award for Best Actor]]
+| ''[[Midnight Run]]'' 
+| Jonathan Mardukas 
+| W
+|-
+|   1993  
+| [[Saturn Award for Best Supporting Actor]]
+| ''[[Heart and Souls]]'' 
+| Harrison Winslow 
+| N 
+|-
+|   1993  
+| [[American Comedy Award|American Comedy Award for Funniest Supporting Actor in a Motion Picture]]
+| ''[[Dave (film)|Dave]]'' 
+| Murray Blum 
+| W
+|-
+|   2006
+| [[William Kunstler]] Award for Racial Justice&lt;ref name="Smith"/&gt;
+|
+|
+| W
+|}
+
+==Filmography==
+{| class="wikitable"
+|- style="text-align:center;"
+! style="background:#B0C4DE;" | Year
+! style="background:#B0C4DE;" | Film
+! style="background:#B0C4DE;" | Role
+! style="background:#B0C4DE;" | Notes
+|-
+|1954
+| ''[[20,000 Leagues Under the Sea (1954 film)|20,000 Leagues Under the Sea]]''
+| Drummer Boy
+| Uncredited
+|- 
+|1958
+| ''[[Armstrong Circle Theatre]]''
+| Phelps
+| Episode: "The Nautilus"
+|- 
+|1960
+| ''[[Have Gun – Will Travel]]''
+| Proctor's Henchman
+| Episode: "Fogg Bound"
+|- 
+|1961
+| ''[[The Defenders (1961 TV series)|The Defenders]]''
+| Thomas Martin
+| Episode: "The Apostle"
+|- 
+|rowspan="2"| 1964
+| ''[[The Young Marrieds]]''
+| Matt Crane Stevens #2
+| 
+|- 
+| ''[[Sex and the College Girl]]''
+| Bob
+| 
+|- 
+|rowspan="2"| 1965
+| ''[[My Mother the Car]]''
+| Fred
+| Episode: "Burned at the Steak"
+|- 
+| ''[[The Trials of O'Brien]]''
+| Peter Farnum
+| Episode: "Picture Me a Murder"
+|-
+|rowspan="2"| 1966
+| ''[[Felony Squad]]''
+| Edgar
+| Episode: "Penny Game, a Two-Bit Murder"
+Captain Nice 1966 Cool newspaper vendor shades at night.
+|- 
+| ''[[Shane (TV series)|Shane]]''
+| Jed
+| 2 episodes
+|- 
+|rowspan="6"| 1967
+| ''[[The Iron Horse (TV series)|The Iron Horse]]''
+| Alex
+| Episode: "The Pembrooke Blood"
+|- 
+| ''[[The F.B.I. (TV series)|The F.B.I.]]''
+| Carl Platt
+| Episode: "Sky on Fire"
+|- 
+| ''[[Captain Nice]]''
+| News Vendor
+| Episode: "One Rotten Apple"
+|- 
+| ''[[The Virginian (TV series)|The Virginian]]''
+| Arnie Doud
+| Episode: "The Reckoning"
+|- 
+| ''[[The Guns of Will Sonnett]]''
+| Bells Pickering
+| Episode: "A Bell for Jeff Sonnett"
+|- 
+| ''[[N.Y.P.D. (TV series)|N.Y.P.D.]]''
+| Joey Diamond
+| Episode: "Money Man"
+|- 
+|rowspan="2"| 1968
+| ''[[The Big Valley]]''
+| Mark Dunigan
+| Episode: "The Good Thieves"
+|- 
+| ''[[Rosemary's Baby (film)|Rosemary's Baby]] 
+| Dr. C.C. Hill 
+|
+|-
+|rowspan="2"| 1969
+| ''[[Judd, for the Defense]]'' 
+| Dist. Atty. Tom Durant 
+| Episode: "An Elephant in a Cigar Box"
+|-
+| ''[[Simon and Garfunkel]]: Songs of America'' 
+| Himself
+| Director, producer
+|-
+| 1970 
+| ''[[Catch-22 (film)|Catch-22]]'' 
+| Capt. Aarfy Aardvark 
+|
+|-
+| 1972 
+| ''[[The Heartbreak Kid (1972 film)|The Heartbreak Kid]]'' 
+| Lenny Cantrow 
+| Nominated — [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy]]
+|-
+|rowspan="2"| 1974
+| ''[[11 Harrowhouse]]'' 
+| Howard R. Chesser 
+| Writer
+|-
+| ''Paradise'' 
+| 
+| Co-director
+|-
+| 1976 
+| ''[[King Kong (1976 film)|King Kong]]'' 
+| Fred Wilson 
+|
+|-
+|rowspan="2"| 1977 
+| ''[[Thieves (1977 film)|Thieves]]''
+| Martin Cramer 
+|
+|-
+| ''The Paul Simon Special''
+| 
+| Writer &lt;br /&gt;[[Primetime Emmy Award for Outstanding Writing for a Variety, Music or Comedy Program]]
+|-
+|rowspan="2"| 1978 
+| ''[[Heaven Can Wait (1978 film)|Heaven Can Wait]]'' 
+| Tony Abbott 
+|
+|-
+|''[[Just Me and You]]''
+| Michael Lindsay 
+|
+|-
+|rowspan="2"| 1979 
+| ''[[Sunburn (film)|Sunburn]]'' 
+| Jake 
+|
+|-
+| ''[[Real Life (1979 film)|Real Life]]'' 
+| Warren Yeager 
+|
+|-
+|rowspan="2"| 1980 
+| ''[[Seems Like Old Times (film)|Seems Like Old Times]]'' 
+| Dist. Atty. Ira J. Parks 
+| Nominated — [[Golden Raspberry Award for Worst Supporting Actor]]
+|-
+| ''[[It's My Turn (film)|It's My Turn]]''
+| Homer 
+|
+|-
+|rowspan="2"| 1981 
+| ''[[The Great Muppet Caper]]'' 
+| Nicky Holiday 
+|-
+| ''[[The Incredible Shrinking Woman]]'' 
+| Vance Kramer 
+|-
+|1981
+|''[[Laverne &amp; Shirley]]''
+| Himself
+| Episode:  "Friendly Persuasion"
+|
+|-
+|rowspan="2"| 1984 
+| ''[[The Woman in Red (1984 film)|The Woman in Red]]'' 
+| Buddy 
+|
+|-
+| ''[[The Lonely Guy]]'' 
+| Warren Evans 
+|
+|-
+| 1985 
+| ''[[Movers &amp; Shakers]]''
+| Herb Derman 
+| Writer, producer
+|-
+|rowspan="2"|1986 
+| ''[[Last Resort (1986 film)|Last Resort]]'' 
+| George Lollar 
+|-
+|[[Fresno (miniseries)|Fresno]]
+|Cane Kensington
+| Miniseries
+|-
+|rowspan="2"| 1987
+| ''[[Ishtar (film)|Ishtar]]'' 
+| Jim Harrison 
+|
+|-
+| ''[[American Playhouse]]'' 
+| Lord Fancourt Babberly
+| Episode: "Charley's Aunt"
+|-
+|rowspan="3"| 1988 
+| ''[[The Couch Trip]]'' 
+| George Maitlin 
+|
+|-
+| ''[[You Can't Hurry Love (film)|You Can't Hurry Love]]''
+| Mr. Glerman 
+|
+|-
+| ''[[Midnight Run]]'' 
+| Jonathan Mardukas 
+| [[Valladolid International Film Festival|Valladolid International Film Festival Award for Best Actor]]
+|-
+| 1989
+|''[[Cranium Command]]''
+| Left Brain
+|
+|-
+|rowspan="2"| 1990
+| ''[[Taking Care of Business (film)|Taking Care of Business]]'' 
+| Spencer Barnes 
+|
+|-
+| ''[[Walt Disney anthology television series|The Magical World of Disney]]'' 
+| Quentin Fitzwaller
+| Episode: "The Muppets at Walt Disney World"
+|-
+| 1992 
+| ''[[Beethoven (film)|Beethoven]]'' 
+| George Newton 
+| 
+|-
+|rowspan="4"| 1993 
+| ''[[Beethoven's 2nd (film)|Beethoven's 2nd]]'' 
+| George Newton 
+|
+|-
+| ''[[Heart and Souls]]'' 
+| Harrison Winslow 
+| Nominated — [[Saturn Award for Best Supporting Actor]]
+|-
+| ''[[So I Married an Axe Murderer]]'' 
+| Commandeered Driver 
+|
+|-
+| ''[[Dave (film)|Dave]]'' 
+| Murray Blum 
+| [[American Comedy Award|American Comedy Award for Funniest Supporting Actor in a Motion Picture]]
+|-
+|rowspan="2"| 1994 
+| ''[[My Summer Story]]'' 
+| Mr. Parker (The Old Man) 
+|
+|-
+| ''[[Clifford (film)|Clifford]]'' 
+| Martin Daniels 
+|
+|-
+| 1995–98
+| ''The Charles Grodin Show'' 
+| Host
+|
+|-
+| 2000
+| ''[[60 Minutes II]]'' 
+| Correspondent
+|
+|-
+| 2006 
+| ''[[The Ex (2006 film)|The Ex]]'' 
+| Bob Kowalski 
+|
+|-
+| 2012 
+| ''[[Law &amp; Order: Special Victims Unit]]'' 
+| Brett Forrester
+| Episode: "Lessons Learned"
+|-
+|rowspan="2"| 2013
+| ''[[The Michael J. Fox Show]]''
+| Steve Henry
+| Episode: "Thanksgiving"
+|-
+| ''Brazzaville Teen-Ager''
+| Father
+| Short film
+|-
+|rowspan="2"| 2014
+| ''[[The Humbling (film)|The Humbling]]''
+| Jerry
+| 
+|-
+| ''[[While We're Young (film)|While We're Young]]''
+| Leslie
+|
+|-
+| 2014–15
+| ''[[Louie (U.S. TV series)|Louie]]''
+| Dr. Bigelow
+| 5 episodes
+|-
+| 2015
+| ''Waiting for Ishtar''
+| Himself
+| Documentary
+|-
+|rowspan="2"| 2016
+| ''[[Madoff (miniseries)|Madoff]]''
+| Carl Shapiro
+| Miniseries
+|-
+| ''[[The Comedian (2016 film)|The Comedian]]''
+| Dick D'Angelo
+|
+|-
+|}
+
+== Works or publications ==
+
+=== Plays ===
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/26132088 Price of Fame: A Play]''. New York: Samuel French, 1991. {{ISBN|978-0-573-69220-8}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/29257531 One of the All-Time Greats: A Comedy]''. New York: S. French, 1992. {{ISBN|978-0-573-69366-3}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/198755954 The Right Kind of People]''. New York: Samuel French, 2008. {{ISBN|978-0-573-65107-6}}.
+
+=== Books ===
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/21561877 It Would Be so Nice If You Weren't Here: My Journey Through Show Business]''. New York: Morrow, 1989. {{ISBN|978-0-679-73134-4}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/24794697 How I Get Through Life: A Wise and Witty Guide]''. New York: Morrow, 1992. {{ISBN|978-0-688-11258-5}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/25508806 Freddie the fly]''. New York : Random House, 1993. {{ISBN|978-0-679-83847-0}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/29478696 We're Ready for You, Mr. Grodin: Behind the Scenes at Talk Shows, Movies, and Elsewhere]''. New York: Charles Scribner's Sons, 1994. {{ISBN|978-0-025-45795-9}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/48449625 I Like It Better When You're Funny: Working in Television and Other Precarious Adventures]''. New York: Random House, 2002. {{ISBN|978-0-375-50784-7}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/85822654 If I Only Knew Then... Learning from Our Mistakes]''. New York: Springboard Press, 2007. {{ISBN|978-0-446-58115-8}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/255142556 How I Got to Be Whoever It Is I Am]''. New York: Springboard Press, 2009. {{ISBN|978-0-446-51940-3}}.
+* Grodin, Charles. ''[http://www.worldcat.org/oclc/852252289 Just When I Thought I'd Heard Everything: Humorous Observations on Life in America]''. Santa Monica, Calif: Homina Publishing, 2013. {{ISBN|978-0-970-44999-3}}.
+
+== See also ==
+{{Portal|Biography}}
+
+Grodin is mentioned as a hero of Mac and Dennis in an episode of ''[[It's Always Sunny in Philadelphia]]''.{{citation needed|date=March 2017}}
+
+== References ==
+{{reflist}}
+
+== External links==
+{{Commons category}}
+* {{IMDb name|1301}}
+* {{tcmdb name|id=77130|name=Charles Grodin}}
+* {{IBDB name}}
+* {{iobdb name|10447}}
+* [https://web.archive.org/web/20151017112337/http://nyobserver.com/2007/grodin-growls-back Charles Grodin profile in ''The New York Observer'']
+* [https://web.archive.org/web/20100413183928/http://www.wcbs880.com/pages/48715.php Charles Grodin's radio commentaries] at WCBS880.com
+* [http://www.jewishsf.com/content/2-0-/module/displaystory/story_id/24276/format/html/displaystory.html "The Heartfelt Kid: Actor/Playwright Charles Grodin Premiers New Play in San Francisco"], ''Jewish News Weekly'', 26 November 2004.
+* [https://web.archive.org/web/20090117012610/http://www.ny1.com/content/ny1_living/parenting/92288/charles-grodin-urges-new-yorkers-to-mentor-kids/Default.aspx Charles Grodin Urges New Yorkers To Mentor Kids]
+* [http://www.andelman.com/2007/05/charles-grodin-cnbc-mr-media-interview.html Interview with Charles Grodin]
+
+{{EmmyAward ComedyVarietyMusicWriting 1970s}}
+{{Authority control}}
+
+{{DEFAULTSORT:Grodin, Charles}}
+[[Category:1935 births]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American male comedians]]
+[[Category:American comedians]]
+[[Category:American male film actors]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American television talk show hosts]]
+[[Category:CNBC people]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish American writers]]
+[[Category:Living people]]
+[[Category:Male actors from Pittsburgh]]
+[[Category:Writers from Pittsburgh]]
+[[Category:People from Wilton, Connecticut]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:United States Navy sailors]]
+[[Category:University of Miami alumni]]
+[[Category:Jewish American comedians]]</text>
+      <sha1>hdqzs1y2nm78jq15ra6qq4tyz0pu4sq</sha1>
+    </revision>
+  </page>
+</mediawiki>

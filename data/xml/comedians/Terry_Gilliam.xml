@@ -1,0 +1,469 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Terry Gilliam</title>
+    <ns>0</ns>
+    <id>30410</id>
+    <revision>
+      <id>855133165</id>
+      <parentid>854999618</parentid>
+      <timestamp>2018-08-16T05:03:25Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="74911">{{Lead too short|date=April 2017}}
+{{EngvarB|date=May 2015}}
+{{Use dmy dates|date=May 2015}}
+{{Infobox person
+ | name             = Terry Gilliam
+ | image            = Terry Gilliam.jpg
+ | image_size       =
+ | caption          = Gilliam at the 36th Deauville American Films Festival in 2010
+ | birth_date       = {{Birth date and age|df=yes|1940|11|22}}
+ | birth_place      = [[Minneapolis]], [[Minnesota]], US
+ | birth_name       = Terrence Vance Gilliam
+ | years_active     = 1968–present
+ | spouse           = {{marriage|Maggie Weston|1973}}
+ | citizenship      = United Kingdom (1968–present)&lt;br&gt;United States (1940–2006)
+ | children         = 3
+ | occupation       = Actor, animator, comedian, director, producer, screenwriter
+ | alma mater       = [[Occidental College]] &lt;small&gt;([[Bachelor of Arts|B.A.]], 1962)&lt;/small&gt;
+ | website          = {{URL|terrygilliamweb.com}}
+ | module           = {{Listen| embed=yes |filename = Terry gilliam bbc radio4 desert island discs 04 10 2011.flac |title = Terry Gilliam's voice |type = speech |description = from the BBC programme Desert Island Discs, 15 April 2011&lt;ref name="BBC-b0105rhd"&gt;{{Cite episode |title= Terry Gilliam |series= Desert Island Discs |serieslink= |url= http://www.bbc.co.uk/programmes/b0105rhd |accessdate= 18 January 2014 |station= BBC Radio 4 |date= 15 April 2011 |season= |seriesno= |number= | transcript = | transcripturl = }}&lt;/ref&gt; }}
+}}
+
+'''Terrence Vance Gilliam''' ({{IPAc-en|ˈ|ɡ|ɪ|l|i|ə|m}}; born 22 November 1940)&lt;ref name="Gilliam"&gt;{{cite web | url=https://www.bbc.co.uk/music/artists/7fc7a75a-fd8e-4c58-9072-7fa1873ceb3a | title=BBC Music biography | publisher=[[BBC Music]] | accessdate=14 September 2015}}&lt;/ref&gt; is an American-born British screenwriter, film director, animator, actor, comedian and former member of the [[Monty Python]] comedy troupe.
+
+Gilliam has directed 12 feature films, including ''[[Time Bandits]]'' (1981), ''[[Brazil (1985 film)|Brazil]]'' (1985), ''[[The Adventures of Baron Munchausen]]'' (1988), ''[[The Fisher King]]'' (1991), ''[[12 Monkeys]]'' (1995), ''[[Fear and Loathing in Las Vegas (film)|Fear and Loathing in Las Vegas]]'' (1998), ''[[The Brothers Grimm (film)|The Brothers Grimm]]'' (2005), ''[[Tideland (film)|Tideland]]'' (2005), and ''[[The Imaginarium of Doctor Parnassus]]'' (2009). The only "Python" not born in Britain, he became a naturalised British subject in 1968 and formally [[Renunciation of United States citizenship|renounced his American citizenship]] in 2006.
+
+Gilliam was born in [[Minnesota]], but spent his high school and college years in [[Los Angeles]]. He started his career as an animator and strip cartoonist. He joined Monty Python as the animator of their works, but eventually became a full member and was given acting roles. He became a feature film director in the 1970s. Most of his films explore the theme of [[imagination]] and its importance to life, express his opposition to [[bureaucracy]] and [[authoritarianism]], and feature characters facing dark or paranoid situations. His own scripts feature [[black comedy]] and [[tragicomedy]] elements, combined with [[Plot twist#Surprise ending|surprise endings]].
+
+==Early life==
+Gilliam was born in [[Minneapolis]], Minnesota, the son of Beatrice (née Vance) and James Hall Gilliam. His father was a travelling salesman for [[Folgers]] before becoming a carpenter. Soon after, they moved to nearby [[Medicine Lake, Minnesota]].&lt;ref&gt;{{cite book|title=The Pythons: Autobiography by the Pythons|year=2005|publisher=St. Martin's Griffin|location=New York|isbn=978-0312311452}}&lt;/ref&gt;
+
+The family moved to the Los Angeles neighbourhood of [[Panorama City, Los Angeles|Panorama City]] in 1952. Gilliam attended [[Birmingham High School]], where he was the president of his class and senior prom king. He was voted "Most Likely to Succeed" and achieved straight A's. During high school, he began to avidly read ''[[Mad (magazine)|Mad]]'' magazine, then edited by [[Harvey Kurtzman]], which would later influence Gilliam's work.&lt;ref&gt;{{cite book|last1=Gilliam|first1=Terry|last2=Sterritt|first2=David| authorlink2=David Sterritt|last3=Rhodes|first3=Lucille|title=Terry Gilliam: Interviews|url=https://books.google.com/books?id=8eDE0hce0kEC&amp;pg=PA65|accessdate=7 October 2010|date=April 2004|publisher=Univ. Press of Mississippi|isbn=978-1-57806-624-7|page=67|quote=''[[Mad (magazine)|Mad]]'' comics inspired everything we ever did. (p. 67)}}&lt;/ref&gt;
+
+Gilliam graduated from [[Occidental College]] in 1962 with a [[Bachelor of Arts]] in political science.&lt;ref name="OXY"&gt;{{cite web |url=https://www.oxy.edu/news/terry-gilliam-62-honored-british-film-academy |title=Terry Gilliam '62 Honored by British Film Academy |work=Oxy |publisher=Occidental College |date=9 February 2009}}&lt;/ref&gt;
+
+Gilliam told [[Salman Rushdie]] about defining experiences in the 1960s that, he said, set the foundations for his views on the world:
+
+{{quote|I became terrified that I was going to be a full-time, bomb-throwing terrorist if I stayed [in the U.S.] because it was the beginning of really bad times in America. It was '66–'67, it was the first police riot in Los Angeles.&amp;nbsp;... In college my major was political science, so my brain worked that way.&amp;nbsp;... And I drove around this little English [[Hillman Minx]]—top down—and every night I'd be hauled over by the cops. Up against the wall, and all this stuff. They had this monologue with me; it was never a dialogue. It was that I was a long-haired drug addict living off some rich guy's foolish daughter. And I said, "No, I work in advertising. I make twice as much as you do." Which is a stupid thing to say to a cop.&amp;nbsp;...
+
+And it was like an epiphany. I suddenly felt what it was like to be a black or Mexican kid living in L.A. Before that, I thought I knew what the world was like, I thought I knew what poor people were, and then suddenly it all changed because of that simple thing of being brutalized by cops. And I got more and more angry and I just felt, I've got to get out of here—I'm a better cartoonist than I am a bomb maker. That's why so much of the U.S. is still standing.&lt;ref name="rushdie"&gt;[http://www.believermag.com/issues/200303/?read=interview_gilliam "Salman Rushdie Talks with Terry Gilliam"]. ''The Believer''. March 2003.&lt;/ref&gt;}}
+
+==Career==
+
+===Animation===
+Gilliam began his career as an animator and [[Cartoonist|strip cartoonist]]. One of his early [[Photonovel|photographic strips]] for ''[[Help! (magazine)|Help!]]'' magazine featured future Python cast member [[John Cleese]].&lt;ref name="lambiek.net"&gt;{{cite web|url=https://www.lambiek.net/artists/g/gilliam_tery.htm|title=Terry Gilliam|website=lambiek.net}}&lt;/ref&gt; When ''Help!'' folded, Gilliam went to Europe, jokingly announcing in the very last issue that he was "being transferred to the European branch" of the magazine,&lt;ref name="rushdie" /&gt; which, of course, did not exist. Moving to England, he animated sequences for the children's series ''[[Do Not Adjust Your Set]]'', which also featured [[Eric Idle]], [[Terry Jones]], and [[Michael Palin]].&lt;ref name="lambiek.net"/&gt;
+
+===Monty Python===
+Gilliam was a part of ''Monty Python's Flying Circus'' from its outset, credited at first as an animator (his name was listed separately after the other five in the closing credits) and later as a full member. His cartoons linked the show's sketches together and defined the group's visual language in other media (such as LP and book covers and the title sequences of their films). His animations mix his own art, characterised by soft gradients and odd, bulbous shapes, with backgrounds and moving cutouts from antique photographs, mostly from the [[Victorian era]].
+
+In 1978, Gilliam published ''Animations of Mortality'', an illustrated, tongue-in-cheek, semi-autobiographical how-to guide to his animation techniques and the visual language in them.&lt;ref&gt;[http://www.smart.co.uk/dreams/tgbooks.htm ''Dreams: Terry Gilliam Books'']. ''Dreams: The Terry Gilliam Fanzine''.&lt;/ref&gt; Roughly 15 years later, between the release of the CD-ROM game ''[[Monty Python's Complete Waste of Time]]'' in 1994, which used many of Gilliam's animation templates, and the making of Gilliam's film ''[[Fear and Loathing in Las Vegas (film)|Fear and Loathing in Las Vegas]]'' (1998), Gilliam was in negotiations with Enteractive, a software company, to tentatively release in the autumn of 1996 a CD-ROM under the same title as his 1978 book, containing all of his thousands of 1970s animation templates as license-free [[clip art]]s for people to create their own [[flash animation]]s, but the project hovered in limbo for years,&lt;ref&gt;Cate, Hans ten (1996) [http://www.dailyllama.com/news/1996/llama020.html ''"Animations of Mortality:" Terry Gilliam's New Interactive CD-ROM Game'']. ''Monty Python's Daily Llama''. 16 January 1996.&lt;/ref&gt;&lt;ref name="TGinterviews"&gt;Sterrit, David; Rhodes, Lucille (2004). [https://books.google.com/books?id=8eDE0hce0kEC&amp;pg=PR13&amp;lpg=PR13&amp;dq=%22animations+of+mortality%22+%22CD+rom%22&amp;source=bl&amp;ots=2VUOGt80qX&amp;sig=vq_LUAFPVSjLl3lNrsrJ0FrmRro&amp;hl=de&amp;sa=X&amp;ei=hDOeU8qbDuSP7Abtu4B4&amp;ved=0CEcQ6AEwBQ#v=onepage&amp;q=%22animations%20of%20mortality%22%20%22CD%20rom%22&amp;f=false ''Terry Gilliam: Interviews''], University Press of Mississippi.&lt;/ref&gt; probably because Enteractive was about to downsize greatly in mid-1996 and changed its focus from CD-ROM multimedia presentations to internet business solutions and web hosting in 1997&lt;ref&gt;[http://www.mobygames.com/company/enteractive-inc "Enteractive, Inc."] MobyGames.com.&lt;/ref&gt; (in the introduction to their 2004 book ''Terry Gilliam: Interviews'',&lt;ref name="TGinterviews" /&gt; David Sterrit and Lucille Rhodes claimed that the internet had overwhelmed the "computer-communications market" and gave this as the reason that the ''Animations of Mortality'' CD-ROM never materialised). Around the time of Gilliam's film ''[[The Imaginarium of Doctor Parnassus]]'' (2009), the project had changed into the idea of releasing his 1970s animation templates as a license-free download of [[Adobe After Effects]] or similar files.
+
+Besides creating the animations, he also appeared in several sketches, though he rarely had main roles and did considerably less acting in the sketches. He did, however, have some notable sketch roles, such as Cardinal Fang of the [[The Spanish Inquisition (Monty Python)|Spanish Inquisition]]; the bespectacled commenter who said, "I can't add anything to that!" in the sketch "[[Election Night Special]]"; Kevin Garibaldi, the brat on the couch shouting "I want more beans!" in the sketch "Most Awful Family in Britain 1974" (episode 45); the Screaming Queen in a cape and mask in The Visitors; and [[Percy Bysshe Shelly]] in Ant Poetry Reading. More frequently, he played parts that no one else wanted to play, generally because they required a lot of makeup or uncomfortable costumes (such as the recurring character of a knight in armour who ended sketches by walking on and hitting one of the other characters over the head with a plucked chicken). He took a number of small roles in the films, including [[Patsy (Monty Python)|Patsy]] in ''[[Monty Python and the Holy Grail]]'' (which he co-directed with [[Terry Jones]]; Gilliam was responsible for photography, while Jones guided the actors' performances) and the jailer in ''[[Monty Python's Life of Brian]]''. He also designed the covers of most of the Monty Python albums, including ''[[Another Monty Python Record]]'', ''[[The Monty Python Matching Tie and Handkerchief]]'' and ''[[Monty Python Live at Drury Lane]]'', and their film soundtrack albums.
+
+===Directing===
+With the gradual breakup of the Python troupe between ''Life of Brian'' in 1979 and ''[[Monty Python's The Meaning of Life|The Meaning of Life]]'' in 1983, Gilliam became a screenwriter and director, building upon the experience he had acquired during the making of ''Monty Python and the Holy Grail''. He says he used to think of his films in terms of trilogies, starting with ''Time Bandits'': the "Trilogy of Imagination" (written by Gilliam) about "the ages of man" in ''Time Bandits'' (1981), ''Brazil'' (1985), and ''The Adventures of Baron Munchausen'' (1988). All are about the "craziness of our awkwardly ordered society and the desire to escape it through whatever means possible."&lt;ref name="essay"&gt;Matthews, Jack (1996). ''Dreaming Brazil''. Essay accompanying the [[The Criterion Collection|Criterion Collection]] DVD.&lt;/ref&gt; All three movies focus on these struggles and attempts to escape them through imagination; ''Time Bandits'' through the eyes of a child, ''Brazil'' through the eyes of a man in his thirties, and ''Munchausen'', through the eyes of an elderly man.
+
+In the 1990s, Gilliam directed a trilogy of Americana: ''The Fisher King'' (1991), ''12 Monkeys'' (1995), and ''Fear and Loathing in Las Vegas'' (1998), which played on North American soil and, while still surreal, had less fantastical plots than his previous trilogy.&lt;ref&gt;Pirie, Chris (2002). [http://www.smart.co.uk/dreams/cpirie02.htm "Gilliam the Snake Charmer"]. ''Imagine Magazine'' (backed up on ''Dreams'' by Phil Stubbs, used with permission.&lt;/ref&gt;
+
+===Themes and philosophy===
+{{quote|Well, I really want to encourage a kind of fantasy, a kind of magic. I love the term [[magic realism]], whoever invented it&amp;nbsp;– I do actually like it because it says certain things. It's about expanding how you see the world. I think we live in an age where we're just hammered, hammered to think this is what the world is. Television's saying, everything's saying 'That's the world.' And it's not the world. The world is a million possible things.&lt;ref name="rushdie" /&gt;}}
+
+As for his philosophical background in screenwriting and directing, Gilliam said on the TV show ''First Hand'' on RoundhouseTV, "There's so many film schools, so many media courses which I actually am opposed to. Because I think it's more important to be educated, to read, to learn things, because if you're gonna be in the media and if you'll have to say things, you have to ''know'' things. If you only know about cameras and 'the media', what're you gonna be talking about except cameras and the media? So it's better learning about philosophy and art and architecture [and] literature, these are the things to be concentrating on it seems to me. Then, you can ''fly...!''"&lt;ref&gt;{{YouTube|1v7YjOCC-cM|Terry Gilliam}}. Uploaded by RoundhouseTV.&lt;/ref&gt;
+
+His films are usually imaginative [[fantasy|fantasies]]. His long-time co-writer Charles McKeown commented, "the theme of imagination, and the importance of imagination, to how you live and how you think and so on&amp;nbsp;... that's very much a Terry theme."&lt;ref&gt;Stubbs, Phil (2008). [http://www.smart.co.uk/dreams/parncmck.htm "Charles McKeown on writing the ''Dr Parnassus'' script"]. ''Dreams''.&lt;/ref&gt; Most of Gilliam's movies include plotlines that seem to occur partly or completely in the characters' imaginations, raising questions about the definition of [[Personal identity|identity]] and sanity. He often shows his opposition to bureaucracy and authoritarian regimes. He also distinguishes "higher" and "lower" layers of society, with a disturbing and ironic style. His movies usually feature a fight or struggle against a great power which may be an emotional situation, a human-made [[Cult image|idol]], or even the person himself, and the situations do not always end happily. There is often a dark, [[paranoia|paranoid]] atmosphere and unusual characters who used to be normal members of society. His scripts feature [[black comedy]] and often end with a dark [[tragicomedy|tragicomic]] twist.
+
+Gilliam is fascinated with the [[Baroque]] period because of the pronounced struggle between spirituality and rationality in that era.&lt;ref&gt;"The clash between the baroque and the Newtonian view of the world is my message in a bottle." [http://www.smart.co.uk/dreams/bmfact.htm "Dreams: The Adventures of Baron Munchausen"].&lt;/ref&gt;&lt;ref name="hamel"&gt;"In [Max] Weber's view, the technological world of modernity tries to eliminate any need for magic, fantasy, or any irrational forces. Gilliam presents this idea of change 'from without' through certain aspects of his mise-en-scene." Hamel, Keith James. [http://www.imagesjournal.com/issue06/features/brazil.htm "Modernity and Mise-en-Scene: Terry Gilliam and ''Brazil''"]. ''Images: Journal of Film and Popular Culture'', issue 6.&lt;/ref&gt; There is often a rich baroqueness and dichotomous eclecticism about his movies, with, for instance, high-tech computer monitors equipped with [[Fresnel lens|low-tech magnifying lenses]] in ''Brazil'' and a red [[knight]] covered with flapping bits of cloth in ''The Fisher King''. He also is given to incongruous juxtapositions of beauty and ugliness or antique and modern. Regarding Gilliam's theme of modernity's struggle between spirituality and rationality whereas the individual may become dominated by a tyrannical, soulless machinery of [[Disenchantment|disenchanted]] society, the film critic Keith James Hamel observed a specific affinity of Gilliam's movies with the writings of the economic historian [[Arnold Toynbee]] and the sociologist [[Max Weber]], specifically the latter's concept of the "[[iron cage]]" of rationality.&lt;ref name="hamel" /&gt;
+
+===Look and style===
+[[File:Terry Gilliam(CannesPhotoCall).jpg|thumb|upright|Gilliam at Cannes, 2001]]
+Gilliam's films have a distinctive look, not only in ''[[mise-en-scène]]'' but even more so in photography, often recognisable from just a short clip; to create a surreal atmosphere of psychological unrest and a world out of balance, he frequently uses unusual camera angles, particularly [[low-angle shot]]s, [[high-angle shot]]s, and [[Dutch angle]]s. [[Roger Ebert]] said that "his world is always [[hallucination|hallucinatory]] in its richness of detail."&lt;ref&gt;{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20050825/REVIEWS/50822002/1023 |title=The Brothers Grimm Review |work=Chicago Sun-Times |accessdate=1 June 2011 |first=Chaz's |last=Blog}}&lt;/ref&gt; Most of his movies are shot almost entirely with [[rectilinear lens|rectilinear]] [[ultra wide angle lens|ultra-wide-angle lenses]] with [[focal length]]s of 28mm or less to achieve a distinctive style defined by extreme [[perspective distortion (photography)|perspective distortion]] and extremely [[deep focus]]. Gilliam's long-time director of photography [[Nicola Pecorini]] has said, "with Terry and me, a long lens means something between a 40mm and a 65mm."&lt;ref&gt;Stubbs, Phil (2011). [http://www.smart.co.uk/dreams/wholnico.htm ''Dreams: Nicola Pecorini on ''The Wholly Family'']. Dreams: The Terry Gilliam Fanzine.&lt;/ref&gt; This attitude markedly differs from the common definition in photography, by which 40 to 65&amp;nbsp;mm is the focal length of a [[normal lens]], resembling the natural human [[field of view]], unlike Gilliam's signature style, defined by extreme perspective distortion due to his usual choice of focal length. The 14-mm lens has become informally known as "The Gilliam" among filmmakers because of his frequent use of it at least since ''Brazil''.&lt;ref&gt;Stubbs, Phil: [http://www.smart.co.uk/dreams/tidegill.htm "Terry Gilliam Talks ''Tideland''." ''Dreams''.]&lt;/ref&gt; Gilliam has explained his preference for using wide-angle lenses in his films:
+
+{{quote|The wide-angle lenses, I think I choose them because it makes me feel like I'm in the space of the film, I'm surrounded. My prevalent vision is full of detail, and that's what I like about it. It's actually harder to do, it's harder to light. The other thing I like about wide-angle lenses is that I'm not forcing the audience to look at just the one thing that is important. It's there, but there's other things to occupy, and some people don't like that because I'm not pointing things out as precisely as I could if I was to use a long lens where I'd focus just on the one thing and everything else would be out of focus.&amp;nbsp;...&lt;br&gt;
+[M]y films, I think, are better the second and third time, frankly, because you can now relax and go with the flow that may not have been as apparent as the first time you saw it and wallow in the details of the worlds we're creating.&amp;nbsp;... I try to clutter [my visuals] up, they're worthy of many viewings.&lt;ref&gt;Bianculli, David (2009). [https://www.npr.org/templates/story/story.php?storyId=121751887 "Gilliam's 'Imaginarium': Surreal and All-Too-Real"]. 21-minute streaming radio interview (quote from the host's question and Gilliam's answer at running times 16:23–18:34). ''[[Fresh Air]]''. [[National Public Radio]]. 22 December 2009.&lt;/ref&gt;}}
+
+In another interview, Gilliam mentioned, in relation to the 9.8-mm Kinoptic lens he had first used on ''Brazil'', that wide-angle lenses make small film sets "look big".&lt;ref&gt;Sheehan, Henry (2006). [http://www.dga.org/news/dgaq_1006/9-beg_shot2remember-1006.php3 "A Shot to Remember: Terry Gilliam on Brazil's Rescue Scene"]. ''DGA Quarterly''. Fall 2006. {{webarchive |url=https://web.archive.org/web/20070703202009/http://www.dga.org/news/dgaq_1006/9-beg_shot2remember-1006.php3 |date=3 July 2007 }}&lt;/ref&gt; The widest lens he has used so far is an 8-mm [[Carl Zeiss AG|Zeiss]] lens employed in filming ''[[The Imaginarium of Doctor Parnassus]]''.&lt;ref&gt;Shell, Theresa (2009). [https://web.archive.org/web/20110713013003/http://imaginariumofdrparnassus.com/blog/2009/12/06/exclusive-nicola-picorini-director-of-photography-talks-to-dr-parnassus-support-site-about-the-film-heath-ledger-terry-gilliam/ "Exclusive! Nicola Picorini, Director of Photography, Talks to Dr. Parnassus Support Site About the Film, Heath Ledger &amp; Terry Gilliam".]&lt;/ref&gt;
+
+===Production problems===
+[[File:Terry Gilliam at IFC Center 2006.jpg|thumb|upright|Gilliam at an [[IFC Center]] on 4 October 2006]]
+Gilliam has made a few extremely expensive movies beset with production problems. After the lengthy quarrelling with [[Universal Studios]] over ''[[Brazil (1985 film)|Brazil]]'', Gilliam's next picture, ''[[The Adventures of Baron Munchausen]]'', cost around US$46&amp;nbsp;million,&lt;ref&gt;{{cite web|url=http://www.boxofficemojo.com/movies/?id=adventuresofbaronmunchausen.htm |title=Box Office Mojo |publisher=Box Office Mojo |date=20 June 1989 |accessdate=1 June 2011}}&lt;/ref&gt; and then earned only about US$8&amp;nbsp;million in US ticket sales. The film saw no wide domestic release from [[Columbia Pictures]], which was in the process of being sold at the time.
+
+In the mid-1990s, Gilliam and [[Charles McKeown]] developed a script for ''Time Bandits 2'', a project that was never produced because several of the original actors had died. Gilliam also attempted to direct a version of [[Charles Dickens]]'s ''[[A Tale of Two Cities]]'', which collapsed due to disagreements over its budget and the choice of a lead actor.&lt;ref&gt;{{cite book
+|last=Berra
+|first=John
+|title=Declarations of Independence: American Cinema and the Partiality of Independent Production
+|url=https://books.google.com/books?id=6In5Ir1kQpAC&amp;pg=PA60
+|accessdate=7 October 2010
+|year=2008
+|publisher=Intellect Books
+|isbn=978-1-84150-185-7
+|pages=60–1}}&lt;/ref&gt;
+
+Gilliam attempted twice to adapt [[Alan Moore]]'s ''[[Watchmen]]'' comics into a film, in 1989 and 1996. Both attempts were unsuccessful.
+
+In 1999, Gilliam attempted to film ''[[The Man Who Killed Don Quixote]]'', budgeted at US$32.1&amp;nbsp;million, among the highest-budgeted films to use only European financing; but in the first week of shooting, the actor playing [[Don Quixote]] ([[Jean Rochefort]]) suffered a [[Spinal disc herniation|herniated disc]], and a flood severely damaged the set. The film was cancelled, resulting in an insurance claim of US$15&amp;nbsp;million.&lt;ref&gt;{{cite book
+|last=Ebert
+|first=Roger
+|authorlink=Roger Ebert
+|title=Roger Ebert's Movie Yearbook 2006
+|url=https://books.google.com/books?id=w25yDt1v9XkC&amp;pg=PA401
+|accessdate=7 October 2010
+|date=November 2005
+|publisher=Andrews McMeel Publishing
+|isbn=978-0-7407-5538-5
+|pages=400–1}}&lt;/ref&gt; Despite the cancellation, the aborted project did yield the documentary ''[[Lost in La Mancha]]'', produced from film from a second crew that had been hired by Gilliam to document the making of ''Quixote''. After the cancellation, both Gilliam and the film's co-lead, [[Johnny Depp]], wanted to revive the project. The insurance company involved in the failed first attempt withheld the rights to the screenplay for several years&lt;ref&gt;{{cite web|url=http://www.smart.co.uk/dreams/donqfact.htm |title=Dreams: The Man Who Killed Don Quixote |publisher=Smart.co.uk |accessdate=1 June 2011}}&lt;/ref&gt; but the production was restarted in 2008.&lt;ref&gt;{{cite book
+|last1=Haen
+|first1=Theo d'
+|last2=Dhondt
+|first2=Reindert
+|title=International Don Quixote
+|url=https://books.google.com/books?id=faGC5XeauTcC&amp;pg=PA254
+|accessdate=7 October 2010
+|date=5 May 2009
+|publisher=Rodopi
+|isbn=978-90-420-2583-7
+|page=254}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Pandora: Don Quixote Rides Again, Says Delighted Gilliam |author=Alica-Azania Jarvis |work=The Independent |location=UK |date=4 August 2008 |url=https://www.independent.co.uk/opinion/columnists/pandora/pandora-don-quixote-rides-again-says-delighted-gilliam-884243.html |accessdate=4 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080819042752/http://www.independent.co.uk/opinion/columnists/pandora/pandora-don-quixote-rides-again-says-delighted-gilliam-884243.html |archivedate=19 August 2008 }}&lt;/ref&gt;
+
+From 2002 to 2006, Gilliam tried to get funding for an adaptation of ''[[Good Omens]]'', by [[Terry Pratchett]] and [[Neil Gaiman]], with [[Robin Williams]] and [[Johnny Depp]] rumored as possible stars, but movie studios found the apocalyptic theme unacceptable in the wake of the 9/11 terror attacks, and funding never materialized.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/books/tvandradioblog/2016/apr/15/good-omens-neil-gaiman-to-adapt-terry-pratchett-collaboration-for-tv|title=Good Omens: Neil Gaiman to adapt Terry Pratchett collaboration for TV|first=Sian|last=Cain|date=14 April 2016|publisher=|accessdate=3 July 2017|via=The Guardian}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.neilgaiman.com/FAQs/Books,_Short_Stories,_and_Films#q15|title=Neil Gaiman - FAQs - Books, Short Stories, and Films|website=www.neilgaiman.com|accessdate=3 July 2017}}&lt;/ref&gt;
+
+More recently, unforeseeable problems again befell a Gilliam project when the actor [[Heath Ledger]] died in New York City during the filming of ''[[The Imaginarium of Doctor Parnassus]]''.
+
+===Box office===
+Gilliam's first successful feature, ''[[Time Bandits]]'' (1981), earned more than eight times its original budget in the United States alone. ''[[The Adventures of Baron Munchausen]]'' (1988), although it was a flop at the box office, was nominated for four [[Academy Awards]] (and won, among other European prizes, three [[British Academy Film Awards|BAFTA Awards]]). ''[[The Fisher King]]'' (1991), his first film not to feature a member of the Monty Python troupe, had a budget of $24&amp;nbsp;million and grossed more than $41&amp;nbsp;million at United States box office. ''[[12 Monkeys]]'' grossed more than US$168&amp;nbsp;million worldwide. ''[[The Brothers Grimm (film)|The Brothers Grimm]]'', despite a mixed critical reception, grossed over US$105&amp;nbsp;million worldwide. ''[[The Imaginarium of Doctor Parnassus]]'', with a budget of $30&amp;nbsp;million, has been an international success at the box office, grossing over $60&amp;nbsp;million in worldwide theatrical release.
+According to [[Box Office Mojo]], his films have grossed an average of $21,602,510.&lt;ref&gt;{{cite web|url=http://www.boxofficemojo.com/people/chart/?id=terrygilliam.htm|title=Terry Gilliam|publisher=}}&lt;/ref&gt;
+
+===Recurring collaborators===
+Since his first feature, Gilliam has shown a propensity to work with particular actors in numerous productions. Up until the 1990s, each of Gilliam's non-Python films has featured at least one of his fellow Monty Python alumni (particularly Palin, Cleese, and Idle), and for his finished projects Gilliam has worked with the following actors at least twice (in order of first film appearance):
+* [[Derrick O'Connor]] (''Jabberwocky'', ''Time Bandits'', ''Brazil'')
+* [[Derek Deadman]] (''Jabberwocky'', ''Time Bandits'', ''Brazil'')
+* [[Jack Purvis (actor)|Jack Purvis]] (''Time Bandits'', ''Brazil'', ''The Adventures of Baron Munchausen'')
+* [[Charles McKeown]] (''Time Bandits'', ''Brazil'', ''The Adventures of Baron Munchausen'')
+* [[Katherine Helmond]] (''Time Bandits'', ''Brazil'', ''Fear and Loathing in Las Vegas'')
+* [[Ray Cooper]] (''Brazil'', ''The Adventures of Baron Munchausen'', ''The Imaginarium of Doctor Parnassus'', ''The Zero Theorem'')
+* [[Jonathan Pryce]] (''Brazil'', ''The Adventures of Baron Munchausen'', ''The Brothers Grimm'', ''The Man Who Killed Don Quixote'')
+* Stephen Bridgewater (''The Fisher King'', ''12 Monkeys'', ''Fear and Loathing in Las Vegas'')
+* [[Peter Stormare]] (''The Brothers Grimm'', ''The Imaginarium of Doctor Parnassus'', ''The Zero Theorem'')
+
+Other recurring collaborators include Gilliam's cinematographers [[Roger Pratt (cinematographer)|Roger Pratt]] (''Brazil'', ''The Fisher King'', ''12 Monkeys'') and [[Nicola Pecorini]] (''Fear and Loathing in Las Vegas'', ''The Brothers Grimm'', ''Tideland'', ''The Imaginarium of Doctor Parnassus'', ''The Zero Theorem'', ''The Man Who Killed Don Quixote''), and his co-writer McKeown (''Brazil'', ''The Adventures of Baron Munchausen'', ''The Imaginarium of Doctor Parnassus'').
+
+===Gilliam and ''Harry Potter''===
+[[J. K. Rowling]], the author of the ''[[Harry Potter]]'' series, is a fan of Gilliam's work. Consequently, he was Rowling's first choice to direct ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'' in 2000, but [[Warner Bros.]] ultimately chose [[Chris Columbus (filmmaker)|Chris Columbus]] for the job.&lt;ref&gt;[https://www.imdb.com/name/nm0000416/bio IMDb: Biography for Terry Gilliam]. Retrieved 22 April 2007.&lt;/ref&gt; In response to this decision, Gilliam said that "I was the perfect guy to do ''Harry Potter''. I remember leaving the meeting, getting in my car, and driving for about two hours along [[Mulholland Drive]] just so angry. I mean, Chris Columbus' versions are terrible. Just dull. Pedestrian."&lt;ref&gt;{{cite web|url=http://www.wizardnews.com/story.20050829.html |title=Terry Gilliam Bitter About Potter |publisher=Wizardnews.com |date=29 August 2005 |accessdate=1 June 2011}}&lt;/ref&gt; In 2006, Gilliam said that he found [[Alfonso Cuarón]]'s ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' to be "really good... much closer to what I would've done."&lt;ref&gt;{{cite web|url=http://www.mtv.com/news/articles/1543143/terry-gilliam-tilts-at-hollywood-yet-again.jhtml |title=Terry Gilliam Tilts at Hollywood Yet Again |publisher=MTV |accessdate=21 October 2011}}&lt;/ref&gt; In retrospect, however, Gilliam has stated that he wouldn't have liked to direct any [[Harry Potter (film series)|''Potter'' film]]. In a 2005 interview with ''[[Total Film]]'', he said that he would not enjoy working on such an expensive project because of interference from studio executives.&lt;ref&gt;{{cite web|url=http://www.contactmusic.com/new/xmlfeed.nsf/mndwebpages/gilliam%20vows%20never%20to%20direct%20harry%20potter |title=Gilliam Vows Never to Direct Harry Potter |publisher=Contactmusic.com |accessdate=1 June 2011}}&lt;/ref&gt;
+
+In ''[[Harry Potter and the Deathly Hallows – Part 1]]'', director [[David Yates]] paid homage to Gilliam's 1985 film ''[[Brazil (1985 film)|Brazil]]'', portraying the Death Eater–infiltrated Ministry of Magic in a fashion reminiscent of Gilliam's totalitarian bureaucracy.&lt;ref&gt;{{Cite news|url=http://www.scotsman.com/jkrowlingharrypotter/Review-Harry-Potter-and-the.6629159.jp |title=Review: Harry Potter and the Deathly Hallows&amp;nbsp;– Part One |work=The Scotsman |location= |accessdate=12 April 2011}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://wegotthiscovered.com/movies/harry-potter-and-the-deathly-hallows-part-1-review-a-second-opinion/ |title=Review: Harry Potter and the Deathly Hallows Part 1 Review |publisher=We Got This Covered (Movies)|accessdate=12 April 2011}}&lt;/ref&gt;
+
+===''Secret Tournament''===
+In 2002, Gilliam directed a series of television advertisements called ''[[Secret Tournament]]''.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/dna/h2g2/A776009 |title='The Secret Tournament'&amp;nbsp;– the Nike World Cup 2002 Advert |publisher=BBC |date=24 July 2002 |accessdate=1 June 2011}}&lt;/ref&gt; The advertisements were part of [[Nike, Inc.|Nike]]'s [[FIFA World Cup]] campaign and featured a secret three-on-three tournament between the world's best football players inside a huge tanker ship, accompanied by the [[Elvis Presley]] song "[[A Little Less Conversation]]".
+
+===''Slava's Diabolo''===
+[[File:Terry Gilliam KVIFF.jpg|thumb|right|Gilliam at the 41st Karlovy Vary International Film Festival, April 2006]]
+In 2006, Gilliam directed the stage show ''Slava's Diabolo'', created and staged by the Russian [[clown]] artist [[Slava Polunin]]. The show combined Polunin's clown style, characterised by deep nonverbal expression and interaction with the audience, with Gilliam's rich visuals and surrealistic imagery. The show premiered at the Noga Hall of the Gesher Theatre in [[Jaffa]], Israel.
+
+===''The Imaginarium of Doctor Parnassus''===
+''[[The Imaginarium of Doctor Parnassus]]'', directed and co-written by Gilliam, was released in 2009.&lt;ref&gt;{{Cite news| author=Adler, Shawn | url=http://moviesblog.mtv.com/2007/11/15/ledger-a-big-joker-when-it-comes-to-new-gilliam-film/ | title=Ledger a Big Joker When It Comes to New Gilliam Film | publisher=MTV | date=15 November 2007 | accessdate=30 December 2007 }}&lt;/ref&gt; In January 2007, Gilliam announced that he had been working on a new project with his writing partner Charles McKeown. One day later, the fansite ''Dreams'' reported&lt;ref&gt;{{cite web|url=http://www.smart.co.uk/dreams/parnfact.htm |title=Dreams: The Imaginarium of Dr Parnassus, a Terry Gilliam Film |publisher=Smart.co.uk |date=25 January 2008 |accessdate=1 June 2011}}&lt;/ref&gt; that the new project was titled ''The Imaginarium of Doctor Parnassus''. In October 2007, ''Dreams'' confirmed that this would be Gilliam's next project and was slated to star [[Christopher Plummer]] and [[Tom Waits]].&lt;ref&gt;{{Cite news |last = Stubbs |first = Phil |title = ''The Imaginarium of Dr Parnassus'' |publisher=Dreams |url = http://www.smart.co.uk/dreams/parnprev.htm |accessdate =10 October 2007 }}&lt;/ref&gt; Production began in December 2007 in London.&lt;ref&gt;{{Cite news |url=http://www.variety.com/article/VR1117975156.html?categoryid=1236&amp;cs=1 |title=Gilliam, Ledger Reteam for Film |work=Variety |date=31 October 2007 | accessdate=30 December 2007 }}&lt;/ref&gt;
+
+On 22 January 2008, production of the film was disrupted following the death of [[Heath Ledger]] in New York City. ''[[Variety (magazine)|Variety]]'' reported that Ledger's involvement had been a "key factor" in the film's financing.&lt;ref name=death&gt;{{Cite news| author=Dawtrey, Adam |url=http://www.variety.com/article/VR1117979492.html?categoryid=13&amp;cs=1 |title='Parnassus' Team Faces Dilemma | work=Variety | date =23 January 2008 | accessdate=23 January 2008 }}&lt;/ref&gt; Production was suspended indefinitely by 24 January,&lt;ref name=suspended&gt;{{Cite news| author=Kilpatrick, Christine | url=http://www.people.com/people/article/0,,20173511,00.html | title=Production Suspended on Heath Ledger's Latest Movie|work=[[People (American magazine)|People]]|date=24 January 2008|accessdate=24 January 2008 }}&lt;/ref&gt; but in February the actors [[Johnny Depp]], [[Jude Law]], and [[Colin Farrell]] signed on to continue Ledger's role, transforming into multiple incarnations of his character in the "magical" world of the film.&lt;ref&gt;{{Cite news| author="Moriarty"|url=http://www.aintitcool.com/node/35623|title=AICN Exclusive! We Know Who's Paying Tribute to Heath Ledger in Dr. Parnassus Now!|work=[[Ain't It Cool News]]|date=15 February 2008|accessdate=17 February 2008|quote=...we're going to see Heath Ledger's work in Terry Gilliam's new film, and that we're also going to see three very interesting actors step up to offer interpretations of him...now we've got the names verified... Johnny Depp. ... Jude Law. ... Colin Farrell.|authorlink= Drew McWeeny}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|author=Shawn Adler |title=Heath Ledger's Final Film to Go Forward&amp;nbsp;– With Johnny Depp, Jude Law, Colin Farrell in His Role |publisher=MTV |url=http://www.mtv.ca/news/article.jhtml?id=7086 |date=15 February 2008 |accessdate=15 February 2008 |quote=Report: The three actors have signed on to complete film. ... Heath Ledger died last month at the age of 28, but his final performance will live on&amp;nbsp;– thanks to a little creativity and some famous friends. ... Johnny Depp, Jude Law and Colin Farrell have all signed on to film scenes as Ledger's character in Terry Gilliam's 'The Imaginarium of Doctor Parnassus,' a magical re-telling of the Faust story, according to Aintitcoolnews.com. The announcement serves as a tribute to the man many have called one of the best actors of his generation. |deadurl=yes |archiveurl=https://web.archive.org/web/20110511152754/http://www.mtv.ca/news/article.jhtml?id=7086 |archivedate=11 May 2011 }}&lt;/ref&gt; Thanks to this arrangement the principal photography was completed on 15 April 2008, on schedule. Editing was completed in November 2008.&lt;ref name="Dreams: 2008 News Blog"&gt;{{cite web|url=http://www.smart.co.uk/dreams/tgnews08.htm |title=Dreams: 2008 News Blog|publisher=Smart.co.uk|date=10 March 2008|accessdate=1 June 2011}}&lt;/ref&gt; According to the official ''ParnassusFilm'' Twitter channel&lt;ref&gt;{{cite web|author=ParnassusFilm|url=https://twitter.com/ParnassusFilm|title=Parnassus Film (ParnassusFilm) on Twitter|publisher=Twitter.com|accessdate=1 June 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.smart.co.uk/dreams/tgnews09.htm#Mar|title=Dreams: 2009 News Blog|publisher=Smart.co.uk|accessdate=1 June 2011}}&lt;/ref&gt; launched on 30 March 2009, the film's post-production FX work finished on 31 March. During the filming, Gilliam was accidentally hit by a bus and suffered a broken back.&lt;ref&gt;{{cite news|title=How Terry Gilliam Weathered Loss of Heath Ledger to Finish Fanciful Imaginarium|author=Hart, Hugh |url=https://www.wired.com/underwire/2010/01/imaginarium-terry-gilliam/all/1|work=Wired|date=7 January 2010|accessdate=28 January 2010}}&lt;/ref&gt;
+
+The film had successful screenings including a premiere at the [[2009 Cannes Film Festival|62nd Cannes Film Festival]]. The UK release for the film was scheduled for 6 June 2009 but was pushed back to 16 October 2009. The USA release was on 25 December 2009. Eventually, this $30&amp;nbsp;million-budgeted film had grossed more than $60&amp;nbsp;million in worldwide theatrical release and received two [[Academy Award]] nominations.
+
+The film's end credit states that the film is dedicated to the memories of Ledger and [[William Vince]]. Depp, Farrell, and Law donated their proceeds from the film to Ledger's daughter.&lt;ref name=donate&gt;{{Cite news| author=Salter, Jessica | url=https://www.telegraph.co.uk/news/newstopics/celebritynews/2578354/Heath-Ledgers-daughter-given-wages-of-stars-in-Terry-Giliams-Dr-Parnassus.html|title=Heath Ledger's Daughter Given Wages of Stars in Terry Gilliam's Dr. Parnassus|work=The Daily Telegraph|location=|accessdate=18 August 2008|date=18 August 2008}}&lt;/ref&gt;
+
+===''The Zero Theorem''===
+In July 2012, Gilliam revealed plans for a film which would be shot in [[Bucharest]], Romania. He denied that it would be ''Don Quixote'' but refused to give any further details.&lt;ref&gt;Lyman, Eric. J. (2012)[http://www.hollywoodreporter.com/news/terry-gilliam-don-quixote-postponed-bucharest-347065 "Terry Gilliam: 'Don Quixote' Postponed Again, but Bucharest Calls (Q&amp;A)"]. ''Hollywood Reporter''. 7 July 2012.&lt;/ref&gt; The actor [[David Walliams]] reportedly entered into talks with Gilliam to play a part in it and was told that he'd have to "be willing to work with [[Johnny Depp]] and fly to Bucharest where the movie is to be filmed."&lt;ref&gt;McGarry, Lisa (2012). [http://www.unrealitytv.co.uk/britains-got-talent/britains-got-talent-david-walliams-lands-role-new-johnny-depp-flick-amanda-holden-says-he-can-dark/ "Britain’s Got Talent: David Walliams Lands Role in New Johnny Depp Flick as Amanda Holden Says 'He Can Be Dark'"] {{webarchive|url=https://web.archive.org/web/20120716013125/http://www.unrealitytv.co.uk/britains-got-talent/britains-got-talent-david-walliams-lands-role-new-johnny-depp-flick-amanda-holden-says-he-can-dark/ |date=16 July 2012 }}. ''Unreality TV''. 10 July 2012.&lt;/ref&gt; Depp, to that point, had made no mention of his involvement but was seen in Bucharest around the same time in mid-July&lt;ref&gt;Connelly, Brendon (2012). [http://www.bleedingcool.com/2012/07/16/johnny-depp-teaming-up-with-wes-anderson-for-the-grand-budapest-hotel/ "Johnny Depp Teaming Up with Wes Anderson for the Grand Budapest Hotel"]. ''Bleeding Cool''. 16 July 2012.&lt;/ref&gt; as Romanian news outlets reported Gilliam was staying in the city for negotiations on studio work with the Romanian film production company [[MediaPro Studios]].&lt;ref&gt;Ciuverca, Florentina (2012). [http://www.filmreporter.ro/17-07-2012-terry-gilliam-a-ales-romania-pentru-noul-sau-film/ "Terry Gilliam a ales România pentru noul său film"]. Filmreporter.ro. 17 July 2012. Translation of the first paragraph by Google Translate: "One of the most celebrated contemporary directors, Terry Gilliam, plans to shoot next production in Romania, according to U.S. media. Sources confirm to Filmreporter.ro that shooting could occur in MediaPro Studios located in Buftea in the coming months."&lt;/ref&gt; On 13 August 2012, this project was announced to be ''[[The Zero Theorem]]'', set to start shooting in Bucharest on 22 October, produced by Dean Zanuck (son of the late [[Richard D. Zanuck]], who was originally to produce the film in 2009), with worldwide sales handled by [[Voltage Pictures]], Toronto, and starring the Academy Award–winner [[Christoph Waltz]] in the lead (replacing [[Billy Bob Thornton]], who had been attached to the project in 2009).&lt;ref&gt;Billington, Alex (2012). [http://www.firstshowing.net/2012/terry-gilliams-latest-existential-head-trip-will-star-christoph-waltz/ "Terry Gilliam's Latest Existential Head Trip Will Star Christoph Waltz"]. Firstshowing.net. 13 August 2012.&lt;/ref&gt;&lt;ref&gt;White, James (2012). [http://www.empireonline.com/news/story.asp?NID=34873 "Waltz Figures Out the Zero Theorem: Terry Gilliam's Latest!"]. ''Empire''. 13 August 2012.&lt;/ref&gt;&lt;ref&gt;Eisenberg, Eric (2012). [http://www.cinemablend.com/new/Christoph-Waltz-Star-Terry-Gilliam-Zero-Theorem-32462.html "Christoph Waltz to Star in Terry Gilliam's Zero Theorem"]. ''Cinema Blend''. 13 August 2012.&lt;/ref&gt;&lt;ref&gt;Fleming, Mike (2012). [http://www.deadline.com/2012/08/toronto-christoph-waltz-starring-in-terry-gilliams-the-zero-theorem-voltage-selling/ "Update: Toronto: Terry Gilliam Confirms Christoph Waltz for ‘Zero Theorem’"]. 14 August 2012.&lt;/ref&gt;&lt;ref&gt;Serafino, Jason (2012). [http://www.complex.com/pop-culture/2012/08/christoph-waltz-signs-on-for-terry-gilliams-zero-theorem "Christoph Waltz Signs On for Terry Gilliam’s 'Zero Theorem'"]. ''Complex''. 14 August 2012.&lt;/ref&gt;&lt;ref&gt;Schafer, Sandy (2012). [http://screenrant.com/terry-gilliam-zero-theorem-christoph-waltz/ "Terry Gilliam Is Making ‘The Zero Theorem’ with Christoph Waltz"], screenrant.com. 14 August 2012.&lt;/ref&gt;&lt;ref&gt;Brown, Todd (2012).[http://twitchfilm.com/news/2012/08/terry-gilliam-resurrects-the-zero-theorem-with-christoph-waltz.php "Terry Gilliam Resurrects the Zero Theorem with Christoph Waltz"] {{webarchive|url=https://web.archive.org/web/20120815231213/http://twitchfilm.com/news/2012/08/terry-gilliam-resurrects-the-zero-theorem-with-christoph-waltz.php |date=15 August 2012 }}. ''Twitch Film''. 14 August 2012.&lt;/ref&gt; ''The Zero Theorem'' premiered at the [[70th Venice International Film Festival]] on 2 September 2013.&lt;ref&gt;{{cite web|url= http://blogs.indiewire.com/theplaylist/terry-gilliam-says-the-zero-theorem-headed-to-venice-film-festival-jessica-chastains-eleanor-rigby-also-rumored-20130714 |title= Terry Gilliam Says 'The Zero Theorem' Headed to Venice Film Festival; Jessica Chastain's 'Eleanor Rigby' Also Rumored |work= blogs.indiewire.com|last= Jagernauth |first= Kevin |date= 14 July 2013|accessdate=15 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.labiennale.org/en/cinema/70th-festival/screenings/sept2.html | title=2 September | work=www.labiennale.org | publisher=[[Venice Film Festival]] | accessdate=16 August 2013 | deadurl=yes | archiveurl=https://web.archive.org/web/20151016043313/http://www.labiennale.org/en/cinema/70th-festival/screenings/sept2.html | archivedate=16 October 2015 | df=dmy-all }}&lt;/ref&gt;
+
+===Opera director===
+Gilliam made his opera debut at London's [[English National Opera]] (ENO) in May 2011, directing ''[[The Damnation of Faust]]'', by [[Hector Berlioz]].&lt;ref&gt;{{cite web|title=The Damnation of Faust|publisher=ENO|url=http://www.eno.org/see-whats-on/productions/production-page.php?&amp;itemid=1087|accessdate=23 October 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20101011122710/http://www.eno.org/see-whats-on/productions/production-page.php?&amp;itemid=1087|archivedate=11 October 2010|df=dmy-all}}&lt;/ref&gt; The production received positive reviews in the British press&lt;ref&gt;{{cite news|title=Terry Gilliam's First Opera Is a Damned Fine Glimpse of the Abyss|author=Christiansen, Rupert |url=https://www.telegraph.co.uk/culture/music/opera/8502174/The-Damnation-of-Faust-ENO-Coliseum-review.html|newspaper=[[The Daily Telegraph]]|date=9 May 2011|accessdate=10 May 2011|location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=The Damnation of Faust&amp;nbsp;– Review|author=Clements, Andrew|url=https://www.theguardian.com/stage/2011/may/07/the-damnation-of-faust-review|newspaper=[[The Guardian]]|date=7 May 2011|accessdate=10 May 2011|location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=The Damnation of Faust, English National Opera|author=Duchen, Jessica|url=https://www.independent.co.uk/arts-entertainment/classical/reviews/the-damnation-of-faust-english-national-opera-2281533.html|newspaper=[[The Independent]]|date=9 May 2011|accessdate=10 May 2011|location=London}}&lt;/ref&gt; On 16 September 2012, the production opened at the [[Vlaamse Opera]] in [[Ghent]], [[Belgium]], in the opera's original French-language version and received praise from critics and audiences alike. After a number of performances in Ghent, the production moved to the opera house in [[Antwerp]] for sold-out run of performances.
+
+In June 2014, Gilliam followed up on his success with ''Faust'' with a new ENO production of another opera by Berlioz, the rarely performed ''[[Benvenuto Cellini (opera)|Benvenuto Cellini]]''.&lt;ref&gt;[http://www.bbc.co.uk/programmes/b047zky8 Opera on 3 – Berlioz's Benvenuto Cellini]. [[BBC Radio 3]] broadcast, 30 June 2014.&lt;/ref&gt;
+
+===Projects in development or shelved===
+Gilliam has several projects in various states of development, including an adaptation of [[Neil Gaiman]]'s and [[Terry Pratchett]]'s comic fantasy novel ''[[Good Omens]]''. Other projects Gilliam has been trying to get off the ground since the 1990s are an adaptation of [[Charles Dickens]]'s ''[[A Tale of Two Cities]]'' (starring [[Mel Gibson]]); an adaptation of [[Mark Twain]]'s ''[[A Connecticut Yankee in King Arthur's Court]]'', which has been [[List of films based on Arthurian legend#Connecticut Yankee|adapted as movies]] several times before; and a script entitled ''The Defective Detective'', which Gilliam wrote with [[Richard LaGravenese]] (who wrote ''[[The Fisher King]]''). While promoting the US theatrical release of ''The Zero Theorem'', Gilliam revealed he and LaGravenese were meeting to see if ''The Defective Detective'' script could be made into a miniseries. If this comes together, it would be the first time Gilliam has ever directed for television.&lt;ref&gt;{{cite web|url=http://www.cinemablend.com/new/Batman-Become-Religion-More-From-Zero-Theorem-Terry-Gilliam-67291-p2.html|title=Batman's Become a Religion and More from the Zero Theorem's Terry Gilliam|publisher=cinemablend.com}}&lt;/ref&gt; [[Stanley Kubrick]] had Gilliam in mind to direct a sequel to ''[[Dr. Strangelove]]''.&lt;ref&gt;{{cite web|url=http://twitchfilm.com/2013/10/stanley-kubrick-wanted-terry-gilliam-to-direct-son-of-strangelove.html|title=Stanley Kubrick Wanted Terry Gilliam to Direct Son of Stragelove|last=Brown|first=Todd|publisher=[[Twitch Film]]|date=12 October 2013|accessdate=13 October 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131013215342/http://twitchfilm.com/2013/10/stanley-kubrick-wanted-terry-gilliam-to-direct-son-of-strangelove.html|archivedate=13 October 2013|df=dmy-all}}&lt;/ref&gt;
+
+It was rumoured that Gilliam may direct or be involved in the production of the animated band [[Gorillaz]] movie. In a September 2006 interview with ''[[Uncut (magazine)|Uncut]]'', [[Damon Albarn]] was reported to have said, "we're making a film. We've got Terry Gilliam involved."&lt;ref name="Uncut"&gt;{{cite web|url=http://gorillaz-news.livejournal.com/169939.html#cutid1|title=West London Calling |accessdate=11 October 2006 |author=Williamson, Nigel|year=2006 |issue= 88|work=Uncut}}&lt;/ref&gt; However, in a more recent interview with Gorillaz-Unofficial, [[Jamie Hewlett]], the co-creator of the band, stated that since the time of the previous interview, Damon's and his own interest in the film had lessened. In an August 2008 ''[[The Observer|Observer]]'' interview, Gorillaz band members Albarn and Hewlett revealed the nature and title of the project, ''Journey to the West'', a movie adaptation of the [[Monkey: Journey to the West|opera of the same name]], based on a 16th-century Chinese adventure story also known as ''[[Monkey (novel)|Monkey]]''.&lt;ref&gt;[https://www.theguardian.com/music/2008/aug/10/music.classicalandopera ''Monkey magic''], The Observer, 10 August 2008&lt;/ref&gt; In January 2008, while on set of ''The Imaginarium of Doctor Parnassus'', Gilliam stated that he was looking forward to the project, "But I'm still waiting to see a script!"&lt;ref name="Dreams: 2008 News Blog"/&gt;
+
+===''The Man Who Killed Don Quixote''===
+After regaining the rights to the screenplay of ''[[The Man Who Killed Don Quixote]]'', Gilliam restarted preproduction in 2008, with Johnny Depp still attached to the project.&lt;ref&gt;{{Cite news|title=Pandora: Don Quixote rides again, says delighted Gilliam |author=Alica-Azania Jarvis |work=The Independent |location=UK |date=4 August 2008 |url=https://www.independent.co.uk/opinion/columnists/pandora/pandora-don-quixote-rides-again-says-delighted-gilliam-884243.html |accessdate=4 August 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080819042752/http://www.independent.co.uk/opinion/columnists/pandora/pandora-don-quixote-rides-again-says-delighted-gilliam-884243.html |archivedate=19 August 2008 }}&lt;/ref&gt; The film was to be reshot completely, with Rochefort's role recast. Michael Palin reportedly entered into talks with Gilliam about stepping in for Rochefort and playing Don Quixote.&lt;ref&gt;{{cite web|title=Monty Python&amp;nbsp;– Palin to Act Alongside Depp?|publisher=Contact Music|date=26 May 2008|url=http://www.contactmusic.com/news.nsf/article/palin%20to%20act%20alongside%20depp_1069633|accessdate =25 July 2008}}&lt;/ref&gt; However, Gilliam revealed on the Canadian talk show ''[[The Hour (Canadian TV series)|The Hour]]'' on 17 December 2009 that [[Robert Duvall]] had been cast to play Quixote, before the film was postponed once again.&lt;ref&gt;{{Cite news| url=http://www.cbc.ca/video/#/Shows/ID=1362888191|publisher=CBC News|title=Episode 61 – The Hour}}&lt;/ref&gt; In January 2014, Gilliam wrote on Facebook that "Dreams of Don Quixote have begun again".&lt;ref&gt;{{cite web|url=https://www.facebook.com/photo.php?fbid=640151836043634&amp;set=a.256735074385314.62810.256730041052484&amp;type=1&amp;stream_ref=10|title=Terry Gilliam – Timeline Photos – Facebook|work=facebook.com}}&lt;/ref&gt; At the Cannes Film Festival in 2016, it was confirmed that ''The Man Who Killed Don Quixote'' was going to be made, with Michael Palin and Adam Driver in starring roles.&lt;ref&gt;Skinner, Craig (2016). [http://www.flickreel.com/terry-gilliams-the-man-who-killed-don-quixote-to-star-adam-driver-and-michael-palin-new-concept-art-uncovered/ ''Exclusive: Terry Gilliam’s The Man Who Killed Don Quixote to Star Adam Driver and Michael Palin; New Concept Art Uncovered'']. Flickreel.com. 11 May 2016.&lt;/ref&gt; In March 2017, filming finally began, with Driver and [[Jonathan Pryce]] starring.&lt;ref&gt;{{cite news|last1=Lapin|first1=Andrew|title=Terry Gilliam Has Begun Shooting 'The Man Who Killed Don Quixote,' For Real This Time|url=http://www.indiewire.com/2017/03/terry-gilliam-back-with-don-quixote-1201791646/|date=9 March 2017|work=IndieWire}}&lt;/ref&gt; On 4 June 2017, Gilliam announced that the shooting of the film was complete.&lt;ref&gt;{{cite web|url=https://twitter.com/TerryGilliam/status/871356842265505792|title=Sorry for the long silence|accessdate=4 June 2017|date=4 June 2017}}&lt;/ref&gt;
+
+The film premiered on 19 May 2018 as the closing film of the [[2018 Cannes Film Festival]] (where it received a [[standing ovation]]), and was released in French theaters the same day.&lt;ref&gt;{{cite web|url=https://www.screendaily.com/news/cannes-adds-lars-von-trier-latest-the-man-who-killed-don-quixote-whitney-doc-/5128427.article|title=Cannes adds Lars von Trier latest, 'The Man Who Killed Don Quixote', 'Whitney' doc|work=[[Screen Daily]]|date=19 April 2018|accessdate=19 April 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://variety.com/2018/film/news/cannes-lars-von-trier-the-house-that-jack-built-terry-gilliam-don-quixote-1202755595/|title=Cannes Adds Lars von Trier's 'The House That Jack Built,' Sets Terry Gilliam's 'Don Quixote' as Closer|work=[[Variety (magazine)|Variety]]|date=19 April 2018|accessdate=19 April 2018}}&lt;/ref&gt;&lt;ref name="FranceRelease"&gt;{{cite web|url=https://twitter.com/STUDIOLEQUIPE/status/986953925445259264|title=@quixotemovie by @TerryGilliam will close the @Festival_Cannes |date=19 April 2018|accessdate=20 April 2018}}&lt;/ref&gt;&lt;ref name="DreamDelusion"&gt;{{cite web|url=https://slate.com/culture/2018/05/terry-gilliams-the-man-who-killed-don-quixote-made-its-decades-delayed-premiere-at-cannes.html|title=Decades in the Making, Terry Gilliam's Don Quixote Is a Dream, and a Delusion, Come True |date=22 May 2018|accessdate=22 May 2018}}&lt;/ref&gt;
+
+===Future projects===
+On 16 December 2010, ''[[Variety (magazine)|Variety]]'' reported that Gilliam was to "godfather" a film called ''1884'', described as an animated [[steampunk]] parody of [[George Orwell]]'s ''[[Nineteen Eighty-Four]]'', with several former Pythons lending their voices to the project; Gilliam was to be credited as "creative advisor".&lt;ref&gt;Hopewell, John; Keslassy, Elsa (2010). [http://www.variety.com/article/VR1118029166?refCatId=13 "Gilliam to Godfather '1884': Tim Ollive to Helm Retro Sci-Fi Fantasy"]. ''Variety''. 16 December 2010.&lt;/ref&gt;
+
+During the second half of 2011, Gilliam and [[Paul Auster]] wrote a screenplay for a film adaptation of Auster's novel ''[[Mr. Vertigo]]''.&lt;ref&gt;Fischer, Russ (2011). [http://www.slashfilm.com/terry-gilliam-crafting-script-based-paul-auster-mr-vertigo/ "Terry Gilliam Crafting a Script Based on Paul Auster Novel ‘Mr. Vertigo’'"] Slashfilm.com. 28 July 2011&lt;/ref&gt;&lt;ref&gt;Connelly, Brendon (2011).[http://www.bleedingcool.com/2011/08/19/paul-auster-has-co-written-the-mr-vertigo-screenplay-with-terry-gilliam/ "Paul Auster Has Co-Written the Mr. Vertigo Screenplay with Terry Gilliam"]. Bleeding Cool. 19 August 2011.&lt;/ref&gt; In June 2018, Gilliam announced at the Brussels International Film Festival that he was working again on Mr. Vertigo, and that it might be his next film, and that he had [[Ralph Fiennes]] attached to star in it.&lt;ref&gt;Barfield, Charles (2018). [https://theplaylist.net/terry-gilliam-mr-vertigo-20180629/ "Terry Gilliam Reportedly Eyeing ‘Mr. Vertigo’ For His Next Film, Starring Ralph Fiennes"]. The Playlist. 29 June 2018.&lt;/ref&gt;&lt;ref&gt;Franklin, Garth (2018). [https://www.darkhorizons.com/gilliams-next-could-be-mr-vertigo/ "Gilliam’s Next Could Be “Mr. Vertigo”"]. Dark Horizons. 1 July 2018.&lt;/ref&gt;
+
+He is in talks to make his first animated feature film with [[Laika (company)|Laika]], the studio behind ''[[Coraline (film)|Coraline]]'' and ''[[ParaNorman]]''.&lt;ref&gt;{{cite web|url=http://www.denofgeek.us/movies/terry-gilliam/233784/exclusive-laika-chasing-terry-gilliam-for-animated-film|title=Laika Chasing Terry Gilliam for an Animated Film|last=Lambie|first=Ryan|work=Den of Geek|date=14 July 2014|accessdate=14 July 2014}}&lt;/ref&gt;
+
+In October 2015, in a webchat hosted by ''The Guardian'', Gilliam announced that he was working on "a TV series based on Time Bandits" and "another based on a script by Richard LaGravanese and I wrote after Fisher King, called ''The Defective Detective''."&lt;ref&gt;{{cite web|url=https://www.theguardian.com/film/live/2015/oct/05/terry-gilliam-webchat-gilliamesque|title=Terry Gilliam Webchat – As It Happened|work=The Guardian}}&lt;/ref&gt;
+
+==Charitable activities==
+Gilliam has been involved with a number of charitable and humanitarian causes. In 2009, he became a board member of Videre Est Credere (Latin for "to see is to believe"), a UK human rights charity.&lt;ref&gt;UK Charity Commission, [http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithPartB.aspx?RegisteredCharityNumber=1130375&amp;SubsidiaryNumber=0 UK Charity Commission Report on Videre], UK Charity Commission, 23 July 2013&lt;/ref&gt; Videre describes itself as giving "local activists the equipment, training and support needed to safely capture compelling video evidence of human rights violations. This captured footage is verified, analysed and then distributed to those who can create change."&lt;ref&gt;[http://www.videreonline.org/ Videre Website]. Videre Est Credere. 23 July 2013.&lt;/ref&gt; He participates alongside movie producer [[Uri Fruchtmann]], music producer [[Brian Eno]] and executive director of Greenpeace UK [[John Sauven]].
+
+==Personal life==
+Gilliam has been married to British makeup and costume designer Maggie Weston since 1973. She worked on ''Monty Python's Flying Circus'', many of the Python movies, and Gilliam's movies up to ''[[The Adventures of Baron Munchausen]]''. They have three children, Amy Rainbow Gilliam (born 1978), Holly Dubois Gilliam (born in October 1980), and Harry Thunder Gilliam (born on 3 April 1988), who have also appeared in or worked on several of his films.
+
+In 1968, Gilliam obtained British citizenship. He held dual American and British citizenship for the next 38 years, until he renounced his American citizenship in January 2006.&lt;ref&gt;[http://www.showbuzz.cbsnews.com/stories/2006/10/06/movies/main2071659.shtml "Terry Gilliam Sounds Off"] {{webarchive|url=https://web.archive.org/web/20080527070757/http://www.showbuzz.cbsnews.com/stories/2006/10/06/movies/main2071659.shtml |date=27 May 2008 }}. ''ShowBuzz''. CBS News. 6 October 2006.&lt;/ref&gt; In an interview with ''[[Der Tagesspiegel]]'',&lt;ref name="tagesspiegel"&gt;[http://www.tagesspiegel.de/kultur/kopflos-am-potsdamer-platz/683306.html (10 February 2006). Kopflos am Potsdamer Platz. ''tagesspiegel''] {{de icon}}. Retrieved 28 April 2014.&lt;/ref&gt; he described the action as a protest against then-President [[George W. Bush]], and in an earlier interview with ''[[The A.V. Club]]'', he also indicated that it was related to concerns about future tax liability for his wife and children.&lt;ref name="tagonionav"&gt;{{cite web|last=Robinson |first=Tasha |url=http://www.avclub.com/content/node/54008 |title=AV Club Interview |publisher=Avclub.com |accessdate=1 June 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20080921165210/http://www.avclub.com/content/node/54008 |archivedate=21 September 2008 }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last=Gross|first=David M.|year=2014|title=99 Tactics of Successful Tax Resistance Campaigns|publisher=Picket Line Press|isbn=978-1490572741|page=86}}&lt;/ref&gt; As a result of renouncing his citizenship, Gilliam was permitted to spend 30 days each year in the US over the next 10 years, "less than any European".&lt;ref name="tagesspiegel"/&gt; He maintains a residence in Italy near the [[Umbria]]–[[Tuscany]] border. He has been instrumental in establishing the annual Umbria Film Festival,&lt;ref&gt;{{cite web |url=http://www.umbriafilmfestival.com/ |archive-url=https://web.archive.org/web/20020715091851/http://www.umbriafilmfestival.com/ |dead-url=yes |archive-date=15 July 2002 |title=Umbria Film Festival web site |publisher=Umbriafilmfestival.com |accessdate=1 June 2011 }}&lt;/ref&gt; held in the nearby town of [[Montone]]. Gilliam also resides in [[Highgate]], London.&lt;ref&gt;{{cite web|title=My latest is a disaster movie|date=4 February 2001|publisher=''[[The Guardian]]''|url=https://www.theguardian.com/film/2001/feb/04/miguelcervantes|accessdate=30 March 2017}}&lt;/ref&gt;
+
+On 8 September 2015, ''[[Variety (magazine)|Variety]]'' mistakenly published a false obituary claiming that Gilliam died.&lt;ref&gt;{{cite web|last=Child|first=Ben|title=Terry Gilliam laughs off Variety's dead Python blunder|date=9 September 2015| work=[[The Guardian]] | url=https://www.theguardian.com/film/2015/sep/09/terry-gilliam-dead-monty-python-variety-blunder|accessdate=9 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=J. Freedom du Lac|title=Monty Python's Terry Gilliam has not died. (But if he did, it was Variety's fault.)|date=9 September 2015| work=[[The Washington Post]] |url=https://www.washingtonpost.com/news/arts-and-entertainment/wp/2015/09/09/terry-gilliam-has-not-died-but-if-he-did-it-was-varietys-fault/|accessdate=9 February 2017}}&lt;/ref&gt;
+
+In May 2018, Gilliam suffered a perforated medullary artery that was erroneously reported in the media as a [[stroke]].&lt;ref name="I didn't have a stroke"&gt;{{cite web|url=https://www.theguardian.com/film/2018/may/18/terry-gilliam-stroke-don-quixote|title='I didn't have a stroke': Terry Gilliam on health scare and Don Quixote|work=[[The Guardian]]|date=18 May 2018|accessdate=19 June 2018}}&lt;/ref&gt;
+
+==Filmography==
+{{Main|Terry Gilliam filmography}}
+As director:
+{{div col}}
+* ''[[Monty Python and the Holy Grail]]'' (1975, co-directed with [[Terry Jones]])
+* ''[[Jabberwocky (film)|Jabberwocky]]'' (1977)
+* ''[[Time Bandits]]'' (1981)
+* ''[[Brazil (1985 film)|Brazil]]'' (1985)
+* ''[[The Adventures of Baron Munchausen]]'' (1988)
+* ''[[The Fisher King]]'' (1991)
+* ''[[12 Monkeys]]'' (1995)
+* ''[[Fear and Loathing in Las Vegas (film)|Fear and Loathing in Las Vegas]]'' (1998)
+* ''[[The Brothers Grimm (film)|The Brothers Grimm]]'' (2005)
+* ''[[Tideland (film)|Tideland]]'' (2005)
+* ''[[The Imaginarium of Doctor Parnassus]]'' (2009)
+* ''[[The Zero Theorem]]'' (2013)
+* ''[[The Man Who Killed Don Quixote]]'' (2018)
+{{div col end}}
+
+==Awards, nominations and honours==
+* ''[[Time Bandits]]'' (1981)
+** 5 [[Saturn Awards]] nominations Best International Film, Best Director, Best Writing, Best Supporting Actor ([[Craig Warnock]]), Best Special Effects
+* ''[[Brazil (1985 film)|Brazil]]'' (1985)
+** 2 [[Academy Awards]] nominations Best Original Screenplay, Best Art Direction-Set Decoration
+** 3 [[Los Angeles Film Critics Association]] Best Film, director, and Screenplay
+** 2 [[British Academy Film Awards|BAFTA Awards]] Best Production Design, Best Special Visual Effects
+* ''[[The Adventures of Baron Munchausen]]'' (1988)
+** 4 [[Academy Awards]] nominations Best Set Decoration, Best Costume Design, Best Visual Effects, Best Makeup
+** 3 [[British Academy Film Awards|BAFTA Awards]] Best Costume Design, Best Make Up Artist, Best Production Design, 1 [[British Academy Film Awards|BAFTA Award]] nomination Best Special Effects
+** 3 [[Nastro d'Argento|Silver Ribbons]] awarded by the [[Italian National Syndicate of Film Journalists]] Best Cinematography, Best Costume Design, Best Production Design
+** 4 [[Saturn Awards]] nominations Best Fantasy Film, Best Costumes, Best Make-Up, Best Special Effects
+** [[Hugo Award]] nomination for Best Dramatic Presentation
+* ''[[The Fisher King]]'' (1991)
+** [[Academy Awards|Academy Award]] Best Actress in a Supporting Role ([[Mercedes Ruehl]])
+** 4 [[Academy Awards]] nominations Best Actor in a Leading Role ([[Robin Williams]]), Best Art Direction-Set Decoration, Best Music, Original Score, Best Writing, Screenplay Written Directly for the Screen
+** 2 [[Golden Globe Award|Golden Globes]] Best Performance by an Actor in a Motion Picture – Comedy/Musical ([[Robin Williams]]), Best Performance by an Actress in a Supporting Role in a Motion Picture ([[Mercedes Ruehl]])
+** 3 [[Golden Globe Award|Golden Globes]] nominations Best Motion Picture, Best Director, Best Performance by an Actor in a Motion Picture ([[Jeff Bridges]])
+** 2 [[BAFTA Awards]] nominations Best Actress in a Supporting Role ([[Amanda Plummer]]), Best Screenplay-Original
+** [[Saturn Award]] Best Supporting Actress ([[Mercedes Ruehl]])
+** 6 [[Saturn Awards]] nominations Best Fantasy Film, Best Director, Best Actor ([[Robin Williams]]), Best Actor ([[Jeff Bridges]]), Best Writing, Best Costumes
+** [[Venice Film Festival]] Silver Lion Winner
+** [[Los Angeles Film Critics Association]] Best Actress ([[Mercedes Ruehl]])
+** 4 [[Los Angeles Film Critics Association]] nominations Best Picture, Best Director, Best Supporting Actress ([[Amanda Plummer]]), Best Screenplay
+** [[Toronto International Film Festival]] People's Choice Award Winner
+* ''[[12 Monkeys]]'' (1995)
+** 2 [[Academy Awards]] nominations Best Actor in a Supporting Role ([[Brad Pitt]]), Best Costume Design
+** [[Golden Globe Award|Golden Globe]] Best Performance by an Actor in a Supporting Role in a Motion Picture ([[Brad Pitt]])
+** 3 [[Saturn Awards]] Best Science Fiction Film, Best Supporting Actor ([[Brad Pitt]]), Best Costumes
+** 4 [[Saturn Awards]] nominations Best Director, Best Actor ([[Bruce Willis]]), Best Actress ([[Madeleine Stowe]]), Best Writing
+** [[2nd Empire Awards|Empire Award]] [[Empire Award for Best Director|Best Director]]
+* ''[[Fear and Loathing in Las Vegas (film)|Fear and Loathing in Las Vegas]]'' (1998)
+** [[1998 Cannes Film Festival|Cannes Film Festival]] Official Selection&lt;ref name="festival-cannes.com"&gt;{{cite web|url=http://www.festival-cannes.com/en/archives/ficheFilm/id/4898/year/1998.html |title=Festival de Cannes: Fear and Loathing in Las Vegas |accessdate=29 September 2009|publisher=festival-cannes.com}}&lt;/ref&gt;
+* ''[[The Brothers Grimm (film)|The Brothers Grimm]]'' (2005)
+** Venice Film Festival Official Selection
+* ''[[Tideland (film)|Tideland]]'' (2005)
+** [[Saturn Award]] nomination Best Performance by a Younger Actor ([[Jodelle Ferland]])
+** [[San Sebastian International Film Festival|San Sebastian Festival]] Winner of the [[FIPRESCI]] Prize&lt;ref&gt;{{cite web|url=http://www.fipresci.org/awards/awards/awards_2005.htm |title=2005 FIPRESCI |publisher=Fipresci.org |accessdate=1 June 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110605190418/http://www.fipresci.org/awards/awards/awards_2005.htm |archivedate=5 June 2011 }}&lt;/ref&gt;
+* ''[[The Imaginarium of Doctor Parnassus]]'' (2009)
+** 2 [[Academy Awards]] nominations Best Costume Design, Best Art Direction
+** 2 [[British Academy Film Awards|BAFTA Awards]] nominations Best Production Design, Best Make Up &amp; Hair
+** 2 [[Saturn Awards]] nominations Best International Film, Best Make-Up
+** 2 [[15th Empire Awards|Empire Awards]] nominations [[Empire Award for Best British Film|Best British Film]], [[Empire Award for Best Sci-Fi/Fantasy|Best Sci-Fi/Fantasy]]
+** Best Fantasy Film nomination by the [[Costume Designers Guild|Costume Designers Guild of America]]
+** [[British Independent Film Awards]] nomination for Best Achievement in Production
+** [[International Press Academy]] [[Satellite Award]] Best Costume Design, 3 more nominations for Best Visual Effects, Best Art Direction &amp; Production Design, Best Original Song
+** Voted Best Fantasy Film of the Year by readers of the Total Sci-Fi Online magazine.
+* An asteroid, [[9619 Terrygilliam]], is named in his honour.
+* Gilliam was given the [[BAFTA Academy Fellowship Award]] in 2009 for his contribution to motion picture arts.&lt;ref&gt;{{cite web|title=Film Winners in 2009 |publisher=bafta.org |url=http://www.bafta.org/awards/film/film-nominations-in-2009,657,BA.html |accessdate=8 February 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090203031533/http://bafta.org/awards/film/film-nominations-in-2009%2C657%2CBA.html |archivedate=3 February 2009 |df=dmy-all }}&lt;/ref&gt;
+* Gilliam was also given a BAFTA Special Award in 1969 for the graphics and animations in ''[[Monty Python's Flying Circus]]''.
+* Terry Gilliam was awarded the Fellowship of the Kermodes, by film critic [[Mark Kermode]].&lt;ref&gt;{{cite web| title=BBC&amp;nbsp;– The Culture Show: The Kermodes 2009: For the Record | publisher=[[British Broadcasting Corporation|BBC]] | url=http://www.bbc.co.uk/blogs/thecultureshow/2009/02/the-kermodes-2009-for-the-reco.html | accessdate=23 February 2009 }}&lt;/ref&gt;
+* Gilliam was honoured with the ''Director with Unique Visual Sensitivity Award'' at the [[Camerimage]] film festival in [[Łódź]], Poland in 2009.&lt;ref&gt;[http://imaginariumofdrparnassus.com/blog/2009/11/28/terry-gilliam-presents-dr-p-and-receives-honor-at-plus-camerimage-fest-in-lodzpoland-1129/ ''Terry Gilliam Presents Dr. P and Receives Honor At Plus Camerimage Fest In Lodz Poland 11/29''] {{Webarchive|url=https://web.archive.org/web/20100310180253/http://imaginariumofdrparnassus.com/blog/2009/11/28/terry-gilliam-presents-dr-p-and-receives-honor-at-plus-camerimage-fest-in-lodzpoland-1129/ |date=10 March 2010 }}, The Imaginarium of Doctor Parnassus Support site, Saturday, 28 November 2009&lt;/ref&gt;
+* [[Ordre des Arts et des Lettres]]
+** Knight (2013)&lt;ref&gt;http://www.ambafrance-uk.org/IMG/pdf/Amba_S_3_13112013.pdf&lt;/ref&gt;
+* [[Raindance Film Festival]] announced on 13 August 2018 that he would be the next recipient of its Auteur Award for his contribution to UK film.&lt;ref&gt;{{cite web|title=Raindance to Honour Terry Gilliam with Auteur Award | publisher=What's Worth Seeing |url=http://whatsworthseeing.com/raindance-to-honour-terry-gilliam-with-auteur-award/ | accessdate=13 August 2013 |date=13 August 2018}}&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book
+|last1=Gilliam
+|first1=Terry
+|last2=Thompson
+|first2=Ben
+|title=Gilliamesque
+|date=2015
+|publisher=[[HarperCollins|Harper Design]]
+|isbn=978-0-06-238074-6}}
+* {{cite book
+|last1=Gilliam
+|first1=Terry
+|last2=Sterritt
+|first2=David
+|authorlink2=David Sterritt
+|last3=Rhodes
+|first3=Lucille
+|title=Terry Gilliam: interviews
+|url=https://books.google.com/books?id=8eDE0hce0kEC
+|accessdate=7 October 2010
+|date=April 2004
+|publisher=Univ. Press of Mississippi
+|isbn=978-1-57806-624-7}}
+* {{cite book
+|last1=Gilliam
+|first1=Terry
+|last2=Christie
+|first2=Ian
+|authorlink2=Ian Christie (film scholar)
+|title=Gilliam on Gilliam
+|url=https://books.google.com/books?id=82RQJgAACAAJ
+|accessdate=7 October 2010
+|year=1999
+|publisher=Faber and Faber
+|isbn=978-0-571-20280-5}}
+* {{cite book
+|last1=McCabe
+|first1=Bob
+|last2=Gilliam
+|first2=Terry
+|title=Dark Knights And Holy Fools: The Art And Films of Terry Gilliam
+|url=https://books.google.com/books?id=Fp5IPgAACAAJ
+|accessdate=7 October 2010
+|date=30 September 1999
+|publisher=Diane Pub Co
+|isbn=978-0-7567-9080-6}}
+* {{cite book
+|last=Wilmut
+|first=Roger
+|authorlink=Roger Wilmut
+|title=From fringe to flying circus: celebrating a unique generation of comedy, 1960–1980
+|url=https://books.google.com/books?id=PzxaAAAAMAAJ
+|accessdate=7 October 2010
+|year=1980
+|publisher=Eyre Methuen
+|isbn=978-0-413-46950-2}}
+
+==External links==
+{{Commons|Terry Gilliam}}
+* {{official website|http://terrygilliamweb.com/|Terry Gilliam's Official Website}}
+* {{IMDb name|0000416}}
+* [http://www.smart.co.uk/dreams/home.htm Dreams: The Terry Gilliam Fanzine]
+&lt;!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] &amp; [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+==={{No more links}}=========--&gt;
+
+{{Terry Gilliam}}
+{{Monty Python}}
+{{Navboxes
+|title = Awards for Terry Gilliam
+|list =
+{{Silver Lion for Best Director}}
+{{BAFTA Academy Fellowship Award}}
+{{Los Angeles Film Critics Association Award for Best Director}}
+{{Empire Award for Best Director}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gilliam, Terry}}
+[[Category:Terry Gilliam| ]]
+[[Category:1940 births]]
+[[Category:American animators]]
+[[Category:English animators]]
+[[Category:English film directors]]
+[[Category:American male actors]]
+[[Category:English male actors]]
+[[Category:American male comedians]]
+[[Category:English male comedians]]
+[[Category:American comics artists]]
+[[Category:English comics artists]]
+[[Category:British male comedy actors]]
+[[Category:American male comedy actors]]
+[[Category:American comedy writers]]
+[[Category:British comedy writers]]
+[[Category:American emigrants to England]]
+[[Category:BAFTA fellows]]
+[[Category:Best Director Empire Award winners]]
+[[Category:British opera directors]]
+[[Category:Chevaliers of the Ordre des Arts et des Lettres]]
+[[Category:Copywriters]]
+[[Category:English-language film directors]]
+[[Category:Album-cover and concert-poster artists]]
+[[Category:Fantasy film directors]]
+[[Category:Science fiction film directors]]
+[[Category:Film directors from California]]
+[[Category:Film directors from Minnesota]]
+[[Category:Living people]]
+[[Category:Male actors from Minneapolis]]
+[[Category:Monty Python members]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:Occidental College alumni]]
+[[Category:People from Hennepin County, Minnesota]]
+[[Category:People from Panorama City, Los Angeles]]
+[[Category:People who lost United States citizenship]]
+[[Category:Stop motion animators]]
+[[Category:Venice Best Director Silver Lion winners]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]</text>
+      <sha1>j36oaeqoso17rul2gwenxf0gfabrytj</sha1>
+    </revision>
+  </page>
+</mediawiki>

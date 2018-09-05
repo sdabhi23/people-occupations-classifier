@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vic Pratt</title>
+    <ns>0</ns>
+    <id>8219455</id>
+    <revision>
+      <id>801106298</id>
+      <parentid>752575889</parentid>
+      <timestamp>2017-09-17T18:10:40Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4172">{{BLP primary sources|date=June 2010}}
+'''Victor Alfred Cornelius Eustace Beltane Diggory Penrith Pratt''' more commonly known as '''Vic Pratt''' is an artist, writer, musician and actor born in 1971. He lives in [[Muswell Hill]], North East London.&lt;ref&gt;Biography in ''The Zine'' #9&lt;/ref&gt;
+
+Pratt printed two issues of his own [[British small press comics]] ''Flea Circus''&lt;ref&gt;flea circus website http://www.fortunecity.co.uk/southbank/pottery/768/index.html&lt;/ref&gt; in the mid-1990s. His comic strips are mostly autobiographical similar to [[Robert Crumb]] or [[Chester Brown]]. His art influences are [[David Law]] and [[Hergé]]. He drew a comic strip "Bad Feedback" in which he remembers his time in university having his comics rejected.
+
+He wrote reviews in the 1990s small press [[zine]] ''Zum!''&lt;ref&gt;website at http://www.zumcomics.info/&lt;/ref&gt; He also wrote for ''[[Story Paper Collectors' Digest]]'', a magazine about British boys' [[story paper]] fiction. He wrote reports on "The Old Boys' Bookclub". Pratt is a historian on [[British comics]] and wrote reviews and drew comics in ''[[Psychopia]]'' the zine of British comics. He drew many multi artist "jam strips" in the zine including "Martian Jam" and "Stranded on the M25".
+
+As the [[British Film Institute]] fiction film curator he brought the first screening of [[Stanley Long]]'s ''Primitive London'' film.&lt;ref&gt;{{cite web|url=http://www.resonancefm.com/listings/20070127.html |title=Archived copy |accessdate=February 2, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070219035038/http://www.resonancefm.com/listings/20070127.html |archivedate=February 19, 2007 }}&lt;/ref&gt;&lt;ref&gt;[http://www.fayrstede.com/news3.htm Fayrestede Productions Ltd - The Homepage of Stanley Long]&lt;/ref&gt; He brought to the National Film Theatre the first screening of the live-action ''[[The Adventures of Tintin]]'' film ''Tintin and the Golden Treasure''.&lt;ref&gt;[http://forbiddenplanet.co.uk/blog/?p=3003 The Forbidden Planet International Blog Log » Tintin at the NFT]&lt;/ref&gt; As National Film Archive curator he introduces [[Rupert Bear]] Night with special guests [[Mary Turner]] creator of the puppet show and [[Terry Jones]] ([[Monty Python]]).&lt;ref&gt;[http://www.bfi.org.uk/whatson/bfi_southbank/events/rupert_bear_night Rupert Bear Night | What's On] {{webarchive |url=https://web.archive.org/web/20080220231538/http://www.bfi.org.uk/whatson/bfi_southbank/events/rupert_bear_night |date=February 20, 2008 }}&lt;/ref&gt;
+
+In his spare time he plays and sings in country-folk-pop group [[Monogram]]&lt;ref&gt;[http://www.monogramophone.com/index.html Monogram homepage - a chamber folk music hall art pop group based in Muswell Hill, London - featuring Corinna reicher, Vic Pratt and Stephen McConnachie]&lt;/ref&gt; with [[Stephen McConnachie]] and [[Corinna Reicher]] they first performed live at [[The Drill Hall]], London in October 2004 and they recorded their first album for the [[Irregular Records]] subsidiary label for new bands, Unlabelled. He also played and sang in humorous music hall novelty-pop group Dylan Rabbit.&lt;ref&gt;Full name is ''The Dylan Rabbit Pop Circus Orchestra'' https://www.youtube.com/watch?v=QJ1OBad2iSk&lt;/ref&gt;
+
+He has also played the leading roles in the Hounslow films of director Jan Manthey&lt;ref&gt;[http://kinokarno.tripod.com/id9.html Filmography] {{webarchive |url=https://web.archive.org/web/20080518001403/http://kinokarno.tripod.com/id9.html |date=May 18, 2008 }}&lt;/ref&gt; He has acted in films such as ''[[Teenagecstasy]]''.&lt;ref&gt;[http://kinokarno.tripod.com/id2.html Teenage Ecstasy] {{webarchive |url=https://web.archive.org/web/20080704025757/http://kinokarno.tripod.com/id2.html |date=July 4, 2008 }}&lt;/ref&gt;
+
+He sent a drawing of himself to [[Robert Crumb]] asking him to draw himself shaking Vic's hand. The art can be seen in the 1974 comic book [[American Splendor|''Odds &amp; Ends'']].&lt;ref&gt;[https://www.amazon.com/Odds-Ends-R-Crumb/dp/1582341362 Amazon.com: Odds &amp; Ends: Books: R. Crumb]&lt;/ref&gt;
+
+==References==
+{{reflist|2}}
+
+==External links==
+* http://www.fortunecity.co.uk/southbank/pottery/768/organists.html
+
+{{DEFAULTSORT:Pratt, Vic}}
+[[Category:British comics writers]]
+[[Category:Living people]]</text>
+      <sha1>sgyw2nzx1x997nifqr97t8lw0d13h13</sha1>
+    </revision>
+  </page>
+</mediawiki>

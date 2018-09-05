@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jay Pharoah</title>
+    <ns>0</ns>
+    <id>28741729</id>
+    <revision>
+      <id>856112844</id>
+      <parentid>856112357</parentid>
+      <timestamp>2018-08-22T23:49:38Z</timestamp>
+      <contributor>
+        <ip>173.165.90.157</ip>
+      </contributor>
+      <comment>/* Film and television */Add link ref</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8959">{{Infobox person
+| name                    = Jay Pharoah
+| image                   = Jay Pharoah by Gage Skidmore.jpg
+| caption                 = Pharoah in June 2016.
+| birth_name              = Jared Antonio Farrow
+| birth_date              = 
+| birth_place             = [[Chesapeake, Virginia]], U.S.
+| occupation              = Actor, comedian, rapper
+| years_active            = 2010–present 
+}}
+'''Jared Antonio Farrow''', better known by his stage name '''Jay Pharoah''', is an American actor, stand-up comedian, [[impressionist (entertainment)|impressionist]], and rapper. He joined the cast of [[NBC]]'s ''[[Saturday Night Live]]'' in 2010, for its [[Saturday Night Live (season 36)|thirty-sixth season]].&lt;ref name=WashingtonPost&gt;{{cite news |author= |coauthors= |title=Virginia native Jay Pharoah snags cast spot on "Saturday Night Live"; will he be their new Obama? Pharoah also raps|url=http://voices.washingtonpost.com/reliable-source/2010/09/this_just_in_saturday_night_li.html |quote= |work=[[Washington Post]] |date=September 8, 2010 |accessdate=2010-09-27 }}&lt;/ref&gt; In 2015, he was ranked the 55th greatest ''Saturday Night Live'' cast member by ''[[Rolling Stone]]'' magazine.&lt;ref name="rollingstone.com"&gt;{{Cite web|url=https://www.rollingstone.com/tv/lists/saturday-night-live-all-141-cast-members-ranked-20150211/55-jay-pharoah-20150211|title=55. Jay Pharoah - 'Saturday Night Live': All 141 Cast Members Ranked|website=Rolling Stone|access-date=2016-06-12}}&lt;/ref&gt;
+
+==Early life== 
+
+Pharoah began doing impersonations at age six and cites [[Gilbert Gottfried]]'s character in ''[[Aladdin (1992 Disney film)|Aladdin]]'', [[Iago (Aladdin)|Iago]], as his first voice, explaining, "My father put me in a talent competition a couple of months later, and out of the whole thing I got fifth place."&lt;ref name=FabFour&gt;Moynihan, Rob. "''SNL''{{'}}s Fab Four", ''[[TV Guide]]'', March 7, 2011, Pages 44-45&lt;/ref&gt;
+
+In 2005, Pharoah graduated from [[Indian River High School (Virginia)|Indian River High School]] in Chesapeake. One of his characters, Principal Daniel Frye, is heavily influenced by IRHS's former principal,&lt;ref&gt;{{cite web|author=The Virginian-Pilot© June 12, 2014 |url=http://hamptonroads.com/2014/06/after-27-years-indian-river-principal-james-frye-retires# |title=After 27 years, Indian River Principal James Frye retires|publisher=HamptonRoads.com |date=2014-06-12 |accessdate=2014-11-11}}&lt;/ref&gt; James Frye.&lt;ref&gt;{{cite web|author=The Virginian-Pilot© December 14, 2010 |url=http://hamptonroads.com/2010/12/jay-pharoah-pays-tribute-his-chesapeake-principal-snl |title=Jay Pharoah pays tribute to his Chesapeake principal on 'SNL'|publisher=HamptonRoads.com |date=2010-12-14 |accessdate=2012-01-15}}&lt;/ref&gt; Pharoah went on to study business at [[Tidewater Community College]] and [[Virginia Commonwealth University]].&lt;ref name=WashingtonPost/&gt;
+
+==Career==
+[[File:Jay Pharoah.jpg|thumb|right|Pharoah at The Stand in June 2016.]]
+Pharoah has been performing stand-up comedy in community theaters and at comedy clubs in Virginia since he was 15.&lt;ref&gt;Sources conflict on when he started standup. The [http://voices.washingtonpost.com/reliable-source/2010/09/this_just_in_saturday_night_li.html ''Washington Post''] source indicates he started at 15.&lt;/ref&gt; He at one point toured with [[Corey Holcomb]] and [[Charlie Murphy]].&lt;ref name=WashingtonPost/&gt; He became known for his many celebrity impressions,&lt;ref&gt;{{cite web|url=http://www.nbcuniversal.presscentre.com/content/detail.aspx?ReleaseID=1683&amp;NewsAreaId=2 |title=NBC'S 'SATURDAY NIGHT LIVE' PREMIERES SEPTEMBER 25 WITH SNL ALUM AMY POEHLER &amp; CHART-TOPPING MUSICAL GUEST KATY PERRY |publisher=Nbcuniversal.presscentre.com |date=2010-09-07 |accessdate=2012-01-15}}&lt;/ref&gt; including [[Barack Obama]], [[Will Smith]], [[Jay-Z]], [[50 Cent]], [[Eddie Murphy]], [[Charlie Murphy]], [[Chris Rock]], [[Kanye West]], [[Stephen A. Smith]], and [[Denzel Washington]].&lt;ref name=WashingtonPost/&gt;
+
+Pharoah can also be seen on an episode of MTV's Yo Momma. {{Citation needed|date=July 2018}} 
+
+Pharoah became an internet phenomenon when his impersonation of [[Barack Obama]] became widely seen on [[YouTube]]. In early 2010, Pharoah appeared in a series of segments that aired on ''[[106 &amp; Park]]'' in promotion for the [[BET Awards|2010 BET Awards]], where his character had to deliver an important package for television personalities [[Rocsi]] and [[Terrence Jenkins|Terrence J]].&lt;ref name=WashingtonPost/&gt;&lt;ref name=FabFour/&gt;
+
+===2010&amp;ndash;2016: ''Saturday Night Live''===
+In 2010, Pharoah was hired by ''[[Saturday Night Live]]'' as a featured player for the show's 36th season. Pharoah debuted on ''Saturday Night Live'' on September 25, 2010 and was regarded by Rob Moynihan of ''[[TV Guide]]'' as the "breakout player" for that season, for his impersonations of [[Barack Obama]], [[Ben Carson]], [[Kanye West]], [[Jay-Z]], [[Stephen A. Smith]], [[Will Smith]], [[Eddie Murphy]], [[Tracy Morgan]], [[Chris Rock]], [[Chris Tucker]], [[Michael Strahan]], [[Lil Wayne]], [[Kendrick Lamar]], and [[Denzel Washington]].&lt;ref name=WashingtonPost/&gt;&lt;ref name=FabFour/&gt; He debuted his ''SNL'' impersonation of Barack Obama in the 38th season premiere on September 15, 2012, succeeding [[Fred Armisen]] in that role.&lt;ref name=TVGuide&gt;"Inbox". ''[[TV Guide]]''. October 8, 2012.&lt;/ref&gt; ''[[Rolling Stone]]'' magazine described him as the "Jimmy Fallon of 2 Chainz impressions."&lt;ref name="rollingstone.com"/&gt;
+
+Pharoah appeared in the independent film ''[[Lola Versus]]'', released by [[Fox Searchlight Pictures]] in June 2012. In 2014, he had a small role in the buddy cop film ''[[Ride Along (film)|Ride Along]]'', starring [[Ice Cube]] and [[Kevin Hart]], and appeared in the independent film ''[[Balls Out (2014 film)|Balls Out]]'', a sport comedy starring fellow ''SNL'' cast members [[Beck Bennett]] and [[Kate McKinnon]].&lt;ref name=HuffPost&gt;{{cite web|url=http://www.huffingtonpost.com/2013/07/24/kate-mckinnon-shooting-intramural-in-austin-this-summer_n_3646030.html|title=Kate McKinnon, Jay Pharoah Shooting Indie 'Intramural' In Austin This Summer|last=Luippold|first=Ross|work=[[The Huffington Post]]|date=2013-07-24|accessdate=2014-03-10}}&lt;/ref&gt;
+
+In 2016, he appeared in a [[Television advertisement|commercial]] for [[Old Navy]],&lt;ref&gt;{{Cite web|url=http://www.campaignlive.com/article/old-navy-enlists-snl-alums-improvise-series-online-spots/1393554|title=Old Navy enlists ''SNL'' alums to improvise series of online spots|publisher=www.campaignlive.com|access-date=2016-06-12}}&lt;/ref&gt; alongside fellow ''SNL'' cast members [[Nasim Pedrad]] and [[Cecily Strong]]. On August 8, 2016, it was announced Pharaoh alongside fellow cast member [[Taran Killam]] would be exiting the show ahead of its 42nd season.&lt;ref&gt;{{cite web|url=http://shadowandact.com/2016/08/08/jay-pharoah-is-saying-goodbye-to-saturday-night-live-to-pursue-other-opportunities/|title=Jay Pharoah Is Saying Goodbye to 'Saturday Night Live' to Pursue Other Opportunities|website=shadowandact.com}}&lt;/ref&gt; Pharoah hosted the [[American Music Awards of 2016]] with model [[Gigi Hadid]]. Pharoah has been working on his first album with record producer Myles William.&lt;ref&gt;{{cite web|url=http://pitchfork.com/news/67935-jay-pharoah-saturday-night-live-preps-new-mixtape/|title=Jay Pharoah (“Saturday Night Live”) Preps New Mixtape - Pitchfork|website=pitchfork.com}}&lt;/ref&gt;
+
+==Personal Life==
+Since 2017, he has been dating singer Sonna Rele. {{Citation needed|date=July 2018}}
+
+== Filmography ==
+=== Film and television ===
+* ''[[Saturday Night Live]]'' (2010–2016)
+* ''[[Lola Versus]]'' (2012)
+* ''[[Ride Along (film)|Ride Along]]'' (2014)
+* ''[[Balls Out (2014 film)|Balls Out]]'' (2014)
+* ''[[Top Five]]'' (2014)
+* ''Can I Be Me?'' (2015)&lt;ref&gt;https://www.rottentomatoes.com/m/jay_pharoah_can_i_be_me&lt;/ref&gt;
+* ''[[Get a Job (2016 film)|Get a Job]]'' (2016)
+* ''[[Sing (2016 American film)|Sing]]'' (2016) - Meena's Grandfather (voice)
+* ''[[Match Game]]'' (2017)
+* ''[[White Famous]]'' (2017)
+* ''[[Family Guy]]'' (2017) - Kanye Canes (voice, "Don't Be a Dickens on Christmas")
+* ''[[Unsane (film)|Unsane]]'' (2018)
+
+===Video games===
+* ''[[Call of Duty: Infinite Warfare]]'' (2016)
+
+==References==
+{{reflist|40em}}
+
+==External links==
+*{{IMDb name|3982894}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pharoah, Jay}}
+[[Category:21st-century American male actors]]
+[[Category:African-American male comedians]]
+[[Category:African-American comedians]]
+[[Category:African-American male actors]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American male television actors]]
+[[Category:American sketch comedians]]
+[[Category:African-American stand-up comedians]]
+[[Category:Living people]]
+[[Category:Male actors from Virginia]]
+[[Category:Twin people from the United States]]
+[[Category:People from Chesapeake, Virginia]]
+[[Category:Virginia Commonwealth University alumni]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>kzs6uxgizmkjldhz92q36pcdyawgcwq</sha1>
+    </revision>
+  </page>
+</mediawiki>

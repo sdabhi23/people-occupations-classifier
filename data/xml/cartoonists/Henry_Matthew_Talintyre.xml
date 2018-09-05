@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Henry Matthew Talintyre</title>
+    <ns>0</ns>
+    <id>6303461</id>
+    <revision>
+      <id>828462610</id>
+      <parentid>828462580</parentid>
+      <timestamp>2018-03-02T18:11:26Z</timestamp>
+      <contributor>
+        <username>Pablomartinez</username>
+        <id>339602</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/23.136.64.7|23.136.64.7]] ([[User talk:23.136.64.7|talk]]) ([[WP:HG|HG]]) (3.3.3)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="935">{{Unreferenced|date=February 2008}}
+'''Henry Matthew Talintyre''' (1893–1962) was a [[United Kingdom|British]] [[comic strip]] [[artist]] who drew the series 'The Wonderful Adventures of Jerry, Don and Snooker' for [[Jack and Jill (comic)|Jack and Jill]] between 1954 and 1958. The characters were revived from the [[Oojah]] series published in the [[Daily Sketch]] and written by their creator Flo Lancaster (Mrs. Edwardes-Jones).{{Citation needed|date=February 2008}}
+
+Talintyre had previously contributed to the early issues of [[TV Comic]] where he coincidentally drew characters named 'Jack and Jill', unrelated to the characters in the comic of [[Jack and Jill (comic)|that name]].
+
+Born Gateshead Durham 1893. He died in the Chichester area of Britain in 1962, aged 69.
+
+{{DEFAULTSORT:Talintyre, Henry Matthew}}
+[[Category:British comics artists]]
+[[Category:1893 births]]
+[[Category:1962 deaths]]
+
+
+{{UK-comics-creator-stub}}</text>
+      <sha1>83xj32ngfjtybvk6yx42ukzaphqdvah</sha1>
+    </revision>
+  </page>
+</mediawiki>

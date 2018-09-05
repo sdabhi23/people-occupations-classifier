@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Morgan (comedian)</title>
+    <ns>0</ns>
+    <id>535889</id>
+    <revision>
+      <id>846664964</id>
+      <parentid>837583640</parentid>
+      <timestamp>2018-06-20T05:03:35Z</timestamp>
+      <contributor>
+        <username>Alaney2k</username>
+        <id>209266</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */format placenames per wp:canplace using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3011">{{Infobox person
+|name= John Morgan
+|image=John Morgan.gif
+|image_size=
+|caption=
+|birth_date= {{birth date|1930|9|21|mf=y}}
+|birth_place= [[Aberdare, Wales|Aberdare]], [[Wales]]
+|death_date= {{death date and age|2004|11|15|1930|9|21|mf=y}} 
+|death_place= [[Toronto]], Ontario, Canada
+}}
+'''John Morgan''' (September 21, 1930 – November 15, 2004) was a [[Wales|Welsh]]-born [[Canadians|Canadian]] comedian.
+
+Born in [[Aberdare, Wales|Aberdare]], [[Wales]], Morgan played numerous characters on the [[Canadian Broadcasting Corporation|CBC]] [[sketch comedy]] [[television program|television series]] ''[[Royal Canadian Air Farce]]'' from 1993 to 2001 and its predecessor on [[CBC Radio]], including perpetually disgusted [[Scotland|Scotsman]] Jock McBile, socialite Amy De La Pompa, and monosyllabic [[Mike, from Canmore|Mike from]] [[Canmore, Alberta|Canmore]], as well as [[satire|satirical]] portrayals of such prominent individuals as [[Herb Gray]], [[Deborah Grey]], and [[Boris Yeltsin]]. He was a co-founder of the series, and critics called him its heart.
+
+Morgan wrote the [[television pilot|pilot]] for the popular Canadian [[situation comedy|sitcom]], ''[[King of Kensington]]''. He and writing partner [[Martin Bronstein]] were also co-creators of the CBC radio series, ''Funny You Should Say That''. He had his own [[BBC Radio]] series called ''[[It's All in the Mind of John Morgan]]''.
+
+In 2000, he was nominated for a [[Canadian Comedy Award]]. Along with the original cast of [[Air Farce Live|Air Farce]]&amp;nbsp;– [[Roger Abbott]], [[Don Ferguson (actor)|Don Ferguson]] and [[Luba Goy]]&amp;nbsp;– Morgan received the [[Governor General's Performing Arts Award]] for Lifetime Artistic Achievement in 1998.&lt;ref&gt;{{cite web|url=http://ggpaa.ca/award-recipients/1998/the-royal-canadian-air-farce-(roger-abbott-1946-20.aspx|publisher=Governor General's Performing Arts Awards Foundation|accessdate=4 February 2015}}&lt;/ref&gt;
+
+Before launching his comedy career in 1966, Morgan worked as a [[journalist]], [[editing|editor]], [[teacher]], and [[pub]] owner.
+
+On November 15, 2004, Morgan died at his home in [[Toronto]] from a [[myocardial infarction|heart attack]] at the age of 74.
+
+==See also==
+*[[List of comedians]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.airfarce.com/ ''Royal Canadian Air Farce'' official site]
+*{{IMDb name|0604767|John Morgan}}
+*[https://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20041117/OBMORGAN17/TPObituaries/ Obituary from [[The Globe and Mail]]]
+
+{{Royal Canadian Air Farce}}
+{{Authority control}}
+
+{{DEFAULTSORT:Morgan, John}}
+[[Category:Royal Canadian Air Farce]]
+[[Category:1930 births]]
+[[Category:2004 deaths]]
+[[Category:Drinking establishment owners]]
+[[Category:Canadian television personalities]]
+[[Category:Canadian male comedians]]
+[[Category:People from Aberdare]]
+[[Category:Canadian television writers]]
+[[Category:Canadian radio personalities]]
+[[Category:Welsh emigrants to Canada]]
+[[Category:Canadian sketch comedians]]</text>
+      <sha1>kloczwj7d0c19up2pxrz27yqq3uzcya</sha1>
+    </revision>
+  </page>
+</mediawiki>

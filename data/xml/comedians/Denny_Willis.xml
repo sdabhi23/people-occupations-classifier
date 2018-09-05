@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Denny Willis</title>
+    <ns>0</ns>
+    <id>7825567</id>
+    <revision>
+      <id>749497661</id>
+      <parentid>709619771</parentid>
+      <timestamp>2016-11-14T17:24:57Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2558">'''Dennis (Denny) Willis''' (1920 &amp;ndash; March 17, 1995) was a [[Scotland|Scottish]] [[comedian]].
+
+Willis was born as the son of theatre maker [[Dave Willis (comedian)|Dave Willis]], who performed sketches in theatres in Scotland in the 1930s. Willis added many of his father's ideas to his own repertoire. In 1962, Willis had his own television show on [[Associated TeleVision|ATV]], the ''Denny Willis Show''.  In the 1970s he performed in variety in [[Scarborough, North Yorkshire|Scarborough]]. In 1941, Willis became father of daughter [[Bobbie Willis]], who, just like her father and grandfather before her, became a comedian.
+
+Willis is probably best remembered for the act "The Fox Has Left Its Lair", which he performed as ''Denny Willis and the Quorn Quartet'', touring along various theatres in the United Kingdom and elsewhere.
+
+"The Fox Has Left Its Lair" was written by Douglas Furber (words) and Peggy Connor (music); it was originally a novelty item performed by [[Jack Buchanan]] in the ''Charlot Revue'' of 1925.&lt;ref&gt;http://www.ibdb.com/production.asp?ID=9947&lt;/ref&gt; Willis changed some of the lyrics and the order of the verses to suit the act. The original lyrics are as follows:
+
+With each new verse, repeat the previous verses and the chorus.
+
+* There was a fox who left his lair; a red fox, a dead fox.
+* With a yoicks, tally-ho, yo ho! With a yoicks tally-ho yo ho!
+* The huntsman, huntsman blows his horn, a gold horn, a cream horn.
+* Ha ha ha ha ha ha ha, Funny, funny.
+* The babes come bounding out of school, chubby, grubby.
+* All for the Lady Gwendoline, bonny, bony.
+* Behold the bold Sir Geoffrey, dandy, bandy.
+* The wedding bells ring out on high, ding dong, sing song.
+* Sir Geoffrey cried "Egad I will woo her, boo her."
+
+Alternative lines in the Denny Willis version include:
+
+* The hunting huntsman blows his horn...
+* Old grandpa with his wooden leg, limping, limping.
+* Ha ha ha ha ha ha ha ha, silly, billy.
+* The children running home from school, he's barmy, he's barmy.
+* All for the Lady Gwendoline, she's charming, she's charming.
+
+==References==
+{{Reflist|1}}
+
+==External links==
+* {{webarchive |url=https://web.archive.org/web/20091027073814/http://geocities.com/comedy_tributes_uk/willis.html |date=October 27, 2009 |title=Comedy Tribute UK/Denny Willis }}
+* {{YouTube|8WRdJ5wBXpo|"The Fox Has Left Its Lair"}} (recorded at a television show of Dutch broadcaster [[VARA (broadcaster)|VARA]])
+
+{{DEFAULTSORT:Willis, Denny}}
+[[Category:1920 births]]
+[[Category:1995 deaths]]
+[[Category:Scottish male comedians]]</text>
+      <sha1>fwencv4cy1hal19g00bpkc9xhbyd1xg</sha1>
+    </revision>
+  </page>
+</mediawiki>

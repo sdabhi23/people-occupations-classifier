@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Belsky (cartoonist)</title>
+    <ns>0</ns>
+    <id>45295757</id>
+    <revision>
+      <id>837786817</id>
+      <parentid>804912043</parentid>
+      <timestamp>2018-04-23T01:28:53Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (2 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4820">{{Use DMY dates|date=February 2015}}
+{{Use British English|date=February 2015}}
+{{Infobox artist
+| honorific_prefix = 
+| name             = Margaret Belsky&lt;!-- include middle initial, if not specified in birth_name --&gt;
+| honorific_suffix = 
+| image            = &lt;!-- just the pagename, without the File:/Image: prefix or [[brackets]] --&gt;
+| image_size       = 
+| alt              = 
+| caption          = 
+| birth_name       = Margaret Constance Owen&lt;!--only use if different from name--&gt;
+| birth_date       = {{Birth date|1919|06|20|df=y}}
+| birth_place      = [[Wareham, Dorset]]
+| death_date       = {{Death date and age|1989|01|26|1919|06|20|df=y}} 
+| death_place      =
+| resting_place    = 
+| resting_place_coordinates = &lt;!-- {{Coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| nationality      = British
+| education        = Bournemouth School of Art, [[Royal College of Art]]
+| alma_mater       = 
+| known_for        = Illustration and cartoons
+| notable_works    = 
+| style            = 
+| movement         = 
+| spouse           =  [[Franta Belsky]]
+| awards           = &lt;!-- {{awd|award|year|title|role|name}} (optional) --&gt;
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = &lt;!-- {{URL|Example.com}} --&gt;
+| module           =
+| native_name      = 
+| native_name_lang = 
+}}
+'''Margaret Constance Belsky''' ''[[née]]'' Owen, better known by her [[nom de plume]] '''Belsky''', (20 June 1919 – 26 January 1989), was a [[Great Britain|British]] [[cartoonist]] and illustrator.&lt;ref name=":0"&gt;{{cite web|title=Biography: Margaret Belsky|url=http://www.cartoons.ac.uk/artists/margaretbelsky/biography|publisher=The British Cartoon Archive|accessdate=4 February 2015}}&lt;/ref&gt;
+
+Belsky was born on 20 June 1919 in [[Wareham, Dorset]] to Albert Edward Owen and Margaret Constance Davies-Bunton.&lt;ref&gt;{{cite web|last1=Bryant|first1=Mark|title=Belsky [née Owen], Margaret Constance (1919-1989), cartoonist and illustrator|url=http://oxfordindex.oup.com/view/10.1093/ref:odnb/57137|publisher=Oxford Dictionary of National Biography|doi=10.1093/ref:odnb/57137|date=September 2004}}&lt;/ref&gt; She attended the Bournemouth School of Art and later studied engraving and illustration at the [[Royal College of Art]]. Belsky won a cartoon competition for ''[[Punch (magazine)|Punch]]'' in the 1930s.&lt;ref name=":0" /&gt; It was at the Royal College of Art that she met her future husband, [[Czechoslovakia|Czech]] exile and sculptor, [[Franta Belsky]]. Franta introduced her work to editors he knew at the magazine ''[[Lilliput (magazine)|Lilliput]]'', where Belsky became a regular contributor.&lt;ref name=obit&gt;{{cite news|title=Margaret Belsky|url=http://find.galegroup.com/ttda/newspaperRetrieve.do?sgHitCountType=None&amp;sort=DateAscend&amp;tabID=T003&amp;prodId=TTDA&amp;resultListType=RESULT_LIST&amp;searchId=R1&amp;searchType=BasicSearchForm&amp;currentPosition=2&amp;qrySerId=Locale%28en%2C%2C%29%3AFQE%3D%28tx%2CNone%2C15%29Margaret+Belsky%24&amp;retrieveFormat=MULTIPAGE_DOCUMENT&amp;userGroupName=lancs&amp;inPS=true&amp;contentSet=LTO&amp;&amp;docId=&amp;docLevel=FASCIMILE&amp;workId=&amp;relevancePageBatch=IF501758141&amp;contentSet=TDA&amp;callistoContentSet=TDA&amp;docPage=article&amp;hilite=y|accessdate=24 August 2016|work=The Times|date=2 February 1989}}&lt;/ref&gt;
+
+In 1944, Margaret and Franta married, with Belsky taking on her husband's name for her single word signature, disguising her gender.&lt;ref name=obit /&gt; Belsky started working for the ''[[Daily Herald (UK newspaper)|Daily Herald]]'' in 1951 and became their first ever [[pocket cartoon]]ist, at the same time becoming the first woman to draw a daily front-page cartoon.&lt;ref name=":0" /&gt;
+
+Belsky was dismissive of her own work, calling herself "just a hack." She didn't collect her work, though it was estimated that she may have drawn more than 6,000 cartoons while working for the ''Daily Herald''. When the ''Daily Herald'', later ''[[The Sun (United Kingdom)|The Sun]]'', was taken over by [[Rupert Murdoch]] in 1969, Belsky refused to work for him. Instead she contributed cartoons for many other newspapers and magazines, including ''[[The Strand Magazine]]'', ''Punch'', ''[[The Guardian]]'', ''[[John Bull (magazine)|John Bull]]'' and ''[[Sunday Graphic]]''. She also became an illustrator for children's books, including designing the covers for various Penguin books.&lt;ref name=":0" /&gt; Belsky died on 26 January 1989.&lt;ref&gt;{{Cite book|title = Public Sculpture of Greater Manchester|last = Wyke|first = Terry|publisher = Liverpool University Press|year = 2005|isbn = 9780853235675|location = |pages = 437–438}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Belsky}}
+[[Category:1919 births]]
+[[Category:1989 deaths]]
+[[Category:Alumni of the Royal College of Art]]
+[[Category:British cartoonists]]
+[[Category:British illustrators]]
+[[Category:People from Wareham, Dorset]]</text>
+      <sha1>g5tte19uq5wbx96cezqf53p48b2spdz</sha1>
+    </revision>
+  </page>
+</mediawiki>

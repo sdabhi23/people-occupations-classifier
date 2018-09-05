@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Messer</title>
+    <ns>0</ns>
+    <id>7891599</id>
+    <revision>
+      <id>805741380</id>
+      <parentid>805741377</parentid>
+      <timestamp>2017-10-17T10:08:44Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/Awesonesomething|Awesonesomething]] to version by Argento Surfer. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3158172) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3118">{{Use dmy dates|date=August 2015}}
+{{Use Australian English|date=August 2015}}
+{{BLP sources|date=March 2011}}
+
+'''David Messer''' is an [[Australia]]n [[List of cartoonists|cartoonist]].&lt;ref&gt;{{cite news |author=Luke Davies  |title=Hergé and me |url=http://www.smh.com.au/entertainment/movies/herg-and-me-20111201-1o7jw.html |quote= |pages= |work=Sydney Morning Herald |location= |date=3 December 2011  |accessdate=2015-03-07 }}&lt;/ref&gt; He is best known for his comic book adaptations of [[William Shakespeare|Shakespeare's]] ''Macbeth'' and ''The Tempest'', both published in Australia by [[Random House]] in late [[2005 in comics|2005]]. &lt;ref&gt;{{Citation | author1=Jensen, Michael P | title=Comic Book Shakespeare, Part II.(William Shakespeare)(Critical essay) | journal=Shakespeare Newsletter | publication-date=2007-03-22 | publisher=Shakespeare Newsletter | volume=57 | issue=1 | pages=2(6) | issn=0037-3214 }}&lt;/ref&gt;&lt;ref&gt;{{Citation | author1=Jensen, Michael P | title=Comic Book Shakespeare, Part III.(Critical essay) | journal=Shakespeare Newsletter | publication-date=2007-09-22 | publisher=Shakespeare Newsletter | volume=57 | issue=2 | pages=42(7) | issn=0037-3214 }}&lt;/ref&gt; Each book features the full text, complete with footnotes, and close to 1,000 illustrated panels per book. He has produced a full-colour version of "Romeo and Juliet".
+
+Other books he has illustrated include [[Malcolm Knox (author)|Malcolm Knox]]'s humorous history of Australia, ''Australia in 1788 Words or Less'', [[Paul Clitheroe|Paul Clitheroe's]] ''Make Your Fortune by 40'' and ''Why Should I?'' (a guide to the law for children). Messer has also contributed cartoons and illustrations to numerous newspapers and magazines, including the [[The Spectator|Spectator]] in the UK, and the [[The Sydney Morning Herald|Sydney Morning Herald]], the [[The Australian|Australian]], and the [[The Bulletin|Bulletin]] in Australia.&lt;ref&gt;{{Cite web|url=http://www.nma.gov.au/exhibitions/behind_the_lines/about_the_artists|title=About the artists {{!}} National Museum of Australia|website=www.nma.gov.au|access-date=2016-06-27}}&lt;/ref&gt;
+
+Messer has been reviewing books for the [[Sydney Morning Herald]] since at least 2006.&lt;ref&gt;{{cite news |author=David Messer  |title=Struck by Lightning |url=http://www.smh.com.au/news/book-reviews/struck-by-lightning/2006/08/09/1154802931951.html |quote= |pages= |work=Sydney Morning Herald |location= |date=9 August 2006  |accessdate=2015-03-07 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |author=David Messer  |title=How drugs help some musicians to make music |url=http://www.smh.com.au/entertainment/music/how-drugs-help-some-musicians-to-make-music-20140811-102n4n.html |quote= |pages= |work=Sydney Morning Herald |location= |date=15 August 2014  |accessdate=2015-03-07 }}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070928174319/http://www.davidmesser.com/ David Messer's website] 
+
+{{DEFAULTSORT:Messer, David}}
+[[Category:Australian cartoonists]]
+[[Category:Living people]]
+[[Category:Australian journalists]]
+
+{{Australia-artist-stub}}
+{{cartoonist-stub}}
+{{journalist-stub}}</text>
+      <sha1>o450ypob2s7rhpmddtfj6ib5uo58xu6</sha1>
+    </revision>
+  </page>
+</mediawiki>

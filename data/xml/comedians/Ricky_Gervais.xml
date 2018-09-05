@@ -1,0 +1,824 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ricky Gervais</title>
+    <ns>0</ns>
+    <id>163282</id>
+    <revision>
+      <id>855591527</id>
+      <parentid>854844862</parentid>
+      <timestamp>2018-08-19T12:32:40Z</timestamp>
+      <contributor>
+        <username>ZIP1972</username>
+        <id>1783301</id>
+      </contributor>
+      <comment>/* Television */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="108940">{{Use British English|date=January 2013}}
+{{Use dmy dates|date=November 2017}}
+{{Infobox comedian
+| image           = Ricky Gervais 2010.jpg
+| image_size      = 
+| caption         = Gervais in October 2010
+| birth_name      = Ricky Dene Gervais
+| birth_date      = {{birth date and age|df=yes|1961|6|25}}
+| birth_place     = [[Reading, Berkshire]], England
+| alma_mater      = [[University College London]]
+| medium          = [[Stand-up comedy|Stand-up]], [[television]], [[film]], [[book]]s, [[radio]], [[music]]
+| genre           = [[Black comedy]],&lt;ref name="pbh"&gt;{{cite web|title=10 Great Ricky Gervais Quotes On Life, God, And Humor|publisher=[[PBH Network]]|url=http://www.prosebeforehos.com/quote-of-the-day/08/16/ricky-gervais-quotes/#1}}&lt;/ref&gt; [[cringe comedy]],&lt;ref name="pbh"/&gt; [[observational comedy]],&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/news/uk/this-britain/scientists-find-the-perfect-comedy-face-ricky-gervais-6230184.html|title=Scientists find the perfect comedy face: Ricky Gervais|work=Independent|accessdate=23 January 2016|first=Matthew|last=Beard|date=9 November 2016}}&lt;/ref&gt; [[satire]],&lt;ref&gt;{{cite news|url=https://www.wsj.com/articles/SB10001424052702304610404579405222905774180/|title=Ricky Gervais: Satire, Celebrity and the Muppets|work=The Wall Street Journal|accessdate=23 January 2016|first=Alexandre|last=Wolfe|date=28 February 2014}}&lt;/ref&gt; [[insult comedy]],&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/film/what-to-watch/golden-globes-ricky-gervais-best-quotes/|title=Golden Globes: Ricky Gervais's 19 harshest insults|work=The Telegraph|accessdate=23 January 2016|date=9 January 2016}}&lt;/ref&gt; [[comedy music|musical comedy]]
+| influences      = [[Groucho Marx]],&lt;ref&gt;{{cite book|year=2010|first=Stewart |last=Lee|isbn=978-0-571-25482-8|title=How I Escaped My Certain Fate|publisher=Faber and Faber Ltd}}&lt;/ref&gt; [[Stan Laurel]],&lt;ref name="hyena"&gt;{{cite web|url=http://www.hyenaproductions.com/ricky-gervais.aspx|title=Ricky Gervais 2008|work=Hyena Production|accessdate=23 May 2015}}&lt;/ref&gt; [[Ollie Hardy]],&lt;ref name="hyena"/&gt; [[Peter Cook]],&lt;ref name="hyena"/&gt; [[Christopher Guest]]&lt;ref&gt;{{cite news|url=http://www.boston.com/ae/movies/articles/2009/09/27/ricky_gervais_doesnt_want_to_be_everyones_funnyman/|title=Lining up for Ricky|work=Boston.com|accessdate=23 May 2015|first=Matthew|last=Gilbert|date=27 September 2009}}&lt;/ref&gt;
+| influenced      = 
+| active          = 1982–present
+| domesticpartner = [[Jane Fallon]]&lt;br /&gt;(1982–present)
+| website         = {{url|rickygervais.com}}
+| module          =&lt;center&gt;{{Listen|embed=yes|filename=Ricky Gervais BBC Radio4 Desert Island Discs 24 June 2007 b007qsrj.flac|title=&lt;center&gt;Ricky Gervais' voice&lt;/center&gt;|type=speech|description=&lt;center&gt;[[:File:Ricky Gervais BBC Radio4 Desert Island Discs 24 June 2007 b007qsrj.flac|Recorded June 2007]] from the BBC Radio 4 programme ''[[Desert Island Discs]]''&lt;/center&gt;}}&lt;/center&gt;
+}}
+
+'''Ricky Dene Gervais'''&lt;ref name="empire-podcast"&gt;{{cite web|title=#242: Ricky Gervais, Forest Whitaker|url=https://soundcloud.com/empiremagazine/242-ricky-gervais-forest-whitaker|publisher=Empire Magazine|accessdate=17 December 2016|date=16 December 2016}}&lt;/ref&gt; ({{IPAc-en|dʒ|ər|ˈ|v|eɪ|z}}; born 25 June 1961)&lt;ref name=tvg&gt;{{cite web| url=http://www.tvguide.com/celebrities/ricky-gervais/192043/| title= Ricky Gervais| publisher=[[TV Guide|TVGuide.com]] | accessdate= 26 October 2015| archiveurl =https://web.archive.org/web/20150907054824/http://www.tvguide.com/celebrities/ricky-gervais/192043 | archivedate= 7 September 2015| deadurl=no}}&lt;/ref&gt; is an English stand-up comedian, actor, writer, producer, director, and singer.
+
+Gervais worked initially in the music industry, attempting a career as a pop star in the 1980s as the singer of the [[new wave music|new wave]] act [[Seona Dancing]] and working as the manager of the then-unknown band [[Suede (band)|Suede]] before turning to comedy. Gervais appeared on ''[[The 11 O'Clock Show]]'' on Channel 4 between 1998 and 2000. In 2000, he was given a [[Channel 4]] talk show, ''[[Meet Ricky Gervais]]'', and then achieved greater mainstream fame a year later with his BBC television series ''[[The Office (UK TV series)|The Office]]''. It was followed by ''[[Extras (TV series)|Extras]]'' in 2005. He co-wrote and co-directed both series with [[Stephen Merchant]]. In addition to writing and directing the shows, he played the lead roles of [[David Brent]] in ''The Office'' and [[Andy Millman]] in ''Extras''. He reprised his role as Brent in the comedy film ''[[Life on the Road]]''.
+
+Gervais began his stand-up career in the late 1990s. He has performed five multi-national stand-up comedy tours and wrote the ''[[Flanimals]]'' book series. Gervais, Merchant and [[Karl Pilkington]] created the [[podcast]], ''[[The Ricky Gervais Show]]'', which has spawned various spin-offs starring Pilkington and produced by Gervais and Merchant.&lt;ref name="Plunkett"&gt;{{cite news|url=http://media.guardian.co.uk/site/story/0,,1703591,00.html|title=Gervais podcast in the record books|work=[[The Guardian]]|first=John|last=Plunkett|date=6 February 2006|accessdate=27 March 2010|location=London}}&lt;/ref&gt;
+
+He has also starred in the Hollywood films ''[[Ghost Town (2008 film)|Ghost Town]]'', and ''[[Muppets Most Wanted]]'', and wrote, directed and starred in ''[[The Invention of Lying]]'' and the [[Netflix]] released ''[[Special Correspondents]]''. He hosted the [[Golden Globe Awards]] in 2010, 2011, 2012 and 2016, and appears on the game show ''[[Child Support (U.S. game show)|Child Support]]''.
+
+Gervais has won seven [[BAFTA Awards]], five [[British Comedy Awards]], two [[Emmy Awards]], three [[Golden Globe Awards]] and the 2006 [[Rose d'Or]], as well as a [[Screen Actors Guild Award]] nomination. In a 2004 poll for the BBC, he was named the third most influential person in [[Culture of the United Kingdom|British culture]].&lt;ref&gt;{{cite news|title=iPod designer voted UK's most influential cultural icon|url=https://www.theregister.co.uk/2004/02/12/ipod_designer_voted_uks_most/|agency=The Register|date=17 November 2016}}&lt;/ref&gt; In 2007, he was voted the 11th greatest stand-up comic on [[Channel 4]]'s 100 Greatest Stand-Ups&lt;ref&gt;{{cite web|url=http://www.comedy.co.uk/guide/tv/100_greatest_stand_ups/episodes/1/1/|title=Episode 1.1 The 100 Greatest Stand-Ups 2007|publisher=Comedy.co.uk|accessdate =25 January 2015}}&lt;/ref&gt; and again in the updated 2010 list as the 3rd greatest stand-up comic.&lt;ref&gt;{{cite web|url=http://www.comedy.co.uk/guide/tv/100_greatest_stand_ups/episodes/1/2/|title=Episode 1.2 The 100 Greatest Stand-Ups 2010|publisher=Comedy.co.uk|accessdate =25 January 2015}}&lt;/ref&gt; In 2010, he was named on the ''[[Time 100]]'' list of the world's most influential people.&lt;ref&gt;{{cite news|url=http://content.time.com/time/specials/packages/article/0,28804,2058044_2060338_2060076,00.html|title=Ricky Gervais The 2010 Time 100 Poll|work=[[Time (magazine)|Time]]|accessdate=25 January 2015|date=4 April 2011}}&lt;/ref&gt;
+{{TOC limit|limit=2}}
+
+==Early life==
+Gervais was born at [[Battle Hospital]] in [[Reading, Berkshire|Reading]]. He was raised in [[Whitley, Berkshire|Whitley]], along with brother Larry (born 1945), sister Marsha (born 1948), and brother Robert (born 1950).&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/news/people/profiles/ricky-gervais-a-lucky-man-lurks-behind-david-brent--but-just-who-is-he-611664.html |title=Ricky Gervais: A lucky man lurks behind David Brent – but just who is he? |work=[[The Independent]] |location=UK |date=21 December 2002 |accessdate=24 September 2010 |first=Robert |last=Hanks |deadurl=yes |archiveurl=https://web.archive.org/web/20090905174339/http://www.independent.co.uk/news/people/profiles/ricky-gervais-a-lucky-man-lurks-behind-david-brent--but-just-who-is-he-611664.html |archivedate=5 September 2009 }}&lt;/ref&gt; His father, Lawrence Raymond "Jerry" Gervais (1919–2002), a [[Franco-Ontarian]] from [[Pain Court, Ontario]], emigrated while on foreign duty during the [[Second World War]] and worked as a labourer and hod carrier.&lt;ref name="telegraphuk"&gt;{{cite news|url=https://www.telegraph.co.uk/culture/comedy/8722858/Ricky-Gervais-Dont-ask-me-the-price-of-milk-I-fly-by-private-jet.html |title=Ricky Gervais: Don’t ask me the price of milk - I fly by private jet |newspaper=The Telegraph |date=26 August 2011 |first=Bryony |last=Gordon |accessdate=28 August 2014 |location=London}}&lt;/ref&gt; He met Gervais' mother, Eva Sophia (''née'' House; 1925–2000),&lt;ref name="huffingtonpost"&gt;{{cite news|url=http://www.huffingtonpost.com/megan-smolenyak-smolenyak/you-asked-for-it-ricky-ge_b_531001.html|title=You Asked for It, Ricky Gervais!|publisher=The Huffington Post|date=8 April 2010|first=Megan|last=Smolenyak|accessdate=24 September 2010}}&lt;/ref&gt; who was [[English people|English]], during a [[Blackout (wartime)|blackout]]; they settled in Whitley. She died, aged 74, of lung cancer.&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.com/ginny-dougary/ricky-gervais-in-his-most_b_524351.html|title=Ricky Gervais in his most 'postmodern' interview ever|publisher=The Huffington Post|date=3 June 2010|accessdate=24 September 2010|first=Ginny|last=Dougary}}&lt;/ref&gt;
+
+He attended Whitley Park Infants and Junior Schools, and received his secondary education at Ashmead Comprehensive School; after a spell as a gardener at the [[University of Reading]], he moved on to [[University College London]] in 1980.&lt;ref&gt;{{harvnb|Heatley|2006|pages=23, 28}}{{clarify|reason=no matching full citation;|date=April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Francesca Perryman |url=http://www.getreading.co.uk/whats-on/whats-on-news/happy-birthday-ricky-gervais-plus-11516111 |title=Happy Birthday Ricky Gervais! Plus nine reasons why we think he's awesome |publisher=Get Reading |date=25 June 2016 |accessdate=10 November 2017}}&lt;/ref&gt; He intended to study [[biology]] but changed to philosophy after two weeks, and earned an [[Second-class honours|upper second-class honours]] degree in the subject.&lt;ref&gt;{{cite web|url=http://www.hellomagazine.com/profiles/ricky-gervais/|title=Ricky Gervais|work=Hello Magazine|accessdate= 25 January 2015}}&lt;/ref&gt; During his time at UCL, he met [[Jane Fallon]], with whom he has been in a relationship since 1982.&lt;ref&gt;[https://www.telegraph.co.uk/culture/5158001/Ricky-Gervais-Grumpy-middle-aged-man.html "Ricky Gervais: Grumpy middle-aged man"], ''[[The Daily Telegraph]]''&lt;/ref&gt;
+
+==Career==
+
+===Music===
+In 1983, during his final year as a student at UCL (University College London), Gervais and college friend [[Bill Macrae]] formed the [[New wave music|new wave]] pop [[Musical ensemble|duo]], [[Seona Dancing]]. They were signed by [[London Records]], which released two of their singles—"[[More to Lose]]" and "[[Bitter Heart (song)|Bitter Heart]]". The songs failed to chart inside the UK top 75.&lt;ref&gt;{{cite book |editor=David Roberts |title=British Hit Singles and Albums|year=2006|publisher=Guinness World Records Limited|isbn=978-1904994107}}&lt;/ref&gt; Despite not being successful in the UK, Seona Dancing did manage to score a hit in the [[Philippines]] with "More to Lose".&lt;ref&gt;{{cite web|url=http://www.salon.com/2011/01/26/ricky_gervais_pop_band/|title=Ricky Gervais' career as an 80's glam-pop star|publisher=Salon|accessdate=25 January 2015}}&lt;/ref&gt; He also worked as the manager for [[Suede (band)|Suede]] before they became successful in the 1990s.&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/showbiz/news/a321491/brett-anderson-praises-ex-manager-ricky-gervais.html#~p2t6TtO7XcwBvE|title=Brent Anderson Praises Ex-manager Ricky Gervais|publisher=Digital Spy|first=Tom |last=Eames|accessdate=25 January 2015}}&lt;/ref&gt;
+
+In 2013, Gervais performed a live tour as [[David Brent]] along with a band under the name "Foregone Conclusion". Gervais and the band performed songs written under the Brent character including songs such as "Equality Street" and "[[Free Love Freeway]]".&lt;ref&gt;{{cite web|url=http://www.nme.com/news/various-artists/73215 |title=Ricky Gervais plays debut David Brent show with former Razorlight star in London |work=[[NME]] |date=14 October 2013 |accessdate=25 January 2015}}&lt;/ref&gt; Gervais also produced a series of YouTube videos under the title 'Learn Guitar with David Brent', featuring acoustic guitar versions of nine songs.
+
+In 2016, as part of the ''Life on Road'' film promotion, Gervais published the ''David Brent Songbook'' &lt;ref&gt;{{cite web|url=https://www.amazon.co.uk/dp/B01HBPUIC6/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1 |title=David Brent Songbook eBook: David Brent: Amazon.co.uk: Kindle Store |publisher=Amazon.co.uk |date= |accessdate=10 November 2017}}&lt;/ref&gt; containing 15 songs. These were also recorded for the album ''Life on the Road'', under the name of David Brent and Foregone Conclusion.
+
+===Radio===
+Gervais worked as an [[event management|assistant events manager]] for the [[University of London Union]] (ULU), then moved from ULU to a job as head of speech at the alternative radio station [[XFM|Xfm]].&lt;ref&gt;{{cite web|url=http://www.newstatesman.com/comedy/2010/12/ricky-gervais-ince-office|title=Ricky Gervais: They Call Me Entertainment|work=[[New Statesman]]|accessdate=25 January 2015}}&lt;/ref&gt; Needing an assistant, Gervais interviewed the first person whose ''[[curriculum vitae]]'' he saw. It belonged to [[Stephen Merchant]].&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2010/02/14/arts/television/14gervais.html?pagewanted=all&amp;_r=0|title=Three Mates Laughing (Well, Two Are) |work=[[The New York Times]]|accessdate=25 January 2015|first=Dave|last=Itzkoff|date=12 February 2010}}&lt;/ref&gt; In 1998 Gervais was made [[Layoff|redundant]] when the station was taken over by the [[Capital Radio]] group.&lt;ref&gt;{{cite web|url=http://www.cityoffilms.com/reel-news/the-podfather-ricky-gervais/|title=XFM &amp; The Podfather: Ricky Gervais Week|work=City of Film|first=Graham|last=McMorrow|accessdate=21 January 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150121193147/http://www.cityoffilms.com/reel-news/the-podfather-ricky-gervais/|archivedate=21 January 2015|df=dmy-all}}&lt;/ref&gt; Around this time he was also a regular contributor to [[Mary Anne Hobbs]]' Radio 1 show, performing vox pop interviews in unlikely locations.&lt;ref&gt;{{cite book |last=Worthington |first=Tim |date=2012 |title=Fun At One: The Story Of Comedy At BBC Radio 1 |url= |location= |publisher=Lulu Press |page= |isbn=}}&lt;/ref&gt;
+
+After the first series of ''[[The Office (UK TV series)|The Office]]'', Gervais and Merchant returned to [[Xfm]] in November 2001 for a Saturday radio show. This was when the pair first worked with [[Karl Pilkington]], who produced the shows and later collaborated with them on their series of [[podcast]]s.&lt;ref&gt;{{cite web|url=http://www.gigwise.com/news/5930/ricky-gervais-and-stephen-merchant-return-to-xfm|title=Ricky Gervais and Stephen Merchant Return to Xfm|work=Gigwise |accessdate=21 January 2015}}&lt;/ref&gt; In October 2017, Gervais began hosting the weekly radio show ''Ricky Gervais Is Deadly Sirius'' on [[Sirius XM Holdings|Sirius XM]].&lt;ref&gt;{{cite web|last1=Spangler|first1=Todd|title=Ricky Gervais on New SiriusXM Talk Show: They ‘Made Me an Offer I Couldn’t Refuse’|url=https://variety.com/2017/digital/news/ricky-gervais-siriusxm-comedy-talk-show-1202593641/|website=[[Variety (magazine)|Variety]]|accessdate=21 October 2017|date=18 October 2017}}&lt;/ref&gt;
+
+====Podcast====
+{{See also|The Ricky Gervais Show|List of The Ricky Gervais Show episodes}}
+On 5 December 2005, ''[[Guardian Unlimited]]'' began offering free weekly [[podcast]]s, including ''[[The Ricky Gervais Show]]'' featuring Gervais, Merchant, and [[Karl Pilkington]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/4479230.stm|title=Gervais radio show to be podcast |date= 28 November 2005|publisher=BBC|accessdate=25 January 2015}}&lt;/ref&gt; Throughout January and February 2006 the podcast was consistently ranked the number-one podcast in the world; it appeared in the 2007 [[Guinness World Record]] for the world's most-downloaded podcast, having gained an average of 261,670 downloads per episode during its first month.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/media/2006/feb/06/radio.newmedia|title=Gervais podcast in the record books|work=The Guardian|accessdate=4 October 2015}}&lt;/ref&gt; Two more series—each with six podcasts—were released between February and September 2006.
+
+In late 2006, three more free podcasts were released. Together called "The Podfather Trilogy", they debuted individually at Halloween, Thanksgiving and Christmas.&lt;ref&gt;{{cite web|url=https://www.amazon.co.uk/The-Podfather-Trilogy-Season-Gervais/dp/B002SPXUZC|title=The Podfather Trilogy|publisher=Amazon.co.uk|accessdate=31 January 2015}}&lt;/ref&gt; These three were known by Ricky and Steve as "The Fourth Season". In October 2007 another free full-length podcast was released through iTunes; this podcast was originally given out for free during a performance of Gervais' ''[[Fame (comedy)|Fame]]'' stand-up tour in London. On 25 November 2007 Gervais, Merchant and Pilkington released another free full-length podcast, which lasted just over an hour.
+
+In August 2008, Gervais, Merchant and Pilkington recorded their fifth season of [[audiobook]]s, totaling 4 chapters, which were released on 16 September 2008. These audiobooks were described as the 'guide to...' series, covering several topics. As of May 2011, there are 12 "Guides" in total: Medicine, Natural History, Arts, Philosophy, The English, Society, Law &amp; Order, The Future, The Human Body, The Earth, The [[World Cup 2010]], and [[Comic Relief]].&lt;ref&gt;{{cite web|url=https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=The+ricky+gervais+guide+to|title=The Ricky Gervais Guide to...|publisher=Amazon.co.uk|accessdate=31 January 2015}}&lt;/ref&gt; The conversations typically begin on topic, but constantly stray away from the topic at hand.
+
+===Television===
+
+====Early television appearances====
+[[File:RickyGervaisBAFTA07.jpg|thumb|upright|Gervais at the [[60th British Academy Film Awards]] in 2007]]
+Gervais has contributed to the [[BAFTA]]-winning ''[[The Sketch Show]]'' (ITV), penning several sketches. His mainstream-TV debut came in September 1998 as part of [[Channel 4]]'s "Comedy Lab" series of pilots. His one-off show ''[[Golden Years (TV programme)|Golden Years]]'' focused on a [[David Bowie]]–obsessed character called Clive Meadows.&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/movies/pictures/the-long-funny-career-of-ricky-gervais-20110404/golden-years-1998-0520409Aa|title=The Long, Funny Career of Ricky Gervais|work=[[Rolling Stone]]|first=Tom |last=Eames|accessdate=25 January 2015}}&lt;/ref&gt;
+
+Gervais then came to much wider national attention with an obnoxious, cutting persona featured in a topical slot that replaced [[Ali G]]'s segments on the satirical Channel 4 comedy programme ''[[The 11 O'Clock Show]]'' in early 1999, in which his character used as many [[Profanity|expletive]]s as was possible and produced an inordinate amount of politically incorrect statements. Among the other regular featured comedians on the show was [[Mackenzie Crook]], later a co-star of ''[[The Office (UK TV series)|The Office]]''. Two years later, Gervais went on to present his own comedy chat show for Channel 4 called ''[[Meet Ricky Gervais]]''; it was poorly received and has since been mocked by Gervais himself.
+
+Throughout this time, Gervais also wrote for the BBC sketch show ''[[Bruiser (TV series)|Bruiser]]'' and ''The [[Jim Tavare]] Show.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/comedy/people/ricky_gervais_person_page.shtml|title=Comedy People A-Z Ricky Gervais
+|publisher=BBC|accessdate=25 January 2015}}&lt;/ref&gt;''
+
+====''The Office''====
+{{Main|The Office (UK TV series)}}
+''[[The Office (UK TV series)|The Office]]'' started when [[Stephen Merchant]], while on a BBC production course, had to make his own short film. In August 1999 he made a docu-soap parody, set in an office, with help from [[Ash Atalla]], who was shown a 7-minute video called 'The Seedy Boss'. Thus [[David Brent]] was created. Merchant passed this tape on to the BBC's Head of Entertainment [[Paul Jackson (producer)|Paul Jackson]] at the [[Edinburgh Fringe]], who then passed it on to Head of Comedy [[Jon Plowman]], who eventually commissioned a full-pilot script from Merchant and Gervais.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/profiles/story/0,,1250074,.html|title=The Guardian profile: Ricky Gervais
+|work=The Guardian|accessdate=25 January 2015}}&lt;/ref&gt;
+
+The first six-episode series of ''The Office'' aired in the UK in July and August 2001 to little fanfare or attention.&lt;ref&gt;{{cite news|url=http://www.msn.com/en-ph/entertainment/people/ricky-gervais/AA3l0x9|title=Ricky Gervais| publisher=[[MSN]] |accessdate=26 January 2015}}&lt;/ref&gt; Word-of-mouth, repeats, and DVDs helped spread the word, building up momentum and anticipation for the second series, also comprising six episodes.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/profiles/story/0,,1250074,.html|title=The Guardian profile: Ricky Gervais|work=The Guardian|date=26 January 2015}}&lt;/ref&gt; Following the success of ''The Office''{{'s}} second series, Gervais was named the [[Radio Times's Most Powerful People in TV Comedy|most powerful person in TV comedy]] by ''[[Radio Times]]''.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/2631307.stm|title=Gervais crowned 'king of comedy'|date=6 January 2003|publisher=BBC News|location=London|archive-url=https://www.webcitation.org/6tRevTA3J?url=http://news.bbc.co.uk/2/hi/entertainment/2631307.stm|archivedate=13 September 2017|dead-url=no|accessdate=13 September 2017|df=dmy-all}}&lt;/ref&gt;
+
+In 2004, ''The Office'' won the [[Golden Globe]]s for Best Television Series – Musical or Comedy and Best Performance by an Actor in a Television Series – Musical or Comedy for Gervais, who said in a 2015 BBC interview that the award was the gateway to America for him.&lt;ref name=":0"&gt;{{Citation|last=Husam sam Asi|title=What does Ricky Gervais really think of the Golden Globes? - Interview|date=16 January 2016|url=https://www.youtube.com/watch?v=yfbPlRseDPU|accessdate=3 April 2016}}&lt;/ref&gt;
+
+''[[The Office]]'' brand has since been remade for audiences in [[:sv:Kontoret|Sweden]], [[Le Bureau|France]], [[Stromberg (TV series)|Germany]], [[La Job|Quebec]], [[Os Aspones|Brazil]] and the [[The Office (U.S. TV series)|United States]].&lt;ref&gt;{{cite web|url=http://splitsider.com/2011/05/exploring-the-international-franchises-of-the-office/|title=Exploring the International Franchises of The Office|publisher=Splitsider.com|accessdate=27 August 2015}}&lt;/ref&gt; Gervais and Merchant are producers of the American version, and they also co-wrote the episode "[[The Convict]]" for the show's third season.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/4687784.stm|title=Gervais writing US Office episode|publisher=BBC News|accessdate=25 January 2015|date=7 February 2006}}&lt;/ref&gt; Gervais has said that the episode "[[Episode Four (The Office, Series One)|Training]]" is his favourite, where Brent plays his guitar and sings.
+
+====''Extras''====
+{{Main|Extras (TV series)}}
+[[Extras (TV series)|''Extras'']] had its debut on the BBC on 21 July 2005; directed by Ricky Gervais and Stephen Merchant, the sitcom ran for twelve episodes and starred Gervais as Andy Millman, a [[Extra (actor)|background artist]]. Millman is more self-aware and intentionally humorous than Gervais' ''The Office'' character David Brent. Guest stars on the first series of ''Extras'' include [[Ross Kemp]], [[Les Dennis]], [[Patrick Stewart]], [[Vinnie Jones]], [[Samuel L. Jackson]], [[Ben Stiller]], [[Kate Winslet]] and [[Francesca Martinez]]. A second series began on 14 September 2006 in the UK and featured appearances by [[Daniel Radcliffe]], [[Diana Rigg|Dame Diana Rigg]], [[Orlando Bloom]], [[Ian McKellen|Sir Ian McKellen]], [[Chris Martin]], [[Keith Chegwin]], [[Robert Lindsay (actor)|Robert Lindsay]], [[Warwick Davis]], [[Ronnie Corbett]], [[Stephen Fry]], [[Richard Briers]], [[Patricia Potter]], [[Sophia Myles]], [[Moira Stuart]], [[David Bowie]], [[Kate Winslet]], [[Robert De Niro]] and [[Jonathan Ross]].&lt;ref&gt;{{cite news|url=https://www.theguardian.com/culture/tvandradioblog/2007/dec/28/lastnightstvextras |title=Extras attacked celebrity - with a little help from George Michael, David Tennant et al|work=The Guardian|accessdate=25 January 2015}}&lt;/ref&gt;
+
+[[File:JonathanRossRickyGervais.jpg|thumb|Gervais (right) with [[Jonathan Ross]] at [[Live 8]] in July 2005]]
+A Christmas special of ''Extras'' aired on 27 December 2007 in the UK and on 16 December 2007 in the US, featuring guest appearances by [[George Michael]], [[Clive Owen]], [[Gordon Ramsay]], Jonathan Ross and [[David Tennant]].
+
+Gervais was influenced by ''[[Curb Your Enthusiasm]]'', in making ''Extras'', particularly in the format of celebrities making fools of themselves or subverting their public personas.&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/movies/pictures/the-curb-effect-how-larry-david-changed-comedy-forever-20110720/ricky-gervais-0166936|title=Tricky Gervais The Curb Effect How Larry David Changed Comedy Forever |work=Rolling Stone|accessdate=25 January 2015}}&lt;/ref&gt;
+
+In 2007, Gervais won the [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series]] for his portrayal of Andy Millman in the second series of ''Extras''. As Gervais was not present at the awards ceremony, the trophy was accepted on his behalf by [[Steve Carell]], the actor who starred as regional manager [[Michael Scott (The Office)|Michael Scott]] – the counterpart to Gervais' David Brent – on [[The Office (U.S. TV series)|the American adaptation of ''The Office'']].&lt;ref&gt;{{cite web|url=http://www.latimes.com/entertainment/lat-accep-carel_johsi3nc20090817152500-photo.html |title=Jon Stewart, Stephen Colbert and Steve Carell accept Ricky Gervais' Emmy |publisher=LA Times |date=5 November 2017 |accessdate=10 November 2017}}&lt;/ref&gt;
+
+''[[The Guardian]]''{{'}}s Chris Tryhorn explained the "few gripes" he had with ''Extras'', "particularly in the second series". "You can forgive Gervais a certain arrogance after the success of ''The Office'', but..." He remarks on the confused tone of the series, taking in the clash between the broad comedy of characters Barry ([[Shaun Williamson]]) and Darren ([[Stephen Merchant]]), and the apparent parody of this style with ''When The Whistle Blows'', and "given their total indulgence of Gervais, the BBC is portrayed as interfering, its comedy department run by a rather crudely [[stereotype]]d gay couple".&lt;ref&gt;{{cite news|url=https://www.theguardian.com/media/organgrinder/2006/sep/22/extrasworkneededricky|title=Extras work needed, Ricky?|first=Chris |last=Tryhorn|work=The Guardian|accessdate=25 January 2015}}&lt;/ref&gt;
+
+====''The Ricky Gervais Show''====
+''[[The Ricky Gervais Show (animated series)|The Ricky Gervais Show]]'' is an animated TV show that debuted on US cable network [[HBO]] on 19 February 2010.&lt;ref&gt;{{cite news|url=http://www.tvguide.com/news/gervais-series-hbo-1013291/|title=Ricky Gervais Gets Animated for New HBO Series|last=Stanhope|first=Kate |date=22 December 2009|work=[[TV Guide]] | archiveurl=https://web.archive.org/web/20151026214901/http://www.tvguide.com/news/gervais-series-hbo-1013291/ | archivedate=26 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://latimesblogs.latimes.com/showtracker/2010/01/tca-press-tour.html|title=TCA press tour: Ricky Gervais finds comedy gold in a round-headed minion|last=Press|first=Joy |date=14 January 2010|work=[[Los Angeles Times]]}}&lt;/ref&gt; In the UK, the first series began airing on 23 April 2010 on [[Channel 4]]. The show was developed using original podcast recordings from ''[[The Ricky Gervais Show]]'' starring Gervais, [[Stephen Merchant]], and [[Karl Pilkington]]. After receiving a loyal and enthusiastic following in the US, cable channel [[HBO]] recommissioned the show for a second series, which aired in 2011,&lt;ref&gt;{{cite news | url=https://www.theguardian.com/media/2010/mar/24/ricky-gervais-show-hbo | title=Ricky Gervais Show gets second HBO series | date=24 March 2010 |work=The Guardian | location=London | accessdate=22 May 2010}}&lt;/ref&gt; and a third series which started airing in April 2012.
+
+====''Life's Too Short''====
+{{Main|Life's Too Short (TV series)}}
+
+''[[Life's Too Short (TV series)|Life's Too Short]]'' began airing on [[BBC Two]] on 10 November 2011.&lt;ref&gt;{{cite web|last=Sykes|first=Jaine|url=http://www.bbc.co.uk/blogs/comedy/2011/06/lifes-too-short-1.shtml|title=Life's Too Short |publisher=BBC Blog|accessdate=4 September 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=V2TtqePh3xw|title=Tweet That! – Life's Too Short|date=10 October 2011|accessdate=17 October 2011|publisher=YouTube}}&lt;/ref&gt; Gervais and Stephen Merchant would write this [[observational comedy|observational]] sitcom from an idea by [[Warwick Davis]]. It is described by Gervais as being about "the life of a showbiz [[Dwarfism|dwarf]]" and as "a cross between ''Extras'' and ''The Office''". The show stars actor Davis playing a fictionalized version of himself, as well as Gervais and Merchant.&lt;ref name=Guardian&gt;{{cite news|url=https://www.theguardian.com/film/2010/aug/24/ricky-gervais-lifes-too-short|title=Ricky Gervais plans Life's Too Short film|date=24 August 2010|accessdate=15 September 2010|work=[[The Guardian]]|first=Ben|last=Child|location=London}}&lt;/ref&gt; Premium cable channel [[HBO]], who co-produced the series with the BBC, had the US rights and began airing the series on 19 February 2012.&lt;ref&gt;{{cite web|url=http://www.cinemablend.com/television/Ricky-Gervais-Steven-Merchant-Warwick-Davis-Tease-Life-Too-Short-36112.html|title=Ricky Gervais, Steven Merchant, And Warwick Davis Tease Life's Too Short|publisher=Cinemablend.com|date=17 October 2011|accessdate=13 November 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/ustv/news/a326379/ricky-gervais-lifes-too-short-heads-for-hbo.html |title=Ricky Gervais 'Life's Too Short' heads for HBO – US TV News |publisher=Digital Spy |date=23 June 2011 |accessdate=11 November 2011}}&lt;/ref&gt;
+
+====''An Idiot Abroad''====
+{{Main|An Idiot Abroad}}
+''[[An Idiot Abroad]]'' is a travel documentary produced by Gervais and Merchant where a reluctant Pilkington travels around the world, while his reactions to people and places is recorded. Occasionally, Gervais and Merchant call him to surprise him with a new place to visit or a task to do. Pilkington reports back to them and mostly complains about the situation he is in. Gervais said there is no planning, a camera crew follows his friend around recording many hours of film which Gervais edits down to about an hour each episode.&lt;ref&gt;{{cite web|url = http://www.bbc.co.uk/newsbeat/11326209|title=Ricky Gervais says show with Karl Pilkington is real|publisher=BBC|accessdate =6 March 2015}}&lt;/ref&gt;
+
+To date two series and a Christmas special have aired, series one involves Pilkington visiting the Seven Wonders of the World, in the second show he chooses to complete tasks from a bucket list provided by Gervais and in the special Warwick Davis joins Pilkington on a journey following Marco Polo's route from Italy to China.
+
+====''Derek''====
+{{Main|Derek (TV series)}}
+In November 2011, Gervais filmed in London a 35-minute pilot episode for a potential [[comedy-drama]] series called ''[[Derek (TV series)|Derek]]'', which aired on [[Channel 4]] on 12 April 2012.&lt;ref&gt;{{cite web|author=Plumplard.com |date=August 2004 |url=http://rickygervais.com/thissideofthetruthe.php |title=Ricky Gervais... Obviously |publisher=Rickygervais.com |accessdate=19 March 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/tv/news/a371991/ricky-gervaiss-derek-noakes-sitcom-pilot-to-air-on-channel-4-in-april.html |title=Ricky Gervais's Derek Noakes sitcom pilot to air on Channel 4 in April |publisher=Digital Spy | accessdate=19 March 2012}}&lt;/ref&gt; The pilot is solely written and directed by Gervais and features him in the title role of Derek Noakes, a 49-year-old [[retirement home]] worker, who "loves animals, [[Rolf Harris]], Jesus, ''[[Deal or No Deal]]'', ''[[The Million Pound Drop Live|Million Pound Drop]]'' and ''[[Britain's Got Talent]]''. The character first appeared in a [[2001 Edinburgh Festival Fringe]] sketch as an aspiring comedian who loves animals and still lives with his mother.&lt;ref&gt;{{cite web|first=Simone |last=Mitchell |url=http://www.dailylife.com.au/dl-people/celebrity-news/ricky-gervais-gives-us-a-sneak-peek-at-his-new-show-derek-20120320-1vgh5.html |title=Ricky Gervais gives us a sneak peek at his new show 'Derek' |publisher=Dailylife.com.au |date=20 February 2012 |accessdate=31 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nme.com/filmandtv/news/ricky-gervais-new-sitcom-derek-to-pilot-on-channel/263268 |title=Ricky Gervais' new sitcom 'Derek' to pilot on Channel 4 next month &amp;#124; Film &amp; TV News |publisher=Nme.Com |date=20 March 2012 |accessdate=31 July 2014}}&lt;/ref&gt; Gervais' co-host [[Karl Pilkington]] makes his acting debut as Derek's friend and facilities-caretaker Dougie who also works in the retirement home. British comedian [[Kerry Godliman]] plays Derek's best friend Hannah and David Earl plays Kev.&lt;ref&gt;{{cite web|url=http://www.channel4.com/programmes/derek/episode-guide/series-1/episode-1 |title=Derek |publisher=[[Channel 4]] |date=29 March 2012 |accessdate=2 April 2012}}&lt;/ref&gt;
+
+Gervais said that the series is about "kindness [being] more important than anything else". He added "It's about the forgotten – everyone's forgotten. It's all these arbitrary people who didn't know each other, and they're in there now because they're in the last years of their life. And it's about the people who help them, who themselves are losers and have their own problems. It's about a bunch of people with nothing, but making the most of it, and they're together." He chose to set the sitcom in a retirement home after he watched ''[[Secret Millionaire]]'' – "It was always these people with huge problems who were helping other people. I thought about having Derek help old people because no one cares about old people in this country... I think it's perfect for now."&lt;ref name=independentderek&gt;{{cite news|last=Gilbert|first=Gerard|title='Mock the disabled? Me?': Ricky Gervais on how he has been misunderstood|url=https://www.independent.co.uk/arts-entertainment/comedy/features/mock-the-disabled-me-ricky-gervais-on-how-he-has-been-misunderstood-7621909.html|work=The Independent|accessdate=9 April 2012|date=6 April 2012|location=London}}&lt;/ref&gt;
+
+Channel 4 commissioned a full series of ''Derek'' that aired in early 2013.&lt;ref&gt;{{cite web|url=http://www.channel4.com/info/press/news/channel-4-commissions-series-of-derek-by-ricky-gervais |title=commissions series of Derek by Ricky Gervais - Channel 4 - Info - Press |publisher=Channel 4 |date=9 May 2012 |accessdate=31 July 2014}}&lt;/ref&gt; Derek was recommissioned for a second series which premiered on 23 April 2014.&lt;ref&gt;{{cite web|url=http://www.comedy.co.uk/news/story/000001071/channel_4_recommission_ricky_gervais_derek_series |title=Channel 4 recommission Ricky Gervais's Derek - News - British Comedy Guide |publisher=Comedy.co.uk |date=4 March 2013 |accessdate=31 July 2014}}&lt;/ref&gt; ''Derek'' ended with a one-off final special,&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/tv/news/a610920/ricky-gervaiss-derek-to-air-final-episode-in-december.html?rss#~oVZZugEYY8cySM|title=Ricky Gervais's Derek to air final episode in December|publisher=Digital Spy|accessdate=28 November 2014}}&lt;/ref&gt; broadcast on [[Channel 4]] in the UK 22 December 2014.
+
+===Stand-up comedy===
+Gervais began his stand-up career in the late 1990s; his first successful show took place at the [[Cafe Royal]], as part of the [[2001 Edinburgh Festival Fringe]]. Titled ''Rubbernecker'', the show also featured [[Jimmy Carr]], [[Robin Ince]] and [[Stephen Merchant]].
+
+Gervais later toured the UK in 2003 with his stand-up show ''[[Animals (comedy)|Animals]]''. The ''[[Politics (comedy)|Politics]]'' tour followed a year later. Both of these shows were recorded for release on DVD and television broadcast. The third part of the themed live trilogy, ''[[Fame (comedy)|Fame]]'', took place in 2007. It started in [[Glasgow]] in January and ended in [[Sheffield]] in April. [[Blackpool]] reported selling out of tickets within 45 minutes of them going on sale.&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/news/2006/12/13/4816/what_a_sell-out|title=What a sell-out, Huge demand for Gervais tour}}&lt;/ref&gt;
+[[File:RickyGervais.jpg|thumb|left|upright|Gervais performing in 2007]]
+''[[Newsnight Review]]'''s panel saw ''Animals'' during its [[UCL Bloomsbury|Bloomsbury]] run and covered it in January 2003. They were not favourable, with ''[[Private Eye]]'' editor [[Ian Hislop]] saying it was "cobbled together...banal...a bit flat".&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/programmes/newsnight/review/2654105.stm|title=BBC News, 13&amp;nbsp;January 2003 | date=13 January 2003 | accessdate=27 March 2010}}&lt;/ref&gt; After this, Gervais closed each show by calling Hislop an "ugly little pug-faced cunt".&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/showbiz/news/a179513/ten-things-you-never-knew-about-ricky-gervais.html|title=Ten Things You Never Knew About Ricky Gervais|publisher=Digital Spy|first=Alex |last=Fletcher|accessdate=24 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/programmes/newsnight/review/2654105.stm|title=Newsnight Review discussed Ricky Gervais one man show Animals at the Bloomsbury Theatre in London.|publisher=BBC|accessdate=24 January 2015|date=13 January 2003}}&lt;/ref&gt;
+
+''Fame'' was the subject of some controversy in January 2007 when Gervais told a story, ostensibly about how people will do anything to become famous, referring to [[Ipswich serial murders|the murder of prostitutes in Ipswich]].&lt;ref&gt;{{cite web|title=Gervais apologetic over 'killing' joke|url=http://www.ipswichstar.co.uk/news/gervais_apologetic_over_killing_joke_1_112739|website=Ipswich Star|accessdate=14 December 2016}}&lt;/ref&gt;
+
+Gervais' fourth show was entitled ''[[Science (comedy)|Science]]'', and commenced with an eleven-date tour in August 2009 at the [[Scottish Exhibition and Conference Centre]] in Glasgow.&lt;ref&gt;{{cite web |date=August 2004 |url=http://www.rickygervais.com/sciencelive.php |title=Ricky Gervais... Obviously |publisher=Rickygervais.com |accessdate=21 November 2009}}&lt;/ref&gt; The DVD for ''Science'' was released on 15 November 2010.&lt;ref&gt;[http://www.play.com/DVD/DVD/4-/13647021/Ricky-Gervais-Live-4-Science/Product.html "Ricky Gervais Live 4: Science"] {{webarchive|url=https://web.archive.org/web/20100323083312/http://www.play.com/DVD/DVD/4-/13647021/Ricky-Gervais-Live-4-Science/Product.html |date=23 March 2010 }} Play.com. Retrieved 5 April 2010.&lt;/ref&gt;
+In November 2009 he headlined the sixth annual New York Comedy Festival at [[Carnegie Hall]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/8105764.stm|title=Gervais to lead NY comedy event |publisher=BBC News|accessdate= 25 January 2015|date=17 June 2009}}&lt;/ref&gt;
+
+In 2013, Gervais announced that his next stand up show will be called ''Humanity''.&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/news/2013-01-17/ricky-gervais-returning-to-stand-up-comedy-i-think-it-will-be-my-angriest-yet|title=Ricky Gervais returning to stand-up comedy: "I think it will be my angriest yet"|work=[[Radio Times]]|accessdate=8 March 2015}}&lt;/ref&gt; In December 2014, he said he was too busy to do his tour due to producing two films.&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/news/2014-12-08/ricky-gervais-why-my-humanity-live-stand-up-tour-is-on-hold-for-now|title=Ricky Gervais Why My Humanity Live Stand Uo Tour is On Hold for Now|work=Radio Times|accessdate=8 March 2015}}&lt;/ref&gt;
+
+In May 2016, Gervais was back doing stand up in London, starting with some low key warm-ups with cast members from ''[[Derek (TV series)|Derek]]''.&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/news/2016-03-29/ricky-gervais-is-performing-stand-up-gigs-in-london-this-may|title=Ricky Gervais is performing stand up gigs in London this May|work=Radiotimes|accessdate=1 April 2016}}&lt;/ref&gt; He said, "Finally, I'm going to do some stand-up. The first in about six years if you don't count hosting the [[Golden Globes]]."
+
+He continued his ''Humanity'' show throughout 2017 and into 2018; appearing at [[SF Sketchfest]] as part of the tour, which devoted a night in honor of the comedian, alongside comedic legend and mentor [[Christopher Guest]].&lt;ref&gt;{{cite web|title=Ricky Gervais to appear at SF Sketchfest before taking on ‘Humanity’|url=http://www.sfchronicle.com/performance/article/Ricky-Gervais-to-appear-at-SF-Sketchfest-before-12473686.php|website=SF Chronicle|accessdate=2 February 2018}}&lt;/ref&gt;
+
+His next tour and [[Netflix]] special was announced in 2018.&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/news/2018/04/20/39738/ricky_gervais_announces_his_first_supernature_gigs|title=Ricky Gervais announces his first SuperNature gigs : News 2018 : Chortle : The UK Comedy Guide|first=Powder Blue Internet Business|last=Solutions|website=www.chortle.co.uk}}&lt;/ref&gt;
+
+====Animation====
+One of the first animations Gervais voiced was the character of Penguin in [[Robbie the Reindeer]]'s ''Legend of the Lost Tribe''.&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/episode/n2kph/robbie-the-reindeer-in-legend-of-the-lost-tribe|title=Robbie the Reindeer in Legend of the Lost Tribe|work=Radio Times|accessdate=21 January 2015}}&lt;/ref&gt;
+
+Gervais guest-starred in an episode of ''[[The Simpsons]]'' entitled "[[Homer Simpson, This Is Your Wife]]". He is the only British comic to write and star in a ''Simpsons'' episode. The episode was the highest rated in Sky One's history; it revolved around the angle that Gervais was the episode's sole writer (and the first guest star on the show to also receive a writing credit for the episode of his appearance). Gervais clarified the extent of his input in a joint interview (with Christopher Guest) for ''[[Dazed &amp; Confused (magazine)|Dazed and Confused]]'' magazine (January 2006): "No, all I did was put down a load of observations on an email and they made it look like a ''Simpsons'' script. I'm going to get the credit, but I think everyone in the industry knows it was a joint effort". Asked in a separate interview about how his idea for the episode (in which Homer swaps Marge on a game show) came about, Gervais replied: "I've always been fascinated with reality game shows but I think it was my girlfriend's idea. We watch ''[[Big Brother (UK)|Celebrity Big Brother]]'' at the moment, we watch ''[[I'm a Celebrity...Get Me Out of Here!|I'm a Celebrity, Get Me out of Here...]]'' we watch all those reality TV shows&amp;nbsp;– ''The Office'' came out of those docu-soaps".&lt;ref&gt;{{cite web|url=http://www.ukula.com/TorontoArticle.aspx?SectionID=3&amp;ObjectID=1665&amp;CityID=3|title= Interview at UKULA}}&lt;/ref&gt; Gervais, a longstanding ''Simpsons'' fan, presented a segment to mark the show's 20th anniversary on [[BBC Two]]'s ''[[The Culture Show]]'' on 16 June 2007.
+
+In 2012, Gervais made a guest appearance on ''[[Family Guy]]'' in the episode titled "[[Be Careful What You Fish For]]". In the episode, Gervais plays a dolphin named Billy Finn who gives [[Peter Griffin]] a [[Mercedes-Benz]] hood ornament, Peter half-heartedly promises a favor to him. Soon, Billy moves to Quahog but outstays his welcome at Peter's. Peter tries to reunite Billy with his ex-wife in hopes that he will return to the ocean. The episode also featured [[Lucy Davis]]. Both Gervais and Davis starred together in ''The Office''.&lt;ref&gt;{{cite web|title= Be Careful What You Fish For|url= http://www.avclub.com/articles/be-careful-what-you-fish-for,69550/|work= The A.V Club|last= MacFarland|first= Kevin|date= 20 February 2012|accessdate= 15 April 2012}}&lt;/ref&gt;
+
+====Guest star on television series====
+Gervais had a cameo role in [[Simon Pegg]]'s and [[Jessica Hynes]]'s sitcom ''[[Spaced]]'', as Dave, an estate agent who mistakenly placed the advertisement for a property for a couple that turns out to be the premise of the show.&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/ustv/feature/a579366/happy-birthday-ricky-gervais-7-scene-stealing-cameos-from-comedy-star.html#~p2oa1c5wLBcUfz|title=Happy birthday, Ricky Gervais: 7 scene-stealing cameos from comedy star|publisher=Digital Spy|accessdate=24 January 2015}}&lt;/ref&gt;
+
+In season 8 episode 6 ''The Hero'' of the HBO series ''[[Curb Your Enthusiasm]]'', Gervais was a guest at Larry David's dinner table. He played a version of himself, an egocentic self-promoting actor that annoyed David's character who was desperate for attention.&lt;ref&gt;{{cite web|url=http://whatculture.com/tv/tv-review-curb-your-enthusiasm-8-6-the-hero.php |title=TV Review: 'Curb Your Enthusiasm', 8.6 – "The Hero"|publisher=Whatculture.com|first=T.J. |last=Barnard|accessdate=21 January 2015}}&lt;/ref&gt;
+
+Gervais has also guest-starred on ''[[Alias (TV series)|Alias]]'' (appearing in the third-season episode "[[Alias (season 3)#Façade|Façade]]") as Daniel Ryan, a former Royal Navy bomb-disposal specialist turned rogue [[Irish Republican Army]] bomb-maker.&lt;ref&gt;{{cite web|url=http://onlineathens.com/stories/031404/fea_20040314019.shtml#.VbD0FUrXerU|title=Ricky Gervais takes on an 'Alias'|publisher=Online Athens|accessdate=23 July 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150723181824/http://onlineathens.com/stories/031404/fea_20040314019.shtml#.VbD0FUrXerU|archivedate=23 July 2015|df=dmy-all}}&lt;/ref&gt;
+
+[[Louis C.K.]] had Gervais play Dr. Ben, his doctor on two episodes of his series ''[[Louie (U.S. TV series)|Louie]]''. Gervais would break into his trademark hysterical laugh every time his character made Louie the butt of a joke.&lt;ref&gt;{{cite web|url=https://www.avclub.com/tvclub/louie-dr-bennick-42838|title=Louie: "Dr. Ben/Nick"|work=[[The A.V. Club]]|accessdate=1 April 2015}}&lt;/ref&gt;
+
+Early in 2015, Gervais guest starred in ''[[Galavant]]'', a four-week comedy mini-series, as Xanax the magician. The show aired on [[American Broadcasting Company|ABC]] and Gervais got to show off his singing skills.&lt;ref&gt;{{cite web|url=http://abc.go.com/shows/galavant/news/updates/141124-galavant-has-the-holy-grail-of-guest-stars-ricky-gervais-john-stamos-weird-al-yankovic-rutger-hauer|title=Guest Starring John Stamos, Weird Al, Rutger Hauer &amp; Ricky Gervais|publisher=[[American Broadcasting Company|ABC]]|accessdate=8 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.salon.com/2015/01/13/galavant_star_mallory_jansen_ricky_gervais_took_one_look_at_the_script_and_was_like_alright_i_got_this/||title="Galavant" star Mallory Jansen: "Ricky Gervais took one look at the script and was like, alright, I got this"|publisher=Salon|accessdate=8 March 2015}}&lt;/ref&gt;
+
+====Entertainment====
+Gervais made a cameo appearance on ''[[Saturday Night Live]]'' in a ''Digital Short'' during which he joked that ''The Office'' was adapted from a Japanese programme of the same name (with [[Steve Carell]] reprising his role as Michael Scott). The sketch re-creates scenes from the American and British pilot episode with Japanese elements (although in an exaggerated way). "It's funny", Gervais laughs at the end, "because it's racist".&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/ustv/news/a437948/ricky-gervais-to-host-saturday-night-live.html|title=Ricky Gervais to host 'Saturday Night Live'?|date=13 November 2012|publisher=Digital Spy|accessdate=25 January 2015}}&lt;/ref&gt;
+
+Gervais hosted the [[67th Golden Globe Awards|67th]], [[68th Golden Globe Awards|68th]], [[69th Golden Globe Awards|69th]] and [[73rd Golden Globe Awards]], his appearance in 2010 made him the first master of ceremonies since 1995. He stated: "I have resisted many other offers like this, but there are just some things you don't turn down."&lt;ref&gt;{{cite news | first=Gina |last=DiNunno |title=Ricky Gervais to Host Golden Globes | url=http://www.tvguide.com/News/Ricky-Gervais-Host-1011235.aspx| work=TV Guide| accessdate=19 October 2011}}&lt;/ref&gt; His performance as host received a mixed response with positive reviews from the ''[[New York Daily News]]'' and the [[Associated Press]], but also some negative comments from ''[[The Hollywood Reporter]]''.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/8464994.stm|title=Ricky Gervais gets mixed response at the Golden Globes|date=18 January 2010|publisher=BBC News |accessdate=3 February 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/culture/2010/jan/19/ricky-gervais-golden-globes|title=Did Ricky Gervais shine at the Golden Globes?|date=19 January 2010|work=The Guardian|accessdate=3 February 2010 | location=London | first=Brian | last=Logan}}&lt;/ref&gt;
+
+His 2011 hosting of the awards was controversial for his edgy jokes that were at the expense of many of the nominees, similar to the New York Friars Club roast style jokes.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/entertainment-arts-12206235|title=Globes host Ricky Gervais explains ceremony absence|date=17 January 2011|publisher=BBC News |accessdate=17 January 2011}}&lt;/ref&gt; His jibes were described as setting "a corrosive tone" by one critic, though some celebrities were seen crying from laughter, leaving the overall reaction to be 'mixed'.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/entertainment-arts-12205469|title=Mixed reaction to Ricky Gervais as Golden Globes host|date=17 January 2011|publisher=BBC News |accessdate=17 January 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://content.usatoday.com/communities/entertainment/post/2011/01/ricky-gervais-opens-golden-globes-with-shot-at-sheen/1|title=Ricky Gervais opens Golden Globes with shot at Sheen|date=16 January 2011|work=[[USA Today]]|accessdate=17 January 2011|first=Ann|last=Oldenburg}}&lt;/ref&gt; Gervais responded, "They are my friends, but I had to play the outsider."&lt;ref name=":0" /&gt;
+
+Gervais was a guest judge on [[Jerry Seinfeld]]'s NBC show ''[[The Marriage Ref (U.S. TV series)|The Marriage Ref]]'' alongside [[Larry David]] and [[Madonna (entertainer)|Madonna]].&lt;ref&gt;{{cite web|url=http://watching-tv.ew.com/2010/03/11/the-marriage-ref-madonna-2/ |title=Madonna, Larry David, Ricky Gervais on 'The Marriage Ref': 'This is the weirdest show I've ever been on | work=[[Entertainment Weekly]] | accessdate=11 March 2010 | location=New York | first=Ken | last=Tucker}}&lt;/ref&gt;
+
+''Talking Funny'', which first aired on 28 April 2011, starred Gervais and fellow standup comedians [[Louis C.K.]], [[Chris Rock]], and [[Jerry Seinfeld]], they had an informal round-table discussion on standup comedy. This one off HBO special was well received by critics &amp; audience alike.&lt;ref&gt;{{cite news|url=http://content.time.com/time/video/player/0,32068,909739070001_2066028,00.html|title=Ricky Gervais Talks to TIME - Video - TIME.com|work=Time|accessdate=5 February 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.hitfix.com/blogs/whats-alan-watching/posts/review-hbos-talking-funny-an-insightful-entertaining-hour-about-stand-up-comedy|title=Review: HBOs Talking Funny an insightful, entertaining hour about stand-up comedy|publisher=HitFix.com|accessdate=5 February 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.cinemablend.com/television/Ricky-Gervais-Louis-C-K-Jerry-Seinfeld-Chris-Rock-Talking-Funny-HBO-Next-Month-30838.html|title=Ricky Gervais, Louis C.K, Jerry Seinfeld And Chris Rock Are Talking Funny On HBO Next Month|publisher=CinemaBlend.com|accessdate=5 February 2015}}&lt;/ref&gt;
+
+In 2013, Gervais guest starred in ''[[David Blaine]]: Real or Magic,'' a television special where Blaine proceeded to run a large needle through his forearm in front of Gervais.&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/ustv/news/a532677/ricky-gervais-freaks-harrison-ford-gasps-david-blaines-best-tricks.html|title=Ricky Gervais freaks, Harrison Ford gasps: David Blaine's best tricks|first=Catriona |last=Wightman|publisher=Digital Spy|accessdate=20 January 2014}}&lt;/ref&gt;
+
+====Talk shows====
+In January 2006, Gervais interviewed [[Larry David]] in a one-off special, ''Ricky Gervais Meets... Larry David''. On 25 and 26 December of the same year Channel 4 aired similar specials in which he interviewed the actor/comedian [[Christopher Guest]] and comedian&lt;!--"infamously" is not the correct word here. What are we trying to convey by the use of "infamously"? Recommend either that we use a word other than "infamously" or that we just delete it, as I have done.--&gt; [[Garry Shandling]]. There are no plans for further episodes of ''Meets...'', although editions with [[John Cleese]] and [[Matt Groening]] were recorded in 2006 for broadcast in 2007.&lt;!--"for broadcast in 2007" begs the question, "Were these actually broadcast in 2007?"--&gt; A source claimed, "The Shandling experience put him off for good".&lt;ref name="gervais_salute"&gt;Deedes, Henry. (2007). [https://www.independent.co.uk/news/people/pandora/by-george-we-salute-you-for-your-indefatigability-430845.html "PANDORA: By George, we salute you for your indefatigability"], Independent News and Media Limited. Retrieved 22 July 2007.&lt;/ref&gt;
+
+In January 2009, Gervais was a guest on BravoTV ''[[Inside the Actors Studio]]'' season 15 with [[James Lipton]], where at one point of the interview he answered Lipton's question as [[David Brent]] his character from ''The Office''. Brent obliged the audience by singing his song "Freelove Freeway" with a guitar supplied to him by Lipton.&lt;ref&gt;{{cite web|url=http://www.bravotv.com/inside-the-actors-studio/season-15/ricky-gervais-0|title=Inside the Actors Studio Season 15 Ricky Gervais|publisher=[[Bravo (U.S. TV network)|Bravo]]|accessdate=21 January 2015}}&lt;/ref&gt;
+
+Gervais has been on ''[[The Late Show with David Letterman]]'' 26 times.&lt;ref&gt;{{cite web|url=http://lateshowletterman.tumblr.com/post/92569206069/ricky-gervais-arrives-for-his-26th-appearance-on|title=Ricky Gervais arrives for his 26th appearance on Late Show!|work=[[Late Show with David Letterman]]|accessdate=22 January 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150119095432/http://lateshowletterman.tumblr.com/post/92569206069/ricky-gervais-arrives-for-his-26th-appearance-on|archivedate=19 January 2015|df=dmy-all}}&lt;/ref&gt; In 2008, he helped Letterman read out the Late Show Top Ten List, Top Ten Stupid Things Americans Say To Brits.&lt;ref&gt;{{cite web|title=Top Ten Stupid Things Americans Say To Brits|work=Late Show with David Letterman|accessdate=21 January 2015|url=http://www.cbs.com/shows/late_show/top_ten/129424/}}&lt;/ref&gt; In mid 2014, upon hearing that Letterman was up for retirement, Gervais jokingly tried to discourage him by suggesting they go on a road trip where they would spend all their money.
+&lt;ref&gt;{{cite web|url=http://www.cbs.com/shows/late_show/video/4A1B5E54-75F2-6E61-8208-60D7DDA89718/david-letterman-ricky-gervais-on-dave-s-retirement/|title=Ricky Gervais|publisher=[[CBS]]|accessdate=21 January 2015}}&lt;/ref&gt;
+
+''[[The Graham Norton Show]]'' based in UK has invited Gervais many times over the years. He has been on Norton's couch with [[Stephen Merchant]], the co-creator &amp; co-writer of ''The Office'', to promote ''Cemetery Junction''. Another time, he was there to talk about his series ''[[Life's Too Short (TV series)|Life's Too Short]]'' and [[Johnny Depp]] who was there to promote his own film was also present.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b016y981|title=The Graham Norton Show, Series 10 Episode 3|publisher=BBC|accessdate=21 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b00s2s45|title=The Graham Norton Show, Series 7 Episode 1|publisher=BBC|accessdate=21 January 2015}}&lt;/ref&gt;
+
+===Video games===
+Gervais is one of two featured comedians (the other being [[Katt Williams]]) in the video game ''[[Grand Theft Auto IV]]'' who performs at the Split Sides comedy club on the virtual stand-up stage and as an interviewee on the in game radio station ''We Know The Truth''. For the [[Stand-up comedy|stand-up]] bit a special 3-minute act was written, recorded and fully motion-captured.&lt;ref&gt;{{cite web|url=http://kotaku.com/380990/british-office-star-ricky-gervais-appears-in-gta-iv|title=British Office Star Ricky Gervais Appears in GTA IV|deadurl=yes|archiveurl=https://web.archive.org/web/20080420090813/http://kotaku.com/380990/british-office-star-ricky-gervais-appears-in-gta-iv|archivedate=20 April 2008|df=dmy-all}}&lt;/ref&gt;
+
+===Books===
+
+====''Flanimals''====
+Gervais released a children's book in 2004, ''[[Flanimals]]'' (illustrated by Rob Steen), which depicted nonsense animals. After the success of this book, he released its sequel ''[[More Flanimals]]'' in 2005, with ''[[Flanimals of the Deep]]'' coming the next year. A new Flanimals book, ''[[Flanimals: The Day of the Bletchling]]'', was released in October 2007. ''Flanimals: Pop Up'' was also published in 2009.&lt;ref&gt;{{cite web|author=Plumplard.com |date=August 2004 |url=http://www.rickygervais.com/flanimals.php |title=Ricky Gervais... Obviously |publisher=Rickygervais.com |accessdate=13 September 2011}}&lt;/ref&gt; There is a wide range of ''Flanimals'' [[merchandise]] available, including dolls and gift cards.
+
+====Published television scripts====
+''The Office'' scripts have been released in book form, with Series 1 issued in 2002,&lt;ref&gt;{{cite web|url=http://www.goodreads.com/book/show/846584|title=The Office: Scripts Series 1|publisher=Goodreads.com|accessdate=25 January 2015}}&lt;/ref&gt; and the remaining episodes following in 2003.&lt;ref&gt;{{cite web|url=http://www.publishersweekly.com/978-0-563-48741-8#path/978-0-563-48741-8|title=The Office: Scripts Series 2|work=[[Publishers Weekly]] | accessdate =25 January 2015}}&lt;/ref&gt; ''Extras: The Illustrated Scripts: Series 1 &amp; 2'' has been released, as well.&lt;ref&gt;{{cite book|isbn=0316030392|title=Extras: The Illustrated Scripts: Series 1 &amp; 2}}&lt;/ref&gt;
+
+====Other books====
+''[[The World of Karl Pilkington]]'' presented by Gervais and Merchant. These were essentially transcripts of [[Xfm]] shows [[podcasts]] and featured illustrations by Pilkington.&lt;ref&gt;{{cite web|url=http://www.waterstones.com/waterstonesweb/products/karl+pilkington/stephen+merchant/ricky+gervais/the+world+of+karl+pilkington/3823254/|title=The World of Karl Pilkington|publisher=Waterstones.com|accessdate=25 January 2015}}&lt;/ref&gt;
+
+===Film===
+Gervais' film career has included small roles as the voice of a [[pigeon]] Bugsy, in 2005's ''[[Valiant (film)|Valiant]]'',&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2005/08/19/movies/19vali.html?_r=0|title=These Pigeons are Doing Part for the War|work=The New York Times|accessdate=25 January 2015|first=Stephen|last=Holden|date=19 August 2005}}&lt;/ref&gt; as a [[studio executive]] in 2006's ''[[For Your Consideration (film)|For Your Consideration]]'',&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2006/11/17/movies/17cons.html|title=For Your Consideration (2006) The Cast of a Film Catches a Bad Case of the Oscars| work=The New York Times|accessdate=25 January 2015|first=Stephen|last=Holden|date=17 November 2006}}&lt;/ref&gt; as museum director Dr. McPhee in 2006's ''[[Night at the Museum]]'' and its sequels ''[[Night at the Museum: Battle of the Smithsonian]]'' and ''[[Night at the Museum: Secret of the Tomb]]'', and as "Ferdy the Fence" in the 2007 film ''[[Stardust (2007 film)|Stardust]]''.&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/movies/pictures/the-long-funny-career-of-ricky-gervais-20110404/stardust-2007-0635669l|title=The Funny Career of Ricky Gervais|work=Rolling Stone|accessdate=25 January 2015}}&lt;/ref&gt;
+
+Gervais starred in ''[[Ghost Town (2008 film)|Ghost Town]]'' as a dentist who sees spirits,&lt;ref&gt;{{cite web|url=https://www.theguardian.com/film/2008/oct/26/ghost-town-ricky-gervais|title=Ghost Town Ricky Gervais|work=The Guardian|accessdate=25 January 2015}}&lt;/ref&gt; and was in [[Lowell, Massachusetts|Lowell]], Massachusetts during May 2008 filming his next project, ''[[The Invention of Lying]]'', which he starred in along with, [[Jennifer Garner]], [[Rob Lowe]] and [[Louis C.K.]]. The social comedy, was co-written and co-directed by Gervais and [[Matthew Robinson (director)|Matt Robinson]].&lt;ref name="variety"&gt;{{cite news | first=Michael | last=Fleming | url=http://www.variety.com/article/VR1117971879.html?categoryid=13&amp;cs=1 | title=Ricky Gervais to star in 'Truth' | work=[[Variety (magazine)|Variety]] | date=12 September 2007 | accessdate=13 September 2007 | deadurl=yes | archiveurl=https://web.archive.org/web/20070918123355/http://www.variety.com/article/VR1117971879.html?categoryid=13&amp;cs=1 | archivedate=18 September 2007 | df=dmy-all }}&lt;/ref&gt;
+
+Gervais and co-writer [[Stephen Merchant]] made a film called ''[[Cemetery Junction (film)|Cemetery Junction]]'', set in 1970s Britain, about class, love and fulfilment.&lt;ref&gt;{{cite web |date=August 2004 |url=http://www.rickygervais.com/thissideofthetruth.php |title=Ricky Gervais... Obviously |publisher=Rickygervais.com |accessdate=21 November 2009}}&lt;/ref&gt; The film was released in April 2010.
+
+Gervais directed and starred in, ''[[Special Correspondents]]'', which began filming in May 2015.&lt;ref&gt;{{cite web|url=http://ca.hellomagazine.com/film/02015011612688/ricky-gervais-is-in-toronto-scouting-locations|title=Ricky Gervais is in Toronto scouting locations|work=Hello Magazine Canada|accessdate=29 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rickygervais.com/thissideofthetruth.php|title=Ricky Gervais.com The Website of Ricky Gervais... Obviously.|publisher=Ricky Gervais (official site)|accessdate=5 February 2015}}&lt;/ref&gt; The comedy stars [[Eric Bana]] as a journalist and Gervais as his assistant. They pretend to report news from a war torn country but in actuality they are safe in New York.&lt;ref&gt;{{cite news|url=https://variety.com/2014/film/news/ricky-gervais-special-correspondents-remake-1201341524/|title=Ricky Gervais’ ‘Special Correspondents’ Remake: Gervais Boards Comedy - Variety|work=Variety|accessdate=5 February 2015|first=Justin|last=Kroll|date=31 October 2014}}&lt;/ref&gt; The film was released on Netflix. Gervais directed and starred in the 2016 film ''[[David Brent: Life on the Road]]'', a [[mockumentary]] following [[David Brent]], a character first seen in ''The Office'' series, as he lives his dream of being a rockstar.&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.co.uk/2014/08/05/ricky-gervais-david-brent-film_n_5651072.html|title=Ricky Gervais Confirms Feature-Length David Brent Mockumentary Film, 'Life On The Road'|publisher=The Huffington Post UK|accessdate=5 February 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.shortlist.com/entertainment/ricky-gervais|title=Ricky Gervais|work=ShortList Magazine|accessdate=5 February 2015}}&lt;/ref&gt; On 5 November 2015 Gervais signed up to play Ika Chu, a villainous cat, in an animated film ''[[Blazing Samurai]]''. The movie is about a dog Hank played by [[Michael Cera]] who wants to be a warrior and fights with Ika Chu for the town of Kakamucho.&lt;ref&gt;{{cite web|url=https://variety.com/2015/film/news/ricky-gervais-blazing-samurai-1201633788/|title=Ricky Gervais Joins Comedy ‘Blazing Samurai’|work=Variety|accessdate=5 November 2015}}&lt;/ref&gt;
+
+===Other appearances===
+[[File:Ricky Gervais performing 2007.jpg|thumb|upright|Ricky Gervais performing at [[Tribeca Performing Arts Center]] in 2007]]
+On 2 July 2005, Gervais appeared at the [[Live 8]] event held in London's [[Hyde Park, London|Hyde Park]], where he performed his famous dance.&lt;ref&gt;{{cite web|url=http://www.charlesarthur.com/blog/2005/07/06/more-live-8-fun-that-ricky-gervais-dancing-clip/|title=More Live 8 Fun: the Ricky Gervais Dancing Clip|work=Charles Aurthur|accessdate=25 January 2015}}&lt;/ref&gt;
+
+===Concert for Diana and Live Earth===
+On 1 July 2007, Gervais performed at the [[Concert for Diana]] in [[Wembley Stadium]], a music event celebrating the life of [[Diana, Princess of Wales|Princess Diana]] 10 years after her death.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/concertfordiana/timeline/ |title= Concert for Diana - What happened minute by minute|work=BBC News|accessdate=17 June 2016 }}&lt;/ref&gt; Towards the end of the event—after a pre-recorded introduction from [[Ben Stiller]]—Gervais appeared along with fellow ''[[The Office (UK TV series)|Office]]'' star [[Mackenzie Crook]]. They performed "[[Free Love Freeway]]", a song previously heard in the fourth episode of series one of ''The Office''. Due to a technical problem, Gervais then had to fill time until he was able to re-introduce [[Elton John]] to close the show, so he did the David Brent dance again, as well as singing the "Little Fat Man" song as performed by [[David Bowie]] in episode two of the second series of ''[[Extras (TV series)|Extras]]''.&lt;ref&gt;{{cite news|url=http://www.metafilter.com/57740/Pathetic-little-fat-man-noones-bloody-laughing|title=Ricky Gervais Has Lost It|publisher=Metafilter.com|accessdate=2 February 2015}}&lt;/ref&gt;
+
+In July 2007, following Gervais' appearance at the memorial concert for the Princess of Wales, ''The Guardian'' ran a column by ''[[Daily Mirror]]'' television critic [[Jim Shelley (TV critic)|Jim Shelley]] entitled "Call Me Crazy... But Has Ricky Gervais Lost It?", where he described Gervais as a "tiresome embarrassment". The following week, ''The Guardian'' noted that Gervais had responded with "an exhilaratingly foul-mouthed tirade" on his website, concluding with the sentence "yes I am resting on my fucking laurels you cunt!" In this video, Gervais mocked Jim Shelley typing the words "resting on his laurels" as Gervais jokingly lashed out by stating that he was resting on his laurels and that he was not going to make another show for television, quipping: "What's the point? What is there to beat?"&lt;ref&gt;{{cite news|url=https://www.theguardian.com/media/organgrinder/2007/jul/11/rickygervaishaslostit|title=Ricky Gervais Has Lost It|work=The Guardian|accessdate=2 February 2015}}&lt;/ref&gt;
+
+==Personal life==
+Gervais lives between [[Hampstead]]&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/news/uknews/1547788/Ricky-Gervais-digs-himself-into-big-trouble.html |title='&amp;#39;Ricky Gervais digs himself into big trouble'&amp;#39;|publisher=Daily Telegraph – ''The Daily Telegraph''. |date=6 April 2007 |accessdate=3 July 2011 |location=London}}&lt;/ref&gt; and [[New York City]]&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/tvshowbiz/article-2043132/Ricky-Gervais-new-3-75m-Barbizon-apartment-New-Yorks-Upper-East-Side.html|title=Has it got room for an office? Inside Ricky Gervais' new £2.5million apartment on the Upper East Side}}&lt;/ref&gt; with his partner, producer and author [[Jane Fallon]], whom he has been with since 1982. He says they chose not to marry because "there's no point in us having an actual ceremony before the eyes of God because there is no God" or have children because they "didn't fancy dedicating 16 years of our lives. And there are too many children, of course".&lt;ref&gt;{{cite news |first=Camilla |last=Long |work=[[The Times]]|title=Ricky Gervais: Bad parents should be sterilised. Fact|date=31 January 2010|accessdate=30 October 2012|url=http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article7009550.ece |archiveurl=https://web.archive.org/web/20101028150231/http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article7009550.ece |archivedate=28 October 2010 | location=London}}&lt;/ref&gt;
+
+Gervais is a staunch supporter of [[LGBT rights by country or territory|gay rights]] and has praised the introduction of [[same-sex marriage in the United Kingdom|same sex marriage]] in England and Wales, calling it "a victory for all of us" and stated "anything that promotes equality, promotes [[Progressivism|progress]]." He added: "You can't take equality 'too far'."&lt;ref&gt;{{cite news|url=http://www.itv.com/news/update/2014-03-29/ricky-gervais-calls-law-change-a-victory-for-all-of-us/|title=Ricky Gervais calls law change 'a victory for all of us'|publisher=ITV |date=29 March 2014|accessdate=1 April 2014}}&lt;/ref&gt;
+
+He identifies as an [[atheist]]&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/radio4/factual/desertislanddiscs_20070624.shtml|title=BBC Radio 4 – Factual&amp;nbsp;— Desert Island Discs&amp;nbsp;— Ricky Gervais}}&lt;/ref&gt; and a [[secular humanism|humanist]],&lt;ref name="BHA"&gt;{{cite web|url=https://humanism.org.uk/about/our-people/patrons/ricky-gervais/|title=Patrons: Ricky Gervais|publisher=British Humanist Association|accessdate=7 April 2015}}&lt;/ref&gt; and states he abandoned [[Christianity]] at the age of eight. In December 2010, he wrote an editorial for ''[[The Wall Street Journal]]'' defending his atheism.&lt;ref&gt;Gervais, Ricky. (19 December 2010) [https://blogs.wsj.com/speakeasy/2010/12/19/a-holiday-message-from-ricky-gervais-why-im-an-atheist/ Ricky Gervais: Why I’m an Atheist]. ''The Wall Street Journal''. Retrieved 13 December 2011.&lt;/ref&gt; He is a patron of [[Humanists UK]], a British charity which promotes the humanist worldview and campaigns for a [[secular state]] and on human rights issues.&lt;ref name="BHA"/&gt;
+
+Gervais is a music fan and has stated that his hero is [[David Bowie]], and his favourite song "[[Letter to Hermione]]".&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/news/ricky-gervais-pens-tribute-david-855258|title=Ricky Gervais Pens Tribute to David Bowie: "I Never Forgot He Was My Hero"|work=The Hollywood Reporter|accessdate=8 April 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.telegraph.co.uk/music/artists/ricky-gervais-on-meeting-his-idol-and-the-perfect-david-bowie-pl/|title=Ricky Gervais on meeting his idol and the perfect David Bowie playlist|website=The Telegraph|accessdate=8 April 2016}}&lt;/ref&gt; He has also stated that his first experience of a live music gig was watching [[Iggy Pop]].&lt;ref&gt;{{cite web|url=http://www.xfm.co.uk/article.asp?id=3670 |title=Ricky Gervais |date=21 June 2004 |accessdate=8 April 2016 |deadurl=unfit |archiveurl=https://web.archive.org/web/20040621113706/http://www.xfm.co.uk/article.asp?id=3670 |archivedate=21 June 2004 }}&lt;/ref&gt; In 2013, he wrote that [[Lou Reed]] was "one of the greatest artists of our time" following his death.&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/arts-entertainment/music/news/david-bowie-and-morrissey-lead-tributes-to-late-singer-lou-reed-8909193.html|title=David Bowie and Morrissey lead tributes to late singer Lou Reed|website=The Independent|accessdate=8 April 2016}}&lt;/ref&gt;
+
+He is a [[Ultimate Fighting Championship|UFC]] fan saying "I love the UFC and I can't get enough of it."&lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/tv/tv-news/ufc-ricky-gervais-reveals-watching-3414915.amp|title=Ricky Gervais reveals watching UFC is his guilty pleasure|date=2014-04-14|work=mirror|access-date=2018-02-02|language=en}}&lt;/ref&gt;
+
+In June 2017, Gervais endorsed [[Labour Party (UK)|Labour Party]] leader [[Jeremy Corbyn]] in the [[United Kingdom general election, 2017|2017 UK general election]]. He [[Twitter|tweeted]]: "OK. I'm not telling you how to vote, but this is a fact. The only vote that will keep [[Theresa May]] out is a vote for @jeremycorbyn. Cheers."&lt;ref name="standard"&gt;{{cite news |last=Ruby|first=Jennifer|url=https://www.standard.co.uk/showbiz/celebrity-news/ricky-gervais-backs-jeremy-corbyn-for-prime-minister-it-s-the-only-vote-that-will-keep-theresa-may-a3557356.html|title=Ricky Gervais backs Jeremy Corbyn for Prime Minister: ‘It’s the only vote that will keep Theresa May out’|work= |location=London|publisher=''[[London Evening Standard]]''|date=5 June 2017|accessdate=14 June 2017}}&lt;/ref&gt;
+
+==Social media==
+
+He joined [[Twitter]] in December 2009 when he first hosted the 66th Golden Globes.&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/news/ricky-gervais-rejoins-twitter-242869 |title=Ricky Gervais Rejoins Twitter|work=[[The Hollywood Reporter]]|accessdate=30 March 2015}}&lt;/ref&gt; After a two-year hiatus, he returned in September 2011.&lt;ref&gt;{{cite web|url=https://www.wired.co.uk/news/archive/2011-10/05/ricky-gervais-twitter|title=I may have been wrong about Twitter|work=[[Wired (magazine)|Wired]]|first=Ricky|last=Gervais|accessdate=30 March 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150318025025/http://www.wired.co.uk/news/archive/2011-10/05/ricky-gervais-twitter|archivedate=18 March 2015|df=dmy-all}}&lt;/ref&gt; In 2012, Gervais won a [[Shorty Award]] for Lifetime Achievement for his popular presence on social media.&lt;ref&gt;{{cite web|url=http://www.adweek.com/fishbowlny/first-look-ricky-gervais-accepts-shorty-award/167414|title=Ricky Gervais Accepts Shorty Avard|work=[[AdWeek]] |author=Richard Horgan|accessdate=30 March 2015}}&lt;/ref&gt; As of March 2015 he was followed by 7 million fans whom he calls 'Twonks'.&lt;ref&gt;{{cite web|url=http://www.interviewly.com/i/ricky-gervais-sep-2013-redditp|title=Ricky Gervais reddit AMA - September 2013|publisher=Interviewly.com|accessdate=30 March 2015}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+He uses social media to promote his work to his fans. After 10 years Gervais brought back his character Brent on his [[YouTube]] channel in a web series ''Learn Guitar with David Brent''.&lt;ref&gt;{{cite web|url=http://www.openculture.com/2013/05/ricky_gervais_presents_learn_guitar_with_david_brent.html|title=Ricky Gervais Presents Learn Guitar with David Brent|work=Open Culture|accessdate=29 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.radiotimes.com/news/2013-07-15/ricky-gervais-breaks-2m-barrier-for-learn-guitar-with-david-brent|title=Ricky Gervais Breaks 2 Million Barrier for Learn Guitar for David Brent|work=Radio Times |accessdate=29 March 2015}}&lt;/ref&gt; Gervais uses many ways to promote his new series, for example for ''Derek'', he posts contests or questions for his fans.&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.com/2013/10/25/ricky-gervais-textswithgran_n_4157836.html|title=Ricky Gervais Asks the Twitterverse To Share Their Elders' Wisdom|publisher=The Huffington Post|accessdate=30 March 2015|date=25 October 2013}}&lt;/ref&gt;
+
+Gervais uses social media to raise awareness of animal welfare. He tweets links to [[petitions]] to rescue animals from captivity, he highlights the plight of animals being used for testing, and he encourages people to adopt dogs instead of buying them from breeders.&lt;ref&gt;{{cite web|url=http://www.onegreenplanet.org/news/ricky-gervais-animal-lover-quotes/|title=10 Outrageously Awesome Quotes From Ricky Gervais That Prove He Is a Bonafide Animal Lover! |publisher=The One Green Planet|author=Jaimi Dolmage|accessdate=31 March 2015}}&lt;/ref&gt; Gervais won the [[Genesis Award]] from the Humane Society in March 2015 for his contribution to raising awareness for animal welfare on social media.&lt;ref&gt;{{cite web|url=http://www.humanesociety.org/about/events/genesis_awards/2015-winners.html#.VP9yBH0Z0L0.twitter|title=
+Winners of the 2015 Genesis Awards|publisher=Humane Society|accessdate=10 March 2015}}&lt;/ref&gt;
+
+In 2014, he was named most influential [[London]] Twitter user.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/technology/2014/aug/28/ricky-gervais-caitlin-moran-london-twitter-peerindex|title=Ricky Gervais pips Caitlin Moran as 'most influential' London Twitter user|work=The Guardian |accessdate=30 March 2015}}&lt;/ref&gt;
+
+==Charity work==
+
+===Boxing===
+In 2002, Gervais took part in a [[Charitable cause|charity]] [[boxing]] match against Grant Bovey, for the UK charity telethon [[Comic Relief]]. He was trained for the three-round contest by famous boxing trainer brothers [[Frank Maloney|Frank]] and Eugene Maloney, at their Fight Factory gymnasium. It was the second televised charity boxing match, the first being [[Bob Mortimer]] against [[Les Dennis]]. The fight was televised by the BBC, and Gervais came out on top by a [[split decision]] verdict.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/news/uknews/1417456/Rocky-Gervais-has-a-knockout-paunch.html|title=Ricky Gervais Has a Knockout Paunch|work=[[The Daily Telegraph|The Telegraph]] |first=Tom |last=Leonard|accessdate=31 January 2015|location=London|date=31 December 2002}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://kickass.so/ricky-gervais-the-fight-boxing-match-2002-avi-t2375100.html|title=Ricky Gervais The Fight (2002 Boxing Match) avi|publisher=Kickass.so|first=Tom |last=Leonard|accessdate=31 January 2015}}&lt;/ref&gt; He donated his £5,000 prize money to the training of a [[Macmillan Cancer Support|Macmillan nurse]] who specialised in cancer support.
+
+===Animal rights===
+Gervais is a supporter of animal rights and has stated that he will leave his fortune to animal charities.&lt;ref&gt;{{cite web|url=http://www.ecorazzi.com/2010/03/10/ricky-gervais-to-leave-fortune-to-animal-charities/|title=Ricky Gervais to Leave Fortune to Animal Charities|publisher=Ecorazzi.com|first=Michael |last=dEstries|accessdate=24 January 2015 }}&lt;/ref&gt; He has spoken out against [[fox hunting]] and [[bullfighting]], and wrote to then British Prime Minister [[Gordon Brown]] urging him to stop the use of [[American black bear|black bear]] fur as caps for the [[Foot Guards]].&lt;ref&gt;{{cite news |publisher=PETA |title=Ricky Gervais: Bearskin Caps Are Not a Laughing Matter |accessdate=14 December 2008|url=http://getactive.peta.org/campaign/ricky_gervais_bearskins?qp_source=pukfbmsg }}&lt;/ref&gt;
+
+In 2013, Gervais was named Person of the Year by [[PETA]] for his work on curbing animal abuse.&lt;ref&gt;{{cite web|url=http://www.peta.org/blog/ricky-gervais-petas-person-year/|title=Ricky Gervais is PETA's Person of the Year|publisher=[[PETA]]|first=Alisa |last=Mullins|accessdate=24 January 2015 }}&lt;/ref&gt; For PETA Gervais voiced a rabbit and [[Pink (singer)|Pink]] played an alligator in an awareness advertisement.&lt;ref&gt;{{cite web|url=http://www.peta.org/videos/ricky-gervais-and-pink-stolen-for-fashion/|title=Ricky Gervais and Pink: Stolen for Fashion|publisher=PETA|accessdate =24 January 2015}}&lt;/ref&gt; Gervais named an [[Asian black bear]], also known as a moonbear, Derek after his character Derek Noakes from his series ''Derek''.&lt;ref&gt;{{cite web|url=https://www.animalsasia.org/intl/media/news/news-archive/ricky-gervais-names-rescued-bear-after-comedy-creation.html|title=Ricky Gervais adopts Peace by Piece bear|publisher=Animal Asia|accessdate=24 January 2015 }}&lt;/ref&gt; In December 2013, Gervais bought a $1000 cake shaped like a moonbear to raise funds for Animal Asia.&lt;ref&gt;{{cite web|url=http://www.london24.com/news/ricky_gervais_flinches_from_cutting_too_cute_bear_shaped_cake_1_3110878|title=Ricky Gervais flinches from cutting ‘too cute’ bear-shaped cake|publisher=London24|accessdate=24 January 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151016221915/http://www.london24.com/news/ricky_gervais_flinches_from_cutting_too_cute_bear_shaped_cake_1_3110878|archivedate=16 October 2015|df=dmy-all}}&lt;/ref&gt; Gervais is active in the prevention of illegal wildlife trade; he supported the handing over of ivory trinkets to the Metropolitan police in London.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/environment/2014/jul/10/ricky-gervais-public-unwanted-wildlife-products|title=Ricky Gervais calls for public to hand in unwanted wildlife products|work=The Guardian|first=Adam |last=Vaughan|accessdate=24 January 2015}}&lt;/ref&gt;
+
+In 2015, Gervais donated a signed acoustic guitar to help raise funds for Story Book Farm Primate Sanctuary in Ontario, Canada, with a special call-out to [[Pockets Warhol (capuchin monkey)|Pockets Warhol]].&lt;ref name="TweetGuitar"&gt;{{cite web|last1=Gervais|first1=Ricky|title=Ricky Gervais tweets about donating guitar|url=https://pbs.twimg.com/media/CIc_x_xWgAAGzcK.png:large|website=Twitter|accessdate=2 March 2017}}&lt;/ref&gt;&lt;ref name="ebayguitar"&gt;{{cite web|title=Ricky Gervais - Personally Owned, Played/Used, and Signed Acoustic Guitar|url=http://www.ebay.ca/itm/181975883211|website=Ebay|accessdate=2 March 2017}}&lt;/ref&gt;&lt;ref name="TorStar20161216"&gt;{{cite news|last1=Casey|first1=Liam|title=Ricky Gervais' guitar raises $6,000 for Ikea monkey's sanctuary|url=https://www.thestar.com/entertainment/2016/01/15/ricky-gervais-guitar-raises-6000-for-ikea-monkeys-sanctuary.html|accessdate=2 March 2017|agency=Canadian Press|publisher=Toronto Star|date=15 January 2016}}&lt;/ref&gt; The guitar which was signed by Gervais was purchased by Danny Young from the United Kingdom who has since had the guitar signed by several celebrities in order to raise further funds for the Story Book Farm Primate Sanctuary. Celebrities who signed the guitar include: [[Brian May]], [[Will Ferrell]], [[Bryan Cranston]], [[Dhani Harrison]], [[Peter Frampton]], [[Ricky Warwick]] and [[Steve Cutts]].&lt;ref&gt;{{Cite news|url=https://www.thestar.com/entertainment/2016/01/15/ricky-gervais-guitar-raises-6000-for-ikea-monkeys-sanctuary.html|title=Ricky Gervais' guitar raises $6,000 for Ikea monkey's sanctuary {{!}} The Star|work=thestar.com|access-date=2018-07-18|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://hub.united.com/united-customer-embarks-rock-tour-2528886210.html|title=Customer Danny Young embarks on a rock royalty tour on United|date=2018-01-26|work=United Hub|access-date=2018-07-18|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.banburyguardian.co.uk/news/seymour-duncan-guitar-demonstrator-danny-young-of-banbury-has-won-ricky-gervais-guitar-to-raise-money-for-a-primate-sanctuary-1-7170030|title=Seymour Duncan guitar demonstrator Danny Young, of Banbury, has won Ricky Gervais guitar to raise money for a primate sanctuary|access-date=2018-07-18|language=en}}&lt;/ref&gt;
+
+In 2017, Gervais was awarded the Lord Houghton Award for Service to Animal Welfare from [[Animal Defenders International]].&lt;ref&gt;{{citenews|title=Ricky Gervais receives top award from animal welfare champions: 'The suffering SICKENS me'|url=https://www.express.co.uk/news/nature/790645/Ricky-Gervais-receives-top-award-animal-welfare-champions-cruelty|work=Daily Express|first=Stuart|last=Winter|accessdate=25 February 2018}}&lt;/ref&gt;
+
+==Filmography==
+
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2001
+| ''[[Dog Eat Dog (2001 film)|Dog Eat Dog]]''
+| Bouncer
+|
+|-
+| 2005
+| ''[[Valiant (film)|Valiant]]''
+| Bugsy (voice)
+| 
+|-
+| rowspan="2" | 2006
+| ''[[For Your Consideration (film)|For Your Consideration]]''
+| Martin Gibb
+|
+|-
+| ''[[Night at the Museum]]''
+| Dr. McPhee
+|
+|-
+| 2007
+| ''[[Stardust (2007 film)|Stardust]]''
+| Ferdy the Fence
+|
+|-
+| 2008
+| ''[[Ghost Town (2008 film)|Ghost Town]]''
+| Dr. Bertram Pincus
+|
+|-
+| rowspan="2" | 2009
+| ''[[Night at the Museum: Battle of the Smithsonian]]''
+| Dr. McPhee
+|
+|-
+| ''[[The Invention of Lying]]''
+| Mark Bellison
+| Also director, writer and producer
+|-
+| 2010
+| ''[[Cemetery Junction (film)|Cemetery Junction]]''
+| Len Taylor
+| Also director, writer and executive producer
+|-
+| rowspan="2" | 2011
+| ''[[Spy Kids: All the Time in the World]]''
+| Argonaut (voice)
+|
+|-
+| ''[[The Muppets (film)|The Muppets]]''
+| rowspan="2" | Himself
+| Deleted scenes
+|-
+| rowspan="2" | 2013
+| ''[[The Unbelievers]]''
+| Documentary
+|-
+| ''[[Escape from Planet Earth]]''
+| Mr. James Bing (voice)
+| 
+|-
+| rowspan="2" | 2014
+|''[[Muppets Most Wanted]]''
+| Dominic Badguy
+| 
+|-
+| ''[[Night at the Museum: Secret of the Tomb]]''
+| Dr. McPhee
+| 
+|-
+| 2015
+| ''[[The Little Prince (2015 film)|The Little Prince]]''
+| The Conceited Man (voice)
+| 
+|-
+| rowspan="2" | 2016
+| ''[[Special Correspondents]]''
+| Ian Finch
+| Also director, writer and producer
+|-
+| ''[[David Brent: Life on the Road]]''
+| [[David Brent]]
+| Also director, writer and producer
+|-
+| 2018
+| ''[[Blazing Samurai]]''
+| Ika Chu (voice)
+| 
+|}
+
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| rowspan="2" | 1999 || ''[[Jim Tavaré|The Jim Tavaré Show]]'' || Various || 7 episodes; also writer
+|-
+| ''[[Comedy Lab]]'' || Clive Meadows || Episode: "Golden Years"; also writer
+|-
+| rowspan="3" | 2000 || ''[[The 11 O'Clock Show]]'' || Various || 20 episodes
+|-
+| ''[[Bruiser (TV series)|Bruiser]]'' || {{N/A}} || Writer
+|-
+| ''[[Meet Ricky Gervais]]'' || Himself (host) || 6 episodes
+|-
+| 2001 || ''[[Spaced]]'' || Dave || Episode: "Dissolution"
+|-
+| 2001–2003 || ''[[The Office (UK TV series)]]'' || [[David Brent]] || 15 episodes; also co-creator, writer and director
+|-
+| 2002 || ''[[Robbie the Reindeer|Robbie the Reindeer in Legend of the Lost Tribe]]'' || Penguin (voice) || Television special
+|-
+| rowspan="2" | 2003 || ''[[Happiness (TV series)|Happiness]]'' || rowspan="3" | Himself || Episode: "Real Dancing"
+|-
+| ''[[Animals (2003 film)|Ricky Gervais Live: Animals]]'' || Stand-up special
+|-
+| rowspan="2" | 2004 || ''[[Politics (2004 film)|Ricky Gervais Live 2: Politics]]'' || Stand-up special
+|-
+| ''[[Alias (TV series)|Alias]]'' || Daniel Ryan || Episode: "[[Alias (season 3)|Façade]]"
+|-
+| 2005–2013 || ''[[The Office (U.S. TV series)]]'' || David Brent || 2 episodes; also executive producer
+|-
+| 2005–2007 || ''[[Extras (TV series)|Extras]]'' || [[Andy Millman]] || 13 episodes; also co-creator, writer, director and executive producer
+|-
+| 2006, 2011 || ''[[The Simpsons]]'' || Charles Heathbar, Himself (voices) || 2 episodes; also writer
+|-
+| 2007 || ''[[Fame (2007 film)|Ricky Gervais Live 3: Fame]]'' || rowspan="3" | Himself || Stand-up special
+|-
+| 2008 || ''Ricky Gervais: Out of England - The Stand-Up Special'' || Stand-up special
+|-
+| rowspan="2" | 2009 || ''[[Sesame Street]]'' || 3 episodes
+|-
+| ''[[SpongeBob SquarePants]]'' || Narrator (voice) || Episode: "[[SpongeBob's Truth or Square]]"
+|-
+| 2010 || ''[[67th Golden Globe Awards]]'' || Himself (host) || Television special
+|-
+| rowspan="2" | 2010–2012 || ''[[The Ricky Gervais Show (animated series)|The Ricky Gervais Show]]'' || Himself (voice)&lt;ref&gt;{{cite web |url=http://www.channel4.com/programmes/the-ricky-gervais-show |title=The Ricky Gervais Show – Channel 4 |publisher=Channel 4 |accessdate=28 April 2010 }}&lt;/ref&gt; || 39 episodes; also co-creator, writer and executive producer
+|-
+| ''[[An Idiot Abroad]]'' || Himself || 21 episodes; also co-creator and executive producer
+|-
+| rowspan="3" | 2010 || ''[[Louie (U.S. TV series)|Louie]]'' || Dr. Ben || 2 episodes
+|-
+| ''Ricky Gervais: Out of England 2 - The Stand-Up Special'' || rowspan="2" | Himself || Stand-up special
+|-
+| ''[[Science (film)|Ricky Gervais Live 4: Science]]'' || Stand-up special
+|-
+| 2011 || ''[[68th Golden Globe Awards]]'' || Himself (host) || Television special
+|-
+| 2011, 2013 || ''[[Life's Too Short (TV series)|Life's Too Short]]'' || rowspan="2" | Himself || 7 episodes; also co-creator, writer, director and executive producer
+|-
+| 2011 || ''[[Curb Your Enthusiasm]]'' || Episode: "The Hero"
+|-
+| rowspan="2" | 2012 || ''[[69th Golden Globe Awards]]'' || Himself (host) || Television special
+|-
+| ''[[Family Guy]]'' || Billy Finn (voice) || Episode: "[[Be Careful What You Fish For]]"
+|-
+| 2012–2014 || ''[[Derek (TV series)|Derek]]'' || Derek Noakes || 14 episodes; also creator, writer, director and executive producer
+|-
+| rowspan="2" | 2015 || ''[[Galavant]]'' || Xanax || Episode: "Dungeons and Dragon Lady"
+|-
+| ''[[BoJack Horseman]]'' || Hedgehog (voice) || Episode: "Out to Sea"
+|-
+| 2016  || ''[[73rd Golden Globe Awards]]'' || Himself (host) || Television special
+|-
+| rowspan="2" | 2018  || ''[[Child Support (game show)|Child Support]]'' || rowspan="2" | Himself || Also creator and executive producer
+|-
+| ''Ricky Gervais: Humanity'' || Stand-up special
+|-
+| rowspan="1" | 2019  || ''[[After Life (TV series)|After Life]]'' || Tony|| Also creator, writer, director and executive producer
+|}
+
+===Video games===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+|-
+| 2006 || ''[[Scarface: The World Is Yours]]'' || Englishman
+|-
+| 2008 || ''[[Grand Theft Auto IV]]'' || Himself 
+|-
+| 2009 || ''[[Night at the Museum: Battle of the Smithsonian (video game)|Night at the Museum: Battle of the Smithsonian]]'' || Dr. McPhee 
+|}
+
+==Awards and nominations==
+{| class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Work
+! Result
+|-
+| rowspan=5|2002 || rowspan=2|[[British Academy Television Awards]] || [[British Academy Television Award for Best Situation Comedy|Best Situation Comedy]] || rowspan=19|''[[The Office (UK TV series)|The Office]]'' || {{won}}
+|-
+| [[British Academy Television Award for Best Comedy Performance|Best Comedy Performance]] || {{won}}
+|-
+| [[British Comedy Awards]] || [[British Comedy Awards#2002|Best Comedy Actor]] || {{won}}
+|-
+| [[Broadcasting Press Guild Awards]] || Writer's Award || {{won}}
+|-
+| [[Royal Television Society]] || Best Actor - Male || {{nom}}
+|-
+| rowspan=5|2003 || rowspan=2|[[British Academy Television Awards]] || [[British Academy Television Award for Best Situation Comedy|Best Situation Comedy]] || {{won}}
+|-
+| [[British Academy Television Award for Best Comedy Performance|Best Comedy Performance]] ||  {{won}}
+|-
+| [[Broadcasting Press Guild Awards]] || Writer's Award || {{won}}
+|-
+| [[Royal Television Society]] || Best Comedy Performance || {{won}}
+|-
+| [[TCA Awards]] || [[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || {{nom}}
+|-
+| rowspan=9|2004 || rowspan=2|[[Golden Globe Award]] || [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]] || {{won}}
+|-
+| [[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || {{won}}
+|-
+| rowspan=2|[[British Academy Television Awards]] || [[British Academy Television Award for Best Situation Comedy|Best Situation Comedy]] || {{won}}
+|-
+| [[British Academy Television Award for Best Comedy Performance|Best Comedy Performance]] || {{won}}
+|-
+| rowspan=2|[[British Comedy Awards]] || [[British Comedy Awards#2004|Best TV Comedy Actor]] || {{nom}}
+|-
+| [[British Comedy Awards#2004|Writers of the Year]] || {{won}}
+|-
+| [[Royal Television Society]] || Best Comedy Performance || {{nom}}
+|-
+| rowspan=2|[[TCA Awards]] || [[TCA Award for Individual Achievement in Comedy|Individual Achievement in Comedy]] || {{won}}
+|-
+| [[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || {{nom}}
+|-
+| rowspan=5|2005 || rowspan=3|[[British Comedy Awards]] || [[British Comedy Awards 2005|Best TV Comedy]] || rowspan=3|''[[Extras (TV series)|Extras]]'' || {{nom}}
+|-
+| [[British Comedy Awards 2005|Best New TV Comedy]] || {{nom}}
+|-
+| [[British Comedy Awards 2005|Best TV Comedy Actor]] || {{nom}}
+|-
+| [[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special|Outstanding Writing for a Miniseries, Movie or a Dramatic Special]] || ''[[The Office Christmas specials]]'' || {{nom}}
+|-
+| [[TCA Awards]] || [[TCA Award for Outstanding Achievement in Movies, Miniseries and Specials]] || rowspan=3|''The Office'' || {{won}}
+|-
+| rowspan=14|2006 || rowspan=2|[[Writers Guild of America Award]] || [[Writers Guild of America Award for Television: Comedy Series|Television: Comedy Series]] || {{nom}}
+|-
+| [[Writers Guild of America Award for Television: New Series|Television: New Series]] || {{nom}}
+|-
+| rowspan=2|[[British Academy Television Awards]] || [[British Academy Television Award for Best Situation Comedy|Best Situation Comedy]] || rowspan=7|''Extras'' || {{nom}}
+|-
+| Best Writer || {{nom}}
+|-
+| [[Banff World Television Festival]] ||Best Comedy Program || {{won}}
+|-
+| rowspan=2|[[British Comedy Awards]] || [[British Comedy Awards#2006|Best TV Comedy]] || {{nom}}
+|-
+| [[British Comedy Awards#2006|Best TV Comedy Actor]] || {{nom}}
+|-
+| [[Broadcasting Press Guild Awards]] || Best Comedy/Entertainment || {{nom}}
+|-
+| [[Rose d'Or|Rose d'Or Light Entertainment Festival]]&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/4809312.stm |title=Entertainment, Rose d'Or honour for TV's Gervais |publisher=BBC News |date=15 March 2006 |accessdate=21 November 2009}}&lt;/ref&gt; || [[Rose d'Or#2006|Honorary Rose for Exceptional Contribution to the Global Entertainment Business]] || {{won}}
+|-
+| rowspan=2|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]] || ''The Office'' || {{won}}
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Comedy Series|Outstanding Writing for a Comedy Series]] || ''Extras'' || {{nom}}
+|-
+| rowspan=2|[[TCA Awards]] || [[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || rowspan=5|''The Office'' || {{won}}
+|-
+| [[TCA Award for Program of the Year|Program of the Year]] || {{nom}}
+|-
+| [[Satellite Award]] || [[Satellite Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || {{nom}}
+|-
+| rowspan=16|2007 || [[Writers Guild of America Award]] || [[Writers Guild of America Award for Television: Comedy Series|Television: Comedy Series]] || {{won}}
+|-
+| [[Producers Guild of America Award]] || [[Producers Guild of America Award for Best Episodic Comedy|Best Episodic Comedy]] || {{won}}
+|-
+| [[Writers' Guild of Great Britain]] || Television Comedy/Light Entertainment || rowspan=3|''Extras'' || {{nom}}
+|-
+| rowspan=2|[[British Academy Television Awards]] || [[British Academy Television Award for Best Situation Comedy|Best Situation Comedy]] || {{nom}}
+|-
+| Best Writer || {{nom}}
+|-
+| [[GLAAD Media Award]] || Outstanding Comedy Series || rowspan=3|''The Office || {{nom}}
+|-
+| [[Teen Choice Awards]] || [[Teen Choice Award for Choice Comedy Series|Choice Comedy Series]] || {{nom}}
+|-
+| rowspan=4|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]]'' || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]] || rowspan=3|''Extras'' || {{won}}
+|-
+| [[Primetime Emmy Award for Outstanding Directing for a Comedy Series|Outstanding Directing for a Comedy Series]] || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Comedy Series|Outstanding Writing for a Comedy Series]] || {{nom}}
+|-
+| [[TCA Awards]] || [[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || ''The Office'' || {{won}}
+|-
+| rowspan=3|[[Satellite Award]] || [[Satellite Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || rowspan=2|''Extras'' || {{nom}}
+|-
+| [[Satellite Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]] || {{nom}}
+|-
+| Best DVD Release of a TV Show || rowspan=2|''The Office'' || {{nom}}
+|-
+| [[American Film Institute|AFI Awards]] || TV Program of the Year || {{won}}
+|-
+| rowspan=16|2008 || rowspan=2|[[Golden Globe Award]] || [[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || rowspan=3|''Extras'' || {{won}}
+|-
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]] || {{nom}}
+|-
+| [[Screen Actors Guild Award]] || [[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Comedy Series|Outstanding Performance by a Male Actor in a Comedy Series]] || {{nom}}
+|-
+| rowspan=2|[[Producers Guild of America Award]] || rowspan=2|[[Producers Guild of America Award for Best Episodic Comedy|Best Episodic Comedy]] || ''The Office'' || {{nom}}
+|-
+| rowspan=5|''Extras'' || {{nom}}
+|-
+| [[Banff World Television Festival]] || Best Comedy Program || {{won}}
+|-
+| [[British Comedy Awards]] || [[British Comedy Awards#2008|Best Television Comedy Actor]] || {{won}}
+|-
+| rowspan=2|[[Broadcasting Press Guild Awards]] || Best Comedy/Entertainment || {{nom}}
+|-
+| Writer's Award || {{nom}}
+|-
+| rowspan=5|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]] || ''The Office'' || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Television Movie|Outstanding Television Movie]] || rowspan=4|''[[Extras (TV series)|Extras: The Extra Special Series Finale]]'' || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie|Outstanding Lead Actor in a Miniseries or a Movie]] || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Directing for a Miniseries, Movie or a Dramatic Special|Outstanding Directing for a Miniseries, Movie or a Dramatic Special]] || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special|Outstanding Writing for a Miniseries, Movie or a Dramatic Special]] || {{nom}}
+|-
+| [[TCA Awards]] || [[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || ''The Office'' || {{nom}}
+|-
+| [[Satellite Award]] || [[Satellite Award for Best Actor – Motion Picture|Best Actor – Motion Picture Musical or Comedy]] || ''[[Ghost Town (2008 film)|Ghost Town]]'' || {{won}}
+|-
+| rowspan=10|2009 || [[Golden Globe Award]] || [[Golden Globe Award for Best Television Series – Musical or Comedy]] || rowspan=2|''The Office'' || {{nom}}
+|-
+| [[Producers Guild of America Award]] || [[Producers Guild of America Award for Best Episodic Comedy|Best Episodic Comedy]] || {{nom}}
+|-
+| [[ASTRA Awards]] || [[ASTRA Awards#2009|Favourite International Personality or Actor]] || ''Extras'' || {{won}}
+|-
+| [[Teen Choice Awards]] || [[Teen Choice Award for Choice Comedy Series|Choice Comedy Series]] || rowspan=2|''The Office'' || {{nom}}
+|-
+| rowspan=3|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]] || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety, Music, or Comedy Special|Outstanding Variety, Music, or Comedy Special]] || rowspan=2|''Ricky Gervais: Out of England - The Stand-Up Special'' || {{nom}}
+|-
+| Outstanding Writing for a Variety, Music or Comedy Special || {{nom}}
+|-
+| PRISM Awards || Comedy Multi-Episode Storyline || rowspan=5|''The Office'' || {{won}}
+|-
+| [[American Film Institute|AFI Awards]] || TV Program of the Year || {{won}}
+|-
+| [[TCA Awards]] || [[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || {{nom}}
+|-
+| rowspan=5|2010 || [[Golden Globe Award]] || [[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || {{nom}}
+|-
+| [[Producers Guild of America Award]] || [[Producers Guild of America Award for Best Episodic Comedy|Best Episodic Comedy]] || {{nom}}
+|-
+| [[Evening Standard British Film Awards]] || [[Evening Standard British Film Awards#2010 Winners|Peter Sellers Award for Comedy]] || ''[[The Invention of Lying]]'' || {{nom}}
+|-
+| rowspan=2|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]]'' || ''The Office'' || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Animated Program (for Programming Less Than One Hour)|Outstanding Animated Program]] || ''[[The Ricky Gervais Show (animated series)|The Ricky Gervais Show]] || {{nom}}
+|-
+| rowspan=7|2011 || [[Producers Guild of America Award]] || [[Producers Guild of America Award for Best Episodic Comedy|Best Episodic Comedy]] || ''The Office'' || {{nom}}
+|-
+| [[TV Quick Awards]] || [[TV Quick Awards#2011 Winners|Best Comedy Show]] || ''The Ricky Gervais Show'' || {{nom}}
+|-
+| rowspan=2|[[The Comedy Awards]] || [[The Comedy Awards#2011 Comedy Awards|Comedy Series]] || ''The Office'' || {{nom}}
+|-
+| [[The Comedy Awards#2011 Comedy Awards|Stand-up Special]] || ''Ricky Gervais: Out of England 2 - The Stand-Up Special'' || {{nom}}
+|-
+| [[Critics' Choice Television Award]] || [[Critics' Choice Television Award for Best Comedy Series|Best Comedy Series]] || rowspan=2|''The Office'' || {{nom}}
+|-
+| rowspan=2|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]] || {{nom}}
+|-
+| Outstanding Special Class Program || ''[[68th Golden Globe Awards]]'' || {{nom}}
+|-
+| rowspan=6|2012 || [[National Television Awards]] || [[17th National Television Awards|Most Popular Factual Programme]] || ''An Idiot Abroad'' || {{nom}}
+|-
+| New York International Short Film Festival || Best Comedy || ''Derek'' || {{won}}
+|-
+| [[Shorty Award]] || [[Shorty Awards#2012 Winners By Category|Lifetime Achievement Award]] || ''The Office'' || {{won}}
+|-
+| [[Broadcasting Press Guild Awards]] || Best Multichannel Programme || ''[[An Idiot Abroad]]'' || {{won}}
+|-
+| [[Primetime Emmy Award]] || Outstanding Special Class Program || ''[[69th Golden Globe Awards]]'' || {{nom}}
+|-
+| [[Satellite Award]] || [[Satellite Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || rowspan=2|''The Office'' || {{nom}}
+|-
+| rowspan=2|2014 || [[People's Choice Awards]]&lt;ref name=Noms&gt;[http://www.eonline.com/news/477644/glee-katy-perry-lead-people-s-choice-award-nominations-2-broke-girls-kat-dennings-and-beth-behrs-to-host Glee, Katy Perry Lead People's Choice Award Nominations, 2 Broke Girls' Kat Dennings and Beth Behrs to Host] E! Online, Retrieved 5 November 2013&lt;/ref&gt; || [[40th People's Choice Awards|Favorite Series We Miss Most]] || {{nom}}
+|-
+| [[Primetime Emmy Award]]&lt;ref&gt;{{cite news|url = https://www.nytimes.com/2014/07/11/arts/television/2014-emmy-nominations-game-of-thrones-true-detective-among-the-honored.html?_r=0|title=2014 Emmy Nominations: ‘Breaking Bad,’ ‘True Detective’ Among the Honored|date=10 July 2014|work= The New York Times|accessdate=10 July 2014|first=Bill|last=Carter}}&lt;/ref&gt; || [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]] || rowspan=3|''[[Derek (TV series)|Derek]]'' || {{nom}}
+|-
+| Rowspan=2|2015 || [[Golden Globe Award]]&lt;ref&gt;[http://www.dickclark.com/wp-content/uploads/2014/12/72nd-Annual-Golden-Globes-Nominations.pdf 72ND ANNUAL GOLDEN GLOBE® AWARDS NOMINEES ANNOUNCED]. Retrieved 11 December 2014.&lt;/ref&gt; || [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]] || {{nom}}
+|-
+| [[Primetime Emmy Award]]&lt;ref&gt;{{cite news|url = https://www.nytimes.com/2015/07/17/arts/television/emmy-nominations-2015-list.html?_r=0|title=Emmy Nominations 2015: The Nominees|work=The New York Times|accessdate=19 July 2015|date=16 July 2015}}&lt;/ref&gt; || Outstanding Lead Actor in a Limited Series or Movie || {{nom}}
+|-
+| Rowspan=2|2016 || [[Primetime Emmy Award]]&lt;ref&gt;{{cite web|url=http://www.latimes.com/entertainment/tv/la-et-st-emmys-2016-nominees-winners-list-20160714-snap-story.html|title=Nominations for the 68th Primetime Emmy Awards|last=Lewis|first=Dave|date=July 14, 2016|work=[[Los Angeles Times]]|accessdate=July 14, 2016}}&lt;/ref&gt; || [[Primetime Emmy Award for Outstanding Variety Special (Live)|Outstanding Special Class Program]] || ''[[73rd Golden Globes]]'' || {{nom}}
+|-
+| [[Britannia Awards]]&lt;ref&gt;{{cite web|url=http://www.bafta.org/los-angeles/britannia-awards/news/ricky-gervais-to-be-honored-at-the-british-academy-britannia|title=Ricky Gervais to be honored at the British Academy Britannia Awards|date=19 July 2016|accessdate=20 September 2016}}&lt;/ref&gt; || colspan="2"|Charlie Chaplin Britannia Award for Excellence in Comedy || {{won}}
+|-
+| 2017 || [[Writers Guild of America Award]]&lt;ref&gt;{{cite web|last1=Petski|first1=Denise|title=WGA TV Nominations: ‘The Americans’, ‘Stranger Things’, ‘Westworld’, ‘This Is Us’ Among Nominees|url=http://deadline.com/2016/12/wga-tv-nominations-the-americans-stranger-things-this-is-us-westworld-1201864546/|website=Deadline|accessdate=7 December 2016}}&lt;/ref&gt; || Comedy/Variety (Music, Awards, Tributes) – Specials || ''73rd Golden Globes'' || {{nom}}
+|}
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+*{{cite book|last=Gervais|first=Ricky|title=Flanimals|publisher=Putnam Juvenile |date=March 2005|isbn=0399243976}}
+*{{cite book|last=Gervais|first=Ricky|title=More Flanimals|publisher=Putnam Juvenile |date=March 2006|isbn=0399246053}}
+*{{cite book|last=Gervais|first=Ricky|title=Flanimals of the Deep|publisher=Faber Children's Books|date=October 2006|isbn=0571234038}}
+*{{cite book|last=Gervais|first=Ricky|title=Flanimals: The Day of the Bletchling|publisher=Faber Children's Books|date=October 2007|isbn=0571238513}}
+*{{cite book|last=Gervais|first=Ricky|title=Flanimals: A Complete Natural History|publisher=Faber Children's Books|date=December 2007|isbn=0571238505}}
+*{{cite book|last=Gervais|first=Ricky|title=Flanimals Pop-up|publisher=Candlewick |date=March 2010|isbn=0399246053}}
+*{{cite book|last=Gervais|first=Ricky|first2=Stephen|last2= Merchant|title=Extras: The Illustrated Scripts: Series 1 &amp; 2|publisher=Little, Brown Book Group|date=November 2006|isbn=0316030392}}
+*{{cite book|last=Gervais|first=Ricky|first2=Stephen |last2=Merchant|title=The Office: The Scripts Series 1|publisher=BBC Books|date=August 2007|isbn=0563488476}}
+*{{cite book|last=Gervais|first=Ricky|first2=Stephen|last2= Merchant|title= The Office: The Scripts Series 2|publisher=BBC Books|date=August 2007|isbn=0563487410}}
+*{{cite book|last=Pilkington|first=Karl|title=Ricky Gervais presents: The World of Karl Pilkington|publisher=Hachette Books|date=September 2006|isbn=1401303420}}
+
+==Interviews==
+*Time Magazine (2008). [http://www.time.com/time/magazine/article/0,9171,1840580,00.html ''Renaissance Man: Ricky Gervais''] by Joel Stein
+*The Independent, et al. (2005). [https://www.independent.co.uk/news/people/profiles/ricky-gervais-my-life-as-a-superstar-321354.html ''Ricky Gervais: My life as a pure superstar''] 
+*The Guardian Newspaper, et al. (2005). [https://www.theguardian.com/theobserver/2005/jul/10/comedy.television "''Second Coming''"] by Tim Adams
+* [http://bigthink.com/rickygervais Gervais' video interview on Big Think]
+* [http://kempton.wordpress.com/2010/06/24/ricky-gervais-sir-peter-ustinov-award-for-comedy-2010-banff-world-tv-festival/ Video interview &amp; acceptance speech of Ricky Gervais winning Sir Peter Ustinov Award for Comedy @2010 Banff World TV Festival]
+
+==External links==
+{{Wikiquote|The Ricky Gervais Show}}
+{{Commons category|Ricky Gervais}}
+* {{Official Website|http://www.rickygervais.com}}
+* {{IMDb name|315041}}
+* {{Rotten-tomatoes-person|ricky_gervais|Ricky Gervais}}
+
+{{Ricky Gervais}}
+{{Navboxes
+| title = Awards for Ricky Gervais
+| list =
+{{British Academy Television Award for Best Comedy Performance}}
+{{BAFTA Los Angeles Britannia Awards}}
+{{EmmyAward ComedyLeadActor 2001-2025}}
+{{GoldenGlobeBestActorTVComedy 1990-2009}}
+{{Satellite Award Best Actor Motion Picture}}
+{{TCA Award for Individual Achievement in Comedy}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gervais, Ricky}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:20th-century English male actors]]
+[[Category:21st-century English male actors]]
+[[Category:20th-century British writers]]
+[[Category:21st-century British writers]]
+[[Category:Male actors from Berkshire]]
+[[Category:Male new wave singers]]
+[[Category:Alumni of University College London]]
+[[Category:BAFTA winners (people)]]
+[[Category:English atheists]]
+[[Category:Best Musical or Comedy Actor Golden Globe (television) winners]]
+[[Category:English people of French-Canadian descent]]
+[[Category:Outstanding Performance by a Lead Actor in a Comedy Series Primetime Emmy Award winners]]
+[[Category:English male comedians]]
+[[Category:English comedy writers]]
+[[Category:English male film actors]]
+[[Category:English film directors]]
+[[Category:English new wave musicians]]
+[[Category:English people of Canadian descent]]
+[[Category:English people of French descent]]
+[[Category:English podcasters]]
+[[Category:English radio DJs]]
+[[Category:English radio personalities]]
+[[Category:English screenwriters]]
+[[Category:English stand-up comedians]]
+[[Category:English male television actors]]
+[[Category:English television directors]]
+[[Category:English television producers]]
+[[Category:English television writers]]
+[[Category:English humanists]]
+[[Category:English satirists]]
+[[Category:English humorists]]
+[[Category:English social commentators]]
+[[Category:English former Christians]]
+[[Category:British atheism activists]]
+[[Category:Secular humanists]]
+[[Category:English male voice actors]]
+[[Category:People from Reading, Berkshire]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:LGBT rights activists from the United Kingdom]]
+[[Category:Writers Guild of America Award winners]]
+[[Category:British secularists]]
+[[Category:Showrunners]]
+[[Category:Critics of religions]]
+[[Category:Critics of creationism]]
+[[Category:Atheism in the United Kingdom]]
+[[Category:Social critics]]
+[[Category:Cultural critics]]
+[[Category:Antitheists]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]
+[[Category:20th-century atheists]]
+[[Category:21st-century atheists]]
+[[Category:British male comedy actors]]</text>
+      <sha1>nsfsew1ke9j4v6m58p9719mscm2aq8z</sha1>
+    </revision>
+  </page>
+</mediawiki>

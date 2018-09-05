@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sidney Harris (cartoonist)</title>
+    <ns>0</ns>
+    <id>12249382</id>
+    <revision>
+      <id>800160824</id>
+      <parentid>785390618</parentid>
+      <timestamp>2017-09-11T20:57:29Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4356">{{About|the science cartoonist|other people named Sidney or Sydney Harris|Sidney Harris (disambiguation)}}
+'''Sidney Harris''', a.k.a. '''S. Harris''', is a [[cartoonist]], best known for his cartoons about [[science]], [[mathematics]], and [[technology]].
+
+==About==
+He was born in [[Brooklyn, New York]] some time before [[World War II]],&lt;ref name="sfsite"&gt;{{cite web
+|url=http://www.sfsite.com/fsf/bibliography/fsfstorieswhoh01.htm
+|title=Fantasy &amp; Science Fiction: Stories (by author)
+|accessdate=2007-07-14
+}}&lt;/ref&gt; and has been drawing science-related cartoons at least since 1955.&lt;ref name="sfsite" /&gt;&lt;ref name="sigma_xi"&gt;{{cite web
+|url=http://www.sigmaxi.org/programs/prizes/honor.harris.shtml
+|title=Sigma Xi: Sidney Harris
+|accessdate=2007-07-14
+|work=Sigma Xi website
+}}&lt;/ref&gt; His cartoons have appeared in numerous scientific journals, notably ''[[American Scientist]]'', and also in [[science fiction]] magazines and many textbooks.&lt;ref&gt;{{cite web|title=Physics for Scientists and Engineers with Modern Physics [Hardcover]|url=https://www.amazon.com/Physics-Scientists-Engineers-Chapters-CD-ROM/dp/0030317169|work=Amazon.com|accessdate=27 March 2013}}&lt;/ref&gt; His work has been reprinted in a dozen collections.&lt;ref name="sigma_xi" /&gt; He was elected as the 19th honorary member of [[Sigma Xi]], a scientific [[honor society]], in 1997.&lt;ref name="sigma_xi" /&gt;&lt;ref&gt;{{cite web
+|url=http://www.sigmaxi.org/programs/prizes/honor.shtml
+|title=Sigma Xi: Honorary Membership
+|accessdate=2007-07-14
+|work=Sigma Xi website
+}}&lt;/ref&gt; Harris obtained his degree from [[Brooklyn College]] and then attended the [[Art Students League]] in New York. He began his career as a science cartoonist in 1955. Throughout his drawing career, he has drawn thousands of cartoons many of which have been published. Over 600 of Harris' drawings have been published by ''American Scientist'' since the 70s. Harris also has had more than 20  cartoon collections published.&lt;ref name=Xi&gt;{{cite web|title=Sigma Xi: The Scientific Research Society: Sidney Harris|url=http://www.sigmaxi.org/programs/prizes/honor.harris.shtml|publisher=Sig Maxi|accessdate=16 March 2013}}&lt;/ref&gt;
+
+==Appearances==
+Harris's cartoons have appeared in a number of publications, including ''Science'', ''[[Current Contents]]'', ''Discover'', ''[[Physics Today]]'', ''[[The New Yorker]]'', ''[[The Wall Street Journal]]'', ''[[Harvard Business Review]]'', ''[[The Chronicle of Higher Education]]'', ''[[Chicago (magazine)|Chicago]]'', and ''[[National Lampoon (magazine)|National Lampoon]]''. Since 1985, his drawings, paintings, and collections can be found in various museums throughout the US. Harris has a traveling exhibit, created by Sigma Xi and the [[New York Hall of Science]], to appear in local museums.&lt;ref name=Xi /&gt;
+
+==Bibliography==
+* ''What's So Funny About Science?'' (1977) {{ISBN|978-0-913232-39-2}}
+* ''Chicken Soup and Other Medical Matters'' (1979)
+* ''All Ends Up: Cartoons from American Scientist'' (1980)
+* ''What's So Funny About Computers'' (1983)
+* ''Science Goes to the Dogs'' (1985)
+* ''You Want Proof? I'll Give You Proof! More Cartoons from Sidney Harris'' (1990)
+* ''Can't You Guys Read? Cartoons on Academia'' (1991)
+* ''Chalk Up Another One: The Best of Sidney Harris'' (1992) {{ISBN|978-0-8135-2260-9}}
+* ''From Personal Ads to Cloning Labs: More Science Cartoons from Sidney Harris'' (1992)
+* ''So Sue Me! Cartoons on the Law'' (1993)
+* ''Stress Test: Cartoons on Medicine'' (1994)
+* ''What's So Funny About Business? Yuppies, Bosses, and other Capitalists'' (1995)
+* ''There Goes the Neighborhood: Cartoons on the Environment'' (1996)
+* ''Einstein Atomized: More Science Cartoons'' (1996)
+* ''The Interactive Toaster: Cartoons on Business'' (1996)
+* ''Freudian Slips: Cartoons on Psychology'' (1997)
+* ''49 Dogs, 36 Cats and a Platypus: Animal Cartoons'' (2000) {{ISBN|978-0813527130}}
+* ''Einstein Simplified: Cartoons on Science'' (2004) {{ISBN|978-0-8135-3386-5}}
+* ''101 Funny Things About Global Warming'' (2007) {{ISBN|978-1-59691-482-7}}
+* ''Aside From The Cockroach, How Was Everything? Cartoons on the Dangers of Eating'' (2013)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{Official website|http://www.sciencecartoonsplus.com/}}
+
+{{DEFAULTSORT:Harris, Sidney}}
+[[Category:American cartoonists]]
+[[Category:Living people]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>fz5nvtp4d6816zg7yjbgdy3u93jrgap</sha1>
+    </revision>
+  </page>
+</mediawiki>

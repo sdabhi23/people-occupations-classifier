@@ -1,0 +1,235 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Hodgman</title>
+    <ns>0</ns>
+    <id>3252494</id>
+    <revision>
+      <id>848034301</id>
+      <parentid>845517134</parentid>
+      <timestamp>2018-06-29T11:08:38Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32106">{{Use mdy dates|date=August 2015}}
+{{Infobox person
+| name               = John Hodgman
+| image              = johnhodgmanpic.jpg
+| caption            = 
+| birth_name         = John Kellogg Hodgman
+| birth_date         = {{birth date and age|1971|06|03}}
+| birth_place        = [[Brookline, Massachusetts]], U.S.
+| alma_mater         = [[Yale University]]
+| occupation         = Actor, author, humorist, television personality
+| years_active       = 2005–present
+}}
+
+'''John Kellogg Hodgman''' (born June 3, 1971) is an American [[author]], [[actor]], and [[humorist]]. In addition to his published written works, such as ''[[The Areas of My Expertise]]'', ''[[More Information Than You Require]]'', and ''[[That Is All (2011 book)|That Is All]]'', he is known for his personification of a [[Personal computer|PC]] in contrast to [[Justin Long]]'s personification of a [[Macintosh computer|Mac]] in [[Apple Computer|Apple's]] "[[Get a Mac]]" [[advertising campaign]], and for his work as a contributor on [[Comedy Central]]'s ''[[The Daily Show]] with Jon Stewart.''
+
+His writings have been published in ''[[One Story]]'' (to which he contributed the debut story "[[Villanova (short story)|Villanova]]"), ''[[Paris Review|The Paris Review]]'', ''[[Timothy McSweeney's Quarterly Concern|McSweeney's Quarterly Concern]]'', ''[[Wired (magazine)|Wired]]'' and ''[[The New York Times Magazine]],'' for which he is editor of the humor section. He contributes to ''[[This American Life]],'' and [[CBC Radio One]]’s ''[[WireTap (radio program)|Wiretap]].'' His first book and accompanying audio narration, ''[[The Areas of My Expertise]]'', a [[satire|satirical]] [[tongue-in-cheek]] [[almanac]] that contains almost no factual information, was published in 2005. His second book, ''[[More Information Than You Require]],'' went on sale October 21, 2008.  His third book, ''[[That Is All (2011 book)|That Is All]]'', went on sale November 1, 2011. ''[[Vacationland: True Stories from Painful Beaches]],'' a collection of "real life wanderings" about Hodgman's life experiences (especially in Western Massachusetts and coastal Maine) was published on October 24, 2017.&lt;ref&gt;{{Cite book|url=https://www.penguinrandomhouse.com/books/557020/vacationland-by-john-hodgman/9780735224803/|title=Vacationland by John Hodgman {{!}} PenguinRandomHouse.com|language=en-US}}&lt;/ref&gt;
+
+Hodgman was the headline speaker at the 2009 [[Radio and Television Correspondents' Association]] dinner in Washington, D.C.
+
+==Early life==
+Hodgman was born and raised in [[Brookline, Massachusetts]], the son of Eileen (Callahan), a nurse and educator, and John Francis Hodgman, the President and CEO of the [[Massachusetts Technology Development Corporation]] and a professor at [[Tufts University]].&lt;ref&gt;{{Cite web |url=http://www.genealogy.com/ftm/m/a/n/Emory-Mann/GENE2-0012.html |title=Genealogy Report: Descendants of Thomas Hodgman |website=Genealogy.com |access-date=22 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.highbeam.com/doc/1P2-8595825.html |title=Eileen C. Hodgman, 58 Founder of Mentor Program |date=14 June 2000 |website=The Boston Globe |access-date=22 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://gordon.tufts.edu/faculty/hodgman |title=John Hodgman |accessdate=July 6, 2015 |publisher=Gordon School, Tufts University |deadurl=yes |archiveurl=https://web.archive.org/web/20150707133648/http://gordon.tufts.edu/faculty/hodgman |archivedate=July 7, 2015 |df=mdy-all }}&lt;/ref&gt;  He attended the [[Heath School]] and [[Brookline High School]], where he edited the underground magazine ''Samizdat'', named for the [[Samizdat|grassroots dissident publishing movement produced under the Soviet Bloc]].&lt;ref&gt;{{Cite web |url=http://www.boston.com/ae/tv/articles/2006/09/24/true_to_his_nerd/ |title=True to his nerd: John Shackleford-Hodgman finds a niche as 'Daily Show' resident expert, mendacious author, and dorky PC |last=Chase |first=Katie Johnston |date=September 24, 2006 |website=[[The Boston Globe]] |access-date= December 3, 2007 |quote=He was focused, and a touch eccentric, from the start. "He was a legend at his own elementary school," the Heath School... and in eighth grade he was voted most likely to become the editor of The New Yorker....}}&lt;/ref&gt;&lt;ref name="Scwartz Factor"&gt;{{cite web |last=Schwartz |first=Jason |title=The Schwartz Factor: John Hodgman |url=http://www.bostonmagazine.com/articles/2008/10/the-schwartz-factor-john-hodgman/ |work=Boston Magazine |accessdate=May 15, 2012}}&lt;/ref&gt;  During his last year of high school, he hosted the weekly ''Radio Consuelo'' show on [[freeform (radio format)|freeform]] station [[WMFO]] in [[Medford, Massachusetts|Medford]].&lt;ref name="Transom Consuelo"&gt;{{cite web |title=John Hodgman, Radio Consuelo |url=http://transom.org/?page_id=6426 |publisher=Transom.org |accessdate=May 15, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130114223012/http://transom.org/?page_id=6426 |archivedate=January 14, 2013 |df=mdy-all }}&lt;/ref&gt;
+
+In 1994 Hodgman graduated from [[Yale University]] with a degree in literature.&lt;ref&gt;{{Cite web |url=http://yaledailynews.com/blog/2007/02/05/yale-alumni-move-up-in-the-world-of-comedy/ |title=Yale alumni move up in the world of comedy |last=Dempsey |first=Rachel |date=5 February 2007 |website=Yale Daily News |access-date=4 April 2011}}&lt;/ref&gt;&lt;ref&gt;{{Cite magazine |last=Rogers |first=Adam |date=22 September 2008 |title=Q&amp;A: John Hodgman on Perfecting the Illusion of Expertise |url=https://archive.wired.com/culture/lifestyle/magazine/16-10/pl_print_hodgman?currentPage=2 |magazine=Wired |publisher=Condé Nast |access-date=22 February 2017}}&lt;/ref&gt; Before gaining fame as a writer, Hodgman worked as a literary agent at Writers House in [[New York City]], where he represented [[Darin Strauss]], [[Deborah Digges]], and actor [[Bruce Campbell]], among others. Hodgman has used his experience as an agent in his column “Ask a Former Professional Literary Agent” at ''[[McSweeney's]] Internet Tendency.''
+
+==Career==
+Hodgman appeared on ''[[The Daily Show]]'' on November 16, 2005, to promote his book, ''[[The Areas of My Expertise]].'' Host [[Jon Stewart]] described the book as “very funny” and said that the section on [[hobo]] names in particular was written with “a certain kind of genius.” Hodgman has returned to the ''Daily Show'' numerous times for "resident expert" interview segments,&lt;ref&gt;{{cite web |url=http://www.thedailyshow.com/videos/tag/John+Hodgman |title=Daily Show videos tagged John Hodgman |publisher=Thedailyshow.com |date= |accessdate=2011-04-04}}&lt;/ref&gt; and has been listed on the show's web site as a contributor.&lt;ref&gt;{{cite web |url=http://thedailyshow.cc.com/news-team/john-hodgman |title=Daily Show Bio of John Hodgman |publisher=[[Comedy Central]] |deadurl=no |archiveurl=https://web.archive.org/web/20150425180935/http://thedailyshow.cc.com/news-team/john-hodgman |archivedate=2015-04-25 |accessdate=2015-04-25}}&lt;/ref&gt;
+
+In 2005, Hodgman played a character named "The Deranged Millionaire" in [[They Might Be Giants]]'s ''[[Venue Songs DVD/CD]]'', narrating in between songs with dialog he co-wrote with the band. The Deranged Millionaire character also appeared on the Daily Show on April 2, 2014.&lt;ref&gt;{{Cite web |url=http://www.cc.com/episodes/wqf1x5/the-daily-show-with-jon-stewart-april-2--2014---samuel-l--jackson-season-19-ep-19085 |title=April 2, 2014 - Samuel L. Jackson |date=2 April 2014 |website=The Daily Show with John Stewart |publisher=Comedy Central |access-date=22 February 2017}}&lt;/ref&gt;  He also narrated a number of ''Venue Songs''-themed setlists during the band's live shows in 2005, and has introduced the band while in the role of The Deranged Millionaire up to May 16, 2007. Hodgman appeared again with They Might Be Giants on ''[[The Late Late Show with Craig Ferguson]]'', on December 11, 2009. Hodgman performed the spoken-word portions of the song ''[[Why Does the Sun Shine?]]''
+
+[[File:John Hodgman.jpg|thumb|left|Hodgman at a reading in 2006]]
+In February 2006, Hodgman appeared on ''[[Attack of the Show]],'' a show that aired daily on [[G4 (U.S. TV channel)|G4]], to share some insight with the host and promote his book ''[[The Areas of My Expertise]]''. In this appearance, Hodgman recounted the sad tale of the lobster (which he said were actually a small, furry, extinct species, killed and replaced by the creatures we think of as lobsters today) and brought along [[Jonathan Coulton]], a frequent Hodgman collaborator and musical director of the Little Gray Book lectures. Coulton performed a song called "Furry Old Lobster."&lt;ref&gt;{{Cite web |url=http://www.jonathancoulton.com/music/thingaweek/FurryOldLobster.mp3 |title=Furry Old Lobster |website=Jonathan Coulton |deadurl=yes |archiveurl=https://web.archive.org/web/20060113214229/http://www.jonathancoulton.com/music/thingaweek/FurryOldLobster.mp3 |archivedate=January 13, 2006 |df=mdy-all }}&lt;/ref&gt; Also, on October 18, 2008, Hodgman appeared again on ''Attack of the Show'' to talk about his newest book, ''More Information Than You Require.''
+
+Hodgman appeared in the North American [[Get a Mac]] [[advertising campaign]] for [[Apple Inc.]], which ran from May 2006 through 2010. In the ads he plays the [[personification]] of a [[IBM PC compatible|PC]] alongside his [[Apple Macintosh|Mac]] counterpart, played by actor [[Justin Long]]. In reality, however, Hodgman himself became a Mac user in 1984.&lt;ref&gt;{{cite web |author=Running time: 1:45:29 |url=http://twit.tv/167 |title=TWiT Podcast |publisher=Twit.tv |date= |accessdate=2011-04-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20110521155003/http://twit.tv/167 |archivedate=May 21, 2011 |df=mdy-all }}&lt;/ref&gt;
+
+In 2007, Hodgman appeared in the "[[Bowie (Flight of the Conchords)|Bowie]]" episode of the [[HBO]] television series ''[[Flight of the Conchords (TV series)|Flight of the Conchords]].'' He played the manager of a musical greeting card company who was considering using one of the band's songs for a greeting card.
+
+On October 1, 2008, ''[[Boing Boing]]''{{'}}s [[Xeni Jardin]] announced the official debut of the web series ''[[SPAMasterpiece Theater]]''. Hodgman himself described it as "true tale[s] of romance, adventure, infamy, and low-cost prescription drugs, all culled from the reams of actual, unsolicited emails, received here by us and people like you -- what we call SPAM."&lt;ref name="Boing Boing tv 2008a"&gt;{{cite web|author=Boing Boing tv|url=https://www.youtube.com/watch?v=7QEFnxaIswM|title=John Hodgman in BBtv's SPAMasterpiece Theater (comedy)|work=[[YouTube]]|publisher=[[Google]]|date=October 2, 2008|accessdate=September 10, 2016}}&lt;/ref&gt;&lt;ref name="Jardin 2008f"&gt;{{cite web|first1=Xeni|last1=Jardin|url=http://tv.boingboing.net/2008/10/01/john-hodgman-in-bbtv.html|title=John Hodgman in BBtv's SPAMasterpiece Theater.|work=Boing Boing Video|publisher=[[Boing Boing]]|date=October 1, 2008|accessdate=September 10, 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20081007205404/http://tv.boingboing.net/2008/10/01/john-hodgman-in-bbtv.html|archivedate=October 7, 2008|df=mdy-all}}&lt;/ref&gt;&lt;ref name="Martellaro 2008"&gt;{{cite web|first1=John|last1=Martellaro|url=https://www.macobserver.com/tmo/article/John_Hodgman_Hosts_SPAMasterpiece_Theater|title=John Hodgman Hosts SPAMasterpiece Theater|work=The Mac Observer|publisher=The Mac Observer, Inc.|date=October 9, 2010|accessdate=September 6, 2016}}&lt;/ref&gt;
+
+Hodgman appeared in the episode "[[No Exit (Battlestar Galactica)|No Exit]]" of ''[[Battlestar Galactica (2004 TV series)|Battlestar Galactica]],'' appearing as the civilian neurosurgeon, Dr. Gerard. He had earlier visited the set in 2005 to write about the show for ''[[The New York Times Magazine]].''&lt;ref&gt;{{cite news |url=https://www.wired.com/culture/lifestyle/magazine/16-10/pl_print_hodgman |title=Q&amp;A: John Hodgman on Perfecting the Illusion of Expertise |date=September 22, 2008 |accessdate=2008-10-08 |last= |first= |format= |work=Wired}}&lt;/ref&gt;
+
+On June 19, 2009, Hodgman was the headline speaker at the 2009 [[Radio and Television Correspondents' Association]] dinner in Washington, D.C. Hodgman referred to this event as a "Nerd Prom." Many of his jokes were on the topic of President [[Barack Obama]] as the first nerd president, and quizzed the president on his knowledge of [[Frank Herbert]]'s novel ''[[Dune (novel)|Dune]].''
+&lt;ref&gt;{{Cite web |url=https://www.wired.com/2009/06/john-hodgman-brings-the-geek-to-president-obama/ |title=John Hodgman Brings the Geek to President Obama |last=Blum |first=Matt |date=22 June 2009 |website=Wired |access-date=22 February 2017}}&lt;/ref&gt;
+
+Hodgman appeared in the last two episodes of the first season of ''[[Bored to Death]],'' "The Case of the Stolen Sperm" and "Take a Dive," as a literary reviewer who wrote a bad review that offended the main character.&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt1477261/ |title=Bored to Death The Case of the Stolen Sperm |work=[[IMDb]]}}&lt;/ref&gt; He returned in the second and third seasons.
+
+Hodgman voice-acted on ''[[The Venture Bros.]]'' in the episode "Self-Medication" as Dale Hale, an ex-boy detective in therapy following the death of his father. He has since had multiple appearances in Season 5 as O.S.I. operative Snoopy, along with other roles.
+
+Also, during the [[61st Primetime Emmy Awards]] in September 2009, Hodgman provided [[Color commentator|color commentary]] with made up trivia about the winners.&lt;ref&gt;{{Cite web |url=http://www.vulture.com/2009/09/john_hodgman.html?imw=Y&amp;f=most-viewed-24h5 |title=John Hodgman’s Top Five Emmy-Winner Riffs |last=Graham |first=Mark |date=21 September 2009 |website=Vulture |publisher=New York Media LLC |access-date=22 February 2017}}&lt;/ref&gt; He reprised this role for the [[62nd Primetime Emmy Awards]] in August 2010.
+
+Because of his continuing support for ''[[QI]],'' the [[BBC]]'s intellectual comedy quiz, to be shown on [[BBC America]],&lt;ref&gt;{{cite web |url=http://www.aoltv.com/2009/08/08/hodgman-activates-rage-gland-against-bbc-america-for-not-picking/ |title=Hodgman activates rage gland against BBC America for not picking up '&amp;#39;QI'&amp;#39; |publisher=AOL TV |date= |accessdate=2013-12-20}}&lt;/ref&gt; Hodgman was invited to appear on the show. He was the first “fifth panelist" on the program broadcast December 3, 2009 (the usual line-up being [[Stephen Fry]] as host, [[Alan Davies]] as regular panelist and three guests)—and won, continuing the tradition of a guest winning their "rookie" appearance on the show.&lt;ref&gt;{{cite web |url=http://www.comedy.org.uk/guide/tv/qi/videos/945/john_hodgman_and_qi/ |title=The British Comedy Guide: John Hodgman and '&amp;#39;QI'&amp;#39; |publisher=Comedy.org.uk |date= |accessdate=2011-04-04}}&lt;/ref&gt;
+
+In 2012, Hodgman guest-starred in an episode of ''[[Delocated]]'' called "Reunion Show," acting as the host of a fictional [[show-within-a-show]]. Also in 2012, he appeared as a psychiatrist in an episode of ''[[Community (TV series)|Community]]'' called "Curriculum Unavailable."
+
+Hodgman made a [[guest appearance]] on the [[sitcom]] series ''[[Husbands (sitcom)|Husbands]]'' in its second season.&lt;ref name="Out"&gt;{{Cite web |url=http://www.out.com/entertainment/popnography/2012/09/04/husbands-cheeks-mekhi-phifer |title=WATCH: Episode 2 of 'Husbands' |publisher=Out.com |accessdate=September 12, 2012 |postscript=&lt;!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. --&gt;{{inconsistent citations}}}}&lt;/ref&gt;
+
+In 2013, Hodgman starred as "Special Agent Henry Topple" in ''[[Wired (magazine)|Wired]]''&lt;nowiki&gt;'&lt;/nowiki&gt;s first scripted [[web series]] ''[[Codefellas]]''.&lt;ref name="YouTube"&gt;{{cite web |author=[[Wired (magazine)|Wired]] |url=https://www.youtube.com/watch?v=aHz7iYMqSZQ |title=Codefellas EP. 1: When Topple met Winters – WIRED – YouTube |publisher=[[YouTube]] |date=June 21, 2013 |accessdate=2013-06-23}}&lt;/ref&gt;&lt;ref name="Wired’s ‘Codefellas’ Plays NSA Privacy Flap for Laughs – Variety"&gt;{{cite web |author=[[Todd Spangler]] |url=https://variety.com/2013/digital/news/wireds-codefellas-plays-nsa-privacy-flap-for-laughs-1200500482/ |title=Wired’s ‘Codefellas’ Plays NSA Privacy Flap for Laughs – Variety |publisher=[[Variety (magazine)|Variety]] |date=June 21, 2013 |accessdate=2013-06-23}}&lt;/ref&gt;&lt;ref name="John Hodgman LIVE – HuffPost Live"&gt;{{cite web |author=Camilleri, Ricky |url=http://live.huffingtonpost.com/r/segment/john-hodgman-netflix-special/51c085f52b8c2a0a5000008f |title=John Hodgman LIVE – HuffPost Live |publisher=[[The Huffington Post]] |date=June 20, 2013 |accessdate=2013-06-23}}&lt;/ref&gt;
+
+&lt;!-- Deleted image removed: [[File:John Hodgman on Conan 9 September 2014.png|thumb|right|Hodgman on ''[[Conan (talk show)|Conan]]'' buzz-marketing the ''[[John Hodgman: Ragnarok]]'' [[John Hodgman: Ragnarok#Ragnarok Survival Kit|survival kit]].]] --&gt;
+Hodgman appeared as public radio personality "August Clementine" in the episode "Anniversaries" of ''[[Parks and Recreation]]'', which aired in February 2014.
+
+Hodgman has a supporting role in the FX comedy ''[[Married (TV series)|Married]]'', which premiered in July 2014.
+
+In December 2014, Hodgman appeared in three episodes of the [[Amazon Studios]] series ''[[Mozart in the Jungle]]''.
+
+In 2014–2015, Hodgman appeared for three episodes as a fictionalized version of psychiatrist and medical doctor [[Henry Cotton (doctor)|Henry Cotton]] on the [[Cinemax]] series ''[[The Knick]]''.&lt;ref&gt;{{cite news|last1=Khazan|first1=Olga|title=Pulling Teeth to Treat Mental Illness|url=https://www.theatlantic.com/health/archive/2014/10/the-tragic-sadistic-mental-illness-treatment-from-the-knick-is-real/381751/|accessdate=16 December 2015|publisher=The Atlantic|date=22 October 2014}}&lt;/ref&gt;
+
+In 2016, Hodgman played the role of Travis, a local television station manager, in four episodes of the second season of Amazon's ''[[Red Oaks]]'' series.&lt;ref&gt;{{cite magazine |url=http://www.bkmag.com/2016/11/18/hes-got-the-chance-john-hodgman-president-elect-donald-trump/ |title='He's Got The Chance': John Hodgman on President-elect Donald Trump |first=Evan |last=Romano |date=November 18, 2016 |access-date=January 12, 2018 |magazine=[[Brooklyn Magazine]] }}&lt;/ref&gt;
+
+=== Netflix special ===
+[[Netflix]], the American [[streaming media]] website, aired the comedy special ''[[John Hodgman: Ragnarok]]'' on June 20, 2013, as a "[[Netflix#Original programming|Netflix Original]]".&lt;ref name="John Hodgman on his Netflix comedy special 'Ragnarok' and what comes next"&gt;{{cite web |author=[[Terri Schwartz]] |url=http://blog.zap2it.com/frominsidethebox/2013/06/john-hodgman-on-his-netflix-comedy-special-ragnarok-and-what-comes-next.html |title=John Hodgman on his Netflix comedy special 'Ragnarok' and what comes next |publisher=[[Zap2it]] |date=June 11, 2013 |accessdate=2013-06-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20130618225027/http://blog.zap2it.com/frominsidethebox/2013/06/john-hodgman-on-his-netflix-comedy-special-ragnarok-and-what-comes-next.html |archivedate=June 18, 2013 |df=mdy-all }}&lt;/ref&gt;&lt;ref name="JOHN HODGMAN: RAGNAROK ON NETFLIX"&gt;{{cite web |author=John Hodgman |url=http://www.johnhodgman.com/RAGNAROK |title=JOHN HODGMAN: RAGNAROK ON NETFLIX |publisher=[[Tumblr]] |date=June 10, 2013 |accessdate=2013-06-19}}&lt;/ref&gt;&lt;ref name="John Hodgman Picks His 5 Favorite TV Thingies of the Year … From the Future"&gt;{{cite web |author=John Hodgman |url=http://www.johnhodgman.com/RAGNAROK |title=John Hodgman Picks His 5 Favorite TV Thingies of the Year … From the Future |publisher=[[Vulture (blog)|Vulture]] |date=June 14, 2013 |accessdate=2013-06-19}}&lt;/ref&gt; The special featured material from Hodgman's most recent book, ''[[That Is All (book)|That Is All]]'', and his December 21, 2012 show at [[The Bell House (New York)|The Bell House]] in New York.&lt;ref name="John Hodgman on his Netflix comedy special 'Ragnarok' and what comes next" /&gt;&lt;ref name="Interview: John Hodgman Talks About John Hodgman: Chicagoist"&gt;{{cite web |author=[[Samantha Abernethy]] |url=http://chicagoist.com/2013/06/12/john_hodgman_interview.php |title=Interview: John Hodgman Talks About John Hodgman: Chicagoist |publisher=[[Chicagoist]] |date=June 12, 2013 |accessdate=2013-06-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20130615013948/http://chicagoist.com/2013/06/12/john_hodgman_interview.php |archivedate=June 15, 2013 |df=mdy-all }}&lt;/ref&gt;
+
+In November 2017, Hodgman was named one of ''[[Portland_Magazine|''Portland Magazine's'']]'' "10 Most Intriguing Mainers." &lt;ref&gt;{{cite web|title=John Hodgman "10 Most Intriguing Mainers"|url=http://www.portlandmonthly.com/portmag/2017/10/maines-ten-most-intriguing/|website=www.portlandmonthly.com|publisher=Portland Magazine}}&lt;/ref&gt;
+
+==Other media appearances==
+
+
+[[File:Judge John Hodgman (8493249473).jpg|thumb|right|Hodgman during a live taping of [[Judge John Hodgman]] in 2013]]
+
+===TV appearances===
+
+* ''[[Bored to Death]]'' (HBO, 2009–2011)
+* ''[[The Daily Show]]'' – contributor
+* ''[[The Knick]]'' (2014)
+* ''[[Married]]'' (2014) - as Bernie
+* ''[[Mozart in the Jungle]]'' (2014)
+* ''[[Blunt Talk]]'' (2015)
+* ''[[Blindspot (TV series)|Blindspot]]'' (2016) – as Chief Inspector Jonas Fischer
+* ''[[Red Oaks]]'' (2016) – as Travis in four episodes
+
+===Film appearances===
+* 2008: ''[[Baby Mama (film)|Baby Mama]]'' as Fertility Doctor
+* 2009: ''[[Coraline (film)|Coraline]]'' as Father/Other Father (voice role)
+* 2009: ''[[The Invention of Lying]]'' as Wedding Overseer
+* 2011: ''[[Arthur (2011 film)|Arthur]]'' as Candy Store Manager
+* 2013: ''[[Movie 43]]'' as [[The Penguin (comics)|The Penguin]]
+* 2015: ''[[Pitch Perfect 2]]'' as Tone Hanger singer
+
+===Video game appearances===
+* 2015: ''[[Minecraft: Story Mode]]'' as Soren the Architect
+* A character in the browser-based multiplayer role-playing game Kingdom of Loathing bears the name 'Hodgman, The Hoboverlord' in his honor&lt;ref&gt;http://kol.coldfront.net/thekolwiki/index.php/Hodgman,_The_Hoboverlord&lt;/ref&gt;.
+
+===Podcasts and radio appearances=== 
+
+Hodgman has been a guest on radio programs including [[WBEZ]]'s ''[[This American Life]]'',&lt;ref&gt;{{Cite web |url=https://www.thisamericanlife.org/radio-archives/episode/226/reruns |title=226: Reruns |date=6 December 2002 |website=This American Life |access-date=22 February 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.thisamericanlife.org/radio-archives/episode/243/later-that-same-day |title=243: Later That Same Day |date=25 July 2003 |website=This American Life |access-date=22 February 2017}}&lt;/ref&gt; and ''[[The Sound of Young America]]'',&lt;ref&gt;{{cite web |url=http://www.maximumfun.org/blog/2006/10/podcast-best-friends-with-john-hodgman.html |title=The Sound of Young America: Podcast: Best Friends with John Hodgman and Jonathan Coulton |publisher=Maximumfun.org |date= |accessdate=2011-04-04}}&lt;/ref&gt; [[WFMU]]'s ''[[The Best Show on WFMU]]'',&lt;ref&gt;{{cite web |url=http://www.wfmu.org/playlists/BS |title=The Best Show on WFMU Archives |publisher=Wfmu.org |date= |accessdate=2011-04-04}}&lt;/ref&gt; [[NPR]]'s ''[[Wait, Wait, Don't Tell Me]],'' [[North Carolina Public Radio]]'s ''[[The State of Things (radio show)|The State of Things,]]''&lt;ref&gt;[http://wunc.org/tsot/archive/sot1026b.mp3/view Resident Expert John Hodgman talks with] ''[[The State of Things (radio show)|The State of Things]]'' on [[North Carolina Public Radio]]&lt;/ref&gt; and [[BBC|BBC's]] ''[[The Museum of Curiosity|Museum]] of Curiosity.''
+
+Hodgman has been featured on [[podcasts]] including occasional appearances as "Judge John Hodgman" on ''[[Jordan, Jesse, Go!]]'' which led to a [[Judge John Hodgman|stand-alone podcast]]&lt;ref&gt;{{cite web |url=http://www.maximumfun.org/2010/11/01/judge-john-hodgman-podcast |title=Judge John Hodgman: The Podcast |publisher=Maximum Fun |date= |accessdate=2011-02-23}}&lt;/ref&gt; produced by [[Maximum Fun]]. Hodgman was a guest alongside [[Jonathan Coulton]] on episodes of ''You Look Nice Today''. Hodgman was a guest on ''[[This Week In Tech]]'' with [[Leo Laporte]],&lt;ref&gt;{{cite web |author=Running time: 1:45:29 |url=http://twit.tv/167 |title=More TWiT Than You Require |publisher=Twit.tv |date= |accessdate=2011-04-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20110521155003/http://twit.tv/167 |archivedate=May 21, 2011 |df=mdy-all }}&lt;/ref&gt; ''[[Stuff You Should Know]]'', and has been featured on the podcast ''[[Boing Boing#Boing Boing TV|Boing Boing TV]]''.&lt;ref&gt;{{cite web |last=Jardin |first=Xeni |url=http://boingboing.net/2008/09/08/boing-boing-tv-john.html |title=BoingBoing TV with John Hodgman |publisher=Boingboing.net |date=2008-09-08 |accessdate=2011-04-04}}&lt;/ref&gt; Hodgman appeared in person and on the NPR radio broadcast of ''City Arts and Lectures'', in a recorded interview by Dave Eggers, in front of a live studio audience on November 10, 2008, at the Herbst Theatre in [[San Francisco, California]]. He was a guest on [[Neil deGrasse Tyson]]'s radio show ''[[StarTalk Radio]]'' on February 27, 2011.&lt;ref&gt;{{cite web |url=http://startalkradio.net/2011/02/27/a-conversation-with-john-hodgman |title=A Conversation with John Hodgman |publisher=StarTalk Radio Show |date= |accessdate=2011-03-15 |deadurl=yes |archiveurl=https://web.archive.org/web/20110303063829/http://www.startalkradio.net/2011/02/27/a-conversation-with-john-hodgman |archivedate=March 3, 2011 |df=mdy-all }}&lt;/ref&gt; He appeared again on ''City Arts and Lectures'', in front of a live audience at the Nourse Theater, interviewing Adam Savage on May 29, 2013.
+
+Hodgman appeared on [[Ken Reid (comedian)|Ken Reid]]'s ''TV Guidance Counselor'' podcast on September 23, 2016.
+
+===Online===
+* ''[[Husbands (TV series)|Husbands]]'' Guest star, season two
+* ''Triangulation'' Episode 72 on October 3, 2012&lt;ref&gt;{{Cite web |url=https://twit.tv/shows/triangulation/episodes/72 |title=Triangulation 72 |last=Laporte |first=Leo |date=3 October 2012 |website=TWiT |access-date=22 February 2017}}&lt;/ref&gt;
+* ''[[the show with zefrank]]''
+* [[TED (conference)|TED]]&lt;ref&gt;{{Cite web |url=https://www.ted.com/talks/john_hodgman_s_brief_digression |title=Aliens, love — where are they? |last=Hodgman |first=Ted |year=2008 |website=TED |publisher=TED Conferences, LLC |access-date=22 February 2017}}&lt;/ref&gt;
+* ''[[Diggnation]]'' Episode 231&lt;ref&gt;[http://revision3.com/diggnation/hodgman Episode 231: Hi, I'm John Hodgman and I'm a Mac] {{webarchive|url=https://web.archive.org/web/20100406031939/http://revision3.com/diggnation/hodgman |date=April 6, 2010 }}, Revision 3&lt;/ref&gt;
+* Today in the Past ([[podcast]])&lt;ref&gt;[http://feeds.feedburner.com/todayinthepast] Today in the Past&lt;/ref&gt;
+* Two articles on the website Open Letters in the year 2000.&lt;ref&gt;{{Cite web |url=http://www.openletters.net/000904/hodgman000905.html |title=On Memory and Chaos |last=Hodgman |first=John |date=20 August 2000 |website=Open Letters |deadurl=yes |archiveurl=https://archive.is/20130222043355/http://www.openletters.net/000904/hodgman000905.html |archivedate=February 22, 2013 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.openletters.net/001016/hodgman001016.html |title=On the Sligshot |last=Hodgman |first=John |date=16 October 2000 |website=Open Letters |deadurl=yes |archiveurl=https://archive.is/20120909050707/http://www.openletters.net/001016/hodgman001016.html |archivedate=September 9, 2012 |df=mdy-all }}&lt;/ref&gt; In them, he details a family trip to Ocean City, New Jersey shortly after his mother's death, and uses his experiences there as metaphors for life and death.
+* Transcript of welcoming remarks at a literary reading shortly after the terrorist attacks of 9/11&lt;ref&gt;{{Cite web |url=http://www.mcsweeneys.net/articles/welcoming-remarks-made-at-a-literary-reading-9-25-01 |title=Welcoming Remarks Made at a Literary Reading, 9/25/01 |last=Hodgman |first=John |date=11 September 2016 |website=McSweeney's Internet Tendency |publisher=McSweeney’s Publishing LLC |access-date=22 February 2017}}&lt;/ref&gt;
+* Guest player on [[Harmonquest]] season one as the sandwich sorcerer
+* [[Get a Mac]] web ads, as PC.
+* ''[[Judge John Hodgman]]'' ([[podcast]])
+
+===Music===
+* Hodgman was featured on the track "Question and Answer Time" on [[MC Frontalot]]'s 2010 album ''[[Zero Day (album)|Zero Day]]''.&lt;ref&gt;{{Cite web |url=http://www.popmatters.com/review/124134-mc-frontalot-zero-day/ |title=Zero Day |last=Schiller |first=Mike |date=4 May 2010 |website=Pop Matters |access-date=22 February 2017}}&lt;/ref&gt;
+* Hodgman has appeared in two indie music videos directed by [[Tom Scharpling]]. The first was [[Ted Leo &amp; The Pharmacists]] "Bottled In Cork," followed by [[The New Pornographers]]' "Moves."
+* Hodgman appeared in the opening section of [[Aimee Mann]]'s video for "Charmer" from the album of the same name, also written and directed by Scharpling.
+* Hodgman featured on the track "Don't Worry It's Fine" on [[Jean Grae]] &amp; [[Quelle Chris]]' 2018 album [[Everything's Fine (Jean Grae x Quelle Chris Album)|''Everything's Fine'']].&lt;ref&gt;{{Cite web|url=https://pitchfork.com/reviews/albums/jean-grae-quelle-chris-everythings-fine/|title=Jean Grae / Quelle Chris: Everything's Fine Album Review {{!}} Pitchfork|website=pitchfork.com|language=en|access-date=2018-04-07}}&lt;/ref&gt;
+
+==In print==
+[[File:John Hodgman BBF 2010 Shankbone.jpg|thumb|Hodgman at the 2010 [[Brooklyn Book Festival]].]]
+As contributor:
+* Hodgman appears on the cover of the February 2007 edition of ''[[Wired Magazine]],'' as a contributor to their "What we don't know about..." articles.
+* Hodgman oversaw the "True Life Tales" section of the Sunday ''[[New York Times Magazine]].''&lt;ref&gt;{{Cite web |url=https://www.nytimes.com/2005/09/18/magazine/from-the-editors.html |title=From the Editors |date=18 September 2005 |website=The New York Times Magazine |access-date=22 February 2017}}&lt;/ref&gt; The section is currently on hiatus.
+* Hodgman has guest written for the "Sedaratives" section of ''[[The Believer (magazine)|The Believer]]''. "Sedaratives" is an [[advice column]] created by [[Amy Sedaris]].
+* Hodgman wrote the Massachusetts&lt;ref&gt;{{cite news |url=http://www.boston.com/bostonglobe/ideas/articles/2008/09/28/massachusetts_bulwark_against_the_kingdom_of_the_anti_christ/ |title=Massachusetts: Bulwark against the Kingdom of the Anti Christ |publisher=Boston.com |date=2008-09-28 |accessdate=2011-04-04 |first=John |last=Hodgman}}&lt;/ref&gt; chapter in the anthology ''[[State by State: A Panoramic Portrait of America]].''
+* Hodgman wrote the introduction to ''The Laugh-Out-Loud Cats Sell Out'' (2009), a collection of Adam Koford's ''[[Hobotopia]]'' comic strips.
+* Hodgman founded The Little Gray Book Lectures in [[Williamsburg, Brooklyn]].  The lectures have been on hiatus "for the foreseeable future" as of August 2007.&lt;ref&gt;{{cite web |url=http://www.littlegraybooks.com/ |title=Little Gray Book Lectures, including archival material |publisher=Littlegraybooks.com |date= |accessdate=2011-04-04}}&lt;/ref&gt;
+As author:
+* ''[[The Areas of My Expertise]]'' ({{ISBN|0-525-94908-9}}, 2005)
+* ''[[More Information Than You Require]]'' ({{ISBN|0-525-95034-6}}, October 2008)
+* ''[[That Is All (2011 book)|That Is All]]'' ({{ISBN|978-0525952442}}, November 2011)
+* ''[[Vacationland: True Stories from Painful Beaches]]'' ({{ISBN|978-0525497691}}, October 2017)
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{commons category|John Hodgman}}
+{{wikiquote}}
+* {{official website|http://www.johnhodgman.com}}
+* {{IMDb name|1894655|John Hodgman}}
+* {{TED speaker}}
+* [http://thephoenix.com/Boston/Arts/69389-Interview-John-Hodgman/ "Interview with John Hodgman"]
+
+{{John Hodgman}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hodgman, John}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:21st-century American male actors]]
+[[Category:American humorists]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:Apple Inc. advertising]]
+[[Category:Male actors from Massachusetts]]
+[[Category:McSweeney's]]
+[[Category:People from Brookline, Massachusetts]]
+[[Category:People from Brooklyn]]
+[[Category:Yale University alumni]]
+[[Category:Brookline High School alumni]]</text>
+      <sha1>11hdkbey72t48i7jkwsscnkj33x57j7</sha1>
+    </revision>
+  </page>
+</mediawiki>

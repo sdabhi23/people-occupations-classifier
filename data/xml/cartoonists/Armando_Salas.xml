@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Armando Salas</title>
+    <ns>0</ns>
+    <id>20713107</id>
+    <revision>
+      <id>837611315</id>
+      <parentid>789733625</parentid>
+      <timestamp>2018-04-21T22:25:57Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (2 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3352">{{Infobox artist
+| name          = Armando Salas
+| image         =
+| imagesize     = 
+| caption       = 
+| birth_place   = [[Ortigueira]], [[Galicia (Spain)|Galicia]], [[Spain]]
+| birth_date    = {{Birth date and age|1946|1|30|df=y}}
+}}
+
+'''Armando Salas''' (born 30 January 1946 in [[Ortigueira]]) is a [[Galicia (Spain)|Galicia]]n [[cartoonist]].
+
+Salas is one of the first cartoonists to bring [[eroticism]] to Spanish publications in the form of semi-nude girls, tempered with [[irony]] and [[sarcasm]] during the dictatorship of General [[Francisco Franco]]. During this era in 1967, he began drawing professionally for the news-magazine "Diez Minutos", and for "Comics Camp" and "Comics In", a fanzine dedicated to the study of comics where he created "Saturday", an ironic take on "Sunday", a popular comics character created by Víctor de la Fuente.&lt;ref&gt;[[:es:Víctor de la Fuente]]&lt;/ref&gt; Around 1970, he contributed editorial cartoons to the daily "Pueblo", and he also joined the staff of the daily [[El Correo Gallego]] and the magazine "Doblon". That same year he started contributing on the TV journal "Todo Television", and he also created a syndicated panel series, "Don Teleneco", in which he satirized "couch potatoes". He began working for the daily [[El Diario de Ferrol]] in 1972, and a year later he contributed cartoons to Heraldo Español, in the province of [[Aragon]].
+
+He created his most well-known series, "El Eden", for the Spanish comics magazine El Globo. It was renamed "Adan" for publication in book form. This Spanish cartoon series was a satirical view of Adam and Eve, in which Eve, a blonde in the Marilyn Monroe mold, appeared in a bikini. While working in several mediums, he also created another cartoon series, "Jauja y Colas." And another series came in 1981: "Merlina", about a female wizard who was beautiful, sexy and "ready for anything." Less than six months later Merlina was also published in book form.
+
+Armando Salas has published over 40,000 artworks during his career. In 2005 he was awarded the international prize [http://www.culturagalega.org/noticia.php?id= Curuxa De Honra], given by the Museum of Humor in [[Fene (Galicia)|Fene]], in Galicia, Spain. Several of his cartoons can be found at this museum. He was also the author of the poster-tribute to Russian journalist [[Anna Politkovskaya]]. Nowadays this poster is distributed worldwide by Reporters without Borders. Salas is listed in the [[World Encyclopedia of Cartoons]] by Maurice Horn. Chelsea House Publishers (Philadelphia). May 1999.
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.elmundo.es/elmundo/2007/01/15/comunicacion/1168853721.html?a=343ef3515101268419afd3f631246816&amp;t=1168867896 Revista ElMundo.es]
+*[https://web.archive.org/web/20080929070940/http://www.canalcoruna.com/salas.asp El Humor de Salas at Canal Coruña, Independent Mag]
+*[http://www.diariodeferrol.com/ Diario de Ferrol]
+*[http://www.elcorreogallego.es/ El Correo Gallego]
+*[http://www.k-state.edu/issa/Projects/813/EncCartoon.html World Encyclopedia of Cartoons]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Salas, Armando}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:People from Ortegal]]
+[[Category:Spanish cartoonists]]
+[[Category:Spanish humorists]]</text>
+      <sha1>bynminkhd2pynwngo0zykxocig3h4ei</sha1>
+    </revision>
+  </page>
+</mediawiki>

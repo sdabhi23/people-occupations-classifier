@@ -1,0 +1,343 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jorge Newbery</title>
+    <ns>0</ns>
+    <id>1416855</id>
+    <revision>
+      <id>826953293</id>
+      <parentid>817166274</parentid>
+      <timestamp>2018-02-21T22:55:22Z</timestamp>
+      <contributor>
+        <username>Bioscopic</username>
+        <id>20114643</id>
+      </contributor>
+      <minor/>
+      <comment>/* The popular figure */ spelling fixed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29395">{{Use dmy dates|date=May 2012}}
+{{Infobox person
+|name        = Jorge Newbery
+|image       = [[File:Jorge Newbery de galera 1909.jpg|200px]]
+|image_size  = 
+|caption     = Newbery in 1909.
+|birth_date  = {{Birth date|1875|05|28|df=y}}
+|birth_place = [[Buenos Aires]] [[Argentina]]
+|death_date = {{death date and age|1914|3|1|1875|5|29|df=y}}
+|death_place = [[Mendoza Province]] Argentina
+|occupation  = [[Aviator]]&lt;br&gt;Engineer
+|relatives= [[Jorge P Newbery]], [[Eduardo Newbery]]
+}}
+
+'''Jorge "George" Newbery''', born Jorge Alejandro Newbery (29 May 1875 in [[Buenos Aires]] – 1 March 1914 in [[Mendoza Province]]), was an [[Argentina|Argentine]] aviator, civil servant, engineer and scientist with ancestry from the United States of America.  His father, Ralph Newbery (a dentist born in 1848), emigrated from [[Long Island]] to Argentina after the [[American Civil War]] (in which he is said to have taken part in the [[Battle of Gettysburg]]).&lt;ref&gt;"The Bradleys of Essex County Revisited" by Saul Montes-Bradley, 2004&lt;/ref&gt;&lt;ref&gt;"Más liviano que el aire" by [[Nelson Montes-Bradley]]&lt;/ref&gt; Along with [[Alberto Braniff]] and [[Jorge Chávez]], Jorge Newbery was one of the first [[Latin Americans|Latin American]] aircraft pilots.  He was also an engineer, and is considered to be the architect and founder of the Argentine Air Force.
+
+== Historical context ==
+Jorge Newbery was in the public eye between the 1890s and the first fifteen years of the 20th century, a very important time for Argentina which was characterised by an [[Great European immigration wave to Argentina|enormous immigration of Europeans]] which multiplied the country’s demographic importance by a factor of five. The population of Argentina, which represented 0.12% of the global population in 1869, would come to make up 0.57% of mankind in 1930. and the expansion of an [[Economic history of Argentina#Export-led boom|economy of agricultural export]] which increased the GDP per capita from $334 in 1875 to $1,151 in 1913.&lt;ref name="Cortés Conde"&gt;{{cite book
+| last= Cortés Conde
+| first= Roberto
+| title= La economía argentina en el largo plazo (Siglos XIX y XX)
+| year= 1997
+| publisher=Buenos Aires, Sudamericana y Universidad de San Andrés, pag. 29
+| isbn = 950-07-1231-8
+}}&lt;/ref&gt;
+
+The Newbery years were years of unshakeable faith in the possibilities of Argentina, when [[Rubén Darío]] wrote in his famous ''Canto a la Argentina y otros poemas'': “Argentina, your day has come!”&lt;ref name="Rubén Darío"&gt;{{cite web
+  |title= Canto a la Argentina
+  |author=Darío, Rubén
+  |publisher=Revista Versoados
+  |url=http://www.geocities.com/revistaversoados/webpoemas/webpoemarios/rd-cantoalaargentina.htm
+  |dead-url=yes
+  |accessdate=2007-12-08
+  |archiveurl=https://web.archive.org/web/20081023130219/http://www.geocities.com/revistaversoados/webpoemas/webpoemarios/rd-cantoalaargentina.htm
+  |archivedate=2008-10-23}}&lt;/ref&gt; These years saw the appearance of [[Argentine tango|tango]], [[Vaslav Nijinsky]] dancing in the [[Teatro Colón]], the opening of the [[Buenos Aires Metro]], the arrival of [[Guglielmo Marconi]] in Argentina in order to carry out the first radio-telephonic communication with Ireland and Canada. In 1909 [[Guglielmo Marconi]] won the Nobel Prize for Physics and in 1910 he visited Argentina to join in the Centenary celebrations. The [[estancia|estancieros]] of Argentina “throwing butter to the ceiling” in Paris. In 20th century Buenos Aires, young rich men used to have late night competitions throwing butter packets at the ceilings of restaurants using their knives as catapults, with the winner being whoever managed to stick the most pieces of butter to the ceiling. Since then, “throwing butter at the ceiling” became a popular saying in that country, referring to irrational waste and frivolity, and the first appearances of popular idols of sport and art. Buenos Aires ceased to be the “Great Village”&lt;ref name="La Gran Aldea"&gt;{{cite book
+| last=López
+| first=Julio V.
+| title=La Gran Aldea
+| year=1884
+| publisher=Buenos Aires, Biblioteca Digital Argentina
+| url=http://www.biblioteca.clarin.com/pbda/novela/granaldea/granaldea_00indice.html
+}}&lt;/ref&gt; and became the “Paris of South America”.&lt;ref name="Buenos Aires, la París de Sudamérica"&gt;{{Cite web
+  |title= Buenos Aires, la París de Sudamérica, inventa barrios al estilo Nueva York
+  |author=Kidd, Natalia
+  |publisher=Los Tiempos, 22 08 2007
+  |url=http://www.lostiempos.com/noticias/22-08-07/22_08_07_ultimas_vyf1.php
+  |dead-url=yes
+  |accessdate=2007-12-13
+  |archiveurl=https://web.archive.org/web/20080401040053/http://www.lostiempos.com/noticias/22-08-07/22_08_07_ultimas_vyf1.php
+  |archivedate=2008-04-01
+  }}&lt;/ref&gt;
+
+== Biography ==
+Son of American-born dentist Ralph Newbery, Jorge was born May 28, 1875 in the family home on [[Florida Street]], Buenos Aires. At the age of eight he visited the United States alone. Later, back in Argentina, he studied at  Saint Andrew's Scots School in [[Olivos, Buenos Aires Province|Olivos]], graduating from secondary school in 1890. He travelled to the United States to study engineering at [[Cornell University]]. In 1893 he continued his studies at the [[Drexel Institute]] in [[Philadelphia]], where he was a student of [[Thomas Edison]], and in 1895 received the title of [[electrical engineering|electrical engineer]].
+
+On returning to his home country he began working as the head of the “Rio de la Plata Light and Traction Company”. In 1897 he joined the [[Argentine Navy]] as electrical engineer during the border conflicts with [[Chile]]. He worked as a swimming teacher at the Naval School, and in 1899 he was sent to London to acquire electrical materials. His naval career lasted until 1900, when he was named Director General of Electrical, Mechanical and Lighting Installations of the Municipality of [[Buenos Aires]] City, a public role which he would hold until his death.
+
+In 1904 he became Professor of [[Electrical Engineering]] at the National Industrial School (later the Otto Krause Technical School), which was founded and directed by the engineer [[Otto Krause]] in 1893. In the same year he travelled to the United States once more to attend the International Electricity Congress which took place in the city of [[St. Louis, Missouri|Saint Louis]], where he was vice president of the section on “Power and Light Transmission” and at which he presented an eighty-page work entitled “General considerations on the transfer of lighting services to municipal ownership”, which would be included in the Annals of the Argentine Scientific Society.&lt;ref name="Larra"&gt;{{cite book
+| author=Larra, Raúl
+| title=Jorge Newbery
+| year=1975
+| publisher=Buenos Aires: Schapire, p. 29-41
+}}&lt;/ref&gt;
+
+=== Ruler of the skies: balloons and aeroplanes ===
+==== Aerostatics and balloons ====
+[[File:Pampero.jpg|thumb|right|150px|''El Pampero'', the beginning of Argentine aeronautics]]
+Jorge Newbery began wanting to rule the skies when he met the Brazilian aviator [[Alberto Santos-Dumont]] (1873–1932). On 25 December 1907, Jorge Newbery and Aarón Anchorena crossed the [[Río de la Plata]] in the balloon ''El Pampero'' before landing in [[Conchillas]], Uruguay. Although there had been a few previous balloon flights in Argentina, the crossing of the [[Río de la Plata]] became a popular event. El Pampero set out from the [[Sociedad Sportiva Argentina]], located in [[Palermo, Buenos Aires|Palermo]], on the same land where [[Campo Argentino de Polo]] is located nowadays.
+
+A few days later, on 13 January 1908, the [[Aero Club Argentino]] was created, with Aarón Anchorena as president and Jorge Newbery as second vicepresident. The ACA was located on the Villa Los Ombués estate of local business tycoon [[Ernesto Tornquist]], in Barrancas de [[Belgrano, Buenos Aires|Belgrano]], [[Buenos Aires]] (since torn down and now the location of the Embassy of the [[Federal Republic of Germany]])&lt;ref&gt;{{cite web|title=Castillo Villa Ombúes|url=http://www.arcondebuenosaires.com.ar/palacio_castillo_villa_ombues_belgr.htm|publisher=Arcón de Buenos AIres|accessdate=3 July 2017}}&lt;/ref&gt;. On 17 October his brother Eduardo (also an ACA member), together with Seargent Romero, went missing in ''El Pampero'' and their bodies were never found. These were the first two casualties in the history of flight in Argentina. Despite the tragedy and public opinion starting to consider balloon-flight to be excessively dangerous, Newbery prepared a new balloon, ''El Patriota'', and revitalised aerostatics with the help of socialist representative [[Alfredo Palacios]]. One month after the death of his brother, on 24 November, Jorge married Sara Escalante.
+
+[[File:Jorge newbery vuelo globo 1911.ogg|thumb|left|Jorge Newbery flying a balloon, 1911]]
+On 9 April 1909, Newbery wrote the first [[List of newspapers|newspaper]] article on aviation in Argentina. Entitled "Aeronáutica", the article was featured in the Buenos Aires ''[[El Nacional (Buenos Aires)|El Nacional]]''. By that time, Newbery was already a seasoned [[aerostat]] pilot, having flown these balloons four times over the Argentine landscape.  He had not, however, been in or even seen a heavier-than-air craft before he wrote the article. While Newbery had promised both his mother and his wife that he would not attempt to fly again after his brother's aerial death, the article showed his family that he had broken that promise, resulting in his divorce from Escalante, with whom he had at least one child.
+
+Newbery flew an [[aerostat]] round-trip for the first time on 24 January 1909, making his second round-trip flight on 2 April.  On 27 April, just eighteen days after publication of the aforementioned article, he was elected president of the same Aero Club Argentino which he had previously served as second vice-president.  Newbery accepted, with the hope of turning around the club's dire financial situation, and continued as president until his death in 1914.
+
+[[File:Jorge Newbery - en su avión.jpg|thumb|right|200px|Newbery in his plane, c. 1912–14]]
+He soon acquired another balloon, ''El Huracán'', with which on 28 December 1909 he broke the South American record for duration and distance by travelling 550&amp;nbsp;km in 13 hours, linking Argentina, [[Uruguay]] and [[Brazil]], and reaching fourth place worldwide in terms of flight time and sixth place in distance. This balloon gave its name to one of the most popular [[association football|football]] clubs in Buenos Aires, the [[Club Atlético Huracán]], founded on November 1, 1908 and nicknamed ''"globo"'' (balloon). On 5 November 1912 he broke the South American altitude record, reaching 5,100 m in the balloon ''Buenos Aires''.
+
+He took part in the [[Exposición Internacional del Centenario (1910)]] in Buenos Aires by making balloon ascents over the exhibition so that visitors could view the surrounding area of Palermo and the river.
+
+Newbery made 40 balloon flights in three years. There were other Argentine aviators at this time, such as [[Eduardo Bradley]], Lieutenant Angel María Zuloaga, Aníbal Brihuega and Pedro L. Zanni. Later, in memory of his brother, he had a 2,200 cubic meter balloon called ''Eduardo Newbery'' built, the largest that had ever been built in Argentina.  In 1916, Bradley and Zuloaga crossed the [[Andes]] for the first time in this balloon.&lt;ref&gt;Larra, p. 55-93&lt;/ref&gt;
+
+==== Aviation ====
+[[File:Jorge Newbery .jpg|thumb|right|170px|Jorge Newbery in front of his [[Morane-Saulnier]] monoplane.]]
+
+In 1910, Newbery obtained his (provisional) pilot’s licence, but continued to make balloon flights until 1912. As a direct result of Newbery and the Aero Club Argentino’s offer to make their park freely available to the Ministry of War, on 10 August 1912 the [[President of Argentina|President]] [[Roque Sáenz Peña]] created the Military Aviation School, the first Latin American air force. Jorge Newbery as a civilian, and Lieutenant Colonels [[Enrique Mosconi]], later the director of [[YPF]], and M. J. López were the first directors of the School, established in [[El Palomar, Buenos Aires|Palomar de Caseros]].
+
+The ACA organised a public collection with which the first aircraft were acquired. On 25 May 1913 they had their first parade: 4 [[monoplane]]s piloted by two civilians, Newbery and Macías, and two soldiers, Goubay and Agneta. A few months later the Army issued special insignia for the two military pilots. When choosing between [[monoplane]]s and [[biplane]]s, Newbery preferred the former.
+
+On 24 November 1912, Newbery crossed the [[Río de la Plata]] in the monoplane “Centenario”, a 50 HP Gnome powered [[Bleriot XI]]. He was the first to cross the river and return in the same day. Influenced by Newbery, the young Teodoro Fels, took an aeroplane from the Military Aviation School without permission and reached [[Montevideo]], breaking the world record for flight over water. On his return, President [[Roque Sáenz Peña]] had him arrested and promoted to [[corporal]] for the feat.
+
+[[File:Jorge Newbery Restos del avión de Teodoro Fels que piloteaba 1 mar 1914.jpg|thumb|left|250px|Newbery's wrecked [[Morane-Saulnier G]] on 1 March 1914.]]
+On 10 February 1914, Newbery broke the world altitude record by 65 m, reaching 6,225 m in a [[Morane-Saulnier]] monoplane but the record was not ratified by the international commission because the previous record wasn't exceeded by at least 150 m.&lt;ref&gt;Larra, 172–175&lt;/ref&gt;
+
+Jorge Newbery arrived in Mendoza to attempt the first crossing of the Andes by aircraft. At the request of a woman who had seen him fly, he borrowed an aircraft from his friend Teodoro Fels, who warned him of a problem with the monoplane's wing. Jorge Newbery took off with Jiménez Lastra and did some aerobatics until 18:40, the monoplane fell violently. Jorge Newbery died in the Estancia "Los Tamarindos" in Mendoza (now the [[Governor Francisco Gabrielli International Airport]] ), on 1 March 1914, aged 38.&lt;ref name="redargentina.com"&gt;{{cite web
+  |title=redargentina.com
+  |publisher=redargentina.com
+  |url=http://www.redargentina.com/DeportesArgentinos/Newbery.asp
+  |dead-url=yes
+  |archiveurl=https://web.archive.org/web/20150329014153/http://www.redargentina.com/DeportesArgentinos/Newbery.asp
+  |archivedate=2015-03-29
+  }}&lt;/ref&gt;&lt;ref name="Verdades del último vuelo de Newbery"&gt;{{Cite web
+  |title=Verdades del último vuelo de Newbery
+  |author=Los Andes
+  |publisher=Los Andes
+  |url=http://www.losandes.com.ar/nota.asp?nrc=172996
+  |dead-url=yes
+  |accessdate=2007-12-14
+  |archiveurl=https://web.archive.org/web/20070927214037/http://www.losandes.com.ar/nota.asp?nrc=172996
+  |archivedate=2007-09-27
+  }}&lt;/ref&gt;
+
+The [[Aeroparque Jorge Newbery]] in Buenos Aires commemorates his pioneering work in the promotion of aviation in Argentina.&lt;ref&gt;Larra, p. 139-159&lt;/ref&gt; [[Villa Lugano]] in Buenos Aires claims the title of cradle of Argentine aviation, a claim also made by the district of [[El Palomar, Buenos Aires|El Palomar]], seat of the First Aerial Brigade and previously the Military Aviation School. Newbery made his first flights in Villa Lugano, for which a monument was erected on the Avenida Teniente General Luis J. Dellepiane, close to Avenida Gral. Paz.
+
+=== The sportsman ===
+[[File:Jorge Newbery deportista.jpg|thumb|right|170px|Jorge Newbery (front) running.]]
+[[File:Alvear aficionado a la esgrima.JPG|thumb|left|250px|Photo of Jorge Newbery (fifth from the left), with future president [[Marcelo Torcuato de Alvear]] (sixth from the left), Eugemio Pini, fencing teacher at the Jockey Club (eighth) and Julián Matínez (ninth).]]
+
+Newbery also excelled in [[boxing]], swimming, [[motor racing]], [[fencing]] and [[Rowing (sport)|rowing]], among other sports. In 1895 he took part in a historic fight to determine the superiority of boxing (defended by Newbery) or [[savate]] (defended by Carlos Delcasse), which established boxing as a popular sport in Argentina. He won important boxing titles in 1899, 1902 and 1903. On 8 July 1903 he decisively beat professional boxer Clark.
+
+In October 1901 he won first prize for [[foil (fencing)|fencing with foils]] in the South American tournament organised by the Gymnastics and Fencing Club. In 1905 and 1906 he won the foil fencing contests organised by the Buenos Aires Jockey Club, where he also defeated the French [[sword]]fighting champion Berger.
+
+On 16 March 1908, representing the Buenos Aires Rowing Club, he won the 1000 m race against the champion Müller brothers. In 1910 he joined the team which established the speed record for a boat with four long oars.
+
+In 1902 he won the first prize in long-distance diving in the Luján river, covering 100 m. He was one of the personalities who most encouraged the practice of the sport in Argentina, although he is not well-remembered for this.&lt;ref&gt;Larra, p. 43-55&lt;/ref&gt;
+
+In 1980 the [[Konex Foundation]] posthumously granted him the Konex Award for his supporting role in Argentine sporting history.
+
+=== The civil servant  ===
+Jorge Newbery was Director of the Lighting Service of the Municipality of [[Buenos Aires]] City until his death. As a civil servant, Newbery supported municipal control of lighting, contrary to the situation at the time in which the service was conceded to private companies.&lt;ref name="Perfiles: Jorge Newbery"&gt;{{Cite web
+  |title= Perfiles: Jorge Newbery
+  |author=Corbière, Emilio J.
+  |publisher=Club del Progreso, 
+  |url=http://www.clubdelprogreso.com/index.php?sec=04_05&amp;sid=43&amp;id=2824
+  |dead-url=yes
+  |accessdate=2007-12-14
+  |archiveurl=https://web.archive.org/web/20111210024834/http://www.clubdelprogreso.com/index.php?sec=04_05&amp;sid=43&amp;id=2824
+  |archivedate=2011-12-10
+  }}&lt;/ref&gt;
+
+In 1903/1904 a great debate took place in Buenos Aires over the benefits of the public system versus the system of private concession. Newbery took an active role in the debate and wrote an extensive report entitled “General considerations on the transfer of lighting services to [[government-owned corporation|municipal ownership]]”, which was published in the Annals of the Argentine Scientific Society, April–June 1904.
+
+Among other arguments to support his position, Newbery wrote:
+
+{{quote|The necessity of such a defensive intervention is a direct consequence of the means by which capital is now used to maximise benefits, while these powerful groups have now found monopoly or union to be a safer or more productive basis for obtaining greater interest than previously offered by competition with each  other.&lt;ref&gt;Larra, 115&lt;/ref&gt;}}
+
+Newbery also dedicated himself to researching solutions for transportation and traffic in the city of Buenos Aires, suggesting in 1908 the elimination of trams and promoting new technologies of mass transport.&lt;ref name=autogenerated1&gt;Larra, p. 109-139&lt;/ref&gt;
+
+=== The man of science ===
+Newbery habitually wrote for the Annals of the Argentine Scientific Society. In 1906 he published a series of articles on the growing artificial [[graphite]] industry. In 1908 he published a study on the manufacture of “The [[incandescent light bulb|electric incandescent light bulb]] called zirconium and other metallic filaments”, based on his own laboratory tests, with the aims of implementing their use in Argentina.&lt;ref name="El ingeniero Jorge Newbery"&gt;{{Cite web
+  |title= El ingeniero Jorge Newbery
+  |author=Houssay, Bernardo
+  |publisher=Club del Progreso, 
+  |url=http://www.houssay.org.ar/hh/bio/newbery.htm
+  |accessdate=2007-12-14
+  |dead-url=yes
+  |archiveurl=https://web.archive.org/web/20100704041704/http://www.houssay.org.ar/hh/bio/newbery.htm
+  |archivedate=2010-07-04
+  }}&lt;/ref&gt;
+
+In 1910, in collaboration with the chemist Justino Thierry, he wrote a scientific-industrial book entitled “Petroleum” in which they argues for the necessity of keeping oil zones for the state.&lt;ref name=autogenerated1 /&gt;
+
+=== The popular figure ===
+[[File:Jorge newbery and dog 1910.jpg|thumb|right|250px|Newbery driving an automobile with his dog, 1910.]]
+Newbery has been considered to be the first popular non-political Argentine [[celebrity|idol]].&lt;ref&gt;Larra, p. 93&lt;/ref&gt; Before his time, only political idols had existed. Crowds gathered to watch his aerial feats and the news media defined his as a “sportsman”. In his promotion of sports, Jorge Newbery anticipated a still-embrionic lifestyle which focused on the development of the body and its potential, exercising self-control and [[training]].
+
+One characteristic of Newbery’s personality was the absence of [[fear]]: he was known as “Mr Courage”. Newbery’s “feats” had enormous popular impact. For example, on breaking the South American record in the balloon “Huracán” in 1909, the [[Club Atlético Huracán]] asked Newbery if they could use the balloon’s image as their club’s emblem. In one paragraph of his response, the aviator said:
+
+{{quote|In response to your eloquent and courteous letter, in which you asked my agreement for your Club using the distinctive shape of the Huracán balloon, I give my complete agreement and hope that the “team” will wear it on their chests, which will give it the honour due to a sphere which in a single flight crossed three republics.&lt;ref name="Historia de Huracán"&gt;{{Cite web|title=Historia de Huracán |author=Locos por el Globo |publisher=Club Atlético Huracán, Locos por el Globo |url=http://www.locosporelglobo.com.ar/web/?mod=historia |accessdate=2007-12-14 |dead-url=yes |archiveurl=https://web.archive.org/web/20071201195053/http://www.locosporelglobo.com.ar/web/?mod=historia |archivedate=1 December 2007 }}&lt;/ref&gt;}}
+
+The [[Club Atlético Huracán]] then adopted it as the symbol on their shirts, and after achieving two consecutive promotions (passing from the third division to the second, and thence to the first) the directorial commission sent Newbery a letter saying:
+
+{{quote|Huracán has done it. It played in three categories, just as your balloon crossed three republics, and thus we have fulfilled your wish.&lt;ref name="Historia de Huracán" /&gt;}}
+
+== Jorge Newbery in popular culture ==
+{| class="toccolours" style="float: right; margin-left: 1em; margin-right:1em; font-size: 90%; background:#FFEFDB; color:black; width:25em; max-width:30%;" cellspacing="5"
+| style="text-align: justify;"|
+&lt;center&gt;'''Corrientes y Esmeralda''' (excerpt)&lt;/center&gt;&lt;br /&gt;
+Amainaron guapos junto a tus ochavas&lt;br /&gt;
+cuando '''''un cajetilla''''' los calzó de cross&lt;br /&gt;
+y te dieron lustre las patotas bravas&lt;br /&gt;
+alla por el año...novecientos dos....
+
+&lt;small&gt;
+:::::Lyrics: Celedonio Flores&lt;br /&gt;Music: F. Pracanico&lt;br /&gt;(1933)&lt;/small&gt;
+|}
+
+Jorge Newbery has been one of the most frequently mentioned people and one of the people to whom the most tangos have been dedicated. Among these must be mentioned the reference made by Celedonio Flores in the song Corrientes y Esmeralda, which mentions how "el cajetilla" (slang: a young, rich and refined man) hit the "guapos" (men fighting with knives) who “stopped” there at the beginning of the 20th century.
+
+Other tangos dedicated to Newbery are "Jorge Newbery", by Aquiles Barbieri, "Prendete del Aeroplano", by José Escurra, "De Pura Cepa", by [[Roberto Firpo]], "Newbery", by Luciano Ríos, "Un recuerdo a Newbery", by José Arturo Severino, "Tu Sueño", by [[Eduardo Arolas]] and "El Pampero", by Luis Sanmartino.&lt;ref name="El tango y los hechos cotidianos"&gt;{{Cite web
+  |title= Tango and daily events, Todotango.com
+  |author=Bruno Cespi
+  |publisher=Todo Tango
+  |url=http://www.todotango.com/english/history/chronicle/104/Tango-and-daily-events/
+  |accessdate=2015-09-01}}&lt;/ref&gt;
+
+A film was also made about his life: [[Más allá del sol]] (Beyond the sun, 1975), by Hugo Fregonese, with Germán Kraus in the leading role. The government of Buenos Aires annually awards the Jorge Newbery Prize to the most prominent sportspeople of the year.
+
+The tragic death of Newbery helped to fix his position as an idol of Argentina, as later happenend with [[Carlos Gardel]]. His burial in [[La Chacarita Cemetery]] was on a scale never seen before for a person unrelated to political activity.
+
+'''Airports'''
+* The [[Aeroparque Jorge Newbery]] airport in Buenos Aires is named after him.
+
+'''Schools'''
+
+* School of technical aeronautics education number 8 "Jorge Newbery".
+
+'''Football clubs'''
+* Club Atlético Jorge Newbery&lt;ref&gt;http://newberylaprida.blogspot.com.&lt;/ref&gt; ([[Laprida, Buenos Aires]], Argentina), founded 1 May 1917.
+* Club Atlético Jorge Newbery ([[Aguilares, Argentina|Aguilares]], [[Tucumán Province]], Argentina), founded 8 April 1917.
+* Club Atlético Jorge Newbery ([[Venado Tuerto]], [[Santa Fe Province]], Argentina), founded 11 July 1917.
+* Club Football Jorge Newbery ([[Junín, Buenos Aires Province]], Argentina), founded 13 January 1913.
+* Club Atlético Jorge Newbery ([[Rufino, Santa Fe]], Argentina), founded 12 October 1917.
+* Club Jorge Newbery Mutual Social y Deportiva, Ucacha, [[Córdoba Province, Argentina]], founded 25 May 1910. https://web.archive.org/web/20090226194412/http://www.eam.iua.edu.ar/hist_newbery.asp
+* Club Jorge Newbery de Versailles [https://web.archive.org/web/20121022170047/http://www.jnewbery.com.ar/], Villa Real district, [[Buenos Aires]] City, [[Argentina]] founded 12 October 1942.
+
+'''Streets'''
+* Calle Jorge Newbery ([[Junín, Buenos Aires Province]]). The municipality renamed the street, previously named “Junín”, on 12 March 1914, 11 days after Newbery’s death.
+* Calle Jorge Newbery ([[Venado Tuerto]], [[Santa Fe Province]]). The Club Atlético Jorge Newbery is situated on this street.
+* Calle Jorge Newbery (Viedma (Rio Negro)). This street is the main route of entry to this provincial capital.
+* Calle Jorge Newbery ([[Rosario, Santa Fe]]). On this avenue is located the Rosario International Airport.
+* Calle Jorge Newbery (Ucacha). This street is the main access to the premises of the Club Jorge Newbery, and was named on the club’s centenary on 25 May 2010.
+
+== See also ==
+* [[Aerostat]]
+* [[History of aviation]]
+
+== Notes ==
+{{reflist|30em}}
+
+== Bibliography ==
+* {{cite book
+| author=Larra, Raúl
+| title= Jorge Newbery
+| year= 1975
+| publisher=Buenos Aires: Schapire
+| id = 
+}}
+
+* {{citation
+| title=Historia del Club Huracán
+| publisher=Amigos de Huracán
+| url=http://www.amigosdehuracan.com.ar/historia/index.html
+| dead-url=yes
+| archiveurl=https://web.archive.org/web/20070309130919/http://www.amigosdehuracan.com.ar/historia/index.html
+| archivedate=2007-03-09
+}}
+
+== External links ==
+{{commons|Jorge Newbery}}
+* {{webarchive |url=https://web.archive.org/web/20090226194412/http://www.eam.iua.edu.ar/hist_newbery.asp |date=26 February 2009 |title=Escuela de Aviación Militar: Homenaje a Jorge Newbery }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20111210024834/http://www.clubdelprogreso.com/index.php?sec=04_05&amp;sid=43&amp;id=2824 |date=10 December 2011 |title=Perfiles: Jorge Newbery, by Emilio Corbiere }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20140329130102/http://www.todotango.com/spanish/biblioteca/CRONICAS/hechos_cotidianos.asp |date=29 March 2014 |title=Jorge Newbery in tango lyrics }} {{es icon}}
+* [https://web.archive.org/web/20100704041704/http://www.houssay.org.ar/hh/bio/newbery.htm Argentine newsreel with images of Jorge Newbery (video)] {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20100704041704/http://www.houssay.org.ar/hh/bio/newbery.htm |date=4 July 2010 |title=El Ingeniero Jorge Newbery }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20150329014153/http://www.redargentina.com/DeportesArgentinos/Newbery.asp |date=29 March 2015 |title=Jorge Newbery }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20070808121553/http://www.educ.ar/educar/superior/biblioteca_digital/verdocbiblio.jsp?url=S_BD_PROYECTOAMEGHINO/NEW.HTM&amp;contexto=superior/biblioteca_digital/ |date=8 August 2007 |title=Jorge Newbery, Promotor de la ciencia y la cultura }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20100710055157/http://www.mendoza.edu.ar/efemerid/newbery.htm |date=10 July 2010 |title=Jorge Newbery (Portal educativo Universidad de Mendoza) }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20071215105418/http://www.losandes.com.ar/nota.asp?nrc=156884 |date=15 December 2007 |title=Jorge Newbery, “el dueño del cielo” }} {{es icon}}
+* {{webarchive |url=https://web.archive.org/web/20070927214037/http://www.losandes.com.ar/nota.asp?nrc=172996 |date=27 September 2007 |title=Verdades del último vuelo de Newbery }} {{es icon}}
+* [http://www.airpower.maxwell.af.mil/apjinternational/apj-s/4trimestre98/domin.htm Some information on Newbery's life] {{es icon}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Newbery, Jorge}}
+[[Category:1875 births]]
+[[Category:1914 deaths]]
+[[Category:Sportspeople from Buenos Aires]]
+[[Category:Burials at La Chacarita Cemetery]]
+[[Category:Argentine military personnel]]
+[[Category:Aviators killed in aviation accidents or incidents]]
+[[Category:Argentine engineers]]
+[[Category:Argentine aviators]]
+[[Category:Victims of aviation accidents or incidents in Argentina]]
+[[Category:Argentine people of American descent]]
+[[Category:Argentine people of English descent]]
+[[Category:Argentine male boxers]]
+[[Category:Electrical engineers]]</text>
+      <sha1>8fiiwyizh8uso8r6lcrrhtwxovig7hm</sha1>
+    </revision>
+  </page>
+</mediawiki>

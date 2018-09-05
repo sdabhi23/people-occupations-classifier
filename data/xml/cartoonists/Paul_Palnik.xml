@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Paul Palnik</title>
+    <ns>0</ns>
+    <id>1811378</id>
+    <revision>
+      <id>847772008</id>
+      <parentid>847771804</parentid>
+      <timestamp>2018-06-27T17:25:50Z</timestamp>
+      <contributor>
+        <ip>69.47.161.60</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2070">'''Paul Palnik''' (born 1946) is a [[Jewish]]-[[United States|American]] [[artist]], [[writer]] and [[educator]].
+
+Born in [[Cleveland, Ohio]], Palnik introduced [[kabbalistic]] spiritual themes into his cartoons from the 1970s to the present day.  His cartoons combine graphic design, drawing, poetry and literature. The images are pen and ink drawings often rendered in [[minute]] detail. The cartoons are like one page books,  each dispensing [[wit]], [[wisdom]] and spiritual advice. Palnik Cartoons can be described as being balanced between universal, spiritual, prophetic themes, and the absurd.
+
+
+Many of Palnik's original drawings are in the collection of [[The Ohio State University]] libraries in [[Columbus, Ohio]] and his work is also represented in the [[Muse Magazine Cartoon Collection from the publishers of The Smithsonian]] in [[Washington DC]]. Numerous large paintings by Palnik are in the collection of [[Camp Ramah (Wisconsin)|Camp Ramah]] in [[Conover, Wisconsin]], where he was artist in residence for 15 years. His paintings strive to depict humanity's relationship with [[God]]. Palnik lives in Columbus, Ohio.
+
+==External links==
+*[http://www.paulpalnik.com/ Palnik's website]
+* http://www.1800cartoon.com/
+* http://www2.nbc4i.com/cmh/video/detail/e40f4334-90c2-102d-a6fd-001ec92a4a0d/34565/Video{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}  NBC Television Video Interview with Palnik.
+* https://web.archive.org/web/20080401053237/http://cartoons.osu.edu/paulpalnik_ex.php     (The Ohio State University Cartoon Research   Library).
+*[https://web.archive.org/web/20060114104047/http://www.shortnorth.com/CoverStoryJuly04.html Interview with Palnik]
+*http://collegian.kenyon.edu/article.php?id=2436
+
+{{DEFAULTSORT:Palnik, Paul}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:American cartoonists]]
+[[Category:Ohio State University alumni]]
+[[Category:Artists from Cleveland]]
+[[Category:Jews and Judaism in Cleveland]]
+[[Category:Jewish artists]]
+[[Category:American Jews]]
+
+
+{{US-artist-stub}}</text>
+      <sha1>swkm2bjz9kujtmfys6l9utiaghf1vlm</sha1>
+    </revision>
+  </page>
+</mediawiki>

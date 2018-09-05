@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Edgar Martin</title>
+    <ns>0</ns>
+    <id>28292332</id>
+    <revision>
+      <id>838082754</id>
+      <parentid>756078249</parentid>
+      <timestamp>2018-04-24T20:29:21Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (1 source from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6945">{{Infobox person|name = Edgar Martin|birth_name = Edgar Everett Martin|birth_date = {{birth date|1898|07|06}}|birth_place = [[Indianapolis|Indianapolis, Indiana]]|death_date = {{death date and age|1960|08|31|1898|07|06}}|death_place = [[Clearwater, Florida]]|other_names = Abe Martin|occupation = Cartoonist|alma_mater = [[Monmouth College]]
+[[Chicago Academy of Fine Arts]]|image = Edgarmartin2.jpg|known_for = Comic Strip [[Boots and Her Buddies]]}}
+
+'''Edgar Everett Martin''' (July 6, 1898 &amp;ndash; August 31, 1960), known to his family and friends as '''Abe Martin''', was an American cartoonist, who kept his comic strip, ''[[Boots and Her Buddies]]'', running for decades, eventually reaching an audience of 60 million readers.
+
+Born in [[Indianapolis|Indianapolis, Indiana]], the youth moved with his family to [[Nashville, Tennessee]] and then to [[Monmouth, Illinois]] where his father, George Martin, was a [[Monmouth College]] biology professor. As a [[Monmouth College]] freshman, he drew frogs, grasshoppers and salamanders in his father's biology classes.&lt;ref name=altoona/&gt;
+
+He met and married Mary Armsby while attending Monmouth College. (Two of their three daughters also went to Monmouth.) Martin left his junior year to study at the Chicago Academy of Fine Arts, joining [[United Media|Newspaper Enterprise Association]] in 1921 as a cartoonist.&lt;ref name="boots"&gt;[http://mulibraries.missouri.edu/specialcollections/martin.htm University of Missouri: MU Libraries Special Collections] Retrieved October 18, 2015&lt;/ref&gt;&lt;ref name=buddies&gt;[https://books.google.com/books?id=m5G4yNh2B-AC&amp;pg=PA58&amp;lpg=PA58&amp;dq=%22boots+and+her+buddies%22&amp;source=bl&amp;ots=9BWfpuXem7&amp;sig=wHdhMfOpKGhkWlG4Lt_IDpWcgVE&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=41&amp;ct=result Reynolds, Moira Davidson. ''Comic Strip Artists in American Newspapers, 1945-1980''. McFarland, 2003.]&lt;/ref&gt;
+
+==''Boots and Her Buddies''==
+While working in NEA's art department, Martin experimented with several strips: ''Efficiency Ed'', ''Fables of 1921'', ''Taken from Life'' and ''Girls'', the strip which introduced Boots. In 1924, NEA was looking for a girl strip, and several artists who had previously submitted strips were asked to resubmit them. Martin's sample was unsigned. When an editor examined Martin's strip and asked, "How soon can we get this artist?", the art director responded, "In one minute. He works here." Thus, ''Girls'' became ''Boots and Her Buddies'' on February 18, 1924, although some newspapers continued to use the first title. Syndicated by NEA, it appeared in 500 newspapers during the 1940s, with about half that carrying the [[Sunday strip]]. In the post-WWII years, the figure climbed to 700 newspapers.&lt;ref name=altoona/&gt;&lt;ref name=cochran/&gt;
+
+With the strip's emphasis on fashion and beauty, Martin attended style shows and constantly thumbed through fashion magazines to study trends and keep Boots in current fashions. In addition to the strip, Martin drew promotional paper dolls in occasional newspaper cartoon panels displaying Boots and her fashionable outfits. Promoted as an expert of female beauty, Martin was often invited to judge beauty contests. In the early days, the strip had a large following among students at colleges and high schools, with the result that Martin sometimes made personal appearances at proms.&lt;ref name=cochran&gt;[http://www.newspaperarchive.com Cochran, Hal. "Boots Celetrates Her 25th Anniversary". ''Statesville Daily Record'', February 21, 1949.]&lt;/ref&gt;
+
+Interviewed in 1952, Martin revealed the strip's background and his attitude toward the characters:
+:Five weeks before Boots' friends read of her activities in their local paper, Mr. Martin has drawn her actions for that day and mailed them to NEA (Newspaper Enterprise Association) for distribution to 700 papers which carry the feature daily. This is almost an anniversary for the cartoon which was first read on July 1, 1921. At that time Boots was in college and was a pacesetter for fashions of the day... Her creator said that either he or Boots must have been pretty dumb because it took her a number of years to graduate. Partly, he said, this was because he hated to marry her to anyone, and partly because during the 1920s she was a symbol of taste in clothes and fashion, and having her married might cramp her style as "Everybody's Sweetheart." Friends know, however, that she is now married and has a small son. The son, Mr. Martin says, is his only pal, as he himself has three daughters, all of them married, and a granddaughter. Actually, he says, the characters in a comic strip become a part of their creator's own family. Each has individuality and is bounded by propriety in things that can and cannot be done, the same as any individual. Of one thing the cartoonist is sure, and that is that a comic strip misses its point unless it deals with human things in a human manner. The best feeling of all, he thinks, is to read a strip and say, "Why that same thing happened to me last week!" What but a domestic situation with everyday people could last for more than 30 years and still have a circulation numbered in the millions?" Some fans are really avid. Recently Mr. Martin received word of one reader who has at least 30 scrapbooks filled with the activities of Boots, from 1921-1951, inclusive.&lt;ref name=argus&gt;Hallam, Charles E. ''Rock Island Argus'', July 4, 1952.&lt;/ref&gt;
+
+Martin's assistant Les Carroll eventually took over the Sunday strip, but Martin continued to draw the [[daily strip]]. The character of Billy, Boots' brother, was based on Martin himself.&lt;ref name=altoona&gt;[http://www.newspaperarchive.com/ Lynn, Ernest. "Edgar Martin: Fathered the 'Sweetheart of the Comics'". ''Altoona Mirror'', September 2, 1960.]&lt;/ref&gt;
+
+Martin, who enjoyed antique collecting and golf, lived at 305 North Second Street in Monmouth. He and his family moved to [[Clearwater, Florida]] in 1940. When he died in Clearwater on August 30, 1960, he was survived by his widow, three daughters and five grandchildren.&lt;ref name=altoona/&gt;
+
+==Further reading==
+*"'Boots' Goes to Yale.'" ''Jackson Daily News'', Jackson, Mississippi, February or March 1939.
+*"Where Comics Come From." Unidentified newspaper article.
+*"'Boots' Has 25th Anniversary, as Creator Edgar E. Martin, Clearwater, Wins Plaudits." ''The Sun'', February 15, 1949.
+*"Get a 'Flexible Larynx' to Woo the Gals, Advises Atlanta Charm Academy." ''Tampa Sunday Tribune'', July 30, 1950?
+*"'Boots and Her Buddies' Speak from Brain of Local Student." ''Columbia Daily Tribune'', 1950.
+*Falk, Lee. "A Short History of the Comic Strip" (''Boots and Her Buddies'', p.&amp;nbsp;4) reprint for Diamond Jubilee of Newspaper Comics April 1971-April 1972.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin, Edgar}}
+[[Category:1898 births]]
+[[Category:1960 deaths]]
+[[Category:American cartoonists]]
+[[Category:American comic strip cartoonists]]
+[[Category:Monmouth College alumni]]</text>
+      <sha1>ffdsukurxmyvg81umvzub1nuxh7dixw</sha1>
+    </revision>
+  </page>
+</mediawiki>

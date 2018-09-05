@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Moloney (comedian)</title>
+    <ns>0</ns>
+    <id>5050278</id>
+    <revision>
+      <id>844235123</id>
+      <parentid>832588312</parentid>
+      <timestamp>2018-06-03T15:42:34Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:British comedians]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4160">{{BLP sources|date=October 2016}}
+'''John Moloney''' is an English [[stand-up comedy|stand-up comedian]] of [[Irish people|Irish]] descent.
+
+A regular at London’s Comedy Store, John has appeared at venues from Melbourne to Edinburgh. He appeared at the Just For Laughs and Halifax Festivals in Canada and Liffey Laughs in Dublin. Moloney hosts an annual fundraiser for ADCAF,&lt;ref&gt;{{cite web|url=http://www.adcaf.org|title=ADCAF/Home|publisher=}}&lt;/ref&gt; a charity that works with abandoned and destitute children in India.
+
+His [[BBC Radio 4]] show ''The John Moloney Show'' was commissioned for a second series.
+
+==Early life==
+
+Moloney grew up in [[Ilford]] with Irish parents . His father was from [[County Tipperary]] and his mother from [[County Kerry]]. When he was 14, he won the [[All Ireland Fleadh]] as an [[accordionist]].&lt;ref&gt;{{cite web|last1=Guide|first1=British Comedy|title=The John Moloney Show - Radio 4 Stand-Up - British Comedy Guide|url=https://www.comedy.co.uk/radio/the_john_moloney_show/|website=British Comedy Guide|accessdate=22 October 2016}}&lt;/ref&gt;
+
+==Career==
+Moloney was a musician on the Red Wedge tour during the 1980s.  As a member of a large Irish family in London, John learned the accordion. His first act on the comedy circuit was as the ‘angry young accordionist’.  He slowly phased out the music and focused on stand-up.
+
+John is best known for his performances on [[BBC|BBC’s]] ''The Stand Up Show'' and the most recent series of ''Grumpy Old Men''. He was included in [[BBC Channel 4]]’s ''One Hundred Greatest Stand Ups'' in 2006. "One of the UK's most experienced stand ups, John Moloney epitomises dry, dispassionate delivery and is a master of the droll one liner. John Moloney has also worked with comedian Bill Bailey, most notably in Bill Bailey's stand up show ''Part Troll'' where he sings the "Hokey Cokey" in the style of German electronic band [[Kraftwerk]], during the encore."
+
+In 2010 Moloney returned to the Edinburgh Festival with his show ''Butterflies With Stretchmarks'', which he then toured. In 2012 he co-produced the inaugural Balham Comedy Festival. In 2015 John's BBC Radio 4 show ''The John Moloney Show'' aired in May and June. It was featured on Pick of The Week, and Pick of the Year - [[BBC Radio 4|Radio 4]]'s flagship entertainment guide.
+
+==Awards==
+Moloney was nominated as Best Live Stand Up at The British Comedy Awards in 1998 () and twice won Best Live Performer at the London Comedy Festival.
+
+In 2015 John won "Outstanding Achievement in British Comedy" at the UK Comedy Awards.
+
+==Television==
+
+Credits include: ''The Stand Up Show'' (BBC1), ''Never Mind The Buzzcocks'' (BBC2), ''They Think It's All Over'' (BBC1), ''Not A Lot Of People Know That'' (BBC1), ''Call My Bluff'' (BBC1), ''Noel's Telly Years'' (BBC1), ''That's Showbusiness'' (BBC1), ''Pebble Mill'' (BBC1), ''Grumpy Old Men'' (BBC2), ''Best of Edinburgh Festival'' (BBC2), ''Good News Week'' (ABC), ''Spicks and Specks'' (ABC), ''Just For Laughs'' (CBC), ''Just For Laughs Roadshow'' (CBC), ''The World Stands Up'' (Channel Nine Australia) and ''The Comedy Store'' (Dave).
+
+==Personal life==
+Moloney is a qualified teacher and taught French and German at a London school. He uses his language skills in his career and has performed in Hamburg and Berlin in German. 
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.johnmoloney.com/}}
+* [http://www.tigerseye.ca/rave/reviews/comedy/justforlaughs_comedytour.htm Just For Laughs Comedy Tour 2003 with photo of Moloney]
+* [http://www.channel4.com/entertainment/tv/microsites/C/comedy_standups/index.html 100 Greatest Stand-ups]
+* [https://web.archive.org/web/20070310184517/http://www.wandsworthguardian.co.uk/display.var.781232.0.will_moloney_prove_a_standup_hero.php Interview with Moloney in The Guardian]
+
+{{DEFAULTSORT:Moloney, John}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:English people of Irish descent]]
+[[Category:Irish comedians]]
+[[Category:Place of birth missing (living people)]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]</text>
+      <sha1>lzhv1uz4rsfhcy2qbu7ppw828by5r6l</sha1>
+    </revision>
+  </page>
+</mediawiki>

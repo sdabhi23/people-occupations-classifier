@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rod Filbrandt</title>
+    <ns>0</ns>
+    <id>32841267</id>
+    <revision>
+      <id>837726025</id>
+      <parentid>799984931</parentid>
+      <timestamp>2018-04-22T17:09:39Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3282">'''Rod Filbrandt''' is a Vancouver-based cartoonist, illustrator, and writer.&lt;ref&gt;{{cite web|last=Lynch |first=Brian |url=https://www.straight.com/article-330314/vancouver/rod-filbrandts-wombat-collected-comic-strip-gets-book-launch-railway-club |title=Rod Filbrandt's Wombat: The Collected Comic Strip gets a book launch at the Railway Club &amp;#124; Vancouver, Canada |publisher=Straight.com |date=2010-06-22 |accessdate=2011-08-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.inkstuds.org/?p=221 |title=Rod Filbrandt |publisher=Inkstuds |date=2007-10-11 |accessdate=2011-08-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.vanmag.com/author/Rod_Filbrandt |title=Rod Filbrandt &amp;#124; Vancouver Magazine |publisher=Vanmag.com |date= |accessdate=2011-08-23}}&lt;/ref&gt;&lt;ref name="anvilpress1"&gt;{{cite web|url=http://www.anvilpress.com/authors/Rod-Filbrandt |title=Rod Filbrandt |publisher=Anvil Press |date= |accessdate=2011-08-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://drawn.ca/archive/rod-filbrandt/ |title=Rod Filbrandt « Drawn! The Illustration and Cartooning Blog |publisher=Drawn.ca |date=2007-06-19 |accessdate=2011-08-23 |deadurl=yes |archiveurl=https://archive.is/20120707182551/http://drawn.ca/archive/rod-filbrandt/ |archivedate=2012-07-07 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Adam Wilson |url=http://www.canadiancontent.ca/interviews/120103filbrandt.html |title=cancon: interviews: Rod Filbrandt |publisher=Canadiancontent.ca |date= |accessdate=2011-08-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://7deadlysinners.typepad.com/sinners/rod_filbrandt/ |title=The Seven Deadly Sinners: rod filbrandt |publisher=7deadlysinners.typepad.com |date= |accessdate=2011-08-23}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Filbrandt |first=Rod |url=https://www.straight.com/article-117440/calling-out-rod-filbrandt-for-calling-out-bruce-allen |title=Calling out Rod Filbrandt for calling out Bruce Allen &amp;#124; Vancouver, Canada |publisher=Straight.com |date=2007-11-08 |accessdate=2011-08-23}}&lt;/ref&gt; He was one of the writers of the animated television series ''[[The Brothers Grunt]]''.
+
+He produced a comic strip called "Dry Shave" that was published weekly in Vancouver's ''[[The Georgia Straight]]'' and in Toronto's [[Eye Weekly]]. He is the creator of two other strips, "Wombat" and "Tar Paper Town".&lt;ref&gt;{{cite web|url=http://canadianbookshelf.com/Contributors/F/Filbrandt |title=Rod Filbrandt: Books |publisher=Canadian Bookshelf |date= |accessdate=2011-08-23}}&lt;/ref&gt;
+
+He has also produced illustrations that have appeared in such magazines as ''[[Vancouver Magazine]]'', ''[[Entertainment Weekly]]'', the [[The_Village_Voice|Village Voice]], and ''[[Men's Health (magazine)|Men's Health]]''.&lt;ref name="anvilpress1"/&gt;
+
+As a production designer he has worked on such animated series as "[[Ed, Edd n Eddy]]," "The Mr. Hell Show," and "[http://www.hubworld.com/littlest-pet-shop/shows/littlest-pet-shop-show Littlest Pet Shop]."
+
+Filbrandt has two books published by Anvil Press, "Dry Shave" and "Wombat."
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb name|1096612}}
+*[http://www.vanmag.com/author/Rod_Filbrandt Rod Filbrandt] at [[Vancouver Magazine]]
+
+{{DEFAULTSORT:Filbrandt, Rod}}
+[[Category:Living people]]
+[[Category:Canadian cartoonists]]
+[[Category:Canadian television writers]]
+
+
+{{Canadian-comics-creator-stub}}</text>
+      <sha1>6xonjabyhy94qazj4x2lg4uzrdzfy6q</sha1>
+    </revision>
+  </page>
+</mediawiki>

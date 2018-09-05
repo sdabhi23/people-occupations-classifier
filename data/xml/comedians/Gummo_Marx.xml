@@ -1,0 +1,133 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gummo Marx</title>
+    <ns>0</ns>
+    <id>181485</id>
+    <revision>
+      <id>851500077</id>
+      <parentid>839377292</parentid>
+      <timestamp>2018-07-22T18:44:44Z</timestamp>
+      <contributor>
+        <username>Jon Kolbert</username>
+        <id>29727696</id>
+      </contributor>
+      <minor/>
+      <comment>Updating URL format for [[The New York Times]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8637">{{Infobox person
+| name        = Gummo Marx
+| image       = Gummo2.jpg
+| birth_name   = Milton Marx
+| birth_date   = {{birth date|1893|10|23}}
+| birth_place  = [[Manhattan]], [[New York City]], [[New York (state)|New York]], U.S.
+| death_date   = {{death date and age|1977|04|21|1893|10|23}}
+| death_place  = [[Palm Springs]], [[California]], U.S.
+| resting_place = [[Forest Lawn Memorial Park, Glendale]]
+| occupation  = Actor, theatrical agent
+| spouse      = {{marriage|Helen von Tilzer&lt;br&gt;|1929|1976|end=d.}}
+| children    = 1
+| parents     = [[Sam Marx|Sam "Frenchie" Marx]]&lt;br&gt;[[Minnie Marx|Minnie Schönberg]]
+| relatives   = [[Chico Marx]] &lt;small&gt;(brother)&lt;/small&gt;&lt;br&gt; [[Harpo Marx]] &lt;small&gt;(brother)&lt;/small&gt; &lt;br&gt; [[Groucho Marx]] &lt;small&gt;(brother)&lt;/small&gt; &lt;br&gt; [[Zeppo Marx]] &lt;small&gt;(brother)&lt;/small&gt;&lt;br&gt; [[Al Shean]] &lt;small&gt;(maternal uncle)&lt;/small&gt;
+}}
+
+'''Milton''' "'''Gummo'''" '''Marx''' (October 23, 1893 – April 21, 1977) was an American [[vaudevillian]] performer, actor, comedian and theatrical agent.&lt;ref name=obit/&gt; He was the second youngest of the five [[Marx Brothers]]. Born in [[Manhattan, New York City]], he worked with his brothers on the vaudeville circuit, but left acting when he was drafted into the [[U.S. Army]] during [[World War I]] (years before his brothers, [[Chico Marx|Chico]], [[Harpo Marx|Harpo]], [[Groucho Marx|Groucho]], and [[Zeppo Marx|Zeppo]], began their film careers).
+
+==Life and career==
+Marx was born in [[Manhattan, New York City]], on October 23, 1893.&lt;ref&gt;The 1900 United States Census shows his birth as "October 1892". His World War I draft registration uses "October 21, 1892". His death certificate and his grave use the year 1893. The documents closest to the birth date are usually more accurate.&lt;/ref&gt; His parents were [[Sam Marx]] (called "Frenchie" throughout his life), and his wife, [[Minnie Marx|Minnie Schoenberg Marx]]. Marx's family was Jewish. His mother was from [[Dornum]] in [[East Frisia]], and his father was a native of [[Alsace]] and worked as a tailor.&lt;ref&gt;[http://judaisme.sdv.fr/perso/marxbr/geneal.htm ''La famille paternelle des Marx Brothers''] {{fr icon}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|title=Mrs. Minnie Marx. Mother of Four Marx Brothers, Musical Comedy Stars, Dies.|newspaper=New York Times|url=https://www.nytimes.com/1929/09/16/archives/mrs-minnie-marx-mother-of-four-marx-brothers-musical-comedy-stars.html|date=September 16, 1929|page=27|accessdate=2013-12-15}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|title=Samuel Marx, Father of Four Marx Brothers of Stage and Screen Fame|url=https://www.nytimes.com/1933/05/12/archives/samuel-marx-i-father-of-four-marx-brothers-of-i-stage-and-screen.html|newspaper=New York Times|date=May 12, 1933|page=17|accessdate=2008-06-27}}&lt;/ref&gt;
+
+Although the fourth Marx Brother in age, he was the first to make his debut, pretending to be a dummy in an act with his uncle Henry Shean (né Heinemann Schoenberg) in 1899.  Milton was put into a costume with a [[papier-mâché]] head and pretended to be a dummy while Henry pretended to work him.  The act may have only performed once and was not helped by Shean's deafness or Milton's stammer.&lt;ref&gt;{{cite book|last=Bader|first=Robert S.|title=Four of the Three Musketeers: The Marx Brothers on Stage |date=2016|publisher=Northwestern University Press|location=Evanston, IL|pages=53–54|isbn=9780810134164}}&lt;/ref&gt;
+
+Gummo, who in an interview said he never liked being on stage, left the group and joined the military during World War I. He was not sent overseas because the armistice was signed shortly afterward. Gummo's younger brother Zeppo took his place in the group. Gummo later went into the [[raincoat]] business.&lt;ref&gt;{{citation |title=Current Biography |url=http://tc.education.pitt.edu/library/MS-ReSearch/I-Search2009/MarxBrothersCurrentBio.html |publisher=[[H. W. Wilson Company|The H. W. Wilson Company]] |date= |accessdate=2011-11-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20120426010905/http://tc.education.pitt.edu/library/MS-ReSearch/I-Search2009/MarxBrothersCurrentBio.html |archivedate=2012-04-26 |df= }}&lt;/ref&gt; After his Army career he joined with Zeppo and operated a [[talent agency|theatrical agency]].&lt;ref&gt;{{cite web|url=https://books.google.com/books?id=CWdn5BCtHwYC&amp;lpg=PA92&amp;dq=%22milton+marx%22&amp;hl=sv&amp;pg=PA92#v=onepage&amp;q=%22milton+marx%22&amp;f=false|title=The Marx Brothers: Their World, Their Movies, Their Lives, Their Humour and Their Legacy|first=Robert Graham|last=Anstey|date=5 June 2017|publisher=West Coast Paradise Pub.|accessdate=5 June 2017|via=Google Books}}&lt;/ref&gt; After that collaboration ended, Gummo represented his brother Groucho and worked on the television show ''[[The Life of Riley]]'', which he helped develop. 
+
+He also represented other on-screen talent and a number of writers, and was well respected as a businessman. He rarely required contracts, believing that if the people he represented liked his work, they would stay with him; and if not, would seek representation elsewhere.&lt;ref&gt;Simon Louvish (2000) ''Monkey Business: The Lives and Legends of the Marx Brothers''. New York: Thomas Dunne, 337-8. {{ISBN|0-312-25292-7}}&lt;/ref&gt;
+
+Around the time he left his brothers' Vaudeville act, Marx applied for a patent for a clothes packing rack.  On October 28, 1919, Marx was granted patent US1320335A.&lt;ref&gt;[https://patents.google.com/patent/US1320335A/en?q=milton+marx Patent US1320335A: Devices facilitating the insertion of articles or materials into bags e.g. guides or chutes], US Patent Office, 1919.&lt;/ref&gt;
+
+Gummo may have received his [[nickname]] because he had a tendency to be sneaky backstage, creeping up on others like a "[[Detective|gumshoe]]" (detective). Another explanation cited by biographers and family members is that Milton, the sickliest of the brothers, often wore [[Galoshes|rubber overshoes]], also called "gumshoes," to protect himself in inclement weather.&lt;ref&gt;{{cite book|last=Bader|first=Robert S.|title=Four of the Three Musketeers: The Marx Brothers on Stage |date=2016|publisher=Northwestern University Press|location=Evanston, IL|page=170|isbn=9780810134164}}&lt;/ref&gt;
+
+==Personal life==
+Marx married Helen von Tilzer on March 16, 1929; they remained married until her death in January 1976. Their son, Robert, was born in 1930.&lt;ref&gt;{{cite web|url=http://www.biography.com/people/gummo-marx-21181099|title=Gummo Marx|website=Biography.com|accessdate=5 June 2017}}&lt;/ref&gt;
+
+==Death==
+[[File:gummomarxgrave.jpg|thumb|right|Crypt of Gummo Marx]]
+Gummo died on April 21, 1977, at his home in [[Palm Springs, California]], aged 83, from a cerebral hemorrhage.&lt;ref name=obit&gt;{{cite news|agency=[[Reuters]]|title=Gummo Marx, Managed Comedians|url=https://www.nytimes.com/1977/04/22/archives/gummo-marx-managed-comedians.html |quote=Gummo Marx, an original member of the Marx brothers' comedy team, died here today. He was 83 years old.|newspaper=[[New York Times]]|date=April 22, 1977|page=D19|accessdate=2013-12-15}}&lt;/ref&gt; His death was never reported to Groucho, who by that time had become so ill and weak that it was thought the news would be a further detriment to his health. Groucho died four months later on August 19, at age 86.
+
+Gummo and his wife Helen are interred next to each other in the Freedom Mausoleum at the [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park]] in [[Glendale, California]].&lt;ref&gt;{{Find a Grave|678}}&lt;/ref&gt; Gummo's older brother Chico is in a crypt across the hall from them.
+
+==Legacy==
+His grandsons are actors [[Gregg Marx]], [[Chris Marx]], and actor/producer [[Brett Marx]], who as a child actor appeared as "Jimmy Feldman" in 1976's [[comedy film]] ''[[The Bad News Bears]]''.
+
+When Richard J. Anobile asked Groucho in ''The Marx Bros. Scrapbook'' which of his brothers to whom he was closest, Groucho replied, "Gummo. He's a nice man, and that's more than I can say for Zeppo".{{citation needed|date=December 2010}}
+
+==References==
+{{Portal|Film|Biography}}
+{{Reflist}}
+
+{{Marx Brothers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marx, Gummo}}
+[[Category:1893 births]]
+[[Category:1977 deaths]]
+[[Category:American male comedians]]
+[[Category:American comedians]]
+[[Category:American military personnel of World War I]]
+[[Category:American people of Alsatian-Jewish descent]]
+[[Category:American people of German-Jewish descent]]
+[[Category:Jewish American male actors]]
+[[Category:Marx Brothers]]
+[[Category:Male actors from New York City]]
+[[Category:United States Army soldiers]]
+[[Category:Vaudeville performers]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:Jewish American comedians]]
+[[Category:American male comedy actors]]</text>
+      <sha1>p69wnknxzm9oopvz3c4p3x0h8llc2kr</sha1>
+    </revision>
+  </page>
+</mediawiki>

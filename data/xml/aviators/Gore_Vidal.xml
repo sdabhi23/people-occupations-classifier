@@ -1,0 +1,538 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gore Vidal</title>
+    <ns>0</ns>
+    <id>62169</id>
+    <revision>
+      <id>854045976</id>
+      <parentid>851642448</parentid>
+      <timestamp>2018-08-08T16:00:47Z</timestamp>
+      <contributor>
+        <username>Sunshineisles2</username>
+        <id>10907185</id>
+      </contributor>
+      <comment>Boroughs, neighborhoods discouraged in this parameter per template guidelines</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="93184">{{Use mdy dates|date=April 2017}}
+{{Infobox person &lt;!-- for more information see [[:Template:Infobox person/doc]] --&gt;
+| name        = Gore Vidal
+| image       = Gore Vidal 3 Shankbone 2009 NYC cropped.jpg
+| caption     = Vidal in 2009
+| birth_name  = Eugene Louis Vidal
+| other names = Eugene Luther Vidal, Jr.
+| birth_date  = {{birth date|1925|10|3|mf=yes}}
+| birth_place = [[West Point, New York]], U.S.
+| death_date  = {{death date and age|2012|7|31|1925|10|3|mf=yes}}
+| death_place = {{nowrap|[[Los Angeles|Los Angeles, California]], U.S.}}
+| occupation  = Writer, novelist, essayist, playwright, screenwriter, actor
+| parents     = [[Eugene Luther Vidal]]&lt;br&gt;[[Nina S. Gore]]
+| partner     = {{List collapsed|title=''See list''|1={{plain list|
+* [[Anaïs Nin]] (1944–1948)
+* [[Diana Lynn]] (1949–1950)
+* [[Joanne Woodward]] (1950–1951)
+* [[Howard Austen]] (1951–2003)}}}}
+| relations = {{List collapsed|title=''See list''|1={{plain list|
+* [[Nina Auchincloss Straight|Nina Auchincloss]] (half-sister)
+* [[Hugh Auchincloss Steers|Hugh Steers]] (half-nephew)
+* [[Burr Steers]] (half-nephew)}}}}
+| party       = [[Democratic Party (United States)|Democratic]]&lt;br&gt;[[People's Party (United States, 1971)|People's Party]]&lt;br&gt;(affiliated non–member)
+| movement    = [[Postmodern literature|Postmodernism]]
+| education   = [[Phillips Exeter Academy]]
+| known for   = ''[[The City and the Pillar]]'' (1948)&lt;br /&gt;''[[Julian (historical novel)|Julian]]'' (1964)&lt;br /&gt;''[[Myra Breckinridge]]'' (1968)&lt;br /&gt;''[[Burr (novel)|Burr]]'' (1973)&lt;br /&gt;''[[Lincoln (novel)|Lincoln]]'' (1984)
+
+|module      = {{Infobox officeholder|embed=yes
+|order       = Chairman of the [[People's Party (United States, 1971)|People's Party]]
+|term_start  = November 27, 1970
+|term_end    = November 7, 1972
+|1blankname1    = Served with
+|1namedata1     = [[Benjamin Spock]]
+|predecessor = ''Party established''
+}}
+
+| module2 = {{infobox military person|embed=yes
+|nickname      = {{Hlist|"Gene"|"Gore"}}
+|branch        = {{Army|United States}}&lt;br /&gt;{{Ublist|[[File:US Army Air Corps Hap Arnold Wings.svg|25px]] [[United States Army Air Forces]]}}
+|serviceyears  = 1943–46
+|rank          = [[File:US-Army-WO1.svg|10px]] [[Warrant officer (United States)|Warrant Officer]]
+|unit          = {{Ublist|[[35th Fighter Squadron]]}}
+}}
+
+}}
+'''Eugene Luther Gore Vidal''' ({{IPAc-en|v|ᵻ|ˈ|d|ɑː|l}}; born '''Eugene Louis Vidal'''; October 3, 1925 – July 31, 2012) was an American writer and [[public intellectual]] known for his [[Patrician (ancient Rome)|patrician]] manner, [[epigram]]matic wit, and polished style of writing.&lt;ref&gt;{{cite web |url=https://www.loc.gov/nls/about/organization/standards-guidelines/uvwx/#v |title=NLS Other Writings|publisher=Loc.gov|date=February 2011 |accessdate=November 7, 2011 |quote=Vidal, Gore (və-DÄL)}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.bookbrowse.com/biographies/index.cfm?author_number=497|title=Gore Vidal Biography|publisher=BookBrowse |date=July 25, 2011 |accessdate=November 7, 2011}}&lt;/ref&gt;
+
+Vidal was born to a political family; his maternal grandfather, [[Thomas Pryor Gore]], served as United States senator from Oklahoma (1907–1921 and 1931–1937). He was a [[Democratic Party (United States)|Democratic Party]] politician who twice sought elected office; first to the United States House of Representatives (New York, 1960), then to the U.S. Senate (California, 1982).&lt;ref name="Vidal, Gore 1995 p. 439"&gt;Vidal, Gore. ''Palimpsest: A Memoir'' Random House, New York (1995) p. 439.&lt;/ref&gt;
+
+As a political commentator and essayist, Vidal's principal subject was the history of the United States and its society, especially how the militaristic foreign policy reduced the country to a [[American imperialism|decadent empire]].&lt;ref&gt;Wiener, Jon. ''I Told You So: Gore Vidal Talks Politics'' Counter Point Press; Berkeley (2012) pp. 54–55&lt;/ref&gt; His political and cultural essays were published in ''[[The Nation]]'', the ''[[New Statesman]]'', the ''[[New York Review of Books]]'', and ''[[Esquire (magazine)|Esquire]]'' magazines. As a public intellectual, Gore Vidal's topical debates on sex, politics, and religion with other intellectuals and writers occasionally turned into quarrels with the likes of [[William F. Buckley Jr.]] and [[Norman Mailer]]. Vidal thought all men and women are potentially [[bisexual]], so he rejected the adjectives "homosexual" and "heterosexual" when used as nouns, as inherently false terms used to classify and control people in society.&lt;ref&gt;Wieder, Judy. ''Celebrity: The Advocate Interviews'' Advocate Books (2001) p. 127.&lt;/ref&gt;
+
+As a novelist Vidal explored the nature of corruption in public and private life. His polished and [[erudite]] style of narration readily evoked the time and place of his stories, and perceptively delineated the psychology of his characters.&lt;ref&gt;Murphy, Bruce. ''Benét's Reader's Encyclopedia'' (Fourth Edition) HarperCollins Publishers (1996) p. 1,080.&lt;/ref&gt; His third novel, ''[[The City and the Pillar]]'' (1948), offended the literary, political, and moral sensibilities of conservative book reviewers, with a dispassionately presented male homosexual relationship.&lt;ref&gt;Terry, C.V. ''New York Times Book Review'', "The City and the Pillar" January 11, 1948, p. 22.&lt;/ref&gt; In the [[historical novel]] genre, Vidal re-created in ''[[Julian (historical novel)|Julian]]'' (1964) the imperial world of [[Julian (emperor)|Julian the Apostate]] (r. AD 361–63), the Roman emperor who used general religious toleration to re-establish pagan [[polytheism]] to counter the political subversion of Christian monotheism.&lt;ref&gt;Hornblower, Simon &amp; Spawforth, Editors. ''The Oxford Companion to Classical Civilization'' Oxford University Press. (1998) pp. 383–84.&lt;/ref&gt; In the genre of social satire, ''[[Myra Breckinridge]]'' (1968) explores the mutability of gender role and sexual orientation as being social constructs established by [[Mores|social mores]].&lt;ref&gt;Kiernan, Robert F. ''Gore Vidal'' Frederick Ungar Publishing, Inc. (1982) pp. 94–100.&lt;/ref&gt; In ''[[Burr (novel)|Burr]]'' (1973) and ''[[Lincoln (novel)|Lincoln]]'' (1984), the protagonist is presented as "A Man of the People" and as "A Man" in a narrative exploration of how the public and private facets of personality affect the national politics of the U.S.&lt;ref name="Vidal, Gore 1995 p. 439"/&gt;&lt;ref&gt;Kiernan, Robert F. ''Gore Vidal'' Frederick Ungar Publishing, Inc. (1982) pp. 75–85.&lt;/ref&gt;
+
+==Early life==
+Eugene Louis Vidal was born in the cadet hospital of the [[U.S. Military Academy]] at [[West Point, New York]], the only child of [[Eugene Luther Vidal]] (1895–1969) and [[Nina S. Gore]] (1903–1978).&lt;ref name="nyrb-18-oct-1973"&gt;Vidal, Gore, "[http://www.nybooks.com/articles/archives/1973/oct/18/west-point-and-the-third-loyalty/ West Point and the Third Loyalty]", ''The New York Review of Books'', Volume 20, Number 16, October 18, 1973.&lt;/ref&gt;&lt;ref&gt;{{cite AV media |url=https://www.youtube.com/watch?v=zDXEn6uGD78|title=Gore Vidal: Author Biography, Essays, History, Novels, Style, Favorite Books – Interview (2000)|date=August 25, 2013|publisher=|via=YouTube}}&lt;/ref&gt; Vidal was born there because his first lieutenant father was the first [[aeronautics]] instructor of the military academy. The middle name, Louis, was a mistake on the part of his father, "who could not remember, for certain, whether his own name was Eugene Louis or Eugene Luther".&lt;ref name="nytimes"&gt;{{cite news |first=Fred|last=Kaplan|authorlink=Fred Kaplan (biographer)|url=https://www.nytimes.com/books/first/k/kaplan-vidal.html|title=Excerpt: Gore Vidal, A Biography|work=The New York Times|year=1999|accessdate=June 12, 2013}}&lt;/ref&gt; In the memoir ''Palimpsest'' (1995), Vidal said, "My birth certificate says 'Eugene Louis Vidal': this was changed to Eugene Luther Vidal Jr.; then Gore was added at my christening [in 1939]; then, at fourteen, I got rid of the first two names."&lt;ref&gt;Vidal, Gore. ''Palimpsest'' (1995), p. 401.&lt;/ref&gt;
+
+Eugene Louis Vidal was not baptized until January 1939, when he was 13 years old, by the headmaster of [[St. Albans School (Washington, D.C.)|St. Albans]] school, where Vidal attended preparatory school. The baptismal ceremony was effected so he "could be confirmed [into the Episcopal faith]" at the Washington Cathedral, in February 1939, as "Eugene Luther Gore Vidal".&lt;ref&gt;Gore Vidal, Richard Peabody, and Lucinda Ebersole, ''Conversations with Gore Vidal'', (University Press of Mississippi, 2005), p. xix.&lt;/ref&gt; He later said that, although the surname "Gore" was added to his names at the time of the baptism, "I wasn't named for him [maternal grandfather [[Thomas Pryor Gore]]], although he had a great influence on my life."&lt;ref&gt;Gore Vidal, Richard Peabody, and Lucinda Ebersole, ''Conversations with Gore Vidal'', (University Press of Mississippi, 2005), page 4&lt;/ref&gt; In 1941, Vidal dropped his two first names, because he "wanted a sharp, distinctive name, appropriate for an aspiring author, or a national political leader ... I wasn't going to write as 'Gene' since there was already one. I didn't want to use the 'Jr.{{'"}}&lt;ref name="nytimes"/&gt;&lt;ref&gt;Gore Vidal, Richard Peabody, and Lucinda Ebersole, ''Conversations with Gore Vidal'', (University Press of Mississippi, 2005), p. xx.&lt;/ref&gt;
+
+[[File:GoreVidalVanVechten1.jpg|thumb|left|Vidal in 1948]]
+
+Eugene Luther Vidal Sr. was director (1933–37) of the [[Department of Commerce|Commerce Department]]'s [[Bureau of Air Commerce]] during the [[Presidency of Franklin D. Roosevelt|Roosevelt Administration]], and also was the great love of the aviator [[Amelia Earhart]].&lt;ref&gt;"Aeronatics: $8,073.61", ''Time'', September 28, 1931&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.booknotes.org/Watch/95192-1/Susan+Butler.aspx |title=Booknotes |publisher=Booknotes |date= |accessdate=December 31, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120414015650/http://www.booknotes.org/Watch/95192-1/Susan+Butler.aspx |archivedate=April 14, 2012 |df=mdy-all }}&lt;/ref&gt; At the U.S. Military Academy, the exceptionally athletic Vidal Sr. had been a quarterback, coach, and captain of the football team; and an [[all-American]] basketball player. Subsequently, he competed in the [[1920 Summer Olympics]] and in the [[1924 Summer Olympics]] (seventh in the [[decathlon]], and coach of the U.S. pentathlon).&lt;ref&gt;{{cite news |title=Eugene L. Vidal, Aviation Leader|newspaper=The New York Times|date=February 21, 1969|page=43 |url=https://www.nytimes.com/1969/02/21/archives/eugene-l-vidal-aviation-leader-former-commerce-aide-73-diesmolympic.html}}&lt;/ref&gt;&lt;ref&gt;[http://www.sdshof.com/inventory/detail.cfm?id=138 South Dakota Sports Hall of Fame Profile: Gene Vidal]. {{webarchive |url=https://web.archive.org/web/20071016212717/http://www.sdshof.com/inventory/detail.cfm?id=138 |date=October 16, 2007}}&lt;/ref&gt; In the 1920s and the 1930s, Vidal Sr. co-founded three airline companies and a railroad line; (i) the [[Ludington Line]] (later [[Eastern Airlines]]); (ii) [[Transcontinental Air Transport]] (later [[TWA|Trans World Airlines]]); (iii) [[Northeast Airlines]]; and the [[Boston and Maine Railroad]].&lt;ref&gt;Vidal, Gore ''Palimpsest'' (1995) p. 12.&lt;/ref&gt; Gore's great-grandfather Eugen Fidel Vidal was born in [[Feldkirch, Vorarlberg|Feldkirch]], Austria, of [[Romansh people|Romansh]] background, and had come to the U.S. with Gore's Swiss great-grandmother, Emma Hartmann.&lt;ref&gt;Parini, Jay (2015). ''[https://books.google.com/books?id=s1o5BgAAQBAJ&amp;pg=PT17&amp;dq=%22Gene's+grandfather%E2%80%94Eugen+Fidel+Vidal%E2%80%94+was+a+con+artist,+born+in+Feldkirch,+Austria,+of+Romansh+stock%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjhiNWYsPHJAhVMtIMKHSh-AJsQ6AEIEzAA Empire of Self: A Life of Gore Vidal]''. New York: Penguin Random House. {{ISBN|978-0-385-53757-5}}. Retrieved December 23, 2015&lt;/ref&gt;
+
+Vidal's mother, Nina Gore, was a [[high society (group)|high society]] woman who made her Broadway theatre debut as an extra actress in ''Sign of the Leopard'', in 1928.&lt;ref&gt;{{cite news |title=General Robert Olds Marries|newspaper=The New York Times |date=June 7, 1942|page=6|url=https://select.nytimes.com/gst/abstract.htmlres=F10712FB3C5E17738DDDAE0894DE405B8288F1D3}} {{Dead link |date=December 2016}}
+&lt;/ref&gt; In 1922, Nina married Eugene Luther Vidal, Sr., and thirteen years later, in 1935, divorced him.&lt;ref&gt;{{cite news |title=Miss Nina Gore Marries|work=The New York Times |date=January 12, 1922|url=https://query.nytimes.com/gst/abstract.html?res=9F00E2DF1E3FE432A25751C1A9679C946395D6CF}}&lt;/ref&gt; Nina Gore Vidal then was married two more times; to [[Hugh D. Auchincloss]] and to [[Robert Olds]]. She also had "a long off-and-on affair" with the actor [[Clark Gable]].&lt;ref&gt;Vidal, Gore. ''Point to Point Navigation'', New York: Doubleday, 2006, p. 135.&lt;/ref&gt; As Nina Gore Auchincloss, Vidal's mother was an alternate delegate to the [[1940 Democratic National Convention]].&lt;ref&gt;{{cite web |author=|title=Politicians: Aubertine to Austern|url=http://www.politicalgraveyard.com/bio/aubert-austen.html|publisher=The Political Graveyard|year=2008|accessdate=October 31, 2008}}&lt;/ref&gt;
+
+The subsequent marriages of his mother and father yielded four half-siblings for Gore Vidal – Vance Vidal, Valerie Vidal, Thomas Gore Auchincloss, and [[Nina Straight|Nina Gore Auchincloss]] – and four step-brothers from his mother's third marriage to Robert Olds, a major general in the [[United States Army Air Forces]] (USAAF), who died in 1943, 10 months after marrying Nina.&lt;ref&gt;{{cite news |title=Maj. Gen. Olds, 46, of Air Force, Dies|newspaper=The New York Times |date=April 29, 1943|url=https://select.nytimes.com/gst/abstract.html?res=FB0815F93F581B7B93CBAB178FD85F478485F9}}&lt;/ref&gt; The nephews of Gore Vidal include [[Burr Steers]], a writer and film director, and [[Hugh Auchincloss Steers]] (1963–95), a [[Figurative art|figurative painter]].&lt;ref name="NYTimes-4-mar-1995"&gt;{{cite news |url=https://www.nytimes.com/1995/03/04/obituaries/hugh-steers-32-figurative-painter.html|title=Hugh Steers, 32, Figurative Painter|newspaper=The New York Times|date=March 4, 1995}}&lt;/ref&gt;&lt;ref name="NYTimes-15-sep-2002"&gt;{{cite news |url=https://www.nytimes.com/2002/09/15/arts/film-a-family-s-legacy-pain-and-humor-and-a-movie.html|title=A Family's Legacy: Pain and Humor (and a Movie)|newspaper=The New York Times|date=September 15, 2002|first=Karen|last=Durbin}}&lt;/ref&gt;
+
+Raised in Washington, D.C., Vidal attended the [[Sidwell Friends School]] and the [[St. Albans School (Washington, D.C.)|St. Albans School]]. Given the blindness of his maternal grandfather, Senator [[Thomas Pryor Gore]], of Oklahoma, Vidal read aloud to him, and was his [[United States Senate Page|Senate page]], and his seeing-eye guide.&lt;ref name="LATimes-18-jun-2008"&gt;Rutten, Tim. "[http://www.latimes.com/features/books/la-et-rutten18-2008jun18,0,193259.story 'The Selected Essays of Gore Vidal']", ''Los Angeles Times'', June 18, 2008.&lt;/ref&gt; In 1939, during his summer holiday, Vidal went with some colleagues and professor from St. Albans School on his first European trip, to visit Italy and France. He visited for the first time Rome, the city which came "at the center of Gore's literary imagination", and Paris. When the [[World War II|Second World War]] began in early September, the group was forced to an early return home; on his way back, he and his colleagues stopped in Great Britain, and they met the U.S. Ambassador to Great Britain, [[Joe Kennedy]] (the father of [[John Fitzgerald Kennedy]], later the President of the United States of America).&lt;ref&gt;Jay Parini, ''Every time a friend succeeds, something inside me dies. The Life of Gore Vidal (London: Little, Brown, 2015), 27-28. )''&lt;/ref&gt; In 1940 he attended the [[Los Alamos Ranch School]] and later transferred to [[Phillips Exeter Academy]], in [[Exeter, New Hampshire]], where he contributed to [[the Exonian]], the school newspaper.&lt;ref&gt;''Gore Vidal: A Critical Companion'' Susan Baker, Curtis S. Gibson. Greenwood Publishing Group, 1997. {{ISBN|0-313-29579-4}}. p. 3.&lt;/ref&gt;
+
+In the article ''Gore Vidal: Sharpest Tongue in the West'', [[Roy Hattersley]] said that "for reasons he never explained, he [Vidal] did not go on to [[Harvard]], [[Yale]], or [[Princeton University|Princeton]], with other members of his social class."&lt;ref name="dailymail"&gt;{{cite news |last=Hattersley|first=Roy|title=Gore Vidal: Sharpest Tongue in the West|url=http://www.dailymail.co.uk/news/article-2182348/Gore-Vidal-Sharpest-tongue-West.html?ito=feeds-newsxml|newspaper=Daily Mail|location=London}}&lt;/ref&gt; Rather than attend university, Vidal enlisted in the [[U.S. Army]] and worked as an office clerk within the [[U.S. Army Air Forces|USAAF]]. Later, Vidal passed the examinations necessary to become a maritime warrant officer (junior grade) in the Transportation Corps, and subsequently served as first mate of the ''F.S. 35th'', berthed at [[Dutch Harbor]]. After three years in service, Warrant Officer Gene Vidal suffered [[hypothermia]], developed [[rheumatoid arthritis]] and, consequently, was reassigned to duty as a mess officer.&lt;ref&gt;Vidal, Gore. ''Williwaw'', "Preface", p. 1.&lt;/ref&gt;
+
+{{clear}}
+
+==Career==
+
+===Writer===
+The literary works of Gore Vidal were influenced by numerous other writers, poets and playwrights, novelists and essayists. These include, from antiquity: [[Petronius]] (d. AD 66), [[Juvenal]] (AD 60–140), and [[Apuleius]] ([[Floruit|fl.]] ca. AD 155); and from the post-Renaissance: [[Thomas Love Peacock]] (1785–1866) and [[George Meredith]] (1828–1909). More recent literary figures by whom his work was influenced include: [[Marcel Proust]] (1871–1922), [[Henry James]] (1843–1916) and [[Evelyn Waugh]] (1903–66).&lt;ref name=autogenerated1&gt;{{cite web |url=http://www.theparisreview.org/interviews/3917/the-art-of-fiction-no-50-gore-vidal|title=Paris Review – The Art of Fiction No. 50, Gore Vidal|publisher=}}&lt;/ref&gt; The cultural critic [[Harold Bloom]] has written that Gore Vidal believed that his sexuality had denied him full recognition from the literary community in the United States but Bloom contends that such limited recognition owed more to Vidal writing in the unfashionable, plot-orientated genre of [[historical fiction]], than with whom Vidal shared a pillow.&lt;ref name="Bloom1994"&gt;{{cite book |last=Bloom|first=Harold|title=The Western Canon: The Books and School of the Ages|url=https://books.google.com/books?id=_-QzKinSsz0C|accessdate=August 1, 2012|year=1994|publisher=Riverhead Books |isbn=978-1-57322-514-4 |page=20}}&lt;/ref&gt; In 2009, the Man of Letters Gore Vidal was named honorary president of the [[American Humanist Association]].&lt;ref&gt;{{cite web |url=http://www.atheists.org/gore-vidal-death-legend |title=Gore Vidal: The Death of a Legend &amp;#124; American Atheists |publisher=Atheists.org |date=August 1, 2012 |accessdate=August 5, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120804052134/http://www.atheists.org/gore-vidal-death-legend |archivedate=August 4, 2012}}&lt;/ref&gt;&lt;!-- dead link --&gt;&lt;ref name=Freethinker0812&gt;{{cite web |last=Duke|first=Barry|url=http://freethinker.co.uk/2012/08/01/farewell-gore-vidal-gay-atheist-extraordinary/|title=Farewell Gore Vidal, Gay Atheist Extraordinary|publisher=Freethinker.co.uk |date=August 1, 2012|accessdate=December 18, 2015}}&lt;/ref&gt;
+
+====Fiction====
+
+[[File:GoreVidal2008.jpg|thumb|Vidal at the [[Los Angeles Times Festival of Books]], 2008]]
+The literary career of Gore Vidal began with the success of the [[military novel]] [[Williwaw (Vidal novel)|''Williwaw'']], a men-at-war story derived from his [[Dutch Harbor Naval Operating Base and Fort Mears, U.S. Army|Alaskan Harbor Detachment]] duty during the [[World War II|Second World War]].&lt;ref&gt;Vidal, Gore. ''The City and the Pillar and Seven Early Stories'' (NY: Random House), p. xiii.&lt;/ref&gt; His third novel, ''[[The City and the Pillar]]'' (1948) caused a moralistic furor over his dispassionate presentation of a young protagonist coming to terms with his homosexuality and a male homosexual relationship.&lt;ref name=Freethinker0812/&gt; The novel was dedicated to "J. T."; decades later, Vidal confirmed that the initials were those of [[James "Jimmie"Trimble III|James Trimble III]], killed in the [[Battle of Iwo Jima]] on March 1, 1945 and that Jimmie Trimble was the only person Gore Vidal ever loved.&lt;ref name="ESPN-14-mar-2002"&gt;Roberts, James. "[http://sports.espn.go.com/espn/print?id=1351570&amp;type=page2Story The Legacy of Jimmy Trimble]", ''ESPN'', March 14, 2002.&lt;/ref&gt;&lt;ref name="Independent-25-may-2008"&gt;Chalmers, Robert. "[https://www.independent.co.uk/arts-entertainment/books/features/gore-vidal-literary-feuds-his-vicious-mother-and-rumours-of-a-secret-love-child-832525.html Gore Vidal: Literary feuds, his 'vicious' mother and rumours of a secret love child]", ''The Independent'', May 25, 2008.&lt;/ref&gt;
+
+Critics railed against Vidal’s presentation of homosexuality in ''The City and the Pillar'' as natural, a life viewed generally at the time as unnatural and immoral.&lt;ref name=Freethinker0812/&gt; Vidal claimed that ''New York Times'' critic [[Orville Prescott]] was so offended by it that he refused to review or to permit other critics to review any book by Vidal.&lt;ref&gt;Vidal, Gore. ''Point to Point Navigation'' (New York: Doubleday, 2006), 245&lt;/ref&gt; Vidal said that upon publication of the book, an editor at [[EP Dutton]] told him "You will never be forgiven for this book. Twenty years from now, you will still be attacked for it".&lt;ref name=Freethinker0812/&gt;
+
+Vidal took the pseudonym "Edgar Box" and wrote the mystery novels ''Death in the Fifth Position'' (1952), ''Death before Bedtime'' (1953) and ''Death Likes it Hot'' (1954) featuring Peter Cutler Sargeant II, a publicist-turned-private-eye. The Edgar Box genre novels sold well and earned black-listed Vidal a secret living.&lt;ref&gt;''Boston Globe'': [http://articles.boston.com/2011-03-25/ae/29352611_1_novels-mysteries-paperback Diane White, "Murder, He Wrote, Before Becoming a Man of Letters", 25 March 2011], Retrieved July 11, 2011 {{webarchive |url=https://web.archive.org/web/20111127004526/http://articles.boston.com/2011-03-25/ae/29352611_1_novels-mysteries-paperback |date=November 27, 2011}}&lt;/ref&gt;&lt;ref&gt;Vidal, Gore. "Introduction to ''Death in the Fifth Position''", in Edgar Box, ''Death in the Fifth Position'' (Vintage, 2011), pp. 5–6.&lt;/ref&gt; That mystery-novel success led Vidal to write in other genres and he produced the stageplay ''[[The Best Man (play)|The Best Man: A Play about Politics]]'' (1960) and the television play ''[[Visit to a Small Planet]]'' (1957). Two early teleplays were ''A Sense of Justice'' (1955) and ''Honor''.&lt;ref&gt;{{cite web |title=Philco Television Playhouse: A Sense of Justice (TV)|url=http://www.paleycenter.org/collection/item/?q=Goodyear+Television+Playhouse&amp;p=1&amp;item=T:40573|work=The Paley Center for Media|accessdate=January 1, 2013}}&lt;/ref&gt; He also wrote the pulp novel ''Thieves Fall Out'' under the pseudonym "Cameron Kay" but refused to have it reprinted under his real name during his life.&lt;ref name="thieves"&gt;{{Citation|last= Bayard|first= Louis |title= Review: Gore Vidal's 'Thieves Fall Out', Where Pulp Fiction and Hard Reality Met|publisher= [[The New York Times]]|date=April 12, 2015|url=https://www.nytimes.com/2015/04/13/books/review-gore-vidals-thieves-fall-out-where-pulp-fiction-and-hard-reality-met.html |accessdate=April 12, 2015}}&lt;/ref&gt;
+
+In the 1960s, Vidal published [[Julian (novel)|''Julian'']] (1964), about the Roman Emperor [[Julian (emperor)|Julian the Apostate]] (r. A.D. 361–363), who sought to reinstate [[polytheism|polytheistic paganism]] when Christianity threatened the cultural integrity of the Roman Empire, [[Washington, D.C. (novel)|''Washington, D.C.'']] (1967), about political life during the presidential era (1933–45) of [[Franklin D. Roosevelt]] and ''[[Myra Breckinridge]]'' (1968), a satire of the American movie business, by way of a school of dramatic arts owned by a [[transsexual]] woman, the eponymous anti-heroine.
+
+After publishing the plays [[Weekend (play)|''Weekend'']] (1968) and ''[[An Evening With Richard Nixon]]'' (1972) and the novel ''Two Sisters: A Novel in the Form of a Memoir'' (1970), Vidal concentrated upon the essay and developed two types of fiction. The first type is about American history, novels specifically about the nature of national politics.&lt;ref name="NYTimes -7-jul-1970"&gt;{{cite news |author=Leonard, John|authorlink=John Leonard (critic)|url=https://www.nytimes.com/books/98/03/01/home/vidal-sisters.html|title=Not Enough Blood, Not Enough Gore|work=The New York Times|date=July 7, 1970|accessdate=October 30, 2008}}&lt;/ref&gt; About those historical novels, the critic [[Harold Bloom]] said that "Vidal's imagination of American politics ... is so powerful as to compel awe". The historical novels formed the seven-book series, [[Narratives of Empire]]: (i) ''[[Burr (novel)|Burr]]'' (1973), (ii) ''[[1876 (novel)|1876]]'' (1976), (iii) ''[[Lincoln (novel)|Lincoln]]'' (1984), (iv) ''[[Empire (Vidal novel)|Empire]]'' (1987), (v) ''[[Hollywood (Vidal novel)|Hollywood]]'' (1990), (vi) ''[[Washington, D.C. (novel)|Washington, D.C.]]'' (1967) and (vii) ''[[The Golden Age (Gore Vidal novel)|The Golden Age]]'' (2000). Besides U.S. history, Vidal also explored and analyzed the history of the ancient world, specifically the [[Axial age|Axial Age]] (800–200 B.C.), with the novel ''[[Creation (novel)|Creation]]'' (1981). The novel was published without four chapters that were part of the manuscript he submitted to the publisher; years later, Vidal restored the chapters to the text and re-published the novel ''Creation'' in 2002.
+
+The second type of fiction is the topical satire, such as ''[[Myron (novel)|Myron]]'' (1974) the sequel to ''[[Myra Breckinridge]]''; ''[[Kalki (novel)|Kalki]]'' (1978), about the end of the world and the consequent ennui; ''[[Duluth (novel)|Duluth]]'' (1983), an [[Parallel universe (fiction)|alternate universe]] story; ''[[Live from Golgotha: The Gospel according to Gore Vidal|Live from Golgotha]]'' (1992), about the adventures of Timothy, Bishop of Macedonia, in the early days of Christianity and ''[[Smithsonian Institution (novel)|The Smithsonian Institution]]'' (1998), a time-travel story.
+
+====Non-fiction====
+In the U.S., Gore Vidal is often considered an essayist, rather than a novelist.&lt;ref&gt;{{cite news |first=Deborah |last=Solomon |title=Literary Lion |url=https://www.nytimes.com/2008/06/15/magazine/15wwln-Q4-t.html?ref=magazine |work= The New York Times Magazine |date=June 15, 2008 |accessdate=June 29, 2008}}&lt;/ref&gt; Even the occasionally hostile literary critic, such as [[Martin Amis]], admitted that "Essays are what he is good at ... [Vidal] is learned, funny, and exceptionally clear-sighted. Even his blind spots are illuminating."
+
+For six decades, Vidal applied himself to socio-political, sexual, historical and literary subjects. In the essay anthology ''Armageddon'' (1987) Vidal explored the intricacies of power (political and cultural) in the contemporary U.S. His criticism of the incumbent U.S. President, [[Ronald Reagan]], as a "triumph of the embalmer's art" communicated that Reagan's provincial [[worldview]], and that of his administration's, was out of date and inadequate to the [[geopolitics|geopolitical]] realities of the world in the late twentieth century. In 1993, Vidal won the [[National Book Award for Nonfiction]] for the anthology [[United States (essays)|''United States: Essays 1952–92'']] (1993).&lt;ref name=nba1993&gt;[http://www.nationalbook.org/nba1993.html "National Book Awards&amp;nbsp;– 1993"]. [[National Book Foundation]]. Retrieved 2012-03-12.&lt;br /&gt;(With acceptance speech by Vidal, read by Harry Evans.)&lt;/ref&gt;
+
+According to the citation, "Whatever his subject, he addresses it with an artist's resonant appreciation, a scholar's conscience and the persuasive powers of a great essayist."&lt;ref&gt;{{cite web |title=United States|url=https://www.amazon.com/United-States-Gore-Vidal/dp/product-description/0767908066|work=amazon.com|accessdate=November 27, 2013}}&lt;/ref&gt;
+
+In 2000 Vidal published the collection of essays, ''[[The Last Empire]]'', then such self-described "pamphlets" as ''Perpetual War for Perpetual Peace'', ''Dreaming War: Blood for Oil and the Cheney-Bush Junta'' and ''Imperial America'', critiques of American expansionism, the [[military-industrial complex]], the national security state and the [[Presidency of George W. Bush|George W. Bush administration]]. Vidal also wrote a historical essay about the U.S. founding fathers, ''[[Inventing a Nation]]''. In 1995, he published a memoir [[Palimpsest (memoir)|''Palimpsest'']] and in 2006 its follow-up volume, ''[[Point to Point Navigation]]''. Earlier that year, Vidal had published ''[[Clouds and Eclipses: The Collected Short Stories]].''
+
+Because of his matter-of-fact treatment of same-sex relations in such books as ''The City and The Pillar'', Vidal is often seen as an early champion of [[sexual liberation]].&lt;ref&gt;[http://www.consulfrance-losangeles.org/spip.php?article547 Décoration de l'écrivain Gore Vidal].  {{webarchive|url=https://web.archive.org/web/20081013002425/http://www.consulfrance-losangeles.org/spip.php?article547 |date=October 13, 2008 }}&lt;/ref&gt; In the September 1969 edition of ''Esquire'', for example, Vidal wrote
+
+{{quote|We are all bisexual to begin with. That is a fact of our condition. And we are all responsive to sexual stimuli from our own as well as from the opposite sex. Certain societies at certain times, usually in the interest of maintaining the baby supply, have discouraged homosexuality. Other societies, particularly militaristic ones, have exalted it. But regardless of tribal taboos, homosexuality is a constant fact of the human condition and it is not a sickness, not a sin, not a crime&amp;nbsp;... despite the best efforts of our puritan tribe to make it all three. Homosexuality is as natural as heterosexuality. Notice I use the word 'natural,' not normal.&lt;ref name="esquire_sept_1969"&gt;{{cite news |author=Gore Vidal|title=A Distasteful Encounter with William F. Buckley Jr.|publisher=Esquire|date=September 1969|page=140}}&lt;/ref&gt;}}
+
+In 2009, he won the annual [[National Book Award#Medal of Distinguished Contribution to American Letters|Medal for Distinguished Contribution to American Letters]] from the [[National Book Foundation]], which called him a "prominent social critic on politics, history, literature and culture".&lt;ref name=medal&gt;[http://www.nationalbook.org/amerletters.html "Distinguished Contribution to American Letters"]. National Book Foundation. Retrieved 2012-03-11.&lt;br /&gt;(With acceptance speech by Vidal and official blurb.)&lt;/ref&gt;&lt;!-- the blurb is substantially lacking as an award citation; contrast Joan Didion 2007; nor does NBF publish anyone's introduction of Vidal --&gt;
+
+====Screenplays====
+In 1956, [[Metro-Goldwyn-Mayer]] hired Gore Vidal as a [[screenwriter|screenplay writer]] with a four-year employment contract. In 1958, the director [[William Wyler]] required a [[script doctor]] to rewrite the screenplay for [[Ben-Hur (1959 film)|''Ben-Hur'']] (1959), originally written by [[Karl Tunberg]]. As one of several script doctors assigned to the project, Vidal rewrote portions of the script to resolve ambiguities of character motivation, specifically to clarify the enmity between the Jewish protagonist, Judah Ben-Hur and the Roman antagonist, Messala, who had been close boyhood friends. In exchange for rewriting the ''Ben-Hur'' screenplay, on location in Italy, Vidal negotiated the early termination (at the two-year mark) of his four-year contract with MGM.&lt;ref&gt;Vidal, Gore. ''Palimpsest: A Memoir'' Random House, New York (1995) pp. 301–307.&lt;/ref&gt;
+
+Thirty-six years later, in the documentary film ''[[The Celluloid Closet]]'' (1995), Vidal explained that Messala's failed attempt at resuming their homosexual, boyhood relationship motivated the ostensibly political enmity between Ben-Hur ([[Charlton Heston]]) and Messala ([[Stephen Boyd]]), that Boyd was aware of the homosexual subtext to the scene and that the director, the producer and the screenplay writer agreed to keep Heston ignorant of the subtext, lest he refuse to play the scene.&lt;ref&gt;Vidal, Gore. ''Palimpsest: A Memoir'' Random House, New York (1995) pp. 306–306.&lt;/ref&gt; In turn, on learning of that script-doctor explanation, Charlton Heston said that Gore Vidal had contributed little to the script of Ben Hur.&lt;ref&gt;{{cite news |title=A Commanding Presence: Actor Charlton Heston Sets His Epic Career in Stone – or At Least on Paper |author=Mick LaSalle |publisher=The San Francisco Chronicle |date=October 2, 1995 |page=E1}}&lt;/ref&gt; Despite Vidal's script-doctor resolution of the character's motivations, the [[Screen Writers Guild]] assigned formal screenwriter-credit to Karl Tunberg, in accordance with the [[WGA screenwriting credit system]], which favored the "original author" of a screenplay, rather than the writer of the filmed screenplay.&lt;ref&gt;{{cite news |title=Gore Vidal, Aloof in Art and Life |author=Ned Rorem |publisher=Chicago Sun-Times |date=December 12, 1999 |page=18S}}&lt;/ref&gt;
+
+Two plays, [[The Best Man (play)|''The Best Man: A Play about Politics'']] (1960, made into a [[The Best Man (1964 film)|film]] in 1964) and ''[[Visit to a Small Planet]]'' (1955) were theatre and movie successes; Vidal occasionally returned to the movie business, and wrote historically accurate teleplays and screenplays about subjects important to him. Two such movies are the cowboy movie [[Billy the Kid (1989 film)|''Billy the Kid'']] (1989), about [[William H. Bonney]] a gunman in the [[Lincoln County War]] (1878), occurred in the New Mexico territory and later an outlaw in the Western frontier of the U.S. and the Roman Empire movie [[Caligula (film)|''Caligula'']] (1979), from which Vidal had his screenwriter credit removed, because the producer, [[Bob Guccione]], the director, [[Tinto Brass]] and the leading actor, [[Malcolm McDowell]], rewrote the script and added extra sex and violence to increase the commercial success of a movie based upon the life of the [[Roman Emperor]] [[Caligula]] (AD 12–41), which is the fourth biography in ''[[The Twelve Caesars]]'' (AD 121), by [[Suetonius]].&lt;ref name="Time-3-jan-1977"&gt;"[http://www.time.com/time/magazine/article/0,9171,947822,00.html Show Business: Will the Real Caligula Stand Up?]", ''Time'' January 3, 1977.&lt;/ref&gt;
+
+===Public intellectual===
+
+====Politics====
+As a public intellectual, Gore Vidal was identified with the liberal politicians and the [[progressivism|progressive]] social causes of the old Democratic Party.&lt;ref name="The Nation profile"&gt;{{cite web |url=http://www.thenation.com/directory/bios/gore_vidal |title=Gore Vidal |work=The Nation |accessdate=January 22, 2009}}&lt;/ref&gt;&lt;ref&gt;Ira Henry Freeman, [https://www.nytimes.com/books/98/03/01/home/vidal-campaign.html "Gore Vidal Conducts Campaign of Quips and Liberal Views"], ''The New York Times'', September 15, 1960&lt;/ref&gt; In 1960, he was the Democratic candidate for Congress for the [[New York's 29th congressional district|29th Congressional District]] of New York, a usually Republican district on the Hudson River but lost to the Republican candidate [[J. Ernest Wharton]], by a margin of 57 percent to 43 percent.&lt;ref&gt;{{cite web |url=http://clerk.house.gov/member_info/electionInfo/1960election.pdf |title=Statistics of the Presidential and Congressional Election of November 8, 1960|publisher= Office of the Clerk, U.S. House of Representatives|year=1960 |page=31, item #29|accessdate=August 4, 2012}}&lt;/ref&gt; Campaigning under the slogan of ''You'll get more with Gore'', Vidal received the most votes any Democratic candidate had received in the district in fifty years. Among his supporters were [[Eleanor Roosevelt]] and [[Paul Newman]] and [[Joanne Woodward]], friends who spoke on his behalf.&lt;ref&gt;{{cite news |first=Ira Henry |last=Freeman |title=The Playwright, the Lawyer, and the Voters |newspaper=New York Times |date=September 15, 1960 |page=20 |url=https://www.nytimes.com/1960/09/15/archives/the-playwright-the-lawyer-and-the-voters-gore-vidal-conducts.html}}&lt;/ref&gt;
+
+[[File:Gore Vidal and McGovern 1.JPG|thumb|Vidal and ex-senator [[George McGovern]] at the [[Richard Nixon Presidential Library and Museum]], August 26, 2009]]
+In 1982, he campaigned against [[Jerry Brown]], the incumbent Governor of California, in the Democratic primary election for the U.S. Senate; Vidal forecast accurately that the opposing Republican candidate would win the election.&lt;ref name="vidal_correx_july_2011"&gt;[https://web.archive.org/web/20120402190800/http://www.gorevidalnow.com/in-which-gore-vidal-corrects-his-wikipedia-page/ Archived from gorevidalnow.com], in which Gore Vidal corrects his Wikipedia page&lt;/ref&gt; That foray into senatorial politics is the subject of the documentary film ''[[Gore Vidal: The Man Who Said No]]'' (1983), directed by [[Gary Conklin]].
+
+In a 2001 article, "The Meaning of Timothy McVeigh", Gore undertook to discover why domestic terrorist [[Timothy McVeigh]] perpetrated the [[Oklahoma City bombing]] in 1995. He concluded that McVeigh (a politically disillusioned U.S. Army veteran of the [[Gulf War|First Iraq War]], 1990–91) had destroyed the [[Alfred P. Murrah Federal Building]] as an act of revenge for the FBI's [[Waco massacre]] (1993) at the [[Branch Davidian]] Compound in Texas, believing that the U.S. government had mistreated Americans in the same manner that he believed that the U.S. Army had mistreated the Iraqis.&lt;ref&gt;Gore Vidal, [http://www.vanityfair.com/politics/features/2001/09/mcveigh200109?printable=true&amp;currentPage=all "The Meaning of Timothy McVeigh"]. ''Vanity Fair'', September 2001.&lt;/ref&gt;
+
+In ''Dreaming War: Blood for Oil and the Cheney-Bush Junta'' (2002), Vidal drew parallels about how the U.S. enters wars and said that President [[Franklin D. Roosevelt]] provoked [[Imperial Japan]] to attack the U.S. to justify the American entry to the [[Second World War]] (1939–45). He contended that Roosevelt had advance knowledge of the dawn-raid attack on [[Attack on Pearl Harbor|Pearl Harbor]] (December 7, 1941).&lt;ref&gt;Gore Vidal, "Three Lies to Rule By" and "Japanese Intentions in the Second World War", from ''Dreaming War: Blood for Oil and the Cheney-Bush Junta'', New York, 2002, {{ISBN|1-56025-502-1}}&lt;/ref&gt; In the documentary [[Why We Fight (2005 film)|''Why We Fight'']] (2005), Vidal said that, during the final months of the war, the Japanese had tried to surrender: "They were trying to surrender all that summer, but [[Harry Truman|Truman]] wouldn't listen, because Truman wanted to drop the bombs.... To show off. To frighten Stalin. To change the [[balance of power (international relations)|balance of power]] in the world. To declare war on [[communism]]. Perhaps we were starting a pre-emptive world war".&lt;ref&gt;{{cite web |url=http://www.say2.org/why-we-fight/09.htm |title=Why We Fight (9 of 48) |publisher=Say2.org (Series of Subtitles for Documentary Video) |date= |accessdate=November 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110728000320/http://www.say2.org/why-we-fight/09.htm |archivedate=July 28, 2011}}&lt;/ref&gt;
+
+As a public intellectual, Vidal criticized what he viewed as political harm to the nation and the voiding of the citizen's rights through the passage of the [[Patriot act|USA Patriot Act]] (2001) during the [[Presidency of George W. Bush|George W. Bush administration]] (2001–2009). He described Bush as "the stupidest man in the United States" and said that Bush's foreign policy was explicitly [[Expansionist nationalism|expansionist]].&lt;ref&gt;{{cite web |author=Osborne, Kevin|url=http://www.citybeat.com/cincinnati/blog-1001-gore-vidal-obama-a-disappointment.html|title=Obama a Disappointment|publisher=City Beat|accessdate=June 2, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=-drWGnF6DjM |title=YouTube&amp;nbsp;– The Henry Rollins Show&amp;nbsp;– The Corruption of Election 2008 |publisher=Youtube.com |date=January 12, 2008 |accessdate=October 20, 2008}}&lt;/ref&gt; He contended that the Bush Administration and their oil-business sponsors, aimed to control the petroleum of [[Central Asia]], after having gained hegemony over the petroleum of the [[Persian Gulf]] in 1991.&lt;ref&gt;{{cite web |url=http://video.google.com/videoplay?docid=3156121348015048039&amp;sourceid=docidfeed&amp;hl=en |title=Gore Vidal Interview with Alex Jones Infowars, 29 October 2006 Texas Book Fest |publisher=Video.google.com |date=November 1, 2006 |accessdate=January 22, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20110519205813/http://video.google.com/videoplay?docid=3156121348015048039&amp;sourceid=docidfeed&amp;hl=en |archivedate=May 19, 2011}}&lt;/ref&gt;
+
+Vidal became a member of the board of advisors of [[The World Can't Wait]], a political organization who sought to publicly repudiate the foreign-policy program of the [[Presidency of George W. Bush|Bush Administration]] (2001–2009) and advocated Bush's [[movement to impeach George W. Bush|impeachment]] for [[war crime]]s, such as the [[Iraq War|Second Iraq War]] (2003–2011) and torturing prisoners of war (soldiers, guerrillas, civilians) in violation of international law.&lt;ref&gt;{{cite web |title=World Can't Wait Advisory Board |url=http://www.worldcantwait.net/index.php?option=com_content&amp;task=blogcategory&amp;id=1&amp;Itemid=2 |accessdate=July 29, 2002 |deadurl=yes |archiveurl=https://web.archive.org/web/20060426110309/http://www.worldcantwait.net/index.php?option=com_content&amp;task=blogcategory&amp;id=1&amp;Itemid=2 |archivedate=April 26, 2006}}&lt;/ref&gt;
+
+In May 2007, while discussing [[9/11 conspiracy theories]] that might explain the "who?" and the "why?" of the 2001 terrorist attacks in New York City and Washington, D.C., Vidal said
+
+{{quote|I'm not a conspiracy theorist, I'm a conspiracy analyst. Everything the Bushites touch is screwed up. They could never have pulled off 9/11, even if they wanted to. Even if they longed to. They could step aside, though, or just go out to lunch while these terrible things were happening to the nation. I believe that of them.|Gore Vidal&lt;ref&gt;{{cite news |author=Close |url=https://www.theguardian.com/books/2007/may/05/featuresreviews.guardianreview14 |title=Vidal salon|work=[[The Guardian]] |date=May 5, 2007 |accessdate=August 17, 2009 |location=London}}&lt;/ref&gt;}}
+
+In a September 30, 2009 interview with ''[[The Times]]'' of London, Vidal said that there soon would be a [[dictatorship]] in the U.S. The newspaper emphasized that Vidal, described as "the Grand Old Man of American ''[[belles-lettres]]''", claimed that America is rotting away – and to not expect [[Barack Obama]] to save the country and the nation from imperial decay. In the interview, also up-dated his views of his life, the U.S., and other political subjects.&lt;ref&gt;[http://www.thetimes.co.uk/tto/life/article1855681.ece Interview] ''The Times'' September 30, 2009&lt;/ref&gt; Gore had earlier described what he saw as the political and cultural rot in the U.S. in his essay, "The State of the Union" (1975),
+
+{{quote|There is only one party in the United States, the Property Party ... and it has two right wings: Republican and Democrat. Republicans are a bit stupider, more rigid, more [[doctrinaire]] in their [[laissez-faire capitalism|''laissez-faire'' capitalism]] than the Democrats, who are cuter, prettier, a bit more corrupt – until recently ... and more willing than the Republicans to make small adjustments when the poor, the black, the anti-imperialists get out of hand. But, essentially, there is no difference between the two parties.|Gore Vidal&lt;ref&gt;{{cite book |author=Gore Vidal |title=Matters of Fact and of Fiction: Essays 1973–76 |publisher=Random House |year=1977 |isbn=0-394-41128-5 |pages=265–85}}&lt;/ref&gt;}}
+
+In the ''American Conservative'' article, "My Pen Pal Gore Vidal" (2012), Bill Kauffman reported that Gore Vidal's favorite U.S. politician, during his lifetime, was [[Huey Long]] (1893–1935), the [[Populism#United States|populist]] Governor (1928–32) and Senator (1932–35) from [[Louisiana]], who also had perceived the essential, one-party nature of U.S. politics and who was assassinated by a lone gunman.&lt;ref&gt;Kauffman, Bill (September 14, 2012) [http://www.theamericanconservative.com/articles/my-pen-pal-gore-vidal/ My Pen Pal Gore Vidal], ''The American Conservative''&lt;/ref&gt;
+
+Despite that, Vidal said, "I think of myself as a conservative", with a proprietary attitude towards the U.S. "My family helped start [this country] ... and we've been in political life ... since the 1690s, and I have a very possessive sense about this country".&lt;ref&gt;Real Time With Bill Maher, Season 7, Episode 149, April 10, 2009&lt;/ref&gt;&lt;ref&gt;Gore Vidal, "Sexually Speaking: Collected Sexual Writings", Cleis Press, 1999.&lt;/ref&gt; Based upon that background of populism, from 1970 to 1972, Vidal was a chairman of the [[People's Party (United States, 1970s)|People's Party]] of the United States.&lt;ref&gt;{{cite web |url=http://www.wtp.org/archive/transcripts/gore_vidal.html |title=Gore Vidal |publisher=Wtp.org |date= |accessdate=October 20, 2008}}&lt;/ref&gt; In 1971, he endorsed the consumer-rights advocate [[Ralph Nader]] for U.S. president in the [[United States presidential election, 1972|1972 election]].&lt;ref&gt;Vidal, Gore [http://www.esquire.com/features/gore-vidal-archive/best-man-1972 The Best Man/'72] {{webarchive|url=https://web.archive.org/web/20100105221536/http://www.esquire.com/features/gore-vidal-archive/best-man-1972 |date=January 5, 2010 }}, ''[[Esquire (magazine)|Esquire]]''&lt;/ref&gt; In 2004, he endorsed the Democrat [[Dennis Kucinich]] in his candidacy for the U.S. presidency (in 2004), because Kucinich was "the most eloquent of the lot" of presidential candidates, from either the Republican or the Democratic parties and that Kucinich was "very much a favorite out there, in the amber fields of grain".&lt;ref&gt;{{cite web |url=http://www.thenation.com/article/dennis-kucinich |title=Dennis Kucinich |work=The Nation|date=November 8, 2007|accessdate=March 25, 2012}}&lt;/ref&gt;
+
+====Cultural politics====
+
+'''The Truman Capote–Vidal feud'''&lt;br /&gt;
+In 1975 Vidal sued [[Truman Capote]] for slander over the accusation that he had been thrown out of the White House for being drunk, putting his arm around the first lady and then insulting Mrs. Kennedy's mother.&lt;ref&gt;{{cite web |url=https://www.nytimes.com/2012/08/01/books/gore-vidal-elegant-writer-dies-at-86.html|title=Gore Vidal Dies at 86; Prolific, Elegant, Acerbic Writer|date=August 1, 2012|work=The New York Times}}&lt;/ref&gt; Said Capote of Vidal at the time: "I'm always sad about Gore – very sad that he has to breathe every day".&lt;ref name="people.com"&gt;{{cite web |url=http://www.people.com/people/archive/article/0,,20073969,00.html|title=Sued by Gore Vidal and Stung by Lee Radziwill, a Wounded Truman Capote Lashes Back at the Dastardly Duo|publisher=}}&lt;/ref&gt; Mutual friend [[George Plimpton]] observed "There's no venom like Capote's when he's on the prowl – and Gore's too, I don't know what division the feud should be in." The suit was settled in Vidal's favor when [[Lee Radziwill]] refused to testify on Capote's behalf, telling columnist [[Liz Smith (journalist)|Liz Smith]], "Oh, Liz, what do we care; they're just a couple of fags! They're disgusting".&lt;ref name="people.com"/&gt;&lt;ref&gt;{{cite web |url=http://www.hollywoodreporter.com/news/at-92-liz-smith-reveals-787004|title=At 92, Liz Smith Reveals How Rupert Murdoch Fired Her, What It Felt Like to Be Outed|author=Maer Roshan|date=April 8, 2015|work=The Hollywood Reporter}}&lt;/ref&gt;
+
+'''The Buckley-Vidal feud'''&lt;br /&gt;
+In 1968, the [[ABC News|ABC television network]] hired the liberal Gore Vidal and the conservative [[William F. Buckley, Jr.]] as political analysts of the presidential-nomination conventions of the Republican and Democratic parties.&lt;ref&gt;{{cite web |url=http://www.pitt.edu/~kloman/debates.html |title=Political Animals: Vidal, Buckley and the '68 Conventions |last1=Kloman |first1=Harry |publisher=University of Pittsburgh |accessdate=November 2, 2009}}&lt;/ref&gt; Their commentaries led to Buckley threatening to assault Vidal. After days of bickering, their debates degraded to vitriolic ''[[ad hominem]]'' attacks. In discussing the [[1968 Democratic National Convention protests]], the [[public intellectual]]s argued about the [[freedom of speech|freedom-of-speech-right]] of American political protesters to display a [[Viet Cong]] flag, when Vidal told Buckley to "shut up a minute", after Buckley had interrupted him and in response to Buckley's reference to "pro-Nazi" protesters, said "As far as I'm concerned, the only sort of [[crypto-fascism|pro-crypto-Nazi]] I can think of is yourself". Buckley replied, "Now listen, you queer. Stop calling me a crypto-Nazi, or I'll sock you in the goddamn face, and you'll stay plastered". Their quarrel was interrupted by the ABC News anchorman-moderator [[Howard K. Smith]] and they returned to providing the political analysis and commentary for which they had been hired.&lt;ref name="vidal_correx_july_2011"/&gt;&lt;ref&gt;{{cite web |title=William Buckley/Gore Vidal Debate|url=https://www.youtube.com/watch?v=nYymnxoQnf8|accessdate=August 3, 2012}}&lt;/ref&gt; Later, William F. Buckley said he regretted having called Gore Vidal "a queer" yet said that Vidal was an "evangelist for bisexuality".&lt;ref&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,898542,00.html |title=Feuds: Wasted Talent |work=Time |date=August 22, 1969 |accessdate=November 7, 2011}}&lt;/ref&gt;
+
+In 1969, in ''Esquire'' magazine, Buckley continued his cultural feud with Vidal in the essay "On Experiencing Gore Vidal" (August 1969), in which he portrayed Vidal as an [[Apologia|apologist]] for homosexuality; Buckley said, "The man who, in his essays, proclaims the normalcy of his affliction [i.e., homosexuality], and in his art the desirability of it, is not to be confused with the man who bears his sorrow quietly. The addict is to be pitied and even respected, not the pusher". The essay is collected in ''The Governor Listeth: A Book of Inspired Political Revelations'' (1970), an anthology of Buckley's writings from the time.
+
+Vidal riposted in ''Esquire'' with the essay "A Distasteful Encounter with William F. Buckley, Jr." (September 1969) and said that Buckley was "anti-black", "[[anti-semitism|anti-semitic]]" and a "warmonger".&lt;ref name="esquire_sept_1969"/&gt; Buckley sued Vidal for [[libel]]; at trial, the judge said, that the "court must conclude that Vidal's comments, in these paragraphs, meet the minimal standard of [[fair comment]]. The inferences made by Vidal, from Buckley's [earlier editorial] statements, cannot be said to be completely unreasonable".{{citation needed|date=February 2008}}
+
+The feud continued in ''Esquire'' and Vidal implied that in 1944, William F. Buckley Jr. and unnamed siblings had vandalized a [[Protestant]] church in Sharon, Connecticut (the Buckley family hometown) after the wife of a pastor had sold a house to a Jewish family. Buckley again sued Vidal and ''Esquire'' for libel and Vidal filed a counter-claim for libel against Buckley, citing Buckley's characterization of ''[[Myra Breckinridge]]'' (1968) as a [[pornography|pornographic]] novel.&lt;ref&gt;{{cite court |litigants=Buckley v. Vidal |vol=327 |reporter=F.Supp. |opinion=1051 |court=US [[S.D.N.Y.]] |date=13 May 1971 |url=https://www.leagle.com/decision/19711378327fsupp105111171 |via=Leagle Inc. |accessdate=March 31, 2018 |quote=...in August 1968, Buckley made the following statement: 'Let Myra Breckinridge [referring to the novel bearing such name and thereby identifying its author, Gore Vidal, with such novel] go back to his pornography.'}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Athitakis |first=Mark |date=February 23, 2018 |title=Saluting 'Myra Breckinridge' on its 50th anniversary |url=http://www.latimes.com/books/la-ca-jc-myra-breckinridge-20180223-story.html |work=[[LA Times]] |access-date=March 31, 2018 }}&lt;/ref&gt; The court dismissed Vidal's counter-claim.&lt;ref&gt;[http://www.leagle.com/xmlResult.aspx?xmldoc=19711378327FSupp1051_11171.xml&amp;docbase=CSLWAR1-1950-1985 Buckley v. Vidal] 327 F. Supp. 1051 (1971)&lt;/ref&gt; Buckley accepted a money settlement of $115,000 to pay the fee of his attorney and an editorial apology from ''Esquire'', in which the publisher and the editors said that they were "utterly convinced" of the untruthfulness of Vidal's assertions.&lt;ref&gt;"Buckley Drops Vidal Suit, Settles With Esquire", ''The New York Times'', September 26, 1972, p. 40.&lt;/ref&gt; In a letter to ''Newsweek'' magazine, the publisher of ''Esquire'' said that "the settlement of Buckley's suit against us" was not "a 'disavowal' of Vidal's article. On the contrary, it clearly states that we published that article because we believed that Vidal had a right to assert his opinions, even though we did not share them".
+
+In ''Gore Vidal: A Biography'' (1999), [[Fred Kaplan (biographer)|Fred Kaplan]] said that "The court had 'not' sustained Buckley's case against ''Esquire'' ... [that] the court had 'not' ruled that Vidal's article was 'defamatory'. It had ruled that the case would have to go to trial ''in order to determine, as a matter of fact, whether or not it was defamatory''. The cash value of the settlement with ''Esquire'' represented 'only' Buckley's legal expenses... ."
+
+In 2003, William F. Buckley Jr. resumed his complaint of having been libelled by Gore Vidal, with the publication of the anthology ''Esquire's Big Book of Great Writing'' (2003), which included Vidal's essay, "A Distasteful Encounter with William F. Buckley, Jr." (1969). Again, the offended Buckley filed lawsuit for libel and ''Esquire'' magazine again settled Buckley's claim with $55,000–65,000 for the fees of his attorney and $10,000 for personal damages suffered by Buckley.&lt;ref&gt;{{cite web |url=http://www.pitt.edu/~kloman/debates.html |title=Political Animals: Vidal, Buckley and the '68 Conventions |last1=Kloman |first1=Harry |publisher=University of Pittsburgh |accessdate=December 28, 2016}}&lt;/ref&gt;
+
+In the obituary "RIP WFB – in Hell" (March 20, 2008), Vidal remembered his nemesis William F. Buckley Jr., who had died on February 27, 2008.&lt;ref&gt;{{cite web |url=http://www.truthdig.com/report/item/20080320_gore_vidal_speaks_seriously_ill_of_the_dead/ |title=Reports&amp;nbsp;– Gore Vidal Speaks Seriously Ill of the Dead |publisher=Truthdig |date=March 20, 2008 |accessdate=January 22, 2009}}&lt;/ref&gt; Later, in the interview "Literary Lion: Questions for Gore Vidal" (June 15, 2008), the ''New York Times'' reporter Deborah Solomon asked Vidal, "How did you feel, when you heard that Buckley died this year?" Vidal responded
+
+{{quote|I thought hell is bound to be a livelier place, as he joins, forever, those whom he served in life, applauding their prejudices and fanning their hatred.|Gore Vidal&lt;ref&gt;Solomon, Deborah. [https://www.nytimes.com/2008/06/15/magazine/15wwln-Q4-t.html "Literary Lion: Questions for Gore Vidal"]. ''New York Times''. 15 June 2008.&lt;/ref&gt;}}
+
+The Buckley-Vidal debates, their aftermath and cultural significance, were the focus of a 2015 documentary film called [[Best of Enemies (2015 film)|''Best of Enemies'']].
+
+'''The Mailer-Vidal feud'''&lt;br /&gt;
+On December 15, 1971, during the recording of ''[[The Dick Cavett Show]]'', with [[Janet Flanner]], [[Norman Mailer]] allegedly head-butted Vidal when they were backstage.&lt;ref&gt;{{cite news |last=Veitch |first=Jonathan |url=https://pqasb.pqarchiver.com/latimes/access/29671606.html?dids=29671606:29671606&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=May+24%2C+1998&amp;author=JONATHAN+VEITCH&amp;pub=Los+Angeles+Times&amp;desc=Raging+Bull%3B+THE+TIME+OF+OUR+TIME.+By+Norman+Mailer+%28Random+House%3A+1%2C290+pp.%2C+%2439.50%29&amp;pqatl=google |title=Raging Bull; THE TIME OF OUR TIME. By Norman Mailer |publisher=Los Angeles Times |date=May 24, 1998 |accessdate=November 7, 2011}}&lt;/ref&gt; When a reporter asked Vidal why Mailer had knocked heads with him, Vidal said, "Once again, words failed Norman Mailer".&lt;ref&gt;{{cite news|last=Cavett |first=Dick |title=Cavett: Gore Vidal Hates Being Dead |url=http://articles.cnn.com/2012-08-02/opinion/opinion_cavett-gore-vidal_1_gore-norman-mailer-simple-elegance |publisher=cnn.com |date=January 23, 2003 |deadurl=yes |archiveurl=https://web.archive.org/web/20120807010453/http://articles.cnn.com/2012-08-02/opinion/opinion_cavett-gore-vidal_1_gore-norman-mailer-simple-elegance |archivedate=August 7, 2012 |df= }}&lt;/ref&gt; During the recording of the talk show, Vidal and Mailer insulted each other, over what Vidal had written about him, prompting Mailer to say, "I've had to smell your works from time to time". Apparently, Mailer's umbrage resulted from Vidal's reference to Mailer having stabbed his wife of the time.&lt;ref name=cavettshow&gt;{{cite web |title=The Guest From Hell: Savoring Norman Mailer's Legendary Appearance on The Dick Cavett Show|url=http://www.slate.com/articles/arts/television/2007/08/the_guest_from_hell.single.html |publisher=Slate.com |accessdate=April 13, 2012}}&lt;/ref&gt;
+
+'''The rights of German Scientologists'''&lt;br /&gt;
+In 1997, Gore Vidal was one of thirty-four public intellectuals and celebrities who signed an open-letter addressed to [[Helmut Kohl]], the Chancellor of Germany, published in the ''International Herald Tribune'', protesting the treatment of [[Scientology in Germany|Scientologists in Germany]].&lt;ref&gt;Drozdiak, William (January 14, 1997). [https://pqasb.pqarchiver.com/washingtonpost/access/10844567.html?dids=10844567:10844567&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Jan+14%2C+1997&amp;author=William+Drozdiak&amp;pub=The+Washington+Post&amp;desc=U.S.+Celebrities+Defend+Scientology+in+Germany&amp;pqatl=google U.S. Celebrities Defend Scientology in Germany], ''The Washington Post'', p. A-11.&lt;/ref&gt; Despite that stance as a dispassionate intellectual, Gore Vidal was fundamentally critical of [[Scientology]] as religion.&lt;ref&gt;Baker, Russ. April 1997. [https://web.archive.org/web/20120207143937/http://factnet.org/node/1370/#gorevidal "Clash of the Titans: Scientology vs. Germany"], ''[[George (magazine)|George]]'' magazine.&lt;/ref&gt;
+
+'''National self-preservation'''&lt;br /&gt;
+In 1999, in the lecture "The Folly of Mass Immigration", presented in Dublin, Vidal said
+
+{{quote|A characteristic of our present chaos is the dramatic migration of tribes. They are on the move from east to west, from south to north. Liberal tradition requires that borders must always be open to those in search of safety, or even the pursuit of happiness. But now, with so many millions of people on the move, even the great-hearted are becoming edgy. Norway is large enough and empty enough to take in 40 to 50 million homeless Bengalis. If the Norwegians say that, all in all, they would rather not take them in, is this to be considered racism? I think not. It is simply self-preservation, the first law of species.|Gore Vidal&lt;ref&gt;{{cite web |last=Browne |first=Anthony |url=http://www.opendemocracy.net/people-migrationeurope/article_1193.jsp |title=The Folly of Mass Immigration |publisher=Opendemocracy.net |date=April 30, 2003 |accessdate=November 7, 2011}}&lt;/ref&gt;}}
+
+'''The Polanski rape case'''&lt;br /&gt;
+In ''The Atlantic'' magazine interview, "A Conversation with Gore Vidal" (October 2009), by John Meroney, Vidal spoke about topical and cultural matters of U.S. society. Asked his opinion about the arrest of the film director [[Roman Polanski]], in Switzerland, in September 2009, in response to an extradition request by U.S. authorities, for having fled the U.S. in 1978 to avoid jail for the [[statutory rape]] of a thirteen-year-old girl in Hollywood, Vidal said, "I really don't give a fuck. Look, am I going to sit and weep every time a young hooker feels as though she's been taken advantage of?"
+
+Asked for elaboration, Vidal explained the cultural temper of the U.S. and of the Hollywood movie business in the 1970s
+
+{{quote|The [news] media can't get anything straight. Plus, there's usually an [[anti-Semitic]] and [[homophobia|anti-fag]] thing going on with the press – lots of crazy things. The idea that this girl was in her communion dress, a little angel, all in white, being raped by this awful Jew ''[[Polack]]o'' – that's what people were calling him – well, the story is totally different now [2009] from what it was then [1970s]... . Anti-Semitism got poor Polanski. He was also a foreigner. He did not subscribe to American values, in the least. To [his persecutors], that seemed vicious and unnatural.|Gore Vidal&lt;ref name="John Meroney"&gt;{{cite web |url=https://www.theatlantic.com/magazine/archive/2009/10/a-conversation-with-gore-vidal/307767/2/|title=A Conversation With Gore Vidal|author=John Meroney|date=October 28, 2009|work=The Atlantic}}&lt;/ref&gt;}}
+
+Asked to explain the term "American values", Vidal replied, "Lying and cheating. There's nothing better."&lt;ref name="John Meroney"&gt;{{cite web |url=https://www.theatlantic.com/magazine/archive/2009/10/a-conversation-with-gore-vidal/307767/2/|title=A Conversation With Gore Vidal|author=John Meroney|date=October 28, 2009|work=The Atlantic}}&lt;/ref&gt;
+
+In response to Vidal's opinion about the decades-old Polanski rape case, a spokeswoman for the organization [[Survivors Network of those Abused by Priests]], Barbara Dorris, said, "People should express their outrage, by refusing to buy any of his books", called Vidal a "mean-spirited buffoon" and said that, although "a boycott wouldn't hurt Vidal financially", it would "cause anyone else, with such callous views, to keep his mouth shut, and [so] avoid rubbing salt into the already deep [psychological] wounds of (the victims)" of sexual abuse.&lt;ref&gt;{{cite news |title=Gore Vidal rips Roman Polanski rape victim as 'hooker'|url=http://www.bostonherald.com/inside_track/celebrity_news/2009/11/gore_vidal_rips_roman_polanski_rape_victim_%E2%80%98hooker%E2%80%99|work=[[Boston Herald]]|date=November 1, 2009}}&lt;/ref&gt;
+
+'''Vidal the Humanist'''&lt;br /&gt;
+In April 2009, Vidal accepted appointment to the position of honorary president of the [[American Humanist Association]] he succeeded the novelist [[Kurt Vonnegut]].&lt;ref&gt;{{cite web |url=http://www.americanhumanist.org/news/details/2009-04-gore-vidal-accepts-title-of-american-humanist-association-honorary-president |title=Gore Vidal Accepts Title of American Humanist Association Honorary President |publisher=American Humanist Association|date=April 20, 2009|accessdate=November 7, 2011}}&lt;/ref&gt;
+
+===Actor and pop-culture figure===
+;Actor
+In the 1960s, Vidal migrated to Italy, where he befriended the film director [[Federico Fellini]], for whom he appeared in a cameo role as himself in the film ''[[Roma (1972 film)|Roma]]'' (1972). He acted in the movies ''[[Bob Roberts]]'' (1992), a serio-comedy about a [[reactionary]] populist politician who manipulates youth culture to win votes; ''[[With Honors (film)|With Honors]]'' (1994) an [[Ivy league]] college-life comedy; ''[[Gattaca]]'' (1997), a science-fiction drama about [[genetic engineering]]; and ''[[Igby Goes Down]]'' (2002), a coming-of-age serio-comedy directed by his nephew, [[Burr Steers]].
+
+;Pop-culture figure
+In the 1960s, the weekly American [[sketch comedy]] television program ''[[Rowan &amp; Martin's Laugh-In]]'' featured a running-joke sketch about Vidal; the telephone operator Ernestine ([[Lily Tomlin]]) would call him, saying: "Mr. Veedul, this is the Phone Company calling! (snort! snort!)".&lt;ref&gt;StarNewsOnline.com (blog) – On "Rowan &amp; Martin's Laugh-In", [http://books.blogs.starnewsonline.com/16317/gore-vidal-rip/ Lily Tomlin as Ernestine the telephone operator would often call "Mr. Veedle"]&lt;/ref&gt;&lt;ref&gt;Ernestine the Operator – TV Acres http://www.tvacres.com{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }} – Lily Tomlin as Ernestine the Telephone Operator - ...a [https://wayback.archive-it.org/all/20121119080822/http://www.tvacres.com/comm_ernestine.htm conversation with writer Gore Vidal as Ernestine says "Mr. Veedle], you owe us ..."&lt;/ref&gt; The sketch, titled "Mr. Veedle" also appeared in Tomlin's comedy record album ''[[This Is a Recording (Lily Tomlin album)|This Is a Recording]]'' (1972).&lt;ref&gt;Record album: This is a Recording, [http://www.rhapsody.com/artist/lily-tomlin/album/this-is-a-recording/track/mr-veedle by Lily Tomlin, title: "Mr. Veedle"] Rhapsody&lt;/ref&gt;
+
+In 1967, Vidal appeared on the [[CBS]] [[documentary]], [[CBS Reports: The Homosexuals]], in which he expressed his views on [[homosexuality]] in the arts.&lt;ref&gt;{{cite AV media |people=CBS/Mike Wallace |date=March 3, 1967 |title=The Homosexuals |medium=Television |language=English |url=https://www.youtube.com/watch?v=n2UNcDHa5ao |access-date=March 13, 2016}}&lt;/ref&gt;
+
+In the 1970s, in the stand-up comedy album ''Reality ... What a Concept'', [[Robin Williams]] portrayed Vidal as a drunken shill in a [[Thunderbird (wine)|Thunderbird wine]] commercial.
+
+In 2005, Vidal portrayed himself in ''Trailer for the Remake of Gore Vidal's Caligula'', a video-art piece by [[Francesco Vezzoli]] included to the 2005 [[Venice Biennale]] and part of the permanent collection of the [[Solomon R. Guggenheim Museum|Guggenheim Museum]] in New York City.&lt;ref&gt;{{cite web|title=Collection Online, Francesco Vezzoli. Trailer for the Remake of Gore Vidal's Caligula. 2005|url=http://www.guggenheim.org/new-york/collections/collection-online/show-full/piece/?search=Trailer%20for%20the%20Remake%20of%20Gore%20Vidal%27s%20Caligula&amp;page=&amp;f=Title&amp;object=2006.6|publisher=The Solomon R. Guggenheim Foundation|accessdate=August 2, 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20121026032814/http://www.guggenheim.org/new-york/collections/collection-online/show-full/piece/?search=Trailer%20for%20the%20Remake%20of%20Gore%20Vidal%27s%20Caligula&amp;page=&amp;f=Title&amp;object=2006.6|archivedate=October 26, 2012|df=mdy-all}}&lt;/ref&gt;
+Moreover, Vidal provided his own voice for the animated-cartoon versions of himself in ''[[The Simpsons]]'' and the ''[[Family Guy]]'' programs. Likewise, he portrayed himself in the ''[[Da Ali G Show]]''; the Ali G character mistakes him for [[Vidal Sassoon]], a famous hairdresser.
+
+In the biographic film ''[[Amelia (film)|Amelia]]'' (2009), the child Vidal was portrayed by William Cuddy, a Canadian actor. In the Truman Capote biographic film ''[[Infamous (film)|Infamous]]'' (2006), the young adult Vidal was portrayed by the American actor [[Michael Panes]].
+
+In 2009, Vidal was the narrator for a production of ''[[Mother Courage and Her Children]]'' (1939), by [[Bertolt Brecht]], staged by the [[Royal National Theatre]], London.
+
+==Private life==
+
+[[File:Vidal, Gore (1925-viv.) - foto di Charles Van Vechten.jpg|thumb|right|Vidal as a young man]]
+In the multi-volume memoir ''[[The Diary of Anaïs Nin]]'' (1931–74), [[Anaïs Nin]] said she had a love affair with Vidal, who denied her claim in his memoir ''Palimpsest'' (1995). Vidal also said that he had an intermittent romance with the actress [[Diana Lynn]], and alluded to possibly having fathered a daughter.&lt;ref&gt;Vidal, Gore ''Palimpsest'', p.290.&lt;/ref&gt;&lt;ref&gt;Joy Do Lico and Andrew Johnson, [https://www.independent.co.uk/news/world/americas/the-rumours-about-my-love-child-may-be-true-says-gore-vidal-834022.html "The Rumours About My Love Child May Be True, says Gore Vidal"], ''The Independent'', May 25, 2008. {{webarchive |url=https://web.archive.org/web/20101009212938/http://www.independent.co.uk/news/world/americas/the-rumours-about-my-love-child-may-be-true-says-gore-vidal-834022.html |date=October 9, 2010}}&lt;/ref&gt; Yet, regarding Nin, in the online article "Gore Vidal's Secret, Unpublished Love Letter to Anaïs Nin" (2013), author [[Kim Krizan]] said she found an unpublished love letter from Vidal to Nin, which contradicts his denial of a love affair with Nin. Krizan said she found the love letter while researching ''Mirages'', the latest volume of Nin's uncensored diary, to which Krizan wrote the foreword.&lt;ref&gt;{{cite news |url=http://www.huffingtonpost.com/kim-krizan/gore-vidals-secret-unpubl_b_4004916.html |title=Gore Vidal's Secret, Unpublished Love Letter to Anaïs Nin |date=September 27, 2013 |work=The Huffington Post|accessdate=September 20, 2013|first=Kim|last=Krizan}}&lt;/ref&gt; Moreover, he was briefly engaged to the actress [[Joanne Woodward]] before she married the actor [[Paul Newman]]; after marrying, they briefly shared a house with Vidal in Los Angeles.&lt;ref name="balaban"&gt;{{cite web |last1=Balaban|first1=Judy|title=The Gore They Loved|url=http://www.vanityfair.com/culture/2013/02/gore-vidal-beloved-women-susan-sarandon|website=Vanity Fair|publisher=Condé Nast|accessdate=December 28, 2016}}&lt;/ref&gt;
+
+In 1950, Gore Vidal met [[Howard Austen]], who became his partner for the next 53 years.&lt;ref&gt;"What I've Learned", ''Esquire'' magazine, June 2008, p. 132.&lt;/ref&gt; He said that the secret to his long relationship with Austen was that they did not have sex with each other, "It's easy to sustain a relationship when sex plays no part, and impossible, I have observed, when it does."&lt;ref name=Outtake&gt;{{cite web |last=Robinson|first=Charlotte|title=Outtake Blog Author &amp; Gay Icon Gore Vidal Dies|url=http://blog.outtakeonline.com/2012/08/author-gay-icon-gore-vidal-dies.html|publisher=Outtake Blog|accessdate=August 1, 2012}}&lt;/ref&gt; In ''[[Celebrity: The Advocate Interviews]]'' (1995), by Judy Wiedner, Vidal said that he refused to call himself "''gay''" because he was not an adjective, adding "to be categorized is, simply, to be enslaved. Watch out. I have never thought of myself as a victim... . I've said – a thousand times? – in print and on TV, that everyone is bisexual".&lt;ref name="Wieder"&gt;{{cite book |title=Celebrity: The Advocate Interviews|last=Wieder|first=Judy|editor-last=Wieder|editor-first=Judy|year=2001|publisher=Advocate Books|location=New York City, New York|isbn=1-55583-722-0|page=127}}&lt;/ref&gt;
+
+In an interview with Esquire in 1969, Gore said "Homosexuality is as natural as heterosexuality. Notice I use the word natural, not normal."&lt;ref name=Freethinker0812/&gt; Commenting his life's work and his life, he described his style as "Knowing who you are, what you want to say, and not giving a damn."&lt;ref name=Freethinker0812/&gt;
+
+In the course of his life, Vidal lived at various times in Italy and in the United States. In 2003, as his health began to fail with age, he sold his Italian villa ''La Rondinaia'' (The Swallow's Nest) on the [[Amalfi Coast]] in the province of Salerno and he and Austen returned to [[Los Angeles]].&lt;ref&gt;''Time International'' (September 28, 1992) described the 5000 ft.&lt;sup&gt;2&lt;/sup&gt; (460&amp;nbsp;m&lt;sup&gt;2&lt;/sup&gt; property as "a massive villa – in every detail of location and layout, designed to enhance concentration". p. 44.&lt;/ref&gt;  Howard Austen died in November 2003 and in February 2005 his mortal remains were re-buried at Rock Creek Cemetery, in Washington, D.C., in a joint grave plot that Vidal had purchased for himself and Austen.&lt;ref&gt;Wilson, Scott. ''Resting Places: The Burial Sites of More Than 14,000 Famous Persons'', 3d ed.: 2 (Kindle Locations 48809-48810). McFarland &amp; Company, Inc., Publishers. Kindle Edition.&lt;/ref&gt;
+
+==Death==
+In 2010 Vidal began to suffer from [[Wernicke–Korsakoff syndrome]], a brain disorder often caused by alcoholism.&lt;ref name="auto"&gt;{{cite news |first=Leo |last=Robson |title=Delusions of Candour |url=http://www.newyorker.com/magazine/2015/10/26/delusions-of-candor |work= The New Yorker |date=October 26, 2015 |accessdate=December 9, 2015}}&lt;/ref&gt; On July 31, 2012 Vidal died of [[pneumonia]] at his home in the [[Hollywood Hills]] at the age of 86.&lt;ref name="auto"/&gt;&lt;ref&gt;[https://www.usatoday.com/life/people/obit/story/2012-08-01/gore-vidal-dies/56631952/1 "Gore Vidal, Celebrated Author, Playwright, Dies"] by Tina Fineberg, USA Today, August 1, 2012&lt;/ref&gt;&lt;ref&gt;Hillel Italie and Andrew Dalton, [http://hosted2.ap.org/OREUG/topstories/Article_2012-08-01-Obit-Gore%20Vidal/id-575d29027cfe46e6a07b0a13eeb44516 "Gore Vidal, celebrated author, playwright, dies"], Associated Press, August 1, 2012.&lt;/ref&gt; A memorial service was held for him at the [[Gerald Schoenfeld Theatre]] in New York City on August 23, 2012.&lt;ref&gt;'Memorial for Gore Vidal in Manhattan', New York Times, August 23, 2012.&lt;/ref&gt; Vidal's body was buried next to Howard Austen in [[Rock Creek Cemetery]], in Washington, D.C.&lt;ref&gt;'Gore Vidal's Grave', 'Huffington Post', August 1, 2012.&lt;/ref&gt;
+
+==Legacy==
+Postmortem opinions and assessments of Gore as a writer varied.
+
+In ''Gore Vidal Dies at 86; Prolific, Elegant, Acerbic Writer'',''The New York Times'' described him as "an [[Augustan prose|Augustan]] figure who believed himself to be the last of a breed, and he was probably right. Few American writers have been more versatile, or gotten more mileage from their talent".&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2012/08/01/books/gore-vidal-elegant-writer-dies-at-86.html?pagewanted=all |title=Prolific, Elegant, Acerbic Writer|author=Charles McGrath|date=August 1, 2012|work=The New York Times|accessdate=August 1, 2012}}&lt;/ref&gt; In ''Gore Vidal, Iconoclastic Author, Dies at 86'', ''The Los Angeles Times'' said that he was a literary juggernaut whose novels and essays were considered "among the most elegant in the English language".&lt;ref&gt;{{cite news |url=http://www.latimes.com/news/obituaries/la-me-gore-vidal-20120801,0,4557667.story|title=Gore Vidal, Iconoclastic Author, Dies at 86|author=Elaine Woo|date=August 1, 2012|work=The Los Angeles Times |accessdate=August 1, 2012}}&lt;/ref&gt; In ''Gore Vidal Dies; imperious gadfly and prolific, graceful writer was 86'', ''The Washington Post'' described him as a "major writer of the modern era ... [an] astonishingly versatile man of letters".&lt;ref&gt;{{cite news |url=https://www.washingtonpost.com/local/obituaries/gore-vidal-dies-imperious-gadfly-and-prolific-graceful-writer-was-86/2012/08/01/gJQAFF7FOX_story.html?hpid=z2 |title=Gore Vidal Dies; imperious gadfly and prolific, graceful writer was 86|author=Michael Dirda |date=August 1, 2012|work=The Washington Post|accessdate=August 1, 2012}}&lt;/ref&gt;
+
+In the ''Gore Vidal Obituary'', ''The Guardian'' said that "Vidal's critics disparaged his tendency to formulate an aphorism, rather than to argue, finding in his work an underlying note of contempt for those who did not agree with him. His fans, on the other hand, delighted in his unflagging wit and elegant style".&lt;ref&gt;{{cite news |author=Jay Parini|url=https://www.theguardian.com/books/2012/aug/01/gore-vidal-dies|title=Gore Vidal Obituary|publisher=Guardian|date=August 1, 2012|accessdate=August 5, 2012|location=London}}&lt;/ref&gt; In "Gore Vidal", ''The Daily Telegraph'' described the writer as "an icy iconoclast" who "delighted in chronicling what he perceived as the disintegration of civilisation around him".&lt;ref&gt;{{cite news |author=|url=https://www.telegraph.co.uk/news/obituaries/9443260/Gore-Vidal.html |title=Gore Vidal|publisher=Telegraph.co.uk |date=August 1, 2012 |accessdate=August 5, 2012 |location=London}}&lt;/ref&gt; In ''Obituary: Gore Vidal'', the BBC News said that he was "one of the finest post-war American writers ... an indefatigable critic of the whole [[American imperialism|American system]] ... Gore Vidal saw himself as the last of the breed of [[belles-lettres|literary figures]] who became celebrities in their own right. Never a stranger to chat shows; his wry and witty opinions were sought after as much as his writing."&lt;ref&gt;{{cite news |author=Alastair Leithead |url=https://www.bbc.co.uk/news/world-us-canada-19074231|title=Obituary: Gore Vidal |publisher=Bbc.co.uk|date=August 1, 2012|accessdate=August 5, 2012}}&lt;/ref&gt; In "The Culture of the United States Laments the Death of Gore Vidal", the Spanish on-line magazine ''Ideal'' said that Vidal's death was a loss to the "culture of the United States", and described him as a "great American novelist and essayist".&lt;ref&gt;{{cite web |url=http://www.ideal.es/granada/20120801/gente/cultura-estados-unidos-lamenta-muerte-gore-vidal-201208011741.html |title=La cultura de Estados Unidos lamenta la muerte de Gore Vidal|publisher=Ideal.es |accessdate=August 2, 2012}}&lt;/ref&gt; In ''The Writer Gore Vidal is Dead in Los Angeles'', the online edition of the Italian newspaper ''[[Corriere della Sera]]'' described the novelist as "the ''enfant terrible'' of American culture" and that he was "one of the giants of American literature".&lt;ref&gt;{{cite web |author=Redazione online|url=http://www.corriere.it/cultura/12_agosto_01/morto-gore-vidal_ebc4132c-db97-11e1-83b0-3101995e52cb.shtml |title=Los Angeles, è morto lo scrittore Gore Vidal|publisher=Corriere.it |date=|accessdate=August 2, 2012}}&lt;/ref&gt; In ''Gore Vidal: The Killjoy of America'', the French newspaper ''[[Le Figaro]]'' said that the public intellectual Vidal was "the killjoy of America" but that he also was an "outstanding polemicist" who used words "like high-precision weapons".&lt;ref&gt;{{cite web |author=|url=http://www.lefigaro.fr/culture/2012/08/01/03004-20120801ARTFIG00549-gore-vidal-le-trouble-fete-de-l-amerique.php |title=Gore Vidal: le trouble-fête de l'Amérique|trans-title=Gore Vidal: The Killjoy of America |publisher=Lefigaro.fr|language=French |date=January 8, 2012 |accessdate=August 2, 2012}}&lt;/ref&gt;
+
+On August 23, 2012, in the program a ''Memorial for Gore Vidal in Manhattan'', the life and works of the writer Gore Vidal were celebrated at the [[Gerald Schoenfeld Theatre]], with a revival of ''The Best Man: A Play About Politics'' (1960). The writer and comedian [[Dick Cavett]] was host of the Vidalian celebration, which featured personal reminiscences about and performances of excerpts from the works of Gore Vidal by friends and colleagues, such as [[Elizabeth Ashley]], [[Candice Bergen]] and [[Hillary Clinton]], [[Alan Cumming]], [[James Earl Jones]] and [[Elaine May]], [[Michael Moore]], [[Susan Sarandon]], [[Cybill Shepherd]] and [[Liz Smith (journalist)|Liz Smith]].&lt;ref name="NYT08232012"&gt;{{cite news |first=Charles |last=McGrath |url=https://www.nytimes.com/2012/08/24/books/memorial-for-gore-vidal-in-manhattan.html |title=Vidal's Own Wit to Celebrate Him |work=New York Times |date=August 23, 2012 |accessdate=June 10, 2013}}&lt;/ref&gt;
+
+==Bibliography==
+
+===Non-fiction===
+* ''Rocking the Boat'' (1963)
+* ''Reflections Upon a Sinking Ship'' (1969)
+* ''Sex, Death and Money'' (1969) (paperback compilation)
+* ''Homage to Daniel Shays: Collected Essays, 1952-1972'' (1972) {{ISBN|0-394-71950-6}}
+* ''Matters of Fact and of Fiction'' (1977)
+* ''Sex is Politics and Vice Versa'' (1979), limited edition by [[Sylvester &amp; Orphanos]]
+* ''Views from a Window'' Co-Editor (1981)
+* ''The Second American Revolution'' (1983)
+* ''Vidal In Venice'' (1985) {{ISBN|0-671-60691-3}}
+* ''Armageddon?'' (1987) (UK only)
+* ''At Home'' (1988)
+* ''A View From The Diner's Club'' (1991) (UK only)
+* ''Screening History'' (1992) {{ISBN|0-233-98803-3}}
+* ''Decline and Fall of the American Empire'' (1992) {{ISBN|1-878825-00-3}}
+* ''United States: Essays 1952–1992'' (1993) {{ISBN|0-7679-0806-6}}&amp;nbsp;– [[National Book Award]]&lt;ref name=nba1993/&gt;
+* ''Palimpsest: a memoir'' (1995) {{ISBN|0-679-44038-0}}
+* ''Virgin Islands'' (1997) (UK only)
+* ''The American Presidency'' (1998) {{ISBN|1-878825-15-1}}
+* ''Sexually Speaking: Collected Sex Writings'' (1999)
+* ''The Last Empire: essays 1992–2000'' (2001) {{ISBN|0-375-72639-X}} (there is also a much shorter UK edition)
+* ''Perpetual War for Perpetual Peace or How We Came To Be So Hated'', Thunder's Mouth Press, 2002, (2002) {{ISBN|1-56025-405-X}}
+* ''Dreaming War: Blood for Oil and the Cheney-Bush Junta'', Thunder's Mouth Press, (2002) {{ISBN|1-56025-502-1}}
+* ''Inventing a Nation: Washington, Adams, Jefferson'' (2003) {{ISBN|0-300-10171-6}}
+* ''Imperial America: Reflections on the United States of Amnesia'' (2004) {{ISBN|1-56025-744-X}}
+* ''Point to Point Navigation: A Memoir'' (2006) {{ISBN|0-385-51721-1}}
+* ''The Selected Essays of Gore Vidal'' (2008) {{ISBN|0-385-52484-6}}
+* ''Gore Vidal: Snapshots in History's Glare'' (2009) {{ISBN|0-8109-5049-9}}
+* ''Buckley vs. Vidal: The Historic 1968 ABC News Debates'' (2015) {{ISBN|978-1-942531-12-8}}
+
+===Plays===
+* ''[[Visit to a Small Planet]]'' (1957) {{ISBN|0-8222-1211-0}}
+* ''[[The Best Man (play)|The Best Man]]'' (1960)
+* ''On the March to the Sea'' (1960–61, 2004)
+* ''Romulus'' (adapted from [[Friedrich Dürrenmatt]]'s 1950 play ''[[Romulus der Große]]'') (1962)
+* ''[[Weekend (play)|Weekend]]'' (1968)
+* ''Drawing Room Comedy'' (1970)
+* ''[[An Evening with Richard Nixon]]'' (1970) {{ISBN|0-394-71869-0}}
+* ''On the March to the Sea'' (2005)
+
+===Novels===
+* ''[[Williwaw (1946 novel)|Williwaw]]'' (1946) {{ISBN|0-226-85585-6}}
+* ''[[In a Yellow Wood]]'' (1947)
+* ''[[The City and the Pillar]]'' (1948) {{ISBN|1-4000-3037-4}}
+* ''[[The Season of Comfort]]'' (1949) {{ISBN|0-233-98971-4}}
+* ''[[A Search for the King]]'' (1950) {{ISBN|0-345-25455-4}}
+* ''[[Dark Green, Bright Red]]'' (1950) {{ISBN|0-233-98913-7}} (see "In the Lair of the Octopus" and ''Dreaming War'')
+* ''A Star's Progress'' (aka ''Cry Shame!'') (1950) as "Katherine Everard"
+* ''[[The Judgment of Paris (novel)|The Judgment of Paris]]'' (1952) {{ISBN|0-345-33458-2}}
+* ''Death in the Fifth Position'' (1952) under the pseudonym Edgar Box
+* ''Thieves Fall Out'' (1953) under the pseudonym Cameron Kay&lt;ref name="thieves"/&gt;
+* ''Death Before Bedtime'' (1953) under the pseudonym Edgar Box
+* ''Death Likes It Hot'' (1954) under the pseudonym Edgar Box
+* ''[[Messiah (1954 novel)|Messiah]]'' (1954) {{ISBN|0-14-118039-0}}
+* ''[[A Thirsty Evil]]'' (1956) (short stories)
+* ''[[Julian (historical novel)|Julian]]'' (1964) {{ISBN|0-375-72706-X}}
+* ''[[Washington, D.C. (novel)|Washington, D.C.]]'' (1967) {{ISBN|0-316-90257-8}}
+* ''[[Myra Breckinridge]]'' (1968) {{ISBN|1-125-97948-8}}
+* ''[[Two Sisters (novel)|Two Sisters]]'' (1970) {{ISBN|0-434-82958-7}}
+* ''[[Burr (novel)|Burr]]'' (1973) {{ISBN|0-375-70873-1}}
+* ''[[Myron (novel)|Myron]]'' (1974) {{ISBN|0-586-04300-4}}
+* ''[[1876 (novel)|1876]]'' (1976) {{ISBN|0-375-70872-3}}
+* ''[[Kalki (novel)|Kalki]]'' (1978) {{ISBN|0-14-118037-4}}
+* ''Three by Box: The Complete Mysteries of Edgar Box'' (1978) {{ISBN|0-394-50117-9}}
+* ''[[Creation (novel)|Creation]]'' (1981) {{ISBN|0-349-10475-1}}
+* ''[[Duluth (novel)|Duluth]]'' (1983) {{ISBN|0-394-52738-0}}
+* ''[[Lincoln (novel)|Lincoln]]'' (1984) {{ISBN|0-375-70876-6}}
+* ''[[Empire (Vidal novel)|Empire]]'' (1987) {{ISBN|0-375-70874-X}}
+* ''[[Hollywood (Vidal novel)|Hollywood]]'' (1990) {{ISBN|0-375-70875-8}}
+* ''[[Live from Golgotha: The Gospel according to Gore Vidal|Live From Golgotha]]'' (1992) {{ISBN|0-14-023119-6}}
+* ''[[The Smithsonian Institution (novel)|The Smithsonian Institution]]'' (1998) {{ISBN|0-375-50121-5}}
+* ''[[The Golden Age (Gore Vidal novel)|The Golden Age]]'' (2000) {{ISBN|0-375-72481-8}}
+* ''[[Clouds and Eclipses: The Collected Short Stories]]'' (2006) The anthology ''A Thirsty Evil'' (1956), with the additional short story "Clouds and Eclipses"
+
+===Screenplays and teleplays===
+* ''[[Climax!]]'': ''A Farewell to Arms'' (1955); ''Dr. Jekyll &amp; Mr. Hyde'' (1955) (TV adaptations)
+* ''[[The Best of Broadway]]'' (1955): TV adaptation of ''[[Stage Door]]''
+* ''[[The Catered Affair]]'' (1956)
+* ''[[I Accuse!]]'' (1958)
+* ''[[The Scapegoat (1959 film)|The Scapegoat]]'' (1959)
+* ''[[Ben-Hur (1959 film)|Ben Hur]]'' (1959) (uncredited)
+* ''[[Suddenly, Last Summer (film)|Suddenly, Last Summer]]'' (1959)
+* ''[[The Best Man (1964 film)|The Best Man]]'' (1964)
+* ''[[Is Paris Burning? (film)|Is Paris Burning?]]'' (1966)
+* ''[[Last of the Mobile Hot Shots]]'' (1970)
+* ''[[Caligula (film)|Caligula]]'' (1979)
+* ''[[Dress Gray]]'' (1986)
+* ''[[The Sicilian (film)|The Sicilian]]'' (1987) (uncredited)
+* ''[[Billy the Kid (1989 film)|Billy the Kid]]'' (1989)
+* ''[[Dimenticare Palermo]]'' (1989)
+
+===Popular culture figure===
+* ''[[What's My Line?]]'' occasional guest (1960s)
+* ''[[CBS Reports: The Homosexuals]]'' (1967)
+* ''[[Mary Hartman, Mary Hartman]]'' (1976) appeared in 7 episodes, as himself
+* ''Profile of a Writer: Gore Vidal'' – RM Productions (1979 documentary film)
+* ''[[Gore Vidal: The Man Who Said No]]'' (1983 documentary film)
+* ''[[Weekend in Wallop]]'' (1984)
+* ''Vidal in Venice'' – Antelope Films for Channel Four Television (1987 documentary film)
+* ''[[Bob Roberts]]'' – as Senator Brickley Paiste (1992 film)
+* ''[[With Honors (film)|With Honors]]'' – the pessimistic, arrogant left-wing Prof. Pitkannan (1994 film)
+* ''[[The Celluloid Closet]]'' (1995 documentary film)&lt;ref&gt;{{cite news |last=Bryant|first=Christopher|title=The Celluloid Closet|url=http://www.polarimagazine.com/filmtvreviews/celluloid-closet/|accessdate=November 7, 2011|newspaper=Polari Magazine|date=August 15, 2009}}&lt;/ref&gt;
+* ''[[Gattaca]]'' – Director Josef (1997 science-fiction film)
+* ''[[Shadow Conspiracy]]'' – Congressman Paige (1997 political thriller)
+* ''[[Igby Goes Down]]'' Schoolmaster (2001 film)
+* ''[[The Education of Gore Vidal]]'' (2003 documentary film, by [[Deborah Dickson]]) broadcast by PBS in the US.
+* ''[[Thinking XXX]]'' (2004 documentary)
+* ''[[Da Ali G Show]]'' (2004 TV)
+* ''[[Why We Fight (2005 film)|Why We Fight]]'' (2005 film)
+* ''[[Inside Deep Throat]]'' (2005 film)
+* ''[[One Bright Shining Moment]]'' (2005 film)
+* ''[[Jack &amp; Bobby]]'' - Documentary Host (May 11, 2005) appeared in the series' final episode, "Legacy"
+* ''[[Trailer for a Remake of Gore Vidal's Caligula]]'' (2005 spoof trailer)
+* ''[[Foreign Correspondent (TV series)|Foreign Correspondent]]'' – with former NSW premier [[Bob Carr]]
+* ''[[The U.S. Versus John Lennon]]'' (2006 film)
+* ''[[Family Guy]]'' episode: "[[Mother Tucker]]" (September 17, 2006)
+* ''[[The Simpsons]]'' episode: "[[Moe'N'a Lisa]]" (November 19, 2006)
+* [[Alex Jones (radio)|Alex Jones]] radio show
+* [[Jon Wiener]]'s radio program in Los Angeles&lt;ref name=tws2MayU11&gt;{{cite news |title=Jon Wiener (biography)|work=The Nation|date=May 21, 2012|url=http://www.thenation.com/authors/jon-wiener|accessdate=May 21, 2012}}&lt;/ref&gt;
+* ''[[The Henry Rollins Show]]'' (2007 TV)
+* ''Terrorstorm: Final Cut Special Edition'' (2007)
+* [[Hollywood Bowl]], [[Los Angeles Philharmonic Orchestra]] concert, August 2, 2007 – Narrated the [[Lincoln Portrait]], by Aaron Copland, conducted by [[Michael Tilson Thomas]].
+* ''[[Lateline]]'' – ABC Television Australia Interview (May 2, 2008)
+* ''[[Democracy Now]]'' – interview: on the Bush Presidency, History, and the "United States of Amnesia"&lt;ref&gt;{{cite web |url=http://www.democracynow.org/2008/5/14/legendary_author_gore_vidal_on_the |title=Legendary Author Gore Vidal on the Bush Presidency, History and the "United States of Amnesia"|publisher=Democracy Now!|date=May 14, 2008|accessdate=November 7, 2011}}&lt;/ref&gt; (May 14, 2008)
+* ''[[The South Bank Show]]'' (May 18, 2008)
+* ''[[HARDtalk]]'' – BBC News (May 22, 2008)
+* ''[[The Andrew Marr Show]]'' (May 25, 2008)
+* ''The US is Not a Republic Anymore''&lt;ref&gt;{{cite web|url=http://www.insight-info.com/articles/item.aspx?i=1203 |title='The US is Not a Republic Anymore' |publisher=Insight-info.com |date= |accessdate=November 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111003223535/http://www.insight-info.com/articles/item.aspx?i=1203 |archivedate=October 3, 2011 |df= }}&lt;/ref&gt; (June 2008)
+* ''Zero: An Investigation into 9/11'' (June 2008)&lt;ref&gt;{{cite web |url=http://zero911movie.com/ |title=Zero: an investigation into 9/11 |publisher=Zero 9/11 Movie |date= |accessdate=November 7, 2011 |archive-url=https://web.archive.org/web/20140505221450/http://zero911movie.com/ |archive-date=May 5, 2014 |dead-url=yes |df=mdy-all }}&lt;/ref&gt;
+* ''Interview on the BBC's US Presidential Election Coverage with David Dimbleby'' (November 4, 2008)&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=tD0p-wfCARk |title=Gore Vidal vs David Dimbleby on Election Night|publisher=BBC |date=November 4, 2008|accessdate=August 4, 2012}}&lt;/ref&gt;
+* "Gore Vidal's History of the National Security State" on [[The Real News]] Network (2008)
+* "Writer Against the Grain": Gore Vidal in Conversation with Jay Parini, 2009 Key West Literary Seminar (audio recording 59:09)&lt;ref&gt;{{cite web|last=Haskell |first=Arlo |url=http://www.kwls.org/lit/podcasts/2009/07/gore_vidal_writer_against_the.cfm |title=Audio Archives: Gore Vidal &amp;#124; Writer Against the Grain |publisher=Key West Literary Seminar |date=July 3, 2009 |accessdate=November 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20101203124027/http://www.kwls.org/lit/podcasts/2009/07/gore_vidal_writer_against_the.cfm |archivedate=December 3, 2010 |df= }}&lt;/ref&gt;
+* ''[[Real Time with Bill Maher]]'' (April 10, 2009)
+* ''[[Shrink (film)|Shrink]]'' (2009 film)
+* "Gore Vidal's America"&lt;ref&gt;{{cite web |title=Gore Vidal's America|url=http://therealnews.com/t2/index.php?option=com_content&amp;task=view&amp;id=33&amp;Itemid=74&amp;jumival=658|publisher=The Real News|accessdate=November 7, 2011|date=December 24, 2010}}&lt;/ref&gt; on [[The Real News]] Network (December 24, 2010)
+* ''[[Gore Vidal: The United States of Amnesia]]'' (2013 documentary)
+* ''[[Best of Enemies (2015 film)|Best of Enemies]]'' (2015 documentary)
+* ''[[The McLaughlin Group]]''
+
+==See also==
+* [[Politics in fiction]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Sister project links|b=no|n=no|v=no|wikt=no|author=yes|d=Q167821}}
+* [http://www.pitt.edu/~kloman/vidalframe.html Gore Vidal Index], by Harry Kloman
+* [http://www.gorevidalpages.com/ Gore Vidal Pages]
+* {{IMDb name|id=0000683}}
+* {{IBDB name}}
+* {{iobdb name|22185}}
+* {{AllMovie name|115406}}
+* {{Find a Grave|11837}}
+* {{C-SPAN|Gore Vidal}}
+* Documentary, ''Gore Vidal: The United States of Amnesia'':
+** [http://www.gorevidaldocumentary.com/ Film web site]
+** [https://www.imdb.com/title/tt1745710/ At Internet Movie Database]
+** [http://subversities.blogspot.com/2013/07/gore-vidal-speaking-truth-to-power.html Interview with Director Nicholas Wrathall]
+* [https://www.nytimes.com/2012/08/01/books/gore-vidal-elegant-writer-dies-at-86.html?_r=0 Gore Vidal – Obituary, ''New York Times'']
+
+{{Gore Vidal}}
+{{Authority control}}
+
+&lt;!--intro--&gt;
+
+{{DEFAULTSORT:Vidal, Gore}}
+[[Category:1925 births]]
+[[Category:2012 deaths]]
+[[Category:American historical novelists]]
+[[Category:American memoirists]]
+[[Category:American political writers]]
+&lt;!--career--&gt;
+[[Category:American male dramatists and playwrights]]
+[[Category:American male essayists]]
+[[Category:American male novelists]]
+[[Category:American male screenwriters]]
+[[Category:Bisexual male actors]]
+[[Category:Bisexual men]]
+[[Category:Bisexual writers]]
+[[Category:Epigrammatists]]
+[[Category:LGBT dramatists and playwrights]]
+[[Category:LGBT memoirists]]
+[[Category:LGBT novelists]]
+[[Category:LGBT screenwriters]]
+[[Category:LGBT writers from the United States]]
+[[Category:Postmodern writers]]
+[[Category:The Nation (U.S. magazine) people]]
+&lt;!--awards--&gt;
+[[Category:Edgar Award winners]]
+[[Category:National Book Award winners]]
+[[Category:Recipients of Honorary Doctorate of Fine Arts from Rhode Island School of Design]]
+&lt;!--education--&gt;
+[[Category:Phillips Exeter Academy alumni]]
+[[Category:Sidwell Friends School alumni]]
+&lt;!--culture--politics--&gt;
+[[Category:American atheists]]
+[[Category:American humanists]]
+[[Category:American tax resisters]]
+[[Category:American LGBT military personnel]]
+[[Category:American military personnel of World War II]]
+[[Category:United States Navy officers]]
+[[Category:Military brats]]
+[[Category:American people of Austrian descent]]
+[[Category:American people of Romansh descent]]
+[[Category:American people of Swiss descent]]
+&lt;!--places from/at--&gt;
+[[Category:Burials at Rock Creek Cemetery]]
+[[Category:Deaths from pneumonia]]
+[[Category:Infectious disease deaths in California]]
+[[Category:California Democrats]]
+[[Category:New York (state) Democrats]]
+[[Category:Activists from California]]
+[[Category:Activists from New York (state)]]
+[[Category:LGBT people from California]]
+[[Category:LGBT people from New York (state)]]
+[[Category:People from Hollywood, Los Angeles]]&lt;!--Hollywood Hills--&gt;
+[[Category:People from Ravello]]
+[[Category:People from West Point, New York]]
+[[Category:Novelists from California]]
+[[Category:Writers from Los Angeles]]
+[[Category:Novelists from New York (state)]]
+[[Category:Writers from Washington, D.C.]]
+&lt;!--centuries--&gt;
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:20th-century essayists]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:21st-century American dramatists and playwrights]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:20th-century American journalists]]
+[[Category:21st-century American journalists]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:St. Albans School (Washington, D.C.) alumni]]</text>
+      <sha1>n4ifregnnup7mx5pdpjudp5ddgr5yc0</sha1>
+    </revision>
+  </page>
+</mediawiki>

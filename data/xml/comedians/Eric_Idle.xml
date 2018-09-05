@@ -1,0 +1,662 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Eric Idle</title>
+    <ns>0</ns>
+    <id>52042</id>
+    <revision>
+      <id>854627292</id>
+      <parentid>853502127</parentid>
+      <timestamp>2018-08-12T18:30:58Z</timestamp>
+      <contributor>
+        <ip>2A02:C7D:A03F:D700:3D18:65C4:52EF:D571</ip>
+      </contributor>
+      <comment>/* Film */Was not just a voice, visible part of the movie.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40239">{{Use British English|date=November 2012}}
+{{BLP sources|date=August 2012|reason=entire paragraphs without attribution (not ones about appearances in films and TV shows&amp;nbsp;– easily verified by IMDB&amp;nbsp;– but about education and other career assertions)}}
+{{Use dmy dates|date=October 2017}}
+
+{{Infobox person
+| name            = Eric Idle
+| image           = Eric Idle with Guitar.jpg
+| caption         = Idle in 2012
+| birth_name      =
+| birth_date      = {{Birth date and age|df=yes|1943|3|29}}
+| birth_place     = [[South Shields]], [[County Durham]]&lt;!--County Durham is correct. Tyne and Wear did not exist until 1974--&gt;, United Kingdom
+| residence        =[[Vermont]], United States
+| alma_mater      = [[Pembroke College, Cambridge]]
+| occupation      = Comedian, actor, voice actor, composer, musician, singer-songwriter, writer
+| years_active    = 1967–present
+| notable_works    = [[Monty Python]], [[The Rutles]], ''[[Spamalot]]''
+| spouse          = {{marriage|[[Lyn Ashley]]|1969|1975|reason=divorced}}&lt;br/&gt;{{marriage|Tania Kosevich|1977}}
+| children = 2
+| website         ={{url|ericidle.com/}}
+}}
+
+'''Eric Idle''' (born 29 March 1943) is an English comedian, actor, voice actor, author, singer-songwriter, musician, writer and comedic composer. Idle was a member of the British surreal comedy group [[Monty Python]], a member of the parody rock band [[The Rutles]], and the author of the Broadway musical ''[[Spamalot]]''.
+
+==Early life and education==
+Idle was born in Harton Hospital, in [[South Shields]] in [[County Durham]], to which his mother had been evacuated from the north west of England. His mother, Norah Barron (Sanderson),&lt;ref&gt;{{cite web|url=http://www.southtyneside.info/applications/2/registersearch/resultlist.aspx|archive-url=https://archive.is/20141018115144/http://www.southtyneside.info/applications/2/registersearch/resultlist.aspx|dead-url=yes|archive-date=2014-10-18|title=Search Register Office records&amp;nbsp;– South Tyneside Council|website=South Tyneside Birth death and Marriages}}&lt;/ref&gt; was a [[health visitor]], and his father, Ernest Idle,&lt;ref name="Tel170207"&gt;Barratt, Nick; [https://www.telegraph.co.uk/news/features/3631569/Family-detective.html "Family detective"] ''[[The Daily Telegraph]]'', 17 February 2007 (Retrieved: 19 August 2009)&lt;/ref&gt;&lt;ref&gt;[http://www.filmreference.com/film/25/Eric-Idle.html Eric Idle Biography (1943–)], Theatre, Film, and Television Biographies&lt;/ref&gt; served in the [[Royal Air Force]] during World War II, only to be killed in a hitch-hiking accident shortly after the war.&lt;ref&gt;{{cite web|url=http://www.cwgc.org/find-war-dead/casualty/2414186 |title=Casualty Details |publisher=CWGC |date=24 December 1945 |accessdate=1 June 2011}}&lt;/ref&gt; Idle spent part of his childhood in [[Wallasey]] on the [[Wirral Peninsula|Wirral peninsula]],&lt;ref&gt;{{Cite news|url=https://twitter.com/ericidle/status/650759410449518594|title=Eric Idle on Twitter|work=Twitter|access-date=2018-07-10|language=en}}&lt;/ref&gt; and attended St George's Road primary school until he was nine.&lt;ref&gt;{{Cite news|url=https://www.liverpoolecho.co.uk/news/liverpool-news/65-famous-people-wirral-given-14061848|title=65 famous people Wirral has given to the world|last=Hughes|first=Lorna|date=2017-12-26|work=liverpoolecho|access-date=2018-07-10}}&lt;/ref&gt; His mother had difficulty coping with a full-time job and bringing up a child, so when Idle was seven, she enrolled him in the [[Royal Wolverhampton School]] as a [[boarding school|boarder]]. At this time, the school was a charitable foundation dedicated to the education and maintenance of children who had lost one or both parents.&lt;ref name=McCabe&gt;{{cite book |last=McCabe |first=Bob |title=The Pythons' Autobiography by the Pythons|edition=|date=15 September 2005|publisher=Orion|
+location=|isbn=978-0-7528-6425-9}}&lt;/ref&gt; Idle is quoted as saying: "It was a physically [[child abuse|abusive]], [[bullying]], harsh environment for a kid to grow up in. I got used to dealing with groups of boys and getting on with life in unpleasant circumstances and being smart and funny and subversive at the expense of authority. Perfect training for Python."&lt;ref name=McCabe/&gt;
+
+Idle stated that the two things that made his life bearable were listening to [[Radio Luxembourg (English)|Radio Luxembourg]] under the bedclothes and watching the local football team, [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. Despite this, he disliked other sports and would sneak out of school every Thursday afternoon to the local cinema. Idle was eventually caught watching the X-rated film ''[[BUtterfield 8]]'' (suitable for audiences aged 16 years and over under the [[History of British Film Certificates#1951–1970|contemporary film certificates]]) and stripped of his [[Prefect#Academic|prefecture]], though by that time he was [[head boy]]. Idle had already refused to be senior boy in the school cadet force, as he supported the [[Campaign for Nuclear Disarmament]] and had participated in the yearly [[Aldermaston Marches|Aldermaston March]].&lt;ref name=McCabe/&gt; Idle maintains that there was little to do at the school, and boredom drove him to study hard and consequently win a place at [[University of Cambridge|Cambridge University]].&lt;ref name=McCabe/&gt;
+
+==Career==
+
+===Pre-Python career (1965–1969)===
+Idle attended [[Pembroke College, Cambridge]], where he studied [[English studies|English]]. At Pembroke, he was invited to join the prestigious [[Footlights|Cambridge University Footlights Club]] by the president of the Footlights Club, [[Tim Brooke-Taylor]], and Footlights Club member [[Bill Oddie]].
+
+{{cquote|I'd never heard of the Footlights when I got there, but we had a tradition of college smoking-concerts, and I sent in some sketches parodying a play that had just been done. Tim Brooke-Taylor and Bill Oddie auditioned me for the Footlights smoker, and that led to me discovering about and getting into the Footlights, which was great.&lt;ref&gt;''The Life of Python'', George Perry, Pavilion Books Ltd, 1994.&lt;/ref&gt;}}
+
+Idle started at Cambridge only a year after future fellow-Pythons [[Graham Chapman]] and [[John Cleese]]. He became [[Footlights President]] in 1965 and was the first to allow women to join the club.&lt;ref&gt;{{cite web|url=http://www.montypython.com/python_Eric_Idle/17|title=Eric Idle|first=Monty|last=Python|accessdate=27 December 2016}}&lt;/ref&gt; Idle starred in the children's television comedy series ''[[Do Not Adjust Your Set]]'' co-starring his future Python fellows [[Terry Jones]] and [[Michael Palin]]. [[Terry Gilliam]] provided animations for the show. The show's cast also included comic actors [[David Jason]] and [[Denise Coffey]]. Idle also appeared as guest in some episodes of the television series ''[[At Last the 1948 Show]]'', which co-featured Cleese and Chapman.
+
+===Monty Python (1969–1983, 2014)===
+{{further|Monty Python}}
+Idle wrote for Python mostly by himself, at his own pace, although he sometimes found it difficult in having to present material to the others and make it seem funny without the back-up support of a partner. The other Pythons usually worked in teams and Cleese admitted that this was slightly unfair&amp;nbsp;– when the Pythons voted on which sketches should appear in a show, "he (Idle) only got one vote". However, he also says that Idle was an independent person and worked best on his own. Idle himself admitted this was sometimes difficult: "You had to convince five others. And they were not the most un-egotistical of writers, either."
+
+Idle's work in Python is often characterised by an obsession with language and communication: many of his characters have verbal peculiarities, such as the man who speaks in [[anagram]]s, the man who says words in the wrong order, and the butcher who alternates between rudeness and politeness every time he speaks. A number of his sketches involve extended monologues (for example the customer in the "Travel Agency" sketch who won't stop talking about his unpleasant experiences with holidays), and he would frequently spoof the unnatural language and speech patterns of television presenters. Unlike Palin, Idle is said to be the master of insincere characters, from the [[David Frost]]-esque Timmy Williams, to small-time crook Stig O'Tracy, who tries to deny the fact that [[organised crime]] master Dinsdale Piranha nailed his head to the floor.
+
+The second-youngest member of the Pythons, Idle was closest in spirit to the students and teenagers who made up much of Python's fanbase. Python sketches dealing most with contemporary obsessions like pop music, sexual permissiveness and [[recreational drugs]] are usually Idle's work, often characterised by [[double entendre]], sexual references, and other "naughty" subject matter&amp;nbsp;– most famously demonstrated in "[[Nudge Nudge]]." Idle originally wrote "Nudge, Nudge" for [[Ronnie Barker]], but it was rejected because there was 'no joke in the words'.&lt;ref&gt;Comment made by Eric Idle during an interview shown on the [[Australian Broadcasting Corporation|ABC-TV]] program "7.30 Report" on 28 November 2007.&lt;/ref&gt;
+
+A competent guitarist, Idle composed many of the group's most famous musical numbers, most notably "[[Always Look on the Bright Side of Life]]", the closing number of ''[[Monty Python's Life of Brian|Life of Brian]]'', which has grown to become a Python signature tune. He was responsible for the "[[Galaxy Song]]" from ''[[Monty Python's The Meaning of Life|The Meaning of Life]]'' and "[[Eric the Half-a-Bee]]", a whimsical tune that first appeared on the ''[[Monty Python's Previous Record|Previous Record]]'' album.
+
+===Post-''Python'' career (1973–present)===
+[[File:Eric Idle (2).jpg|thumb|Eric Idle in 2003]]
+After the success of ''Python'' in the early 1970s, all six members pursued solo projects. Idle's first solo work was his own [[BBC Radio 1|BBC Radio One]] show, ''Radio Five'' (pre-dating the real [[BBC Radio 5 (former)|Radio Five]] station by 18 years). This ran for two seasons from 1973 to 1974 and involved Idle performing sketches and links to records, with himself playing nearly all the multi-tracked parts.
+
+On television, Idle created ''[[Rutland Weekend Television]]'' (RWT), a sketch show on [[BBC Two|BBC2]], written by himself, with music by [[Neil Innes]]. RWT was 'Britain's smallest television network'. The name was a parody of [[London Weekend Television]], the independent television franchise contractor that provided Londoners with their [[ITV (TV network)|ITV]] services at weekends; [[Rutland]] had been England's smallest county, but had recently been 'abolished' in an administrative shake-up. To make the joke complete, the programme went out on a weekday. Other regular performers were [[David Battley]], [[Henry Woolf]], [[Gwen Taylor]] and [[Terence Bayler]]. [[George Harrison]] made a guest appearance on one episode.
+
+A legacy of RWT was the creation, with Innes, of [[the Rutles]], an affectionate parody of [[the Beatles]]. The band became a popular phenomenon, especially in the U.S. where Idle was appearing on ''[[Saturday Night Live]]''&amp;nbsp;– fans would send in Beatles LPs with their sleeves altered to show the Rutles. In 1978, the Rutles' [[mockumentary]] film ''[[All You Need Is Cash]]'', a collaboration between Python members and ''[[Saturday Night Live]]'', was aired on [[NBC]] television, as written by Idle, with music by Innes. Idle appeared in the film as "Dirk McQuickly" (the [[Paul McCartney]]-styled character of the group), as well as the main commentator, while Innes appeared as "Ron Nasty" (the band's stand-in for [[John Lennon]]). Actors appearing in the film included ''Saturday Night Live''{{'s}} [[John Belushi]], [[Bill Murray]] and [[Gilda Radner]], as well as fellow Python [[Michael Palin]], but also real musicians of the 1960s such as former real Beatle [[George Harrison]], as well as [[Mick Jagger]] and [[Paul Simon]]. Idle wrote and directed the Rutles comeback in 2008 for a live show Rutlemania! to celebrate the 30th anniversary.&lt;ref&gt;[http://www.rutles.org/rnews301.html Original Rutles reunite for 30th anniversary], Vol 3 Issue 1, 3 March 2008, Rutles News&lt;/ref&gt; The performances took place in Los Angeles and New York City with a Beatles tribute band.&lt;ref&gt;{{cite web|url=http://flavorpill.com/newyork/events/2008/3/26/the-rutles|title=Rutlemania|archiveurl=https://web.archive.org/web/20080401011616/http://flavorpill.com/newyork/events/2008/3/26/the-rutles|archivedate=1 April 2008|deadurl=yes|accessdate=4 November 2008|df=dmy-all}} &lt;!-- Remove this comment when fixing the dead link: http://flavorpill.com/newyork/events/2008/3/26/the-rutles --&gt;{{Dead link|date=December 2013|bot=Theo's Little Bot}}&lt;/ref&gt;
+
+In 1986, Idle provided the voice of [[Wreck-Gar]], the leader of the [[Junkions]] (a race of robots built out of junk that can only speak in film catchphrases and advertising slogans) in ''[[The Transformers: The Movie]]''. In 1987, he took part in the [[English National Opera]] production of the [[Gilbert and Sullivan]] [[comic opera]] ''[[The Mikado]]'', in which he appeared in the role of the Lord High Executioner, Ko-Ko. In 1989, he appeared in the U.S. comedy television series ''[[Nearly Departed]]'', about a ghost who haunts the family inhabiting his former home; the series lasted for six episodes as a summer replacement series.
+
+Idle received good critical notices appearing in projects written and directed by others&amp;nbsp;– such as [[Terry Gilliam]]'s ''[[The Adventures of Baron Munchausen]]'' (1989), alongside [[Robbie Coltrane]] in ''[[Nuns on the Run]]'' (1990) and in ''[[Casper (film)|Casper]]'' (1995). He also played Ratty in Terry Jones' version of ''[[The Wind in the Willows (1996 film)|The Wind in the Willows]]'' (1996). However, his own creative projects&amp;nbsp;– such as the film ''[[Splitting Heirs]]'' (1993), a comedy he wrote, starred in and executive-produced&amp;nbsp;– were mostly unsuccessful with critics and audiences.
+
+In 1994, he appeared as Dr. Nigel Channing, chairman of the Imagination Institute and host of an 'Inventor of the Year' awards show in the [[3-D film|three-dimensional]] film ''[[Honey, I Shrunk the Audience!]]'', which was an attraction at the [[Imagination! (Epcot)|Imagination Pavilion]] at [[Walt Disney World]]'s [[Epcot]] from 1994 until 2010 and at [[Disneyland Park (Anaheim)|Disneyland]] from 1998 until 2010. The film also stars [[Rick Moranis]] and other members of the cast of the 1989 feature film ''[[Honey, I Shrunk the Kids]]''. In 1999, he reprised the role in the short-lived second incarnation of the [[Journey into Imagination]] ride at Epcot, replacing [[Figment (Disney character)|Figment]] and Dreamfinder as the host. Due to an outcry from Disney fans, the attraction was reworked in 2001, reintroducing Figment into the ride while also retaining Idle's role as Nigel Channing. Idle is also writer and star of the 3-D film ''Pirates&amp;nbsp;– 4D'' for Busch Entertainment Corporation.
+
+In 1995, he voiced [[Rincewind|Rincewind the "Wizzard"]] in [[Discworld (computer game)|a computer adventure game]] based on [[Terry Pratchett]]'s ''[[Discworld]]'' novels. In 1996, he reprised his role as Rincewind for [[Discworld 2|the game's sequel]], and composed and sang its theme song, "That's Death". In 1998, Idle appeared in the lead role in the poorly received film ''[[Burn Hollywood Burn]]''. That same year, he also provided the voice of Devon, a dragon, in [[Warner Bros.]] [[Animated film]] ''[[Quest for Camelot]]'' and as Slyly, the albino Arctic fox in ''[[Rudolph the Red-Nosed Reindeer: The Movie]]''.
+
+In recent years, Idle has worked with people who regard him as a huge inspiration, such as [[Trey Parker]] and [[Matt Stone]] in ''[[South Park: Bigger, Longer &amp; Uncut]]'', in which he voiced Dr. Vosknocker. He has also made three appearances on ''[[The Simpsons]]'' as famous documentarian [[Declan Desmond]], so far the only appearance on the show by a Python. From 1999 to 2000, he played [[Ian Maxtone-Graham]] on the [[NBC]] sitcom ''[[Suddenly Susan]]''. He has also acted as narrator of the AudioNovel version of ''[[Charlie and the Chocolate Factory]]'' by [[Roald Dahl]] and Waddlesworth the parrot in ''[[102 Dalmatians]]'' and [[102 Dalmatians: Puppies to the Rescue|the video game of the same name]].
+
+In late 2003, Idle began a performing tour of several [[North America|American and Canadian]] cities entitled ''The Greedy Bastard Tour''. The stage performances consisted largely of music from Monty Python episodes and films, along with some original post-Python material. In 2005, Idle released ''The Greedy Bastard Diary'', a book detailing the things the cast and crew encountered during the three-month tour.
+
+In 2004, Idle created ''[[Spamalot]],'' a [[musical comedy]] based on the 1975 film ''Monty Python and the Holy Grail''. The medieval production tells the story of [[King Arthur]] and his Knights of the Round Table as they journey on their quest for the [[Holy Grail]]. ''Spamalot'' features a book and lyrics by Eric Idle, music by Idle and [[John Du Prez]], direction by [[Mike Nichols]], and choreography by [[Casey Nicholaw]].&lt;ref&gt;[http://montypythonsspamalot.com/creators.php ERIC IDLE], Monty Python's ''Spamalot'' {{webarchive |url=https://web.archive.org/web/20130809122909/http://montypythonsspamalot.com/creators.php |date=9 August 2013 }}&lt;/ref&gt;
+
+More recently, Idle provided the voice of [[Merlin (Shrek)|Merlin the magician]] in the [[DreamWorks Animation|DreamWorks]] animated film ''[[Shrek the Third]]'' (2007) with his former ''Python'' co-star John Cleese, who voiced [[King Harold (Shrek)|King Harold]].
+
+Idle's play ''What About Dick?'' was given a staged reading at two public performances in Hollywood on 10–11 November 2007. The cast included Idle, [[Billy Connolly]], [[Tim Curry]], [[Eddie Izzard]], [[Jane Leeves]], [[Emily Mortimer]], [[Jim Piddock]] and [[Tracey Ullman]].&lt;ref&gt;{{cite news|url=http://www.variety.com/article/VR1117974601.html?categoryid=15&amp;cs=1|title=Eric Idle asks 'What About Dick?'|work=Variety | date=23 October 2007}}&lt;/ref&gt; The play returned on 26–29 April 2012 in the [[Orpheum Theatre (Los Angeles)|Oprheum Theatre]] with most of the cast returning with the exception of Emily Mortimer who was replaced by [[Sophie Winkleman]]. [[Russell Brand]] also joined the cast. The play was made available for digital download on 13 November 2012.
+
+[[File:Eric Idle Carol Cleveland Galaxy Song.jpg|thumb|right|Idle (left) and [[Carol Cleveland]] performing the ''[[Galaxy Song]]'' in 2014]]
+Eric Idle was a popular addition to the [[2012 Summer Olympics closing ceremony]] at the [[Olympic Stadium (London)|Olympic Stadium]] in London on 12 August, performing "[[Always Look on the Bright Side of Life]]".
+
+Eric Idle was the creator and director of the live show "[[Monty Python Live (Mostly)|Monty Python Live (mostly)&amp;nbsp;– One down, Five to go]]", which took place at the O2 Arena in London between 1 and 20 July 2014.
+
+In December 2016 Idle was the writer and co-presenter of ''The Entire Universe'', a "comedy and musical extravaganza with the help of [[Warwick Davis]], [[Noel Fielding]], [[Hannah Waddingham]] and [[Robin Ince]], alongside a chorus of singers and dancers," broadcast by BBC Two.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b086kfbj|title=The Entire Universe|publisher=BBC|date=26 December 2017 |accessdate=27 December 2016}}&lt;/ref&gt;
+
+==Other credits==
+
+===Writing===
+Idle has written several books, both fiction and non-fiction. His novels are ''[[Hello Sailor (novel)|Hello Sailor]]'' and ''[[The Road to Mars]]''. In 1976, he produced a spin-off book to ''[[Rutland Weekend Television]]'', entitled ''The Rutland Dirty Weekend Book''. In 1982, he wrote a West End farce ''Pass the Butler'', starring [[Willie Rushton]]. During his Greedy Bastard Tour of 2003, he wrote the diaries that would be made into ''The Greedy Bastard Diary: A Comic Tour of America'', published in February 2005.
+
+Idle also wrote the book and co-wrote the music and lyrics for the musical ''[[Spamalot|Monty Python's Spamalot]]'', based on the film ''[[Monty Python and the Holy Grail]]''. It premiered in Chicago before moving to Broadway, where it received the [[Tony Award for Best Musical]] of the 2004–05 season. Idle won the [[Drama Desk Award for Outstanding Lyrics]].
+
+In a 2005 poll to find ''"The Comedians' Comedian"'' (UK), he was voted 21 in the top 50 greatest comedy acts ever by fellow comedians and comedy insiders.
+
+An example of Idle's idiosyncratic writing is "Ants in Their Pants"&amp;nbsp;– a poem about the sex life of [[ant]]s. It starts as follows:
+
+:'Where does an ant get its rocks off?
+:How does the ant get it on?
+:Do ants have it away, say three times a day,
+:Is it once a week sex, or p'raps none?'
+
+===Songwriting===
+Idle is an accomplished songwriter, having composed and performed many of the Pythons' most famous comic pieces, including "[[Eric the Half-a-Bee]]", "[[The Philosophers' Song]]", "[[Galaxy Song]]", "[[Penis Song (Not the Noel Coward Song)|Penis Song]]" and, probably his most recognised hit, "[[Always Look on the Bright Side of Life]]", which was written for the closing scene of the Monty Python film ''[[Life of Brian]]'', and sung from the crosses during the mass [[crucifixion]]. The song has since been covered by [[Harry Nilsson]], [[Bruce Cockburn]], [[Art Garfunkel]] and [[Green Day]]. Idle, his fellow Pythons, and assorted family and friends performed the song at [[Graham Chapman]]'s memorial service. Idle performed the song at the closing ceremony of the London 2012 Olympic Games on 12 August 2012&lt;ref&gt;{{cite web|url=https://www.reuters.com/london-olympics-2012/articles/2012/08/12/london-calling-games-end-music-extravaganza |title=London says goodbye with musical extravaganza |agency=Reuters |first1=Belinda |last1=Goldsmith |date=13 August 2012 |accessdate=13 August 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20121023175728/https://www.reuters.com/london-olympics-2012/articles/2012/08/12/london-calling-games-end-music-extravaganza |archivedate=23 October 2012 |df=dmy }}&lt;/ref&gt; and as the farewell song of the last show of the Pythons at the O2 arena, 20 July 2014.
+
+As Ko-Ko in the 1987 [[English National Opera]] production of ''[[The Mikado]]'', Idle wrote his own 'Little List' on "[[s:The Mikado/Act I/Part Va|As some day it may happen]]".
+
+In 1990, Idle sang and co-wrote the theme tune to the popular British sitcom ''[[One Foot in the Grave]]''. The song was later released, but did poorly in the charts. However, when "Always Look on the Bright Side of Life" was adopted as a [[association football|football]] chant in the late 1980s, Idle's then neighbour [[Gary Lineker]] suggested Idle re-record and release the popular track. With help from [[BBC Radio 1|Radio 1]] breakfast show host [[Simon Mayo]], who gave the song regular airplay and also used the chorus within a jingle, it became a hit, some 12 years after the song's original appearance in ''Life of Brian'', reaching number 3 in the UK charts and landing Idle a set on ''[[Top of the Pops]]'' in October 1991. He recorded a special version of the song for Mayo's own use on air ("Come on Simon, get another song on now; why don't you put on a nice [[Cliff Richard]] record?") and changed the line "life's a piece of shit" to "life's a piece of spit" in order to get daytime airplay on radio. Idle presented Mayo with a model human foot, akin to the one used in the ''Monty Python'' title sequence, as a thank you gift for promoting the song.
+
+In 2004, Idle recorded a [[protest song]] of sorts, the "[[FCC Song]]", in which he lambastes the US [[Federal Communications Commission]] for fining him $5,000 for saying the word "fuck" on national radio. The song contains 14 uses of that expletive. The song can be downloaded in MP3 and [[OGG Vorbis]] format at the [[Internet Archive]].&lt;ref&gt;{{cite web|url=https://archive.org/details/Eric_Idle_The_FCC_Song|title=Internet Archive: The FCC Song}}&lt;/ref&gt;
+
+In 2004, the musical comedy ''[[Spamalot]]'' debuted in Chicago and opened in New York's Shubert Theatre on 14 February 2005. Idle wrote the lyrics and book for ''[[Spamalot]]'', collaborating with [[John Du Prez]] on much of the music. The original 2005 Broadway theatre production was nominated for 14 [[Tony Awards]] and won three: [[Tony Award for Best Musical|Best Musical]], [[Tony Award for Best Featured Actress in a Musical|Best Performance by a Featured Actress in a Musical]] ([[Sara Ramirez]]), and [[Tony Award for Best Direction of a Musical|Best Direction of a Musical]] ([[Mike Nichols]]).
+
+He wrote, produced and performed the song "Really Nice Day" for the movie ''[[The Wild]]''.&lt;ref&gt;{{cite web|url=https://www.imdb.com/name/nm0001385/#soundtrack|title=IMDb: Eric Idle}}&lt;/ref&gt;
+
+In June 2007, "[[Not the Messiah (He's a Very Naughty Boy)|Not the Messiah]]", a comic [[oratorio]] by Idle and [[John Du Prez]] premiered at the inaugural [[Luminato]] arts festival in Toronto. Idle himself performed during this 50-minute oratorio, along with the [[Toronto Symphony Orchestra]] and members of the [[Toronto Mendelssohn Choir]]. The composer, [[John Du Prez]], was also present. Shannon Mercer, Jean Stilwell, [[Christopher Sieber]], and Theodore Baerg sang the principal parts. The American premiere was at Caramoor ([[Westchester County, New York]]) on 1 July 2007. Soloists were the same as in the Toronto performance, but the accompanying chorus was made up of members of New York City's Collegiate Chorale. The show was revised and expanded for a tour of Australia and New Zealand in 2007, including two sell-out nights at the [[Sydney Opera House]].&lt;ref&gt;{{cite web |url=http://www.americanorchestras.org/symphony_magazine/something_completely_different.html |title=Something Completely Different |accessdate=4 November 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090506030717/http://www.americanorchestras.org/symphony_magazine/something_completely_different.html |archivedate=6 May 2009 |df=dmy }}&lt;/ref&gt; A tour during the summer of 2008 included performances with the [[National Symphony Orchestra (United States)|National Symphony Orchestra]] in Washington D.C., the [[Los Angeles Philharmonic]] at the [[Hollywood Bowl]] in Los Angeles, [[Wolf Trap National Park]] for the Performing Arts in Virginia, and [[Houston]].&lt;ref&gt;{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2008/07/25/AR2008072502791.html|title='Not the Messiah': Eric Idle Revs Up|accessdate=4 November 2008 | work=The Washington Post | date=26 July 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=92869664|title=Monty Python's Eric Idle Resurrects 'Life of Brian'|accessdate=4 November 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://blogs.houstonpress.com/rocks/2008/07/tonight_and_friday_eric_idle_w.php|title=Tonight and Friday: Eric Idle with the Houston Symphony|accessdate=4 November 2008}}&lt;/ref&gt;
+
+Idle contributed a cover of [[Buddy Holly]]'s "[[Raining in My Heart]]" for the tribute album ''[[Listen to Me: Buddy Holly]]'', released 6 September 2011.
+
+Idle also wrote and sang a variant of the galaxy song for [[Brian Cox (physicist)|Professor Brian Cox]]'s show, ''[[Wonders of Life (TV series)|Wonders of Life]]'' as well as the new theme for Cox's radio show ''[[The Infinite Monkey Cage]]''.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/p021x88c|title=Eric Idle performs theme song for The Infinite Monkey Cage, The Infinite Monkey Cage&amp;nbsp;– BBC Radio 4|accessdate=27 December 2016}}&lt;/ref&gt;
+
+==Personal life==
+Idle has been married twice. His first marriage was in 1969 to actress [[Lyn Ashley]], with whom he had one son, Carey, before their divorce in 1975. He went on to marry Tania Kosevich, a former model. The couple have one daughter, Lily.&lt;ref&gt;{{Cite news|url=https://www.express.co.uk/expressyourself/98595/Marriage-is-no-laughing-matter-when-you-re-a-Python|title=Marriage is no laughing matter when you're a Python|date=2009-05-03|work=[[Daily Express]]|access-date=2018-07-17}}&lt;/ref&gt;
+
+He is cousins with Canadian conductor [[Peter Oundjian]].&lt;ref&gt;{{cite news |last1=Zekas |first1=Rita |title=A symphony of comfort and cheer |url=https://www.thestar.com/life/homes/2013/12/05/a_symphony_of_comfort_and_cheer.html |accessdate=July 27, 2018 |publisher=Toronto Star |date=December 5, 2013}}&lt;/ref&gt;
+
+==Tributes==
+*An [[asteroid]], [[9620 Ericidle]], is named in his honour.&lt;ref&gt;{{cite web|url=http://www.astro.uu.se/planet/asteroid/astdiv/9620.html |title=(9620) Ericidle = 1993 FU13 |date=17 June 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20120813034146/http://www.astro.uu.se/planet/asteroid/astdiv/9620.html |archivedate=13 August 2012 |df=dmy }}&lt;/ref&gt;
+* Idle was voted the 21st favourite comedian out of 50 in The Comedian's Comedian 2005 poll by comedians and comedy insiders.&lt;ref&gt;Hans ten Cate, [http://www.dailyllama.com/news/2005/llama270.html "COMEDY EXPERTS SAY PYTHON MEMBERS AMONG GREATEST COMICS OF ALL TIME"], 2 January 2005&lt;/ref&gt;
+* The default [[Integrated development environment|Integrated development environment (IDE)]] of the [[programming language]] [[Python (programming language)|Python]], is called [[IDLE (Python)|IDLE]]. Although officially IDLE stands for "Integrated DeveLopment Environment", the name has been chosen in allusion to Eric Idle, as the name of the programming language Python itself has been chosen in allusion to the British comedy group Monty Python.
+* The [[Eric (software)|eric]] IDE for the programming language Python is named in allusion to the aforementioned IDLE IDE and Eric Idle.
+
+==Filmography==
+
+===Film===
+{| class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1971
+| ''[[And Now for Something Completely Different]]''
+| Various roles
+| Also writer
+|-
+| 1975
+| ''[[Monty Python and the Holy Grail]]''
+| Various roles
+| Also writer
+|-
+| 1979
+| ''[[Monty Python's Life of Brian]]''
+| Various roles
+| Also writer
+|-
+| 1982
+| ''[[Monty Python Live at the Hollywood Bowl]]''
+| Various roles
+| Concert film; also writer
+|-
+| 1983
+| ''[[Monty Python's The Meaning of Life]]''
+| Various roles
+| Also writer
+|-
+| 1983
+| ''[[Yellowbeard]]''
+| Commander Clement
+|
+|-
+| 1985
+| ''[[National Lampoon's European Vacation]]''
+| The Bike Rider
+|
+|-
+| 1986
+| ''[[The Transformers: The Movie]]''
+| [[Wreck-Gar]]
+| [[Voice actor|Voice]]
+|-
+| 1988
+| ''[[The Adventures of Baron Munchausen]]''
+| Berthold / Desmond
+|
+|-
+| 1990
+| ''[[Nuns on the Run]]''
+| Brian Hope
+|
+|-
+| 1990
+| ''[[Too Much Sun]]''
+| Sonny
+|
+|-
+| 1992
+| ''[[Mom and Dad Save the World]]''
+| King Raff
+|
+|-
+| 1992
+| ''[[Missing Pieces (film)|Missing Pieces]]''
+| Wendel
+|
+|-
+| 1993
+| ''[[Splitting Heirs]]''
+| Tommy Patel / Thomas Henry Butterfly Rainbow Peace
+| Also writer and executive producer
+|-
+| 1995
+| ''[[Casper (film)|Casper]]''
+| Paul "Dibs" Plutzker
+|
+|-
+| 1996
+| ''[[The Wind in the Willows (1996 film)|The Wind in the Willows]]''
+| Mr. Rat
+|
+|-
+| 1998
+| ''[[An Alan Smithee Film: Burn Hollywood Burn]]''
+| [[Alan Smithee]]
+|
+|-
+| 1998
+| ''[[The Secret of NIMH 2: Timmy to the Rescue]]''
+| Evil Martin
+| Voice&lt;br/&gt;Direct-to-video
+|-
+| 1998
+| ''[[Quest for Camelot]]''
+| Devon
+| Voice
+|-
+| 1998
+| ''[[Hercules: Zero to Hero]]''
+| Mr. Parentheses
+| Voice&lt;br/&gt;Direct-to-video
+|-
+| 1998
+| ''[[Rudolph the Red-Nosed Reindeer: The Movie]]''
+| Slyly
+| Voice
+|-
+| 1999
+| ''[[Dudley Do-Right (film)|Dudley Do-Right]]''
+| Prospector Kim J. Darling
+|
+|-
+| 1999
+| ''[[South Park: Bigger, Longer &amp; Uncut]]''
+| Dr. Vosnocker
+| Voice
+|-
+| 2000
+| ''[[102 Dalmatians]]''
+| Waddlesworth
+| Voice
+|-
+| 2002
+| ''[[Pinocchio (2002 film)|Pinocchio]]''
+| Medoro
+| English dub
+|-
+| 2003
+| ''[[Concert for George (film)|Concert for George]]''
+| Himself / Barber / Mountie
+| Documentary
+|-
+| 2003
+| ''[[Hollywood Homicide]]''
+| The Celebrity
+| Cameo
+|-
+| 2004
+| ''[[Ella Enchanted (film)|Ella Enchanted]]''
+| Narrator
+| 
+|-
+| 2005
+| ''[[The Aristocrats (film)|The Aristocrats]]''
+| Himself
+| Documentary
+|-
+| 2006
+| ''[[The Wild]]''
+|
+| Composer and performer: "Really Nice Day"
+|-
+| 2007
+| ''[[Shrek the Third]]''
+| [[Merlin]]
+| Voice
+|-
+| 2008
+| ''[[Delgo]]''
+| Spig
+| Voice
+|-
+| 2014
+| ''[[Monty Python Live (Mostly)]]''
+| Various roles
+| Concert film; also writer and director&lt;ref&gt;{{cite web|url=https://www.imdb.com/title/tt3872778/|title=Monty Python Live (Mostly)|date=20 July 2014|publisher=|via=www.imdb.com}}&lt;/ref&gt;
+|-
+| 2014
+| ''[[The Boxtrolls]]''
+|
+| Composer: "The Boxtrolls Song"
+|-
+| 2015
+| ''[[Absolutely Anything]]''
+| Salubrious Gat
+| Voice
+|}
+
+===Television===
+{| class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1967–1970
+| ''[[No&amp;nbsp;– That's Me Over Here!]]''
+|
+| Co-creator and writer
+|-
+| 1967–1969
+| ''[[Do Not Adjust Your Set]]''
+| Various roles
+| 27 episodes; also writer
+|-
+| 1969–1974
+| ''[[Monty Python's Flying Circus]]''
+| Various roles
+| 45 episodes; also co-creator and writer
+|-
+| 1972
+| ''[[Monty Python's Fliegender Zirkus]]''
+| Various roles
+| 2 episodes; also co-creator and writer
+|-
+| 1975–1976
+| ''[[Rutland Weekend Television]]''
+| Dirk McQuickly / Various roles
+| 14 episodes; also co-creator and writer
+|-
+| 1976–1979
+| ''[[Saturday Night Live]]''
+| Himself
+| 6 Episodes
+|-
+| 1978
+| ''[[All You Need Is Cash]]''
+| Dirk McQuickly
+| Television film; also writer and director
+|-
+| 1981
+| ''[[Laverne &amp; Shirley]]''
+| Derek DeWoods
+| Episode: "I Do, I Do"
+|-
+| 1982
+| ''[[Faerie Tale Theatre]]''
+| Narrator
+| Episode: "The Tale of the Frog Prince"; also director and writer
+|-
+| 1985
+| ''[[Faerie Tale Theatre]]''
+| [[The Pied Piper]]
+| Episode: "The Pied Piper of Hamelin"
+|-
+| 1989
+| ''[[Around the World in 80 Days (TV miniseries)|Around the World in 80 Days]]''
+| Jean Passepartout
+| 3 episodes
+|-
+| 1989
+| ''[[Nearly Departed]]''
+| Grant Pritchard
+| 6 episodes
+|-
+| 1991
+| ''[[One Foot in the Grave]]''
+| Mervyn Whale
+| Episode: "The Man in the Long Black Coat"
+|-
+| 1996
+| ''[[Frasier]]''
+| Chuck
+| Voice&lt;br/&gt;Episode: "High Crane Drifter"
+|-
+| 1998
+| ''[[Pinky and the Brain]]''
+| Pinky's Mom and Dad
+| Voices&lt;br/&gt;Episode: "The Family That Poits Together, Narfs Together"
+|-
+| 1998–1999
+| ''[[Hercules (1998 TV series)|Hercules]]''
+| Mr. Parentheses
+| Voice&lt;br/&gt;11 episodes
+|-
+| 1998–1999
+| ''[[Recess (TV series)|Recess]]''
+| Galileo
+| Voice&lt;br/&gt;2 episodes
+|-
+| 1998
+| ''[[The Angry Beavers]]''
+| Spanque
+| Voice&lt;br/&gt;Episode: "Open Wide for Zombies/Dumbwaiters"
+|-
+| 1999–2000
+| ''[[Suddenly Susan]]''
+| Ian Maxtone-Graham
+| 22 episodes
+|-
+| 2000
+| ''[[Buzz Lightyear of Star Command]]''
+| Guzelian
+| Voice&lt;br/&gt;Episode: "War and Peace and War"
+|-
+| 2001–2002
+| ''[[House of Mouse]]''
+| Pluto Angel
+| Voice&lt;br/&gt;2 episodes
+|-
+| 2002
+| ''[[MADtv]]''
+| Zookeeper
+| Episode: "#8.18"
+|-
+| 2002
+| ''[[The Rutles 2: Can't Buy Me Lunch]]''
+| Narrator / Dirk McQuickly / Lady Beth Mouse-Peddler
+| Television film; also writer, director and producer
+|-
+| 2002
+| ''[[The Scream Team]]''
+| Coffin Ed
+| Television film
+|-
+| 2003–2012
+| ''[[The Simpsons]]''
+| Declan Desmond
+| Voice&lt;br/&gt;4 episodes
+|-
+| 2003
+| ''[[National Lampoon's Christmas Vacation 2: Cousin Eddie's Island Adventure]]''
+| Plane passenger
+| Television film
+|-
+| 2004–2005
+| ''[[Super Robot Monkey Team Hyperforce Go!]]''
+| Scrapperton
+| Voice&lt;br/&gt;3 episodes
+|-
+| 2016
+| ''The Entire Universe''
+| Himself (host)
+| Television special; also writer
+|}
+
+===Video games===
+{| class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1995
+| ''[[Discworld (video game)|Discworld]]''
+| [[Rincewind]]
+| Voice
+|-
+| 1996
+| ''[[Discworld II: Missing Presumed...!?]]''
+| Rincewind
+| Voice
+|-
+| 1996
+| ''[[Monty Python &amp; the Quest for the Holy Grail]]''
+| Various roles
+| Voice&lt;br/&gt;Also producer and writer
+|-
+| 1997
+| ''[[Monty Python's The Meaning of Life (video game)|Monty Python's The Meaning of Life]]''
+| Various roles
+| Voice
+|}
+
+===Stage===
+{| class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2000
+| ''[[Seussical]]''
+|
+| Co-conceiver
+|-
+| 2004
+| ''[[Spamalot]]''
+|
+| Writer and co-lyricist&lt;br/&gt;[[Tony Award for Best Musical]]&lt;br/&gt;[[Drama Desk Award for Outstanding Lyrics]]&lt;br/&gt;[[Grammy Award for Best Musical Theater Album]]&lt;br/&gt;Nominated—[[Tony Award for Best Book of a Musical]]&lt;br/&gt;Nominated—[[Tony Award for Best Original Score]]&lt;br/&gt;Nominated—[[Drama Desk Award for Outstanding Book of a Musical]]
+|-
+| 2007
+| ''[[Not the Messiah (He's a Very Naughty Boy)|Not the Messiah]]''
+| Various roles
+| Also writer
+|-
+| 2009
+| ''An Evening Without Monty Python''
+|
+| Director
+|-
+| 2012
+| ''What About Dick?''
+| Piano
+| Also writer and co-director
+|-
+| 2014
+| ''[[Monty Python Live (Mostly)|Monty Python Live]]''
+| Various roles
+| Also co-writer and director
+|}
+
+===Bibliography===
+*''[[Hello Sailor (novel)|Hello Sailor]]'', novel, 1975, [[Weidenfeld &amp; Nicolson]], {{ISBN|0-297-76929-4}}
+*''The Rutland Dirty Weekend Book'', 1976, [[Random House|Mandarin] {{ISBN|0-413-36570-0}}
+*''Pass the Butler'', play script, 1982, {{ISBN|0-413-49990-1}}
+*''The Quite Remarkable Adventures of the Owl and the Pussycat'', children's book, 1996, Dove Books, {{ISBN|0-7871-1042-6}}
+*''[[The Road to Mars]]'', novel, 1998, {{ISBN|0-7522-2414-X}}, [[Macmillan Publishers|Boxtree]], (hardcover), {{ISBN|0-375-70312-8}} (paperback)
+*''Eric Idle Exploits Monty Python Souvenir Program'', Green Street Press (U.S.), 2000
+*''The Greedy Bastard Tour Souvenir Program'', Green Street Press (U.S.), 2003
+*''The Greedy Bastard Diary: A Comic Tour of America'', journal, 2005, {{ISBN|0-06-075864-3}}
+*''The Writer's Cut'', e-Book, 2015, {{ISBN|9781910859247}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+*[http://www.montypython.com/python_Eric_Idle/17 Eric Idle's profile on Monty Python's official website]
+*[https://archive.org/details/Eric_Idle_The_FCC_Song Eric Idle singing his "FCC Song" in MP3 format from Archive.org]
+*{{IMDb name|0001385}}
+*{{IBDB name}}
+*{{iobdb name|35015}}
+* {{Screenonline name|id=499808}}
+* {{webarchive |url=https://web.archive.org/web/20060104112941/http://www.footlights.org/past/1965 |date=4 January 2006 |title=''My Girl Herbert'' }}&amp;nbsp;– the 1965 Cambridge Footlights Club revue during the time when Eric Idle was President of the Footlights, as well as being a member of the revue cast
+
+{{Monty Python}}
+{{The Rutles}}
+{{DramaDesk Lyrics 2001–2025}}
+{{Authority control}}
+
+{{DEFAULTSORT:Idle, Eric}}
+[[Category:1943 births]]
+[[Category:20th-century British comedians]]
+[[Category:20th-century English male actors]]
+[[Category:20th-century composers]]
+[[Category:20th-century English novelists]]
+[[Category:20th-century British singers]]
+[[Category:21st-century British comedians]]
+[[Category:21st-century English male actors]]
+[[Category:21st-century British composers]]
+[[Category:21st-century English novelists]]
+[[Category:21st-century English singers]]
+[[Category:Actors from County Durham]]
+[[Category:Alumni of Pembroke College, Cambridge]]
+[[Category:Drama Desk Award winners]]
+[[Category:English comedy musicians]]
+[[Category:English comedy writers]]
+[[Category:English dramatists and playwrights]]
+[[Category:British expatriate male actors in the United States]]
+[[Category:British male comedy actors]]
+[[Category:English male comedians]]
+[[Category:English male composers]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English male film actors]]
+[[Category:English male novelists]]
+[[Category:English male radio actors]]
+[[Category:English male television actors]]
+[[Category:English male voice actors]]
+[[Category:English musical theatre composers]]
+[[Category:English singer-songwriters]]
+[[Category:English television writers]]
+[[Category:Grammy Award winners]]
+[[Category:Living people]]
+[[Category:Male screenwriters]]
+[[Category:Monty Python members]]
+[[Category:Musicians from Tyne and Wear]]
+[[Category:People educated at the Royal Wolverhampton School]]
+[[Category:People from South Shields]]
+[[Category:People from Wolverhampton]]
+[[Category:The Rutles members]]
+[[Category:People from Wallasey]]</text>
+      <sha1>1bjv64jcyi48tecowckkkdikdvy7iyl</sha1>
+    </revision>
+  </page>
+</mediawiki>

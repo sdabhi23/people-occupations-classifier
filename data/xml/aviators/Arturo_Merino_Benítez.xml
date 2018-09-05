@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Arturo Merino Benítez</title>
+    <ns>0</ns>
+    <id>14776847</id>
+    <revision>
+      <id>789861192</id>
+      <parentid>773213844</parentid>
+      <timestamp>2017-07-10T02:54:23Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1304">[[File:Arturo Merino Benítez.JPG|200px|right]]
+{{spanish name|Merino|Benítez}}
+'''Arturo Merino Benítez''' (b. [[Chillán]], [[Ñuble Province|Ñuble]], [[Biobío Region|Biobío]], [[Chile]], May 17, 1888 - d. [[Santiago, Chile|Santiago de Chile]], [[Santiago Metropolitan Region|Región Metropolitana]], May 2, 1970), was an aviator with rank of [[Commodore (rank)|Commodore]], and the founder of both the [[Chilean Air Force]] (1930) and [[LAN Chile]] (1929) the national airline. Chile's largest airport was named in his honour, [[Arturo Merino Benítez International Airport]]. His parents were Pedro Merino Feliú and Clorinda Benítez Labbé. He died from a stroke at age 82, his remains are at the [[Cementerio General de Santiago]].
+
+==Bibliography==
+{{es icon}}
+*[https://web.archive.org/web/20080121083345/http://www.latercera.cl/medio/articulo/0%2C0%2C38035857_172985965_183490404%2C00.html Biografía ICARITO ''ICARITO biography'']
+*[http://www.fundacionamb.cl/ Fundación Arturo Merino B. ''Arturo Merino B. Foundation'']
+
+{{Cl-avia}}
+
+{{Authority control}}
+{{DEFAULTSORT:Merino Benitez, Arturo}}
+[[Category:1888 births]]
+[[Category:1970 deaths]]
+[[Category:People from Chillán]]
+[[Category:Chilean aviators]]
+[[Category:Aviation pioneers]]
+
+
+{{chile-mil-bio-stub}}
+{{aviation-bio-stub}}</text>
+      <sha1>2kpesdspzsvgjq5nej5f2kqaq0vux7z</sha1>
+    </revision>
+  </page>
+</mediawiki>

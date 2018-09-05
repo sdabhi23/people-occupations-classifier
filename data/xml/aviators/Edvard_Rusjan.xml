@@ -1,0 +1,199 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Edvard Rusjan</title>
+    <ns>0</ns>
+    <id>1769811</id>
+    <revision>
+      <id>806640233</id>
+      <parentid>801122066</parentid>
+      <timestamp>2017-10-23T08:23:42Z</timestamp>
+      <contributor>
+        <username>RussBot</username>
+        <id>279219</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Change redirected category [[:Category:Burials at Belgrade's New Cemetery|Burials at Belgrade's New Cemetery]] to [[:Category:Burials at Belgrade New Cemetery|Burials at Belgrade New Cemetery]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8761">{{Infobox person
+| honorific_prefix          = 
+| name                      = Edvard Rusjan
+| honorific_suffix          = 
+| native_name               = 
+| native_name_lang          = 
+| image                     = Edvard Rusjan 1911.jpg
+| image_size                = 
+| alt                       = Edvard Rusjan in 1911
+| caption                   = Edvard Rusjan in 1911
+| birth_name                = 
+| birth_date                = {{Birth date|1886|06|06}}
+| baptism_date              = 
+| birth_place               = 
+| disappeared_date          = &lt;!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place         = 
+| disappeared_status        = 
+| death_date                = {{Death date and age|1911|01|09|1886|06|06}}
+| death_place               = 
+| death_cause               = 
+| body_discovered           = 
+| resting_place             = 
+| resting_place_coordinates = &lt;!-- {{Coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| monuments                 = 
+| residence                 = 
+| nationality               = 
+| other_names               = 
+| ethnicity                 = Italian, Slovenian
+| citizenship               = 
+| education                 = 
+| alma_mater                = 
+| occupation                = bicycle retailer/manufacturer, airplane inventor/manufacturer, pilot trainer
+| years_active              = 
+| employer                  = 
+| organization              = 
+| agent                     = 
+| known_for                 = 
+| notable_works             = 
+| style                     = 
+| home_town                 = 
+| salary                    = 
+| net_worth                 = &lt;!-- Net worth should be supported with a citation from a reliable source --&gt;
+| height                    = &lt;!-- {{height|m=}} --&gt;
+| weight                    = &lt;!-- {{convert|weight in kg|kg|lb}} --&gt;
+| television                = 
+| title                     = 
+| term                      = 
+| predecessor               = 
+| successor                 = 
+| party                     = 
+| movement                  = 
+| opponents                 = 
+| boards                    = 
+| religion                  = &lt;!-- Religion should be supported with a citation from a reliable source --&gt;
+| denomination              = &lt;!-- Denomination should be supported with a citation from a reliable source --&gt;
+| criminal_charge           = &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty          = 
+| criminal_status           = 
+| spouse                    = 
+| partner                   = &lt;!-- unmarried life partner; use ''Name (1950–present)'' --&gt;
+| children                  = 
+| parents                   = 
+| relatives                 = 
+| callsign                  = 
+| awards                    = 
+| signature                 = 
+| signature_alt             = 
+| signature_size            = 
+| module                    = 
+| module2                   = 
+| module3                   = 
+| module4                   = 
+| module5                   = 
+| module6                   = 
+| website                   = &lt;!-- {{URL|Example.com}} --&gt;
+| footnotes                 = 
+| box_width                 = 
+}}
+
+'''Edvard Rusjan''' (6 June 1886 – 9 January 1911)&lt;ref name="Rusjan" /&gt;&lt;ref name="Sitar" /&gt; was a [[Slovenes|Slovenian]]  flight pioneer and airplane constructor. He died in an airplane crash in [[Belgrade]].&lt;ref name="Rusjan"&gt;{{cite encyclopedia |url=http://nl.ijs.si/fedora/get/sbl:2704/VIEW/ |title=Rusjan Edvard |encyclopedia=Slovenski biografski leksikon |editors=Vide Ogrin, Petra (electronic ed.). Cankar, Izidor et al. (printed ed.) |year=1925–1991 (printed ed.). 2009 (electronic ed.) |language=Slovenian|last=Mesesnel |first=France |isbn=978-961-268-001-5}}&lt;/ref&gt;&lt;ref&gt;http://www.vazduhoplovnetradicijesrbije.rs/index.php/clancivlepojevica/160-m-mercep-i-e-rusjan&lt;/ref&gt;
+
+== Biography ==
+Rusjan was born in [[Trieste]],&lt;ref name="Rusjan" /&gt; then the major port of [[Austria-Hungary]] (now in [[Italy]]). His parents were both natives of the [[Gorizia and Gradisca]] region: his father, Franc Rusjan, was a [[Slovenes|Slovene]], and his mother, Grazia Cabas, was [[Friuli-Venezia Giulia|Friulan]].&lt;ref&gt;{{cite book |title=Brata Edvard in Josip Rusjan iz Gorice: začetkí motornega letenja med Slovenci |first=Srečko |last=Gombač |year=2004 |publisher=Puhek}}&lt;/ref&gt; Rusjan spent his childhood and adolescence in [[Gorizia]], in the suburb of [[Pristava, Nova Gorica|Rafut]].
+
+In his youth, he became a professional bicyclist, and designed his own bicycle models, together with his brother Josip Rusjan. He was also member of the [[Sokol]] gymnastic association.
+
+He made his first flight on 25 November 1909, near Gorizia, in [[Eda I]], a biplane of his own design. Eda was Edvard's nickname, given from his mother. &lt;ref name="Rusjan" /&gt;&lt;ref name="RS-Rusjan"&gt;{{cite web|url=http://www.ukom.gov.si/en/media_relations/background_information/science_and_technology/edvard_rusjan_pioneer_of_slovene_aviation/|last=|first=|title=Edvard Rusjan, Pioneer of Slovene Aviation|date=|publisher=Republic of Slovenia – Government Communication Office|accessdate=11 September 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20140423044448/http://www.ukom.gov.si/en/media_relations/background_information/science_and_technology/edvard_rusjan_pioneer_of_slovene_aviation/|archivedate=23 April 2014|df=}}&lt;/ref&gt;
+
+The flight was covered {{convert|60|m|abbr=on}} and reached a height of {{convert|2|m|abbr=on}}. On 29 November 1909, he flew {{convert|600|m|abbr=on}} at an altitude of {{convert|12|m|abbr=on}}. The original design was followed by several improved versions. He moved to a hangar near [[Miren]] south of Gorizia.
+
+Rusjan first attended a public flight event with the model EDA V on 6 December 1909, when his aircraft broke apart at landing.&lt;ref name="Rusjan" /&gt; In June 1910, he tried the model EDA V, which enabled him to fly 40 meters above the ground and overfly the whole [[Miren]] Field.
+[[File:Rusjanovo letalo Eda.JPG|thumb|Replica of Rusjan airplane [[Eda V]]]]
+The brothers Rusjan ran out of finance for the construction of EDA VII. In 1910 Edvard Rusjan met the businessman of Serbian origin [[Mihailo Merćep|Mihajlo Merćep]], who offered him financial help for his endeavors. The same year, the brothers moved to [[Zagreb]], Croatia, when they started a project of airplane construction on larger scale. In November 1910, they constructed a new model.&lt;ref name="Rusjan" /&gt;
+
+In January 1911, Edvard and Josip Rusjan went on a promotional tour through the [[Balkan]] cities.  During a flight in [[Belgrade]], [[Serbia]] on 9 January 1911 a strong wind broke a wing of Edvard's aeroplane and it dived into a railway embankment near the [[Belgrade Fortress]] in a fatal crash.&lt;ref name="Sitar"&gt;{{cite book |title=Edvard Rusjan |first=Sandi |last=Sitar |year=1989 |page=72 |publisher=Partizanska knjiga |id={{COBISS|ID=7780352}}}}&lt;/ref&gt;&lt;ref name="RS-Rusjan"/&gt; His funeral was attended by a large crowd of about 14,000 people.
+
+He is interred at [[Belgrade's New Cemetery]], lot 15, grave 343.
+
+== Legacy ==
+The [[Maribor Edvard Rusjan Airport]] and asteroid [[19633 Rusjan]] are named after him. The commercial and business center ''Eda Center'' in [[Nova Gorica]] is dedicated to Rusjan's memory.
+
+One of the [[McDonnell Douglas DC-10|DC-10]] in the [[Jugoslovenski Aerotransport|JAT]] fleet was named after Edvard Rusjan&lt;ref&gt;{{Cite web|url=http://www.taxiways.de/DC-10/46988_278.html|title=MC DONNELL - DOUGLAS  DC - 10|website=www.taxiways.de|access-date=2017-01-31}}&lt;/ref&gt;.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Edvard Rusjan}}
+* [http://www.edvard-rusjan.it/ Edvard Rusjan Biography] {{it icon}} {{sl icon}} {{fr icon}} {{en icon}} {{de icon}}
+* http://www.vazduhoplovnetradicijesrbije.rs/index.php/clancivlepojevica/160-m-mercep-i-e-rusjan
+
+{{Aviators killed in early aviation accidents}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rusjan, Edvard}}
+[[Category:1886 births]]
+[[Category:1911 deaths]]
+[[Category:People from Trieste]]
+[[Category:People from Gorizia]]
+[[Category:Italian Slovenes]]
+[[Category:Aircraft designers]]
+[[Category:Aviation pioneers]]
+[[Category:Members of the Early Birds of Aviation]]
+[[Category:Slovenian people of Friulian descent]]
+[[Category:Aviators killed in aviation accidents or incidents]]
+[[Category:Victims of aviation accidents or incidents in Serbia]]
+[[Category:Slovenian aviators]]
+[[Category:Sokol members]]
+[[Category:Ethnic Slovene people]]
+[[Category:Aerodynamicists]]
+[[Category:Aviation inventors]]
+[[Category:Inventors]]
+[[Category:Burials at Belgrade New Cemetery]]
+[[Category:Aviation accidents and incidents in 1911]]</text>
+      <sha1>mybqn8y6i2o5zwyecfmzf3k1b7xi0jr</sha1>
+    </revision>
+  </page>
+</mediawiki>

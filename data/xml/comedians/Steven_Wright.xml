@@ -1,0 +1,410 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steven Wright</title>
+    <ns>0</ns>
+    <id>104987</id>
+    <revision>
+      <id>853004831</id>
+      <parentid>852822664</parentid>
+      <timestamp>2018-08-01T19:53:34Z</timestamp>
+      <contributor>
+        <username>Beetstra</username>
+        <id>855858</id>
+      </contributor>
+      <comment>/* External links */ fails inclusion standards, see [[WP:EL]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23781">{{Other people|Steven Wright}}
+{{Use mdy dates|date=December 2013}}
+{{Infobox comedian
+| name              = Steven Wright
+| image             = Steven Wright 1994.jpg
+| imagesize         = 
+| caption           = Wright in 1994
+| pseudonym         =
+| birth_name        = Steven Alexander Wright
+| birth_date        = {{birth date and age|1955|12|6}}
+| birth_place       = [[Cambridge, Massachusetts]], U.S.
+| medium            = [[Stand-up]], [[film]], [[television]]
+| nationality       = American
+| active            = 1978–present
+| genre             = [[surreal humor]], [[One-line joke|one-liners]], [[deadpan]], [[wit]]/[[word play]], [[observational comedy]], [[Musical comedy]], [[Anti-humor]]
+| subject           =
+| influences        = [[Woody Allen]], [[George Carlin]],&lt;ref&gt;{{cite web|url=http://comedycouch.com/interviews/swright.htm |title=Steven Wright Interview |publisher=The Comedy Couch |date=April 10, 2002 |accessdate=June 12, 2012}}&lt;/ref&gt; [[Bob Newhart]]&lt;ref&gt;{{cite web|last=Lapka |first=Larry |url=http://allmusic.com/artist/steven-wright-p253 |title=Steven Wright |publisher=AllMusic |date=December 6, 1955 |accessdate=June 12, 2012}}&lt;/ref&gt;
+| influenced        = 
+| spouse            =
+| signature         =
+| website           = 
+| footnotes         =
+| current_members   =
+| past_members      =
+| awards            = '''[[Academy Award for Best Live Action Short Film]]'''&lt;br /&gt;[[The Appointments of Dennis Jennings]]
+}}
+'''Steven Alexander Wright''' (born December 6, 1955) is an American stand-up comedian, actor, writer, and [[Academy Awards|Oscar]]-winning film producer. He is known for his distinctly lethargic voice and slow, [[deadpan]] delivery of [[irony|ironic]], [[Philosophy#Contemporary philosophy (c. 1900 – present)|philosophical]] and sometimes nonsensical [[joke]]s, [[paraprosdokian]]s, [[non sequitur (literary device)|non sequiturs]], [[anti-humor]], and [[one-liner joke|one-liners]] with contrived situations.&lt;ref&gt;{{cite web|url=http://www.phoenixnewtimes.com/arts/comedian-steven-wright-on-his-deadpan-style-getting-inspired-by-salvador-dali-working-with-quentin-tarantino-and-more-6555970|title=Comedian Steven Wright on His Deadpan Style, Getting Inspired By Salvador Dali, Working With Quentin Tarantino, and More|last=Leatherman|first=Benjamin|work=[[Phoenix New Times]]|date=8 May 2012|accessdate=3 November 2015}}&lt;/ref&gt;
+
+Wright was ranked as the 15th Greatest Comedian by ''[[Rolling Stone]]'' in a list of the 50 Greatest Stand-up Comics.&lt;ref&gt;{{cite web|last1=Love|first1=Matthew|title=50 Best Stand-Up Comics of All Time|url=https://www.rollingstone.com/culture/lists/50-best-stand-up-comics-of-all-time-w464199/wanda-sykes-w464219|website=RollingStone.com|publisher=''[[Rolling Stone]]''|date=14 February 2017|accessdate=5 December 2017}}&lt;/ref&gt; His accolades include the [[Academy Award for Best Live Action Short Film]] for writing and producing the short film ''[[The Appointments of Dennis Jennings]]'' (1988)&lt;ref&gt;{{cite web|title=The Appointments of Dennis Jennings|url=http://aaspeechesdb.oscars.org/link/061-18/|website=AASpeechesDB.Oscars.org|publisher=[[Academy of Motion Picture Arts &amp; Sciences|AMPAS]]|accessdate=5 December 2017}}&lt;/ref&gt; and two [[Primetime Emmy Awards]] nominations as a producer of ''[[Louie (U.S. TV series)|Louie]]'' (2010–15).&lt;ref&gt;{{cite web|title=Steven Wright|url=http://www.emmys.com/bios/steven-wright|website=Emmys.com|publisher=[[Academy of Television Arts &amp; Sciences]]|accessdate=5 December 2017}}&lt;/ref&gt;
+
+== Early life and career ==
+Wright was born in [[Cambridge, Massachusetts]], and grew up in [[Burlington, Massachusetts]],&lt;ref name="newsday"&gt;{{cite web |url=http://www.newsday.com/entertainment/music/ny-etent2812804889may26,0,6077734.story |title=Comedian Steven Wright plays Westbury Sunday |author=[[Frank Lovece]] |work=Newsday |deadurl=yes |date=May 28, 2009 |archiveurl=https://web.archive.org/web/20090531055218/http://www.newsday.com/entertainment/music/ny-etent2812804889may26,0,6077734.story |archivedate=May 31, 2009 |accessdate=March 22, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+| title = a famous former Burlington resident
+| date = March 3, 2010
+| author = Gail Waterhouse
+| work = [[The Boston Globe]]
+}}&lt;/ref&gt; one of four children of Lucille "Dolly" (née Lomano) and Alexander K. Wright.&lt;ref name="newsday" /&gt;&lt;ref&gt;{{cite web|url=http://www.sullivanfuneralhome.net/bio.aspx?id=301 |title=Obituary |publisher=Sullivanfuneralhome.net |date=January 9, 2008 |accessdate=June 12, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=|first=|title=Cover Story; The (sur)real Steven Wright; He laughs easily, works hard for material|pages=|work=[[The Atlanta Journal-Constitution]] |date=August 1, 1987|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=AT&amp;p_theme=at&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB7C2D383BE2F59&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM|accessdate=February 22, 2010}}&lt;/ref&gt; He was raised as a Roman [[Catholic]].&lt;ref&gt;{{cite web |url=http://www.stevenwright.com/latest/seattletimes20020517.html |title=Latest |publisher=Steven Wright |date=May 17, 2002 |accessdate=June 12, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120418065330/http://www.stevenwright.com/latest/seattletimes20020517.html |archivedate=April 18, 2012 |df=mdy-all }}&lt;/ref&gt; His mother was Italian American and his father was of Scottish descent.&lt;ref name=ref09&gt;{{cite news|last=Dana|first=Rebecca|title=Steven Wright on Letterman, Rembrandt and Being Short|pages=|publisher=Speakeasy|date=June 5, 2009|url=https://blogs.wsj.com/speakeasy/2009/06/05/steven-wright-on-letterman-rembrandt-and-being-short/tab/article/|accessdate=February 22, 2010}}&lt;/ref&gt; Wright's father worked as an electronics technician who "tested a lot of stuff" for NASA during the [[Apollo space program|Apollo]] spacecraft program. When that program ended, he worked as a truck driver.&lt;ref name="newsday" /&gt;
+
+Wright attended [[Middlesex Community College (Massachusetts)|Middlesex Community College]] in [[Bedford, Massachusetts]] for two years to earn his [[associate's degree]], then continued his education at [[Emerson College]].&lt;ref name=bostonglobe&gt;Crane, Joyce Pellino. "Laugh Track: For more than five decades, Emerson College has been putting comics on the road to success," ''[[The Boston Globe]],'' October 7, 2007&lt;/ref&gt; He graduated from Emerson in 1978&lt;ref name=bostonglobe /&gt; and began performing stand-up comedy the following year&lt;ref name="newsday" /&gt;&lt;ref&gt;[http://www.pittsburghcitypaper.ws/gyrobase/Content?oid=oid%3A36910 Young, Chris. "Behind a new album, comedian Steven Wright plays Pittsburgh for the first time in five years"], ''[[Pittsburgh City Paper]]'', October 11, 2007&lt;/ref&gt; at the Comedy Connection in Boston.&lt;ref name="newsday" /&gt;&lt;ref name="bostonglobe" /&gt; Wright cites comic [[George Carlin]] and director [[Woody Allen]] as comedic influences.&lt;ref name="nyt1"&gt;Keepnews, Peter. "A Strange Career Takes an Odd Turn," ''[[The New York Times]],'' February 10, 2008, Section AR; Column 0; Arts and Leisure Desk; Television; Pg. 11&lt;/ref&gt;
+
+In 1982 executive producer of ''[[The Tonight Show]]'' [[Peter Lassally]] saw Wright performing on a bill with other local comics at the Ding Ho comedy club,&lt;ref&gt;{{cite web|url=https://www.sevenstories.com/blogs/87-in-memory-of-barry-crimmins|title=In Memory of Barry Crimmins|author=|date=|website=sevenstories.com|accessdate=12 July 2018}}&lt;/ref&gt;&lt;ref name=punch&gt;[http://punchlinemagazine.com/site/2008/12/steven-wright-inducted-into-hall-a-citys-comedy-history-celebrated/ Turbovsky, Rob. "Steven Wright inducted into Hall, a city’s comedy history celebrated"] {{webarchive|url=https://web.archive.org/web/20090428120350/http://punchlinemagazine.com/site/2008/12/steven-wright-inducted-into-hall-a-citys-comedy-history-celebrated/ |date=April 28, 2009 }}, ''[[Punchline Magazine]],'' December 22, 2008&lt;/ref&gt; at 11 Springfield Street,&lt;ref&gt;{{cite web|url=https://www.theatermania.com/shows/boston-theater/the-ding-ho-reunion-25-years-of-the-best-of-boston-comedy_107732|title=The Ding Ho Reunion - 25 Years of the Best of Boston Comedy|author=|date=|website=TheaterMania|accessdate=12 July 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://cambridgehistory.org/performance-spaces/map.html|title=Performance Spaces in Cambridge|author=|date=|website=cambridgehistory.org|accessdate=12 July 2018}}&lt;/ref&gt; in Cambridge's [[Inman Square]],&lt;ref name=loaded&gt;[http://www.loadedgunboston.com/2008/04/steven-wright-headlines-ding-ho-reunion.html Baltrusis, Sam. "Steven Wright headlines Ding Ho reunion benefit"] {{webarchive|url=https://web.archive.org/web/20090919090420/http://www.loadedgunboston.com/2008/04/steven-wright-headlines-ding-ho-reunion.html |date=September 19, 2009 }}, LoadedGunBoston.com, April 8, 2008&lt;/ref&gt; a venue Wright described as "half Chinese restaurant and half comedy club.&lt;ref&gt;https://web.archive.org/web/20061029095705/http://www.dead-frog.com/archives/2006/10/interview_steven_wright_standup_comedian.php&lt;/ref&gt; It was a pretty weird place."&lt;ref name=newsday /&gt; Lassally booked Wright on NBC's ''The Tonight Show,'' where the comic so impressed host [[Johnny Carson]] and the studio audience that less than a week later Wright was invited to appear on the show again.&lt;ref name=nyt1 /&gt; In May 2000, Wright and other Ding Ho alumni including [[Lenny Clarke]], Barry Crimmins, [[Steve Sweeney]], Bill Sohonage and [[Jimmy Tingle]] appeared at a reunion benefit for comic [[Bob Lazarus]] who was suffering from [[leukemia]].&lt;ref name=loaded /&gt;
+
+== Stand-up success ==
+Wright's 1985 comedy album was entitled ''[[I Have a Pony]]''. It was released on [[Warner Bros. Records]], received critical acclaim and was nominated for the [[Grammy Award for Best Comedy Album]]. The success of this album landed him an HBO special which he recorded as a live college concert performance, ''A Steven Wright Special.'' By then Wright had firmly developed a new brand of obscure, laid-back performing and was rapidly building a cult-like following of hip, savvy fans and an onstage persona characterized by an aura of obscurity, with his penchant for non-sequiturs and subdued, slowly-paced delivery style only adding to his mystique. His opening act for the HBO concert was fellow "Ding Ho" comedy alumnus [[Bill Sohonage]], who claimed that Steven's ultra-casual, nearly catatonic demeanor was no act. "He walked into my dressing room, minutes before I was to take the stage, and asked if he could borrow a shirt, as his had a giant pizza stain. You would think it might be normal to be a little nervous going on a college stage in front of 23,000, let alone having HBO out there filming, but as I passed by his room while walking on-stage I saw him sound asleep and loudly snoring." The performance would become one of HBO's longest running and most requested comedy specials, and would propel him to great success on the college-arena concert circuit.
+
+In 1989 he and fellow producer [[Dean Parisot]] won an [[Academy Awards|Academy Award]] for their 30-minute short film "[[The Appointments of Dennis Jennings]]," directed by Parisot, written by Mike Armstrong and Wright, and starring Wright and [[Rowan Atkinson]]. Upon accepting the Oscar, Wright said, "We're really glad that we cut out the other sixty minutes." In 1992 Wright had a recurring role on the television sitcom ''[[Mad About You]].'' He also supplied the voice of the radio DJ in writer-director [[Quentin Tarantino]]'s film ''[[Reservoir Dogs]]'' that same year. "Dean Parisot's wife [[Sally Menke]] is Quentin Tarantino's [[film editor|[film] editor]], so when she was editing the movie and it was getting down toward the end where they didn't have the radio DJ yet, she thought of me and told Quentin and he liked the idea," Wright explained in 2009.&lt;ref name=newsday /&gt;
+
+Numerous lists of jokes attributed to Wright circulate on the Internet, sometimes of dubious origin. Wright has stated, "Someone showed me a site, and half of it that said I wrote it, I didn't write. Recently, I saw one, and I didn't write any of it. What's disturbing is that with a few of these jokes, I wish I had thought of them. A giant amount of them, I'm embarrassed that people think I thought of them, because some are really bad."&lt;ref&gt;Tasha Robinson, [http://www.avclub.com/article/steven-wright-13796 "Interview: Steven Wright,"] ''[[The A.V. Club]]'', January 29, 2003.&lt;/ref&gt;
+
+After his 1990 comedy special ''Wicker Chairs and Gravity,'' Wright continued to do stand-up performances, but he was largely absent from television, doing only occasional guest spots on late-night talk shows. In 1999 he wrote and directed the 30-minute short ''[[One Soldier]]'' saying it's "about a soldier who was in the [[US Civil War|Civil War]], right after the war, with all these [[existentialist]] thoughts and wondering if there is a God and all that stuff."&lt;ref name=newsday /&gt;
+
+In 2006 Wright produced his first stand-up special in 16 years, ''Steven Wright: [[When the Leaves Blow Away]],'' originally aired on [[Comedy Central]] on October 21, 2006. Its DVD was released April 23, 2007.{{Citation needed|date=May 2009}} On September 25, 2007 Wright released his second album, ''[[I Still Have a Pony]]'', a CD release of the material from ''When The Leaves Blow Away.'' It was nominated for the [[Grammy Award for Best Comedy Album]], but lost to ''[[The Distant Future]]'' by [[Flight of the Conchords]].
+
+== Awards and honors ==
+Steven Wright was awarded an Oscar in 1989 for Best Short Live-Action Film for ''[[The Appointments of Dennis Jennings]]'', which he co-wrote (with Michael Armstrong) and starred in.&lt;ref&gt;Nathan Rabin, [http://www.avclub.com/article/steven-wright-14029 "Interview: Steven Wright,"] ''The A.V. Club'', November 9, 2006.&lt;/ref&gt; He received two [[Emmy]] nominations as part of the producing team of ''[[Louie (U.S. TV series)|Louie]]'', first in [[66th Primetime Emmy Awards|2014]] and again in [[67th Primetime Emmy Awards|2015]].&lt;ref&gt;{{cite web|url=http://www.emmys.com/bios/steven-wright|title=Steven Wright – Television Academy|publisher=}}&lt;/ref&gt;
+
+On December 15, 2008, Wright became the first inductee to the Boston Comedy Hall of Fame.&lt;ref name=punch /&gt;&lt;ref&gt;Miller, Jay, N. "The Wright stuff; Boston comedian is first inductee into hall of fame", ''[[The Patriot Ledger]]'' ([[Quincy, Massachusetts]]), December 15, 2008, Features; pg. 23&lt;/ref&gt;
+
+In a 2005 poll to find ''The Comedian's Comedian'', he was voted amongst the top 50 comedy acts by fellow comedians and comedy insiders. He was named No. 23 on [[Comedy Central]]'s list of the 100 greatest stand-up comics.&lt;ref&gt;[http://everything2.com/index.pl?node_id=1532323 Comedy Central's 100 Greatest Stand-Ups of all Time], Everything2.com&lt;/ref&gt;
+
+== Other interests ==
+While not well known for works outside of the comedy realm, Steven Wright is also a musician and has also recorded several non-comedy songs with his friend and occasional actor [[Mark Wuerthner]].&lt;ref&gt;{{cite web |url=http://www.stevenwright.com/music_paint/music.html |title=Music |publisher=Steven Wright |date= |accessdate=June 12, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120703024047/http://www.stevenwright.com/music_paint/music.html |archivedate=July 3, 2012 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{IMDb name|2990002|Mark Wuerthner}}&lt;/ref&gt; Wright also has an interest in painting.&lt;ref&gt;{{cite web |url=http://www.stevenwright.com/music_paint/index.html |title=Music &amp; Paintings |publisher=Steven Wright |date= |accessdate=June 12, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120618002855/http://www.stevenwright.com/music_paint/index.html |archivedate=June 18, 2012 |df=mdy-all }}&lt;/ref&gt;
+
+Beginning in 2008, Steven Wright occasionally appeared on ''[[The Late Late Show with Craig Ferguson]]'' as a visiting celebrity, dropping by the show to help with the fan-mail segment. He joined a small cadre of Hollywood comedy celebrities who supported the show.&lt;ref&gt;{{cite web |url=http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=43020005 |title=Steven on the Late Late Show |publisher=Vids.myspace.com |date= |accessdate=June 12, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20100805022519/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=43020005 |archivedate=August 5, 2010 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://video.tvguide.com/The+Late+Late+Show/The+Late+Late+Show++Steven+Wright+Drops+By/1772664 |title=The Late Late Show – Steven Wright Drops By |publisher=Web.archive.org |date=July 23, 2011 |accessdate=June 12, 2012 |deadurl=unfit |archiveurl=https://web.archive.org/web/20110723044856/http://video.tvguide.com/The+Late+Late+Show/The+Late+Late+Show++Steven+Wright+Drops+By/1772664 |archivedate=July 23, 2011 }}&lt;/ref&gt;
+
+== Filmography ==
+===Film===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+|1979
+|''The Last Word ''
+|Man in Crowd
+|
+|-
+|1985
+|''[[Desperately Seeking Susan]]''
+|Larry Stillman D.D.S.
+|
+|-
+|1986
+|''Coffee and Cigarettes''
+|Steven
+|Short film; also writer
+|-
+|rowspan=2|1988
+|''[[The Appointments of Dennis Jennings]]''
+|Dennis Jennings
+|Also writer and producer&lt;br /&gt;[[Academy Award for Best Live Action Short Film]]
+|-
+|''[[Stars and Bars (1988 film)|Stars and Bars]]''
+|Pruitt
+|
+|-
+|1990
+|''[[Men of Respect]]''
+|Sterling
+|
+|-
+|-
+|1992
+|''[[Reservoir Dogs]]''
+|K-Billy DJ (voice)
+|
+|-
+|1993
+|''[[So I Married an Axe Murderer]]''
+|Pilot
+|
+|-
+|rowspan=4|1994
+|''[[The Swan Princess]]''
+|Speed (voice)
+|
+|-
+|''[[Natural Born Killers]]''
+|Dr. Emil Reingold
+|
+|-
+|''[[Speechless (1994 film)|Speechless]]''
+|Eddie
+|
+|-
+|''[[Mixed Nuts]]''
+|Man at Pay Phone
+|
+|-
+|rowspan=2|1995
+|''[[For Better or Worse (film)|For Better or Worse]]''
+|Cabbie
+|
+|-
+|''[[Canadian Bacon]]''
+|Niagara [[Royal Canadian Mounted Police|Mountie]]
+|
+|-
+|rowspan=3|1998
+|''[[Half Baked]]''
+|The Guy on the Couch
+|Uncredited
+|-
+|''[[Babe: Pig in the City]]''
+|Bob (voice)
+|
+|-
+|''1999''
+|Goatman
+|
+|-
+|rowspan=2|1999
+|''[[One Soldier]]''
+|Soldier
+|Short; director, writer, producer
+|-
+|''[[The Muse (1999 film)|The Muse]]''
+|Stan Spielberg
+|
+|-
+|2000
+|''[[Loser (film)|Loser]]''
+|Panty Hose Customer
+|
+|-
+|2003
+|''[[Coffee and Cigarettes]]''
+|Steven
+|Segment: "Strange to Meet You"
+|-
+|rowspan=3|2005
+|''[[Son of the Mask]]''
+|Daniel Moss
+|
+|-
+|''[[The Aristocrats (film)|The Aristocrats]]''
+|Himself
+|
+|-
+|''[[When Stand Up Stood Out]]''
+|Himself
+|
+|-
+|2017
+|''[[The Emoji Movie]]''&lt;ref&gt;{{cite web|last1=Goldberg|first1=Matt|title=‘The Emoji Movie’ Trailer Literally Gets Promoted by "Meh"|url=http://collider.com/the-emoji-movie-trailer/#images|publisher=Collider|accessdate=December 20, 2016|date=December 20, 2016}}&lt;/ref&gt;
+|Mel (voice)
+|
+|-
+|}
+
+===Television===
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1979
+|''[[WKRP in Cincinnati]]''
+|Security Officer
+|Episode: "Fish Story"
+|-
+| 1985
+|''A Steven Wright Special''
+|Himself
+|Stand-up special; also writer
+|-
+|1987
+|''Trying Times''
+|Dwight Harper
+|Episode: "Get a Job"
+|-
+|1991
+|''Wicker Chairs and Gravity''
+|Himself
+|[[HBO]] stand-up special;&lt;ref&gt;{{cite web |url=http://www.stevenwright.com/history/index.shtml |title=The History |publisher=Steven Wright |date= |accessdate=June 12, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120628221550/http://stevenwright.com/history/index.shtml |archivedate=June 28, 2012 |df=mdy-all }}&lt;/ref&gt;&lt;br /&gt; also writer and producer
+|-
+| 1992
+|''[[Bob (TV series)|Bob]]''
+|Noah the Cab Driver
+|Episode: "Mad Dog on 34th Street"
+|-
+| 1993
+|''[[Mad About You]]''
+|Warren Mermelman
+|5 episodes
+|-
+|1993–98
+|''[[The Larry Sanders Show]]''
+|Himself
+| 3 episodes
+|-
+|1995–97
+|''[[Dr. Katz, Professional Therapist]]''
+|Steven (voice)
+| 2 episodes
+|-
+|rowspan=2|1997
+|''[[Happily Ever After: Fairy Tales for Every Child]]''
+|Bogeyman (voice)
+|Episode: "Mother Goose"
+|-
+|''[[Almost Perfect]]''
+|Ray Whitestone
+|Episode: "Dating for Ratings"
+|-
+| 1998
+|''[[The Simpsons]]''
+|Himself (voice)
+|Episode: "[[The Last Temptation of Krust]]"
+|-
+|1998–99
+|''[[Hercules]]''
+|Bootes (voice)
+|2 episodes
+|-
+|rowspan=2|1999
+|''[[Becker (TV series)|Becker]]''
+|Boyd Crossman
+|Episode: "Larry Spoke"
+|-
+|''[[Space Ghost Coast to Coast]]''
+|Himself (voice)
+|Episode: "Snatch"
+|-
+|rowspan=2|2001
+|''[[The Downer Channel]]''
+|Walter
+|Episode: "#1.2"
+|-
+|''[[Codename: Kids Next Door]]''
+|Disease Hotline (voice)
+|Pilot episode
+|-
+|2006
+|''[[When the Leaves Blow Away]]''
+|Himself
+|[[Comedy Central]] stand-up special;&lt;br /&gt; also writer and executive producer
+|-
+|2011
+|''[[Aqua Teen Hunger Force]]''
+|Danny (voice)
+|Episode: "[[Allen (Aqua Unit Patrol Squad 1)|Allen Part One]]"
+|-
+|2011–15
+|''[[Louie (U.S. TV series)|Louie]]''
+|Comic Strip MC / Himself
+|Actor: 2 episodes, story by: "The Road: Part 2",&lt;br /&gt; producer: 8 episodes
+|-
+|2015
+|''The Flaming C''&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=vqttFWSPtMY |title=(I'm From) Western Mass |publisher=Dr. Westchesterson |date=|accessdate=October 22, 2012}}&lt;/ref&gt;
+|R.A.N.D.Y. (voice)
+| 2 episodes
+|-
+|2016
+|''[[Horace and Pete]]''&lt;ref name=Gothamist-HoracePeteSurprise-2016&gt;{{cite news|last1=Yakas|first1=Ben|title=Louis C.K. Releases Surprise New Dramatic Web Series Horace &amp; Pete|url=http://gothamist.com/2016/01/30/louis_ck_releases_surprise_new_web.php|accessdate=30 January 2016|work=[[Gothamist]]|date=30 January 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160131093700/http://gothamist.com/2016/01/30/louis_ck_releases_surprise_new_web.php|archivedate=January 31, 2016|df=mdy-all}}&lt;/ref&gt;
+|Leon
+|Web series
+|-
+|}
+
+== Discography ==
+* ''[[I Have a Pony]]'', Warner Bros. Records CD (1985)
+* ''A Steven Wright Special'', HBO DVD (1985)
+* ''[[The Appointments of Dennis Jennings]]'', DVD (1989)
+* ''[[One Soldier]]'', DVD (1999)
+* ''[[When the Leaves Blow Away]]'', DVD (2006)
+* ''[[I Still Have a Pony]]'', Comedy Central Records CD (2007)
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{Wikiquote}}
+* {{Official website|https://web.archive.org/web/20050206210721/http://www.stevenwright.com:80/index.shtml|stevenwright.com}} at [[archive.org]]
+* {{IMDb name|0942833}}
+* [http://www.wright-house.com/steven-wright/steven-wright-jokes.html Wright-House.com: Jokes attributed to Steven Wright, with actual authors identified]
+* [https://www.dead-frog.com/blog/entry/a-preview-of-steven-wright-when-the-leaves-blow-away video clip of Steven Wright from ''When the Leaves Blow Away''] and [https://www.dead-frog.com/archives/2006/10/interview_steven_wright_standup_comedian.php interview] - Dead-Frog.com
+* [https://web.archive.org/web/20081205072407/http://blogs.riverfronttimes.com/stlog/2008/10/wright_stuff_comic_steven_wrig.php Interview: Steven Wright] [[Riverfront Times]]. October 2008.
+{{AcademyAwardBestShort 1981–2000}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wright, Steven}}
+[[Category:1955 births]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American humorists]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American people of Italian descent]]
+[[Category:American people of Scottish descent]]
+[[Category:American stand-up comedians]]
+[[Category:Comedians from Massachusetts]]
+[[Category:Directors of Live Action Short Film Academy Award winners]]
+[[Category:Emerson College alumni]]
+[[Category:Living people]]
+[[Category:Male actors from Cambridge, Massachusetts]]
+[[Category:Male actors of Italian descent]]
+[[Category:Middlesex Community College (Massachusetts) alumni]]
+[[Category:People from Burlington, Massachusetts]]
+[[Category:Warner Bros. Records artists]]</text>
+      <sha1>9yje63kp34vpcn95tgy137ey8udgcgb</sha1>
+    </revision>
+  </page>
+</mediawiki>

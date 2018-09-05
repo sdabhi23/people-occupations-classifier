@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Arthur Simeon</title>
+    <ns>0</ns>
+    <id>10875398</id>
+    <revision>
+      <id>853643640</id>
+      <parentid>842618095</parentid>
+      <timestamp>2018-08-06T03:13:59Z</timestamp>
+      <contributor>
+        <username>Alaney2k</username>
+        <id>209266</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */reduce overlinking using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1844">{{BLP sources|date=May 2010}}
+
+'''Arthur Simeon''' is a [[Stand-up comedy|stand-up comedian]] based in [[Toronto|Toronto, Ontario]], Canada. He was born in [[Kampala]], [[Uganda]] on November 14, 1984. He attended the prestigious Namilyango College between 1996-2001. He moved to Canada as a teenager where he first tried his hand at stand-up comedy. In June 2007, he headlined the Nubian Disciples of Pryor comedy showcase at [[Yuk Yuk's]] in Toronto. In 2009, he made his debut appearance at ''[[Just for Laughs]]'' as part of the Homegrown Comedy Competition. In February 2010, he was featured as the cover story of ''[[Now (newspaper)|NOW]]'' in Toronto. He has appeared at the [[Halifax Comedy Festival]] for [[CBC Television]], as well as the Winnipeg and Cottage Country Comedy festivals. He is a fan favorite on the [[CBC Radio]] hit show ''[[The Debaters]]'' and in the summer of 2011, he was invited back to ''Just for Laughs'' to appear on the [[HBO Canada]] TV show ''Funny as Hell''. Arthur Simeon's debut comedy album ''Born and Raised'' was released in 2014 to rave reviews.
+
+==References==
+*[http://www.ugpulse.com/articles/daily/Arts.asp?id=779 Ugandan Comedians: Meet Arthur Simeon Omaset - The Bishop]
+*[http://www.nowtoronto.com/stage/story.cfm?content=173529 NOW Magazine]
+*[http://m.theglobeandmail.com/news/arts/four-comics-walk-into-a-breakfast-bar/article1778081/?service=mobile Four Comics Walk Into A Breakfast Bar]
+
+==External links==
+*{{Twitter}}
+*{{facebook|299925820252}}
+*{{IMDb name|5371007}}
+
+{{DEFAULTSORT:Simeon, Arthur}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:People from Kampala]]
+[[Category:People from Toronto]]
+[[Category:Ugandan emigrants to Canada]]
+[[Category:Ugandan stand-up comedians]]
+[[Category:Canadian stand-up comedians]]
+
+
+{{Uganda-bio-stub}}
+{{Canada-comedian-stub}}</text>
+      <sha1>tnx10t9d4pffcidfmbhbkyiqeunazsb</sha1>
+    </revision>
+  </page>
+</mediawiki>

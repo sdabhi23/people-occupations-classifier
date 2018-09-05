@@ -1,0 +1,717 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Miranda Hart</title>
+    <ns>0</ns>
+    <id>4638951</id>
+    <revision>
+      <id>855932339</id>
+      <parentid>855932263</parentid>
+      <timestamp>2018-08-21T19:58:28Z</timestamp>
+      <contributor>
+        <username>Gilliam</username>
+        <id>506179</id>
+      </contributor>
+      <comment>Reverted to revision 854367936 by [[Special:Contributions/Bbb23|Bbb23]] ([[User talk:Bbb23|talk]]): Rvv. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48010">{{Use dmy dates |date=September 2015}}
+{{use British English |date=June 2015}}
+{{Infobox person
+| image         = File:Miranda Hart in 2011.jpg
+| caption       = Hart in 2011
+| name          = Miranda Hart
+| birthname     = Miranda Katherine Hart Dyke
+| birth_date    = {{Birth date and age|1972|12|14|df=y}}
+| birth_place   = [[Torquay]], [[Devon]], England
+| occupation    = Comedian, &lt;!-- !!!DON'T CHANGE TO COMEDIENNE OR ACTRESS - see [[Talk:Miranda_Hart#Comedian.2Fcomedienne]]--&gt;writer, actress
+| website       = {{url|http://mirandahart.com}}
+| spouse        =
+| parents       = [[David Hart Dyke]]
+| relatives     = {{unbulleted list|[[Tom Hart Dyke]] &lt;small&gt;(paternal first cousin)&lt;/small&gt;|[[Richard Luce, Baron Luce]] &lt;small&gt;(maternal uncle)&lt;/small&gt;&lt;ref&gt;{{cite book |last=Mosley |first=Charles |title=Burke's Peerage, Baronetage and Knightage, 107th Edition |year=2003 |publisher=Burke's Peerage Ltd |page=1945 |isbn= 0-9711966-2-1}}&lt;/ref&gt;|[[William Luce (governor)|Sir William Luce]] &lt;small&gt;(maternal grandfather)&lt;/small&gt;|[[Thomas Dyke (cricketer)|Thomas Dyke]] &lt;small&gt;(third great grand father)&lt;/small&gt;|[[Dyke baronets|Sir David Hart Dyke]] &lt;small&gt;(distant cousin)&lt;/small&gt;|[[Edward Luce]] &lt;small&gt;(maternal first cousin)&lt;/small&gt;|[[John Luce (Royal Navy officer)|John Luce]] &lt;small&gt;(great grand father)&lt;/small&gt;|[[Richard Luce (surgeon)|Sir Richard Harman Luce]] &lt;small&gt;(great grand uncle)&lt;/small&gt; |[[Trevylyan Napier|Sir Trevylyan Napier]] &lt;small&gt;(great grand father)&lt;/small&gt;|[[Sir Michael Culme-Seymour, 3rd Baronet|Sir Michael Culme-Seymour]] &lt;small&gt;(second great grandfather)&lt;/small&gt;|[[Diana, Princess of Wales]] &lt;small&gt;(fourth cousin, twice removed)&lt;/small&gt;|[[George Spencer, 2nd Earl Spencer]] &lt;small&gt;(ancestor)&lt;/small&gt;|[[Lavinia Spencer, Countess Spencer]] &lt;small&gt;(ancestor)&lt;/small&gt;}}
+| television    = {{unbulleted list
+|''[[Nighty Night]]'' {{small|(2005)}}
+|''[[Absolutely Fabulous]]'' {{small|(2005)}} 
+|''[[Hyperdrive (TV series)|Hyperdrive]]'' {{small|(2006–08)}}
+|''[[Not Going Out]]'' {{small|(2007–09)}}
+|''[[Monday Monday (TV series)|Monday Monday]]'' {{small|(2009)}}
+|''[[Miranda (TV series)|Miranda]]'' {{small|(2009–15)}}
+|''[[Call the Midwife]]'' {{small|(2012–2015)}}
+}}
+| education     = {{unbulleted list|[[Downe House School|Downe House]]|[[University of the West of England]]|[[Academy of Live and Recorded Arts]]}}
+| years_active  = 2000–present
+| module = {{Listen |embed= yes |filename= Miranda_Hart_BBC_Radio4_Desert_Island_Discs_22_Dec_2013_b03m3nhk.flac |title= Miranda Hart's voice |type= speech |description= from the BBC programme ''[[Desert Island Discs]]'', 22 December 2013.&lt;ref&gt;{{Cite episode |title=Miranda Hart |series=Desert Island Discs |serieslink=Desert Island Discs |url=http://www.bbc.co.uk/programmes/b03m3nhk |station=[[BBC Radio 4]] |date=22 December 2013 |accessdate=18 January 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20131225050003/http://www.bbc.co.uk/programmes/b03m3nhk |archivedate=25 December 2013 |df=dmy-all }}&lt;/ref&gt;}}
+| height          = {{height|ft=6|in=1}}&lt;ref name="dailymail"&gt;{{cite news |url=http://www.dailymail.co.uk/tvshowbiz/article-3102612/I-reach-high-shelf-s-plus-Miranda-Hart-learned-love-height-struggling-fit-teen.html |title=Miranda Hart on how she learned to love her height after struggling to fit |newspaper=[[Daily Mail]] |publisher=[[DMG Media]] |last1=Ojomu |first1=Nola |last2=Malm |first2=Sara |accessdate=11 June 2015 |deadurl=no |archiveurl=https://web.archive.org/web/20150601100216/http://www.dailymail.co.uk/tvshowbiz/article-3102612/I-reach-high-shelf-s-plus-Miranda-Hart-learned-love-height-struggling-fit-teen.html |archivedate=1 June 2015 |df=dmy-all }}&lt;/ref&gt;
+}}
+
+'''Miranda Katherine Hart Dyke'''&lt;ref&gt;{{cite web  |url=http://www.burkespeerage.com/Search/FamilyHomepageFull.aspx?FID=6267  |title=Miranda Hart |website=burkespeerage.com  |accessdate=18 May 2012  |subscription=yes}}&lt;/ref&gt; (born 14 December 1972), known professionally as '''Miranda Hart''', is an English actress, model, and&lt;!-- !!!DON'T CHANGE TO COMEDIENNE - see [[Talk:Miranda_Hart#Comedian.2Fcomedienne]]--&gt; comedian. Following drama training at the [[Academy of Live and Recorded Arts]], Hart began writing material for the [[Edinburgh Fringe Festival]] and making appearances in various British sitcoms including ''[[Hyperdrive (TV series)|Hyperdrive]]'' and ''[[Not Going Out]]''.
+
+Hart reached a wider audience with her self-driven semi-autobiographical BBC [[sitcom]] ''[[Miranda (TV series)|Miranda]]'', which is based on her earlier [[BBC Radio 2]] radio series ''Miranda Hart's Joke Shop'' (2008). The television sitcom ran for three series and several Christmas specials from 2009 to 2015 and earned its star 3 [[Royal Television Society]] awards, 4 [[British Comedy Awards]] and 4 [[BAFTA]] nominations. In 2012, she began appearing in the BBC drama ''[[Call the Midwife]]'' as Camilla "Chummy" Fortescue-Cholmondeley-Browne. She made her Hollywood debut in [[Paul Feig]]'s film ''[[Spy (2015 film)|Spy]]'' (2015) as [[Melissa McCarthy]]'s sidekick Nancy B. Artingstall.
+
+Hart has also written four books: ''Is It Just Me?'' (2012), a semi-autobiographical book; ''The Best of Miranda'' (2014), a compilation of scripts from the TV series; ''Peggy and Me'' (2016), a description of her life since owning her titular dog; and ''Miranda Hart's Daily Dose of Such Fun!'' (2017), in partnership with [[Comic Relief]]. She embarked on her first stand-up tour, ''My, What I Call, Live Show'', which toured arenas in the UK and Ireland in 2014 and was later released on DVD. In 2017, Hart presented the [[Royal Variety Performance]] in the presence of the [[Duke of Cambridge]] and the [[Duchess of Cambridge]] making her the first solo female presenter in 105 years.
+
+==Early life==
+
+===Family===
+Miranda was born on 14 December 1972 in [[Torquay]], [[Devon]], the daughter of Captain [[David Hart Dyke]] and Diana Margaret Luce.&lt;ref name=peer1&gt;{{cite web |title=Miranda Katharine Hart Dyke |url=http://www.thepeerage.com/p33052.htm#i330519 |work=The Peerage |deadurl=no |archiveurl=https://web.archive.org/web/20150704163623/http://www.thepeerage.com/p33052.htm#i330519 |archivedate=4 July 2015 |df=dmy-all }}&lt;/ref&gt; Her father was [[commanding officer]] of {{HMS|Coventry|D118|6}} when it was sunk by the Argentinians in the [[Falklands War|1982 Falklands conflict]], and he was badly burned in trying to escape the stricken warship. She has a younger sister, Alice Louisa Hart Dyke (born 1975).
+
+Hart descends from [[baron]]s, [[marquess]]es, [[earl]]s, and [[duke]]s,&lt;ref name=peer1/&gt; but she hates saying she is from an aristocratic background and does not consider herself upper class.&lt;ref name="dailyexp"/&gt; Hart added that her [[family tree|genealogy]] can be traced back to the 12th century and that her aunt and uncle (Sarah and Guy Hart Dyke) live in a castle that they cannot afford to run.&lt;ref name="thesphinx"&gt;{{Cite web |url=https://www.thesphinx.co.uk/2011/07/10-things-you-didn%E2%80%99t-know-about%E2%80%A6-miranda-hart-such-fun/ |title=10 things you didn’t know about… Miranda Hart. Such Fun! |website=The Sphinx |date=11 July 2011 |access-date=9 January 2017 |archiveurl=https://web.archive.org/web/20170212164444/https://www.thesphinx.co.uk/2011/07/10-things-you-didn%E2%80%99t-know-about%E2%80%A6-miranda-hart-such-fun/ |archivedate=12 February 2017}}&lt;/ref&gt;
+
+Her paternal family can be traced through her grandfather, Eric Hart Dyke. Her paternal great-great-great-grandfather was cricketer and Rector [[Thomas Dyke (cricketer)|Thomas Dyke]]. Hart's patrilineal great-great-great-great-grandfather was Sir Percival Hart Dyke, 5th Baronet (1767–1846). Her distant cousin, the 10th and present [[baronet]], [[Dyke baronets|Sir David Hart Dyke]],&lt;ref&gt;{{cite news |title=Hart Dyke, David Ontario, Hamilton East – Stoney Creek, Green Party of Canada |url=http://v1.theglobeandmail.com/elections/fed2008/candidates/generated/35032_GRN.html |accessdate=28 May 2016 |agency=Federal Election 2008 |work=Globe and Mail |deadurl=no |archiveurl=https://web.archive.org/web/20160811212633/http://v1.theglobeandmail.com/elections/fed2008/candidates/generated/35032_GRN.html |archivedate=11 August 2016 |df=dmy-all }}&lt;/ref&gt; lives in Canada. One of her first cousins is plant hunter [[Tom Hart Dyke]], creator of the World of Gardens at [[Lullingstone Castle]].&lt;ref name="thesphinx" /&gt;&lt;ref name="express388020"&gt;{{Cite news |url=http://www.express.co.uk/celebrity-news/388020/Gosh-It-looks-like-Miranda-really-is-frightfully-posh |title=Gosh! It looks like Miranda really is frightfully posh |last=Reynolds |first=Mark |date=30 March 2013 |newspaper=[[The Daily Express]] |access-date=2017-01-09}}&lt;/ref&gt;
+
+Her maternal grandfather was [[William Luce (governor)|Sir William Luce]] (1907–1977), who was Commander-in-Chief and [[Colony of Aden#Governors of Aden colony|Governor of Aden]] (1956–60).&lt;ref name="dailyexp"&gt;{{cite news |title=Tragedy and despair behind Miranda Hart's rise to the top |url=http://www.express.co.uk/posts/view/302418/Tragedy-and-despair-behind-Miranda-Hart-s-rise-to-the-top |newspaper=The Daily Express |date=16 February 2012}}&lt;/ref&gt; Her mother's only sibling is [[Richard Luce, Baron Luce|the Lord Luce]], a former [[Conservative Party (UK)|Conservative]] [[Member of Parliament|MP]] and [[Government minister|minister]], later [[Governor of Gibraltar|HM Governor and Commander in Chief of Gibraltar]] (1997–2000) and [[Lord Chamberlain|Lord Chamberlain of the Royal Household]] (2000–06). Richard's son, the journalist and author [[Edward Luce]], is one of Miranda Hart's first cousins.&lt;ref name="express388020" /&gt;
+
+Her great-uncle, the brother of her maternal grandfather, was Admiral [[David Luce|Sir David Luce]], who served as [[First Sea Lord]]. The father of David and William, Miranda Hart's great-grandfather, was Rear Admiral [[John Luce (Royal Navy officer)|John Luce]]. John's brother, her great-great-uncle, was Major General [[Richard Luce (surgeon)|Sir Richard Harman Luce]], who served as [[Member of Parliament]] for [[Derby (UK Parliament constituency)|Derby]] (1924–29).
+
+Her other maternal great-grandfather (through William's wife Margaret Napier) was Vice Admiral Sir [[Trevylyan Napier]], who was the [[North America and West Indies Station|Commander-in-Chief, America and West Indies Station]] (1919–20). His wife, Miranda's great-grandmother, was Mary Elizabeth Culme-Seymour, daughter of [[Sir Michael Culme-Seymour, 3rd Baronet]], [[Vice-Admiral of the United Kingdom]] (1901–20). Both the Culme-Seymours were implicated in the [[Edward Mylius|Mylius affair]].&lt;ref&gt;{{cite book |last1=Thomas |first1=Donald |title=Freedom's frontier: censorship in modern Britain |date=2007 |publisher=John Murray |page=400}}&lt;/ref&gt;&lt;ref&gt;{{cite book |last1=Ashdown-Hill |first1=John |title=Royal Marriage Secrets: Consorts &amp; Concubines, Bigamists &amp; Bastards |date=2013 |publisher=The History Press |page=224}}&lt;/ref&gt;
+
+Hart is a fourth cousin, twice removed, of [[Diana, Princess of Wales]]. Their common ancestors were [[George Spencer, 2nd Earl Spencer]] and his wife [[Lavinia Spencer, Countess Spencer]]. Through the 2nd Earl Spencer, both Miranda and Diana descend from [[Margaret Pole, Countess of Salisbury]]. If [[Lucy Walter|Lucy Walter's]] younger child Mary did have royal paternity as she maintained throughout her life, Hart is the ten-times-great-granddaughter of [[Charles II of England]].
+
+===Education and training===
+
+Hart grew up in [[Petersfield]], [[Hampshire]].&lt;ref name=GuardianUncool&gt;{{cite news |last=Cochrane |first=Kira |title=Miranda Hart – TV's queen of uncool |url=https://www.theguardian.com/tv-and-radio/2010/dec/01/miranda-hart-tv-queen-uncool |accessdate=23 December 2013 |newspaper=[[The Guardian]] |date=2 December 2010 |deadurl=no |archiveurl=https://web.archive.org/web/20131224121740/http://www.theguardian.com/tv-and-radio/2010/dec/01/miranda-hart-tv-queen-uncool |archivedate=24 December 2013 |df=dmy-all }}&lt;/ref&gt;  She was educated at [[Downe House School|Downe House]], near [[Thatcham]], [[Berkshire]],&lt;ref name=GuardianUncool/&gt; an independent girls' boarding school. She was a classmate and friend of the sports presenter [[Clare Balding]], who was head girl.&lt;ref&gt;{{cite news |title=Miranda Extra |work=BBC |date=15 November 2010}}&lt;/ref&gt; She attended the [[University of the West of England]] in [[Bristol]], graduating with a [[2:1]] degree in political science. She then completed a [[postgraduate]] course in Acting at the [[Academy of Live and Recorded Arts]].
+
+In 2002, she performed a solo show in [[Edinburgh]], and in 2004 she pitched a comedy show to the BBC. At her read-through for BBC executives, ''[[Absolutely Fabulous]]'' writer and star [[Jennifer Saunders]] was present.&lt;ref&gt;{{cite news |last=Maxwell |first=Dominic |title=Miranda Hart stands head and shoulders above the rest |url=http://www.thetimes.co.uk/tto/arts/tv-radio/article2448271.ece |accessdate=23 December 2013 |newspaper=[[The Times]] |date=2 November 2009 |subscription=y}}&lt;/ref&gt;
+
+==Career==
+
+===Television===
+Before her own series was commissioned, Hart made appearances in various British sitcoms. In ''[[Not Going Out]]'' she initially appeared as an acupuncturist. However, her performance impressed producers so much that they wrote a regular role for her as Barbara, a sarcastic and clumsy cleaner. She continued to play the part until the production of ''Miranda'' in 2009.&lt;ref&gt;{{cite web |url=http://www.comedy.co.uk/guide/tv/not_going_out/ |title=Miranda Hart to miss Not Going Out 4 |work=British Comedy Guide |date=12 March 2010 |deadurl=no |archiveurl=https://web.archive.org/web/20100302161427/http://www.comedy.co.uk/guide/tv/not_going_out/ |archivedate=2 March 2010 |df=dmy-all }}&lt;/ref&gt; Hart earned a British Comedy Award nomination for her role as Teal in two series of the [[BBC]] television comedy sci-fi sitcom ''[[Hyperdrive (TV series)|Hyperdrive]]'', which ran from January 2006 to August 2007.
+
+She also appeared in even smaller roles in ''[[French &amp; Saunders]]'', ''[[My Family and Other Animals (film)|My Family and Other Animals]]'', ''[[Nighty Night]]'', ''[[Absolutely Fabulous]]'' where she played a 'Japanese' woman called Yoko, ''[[The Vicar of Dibley]]'' as a speed-date programmer, ''[[Lead Balloon]]'', ''[[William and Mary (TV series)|William and Mary]]'', ''[[Smack the Pony]]'' (for which she wrote and performed in a couple of [[sketch comedy|sketches]] and a number of [[video diary|video diaries]]), ''[[Stupid!]]'', ''[[Monday Monday (TV series)|Monday Monday]]'' as Tall Karen, and as a minicab driver in the Channel 5 comedy ''[[Angelos]]'', which ran for 6 episodes.
+
+[[File:I want Candy London Movie Premiere 09.jpg|thumb|upright|left|Hart at the London premiere of ''[[I Want Candy (film)|I Want Candy]]'' in March 2007]]
+
+Hart is best known for her performance in her self-titled, self-penned and semi-autobiographical sitcom ''[[Miranda (TV series)|Miranda]]'', which started recording for [[BBC Two]] in 2008 and began airing on 9 November 2009.&lt;ref&gt;{{cite news |title=Miranda starts filming for new sitcom on BBC Two |url=http://www.bbc.co.uk/pressoffice/pressreleases/stories/2009/06_june/18/miranda.shtml |accessdate=23 December 2013 |newspaper=[[BBC|BBC Press Office]] |date=18 June 2009 |deadurl=no |archiveurl=https://web.archive.org/web/20090622192932/http://www.bbc.co.uk/pressoffice/pressreleases/stories/2009/06_june/18/miranda.shtml |archivedate=22 June 2009 |df=dmy-all }}&lt;/ref&gt; The situation comedy also features [[Sarah Hadland]], [[Tom Ellis (actor)|Tom Ellis]], [[Patricia Hodge]], [[James Holmes (actor)|James Holmes]], and [[Sally Phillips]]. The series is based on Hart's semi-autobiographical writing and followed a television pilot and the BBC Radio 2 comedy ''Miranda Hart's Joke Shop''.{{Citation needed|date=May 2013}} Described as an "old-fashioned" sitcom, it received positive comments from critics and Hart won the 2009 [[Royal Television Society]] award for comedy performance for her role in the first series.{{Citation needed|date=May 2013}} A second series was commissioned and filming started in mid-2010. The series began airing on BBC Two and BBC HD on 15 November 2010. A third series began broadcasting from 26 December 2012 on BBC One. Repeats of the show have begun airing on UKTV Gold. She also presented a BBC [[Parody|spoof]] programme looking back over 2009 called ''2009 Unwrapped with Miranda Hart''. A similar show looking back over 2010 was also broadcast in December 2010. In 2014, she announced that her sitcom ''[[Miranda (TV series)|Miranda]]'' would come to an end after two final episodes due to air in December 2014.
+
+She appeared as guest host of ''[[Have I Got News for You]]'' in October 2009, December 2010 and again in December 2011. On 27 December, she was a team member on ''Big Fat Quiz 2011'', a quiz about the events of that year presented by [[Jimmy Carr]], appearing alongside [[David Walliams]] (team blue). As a fan of the series, Hart has also appeared twice on ''Strictly Come Dancing: It Takes Two''. On [[Boxing Day]] 2011, she appeared in an episode of ''[[Bear Grylls|Bear Grylls' Wild Weekend]]''. She also scaled down one of the Alps with Bear Grylls in a show with him in March 2013. She has appeared on the ''[[Graham Norton Show]]'' 7 times, on 10 May and 3 December in 2010, 29 April 2011, 19 October 2012, 20 December 2013, 24 October 2014 and 8 May 2015.&lt;ref&gt;[[List of The Graham Norton Show episodes]]&lt;/ref&gt;{{Better source|reason=per WP:CIRCULAR |date=August 2015}} In January 2013, Hart appeared on ''[[Room 101]]'' along with Reggie Yates and John Craven.&lt;ref&gt;[[List of Room 101 episodes#Series 13]]&lt;/ref&gt;{{Better source|reason=per WP:CIRCULAR |date=August 2015}}
+
+In 2012, Hart began to appear in the BBC One drama, ''[[Call the Midwife]]'',&lt;ref&gt;{{cite web |url=http://www.digitalspy.co.uk/tv/news/a356460/no-new-miranda-until-late-2012.html |title=No new 'Miranda' until late 2012 |last=Mickel |first=Andrew |date=17 December 2011 |work=[[Digital Spy]] |publisher=[[Hearst Magazines UK]] |accessdate=17 December 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20120107193934/http://www.digitalspy.co.uk/tv/news/a356460/no-new-miranda-until-late-2012.html |archivedate=7 January 2012 |df=dmy-all }}&lt;/ref&gt; playing the character of "Camilla 'Chummy' Fortescue-Cholmondeley-Browne".
+
+As part of the 60-year Diamond Jubilee celebrations, Hart co-presented a number of segments at the Diamond Jubilee Concert in 2012. In 2013, Hart presented a one-off interview show with her hero [[Bruce Forsyth]] entitled ''When Miranda Met Bruce''.&lt;ref&gt;{{cite news |first=Vicky |last=Prior |url=http://metro.co.uk/2013/09/21/when-miranda-met-bruce-as-saturday-night-tv-ate-itself-they-should-have-got-shot-of-miranda-altogether-4061320/ |title=When Miranda met Bruce: As Saturday night TV ate itself, they should have got shot of Miranda Hart altogether and just shown Bruce Forsyth |newspaper=[[Metro (British newspaper)|Metro]] |date=21 September 2013 |accessdate=18 January 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140123223236/http://metro.co.uk/2013/09/21/when-miranda-met-bruce-as-saturday-night-tv-ate-itself-they-should-have-got-shot-of-miranda-altogether-4061320/ |archivedate=23 January 2014 |df=dmy-all }}&lt;/ref&gt;
+
+In December 2013, Hart appeared in [[David Walliams]]' film adaptation of his book ''[[Gangsta Granny (film)|Gangsta Granny]]''. She played Linda, Ben's mother.&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/mediacentre/latestnews/2013/gangsta-granny-casting.html |work=BBC Media Centre |title=All-star cast announced for David Walliams' Gangsta Granny on BBC One |publisher=BBC |date=24 October 2013 |accessdate=18 January 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140208210252/http://www.bbc.co.uk/mediacentre/latestnews/2013/gangsta-granny-casting.html |archivedate=8 February 2014 |df=dmy-all }}&lt;/ref&gt; Also in December 2013, she was lined up to star in ''[[To Love, Honour and Betray (Till Divorce Do Us Part)]]'', the TV version of Kathy Lette's novel.&lt;ref&gt;{{cite web |title=Miranda Hart lined up for new BBC comedy series |url=http://www.comedy.co.uk/news/story/000001327/miranda_hart_love_honour_and_betray |accessdate=23 December 2013 |website=British Comedy Guide |date=18 December 2013 |deadurl=no |archiveurl=https://web.archive.org/web/20131224075051/http://www.comedy.co.uk/news/story/000001327/miranda_hart_love_honour_and_betray |archivedate=24 December 2013 |df=dmy-all }}&lt;/ref&gt;
+
+In 2017, it was reported &lt;ref&gt;{{Cite news|url=http://www.radiotimes.com/news/2017-10-05/miranda-hart-sitcom-reunion/|title=Miranda Hart is "thinking about" bringing back her BBC sitcom|work=Radio Times|access-date=2017-10-28|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20171029012448/http://www.radiotimes.com/news/2017-10-05/miranda-hart-sitcom-reunion/|archivedate=29 October 2017|df=dmy-all}}&lt;/ref&gt; that her sitcom [[Miranda (TV series)|Miranda]] may return for a fourth series, and was said to be in the conception stage.
+
+===Film===
+Hart played a cameo in [[David Baddiel]]'s feature film ''The Infidel'' and appeared in ''World of Wrestling'', a short film by [[Tim Plester]], in which she played "Klondyke Kate", a wrestler billed as "hell in boots." The film was released in late 2007 alongside its companion shorts ''Blakes Junction 7'' and ''Ant Muzak''. Hart made a cameo appearance as a loan officer in the 2007 comedy film ''[[Magicians (2007 film)|Magicians]]'' which featured [[David Mitchell (comedian)|David Mitchell]] and [[Robert Webb]], both stars of the long running television series ''[[Peep Show (TV series)|Peep Show]]''. In 2013, ''[[12 in a Box]]'' was released, a feature film in which Hart plays a small role that was originally made in 2007.&lt;ref&gt;{{cite web |last=Kelly |first=Stephen |url=http://www.totalfilm.com/reviews/cinema/12-in-a-box |title=12 In A Box: A cynical cash-in on Miranda Hart's current comic success |date=18 March 2013 |website=[[TotalFilm.com]] |publisher=[[Future Publishing]] |location=Bath, Somerset, United Kingdom |accessdate=14 November 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20130515214819/http://www.totalfilm.com/reviews/cinema/12-in-a-box |archivedate=15 May 2013 |df=}}&lt;/ref&gt;
+
+In 2015, she co-starred in the comedy film ''[[Spy (2015 film)|Spy]]'', which was filmed on location in [[Budapest|Budapest, Hungary]].&lt;ref&gt;{{cite web |title=Paul Feig Taps Miranda Hart For Female Spy Comedy |url=http://www.deadline.com/2014/03/paul-feig-taps-miranda-hart-for-female-spy-comedy/ |first=Mike |last=Fleming |date=28 March 2014 |website=[[Deadline Hollywood]] |deadurl=no |archiveurl=https://web.archive.org/web/20140331192711/http://www.deadline.com/2014/03/paul-feig-taps-miranda-hart-for-female-spy-comedy/ |archivedate=31 March 2014 |df=dmy-all }}&lt;/ref&gt;
+
+===Radio===
+Her semi-autobiographical series ''Miranda Hart's Joke Shop'' was aired on [[BBC Radio 2]] in 2008 and went on from there to be developed into the television series ''Miranda''.{{Citation needed|date=May 2013}} Hart has also presented comedy specials for the network alongside [[Jon Holmes]].&lt;ref&gt;{{cite news |url=http://www.digitalspy.co.uk/media/news/a311498/miranda-hart-rejoins-bbc-radio-2.html |title=Miranda Hart rejoins BBC Radio 2 |website=Digital Spy |first=Andrew |last=Laughlin |date=28 March 2011 |accessdate=16 October 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20111011143954/http://www.digitalspy.co.uk/media/news/a311498/miranda-hart-rejoins-bbc-radio-2.html |archivedate=11 October 2011 |df=dmy-all }}&lt;/ref&gt; In October 2011 she attracted criticism after co-hosting ''[[The Chris Evans Breakfast Show]]'' with Holmes while [[Chris Evans (presenter)|Chris Evans]] was on holiday. The website ''[[Digital Spy]]'' reported that some listeners were unhappy with the quality of the programme. The BBC issued a statement in response saying, "Miranda Hart is one of the UK's best-loved comedians and BBC Radio 2 felt it appropriate to bring her warmth to its audience for a week. Jon Holmes is a highly experienced presenter from BBC Radio 6 Music [...] BBC Radio 2 appreciates if their presentation wasn't to everyone's liking, but feels it's important to be able to bring new talent to its output and hopes its audience understands the importance of maintaining a breadth of content on the network."&lt;ref&gt;{{cite web |url=http://www.digitalspy.co.uk/media/news/a344503/bbc-responds-to-miranda-hart-complaints.html |title=BBC responds to Miranda Hart complaint |website=Digital Spy |first=Colin |last=Daniels |date=8 October 2011 |accessdate=16 October 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20111010165818/http://www.digitalspy.co.uk/media/news/a344503/bbc-responds-to-miranda-hart-complaints.html |archivedate=10 October 2011 |df=dmy-all }}&lt;/ref&gt;
+
+===Live performances===
+Avoiding the normal stand-up circuit for more [[Fictional character|character]]-based comedy, including an appearance in the Edinburgh and touring show ''[[The Sitcom Trials]]'', Hart has written her own theatre material for the [[Edinburgh Fringe]]. Her one-woman shows include ''Miranda Hart – Throbs'', ''It's All About Me'' and ''Miranda Hart's House Party''. She also performed in [[Alecky Blythe]]'s 2006 play ''Cruising'' at the [[Bush Theatre]].
+
+She was among the performers at the [[Diamond Jubilee of Elizabeth II|Diamond Jubilee]] concert held outside Buckingham Palace on 4 June 2012.
+
+Hart embarked on her first tour in 2014, titled ''My, What I Call, Live Show'', performing in arenas in the UK and Ireland. Tickets went on sale on 17 December 2012.&lt;ref name=Mirandatourdates&gt;{{cite web |last=Hart |first=Miranda |title=Miranda Hart: My, What I Call, Live Show |url=http://mirandahart.com/?p=523 |work=Miranda Hart |publisher=WordPress |accessdate=13 December 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130324060818/http://mirandahart.com/?p=523 |archivedate=24 March 2013 |df=dmy-all }}&lt;/ref&gt;
+
+===Comic Relief===
+Hart was the second contestant to be voted off the third series of ''[[Comic Relief does Fame Academy]]'' in 2007.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/1/hi/entertainment/6429583.stm |title=Comic Hart booted out of Academy |website=BBC News |date=8 March 2007 |accessdate=22 June 2009 |deadurl=no |archiveurl=https://web.archive.org/web/20070329142337/http://news.bbc.co.uk/1/hi/entertainment/6429583.stm |archivedate=29 March 2007 |df=dmy-all }}&lt;/ref&gt; Two years later, she appeared in the final sketch from comedy duo ''[[French and Saunders]]'', which was broadcast during [[Red Nose Day 2009]]. In 2010, she and six other TV celebrities raised over [[pound sterling|£]]1 million for the charity [[Sport Relief]] cycling from [[John O'Groats]] to [[Land's End]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/news/newstopics/celebritynews/7371548/Celebrity-cycle-team-raises-1m-for-Sport-Relief.html |title=Celebrity cycle team raises £1m for Sport Relief |newspaper=[[The Daily Telegraph]] |date=4 March 2010 |deadurl=no |archiveurl=https://web.archive.org/web/20100307021520/http://www.telegraph.co.uk/news/newstopics/celebritynews/7371548/Celebrity-cycle-team-raises-1m-for-Sport-Relief.html |archivedate=7 March 2010 |df=dmy-all }}&lt;/ref&gt; She starred as a judge on both series two and three of ''Let's Dance for Comic Relief'', alongside other guest judges including [[Kelly Brook]], [[Rufus Hound]] and [[Louie Spence]] in 2010 and 2011. In aid of Comic Relief, a ''Miranda'' mini-episode set in the world of ''[[Pineapple Dance Studios (TV series)|Pineapple Dance Studios]]'' was broadcast on 18 March as part of [[Red Nose Day 2011]]. She took part in a Red Nose Day edition of [[Celebrity MasterChef]] in 2011, which she won. Hart also co-presented [[Sport Relief 2012]], which concluded with her and fellow comedian [[David Walliams]] dancing semi-naked to [[ABBA]]'s ''[[Dancing Queen]]''.&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=WCzQyG1Wjkc |title=Sport Relief Video |publisher=YouTube.com |date= |accessdate=11 July 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20131217090330/http://www.youtube.com/watch?v=WCzQyG1Wjkc |archivedate=17 December 2013 |df=dmy-all }}&lt;/ref&gt; She also donated a signed ''Miranda'' script to be auctioned in aid of Comic Relief.{{citation needed|date=May 2013}}
+
+===Other work===
+===Books===
+Hart released a book in October 2012 titled ''Is It Just Me?'', featuring stories, anecdotes and life advice delivered in her own style.&lt;ref&gt;{{cite web |url=http://www.entertainmentwise.com/news/80948/Miranda-Hart-Announces-New-Book-Is-It-Just-Me |title=Miranda Hart Announces New Book 'Is It Just Me?' |date=10 July 2012 |accessdate=11 July 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20130722190046/http://www.entertainmentwise.com/news/80948/Miranda-Hart-Announces-New-Book-Is-It-Just-Me |archivedate=22 July 2013 |df=dmy-all }}&lt;/ref&gt; In January 2013 it was announced that she was writing a second book, called ''Peggy and Me'',&lt;ref&gt;{{cite web |url=http://mirandahart.com/?p=566 |title=New Book: Peggy and Me |date=18 January 2013 |accessdate=26 June 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140819084117/http://mirandahart.com/?p=566 |archivedate=19 August 2014 |df=dmy-all }}&lt;/ref&gt; which was to be published on 9 October 2014, but was pushed back to 2015 and finally released in October 2016.&lt;ref&gt;{{cite web |url=http://www.thebookseller.com/news/new-autumn-offering-miranda-hart.html |title=New autumn offering from Miranda Hart |accessdate=17 August 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140819085121/http://www.thebookseller.com/news/new-autumn-offering-miranda-hart.html |archivedate=19 August 2014 |df=dmy-all }}&lt;/ref&gt; ''The Best of Miranda'', a compilation of scripts from the TV series ''[[Miranda (TV series)|Miranda]]'', was published on 23 October 2014.&lt;ref&gt;{{cite web |url=https://www.hodder.co.uk/books/detail.page?isbn=9781444799361 |title=Miranda Hart – The Best of Miranda |website=Hodder &amp; Stoughton |accessdate=17 August 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20141027175131/https://www.hodder.co.uk/books/detail.page?isbn=9781444799361 |archivedate=27 October 2014 |df=dmy-all }}&lt;/ref&gt; In partnership with [[Comic Relief]], Hart released a book called ''Miranda Hart's Daily Dose of Such Fun!'' in 2017, which featured something unique for the reader to do each day in the year.
+Her most recent publication is The Girl with the Lost Smile published in October 2017.
+
+===Stage===
+It was revealed in February 2017 that Hart would star as Miss Hannigan in the West End production of ''[[Annie (musical)|Annie]]''.&lt;ref name=hannigan&gt;{{cite news |last=Shenton |first=Mark |title=''Annie'' to Return to the West End, Starring Miranda Hart as Miss Hannigan |url=http://www.playbill.com/article/annie-to-return-to-the-west-end-starring-miranda-hart-as-miss-hannigan |accessdate=3 April 2018 |newspaper=[[Playbill]] |date=16 February 2017 |df=dmy-all }}&lt;/ref&gt;
+
+==Personal life==
+Hart is a Christian; she once said to fellow [[theism|theist]] [[Victoria Coren Mitchell]], "It's scary to say you're pro-God".&lt;ref&gt;{{cite news |first=Victoria |last=Coren Mitchell |authorlink=Victoria Coren Mitchell |url=https://www.theguardian.com/commentisfree/belief/2010/dec/05/victoria-coren-belief-in-god |title=As I didn't say to the Archbishop |newspaper=[[The Guardian]] |date=5 December 2010 |accessdate=10 June 2016 |deadurl=no |archiveurl=https://web.archive.org/web/20160523154916/http://www.theguardian.com/commentisfree/belief/2010/dec/05/victoria-coren-belief-in-god |archivedate=23 May 2016 |df=dmy-all }}&lt;/ref&gt; She lives in [[Hammersmith]], west London.&lt;ref&gt;{{cite news |url=https://www.mirror.co.uk/3am/celebrity-news/miranda-hart-on-how-her-falklands-hero-106376 |title=Miranda Hart on how her Falklands hero dad's ship was bombed |newspaper=The Daily Mirror |date=24 January 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20160305170145/http://www.mirror.co.uk/3am/celebrity-news/miranda-hart-on-how-her-falklands-hero-106376 |archivedate=5 March 2016 |df=dmy-all }}&lt;/ref&gt;
+
+In her early twenties, Hart had an unsuccessful trial at [[Queens Park Rangers]] Ladies; she revealed this during ''[[Would I Lie to You? (TV series)|Would I Lie to You]]''.&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=WuBOTeN-Y3M |title=Would I Lie To You Series 5 Episode 1 Pt 2 of 2 |publisher=YouTube |date=9 September 2011 |accessdate=16 October 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20131217090534/http://www.youtube.com/watch?v=WuBOTeN-Y3M |archivedate=17 December 2013 |df=dmy-all }}&lt;/ref&gt; During a special guest exclusive on the BBC Red Button, her first guest was her friend [[Clare Balding]] who was [[Head girl and head boy|head girl]] in their schooldays.
+
+==Filmography==
+
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" | Notes
+|-
+| 2001
+| ''[[Smack the Pony]]''
+| Various Characters
+| Series Three – 3 episodes
+|-
+| 2004
+| ''[[William and Mary (TV series)|William and Mary]]''
+| Penelope
+| Series Two, Episode Four
+|-
+| 2004
+| ''[[Mothers &amp; Daughters (2004 film)|Mothers &amp; Daughters]]''
+| Kate
+| Feature film
+|-
+| 2004
+| ''[[Absolutely Fabulous]]''
+| Yoko
+| Christmas Special – "White Box"
+|-
+| 2004–07
+| ''[[Stupid!]]''
+| Various Characters
+| Series One &amp; Two
+|-
+| 2005
+| ''[[The Vicar of Dibley]]''
+| Suzie
+| New Year Special – "Happy New Year"
+|-
+| 2005
+| ''[[Man Stroke Woman]]''
+| Customer
+| Series One, Episode Five
+|-
+| 2005
+| ''[[Nighty Night]]''
+| Beth
+| Series Two – 4 episodes
+|-
+| 2005
+| ''[[My Family and Other Animals (film)|My Family and Other Animals]]''
+| Jonquil
+| Television film
+|-
+| 2005–06
+| ''[[Comedy Lab]]''
+| Various Characters
+| 2 episodes – "Speeding" &amp; "Slap"
+|-
+| 2006
+| ''Don't Even Think It!''
+| Ginny Singleton
+| Short film
+|-
+| 2006
+| ''[[Lead Balloon]]''
+| Maureen
+| Series One, Episode One – "Rubbish"
+|-
+| 2007
+| ''[[12 in a Box]]''
+| Rachel
+| Feature film
+|-
+| 2007
+| ''[[Rush Hour (UK TV series)|Rush Hour]]''
+| Lollipop Lady
+| Series One
+|-
+| 2007
+| ''[[I Want Candy (film)|I Want Candy]]''
+| Working Title Receptionist
+| Feature film
+|-
+| 2007
+| ''[[Roman's Empire]]''
+| Casting Director
+| Series One, Episode Five
+|-
+| 2007
+| ''[[Magicians (2007 film)|Magicians]]''
+| Bank Manager
+| Feature film
+|-
+| 2006–07
+| ''[[Hyperdrive (TV series)|Hyperdrive]]''
+| Teal
+| Series One &amp; Two – 12 episodes
+|-
+| 2007
+| ''World of Wrestling''
+| Klondyke
+| Short film
+|-
+| 2007
+| ''[[Angelo's]]''
+| Shelley
+| Series One – 6 episodes
+|-
+| 2007
+| ''The Everglades''
+| Unnamed role
+| Television short
+|-
+| 2008
+| ''[[Tales of the Riverbank#Feature film|Tales of the River Bank]]''
+| Miss Much
+| Direct-to-DVD feature film
+|-
+| 2008
+| ''[[Hotel Trubble]]''
+| Mrs. Lily Lemon
+| Series One, Episode Four – "Tall Tales"
+|-
+| 2009
+| ''[[French and Saunders|French and Saunders' Mamma Mia!]]''
+| Phyllida Lloyd
+| Sketch part of [[Red Nose Day 2009]]
+|-
+| 2009
+| ''[[Monday Monday]]''
+| Tall Karen
+| Series One – 7 episodes
+|-
+| 2006–09
+| ''[[Not Going Out]]''
+| Acupuncturist / Barbara
+| Series One to Three – 17 episodes
+|-
+| 2009
+| ''A Very British Cult''
+| Joyce
+| Short film
+|-
+| 2010
+| ''[[The Infidel (2010 film)|The Infidel]]''
+| Mrs. Keyes
+| Feature film
+|-
+| 2010
+| ''[[The One...|The One Ronnie]]''
+| Cake Shop Owner / Church Committee Member
+| Christmas television special
+|-
+| 2011
+| ''The Itch of the Golden Nit''
+| Julie &lt;small&gt;(voice)&lt;/small&gt;
+| Short film
+|-
+| 2013
+| ''[[Gangsta Granny (film)|Gangsta Granny]]''
+| Linda
+| Television film
+|-
+| 2009–15
+| ''[[Miranda (TV series)|Miranda]]''
+| Miranda Preston 
+| Three Series &amp; two specials – 20 episodes (also writer)
+|-
+| 2012–2015
+| ''[[Call the Midwife]]''
+| Chummy Browne (later Noakes)
+| 22 episodes
+|-
+| 2015
+| ''[[Spy (2015 film)|Spy]]''
+| Nancy B. Artingstall
+| Feature film
+|-
+| 2016
+| ''Alan Carr's 12 Stars of Christmas''
+| Herself
+|
+|-
+| 2016
+| ''Miranda: Morecambe &amp; Wise and Me
+| Host
+| TV special
+|-
+| 2017
+| ''[[Comic Relief]]''
+| Herself
+|
+|-
+| 2018
+| ''[[The Nutcracker and the Four Realms (2018 film)|The Nutcracker and the Four Realms]]''
+| Dew Drop Fairy
+| post-production
+|-
+| TBA
+| ''The Canterville Ghost''
+|The Ghost Catcher
+|Voice
+|-
+|}
+
+==Awards and nominations==
+In 2010, Hart won the Best Comedy Performance award from the [[Royal Television Society]] for her performance in ''Miranda''&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/culture/tvandradio/7460124/Royal-Television-Society-Awards-shun-talent-shows.html |title=Royal Television Society Awards shun talent shows |newspaper=Daily Telegraph |date=17 March 2010 |deadurl=no |archiveurl=https://web.archive.org/web/20100529043236/http://www.telegraph.co.uk/culture/tvandradio/7460124/Royal-Television-Society-Awards-shun-talent-shows.html |archivedate=29 May 2010 |df=dmy-all }}&lt;/ref&gt; and was also nominated for best comedy writing.&lt;ref&gt;{{cite web |url=http://www.inthenews.co.uk/news/entertainment/tv/miranda-heads-royal-television-society-awards-nominations-$1363108.htm |title=Miranda heads Royal Television Society awards nominations |website=Inthenews.co.uk |first=Lewis |last=Bazley |date=1 March 2010 |archiveurl=https://web.archive.org/web/20131224122705/http://www.inthenews.co.uk/news/entertainment/tv/miranda-heads-royal-television-society-awards-nominations-$1363108.htm |archivedate=24 December 2013}}&lt;/ref&gt; She and [[Patricia Hodge]] were both nominated for "Best Comedy Actress" awards at the Monte-Carlo TV Festival 2010.&lt;ref&gt;{{cite web |url=http://www.tvfestival.com/content/Presentation-Nominees/presentation_nomineesUK.php?menu=smenu2&amp;trk=nom&amp;typeN=2&amp;ER=TC |title=Nominees – Actresses |website=Monte-Carlo TV Festival |archiveurl=https://web.archive.org/web/20110717115420/http://www.tvfestival.com/content/Presentation-Nominees/presentation_nomineesUK.php?menu=smenu2&amp;trk=nom&amp;typeN=2&amp;ER=TC |archivedate=17 July 2011}}&lt;/ref&gt;
+
+In 2011, she won&lt;ref&gt;{{cite web |url=http://www.digitalspy.co.uk/tv/news/a299572/in-full-british-comedy-awards-winners.html |title=British Comedy Awards Winners |website=DigitalSpy |date=22 January 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20150401031322/http://www.digitalspy.co.uk/tv/news/a299572/in-full-british-comedy-awards-winners.html |archivedate=1 April 2015 |df=dmy-all }}&lt;/ref&gt; "Best Comedy Actress" and "People's Choice Award for the King or Queen of Comedy" in the [[British Comedy Awards]] 2011, where ''Miranda'' also won "Best New British TV Comedy" and was nominated for "Best Sitcom".&lt;ref&gt;{{cite web |url=http://www.digitalspy.co.uk/tv/news/a298153/british-comedy-awards-the-nominations.html |title=British Comedy Awards Nominations |website=DigitalSpy |date=15 January 2011 |deadurl=no |archiveurl=https://web.archive.org/web/20110119014856/http://www.digitalspy.co.uk/tv/news/a298153/british-comedy-awards-the-nominations.html |archivedate=19 January 2011 |df=dmy-all }}&lt;/ref&gt; The same year, she was nominated for a [[BAFTA]] for Best Actress in a comedy role and her hit BBC Two sitcom ''[[Miranda (TV series)|Miranda]]'' was nominated for the BAFTA YouTube choice award, the only award voted for by the public.
+
+{| class="wikitable"
+|-
+!Year
+! style="width:116px;"|Nominated work
+! style="width:247px;"|Award
+! style="width:260px;"|Category
+!width="70"|Result&lt;ref&gt;{{cite web |url=https://www.imdb.com/name/nm1635000/awards |title=Awards for Miranda Hart |website=[[Internet Movie Database|IMDb]] |accessdate=27 August 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20130422073706/http://www.imdb.com/name/nm1635000/awards |archivedate=22 April 2013 |df=dmy-all }}&lt;/ref&gt;
+|-
+|2006
+|''[[Hyperdrive (TV series)|Hyperdrive]]''
+|rowspan="5"|[[British Comedy Awards]]
+|Best Female Comedy Newcomer
+|{{nom}}
+|-
+|rowspan="9"|2010
+|rowspan="9"|''[[Miranda (TV series)|Miranda]]—[[List of Miranda episodes#Series 1 (2009)|Series 1]]''
+|Best TV Sitcom
+|{{nom}}
+|-
+|Best New TV Comedy
+|{{won}}
+|-
+|Best TV Comedy Actress
+|{{won}}
+|-
+|People's Choice Award
+|{{won}}
+|-
+|rowspan="2"|[[British Academy Television Awards]]
+|[[British Academy Television Award for Best Female Comedy Performance|Best Female Performance in a Comedy Role]]
+|{{nom}}
+|-
+|Best Situation Comedy
+|{{nom}}
+|-
+|[[Monte-Carlo Television Festival|Monte-Carlo TV Festival]]—[[Golden Nymph]]
+|Outstanding Actress in a Comedy Series
+|{{nom}}
+|-
+|rowspan="4"|[[Royal Television Society Award]]s
+|Best Writer for a Comedy
+|{{nom}}
+|-
+|rowspan="2"|Best Comedy Performance
+|{{nom}}
+|-
+|rowspan="9"|2011
+|rowspan="10"|''Miranda—[[List of Miranda episodes#Series 2 (2010)|Series 2]]''
+|{{won}}
+|-
+|Best Scripted Comedy
+|{{won}}
+|-
+|[[Banff Television Festival|Banff TV Festival]]—[[Banff Rockie Award]]
+|Best Sitcom
+|{{nom}}
+|-
+|British Academy Television Awards
+|Best Female Performance in a Comedy Role
+|{{nom}}
+|-
+|rowspan="3"|British Comedy Awards
+|Best TV Comedy Actress
+|{{won}}
+|-
+|Best TV Sitcom
+|{{nom}}
+|-
+|People's Choice Award
+|{{nom}}
+|-
+|Broadcasting Press Guild Awards
+|Best Comedy and/or Entertainment
+|{{won}}
+|-
+|[[TV Quick Awards]]
+|Best Comedy Show
+|{{nom}}
+|-
+|rowspan="3"|2012
+|[[National Television Awards]]
+|Most Popular Sitcom
+|{{nom}}
+|-
+|''[[Call the Midwife]]''
+|British Academy Television Awards
+|[[British Academy Television Award for Best Supporting Actress|Best Supporting Actress]]
+|{{nom}}
+|-
+|Is It Just Me?
+|[[Specsavers National Book Awards|National Book Awards]]
+|Non-Fiction Book of the Year
+|{{won}}
+|-
+|rowspan="2"|2013
+|''[[Call the Midwife]]''
+|[[National Television Awards]]
+|Outstanding Drama Performance (Female)
+|{{won}}
+|-
+|''Miranda—[[List of Miranda episodes#Series 3 (2012)|Series 3]]''
+|British Academy Television Awards
+|Best Female Performance in a Comedy Role
+|{{nom}}
+|}
+
+==Tours==
+{| class="wikitable collapsible collapsed" style="text-align:center;"
+|-
+!colspan=4|''My, What I Call, Live Show''
+|-
+!Date
+!City
+!Country
+!Venue
+|-
+!colspan="7" | '''Australia'''&lt;ref name="mirandahart.com"&gt;{{cite news |url=http://mirandahart.com/?page_id=539 |title=Tour Dates |website=Mirandahart.com |date= |accessdate=18 January 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131226200942/http://mirandahart.com/?page_id=539 |archivedate=26 December 2013 |df=dmy-all }}&lt;/ref&gt;
+|-
+| 1 February 2014
+|rowspan="2"| Sydney
+|rowspan="5"| Australia
+|rowspan="2"| [[Seymour Centre]]
+|-
+| 2 February 2014
+|-
+| 10 February 2014
+|rowspan="3"| [[Melbourne]]
+|rowspan="3"| [[Melbourne Athenaeum]]
+|-
+| 11 February 2014
+|-
+| 12 February 2014
+|-
+!colspan="4" | '''UK and Ireland'''&lt;ref name="mirandahart.com"/&gt;
+|-
+| 28 February 2014
+|rowspan="3"| [[Bournemouth]]
+|rowspan="8"| England
+|rowspan="3"| [[Bournemouth International Centre]]
+|-
+| 1 March 2014
+|-
+| 2 March 2014
+|-
+| 4 March 2014
+| rowspan="2" | [[Plymouth]]
+| rowspan="2" | [[Plymouth Pavilions]]
+|-
+| 5 March 2014
+|-
+| 6 March 2014
+|rowspan="3"| [[Nottingham]]
+|rowspan="3"| [[Capital FM Arena]]
+|-
+| 7 March 2014
+|-
+| 8 March 2014
+|-
+| 10 March 2014
+|rowspan="2"| [[Cardiff]]
+|rowspan="2"| Wales
+|rowspan="2"| [[Motorpoint Arena Cardiff]]
+|-
+| 11 March 2014
+|-
+| 12 March 2014
+|rowspan="2"| London
+|rowspan="4"| England
+|rowspan="2"| [[The O2 Arena|The O&lt;sub&gt;2&lt;/sub&gt; Arena]]
+|-
+| 13 March 2014
+|-
+| 14 March 2014
+|rowspan="2"| [[Manchester]]
+|rowspan="2"| [[Manchester Arena]]
+|-
+| 15 March 2014
+|-
+| 17 March 2014
+|rowspan="2"| [[Glasgow]]
+|rowspan="2"| Scotland
+|rowspan="2"| [[The Hydro]]
+|-
+| 18 March 2014
+|-
+| 19 March 2014
+|rowspan="2"| [[Newcastle upon Tyne|Newcastle]]
+|rowspan="6"| England
+|rowspan="2"| [[Metro Radio Arena]]
+|-
+| 20 March 2014
+|-
+| 21 March 2014
+|rowspan="2"| [[Leeds]]
+|rowspan="2"| [[First Direct Arena]]
+|-
+| 23 March 2014
+|-
+| 24 March 2014
+|rowspan="2"| [[Liverpool]]
+|rowspan="2"| [[Echo Arena Liverpool]]
+|-
+| 25 March 2014
+|-
+| 28 March 2014
+| [[Belfast]]
+| [[Northern Ireland]]
+| [[Odyssey Arena]]
+|-
+| 29 March 2014
+| [[Dublin]]
+| Ireland
+| [[The O2 (Dublin)|The O&lt;sub&gt;2&lt;/sub&gt;]]
+|-
+| 1 April 2014
+|rowspan="2"| [[Brighton]]
+|rowspan="11"| England
+|rowspan="2"| [[Brighton Centre]]
+|-
+| 2 April 2014
+|-
+| 5 April 2014
+| rowspan="2" | [[Sheffield]]
+|rowspan="2"| [[Motorpoint Arena Sheffield]]
+|-
+| 6 April 2014
+|-
+| 8 April 2014
+|rowspan="3"| [[Birmingham]]
+|rowspan="3"| [[National Indoor Arena]]
+|-
+| 9 April 2014
+|-
+| 10 April 2014
+|-
+| 11 April 2014
+|rowspan="4"| London
+|rowspan="2"| The O&lt;sub&gt;2&lt;/sub&gt; Arena
+|-
+| 12 April 2014
+|-
+| 10 October 2014
+|rowspan="2"| [[Wembley Arena]]
+|-
+| 11 October 2014
+|-
+| 15 October 2014
+|rowspan="2"| Cardiff
+|rowspan="2"| Wales
+|rowspan="2"| Motorpoint Arena
+|-
+| 18 October 2014
+|}
+
+== Works and publications ==
+* {{cite book |last1=Hart |first1=Miranda |title=Is It Just Me? |date=2012 |publisher=Hodder &amp; Stoughton |location=London |isbn=978-1-44-473414-0 |oclc=884722084}}
+* {{cite book |last1=Hart |first1=Miranda |title=The Best of Miranda: Favourite Episodes Plus Added Treats - Such Fun! |date=2014 |publisher=Hodder &amp; Stoughton |location=London |isbn=9781444799354 |url=http://www.worldcat.org/title/best-of-miranda-favourite-episodes-plus-added-treats-such-fun/oclc/887937305/viewport|oclc=887937305}}
+* {{cite book |last1=Hart |first1=Miranda |title=Peggy and Me |date=2016 |publisher=Hodder &amp; Stoughton |isbn=978-1-44-476913-5 |oclc=908706052}}
+
+==Ancestry==
+
+{{ahnentafel
+|collapsed=yes |align=center
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1= 1. '''Miranda Hart'''
+|2= 2. [[David Hart Dyke]]
+|3= 3. Diana Margaret Luce
+|4= 4. Eric Hart Dyke
+|5= 5. Mary Alexander
+|6= 6. [[William Luce (governor)|Sir William Tucker Luce]]
+|7= 7. Margaret Napier
+|8= 8. Colonel Percyvall Hart Dyke DSO
+|9= 9. Louisa Catherine Cave
+|10= 10. Robert Alexander
+|11= 11. Katharine Shaw-Stewart
+|12= 12. [[John Luce (Royal Navy officer)|John Luce]]
+|13= 13. Mary Dorothea Tucker
+|14= 14. [[Trevylyan Napier|Sir Trevylyan Napier]]
+|15= 15. Mary Elizabeth Culme-Seymour
+|16= 16. Thomas Hart Dyke
+|17= 17. Georgina Isabella Russell Fullerton
+|18= 18. John Halliday Cave
+|22= 22. [[Sir Michael Shaw Stewart, 7th Baronet]]
+|23= 23. [[Richard Grosvenor, 2nd Marquess of Westminster#Family|Lady Octavia Grosvenor]]
+|24= 24. Charles Richard Luce
+|25= 25. Mary Visger
+|26= 26. Alfred Harris Tucker
+|27= 27. Mary Ann Haynes
+|28= 28. Vice-Admiral Gerard John Napier
+|29= 29. Ella Louisa Wilson
+|30= 30. [[Sir Michael Culme-Seymour, 3rd Baronet]]
+|31= 31. [[Richard Watson (politician)|Mary Georgina Watson]]
+}}
+
+== References ==
+{{Reflist|30em}}
+
+==External links==
+* {{official|http://mirandahart.com}}
+* {{IMDb name|id=1635000|name=Miranda Hart}}
+* {{Twitter}}
+* [https://web.archive.org/web/20111026223014/http://www.bafta.org/access-all-areas/videos/miranda-hart,1893,BA.html Miranda Hart interview] recorded at BAFTA London – June 2011
+
+{{NTA Outstanding Drama Performance}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hart, Miranda}}
+[[Category:1972 births]]
+[[Category:21st-century English actresses]]
+[[Category:21st-century English writers]]
+[[Category:21st-century British women writers]]
+[[Category:Actresses from Devon]]
+[[Category:Actresses from Hampshire]]
+[[Category:Alumni of the Academy of Live and Recorded Arts]]
+[[Category:Alumni of the University of the West of England]]
+[[Category:English autobiographers]]
+[[Category:English voice actresses]]
+[[Category:English film actresses]]
+[[Category:English television actresses]]
+[[Category:English Christians]]
+[[Category:English television producers]]
+[[Category:English television writers]]
+[[Category:English women comedians]]
+[[Category:Living people]]
+[[Category:People educated at Downe House School]]
+[[Category:People from Petersfield]]
+[[Category:People from Torquay]]
+[[Category:Women autobiographers]]
+[[Category:British comedy actresses]]</text>
+      <sha1>p1pqv959e4yozth1w5ofentxl8zkwt7</sha1>
+    </revision>
+  </page>
+</mediawiki>

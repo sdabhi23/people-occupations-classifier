@@ -1,0 +1,343 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dustin Diamond</title>
+    <ns>0</ns>
+    <id>607618</id>
+    <revision>
+      <id>853702893</id>
+      <parentid>849767301</parentid>
+      <timestamp>2018-08-06T13:15:44Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18873">{{pp-semi-protected|small=yes}}
+{{Use mdy dates|date=December 2014}}
+{{Infobox person
+| name         = Dustin Diamond
+| image        = Dustin Diamond 2012.jpg
+| image_size   = 
+| caption      = Diamond in October 2012
+| birth_name   = Dustin Neil Diamond
+| birth_date   = {{birth date and age|mf=yes|1977|1|7|}}
+| birth_place  = [[San Jose, California]], U.S.
+| occupation   = Actor, comedian, musician
+| years_active = 1987–present
+}}
+
+'''Dustin Neil Diamond''' (born January 7, 1977)&lt;ref name="filmref"&gt;{{cite web |url=http://www.filmreference.com/film/76/Dustin-Diamond.html |title=Dustin Diamond Biography (1977–) |publisher=filmreference.com |accessdate=2008-07-26}}&lt;/ref&gt; is an American actor, musician, director, and stand-up comedian widely known for his role as [[Samuel "Screech" Powers]] in the television shows ''[[Saved by the Bell]]''; ''[[Good Morning, Miss Bliss]]''; ''[[Saved by the Bell: The College Years]]''; and ''[[Saved by the Bell: The New Class]]''.
+
+== Early life and family==
+Diamond was born to a [[American Jews|Jewish]] family&lt;ref&gt;{{Cite web|last=Bloom|first=Nate|authorlink=Nate Bloom|title=Jewish Stars |publisher=[[Cleveland Jewish News]]|date= October 20, 2008|url=https://www.clevelandjewishnews.com/archives/jewish-stars/article_e71d8d7c-c86d-5830-aef0-8caad557a58d.html|accessdate=}}&lt;/ref&gt; on January 7, 1977, in [[San Jose, California|San Jose]], [[California]].&lt;ref&gt;{{Cite web|url=http://www.mercurynews.com/2016/05/26/dustin-diamond-back-in-jail/|title=Dustin Diamond back in jail|date=2016-05-26|website=The Mercury News|access-date=2017-07-20}}&lt;/ref&gt; His father taught digital electronics for a computer-processing firm and his mother was a computer operator for [[Pacific Bell]].&lt;ref&gt;{{cite book| title= Behind the Bell | first= Dustin| last = Diamond | year= 2009 | isbn= | publisher= }}&lt;/ref&gt;
+
+He attended Zion Lutheran School.&lt;ref&gt;{{cite web|url=http://www.vh1.com/shows/celebrity_fit_club/season_5/cast.jhtml |title=Celebrity Fit Club: Season 5 &amp;#124; Cast Bios |website= VH1.com |date= |accessdate= 2015-10-16}}&lt;/ref&gt;
+
+== Career ==
+Diamond began acting as a child. He became known for playing the nerdy and lovable Samuel "Screech" Powers on the television show ''Saved by the Bell'', a role he played for close to thirteen years from its beginning as ''[[Good Morning, Miss Bliss]]'' (1988–89) through its final incarnation, ''[[Saved by the Bell: The New Class]]'' (1994–2000). Continuing the series into college, ''[[Saved by the Bell: The College Years]]'' shows most of the cast transplanted into not only the same college, but also the same college dormitory, where Screech continued his typical misadventures. ''The College Years'' was canceled after one season. Diamond returned to Bayside High as Principal Belding's assistant in ''The New Class'' episodes, remaining with the show until its cancellation.
+
+===Sex tape===
+In 2006, Diamond directed and released his own [[celebrity sex tape|sex tape]], ''Screeched&amp;nbsp;– Saved by the Smell''.&lt;ref name=tmz.com&gt;{{cite web|url=http://www.tmz.com/2006/09/27/screech-sex-tape-preview/ |title=Screech Sex Tape Preview |publisher=TMZ.com |date=2006-09-27 |accessdate=2015-10-16}}&lt;/ref&gt;&lt;ref name=nzherald.co.nz&gt;{{cite news| url=http://www.nzherald.co.nz/lifestyle/news/article.cfm?c_id=6&amp;objectid=10403458 | work=The New Zealand Herald | title=Screech hopes sex tape will lift profile | date=September 28, 2006}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Transcript for September 27|url=http://www.msnbc.msn.com/id/15045576/ns/msnbc_tv-countdown_with_keith_olbermann/t/countdown-keith-olbermann-sept/|work=Countdown with Keith Olbermann|publisher=MSNBC|accessdate=September 22, 2011|date=September 27, 2006}}&lt;/ref&gt; However, Diamond stated in an interview on "Where Are They Now?" of the [[Oprah Winfrey Network (U.S. TV channel)|Oprah Winfrey Network]] that he was not actually in the sex tape, rather "stunt double" had his likeness added onto it.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=GWtctcYcDeo |title=The One Thing Dustin Diamond Is Most Embarrassed About &amp;#124; Where Are They Now? &amp;#124; Oprah Winfrey Network |publisher=YouTube |date=2009-10-05 |accessdate=2015-10-16}}&lt;/ref&gt;
+
+===Appearances after ''Saved by the Bell''===
+Diamond began doing stand up comedy after the end of ''Saved by the Bell'', and has toured on and off ever since. He has also been featured on a number of game and [[reality television|reality shows]] including ''[[The Weakest Link]]'', and ''[[Celebrity Boxing#Second episode|Celebrity Boxing 2]]''. Diamond has also made several [[cameo appearance]]s in films, including appearances in ''[[Dickie Roberts: Former Child Star]]'' in 2003 and in ''[[Made (2001 film)|Made]]'' in 2001. In 2009, he also played the part of "Alumnus Guy #1" in ''[[American Pie Presents: The Book of Love]]''. In 2010, he had a supporting role in the sports comedy ''Tetherball: The Movie''. In it, Diamond plays the Foul Mouths' down-on-his-luck coach. In 2014 Diamond played Bernardo, the castle guard, in the partially animated science fiction comedy ''[[Hamlet A.D.D.]]''.&lt;ref&gt;{{cite web|last=Louise |first=Mary |url=http://www.jsonline.com/entertainment/arts/milwaukee-duo-brings-hamlet-add-to-life-b99179692z1-241724871.html |title=Milwaukee duo brings 'Hamlet A.D.D.' to life |publisher=Jsonline.com |date= |accessdate=2015-10-16}}&lt;/ref&gt;
+
+In 2007 Diamond was a cast member of the fifth season of ''[[Celebrity Fit Club (U.S. TV series)|Celebrity Fit Club]]''. During his run on the show, he came into conflict with former ''[[American Idol]]'' finalist [[Kimberley Locke]], country singer [[Cledus T. Judd]], rapper [[Da Brat]], the program's host, [[Ant (comedian)|Ant]], and the program's trainer, former USMC sergeant [[Harvey Walden IV]]. Tensions between Diamond and the rest of the celebrities culminated in an open confrontation during which Diamond initially challenged Ant to "physical combat" and subsequently issued the challenge to Harvey Walden after Walden defended Ant.&lt;ref&gt;{{cite news |url=http://www.nydailynews.com/lifestyle/health/2007/09/19/2007-09-19_harvey_walden_of_celebrity_fit_club_want-2.html |title=Harvey Walden of 'Celebrity Fit Club' Wants 'No Excuses' | location=New York | work=Daily News |first=Gina |last=Salamone |date=September 19, 2007}}&lt;/ref&gt;
+
+Diamond appeared as a contestant on ''[[Hulk Hogan]]'s [[Hulk Hogan's Celebrity Championship Wrestling|Celebrity Championship Wrestling]]'', broadcast on [[Country Music Television|CMT]]. A huge fan and supporter of professional wrestling, Diamond was previously involved with [[Memphis Championship Wrestling]] in March and April 2000. He has had many wrestling involvements since then as a referee, manager and even a tag team partner.{{Citation needed|date=December 2014}}
+
+===''Behind the Bell''===
+In 2009, Diamond published an inside story of the show's cast and crew, from his point of view, titled ''Behind the Bell''.&lt;ref&gt;{{cite book |title=Behind the Bell |last=Diamond |first=Dustin |publisher=Transit Publishing, Inc. |year=2009}}&lt;/ref&gt; The book paints an unflattering portrait of many of Diamond's colleagues and their alleged, sordid backstage behavior; some of these claims have been refuted by Diamond's colleagues and questioned by critics.&lt;ref&gt;{{cite news |journal=Huffington Post |date=September 29, 2009 |url=http://www.huffingtonpost.com/2009/09/29/behind-the-bell-dustin-di_n_302908.html |title='Behind The Bell': Dustin Diamond, Screech, Spills Secrets From 'Saved by the Bell' (VIDEO)}}&lt;/ref&gt; Diamond also alleges, in the book, that he has had sex with 2,000 women, one of them NBC's VP of children's programming, Linda Mancuso, who was 18 years his senior.&lt;ref&gt;{{cite news |title=Silly Little Show-Biz Book Club Dustin Diamond's Behind The Bell |journal=AV Club |last=Rabin |first=Nathan |url=http://www.avclub.com/articles/dustin-diamonds-behind-the-bell,57483/ |date=June 14, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=11 Most Scandalous Saved by the Bell Revelations in Screech's Autobiography |journal=11 Points |last=Greenspan |first=Sam |date=January 5, 2012}}&lt;/ref&gt; Diamond's former co-stars were highly critical of the book and [[Mark-Paul Gosselaar]] stated that his own experiences with the show were positive and did not see where any of the book's negative claims actually occurred on set.
+
+Diamond later commented on the book's content in a December 2013 appearance on a "Where Are They Now" segment on the [[Oprah Winfrey Network (U.S. TV channel)|OWN Network]] in which he stated that the book was [[ghost written]] by an author who simply interviewed him and compiled the book from his answers. He claimed that many parts of the book, such as allegations of teen sex and drug use, were fabricated from very minor statements he made during the interviews, such as his remark, "Yeah, there were a bunch of kids on set with hormones so...what do you think?"&lt;ref&gt;{{cite web|last1=Blistein|first1=Jon|title= Mark-Paul Gosselaar Slams 'Negative' Dustin Diamond 'Saved by the Bell' Book|url= https://www.rollingstone.com/tv/news/markpaul-gosselaar-slams-negative-dustin-diamond-saved-by-the-bell-book-20140807|work= [[Rolling Stone]]|accessdate= August 23, 2014}}&lt;/ref&gt;
+
+===Other work===
+He is also a musician and formed an [[alternative metal]] band called Salty The Pocketknife. Diamond played bass and wrote much of the music as well. Shortly after recording their first album, the band split up due to internal disagreements.&lt;ref&gt;{{cite web|url=http://gazettereview.com/2016/01/dustin-diamond-screech-now-updates/|title=What Happened To Dustin Diamond - Screech Now in 2017 Update - The Gazette Review|first= Barry W.|last= Stanton|date=January 4, 2016|publisher=}}&lt;/ref&gt; Diamond has also appeared on [[truTV]]'s ''[[The Smoking Gun Presents: World's Dumbest...]]'' as a commentator.
+
+He appeared as a host at the 12th annual [[Gathering of the Juggalos]].&lt;ref&gt;{{cite video |people=[[Violent J|Fats Pepper]] (presenter), [[Shaggy 2 Dope|Guy Gorfey]] |date=April 11, 2009 |title=Weekly Freekly Weekly Special 2011 Gathering Edition |url=https://www.youtube.com/watch?v=dy_uj82xKKI |format= |publisher= [[Psychopathic Records]] |location= [[Detroit]] |accessdate= 2009-04-12 }}&lt;/ref&gt;
+
+In August 2013, Diamond became a housemate on the [[Celebrity Big Brother 12|twelfth series]] of ''[[Celebrity Big Brother (UK)|Celebrity Big Brother]]''. He became the fourth housemate to be evicted on Day 16.
+
+==Personal life==
+Diamond currently resides in [[Port Washington, Wisconsin]].&lt;ref&gt;{{cite web |title=Milwaukee Journal Sentinel |url=http://www.jsonline.com/news/milwaukee/41702317.html |accessdate=September 29, 2013}}&lt;/ref&gt; He married longtime girlfriend Jennifer Misner in 2009, though the two have since separated.&lt;ref name=dustinmarried&gt;{{cite web |url=https://www.youtube.com/watch?v=uIDXjYm4B8I |title=Riaz Talks With Dustin Diamond – City TV Vancouver (October 2012) |publisher=YouTube |accessdate=2013-05-17}}&lt;/ref&gt;&lt;ref name=videoshows&gt;{{cite web |url=http://www.dailymail.co.uk/news/article-2888514/Video-shows-moment-Dustin-Diamond-got-bar-fight-stabbed-man-switchblade-fleeing-scene-clown-girlfriend-Loli-Pop.html |title=Video captures moment Saved by the Bell's Screech 'stabbed a man with a switchblade' in bar fight before fleeing the scene with his clown girlfriend Loli Pop |publisher=Daily Mail |accessdate=2015-02-25}}&lt;/ref&gt;
+
+On December 26, 2014, Diamond was arrested in [[Ozaukee County, Wisconsin]], for possession of a switchblade knife, which he was alleged to have pulled during a bar altercation in which a man was stabbed.&lt;ref&gt;{{cite web|url=http://www.tmz.com/2014/12/26/saved-by-the-bell-dustin-diamond-arrested-switchblade/ |title='Saved By the Bell' Star Dustin Diamond - Screech Arrested For Allegedly Stabbing Man With a Switchblade |publisher=TMZ.com |date=2014-12-26 |accessdate=2015-10-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://fox6now.com/2014/12/26/dustin-diamond-actor-who-played-screech-on-saved-by-the-bell-arrested-in-ozaukee-co/ |title=Arrested, accused in stabbing at bar, Dustin Diamond aka "Screech" has Monday court hearing |publisher=FOX6Now.com |date=2014-12-26 |accessdate=2015-10-16}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author= |url=https://news.yahoo.com/saved-bell-actor-arrested-wisconsin-050003275.html |title='Saved by the Bell' Actor Arrested in Wisconsin - Yahoo News |publisher=News.yahoo.com |date=2014-12-26 |accessdate=2015-10-16}}&lt;/ref&gt;&lt;ref&gt;[https://web.archive.org/web/20141227054227/http://www.4029tv.com/entertainment/screech-arrested-in-wisconsin/30407470?%20Fayetteville,%20Arkansas%20-%204029news&amp;Content%20Type=Story&amp;linkId=11353637 ]&lt;/ref&gt; Amanda Schutz, his fiancée, also faced a charge of disorderly conduct in relation to the incident,&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-30631690 |title=Saved by the Bell actor Dustin Diamond in court over stabbing - BBC News |publisher=Bbc.co.uk |date= |accessdate=2015-10-16}}&lt;/ref&gt; was found guilty and fined $500.&lt;ref&gt;{{cite web|url=http://www.thedailybeast.com/articles/2015/06/25/screech-s-long-sad-road-to-the-slammer-the-fall-of-saved-by-the-bell-star-dustin-diamond.html|first=Amy|last=Zimmerman|title=Screech’s Long, Sad Road to the Slammer: The Fall of ‘Saved by the Bell’ Star Dustin Diamond|work=The Daily Beast|date=September 25, 2015|accessdate=November 5, 2015}}&lt;/ref&gt; On May 29, 2015, Diamond was convicted of two misdemeanors, carrying a concealed weapon and disorderly conduct. He was cleared of the most serious charge, recklessly endangering public safety.&lt;ref&gt;{{cite web|title=Screech on Trial: 'Saved By the Bell' Actor Dustin Diamond Convicted in Stabbing|url=https://www.youtube.com/watch?v=7OhiDS_C5Us|publisher=NBC News|accessdate=30 May 2015}}&lt;/ref&gt; On June 25, 2015, Diamond was sentenced to four months in prison.&lt;ref&gt;{{cite web|title=Dustin Diamond, 'Saved By the Bell' Star, Sentenced to Four Months For Stabbing|url=http://www.nbcnews.com/pop-culture/celebrity/saved-bell-star-sentenced-four-months-stabbing-n381736|publisher=NBC News|accessdate=25 June 2015}}&lt;/ref&gt; He served three months and was released on [[probation]]. Diamond's probation agent determined that he had violated the terms of his probation, and he was arrested in May 2016.&lt;ref name = probation&gt;McKirdy, Evan (May 26, 2016). [http://www.cnn.com/2016/05/26/entertainment/dustin-diamond-probation-hold/index.html?sr=twCNN052616dustin-diamond-probation-hold0635AMVODtopLink&amp;linkId=24886439 "'Saved by the Bell' star Dustin Diamond back in jail after probation violation"]. CNN.&lt;/ref&gt;
+
+==Filmography==
+{| class="wikitable"
+|-  style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Role
+! Other notes
+|-
+|rowspan=4|1987
+|''The Price of Life''
+|Young Stiles
+|
+|-
+|''[[American Playhouse]]''
+|Young Stiles
+|TV, 1 episode
+|-
+|''[[It's a Living (1980 TV series)|It's a Living]]''
+|Young Sonny
+|TV, 1 episode
+|-
+|''[[Yogi's Great Escape]]''
+|Chubby Kid (Voice)
+|TV, 1 episode
+|-
+|1988
+|''[[Purple People Eater (film)|Purple People Eater]]''
+|Big Z
+|
+|-
+|1988–1989
+|''[[Good Morning, Miss Bliss]]''
+|Samuel "Screech" Powers
+|TV, 13 episodes
+|-
+|1989
+|''[[She's Out of Control]]''
+|Beach boy
+|
+|-
+|1989–1990
+|''[[The Wonder Years]]''
+|Joey Harris / Joey Lapman
+|TV, 2 episodes
+|-
+|1989–1993
+|''[[Saved by the Bell]]''
+|Samuel "Screech" Powers
+|TV, 82 episodes
+|-
+|1990
+|''[[The Munsters Today]]''
+|Rob
+|TV, 1 episode
+|-
+||1992
+|''[[Saved by the Bell: Hawaiian Style]]''
+|Samuel "Screech" Powers
+|
+|-
+|1993
+|''[[Getting By]]''
+|Tommy
+|TV, 2 episodes
+|-
+|1993–1994
+|''[[Saved by the Bell: The College Years]]''
+|Samuel "Screech" Powers
+|TV, 18 episodes
+|-
+|1994
+|''[[Saved by the Bell: Wedding in Las Vegas]]''
+|Samuel "Screech" Powers
+|Credited as '''Dusty Diamond'''
+|-
+|1994–2000
+|''[[Saved by the Bell: The New Class]]''
+|Samuel "Screech" Powers
+|TV, 67 episodes
+|-
+|2000
+|''[[Longshot (film)|Longshot]]''
+|Waiter
+|
+|-
+|2001
+|''[[Made (2001 film)|Made]]''
+|Himself
+|
+|-
+|rowspan=4|2002
+|''[[Jane White Is Sick &amp; Twisted]]''
+|Simone
+|
+|-
+|''[[Big Fat Liar]]''
+|Himself
+|
+|-
+|''[[The Rerun Show]]''
+|Doctor
+|TV, 1 episode
+|-
+|''[[Star Dates]]''
+|himself
+|TV 1 episode
+|-
+|rowspan=2|2003
+|''[[Pauly Shore Is Dead]]''
+|Himself
+|
+|-
+|''[[Dickie Roberts: Former Child Star]]''
+|Himself
+|
+|-
+|2004
+|''[[Tom Goes to the Mayor]]''
+|Himself (End Credits)
+|
+|-
+|rowspan=2|2005
+|''[[Duck Dodgers (TV series)|Duck Dodgers]]''
+|Xainius the Eternal
+|TV, 1 episode
+|-
+|''13th Grade''
+|Corey
+|
+|-
+|2006
+|''Screeched: Saved by the Smell''&lt;ref name=tmz.com/&gt;&lt;ref name=nzherald.co.nz/&gt;
+|Himself (also directed)
+|
+|-
+|2008
+|''[[Our Feature Presentation]]''
+|Mr. Renolds
+|
+|-
+|2009
+|''Porndogs: The Adventures of Sadie''
+|Buster (voice)&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt1328912/ |title=Porndogs: The Adventures of Sadie |accessdate=2012-06-03 |work=[[Internet Movie Database]]}}&lt;/ref&gt;
+|
+|-
+|2009
+|''[[American Pie Presents: The Book of Love]]''
+|Alumnus Guy #1
+|
+|-
+|2010
+|''[[Big Money Rustlas]]''
+|Man in Outhouse
+|
+|-
+|2011
+|''Tetherball: The Movie''
+|Coach McAger
+|
+|-
+|rowspan="6"|2013
+|''A Dog for Christmas''
+|Fred
+|Post-production
+|-
+|''Captured Hearts''
+|Oliver Jaffe
+|Filming
+|-
+|''Scavenger Killers''
+|Agent Dewayne
+|Filming
+|-
+|''College Fright Night''
+|Professor Donnely
+|Pre-production
+|-
+| ''[[Celebrity Big Brother (UK)|Celebrity Big Brother]]''
+| Himself
+| [[Celebrity Big Brother 12|Series 12]] housemate
+|-
+| ''[[Big Brother's Bit on the Side|Celebrity Big Brother's Bit on the Side]]''
+| Himself
+| Housemate
+|-
+|2014
+|''[[Hamlet A.D.D.]]''
+|Bernardo
+|-
+|2016
+|''[[Joker’s Wild]]''
+|Raynard 
+|-
+|2017
+|''[[Your Pretty Face is Going to Hell]]''
+|Himself
+|
+|}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* {{IMDb name|0224616}}
+* {{cite web |url= http://www.thecommentary.ca/ontheline/20050525a.html |title= Dustin Diamond |series= Interview |publisher= The Commentary |date= May 25, 2005 |first= Joseph |last= Planta }}
+
+{{authority control}}
+
+{{DEFAULTSORT:Diamond, Dustin}}
+[[Category:1977 births]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American male child actors]]
+[[Category:Jewish American male actors]]
+[[Category:American pornographic film directors]]
+[[Category:American male television actors]]
+[[Category:American stand-up comedians]]
+[[Category:Film directors from California]]
+[[Category:Jewish comedians]]
+[[Category:Living people]]
+[[Category:Musicians from San Jose, California]]
+[[Category:People from Ozaukee County, Wisconsin]]
+[[Category:Male actors from San Jose, California]]
+[[Category:American male professional wrestlers]]
+[[Category:Participants in American reality television series]]
+[[Category:Pornographic film actors from California]]
+[[Category:American prisoners and detainees]]
+[[Category:Prisoners and detainees of Wisconsin]]
+[[Category:Comedians from California]]</text>
+      <sha1>lyy8bb4imafo8c5lioarjbgve6xpp40</sha1>
+    </revision>
+  </page>
+</mediawiki>

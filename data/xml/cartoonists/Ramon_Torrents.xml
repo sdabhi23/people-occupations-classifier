@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ramon Torrents</title>
+    <ns>0</ns>
+    <id>11844358</id>
+    <revision>
+      <id>801733649</id>
+      <parentid>711509155</parentid>
+      <timestamp>2017-09-21T14:13:22Z</timestamp>
+      <contributor>
+        <username>Onel5969</username>
+        <id>10951369</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguating links to [[Creepy (disambiguation)]] (link changed to [[Creepy (magazine)]]; link changed to [[Creepy (magazine)]]; link changed to [[Creepy (magazine)]]) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2309">{{Infobox comics creator
+| name = Ramon Torrents
+| image =
+| imagesize =
+| caption =
+| birth_name =
+| birth_date = 6 December 1937&lt;!--sources give no specifics: {{birth date and age|19xx|m|dd}} --&gt;
+| birth_place = [[Barcelona, Spain]]
+| death_date =
+| death_place =
+| nationality = Spanish
+| area = artist
+| alias =
+| notable works = ''[[Creepy (magazine)|Creepy]]'', ''[[Eerie]]'', ''[[Vampirella]]''
+| awards =
+}}
+
+'''Ramón Torrents''' (born 6 December 1937) is a [[Spain|Spanish]] [[Comics|comic book]] artist.
+
+== Career ==
+Ramón Torrents was born in [[Barcelona]], [[Catalonia]], northern Spain. He began his career drawing for the comic ''Space Ace''. He later worked on romance comics for British publisher [[Fleetway]], including ''Marilyn'' and ''True Life Library''. In the late 1960s Torrents worked with [[Esteban Maroto]] in the Spanish science fiction series ''Cinco x Infinito''. 
+
+Through his connections with agency Seleciones Illustrada, Torrents began working for American company [[Warren Publishing]] in 1972. For them, he drew 42 stories until 1979. The majority of his work appeared in ''[[Vampirella]]'', with 8 stories done for ''[[Creepy (magazine)|Creepy]]'' and one story done for ''[[Eerie]]''. Torrents drew primarily stand-alone stories except for a three part series titled ''Fleur'' and a single story where he drew Vampirella herself. Torrents also worked for Warren competitor [[Skywald]] for a period of time in the early 1970s. After leaving Warren, Torrents retired from the comic book industry.
+[[Image:Torrents vampirella.jpg|230px|thumb|A sample of Ramon Torrent's work, from ''Vampirella'' #57.]]
+
+==Bibliography==
+Interior art includes:
+* ''[[Creepy (magazine)|Creepy]]'' #51-53, 57, 59, 65, 92
+* ''[[Eerie]]'' #50, 81, 133,
+* ''[[Vampirella]]'' #23-26, 28-29, 35-36, 40, 44, 47-48, 49, 52, 57-58, 61-63, 67-68, 70, 76
+
+==Sources==
+*{{cite book |title=The Warren Companion |first1=David A. |last1=Roach |last2=Cooke |first2=Jon B.}}
+
+==External links==
+* [http://lambiek.net/artists/t/torrents_ramon.htm Ramon Torrents biography] on Lambiek Comiclopedia
+
+{{DEFAULTSORT:Torrents, Ramon}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:People from Barcelona]]
+[[Category:Spanish comics artists]]
+
+
+{{Europe-comics-creator-stub}}
+{{Spain-artist-stub}}</text>
+      <sha1>gmrtmj99rtoyeh9ykqqj9zvam3qe40w</sha1>
+    </revision>
+  </page>
+</mediawiki>

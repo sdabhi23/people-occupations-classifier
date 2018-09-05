@@ -1,0 +1,236 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sally Ride</title>
+    <ns>0</ns>
+    <id>94289</id>
+    <revision>
+      <id>850298385</id>
+      <parentid>850297792</parentid>
+      <timestamp>2018-07-15T00:44:41Z</timestamp>
+      <contributor>
+        <username>PolicyReformer</username>
+        <id>14894804</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/W_EXPRESS_TRAIN|W_EXPRESS_TRAIN]] ([[User talk:W_EXPRESS_TRAIN|talk]]): not adhering to [[WP:NPOV|neutral point of view]] ([[WP:HG|HG]]) (3.4.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33769">{{pp|small=yes}}
+{{Use mdy dates|date=December 2016}}
+{{Infobox person
+|image           = Sally Ride in 1964.jpg{{!}}border
+|caption         = Ride on July 10, 1984
+|birth_name      = Sally Kristen Ride
+|birth_date      = {{Birth date|1951|05|26}}
+|birth_place     = {{nowrap|[[Encino, Los Angeles]], California, U.S.}}
+|death_date      = {{Death date and age|2012|07|23|1951|05|26}}
+|death_place     = [[La Jolla]], California, U.S.
+|relatives       = 
+|nationality     = American
+|spouse          = {{marriage|[[Steven Hawley]]|1982|1987|end=div}}
+|partner         = [[Tam O'Shaughnessy]] (1985–2012; Ride's death)
+|education       = [[Stanford&amp;nbsp;University]] &lt;small&gt;([[Bachelor of Science|BS]] Physics / [[Bachelor of Arts|BA]] English; [[Master of Science|MS]] Physics; [[Ph.D.]] Physics)&lt;/small&gt;
+|occupation      = [[Physicist]]
+| module         =
+{{Infobox astronaut|child=yes
+|type            = [[NASA]] astronaut
+|selection       = [[List of astronauts by selection#1978|1978 NASA Group]]
+|time            = 14d 07h 46m
+|mission         = [[STS-7]], [[STS-41-G]]
+|insignia        = [[File:Sts-7-patch.png|30px]] [[File:STS-41-G patch.png|30px]]
+|Date of ret     = August 15, 1987}}
+}}
+'''Sally Kristen Ride''' (May 26, 1951&amp;nbsp;– July 23, 2012) was an American [[engineer]], [[physicist]] and [[astronaut]]. Born in Los Angeles, she joined [[NASA]] in 1978 and became the first American woman in [[outer space|space]] in 1983. Ride was the third woman in space overall, after USSR [[cosmonaut]]s [[Valentina Tereshkova]] (1963) and [[Svetlana Savitskaya]] (1982).  Ride remains the youngest American astronaut to have traveled to space, having done so at the age of 32.&lt;ref&gt;{{cite web |url=http://science.ksc.nasa.gov/pao/faq/faqanswers.htm |title=Kennedy Space Center FAQ | publisher=NASA/Kennedy Space Center External Relations and Business Development Directorate |accessdate=July 23, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=10 fascinating things about Astronaut Sally Ride you must know|url=http://news.biharprabha.com/2015/05/10-awesome-things-about-astronaut-sally-ride-you-must-know/|accessdate=May 26, 2015|publisher=news.biharprabha.com|date=May 26, 2015}}&lt;/ref&gt; After flying twice on the Orbiter [[Space Shuttle Challenger|''Challenger'']], she left NASA in 1987. She worked for two years at [[Stanford University]]'s [[Center for International Security and Cooperation|Center for International Security and Arms Control]], then at the [[University of California, San Diego]] as a professor of physics, primarily researching [[nonlinear optics]] and [[Thomson scattering]]. She served on the committees that investigated the [[Space Shuttle Challenger disaster|''Challenger'']] and [[Space Shuttle Columbia disaster|''Columbia'']] space shuttle disasters, the only person to participate in both.&lt;ref name=obit&gt;{{cite news |last=Grady |first=Denise |title=Obituary: American Woman Who Shattered Space Ceiling|url=https://www.nytimes.com/2012/07/24/science/space/sally-ride-trailblazing-astronaut-dies-at-61.html?pagewanted=all |newspaper=The New York Times |date=July 23, 2012 |access-date=July 27, 2012}}&lt;/ref&gt;&lt;ref&gt;See [[Rogers Commission Report]] and [[Columbia Accident Investigation Board]]&lt;/ref&gt; Ride died of [[pancreatic cancer]] on July 23, 2012.
+
+== Early life==
+The elder child of Dale Burdell Ride and Carol Joyce Ride (née Anderson), Ride was born in Los Angeles. She had one sibling, Karen "Bear" Ride, who is a [[Presbyterianism|Presbyterian]] minister. Both parents were elders in the Presbyterian Church. Ride's mother had worked as a volunteer counselor at a women's correctional facility. Her father had been a political science professor at [[Santa Monica College]].&lt;ref name=obit /&gt;
+
+Ride attended Portola Junior High (now [[Portola Middle School (Tarzana)|Portola Middle School]]) and then [[Birmingham High School]] before graduating from the private [[Harvard-Westlake|Westlake School for Girls]] in Los Angeles on a scholarship.&lt;ref name=obit /&gt; In addition to being interested in science, she was a nationally ranked tennis player. Ride attended [[Swarthmore College]] for three semesters, took physics courses at [[University of California, Los Angeles]], and then entered [[Stanford University]] as a junior, graduating with a [[bachelor's degree]] in [[English studies|English]] and [[physics]]. At Stanford, she earned a master's degree in 1975 and a PhD in physics in 1978 while doing research on the interaction of [[X-rays]] with the interstellar medium.&lt;ref name="ride1"&gt;{{cite web |url=http://www.jsc.nasa.gov/Bios/htmlbios/ride-sk.html |title=Biographical Data: Sally K. Ride, Ph.D |access-date=May 11, 2015 |publisher=NASA |date=July 2012}}&lt;/ref&gt; Astrophysics and free electron lasers were her specific areas of study.&lt;ref&gt;{{cite news|last1=Knapp|first1=Alex|title=Sally Ride, First American Woman In Space, Dead At 61|work=Forbes|publisher=Business Source Elite|date=July 23, 2012}}&lt;/ref&gt;
+
+== NASA career ==
+[[File:Ride on the Middeck - GPN-2000-001081.jpg|thumb|upright|Ride on [[Space Shuttle Challenger|''Challenger'']]'s mid-deck during [[STS-7]] in 1983]]
+{{Listen|type=speech|pos=right|filename=Sally Ride (As Told By NASA Chief Scientist Dr. Ellen Stofan).ogg|title=Sally Ride (As Told By NASA Chief Scientist Dr. Ellen Stofan)|description= }}
+Ride was one of 8,000 people who answered an advertisement in the Stanford student newspaper seeking applicants for the [[space program]].&lt;ref name="starchild"&gt;{{cite web |url=http://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/ride.html |title=Dr. Sally Ride |access-date=May 11, 2015 |publisher=NASA}}&lt;/ref&gt; She was chosen to join [[NASA]] in 1978.&lt;ref name=autogenerated1 /&gt; During her career, Ride served as the ground-based [[capsule communicator]] (CapCom) for the second and third space shuttle flights ([[STS-2]] and [[STS-3]]) and helped develop the space shuttle's "[[Canadarm]]" robot arm.&lt;ref name=autogenerated1 /&gt;
+
+Prior to her first space flight, she was subject to media attention due to her gender. During a press conference, she was asked questions such as, "Will the flight affect your reproductive organs?" and "Do you weep when things go wrong on the job?" Despite this and the historical significance of the mission, Ride insisted that she saw herself in only one way—as an astronaut.&lt;ref name=autogenerated1&gt;{{cite web|last=Ryan |first=Michael |url=http://www.people.com/people/archive/article/0,,20085312,00.html |title=A Ride in Space – NASA, Sally Ride |work=People |accessdate=December 5, 2013}}&lt;/ref&gt; On June 18, 1983, she became the first American woman in space as a crew member on [[space shuttle Challenger|space shuttle ''Challenger'']] for [[STS-7]]. She was preceded by two Soviet women, [[Valentina Tereshkova]] in 1963 and [[Svetlana Savitskaya]] in 1982. The five-person crew of the STS-7 mission deployed two communications satellites and conducted pharmaceutical experiments. Ride was the first woman to use the robot arm in space and the first to use the arm to retrieve a [[satellite]].&lt;ref name="ride1" /&gt;
+
+Her second space flight was [[STS-41-G]] in 1984, also on board ''Challenger''. She spent a total of more than 343 hours in space. Ride had completed eight months of training for her third flight ([[Cancelled Space Shuttle missions#STS-61-M (Challenger)|STS-61-M]], a [[Tracking and Data Relay Satellite System|TDRS]] deployment mission) when the [[space shuttle Challenger disaster|space shuttle ''Challenger'' disaster]] occurred. She was named to the [[Rogers Commission Report|Rogers Commission]] (the presidential commission investigating the accident) and headed its subcommittee on operations. She was the only person to serve on both of the panels investigating shuttle accidents (those for the [[Space Shuttle Challenger disaster|''Challenger'' accident]] and later the [[Space Shuttle Columbia disaster|''Columbia'' disaster]]). Following the Challenger investigation, Ride was assigned to NASA headquarters in Washington, D.C., where she led NASA's first [[strategic planning]] effort, authored a report titled "[[The Ride Report|NASA Leadership and America's Future in Space]]" and founded NASA's Office of Exploration.&lt;ref name="ride1" /&gt; After Sally Ride's death in 2012, [[Donald J. Kutyna|General Donald Kutyna]] revealed that she had discreetly provided him with key information about [[O-rings]] (namely, that they become stiff at low temperatures) that eventually led to identification of the cause of the explosion.&lt;ref&gt;{{cite web|title = An Oral History Of The Space Shuttle Challenger Disaster|url = http://www.popularmechanics.com/space/a18616/an-oral-history-of-the-space-shuttle-challenger-disaster/|website = Popular Mechanics|date = January 28, 2016|access-date = February 2, 2016}}&lt;/ref&gt;
+
+== After NASA ==
+[[File:Open for Questions with Astronaut Sally Ride.webm|thumb|left|Sally Ride takes questions at the [[White House Astronomy Night]] (2009)]]
+In 1987, Ride left her position in Washington, D.C., to work at the Stanford University [[Center for International Security and Cooperation|Center for International Security and Arms Control]]. In 1989, she became a professor of physics at the [[University of California, San Diego]], and director of the California Space Institute. From the mid-1990s until her death, Ride led two public-outreach programs for NASA—the [[ISS EarthKAM]] and [[MoonKAM|GRAIL MoonKAM]] projects, in cooperation with NASA's Jet Propulsion Laboratory and UCSD. The programs allowed middle school students to request images of the Earth&lt;ref&gt;{{cite web|url=http://earthkam.ucsd.edu/about/ |title=EarthKAM (Earth Knowledge Acquired by Middle school students) |publisher=Sally Ride Science |accessdate=July 24, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120729152535/https://earthkam.ucsd.edu/about |archivedate=July 29, 2012 |df= }}&lt;/ref&gt; and moon.&lt;ref&gt;{{cite web|url=http://moonkam.ucsd.edu/about/moonkam |title=GRAIL MoonKAM (Moon Knowledge Acquired by Middle school students) |publisher=Sally Ride Science |accessdate=July 24, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120801031504/https://moonkam.ucsd.edu/about/moonkam |archivedate=August 1, 2012 |df= }}&lt;/ref&gt; In 1999, she acted in the season 5 finale of ''[[Touched by an Angel]]'', titled "Godspeed".{{citation needed|date=April 2017}} In 2003, she was asked to serve on the [[Columbia Accident Investigation Board]]. She was the president and CEO of [[Sally Ride Science]], a company she co-founded in 2001 that creates entertaining science programs and publications for upper elementary and middle school students, with a particular focus on girls.&lt;ref name="post"&gt;{{cite news|url=http://www.post-gazette.com/pg/07269/820564-85.stm|title=Sally Ride touts science careers for women|accessdate=October 7, 2007|work=Pittsburgh Post-Gazette|first=Dan |last=Majors |date=September 26, 2007}}&lt;/ref&gt;&lt;ref name="hunt"&gt;{{cite web|url=http://www.al.com/news/huntsvilletimes/index.ssf?/base/news/1191230595221160.xml&amp;coll=1 |title=Sally Ride Festival geared for girls |accessdate=October 7, 2007 |work=The Huntsville Times |year=2007 |first=Kenneth |last=Kesner |deadurl=yes |archiveurl=https://archive.is/20121209123909/http://www.al.com/news/huntsvilletimes/index.ssf?/base/news/1191230595221160.xml&amp;coll=1 |archivedate=December 9, 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Busby |first=Guy |url=http://blog.al.com/pr-community-news/2012/07/sally_ride_program_blasts_kids.html |title=Sally Ride program blasts kids into science |work=Press-Register  |location=Mobile, Alabama |date=July 29, 2012 |accessdate=May 11, 2015}}&lt;/ref&gt;
+
+According to [[Roger Boisjoly]], who was the engineer that warned of the technical problems that led to the ''Challenger'' disaster, after the entire workforce of [[Thiokol|Morton-Thiokol]] shunned him Ride was the only public figure to show support for him when he went public with his pre-disaster warnings. Sally Ride hugged him publicly to show her support for his efforts.&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2012/02/04/us/roger-boisjoly-73-dies-warned-of-shuttle-danger.html |title=Roger Boisjoly, 73, Dies; Warned of Shuttle Danger |first=Douglas |last=Martin |work=The New York Times |date=February 3, 2012 |access-date=May 11, 2015}}&lt;/ref&gt;
+
+Ride wrote or co-wrote seven books&lt;ref name="SRS SR Books"&gt;{{cite web|title=Books |url=http://www.sallyridestore.com/books.html?cat=30 |publisher=Sally Ride Science |accessdate=December 26, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20131216075943/http://www.sallyridestore.com/books.html?cat=30 |archivedate=December 16, 2013 |df= }} ''Mission: Planet Earth'' is two books, making the total five.&lt;/ref&gt; on space aimed at children, with the goal of encouraging children to study science.&lt;ref name="pr"&gt;{{Cite press release|url=https://www.sallyridescience.com/node/206|title=Sally Ride Science Brings Cutting-Edge Science to the Classroom with New Content Rich Classroom Sets|accessdate=October 7, 2007|publisher=Sally Ride Science|date=September 27, 2007|deadurl=yes|archiveurl=https://web.archive.org/web/20071010175206/http://sallyridescience.com/node/206|archivedate=October 10, 2007|df=mdy-all}}&lt;/ref&gt;&lt;ref name="trib"&gt;{{cite news|url=http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_529380.html |title=Sally Ride encourages girls to engineer careers |accessdate=October 7, 2007 |work=Pittsburgh Tribune Review |year=2007 |first=Allison M. |last=Heinrichs |deadurl=yes |archiveurl=https://web.archive.org/web/20071120051643/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_529380.html |archivedate=November 20, 2007 }}&lt;/ref&gt;
+
+Ride endorsed [[Barack Obama]] for U.S. President in 2008.&lt;ref name="Space politics"&gt;{{cite web |first=Jeff |last=Foust |url=http://www.spacepolitics.com/2008/10/29/sally-ride-endorses-obama/ |title=Sally Ride endorses Obama |accessdate=June 27, 2010 |date=October 29, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Ride |first=Sally |title=Inspired kids will reach for stars under Obama |url=http://articles.orlandosentinel.com/2008-10-29/news/OPride29_1_inspired-space-program-science |date=October 29, 2008 |work=Orlando Sentinel |access-date=May 11, 2015}}&lt;/ref&gt; She was a member of the [[Review of United States Human Space Flight Plans Committee]], an independent review requested by the [[Office of Science and Technology Policy]] (OSTP) on May 7, 2009.
+
+== Personal life ==
+[[File:SallyRide2006ByPhilKonstantin.jpg|thumb|upright|Promoting the Sally Ride Science Festival at UCSD in 2006]]
+Ride was extremely private about her personal life. In 1982, she married fellow NASA astronaut [[Steve Hawley]]. They divorced in 1987.&lt;ref&gt;{{cite news |first1=Guy D. |last1=Garcia |first2=David E. |last2=Thigpen |url=http://www.time.com/time/magazine/article/0,9171,964610,00.html |title=People: June 8, 1987 |date=June 8, 1987 |work=Time |access-date=July 27, 2012}}&lt;/ref&gt;
+
+After Ride's death, her obituary revealed that her partner of 27 years was [[Tam O'Shaughnessy]], a [[Emeritus|professor emerita]] of [[school psychology]] at [[San Diego State University]] and childhood friend, who met her when both were aspiring tennis players.&lt;ref name=HuffPo&gt;{{cite news |url=http://www.huffingtonpost.com/2012/07/23/sally-ride-first-american-woman-female-partner-_n_1696537.html |title=Sally Ride, First American Woman In Space, Revealed To Have Female Partner Of 27 Years |work=The Huffington Post |date=July 23, 2012 | accessdate=July 27, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.sallyridescience.com/node/1059 |title=Talking with Sally Ride and Tam O'Shaughnessy |work=American Library Association |publisher=Sally Ride Science |last=Giorgis |first=Cyndi |last2=Johnson |first2=Nancy J. |date=March 1, 2009 |accessdate=July 23, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130516031027/https://www.sallyridescience.com/node/1059 |archivedate=May 16, 2013 |df=mdy-all }}&lt;/ref&gt; O'Shaughnessy was also a science writer and, later, the co-founder of Sally Ride Science.&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2012/07/24/science/space/sally-ride-trailblazing-astronaut-dies-at-61.html |title=Sally Ride, Trailblazing Astronaut, Dies at 61 |first=Denise |last=Grady |work=The New York Times |date=July 23, 2012 |access-date=July 27, 2012}}&lt;/ref&gt;&lt;ref&gt;[https://www.sallyridescience.com/about/team/ Tam O'Shaughnessy biography on the Sally Ride Science website] {{webarchive|url=https://web.archive.org/web/20160819145601/https://sallyridescience.com/about/team |date=August 19, 2016 }}. Retrieved Dec. 11, 2016.&lt;/ref&gt; O'Shaughnessy now serves as the Chief Executive Officer and Chair of the Board of Sally Ride Science.&lt;ref&gt;{{cite web |url=https://sallyridescience.com/about_us |title=Management Team |publisher=Sally Ride Science |accessdate=November 2, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131005034021/https://www.sallyridescience.com/about_us |archivedate=October 5, 2013 |df=mdy-all }}&lt;/ref&gt; They wrote six acclaimed children's science books together.&lt;ref name="SRS SR Books" /&gt; Their relationship was revealed by the company and confirmed by her sister, who said she chose to keep her personal life private, including her sickness and treatments.&lt;ref name=BrowardTimes&gt;{{cite news |url=http://blogs.browardpalmbeach.com/pulp/2012/07/former_astronaut_sally_ride_re.php |title=Sally Ride Revealed to Be Gay: Her Sister, on Ride's Life, Death, and Desires for Privacy |work=The New Times Broward-Palm Beach |date=July 23, 2012|last=Abdill |first=Rich| accessdate=July 27, 2012}}&lt;/ref&gt;&lt;ref name=Sheets&gt;{{cite news |last=Adams Sheets|first=Connor|title=Tam O'Shaughnessy: About Sally Ride's Partner Of 27 Years|url=http://www.ibtimes.com/articles/365992/20120723/tam-shaughnessy-oshaughnessy-sally-ride-lesbian-partner.htm|newspaper=The International Business Times |date=July 23, 2012|accessdate=July 27, 2012 }}&lt;/ref&gt; She is the first known [[LGBT]] astronaut.&lt;ref&gt;{{cite news |title=Sally Ride never hid, was 'just  private' |url=http://www.sfgate.com/politics/joegarofoli/article/Sally-Ride-never-hid-just-private-3732556.php|accessdate=October 29, 2012 |newspaper=San Francisco Chronicle: SFGate |date=July 25, 2012|first=Joe |last=Garofoli}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.thenorthstarnews.com/fullstory/story/ernie-banks-was-the-first-black-player-to-sign-with-the-chicago-cubs |title=Ernie Banks Was the First Black Player to Sign with the Chicago Cubs |publisher=North Star News |location=Chicago, Illinois |date=August 13, 2013 |access-date=November 29, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20150203100638/http://www.thenorthstarnews.com/fullstory/story/ernie-banks-was-the-first-black-player-to-sign-with-the-chicago-cubs |archivedate=February 3, 2015 |df= }}&lt;/ref&gt;
+
+Ride died on July 23, 2012, at the age of 61, in her home in [[La Jolla, California]],&lt;ref&gt;[http://www.nbcsandiego.com/news/local/Former-Astronaut-Sally-Ride-Dies-163467356.html Former Astronaut Sally Ride Dies in La Jolla | NBC 7 San Diego] Retrieved 2016-12-28.&lt;/ref&gt; seventeen months after being diagnosed with [[pancreatic cancer]].&lt;ref name=obit /&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/world-us-canada-18963939|title=Sally Ride, the first US woman in space, dies aged 61|date=July 23, 2012 | publisher = BBC News | accessdate = July 24, 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Sally Ride, first American woman in space, dies|url=http://www.cnn.com/2012/07/23/us/sally-ride-dead/index.html|accessdate=July 24, 2012|publisher=CNN|date=July 24, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Sally Ride, first American woman in space, dies at 61 | author = William Harwood |url=http://news.cnet.com/8301-11386_3-57478314-76/sally-ride-first-american-woman-in-space-dies-at-61/ |accessdate=July 23, 2012|publisher=CNET|date=July 23, 2012}}&lt;/ref&gt; Following [[cremation]], her ashes were interred next to her father&lt;ref&gt;{{cite web|url=http://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2012/August-2012/08_08_2012_Barrier_Breaking_Astronaut_Interred_at_Santa_Monica_Cemetery.html |title=Barrier-Breaking Astronaut Interred at Santa Monica's Woodlawn Cemetery |publisher=Surfsantamonica.com |accessdate=December 5, 2013}}&lt;/ref&gt; at [[Woodlawn Memorial Cemetery, Santa Monica]].
+
+== Awards and honors ==
+[[File:Sally Ride, America's first woman astronaut communitcates with ground controllers from the flight deck - NARA - 541940.jpg|thumb|Sally Ride communicates with ground controllers from the flight deck during the six-day mission in ''Challenger'', 1983.]]
+
+Ride received numerous awards throughout her lifetime and after. She received the [[National Space Society]]'s von Braun Award, the Lindbergh Eagle, and [[Theodore Roosevelt Award (NCAA)|the NCAA's Theodore Roosevelt Award]]. She was inducted into the [[National Women's Hall of Fame]] and the [[Astronaut Hall of Fame]] and was awarded the [[NASA Space Flight Medal]] twice. Two elementary schools in the United States are named after her: Sally Ride Elementary School in [[The Woodlands, Texas]], and Sally Ride Elementary School in [[Germantown, Maryland]].&lt;ref name="ride1" /&gt;
+
+In 1994, Ride received the Samuel S. Beard Award for Greatest Public Service by an Individual 35 Years or Under, an award given out annually by [[Jefferson Awards for Public Service|Jefferson Awards]].&lt;ref&gt;{{cite web|url=http://www.jeffersonawards.org/pastwinners/national |title=National Winners &amp;#124; public service awards |publisher=Jefferson Awards.org |accessdate=November 2, 2013}}&lt;/ref&gt;
+
+On December 6, 2006, [[Governor of California|California Governor]] [[Arnold Schwarzenegger]] and First Lady [[Maria Shriver]] inducted Ride into the [[California Hall of Fame]] at the [[The California Museum for History, Women, and the Arts|California Museum for History, Women, and the Arts]].&lt;ref name="hall"&gt;{{cite web |url=http://www.californiamuseum.org/exhibits/halloffame/inductee/sally-ride |title=Sally Ride |accessdate=May 27, 2009 |website=The California Museum |year=2006 }}&lt;/ref&gt; 
+
+In 2007, she was inducted into the [[National Aviation Hall of Fame]] in [[Dayton, Ohio]].
+
+Ride directed public outreach and educational programs for NASA's GRAIL mission, which sent twin satellites to map the moon’s gravity. On December 17, 2012, the two [[Gravity Recovery and Interior Laboratory|GRAIL]] probes, Ebb and Flow, were directed to complete their mission by crashing on an unnamed lunar mountain near the crater [[Goldschmidt (crater)|Goldschmidt]]. NASA announced that it was naming the landing site in honor of Sally Ride.&lt;ref&gt;[http://www.nasa.gov/home/hqnews/2012/dec/HQ_12-438_GRAIL_Impact_Site_Sally_Ride.html NASA's Grail Lunar Impact Site Named for Astronaut Sally Ride] December 17, 2012&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.space.com/18944-nasa-grail-moon-crash-sally-ride.html |title=Moon Probes' Crash Site Named After Sally Ride |publisher=Space.com |date=December 17, 2012 |accessdate=December 5, 2013}}&lt;/ref&gt; Also in December 2012, the [[Space Foundation]] bestowed upon Ride its highest honor, the General James E. Hill Lifetime Space Achievement Award.&lt;ref&gt;{{cite press release |url=http://www.spacefoundation.org/media/press-releases/neil-armstrong-and-sally-ride-are-2013-general-james-e-hill-lifetime-space |title=Neil Armstrong and Sally Ride Are 2013 General James E. Hill Lifetime Space Achievement Award Honorees |publisher=Space Foundation |location=Colorado Springs, Colorado |date=December 10, 2012 |access-date=December 5, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130603040641/http://www.spacefoundation.org/media/press-releases/neil-armstrong-and-sally-ride-are-2013-general-james-e-hill-lifetime-space |archivedate=June 3, 2013 |df=mdy-all }}&lt;/ref&gt; 
+
+In April 2013, the [[United States Navy|U.S. Navy]] announced that a research ship would be named in honor of Ride.&lt;ref&gt;{{cite press release |url=http://ucsdnews.ucsd.edu/pressrelease/navy_names_new_scripps_research_vessel_to_honor_the_legacy_of_space_explore |title=Navy Names New Scripps Research Vessel to Honor Legacy of Space Explorer Sally Ride |first=Cindy |last=Clark |date=April 16, 2013 |access-date=May 11, 2015}}&lt;/ref&gt; This was done in 2014 with the christening of the oceanographic research vessel [[RV Sally Ride (AGOR-28)|RV ''Sally Ride'' (AGOR-28)]].&lt;ref&gt;{{cite web |url=http://www.collectspace.com/news/news-081014a-sally-ride-ship-naming.html |title=Navy christens new research ship for Sally Ride, first US woman in space |publisher=collectSPACE.com |date=August 10, 2014 |access-date=November 29, 2014}}&lt;/ref&gt;
+
+On May 20, 2013, a "National Tribute to Sally Ride" was held at the [[John F. Kennedy Center for the Performing Arts]] in Washington, D.C. and on that same day, President Barack Obama announced that Ride would receive the [[Presidential Medal of Freedom]], the highest civilian award in the United States. The medal was presented to her life partner Tam O'Shaughnessy in a ceremony at the [[White House]] on November 20, 2013.&lt;ref name="Medal of Honor"&gt;{{cite news |title=Obama to honor Sally Ride, first US woman in space, with posthumous Medal of Freedom |url=http://www.startribune.com/politics/208202621.html |accessdate=May 21, 2013|newspaper=Star Tribune |date=May 20, 2013}}{{dead link|date=May 2015}}&lt;/ref&gt;&lt;ref name="Medal of Honor NASA"&gt;{{cite web |url=https://www.nasa.gov/content/president-obama-awards-presidential-medal-of-freedom-to-sally-ride/ |title=President Obama Awards Presidential Medal of Freedom to Sally Ride |date=November 20, 2013 |publisher=NASA.gov |access-date=September 24, 2016 |archive-url=https://web.archive.org/web/20160324035409/http://www.nasa.gov/content/president-obama-awards-presidential-medal-of-freedom-to-sally-ride/#.V-b1qlmLTDc |archive-date=March 24, 2016 |dead-url=no}}&lt;/ref&gt; In July 2013, ''Flying magazine'' ranked Ride at number 50 on their list of the "51 Heroes of Aviation".&lt;ref&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41804|title=51 Heroes of Aviation|work=Flying Magazine|accessdate=November 29, 2014}}&lt;/ref&gt;
+
+In 2014, Ride was inducted into the [[Legacy Walk]], an outdoor public display that celebrates [[LGBT]] history and people.&lt;ref&gt;{{cite web|url=http://www.chicagotribune.com/news/ct-gay-plaque-wrigleyville-20141012-story.html|title=Legacy Walk honors LGBT 'guardian angels'|date=October 11, 2014|work=Chicago Tribune}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Reynolds |first=Daniel |url=http://www.advocate.com/pride/2014/10/11/photos-7-lgbt-heroes-honored-plaques-chicagos-legacy-walk?page=full|title=PHOTOS: 7 LGBT Heroes Honored With Plaques in Chicago's Legacy Walk |work=The Advocate}}&lt;/ref&gt;
+
+In 2017, a [[Google Doodle]] honored her on [[International Women's Day]].&lt;ref&gt;{{cite web|url=https://www.google.com/doodles/international-womens-day-2017|title=International Women's Day|language=en|access-date=2017-03-08}}&lt;/ref&gt;
+
+The U.S. Postal Service issued a first-class postage stamp honoring Ride in 2018.&lt;ref&gt;{{cite web|url=https://spacepolicyonline.com/news/todays-tidbits-may-23-2018/|title=Today’s Tidbits:  May 23, 2018|website=spacepolicyonline.com}}&lt;/ref&gt;
+
+== In pop culture ==
+In 2013, [[Janelle Monáe]] released a song called "Sally Ride".&lt;ref&gt;{{cite web|url=http://rock.rapgenius.com/Janelle-monae-sally-ride-lyrics|title=Janelle Monae – Sally Ride Lyrics |access-date=May 11, 2015}}&lt;/ref&gt; 
+
+Also in 2013, astronauts [[Chris Hadfield]] and [[Catherine Coleman]] performed a song called "Ride On".&lt;ref&gt;{{cite news |url=http://www.dailydot.com/entertainment/chris-hadfield-astronaut-iss-reddit-ama/ |title=8 reasons Chris Hadfield is the coolest astronaut on the Web |first=Michelle |last=Jaworski |date=January 16, 2013 |accessdate=February 19, 2014}}&lt;/ref&gt;
+
+In 2017, a "Women of NASA" [[LEGO]] set went on sale featuring (among other things) mini-figurines of Ride, [[Margaret Hamilton (scientist)|Margaret Hamilton]], [[Mae Jemison]], and [[Nancy Grace Roman]].&lt;ref&gt;{{cite web|author=Science |url=http://www.businessinsider.com/lego-female-scientists-engineers-nasa-kit-2017-11 |title=Women of NASA Lego toy set now on sale for $24.99 |publisher=Business Insider |date=2017-06-22 |accessdate=2017-11-01}}&lt;/ref&gt;
+
+== See also ==
+{{Portal|LGBT|Spaceflight|California}}
+* [[List of female astronauts]]
+* [[List of female explorers and travelers]]
+* [[Mercury 13]]
+* [[Women in science]]
+
+== Notes ==
+{{Reflist|30em}}
+
+== Bibliography ==
+{{refbegin|30em}}
+* {{cite book |author=Ride, Sally |title=Single Room, Earth View (expository essay) |publisher=Sally Ride |location= |year=|pages=|isbn= |oclc= |doi= |accessdate=}}
+* {{cite book |author1=Ride, Sally |author2=Okie, Susan |title=To Space and Back |publisher=HarperTrophy |location=New York |year=1989|pages=96 pages |isbn=0-688-09112-1 |oclc= |doi= }}
+* {{cite book |author1=Ride, Sally |author2=O'Shaughnessy, Tam E. |title=Voyager: An Adventure to the Edge of the Solar System |publisher=Sally Ride Science |location= |year=1992|pages=40 pages|isbn=0-517-58157-4 |oclc=|doi=}}
+* {{cite book |author1=Ride, Sally |author2=O'Shaughnessy, Tam E. |title=The Mystery of Mars |publisher=Crown |location=[New York] |year=1999 |pages=48 pages |isbn=0-517-70971-6 |oclc= |doi= }}
+* {{cite book |author1=Ride, Sally |author2=O'Shaughnessy, Tam E. |title=Exploring our Solar System |publisher=Crown Publishers |location=New York |year=2003|pages= 112 pages|isbn=0-375-81204-0 |oclc= |doi= }}
+* {{cite book |author1=Ride, Sally |author2=O'Shaughnessy, Tam E. |title=The Third Planet: Exploring the Earth from Space |publisher=Sally Ride Science |location= |year=2004|pages=48 pages|isbn=0-9753920-0-X|oclc=|doi= }}
+* {{cite book |author=Sally Ride Science |title=What Do You Want to Be? Explore Space Sciences |publisher=Sally Ride Science |location= |year=2004 |pages=32 pages |isbn=0-9753920-1-8 |oclc= |doi= }}
+* {{cite book |author1=Ride, Sally |author2=Goldsmith, Mike |title=Space (Kingfisher Voyages) |publisher=Kingfisher |location=London |year=2005 |pages=60 pages |isbn=0-7534-5910-8 |oclc= |doi= }}
+* {{cite book |author1=Ride, Sally |author2=O'Shaughnessy, Tam E. |title=Mission planet Earth: our world and its climate—and how humans are changing them |publisher=Flash Point/Roaring Brook Press |location=New York |year=2009 |page=80 |isbn=1-59643-310-8 |oclc= |doi= |accessdate=}}
+* {{cite book |author1=Ride, Sally |author2=O'Shaughnessy, Tam E. |title=Mission—save the planet: things you can do to help fight global warming  |publisher=Roaring Brook Press |location=New York |year=2009 |page=64 |isbn=1-59643-379-5 |oclc= |doi= |accessdate=}}
+* {{cite book |author=Sherr, Lynn |title=Sally Ride: America's First Woman in Space |publisher=Simon &amp; Schuster |location= |year=2014 |page=400|isbn= |oclc= |doi= |asin=B00GEEB99W|accessdate=}}
+* {{cite news|last1=Knapp|first1=Alex|title=Sally Ride, First American Woman In Space, Dead At 61|work=Forbes|publisher=Business Source Elite|date=July 23, 2012}}
+{{refend}}
+
+== External links ==
+{{Sisterlinks|s=no|v=no|b=no|wikt=no}}
+* [http://www.jsc.nasa.gov/Bios/htmlbios/ride-sk.html Biography] at NASA
+* {{C-SPAN|sallyride}}
+* {{IMDb name|0725790}}
+* {{Worldcat id|lccn-n82-151966}}
+* {{NYTtopic|people/r/sally_k_ride}}
+* {{Find a Grave|grid= 94078737 |name= Sally Kristen Ride |date= July 23, 2012 |author= Marc J. Daniluke}}
+* [http://www.sallyridefestivals.com/ Sally Ride Science Festivals]
+* [http://www.sallyridecamps.com/ Sally Ride Girls Science Camps]
+* [https://web.archive.org/web/20070504043202/http://www.sallyridescience.com/ Sally Ride Science] company website
+* {{cite web |url= https://www.usatoday.com/money/companies/management/2006-03-19-sally-ride_x.htm |title= Ride urges emphasis on math, science studies |first= Robert Alan |last= Benson |date= March 19, 2006 |work= Q&amp;A}}
+* {{cite web |url= https://www.independent.co.uk/news/obituaries/sally-ride-the-first-american-woman-in-space-7973259.html |title= Sally Ride: The first American woman in space |work= Obituary |first= Marcus |last= Williamson |date= July 25, 2012}}
+{{NASA Astronaut Group 8}}
+{{NCAA Theodore Roosevelt Award}}
+{{Women's Museum of California}}
+{{Texas Women's Hall of Fame}}
+{{National Women's Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ride, Sally}}
+[[Category:1951 births]]
+[[Category:2012 deaths]]
+[[Category:20th-century American writers]]
+[[Category:20th-century women scientists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American women writers]]
+[[Category:American astronauts]]
+[[Category:American children's writers]]
+[[Category:American physicists]]
+[[Category:American science writers]]
+[[Category:Articles containing video clips]]
+[[Category:Burials at Woodlawn Memorial Cemetery, Santa Monica]]
+[[Category:Deaths from cancer in California]]
+[[Category:Deaths from pancreatic cancer]]
+[[Category:Fellows of the American Physical Society]]
+[[Category:Harmon Trophy winners]]
+[[Category:LGBT people from California]]
+[[Category:LGBT scientists from the United States]]
+[[Category:LGBT scientists]]
+[[Category:LGBT writers from the United States]]
+[[Category:People from Encino, Los Angeles]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Scientists from California]]
+[[Category:Stanford University alumni]]
+[[Category:Stanford University faculty]]
+[[Category:Swarthmore College alumni]]
+[[Category:United States Astronaut Hall of Fame inductees]]
+[[Category:Women astronauts]]
+[[Category:American women children's writers]]
+[[Category:Women in technology]]
+[[Category:Women physicists]]
+[[Category:Women science writers]]
+[[Category:Writers from Los Angeles]]
+[[Category:20th-century American scientists]]
+[[Category:People from La Jolla, San Diego]]</text>
+      <sha1>as5rx2rzqjtju2je4trxjcpo7aua2oe</sha1>
+    </revision>
+  </page>
+</mediawiki>

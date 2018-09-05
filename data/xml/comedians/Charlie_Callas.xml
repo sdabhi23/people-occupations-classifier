@@ -1,0 +1,166 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Charlie Callas</title>
+    <ns>0</ns>
+    <id>6129989</id>
+    <revision>
+      <id>851155004</id>
+      <parentid>849008317</parentid>
+      <timestamp>2018-07-20T12:48:13Z</timestamp>
+      <contributor>
+        <username>Sandstein</username>
+        <id>359256</id>
+      </contributor>
+      <minor/>
+      <comment>Removing link(s): [[Wikipedia:Articles for deletion/Horrorween (2nd nomination)]] closed as delete ([[WP:XFDC|XFDcloser]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8405">{{Infobox comedian &lt;!-- for individuals - see Template:Infobox comedian for usage --&gt;
+| name                 = Charlie Callas
+| image                = Callas-Charlie.jpg
+| image_size           = 
+| alt                  = 
+| caption              = Callas in 1956
+| pseudonym            = 
+| birth_name           = Charles Callias
+| native_name          = 
+| native_name_lang     = 
+| birth_date           = {{Birth date|mf=yes|1924|12|20}}&lt;ref name=Lentz/&gt;
+| birth_place          = [[Brooklyn, New York]], U.S.
+| death_date           = {{Death date and age|mf=yes|2011|01|27|1924|12|20}}
+| death_place          = [[Las Vegas, Nevada]], U.S.
+| resting_place        = 
+| resting_place_coordinates = 
+| medium               = 
+| nationality          = [[United States|American]]
+| education            = 
+| alma_mater           = 
+| active               = 1964–2011
+| employer             = 
+| genre                = Stand-Up, Dark Comedy
+| subject              = Nervous Chattering,&lt;br /&gt;Rubber Face
+| spouse               = Evelyn Callas (1942–2010; her death); 2 children)
+| children             = 
+| parents              = 
+| relatives            = 
+| notable_work         = 
+| memorials            = 
+| signature            = 
+| website              = 
+| footnotes            = 
+| module               = 
+&lt;!-- Unsupported parameters --&gt;
+&lt;!-- 
+|residence    = [[Las Vegas, Nevada]], U.S.
+|home_town    = [[New York City]] 
+|influences   = [[Groucho Marx]],&lt;br /&gt;[[Charlie Chaplin]]
+|influenced   = [[Larry the Cable Guy]]
+|religion     = Catholic
+|occupation   = Actor, comedian
+ --&gt;
+}}
+'''Charlie Callas''' (born '''Charles Callias'''; December 20, 1924&amp;nbsp;– January 27, 2011) was an American [[comedian]] and [[actor]] most commonly known for his work with [[Mel Brooks]], [[Jerry Lewis]], and [[Dean Martin]], and his many [[Stand-up comedy|stand-up]] appearances on television [[talk show]]s in the 1970s.  He was also known for his role as Malcolm Argos, the restaurant owner and former con man, on the [[Eddie Albert]] and [[Robert Wagner]] television series ''[[Switch (TV series)|Switch]]'' (1975–1978). Callas was also known as the voice of Elliott the dragon in [[The Walt Disney Company|Disney]]'s [[List of films with live action and animation|live-action/animated]] [[musical film]] ''[[Pete's Dragon (1977 film)|Pete's Dragon]]'' (1977).
+
+==Life and career==
+Callas was born in [[Brooklyn, New York]], as '''Charles Callias''', the son of a Greek father and German mother. He served in the [[United States Army]] during [[World War II]]. He began his career as a drummer playing in groups with [[Bernie Cummins]],&lt;ref name="cummins"&gt;{{cite book|last=Walker|first=Leo|title=The Big Band Almanac|page=92|publisher=[[Da Capo Press]]|year=1989|isbn=978-0-306-80345-1}}&lt;/ref&gt; [[Tommy Dorsey]], [[Claude Thornhill]], and [[Buddy Rich]].&lt;ref name="dhevesinyt"&gt;{{cite news|url=https://www.nytimes.com/2011/01/29/arts/television/29callas.html|work=The New York Times|first=Dennis|last=Hevesi|title=Charlie Callas, Zany Comedian, Dies|date=January 28, 2011}}&lt;/ref&gt; He dropped a vowel from his legal name, Callias, when he took to the stage.
+
+Callas was known for his rubbery face, trademark nervous chattering, and [[Black comedy|dark comedy]]. His first television appearance was in 1963 on ''[[The Hollywood Palace]]'', and he soon was opening for [[Frank Sinatra]] in nightclubs around the country. In 1965 he played Lefty in a gambling parlor/laundry in The Munsters, season 2, episode 16, "Herman Picks a Winner."  He made nearly 50 appearances on ''[[The Tonight Show Starring Johnny Carson]]''. Appearing on an episode of ''[[The Merv Griffin Show]]'' in 1965, one of the guests, [[Jerry Lewis]], practically fell off his chair in hysterics as Callas performed his hunting routine. Lewis turned to Griffin and said he had to use Callas in his current project. That one appearance on the Griffin show landed Callas a role in the 1967 Lewis film ''[[The Big Mouth]]''. Lewis recalled the story on his short-lived 1984 talk show, in which Callas served as his sidekick and performed the hunting routine.&lt;ref name="dhevesinyt" /&gt;
+
+He was a regular guest on the Dean Martin Show roasts where he was called on to poke fun at celebrities, including [[Frank Sinatra]]&lt;ref&gt;[https://www.youtube.com/watch?v=THSlgkU4HBY "Charlie Callas Roasts Frank Sinatra"], fair use clip&lt;/ref&gt; and [[Don Rickles]],.&lt;ref&gt;[https://www.youtube.com/watch?v=RAieZ2M2Dwc "Charlie Callas Roasts Don Rickles"], fair use clip&lt;/ref&gt;. Callas had met and befriended [[ Bobby Vinton]] in Las Vegas and when [[Bobby Vinton|Vinton]] hit it big with a new TV show in 1975 Callas agreed to make a special appearance on ''[[The Bobby Vinton Show]]'' in October of that year.  He also appeared on ''[[The Andy Williams Show]]'' at various times as "Captain Weird", a parody of [[superhero]]es. Callas's only known dramatic role was that of a restaurant owner, Malcolm Argos, in the 1970s show, ''[[Switch (TV series)|Switch]]''. He was also a regular performer on ''[[The ABC Comedy Hour]]'' in 1972.&lt;ref name="dhevesinyt"/&gt; He was a semiregular on ''[[The Flip Wilson Show]]'' and co-host of ''[[The Joey Bishop Show (talk show)|The Joey Bishop Show]]''. His last television appearances were on ''Larry The Cable Guy's Christmas Spectacular'' (2007) and ''Larry The Cable Guy's Star-Studded Christmas Extravaganza'' (2008).&lt;ref name=Lentz&gt;Lentz, Haris M. ''Obituaries in the Performing Arts, 2011'', McFarland (2012) p. 51&lt;/ref&gt;
+
+==Death==
+On January 27, 2011, Callas died of natural causes at age 86, in his home in [[Las Vegas, Nevada]]. He is survived by his sons, Mark and Larry. His wife, Evelyn, died six months earlier, age 88.
+
+Tony Belmont, executive director of the National Comedy Hall of Fame in [[St. Petersburg, Florida]], said of Callas upon his death: "There were two things he did that made his career. He could think very fast on his feet, and he had an unbelievable number of sounds that he made with his voice. He would tell a joke about two guys hunting.  If you or I told it, the joke wasn't so funny.  But Charlie made it hysterical by sticking in these sounds; so you would hear the gun cocking, the duck flying overhead, the explosion of the shotgun and then the duck falling and screaming all the way to the ground."&lt;ref&gt;''The New York Times'' obituary, January 29, 2011, p. D8.&lt;/ref&gt;
+
+==Filmography==
+*''[[The Big Mouth]]'' (1967)&amp;nbsp;— Rex
+*''[[Switch (TV series)|Switch]]'' (1975–1978, TV Series)&amp;nbsp;— Malcolm Argos
+*''[[Silent Movie]]'' (1976)&amp;nbsp;— Blindman
+*''[[Pete's Dragon]]'' (1977)&amp;nbsp;— Elliott the Dragon (voice)
+*''[[High Anxiety]]'' (1977)&amp;nbsp;— Cocker Spaniel
+*''[[The Carpenters...Space Encounters]]'' (1978)&amp;nbsp;— Himself
+*''[[Legends of the Superheroes]]'' (1979, TV Series)&amp;nbsp;— [[Sinestro]]
+*''[[History of the World, Part I]]'' (1981)&amp;nbsp;— Soothsayer - The Roman Empire
+*''[[Rooster (film)|Rooster]]'' (1982, TV Movie)&amp;nbsp;— Francis A. Melville
+*''[[Hysterical (film)|Hysterical]]'' (1983)&amp;nbsp;— [[Count Dracula]]
+*''[[Gallavants]]'' (1984)&amp;nbsp;— Azor (voice)
+*''[[Dom DeLuise|The Dom DeLuise Show]]'' (1987, TV Series)&amp;nbsp;— Charlie
+*''[[Amazon Women on the Moon]]'' (1987)&amp;nbsp;— himself
+*''[[Silk Stalkings]]'' (1993, TV Series)&amp;nbsp;— El Cid
+*''[[Dracula: Dead and Loving It]]'' (1995)&amp;nbsp;— Man in Straitjacket
+*''Vampire Vixens from Venus'' (1995)&amp;nbsp;— Bartender
+*''Crooks'' (2002)&amp;nbsp;— Sol solzberg
+*''Horrorween'' (2010)&amp;nbsp;— Charlie Callas (final film role)
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|130324}}
+*[http://apusa.us/tag/charlie-callas-johnny-carson/ Associated Post Obituary]
+*[http://news-briefs.ew.com/2011/01/28/charlie-callas-dies/ EW.com note on Callas' passing]
+{{Authority control}}
+
+{{DEFAULTSORT:Callas, Charlie}}
+[[Category:1924 births]]
+[[Category:2011 deaths]]
+[[Category:American male film actors]]
+[[Category:American jazz drummers]]
+[[Category:American military personnel of World War II]]
+[[Category:American stand-up comedians]]
+[[Category:American male television actors]]
+[[Category:American people of Greek descent]]
+[[Category:Male actors from New York City]]
+[[Category:United States Army soldiers]]
+[[Category:Disease-related deaths in Nevada]]
+[[Category:Musicians from Brooklyn]]
+[[Category:People from Brooklyn]]
+[[Category:Comedians from New York City]]</text>
+      <sha1>sh6il45l82wsah3hp01arj9q0u05ufd</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jean Louis Conneau</title>
+    <ns>0</ns>
+    <id>30738424</id>
+    <revision>
+      <id>846677070</id>
+      <parentid>840616593</parentid>
+      <timestamp>2018-06-20T07:13:17Z</timestamp>
+      <contributor>
+        <username>LouisAlain</username>
+        <id>14909828</id>
+      </contributor>
+      <comment>more precise category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4191">{{Infobox person
+|name    = Jean Louis Conneau
+|image    = Jean Louis Conneau.jpg
+|caption   = Jean Louis Conneau aka André Beaumont
+|birth_date = {{birth date|1880|02|08|df=y}}
+|birth_place = [[Lodève]], [[Hérault]]
+|death_date = {{death date and age|1937|08|05|1880|02|08|df=y}}
+|death_place = Lodève, France
+|other_names = André Beaumont
+|known_for  = winning Air races - 1911 'Paris-Rome'; 'Circuit d'Europe'; [[Daily Mail Circuit of Britain Air Race|Circuit of Britain Race]] 
+|occupation = Naval Lieutenant,&lt;br&gt;Aircraft pilot,&lt;br&gt;Company director,&lt;br&gt;Flying boat manufacturer
+|nationality = French
+}}
+
+'''Jean Louis Conneau''' (8 Feb 1880 [[Lodève]], [[Hérault]] &amp;ndash; 5 August 1937, Lodève), better known under the pseudonym '''André Beaumont''', was a pioneer [[French people|French]] [[aviator]], Naval [[Lieutenant]] and Flying boat manufacturer.&lt;ref name="EarlyAv"&gt;[http://earlyaviators.com/econneau.htm Early Aviators - profile of Jean Conneau, AKA André Beaumont]&lt;/ref&gt;
+
+==Flying career==
+Conneau used the pseudonym "Beaumont" because, as a serving member of the French armed forces, he was not permitted to use his own name. He earned his French pilot's license on 7 December 1910 (#322), and his military pilot's license on 18 December 1911 (#4).&lt;ref name="EarlyAv"/&gt;
+
+===Air races===
+
+In 1911 he won three of the toughest aeronautical tests: the 'Paris-Rome' race, the first ''[[Circuit of Europe|Circuit d'Europe]]'' (Tour of Europe) (Paris-Liege-Spa-Utrecht-Brussels-Calais-London-Calais-Paris) on 7 July 1911, and the [[Daily Mail]] [[Daily Mail Circuit of Britain Air Race|Circuit of Britain Race]] (England and Scotland) on 26 July 1911, flying a [[Blériot XI]].&lt;ref name="EarlyAv"/&gt;  He also participated in the ill-fated [[1911 Paris to Madrid air race]] in May the same year.
+
+During the Paris-Liege leg of the 'Circuit d'Europe' his support engineer and teammate [[Léon Lemartin]] was involved in a fatal accident on take-off.&lt;ref name="NYT June 19, 1911"&gt;{{cite news |author= |coauthors= |title=Three Men Die In Paris Flight. Five Also Hurt at Start of Big Circuit Race to London and Back. |url=https://select.nytimes.com/gst/abstract.html?res=FA0B17F93F5517738DDDA00994DE405B818DF1D3 |quote=Two prominent aviators were killed and several injured in the first stage of the European Circuit aeroplane race from Paris to London and back, which started to-day from the aviation field at Vincennes, with stops at various places going and returning, while another competitor was killed near Chateau-Thierry. |work=[[New York Times]] |date=June 19, 1911 |accessdate=2010-11-04 }}&lt;/ref&gt;
+
+===Aircraft manufacture===
+
+In 1913 he co-founded the [[Franco-British Aviation]] (FBA) to build [[flying boat]]s (Fr. ''Hydravions (Hydraplanes)''). It had its headquarters in London and a factory in Paris and supplied both the French and British armed services.&lt;ref&gt;{{cite web |url=http://earlyaviators.com/econneau.htm |title=Jean Conneau |accessdate=2010-11-04 |quote= |publisher=Early Aviators }}&lt;/ref&gt;
+
+As a flying boat pilot, during the [[World War I]] he commanded squadrons at [[Nice]], [[Bizerte]], [[Dunkirk]], and [[Venice]]. He worked at Franco-British Aviation perfecting flying boats for the French Navy from 1915 until 1919.  He later became the Technical Director of [[Donnet-Lévèque]] who manufactured flying boats.&lt;ref name="EarlyAv"/&gt;
+
+==Publications==
+[[Image:Gamy, Paris–Rome, Beaumont wins in Bleriot monoplane, 1911.jpg|thumb|Contemporary illustration of Conneau's victory in the Paris-Rome race]]
+*''Mes trois grandes courses'', (''My three major races'') Hachette, Paris, 1912.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20170617215220/http://www.exetermemories.co.uk/EM/_events/air_race.php  The Great 1911 Air Race visits Whipton]( Whipton, a stopping point for the contestants in the 1911 Circuit of Britain race)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Conneau, Jean}}
+[[Category:1880 births]]
+[[Category:1937 deaths]]
+[[Category:French aviators]]
+[[Category:Aviation history of France]]
+[[Category:Aviation pioneers]]
+[[Category:Members of the Early Birds of Aviation]]
+[[Category:People from Lodève]]</text>
+      <sha1>ijpvsh0zwbtym43vafn18uv7039xdqe</sha1>
+    </revision>
+  </page>
+</mediawiki>

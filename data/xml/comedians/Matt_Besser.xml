@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Matt Besser</title>
+    <ns>0</ns>
+    <id>997346</id>
+    <revision>
+      <id>845502754</id>
+      <parentid>838993251</parentid>
+      <timestamp>2018-06-12T06:12:00Z</timestamp>
+      <contributor>
+        <username>Wikishelt</username>
+        <id>25295387</id>
+      </contributor>
+      <minor/>
+      <comment>Fixed comma consistency and other grammar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11010">{{Infobox person
+| image = MattBesser.jpg
+| imagesize = 140px
+| caption = Besser in June 2006
+| birthname = Matthew Gregory Besser
+| birth_date = {{birth date and age|1967|9|22}}
+| birth_place = [[Little Rock, Arkansas]], [[United States|U.S.]]
+| occupation = Actor, comedian, writer
+| yearsactive = 1988–present
+| spouse = {{marriage|[[Danielle Schneider]]|2008|}}
+| children = 1
+| website = {{URL|mattbesser.com}}
+}}
+
+'''Matthew Gregory "Matt" Besser''' (born September 22, 1967) is an [[United States|American]] actor, director and comedian best known as one of the four founding members of the [[Upright Citizens Brigade]] sketch comedy troupe, who had their own show on [[Comedy Central]] from 1998–2000. He currently hosts the improvisation-based podcast ''Improv4humans'' on the [[Earwolf]] podcasting network.
+
+==Early life==
+Besser was born and raised in [[Little Rock, Arkansas]],&lt;ref&gt;{{cite web|last=Edwards|first=Gavin|title=The Merry Pranksters|url=http://rulefortytwo.com/articles-essays/movies/upright-citizens-brigade/|work=Details Magazine|accessdate=2011-08-22}}&lt;/ref&gt; to parents Diane and Sandy Besser.&lt;ref&gt;[http://eggmanwalrus.com/the-funny-ones-selections-from-the-diane-and-sandy-besser-collection-april-6-may-20-2012/ "The Funny Ones" selections from the Diane and Sandy Besser Collection / Opening Reception Friday April 20th, 2012, | Eggman &amp; Walrus Art Emporium&lt;!-- Bot generated title --&gt;] {{webarchive|url=https://web.archive.org/web/20141011221709/http://eggmanwalrus.com/the-funny-ones-selections-from-the-diane-and-sandy-besser-collection-april-6-may-20-2012/ |date=2014-10-11 }}&lt;/ref&gt; His father was Jewish and his mother was Christian, and Besser is an atheist.&lt;ref&gt;[http://www.mattbesser.com/?page_id=853 Nashville Scene Review |&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://heebmagazine.com/matt-besser-the-_heeb_-interview/3612 Matt Besser: The _Heeb_ Interview | Heeb&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; He is also quarter German and quarter French from his mother's side.&lt;ref&gt;[http://totallylaimepodcast.com/2011/10/07/episode-88-matt-besser/ Totally Laime&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Besser's grandfather's cousin was [[Joe Besser]] of [[The Three Stooges]].&lt;ref&gt;[http://www.earwolf.com/episode/episode-9-matt-besser A Couple of Stooges, episode #9 of Who Charted? on Earwolf&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+He was recruited to play soccer after starting on his high school team, but instead attended [[Amherst College]] with a major in American Studies. There, he started doing [[stand-up comedy]] and competed in a contest at [[University of Massachusetts Amherst|UMass]] that was judged by [[Judd Apatow]].&lt;ref name="BA"&gt;{{cite web|title=BA #029: Matt Besser|url=http://boxangeles.com/2014/06/19/ba-029-matt-besser/|website=Box Angeles podcast}}&lt;/ref&gt; After graduating, he briefly moved to Denver in an attempt to pursue stand-up, but quickly moved to Chicago. He worked various odd jobs, including stints as a substitute teacher, a host at [[Carnegie Deli]] and a host at [[Dick's Last Resort]].&lt;ref name="BA"/&gt;
+
+==Career==
+After seeing an [[improvisational comedy]] show at [[iO Theater]] featuring [[Dave Koechner]], [[Tim Meadows]] and [[Chris Farley]], Besser began taking classes there.&lt;ref name="BA"/&gt; His improv group Victim's Family (alongside [[Rick Roman]], [[Adam McKay]], [[Miles Stroth]], and [[Ian Roberts (American actor)|Ian Roberts]]), later renamed The Family (minus Roman, plus [[Neil Flynn]], and [[Ali Farahnakian]]), was directed by [[Del Close]], the first long-form group Del focused on.&lt;ref name="BA"/&gt;
+
+Besser is a founding member of UCB, which began as a [[sketch comedy]] group in 1990. Original members included [[Ian Roberts (American actor)|Ian Roberts]], [[Ali Farahnakian]], [[Adam McKay]], [[Rick Roman]], and [[Horatio Sanz]]. During that time, UCB were regular guests on stage at the [[New Variety]] hosted by the Chicago Improv comedy club.&lt;ref name=Spitznagel&gt;{{cite news|last=Spitznagel|first=Eric|title=The New Variety Just Might Make Comedy Dangerous Again|newspaper=The Third Word magazine Sept/Oct issue|date=October 11, 1993}}&lt;/ref&gt;  While working at the New Variety, Besser was cast and directed by New Variety founder and Artistic Director [[Richard O'Donnell (playwright)|R. O’Donnell]] in the TV comedy/variety special Twisted which aired on Fox, Chicago. Twisted also featured Besser in a series of improvised commercials directed by O’Donnell for McDonald's, Toyota, and Ameritech along with stand-up comic Michelle Garb.
+
+In 1996, the UCB relocated to [[New York City]]. In NYC, they made three seasons of their sketch-comedy series ''[[Upright Citizens Brigade]]'' on [[Comedy Central]] from 1998 to 2000. The cast consisted of Besser, [[Amy Poehler]], [[Ian Roberts (American actor)|Ian Roberts]] and [[Matt Walsh (comedian)|Matt Walsh]]. It originally included a voice-over by [[Del Close]]. Since its cancellation, [[Comedy Central]] has since released all three seasons on DVD.
+
+Besser and the UCB moved on to other projects and opened comedy theaters in New York City and Los Angeles. He was the creator and co-star of the [[Method Man &amp; Redman|Redman]] &amp; [[Method Man]] MTV hidden camera prank show ''Stung''. In 2004, he created and starred in his second [[Comedy Central]] show, ''[[Crossballs]]'', which mocked news debate shows by pitting fake experts (played by Besser and other comedians) against real people.
+
+Besser has appeared in films such as ''[[Walk Hard: The Dewey Cox Story]]'', ''[[Martin &amp; Orloff]]'' (written by Ian Roberts and Matt Walsh), ''[[Year One (film)|Year One]]'', ''[[Undead or Alive]]'', ''[[Drillbit Taylor]]'', and ''[[Junebug (film)|Junebug]]'', in addition to a number of sitcoms like ''[[How I Met Your Mother]]''. In 2003, the UCB filmed their first full-length improvised movie, ''Wild Girls Gone''. After several years of being unreleased, in early 2010, the long-awaited film was screened at several indie theaters in the [[Los Angeles]] area and is now sold for digital download on iTunes and on DVD at the official ''UCB Theater'' website. The troupe had also performed their signature brand of longform improv (ASSSSCAT) in a special for the [[Bravo (US TV channel)|Bravo]] channel in 2005. In 2008, they released a [[DVD]] entitled ''ASSSSCAT!: Renegade Improv Comedy'' through [[Shout! Factory]], which features an uncensored improv performance by the troupe and special guests. The DVD also includes deleted scenes and along with other bonus features.
+
+In 2008, Besser played the part of "Courtney Frenchip", the hippie roommate of [[David Cross]] in ''David's Situation'', a pilot made for [[HBO]] written by Cross and [[Bob Odenkirk]]. As Odenkirk explained on his web site, "It will follow a traditional sitcom feeling, but will also feel like a big sketch, even though the characters will remain the same each week." The pilot was filmed live on May 9, 2008 but was not picked by HBO as a series. In 2013, he portrayed [[Edwin Stanton]] in the "Chicago" episode of [[Comedy Central]]'s ''[[Drunk History]]''.
+
+Besser and the UCB continue to run comedy theaters on both coasts. The [[Upright Citizens Brigade Theater]] currently has four locations: [[Chelsea, Manhattan]], the [[East Village, Manhattan]], [[Franklin Village, Los Angeles]], [[California]] and [[East Hollywood, Los Angeles]], [[California]]. Besser and the UCB currently perform several times a week at the Los Angeles theater, in their show ''ASSSSCAT 3000'' every Sunday night.
+
+==Other work==
+Besser makes frequent appearances on many podcasts on the Earwolf podcasting network, including ''[[Comedy Bang Bang]]'', as well as hosting "The Earwolf Challenge", a reality-competition series where several [[podcasters]] compete against each other.
+
+Besser's Comedy Central pilot ''This Show Will Get You High'' aired as a [[sketch comedy]] special on October 27, 2010. The show featured video shorts and sketches from Besser and [[Upright Citizens Brigade Theater]] comedians [[John Gemberling]], [[Brett Gelman]], [[Paul Rust]], and [[Betsy Sodaro]].&lt;ref&gt;[http://www.mattbesser.com THIS SHOW WILL GET YOU HIGH on Comedy Central]&lt;/ref&gt;
+
+In 2011, Besser began hosting the ''Improv4humans'' podcast, where he and guest improvisers perform scenes based on suggestions sent in via [[Twitter]]. The podcast releases an episode each week and has differing guests.
+
+Besser wrote and directed his first film, ''[[Freak Dance (film)|Freak Dance]]'',&lt;ref&gt;[http://www.blankmaninc.com/matt-besser-interview Matt Besser interview on blankmaninc.com] (July 9, 2012)&lt;/ref&gt; based on his long-running UCB stage show. The film premiered at the [[Austin Film Festival]] on October 21, 2011 and had a limited theatrical and [[video on-demand]] release in May 2012. The film was made available on DVD and iTunes on July 10, 2012.
+
+In 2014, Besser and comedian [[Rich Fulcher]] had an [[Adult Swim]] special air as part of the channel's "4AM Infomercial Parody" series, called ''In Search Of Miracle Man''. Besser and Fulcher hosted the show as two men claiming the second coming of a savior they call "Miracle Man".
+
+Besser co-starred in both seasons of the [[Hulu]] comedy series ''[[The Hotwives]]'', which stars his wife [[Danielle Schneider]], who also co-created the series. Besser plays the husband of Schneider's character.  In 2015, Besser and Schneider played another married couple ("Blake and Karen") in the epilogue of a 2015 episode of the comedy series ''[[Community (TV series)|Community]]''.
+
+==Personal life==
+Besser married actress-comedian [[Danielle Schneider]] in 2008. Their first child, a daughter Sidney Diane Besser, was born on July 29, 2013.
+
+Besser dated comedian [[Amy Poehler]] in the 1990s, when they were both improvisers in Chicago at [[ImprovOlympic]].&lt;ref&gt;{{Cite book|title = Yes Please|last = Poehler|first = Amy|publisher = Harper Collins|year = 2014|isbn = 978-1-74353-415-1|location = United States|pages = 111}}&lt;/ref&gt;
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.mattbesser.com/ Official Site]
+*{{IMDb name|78800}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Besser, Matt}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:American atheists]]
+[[Category:American male film actors]]
+[[Category:American stand-up comedians]]
+[[Category:American podcasters]]
+[[Category:American male television actors]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish American writers]]
+[[Category:Jewish atheists]]
+[[Category:Little Rock Central High School alumni]]
+[[Category:Male actors from Little Rock, Arkansas]]
+[[Category:Pranksters]]
+[[Category:Amherst College alumni]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American sketch comedians]]
+[[Category:Upright Citizens Brigade Theater performers]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>svvpqfcvgmz2gksbvj3jkzrrk1mfyxf</sha1>
+    </revision>
+  </page>
+</mediawiki>

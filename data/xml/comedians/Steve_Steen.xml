@@ -1,0 +1,125 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steve Steen</title>
+    <ns>0</ns>
+    <id>3281751</id>
+    <revision>
+      <id>854816515</id>
+      <parentid>853282411</parentid>
+      <timestamp>2018-08-14T00:26:24Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4132">{{one source|date=July 2015}}
+{{Infobox person
+| name        = Steve Steen
+| image       = &lt;!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] --&gt;
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date and age|1954|12|26|do}}
+| birth_place = [[Lambeth]], [[London]], [[England]]
+| death_date  = 
+| death_place = 
+| nationality = 
+| other_names = 
+| known_for   = 
+| occupation  = Actor, voice actor, comedian, musician
+}}
+
+'''Steve Steen''' (born 26 December 1954) is a British television, radio and theatre actor and comedian, known for [[improvisational comedy]] works.
+
+==Early career==
+Whilst a pupil at [[Clapham College]] in London, Steen became friends with [[Jim Sweeney (comedian)|Jim Sweeney]], and they joined Oval House theatre club in 1972.Together they developed the format of improvised comedy that has since become the mainstream in programmes such as '[[Whose Line Is It Anyway? (UK TV series)|Whose Line Is It Anyway?]]'. They wrote and performed in a show that parodied much of the other shows being held in London that year. Then they formed their own theatre company and wrote and toured its productions around the United Kingdom through the 1970s.
+
+==1980s==
+In the 1980s Steen and Sweeney moved into television production, appearing together for the first time in 1981 on the [[ITV Network|ITV]] children's show ''[[CBTV (Thames)|CBTV]]'', followed by one of [[Channel 4]]'s first comedies, ''Little Armadillos''. Around this period Steen appeared in the [[Ben Elton]] comedy ''[[Happy Families (1985 TV series)|Happy Families]]''.&lt;ref&gt;{{IMDb name|0824797}}&lt;/ref&gt;
+
+[[Rory Bremner]] recruited them{{When|date=July 2015}} as resident support performers on his first [[sketch show]] for the [[BBC]]. In 1987 they starred as the Romantic poets [[George Gordon Byron, 6th Baron Byron|Byron]] and [[Samuel Taylor Coleridge|Coleridge]] (Steen playing Byron) in an episode entitled "[[Ink and Incapability]]" of the comedy series ''[[Blackadder the Third]]''.&lt;ref&gt;{{IMDb name|0824797}}&lt;/ref&gt;
+
+==Radio==
+Steen had a major roles in Sweeney's award-winning play ''Danny's Wake'', which was subsequently adapted into a sitcom for BBC Radio 4. Steen continued to play the character of Billy throughout the two series. He played the character of Liam in the radio of ''[[Any Bloke]]''. He also starred as [[George Melly]] in BBC Radio 4's adaptation of the Melly's memoir ''Owning Up''.
+
+==1990s==
+Along with Sweeney, Steen appeared in the Channel 4 television improvisational show ''[[Whose Line Is It Anyway? (UK TV series)|Whose Line Is It Anyway?]]'' for six episodes. He also was a guest on the BBC's comedy panel-game ''[[Have I Got News for You]]'' in 1992.
+
+==2000s==
+Steen worked in one-off acting roles on television and with improvisation theatre tours, and solo theatre shows playing [[Bill Bryson]] in three adaptations of his work by the writer/director Paul Hodson, and also performed in a one-man show about the American comedian [[John Belushi]] written by Hodson.
+
+In 2000, Steen played the voice of [[El Nombre]] in the TV show after the Mexican's gerbil name.
+
+In 2005, Steen appeared at the [[Royal National Theatre|National Theatre]] in London as [[Charles Dickens]] in ''Theatre of Blood'', based on the 1970 cinema [[Theatre of Blood|film of the same name]].
+
+Steen continues improvisation work with the [[Comedy Store Players]], [[Paul Merton]]'s ''Impro Chums'', and [[Stephen Frost]]'s ''Impro All Stars''.
+
+==Personal life==
+Steen lives in [[East Molesey]], a small town on the South-West edge of London, in the County of [[Surrey]].&lt;ref&gt;Entry for Steen in [[LinkedIn]]. https://uk.linkedin.com/in/steve-steen-6286582b&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|0824797}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Steen, Steve}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:British male stage actors]]
+[[Category:British male comedians]]
+[[Category:British male television actors]]
+[[Category:Place of birth missing (living people)]]
+[[Category:People from Lambeth]]
+[[Category:People from Molesey]]</text>
+      <sha1>oduep6y6uuawrsimk0gy5vrogvn2gg8</sha1>
+    </revision>
+  </page>
+</mediawiki>

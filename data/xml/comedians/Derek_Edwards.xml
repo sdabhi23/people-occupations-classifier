@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Derek Edwards</title>
+    <ns>0</ns>
+    <id>989146</id>
+    <revision>
+      <id>845200772</id>
+      <parentid>837068328</parentid>
+      <timestamp>2018-06-10T04:13:57Z</timestamp>
+      <contributor>
+        <username>Alaney2k</username>
+        <id>209266</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */reduce overlinking using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1754">{{For|the rugby league footballer of the 1960s, and 1970s for Great Britain, Yorkshire, and Castleford|Derek Edwards (rugby league)}}
+{{Infobox person
+| name        = Derek Edwards
+| image       = 
+| alt         =
+| caption     =
+| birth_name  = 
+| birth_date  = 1958
+| birth_place = [[Timmins, Ontario]], Canada
+| death_date  =
+| death_place =
+| years_active = 1988–present
+| occupation  = Actor, comedian
+}}
+
+'''Derek Edwards''' (born 1958) is a [[Canadians|Canadian]] stand-up comedian and actor from [[Timmins]], [[Ontario]]. He went to [[Timmins High and Vocational School]].
+
+In 1995, he was the winner of the [[Vail]] National Comedy Invitational in Vail, [[Colorado]]. He is the only [[Canadians|Canadian]] to date to have won this award. He won the 2004 [[Canadian Comedy Award]] for best male stand-up. He has been featured in the [[Just for Laughs]] Comedy Festival five times, in 1997, 1999, 2003, 2008, and 2010.
+
+He has been referred to as "...the funniest man in Canada. Everybody knows that," by [[Rick Mercer]] and as an emulation of "...Kramer from [[Seinfeld]]...an odd, hysterically funny, brilliant artist," by [[Mitch Fatel]].&lt;ref&gt;{{YouTube|-PlhvoiWd7s}}&lt;/ref&gt;
+
+Edwards' style is defined by his low voice and sarcastic delivery. He now lives in [[Toronto]], Ontario.
+
+==Notes and references==
+{{Reflist}}
+*MacPherson, Guy. "Derek Edwards takes standup to next stage." Vancouver Sun. May 31, 2007.
+
+==External links==
+*{{IMDb name|0249939}}
+*[http://www.derekedwards.ca/ Derek Edwards]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Edwards, Derek}}
+[[Category:Living people]]
+[[Category:Canadian stand-up comedians]]
+[[Category:Male actors from Ontario]]
+[[Category:People from Timmins]]
+[[Category:1958 births]]
+
+
+{{Canada-comedian-stub}}</text>
+      <sha1>j0pvkibvhyopvrbkpasskr9fit9ct10</sha1>
+    </revision>
+  </page>
+</mediawiki>

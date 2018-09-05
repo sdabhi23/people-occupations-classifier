@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Francis Cleetus</title>
+    <ns>0</ns>
+    <id>43146271</id>
+    <revision>
+      <id>855523697</id>
+      <parentid>854093399</parentid>
+      <timestamp>2018-08-18T23:12:47Z</timestamp>
+      <contributor>
+        <username>Nardog</username>
+        <id>5908908</id>
+      </contributor>
+      <comment>fix pron</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9851">{{Use mdy dates|date=April 2018}}
+{{Infobox person
+| name = Francis Cleetus
+| image = Francis Cleetus portrait.jpg
+|caption=The cartoonist at a book launch event
+| nationality = [[Indian American]]
+| occupation = Creative director, cartoonist, painter, sculptor
+| notable works = ''[[It's Geek 2 Me]]'' 
+| website = {{url|franciscleetus.com}}
+
+}}
+
+'''Francis Cleetus''' ({{IPAc-en|ˈ|k|l|iː|t|ə|s}}) is an Indian-American creative director,&lt;ref&gt;{{cite news|url=http://adland.tv/ooh/mohawk-flooring-click-clack-done-print-campaign-usa|title=Ad campaign for Mohawk Flooring|date=June 5, 2008|work=Adland TV}}&lt;/ref&gt; [[cartoonist]],&lt;ref&gt;{{cite news|url=http://upperstclair.patch.com/articles/upper-st-clair-cartoonist-launches-book|title=Cartoonist launches Cartoon compilation|date=April 3, 2012|work=Upper St. Clair Patch}}&lt;/ref&gt; painter,&lt;ref&gt;{{cite news|url=http://upperstclair.patch.com/groups/arts-and-entertainment/p/upper-st-clair-man-s-artwork-featured-at-phipps|title=Ceiling Murals at the Phipps Conservatory|date=February 16, 2012|work=Upper St. Clair Patch}}&lt;/ref&gt; and sculptor.&lt;ref&gt;{{cite news|url=https://thealmanac.net/life-culture/upper-st-clair-artist-s-work-featured-in-gallery-crawl/article_4675fed6-fbd4-11e7-bb09-0b721a075d2f.html|title=Upper St. Clair painter and sculptor|date=January 18, 2018|work=The Almanac}}&lt;/ref&gt; He picked up and developed these skills while working on [[Multinational corporation|multinational]] brands at ad agencies in [[India]], Hong Kong and the US.
+
+A member of the [[National Cartoonists Society|National Cartoonists Society of America]], Francis is the creator of the tech toon ''[[It's Geek 2 Me]]''. He has drawn cartoons for the Pittsburgh Tech Council's ''TEQ magazine'',&lt;ref&gt;{{cite news|url=https://pittsburghtechburgher.wordpress.com/2012/04/30/toon-in-its-geek-2-me-lands-on-the-pages-of-teq/|title="It's Geek 2 Me" Lands on the Pages of TEQ|date=April 30, 2012|work=Tech Burgher}}&lt;/ref&gt; [[Tata Consultancy Services]]' ''@TCS'' magazine and other publications. A self-taught artist, Francis has created [[contemporary art|contemporary]] art based on Indian [[theme (arts)|theme]]s since the nineties. In the course of his day job as a creative director, he has also developed award-winning ad campaigns for brands like [[Hewlett-Packard|HP]], [[Moen (company)|Moen]],&lt;ref&gt;{{cite news|url=http://adsoftheworld.com/media/print/moen_green_3/|title=Print campaign for Moen faucets|date=November 12, 2008|work=Ads of the world}}&lt;/ref&gt; [[Philips]], [[Maker's Mark]],&lt;ref&gt;{{cite news|url=http://www.bestadsontv.com/ad/33453/Francis-Cleetus-Better-with-Age|title=Magazine ads for Maker's Mark bourbon|date=November 30, 2005|work=Best Ads on TV}}&lt;/ref&gt; [[Nike, Inc.|Nike]] and [[MTV]],&lt;ref&gt;{{cite news|url=http://www.luerzersarchive.com/en/magazine/print-detail/mtv-15230.html|title=MTV – Magazine ads|date=April 10, 2000|work=Lürzer's Achive}}&lt;/ref&gt; among others.
+
+Francis lives in [[Pittsburgh]], Pennsylvania in the United States with his wife and two daughters, and continues to create new ads, cartoons and art for a global audience.
+
+==''It's Geek 2 Me'' cartoons==
+{{main|It's Geek 2 Me}}
+
+[[File:Group shot of cartoon characters..jpg|thumb|left|"It's Geek 2 Me" cartoon characters.]]
+
+A tech [[cartoon]] about people and their off-center relationships with computers, the Internet, [[Social networking service|social networks]], [[Smartphone|smart phones]], MP3 players and [[e-book reader]]s, "It's Geek 2 Me" pokes fun at the [[ubiquitous]] role of technology in people's lives. Francis [[self-published]] his first compilation of tech cartoons in 2012 as a paperback titled ''Wish Your Mouth Had A Backspace Key'' in the United States through [[Amazon.com]].&lt;ref&gt;{{cite news|url=http://www.popcitymedia.com/innovationnews/geek050411.aspx|title=Pittsburgh cartoonist takes aim at technology|date=May 4, 2011|work=PopCity Media}}&lt;/ref&gt; In 2013, a new compilation titled ''It's Geek 2 Me – Total Timepass Tech Toons''&lt;ref&gt;{{cite news|url=http://www.hachetteindia.com/TitleDetails.aspx?titleId=43430|title=Hachette India releases "Total Timepass Tech Toons"|date=August 15, 2013|work=Hachette India}}&lt;/ref&gt; was [[published]] by [[Hachette (publisher)|Hachette India]] for the [[Indian subcontinent]].
+
+[[File:Finishing touches to mural..jpg|thumb|right|Adding finishing touches to a mural.]]
+
+==Contemporary Indian art==
+
+Over the years, Francis' art has been featured in various visual art exhibits. In 2012, the [[Phipps Conservatory and Botanical Gardens]] in [[Pittsburgh]] commissioned him to recreate ceiling murals from a 16th-century palace&lt;ref&gt;{{cite news|url=http://upperstclair.patch.com/groups/arts-and-entertainment/p/upper-st-clair-man-s-artwork-featured-at-phipps|title=Ceiling Murals at the Phipps Conservatory|date=February 16, 2012|work=Upper St. Clair Patch}}&lt;/ref&gt; for their 'Tropical Forest India'&lt;ref&gt;{{cite news|url=http://events.post-gazette.com/pittsburgh_pa/events/show/370154438-tropical-forest-india|title=Tropical Forest India exhibit|date=April 5, 2012|work=Pittsburgh Post-Gazette}}&lt;/ref&gt; exhibit. In 2017, the Asia Institute – Crane House based in [[Louisville]], invited Francis to showcase his artwork in a solo exhibition.&lt;ref&gt;{{cite news|url=https://allevents.in/louisville/karmalogue-francis-cleetus-exhibition-gallery-opening/1903586453217596|title=Francis Cleetus Exhibition Gallery Opening|date=June 9, 2017|work=All Events Louisville}}&lt;/ref&gt; Pittsburgh's #Notwhite Collective featured Francis' work in their 2018 juried exhibition&lt;ref&gt;{{cite news|url=https://www.pghcitypaper.com/pittsburgh/in-between-the-middle/Event?oid=6182202|title=Notwhite Collective holds inaugural exhibition|date=January 10, 2018|work=Pittsburgh City Paper}}&lt;/ref&gt; 'In Between the Middle&lt;ref&gt;{{cite news|url=http://www.post-gazette.com/ae/art-architecture/2018/01/09/notwhite-collective-arts-exhibition-Brew-House-South-Side/stories/201712270010|title=In Between the Middle at the Brew House|date=January 9, 2018|work=Pittsburgh Post-Gazette}}&lt;/ref&gt;'. In 2018, the [[Greater Pittsburgh]] Arts Council (GPAC) invited Francis to create Karmalogue,&lt;ref&gt;{{cite news|url=http://www.pittsburghartscouncil.org/events-and-workshops-etc/gpacevents/event/562|title=Opening Reception :Karmalogue|date=January 26, 2018|work=Pittsburgh Arts Council}}&lt;/ref&gt; a themed art show,&lt;ref&gt;{{cite news|url=http://www.pittsburghpatrika.com/2018/04/francis-cleetus-vibrant-paintings-on-display/|title=Vibrant Art on Display|date=April 10, 2018|work=Pittsburgh Patrika}}&lt;/ref&gt; as part of the quarterly Gallery Crawl&lt;ref&gt;{{cite news|url=https://thealmanac.net/life-culture/upper-st-clair-artist-s-work-featured-in-gallery-crawl/article_4675fed6-fbd4-11e7-bb09-0b721a075d2f.html|title=Upper St. Clair artist's work featured in Gallery Crawl|date=January 18, 2018|work=The Almanac}}&lt;/ref&gt; organized by the [[Pittsburgh Cultural Trust]].
+
+[[File:KYTourism1.jpg|thumb|left|Print Ad for Kentucky Tourism.]]
+
+==Advertising campaigns==
+
+An insightful [[copywriter]], [[art director]]&lt;ref&gt;{{cite news|url=http://www.advertolog.com/pearl-dean/print-outdoor/jellyfish-571305/|title= Campaign for Pearl &amp; Dean|date=February 1, 1998|work=Advertolog}}&lt;/ref&gt; and creative director, Francis has created advertising campaigns across traditional, digital, social and unconventional media at ad agencies in three countries. After spending his formative years in the ad business at [[FCB (advertising agency)|Draft FCB]] in India, he moved in the mid-nineties to Hong Kong and worked at [[Ogilvy &amp; Mather|Ogilvy]], [[J. Walter Thompson|JWT]]&lt;ref&gt;{{cite news|url=http://www.adeevee.com/1998/08/pearl-dean-led-advertising-panels-angler-fish-print/|title=Print Ads – Pearl &amp; Dean LED Panels|date=August 16, 1998|work=Adeevee.com}}&lt;/ref&gt; and [[D'Arcy Masius Benton &amp; Bowles|D'Arcy]], before relocating to the United States in 2001 to work at [[Doe-Anderson Inc.|Doe-Anderson]].&lt;ref&gt;{{cite news|url=http://www.campaignasia.com/article/headlines-cleetus-leaves-darcy-for-us-position/180322|title=Cleetus leaves Darcy for US position|date=February 2, 2001|work=Campaign Asia}}&lt;/ref&gt; In 2007, he moved to Pittsburgh-based agency, [[MARC USA]]&lt;ref&gt;{{cite news|url=http://www.adeevee.com/2009/07/the-epilepsy-foundation-of-western-central-pennsylvania-interruption-print/|title=Print Campaign for the Epilepsy Foundation|date=July 10, 2009|work=Adeevee.com}}&lt;/ref&gt; and worked there for several years. His integrated [[advertising campaign]]s&lt;ref&gt;{{cite news|url=http://www.bestadsontv.com/ad/33453/Francis-Cleetus-Better-with-Age|title=Maker's Mark ad campaign|date=November 30, 2005|work=Best Ads on TV}}&lt;/ref&gt; have crossed geographic as well as cultural borders, and won a host of international creative awards.
+
+==Compilations==
+# ''Total Timepass Tech Toons'' (August 2013, [[Hachette (publisher)|Hachette India]], {{ISBN|978-93-5009-624-6}})
+# ''Wish Your Mouth Had a Backspace Key'' (October 2006, [[Amazon.com]], {{ISBN|978-14495-8712-3}})
+
+== References ==
+
+{{Reflist|colwidth=30em}}
+
+== External links ==
+*[http://www.franciscleetus.com Cleetus with a 'C' as in Creative]
+*[http://www.geek-2-me.com  "It's Geek 2 Me" tech toons]
+*[https://www.amazon.in/Its-Geek-To-Francis-Cleetus/dp/9350096242/ref=sr_1_1?ie=UTF8&amp;qid=1385554307&amp;sr=8-1&amp;keywords=it%27s+geek+to+me Total Timepass Tech Toons] ''on Amazon.in''
+*[https://www.amazon.com/Wish-your-mouth-backspace-Its-Geek-2-Me/dp/1449587127 Wish Your Mouth Had A Backspace Key] ''on Amazon.com''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cleetus, Francis}}
+[[Category:Living people]]
+[[Category:American male artists of Indian descent]]
+[[Category:American male artists]]
+[[Category:American artists]]
+[[Category:American comic strip cartoonists]]
+[[Category:American cartoonists]]
+[[Category:Copywriters]]
+[[Category:American art directors]]
+[[Category:Creative directors]]</text>
+      <sha1>cnu04v75hfjoh898hqf87u1m9ajyu3g</sha1>
+    </revision>
+  </page>
+</mediawiki>

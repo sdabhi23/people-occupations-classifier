@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>James Postlethwaite</title>
+    <ns>0</ns>
+    <id>33978645</id>
+    <revision>
+      <id>845501748</id>
+      <parentid>827924451</parentid>
+      <timestamp>2018-06-12T06:05:29Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Barrow-built ships to [[:Category:Ships built in Barrow-in-Furness]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 May 3]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20995">{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{| {{Infobox ship begin |display title=ital}}
+{{Infobox ship image
+|Ship image=StateLibQld 1 150059 James Postlethwaite (ship).jpg
+|Ship caption=
+}}
+{{Infobox ship career
+|Ship country=Ireland
+|Ship flag={{shipboxflag|United Kingdom|civil}} {{shipboxflag|Ireland}}
+|Ship name=''James Postlethwaite''
+|Ship owner=Captain Ned Hall of Arklow
+|Ship builder=William Ashburner and Son
+|Ship laid down=
+|Ship launched=1881
+|Ship acquired=1909
+|Ship commissioned=
+|Ship decommissioned=
+|Ship struck=
+|Ship fate=Damaged in a storm, and burnt
+}}
+{{Infobox ship characteristics
+|Header caption=
+|Ship class=*Iron Schooner
+*12A1
+|Ship tonnage=134
+|Ship displacement=
+|Ship length=99.7'
+|Ship beam=23'
+|Ship draught = 10'1"
+|Ship hold depth=
+|Ship propulsion=Sail, Auxiliary motor fitted later
+|Ship sail plan=Three masted, fore-and-aft with topsails
+|Ship complement=
+}}
+|}
+'''''James Postlethwaite''''' was a [[schooner]], launched in 1881.  She operated out of [[Arklow]] after 1909.  She was in [[Hamburg]] on the day that Britain entered the [[First World War]] with its declaration of war against Germany.  Her crew was imprisoned and she was impounded and used as a barge to carry munitions.
+
+After the war, in difficult economic conditions, she resumed trading.  In 1929, a collier collided with, and sunk, her; however she was successfully salvaged.
+
+During the Second World War she supplied Irish agricultural products to Britain, and brought coal to Ireland.  In 1952 she featured in the film [[Moby Dick (1956 film)|''Moby Dick'']].  While still configured as a [[whaler]] she was damaged, beyond repair, by a storm.
+
+==Early career==
+''James Postlethwaite'' was built by William Ashburner and Son at [[Barrow-in-Furness|Barrow]] and was launched on 11 August 1881.  She was the second-last schooner built by William Ashburner and Son at Barrow.  William Ashburner died six days after ''James Postlethwaite'' was launched.{{#tag:ref|The last schooner built at Barrow was ''J &amp; M Garratt'' in April 1884{{#tag:ref
+|James Postlethwaite [http://www.mightyseas.co.uk/marhist/furness/ashburners/jamespostlethwaite.htm] ''Through Mighty Seas'' }}|group=lower-alpha}}  ''James Postlethwaite'' and ''ME Johnson'' were identical, having been built to the same plans, in the same yard.&lt;ref&gt;Latham page 55&lt;/ref&gt; ''James Postlethwaite'' was named after James Postlethwaite of Gleaston.&lt;ref group=lower-alpha&gt;''James Postlethwaite'' was named after James Postlethwaite, who died c 1880, from Gleaston of the shipbuilding firm of Perry &amp; Oistlethwaite in Ulverston.&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Brief Biography |url=http://www.concentric.net/~pvb/GEN/rpap.html |work=Pedigree of: Richard Postlethwaite |accessdate=7 December 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20120513001431/http://www.concentric.net/~pvb/GEN/rpap.html |archivedate=13 May 2012 |df= }}&lt;/ref&gt; The Ashburners built the ships for their own fleet:  Thomas Ashburner &amp; Co.  Captain Robert Roskell was the first master of ''James Postlethwaite''. ''James Postlethwaite'' and ''ME Johnson'' were [[Tramp trade|tramp]] [[Coastal trading vessel|coasters]].{{#tag:ref|As were most of the Arklow fleet, dependent on irregular cargoes|group=lower-alpha}}&lt;ref&gt;Smith, page 37&lt;/ref&gt; They served the ports of Britain and the east coast of Ireland as well as French and Belgian channel ports; but never ventured further.
+
+The Ashburner fleet was sold by auction in 1909.  Arklow ship-owners were very interested. Captain Ned Hall bought ''James Postlethwaite'' for £995.&lt;ref&gt;Greenhill page 195&lt;/ref&gt; ''ME Johnson'' was bought for £1110 by an Arklow [[consortium]] led by Captain Frank Tyrrell.{{#tag:ref|''ME Johnson'' was bought for £1110 by an Arklow consortium led by Captain Frank Tyrrell; it included and Captain Thomas Price, and members of the Kearon family.|group=lower-alpha}}  ''William Ashburner'' was the last to be auctioned, she was older, was built in 1876, yet went for a higher price than expected.{{#tag:ref|''William Ashburner'' was sold for a high price. The Arklow bidders dropped out and she was sold to the Bennetts of Connah Quay, in Wales for £1040.  In 1920 the Bennetts sold her to Arklow.  The under bidder was Philip Kelly Harris, a shipbuilder, whose company became [[Appledore Shipbuilders]] .  Harris then engaged Richard Ashburner to design a similar schooner, which he built in his own shipyard.  He named her ''PT Harris''.&lt;ref&gt;Basil Greenhill  "The Merchant Schooners"&lt;/ref&gt;|group=lower-alpha}}  In time, ''William Ashburner'' would join the Arklow fleet.
+
+==First World War==
+Under Captain Ned Hall,{{#tag:ref|Captain Edward Nealon Hall, Born in Arklow 3 January 1877|group=lower-alpha}}  ''James Postlethwaite'' frequented continental ports.  On 28 July 1914, the day Britain [[Declaration of war|declared war]] on Germany, ''James Postlethwaite'' was in Hamburg.   The ship was seized and the crew imprisoned.  There were five other Irish ships of the Palgrave-Murphy Line in the port on that day.  Some should have left, but the German port authorities used various excuses to delay their departure.&lt;ref name=s59&gt;Smith, page 59&lt;/ref&gt; They were ''City of Berlin'', ''City of Cadiz'', ''City of Belfast'', ''City of Hamburg'' and ''City of Munich''. The ships were [[Expropriation|expropriated]] and their crews imprisoned.  The ''City of Berlin'' was sunk as a [[blockship]].
+
+Other Arklow ships were lost, such as Robert Tyrrell's ''Vindex'' which was abandoned by her crew as the Germans [[Siege of Antwerp (1914)|overran Antwerp]].  On the other side, William Hall's ''Barkdale'' was detained by the [[Royal Navy]].  She was to deliver coal to [[Guaymas]], Mexico.  The coal was suspected of being destined for German [[Merchant raider|surface raiders]].
+
+German ships in British ports were also seized and most were auctioned off.  Three German schooners joined the Arklow fleet.  Captain George Tyrrell bought ''Erica'' for £1880, Captain Gregory bought ''Neptun'' for £370 and renamed her ''Kings Hill'' while Captain Gregory bought ''Johanna'' for £1510 and renamed her ''Shelton Abbey''.  While renaming ships was common elsewhere, it was very unusual in Arklow.&lt;ref&gt;Forde ''Maritime Arklow'' page 173&lt;/ref&gt;  ''Erica'' was sunk by the [[u-boat]] [[SM U-110|''U-110'']] on 8 February 1918 off [[Bardsey Island]].
+
+The Germans cut down ''James Postlethwaite''{{'}}s masts, converting her into a [[barge]].  She was used to carry ammunition on the [[Elbe]].
+
+== Ruhleben internment camp ==
+The crews were imprisoned first in [[Hamburg]] and then transferred to [[Ruhleben internment camp]] on a racecourse at [[Spandau]] near [[Berlin]]. Conditions were congested, insanitary, cold and dark.&lt;ref name=s59/&gt;
+
+When Captain Tyndall of ''City of Belfast'' fell ill, Captain Hall of ''James Postlethwaite'' cared for both crews.{{#tag:ref|The camp had "captains" (not sea captains) where the captain would take responsibility for a number of prisoners and could make representations on their behalf to the prison authorities|group=lower-alpha}}    The ''City of Belfast'' had crew from Arklow and Rush,&lt;ref&gt;{{cite news|title=Fingal sailors were held captive in Berlin in WW1|url=http://www.fingal-independent.ie/lifestyle/fingal-sailors-were-held-captive-in-berlin-in-ww1-663070.html|accessdate=3 December 2011|newspaper=Fingall Independent|date=16 September 2005}}&lt;/ref&gt; under Captain George Tyndall.  Other Arklow seamen from the [[Thomas Wilson Sons &amp; Co.|Wilson Line]] also associated with them,{{#tag:ref|John Kearney, John Graham and John Heaney|group=lower-alpha}} and there were 23 others from Rush.{{#tag:ref|David Snook, assistant research officer with the [[Maritime Institute of Ireland]] identified the 23 prisoners from Rush, his work was exhibited in the Dundalk County Museum as "Faces from the Past", see [http://www.irishmariners.ie] |group=lower-alpha}}  There were over 4,000 prisoners in Ruhleben, all were civilians.  A third of them were seamen.  The prisoners were allowed to administer their own affairs.  Sporting, cultural and educational groups developed.  The 'Ruhleben Irish Players' staged plays by [[John Millington Synge|Synge]] and [[George Bernard Shaw|Shaw]]&lt;ref name=s59/&gt; while [[William Shakespeare|Shakespeare]]{{'}}s plays were performed by the 'Ruhleban Dramatic Society'.  The prison authorities banned Shaw's [[Arms and the Man]],&lt;ref&gt;Ketchum, page 201&lt;/ref&gt; declaring "militaristic plays will not be tolerated".{{#tag:ref|The play is a satire, it could not be described as "militaristic"|group=lower-alpha}}. The 'Ruhleben Irish Players' included not just the seamen but other Irish civilians, such as [[R. M. Smyllie]].{{#tag:ref|Smyllie would later [[Editor-in-chief|edit]] [[The Irish Times]]|group=lower-alpha}} There were classes in [[navigation]].  A pupil from Dublin, of the ''City of Belfast'' obtained his [[Master mariner|extra-masters]] certificate and went on to be[[Harbourmaster|harbour master]] of [[Adelaide]].{{#tag:ref|Christopher Kean of Strand Road, Skerries, Dublin|group=lower-alpha}}
+
+There were efforts to arrange a [[prisoner exchange]] by [[Anthony Donelan|Captain Donelan]] [[Chief Whip]] of the [[Home Rule League|Irish Party]], John T. Donovan and other [[Member of Parliament|MPs]] from the [[Home Rule League|Home Rule Party]]&lt;ref&gt;Forde ''Maritime Arklow'' page 182&lt;/ref&gt; and Irish Peers, such as, [[Lord Charles Beresford]],{{#tag:ref|Beresford feared that the continuous detention of seamen would result in madness|group=lower-alpha}} with little success. 55 prisoners were released for Christmas 1915, including 2 from Arklow.&lt;ref&gt;Forde ''Maritime Arklow'' 177&lt;/ref&gt;&lt;ref group=lower-alpha&gt;One of them, Joseph Kane of the ''City of Munich'', went back to sea on SS ''Ottokar'' and was lost when she was sunk on 11 December 1917&lt;/ref&gt;
+
+On 10 October 1918, a month before the [[Armistice with Germany|armistice]], a large group of prisoners, including most of the Irish, were released.  This was the day that {{RMS|Leinster}} was torpedoed and sunk by ''UB-123'' off Dublin with the loss of over 500 lives – the greatest single loss of life in the [[Irish Sea]].  Many of the prisoners were ill.  Captain George Tyndall of the ''City of Belfast'' died ten days after his release.&lt;ref&gt;Forde ''Maritime Arklow'' page 185&lt;/ref&gt;
+
+== Post First World War ==
+After the war, ''James Postlethwaite'' was returned to Captain Ed Hall.  She was initially towed to [[South Shields]] for [[Refitting of boats|refitting]] as new masts were required, then to Arklow and [[Rigging|rerigged]].&lt;ref name=ma78&gt;Forde ''Maritime Arklow'' page 78&lt;/ref&gt; She resumed trading under Captain Hall, on a route from [[South Shields|Shields]] to [[Saint-Valery-en-Caux|St. Valery]]. By now sail was significantly less economic than motor vessels, but with the mini-boom which followed the war, sailing ships could still obtain cargoes.  In Ireland, the internal road and rail [[Irish Mercantile Marine during World War II#Background|networks had been neglected]].  It was often cheaper to send goods by sea rather than by road or rail.&lt;ref group=lower-alpha&gt;Freight from Arklow to Dublin by sea was 20% cheaper than by rail.&lt;/ref&gt;&lt;ref name=ma50&gt;Forde ''Maritime Arklow'' page 50&lt;/ref&gt; For some years,   ''James Postlethwaite'' secured such cargoes.  In 1926 an auxiliary engine was installed in ''James Postlethwaite''.  There was a good trade in sending wooden [[pit prop]]s to Wales. The [[1926 United Kingdom general strike|miners strike of 1926]] caused many schooners to be [[Layoff|laid-up]]. Captain Ned Hall retired in 1926.  In April 1929 Captain William Hagan&lt;ref group=lower-alpha&gt;Captain William Hagan, born 1884, 17 Fair Green, Arklow, died August 1935&lt;/ref&gt; purchased shares in ''James Postlethwaite'' and took command.
+
+On the night of 11 May 1929  ''James Postlethwaite'' was at anchor in [[Carlingford Lough]].  She was rammed by the steam [[Collier (ship)|collier]]  ''JJ Monks'' and sunk.  Captain William Hagan and the crew were rescued by the collier.   ''James Postlethwaite'' was salvaged and repaired.&lt;ref name=ma78 /&gt;
+
+Sailing ships became less popular in busy ports.  Motor ships were easier to manoeuvre and faster to discharge and load. ''James Postlethwaite'' was relegated to the smaller ports, carrying less valuable cargoes such as [[kelp]] from [[Kilrush]] to [[Bowling, West Dunbartonshire|Bowling]].&lt;ref name=ma50/&gt; It was difficult to compete with motor vessels.  The [[Anglo-Irish Trade War]] reduced the volume of cargoes which could be carried.  Competition became impossible when Dutch coasters arrived.  They were subsidised by the Dutch government.&lt;ref&gt;Forde ''Maritime Arklow'' page 52&lt;/ref&gt; The Arklow schooners could no longer secure cargoes, they were tied up along the [[River Avoca|Avoca River]], where they were left to decay.
+
+== Second World War ==
+
+At the outbreak of the [[Second World War]], known as [[The Emergency (Ireland)|"The Emergency"]]{{#tag:ref|"The Emergency" was an official euphemism used by the Irish Government to refer to the Second World War.&lt;ref&gt;{{cite journal | date = 2 September 1939 | title = Existence of National Emergency | journal = [[Dáil Éireann|Dáil]] debates | volume = 77 | pages = 19–20 | publisher = [[Government of Ireland]] | url = http://historicaldebates.oireachtas.ie/D/0077/D.0077.193909020007.html | accessdate = 2 April 2010 }}{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;|group=lower-alpha}} [[Irish neutrality during World War II|Ireland declared neutrality]] and became isolated as never before.&lt;ref&gt;Ferriter, page 100: (Quoting Garvin) "Irish isolationism was a very powerful cultural sentiment at that time".&lt;/ref&gt; Shipping had been neglected since the [[Irish War of Independence]]. Foreign ships, on which Ireland's trade had hitherto depended, were less available.  In his [[Saint Patrick's Day]] address in 1940, [[Taoiseach]] (Prime Minister) [[Éamon de Valera]] lamented:
+
+"No country had ever been more effectively blockaded because of the activities of belligerents and our lack of ships..."
+
+[[Éamon de Valera]] advocated [[self-sufficiency]] and discouraged [[International trade]], saying: "It was an important status symbol in the modern world for a country to produce her own goods and be self-sufficient."&lt;ref&gt;Dwyer, page 81.&lt;/ref&gt;  At the end of the [[Irish Civil War|civil war]] in 1923, the merchant fleet consisted of 127 ships. At the start of World War II in 1939, the fleet numbered only 56 ships.&lt;ref&gt;Forde ''The Long Watch'', page 1.&lt;/ref&gt; That 56 included the sailing ships taken out of retirement.  Only 5% of imports were carried on Irish flagged vessels.&lt;ref&gt;McIvor, page 85.&lt;/ref&gt;
+
+Ireland was a net food exporter. The excess was shipped to Britain. It was sailing ships, such as  ''James Postlethwaite'' who had long past their retirement which ensured that Irish agricultural exports reached Britain, and that British coal arrived in Ireland.  Sailing ships, which had been left to rot, were refitted out and once more took to the seas.  One, the Arklow schooner ''Antelope'', had been tied up for seven years.  ''Brooklands'' of Cork was built in 1859.&lt;ref&gt;Forde ''Long Watch'', page 2&lt;/ref&gt; Some were beyond salvage.  The Avoca river was cleared of old decayed, derelicts,{{#tag:ref|''Uncle Ned'' (1867), ''K.T.'' (1899), ''Tarragona'' (1863), ''Ellen'' (1864)|group=lower-alpha}}  They were broken up for fire-wood. 14 Arklow schooners resumed service under the [[Flag of Ireland|tricolour]],{{#tag:ref|''Agnes Craig'' (1884), ''Antelope'' (1885), ''Cymric'' (1893), ''de Wadden'' (1917), ''Gaelic'' (1898), ''Happy Harry'' (1894), ''Harvest King'' (1879), ''Invermore'' (1821), ''JT&amp;S'' (1918), ''James Postlethwaite'' (1881), ''Mary B Mitchell'' (1892), ''ME Johnson'' (1879), ''Venturer'' (1920) ''Windermere'' (1890)|group=lower-alpha}}  while one flew the [[Red Ensign]].{{#tag:ref|''William Ashburner'' (1876)|group=lower-alpha}}
+
+== Final career ==
+
+In 1945 she was given a new 120[[Horsepower|hp]] [[diesel engine]]; her masts were more drastically reduced and she was now little more than a motorship.&lt;ref&gt;Latham page 116&lt;/ref&gt; At the end of the war, the Dutch motor vessels returned, and sail could not economically compete. By 1950 Arklow ship-owners had acquired modern motor ships.  Captain James Tyrrell purchased [[Halronell#Empire Laird|''Halronell'']].  Captain Victor Hall acquired [[List of Empire ships (R)#Empire Reynard|''Kilbride'']].
+''James Postlethwaite'' made her last visit to Barrow in 1952 and soon after she was laid up at Arklow,&lt;ref name=ma78/&gt; the schooner trade by then being virtually defunct.
+
+''James Postlethwaite'' had one last role to play.  The Arklow schooners ''James Postlethwaite'' and ''Harvest King'' starred in the film ''[[Moby Dick (1956 film)|Moby Dick]]''.  In 1954 ''James Postlethwaite'' was towed by MV ''George Emelie'' to Youghal,&lt;ref name=ma78/&gt; where [[John Huston]] was filming "Moby Dick". She was outfitted as a [[whaler]].  ''James Postlethwaite'' played the part of ''Devil-Dam'', while ''Harvest King'' was ''Tit-Bit'' and [[Pequod (Moby-Dick)|''Pequod'']] was the schooner ''[[Ryelands]]''.{{#tag:ref|The schooner ''Ryelands'' was built by Nicholson &amp; Marsh at Glasson Dock and on 11 January 1887.  ''Ryelands'' spent her final years as a tourist attraction in Scarborough and in Morecambe. In 1972 she caught fire and was totally destroyed.&lt;ref&gt;[http://www.mightyseas.co.uk/marhist/lancaster/ryelands.htm Through Mighty Seas ''Ryelands'']&lt;/ref&gt;|group=lower-alpha}}
+
+In November a gale smashed ''James Postlethwaite'' into the quay at Youghal, causing irreparable damage. She was beached and remained derelict until she was finally set on fire on 7 October 1957.
+
+The wheel of the James Postlethwaite was salvaged and is now on display at the Moby Dick Inn.{{#tag:ref
+|James Postlethwaite [http://www.mightyseas.co.uk/marhist/furness/ashburners/jamespostlethwaite.htm] ''Through Mighty Seas'' }}
+
+1961 was the year when, ''de Wadden'', the last Arklow Schooner departed. The ''de Wadden'' is being restored by the [[Merseyside Maritime Museum]].&lt;ref&gt;{{cite web|title=The Quaysides are part of the Maritime Museum and you can visit during the summer months. |url=http://www.liverpoolmuseums.org.uk/nof/docks/trail1.html |work=A Walk around Ships and Quaysides |publisher=National Museums Liverpool |accessdate=5 December 2011 |quote=In the graving dock to your right is the De Wadden (1917). She is a Dutch built coastal motor schooner that spent her life working around the Irish Sea carrying coal, pit-props and other bulk cargoes. She is under restoration. |deadurl=yes |archiveurl=https://web.archive.org/web/20110928143902/http://www.liverpoolmuseums.org.uk/nof/docks/trail1.html |archivedate=28 September 2011 |df= }}&lt;/ref&gt;
+
+==See also==
+* [[Cymric (schooner)|''Cymric'']] Arklow Schooner
+* ''[[Mary B Mitchell (schooner)|Mary B Mitchell]]'' Arklow Schooner
+* {{MV|Murell}} Arklow ship
+* {{MV|Tyrronall}} Arklow Schooner
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book|last=deCourcy Ireland|first=John|title=Ireland and the Irish in Maritime History|year=1986|publisher=Glendale Press|location=DúnLaoghaire|isbn=0-907606-28-8}}
+* {{cite book|last=Dwyer|first=T Ryle|title=De Valera's Finest Hour|publisher=Mercier Press|location=Cork|year=1982|isbn=0-85342-675-9 }}
+* {{cite book|last=Fenton|first=Roy S|title=Mersey Rovers: the coastal tramp ship owners of Liverpool and the Mersey|year=1997|publisher=World Ship Society|isbn=978-0-905617-84-8}}
+* {{cite book|last=Ferriter|first=Diarmaid|title=What If?  Alternative Views of Twentieth-Century Ireland.|publisher=Gill &amp; Macmillan|year=2006|isbn=978-0-7171-3990-3}}
+* {{cite book|last=Forde|first=Frank|origyear=1981|year=2000|title=The Long Watch|publisher=New Island Books|ISBN=1-902602-42-0}}
+* {{cite book|last=Forde|first=Frank|title=Maritime Arklow|publisher=Glendale Press|location=Dún Laoghaire|year=1988|isbn=0-907606-51-2}}
+* {{cite book|last=Greenhill|first=Basil|title=The merchant schooners|publisher=Naval Institute Press|year=1988|isbn=0-87021-427-6}}
+* {{cite book|last=Latham|first=Tim|title=The Ashburner schooners|year=1991|publisher=Ready Rhino|isbn=0-9516792-0-1}}
+* {{cite book|last=McIvor|first=Aidan|title=A History of the Irish Naval Service|publisher=Irish Academic Press |location=Dublin|year=1994|isbn=0-7165-2523-2 }}
+* {{cite book|title=Arklow – last stronghold of sail|year=1986|edition=second|publisher=Arklow Historical Society|author=Jim Rees, Liam Charlton}}
+* {{cite book|last=Smith|first=Cornelius|title=The Shipping Murphys|location=Blackrock, Dublin|publisher=Albany Press|year=2004|isbn=0-9540340-1-5}}
+{{Refend}}
+
+== References ==
+{{reflist}}
+{{refend}}
+
+== Footnotes ==
+{{Reflist|group=lower-alpha}}
+
+[[Category:Schooners]]
+[[Category:1881 ships]]
+[[Category:Ships built in Barrow-in-Furness]]
+[[Category:Maritime history of Ireland]]</text>
+      <sha1>0res9v03eaj1j0fq9lnt76wa2uks2jw</sha1>
+    </revision>
+  </page>
+</mediawiki>

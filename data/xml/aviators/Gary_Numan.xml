@@ -1,0 +1,260 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gary Numan</title>
+    <ns>0</ns>
+    <id>46014</id>
+    <revision>
+      <id>850075433</id>
+      <parentid>849975718</parentid>
+      <timestamp>2018-07-13T12:33:36Z</timestamp>
+      <contributor>
+        <username>GorgeCustersSabre</username>
+        <id>8556143</id>
+      </contributor>
+      <comment>/* 2010s */ youtube can’t be used as a RS in this fashion</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="46704">{{EngvarB|date=May 2015}}
+{{Use British English|date=August 2017}}
+{{Use dmy dates|date=June 2016}}
+{{Infobox musical artist
+| image               = Garynuman2011.jpg
+&lt;!-- NOTE: Do not replace Garynuman2011.jpg unless it is with a photo under a public domain or free license (meaning NOT fair use). Any fair use photos (i.e. 'promotional photos') violate the Fair Use Policy and will be deleted. See [[Wikipedia:Fair]] use criteria --&gt;
+| image_size          = 200px
+| alt                 =
+| background          = solo_singer
+| caption             = Numan performing live in [[Manchester]], 2011
+| birth_name          = Gary Anthony James Webb
+| birth_date          = {{birth date and age|df=yes|1958|03|08}}
+| birth_place         = {{nowrap|[[Hammersmith]], [[London]], England}}
+| genre               = {{hlist|[[Synth-pop]]&lt;ref&gt;{{cite web| url=https://www.rollingstone.com/music/news/gary-numan-overcomes-panic-to-cut-new-album-20131014 | title=Gary Numan Overcomes 'Panic' to Cut New Album | work=[[Rolling Stone]] | date= 14 October 2013 | author=Chiu, David | accessdate=10 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url=https://www.theguardian.com/music/2013/nov/03/gary-numan-on-my-radar | title=Gary Numan's cultural highlights | work=[[The Guardian]] | last=Harper | first=Leah |date=3 November 2013 | accessdate=10 July 2017}}&lt;/ref&gt;|[[New wave music|new wave]]&lt;ref&gt;{{cite web| url=http://www.billboard.com/articles/6281331/gary-numan-scoring-film-from-inside | title=‘80s New Wave Icon Gary Numan Returns to Film Scoring for the First Time in 23 Years | work=[[Billboard (magazine)|Billboard]] |date= 13 October 2014 | accessdate=10 July 2017 | author=Gallo, Phil}}&lt;/ref&gt;|[[Electronic music|electronic]]&lt;ref name="bbc-review1"/&gt;&lt;ref name="flux"/&gt;|[[industrial rock]]&lt;ref&gt;{{cite web|url=https://www.austinchronicle.com/daily/music/2014-03-14/sxsw-live-shot-gary-numan/ | title=SXSW Live Shot: Gary Numan | work=[[The Austin Chronicle]]| date=14 March 2014 | accessdate=10 July 2017 | last=Whittaker | first=Richard }}&lt;/ref&gt;}}
+| occupation          = {{hlist|Singer|songwriter|composer|musician|record producer}}&lt;!--Please do not add to this list without first discussing your proposal on the talk page. --&gt;
+| instrument          = {{hlist|Vocals|keyboards|guitar}}&lt;!--- If you think an instrument should be listed or removed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument---&gt;
+| years_active        = 1977–present
+| label               = {{hlist|[[Atco Records|Atco]]|[[Beggars Banquet Records|Beggars Banquet]]|Numa|NBR|[[Illegal Records|Illegal]]|[[I.R.S. Records|I.R.S.]]|[[Eagle Records|Eagle]]|Machine Music Ltd.|Jagged Halo|[[Cooking Vinyl]]|[[Metropolis Records|Metropolis]]|[[Cleopatra Records|Cleopatra]]|Mortal|[[Bertelsmann Music Group|BMG]]}}
+| associated_acts     = {{hlist|[[Tubeway Army]]|[[Dramatis]]|[[Nine Inch Nails]]|[[Paul Gardiner]]|[[Bill Sharpe (musician)|Bill Sharpe]]|The Wave Team|[[Fear Factory]]|[[Battles (band)|Battles]]}}&lt;!--Please do not add to this list without first discussing your proposal on the talk page. --&gt;
+| website             = {{URL|garynuman.co.uk}}
+}}
+
+'''Gary Anthony James Webb''' (born 8 March 1958), known professionally as '''Gary Numan''', is an English singer, songwriter, composer, musician and record producer. Born in [[Hammersmith]], West London, he first entered the music industry as lead singer of the [[New wave music|new wave]] band [[Tubeway Army]]. After releasing two [[album]]s with the band, Numan released his debut solo album ''[[The Pleasure Principle (Gary Numan album)|The Pleasure Principle]]'' in 1979.
+
+With number-one singles "[[Are "Friends" Electric?|Are 'Friends' Electric?]]" and "[[Cars (song)|Cars]]", Numan achieved his peak of mainstream popularity in the late 1970s and early 1980s, but maintains a [[cult following]].&lt;ref&gt;{{cite web|last=Huey|first=Steve|title=Gary Numan: Artist Biography|url=http://www.allmusic.com/artist/gary-numan-mn0000183858/biography|publisher=[[AllMusic]]|accessdate=9 December 2013}}&lt;/ref&gt; His signature sound consists of heavy synthesiser [[Hook (music)|hooks]] fed through guitar [[Effects unit|effects pedals]], and he is considered a pioneer of commercial [[electronic music]].&lt;ref name="bbc-review1"&gt;{{cite web|last=Conmy|first=Mick|title=Gary Numan review|url=http://www.bbc.co.uk/oxford/content/articles/2008/03/17/numan_feature.shtml|publisher=BBC Online|date=17 March 2008|accessdate=4 July 2008}}&lt;/ref&gt;&lt;ref name="flux"&gt;{{cite web|last=Rik|title=Review, Gary Numan's "Hybrid"|url=http://www.fluxeuropa.com/gary_numan-hybrid.htm|publisher=Fluxeuropa|date=23 February 2003|accessdate=31 January 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090205184719/http://www.fluxeuropa.com/gary_numan-hybrid.htm|archivedate=5 February 2009|df=dmy-all}}&lt;/ref&gt; Numan is also known for his distinctive voice and [[Androgyny|androgynous]] "android" persona.&lt;ref name=Lester /&gt; In 2017 he received an [[Ivor Novello Awards|Ivor Novello Award]], the Inspiration Award, from the [[British Academy of Songwriters, Composers, and Authors]].
+
+==Early life==
+Gary Anthony James Webb was born on 8 March 1958 in [[Hammersmith]], [[West London (sub region)|West London]], the son of a [[British Airways]] bus driver based at [[Heathrow Airport]].&lt;ref name="Rees Crampton|1991|p=366"&gt;{{cite book|last1=Rees|first1=Dafydd|last2=Crampton|first2=Luke|title=Rock Movers and Shakers: An A to Z of the People Who Made Rock Happen|date=1991|publisher=ABC-CLIO|isbn=978-0874366617|page=366}}&lt;/ref&gt; He was educated at Town Farm Junior School in [[Stanwell|Stanwell, Surrey]], [[Ashford, Surrey|Ashford]] County Grammar School, then [[Upton Court Grammar School|Slough Grammar School]] in [[Berkshire]],&lt;ref&gt;{{cite web|url=http://www.80smusiclyrics.com/artists/garynuman.htm |archive-url=https://web.archive.org/web/20011228001032/http://www.80smusiclyrics.com/artists/garynuman.htm |dead-url=yes |archive-date=28 December 2001 |title=Gary Numan: Best Music from the 1980s |publisher=80smusiclyrics.com |date=8 March 1958 |accessdate=15 May 2011 |df= }} {{unreliable source?|date=March 2016}}&lt;/ref&gt; followed by Brooklands Technical College in Surrey. He joined the [[Air Training Corps]] as a teenager. He then briefly held various jobs including forklift truck driver, air conditioning ventilator fitter, and accounts clerk.
+
+When Numan was 15 years old, his father bought him a [[Gibson Les Paul]], which he regards as his most treasured possession.&lt;ref name=Webber&gt;{{cite web|last=Webber|first=Richard|title=Gary Numan: I had so much cash, all I wanted to do was spend|url=https://www.telegraph.co.uk/finance/personalfinance/fameandfortune/9028387/Gary-Numan-I-had-so-much-cash-all-I-wanted-to-do-was-spend.html|publisher=The Telegraph|accessdate=24 July 2012|date=22 January 2012}}&lt;/ref&gt; He played in various bands, including Mean Street and the Lasers, before forming [[Tubeway Army]] with his uncle, [[Jess Lidyard]], and [[Paul Gardiner]]. His initial pseudonym was "Valerian", probably in reference to the hero in French science fiction comic series ''[[Valérian and Laureline]]''.&lt;ref&gt;Steve Malins (1999). ''The Plan'' 1999 reissue liner notes&lt;/ref&gt; He later picked the surname "Numan" from an advert in the [[Yellow pages]] for a plumber whose surname was "Neumann".&lt;ref&gt;''Synth Britannia at the BBC'' program aired October 2009 on BBC4&lt;/ref&gt;
+
+==Career==
+
+===1970s===
+
+====Tubeway Army====
+Numan came to prominence at the end of the 1970s as lead singer, songwriter, and record producer for [[Tubeway Army]]. After recording an album's worth of [[punk rock|punk]]-influenced [[Demo (music)|demo tapes]] (released in 1984 as ''[[The Plan (Tubeway Army album)|The Plan]]''), he was signed by [[Beggars Banquet Records]] in 1978 and quickly released two singles, "[[That's Too Bad]]" and "[[Bombers (Gary Numan song)|Bombers]]", neither of which charted.
+
+A self-titled, [[New wave music|new wave]]-oriented [[Tubeway Army (album)|debut album]] later that same year sold out its limited run and introduced Numan's fascination with [[dystopia]]n science fiction&lt;ref name=Europopmusic&gt;{{cite web|title=Part 6: "Are friends electric? "|url=http://www.europopmusic.eu/Newsletters/History_electronic_music_part_6.html|work=The history of electronic music within European pop?"|publisher=Europopmusic|accessdate=24 July 2012}}&lt;/ref&gt; and synthesisers. Tubeway Army's third single, the dark-themed and slow-paced "[[Down in the Park]]" (1979), also failed to chart, but it would prove to be one of Numan's most enduring and oft-covered songs. It was featured with other contemporary hits on the soundtrack for the 1980 film ''[[Times Square (film)|Times Square]]'', and a live version of the song can be seen in the 1982 film ''[[Urgh! A Music War]]''. Following exposure in a television advertisement for [[Lee Cooper]] jeans with the jingle "Don't Be a Dummy",&lt;ref name=Europopmusic /&gt; Tubeway Army released the single "[[Are "Friends" Electric?|Are 'Friends' Electric?]]" in May 1979. The single took seven weeks before finally reaching No.&amp;nbsp;1 at the end of June; its parent album ''[[Replicas (album)|Replicas]]'' simultaneously reached No.&amp;nbsp;1.
+
+====As Gary Numan====
+A few months later Numan found success in the charts on both sides of the [[Atlantic Ocean]] with "[[Cars (song)|Cars]]", which peaked at No.&amp;nbsp;1 in the UK in 1979, No.&amp;nbsp;1 in Canada&lt;ref&gt;{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&amp;file_num=nlc008388.0189a&amp;type=1&amp;interval=24&amp;PHPSESSID=ccntousk30frf6h4jsn237nm12|title=Item Display – RPM – Library and Archives Canada|publisher=Collectionscanada.gc.ca|accessdate=8 August 2011}}&lt;/ref&gt; and No.&amp;nbsp;9 in the U.S. in 1980. "Cars" and the 1979 album ''[[The Pleasure Principle (Gary Numan album)|The Pleasure Principle]]'' were both released under Numan's own stage name. The album reached number-one in the UK, and a sell-out tour (''The Touring Principle'') followed; the [[Concert film|concert video]] it spawned is often cited as the first full-length commercial [[music video]] release.&lt;ref&gt;{{cite web|url=http://www.on-this-day.com/onthisday/thedays/music/apr14.htm|title=Music history for April 14 from|publisher=On-This-Day.com|date=|accessdate=14 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.westnet.com/consumable/1997/04.21/revnuman.html|title=Review: Gary Numan/Tubeway Army, Premier Hits - Derek Langsford|publisher=Westnet.com|date=|accessdate=14 October 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20160304223724/http://www.westnet.com/consumable/1997/04.21/revnuman.html|archivedate=4 March 2016|df=dmy-all}}&lt;/ref&gt; ''The Pleasure Principle'' was a rock album with no guitars; instead, Numan used synthesisers fed through guitar effects pedals to achieve a distorted, phased, metallic tone. A second single from the album, "[[Complex (song)|Complex]]", made it to No.&amp;nbsp;6 on the [[UK Singles Chart]].
+
+====Personality and style====
+Around this time, Numan also developed his style. According to Numan, this was an unintentional result of [[acne]]; before an appearance on ''[[Top of the Pops]]'', he had "spots everywhere, so they slapped about half an inch of white make-up on me before I'd even walked in the door. And my eyes were like pissholes in the snow, so they put black on there. My so-called image fell into place an hour before going on the show".&lt;ref name=Lester/&gt; His "wooden" stage presence was, in his words, a result of extreme self-consciousness and lack of "showmanship" and often referred to as being "like an [[Android (robot)|android]]".&lt;ref name=Lester /&gt; During this period, Numan generated an army of fans calling themselves "Numanoids", providing him with a fanbase which maintained their support through the latter half of the 1980s, when his fortunes began to fall precipitously.&lt;ref name=Lester /&gt;&lt;ref name="Discogs.com"&gt;{{cite web|url=http://www.discogs.com/Gary-Numan-Dance/release/1212792|title=Gary Numan - Dance (Vinyl, LP, Album)|publisher=Discogs.com|date=|accessdate=14 October 2015}}&lt;/ref&gt;
+
+He later said that he "... got really hung up with this whole thing of not feeling, being cold about everything, not letting emotions get to you, or presenting a front of not feeling".&lt;ref name=Lester&gt;{{cite web|author=Paul Lester|url=https://www.theguardian.com/music/2009/dec/03/gary-numan-little-boots-feature|title=When Gary Numan met Little Boots|date=3 December 2009|work=The Guardian|location=UK|accessdate=15 May 2011}}&lt;/ref&gt;
+
+===1980s===
+[[File:Gary Numan playing.jpg|thumb|150px|right|Numan performing live, February 1980]]In 1980, Numan topped the album charts for a third time with ''[[Telekon]]'', with the singles "[[We Are Glass]]", "[[I Die: You Die]]" released prior to the album reaching No.&amp;nbsp;5 and No.&amp;nbsp;6. "[[This Wreckage]]" taken from the album in December also entered the Top 20. ''Telekon'', the final studio album that Numan retrospectively termed the "Machine" section of his career,&lt;ref&gt;Gary Numan (1981). ''Living Ornaments '79/'80'': LP Liner notes&lt;/ref&gt; reintroduced guitars to Numan's music and featured a wider range of synthesisers. The same year he embarked on his second major tour ("The Teletour") with an even more elaborate stage show than ''the Touring Principle'' the previous year. He announced his retirement from touring with a series of sell-out concerts at [[Wembley Arena]] in April 1981, supported by experimental musician [[Nash the Slash]] and [[Shock (troupe)|Shock]], a rock/mime/burlesque troupe whose members included [[Barbie Wilde]], [[Tik and Tok]], and [[Carole Caplin]]. A live two album set from the 1979 and 1980 tours released at this time reached No.&amp;nbsp;2 in the charts. Both albums, also individually released as ''[[Living Ornaments '79]]'' and ''[[Living Ornaments '80]]'' also charted. The decision to retire would be short-lived.
+
+Departing from the pure [[electropop]] that he had been associated with, Numan began experimenting with [[jazz]], [[funk]], and ethereal, rhythmic pop. His first album after his 1981 farewell concerts was ''[[Dance (Gary Numan album)|Dance]]'' (1981). The album charted as high as No.&amp;nbsp;3 on the [[UK Albums Chart|UK charts]], with an eight-week chart run and produced one hit single ("[[She's Got Claws]]") reaching No.&amp;nbsp;6.&lt;ref&gt;{{Cite web|url=http://www.officialcharts.com/search/singles/she%27s%20got%20claws/|title=She's Got Claws {{!}} full Official Chart History {{!}} Official Charts Company|last=|first=|date=|website=|publisher=|access-date=2017-01-09}}&lt;/ref&gt; The album featured several distinguished guest players; [[Mick Karn]] (bass guitar; saxophone) and Rob Dean (guitar) of [[Japan (band)|Japan]], [[Roger Mason (musician)|Roger Mason]] (keyboards) of [[Models (band)|Models]], and [[Roger Taylor (Queen drummer)|Roger Taylor]] (drums) of [[Queen (band)|Queen]].&lt;ref name="Discogs.com"/&gt;
+
+With his former backing band, Chris Payne (keyboards; viola), Russell Bell (guitar), and Ced Sharpley (drums) now reformed as [[Dramatis]], Numan contributed vocals to the minor hit "Love Needs No Disguise" from the album ''[[For Future Reference]]'' and lent vocals to the first single release by his long-term bassist [[Paul Gardiner]], "[[Stormtrooper in Drag]]", which also made the charts. However, Numan's career had begun to experience a gradual decline, and he was eclipsed initially by acts such as [[Adam Ant]], and later by [[the Human League]], [[Duran Duran]], and [[Depeche Mode]]. Each album also saw a new "image", none of which captured the public's imagination to nearly the same extent as the lonely android of 1979.&lt;ref name=Lester /&gt;
+
+The album ''[[I, Assassin]]'' (1982) fared less well than ''Dance''. Despite producing one Top 10 and two Top 20 singles, the album peaked at No.&amp;nbsp;8 with a six-week chart run.&lt;ref&gt;{{Cite web|url=http://www.officialcharts.com/search/albums/i,%20assassin/|title=I, Assassin {{!}} full Official Chart History {{!}} Official Charts Company|last=|first=|date=|website=|publisher=|access-date=2017-01-09}}&lt;/ref&gt; Numan supported the album with a concert tour in America in late 1982 (where at the time he was living as a [[tax exile]]).{{Citation needed|date=April 2014}}
+
+''[[Warriors (Gary Numan album)|Warriors]]'' (1983) further developed Numan's jazz-influenced style and featured contributions from [[avant-garde music|avant-garde]] musician [[Bill Nelson (musician)|Bill Nelson]] (who fell out with Numan during recording and chose to be uncredited as the album's co-producer), and saxophonist [[Dick Morrissey]] (who would play on most of Numan's albums until 1991).{{Citation needed|date=April 2014}} The album peaked at No.&amp;nbsp;12, produced two hit singles including the Top 20 title-track and, like ''I, Assassin'', spent six weeks in the charts. ''Warriors'' was the last album Numan recorded for Beggars Banquet Records, and was supported by a 40-date UK tour (again with support from robotic mime and music duo Tik and Tok).{{Citation needed|date=April 2014}}
+
+Numan subsequently issued a series of albums and singles on his own record label, Numa. The first album released on Numa, 1984's ''[[Berserker (Gary Numan album)|Berserker]]'' was also notable for being Numan's first foray into music computers/[[Sampler (musical instrument)|samplers]], in this case the [[Palm Products GmbH|PPG Wave]]. The album was accompanied by a new blue-and-white visual image (including Numan himself with blue hair), a tour, a live album/video/EP, and the title track reached the UK Top 40 when released as a single. Despite this, the album divided critics and fans and commercially it was Numan's least successful release to that point.
+
+Numan's next album, ''[[The Fury (album)|The Fury]]'' (1985), charted slightly higher than ''Berserker'' breaking the Top 30. Again, the album heralded a change of image, this time featuring Numan in a white suit and red bow tie. Four singles were released from the album, all reaching the UK Top 50.{{Citation needed|date=April 2014}}
+
+Collaborations with [[Bill Sharpe (musician)|Bill Sharpe]] of [[Shakatak]] as [[Sharpe &amp; Numan]] helped little, though two singles that the duo recorded did see chart action: "[[Change Your Mind (Sharpe &amp; Numan song)|Change Your Mind]]", reached No.&amp;nbsp;17 in 1985, and "No More Lies" reached No.&amp;nbsp;35 in 1988. In 1987, Numan performed vocals for three singles by [[Radio Heart]], a project of brothers Hugh and David Nicholson, formerly of [[Marmalade_(band)|Marmalade]] and [[Blue (Scottish band)|Blue]], which charted with varying success ("Radio Heart" #35 UK, "London Times" #48, "All Across The Nation" #81).&lt;ref&gt;{{Cite web|url=http://www.officialcharts.com/artist/24040/radio-heart-featuring-gary-numan/|title=Radio Heart {{!}} full Official Chart History {{!}} Official Charts Company|last=|first=|date=|website=|publisher=|access-date=2018-06-08}}&lt;/ref&gt; An album was also released, credited to "Radio Heart featuring Gary Numan" although Numan only appeared on three tracks, but failed to chart. Also in 1987, Numan's old label Beggars Banquet released the best-of compilation "Exhibition", which reached #43 on the UK albums chart&lt;ref&gt;{{Cite web|url=http://www.officialcharts.com/search/albums/exhibition/|title=Exhibition {{!}} full Official Chart History {{!}} Official Charts Company|last=|first=|date=|website=|publisher=|access-date=2018-06-08}}&lt;/ref&gt;, and a remix of "Cars". The remix, titled "Cars (E Reg Model)" charted at #16, Numan's final Top 20 hit until the 1996 rerelease of the same song.&lt;ref&gt;{{Cite web|url=http://www.officialcharts.com/search/singles/cars/|title=Cars {{!}} full Official Chart History {{!}} Official Charts Company|last=|first=|date=|website=|publisher=|access-date=2018-06-08}}&lt;/ref&gt; Numa Records, which had been launched in a flurry of idealistic excitement, folded after the release of Numan's 1986 album ''[[Strange Charm]]'', though the album did contain two Top 30 hits (Numan's highest singles chart placings since 1983).{{Citation needed|date=April 2014}} In addition to Numa Records' commercial failure, Numan's own fortune amassed since the late 1970s, which he estimated at £4.5&amp;nbsp;million, was drained. Numan then signed to [[I.R.S. Records]] though his final studio album of the 1980s, ''[[Metal Rhythm]]'' (1988), also sold relatively poorly. For its American release, the record label changed the album's title to ''New Anger'' after the album's lead single, changed the album colour from black to blue, and remixed several of its tracks against Numan's wishes. In 1989, the Sharpe &amp; Numan album ''[[Automatic (Sharpe &amp; Numan album)|Automatic]]'' was released through [[Polydor Records]], though this too failed to garner much commercial success, briefly entering the charts.{{Citation needed|date=April 2014}}
+
+===1990s===
+In 1991, Numan ventured into film-scoring by co-composing the music for ''The Unborn'' with Michael R. Smith (the score was later released as an instrumental album in 1995, ''Human''). After ''[[Outland (Gary Numan album)|Outland]]'' (1991), another critical and commercial disappointment and his second and last studio album with I.R.S., Numan reactivated Numa Records, under which he would release his next two albums. He supported [[Orchestral Manoeuvres in the Dark]] (who had opened for him in 1979) on a 1993 arena tour. By 1994, Numan decided to stop attempting to crack the pop market and concentrate instead on exploring more personal themes, including his vocal [[atheism]]. His future wife Gemma encouraged him to strip away the influences of the more recent years. Numan re-evaluated his career and veered toward a harsher, more [[industrial music|industrial]] direction with his songwriting on the album ''[[Sacrifice (Gary Numan album)|Sacrifice]]''&amp;mdash;for the first time he played almost all the instruments himself. The move was critically well-received, as Numan's harder and darker sound emerged just as Numan-influenced bands like [[Nine Inch Nails]] were enjoying their first rush of fame.{{Citation needed|date=November 2017}} The influence was two-way; Numan claimed that Nine Inch Nails' song "[[Closer (Nine Inch Nails song)|Closer]]" is his favourite hit single of all time, and influenced his music.{{Citation needed|date=November 2017}} ''Sacrifice'' was the last album Numan made before shutting down Numa Records permanently. His next two studio albums, ''[[Exile (Gary Numan album)|Exile]]'' (1997) and ''[[Pure (Gary Numan album)|Pure]]'' (2000), were well received and significantly helped to restore his critical reputation. Numan toured the U.S. in support of ''Exile'', his first stateside concerts since the early 1980s.&lt;ref name=Lester /&gt; [[Fear Factory]] produced a cover of "Cars" (featuring a prominent guest appearance by Numan himself) for the [[digipak]] version of their 1999 album, ''[[Obsolete (album)|Obsolete]]''.
+
+===2000s===
+[[File:MrGaryNuman.jpg|thumb|200px|Numan performing live, 2007]]Numan had become acknowledged and respected by his peers, with such musicians as [[Dave Grohl]] (of [[Foo Fighters]] and [[Nirvana (band)|Nirvana]]), [[Trent Reznor]] (of Nine Inch Nails), and [[Marilyn Manson]] proclaiming his work an influence and recording cover versions of old Numan hits.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=RCoEAAAAMBAJ&amp;pg=PA44&amp;dq=marilyn+manson+gary+numan#v=onepage&amp;q=marilyn%20manson%20gary%20numan&amp;f=false|title=CMJ New Music Monthly|publisher=Google Books|accessdate=15 May 2011|date=May 1998}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Sally Williams |url=http://www.walesonline.co.uk/news/cardiff-news/2009/11/16/gary-numan-dave-grohl-is-very-nice-man-91466-25163264/ |title=Gary Numan: 'Dave Grohl is very nice man' |publisher=WalesOnline |date=16 November 2009 |accessdate=15 May 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121015134845/http://www.walesonline.co.uk/news/cardiff-news/2009/11/16/gary-numan-dave-grohl-is-very-nice-man-91466-25163264/ |archivedate=15 October 2012 |df= }}&lt;/ref&gt; The band [[Basement Jaxx]] had a huge hit in 2002 with "[[Where's Your Head At]]", which relied on a sample of Numan's "M.E."&amp;mdash;from ''The Pleasure Principle''&amp;mdash;for its hook. Nine Inch Nails covered the song "Metal" on [[The Fragile (Nine Inch Nails album)|The Fragile]] remix album ''[[Things Falling Apart]]'' as did [[Afrika Bambaataa]] (with Numan himself) on the album ''[[Dark Matter Moving at the Speed of Light]]''. "Cars" remains Numan's most enduring song; it was a hit again in 1987 (remixed by [[Zeus B. Held]]) and 1996, in the latter case thanks to an appearance in an advert for [[Carling brewery]]. In 2000, DJ [[Armand Van Helden]] sampled the track and mixed it up in his single "[[Koochy]]" which conquered the dance floors. In 2002, English [[girl group]] the [[Sugababes]] scored a No.&amp;nbsp;1 with "[[Freak Like Me#Sugababes version|Freak Like Me]]"&amp;mdash;a [[Mashup (music)|mashup]] of [[Adina Howard]]'s "Freak Like Me" and "Are "Friends" Electric?" by Numan's Tubeway Army.
+
+[[File:Numan Replicas Tour 2008.jpg|thumb|left|225px|Promoting the 2008 Replicas Tour]]In 2002, Numan enjoyed chart success once again with the single "Rip", reaching No.&amp;nbsp;29 on the UK Singles Chart and in 2003 with the Gary Numan vs Rico single "[[Crazier (Gary Numan song)|Crazier]]", which reached No.&amp;nbsp;13 in the UK chart. Rico also worked on the remix album ''Hybrid'' which featured reworkings of older songs in a more contemporary industrial style as well as new material. Other artists and producers who contributed on these remixes included [[Curve (band)|Curve]], [[Flood (producer)|Flood]], [[Andy Gray (musician)|Andy Gray]], [[Alan Moulder]], New Disease, and Sulpher. 2003 also saw Numan performing the vocals on a track named "Pray for You" on the [[Plump DJs]] album ''Eargasm''. In 2004, Numan took control of his own business affairs again, launching the label Mortal Records and releasing a series of live DVDs. On 13 March 2006, Numan's album, ''[[Jagged]]'', was released. An album launch gig took place at [[The Forum, London]] on 18 March followed by UK, European and U.S. tours in support of the release. Numan also launched a ''Jagged'' website to showcase the new album, and made plans to have his 1981 farewell concert (previously released as ''Micromusic'' on VHS) issued on DVD by November 2006 as well as releasing the DVD version of the ''Jagged'' album launch gig. Numan undertook a ''Telekon'' 'Classic Album' tour in the UK in December 2006.
+
+[[File:Gary numan bestival 09 08 (cropped brighter).jpg|thumb|right|200px|Numan performing live at [[Bestival]], September 2008]]Numan contributed vocals to four tracks on the April 2007 release of the debut solo album by Ade Fenton ''Artificial Perfect'' on his new industrial/electronic label Submission, including songs "The Leather Sea", "Slide Away", "Recall", and the first single to be taken from the album, "Healing". The second single to be released in the UK was "The Leather Sea" on 30 July 2007, which charted.
+
+He sold out a 15-date UK &amp; Ireland tour in spring 2008 during which he performed his 1979 number-one album ''Replicas'' in its entirety, and all the Replicas-era music including [[A-side and B-side|B-sides]].&lt;ref&gt;{{cite web|url=http://www.side-line.com/news_comments.php?id=26872_0_2_0_C|title=Gary Numan to perform album 'Replicas' live|publisher=Side-line.com|date=2 November 2007|accessdate=15 May 2011}}&lt;/ref&gt; The successful tour also raised Numan's profile in the media again due to the fact that it coincided with his 30th anniversary in the music business.
+
+In November 2007, Numan confirmed via his website that work on a new album, with the working title of ''Splinter'', would be under way throughout 2008, after finishing an alternate version of ''Jagged'' (called ''[[Jagged Edge (Gary Numan album)|Jagged Edge]]'') and the CD of unreleased songs from his previous three albums (confirmed to be titled ''Dead Son Rising'' on 1 December 2008 via official mailing list message). He wrote that ''Splinter'' was likely to be released in early 2010.
+
+In a September 2009 interview with ''[[The Quietus]]'', Numan said that he and Trent Reznor planned to make music together.&lt;ref&gt;{{cite web|url=http://thequietus.com/articles/02803-gary-numan-and-nine-inch-nail-s-trent-reznor-to-collaborate|title=Gary Numan and Trent Reznor to Collaborate|work=[[The Quietus]]|accessdate=15 May 2011}}&lt;/ref&gt;
+
+===2010s===
+Numan was set to perform a small number of American live dates in April 2010, including a [[Coachella Valley Music and Arts Festival|Coachella Festival]] appearance in California, but had to cancel because air travel in Europe was halted by the [[2010 eruptions of Eyjafjallajökull|Icelandic volcanic ash cloud]]. As a result, the tour was not only postponed but expanded, and his Pleasure Principle 30th Anniversary Tour's American and Mexican dates began on 17 October 2010, at Firestone Live in [[Orlando, Florida]].{{Citation needed|date=July 2012}}
+
+Numan toured Australia in May 2011 performing his seminal album The Pleasure Principle in its entirety to celebrate its thirtieth anniversary. Joining him on tour was Australian electronic band [[Severed Heads]], coming out of retirement especially for the shows.&lt;ref&gt;{{cite news|first=Selenna |last=Nieva |title=Gary Numan to tour Australia |url=http://valleyarm.com/featured-artist/gary-numan-to-tour-australia |archive-url=https://web.archive.org/web/20110423113808/http://valleyarm.com/featured-artist/gary-numan-to-tour-australia |dead-url=yes |archive-date=23 April 2011 |publisher=[[Valleyarm]] |date=18 April 2011 |accessdate=19 April 2011 |df= }}&lt;/ref&gt;
+
+Numan lent his vocals to the track "My Machines" on [[Battles (band)|Battles]]'s 2011 album ''[[Gloss Drop]]''. He was chosen by [[Battles (band)|Battles]] to perform at the [[All Tomorrow's Parties (festival)|ATP Nightmare Before Christmas]] festival that they co-curated in December 2011 in [[Minehead]], England.&lt;ref&gt;{{cite web|url=http://www.atpfestival.com/events/nightmare2011.php|title=ATP Nightmare Before Christmas|publisher=Atpfestival.com|accessdate=8 August 2011}}&lt;/ref&gt; Numan's album ''[[Dead Son Rising]]'' was released on 16 September 2011 which had a full UK tour split in two halves, 15–21 September and 7–11 December, Both parts were supported by Welsh soloist [[Jayce Lewis]] in an interview during the tour; Numan praised Lewis for being the best supporting act ever in his 30 years of touring, later documenting the tour in a tour diary and publicly inviting Lewis to join him for an American tour in 2012.&lt;ref&gt;{{cite web|url=http://www.thestoolpigeon.co.uk/features/tour-diary-gary-numan.html|title=Maintenance Mode|publisher=The Stool Pigeon|date=|accessdate=14 October 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151003233936/http://www.thestoolpigeon.co.uk/features/tour-diary-gary-numan.html|archivedate=3 October 2015|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=|url=http://www.new-reviews.co.uk/?p=5093|title=Interview: Part One: Gary Numan|publisher=New-reviews.co.uk|date=18 November 2011|accessdate=14 October 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20120426081745/http://www.new-reviews.co.uk/?p=5093|archivedate=26 April 2012|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.livenation.co.uk/event/224259/gary-numan-dead-son-rising-tour-tickets|title=Gary Numan Tickets, Tour &amp; Concert Information|publisher=Livenation.co.uk|date=|accessdate=14 October 2015}}&lt;/ref&gt;
+
+Numan also provided narration for [[Aurelio Voltaire]]'s short film ''Odokuro'' in 2011.
+
+While working on a new album due for release in 2013, Numan said "The one I'm working on now which I'm trying to get out in the middle of next year. It's very heavy, very aggressive and very dark. There are elements of ''Dead Son Rising'' in that, but it's much further along that particular road."&lt;ref&gt;{{cite web|url=http://npollard.wordpress.com/2012/09/25/interview-gary-numan/|title=Interview: Gary Numan « NICK POLLARD|publisher=Npollard.wordpress.com|date=25 September 2012|accessdate=20 December 2012}}&lt;/ref&gt;
+
+The album ''[[Splinter (Songs from a Broken Mind)]]'', was released on 14 October 2013. It reached the UK Top 20, his first album to do so for 30 years. It was promoted by an extensive US, Canada, UK &amp; Ireland tour which continued in 2014 to include Israel, New Zealand, Australia and Europe. A further US leg took place in late 2014.{{Citation needed|date=June 2014}}
+
+In June 2014, Numan collaborated with Jayce Lewis and his Protafield project on the track "Redesign" featured on Protafield's ''Nemesis'' Album.&lt;ref&gt;{{cite web|url=https://twitter.com/numanofficial/status/527163702328315904|title=Gary Numan on Twitter: "I did a guest vocal on a track called Redesign for Jayce Lewis's Protafield project recently".|publisher=Twitter.com|date=28 October 2014|accessdate=14 October 2015}}&lt;/ref&gt; 
+Numan also provided vocals for the song "Long Way Down" composed by [[Masafumi Takada]] and Rich Dickerson for the video game ''[[The Evil Within]]''. The game was released on 14 October 2014. Numan performed a sold-out, one-off live show in London in November 2014 at the [[Hammersmith Apollo]] supported by [[Gang of Four]].
+
+On 29 April 2015, Numan announced via his [[Facebook]] page that he had begun writing songs for the follow-up album to ''Splinter (Songs from a Broken Mind)''.&lt;ref&gt;{{cite web|url=https://www.facebook.com/GaryNumanOfficial/photos/a.146356118757563.28686.128507877209054/883305171729317/?type=1&amp;theater|title=Started writing songs for the follow up to 'Splinter' today. GN|publisher=Facebook.com|date=29 April 2015|accessdate=29 April 2015}}&lt;/ref&gt;
+
+Numan collaborated with the industrial pop group VOWWS for "Losing Myself in You" on their debut album ''The Great Sun''.
+
+On 6 May 2016, Numan was one of several collaborators on [[Jean-Michel Jarre]]'s album ''[[Electronica 2: The Heart of Noise]]'', with the track "Here for You", co-written by Jarre and Numan.
+
+On 10 May 2016, Numan was named the recipient of the 2016 Moog Innovation Award by [[Moog Music]].&lt;ref&gt;{{cite web|last1=Billboard Staff|title=Gary Numan Wins 2016 Moog Innovation Award|url=http://www.billboard.com/articles/news/7358154/gary-numan-2016-moog-innovation-award|website=Billboard|accessdate=10 May 2016}}&lt;/ref&gt; On 18 May 2017, Numan was awarded an [[Ivor Novello]] for Inspiration award in London.&lt;ref&gt;{{Cite news|url=http://www.musicweek.com/publishing/read/all-the-winners-from-the-62nd-ivor-novello-awards/068521|title=All the winners from the 62nd Ivor Novello Awards|last=James|first=Hanley|date=18 May 2017|work=Music Week|access-date=2017-07-09|language=en}}&lt;/ref&gt;
+
+In 2017, Numan released the single "My Name Is Ruin" and went on a European tour September. Numan's album ''[[Savage (Songs from a Broken World)]]'' was released on 15 September and charted at number two in the UK.&lt;ref&gt;{{cite web|url=http://www.officialcharts.com/chart-news/gary-numan-on-the-success-of-his-new-album-savage-a-british-institution-ill-take-that-__20510/|title=Gary Numan interview: "A British institution? I'll take that!"|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://thequietus.com/articles/22784-gary-numan-new-album-single|title=Listen: New Gary Numan|last=Eede|first=Christian|date=6 July 2017|work=The Quietus|access-date=2017-07-09}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.nbcsandiego.com/blogs/sounddiego/Gary-Numan-on-Staying-Relevant-in-a-Broken-World-457046513.html|title=Gary Numan on Staying Relevant in a Broken World|publisher=}}&lt;/ref&gt; He was the winner of the 2017 T3 tech legends award.&lt;ref name="Newton"&gt;{{cite news|last1=Newton|first1=Thomas|title=Swipe: The 'Oscars of Tech' and Gary Numan|url=http://news.sky.com/video/digi-170812fr-swipe-mobile-22092017m2t-11048243|accessdate=23 September 2017|publisher=Sky News|date=22 September 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.theoaklandpress.com/arts-and-entertainment/20171129/gary-numan-at-saint-andrews-3-things-to-know|title=Gary Numan at Saint Andrews, 3 Things To Know|publisher=}}&lt;/ref&gt;
+
+In 2017 he received an [[Ivor Novello Awards|Ivor Novello Award]], the Inspiration Award, from the [[British Academy of Songwriters, Composers, and Authors]].&lt;ref&gt;[http://theivors.com/winners-announced-ivor-novello-awards-2017/ "Winners Announced for the Ivor Novello Awards 2017"]. The Ivors. Retrieved 31 December 2017&lt;/ref&gt;
+
+==Personal life==
+Numan was an outspoken supporter of the [[Conservative Party (UK)|Conservative Party]] and of [[Margaret Thatcher]] after her election as Prime Minister.&lt;ref name="independent"/&gt;&lt;ref name="skrufff"/&gt; He later expressed regret for giving his public support, calling it "a noose around my neck".&lt;ref name="skrufff"/&gt; He has previously said that he considers himself neither [[Left-wing politics|left-wing]] nor [[Right-wing politics|right-wing]] and that he does not support [[Tony Blair]] or [[David Cameron]].&lt;ref name="skrufff"&gt;[http://www.threedworld.com.au/music/news/2006/Gary_Numan_on_Britains_new_Tories/ Gary Numan on Britain's New Tories], Skrufff.com, 7 February 2006. {{webarchive |url=https://web.archive.org/web/20090206172110/http://www.threedworld.com.au/music/news/2006/Gary_Numan_on_Britains_new_Tories/ |date=6 February 2009 }}&lt;/ref&gt; Numan also said, "I'm not [[Socialism|socialist]], I know that. I don't believe in sharing my money."&lt;ref name="independent"&gt;[https://web.archive.org/web/20081227054651/http://www.independent.co.uk/news/people/profiles/gary-numan-numan-remains-604502.html Gary Numan: Numan remains]. ''[[The Independent]]''. Published 27 January 2003.&lt;/ref&gt;
+
+In 1997, Numan married Gemma O'Neill, a member of his [[fan club]] from [[Sidcup]].&lt;ref name="autogenerated1"&gt;[http://www.manchestereveningnews.co.uk/entertainment/music/rock_and_pop/s/1036837_cars_star_numan_is_motoring_ Manchester Evening News] accessed 01/03/08 {{webarchive |url=https://web.archive.org/web/20131019223457/http://www.manchestereveningnews.co.uk/entertainment/music/rock_and_pop/s/1036837_cars_star_numan_is_motoring_ |date=19 October 2013 }}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/arts-entertainment/how-we-met-1240497.html|title=HOW WE MET – An Interview with GARY NUMAN AND GEMMA WEBB|work=The Independent|location=UK|date=21 September 1997|accessdate=15 May 2011}}&lt;/ref&gt; Numan used to reside with his family in [[East Sussex]], until he moved to [[Los Angeles]], [[California]] in October 2012.&lt;ref&gt;[http://www.garynuman.co.uk/clouds/news.html NuWorld News]. Retrieved 12 February 2007. {{webarchive |url=https://web.archive.org/web/20070104044732/http://www.garynuman.co.uk/clouds/news.html |date=4 January 2007 }}&lt;/ref&gt; He published his autobiography, ''Praying to the Aliens'', in 1997 (updated edition 1998), in collaboration with Steve Malins. (Malins also wrote the liner notes for most of the CD reissues of Numan's albums in the late 1990s, as well as executive producing the ''Hybrid'' album in 2003.)
+
+At age 15, after a series of outbursts in which Numan would "smash things up, scream and shout, get in people's faces and break stuff", he was prescribed [[antidepressant]]s and [[anxiolytic]]s.&lt;ref name=Lester /&gt; Numan's wife later suggested he had [[Asperger syndrome]]; after reading about the syndrome and taking a series of online tests, he agreed, and identified himself as having AS, though he has not professionally been diagnosed with it.&lt;ref&gt;{{cite news|url=http://www.contactmusic.com/news/numan-convinced-he-has-aspergers_1060637|work=Contact News|location=US|title=Gary Numan – Numan Convinced He Has Asperger's|date=25 February 2008}}&lt;/ref&gt; In a 2001 interview, he said, "Polite conversation has never been one of my strong points. Just recently I actually found out that I'd got a mild form of Asperger's syndrome which basically means I have trouble interacting with people. For years, I couldn't understand why people thought I was arrogant, but now it all makes more sense."&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/news/world/americas/aspergers-syndrome-the-ballad-of-nikki-bacharach-431201.html|work=The Independent|location=London|title=Asperger's syndrome: The ballad of Nikki Bacharach|date=8 January 2007|accessdate=3 May 2010|first=Andrew|last=Buncombe}}&lt;/ref&gt; In a April 2018 interview with ''[[The Guardian]]'' he disclosed that he had been diagnosed with Asperger syndrome at the age of fourteen.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/lifeandstyle/2018/apr/28/gary-numan-eye-contact-is-something-i-find-incredibly-difficult|title=Gary Numan: ‘Eye contact is something I find incredibly difficult’ - This much I know|first=Michael|last=Segalov|date=28 April 2018|website=the Guardian|accessdate=28 April 2018}}&lt;/ref&gt;
+
+Following the apparent harassment of his wife while his family was walking on a [[High Street|high street]] in his local area, and his feelings following the [[2011 England riots|2011 London riots]], Numan filed papers to emigrate to [[Santa Monica, California]]. Numan said, "Every village and town in England has a bunch of thugs running around in it. The riots were the nail in the coffin."&lt;ref&gt;{{cite web|author=|url=http://www.torontosun.com/2011/08/20/gary-numan-moving-to-us-after-riot|title=Gary Numan moving to U.S. after riot &amp;#124; Music &amp;#124; Entertainment|publisher=Toronto Sun|date=20 August 2011|accessdate=14 October 2015}}&lt;/ref&gt;
+
+In the September 2011 Q&amp;A section of Numan's official web site,&lt;ref&gt;{{cite web|url=http://numan.co.uk|title=Official Gary Numan website|publisher=Numan.co.uk|accessdate=14 October 2015}}&lt;/ref&gt; in answer to the question, "Is it true you now hate England and want to leave?" he replied, "No, that's utter rubbish." He explained that he had "never been abused in my local high street" and has "made no firm decision about leaving the UK", but thugs are helping make such a decision, pointing out that the rioting "makes us look like a country of ignorant savages, beating up people already injured, pretending to help while stealing their things, hitting old men, killing them". He went on to explain that soundtracks may be a logical step, as he gets older and since "in the UK we have no meaningful film industry to speak of", a move to the U.S. might be more reasonable. He concluded by saying his family are highest priority and, "If I see somewhere that seems safer, happier, and will give them a better life than the UK, I'll take them there if I possibly can."&lt;ref name="Official 9-2011"&gt;{{cite web|last=Numan|first=Gary|title=Q &amp; A – September 11|url=http://www.numan.co.uk/q-a/|work=Gary Numan – Official Web Site – archived link|publisher=Gary Numan|accessdate=9 January 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20130813224448/http://www.numan.co.uk/q-a/ |archivedate=13 August 2013 }}&lt;/ref&gt;
+
+Numan has three daughters, Raven, Persia and Echo;&lt;ref&gt;{{cite web|url=https://www.standard.co.uk/showbiz/celebrity-news/gary-numan-i-feel-dirty-and-in-need-of-a-shower-after-playing-old-songs-a3598611.html|title=Gary Numan feels dirty and in need of a shower after playing old songs|publisher=|accessdate=2 April 2018}}&lt;/ref&gt; all three appeared briefly in the 2013 video for "Love Hurt Bleed", and 11-year-old Persia contributed vocals to and was featured in the 2017 video for "My Name Is Ruin".&lt;ref&gt;{{cite web|url=http://garynuman.com/name-ruin-new-single-video-shoot/|title='My Name Is Ruin' New Single &amp; Video Shoot - Gary Numan The official website|date=22 June 2017|publisher=}}&lt;/ref&gt; As of 2017, he continued to live in California with them.&lt;ref&gt;{{Cite news|url=http://www.sfweekly.com/music/gary-numan-is-happy-and-living-in-california/|title=Gary Numan Is Happy and Living in California|last=Quick|first=Quentin|date=2017-11-17|work=SF Weekly|access-date=2017-11-20|language=en-US}}&lt;/ref&gt;
+
+==Discography==
+{{Main|Gary Numan discography}}
+{{col-begin}}
+{{col-break}}
+:'''Tubeway Army'''
+*''[[Tubeway Army (album)|Tubeway Army]]'' (1978)
+*''[[Replicas (album)|Replicas]]'' (1979)
+
+: '''Solo'''
+*''[[The Pleasure Principle (Gary Numan album)|The Pleasure Principle]]'' (1979)
+*''[[Telekon]]'' (1980)
+*''[[Dance (Gary Numan album)|Dance]]'' (1981)
+*''[[I, Assassin]]'' (1982)
+*''[[Warriors (Gary Numan album)|Warriors]]'' (1983)
+*''[[Berserker (Gary Numan album)|Berserker]]'' (1984)
+*''[[The Fury (album)|The Fury]]'' (1985)
+*''[[Strange Charm]]'' (1986)
+*''[[Metal Rhythm]]'' (1988) &lt;small&gt;(''New Anger'' in the U.S.)&lt;/small&gt;
+*''[[Automatic (Sharpe &amp; Numan album)|Automatic]]'' (1989) &lt;small&gt;(with [[Bill Sharpe (musician)|Bill Sharpe]] as [[Sharpe &amp; Numan]])&lt;/small&gt;
+*''[[Outland (Gary Numan album)|Outland]]'' (1991)
+{{col-break}}
+*''[[Machine and Soul|Machine + Soul]]'' (1992)
+*''[[Sacrifice (Gary Numan album)|Sacrifice]]'' (1994) &lt;small&gt;(''Dawn'' in the U.S.)&lt;/small&gt;
+*''[[Human (Gary Numan album)|Human]]'' (1995) &lt;small&gt;(with Michael R. Smith)&lt;/small&gt;
+*''[[Exile (Gary Numan album)|Exile]]'' (1997)
+*''[[Pure (Gary Numan album)|Pure]]'' (2000)
+*''[[Jagged]]'' (2006)
+*''[[Dead Son Rising]]'' (2011)
+*''[[Splinter (Songs from a Broken Mind)]]'' (2013)
+*''[[Savage (Songs from a Broken World)]]'' (2017)
+{{col-end}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+*Paul Goodwin (2004). ''Electric Pioneer: An Armchair Guide to Gary Numan'', [[Helter Skelter (books)|Helter Skelter Publishing]], 2004, {{ISBN|978-1900924955}}
+*''[[British Hit Singles &amp; Albums|Guinness Book of British Hit Singles]]'', 7th Edition, {{ISBN|0851123392}}
+
+==External links==
+{{Commons category}}
+*{{official website|http://www.garynuman.co.uk}}
+*{{Allmusic|class=artist|id=mn0000183858}}
+*{{discogs artist}}
+*{{IMDb name|id=0637885}}
+
+{{Gary Numan}}
+{{Authority control}}
+
+{{DEFAULTSORT:Numan, Gary}}
+[[Category:1958 births]]
+[[Category:20th-century English singers]]
+[[Category:20th-century guitarists]]
+[[Category:21st-century English singers]]
+[[Category:21st-century guitarists]]
+[[Category:Atco Records artists]]
+[[Category:Beggars Banquet Records artists]]
+[[Category:British synthpop new wave musicians]]
+[[Category:Critics of Christianity]]
+[[Category:English industrial musicians]]
+[[Category:English male singer-songwriters]]
+[[Category:English new wave musicians]]
+[[Category:English rock guitarists]]
+[[Category:English rock singers]]
+[[Category:English expatriates in the United States]]
+[[Category:Gothic rock musicians]]
+[[Category:I.R.S. Records artists]]
+[[Category:Living people]]
+[[Category:Male guitarists]]
+[[Category:Male new wave singers]]
+[[Category:Metropolis Records artists]]
+[[Category:People educated at Ashford County Grammar School]]
+[[Category:People educated at Upton Court Grammar School]]
+[[Category:People from Hammersmith]]
+[[Category:Tubeway Army members]]</text>
+      <sha1>16uioe5rn7cu0qe8jssn9c8uxs9chxp</sha1>
+    </revision>
+  </page>
+</mediawiki>

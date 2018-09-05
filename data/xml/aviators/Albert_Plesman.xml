@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Albert Plesman</title>
+    <ns>0</ns>
+    <id>2466123</id>
+    <revision>
+      <id>844677988</id>
+      <parentid>806081669</parentid>
+      <timestamp>2018-06-06T11:47:38Z</timestamp>
+      <contributor>
+        <username>Necrothesp</username>
+        <id>64853</id>
+      </contributor>
+      <comment>no degrees or academic titles inline</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3623">{{Unreferenced|date=December 2009}}
+[[File:Albert Plesman (1953).jpg|thumb|Albert Plesman (1953)]]
+'''Albert Plesman''' (7 September 1889 – 31 December 1953) was a [[Netherlands|Dutch]]  pioneer in [[aviation]] and the founder of the [[KLM]], the [[List of airlines by foundation date|oldest airline in the world]] still operating under its original name. Together with [[Anthony Fokker]], he was a founder of the KLM. Until his death, he was also on the board of the Dutch airline, which was to become one of the most important airlines in the world under his leadership.
+
+He was born as the son of an egg trader from [[The Hague]]. In 1915 he joined the mobilized Dutch airforce as a professional officer, at the time still called the ''"militaire luchtvaartafdeling"'' (military aviation department), in [[Soesterberg]]. After [[World War I]], in which the Netherlands remained neutral, he started the organization of ELTA, the ''"Eerste Luchtverkeer Tentoonstelling Amsterdam"'' (First Aviation Exhibition Amsterdam), held from 1 August till 14 September 1919. For that occasion enormous halls (hangars) were built. Right after the exhibition these were used by [[Anthony Fokker]], for his new  company ''Nederlandse Vliegtuigenfabriek'' (Dutch Aircraft Factory), subsequently the [[Fokker]] airplane factory.
+
+All these activities led to the establishment of the [[KLM|Royal Dutch Airlines (KLM)]], of which Plesman became director, and which he made a flourishing company. After [[World War II]] Plesman was appointed president-director of KLM. After the recovery from the war the company became a renowned airline company under his leadership. On 25 February 1946, KLM had the first airline flights from continental Europe to the USA. For his efforts he received in 1947 an honorary doctorate of the Technical University of Delft. Plesman pleaded in vain for a displacement of [[Schiphol Airport]] to a location near [[Burgerveen]]. The father of the KLM died in The Hague on December 31 1953.
+
+==Decorations and awards==
+* Knight of the [[Order of Orange-Nassau]] (1925)
+* Officer of the [[Order of Orange-Nassau]] (1931)
+* Knight of the [[Order of the Netherlands Lion]] (1934)
+* Commander of the [[Order of Orange-Nassau]] (1949, at the 30th anniversary of KLM)
+* Knight of the [[Order of the Dannebrog]] (Denmark, 1931)
+* Officer of the [[Order of Leopold II]] (Belgium, 1932)
+* Officer of the [[Order of Vasa]] (Sweden, 1932)
+* Commander of the [[Order of Leopold II]] (Belgium, 1935)
+* Commander of the [[Order of the White Lion]] (Czechoslovak, 1935)
+* Honorary doctorate from the [[Technical University of Delft]] (1947)
+* The first [[Edward Warner Award]], for his achievements for international civil aviation ([[International Civil Aviation Organisation]], posthumously, 1959)
+* [[C.J. Snijders Medal]]
+
+==Publication==
+* [http://www.worldcat.org/title/plan-for-international-cooperation/oclc/18939583&amp;referer=brief_results Plan for international cooperation]
+{{KLM Royal Dutch Airlines}}
+{{Authority control}}
+
+{{DEFAULTSORT:Plesman, Albert}}
+[[Category:1889 births]]
+[[Category:1953 deaths]]
+[[Category:People from The Hague]]
+[[Category:Dutch aviators]]
+[[Category:Dutch businesspeople]]
+[[Category:Dutch corporate directors]]
+[[Category:Dutch chief executives in the airline industry]]
+[[Category:Knights of the Order of the Netherlands Lion]]
+[[Category:Commanders of the Order of Orange-Nassau]]
+[[Category:Knights of the Order of the Dannebrog]]
+[[Category:Commanders of the Order of Leopold II]]
+[[Category:Recipients of the Order of Vasa]]
+[[Category:Commanders of the Order of the White Lion]]</text>
+      <sha1>159q7xxt1huu70u8j3fby5tqbwpbyh7</sha1>
+    </revision>
+  </page>
+</mediawiki>

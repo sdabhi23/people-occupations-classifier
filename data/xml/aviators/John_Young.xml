@@ -1,0 +1,275 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Young (astronaut)</title>
+    <ns>0</ns>
+    <id>303563</id>
+    <revision>
+      <id>853760654</id>
+      <parentid>853009579</parentid>
+      <timestamp>2018-08-06T20:55:25Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:American engineers]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36031">{{Infobox person
+| name          = John Young
+| image         = Astronaut John W. Young.jpg
+| caption       =
+| nationality   = American
+| birth_name    = John Watts Young
+| birth_date    = {{Birth date|1930|09|24}}
+| birth_place   = [[San Francisco]], California, U.S.
+| death_date    = {{Death date and age|2018|01|05|1930|09|24}}
+| death_place   = [[Houston]], Texas, U.S.
+| death_cause = Complications from [[pneumonia]]
+| occupation    = [[United States Naval Aviator|Naval Aviator]], [[test pilot]]
+| alma_mater    = [[Georgia Institute of Technology]], B.S. 1952
+| module        = {{Infobox astronaut|child =yes
+| type          = [[NASA]] astronaut
+| rank          = [[File:US-O6 insignia.svg|25px]] [[Captain (United States O-6)|Captain]], [[United States Navy|USN]]
+| selection     = [[List of astronauts by year of selection#1962|1962 NASA Group 2]]
+| time          = 34d 19h 39m
+| eva1          = 3
+| eva2          = 20h 14m 14s
+| mission       = [[Gemini 3]], [[Gemini 10]], [[Apollo 10]], [[Apollo 16]], [[STS-1]], [[STS-9]]
+| insignia      = [[Image:Gemini3.png|40px]] [[Image:Ge10Patch orig.png|40px]] [[Image:Apollo-10-LOGO.png|40px]] [[Image:Apollo-16-LOGO.png|40px]] [[Image:Sts-1-patch.png|40px]] [[Image:Sts-9-patch.png|40px]]
+| Date of ret   = December 31, 2004
+| awards        = [[File:Dfc-usa.jpg|20px|link=Distinguished Flying Cross (United States)]] {{CS Medal of Honor}} [[File:NASA Distinguished Service Medal.jpg|20px|link=NASA Distinguished Service Medal]]
+}}}}
+
+'''John Watts Young''' (September 24, 1930&amp;nbsp;– January 5, 2018) was an American [[astronaut]], [[United States Navy|naval officer]] and [[United States Naval Aviator|aviator]], [[test pilot]], and [[aerospace engineering|aeronautical engineer]]. He became the [[List of Apollo astronauts#People who have walked on the Moon|ninth person to walk on the Moon]] as Commander of the [[Apollo 16]] mission in 1972. Young enjoyed the longest career of any astronaut, becoming the first person to fly six space missions (with seven launches, counting his lunar liftoff) over the course of 42 years of active [[NASA]] service.&lt;ref name="bio"&gt;{{cite web |url=http://www.jsc.nasa.gov/Bios/htmlbios/young.html |title=Biographical Data: John W. Young (Captain, USN Ret.) |publisher=NASA |date=August 2010 |access-date=May 14, 2013}}&lt;/ref&gt; He was the only person to have piloted, and been commander of, four different classes of spacecraft: [[Project Gemini|Gemini]], the [[Apollo Command/Service Module]], the [[Apollo Lunar Module]], and the [[Space Shuttle]].&lt;ref name="sentinel20160924"&gt;{{cite news |last1=Speck |first1=Emilee |title=Moon-walking astronaut John Young turned 86 on Saturday |url=http://www.orlandosentinel.com/news/space/go-for-launch/os-nasa-astronaut-john-young-turns-86-20160923-story.html |access-date=August 16, 2017 |work=[[Orlando Sentinel]] |date=September 24, 2016}}&lt;/ref&gt;
+
+In 1965, Young flew on the [[Gemini 3|first manned Gemini mission]], and commanded another Gemini mission the next year. In 1969 during [[Apollo 10]], he became the first person to fly solo around the Moon.&lt;ref name="nasa200412007"&gt;{{cite web |url=https://www.nasa.gov/vision/space/features/young_retires.html |title=From Gemini to Shuttle: John Young Retires |publisher=NASA |date=December 7, 2004 |access-date=January 7, 2018}}&lt;/ref&gt; He drove the [[Lunar Roving Vehicle]] on the [[Moon]]'s surface during [[Apollo 16]], and is one of only three people to have [[List of Apollo astronauts|flown to the Moon]] twice.&lt;ref name="npr20180106"&gt;{{cite news |url=https://www.npr.org/sections/thetwo-way/2017/01/16/505928876/gene-cernan-last-man-to-walk-on-the-moon-dies-at-82 |title=Gene Cernan, Last Man To Walk On The Moon, Dies At 82 |publisher=NPR |last1=Lewis |first1=Russell |date=January 6, 2018 |access-date=January 7, 2018}}&lt;/ref&gt;  He also commanded two Space Shuttle flights, including [[STS-1|its first launch]] in 1981, and served as [[Chief of the Astronaut Office]] from 1974 to 1987. Young retired from NASA in 2004. He died on January 5, 2018.
+
+==Biography==
+
+===Early years and education===
+Young was born in [[San Francisco, California]], on September 24, 1930, to parents William Hugh Young, a civil engineer,&lt;ref name="nyt20180106"&gt;{{cite news |url=https://www.nytimes.com/2018/01/06/obituaries/john-young-dead.html |title=John Young, Who Led First Space Shuttle Mission, Dies at 87 |work=[[The New York Times]] |first=Richard |last=Goldstein |date=January 6, 2018}}&lt;/ref&gt; and Wanda Howland Young.&lt;ref name="navy-history-young"&gt;{{cite web |url=http://www.history.navy.mil/research/histories/biographies-list/bios-y/Young-John/Young-John-Text.html |title=John Watts Young |publisher=Navy Office of Information, Biographies Branch |date=April 10, 1972}}&lt;/ref&gt; At 18 months old, due to the [[Great Depression]], he moved with his family to [[Cartersville, Georgia|Cartersville]], [[Georgia (U.S. state)|Georgia]],&lt;ref name="fortune20180106"&gt;{{cite news |url=http://amp.timeinc.net/fortune/2018/01/06/astronaut-john-young-dead |title=Astronaut John Young, One of Only 12 to Walk on Moon, Dies at 87 |work=[[Fortune (magazine)|Fortune]] |agency=[[Bloomberg News]] |date=January 6, 2018}}&lt;/ref&gt; then to [[Orlando, Florida]], where he attended grade school and later [[Orange County Public Schools#High schools|Orlando High School]] until graduating in 1948.&lt;ref name="sjg19650324"&gt;{{cite news |url=https://news.google.com/newspapers?id=HhpdAAAAIBAJ&amp;pg=1598%2C4411712 |title=John Young, as Early as 1946, Displayed Interest in Rockets |work=[[St. Joseph Gazette]] |author=Associated Press |volume=120 |issue=238 |page=6A |date=March 24, 1965 |access-date=May 14, 2013}}&lt;/ref&gt;&lt;ref name="jwy-edu"&gt;{{cite web |url=http://www.johnwyoung.org/bio/education.htm |title=Biography: Education |work=JohnWYoung.org |access-date=May 14, 2013}}&lt;/ref&gt; Young was a [[Boy Scouting (Boy Scouts of America)|Boy Scout]] and earned the rank of [[Ranks in the Boy Scouts of America#Second Class|Second Class]].&lt;ref&gt;{{cite web |url=http://www.scouting.org/About/FactSheets/scouting_space.aspx |title=Scouting and Space Exploration |website=Scouting.org |deadurl=yes |archiveurl=https://web.archive.org/web/20160304000000/http://www.scouting.org/About/FactSheets/scouting_space.aspx |archivedate=March 4, 2016 |df=}}&lt;/ref&gt;
+
+Young earned a [[Bachelor of Science]] degree with highest honors in [[Aerospace engineering|Aeronautical Engineering]] from the [[Georgia Institute of Technology]] in 1952; while attending, he became a member of the national military honor society [[Scabbard and Blade]] and [[Sigma Chi]] fraternity.&lt;ref name="fw4465"&gt;{{cite news |url=https://news.google.com/newspapers?nid=1774&amp;dat=19650404&amp;id=AZscAAAAIBAJ&amp;sjid=wmUEAAAAIBAJ&amp;pg=5001,1212947 |title=Virgil Grissom and John Young: Our Trail-Blazing "Twin" Astronauts |work=[[Sarasota Herald-Tribune]] |series=Family Weekly |first=John W. |last=Wasik |page=4 |date=April 4, 1965 |access-date=January 28, 2010}}&lt;/ref&gt;&lt;ref name="blueprint1952"&gt;{{cite book |url=http://hdl.handle.net/1853/25833 |title=Blue Print |publisher=[[Georgia Institute of Technology]] |editor-first=Blount |editor-last=Boswell |volume=45 |page=108 |date=1952}}&lt;/ref&gt;
+
+===Navy service===
+{{quote box|align=right|width=28%|quote=I got a telegram from the [[Chief of Naval Operations]] asking me not to do this anymore.|salign=right|source=— Young, describing an air-to-air missile test in which he and another pilot approached each other at Mach 3 - risking destruction of both aircraft.&lt;ref&gt;{{cite web |url=http://www.johnwyoung.org/bio/navycareer.htm |title=Astronaut John W. Young - Navy Career |website=Johnwyoung.org}}&lt;/ref&gt;}}
+After graduating from [[Georgia Institute of Technology|Georgia Tech]] in 1952, Young entered the [[United States Navy]] through the [[Naval Reserve Officers Training Corps|Navy ROTC]] and was commissioned on June 6, 1952, as an [[ensign (rank)|ensign]].&lt;ref name="navy-history-young" /&gt; He served as fire control officer on the destroyer {{USS|Laws|DD-558|6}} until June 1953 and completed a tour in the [[Sea of Japan]] during the [[Korean War]]. Following this assignment, he was sent to flight training. In January 1954, he was designated a Navy helicopter pilot.&lt;ref name="navy-history-young" /&gt; After receiving his [[United States Naval Aviator|aviator wings]] on December 20, 1954, he was assigned to Fighter Squadron 103 ([[VFA-103|VF-103]]) for four years, flying [[Grumman F9F Cougar]]s from {{USS|Coral Sea|CV-43|6}} and [[Vought F8U Crusader]]s from {{USS|Forrestal|CV-59|6}}.&lt;ref name="nmmuseum" /&gt;
+
+After training at the [[United States Naval Test Pilot School]] in 1959 with the Class 23, Young was assigned to the Naval Air Test Center at [[Naval Air Station Patuxent River]], Maryland, for three years. His test projects included evaluations of the [[Vought XF8U-3 Crusader III|XF8U-3 Crusader III]] and [[McDonnell Douglas F-4 Phantom II|F-4 Phantom II]] fighter weapons systems. In 1962, he set two world time-to-climb records while flying his Phantom II, attaining {{convert|3000|m|ft|0|sp=us}} from a standing start in 34.52 seconds and {{convert|25000|m|ft|0|sp=us}} from a standing start in 227.6 seconds.&lt;ref name="navy-history-young" /&gt; He also served as maintenance officer of Fighter Squadron 143 ([[VFA-143|VF-143]]) from April to September 1962.&lt;ref name="bio" /&gt;
+
+Fellow astronaut [[Charles Bolden]] described Young and [[Robert L. Gibson|Robert "Hoot" Gibson]] as the two best pilots he had met during his aviation career: "Never met two people like them. Everyone else gets into an airplane; John and Hoot wear their airplane. They're just awesome".&lt;ref name="bolden20040106"&gt;{{cite interview |title=Charles F. Bolden |date=January 6, 2004 |access-date=January 6, 2014 |last=Bolden |first=Charles F. |subjectlink=Charles Bolden |interviewer1=Johnson, Sandra |interviewer2=Wright, Rebecca |interviewer3=Ross-Nazzal, Jennifer |work=NASA Johnson Space Center Oral History Project |location=Houston, Texas |url=http://www.jsc.nasa.gov/history/oral_histories/BoldenCF/BoldenCF_1-6-04.htm}}&lt;/ref&gt; Young retired from the Navy as a [[Captain (naval)|Captain]] in September 1976, after 25 years.&lt;ref name="nmmuseum"&gt;{{cite web |url=http://www.nmspacemuseum.org/halloffame/detail.php?id=70 |title=Commanded the first shuttle flight, the first person to enter space six times |publisher=New Mexico Museum of Space History |access-date=January 6, 2018}}&lt;/ref&gt;
+
+===NASA career===
+====Project Gemini====
+{{Main|Gemini 3|Gemini 10}}
+[[Image:Astronaut John Young gemini 3.jpg|left|thumb|Young, age 34, as pilot of Gemini 3]]
+[[Image:John Young is hiosted into helicopter after Gemini 10 flight 1966.jpg|right|thumb|Young following splashdown of Gemini 10]]
+Joining [[NASA]] in 1962, Young was the first of the [[NASA Astronaut Group 2|Astronaut Group 2]] to fly in space, replacing [[Thomas P. Stafford]] as pilot of [[Gemini 3]] when [[Alan Shepard]], the original command pilot, was grounded due to [[Ménière's disease]].{{sfn|Thompson|2004|p=366}} Making the first manned flight of the Gemini spacecraft with [[Gus Grissom]] in 1965, Young scored another space first by smuggling a corned beef sandwich onto the spacecraft—a feat for which he was reprimanded. Some members of the US House of Representatives were not pleased about the stunt, claiming that Young cost tax payers millions of dollars by disrupting a scheduled test of space food during the flight.&lt;ref&gt;{{cite news |url=https://gizmodo.com/50-years-ago-nasa-astronauts-smuggled-a-corned-beef-sa-1693431694 |title=50 Years Ago, NASA Astronauts Smuggled a Corned Beef Sandwich Into Space |work=Gizmodo |last1=Zhang |first1=Sarah |date=March 24, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite book |url=http://www.jsc.nasa.gov/history/mission_trans/GT03_TEC.PDF |title=Composite Air-to-ground and Onboard Voice Tape Transcription of the GT-3 Mission |publisher=National Astronautics and Space Administration |page=45 |date=April 1965 |access-date=May 14, 2013}}&lt;/ref&gt;
+
+Young then trained as backup pilot for [[Gemini 6A]].&lt;ref&gt;{{cite web |url=https://www.nasa.gov/multimedia/imagegallery/image_feature_1010.html |title=Gemini 6 Back-up Crew |publisher=NASA |date=March 23, 2008 |access-date=January 6, 2018}}&lt;/ref&gt; The assignment of [[Gemini 7]] backup command pilot [[Ed White (astronaut)|Ed White]] to Apollo, created an opening for Young as commander of [[Gemini 10]] in 1966.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=MYasNyKQIxMC&amp;pg=PA151&amp;lpg=PA151 |title=Foothold in the Heavens: The Seventies |series=A History of Human Space Exploration |publisher=[[Springer Science+Business Media]] |last1=Evans |first1=Ben |page=151 |date=August 14, 2010 |isbn=978-1-4419-6341-3 |doi=10.1007/978-1-4419-6342-0}}&lt;/ref&gt; The mission was the first to perform a rendezvous with two [[Agena target vehicle]]s; and his pilot, [[Michael Collins (astronaut)|Michael Collins]], performed two spacewalks.&lt;ref&gt;{{cite news |url=https://www.space.com/37527-gemini-10-photos.html |title=Gemini 10: NASA's Epic 1st Double Rendezvous Mission in Photos |work=Space.com |last1=Lunsford |first1=Christine |date=September 18, 2017 |access-date=January 6, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1966-066A |title=Gemini 10 |publisher=NASA Space Science Data Coordinated Archive |access-date=January 6, 2018}}&lt;/ref&gt;
+
+====Apollo program====
+{{Main|Apollo 10|Apollo 16}}
+[[Image:John Young (Apollo 10).jpg|left|thumb|upright|Young in an Apollo 10 crew portrait]]
+[[Image:John W. Young on the Moon.jpg|right|thumb|Young jumps while saluting the [[Lunar Flag Assembly|American flag]] during Apollo 16]]
+In 1966, Young was assigned to an Apollo crew as [[Apollo Command/Service Module|Command Module]] pilot, with Commander [[Thomas P. Stafford|Thomas Stafford]] and [[Apollo Lunar Module|Lunar Module]] pilot [[Eugene Cernan]]. This crew was assigned as backup to the second manned Apollo mission, planned before the [[Apollo 1]] fire. After that fire, both crews were assigned to the first actual manned mission, [[Apollo 7]], which flew in October 1968.&lt;ref name="bio" /&gt; In May 1969, this crew flew to the Moon on [[Apollo 10]]. While Stafford and Cernan flew the Lunar Module in lunar orbit for the first time, Young flew the Command Module solo. Apollo 10 set the record for the highest speed attained by any manned vehicle at {{convert|39897|km/h|mph}} during its return to Earth on May 26, 1969.&lt;ref name="Guinness2012"&gt;{{cite book |url=https://books.google.com/books?id=biWfNzQiR8EC&amp;pg=PA322 |title=Guinness World Records 2012 |publisher=[[Bantam Books]] |editor-first=Craig |editor-last=Glenday |page=322 |date=2012 |isbn=978-0-345-53437-8}}&lt;/ref&gt;&lt;ref name="Lloyd2010"&gt;{{cite book |url=https://books.google.com/books?id=uCgRY6llQpYC&amp;pg=PA280 |title=QI: The Book of General Ignorance |publisher=[[Faber and Faber]] |first1=John |last1=Lloyd |first2=John |last2=Mitchinson |edition=The Noticeably Stouter |page=280 |date=2010 |isbn=978-0-571-27378-2}}&lt;/ref&gt;
+
+Young was backup commander of [[Apollo 13]], the troubled mission in which the Moon landing was aborted because of an explosion in the Service Module.&lt;ref name="backup"&gt;{{cite web |url=https://airandspace.si.edu/explore-and-learn/topics/apollo/apollo-program/landing-missions/apollo13-crew.cfm |title=Apollo 13 Crew |publisher=Smithsonian National Air and Space Museum |access-date=January 6, 2018}}&lt;/ref&gt;
+
+By rotation, Young became commander of [[Apollo 16]], and studied [[geology]] with his crew while preparing for the mission.&lt;ref name=sudburytraining&gt;{{cite news |url=https://news.google.com/newspapers?id=s-9UAAAAIBAJ&amp;sjid=kjwNAAAAIBAJ&amp;pg=1178,849265&amp;dq=apollo+16+training&amp;hl=en |title=Astronauts training in Ont. |agency=[[The Canadian Press]] |newspaper=[[Leader-Post|The Leader-Post]] |location=Regina, Saskatchewan |last=Dickie |first=Allan |date=July 7, 1971 |accessdate=November 26, 2011}}&lt;/ref&gt; Apollo 16's lunar landing was almost aborted when a malfunction was detected in the SPS engine control system in the Service Module. It was determined that the problem could be worked around, and the mission continued.&lt;ref name=overview&gt;{{cite web |title=Descartes Surprise |url=http://www.hq.nasa.gov/alsj/a16/a16.summary.html |publisher=Apollo Lunar Surface Journal |accessdate=November 26, 2011}}&lt;/ref&gt; On the surface, Young took three moonwalks in the [[Descartes Highlands]] with [[Charles Duke]] on April 21, 22 and 23, 1972, making Young the ninth person to walk on the surface of the Moon, while [[Ken Mattingly]] flew the Command Module in lunar orbit.&lt;ref name="bio" /&gt;&lt;ref&gt;{{cite web |url=https://www.nasa.gov/mission_pages/apollo/missions/apollo16.html |title=Apollo 16 |date=July 8, 2009 |publisher=NASA |access-date=January 8, 2018}}&lt;/ref&gt;
+
+Young's final assignment in Apollo was as the backup commander for Cernan on [[Apollo 17]]. The backup crew was originally the [[Apollo 15]] crew, but [[Deke Slayton]] removed them from the assignment when he learned they had taken a small statue to the moon, as well as stamps that they sold to a dealer.&lt;ref name=15backup&gt;{{cite news |url=https://news.google.com/newspapers?id=kAsUAAAAIBAJ&amp;sjid=94oDAAAAIBAJ&amp;pg=5667,8302&amp;dq=apollo+17+backup+crew&amp;hl=en |title=Apollo crew warned about commercialism |newspaper=The Free Lance-Star |date=August 1, 1972 |accessdate=August 26, 2011}}&lt;/ref&gt;&lt;ref name=nasmcrew&gt;{{cite web |url=http://www.nasm.si.edu/collections/imagery/apollo/as17/a17crew.htm |title=Apollo 17 Crew |work=The Apollo Program |publisher=[[National Air and Space Museum]] |location=Washington, D.C. |accessdate=August 26, 2011}}&lt;/ref&gt;
+
+====Space Shuttle program====
+{{Main|STS-1|STS-9}}
+[[File:EM-0084-01.ogg|thumb|As a commander, Young made the shuttle landing]]
+[[Image:John Young 2006.jpg|right|thumb|upright|Young at the 25th anniversary of STS-1 at [[Kennedy Space Center]]]]
+In January 1973 Young was made Chief of the Space Shuttle Branch of the Astronaut Office. In January 1974, he became Chief of the Astronaut Office after the retirement of [[Alan Shepard]].&lt;ref name="asf"&gt;{{cite web |url=https://astronautscholarship.org/Astronauts/john-w-young/ |title=John Young |publisher=Astronaut Scholarship Foundation |access-date=January 6, 2018}}&lt;/ref&gt;
+
+Young flew two missions of the Space Shuttle, both aboard the {{OV|Columbia}}. He commanded the program's 1981 maiden orbital flight, [[STS-1]], and in 1983 commanded [[STS-9]], which carried the first [[Spacelab]] module.&lt;ref name="asf" /&gt; In 1986 he was in line to make a record seventh space flight on [[Canceled Space Shuttle missions#Canceled due to the Challenger disaster|STS-61-J]] to deploy the [[Hubble Space Telescope]], but the [[Space Shuttle Challenger disaster|''Challenger'' disaster]] earlier that year had delayed NASA's schedule.&lt;ref name="sts61"&gt;{{cite web |url=http://www.astronautix.com/flights/sts61j.htm |title=STS-61-J |publisher=Encyclopedia Astronautica |date=November 17, 2007 |accessdate=March 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100108041720/http://astronautix.com/flights/sts61j.htm |archivedate=January 8, 2010 |df=}}&lt;/ref&gt;
+
+Young was openly critical of NASA management following the ''Challenger'' disaster,&lt;ref&gt;{{cite news |url=http://abcnews.go.com/Technology/wireStory/nasa-legendary-astronaut-moonwalker-john-young-died-52180080 |title=NASA: Legendary astronaut, moonwalker John Young has died |last1=Dunn |first1=Marcia |publisher=ABC News |date=January 6, 2018 |access-date=January 6, 2018 |archive-url=https://web.archive.org/web/20180106202306/http://abcnews.go.com/Technology/wireStory/nasa-legendary-astronaut-moonwalker-john-young-died-52180080 |archive-date=January 6, 2018 |dead-url=yes |df=mdy-all }}&lt;/ref&gt; and in April 1987 was made Special Assistant to JSC Director [[Aaron Cohen (Deputy NASA administrator)|Aaron Cohen]] for Engineering, Operations and Safety.&lt;ref name="bio" /&gt; NASA denied that his criticism triggered the move, although Young and industry insiders believed that was the reason for the reassignment.&lt;ref&gt;{{cite news |url=http://articles.latimes.com/1987-04-16/news/mn-711_1_johnson-space-center-in-houston |title=The Nation |work=[[Los Angeles Times]] |date=April 16, 1987 |access-date=January 6, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://articles.latimes.com/1987-07-30/news/mn-378_1_shuttle-flight |title=Top Astronaut Says NASA Forced Him From Job |work=[[Los Angeles Times]] |date=July 30, 1987 |access-date=January 6, 2018}}&lt;/ref&gt; In February 1996, he was assigned as Associate Director (Technical) JSC.&lt;ref name="bio" /&gt;
+
+During his NASA career, Young logged more than 15,000 hours of training, mostly in simulators, to prepare for positions on eleven spaceflights in prime and backup crew positions.&lt;ref name="bio" /&gt;
+
+====Retirement====
+Young worked for NASA for 42 years and announced his retirement on December 7, 2004. He retired on December 31, 2004, at the age of 74, but continued to attend the Monday Morning Meeting at the Astronaut Office at JSC for several years thereafter.&lt;ref name="Fuglesang"&gt;{{Cite book |title=Tretton dygn i rymden efter fjorton år på jorden: dagbok från rymden |trans-title=Thirteen days in space, after fourteen years on earth: a diary from space |language=Swedish |publisher=Albert Bonniers Förlag |first=Christer |last=Fuglesang |date=2007 |isbn=978-91-85555-15-4 |oclc=185242561}}&lt;/ref&gt; He logged more than 15,275 hours flying time in [[Powered aircraft#Propeller aircraft|props]], [[Jet aircraft|jets]], [[helicopter]]s, and [[Rocket-powered aircraft|rocket jets]]; more than 9,200 hours in [[Northrop T-38 Talon|T-38]]s; and 835 hours in [[spacecraft]] during six space flights.&lt;ref name="bio" /&gt;
+
+On April 12, 2006, Young appeared at the 25th anniversary of the STS-1 launch at the [[Kennedy Space Center Visitor Complex]], along with pilot [[Robert Crippen]]. The two spoke of their experiences during the flight.&lt;ref&gt;{{Cite web |url=http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=28394 |title=To honor the 25th anniversary... |publisher=NASA |first=Jeanne |last=Ryba |date=April 7, 2006 |access-date=October 6, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20100531211821/http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=28394 |archivedate=May 31, 2010 |df=}}&lt;/ref&gt;
+
+In 2012, Young published an autobiography, ''Forever Young''.&lt;ref&gt;{{cite web |url=http://www.upf.com/book.asp?id=YOUNG001 |title=Forever Young: A Life of Adventure in Air and Space |work=University Press of Florida |access-date=May 9, 2013}}&lt;/ref&gt;
+
+===Personal life===
+Young married Barbara White of [[Savannah, Georgia]], and they had two children, Sandra and John.&lt;ref name="fw4465" /&gt; They were divorced in 1972 after 16 years of marriage.&lt;ref name="telegraph19810411"&gt;{{cite news |url=https://news.google.com/newspapers?id=gKgrAAAAIBAJ&amp;sjid=Bv0FAAAAIBAJ&amp;pg=5388%2C2658262 |title=Young: America's old man of space |work=[[Nashua Telegraph]] |author=Associated Press |volume=113 |issue=36 |page=23 |date=April 11, 1981}}&lt;/ref&gt; He later married Susy Feldman,&lt;ref name="telegraph19810411" /&gt; and lived in [[El Lago, Texas]], a suburb of Houston.
+
+Young died on January 5, 2018, at his home in Houston of complications from [[pneumonia]]. He was 87.&lt;ref name="nyt20180106"/&gt;&lt;ref name="nasa20180106"&gt;{{cite web |title=NASA Remembers Agency's Most Experienced Astronaut |url=https://www.nasa.gov/press-release/nasa-remembers-agency-s-most-experienced-astronaut |publisher=NASA |date=January 6, 2018 |archiveurl=https://web.archive.org/web/20180106201553/https://www.nasa.gov/press-release/nasa-remembers-agency-s-most-experienced-astronaut/ |archivedate=January 6, 2018 |dead-url=no}}&lt;/ref&gt;&lt;ref name="collect20180106"&gt;{{Cite news |url=http://www.collectspace.com/news/news-010618a-astronaut-john-young-obituary.html |title=John Young, ninth astronaut on moon, led first shuttle mission, dies at 87 |work=[[collectSPACE]] |date=January 6, 2018 |access-date=January 6, 2018}}&lt;/ref&gt;
+
+==Recognition==
+===Military and NASA insignia and decorations===
+* [[Astronaut badge#U.S. Navy, Marine Corps, and Coast Guard astronauts|Navy Astronaut Wings]] (1965)&lt;ref name="bio" /&gt;&lt;ref name="hist.recip.list"&gt;{{cite web |url=https://searchpub.nssc.nasa.gov/servlet/sm.web.Fetch/Agency_Awards_Historical_Recipient_List.pdf?rhid=1000&amp;did=2120817&amp;type=released |title=Historical Recipient List |publisher=NASA |accessdate=January 8, 2018}}&lt;/ref&gt;
+* [[Distinguished Service Medal (United States Navy)|Navy Distinguished Service Medal]] with [[5/16 inch star|gold award star]] (1969, 1972)&lt;ref name="bio" /&gt;&lt;ref name="hist.recip.list" /&gt;
+* [[Distinguished Flying Cross (United States)|Distinguished Flying Cross]] with two gold award stars&lt;ref name="bio" /&gt;
+* [[Congressional Space Medal of Honor]] (1981)&lt;ref name="bio" /&gt;&lt;ref name="hist.recip.list" /&gt;
+* [[NASA Distinguished Service Medal]] (1969) with three [[oak leaf cluster]]s (1981, 2004)&lt;ref name="bio" /&gt;
+* [[NASA Exceptional Achievement Medal]] (1994)&lt;ref name="hist.recip.list" /&gt;
+* [[NASA Exceptional Engineering Achievement Medal]] (1988)&lt;ref name="bio" /&gt;&lt;ref name="hist.recip.list" /&gt;
+* [[NASA Exceptional Service Medal]] (1965, 1966, 2006)&lt;ref name="hist.recip.list" /&gt;&lt;ref&gt;{{cite web |url=http://www.johnwyoung.com/bio/award-esm.htm |title=Biography: 2 Exceptional Service Medals |work=JohnWYoung.org |access-date=May 14, 2013}}&lt;/ref&gt;
+* [[NASA Outstanding Leadership Medal]] (1992)&lt;ref name="bio" /&gt;&lt;ref name="hist.recip.list" /&gt;
+* [[NASA Space Flight Medal]] (1981, 1983)&lt;ref name="hist.recip.list" /&gt;
+
+===Awards and honors===
+* Inducted into six Aviation and Astronaut Halls of Fame&lt;ref name="bio" /&gt;
+* General [[James E. Hill]] Lifetime Space Achievement Award&lt;ref&gt;{{cite web |url=http://2010.nationalspacesymposium.org/node/580.html |title=The General James E. Hill Lifetime Space Achievement Award |publisher=National Space Symposium |date=2010 |access-date=May 14, 2013 |deadurl=yes |archiveurl=https://archive.is/20130615164321/http://2010.nationalspacesymposium.org/node/580.html |archivedate=June 15, 2013 |df=}}&lt;/ref&gt; from the [[Space Foundation]] (2010)&lt;ref&gt;{{cite press release |url=http://2010.nationalspacesymposium.org/media/press-releases/legendary-astronaut-john-young-to-receive-general-james-e-hill-lifetime-space-a.html |title=Legendary Astronaut John Young to Receive General James E. Hill Lifetime Space Achievement Award |publisher=National Space Symposium |first=Janet |last=Stevens |date=January 22, 2010 |access-date=May 14, 2013 |deadurl=yes |archiveurl=https://archive.is/20130615164322/http://2010.nationalspacesymposium.org/media/press-releases/legendary-astronaut-john-young-to-receive-general-james-e-hill-lifetime-space-a.html |archivedate=June 15, 2013 |df=}}&lt;/ref&gt;
+* Exceptional Engineering Achievement Award (1985)&lt;ref name="bio" /&gt;
+* [[Academy of Achievement|Golden Plate Award]] for Science and Exploration (1993)&lt;ref&gt;{{cite web |url=http://www.achievement.org/our-history/golden-plate-awards/all-honorees/ |title=Golden Plate Awardees listed by year |publisher=Academy of Achievement |access-date=January 6, 2018}}&lt;/ref&gt;
+* [[American Astronautical Society]] Space Flight Award (1993)&lt;ref name="bio" /&gt;
+*In 1995, Young was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+* NASA Ambassador of Exploration (2005)&lt;ref&gt;{{cite web |url=https://www.nasa.gov/centers/johnson/news/releases/H05-192.html |title=NASA Names Astronaut John Young Ambassador of Exploration |publisher=NASA |access-date=January 6, 2018}}&lt;/ref&gt;
+* He was the first John Young History Maker Honoree in 2005&lt;ref&gt;{{cite web |url=http://cflhistory.org/cflhistory.org/wp-content/uploads/2017-John-Young-History-Maker-Sponsorship-Package.pdf |title=11th Annual John Young History Maker Celebration |publisher=Historical Society of Central Florida |access-date=January 6, 2018}}&lt;/ref&gt;
+* Six [[Honorary degree|honorary]] doctorate degrees&lt;ref name="bio" /&gt;
+* [[Florida State Road 423|John Young Parkway]], a major highway in [[Orlando, Florida|Orlando]] and [[Kissimmee, Florida]], is named for him. When he heard the highway was named for him, he said "Them boys shouldn't a'done that. I ain't dead yet".&lt;ref name="sts61" /&gt; An elementary school ([[Orange County Public Schools|OCPS]]) on the parkway also bears his name.&lt;ref&gt;{{cite web |url=https://johnyounges.ocps.net/ |title=John Young Elementary School Homepage |access-date=January 6, 2018 |publisher=John Young Elementary School}}&lt;/ref&gt;
+* The planetarium at the [[Orlando Science Center]] was originally named in his honor.&lt;ref name="orsent19901028"&gt;{{cite news |url=http://articles.orlandosentinel.com/1990-10-28/news/9010240091_1_telescope-science-center-planets |title=Where Stargazers Can Get The Big Picture |work=[[Orlando Sentinel]] |first=Cindy |last=Schreuder |date=October 28, 1990 |access-date=May 14, 2013}}&lt;/ref&gt;
+*Ranked as the No. 3 most-popular space hero in a 2010 [[Space Foundation]] survey&lt;ref&gt;{{cite press release |url=https://www.spacefoundation.org/news/space-foundation-survey-reveals-broad-range-space-heroes-early-astronauts-still-most |title=Space Foundation Survey Reveals Broad Range of Space Heroes; Early Astronauts Still the Most Inspirational |publisher=Space Foundation |first=Carol |last=Hively |date=October 27, 2010 |access-date=May 14, 2013}}&lt;/ref&gt;
+* Recipient of [[Aviation Week]]s 1998 [[Philip J. Klass]] Award for Lifetime Achievement&lt;ref&gt;{{cite web |url=https://laureates.aviationweek.com/en/winners/previous-winners.html |title=Aviation Week’s Laureate Awards Past Winners |access-date=January 6, 2018 |publisher=Aviation Week}}&lt;/ref&gt;
+* Asteroid [[5362 Johnyoung]] was named in his memory in 2018
+
+===Organizations===
+* [[American Institute of Aeronautics and Astronautics]] [[fellow]]&lt;ref name="johnwyoung.com"&gt;{{cite web |url=http://www.johnwyoung.com/bio/org.htm |title=Biography: Organization Memberships |work=JohnWYoung.org |access-date=May 14, 2013}}&lt;/ref&gt;&lt;ref name="bio" /&gt;
+* American Astronautical Society fellow&lt;ref name="johnwyoung.com" /&gt;&lt;ref name="bio" /&gt;
+* [[Society of Experimental Test Pilots]] fellow&lt;ref name="johnwyoung.com" /&gt;&lt;ref name="bio" /&gt;
+* [[Tau Beta Pi]] Engineering Honor Society member&lt;ref&gt;{{cite web |url=https://www.tbp.org/about/Dist/Astronauts.cfm |title=Astronauts and Scientists |access-date=January 6, 2018 |publisher=Tau Beta Pi}}&lt;/ref&gt;
+* [[Sigma Gamma Tau]] Aerospace Engineering Honor Society member&lt;ref name="bio" /&gt;
+* Georgia Tech [[ANAK Society]] member&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=Kp5sCQAAQBAJ&amp;pg=PA26&amp;lpg=PA26&amp;dq=georgia+tech+anak+society+john+young&amp;source=bl&amp;ots=xmFrxa_pFd&amp;sig=iqN7YnTgt_4jKESg5JfKT9eC0RQ&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjji5297cTYAhWGvVMKHXLKDCkQ6AEIPzAD#v=onepage&amp;q=georgia%20tech%20anak%20society%20john%20young&amp;f=false |title=Secret Societies Vol. 3: The Collegiate Secret Societies of America |last1=Francis |first1=Arthur Morius |page=26 |chapter=2 |publisher=Lulu.com |date=February 20, 2015 |access-date=January 6, 2018}}&lt;/ref&gt;
+* [[Sigma Chi]] fraternity member&lt;ref&gt;{{cite web |url=https://www.sigmachi.org/the-sigma-chi-museum |publisher=Sigma Chi Fraternity |title=The Sigma Chi Museum |access-date=January 6, 2018}}&lt;/ref&gt;
+
+==Media portrayals==
+In the 1995 film, ''[[Apollo 13 (film)|Apollo 13]]'', Young was played by Ben Marley.&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt0112384/fullcredits?ref_=tt_cl_sm#cast |title=Apollo 13, Full Cast and Crew |publisher=IMDb |access-date=December 5, 2017}}&lt;/ref&gt; In the 1998 [[HBO]] [[miniseries]], ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]'', he was played by [[John Posey (actor)|John Posey]].&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt0120570/fullcredits?ref_=tt_cl_sm#cast |title=From the Earth to the Moon, Full Cast and Crew |publisher=IMDb |access-date=December 5, 2017}}&lt;/ref&gt;
+
+Young is one of the astronauts featured in the documentary film and book, ''[[In the Shadow of the Moon (film)|In the Shadow of the Moon]]'';&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt0925248/fullcredits?ref_=tt_cl_sm#cast |title=In the Shadow of the Moon: Full Cast and Crew |publisher=IMDb |access-date=January 6, 2018}}&lt;/ref&gt; the Discovery Channel series, ''[[When We Left Earth: The NASA Missions|When We Left Earth]]'';&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt1233514/fullcredits |title=When We Left Earth: Full Cast and Crew |publisher=IMDb |access-date=January 6, 2018}}&lt;/ref&gt; and the documentary film, ''[[The Wonder of It All (2007 film)|The Wonder of It All]]''.&lt;ref&gt;{{cite web |url=https://www.imdb.com/title/tt0928406/fullcredits?ref_=tt_cl_sm#cast |title=The Wonder of It All: Full Cast and Crew |publisher=IMDb |access-date=January 6, 2018}}&lt;/ref&gt;
+
+==See also==
+{{Portal bar|Biography|United States Navy|Spaceflight}}
+*[[List of spaceflight records]]
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+* {{cite book |last=Thompson |first=Neal |authorlink=Neal Thompson |title=Light This Candle: The Life &amp; Times of Alan Shepard, America's First Spaceman |edition=1st |date=2004 |publisher=Crown Publishers |location=New York |isbn=0-609-61001-5 |oclc=52631310 |lccn=2003015688 |ref=harv}}
+
+==Further reading==
+*[http://www.chron.com/news/nation-world/article/Conversation-With-John-Young-1563092.php "Conversation With John Young"], ''Houston Chronicle'' (December 17, 2004)
+*[http://www.balettie.com/young/ "The Big Picture: Ways to Mitigate or Prevent Very Bad Planet Earth Events"], an essay by Young
+
+==External links==
+{{Commons category}}
+*{{C-SPAN|johnyoung04}}
+*{{IMDb name|0974135}}
+*{{Find a Grave|186428895}}
+
+{{S-start}}
+{{S-bef|before=[[Alan Shepard]]}}
+{{s-ttl|title=[[Chief of the Astronaut Office]]
+|years=1974–1987}}
+{{S-aft|after=[[Daniel Brandenstein]]}}
+{{s-end}}
+
+{{People who have walked on the Moon}}
+{{NASA Astronaut Group 2|state=autocollapse}}
+{{Congressional Space Medal of Honor}}
+
+{{Authority control}}
+{{Use mdy dates|date=January 2018}}
+
+{{DEFAULTSORT:Young, John}}
+&lt;!--Categories--&gt;
+[[Category:1930 births]]
+[[Category:2018 deaths]]
+[[Category:1965 in spaceflight]]
+[[Category:1966 in spaceflight]]
+[[Category:1969 in spaceflight]]
+[[Category:1972 in spaceflight]]
+[[Category:1981 in spaceflight]]
+[[Category:1983 in spaceflight]]
+[[Category:Apollo 10]]
+[[Category:Apollo 16]]
+[[Category:American astronauts]]
+[[Category:Aviators from California]]
+[[Category:Apollo program astronauts]]
+[[Category:People who have walked on the Moon]]
+[[Category:American aerospace engineers]]
+[[Category:United States Navy astronauts]]
+[[Category:NASA civilian astronauts]]
+[[Category:United States Astronaut Hall of Fame inductees]]
+[[Category:People from San Francisco]]
+[[Category:Georgia Institute of Technology alumni]]
+[[Category:United States Naval Test Pilot School alumni]]
+[[Category:United States Navy officers]]
+[[Category:United States Naval Aviators]]
+[[Category:Military personnel from California]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:American naval personnel of the Korean War]]
+[[Category:American test pilots]]
+[[Category:NASA people]]
+[[Category:Recipients of the Congressional Space Medal of Honor]]
+[[Category:Recipients of the Navy Distinguished Service Medal]]
+[[Category:Recipients of the Distinguished Flying Cross (United States)]]
+[[Category:Recipients of the NASA Distinguished Service Medal]]
+[[Category:Recipients of the NASA Exceptional Achievement Medal]]
+[[Category:Recipients of the NASA Exceptional Service Medal]]
+[[Category:American autobiographers]]
+[[Category:Articles containing video clips]]
+[[Category:Toastmasters members]]
+[[Category:Aviators from Georgia (U.S. state)]]
+[[Category:Aviators from Florida]]
+[[Category:Military personnel from Georgia (U.S. state)]]
+[[Category:Military personnel from Florida]]
+[[Category:People from Orlando, Florida]]</text>
+      <sha1>thqd8we8g6kt0ip0go7xgmpu3a5wz68</sha1>
+    </revision>
+  </page>
+</mediawiki>

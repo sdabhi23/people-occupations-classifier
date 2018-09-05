@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Roy Nelson (cartoonist)</title>
+    <ns>0</ns>
+    <id>11657168</id>
+    <revision>
+      <id>711416580</id>
+      <parentid>704564053</parentid>
+      <timestamp>2016-03-22T19:34:02Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Roy Nelson (cartoonist)|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2640">{{Refimprove|date=June 2007}}
+
+&lt;!-- Deleted image removed: [[File:Roynelson.jpg|thumb|right|150px]] --&gt;
+'''Roy Nelson''' (May 17, 1905 &amp;ndash; September 14, 1956) was a [[cartoonist]] and caricaturist. His  talent for drawing was recognized at an early age, and after high school in [[Virginia]], [[Minnesota]], he was accepted into the Chicago Academy of Fine Arts (1922-1925). After graduation, Roy joined the staff of ''[[The Chicago Daily News]]'' as an artist-reporter, contributing caricatures, cartoons and comics. He created caricatures of many celebrities who visited Chicago.
+
+During this period, Roy also contributed many cartoons to [[Esquire (magazine)|''Esquire'' magazine]] starting with the first issue in October 1933.
+
+Roy left the ''Chicago Daily News'' briefly in the early 1930s and joined the staff of [[The Walt Disney Studios (division)|The Walt Disney Studios]], producing publicity artwork and assisting in drawing the daily [[Mickey Mouse]] newspaper strip. After several months he returned to Chicago and the ''Daily News''.
+
+Roy worked for the ''Chicago Daily News'' for over 14 years before entering the [[Army of the United States|Army]] in 1943. He served for 2 1/2 years, stationed in southern California creating illustrations for army training books, and after the end of the war returned to the ''Chicago Daily News''.
+
+In 1950, Roy married Marcella Colberg and returned to his home town in Virginia, Minnesota for one year where he resumed his career as a cartoonist, working freelance for various clients including ''[[The Sporting News]]'', [[Hearst Newspapers]] and [[Saalfield Publishing|Saalfield]] books. In 1951 they moved to Sarasota, Florida for one year, creating a daily cartoon strip called ''Dot, Mot and Tot''. After they moved to Minneapolis, MN, Roy created a series of children's coloring books. Three years after their marriage, Roy was diagnosed with lung cancer and entered a [[United States Department of Veterans Affairs|VA]] hospital for treatment. Roy died in 1956 as reported in the ''Tower News'' upon Marcella's recent death (March 2011).
+
+Roy Nelson's work is currently showcased on the webpage [http://www.cartoonretro.com Cartoonretro.com]. Cartoonretro president [[Shane Glines]], author of ''Tophats and Flappers: The Art of [[Russell Patterson]]'', is currently writing a major monograph on the life and work of Roy Nelson titled ''Roy Nelson: The Art of Appeal''.
+
+==Notes==
+{{reflist}}
+
+{{DEFAULTSORT:Nelson, Roy}}
+[[Category:1905 births]]
+[[Category:1956 deaths]]
+[[Category:People from Virginia, Minnesota]]
+[[Category:American cartoonists]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>9x1n2ygd7ljh1m576j83ubh8y1tnauy</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,191 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>André Borschberg</title>
+    <ns>0</ns>
+    <id>27975160</id>
+    <revision>
+      <id>842959180</id>
+      <parentid>839433930</parentid>
+      <timestamp>2018-05-25T21:18:42Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (1 source from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11897">{{POV check|date=June 2016}}
+{{Use dmy dates|date=February 2014}}
+{{EngvarB|date=February 2014}}
+{{Infobox aviator
+| name             = André Borschberg [[Royal Scottish Geographical Society|FRSGS]]
+| image            = Andre Borschberg Portrait.jpg
+| image_size       = 
+| alt              = 
+| caption          = Borschberg in 2011
+| full_name        = 
+| native_name      = 
+| native_name_lang = 
+| birth_name       =
+| birth_date       = {{Birth date and age|1952|12|13|df=yes}}
+| birth_place      = [[Zurich]], [[Switzerland]]
+| death_date       = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} --&gt;
+| death_place      = 
+| death_cause      = 
+| resting_place    = 
+| resting_place_coordinates = &lt;!-- {{Coord|LATITUDE|LONGITUDE|type:landmark}} --&gt;
+| monuments        = 
+| nationality      = [[Switzerland]]
+| education        = [[École Polytechnique Fédérale de Lausanne]], MS 1976&lt;br /&gt;[[MIT Sloan]], MS 1983
+| spouse           = 
+| relatives        = 
+| known_for        = Completed the first round-the-world [[solar flight]] and the longest solo flight in an airplane of any kind: 117 hours and 52 minutes
+| first_flight_date     = 
+| first_flight_aircraft = 
+| famous_flights   = longest solo solar flight ever in aviation history from Nagoya to Hawaii 
+| license_date     = 
+| license_place    = 
+| air_force        = [[Swiss Air Force]]
+| battles          = 
+| rank             = 
+| awards           = 14 FAI world records
+| memorials        = 
+| first_race       = &lt;!-- For racing aviators --&gt;
+| racing_best      = &lt;!-- For racing aviators --&gt;
+| racing_aircraft  = &lt;!-- For racing aviators --&gt;
+| website          = {{URL|www.andreborschberg.ch}}
+| child            = 
+| module           = 
+}}
+
+'''André Borschberg''' [[Royal Scottish Geographical Society|FRSGS]] (born December 13, 1952) is a Swiss entrepreneur, explorer, pilot and speaker. He is the co-founder of the [[Solar Impulse project]], the first ever round-the-world solar flight, successfully completed in July 2016. During the Japan-to-Hawaii leg, André broke the world record for longest solo flight in an airplane of any kind: 117 hours and 52 minutes, breaking [[Steve Fossett]]'s 2006 record. Before that, on 7 July 2010, André completed the first 24-hour solar powered flight. The flight set records for the longest manned [[Solar power|solar-powered]] flight and the greatest height reached by a manned [[Electric aircraft|solar aircraft]].&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2010/07/09/world/europe/09plane.html|accessdate=8 July 2010|work=The New York Times|author=Alan Cowell|title=Solar-Powered Plane Flies for 26 Hours | date=8 July 2010}}&lt;/ref&gt;
+
+He currently holds 14 [[Fédération Aéronautique Internationale|FAI]] world records in: free distance, free distance along a course, straight distance, straight distance predeclared waypoints, distance along a course, duration, absolute altitude, gain of height.
+His groundbreaking record: the longest solo flight in an airplane of any kind: 117 hours and 52 minutes.
+
+Borschberg flew as a jet pilot in the [[Swiss Air Force]] prior to his work with Solar Impulse. An engineer by education and a graduate of the [[MIT Sloan School of Management]], André Borschberg has solid experience in creating and managing companies. His passion for aviation and his interest in innovative solutions have led him to team up with [[Bertrand Piccard]] as CEO, co-founder and pilot of Solar Impulse.
+
+For his role in delivering and piloting Solar Impulse, André was awarded the prestigious Mungo Park Medal by the Royal Scottish Geographical Society in 2018. This was awarded jointly with [[Bertrand Piccard]].
+
+==Pilot career==
+Fascinated by aviation from his earliest youth, André Borschberg trained as a pilot in the [[Swiss air force]], flying first [[De Havilland Venom|Venoms]] and then [[Hawker Hunter|Hunters]] and [[Northrop F-5E Tiger II|Tigers]] for over 20 years. Today he holds both professional aeroplane and helicopter pilots' licences and also does aerobatics in his spare time.
+
+==Engineer and management career==
+After graduating from the [[École Polytechnique Fédérale de Lausanne]] (EPFL) in mechanics and thermodynamics, André Borschberg has constantly developed and led numerous technology projects, companies and start-ups, as both investor and entrepreneur. He very quickly supplemented his training with a Master's in Management Science from the [[MIT Sloan School of Management]], preceded by certificates in financial management and business management at HEC Lausanne. He first joined McKinsey, one of the world's leading business consultancies, as a consultant for five years, before starting his own entrepreneurial activities.
+
+His strong points are business organisation, management and development. From finance to marketing, from engineering to human resources, André Borschberg has acquired solid experience as an entrepreneur, manager and consultant for over 20 years. He went initially into partnership with a venture capital company, Lowe Finance. His vast range of professional skills, his versatility and his perseverance enabled him to successfully launch two start-ups in the Internet and new technologies field. With a technical team from EPFL, he co-founded Innovative Silicon, a technology company in the field of microprocessor memories.
+
+==''Solar Impulse''==
+{{See also|Solar Impulse}}
+[[File:Solar Impulse SI2 pilote Bertrand Piccard Payerne November 2014.jpg|thumb|The [[Flight endurance record|longest non-stop solo airplane flight]] in history (4 days, 21 hours and 51 minutes) was achieved by André Borschberg in the [[Switzerland|Swiss]] [[solar airplane]] ''[[Solar Impulse]] 2'' (2015).]]
+André Borschberg and Bertrand Piccard released in 2017 ''Objectif Soleil'', a book about how they lived through [[Solar Impulse]] project.&lt;ref&gt;{{cite web|url=http://www.leparisien.fr/magazine/grand-angle/le-parisien-magazine-les-coulisses-de-l-exploit-17-02-2017-6684036.php|title=Solar Impulse, les coulisses de l’exploit|website=Le Parisien|date=16 February 2017|accessdate=8 June 2017}}.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.lexpress.fr/actualite/societe/environnement/solar-impulse-1000-solutions-pour-un-monde-durable_1879438.html|title=Solar Impulse: "1000 solutions pour un monde durable"|author=Interview by Isabelle Hennebelle|website=lexpress.fr|date=17 February 2017|accessdate=8 June 2017}}.&lt;/ref&gt;
+
+===Management===
+At the head of the project Solar Impulse with Bertrand Piccard, André Borschberg brings the essential skills of an entrepreneur who contributes to convert vision into reality. As the CEO, he has put together and motivated a team of 65 top specialists and numerous partners, all from very diverse horizons and origins. "This diversity we have sought at every level stimulates their creativity and gives them their strength. It is from this pooling of experiences that original and totally-new solutions arise.”
+
+===Engineering===
+As a mechanical engineer and pilot, he is directing the construction of the aircraft and the preparation of the flight missions. "We need to find a way to build an aircraft that is super-robust &amp; super-light at the same time, and above all extremely efficient with energy consumption, so as to need only minuscule amounts of energy in order to fly. But with the same degree of resistance as a normal airplane. Hence the great complexity of the project, which gives the true measure of its philosophy and its objectives."&lt;ref&gt;{{cite news|url=http://edition.cnn.com/video/?/video/tech/2011/11/29/solar-impulse-aircraft.cnn|accessdate=29 November 2011|work=CNN|author=CNN|title=Can solar power fuel future flight| date=29 November 2011}}&lt;/ref&gt;
+
+=== Medical partner ===
+The emergency department of the [[Hirslanden Clinique Cecil]] is the official medical partner of [[Bertrand Piccard]] and André Borschberg’s world tour for Solar Impulse.&lt;ref&gt;{{cite journal |title=Cliniquement vôtre|url=http://www.medicol.ch/medicol/images/medecins/dr_patrick_vienne/dr_vienne_cliniquement_votre_07_2015.pdf|journal=Médicol|date =July 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |title=La micro sieste au coeur du cockpit|url=https://issuu.com/ineditpublications/docs/domino_6|journal=Issuu|date = October 2012}}&lt;/ref&gt;
+
+===''Solar Impulse 1'' missions===
+* ''Solar Night Flight'':
+
+On 7 July 2010, André Borschberg has, for the first time in history, flown 26 hours with the Solar Impulse aeroplane, demonstrating at the same time the possibilities to fly day and night with only solar energy to propel the aeroplane.
+
+* ''European Solar Flights'':
+
+Solar Impulse HB-SIA, piloted by André Borschberg, completed three international flights during the European campaign: Payerne to Brussels on 13 May (630&amp;nbsp;km), Brussels to Paris-Le Bourget on 14 June (395&amp;nbsp;km) and Paris-Le Bourget to Payerne on 3 July (426&amp;nbsp;km).
+
+* ''Crossing frontiers'':
+
+Solar Impulse, piloted alternately by André Borschberg and Bertrand Piccard, made its first intercontinental flight in 2012 from Switzerland (Payerne) to Toulouse, and then on to Morocco.&lt;ref&gt;"Bertrand Piccard; Explorer, c'est aller au delà des évidences", ''L'Express'', 1 August 2012, pp. 6–9.&lt;/ref&gt;
+
+* ''Across America'':
+
+Solar Impulse has completed the historic crossing of the United States over a 2-month period of the summer of 2013. Bertrand Piccard and André Borschberg, the two pilots, flew from San Francisco to New York, stopping over in cities along the way.
+
+With the goal of the [[Solar Impulse#Circumnavigation flight .282015.29|world's first solar powered round the world flight]] initiated on March 9, 2015, these flights have provided good learning opportunities in terms of slotting the solar aircraft into international air space and landing at international airports.
+
+===''Solar Impulse 2'' missions===
+
+Taking turns at the controls of the airplane with his partner Bertrand Piccard for the first ever round-the-world solar flight, successfully achieved in July 2016.
+
+===FAI world records===
+André Borschberg achieved 8 [[Fédération Aéronautique Internationale|FAI]] world records flying with ''Solar Impulse 1''. During three historical flights (2010 night flight, 2012 Payerne to Madrid and 2013 Phoenix to Dallas), he was awarded 8 FAI World records: free distance, free distance along a course, straight distance, straight distance predeclared waypoints, distance along a course, duration, absolute altitude, gain of height.
+
+With the ''Solar Impulse 2'', he broke the record of the longest solo flight, previously held by [[Steve Fosset]]. On 3 July 2015, Borschberg flew the solar powered airplane between [[Nagoya]] (Japan) and [[Kalaeloa, Hawaii]] (US) for a duration of 4 days, 21 hours and 52 minutes.&lt;ref&gt;Emma Howard, [https://www.theguardian.com/environment/2015/jul/03/solar-impulse-lands-in-hawaii-after-longest-non-stop-solo-flight-in-history "Solar Impulse lands in Hawaii after longest non-stop solo flight in history "], ''[[The Guardian]]'', Friday 3 July 2015 (page visited on 5 July 2015); FAI, [http://www.fai.org/records/news-of-records/39587-he-made-it-borscherg-flies-solar-impulse-across-the-pacific-ocean] (page visited on Wednesday 8 July 2015).&lt;/ref&gt;
+
+== See also ==
+* [[International Committee of Clean Technologies]]
+
+==References ==
+{{Reflist}}
+
+==External links==
+{{Commons category|André Borschberg}}
+
+* {{official website|http://www.andreborschberg.ch}}
+* [http://solarimpulse.com/ Official Solar Impulse website]
+
+{{Portal bar|Biography|Switzerland|Aviation}}
+{{Authority control}}
+
+{{DEFAULTSORT:Borschberg, Andre}}
+[[Category:1952 births]]
+[[Category:Swiss businesspeople]]
+[[Category:Swiss aviators]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:Living people]]
+[[Category:École Polytechnique Fédérale de Lausanne alumni]]
+[[Category:Flight endurance record holders]]
+[[Category:Swiss aviation record holders]]</text>
+      <sha1>lv0mmc2s7cbcqnod4j0sh9m4ytnagw0</sha1>
+    </revision>
+  </page>
+</mediawiki>

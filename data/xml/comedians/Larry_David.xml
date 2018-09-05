@@ -1,0 +1,275 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Larry David</title>
+    <ns>0</ns>
+    <id>105022</id>
+    <revision>
+      <id>855550260</id>
+      <parentid>855516886</parentid>
+      <timestamp>2018-08-19T04:03:14Z</timestamp>
+      <contributor>
+        <username>Radiphus</username>
+        <id>26221770</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2001:56A:73C2:E800:19C2:383C:7D1:3C44|2001:56A:73C2:E800:19C2:383C:7D1:3C44]] ([[User talk:2001:56A:73C2:E800:19C2:383C:7D1:3C44|talk]]) to last revision by Waggie. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33328">{{Infobox comedian
+| name        = Larry David
+| image       = Larry David at the 2009 Tribeca Film Festival 2.jpg
+| caption     = David at the 2009 [[Tribeca Film Festival]]
+| birth_name  = Lawrence Gene David
+| birth_date  = {{birth date and age|1947|7|2}}
+| birth_place = [[Brooklyn, New York]], U.S.
+| medium      = [[Stand-up comedy|Stand-up]], [[television]], [[film]]
+| active      = 1980–present
+| alma_mater  = [[University of Maryland, College Park]]
+| genre       = [[Observational comedy]], [[Improvisational theatre|improvisational comedy]], [[black comedy]], [[blue comedy]], [[political satire]], [[deadpan]], [[cringe comedy]]
+| spouse      = {{marriage|[[Laurie David|Laurie Lennard]]|1993|2007|end=divorced}}
+| children    = 2
+}}
+'''Lawrence Gene David''' (born July 2, 1947)&lt;ref name=tvg&gt;{{cite web|url=http://www.tvguide.com/celebrities/larry-david/bio/180721|title=Larry David Biography|publisher=[[TV Guide|TVGuide.com]]|archivedate=July 18, 2012|archiveurl=https://web.archive.org/web/20120718192122/http://www.tvguide.com/celebrities/larry-david/bio/180721}}&lt;/ref&gt; is an American comedian, writer, actor, director, playwright, and television producer.&lt;ref name="EB-bio"&gt;{{cite web|url=http://www.britannica.com/bps/search?query=larry+david|title=Larry David|publisher=Encyclopædia Britannica|accessdate=2009-07-14}}&lt;/ref&gt; He and [[Jerry Seinfeld]] created the television series ''[[Seinfeld]]'', of which David was the head writer and executive producer from 1989 to 1997. David has subsequently gained further recognition for the [[HBO]] series ''[[Curb Your Enthusiasm]],'' which he also created, in which he stars as a semi-fictionalized version of himself.&lt;ref&gt;{{cite web|title=Improv on TV: How Curb Your Enthusiasm Gets It Right|url=http://www.tv.com/news/improv-on-tv-how-curb-your-enthusiasm-gets-it-right%0D-23091/|archive-url=https://archive.is/20130204212746/http://www.tv.com/news/improv-on-tv-how-curb-your-enthusiasm-gets-it-right%0D-23091/|dead-url=yes|archive-date=February 4, 2013|work=TV.com|publisher=CBS Interactive Inc|accessdate=August 24, 2012|author=Steve Heisler|date=June 2, 2010}}&lt;/ref&gt;
+
+David's work won him a [[Primetime Emmy Award for Outstanding Comedy Series]] in 1993. Formerly a [[stand-up comedy|stand-up comedian]], David went into [[television comedy]], writing and starring in ABC's ''[[Fridays (TV series)|Fridays]]'', as well as writing briefly for ''[[Saturday Night Live]]''. He has won two [[Primetime Emmy Award]]s, and was voted by fellow comedians and comedy insiders as the 23rd greatest comedy star ever in a 2004 British poll to select "The Comedian's Comedian".&lt;ref name="poll"&gt;{{cite web |accessdate=2009-06-16 |url=http://www.chortle.co.uk/news/2004/12/01/26/the_comedians_comedian |title=The comedians' comedian |publisher=Chortle}}&lt;/ref&gt;
+
+==Early life==
+David was born in the neighborhood of [[Sheepshead Bay, Brooklyn|Sheepshead Bay]], in [[Brooklyn, New York]]. His parents are Rose (born Regina Brandes) and Mortimer Julius "Morty" David, a men's clothing manufacturer, and he has an older brother named Ken.&lt;ref&gt;{{cite news|last1=Wallace|first1=Benjamin|title=Why Larry David the Schmuck Was the Best Thing to Happen to Larry David the Mensch|url=http://www.vulture.com/2015/01/larry-david-fish-in-the-dark.html|accessdate=November 1, 2017|work=[[New York Magazine]]|date=January 26, 2015|language=en}}&lt;/ref&gt; David's family is [[Jews|Jewish]]. His father's side moved from [[Germany]] to the U.S. during the 19th century, while David's mother was born in [[Ternopil]], then [[Austrian Galicia]], now in Ukraine.&lt;ref name="FYR 10-3-17"&gt;{{Cite episode |series=[[Finding Your Roots]] |title=The Impression |season=4 |number=1 |network=PBS |date=October 3, 2017 |access-date=November 28, 2017}}&lt;/ref&gt; David graduated from [[Sheepshead Bay High School]], and then from the [[University of Maryland, College Park]], where he was a brother in [[Tau Epsilon Phi]] in the 1960s,&lt;ref&gt;[https://www.washingtonpost.com/lifestyle/style/whats-larry-david-really-like-ask-his-maryland-fraternity-brothers/2015/03/06/9a00615a-c35a-11e4-9ec2-b418f57a4a99_story.html]&lt;/ref&gt; with a [[bachelor's degree]] in history.&lt;ref name=MD-history&gt;{{cite web|title=Larry David Spotted on Campus|url=http://articles.baltimoresun.com/2013-03-27/enticertainment/bal-larry-david-spotted-at-university-of-maryland-campus-20130327_1_larry-david-campus-football-team|work=The Baltimore Sun|accessdate=April 4, 2013}}&lt;/ref&gt;&lt;ref name=MD-BS&gt;{{cite web|title=Some of Maryland's Distinguished Alumni |url=http://www.umterps.com/school-bio/md-alumni.html |publisher=University of Maryland |accessdate=April 4, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130331015507/http://www.umterps.com/school-bio/md-alumni.html |archivedate=March 31, 2013 |df= }}&lt;/ref&gt; It was while at college that David started developing his take on things and discovered that he could make people laugh, simply by being himself.&lt;ref name="FYR 10-3-17" /&gt; After college, David [[Military service|enlisted]] in the [[United States Army Reserve]].&lt;ref name=ArmyReserve&gt;{{cite news|last=David|first=Larry|title=My War|url=https://www.nytimes.com/2004/02/15/opinion/my-war.html?pagewanted=all |accessdate=2011-08-22|work=[[The New York Times]]|date=2004-02-15}}&lt;/ref&gt;
+
+==Career==
+While a stand-up comedian,&lt;ref&gt;{{Cite journal|title=View source for Rick Siegel|url=https://en.wikipedia.org/wiki/Rick_Siegel?action=edit|journal=Wikipedia|language=en}}&lt;/ref&gt; Larry David also worked as a store clerk, limousine driver, and historian. He lived in [[Manhattan Plaza]], a federally subsidized housing complex in the [[Hell's Kitchen, Manhattan|Hell's Kitchen]] neighborhood of [[Manhattan]], across the hall from [[Kenny Kramer]], the inspiration for the [[Cosmo Kramer]] character in ''Seinfeld''.&lt;ref&gt;McShane, Larry. [http://www.suntimes.com/entertainment/people/149555,CST-NWS-kramer26.article "The real Kramer says actor no racist: But Richards is 'paranoid,' 'very wound-up'"], ''[[Chicago Sun-Times]]{{dead link|date=October 2012}}'', November 26, 2006. Accessed August 11, 2009. "The real Kramer lived for 10 years in a Hell's Kitchen apartment across the hall from ''Seinfeld'' co-creator Larry David, and his life became the framework for Richards' quirky, bumbling Seinfeld sidekick."&lt;/ref&gt; David then became a writer for and cast member of [[American Broadcasting Company|ABC]]'s ''[[Fridays (TV series)|Fridays]]'' from 1980 to 1982, and a writer for [[NBC]]'s ''[[Saturday Night Live]]'' (''SNL'') from 1984 to 1985.&lt;ref name="odds"&gt;{{cite news |accessdate=2008-04-25 |url=https://www.nytimes.com/2000/07/16/style/the-great-and-wonderful-wizard-of-odds.html |title=The Great and Wonderful Wizard of Odds |work=[[The New York Times]] |date=2000-07-16 |author=Marin, Rick }}&lt;/ref&gt; During his time at ''SNL'', he was able to get only one sketch on the show, which aired at 12:50 AM, the last time slot on the show.&lt;ref name="last laugh"&gt;{{cite news |accessdate=2008-04-25 |url=https://www.washingtonpost.com/wp-dyn/content/article/2005/11/11/AR2005111102037.html |title='SNL in the '80s': The Last Laugh On a Trying Decade |work=[[The Washington Post]] |date=2005-11-12 |author=Shales, Tom }}&lt;/ref&gt;
+
+David quit his writing job at ''SNL'' in the first season, only to show up to work a few days later acting as though nothing had happened. That event inspired a second-season episode of ''Seinfeld'' entitled "[[The Revenge (Seinfeld)|The Revenge]]".&lt;ref name="AudioCom"&gt;{{cite video|title=Seinfeld Seasons 1 &amp; 2: Audio Commentary - "The Revenge"|medium=DVD|publisher=[[Sony Pictures Home Entertainment]]|date=November 3, 2004|people=[[Julia Louis-Dreyfus|Louis-Dreyfus, Julia]]; [[Michael Richards|Richards, Michael]]; [[Jason Alexander|Alexander, Jason]]}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Side-splitting 'Seinfeld' finally arrives on DVD|page=C7|author=Horiuchi, Vince|date=November 22, 2004|work=[[Salt Lake Tribune]]}}&lt;/ref&gt;  David met his future ''Seinfeld'' stars during that early stage of his career: he worked with [[Michael Richards]] (Kramer) on ''Fridays''&lt;ref name="odds" /&gt; and with [[Julia Louis-Dreyfus]] (Elaine)&lt;ref name="last laugh" /&gt;  on ''SNL''.&lt;ref&gt;{{cite news |accessdate=2008-04-02 |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=CC&amp;s_site=contracostatimes&amp;p_multi=CC&amp;p_theme=realcities&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=1063FD1A84FAFC62&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM |title=Eager Actor Finds Kramer a Bit of a Trial |publisher=[[Contra Costa Times]] |date=1997-05-30 |author=Koltnow, Barry}}&lt;/ref&gt;&lt;ref&gt;{{cite news |accessdate=2008-04-02 |url=https://www.nytimes.com/1993/06/03/garden/a-visit-with-julia-louis-dreyfus-she-who-gives-seinfeld-estrogen.html |title=Julia Louis-Dreyfus: She Who Gives 'Seinfeld' Estrogen |work=The New York Times |date=1993-06-03 |author=Kolbert, Elizabeth }}&lt;/ref&gt; He can be heard heckling [[Michael McKean]] when McKean hosted ''SNL'' in 1984, and he can be seen in the sketch "The Run, Throw, and Catch Like a Girl Olympics" when [[Howard Cosell]] hosted the season finale in 1985.&lt;ref&gt;{{cite web|accessdate=2008-04-21 |url=http://www.tv.com/saturday-night-live/show/365/episode_guide.html?season=10 |title=Saturday Night Live |publisher=[[TV.com]] |deadurl=yes |archiveurl=https://web.archive.org/web/20081227052119/http://www.tv.com/saturday-night-live/show/365/episode_guide.html?season=10 |archivedate=2008-12-27 |df= }}&lt;/ref&gt;&lt;ref&gt;[http://snltranscripts.jt.org/84/84dmono.phtml Transcript of Michael McKean's monologue], voice of audience member: Larry David&lt;/ref&gt;
+
+===''Seinfeld''===
+{{Main|Seinfeld}}
+In 1989 David teamed up with [[comedian]] [[Jerry Seinfeld]] to create a [[television pilot|pilot]] for NBC called ''[[The Seinfeld Chronicles]]'', which became the basis for ''[[Seinfeld]]'', one of the most successful shows in history,&lt;ref&gt;{{cite news |accessdate=2008-04-25 |url=https://www.nytimes.com/1997/12/26/us/seinfeld-says-it-s-all-over-and-it-s-no-joke-for-nbc.html |title=Seinfeld Says It's All Over, And It's No Joke for NBC |work=[[The New York Times]] |date=1997-12-26 |author=Carter, Bill }}&lt;/ref&gt; reaching the top of ''[[TV Guide]]{{'s}}'' [[TV Guide's 50 Greatest TV Shows of All Time|list of the 50 greatest TV shows of all time]]. ''[[Entertainment Weekly]]'' ranked it the third-best TV show of all time. David made occasional uncredited appearances on the show, playing such roles as Frank Costanza's cape-wearing lawyer and the voice of [[George Steinbrenner (Seinfeld character)|George Steinbrenner]]. He was also the primary inspiration for the show's character [[George Costanza]].&lt;ref&gt;{{cite news|accessdate=2008-04-25 |url=http://www.cnn.com/SHOWBIZ/TV/9810/26/seinfeld/index.html |title=The 'real' George Costanza sues Seinfeld for $100 million |publisher=CNN |date=1998-10-26 |archiveurl=https://web.archive.org/web/20080619064459/http://www.cnn.com/SHOWBIZ/TV/9810/26/seinfeld/index.html |archivedate=June 19, 2008 |deadurl=yes }}&lt;/ref&gt; David left ''Seinfeld'' on friendly terms after the seventh season but returned to write the series finale in 1998, two years later.&lt;ref&gt;{{cite web |accessdate=2008-04-25 |url=http://www.sacbee.com/747/story/471870.html |title=DVD Review: 'Seinfeld: Season 9' wraps up all the hilarious nothingness |work=[[The Sacramento Bee]] |date=2007-11-05 |author=Dancis, Bruce |archiveurl = https://web.archive.org/web/20080116220709/http://www.sacbee.com/747/story/471870.html |archivedate = January 16, 2008}}&lt;/ref&gt; He also continued to provide the voice for the Steinbrenner character.&lt;ref&gt;{{cite news |publisher=[[The Sacramento Bee]] |title=Still ... seventh-season DVD shines |date=2006-11-21}}&lt;/ref&gt;
+
+David wrote 62 of the episodes of ''[[Seinfeld]]'', including 1992's "[[The Contest]]", for which he won a [[Primetime Emmy Award]] and which ''[[TV Guide]]'' ranked the episode {{Abbr|No.|Number}} 1 on its list of "TV's [[Top 100 Episodes of All Time]]".&lt;ref name=TVGuide100Episodes&gt;"TV's Top 100 Episodes of All Time" ''[[TV Guide]]''; June 15, 2009; Pages 34–49&lt;/ref&gt; Syndication of ''Seinfeld'' earned David an estimated $250 million in 1998 alone. This amount has been steadily decreasing each year, but payments will continue until the full $1.7 billion from the original syndication deal has been paid. In 2008 David made $55 million from Seinfeld syndication, DVD sales, and ''Curb Your Enthusiasm''.&lt;ref&gt;{{cite news |url=http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/19990308/NEWS/303089975&amp;cid=sitesearch |title=Who's the richest? Seinfeld |agency=Associated Press |date=1999-01-01 |accessdate=2008-01-19}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.forbes.com/lists/2009/53/celebrity-09_Larry-David_6ZH4.html |title=#65 Larry David&amp;nbsp;– The 2009 Celebrity 100 |publisher=[[Forbes]] |date=2009-03-06 |accessdate=2009-10-05}}&lt;/ref&gt; He was nominated for an [[Emmy Award|Emmy]]&lt;ref&gt;{{cite web|title=Larry David|url=http://www.emmys.com/celebrities/larry-david|work=Emmys.com|publisher=Academy of Television Arts &amp; Sciences|accessdate=August 24, 2012|author=Academy of Television Arts &amp; Sciences|year=2012}}&lt;/ref&gt; award 19 times for ''Seinfeld'', winning twice – once for best comedy and once for writing.&lt;ref&gt;{{cite web|accessdate=2008-04-21 |url=http://www.tv.com/larry-david/person/8236/biography.html |title=Larry David |publisher=[[TV.com]] |deadurl=yes |archiveurl=https://web.archive.org/web/20080222014739/http://www.tv.com/larry-david/person/8236/biography.html |archivedate=2008-02-22 |df= }}&lt;/ref&gt;
+
+===''Curb Your Enthusiasm''===
+{{Main|Curb Your Enthusiasm}}
+[[File:LarryDavidDec09.jpg|thumb|right|David in December 2009]]
+
+The [[HBO]] [[cable television]] channel aired David's 1-hour special, ''[[Larry David: Curb Your Enthusiasm]]'', on October 17, 1999.&lt;ref&gt;{{Cite web|url=http://www.tv.com/shows/curb-your-enthusiasm/larry-david-curb-your-enthusiasm-69591/|title=Curb Your Enthusiasm: Larry David: Curb Your Enthusiasm|last=TV.com|website=TV.com|access-date=2017-04-19}}&lt;/ref&gt; This was followed by ''[[Curb Your Enthusiasm]]'', a television series on HBO that aired its first episode on October 15, 2000.&lt;ref&gt;{{Cite web|url=http://www.tvguide.com/tvshows/curb-your-enthusiasm/tv-listings/100103/|title=Curb Your Enthusiasm|website=TVGuide.com|language=en|access-date=2017-04-19}}&lt;/ref&gt; The show revisits many of the themes of ''[[Seinfeld]]'',&lt;ref name="influence"&gt;{{cite news |accessdate=2008-04-19 |url=http://www.accessmylibrary.com/coms2/summary_0286-26533172_ITM |title=COMEDY CLUB.(Jerry Seinfeld: a film 'Comedian,' and his influence on the 'Curb Your Enthusiasm' TV show) |publisher=[[The New Yorker]] |date=2002-10-28 }}&lt;/ref&gt; and is improvised from a story outline only several pages long that David writes (as of the 5th season, additional writers were hired).&lt;ref&gt;{{cite web |accessdate=2011-07-25 |url=https://www.rollingstone.com/movies/news/curb-your-enthusiasm-and-seinfeld-writers-talk-about-the-legend-of-larry-david-20110720 |title='Curb Your Enthusiasm' and 'Seinfeld' Writers Talk About the Legend of Larry David |publisher=RollingStone |date=2011-07-20 }}&lt;/ref&gt;
+
+The actors improvise their dialogue based on the story outline, direction, and their own creativity. David has said that his character in the show, a fictionalized version of himself, is what he would be like in real life if he lacked social awareness and sensitivity.&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/movies/news/larry-david-talks-dating-post-divorce-seinfeld-and-wealth-20110720|title=Larry David Talks Dating Post-Divorce, 'Seinfeld' and Wealth|work=[[Rolling Stone]]|date=July 20, 2011|accessdate=July 27, 2011}}&lt;/ref&gt; The character's numerous and frequent social faux pas, misunderstandings, and ironic coincidences are the basis of much of the show's comedy and have led to the entry into the American pop culture lexicon of the expression "Larry David moment", meaning an inadvertently created socially awkward situation.&lt;ref&gt;{{cite news|title='Yeah, I'm available for Woody Allen'|author=David Brinn|newspaper=Jerusalem Post |date=October 8, 2009 |url=http://www.jpost.com/Magazine/Yeah-Im-available-for-Woody-Allen }}&lt;/ref&gt;
+
+The basis of the show is the events in David's life following the fortune he earned from the ''Seinfeld'' series; David, semi-retired, strives to live a fulfilled life.&lt;ref name="mexico" /&gt; Alongside David is his wife Cheryl (played by [[Cheryl Hines]]), his manager and best friend Jeff (played by [[Jeff Garlin]]), and Jeff's wife Susie (played by [[Susie Essman]]).
+
+Celebrities, including comedians [[Bob Einstein]], [[Wanda Sykes]], and [[Richard Lewis (comedian)|Richard Lewis]], appear on the show regularly. Actors [[Ted Danson]] and [[Mary Steenburgen]] have had recurring roles as themselves.&lt;ref name="mexico"&gt;{{cite web|title=Once Upon A Time In Mexico Columbia Tristar Home Entertainment DVD |url=http://www.rickmcginnis.com/dvd/069.htm |work=Life with Blog: Father |publisher=rick mcginnis |accessdate=August 24, 2012 |author=rick mcginnis |year=2004 |deadurl=yes |archiveurl=https://web.archive.org/web/20080614140331/http://www.rickmcginnis.com/dvd/069.htm |archivedate=June 14, 2008 |df= }}&lt;/ref&gt;
+
+The show is critically acclaimed and has been nominated for 30 Primetime Emmy Awards, with one win, as well as one Golden Globe win. In the first six seasons, [[Julia Louis-Dreyfus]] and [[Jason Alexander]] appeared in several episodes, and [[Jerry Seinfeld]] made a cameo. In season 7, the cast of ''Seinfeld'', including [[Michael Richards]], returned in a story arc involving David's attempt to organize a ''Seinfeld'' reunion special.
+
+On Wednesday, June 2, 2010, the series premiered on the [[TV Guide Network]], making its network television debut. [[TV Guide Network]] also produced a series of related discussions with high-profile guest stars, media pundits, and prominent social figures called "Curb: The Discussion" debating the moral implications depicted in each episode. David is quoted as saying "Finally, thanks to the TV Guide Network, I'll get a chance to watch actual, intelligent people discuss and debate the issues addressed on 'Curb'. Now if only someone could tell me where this alleged 'Network' is, I might even watch it."&lt;ref&gt;{{cite web |url=http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&amp;newsId=20100322005537&amp;newsLang=en |title=TV Guide Network Teams-up with Legendary Show Creator Larry David to Launch "Curb Your Enthusiasm" Exclusive Extras Hosted by Series Regular Susie Essman |date=March 22, 2010 |accessdate=March 22, 2010}}&lt;/ref&gt;
+
+===Other projects===
+David has also been involved in other films and television series. David wrote and directed the 1998 film ''[[Sour Grapes (1998 film)|Sour Grapes]]'', about two cousins who feud over a [[casino]] jackpot. It was neither a commercial nor a critical success.&lt;ref name="sour grapes"&gt;{{cite web |accessdate=2008-04-02 |url=http://boxofficemojo.com/movies/?id=sourgrapes.htm |title=Sour Grapes |publisher=[[Box Office Mojo]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web |accessdate=2008-04-02 |url=http://www.rottentomatoes.com/m/sour_grapes/ |publisher=[[Rotten Tomatoes]] |title=Sour Grapes}}&lt;/ref&gt; He appeared in minor parts in two 1980s [[Woody Allen]] films&amp;nbsp;– ''[[Radio Days]]'' and ''[[New York Stories]]''&lt;ref&gt;{{cite web |accessdate=2008-04-02 |url=http://hollywoodinsider.ew.com/2008/02/larry-david-to.html |title=Larry David, Evan Rachel Wood to star in Woody Allen's next movie |publisher=[[Entertainment Weekly]] |date=2008-02-06 |author=Sperling, Nicole |archiveurl=https://web.archive.org/web/20080215060041/http://hollywoodinsider.ew.com/2008/02/larry-david-to.html |archivedate=2008-02-15 |deadurl=yes |df= }}&lt;/ref&gt;&amp;nbsp;– before taking the leading role in Allen's New York-based comedy film ''[[Whatever Works]]'' (2009).&lt;ref&gt;{{cite web |publisher=[[Entertainment Weekly]] |url=http://hollywoodinsider.ew.com/2008/02/larry-david-to.html?xid=rss-cnn-todayslatest-20080206-Allen+casts+Larry+David%2C+Evan+Rachel+Wood |archive-url=https://web.archive.org/web/20080218035906/http://hollywoodinsider.ew.com/2008/02/larry-david-to.html?xid=rss-cnn-todayslatest-20080206-Allen+casts+Larry+David%2C+Evan+Rachel+Wood |dead-url=yes |archive-date=2008-02-18 |title=Larry David, Evan Rachel Wood to star in Woody Allen's next movie |work=Hollywood Insider |accessdate=2008-02-07 |df= }}&lt;/ref&gt; David had a cameo appearance on the [[HBO]] series ''[[Entourage (U.S. TV series)|Entourage]]'' as a client of [[Ari Gold (Entourage)|Ari Gold]], and because his daughters were ''[[Hannah Montana]]'' fans, David, along with his daughters, guest-starred, as themselves, in the episode "My Best Friend's Boyfriend," in which they were waiting for a table at a fancy restaurant.{{citation needed|date=March 2017}}
+
+During the [[United States presidential election, 2008|2008 U.S Presidential Election]], David supported and actively campaigned for [[Barack Obama]]. In December 2010 David penned an [[op-ed]] piece for ''[[The New York Times]]'', a sardonic critique of the extension of Bush-era tax cuts headlined "Thanks for the Tax Cut!"&lt;ref&gt;{{cite news |url=https://www.reuters.com/article/2010/12/21/us-larrydavid-idUSTRE6BK6VA20101221 |title= Reuters: Larry David "Praises" Tax Cuts for Rich in NY Times | date=2010-12-21
+}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2010/12/21/opinion/21david.html |title=Thanks for the Tax Cut! | work=The New York Times | date=2010-12-20 |first=Larry |last=David}}&lt;/ref&gt;
+
+David appeared as a panelist on the [[NBC]] series ''[[The Marriage Ref (U.S. TV series)|The Marriage Ref]]'' and also played Sister Mary-Mengele in the 2012 reboot of ''[[The Three Stooges (2012 film)|The Three Stooges]]''.&lt;ref&gt;{{cite web|url=http://moviesblog.mtv.com/2011/05/03/larry-david-three-stooges-hunger-games-casting |title=Larry David Torments 'The Three Stooges' And 'Hunger Games' Finds More Tributes In Today's Casting Call » MTV Movies Blog |publisher=Moviesblog.mtv.com |date= |accessdate=2011-06-13}}&lt;/ref&gt; David co-wrote and starred in the 2013 [[HBO]] television film ''[[Clear History]]''.
+
+David wrote and starred in the Broadway play ''[[Fish In The Dark]]''. Also appearing were [[Rita Wilson]], [[Jayne Houdyshell]] and [[Rosie Perez]]. The play centers on the death of a family patriarch. It opened March 5, 2015. Jason Alexander took over David's role in July. The play closed in August.&lt;ref name="fish in the dark"&gt;{{cite web |accessdate=2015-01-13 |url=http://www.fishinthedark.com/ |title= Fish In The Dark}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Zinoman|first1=Jason|title=Enthusiasm, Entirely Uncurbed: Larry David's 'Fish in the Dark' Comes to Broadway|url=https://www.nytimes.com/2015/02/01/theater/larry-davids-fish-in-the-dark-comes-to-broadway.html |accessdate=January 28, 2015|work=The New York Times|date=January 28, 2015}}&lt;/ref&gt; As of February 1, 2015, its advance sale of $13.5 million had broken records for a Broadway show.&lt;ref&gt;[https://www.nytimes.com/2015/02/01/theater/larry-davids-fish-in-the-dark-comes-to-broadway.html "Enthusiasm, Entirely Uncurbed ; Larry David's 'Fish in the Dark' Comes to Broadway"] ''The New York Times'', January 28, 2015&lt;/ref&gt;
+
+In 2015 and 2016 David had multiple guest appearances portraying [[United States presidential election, 2016|2016 U.S.]] [[Bernie Sanders presidential campaign, 2016|presidential candidate]] [[Bernie Sanders]] on ''[[Saturday Night Live]]''; he also hosted the show on February 6, 2016, with musical guest [[The 1975]] and a cameo from Sanders himself. In the summer of 2017, it became known through genealogical research, that Larry David is quite likely to actually ''be'' related to Bernie Sanders in some manner.&lt;ref&gt;{{cite web |url=https://www.aol.com/article/entertainment/2017/07/29/larry-david-bernie-sanders-are-related/23054716/ |title=Larry David and Bernie Sanders are related -- find out their surprising connection |last=Seemayer |first=Zach |date=July 29, 2017 |website=aol.com |publisher=America Online |access-date=July 31, 2017 |quote=When Larry David played Bernie Sanders during a guest spot on Saturday Night Live back in October 2015, people were blown away by the Curb Your Enthusiasm star's spot-on impression of the former Democratic presidential candidate. As it turns out, there might be more to their similarities than David's comedic talents -- David and Sanders are actually genealogically related. The 70-year-old comedian recently participated in the PBS docuseries ''[[Finding Your Roots]]'' -- which researches celebrities' genealogical history and lineage to give them a deeper insight into their heritage -- and they revealed that he has family ties to the Vermont senator.}}&lt;/ref&gt;
+
+==Personal life==
+David married [[Laurie David|Laurie Lennard]] on March 31, 1993.&lt;ref name="birthname"&gt;{{cite web|url=http://www.aolcdn.com/tmz_documents/07_davids_divorce_wm_01.pdf|title=Laurie Ellen David v. Lawrence Gene David Petition for Dissolution of Marriage|publisher=Los Angeles Superior Court|date=July 13, 2007|via=[[TMZ.com]]|accessdate=March 7, 2017|archivedate=July 3, 2013|archiveurl=https://web.archive.org/web/20130703200357/http://www.aolcdn.com/tmz_documents/07_davids_divorce_wm_01.pdf|deadurl=yes|df=mdy-all}}&lt;/ref&gt; They have two daughters, Cazzie Laurel (b. May 10, 1994) and Romy March (b. March 2, 1996).&lt;ref name="birthname" /&gt;&lt;ref name=tvg /&gt; David and his wife became contributing [[blog]]gers at ''[[The Huffington Post]]'' in May 2005.&lt;ref&gt;{{cite news |accessdate=2009-11-24 |url=http://www.huffingtonpost.com/laurie-david |title=Laurie David's Huffington Post blogger page}}&lt;/ref&gt;&lt;ref&gt;{{cite news |accessdate=2009-11-24 |url=http://www.huffingtonpost.com/larry-david |title=Larry David's Huffington Post blogger page}}&lt;/ref&gt; Laurie David filed for divorce on July 13, 2007, citing irreconcilable differences and seeking joint custody of the couple's two daughters.&lt;ref name="birthname" /&gt;&lt;ref&gt;{{cite web |accessdate=2008-04-02 |url=http://uk.eonline.com/uberblog/b55681_divorcing_larry_david.html |title=Divorcing Larry David |publisher=[[E!]] |date=2007-07-19 |author=Finn, Natalie |archive-url=https://web.archive.org/web/20091113093009/http://uk.eonline.com/uberblog/b55681_divorcing_larry_david.html |archive-date=2009-11-13 |dead-url=yes |df= }}&lt;/ref&gt; 
+
+A DNA test, conducted as part of the [[PBS]] series ''[[Finding Your Roots]]'' in October 2017, has shown that Larry David and [[Vermont]] Senator [[Bernie Sanders]], whom David famously parodied on ''[[Saturday Night Live]]'' skits during [[Democratic Party presidential primaries, 2016|the presidential primaries of the Democratic Party in 2016]], are in fact distant cousins of shared [[Ashkenazi Jews|Ashkenazi Jewish ancestry]].
+
+As of 2013, David's estimated net worth was $900 million. However, the estimate according to a former [[Reuters]] reporter does not take into account the divorce. David also disputes the figure, saying he has nowhere near that amount.&lt;ref&gt;{{cite web |accessdate=2014-08-29 |url=http://www.mediabistro.com/fishbowlny/larry-david-jerry-seinfeld-curb-enthusiasm-syndication_b92214 |title= Larry David, Jerry Seinfeld: Nothing But Net Worth |author=Horgan, Richard }}&lt;/ref&gt;
+
+==Awards and nominations==
+* Nominated for an [[Primetime Emmy Award|Emmy Award]] for [[Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series|Outstanding Guest Actor in a Comedy Series]] for his turn as host in the [[Saturday Night Live]] episode "Larry David/The 1975", in 2016.
+* Nominated for an [[Primetime Emmy Award|Emmy Award]] for [[Primetime Emmy Award for Outstanding Writing for a Comedy Series|Outstanding Writing for a Comedy Series]] for various episodes of ''[[Seinfeld]]'' from 1991 to 1994.
+* Won an [[Primetime Emmy Award|Emmy Award]] for [[Primetime Emmy Award for Outstanding Writing for a Comedy Series|Outstanding Writing for a Comedy Series]] for the ''[[Seinfeld]]'' episode, "[[The Contest]]", in 1993.
+* Shared an [[Primetime Emmy Award|Emmy Award]] for [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]] for ''[[Seinfeld]]'' with co-creator, [[Jerry Seinfeld]].
+* Nominated for a [[Golden Globe Award]] for [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor in a Television Series – Musical or Comedy]] for his role in ''[[Curb Your Enthusiasm]]'' in 2002, 2004, and 2005.
+* Voted by fellow comedians and comedy insiders as number 23 of the greatest comedy stars ever in a poll to select ''The Comedian's Comedian''.&lt;ref name="poll" /&gt;
+* Nominated for an [[Primetime Emmy Award|Emmy Award]] for [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]] for his role in ''[[Curb Your Enthusiasm]]'' in 2003, 2004, 2006, 2010, 2012 and 2018.
+* [[Laurel Award for TV Writing Achievement]] from the [[Writers Guild of America]] in 2010.
+
+==Filmography==
+
+===Film===
+{| class="wikitable"
+|- "
+! Year !! Title !! Role !! Notes
+|-
+| 1977 || ''[[It Happened at Lakewood Manor]]'' || Cameo in crowd near hotel ||
+|-
+| 1983 || ''[[Can She Bake a Cherry Pie?]]'' || Mort's Friend ||
+|-
+| 1983 || ''[[Second Thoughts (1983 film)|Second Thoughts]]'' || Monroe Clark ||
+|-
+| 1987 || ''[[Radio Days]]'' || Communist Neighbor ||
+|-
+| 1989 || ''[[New York Stories]]'' || Theater Manager ||
+|-
+| 1998 || ''[[Sour Grapes (1998 film)|Sour Grapes]]'' || Studio Executive/Annoying Doctor/Singing Bum || Also writer and director
+|-
+| 2004 || ''[[Envy (2004 film)|Envy]]'' ||  || Executive producer
+|-
+| 2009 || ''[[Whatever Works]]'' || Boris Yelnikoff ||
+|-
+| 2012 || ''[[The Three Stooges (2012 film)|The Three Stooges]]'' || Sister Mary-Mengele ||
+|}
+
+===Television===
+{| class="wikitable"
+|- "
+! Year !! Title !! Role !! Notes
+|-
+| 1980–1982 || ''[[Fridays (TV series)|Fridays]]'' || Various || 54 episodes; also writer
+|-
+| 1984–1985 || ''[[Saturday Night Live]]'' || Various || 18 episodes; also writer
+|-
+| 1989–1998 || ''[[Seinfeld]]'' || Various || 180 episodes; also co-creator, writer and producer
+|-
+| 1993 || ''[[Love &amp; War (TV series)|Love &amp; War]]'' || Himself || Episode: "Let's Not Call It Love"
+|-
+| 1999 || ''Larry David: Curb Your Enthusiasm'' || Larry David || One-hour special; also creator, writer and executive producer
+|-
+| 2000–present || ''[[Curb Your Enthusiasm]]'' || Larry David || Also creator, writer and executive producer
+|-
+| 2004 || ''[[Entourage (U.S. TV series)|Entourage]]'' || Himself || Episode: "New York"
+|-
+| 2007 || ''[[Hannah Montana]]'' || Himself || Episode: "My Best Friend's Boyfriend"
+|-
+| 2011 || ''[[The Paul Reiser Show]]'' || Himself || Episode: "The Father's Occupation"
+|-
+| 2013  || ''[[Clear History]]'' || Nathan Flomm || Television film; also writer and producer
+|-
+| 2014  || ''[[TripTank]]'' || Himself (voice) || Episode: "Roy &amp; Ben's Day Off"
+|-
+| 2015 || ''[[The League]]'' || Future Ruxin || Episode: "The Great Night of Shiva"
+|-
+| 2015–2017 || ''Saturday Night Live'' || [[Bernie Sanders]] || 7 episodes
+|-
+| 2016–2017 || ''Saturday Night Live'' || Himself (host) || 2 episodes
+|-
+| 2016 || ''[[Maya &amp; Marty]]'' || Himself || Episode: "Jimmy Fallon &amp; Miley Cyrus"
+|}
+
+==Theatre==
+{| class = "wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2015
+| ''[[Fish in the Dark]]''
+| Norman Drexel
+| Also writer&lt;br/&gt;[[Cort Theatre]]
+|}
+
+==References==
+
+{{reflist|30em}}
+
+==Further reading==
+* [http://thelarrydavidstory.com/ ''The Larry David Story: A Parallel Universe Biography'']
+* ''Pretty, Pretty, Pretty Good: Larry David and the Making of Seinfeld and Curb Your Enthusiasm'' by Josh Levine (ECW Press, 2010)
+
+==External links==
+{{Commons category|Larry David}}
+{{wikiquote}}
+* {{IMDb name|0202970}}
+* {{AllRovi name|id=207898}}
+* {{Rotten Tomatoes person|id=larry_david}}
+
+{{Navboxes
+|title = Awards for Larry David
+|list =
+{{EmmyAward ComedyWriting 1990s}}
+{{WritersGuildofAmericaEpisodicComedyScreenplay 1990s}}
+}}
+{{Authority control}}
+
+{{Good article}}
+
+{{DEFAULTSORT:David, Larry}}
+[[Category:1947 births]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:Living people]]
+[[Category:Jewish American comedians]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male screenwriters]]
+[[Category:American male television actors]]
+[[Category:American sketch comedians]]
+[[Category:American stand-up comedians]]
+[[Category:American television producers]]
+[[Category:American television writers]]
+[[Category:Ashkenazi Jews]]
+[[Category:Tau Epsilon Phi]]
+[[Category:Comedians from New York City]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish American screenwriters]]
+[[Category:Jewish atheists]]
+[[Category:Jewish male comedians]]
+[[Category:Male actors from New York City]]
+[[Category:Male television writers]]
+[[Category:People from Hell's Kitchen, Manhattan]]
+[[Category:People from Sheepshead Bay, Brooklyn]]
+[[Category:Seinfeld]]
+[[Category:Showrunners]]
+[[Category:United States Army soldiers]]
+[[Category:University of Maryland, College Park alumni]]
+[[Category:Writers from New York City]]
+[[Category:Writers Guild of America Award winners]]</text>
+      <sha1>7nablngnoye24zerrd1mhzh24jrxnc6</sha1>
+    </revision>
+  </page>
+</mediawiki>

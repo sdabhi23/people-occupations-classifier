@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Artur de Sacadura Cabral</title>
+    <ns>0</ns>
+    <id>2036318</id>
+    <revision>
+      <id>850761639</id>
+      <parentid>844671447</parentid>
+      <timestamp>2018-07-17T20:45:09Z</timestamp>
+      <contributor>
+        <ip>109.49.177.27</ip>
+      </contributor>
+      <comment>Fixes typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3134">{{Use dmy dates|date=July 2017}}
+{{Infobox person        
+|name = Artur de Sacadura Freire Cabral
+|image = ArturDeSacaduraFreireCabral1.jpg
+|caption = 
+|birth_date = {{Birth date|df=yes|1881|5|23}}
+|birth_place = [[Celorico da Beira]], [[Portugal]]
+|disappeared_date = {{Disappeared date and age|1924|11|15|1881|2|23}}
+|disappeared_place = [[North Sea|Northern Sea]]
+|occupation = Portuguese Navy officer
+|father = Artur de Sacadura Freire Cabral|mother=Maria Augusta da Silva Esteves de Vasconcelos
+|known_for = First aerial crossing of the South Atlantic
+}}
+
+'''Artur de Sacadura Freire Cabral''', [[Order of the Tower and Sword|GCTE]] (23 May 1881 &amp;ndash; 15 November 1924), known simply as '''Sacadura Cabral''' ({{IPA-pt|sɐkɐˈduɾɐ kɐˈbɾaɫ}}), was a Portuguese [[aviation]] pioneer who in 1922, together with [[Gago Coutinho]] (1869–1959), conducted [[first aerial crossing of the South Atlantic|the first flight across the South Atlantic Ocean]], and also the first using astronomical navigation only, from [[Lisbon]], [[Portugal]], to [[Rio de Janeiro]], [[Brazil]]. On 15 November 1924, he [[List of aerial disappearances|disappeared while flying]] over the [[English Channel]], along with his co-pilot, Mechanical Corporal José Correia, due to fog and his shortening eyesight (which never kept him from flying). Although some mechanical wreckage from his seaplane had been discovered four days later, the bodies were never recovered.
+&lt;ref&gt;{{cite web|url=http://www.vidaslusofonas.pt/sacadura_cabral2.htm |title=Sacadura Cabral Pioneer Airman |accessdate=16 February 2012 |last=Sodré |first=João |publisher=Vidas Lusophonus |deadurl=yes |archiveurl=https://web.archive.org/web/20120815031249/http://www.vidaslusofonas.pt/sacadura_cabral2.htm |archivedate=15 August 2012 }}&lt;/ref&gt;
+A statue dedicated to them is located in Lisbon. Another statue is located in his hometown, Celorico da Beira. He was the granduncle of Portuguese politicians [[Miguel Portas]] and [[Paulo Portas]].
+
+==See also== 
+* [[List of missing people]]
+
+==Gallery==
+&lt;gallery widths=200px&gt;
+File:First South TransAtlantic flight monument in Lisbon.jpg|Lisbon monument to the flight
+File:First South TransAtlantic flight monument route in Lisbon.jpg|Lisbon monument of the route
+File:Vuelo Gago Coutinho y Sacadura Cabral.svg|Route of the first to cross the South Atlantic Ocean by air
+Image:Monumentoa Gago Coutinho e Sacadura Cabral em Grândola.JPG|Monument to Sacadura Cabral and Gago Coutinho in [[Grândola]] ([[Portugal]])
+
+&lt;/gallery&gt;
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{Internet Archive author |sname=Artur de Sacadura Cabral}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sacadura Cabral, Arthur}}
+[[Category:1881 births]]
+[[Category:People from Celorico da Beira]]
+[[Category:Portuguese aviators]]
+[[Category:Aviation pioneers]]
+[[Category:Victims of aviation accidents or incidents in the United Kingdom]]
+[[Category:Missing aviators]]
+[[Category:Transatlantic flight]]
+[[Category:1920s missing person cases]]
+[[Category:People who died at sea]]
+[[Category:Year of death unknown]]
+
+{{aviation-bio-stub}}
+{{Portugal-bio-stub}}</text>
+      <sha1>g85xig9dl4zvqoc1ltkc9dmweuz1idl</sha1>
+    </revision>
+  </page>
+</mediawiki>

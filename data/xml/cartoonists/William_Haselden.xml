@@ -1,0 +1,160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>William Haselden</title>
+    <ns>0</ns>
+    <id>4795039</id>
+    <revision>
+      <id>823549102</id>
+      <parentid>803183979</parentid>
+      <timestamp>2018-02-01T22:45:59Z</timestamp>
+      <contributor>
+        <username>DrFrench</username>
+        <id>2364672</id>
+      </contributor>
+      <comment>+infobox, copyedit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7922">{{Use British English|date=August 2011}}
+{{Use dmy dates|date=August 2011}}
+{{Infobox artist
+| honorific_prefix = 
+| name             = William Kerridge Haselden
+| honorific_suffix = 
+| image            = &lt;!-- use the image's pagename; do not include the "File:" or "Image:" prefix, and do not use brackets--&gt;
+| image_size       = 
+| alt              = 
+| caption          = 
+| birth_name       = &lt;!-- only use if different than name --&gt;
+| birth_date       = {{Birth date|1872|12|03|df=yes}}
+| birth_place      = [[Seville]], [[Spain]]
+| death_date       = {{Death date and age|1953|12|25|1872|12|03|df=yes}}
+| death_place      = [[Aldeburgh]], [[Suffolk]], [[United Kingdom]]
+| resting_place    = 
+| resting_place_coordinates = &lt;!-- {{Coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| nationality      = British
+| residence        = 
+| education        = 
+| alma_mater       = 
+| known_for        = 
+| notable_works    = 
+| style            = 
+| movement         = 
+| spouse           = 
+| partner          = 
+| awards           = &lt;!-- {{awd|award|year|title|role|name}} (optional) --&gt;
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = &lt;!-- {{URL|Example.com}} --&gt;
+| module           = 
+}}
+
+[[File:DreadnoughtHoaxCartoonDailyMirrorFebruary1910.jpg|thumb|right|&lt;center&gt;Haselden's comment in the ''Daily Mirror'' on the [[Dreadnought Hoax|''Dreadnought'' Hoax]] of February 1910&lt;/center&gt;]]
+'''William Kerridge Haselden''' (3{{nbsp}}December 1872{{snd}}25{{nbsp}}December 1953) was an English [[cartoonist]] and [[caricaturist]].
+
+He was the second of five children of Adolphe Henry Haselden and his wife Susan Elizabeth (née Kerridge). Haselden's parents were both English but met in Seville, where his father was director of the Seville [[Gasworks]].
+
+Haselden's father died during a family holiday to England in 1874, and the remaining family stayed in England, settling in [[Hampstead]]. The young William's education at a private school was cut short due to the family's financial problems, and he left school at the age of 16 with no formal artistic training.
+
+He worked unhappily as an [[underwriting|underwriter]] at [[Lloyd's of London|Lloyd's]] in London for thirteen years before some of his sketches were accepted for the periodical ''The Sovereign''. When this ceased publication a few months later, he obtained some freelance work on the ''[[Tatler (1901)|Tatler]]'' and ''[[St. James's Gazette]]''. After approaching the offices of [[Alfred Harmsworth]] in 1903, Haselden managed to obtain a full-time post on Harmsworth's new venture, the ''[[Daily Mirror]]''. Here he remained until his retirement in 1940.
+
+At the ''Daily Mirror'', Haselden originally started with [[political cartoons]], but soon settled into his trademark style of gentle, conservative social commentary reflecting on [[middle-class]] fashions and manners. His cartoons usually consisted of a single frame divided into a number of panels, for which he has been viewed as the father of British [[comic strip|strip cartoon]].
+
+During the World War I, Haselden established a popular reputation with his only truly sustained attempt at political caricature, the adventures of "Big and Little Willie", mocking [[Wilhelm II, German Emperor|Kaiser Wilhelm]] and his son, the [[Crown Prince Wilhelm of Germany|Crown Prince]]. A compilation, ''The Sad Adventures of Big and Little Willie'', was published in 1915; the same year the first British tank prototype would be named ''[[Little Willie]]''.
+
+Haselden often lampooned social and technological trends of the time by making bold predictions about how the future would transpire, including fashion,&lt;ref&gt;[http://www.cartoons.ac.uk/record-image/standard/WH0111 British Cartoons Archive]&lt;/ref&gt; [[camera phones]]&lt;ref&gt;[http://www.cartoons.ac.uk/record-image/standard/WH1006 British Cartoons Archive]&lt;/ref&gt; and feminism.&lt;ref&gt;[http://www.cartoons.ac.uk/record/WH4733 British Cartoons Archive]&lt;/ref&gt;
+
+From 1906, Haselden contributed to ''[[Punch (magazine)|Punch]]'' as a theatrical caricaturist, retiring in 1936 due to increasing deafness.
+
+Haselden's work for the ''Daily Mirror'' was published in 29 volumes of ''Daily Mirror Reflections'' between 1906 and 1935. His work drew praise from celebrities including [[Margot Asquith]], [[Stanley Baldwin]], [[Paul Nash (artist)|Paul Nash]], [[Walter Sickert]].
+
+In 1907 Haselden married Eleanor Charlotte Lane-Bayliff (1875–1944). They had two children, Celia Mary and John Kerridge Haselden. Haselden spent most of his working life resident in London, but from the mid-1930s spent more time at the family's holiday home in [[Aldeburgh]], Suffolk to where he eventually retired. He died of natural causes on Christmas Day, 1953.
+
+His obituary in ''[[The Times]]'' recalled the hallmark of his work as its "unfailing amiability".&lt;ref&gt;*Mr. W. K. Haselden, Kindly Cartoonist, Obituary, ''The Times'', 29 Dec 1953&lt;/ref&gt; Its editorial of the same day complimented his work as a sourcebook for the social historian, adding that "the man who could avoid the cartoonist's two pitfalls of cruelty and insipidity was no small artist, even in a small field".&lt;ref&gt;An English Cartoonist, ''The Times'', 29 Dec 1953&lt;/ref&gt;
+
+==References==
+*David James Little, "Haselden, William Kerridge (1872–1953)", ''Oxford Dictionary of National Biography'', Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/66122 accessed 18 July 2007]
+{{reflist|30em}}
+
+== External links ==
+*[http://www.cartoons.ac.uk/artists/william-kerridgehaselden/biography Biography at British Cartoon Archive, University of Kent at Canterbury]
+
+== Bibliography ==
+
+'''Works by Haselden, or featuring cartoons by Haselden:'''
+
+*Haselden, W.K. (with Charles Harrison), Accidents will happen; or the tribulations of Mr and Mrs Boffles under the Employers' Liability Act, 1907 (London: David Nutt, 1907)
+*Daily Mirror reflections; being 100 cartoons (and a few more) culled from the pages of the "Daily Mirror". 29 vols (London: Daily Mirror Newspapers, 1906–1935) (Note: published annually. Reflections changed their name to Daily Mirror reflections in Wartime for 1915–1919 (i.e. published 1914–1918).
+*The Globe by the way book: a literary quick-lunch for people who have only got 5 minutes to spare (London, 1908)
+*"How I began as an artist", T.P.'s Weekly (19 May 1914)
+*The sad experiences of Big and Little Willie during the first six months of the Great War, August 1914 – January 1915; as portrayed by W.K. Haselden in "The Daily Mirror" (London: Fine Art Society / Chatto &amp; Windus, 1915)
+*Tweedie, E.B., America as I saw it; or America revisited; with 54 illustrations, including 16 cartoons by W.K. Haselden (London: Hutchinson &amp; Co., 1913)
+
+'''Other works: interviews, obituaries, books etc.:'''
+
+*Obituaries in the Times (29 December 1953) and Punch (6 January 1954)
+*Bryant, M. and Heneage, S., Dictionary of British cartoonists and caricaturists, 1730–1980 (London: Scolar Press, 1994)
+*Cudlipp, H., Publish and de damned! (London: Andrew Dakers, 1953)
+*Edelmann, M., The Mirror: a political history (London, 1966)
+*Little, D.J., "Images of Germany as portrayed in the cartoons of W.K. Haselden, 1905–1918", unpublished M.A. thesis, University of Kent (1996).
+*Low, D., British cartoonists, caricaturists and comic artists (London, 1942)
+*Nash, P, 'English humorous draughtsmen", The week-end review (18 July 1931)
+*Pound, R. and Harmsworth, G., Northcliffe (London: Cassell, 1959)
+*Scott, E. Clement, "W.K. Haselden and his work", The London Magazine, vol. 25, no. 147 (1910)
+*Sitwell, O., A free house! Or, artist as craftsman; being the writings of Walter Richard Sickert (London: Macmillan &amp; Co., 1947)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Haselden, William}}
+[[Category:1953 deaths]]
+[[Category:British cartoonists]]
+[[Category:British illustrators]]
+[[Category:1872 births]]
+[[Category:People from Aldeburgh]]</text>
+      <sha1>proavn7w0dp4goqudcua5bst6jplxgr</sha1>
+    </revision>
+  </page>
+</mediawiki>

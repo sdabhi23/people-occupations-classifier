@@ -1,0 +1,272 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dieter F. Uchtdorf</title>
+    <ns>0</ns>
+    <id>1035805</id>
+    <revision>
+      <id>854262591</id>
+      <parentid>852535075</parentid>
+      <timestamp>2018-08-10T02:15:21Z</timestamp>
+      <contributor>
+        <username>Northamerica1000</username>
+        <id>14730724</id>
+      </contributor>
+      <comment>Added {{[[:Template:primary sources|primary sources]]}} tag to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24503">{{primary sources|date=August 2018}}
+{{Infobox Latter Day Saint biography
+ | PD_image            = Dieter F. Uchtdorf3.jpg
+ | caption             = 
+ | name                = Dieter F. Uchtdorf
+ | birth_name          = Dieter Friedrich Uchtdorf
+ | birth_date          = {{birth date and age|df=yes|1940|11|06}}
+ | birth_place         = Mährisch-Ostrau,&lt;br&gt;[[Protectorate of Bohemia and Moravia]]&lt;br&gt;{{small|(now [[Ostrava]], [[Czech Republic]])}}
+ | alma_mater          = [[International Institute for Management Development]]&amp;nbsp;&lt;small&gt;([[MBA]])&lt;/small&gt;
+ | death_date          = 
+ | death_place         = 
+ | spouse              = Harriet Reich Uchtdorf&lt;small&gt;&lt;br&gt;(1962–present)
+ | children            = 2
+ | portals             = LDS
+&lt;!-- Latter Day Saint Leadership  --&gt;
+ | position_or_quorum1 = [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]]
+ | start_date1         = {{start date|2018|01|2}}
+ | end_date1           = present
+ | end_reason1         = 
+ | position_or_quorum2 = Second Counselor in the [[First Presidency (LDS Church)|First Presidency]]
+ | called_by2          = [[Thomas S. Monson]]
+ | predecessor2        = [[Henry B. Eyring]]
+ | successor2          = Henry B. Eyring
+ | start_date2         = {{start date|2008|02|03}}
+ | end_date2           = {{end date|2018|01|02}}
+ | end_reason2         = Dissolution of First Presidency on death of Thomas S. Monson
+ | position_or_quorum3 = [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]]
+ | called_by3          = [[Gordon B. Hinckley]]
+ | start_date3         = {{start date|2004|10|02}}
+ | end_date3           = {{end date|2008|02|03}}
+ | end_reason3         = Called as Second Counselor in the [[First Presidency (LDS Church)|First Presidency]]
+ | position_or_quorum4 = [[The Church of Jesus Christ of Latter-day Saints|LDS Church]] [[Apostle (Latter Day Saints)|Apostle]]
+ | called_by4          = Gordon B. Hinckley
+ | start_date4         = {{start date|2004|10|07}}
+ | ordination_reason4  = Deaths of [[David B. Haight]] and [[Neal A. Maxwell]]&lt;ref&gt;Uchtdorf and David A. Bednar were ordained on the same date to fill the vacancies created by the deaths of Haight and Maxwell.&lt;/ref&gt;
+ | end_date4           = 
+ | end_reason4         = 
+ | reorganization4     = 
+ | position_or_quorum5 = [[Presidency of the Seventy]]
+ | called_by5          = Gordon B. Hinckley
+ | start_date5         = {{start date|df               =yes|2002|08|15}}
+ | end_date5           = {{end date|df                 =yes|2004|10|02}}
+ | end_reason5         = Called to the [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]]
+ | position_or_quorum6 = [[First Quorum of the Seventy]]
+ | called_by6          = Gordon B. Hinckley
+ | start_date6         = {{start date|1996|04|07}}
+ | end_date6           = {{end date|2004|10|02}}
+ | end_reason6         = Called to the [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]]
+ | position_or_quorum7 = [[Second Quorum of the Seventy]]
+ | called_by7          = [[Ezra Taft Benson]]
+ | start_date7         = {{start date|1994|04|02}}
+ | end_date7           = {{end date|1996|04|07}}
+ | end_reason7         = Transferred to the [[First Quorum of the Seventy]]
+ | list_notes          = Only the eleventh apostle to be born outside the United States. Second Vice Chairman, Boards of Trustees/Education of the [[Church Educational System]]
+&lt;!-- Military Service --&gt;
+ | nickname            = 
+ | allegiance          = {{flagicon|DEU}} Germany
+ | branch              = [[File:Bundeswehr Kreuz.svg|25px]] [[German Air Force|Air Force]]
+ | serviceyears        = 1959–1965
+ | rank                = 
+ | servicenumber       = 
+ | unit                = 
+ | commands            = 
+ | battles             = 
+ | battles_label       = 
+ | military_awards     = Commander's Trophy (USAF)
+}}
+'''Dieter Friedrich Uchtdorf''' (born 6 November 1940) is a German [[aviator]], airline executive and religious leader. He is a member of the [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]] of [[The Church of Jesus Christ of Latter-day Saints]] (LDS Church).  Called as an [[Apostle (LDS Church)|apostle]] in 2004, he previously served as Second Counselor to [[Thomas S. Monson]] in the church's [[First Presidency (LDS Church)|First Presidency]] from 2008 until Monson's death on 2 January 2018.&lt;ref&gt;{{citation |url= https://www.mormonnewsroom.org/article/president-thomas-monson-passes-away|title= President Thomas S. Monson Dies at Age 90 |work= Newsroom |publisher= [[LDS Church]] |date= January 2, 2018 }}&lt;/ref&gt; Currently, Uchtdorf is the sixth most senior apostle in the ranks of the church.&lt;ref&gt;Apostolic seniority is generally understood to include all ordained apostles (including the [[First Presidency (LDS Church)|First Presidency]] and the [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]]. Seniority is determined by date of ordination, not by age or other factors. If two apostles are ordained on the same day, the older of the two is typically ordained first. See [[President of the Church (LDS Church)#Succession to the presidency|Succession to the presidency]] and {{cite journal |last= Heath |first= Steven H. |url=https://www.dialoguejournal.com/wp-content/uploads/sbi/articles/Dialogue_V20N02_46.pdf |title=Notes on Apostolic Succession |journal=Dialogue: A Journal of Mormon Thought |volume=20 |issue=2 |pages=44–56 |date=Summer 1987 }}.&lt;/ref&gt;
+
+==Early life and education==
+Uchtdorf was born to ethnic [[Germans]] Karl Albert Uchtdorf and Hildegard Else Opelt in [[Ostrava|Moravská Ostrava]] ({{lang-de|Mährisch-Ostrau}}), which at the time was in the [[Nazi Germany|Nazi]]-occupied [[Protectorate of Bohemia and Moravia]] (now [[Ostrava, Czech Republic]]).&lt;ref name="Church News 2008-08-19"&gt;{{citation |url= http://www.ldschurchnewsarchive.com/leaders/53468/The-First-Presidency.html |title= The First Presidency |newspaper= [[Church News]] |date= 19 August 2008 }}&lt;/ref&gt; When he was a child, his family traveled through areas being bombed to move to [[Zwickau]] in eastern Germany while his father was away in the army.&lt;ref&gt;{{citation |first= Dieter F. |last= Uchtdorf |date=November 2007 |title= Have We Not Reason to Rejoice? |url= http://www.lds.org/ensign/2007/11/have-we-not-reason-to-rejoice |journal= [[Ensign (LDS magazine)|Ensign]] }}&lt;/ref&gt; As a result of his grandmother's encounter with an LDS Church member in a soup line, Uchtdorf's family joined the LDS Church when he was still young.&lt;ref name = holland&gt;{{citation |first= Jeffrey R. |last= Holland |author-link= Jeffrey R. Holland |url= http://www.lds.org/ensign/2005/03/elder-dieter-f-uchtdorf-on-to-new-horizons |title= Elder Dieter F. Uchtdorf: On to New Horizons |journal= [[Ensign (LDS magazine)|Ensign]] |date=March 2005 |pages= 10–15 }}&lt;/ref&gt;
+
+When Uchtdorf was about eleven, his father's political beliefs, incongruent with Soviet rule, earned him the label of "dissenter", thus putting their lives in danger.&lt;ref&gt;[[Russell M. Nelson]], [http://www.lds.org/ensign/2008/07/president-dieter-f-uchtdorf-a-family-man-a-man-of-faith-a-man-foreordained "President Dieter F. Uchtdorf: A Family Man, a Man of Faith, a Man Foreordained"], ''[[Ensign (LDS magazine)|Ensign]]'', July 2008.&lt;/ref&gt; They fled [[East Germany]] and resettled in U.S.-occupied [[West Germany]].  His sisters accomplished this by jumping from a moving train that happened to pass through West Germany, while Dieter and his mother climbed a mountain to avoid Russian guard checkpoints.
+
+Uchtdorf started studying mechanical engineering at age 18 but later continued in business administration in [[Cologne]] and graduated from [[Institut pour l'Etude des Methodes de Direction de l'Entreprise]] (today the [[International Institute for Management Development]]) in Lausanne, Switzerland, with an MBA.&lt;ref name="Biography"&gt;{{citation |title=Elder Dieter F. Uchtdorf |url=http://newsroom.lds.org/leader-biographies/president-dieter-f-uchtdorf |department=Leadership |work=Newsroom |publisher=LDS Church |access-date=2011-09-06}}&lt;/ref&gt; He received an [[honorary doctorate]] in international leadership from [[Brigham Young University]] during the April 2009 graduation ceremony.&lt;ref&gt;{{citation |url= http://www.deseretnews.com/article/705380671/Pres-Uchtdorf-receives-honorary-doctorate-from-BYU.html |title= Pres. Uchtdorf receives honorary doctorate from BYU |date= 24 April 2009 |first= Scott |last= Taylor |newspaper= Deseret News }}&lt;/ref&gt;
+
+==Aviator==
+When Uchtdorf was conscripted into the newly formed [[Bundeswehr]] in 1959, he volunteered for the [[German Air Force|air force]], at age 19, to become a fighter pilot.&lt;ref name="Church News 2004-10-16"&gt;{{citation |title= German apostle embraces world |url= http://www.ldschurchnewsarchive.com/articles/46331/German-apostle-embraces-world.html|newspaper= [[Church News]] |date= 16 October 2004 }}&lt;/ref&gt; Due to an agreement between the West German and US governments, Uchtdorf trained as a fighter pilot in Big Spring, Texas,&lt;ref name="Church News May 2009"&gt;{{citation |url= http://www.ldschurchnewsarchive.com/articles/57411/Erstwhile-pilot-at-home-among-comrades.html |title= Erstwhile pilot at home among comrades |newspaper= [[Church News]] |date= 28 May 2009 |first= Gerry |last= Avant }}&lt;/ref&gt; where he excelled, earning the coveted [[Commander's Trophy]] (USAF) for being the best student pilot in his class.&lt;ref name = holland/&gt; After earning wings from both the German and US air forces, he served for six years as a fighter pilot in West Germany, leaving in 1965 to join [[Lufthansa]]. By 1970, at 29 years of age, Uchtdorf had reached the rank of captain with Lufthansa. He was appointed in 1975 as head of Lufthansa's new Arizona Training School, and in 1980 he was made head chief pilot of cockpit crews, followed by appointment to senior vice president of flight operations in 1982.&lt;ref name = holland/&gt; He left Lufthansa in 1996, two years after being called as an LDS Church [[general authority]].&lt;ref name="Church News May 2009"/&gt;
+
+==LDS Church service==
+[[File:Ghana Mission 017.jpg|thumb|150px|left|Uchtdorf visiting the [[Accra]], Ghana LDS mission in 2007]]
+Uchtdorf served twice as a [[stake president]] in the LDS Church,&lt;ref name="Church News 2004-10-16"/&gt; presiding over the [[Frankfurt am Main|Frankfurt]] Germany and the [[Mannheim]] Germany [[Stake (Latter Day Saints)|stakes]].
+
+Uchtdorf was called as a [[general authority]] and member of the church's [[Second Quorum of the Seventy]] on 2 April 1994.&lt;ref name="Church News 2008-08-19" /&gt; On 7 April 1996, he was transferred to the [[First Quorum of Seventy]].&lt;ref&gt;{{citation|first= Gerhard |last= Spörl |url= http://www.spiegel.de/international/world/0,1518,491890,00.html |title= A Mormon Goes West: The German Apostle |newspaper= [[Spiegel Online]] |date= 2007-07-04 }}&lt;/ref&gt; Uchtdorf became a member of the church's [[Presidency of the Seventy]] on 15 August 2002.&lt;ref name=DN2008-02-04&gt;{{citation |title= Elder Uchtdorf, former pilot, named new counselor in First Presidency |url= http://deseretnews.com/article/695250135/Elder-Uchtdorf-former-pilot-named-new-counselor-in-First-Presidency.html |newspaper= Deseret Morning News |date= 4 February 2008 }}&lt;/ref&gt;
+
+===Apostle===
+Uchtdorf was [[Common consent (Mormonism)|sustained]] a member of the [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]] on 2 October 2004. He was ordained an [[Apostle (Latter Day Saints)|apostle]] on 7 October 2004 by [[President of the Church (LDS Church)|church president]] [[Gordon B. Hinckley]]. Uchtdorf and [[David A. Bednar]] were called to fill the vacancies created by the July 2004 deaths of quorum members [[David B. Haight]] and [[Neal A. Maxwell]].&lt;ref&gt;{{citation |first= Gordon B. |last= Hinckley |url= http://www.lds.org/ensign/2004/11/condition-of-the-church |title= Condition of the Church |journal= [[Ensign (LDS magazine)|Ensign]] |date=November 2004 }}&lt;/ref&gt; Uchtdorf was the first church apostle ordained in the 21st century. As an apostle, Uchtdorf is accepted by the church as a [[prophet, seer, and revelator]].
+
+Uchtdorf is the eleventh apostle of the LDS Church to be born outside the [[United States]].&lt;ref&gt;{{citation |archiveurl= https://web.archive.org/web/20060410144217/http://www.lds.org/newsroom/extra/0,15505,3881-1---3-868,00.html |title= Apostles Born Outside the United States |work= Newsroom |publisher= LDS Church |url= http://www.lds.org/newsroom/extra/0,15505,3881-1---3-868,00.htm |archivedate= 2006-04-10 }}&lt;/ref&gt; He is the first German apostle in church history and was the first born outside of North America since the death of [[John A. Widtsoe]] in 1952.
+
+While in [[Slovakia]] on 12 May 2006, Uchtdorf offered a prayer dedicating the land "for the preaching of the gospel"—an LDS Church leadership custom usually observed at the time missionaries arrive in a new country. Although missionaries had been in what is now Slovakia for over a century,&lt;ref&gt;{{citation |title= Daunting task known as Slovakian miracle |url= http://www.ldschurchnewsarchive.com/articles/49733/Daunting-task-known-as-Slovakian-miracle.html |newspaper= [[Church News]] |date= 11 November 2006 }}&lt;/ref&gt; since [[Dissolution of Czechoslovakia|the split with the Czech Republic]], this dedication was specific for the new country.&lt;ref&gt;{{citation |title= Slovakia dedicated |url= http://www.ldschurchnewsarchive.com/articles/49409/Slovakia-dedicated.html |newspaper= [[Church News]] |date= 9 September 2006 }}&lt;/ref&gt;
+
+===Counselor in the First Presidency===
+On 3 February 2008, Uchtdorf became the Second Counselor to [[Thomas S. Monson]] in the church's First Presidency.&lt;ref name="Church News 2008-08-19" /&gt;&lt;ref name= DN2008-02-04 /&gt;&lt;ref&gt;{{citation |first= Sarah Jane |last= Weaver |date= 9 February 2008 |title= A united pledge to serve, to support |url= http://www.ldschurchnewsarchive.com/articles/51615/A-united-pledge-to-serve-to-support.html |newspaper= [[Church News]] }}&lt;/ref&gt; He is the second non-English native speaker to have served in the First Presidency.&lt;ref&gt;The other man who served in the First Presidency who did not have English as his native tongue was [[Anthon H. Lund]], who was from [[Denmark]]. [[Marion G. Romney]], although born in [[Mexico]], had American parents and English was his native language.&lt;/ref&gt; After joining the First Presidency, Uchtdorf became a naturalized US citizen;&lt;ref&gt;Matt Canham, [http://www.sltrib.com/sltrib/politics/55974230-90/church-faith-immigrants-immigration.html.csp "Mormon leader: Obama's immigration plan matches LDS values"], ''[[The Salt Lake Tribune]]'', 9 March 2013.&lt;/ref&gt; he has remained a citizen of Germany.&lt;ref&gt;Tad Walsh, [http://www.deseretnews.com/article/865601049/LDS-Church-reaffirms-stance-on-immigration.html "LDS Church reaffirms stance on immigration"], ''[[Deseret News]]'', 15 April 2013.&lt;/ref&gt;
+
+While serving in the First Presidency, Uchtdorf dedicated the [[Tegucigalpa Honduras Temple|Tegucigalpa Honduras]],&lt;ref&gt;[http://ldsmag.com/article/1/12380 Meridian Magazine article on Tegucigalpa Temple dedication]&lt;/ref&gt; [[Quetzaltenango Guatemala Temple|Quetzaltenango Guatemala]],&lt;ref&gt;[http://www.ldschurchtemples.com/quetzaltenango/ LDS Church Temples.com article on Quezaltenango Temple]&lt;/ref&gt; [[Manaus Brazil Temple|Manaus Brazil]],&lt;ref&gt;[http://mormontemples.org/eng/manaus/manaus-brazil-temple-dedicated Mormon Temples.org article on Manuas Temple]&lt;/ref&gt; [[Fort Lauderdale Florida Temple|Fort Lauderdale Florida]],&lt;ref name=FtLauderdale&gt;{{citation |url= http://www.mormonnewsroom.org/article/fort-lauderdale-florida-temple |title= Church Dedicates Fort Lauderdale Florida Temple, 143rd in the World |work= Newsroom |publisher= [[LDS Church]] |date= 2014-05-04 }}&lt;/ref&gt; [[Cordoba Argentina Temple|Cordoba Argentina]],&lt;ref name=Dedication&gt;{{citation |url= http://www.mormonnewsroom.org/article/church-dedicates-cordoba-argentina-temple |title= Church Dedicates Córdoba Argentina Temple: The second temple in Argentina and 145th in the World |work= Newsroom |publisher= [[LDS Church]] |date= 2015-05-17 }}&lt;/ref&gt; [[Trujillo Peru Temple|Trujillo Peru]],&lt;ref&gt;{{citation |url= http://www.mormonnewsroom.org/article/church-dedicates-trujillo-peru-temple |title= Church Dedicates Trujillo Peru Temple: The second temple in Peru and 147th in the world |work= Newsroom |publisher= [[LDS Church]] |date= 2015-06-21 }}&lt;/ref&gt; [[Tijuana Mexico Temple|Tijuana Mexico]],&lt;ref&gt;{{citation |url= http://www.mormonnewsroom.org/article/149th-temple-in-the-world-is-dedicated-in-tijuana-mexico |title= 149th Temple in the World Is Dedicated in Tijuana, Mexico: 13th Mormon temple in Mexico |work= Newsroom |publisher= [[LDS Church]] |date= 2015-12-13 }}&lt;/ref&gt; [[Fort Collins Colorado Temple|Fort Collins Colorado]]&lt;ref&gt;{{citation |url= http://www.mormonnewsroom.org/article/fort-collins-colorado-mormon-temple-dedicated |title= Fort Collins Colorado Temple Is Dedicated: 153rd Mormon temple in the world, second in Colorado  |work= Newsroom |publisher= [[LDS Church]] |date= October 16, 2016 }}&lt;/ref&gt;, and [[Tucson Arizona Temple|Tucson Arizona]]&lt;ref&gt;{{citation |url= http://www.mormonnewsroom.org/article/tucson-arizona-temple-is-dedicated|title= Tucson Arizona Temple Is Dedicated: Marks the 6th Mormon temple in Arizona and 157th in the world |work= Newsroom |publisher= [[LDS Church]] |date= 2017-08-13 }}&lt;/ref&gt; [[Temple (LDS Church)|temples]]. Uchtdorf has also participated in the dedication of many other temples as a member of the Twelve and the First Presidency.
+
+In May 2016, Uchtdorf traveled to the [[Czech Republic]] to create the first [[Stake (Latter Day Saints)#The Church of Jesus Christ of Latter-day Saints|stake]] in that nation.&lt;ref&gt;{{cite news |url= http://www.deseretnews.com/article/865654450/President-Uchtdorf-creates-first-stake-in-Czech-Republic.html? |title=President Uchtdorf creates first stake in Czech Republic|last= Weaver |first= Sarah Jane |date= 17 May 2016 |newspaper= [[Church News]] }}&lt;/ref&gt;
+
+At the time of Monson's death on January 2, 2018, with the dissolution of the First Presidency, Uchtdorf returned to the Quorum of the Twelve Apostles, along with Monson's First Counselor, [[Henry B. Eyring]]. When the First Presidency was subsequently reorganized under new church president [[Russell M. Nelson]], Uchtdorf was not retained as a counselor in the First Presidency and continued his service in the Quorum of the Twelve Apostles. 
+
+While not unprecedented in church history, the last time a new church president did not retain a counselor that served in the First Presidency under his predecessor was in 1985. Uchtdorf, who had taught as a member of the First Presidency that church members should neither seek or decline callings, that they should lift where they stand, and that at the end of each assignment, subsequent changes should be graciously accepted, posted [https://www.deseretnews.com/article/865695121/Elder-Dieter-F-Uchtdorf-offers-support-to-newly-called-Church-leaders.html his support] for the new leaders, especially referencing his willingness to resume his ministry as a member of the Quorum of the Twelve Apostles.&lt;ref&gt;{{citation |first= Sarah Jane |last= Weaver |date= January 17, 2018 |title= Elder Dieter F. Uchtdorf responds to questions, comments: 'I am just fine,' he writes |url= https://www.deseretnews.com/article/865695158/Elder-Dieter-F-Uchtdorf-responds-to-questions-comments-I-am-just-fine-he-writes.html |newspaper= [[Deseret News]] }}&lt;/ref&gt;
+
+===Quorum of the Twelve===
+Following his return to the Quorum of the Twelve after the reorganization of the First Presidency, the church announced new assignments for Uchtdorf on January 22, 2018.  These assignments had been noted by Nelson in the news conference where the new First Presidency was announced.  The assignments include chairman of the church's Missionary Executive Council, chairman of the Correlation Executive Council, and being the primary contact for the church's Europe and Europe East [[Area (LDS Church)|areas]].&lt;ref&gt;{{citation |url= https://www.mormonnewsroom.org/article/major-assignments-announced-for-elder-uchtdorf|title= Assignments Announced for Elder Uchtdorf: Apostle oversees Europe, key Church departments |work= Newsroom |publisher= [[LDS Church]] |date= January 22, 2018 }}&lt;/ref&gt;
+
+==Family==
+Uchtdorf and his wife, Harriet Reich Uchtdorf, were married on 14 December 1962 in the [[Bern Switzerland Temple|Swiss Temple]]. They are the parents of two children and have six grandchildren and one great-grandchild.&lt;ref&gt;{{cite web|url=http://www.mormonnewsroom.org/article/president-dieter-uchtdorf-visits-saints-europe?cid=HPFR062014261 |title= Mormonism in Pictures: President Dieter F. Uchtdorf visits Saints in Europe |work=Mormon Newsroom|publisher=LDS Church |date=20 June 2014}}&lt;/ref&gt;
+
+==Works==
+*{{citation
+ |last        = Uchtdorf
+ |first       = Dieter F.
+ |author-mask = 
+ |year        = 2012
+ |title       = Forget Me Not
+ |location    = Salt Lake City
+ |publisher   = Deseret Book
+ |isbn        = 978-1-60907-119-6
+ |oclc        = 
+}}
+*{{citation
+ |last        = Uchtdorf
+ |first       = Dieter F.
+ |author-mask = 2
+ |year        = 2011
+ |title       = Your happily ever after
+ |location    = Salt Lake City
+ |publisher   = Deseret Book
+ |isbn        = 978-1-60641-652-5
+ |oclc        = 727126663
+}}
+*{{citation
+ |last        = Uchtdorf
+ |first       = Dieter F.
+ |author-mask = 2
+ |year        = 2010
+ |title       = The remarkable soul of a woman
+ |location    = Salt Lake City
+ |publisher   = Deseret Book
+ |isbn        = 978-1-60641-244-2
+ |oclc        = 502304343
+}}
+*{{citation
+ |last        = Uchtdorf
+ |first       = Dieter F.
+ |author-mask = 2
+ |year        = 2005
+ |title       = Sister Eternal
+ |location    = Salt Lake City
+ |publisher   = Deseret Book
+ |isbn        = 978-1-59038-535-7
+ |oclc        = 60931317
+}}
+
+==See also==
+{{Wikipedia books
+ |1=Quorum of the Twelve Apostles (LDS Church)
+}}
+{{Portal|Latter-day Saints}}
+* [[Church Educational System]]
+* [[Council on the Disposition of the Tithes]]
+* [[Uchtdorf]], a village in Germany
+
+==Notes==
+{{reflist|2}}
+
+==References==
+* {{citation |first= Gerry |last= Avant |date= 26 September 2009 |title= Cockpit to pulpit: 50 years of flight |url= http://www.ldschurchnewsarchive.com/articles/57924/Cockpit-to-pulpit-50-years-of-flight.html |newspaper= [[Church News]] }}
+* {{citation |first= Greg |last= Hill |date= 22 March 2008 |title= Follow the Lord and He will provide |url= http://www.ldschurchnewsarchive.com/articles/51746/Follow-the-Lord-and-He-will-provide.html |newspaper= [[Church News]] }}
+* {{citation |title= The Opportunity to Testify |url= http://www.lds.org/ensign/2004/11/the-opportunity-to-testify |journal= [[Ensign (LDS magazine)|Ensign]] |date=November 2004 |first= Dieter F. |last= Uchtdorf }}
+
+==External links==
+*[http://www.lds.org/church/leader/dieter-f-uchtdorf "General Authorities: President Dieter F. Uchtdorf"], lds.org
+*[http://www.gapages.com/uchtddf1.htm Grampa Bill's G.A. Pages: Dieter F. Uchtdorf]
+*[http://jesuschrist.lds.org/SonOfGod/eng/special-witnesses/video/president-dieter-f-uchtdorf Uchtdorf on ''Special Witnesses of Christ'']
+
+{{s-start}}
+{{s-rel|mo}}
+{{s-bef|before=[[Henry B. Eyring]]|rows=2}}
+{{s-ttl|title= [[Chronology of the First Presidency (LDS Church)|Second Counselor]] in the [[First Presidency (LDS Church)|First Presidency]]|years=February 3, 2008 - January 2, 2018}}
+{{s-aft|after= Henry B. Eyring}}
+{{s-ttl|title= [[Quorum of the Twelve Apostles (LDS Church)|Quorum of the Twelve Apostles]] | years= October 7, 2004 – February 3, 2008&lt;br /&gt;January 2, 2018 –}}
+{{s-aft|after= [[David A. Bednar]] }}
+{{s-end}}
+
+{{LDSfirstpresidency|current=no}}
+{{Qof12}}
+{{LDSApostles}}
+{{LDS70pres}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Uchtdorf, Dieter F.}}
+[[Category:1940 births]]
+[[Category:Apostles (LDS Church)]]
+[[Category:Counselors in the First Presidency (LDS Church)]]
+[[Category:Luftwaffe pilots]]
+[[Category:German general authorities (LDS Church)]]
+[[Category:Living people]]
+[[Category:Members of the First Quorum of the Seventy (LDS Church)]]
+[[Category:Moravian-German people]]
+[[Category:People from Ostrava]]
+[[Category:Presidents of the Seventy (LDS Church)]]
+[[Category:Silesian-German people]]
+[[Category:East German emigrants to West Germany]]
+[[Category:German Air Force personnel]]
+[[Category:German emigrants to the United States]]
+[[Category:People with acquired American citizenship]]</text>
+      <sha1>4iqozapzomr5gn82ke5ptr4oc8m88om</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,679 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jack Klugman</title>
+    <ns>0</ns>
+    <id>588590</id>
+    <revision>
+      <id>854253086</id>
+      <parentid>848270642</parentid>
+      <timestamp>2018-08-10T00:40:34Z</timestamp>
+      <contributor>
+        <username>Nikkimaria</username>
+        <id>372290</id>
+      </contributor>
+      <comment>doc</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35384">{{Use mdy dates|date=December 2012}}&lt;!--[[WP:STRONGNAT]]--&gt;
+{{more citations needed|date=August 2016}}
+
+{{Infobox person
+|name          = Jack Klugman
+|image         = JackKlugmanNov09.jpg
+|alt           =
+|caption       = Klugman in November 2009
+|birth_name    = Jack Klugman&lt;ref name="EMMY interview"&gt;{{cite web|url=https://www.youtube.com/watch?v=HeV9Rzm-s3Q#t=39|title=Jack Klugman Interview Part 1 of 5 - EMMYTVLEGENDS.ORG|publisher=[[Academy of Television Arts &amp; Sciences]]|date=1998-05-01|accessdate=2015-03-02}}&lt;/ref&gt;&lt;ref name=obit&gt;{{cite news|author=Bruce Weber (reporter)|title=Jack Klugman, Actor of Everyman Integrity, Dies at 90|url=https://www.nytimes.com/2012/12/25/arts/television/jack-klugman-stage-and-screen-actor-is-dead-at-90.html?pagewanted=all|quote=Jack Klugman, the rubber-mugged character actor who leapt to television stardom in the 1970s as the slovenly sportswriter Oscar Madison on 'The Odd Couple' and as the crusading forensic pathologist of 'Quincy, M.E.', died on Monday at his home in the Woodland Hills section of Los Angeles. He was 90. ... Mr. Klugman's path to success was serendipitous. He was born in Philadelphia on April 27, 1922, the youngest of six children of immigrants from Russia. Most sources indicate that his name at birth was Jacob, though Mr. Klugman said in an interview that the name on his birth certificate is Jack.|newspaper=[[The New York Times]]|date=December 24, 2012|accessdate=2015-03-02}}&lt;/ref&gt;&lt;ref name="Reflects"&gt;{{cite web|url=http://www.hollywoodreporter.com/race/jack-klugman-odd-couple-quincy-angry-men-321572|title=Jack Klugman Turns 90, Reflects on Life and Legendary Stage, Film and TV Career (Video)|date=2012-05-08|accessdate=2015-03-02|work=[[The Hollywood Reporter]]|author=Feinberg, Scott}}&lt;/ref&gt; 
+|birth_date    = {{birth date|1922|4|27}}
+|birth_place   = {{nowrap|[[Philadelphia, Pennsylvania]], U.S.}}
+|death_date    = {{death date and age|2012|12|24|1922|4|27}}
+|death_place   = [[Woodland Hills, Los Angeles, California]], U.S.
+|resting_place = [[Westwood Village Memorial Park]]&lt;ref name=rasmussen&gt;{{cite web|author=C and N Rasmussen (contributor)|title=Jack Klugman, Actor of Everyman Integrity, Dies at 90|url=https://www.nytimes.com/2012/12/25/arts/television/jack-klugman-stage-and-screen-actor-is-dead-at-90.html?pagewanted=all|quote=Jack Klugman, the rubber-mugged character actor who leapt to television stardom in the 1970s as the slovenly sportswriter Oscar Madison on 'The Odd Couple' and as the crusading forensic pathologist of 'Quincy, M.E.,' died on Monday at his home in the Woodland Hills section of Los Angeles. He was 90. ... Mr. Klugman's path to success was serendipitous. He was born in Philadelphia on April 27, 1922, the youngest of six children of immigrants from Russia. Most sources indicate that his name at birth was Jacob, though Mr. Klugman said in an interview that the name on his birth certificate is Jack.|newspaper=[[The New York Times]]|date=December 24, 2012|accessdate=2015-03-02}}&lt;/ref&gt;&lt;ref name="Reflects"/&gt;
+|nationality   = American
+|alma_mater    = [[Carnegie Mellon University]]
+|occupation  = Actor
+|years_active  = 1950–2012
+|spouse        = {{marriage|[[Brett Somers]]|1953|1977|reason=divorced}}&lt;ref name = DivorceRecords/&gt;&lt;br/&gt;{{marriage|Peggy Crosby|2008|2012|reason=his death}}
+|children      = 2, including [[Adam Klugman]]
+|awards        = [[Emmy Award]] (1964, 1971, 1973)&lt;ref&gt;{{cite web|url=http://www.emmys.com/award_history_search?person=Jack+Klugman&amp;program=&amp;start_year=1960&amp;end_year=2000&amp;network=All&amp;web_category=All&amp;winner=All|title=Primetime Emmy Award Database|accessdate=August 7, 2012}}&lt;/ref&gt;&lt;ref name="LAT 20121224"&gt;{{cite news|last=McLellan|first=Dennis|title=Jack Klugman dies at 90; star of TV's 'The Odd Couple,' 'Quincy'|url=http://www.latimes.com/news/la-me-jack-klugman-obit-20121225,0,4927770.story|work=Los Angeles Times|accessdate=2012-12-25|date=December 24, 2012}}&lt;/ref&gt;&lt;br/&gt;[[Golden Globe Award]] (1974)&lt;ref&gt;{{cite web|url=http://www.goldenglobes.org/browse/member/29115|title=Awards Search|publisher=HFPA|accessdate=August 7, 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20060525004033/http://www.goldenglobes.org/browse/member/29115|archivedate=May 25, 2006|df=mdy-all}}&lt;/ref&gt;
+
+{{Infobox military person
+ | embed         = yes
+ | allegiance    = {{Flagicon|USA|size=20px}} United States
+ | branch        = [[File:Army flag.gif|20px]] [[Army of the United States]] [[File:United States Department of the Army Seal.svg|20px]]
+ | serviceyears  = 1943-46 &lt;ref&gt;{{cite web|url=http://wwii-army.mooseroots.com/l/4440683/Jack-Klugman|title=Jack Klugman - WWII Enlistment Record Philadelphia County, Pennsylvania|publisher=www.wwii-army.mooseroots.com|accessdate=November 29, 2017}}&lt;/ref&gt;
+ | rank          = [[Private (rank)|Private]] 
+ }}
+}}
+'''Jack Klugman''' (April 27, 1922&amp;nbsp;– December 24, 2012) was an American stage, film, and television actor.&lt;ref name=obit/&gt;
+
+He began his career in 1950, and started television and film work with roles in ''[[12 Angry Men (1957 film)|12 Angry Men]]'' (1957) and ''[[Cry Terror!]]'' (1958). During the 1960s, he guest-starred on numerous television series. Klugman won his first [[Primetime Emmy Award]] for his guest-starring role on ''[[The Defenders (1961 TV series)|The Defenders]]'', in 1964. He also made a total of four appearances on ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]'' from 1960 to 1963. In 1970, Klugman reprised his Broadway role of [[Oscar Madison]] in the television adaptation of ''[[The Odd Couple (1970 TV series)|The Odd Couple]]'', opposite [[Tony Randall]]. The series aired from 1970 to 1975. Klugman won his second and third Primetime Emmy Awards and a [[Golden Globe Award]] for his work on the series. From 1976 to 1983, he starred in the title role in ''[[Quincy, M.E.]]'' for which he earned four Primetime Emmy Award nominations. In 1985, he appeared in an episode of ''[[The Love Boat]]'' entitled "Scandinavian Cruise" parts one and two.
+
+==Early life==
+Klugman was born in [[Philadelphia]], the son of Rose, a hat maker, and Max Klugman, a house painter.&lt;ref&gt;{{cite web|url=http://www.filmreference.com/film/96/Jack-Klugman.html|title=Jack Klugman biography|publisher=Filmreference.com|accessdate=August 19, 2012}}&lt;/ref&gt; His parents were Russian Jewish immigrants. 
+Klugman served in the [[United States Army]] during [[World War II]].&lt;ref name="hosted1"&gt;{{cite web|url=http://hosted.ap.org/dynamic/stories/U/US_OBIT_KLUGMAN?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2012-12-24-18-11-02|title=Jack Klugman dies at 90|work=Associated Press|accessdate=December 24, 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20121226210053/http://hosted.ap.org/dynamic/stories/U/US_OBIT_KLUGMAN?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2012-12-24-18-11-02|archivedate=December 26, 2012|df=mdy-all}}&lt;/ref&gt; He attended Carnegie Institute of Technology, now [[Carnegie Mellon University]], in [[Pittsburgh]], graduating in 1948.&lt;ref name=obit/&gt; While there, his drama teacher told him, "Young man, you are not suited to be an actor. You are suited to be a truck driver."&lt;ref&gt;{{cite book|title=TV Guide. January 7-13, 2013 pg. 8}}&lt;/ref&gt; After the war, he pursued acting roles while living in New York City with fellow actor [[Charles Bronson]].&lt;ref name="hosted1"/&gt;
+
+==Career==
+===1950s and 1960s===
+[[File:Jack Klugman Twilight Zone 1963.jpg|thumb|left|Klugman in a publicity photo for ''[[The Twilight Zone]],'' September 1963]]
+During the 1950s and 1960s, Klugman was active in numerous stage, television, and film productions.
+In 1950, he had a small role in the ''Mr. Roberts'' road company at the [[Colonial Theatre (Boston)|Colonial Theatre]] in Boston. Later that same year, he made his television debut in an episode of ''[[Actors Studio (TV series)|Actors Studio]].'' In March 1952, Klugman made his Broadway debut in ''[[Golden Boy (play)|Golden Boy]],'' as Frank Bonaparte.
+
+In 1954, he played Jim Hanson on the [[soap opera]], ''[[The Greatest Gift (TV series)|The Greatest Gift]].''&lt;ref&gt;{{cite book|title=TV Guide Guide to TV|year=2004|publisher=Barnes and Noble|isbn=0-7607-5634-1|page=264}}&lt;/ref&gt; The following year, he appeared in the live television broadcast of ''[[Producers' Showcase]],'' in the episode "The Petrified Forest" with [[Humphrey Bogart]] and [[Henry Fonda]]. Klugman later said the experience was the greatest thrill of his career. Klugman went on to star in several classic films, including ''[[12 Angry Men (1957 film)|12 Angry Men]]'' (1957), as juror number five. Of the 12 actors to play a juror in the film, Klugman was the last survivor. In 1959, he returned to Broadway in the original production of ''[[Gypsy: A Musical Fable]].'' In 1960, he was nominated for a [[Tony Award]] for Best Featured Actor (Musical) for his role in the show, but lost to [[Tom Bosley]] in ''[[Fiorello!]].''&lt;ref&gt;''The Tony Award Book'' by Lee Allen Morrow, Abbeville Press, 1987&lt;/ref&gt; He remained with ''Gypsy'' until it closed in March 1961.
+
+From 1960 to 1963, Klugman appeared in four episodes of ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]'' series: "[[A Passage for Trumpet]]" (1960), "[[A Game of Pool (1961)|A Game of Pool]]" (1961), "[[Death Ship (The Twilight Zone)|Death Ship]]" (1963), and "[[In Praise of Pip]]" (1963). Klugman tied with [[Burgess Meredith]] for the most appearances in a starring role on the series. In 1964, Klugman won his first [[Primetime Emmy Award]] for his guest starring role on ''[[The Defenders (1961 TV series)|The Defenders]].'' That same year, Klugman landed the starring role in the sitcom ''Harris Against the World.'' The series was a part of an experimental block of sitcoms that aired on [[NBC]] entitled ''[[90 Bristol Court]].'' ''Harris Against the World,'' along with the other sitcoms that aired in the block, were canceled due to low ratings the following year.
+
+Klugman continued the decade with multiple guest roles on television including ''[[The F.B.I. (TV series)|The F.B.I.]],'' ''[[Ben Casey]],'' ''[[The Name of the Game (TV series)|The Name of the Game]],'' and ''[[Insight (TV series)|Insight]].'' He also appeared on Broadway in ''[[Tchin-Tchin]],'' from October 1962 to May 1963.  From 1960 to 1963, Klugman appeared in two episodes of ''[[The Untouchables (1959 TV series)|The Untouchables]]'' series: "Loophole" (1961), and "An Eye for an Eye" (1963).
+
+===''The Odd Couple''===
+[[File:Tony Randall Jack Klugman Odd Couple 1972.JPG|thumb|[[Tony Randall]] and Klugman in the publicity photo of ''The Odd Couple,'' 1972]]
+In 1965, Klugman replaced [[Walter Matthau]] in the lead role of [[Oscar Madison]] in the original [[Broadway theatre|Broadway]] production of ''[[The Odd Couple (play)|The Odd Couple]].''&lt;ref&gt;{{cite web|url=http://www.bookrags.com/research/the-odd-couple-sjpc-03/|title=The Odd Couple by Neil Simon (St. James Encyclopedia of Popular Culture Summary)|accessdate=February 20, 2009|quote=... 1965 play ''The Odd Couple ''and the subsequent 1967 movie, starring Walter Matthau as the sloppy sportswriter Oscar Madison. ... In the television series, Oscar was played by Jack Klugman (who had taken over the role from Matthau on Broadway)...}}&lt;/ref&gt; He reprised the role when the play was adapted as a [[The Odd Couple (1970 TV series)|television series]] which premiered on [[American Broadcasting Company|ABC]] in 1970. Over the course of the show's five-year, 114-episode run, Klugman won two Primetime Emmy Awards for his work on the series. The series ended in 1975. In 1973, during the run of the show, Klugman and ''Odd Couple'' co-star Randall recorded an album titled ''The Odd Couple Sings'' for [[London Records]]. [[Roland Shaw]] and [[London Festival Orchestra|The London Festival Orchestra and Chorus]] provided the music and additional vocals.&lt;ref&gt;{{Allmusic|class=album |id=r63924|label=The Odd Couple Sings|first=Jason|last=Ankeny|accessdate=December 20, 2011}}&lt;/ref&gt;
+
+===1970s and 1980s===
+Following the end of ''The Odd Couple,'' Klugman returned to television in 1976 in ''[[Quincy, M.E.]]'' on [[NBC]]. Klugman portrayed Dr. Quincy, a [[forensic pathology|forensic pathologist]] who worked for the Los Angeles County Coroner's Office and solved crimes. He was nominated for four Primetime Emmy Awards for his work on the series and also wrote four episodes.{{citation needed|date=August 2016}} ''Quincy'' aired for a total of 148 episodes over eight seasons, ending in 1983. In 1986, Klugman starred in the sitcom ''[[You Again?]],'' co-starring [[John Stamos]] as Klugman's character's son. The series aired on NBC for two seasons before being canceled. During the show's run, Klugman also appeared on Broadway in ''[[I'm Not Rappaport]].'' The show closed in 1988. The following year, he co-starred in the television [[miniseries]] ''[[Around the World in 80 Days (miniseries)|Around the World in 80 Days]]''.{{citation needed|date=August 2016}}
+
+===1990s to 2010s===
+In 1989, Klugman's throat cancer (with which he was first diagnosed in 1974) returned. His illness sidelined his career for the next four years. He returned to acting in a 1993 Broadway revival of ''[[Three Men on a Horse]].''&lt;ref&gt;{{cite news|title=Vereran actor Jack Klugman dies in Los Angeles|url=https://www.usatoday.com/story/life/people/2012/12/24/jack-klugman-dies/1789879/|work=USA Today|accessdate=December 24, 2012|date=December 24, 2012}}&lt;/ref&gt; That same year, he reunited with Tony Randall in the television film ''The Odd Couple: Together Again.'' The next year, Klugman co-starred in the television film ''[[Parallel Lives (film)|Parallel Lives]].''
+
+In 1993, he appeared on a special "celebrity versus regulars" version of the British quiz show ''[[Going for Gold]]'', emerging as the series winner.&lt;ref&gt;{{cite news|title=Daily Telegraph Obituary|url=https://www.telegraph.co.uk/news/obituaries/9765518/Jack-Klugman.html | location=London | work=The Daily Telegraph|date=December 25, 2012}}&lt;/ref&gt;
+
+In 1996, he co-starred in ''[[The Twilight of the Golds (film)|The Twilight of the Golds]]'' and the comedy film ''[[Dear God (film)|Dear God]].'' He resumed his television career with guest spots on ''[[Diagnosis: Murder]].'' He also starred in ''[[The Outer Limits (1995 TV series)|The Outer Limits]]'' episode "[[Glitch (The Outer Limits)|Glitch]]," and appeared in an episode of the TV series ''[[Crossing Jordan]].'' In 1997, Klugman starred in the Broadway, then in 2007, Off-Broadway revival of ''[[The Sunshine Boys]]''.&lt;ref&gt;{{Cite news|url=https://www.newspapers.com/clip/18042501/the_couriernews/|title=Old pros key in revival of 'The Sunshine Boys'|last=Kuchwara|first=Michael|date=December 10, 1997|work=The Courier-News|access-date=March 6, 2018|archive-url=|archive-date=|dead-url=|publisher=|agency=Associated Press|location=Bridgewater, New Jersey|page=C-5|via=}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.newspapers.com/clip/18042666/daily_record/|title=Klugman, Dooley perfectly cast in Simon's 'The Sunshine Boys'&amp;nbsp;|last=Westhoven|first=William|date=November 2, 2007|work=Daily Record|access-date=March 6, 2018|archive-url=|archive-date=|dead-url=|department=TGIF Theater|location=Morristown, New Jersey|page=TGIF 14|at=|subscription=y|via=Newspapers.com}}&lt;/ref&gt;
+
+In 2005, Klugman co-starred in the comedy film ''[[When Do We Eat? (2005 film)|When Do We Eat?]].'' That same year, he published ''Tony and Me: A Story of Friendship,'' a book about his long friendship with his ''The Odd Couple'' co-star Tony Randall.&lt;ref name=fox&gt;{{cite news|title=Klugman, Family and Friends Say Goodbye to Tony Randall|author=Friedman, Roger|date=May 31, 2004|accessdate=December 26, 2009|url=http://www.foxnews.com/story/0,2933,120556,00.html|publisher=[[Fox News Channel]]}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Eulogy: Tony Randall|author=Jack Klugman|work=[[Time (magazine)|Time]]|date=May 31, 2004|volume=163|issue=22|page=24|url=http://www.time.com/time/magazine/article/0,9171,994325,00.html}}&lt;/ref&gt; Klugman gave the eulogy at Randall's memorial service in 2004.&lt;ref name=fox/&gt; Klugman, who liked the same New York Mets whose cap he wore as Oscar Madison, started an MLB.com PRO Blog called [http://jackklugman.mlblogs.com/ Klugman's Korner] to talk about baseball and Randall.&lt;ref&gt;{{Cite news|url=https://www.newspapers.com/clip/18043063/detroit_free_press/|title=Morning line: Quick hits|last=Schrader|first=Steve|date=November 8, 2005|work=Detroit Free Press|access-date=March 6, 2018|archive-url=|archive-date=|dead-url=|subscription=y|via=Newspapers.com}}&lt;/ref&gt;
+
+[[File:JackKlugmanPublicDomainByPhilKonstantin2005.jpg|thumb|right|Klugman in August 2005]]
+In 2008, he sued NBC Television concerning missing profits from his show ''Quincy M.E.''&lt;ref name="SuesNBC"&gt;{{cite news|date=August 9, 2010|title=Klugman, NBC Universal settle 'Quincy' profits lawsuit|url=http://www.hollywoodreporter.com/blogs/thr-esq/klugman-nbc-universal-settle-quincy-64147|work=The Hollywood Reporter|accessdate=September 26, 2010|first=Matt|last=Belloni}}&lt;/ref&gt; The lawsuit was filed in [[California superior courts|California Superior Court]], with Klugman requesting NBC to show him the original contract.&lt;ref name="SuesNBC"/&gt; Klugman stated that his production company, Sweater Productions, should have received 25% of the show's net profits. NBC Universal and Klugman settled the lawsuit on undisclosed terms in August 2010.&lt;ref name="SuesNBC"/&gt;
+
+His last on-screen role was in the 2010 horror film ''Camera Obscura.''&lt;ref&gt;{{Cite news|url=https://www.newspapers.com/clip/18043159/the_philadelphia_inquirer/|title=Jack Klugman, 1922–2012: S. Philly native had 2 famous TV roles|last=McCartney|first=Anthony|date=December 25, 2012|work=Philadelphia Inquirer|access-date=March 6, 2018|archive-url=|archive-date=|dead-url=|agency=Associated Press|pages=B1, B5|subscription=y|via=Newspapers.com}}&lt;/ref&gt; His final acting job was in a stage production of ''[[Twelve Angry Men (play)|Twelve Angry Men]]'' at the [[George Street Playhouse]], which opened on March 13, 2012.&lt;ref&gt;{{cite web|last=Gans|first=Andrew|title=Jack Klugman, Gregg Edelman, David Schramm, Jonathan Hadary, James Rebhorn Will Be George Street's Angry Men|date=17 February 2012|magazine=[[Playbill]]|url=http://www.playbill.com/news/article/jack-klugman-gregg-edelman-david-schramm-jonathan-hadary-james-rebhorn-will-187596|accessdate=July 9, 2015}}&lt;/ref&gt;
+
+==Health==
+===Cancer battle===
+Klugman was diagnosed with [[Head and neck cancer|throat cancer]] in 1974.&lt;ref&gt;[http://www.biography.com/people/jack-klugman-259518 "Jack Klugman profile"], biography.com; accessed April 17, 2017.&lt;/ref&gt;
+
+In 1988, he lost a [[vocal cord]] to throat cancer surgery, but continued to act on stage and television, though he was left with a quiet, raspy voice.&lt;ref&gt;{{cite journal|date=May 31, 2004|accessdate=December 5, 2010|volume=61|issue=21|work=[[People (magazine)|People]]|title=A Neat Guy|author=Gliatto, Tom|url=http://www.people.com/people/archive/article/0,,20150202,00.html}}&lt;/ref&gt; In later years subsequent to his operation, he regained limited strength in his voice.&lt;ref&gt;{{Cite news|url=https://www.newspapers.com/clip/18042277/st_louis_postdispatch/|title=Jack Klugman returns: Throat cancer battle ends in triumph|last=Engstrom|first=John|date=September 24, 1993|work=St. Louis Post-Dispatch|access-date=March 6, 2018|archive-url=|archive-date=|dead-url=|agency=Seattle Post-Intelligencer|page=8EV|subscription=y|via=Newspapers.com}}&lt;/ref&gt;
+
+==Personal life==
+===Marriage and children===
+Klugman married actress [[Brett Somers]] in 1953. The couple had two children, [[Adam Klugman|Adam]] (who had a cameo as Oscar Madison as a child in a [[Flashback (narrative)|flashback]] on ''The Odd Couple'') and David, before separating in 1974. It was long reported that Somers and Klugman separated in 1974 but remained legally married until her death.&lt;ref&gt;[http://www.cnn.com/2012/12/24/showbiz/jack-klugman-dies/index.html "Jack Klugman dies"], cnn.com, December 24, 2012; accessed July 9, 2015.&lt;/ref&gt; However, California records indicate the couple divorced in August 1977.&lt;ref&gt;{{cite web|url=http://interactive.ancestrylibrary.com/1141/vdvusaca1966_0052_05_i-0069/5089097?backurl=http%3a%2f%2fsearch.ancestrylibrary.com%2fcgi-bin%2fsse.dll%3fgst%3d-6&amp;ssrc=&amp;backlabel=ReturnSearchResults |title=Ancestry Library Edition |website=Interactive.ancestrylibrary.com |date= |accessdate=2017-03-13}}&lt;/ref&gt;&lt;ref name=DivorceRecords&gt;{{cite web|url=http://interactive.ancestry.com/1141/vdvusaca1966_0052_05_i-0069?pid=1826382&amp;backurl=http://search.ancestry.com//cgi-bin/sse.dll?indiv=1&amp;_phsrc=nqs1&amp;_phstart=successSource&amp;usePUBJs=true&amp;db=ca_divorce&amp;gss=angs-d&amp;new=1&amp;rank=1&amp;msT=1&amp;gsln=Klugman&amp;gsln_x=1&amp;mssng1=brett&amp;mssns1=somers&amp;gskw=divorce&amp;_83004003-n_xcl=f&amp;cpxt=1&amp;cp=12&amp;MSAV=1&amp;uidh=9c3&amp;pcat=BMD_MARRIAGE&amp;fh=12&amp;h=1826382&amp;recoff=8&amp;fsk=BEFpYewIgAAEdQAmnVA-61-&amp;bsk=&amp;pgoff=&amp;ml_rpos=13&amp;hovR=1&amp;treeid=&amp;personid=&amp;hintid=&amp;usePUB=true&amp;_phsrc=nqs1&amp;_phstart=successSource&amp;usePUBJs=true|title=California Divorce Index/1966-1984 (Jack Klugman)|publisher=Ancestry.Com/State of California|accessdate=September 10, 2016}}&lt;/ref&gt; Somers died at age 83 from cancer in 2007.&lt;ref&gt;{{cite news|title='Match Game's' Brett Somers dies at 83|publisher=CNN|url=http://www.cnn.com/2007/SHOWBIZ/TV/09/17/obit.somers.ap/index.html|accessdate=December 18, 2008|archiveurl=https://web.archive.org/web/20070918013221/http://www.cnn.com/2007/SHOWBIZ/TV/09/17/obit.somers.ap/index.html|archivedate=September 18, 2007}}&lt;/ref&gt;
+
+Klugman began living with Peggy Crosby&lt;ref&gt;{{cite web|author=December 25, 2012|url=http://showbizdaily.net/celebrity-bio/peggy-crosby-is-actor-jack-klugmans-wife|title=Peggy J. Crosby-Klugman is Odd Couple Actor Jack Klugman's Wife|publisher=Showbizdaily|accessdate=December 28, 2012}}&lt;/ref&gt; in 1988. They married in February 2008, shortly after Somers' death.&lt;ref&gt;{{cite web|title=Jack Klugman Gets Married – at 85|url=http://www.people.com/people/article/0,,20177092,00.html|website=People.com|publisher=[[People (magazine)|People]]|accessdate=April 5, 2016|date=February 8, 2008}}&lt;/ref&gt;&lt;ref name="TVGUIDE"&gt;{{cite web|title=Jack Klugman Is a Newlywed|work=TV Guide|url=http://www.tvguide.com/news/Jack-Klugman-Newlywed-13321.aspx|accessdate=December 18, 2008}}&lt;/ref&gt;
+
+===Business interests===
+* Klugman was an avid Thoroughbred racing fan. He owned [[Jaklin Klugman]], which finished third in the 1980 Kentucky Derby behind the great filly [[Genuine Risk]] and Grade 1 stakes winner [[Akinemod]]. Klugman said Jaklin Klugman's success was the biggest thrill in his life.&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1123295/index.htm|title=The Odd Couple: A Hot Tip|last=Legged|first=William|date=March 24, 1980|work=Sports Illustrated|accessdate=December 24, 2012}}&lt;/ref&gt;
+* In the 1980s, Klugman lent his name to a popcorn franchise named "Jack's Corn Crib."&lt;ref&gt;{{cite web|url=https://www.nytimes.com/1983/08/18/business/and-now-there-s-even-pizza-popcorn.html|title=AND NOW THERE'S EVEN PIZZA POPCORN|date=August 18, 1983|work=The New York Times}}&lt;/ref&gt;
+
+==Death==
+Klugman died at the age of 90 in [[Woodland Hills, Los Angeles, California]], from [[prostate cancer]] on December 24, 2012.&lt;ref name=obit/&gt; The ''New York Times'' referred to him and actor [[Charles Durning]], who died the same day, as "extraordinary actors ennobling the ordinary."&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2012/12/26/arts/television/remembering-jack-klugman-and-charles-durning.html?_r=1&amp;|title=AN APPRAISAL; Remembering Jack Klugman and Charles Durning|last=Genzlinger|first=Neil|date=December 26, 2012|work=The New York Times|accessdate=December 27, 2012}}&lt;/ref&gt; The ''[[Huffington Post]]'' compared the two men, calling them "character actor titans".&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.com/2012/12/25/charles-durning-jack-klugman_n_2362655.html|title=Charles Durning, Jack Klugman Deaths Bring New Appreciation For Character Actor Titans|work=[[The Huffington Post]]|accessdate=December 27, 2012|date=December 25, 2012}}&lt;/ref&gt;
+
+==Broadway credits==
+{|class="wikitable sortable"
+|-
+! Date
+! Production
+! Role
+|-
+| March 12 – April 6, 1952
+| ''[[Golden Boy (play)|Golden Boy]]''
+| Frank Bonaparte
+|-
+| November 14–17, 1956
+| ''A Very Special Baby''
+| Carmen
+|-
+| May 21, 1959 – March 25, 1961
+| ''[[Gypsy: A Musical Fable]]''
+| Herbie
+|-
+| Apr 22, 1963 – May 18, 1963
+| ''[[Tchin-Tchin]]''
+| Caesario Grimaldi (Replacement)
+|-
+| November 8, 1965 – July 2, 1967
+| ''[[The Odd Couple (play)|The Odd Couple]]''
+| Oscar Madison (Replacement)
+|-
+| December 18, 1968 – December 21, 1968
+| ''The Sudden &amp; Accidental Re-Education of Horse Johnson''
+| Horse Johnson
+|-
+| November 19, 1985 – January 17, 1988
+| ''[[I'm Not Rappaport]]''
+| Nat (Replacement)
+|-
+| April 13 – May 16, 1993
+| ''[[Three Men on a Horse]]''
+| Patsy
+|-
+| December 8, 1997 – June 28, 1998
+| ''[[The Sunshine Boys]]''
+| Willie Clark
+|}
+
+==Selected filmography==
+{|class="wikitable sortable"
+|+Film
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1952
+| ''[[Grubstake]]''
+|
+| Alternative title: ''Apache Gold''
+|-
+| 1956
+| ''[[Time Table (film)|Time Table]]''
+| Frankie Page
+|
+|-
+| 1957
+| ''[[12 Angry Men (1957 film)|12 Angry Men]]''
+| Juror #5
+|
+|-
+| 1958
+| ''[[Cry Terror!]]''
+| Vince, a thug
+|
+|-
+| 1962
+| ''[[Days of Wine and Roses (film)|Days of Wine and Roses]]''
+| Jim Hungerford
+|
+|-
+| 1963
+| ''[[I Could Go On Singing]]''
+| George
+|
+|-
+| 1963
+| ''[[The Yellow Canary]]''
+| Lt. Bonner
+|
+|-
+| 1963
+| ''[[Act One (film)|Act One]]''
+| Joe Hyman
+|
+|-
+| 1965
+| ''[[Je vous salue, mafia!|Hail, Mafia]]''
+| Phil
+| Alternative title: ''Je vous salue, mafia!''
+|-
+| 1968
+| ''[[The Detective (1968 film)|The Detective]]''
+| Dave Schoenstein
+|
+|-
+| 1968
+| ''[[The Split (film)|The Split]]''
+| Harry Kifka
+|
+|-
+| 1969
+| ''[[Goodbye, Columbus (film)|Goodbye, Columbus]]''
+| Ben Patimkin
+|
+|-
+| 1971
+| ''Who Says I Can't Ride a Rainbow!''
+| Barney
+|
+|-
+| 1976
+| ''[[Two-Minute Warning]]''
+| Sandman
+|
+|-
+| 1996
+| ''[[The Twilight of the Golds (film)|The Twilight of the Golds]]''
+| Mr. Stein
+|
+|-
+| 1996
+| ''[[Dear God (film)|Dear God]]''
+| Jemi
+|
+|-
+| 2005
+| ''[[When Do We Eat? (2005 film)|When Do We Eat?]]''
+| Artur
+|
+|-
+| 2010
+| ''Camera Obscura''
+| Sam
+| (final film role)
+|}
+
+{| class="wikitable sortable"
+|+ Television
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1950
+| ''[[Suspense (U.S. TV series)|Suspense]]''
+| Louie
+| Episode: "Murder at the Mardi Gras"
+|-
+| 1953
+| ''[[Colonel Humphrey Flack]]''
+|
+| 2 episodes
+|-
+| 1954
+| ''[[Rocky King Detective]]''
+|
+| Episode: "Return for Death"
+|-
+| 1954
+| ''[[Inner Sanctum Mystery#Television|Inner Sanctum]]''
+| Various roles
+| 3 episodes
+|-
+| 1954–1956
+| ''[[Justice (1954 TV series)|Justice]]''
+|
+| 3 episodes
+|-
+| 1955
+| ''[[Producers' Showcase]]''
+| Jackie
+| Episode: "The Petrified Forest"
+|-
+| 1955
+| ''[[Treasury Men in Action]]''
+|
+| Episode: "The Case of the Betrayed Artist"
+|-
+| 1955–1956
+| ''[[Goodyear Television Playhouse]]''
+|
+| 2 episodes
+|-
+| 1955–1956
+| ''[[Armstrong Circle Theatre]]''
+|
+| 2 episodes
+|-
+| 1957
+| ''[[Alfred Hitchcock Presents]]''
+| George Benedict
+| Episode: "Mail Order Prophet"
+|-
+| 1958
+| ''[[Gunsmoke]]''
+| Earl Ticks
+| Episode: "Buffalo Man"
+|-
+| 1958
+| ''[[General Electric Theater]]''
+| Murphy
+| Episode: "The Young and Scared"
+|-
+| 1957
+| ''[[General Electric Theater]]''
+| Peter Tong
+| Episode: "A New Girl In His Life"
+|-
+| 1959
+| ''[[The Walter Winchell File]]''
+| Allie Sunshine
+| Episode: "Death Comes in a Small Package: File #37"
+|-
+| 1960–1963
+| ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]''
+|
+| 4 episodes
+|-
+| 1961
+| ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]''
+| Jesse Carter
+| Episode: "The Game of Pool #70"
+|-
+| 1961
+| ''[[Follow the Sun (TV series)|Follow the Sun]]''
+| Steve Bixel
+| Episode: "Busman's Holiday"
+|-
+| 1961
+| ''[[Target: The Corruptors!]]''
+| Otto Dutch Kleberg, Greg Paulson
+| 1x02 Pier 60, 1x18 Chase the Dragon
+|-
+| 1961
+| ''[[Straightaway]]''
+| Buddy Conway
+| Episode: "Die Laughing"
+|-
+| 1962
+| ''[[The New Breed (TV series)|The New Breed]]''
+| Floyd Blaylock
+| Episode: "All the Dead Faces"
+|-
+| 1962
+| ''[[Cain's Hundred]]''
+| Mike Colonni
+| Episode: "Women of Silure"
+|-
+| 1962
+| ''[[Naked City (TV series)|Naked City]]''
+| Peter Kannick
+| Episode: "King Stanislaus and the Knights of the Round Stable"
+|-
+| 1963
+| ''[[The Untouchables (1959 TV series)|The Untouchables]]''
+| Solly Girsch
+| Episode: "An Eye for An Eye"
+|-
+| 1963
+| ''[[Naked City (TV series)|Naked City]]''
+| Arthur Crews
+| Episode: "Stop the Parade! A Baby Is Crying!"
+|-
+| 1963
+| ''[[The Twilight Zone]]''
+| Captain Ross
+| Episode: "Death Ship #108"
+|-
+| 1963
+| ''[[Arrest and Trial]]''
+| Celina
+| Episode: "The Quality of Justice"
+|-
+| 1963
+| ''[[The Fugitive (TV series)|The Fugitive]]''
+| Buck Harmon
+| Episode: "Terror at High Point," [[The Fugitive (season 1)|Season 1, Episode 13]]
+|-
+| 1964
+| ''[[The Virginian (TV series)|The Virginian]]''
+| Charles Mayhew
+| Episode: "Roar from the Mountain"
+|-
+| 1964
+| ''[[The Defenders (1961 TV series)|The Defenders]]''
+| Joe Larch
+| Episode: "Blacklist"
+|-
+| 1964
+| ''[[The Great Adventure (U.S. TV series)|The Great Adventure]]''
+| John Brown
+| Episode: "The Night Raiders"
+|-
+| 1964–1965
+| ''[[90 Bristol Court|Harris Against the World]]''
+| Alan Harris
+| 13 episodes
+|-
+| 1965
+| ''[[Kraft Suspense Theatre]]''
+| Ozzie Keefer
+| Episode: "Won't It Ever Be Morning? "
+|-
+| 1965
+| ''[[Ben Casey]]''
+| Dr. Bill Justin
+| Episode: "A Slave Is on the Throne"
+|-
+| 1965
+| ''[[The Fugitive (TV series)|The Fugitive]]''
+| Gus Hendricks
+| Episode: "Everybody Gets Hit in the Mouth Sometimes," [[The Fugitive (season 2)|Season 2, Episode 24]]
+|-
+| 1966
+| ''[[Fame Is the Name of the Game]]''
+| Ben Welcome
+| Television film
+|-
+| 1967
+| ''[[Garrison's Gorillas]]''
+| Gus Manners
+| Episode: "Banker's Hours"
+|-
+| 1969
+| ''[[Then Came Bronson]]''
+| Dr. Charles Hanrahan
+| Episode: "The Runner"
+|-
+| 1970
+| ''[[The Bold Ones: The New Doctors]]''
+| Leland Rogers
+| Episode: "The Diamond Millstone"
+|-
+| 1970
+| ''[[The Name of the Game (TV series)|The Name of the Game]]''
+| Captain Garrig
+| Episode: "The Time Is Now"
+|-
+| 1970–1975
+| ''[[The Odd Couple (1970 TV series)|The Odd Couple]]''
+| [[Oscar Madison]]
+| 114 episodes
+|-
+| 1972
+| ''[[Banyon]]''
+|
+| Episode: "The Lady Killers"
+|-
+| 1973
+| ''[[Poor Devil (1973 film)|Poor Devil]]''
+| Burnett J. Emerson
+| Television film
+|-
+| 1974
+| ''The Underground Man''
+| Sheriff Tremaine
+| Television film
+|-
+| 1976
+| ''[[One of My Wives Is Missing]]''
+| Inspector Murray Levine
+| Television film
+|-
+| 1976–1983
+| ''[[Quincy, M.E.]]''
+| Dr. R. Quincy, M.E.
+| 147 episodes
+|-
+| 1979
+| ''[[Insight (TV series)|Insight]]''
+| Packy Rowe
+| Episode: "Rebirth of Packy Rowe"
+|-
+| 1986–1987
+| ''[[You Again?]]''
+| Henry Willows
+| 26 episodes
+|-
+| 1989
+| ''[[Around the World in 80 Days (miniseries)|Around the World in 80 Days]]''
+| Capt. Bunsby
+| Miniseries
+|-
+| 1993
+| ''[[The Odd Couple: Together Again]]''
+| Oscar Madison
+| Television film
+|-
+| 1994
+| ''[[Parallel Lives (film)|Parallel Lives]]''
+| Senator Robert Ferguson
+| Television film
+|-
+| 1995
+| ''[[Shining Time Station|Shining Time Station: Second Chances]]''
+| Max Okowsky
+| Television film
+|-
+| 1997
+| ''[[Diagnosis: Murder]]''
+| Dr. Jeff Everden
+| Episode: "Physician, Murder Thyself"
+|-
+| 1999
+| ''[[Diagnosis: Murder]]''
+| Lt. Harry Trumble
+| Episode: "Voices Carry"
+|-
+| 1999
+| ''[[Brother's Keeper (1998 TV series)|Brother's Keeper]]''
+| Jack
+| Episode: "An Odd Couple of Days"
+|-
+| 2000
+| ''[[The Outer Limits (1995 TV series)|The Outer Limits]]''
+| Joe Walker
+| Episode: "[[Glitch (The Outer Limits)|Glitch]]"
+|-
+| 2000
+| ''[[Third Watch]]''
+| Stan Brandolini
+| Episode: "Run of the Mill"
+|-
+| 2002
+| ''[[Crossing Jordan]]''
+| Dr. Leo Gelber
+| Episode: "Someone to Count On"
+|}
+
+==Awards==
+{|class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Title of work
+|-
+| 1974
+| [[Golden Globe Award]]
+| [[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]]
+| ''The Odd Couple''
+|-
+| 1964
+| [[Primetime Emmy Award]]
+| Outstanding Single Performance by an Actor in a Leading Role
+| ''The Defenders''&lt;br /&gt;&lt;small&gt;(For episode: "Blacklist")&lt;/small&gt;
+|-
+| 1971
+| Primetime Emmy Award
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Continued Performance by an Actor in a Leading Role in a Comedy Series]]
+| ''The Odd Couple''
+|-
+| 1973
+| Primetime Emmy Award
+| Outstanding Continued Performance by an Actor in a Leading Role in a Comedy Series
+| ''The Odd Couple''
+|-
+| 2004
+| [[TV Land Award]]
+| Quintessential Non-Traditional Family
+| ''The Odd Couple''&lt;br /&gt;&lt;small&gt;(Shared with Tony Randall)&lt;/small&gt;
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category}}
+{{Portal|United States Army}}
+* {{IBDB name}}
+* {{iobdb name|34045}}
+* {{IMDb name|0001430}}
+* {{tcmdb name|id=103485|name=Jack Klugman}}
+* {{findagrave|102540213}}
+* [http://www.cherishedtelevision.co.uk/ Jack Klugman profile]
+* [http://jackklugman.mlblogs.com/ Jack Klugman's Blog]
+* [http://www.jackklugman.de/ Jack Klugman&amp;nbsp;– Jack Klugman Informationscenter Europe]
+* {{YouTube|ZHfj-1eH_lM|Jack Klugman Radio Interview w/Doug Miles Part 1}}
+* [http://dougmilesinterview.milestonebroadcasting.com/2009/03/22/jack-klugman-interview-with-doug-miles-part-2.aspx Jack Klugman Radio interview w/Doug Miles Part 2]
+* [http://sportsillustrated.cnn.com/vault/article/magazine/MAG1123295/index.htm The Odd Couple: A Hot Tip] at [[Sportsillustrated.cnn.com]]
+* [http://www.emmytvlegends.org/interviews/people/jack-klugman Jack Klugman interview] at [[Archive of American Television]]
+* [http://www.frequency.com/video/jack-klugman-interview-part-1-of-5/92901846 Jack Klugman Interview Part 1 of 5 Frequency.com]
+
+{{Navboxes
+| title = Awards for Jack Klugman
+| list =
+{{EmmyAward ComedyLeadActor 1950–1975}}
+{{EmmyAward MiniseriesLeadActor 1952–1975}}
+{{GoldenGlobeBestActorTVComedy 1970–1989}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Klugman, Jack}}
+[[Category:1922 births]]
+[[Category:2012 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American male film actors]]
+[[Category:American military personnel of World War II]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American racehorse owners and breeders]]
+[[Category:American male screenwriters]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:Best Musical or Comedy Actor Golden Globe (television) winners]]
+[[Category:Burials at Westwood Village Memorial Park Cemetery]]
+[[Category:Deaths from cancer in California]]
+[[Category:Carnegie Mellon University College of Fine Arts alumni]]
+[[Category:Deaths from prostate cancer]]
+[[Category:Outstanding Performance by a Lead Actor in a Comedy Series Primetime Emmy Award winners]]
+[[Category:Outstanding Performance by a Lead Actor in a Miniseries or Movie Primetime Emmy Award winners]]
+[[Category:Jewish American male actors]]
+[[Category:Male actors from Philadelphia]]
+[[Category:People from Rockland County, New York]]
+[[Category:United States Army soldiers]]
+[[Category:American Jews in the military]]</text>
+      <sha1>okze6gl9dba46b6f4ikf6ucqhmz82jk</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tony Jannus</title>
+    <ns>0</ns>
+    <id>1939939</id>
+    <revision>
+      <id>846445721</id>
+      <parentid>818139789</parentid>
+      <timestamp>2018-06-18T20:51:44Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:American aviators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14873">{{Infobox person
+| name      = Tony Jannus
+| image     = Tony Jannus.gif
+| image_size  = 200px
+| caption   = 
+| birth_date  = {{Birth date|1889|7|22}}
+| birth_place = Washington, D.C.  
+| death_date  = {{Death date and age|1916|10|12|1889|7|22}} 
+| death_place = [[Black Sea]], [[Russian Empire|Czarist Russia]]
+| education      =
+| occupation     = pilot
+| spouse         = 
+| parents        = Frankland Jannus, Emiline Carlisle Weightman
+| children       =  
+}}
+
+'''Antony Habersack Jannus''', more familiarly known as '''Tony Jannus''' (July 22, 1889 &amp;ndash; October 12, 1916), was an early American [[Aviator|pilot]] whose aerial exploits were widely publicized in aviation's pre-World War I period. He flew the first airplane from which a parachute jump was made, in 1912.&lt;ref name=govt&gt;{{cite web|title=Aviation History Facts &amp;mdash; March|publisher=U.S. Centennial of Flight Commission|year=2008|url=http://www.centennialofflight.gov/user/fact_mar.htm|accessdate=2009-01-20|deadurl=yes|archiveurl=https://web.archive.org/web/20090117201935/http://centennialofflight.gov/user/fact_mar.htm|archivedate=2009-01-17|df=}}&lt;/ref&gt; Jannus was also the first airline pilot, having pioneered the inaugural flight of the [[St. Petersburg–Tampa Airboat Line]] on January 1, 1914, the first scheduled commercial airline flight in the world using heavier-than-air aircraft.&lt;ref name=Society&gt;{{cite web | title=Tony Jannus, an enduring legacy of aviation | work=Tony Jannus Distinguished Aviation Society | url=http://www.tonyjannusaward.com/history/ | deadurl=yes | archiveurl=https://web.archive.org/web/20110717073628/http://www.tonyjannusaward.com/history/ | archivedate=2011-07-17 | df= }}&lt;/ref&gt; The ''[[Tony Jannus Award]]'',  created to perpetuate his legacy, recognizes outstanding individual achievement in the scheduled commercial aviation industry and is conferred annually by the '''Tony Jannus Distinguished Aviation Society''' founded in [[Tampa, Florida]], in 1963.
+
+==Early years==
+Jannus was born in Washington, D.C., where his father Frankland Jannus was a patent 
+attorney and his great-grandfather, [[Roger C. Weightman]], had previously been mayor (1824&amp;ndash;1827).&lt;ref name=Brown&gt;{{cite book|last=Brown|first=Warren J.|title=Florida's Aviation History|publisher=Aero-Medical Consultants|location=Largo, Florida|year=1994|isbn=0-912522-70-4}}&lt;/ref&gt;{{rp|56}} By 1910, the 21-year-old young man was employed as a boat engine mechanic. He became interested in flying when he saw an airshow in [[Baltimore, Maryland]], in November, 1910, and began flight training that year at [[College Park Airport]] in Maryland.&lt;ref name=arcadia&gt;{{cite book|last=Breihan|first=John R.|title=Maryland Aviation|publisher=Arcadia|location=Charleston, SC|year=2009|isbn=978-0-7385-6700-6|page=14}}&lt;/ref&gt; In 1911, Jannus was the first pilot to fly the ''Lord Baltimore II'', an [[amphibious airplane]] built in Baltimore, from the city's [[Patapsco River|Curtis Bay]].&lt;ref name=arcadia /&gt; His older brother, Roger Weightman Jannus (1886-1918), also learned to fly and both brothers became test pilots for airplane builder [[Thomas W. Benoist]] in [[St. Louis, Missouri]], in late 1911.&lt;ref name=Brown /&gt;{{rp|56}}
+
+[[File:Flying machine. First plane down Mississippi River. Janas, pilot, killed in Russia in 1917, stands in front of biwing airplane. Harris Hurlbert in sportjacket, also in picture (22331115465).jpg|thumb|Jannus during Mississippi River flights]]
+[[File:Baldwin Red Devil 1.jpg|thumb|[[Baldwin Red Devil|''Red Devil'']], flown by Jannus in 1913, at the [[Udvar-Hazy Center]]]]
+On March 1, 1912, Tony Jannus piloted a Benoist [[biplane]] when [[Albert Berry (parachutist)|Albert Berry]] made the first [[parachute]] jump from a moving airplane near St. Louis.&lt;ref name=govt /&gt;&lt;ref&gt;{{cite web|title=Jefferson Barracks Historic Park|publisher=St. Louis County Parks &amp; Recreation|year=2008|url=http://www.stlouisco.com/parks/j-b.html|accessdate=2009-01-20}}&lt;/ref&gt; Later that year, Jannus set a {{convert|1900|mi|0|adj=on}} overwater flight record following the Missouri and Mississippi Rivers from Omaha, Nebraska, to New Orleans in a [[Benoist Land Tractor Type XII]] mounted with floats.&lt;ref name=Brown /&gt;{{rp|64}}
+
+During the [[Great Lakes Reliability Cruise]] in 1913, [[Thomas W. Benoist]] entered three aircraft, flown by [[Antony Jannus]], [[Hugh Robinson (aviator)|Hugh Robinson]], and Benoist himself.&lt;ref&gt;{{cite news|last1=Noel|first1=E. Percy|title=Three entries made in Aero and Hydro Cruise|url=https://books.google.com/books?id=psw7AQAAMAAJ&amp;pg=PA166-IA1&amp;lpg=PA166-IA1&amp;dq=Great+Lakes+Reliability+Cruise&amp;source=bl&amp;ots=J7sGegtSP2&amp;sig=tho8RZ9vC9QRy6cl8LsQ9YnOmZ8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi4zdrrqMXSAhVCeSYKHXyFApsQ6AEIOjAF%20-%20v=onepage&amp;q=Great%20Lakes%20Reliability%20Cruise&amp;f=false#v=snippet&amp;q=Great%20Lakes%20Reliability%20Cruise&amp;f=false|accessdate=8 March 2017|agency=Aero and Hydro|issue=Volume VI No 1|date=April 5, 1913|page=3}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Noel|first1=E. Percy|title=Aero and Hydro Great Lakes Reliabilit Cruise Entries to Date|url=https://books.google.com/books?id=psw7AQAAMAAJ&amp;pg=PA166-IA1&amp;lpg=PA166-IA1&amp;dq=Great+Lakes+Reliability+Cruise&amp;source=bl&amp;ots=J7sGegtSP2&amp;sig=tho8RZ9vC9QRy6cl8LsQ9YnOmZ8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi4zdrrqMXSAhVCeSYKHXyFApsQ6AEIOjAF%20-%20v=onepage&amp;q=Great%20Lakes%20Reliability%20Cruise&amp;f=false#v=snippet&amp;q=Great%20Lakes%20Reliability%20Cruise&amp;f=false|accessdate=8 March 2017|agency=Aero and Hydro|issue=Volume VI No 9|date=May 31, 1913|page=166}}&lt;/ref&gt;
+
+Also in 1913, Jannus participated in a [[The New York Times|''New York Times'']]-sponsored air exhibition. He flew actress [[Julia Bruns]] in a [[Baldwin Red Devil]] 4,000 [[foot (length)|ft]] above [[Staten Island]] for twenty minutes on October 12, 1913. The next day, he flew in an air race over Manhattan, the ''Times'' reporting that "The graceful Benoist [[biplane]] sailed along on an even keel...driven by the famous Tony Jannus".&lt;ref name=Brown /&gt;{{rp|60}}  Jannus described flying as, "...poetry of mechanical motion, a fascinating sensation of speed, an abstraction from things material into an infinite space."&lt;ref name=Brown /&gt;{{rp|2&amp;ndash;3}} On 15 October, Jannus crashed on take off while setting off to search for [[Albert Jewell]], an aviator who had disappeared over off southern [[Long Island]] while flying to join the race on 13 October; Jannus was unhurt in the crash, though the airplane was written off.{{sfn|Reilly|1997|pp=114-115}}
+
+The following month, Jannus moved to [[St. Petersburg, Florida]]
+
+==First scheduled airline flight==
+Prior to 1914, travel from  [[Tampa, Florida]], to [[St. Petersburg, Florida|St. Petersburg]], located on a then-isolated peninsula, required a slow steamboat trip across Tampa Bay or a circuitous, five-hour journey by railroad.&lt;ref name=Brown /&gt;{{rp|54}} A bumpy automobile or [[horse and buggy]] ride took many hours over primitive, unpaved roads. The airplane at the time was a rare novelty, lacking any practical application. Impressed by the record-setting overwater flight made by Jannus in 1912, Florida businessman Percival Fansler approached some St. Petersburg businessmen the next year with a proposal to use Benoist flying boats for "a real commercial line" over open water between the two cities.&lt;ref name=Brown /&gt;{{rp|57&amp;ndash;59}} Convinced by Fansler's plan, several St. Petersburg community leaders, led by L. A. Whitney of the local chamber of commerce and Noel Mitchell, agreed to provide financial support for the creation of an airline service to connect the two cities. A 90-day contract with Benoist was signed on December 17, 1913 (the 10th anniversary of [[Wright brothers|Wilbur and Orville Wright]]'s historic first airplane flight), to provide airplanes and crew for two daily round trips across Tampa Bay, dubbed the ''[[St. Petersburg–Tampa Airboat Line]]'' &amp;mdash; the world's first scheduled airline.&lt;ref name=Brown /&gt;{{rp|63}}&lt;ref name=Trib&gt;{{cite news|title=First Commercial Air Ship Line in World Inaugurated|publisher=''[[The Tampa Tribune]]''|date=January 2, 1914|page=1}}&lt;/ref&gt; [[File:Flying boat Benoist.jpg|thumb|Tony Jannus piloting the Benoist flying boat]] Fansler told the ''[[St. Petersburg Times]]'': "The St. Petersburg waterfront is an ideal place for starting and landing as the trip to and from Tampa will be one of the most beautiful in the country. Skimming a few feet above the surface of the water... with the purr of a 75&amp;nbsp;h.p. engine and the whirring of a propeller turning several hundred times a minute, the rush of the cool salt air and the shimmering sunlight on Tampa Bay &amp;mdash; no trip could be more enjoyable.".&lt;ref&gt;{{cite news|title=A line of flying boats across Tampa Bay may be established here in 30 days!|date=December 5, 1913|publisher=''[[St. Petersburg Times]]''}}&lt;/ref&gt;
+  
+Departing from a location on January 1, 1914, near the downtown St. Petersburg Municipal Pier on Second Avenue North, Jannus piloted the twenty-three-minute inaugural flight of the pioneer airline's [[Benoist XIV]] flying boat biplane. A crowd of 3,000 gathered at the pier to watch the history-making takeoff at 10&amp;nbsp;a.m. and were told by Fansler that "What was impossible yesterday is an accomplishment today, while tomorrow heralds the unbelieveable" {{sic}}.&lt;ref name=Brown /&gt;{{rp|68}}  Abram C. Pheil, former mayor of St. Petersburg, won an auction for the first ticket with a winning bid of $400 and was a passenger on the inaugural flight . It was the first time a ticket was sold to the general public for point-to-point scheduled air travel. The Benoist reportedly reached a maximum speed of {{convert|75|mph|0}} during the flight, according to a [[United Press International|United Press]] account. Other reports indicate that Jannus flew over the Bay at an [[altitude]] of less than {{convert|50|ft|0}}. Upon the airboat's arrival in Tampa, the [[The Tampa Tribune|''Tampa Tribune'']] reported, "a crowd of two thousand was waiting...Messrs. Jannus and Pheil bowed and smiled".&lt;ref name=Trib /&gt; Thereafter, flights departed St. Petersburg daily except Sundays at 10 a.m. and 2 p.m.. Return flights left Tampa at 11 a.m. and 3 p.m.
+
+==Curtiss test pilot==
+Following the end of the St. Petersburg–Tampa Airboat Line's scheduled service between the two Florida cities on March 31, 1914, Jannus left St. Petersburg and quit flying for Benoist, becoming a test pilot for [[Curtiss Aeroplane and Motor Company|Curtiss Aeroplane Company]]. In July, 1915, Jannus successfully flew the prototype [[Curtiss JN-4|Curtiss JN-3]], forerunner of the JN-4 "Jenny" of World War I fame.&lt;ref name=Brown /&gt;{{rp|261&amp;ndash;263}} On October 1, 1915, he was sent by [[Glenn Curtiss]] to Russia as the company's test pilot and trainer of Russian pilots flying Curtiss airplanes in combat during World War I.
+
+==Death==
+Jannus died on October 12, 1916, near [[Sevastopol]] (then part of [[Russian Empire|Czarist Russia]]) when his plane, a [[Curtiss Model H|Curtiss H-7]] he was using to train Russian pilots, had engine problems and crashed into the [[Black Sea]], killing Jannus and his two-man Russian crew. His body was never recovered.&lt;ref name=Society /&gt;&lt;ref name=Brown /&gt;{{rp|75 and 263}}
+
+==Legacy==
+{{main|Tony Jannus Award}}
+[[File:Benoist XIV replica.jpg|thumb|250px|Replica of the [[Benoist XIV]] flown by Jannus on January 1, 1914 &amp;mdash; the first scheduled commercial airline flight &amp;mdash; displayed at [[St. Petersburg-Clearwater International Airport]]]]
+
+The ''Tony Jannus Distinguished Aviation Society'' founded in 1963, perpetuates the memory of Jannus as the first commercial airline pilot, by annually conferring the ''Tony Jannus Award'' for outstanding achievement in scheduled air transportation. Past recipients of the award include such luminaries as  [[Eddie Rickenbacker]], [[Donald Wills Douglas, Sr.|Donald Douglas]], [[Jimmy Doolittle]], [[C. R. Smith]] (the founder of [[American Airlines]]), [[William A. Patterson]] (president of [[United Airlines]] 1934&amp;ndash;1966), and [[Chuck Yeager]].  Those so honored are enshrined at the St. Petersburg Museum of History's Tony Jannus exhibit.
+
+An operational replica of the Benoist Model XIV airplane flew across Tampa Bay in a 75th anniversary re-enactment of  Jannus' flight, on January 1, 1989. It is now exhibited at the St. Petersburg Museum of History at the St. Petersburg Pier, approximately {{convert|100|yards|0}} from the site of the inaugural flight.&lt;ref name=Brown /&gt;{{rp|334}} On January 29, 2011, the [[American Institute of Aeronautics and Astronautics]] dedicated an historic site plaque on the museum's grounds, commemorating the site of the world’s first regularly scheduled airline. The birth of the commercial air transportation industry is also commemorated by another replica of the Benoist airplane at the [[St. Petersburg-Clearwater International Airport]]'s baggage claim area in the terminal and a Tony Jannus Award exhibit at [[Tampa International Airport]].
+
+On December 17, 2006, Jannus was posthumously inducted into the ''Paul E. Garber First Flight Shrine'' at the [[Wright Brothers National Memorial]] at [[Kitty Hawk, North Carolina]], joining other honorees such as [[Wright brothers|Wilbur and Orville Wright]], [[Charles Lindbergh]], [[Amelia Earhart]], and Chuck Yeager, who have shaped the aviation industry.&lt;ref&gt;{{cite news|title=Pioneer pilot Jannus honored at 103rd Wright anniversary|work=[[The Virginian-Pilot]]|url=http://hamptonroads.com/node/196681 |date=December 2006|accessdate=2009-01-20}}&lt;/ref&gt;  Jannus was designated a "Great Floridian" by the State of Florida in 2010.  The St. Petersburg concert venue [[Jannus Landing]] is named for him.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* Bickel, Karl A. - The Mangrove Coast, 1942 by Coward McCann, Inc., Fourth Edition in 1989 by Omni Print Media, Inc., p.&amp;nbsp;265
+* {{cite book |title=Jannus, an American Flier |last=Reilly |first=Thomas |authorlink= |coauthors= |year=1997 |publisher=University Press of Florida |location=Gainesville, Florida |isbn=0-8130-1544-8 |page= |pages= |url=https://books.google.com/books?id=hqXDkJ1gjS8C&amp;lpg=PP1&amp;dq=Reilly%20%22Jannus%22&amp;pg=PP8#v=snippet&amp;q=jewell&amp;f=false |ref=harv |accessdate=2011-07-02}}
+*Michaels, Will ''The Making of St. Petersburg'', 2012 by the History Press; pp.&amp;nbsp;89–99.
+
+==External links==
+{{commons category|Tony Jannus}}
+* [http://www.tonyjannusaward.com/ Tony Jannus Distinguished Aviation Society] &amp;ndash; official website
+* [http://www.earlyaviators.com/ejannton.htm Antony Jannus] on EarlyAviators.com
+
+{{DEFAULTSORT:Jannus, Tony}}
+
+[[Category:1889 births]]
+[[Category:1916 deaths]]
+[[Category:Aviation pioneers]]
+[[Category:Aviators from Washington, D.C.]]
+[[Category:Aviators killed in aviation accidents or incidents]]
+[[Category:American aviation record holders]]
+[[Category:Commercial aviators]]</text>
+      <sha1>kx4b69z8ic8ck7uwjty64p2qupuxsd4</sha1>
+    </revision>
+  </page>
+</mediawiki>

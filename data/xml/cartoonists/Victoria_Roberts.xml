@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Victoria Roberts (cartoonist)</title>
+    <ns>0</ns>
+    <id>31835097</id>
+    <revision>
+      <id>840865204</id>
+      <parentid>768535394</parentid>
+      <timestamp>2018-05-12T17:42:42Z</timestamp>
+      <contributor>
+        <username>Schwede66</username>
+        <id>10689882</id>
+      </contributor>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]], date formats per [[MOS:DATEFORMAT]] by [[WP:MOSNUMscript|script]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4564">{{Use dmy dates|date=May 2018}}
+'''Victoria Roberts''' is a [[cartoonist]] and performer.&lt;ref&gt;{{citation | title = Victoria Roberts | url = http://www.victoriaroberts.com/}}.&lt;/ref&gt; A staff cartoonist for ''[[The New Yorker]]'' since 1988,&lt;ref&gt;{{citation | publisher = The New Yorker | title = Cartoonists | url = http://www.newyorker.com/online/blogs/cartoonists}}.&lt;/ref&gt; Roberts' work has also appeared in ''[[The Wall Street Journal]]'', ''[[The Washington Post]]'', ''[[Ms. Magazine]]'', and many other magazines and newspapers.&lt;ref name= "H Post"&gt;{{cite web|title= Victoria Roberts|url= http://www.huffingtonpost.com/victoria-roberts|publisher= [[Huffington Post]]|accessdate= 12 June 2011}}&lt;/ref&gt; She illustrates the Q&amp;A weekly science question in ''[[The New York Times]]''.&lt;ref&gt;{{cite news | last = Ray|first=C. Claiborne|title= Science Q&amp;A—Flies in the Dark|url= https://www.nytimes.com/2011/06/07/science/07qna.html?_r=1&amp;ref=science|accessdate=12 June 2011|newspaper=[[The New York Times]] |date= 6 June 2011}}&lt;/ref&gt; She was called Australia's most successful female cartoonist by ''[[The Age]]''.&lt;ref name="Age"/&gt; She is the author of ''After the Fall'', published by [[W. W. Norton and Company]] in November 2012.
+
+Her style has been described as whimsical, and according to ''[[The Sydney Morning Herald]]'', "there is delight, and childish embellishments".&lt;ref name=herald1984&gt;{{cite news|last= Thompson|first= Tom| title = Incredulous Victoria and her whimsical menagerie|url=https://news.google.com/newspapers?id=3DFWAAAAIBAJ&amp;sjid=IucDAAAAIBAJ&amp;pg=4801,6343924&amp;dq=victoria-roberts+the+sydney+morning+herald+-judge&amp;hl=en |accessdate=12 June 2011|newspaper= [[The Sydney Morning Herald]] |date=13 July 1984}}&lt;/ref&gt; In her own words, she likes "to draw fat little ladies with hearing aids, weird infants with glasses, and domestic scenes; I see things as people at home see them".&lt;ref name="Age"/&gt;
+
+Her first cartoon strip, “My Sunday” appeared weekly in Australia’s ''[[Nation Review]]'' when she was nineteen. In the strip, Roberts illustrates the hypothetical Sundays of famous people.&lt;ref name=Age&gt;{{cite news|last=King|first=Elisabeth|title=My Sunday—Victoria Roberts: Cartoonist|url= https://news.google.com/newspapers?id=SxlVAAAAIBAJ&amp;sjid=yJMDAAAAIBAJ&amp;pg=2638,1613945&amp;dq=victoria-roberts+cartoonist&amp;hl=en |accessdate= 12 June 2011|newspaper= [[The Age]]|date= 13 February 1987}}&lt;/ref&gt; Roberts has written and/or illustrated over 20 books, and received several grants, awards, and residencies, including an [[Australian Bicentennial]] grant for ''Australia Felix'', a [[Graphic non-fiction|cartoon history]] of Australia published by Chatto &amp; Windus.&lt;ref&gt;{{cite news|last=Jones|first= Margaret|title= Birthday Culture May Offend|url=https://news.google.com/newspapers?id=oipWAAAAIBAJ&amp;sjid=oeQDAAAAIBAJ&amp;pg=1749,2415325&amp;dq=australian+bicentennial+grant+victoria-roberts&amp;hl=en|accessdate=12 June 2011| newspaper = [[The Sydney Morning Herald]]|date=20 February 1987}}&lt;/ref&gt;&lt;ref name=daao&gt;{{cite web|title=Victoria Roberts|url=http://www.daao.org.au/bio/victoria-roberts/#artist_biography|publisher=Design and Art Australia Online|accessdate=12 June 2011}}&lt;/ref&gt;
+
+Roberts has also worked in animation. Credits include “Goodbye Sally Goldstein” and “The Maitland and Morpeth Quartet”, and also in radio, recording “Divinity Fudge” for [[WNYC]], and “The Life of [[Truman Capote]]” for [[ABC Radio Australia]].&lt;ref name="H Post"/&gt;
+
+Since 2004, she has appeared on stage as her earliest cartoon character Nona Appleby. Nona is a [[kimono]]-clad Australian octogenarian. Her first solo show, Nona, opened at the National Museum for Women in [[Washington D.C.]] in 2005, and went on to a season at Urban Stages in [[New York City]].&lt;ref name="NY Times"&gt;{{cite news|last=Weinert|first=Laura|title=Give the Ladies the Mike for a Bit of Poetry and Comedy|url=http://theater.nytimes.com/2006/02/24/theater/reviews/24verg.html|accessdate=12 June 2011|newspaper=[[The New York Times]]|date=24 February 2006}}&lt;/ref&gt;
+
+Born in Manhattan, Roberts grew up in Mexico City and Sydney. She lives in New York City and Mexico.&lt;ref&gt;{{cite web|last=Roberts, Victoria |title=
+Victoria Roberts cartoonist – Resume|url=http://victoriaroberts.net/resume|accessdate=12 June 2011}}&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+
+== External links==
+* [http://www.victoriaroberts.net Official Website]
+
+{{DEFAULTSORT:Roberts, Victoria}}
+[[Category:American cartoonists]]
+[[Category:Women cartoonists]]
+[[Category:The New Yorker people]]
+[[Category:Living people]]</text>
+      <sha1>r4q27ya6nxks1qq7v1vaymao9acf1ya</sha1>
+    </revision>
+  </page>
+</mediawiki>

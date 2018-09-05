@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tom Wilson (cartoonist)</title>
+    <ns>0</ns>
+    <id>2878683</id>
+    <revision>
+      <id>822521142</id>
+      <parentid>820249713</parentid>
+      <timestamp>2018-01-26T21:15:48Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>Removed 1 archive link. [[User:GreenC/WaybackMedic_2.1|Wayback Medic 2.1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6741">{{Infobox comics creator
+| name          = Tom Wilson
+| image         = Tomwilsonziggy.jpg
+| imagesize     =
+| caption       =
+| alt           =
+| birth_date    = {{birth date|1931|8|1}}
+| birth_place   = [[Grant Town, West Virginia]], [[United States|U.S.]]
+| death_date    = {{Death date and age|2011|9|16|1931|8|1|mf=yes}}
+| death_place   = [[Cincinnati, Ohio]], U.S. &lt;!-- Location approximate --&gt;
+| nationality   = American
+| cartoonist    = y
+| write         = y
+| art           = y
+| ink           = 
+| notable works = [[Ziggy (comic strip)|Ziggy]]
+| collaborators = Tom Wilson, Jr.
+| awards        = Emmy (producer, Outstanding Animated Program) for ''Ziggy's Gift'' (1982);&lt;ref name=MWW&gt;"Tom Wilson." ''The Complete Marquis Who's Who''. Marquis Who's Who, 2010. ''Gale Biography In Context''. Web. 9 Nov. 2010.&lt;/ref&gt;&lt;br/&gt;Purchase award, Butler Museum National Painting Competition&lt;ref name=MWW/&gt;
+| spouse       = Carol Sobble
+| children     = one son (Tom Jr.), two daughters
+| subcat        = American
+}}
+'''Thomas Albert Wilson''' (August 1, 1931 – September 16, 2011),&lt;ref name=CAO&gt;"Tom Wilson." ''Contemporary Authors Online''. Detroit: Gale, 2002. ''Gale Biography In Context''. Web. 9 Nov. 2010.&lt;/ref&gt;&lt;ref name=FWV&gt;{{cite web|title=Famous West Virginians|url=http://members.aol.com/jeff560/famousw.html|publisher=AOL|author=jeff560|archiveurl=https://web.archive.org/web/20070305103441/http://members.aol.com/jeff560/famousw.html|archivedate=2007-03-05|date=2007-02-09}}&lt;/ref&gt;&lt;ref&gt;[http://dailycartoonist.com/index.php/2011/09/19/ziggy-creator-tom-wilson-sr-passes-at-age-80/ Ziggy creator Tom Wilson Sr. passes at age 80 The Daily Cartoonist&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; better known as '''Tom Wilson''', was an [[United States|American]] [[cartoonist]].  Wilson was the creator of the comic strip ''[[Ziggy (comic strip)|Ziggy]]'', which he drew from 1971 to 1987. The strip was then continued by his son, Tom Wilson, Jr.&lt;ref name="Enquirer Clark"&gt;{{cite news|title='Ziggy' cartoonist tells of depression |first=Paul |last=Clark |work=[[The Cincinnati Enquirer]] |publisher=[[Gannett Company]] |date=2009-03-02 |accessdate=2009-03-02 |url=http://news.cincinnati.com/article/20090302/ENT/90302004/ |quote=Much of the book derives from journals [Tom Wilson, Jr.] kept along the way, a practice he found therapeutic. Some were recorded on audiotape during his regular travels up [[Interstate 71]] between his home in Loveland and his business in [[Cleveland, Ohio|Cleveland]], a cartoon-character licensing and branding company called Character Matters. |deadurl=yes |archiveurl=https://web.archive.org/web/20120323155813/http://news.cincinnati.com/article/20090302/ENT/90302004/ |archivedate=March 23, 2012 }}&lt;/ref&gt;
+
+Wilson served in the U.S. Army from 1953 to 1955.&lt;ref name=MWW/&gt;&lt;ref name=Reynolds/&gt; He attended the [[Art Institute of Pittsburgh]], graduating in 1955.&lt;ref name=MWW/&gt; He was a [[Cooper Union]] art instructor from 1961 to 1962.&lt;ref name=MWW/&gt;&lt;ref name=Reynolds&gt;{{cite book |last=Reynolds |first=Moira Davison| title=Comic Strip Artists in American Newspapers, 1945-1980 |year=2003 |publisher=McFarland |isbn=978-0-7864-1551-9 |page=170}}&lt;/ref&gt;
+
+Wilson's career began in 1950, doing advertisement layouts for [[Uniontown, Pennsylvania|Uniontown]] Newspapers, Inc.&lt;ref name=MWW/&gt;&lt;ref name=Reynolds/&gt; In 1955, he joined [[American Greetings]] (AG) as a designer, becoming Creative Director in 1957 and vice-president of creative development in 1978.&lt;ref name=MWW/&gt; While at AG, he developed the Soft Touch greeting card line.&lt;ref name=MWW/&gt; He also served as president of [[Those Characters From Cleveland]], AG's character licensing subsidiary.&lt;ref name=MWW/&gt;
+
+==''Ziggy''==
+The ''Ziggy'' comics panel, syndicated by [[Universal Uclick]] (formerly Universal Press Syndicate), launched in 15 newspapers in June 1971. It expanded to appear in more than 500 [[daily strip|daily]] and [[Sunday comics|Sunday newspapers]] and has been featured in bestselling books and calendars. ''Ziggy'' merchandising has included plaques, T-shirts, buttons, glass tumblers, lunch boxes, coffee mugs and greeting cards. In 2002, Ziggy became the official spokescharacter for the Leukemia and Lymphoma Society.
+
+Throughout his career, Wilson demonstrated a remarkable ability to anticipate future trends in the marketplace. A veteran of the licensing business, Wilson headed up the creative team that developed such character licensing blockbusters as [[Strawberry Shortcake]] and [[Care Bears]].
+
+In 1987, Wilson passed the ''Ziggy'' torch to his son, Tom Wilson Jr., after the younger Wilson had served as an assistant on the strip for many years.&lt;ref name="blog.bcdb.com"&gt;{{Cite news | url=http://blog.bcdb.com/2011/09/tom-wilson-sr-creator-icon-ziggy-dead-80/ | work=BCDB Cartoon News | accessdate=2011-09-18 | title=Tom Wilson Sr., creator of icon Ziggy, dead at 80 | df= }}{{dead link|date=January 2018|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; Even though Tom Sr. lived in Cleveland and Tom Jr. lived in Cincinnati, the two worked as a team, collaborating by fax and phone.
+
+Wilson was a talented painter with works appearing in exhibitions throughout the United States, including the [[Cleveland Museum of Art]] and the [[Society of Illustrators]] annual show in [[New York City|New York]].
+
+==Awards==
+He made his mark in animation with the 1982 [[Emmy Award]]-winning Christmas special, ''[[Ziggy's Gift]]'', which was released on VHS video in 2002 and DVD in 2005.
+
+He received the Purchase award in the [[Butler Institute of American Art]]'s annual exhibition.&lt;ref name=MWW/&gt;
+
+Wilson was a survivor of [[lung cancer]].
+
+==Death==
+He died in his sleep on the night of September 16, 2011&lt;ref name= "zcreator"&gt;{{cite news |last= |first= |url= http://www.prweb.com/releases/2011/9/prweb8806450.htm |title=Ziggy Creator Tom Wilson Sr. Dead at 80 |work=[[PRWeb]] |date=2011-09-18 |accessdate=2011-09-18}}&lt;/ref&gt; of pneumonia at a Cincinnati hospital. He was 80.&lt;ref name="blog.bcdb.com"/&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20060907043055/http://www.amuniversal.com/ups/features/ziggy/bio.htm Biographies of both Tom Wilsons]
+*[https://www.nytimes.com/2011/09/21/arts/tom-wilson-cartoonist-behind-ziggy-dies-at-80.html?_r=1 ''The New York Times'' obituary]
+*[https://web.archive.org/web/20120425051419/http://www.janodaniel.com/portfolios/ziggy-cincinnati-magazine/ ''Cincinnati'' magazine: Jan O'Daniel]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wilson, Tom}}
+[[Category:1931 births]]
+[[Category:2011 deaths]]
+[[Category:American cartoonists]]
+[[Category:People from Marion County, West Virginia]]
+[[Category:Lung cancer survivors]]
+[[Category:Art Institute of Pittsburgh alumni]]</text>
+      <sha1>74oilvkrf131p1sk96k6kglsbamubt3</sha1>
+    </revision>
+  </page>
+</mediawiki>

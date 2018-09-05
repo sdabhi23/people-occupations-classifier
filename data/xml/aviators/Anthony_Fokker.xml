@@ -1,0 +1,235 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Anthony Fokker</title>
+    <ns>0</ns>
+    <id>51808</id>
+    <revision>
+      <id>853397516</id>
+      <parentid>852978732</parentid>
+      <timestamp>2018-08-04T13:59:08Z</timestamp>
+      <contributor>
+        <username>Caroca2</username>
+        <id>31756405</id>
+      </contributor>
+      <comment>/* External links */ pm20</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28458">{{Use dmy dates|date=April 2014}}
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout.--&gt;
+{{Infobox person
+| name          = Anthony Fokker
+| image         = Anthony Fokker 1912.jpg
+| caption       = Fokker in 1912
+| birth_name    = Anton Herman Gerard Fokker
+| birth_date    = {{birth-date|6 April 1890}}
+| birth_place   = [[Blitar]], [[East Java]], [[Netherlands Indies]] (now [[Indonesia]])
+| death_date    = {{death-date and age|23 December 1939|6 April 1890}}
+| death_place   = [[Murray Hill Hospital]], [[New York City]], [[United States]]
+| death_cause   = [[pneumococcal meningitis]]
+| resting_place =
+| resting_place_coordinates =
+| residence     =
+| nationality   = Dutch, US
+| other_names   =
+| known_for     =
+| education     =
+| employer      =
+| occupation    = [[Aircraft manufacturer]]
+| home_town     =
+| title         =
+| salary        =
+| networth      =
+| height        =
+| weight        =
+| term          =
+| predecessor   =
+| successor     =
+| party         =
+| boards        =
+| religion      =
+| spouse        = Sophie Marie Elisabeth von Morgen (1919–1923), &lt;br /&gt;
+Violet Eastman (1927–1929) (her death)
+| partner       =
+| children      =
+| parents       =
+| relatives     =
+| signature     =
+| website       =
+| footnotes     =
+}}
+
+'''Anton Herman Gerard''' "'''Anthony'''" '''Fokker''' (6 April 1890 – 23 December 1939) was a Dutch [[aviation]] pioneer and [[aircraft manufacturer]]. He is most famous for the fighter aircraft he produced in Germany during the [[First World War]] such as the [[Fokker Eindecker fighters|Eindecker]] monoplanes,  the [[Fokker Triplane|Dr.1]] triplane and the [[Fokker D.VII|D.VII]] biplane.
+
+After the treaty of Versailles forbade Germany to produce airplanes, Fokker moved his business to the [[Netherlands]]. There his company was responsible for a variety of successful aircraft including the [[Fokker trimotor]], a successful passenger aircraft of the inter-war years. He died in [[New York City|New York]] in 1939. Later authors suggest he was personally charismatic but unscrupulous in business and a controversial character.
+
+==Early life==
+Anthony (Tony) Fokker was born in [[Blitar]]&lt;ref&gt;{{cite web |last=Santosa |first=Eddi |url=http://www.detiknews.com/index.php/detik.read/tahun/2007/bulan/02/tgl/28/time/082020/idnews/747790/idkanal/10 |title=Laporan dari Den Haag: Fokker, dari Kediri Lalu Mendunia |trans-title=Report from The Hague: Fokker, from Kediri Went Worldwide |language=[[Indonesian language|Indonesian]] |website=detiknews.com |date=28 February 2007 |access-date=8 October 2009 |archive-url=https://web.archive.org/web/20130929020444/http://news.detik.com/index.php/detik.read/tahun/2007/bulan/02/tgl/28/time/082020/idnews/747790/idkanal/10 |archive-date=29 September 2013}}&lt;/ref&gt; (then [[Dutch East Indies]], now [[Indonesia]]), to Herman Fokker, a Dutch coffee [[plantation]] owner. Some sources say that he was born in [[Kediri, East Java|Kediri]]. At that time, Blitar was a part of the 'Kediri Residency', a colonial administrative division the capital of which was in Kediri. When Fokker was four, the family returned to the [[Netherlands]] and settled in [[Haarlem]] in order to provide Fokker and his older sister, Toos, with a Dutch upbringing.{{Citation needed|date=April 2018}}
+
+Fokker was not a studious boy and did not complete his high school education.  However, he showed an early interest in mechanics, and preferred making things, playing with model trains and steam engines, and experimenting with model aeroplane designs.{{Citation needed|date=April 2018}}
+
+He devoted considerable effort{{when|date=April 2018}} to the development of a wheel that would not suffer from punctures, basically a wheel with a perimeter formed by a series of metal plates. This idea had been experimented with elsewhere and was already patented.{{Citation needed|date=April 2018}}
+
+==Anthony Fokker moves to Germany ==
+[[File:Fokker in zijn Spin Dutch aviation pioneer Fokker in his first aircraft.jpg|thumb|left|Fokker in ''de Spin'']]
+[[File:Fokker vliegt rond de Grote of Sint-Bavokerk in Haarlem.jpg|thumb|Fokker flies around the [[Grote Kerk, Haarlem|Grote Kerk]] in Haarlem on 1 September 1911]]
+Fokker's first interest in flight stemmed from [[Wilbur Wright]]'s exhibition flights in France in the summer and fall of 1908. In 1910, aged 20, Fokker was sent by his father to [[Germany]] to receive training as an automobile [[mechanic]] at Bingen Technical school, but his interest was in [[flight#Mechanical|flying]], so he transferred to the Erste deutsche Automobil-Fachschule in Mainz.&lt;ref&gt;van Weezepoel, Paul. [http://www.dutch-aviation.nl/index5/index5-3%20Fokker%20biografie.html "Anthony Fokker Biography."] ''dutch-aviation.nl.'' Retrieved: 15 August 2010.&lt;/ref&gt;{{citation needed|date=August 2017|reason=School and company names not mentioned in source}} That same year Fokker built his first aircraft "''[[Fokker Spin|de Spin]]''" ("the Spider"), which was destroyed by his business partner who flew it into a tree.&lt;ref&gt;{{cite web |url=http://www.dutch-aviation.nl/index5/Civil/index5-2%20Spider%201.html |title=Fokker Spin (Spider) 1: A first experiment... |website=dutch-aviation.nl |access-date=27 August 2017}}&lt;/ref&gt; He gained his [[pilot license|flying certificate]] in his second "''Spin''" aircraft, which shortly thereafter was also destroyed by the same business partner, prompting Fokker to end their cooperation.&lt;ref&gt;{{cite web |url=http://www.dutch-aviation.nl/index5/Civil/index5-2%20Spider%202.html |title=Fokker Spin (Spider) 2: Improved version |website=dutch-aviation.nl |access-date=27 August 2017}}&lt;/ref&gt; In his own country, he became a celebrity by flying around the tower of the [[Grote Kerk, Haarlem|Grote or St.-Bavokerk]] in [[Haarlem]] on 1 September 1911,&lt;ref&gt;{{cite news |author=JAC. C. M. Jr. |title=Fokker vliegt over den St. Bavo |trans-title=Fokker flies over the St. Bavo |language=Dutch |url=https://nl.wikisource.org/wiki/Haarlems_Dagblad/Jaargang_29/Nummer_8650/Fokker_vliegt_over_den_St._Bavo |newspaper=[[Haarlems Dagblad|Haarlem's Dagblad]] |location=Haarlem |date=2 September 1911 |page=1 |quote=''Gistermiddag laat is 't gebeurd!''}}&lt;/ref&gt; with the third version of the "''Spin''".&lt;ref&gt;{{cite web |url=http://www.dutch-aviation.nl/index5/Civil/index5-2%20Spider%203.html |title=Fokker Spin (Spider) 3: A first production model |website=dutch-aviation.nl |access-date=27 August 2017}}&lt;/ref&gt; One day earlier, on [[Koninginnedag|Queen's Day]] (31 August, [[Wilhelmina of the Netherlands|Queen Wilhelmina's]] birthday), Fokker had already taken the opportunity to make a couple of demonstration flights in Haarlem in the same aircraft.
+
+In 1912, Fokker moved to [[Johannisthal (Berlin)|Johannisthal]] near [[Berlin]] where he founded his first own company, ''Fokker Aeroplanbau''. In the following years he constructed a variety of airplanes. He relocated his factory to [[Schwerin]] where it was renamed ''Fokker Flugzeugwerke GmbH'', and later shortened to ''[[Fokker]] Werke GmbH''.{{citation needed|date=August 2017|reason=Company names not mentioned in source}}
+
+==Involvement in World War I==
+At the outbreak of [[World War I]] the German government took control of the factory. Fokker remained as director and alleged designer of many aircraft for the Imperial German Army Air Service (''[[Luftstreitkräfte]]''), including the [[Fokker Eindecker fighters|Fokker ''Eindecker'']] and the [[Fokker Dr.I]], the triplane made famous in the hands of aces such as [[Manfred von Richthofen]] (the Red Baron). In all, his company delivered about 700 military planes to the German air force as well as supplying the German navy and Austria-Hungary.
+
+Fokker himself was a skilled pilot, demonstrating his aircraft on many occasions.&lt;ref name="van Wyngarden" /&gt;  On 13 June 1915, Fokker demonstrated the new ''Eindecker'' (monoplane) at [[Stenay]] in the [[5th Army (German Empire)|German 5th Army]] Sector in front of the [[William, German Crown Prince|German Crown Prince]] and other [[Very Important Person|VIPs]]. Fokker worked closely with an accomplished military pilot, [[Otto Parschau]], to bring the Eindecker into military use and on this occasion both men demonstrated the aircraft.  [[Max Immelmann]], later to become a high-scoring [[Flying Ace]] with the ''Eindecker'', commented in a letter written shortly after this event on 25 June 1915 that:&lt;ref name="van Wyngarden" /&gt;
+"Fokker, especially, amazed us with his skill".
+
+Author A.R. Weyl (Fokker: the creative years, Putnam 1965) says that, while Fokker was a talented and bold pilot, his business character was more flawed. He failed to reinvest war profits back into his factory which consequentially struggled to fulfill war contracts as the factory floor was often muddled with prototype development and production taking place at the same time. Fokker distrusted qualified engineers (which he was not) and resented frequent German insistence on carrying out stringent structural tests to ensure prototype aircraft were fit for combat. He could be bad tempered and insensitive as when he verbally abused his dying designer Martin Kreuzer on the evening of 27 June 1916, after Kreuzer had crashed the prototype Fokker D.I. The rudder jammed but Kreuzer was able to give a verbal report on the accident before he died. "Fokker hurried to the scene and shouted reproaches at the mortally injured man". Weyl says this incident was witnessed by [[Reinhold Platz]], who succeeded Kreuzer.
+
+While Weyl's biography paints an unpleasant picture of Fokker as a businessman, he was a popular and charismatic figure with service pilots and could charm even senior officers. This charm enabled him to deal with the first major crisis of his German career when his newly delivered Fokker Dr.I triplanes began to experience sudden fatal accidents in late 1917 and the type was temporarily grounded as too dangerous to fly. The triplanes' top wings frequently ripped off under aerobatic conditions and even [[Lothar von Richthofen]] (brother of Manfred) was lucky to survive one such crash. Fokker was able to prove to the German high command that the basic design was not at fault but the German military inquiry concluded that shoddy workmanship due to poor supervision and quality control at the Fokker factory were to blame. Fokker received a stern warning about future conduct. Unfortunately the same scenario repeated itself again, a few months later, with the introduction of his E.V/D.VIII monoplane in mid-1918. A further high level German inquiry revealed more production and workmanship issues. Weyl asserts that the German authorities were now willing to file criminal charges against Fokker and might have done so, had he not returned to the Netherlands shortly after the end of World War I.
+
+Fokker's own account of the D.VIII places the blame on officious German Air Force inspectors requiring an ill-conceived design change.  "When the first D-8[sic] was submitted to the engineering division to be sandload tested, the wings proved to be sufficiently strong, but the regulations called for a proportionate strength in the rear spar compared to the front spar... Complying with the government's edict, we strengthened the rear spar and started to produce in quantity...&lt;ref&gt;{{cite book|last1=Fokker|first1=Anthony|title=Flying Dutchman: The Life of Anthony Fokker|date=1931|publisher=Henry Holt and Company|location=New York|page=174}}&lt;/ref&gt;"  The D.VIII's immediately ran into trouble with the wing collapsing at high speed.  Fokker recalled the aircraft for further testing, and successfully demonstrated that the reinforced rear spar caused the wings to flex unevenly at speed, increasing the angle of attack at the wing tips and causing the wing to shear apart under the increased loads.  The problem was resolved by restoring the rear spar to its original specifications.&lt;ref&gt;{{cite book|last1=Fokker|first1=Anthony|title=Flying Dutchman: The Life of Anthony Fokker|date=1931|publisher=Henry Holt and Company|location=New York|page=178}}&lt;/ref&gt;
+
+Weyl also discusses claims of Fokker's outright plagiarism or taking sole credit for the work of his staff, first designer Martin Kreuzer and later Reinhold Platz. For example, contemporary German documents for the E.V/D.VIII refer to Fokker as 'the designer' but Weyl and other authors now suggest that Platz was the real design genius behind the Dr.I, D.VII and D.VIII. There may be some truth in this as Platz recalled to Weyl that he attended high level meetings alongside Fokker but was never introduced or referred-to as the designer and often never even spoke. Yet when Fokker fled Germany it was Platz who immediately took over the German works on Fokker's behalf. Fokker later moved Platz to the Netherlands, as head designer, when the post-war German operation collapsed which indicates Platz really did play a greater design role than Fokker admits. Weyl uncharitably suggests that Platz's role at the Fokker D.VIII crisis meetings was to take the blame if anything was wrong and not receive credit. How much of this interpretation is based on the fact that Platz was still alive to tell his side of the story in 1965, and Fokker was not, is unclear.
+
+Another book by Henri Hegener (who knew both Fokker and Platz personally) depicts a rather different story, saying that Platz, while a skilled craftsman (and excellent welder), had received no formal technical training, and that his contributions to the Fokker designs are exaggerated, although Hegener grants that Platz was a good "rule of thumb" designer. Hegener also contradicts the claims that Platz was treated badly by Fokker, at least not financially because Platz's year-end bonuses often exceeded his yearly salary.&lt;ref name="HegenerFOKKER1961"&gt;{{cite book|author1=Henri Hegener|author2=Bruce Robertson (editor)|title=Fokker-the Man and the Aircraft.|year=1961|publisher=Letchworth (UK) / Aero Publishers (US)|page=4}}&lt;/ref&gt;
+
+==The interrupter gear==
+{{main|Synchronization gear}}
+Fokker is often credited with having invented the [[Synchronization gear#Fokker's Synchronizer and other German gears|synchronization device]]&lt;ref name="Flying coffin"&gt;{{cite journal |last1=Guttman|first1=Robert|date=|year=2012 |title=Fokker’s Fabulous Flying Coffin|journal=Aviation History|volume=22|issue=5|page=42|publisher= }}&lt;/ref&gt; which enabled [[World War I]] aircraft to fire through the spinning [[Propeller (aircraft)|propeller]].  His role was certainly significant but there were a number of prior developments before the result was achieved for which Fokker is commonly credited.
+
+The famous [[France|French]] pilot [[Roland Garros (aviator)|Roland Garros]] was shot down on 18 April 1915. His aircraft had been fitted with a deflector device, whereby metal deflector wedges were fitted to the airscrew.  Garros was able to set fire to the airframe before being taken prisoner but the aircraft's gun and the armoured propeller remained intact and came into [[Germany|German]] hands.&lt;ref name="van Wyngarden"&gt;van Wyngarden, G. ''Early German Aces of World War 1.'' Oxford, UK: [[Osprey Publishing]], 2006. {{ISBN|1-84176-997-5}}.&lt;/ref&gt;
+
+This initiated a phase of consideration of the interrupter gear concept in the Imperial German Army Air Service (''[[Luftstreitkräfte]]'').  Fokker was heavily involved in this process but the story of his conception, development and installation of a synchronization device in a period of 48 hours (first found in an authorized biography of Fokker written in 1929) has been shown to be not factual.  The available evidence points to a synchronisation device having been in development with Fokker's company for perhaps six months prior to the capture of Garros' machine.&lt;ref name="van Wyngarden" /&gt; Additionally there were patents filed in France, Germany and Austria-Hungary as far back as 1910 which show a very similar device to that pioneered by Fokker. Author A. J. Weyl suggests that Fokker – or more probably someone on his production team – were aware of these patents. One patentee, Franz Schneider and his employer LVG, later sued Fokker in the German courts and won their case; but Fokker (by now in America) refused to pay up.
+
+However the final result of the development was Fokker's [[pushrod]] control mechanism, ''Gestängesteuerung'', which allowed the aircraft's forward-firing [[machine gun]] to fire only when the propeller was out of the line of fire. As incorporated into the famous Fokker ''Eindecker'', its use directly led to a phase of German air superiority known as the [[Fokker Scourge]].&lt;ref name="Flying coffin" /&gt;  Despite its shock effect on the enemy, the first Fokker interrupters remained unreliable and were prone to failures. Both [[Oswald Boelcke]] and Max Immelmann survived failures which resulted in propellers being shot off and even engines pulled out of their mountings due to the engine becoming unbalanced by the loss of the propeller. Immelmann's eventual death in combat has also been attributed to interrupter gear failure as the aircraft was seen to break up in mid-air while engaged against a [[Royal Flying Corps]] [[Royal Aircraft Factory F.E.2|F.E.2b]].
+
+== Other works on aircraft armament ==
+Fokker and his armament team, including [[Heinrich Lübbe|Lübbe]] and Leimberger, also worked on lesser known projects, including a multi-barrelled machine gun, known as the [[Fokker-Leimberger]].&lt;ref name="flight"&gt;[http://www.flightglobal.com/pdfarchive/view/1957/1957%20-%200312.html "Motor Guns-A flashback to 1914–18"], ''Flight'', 8 March 1957, pp. 313–314&lt;/ref&gt; Although superficially similar to a [[Gatling]], the action of the Fokker-Leimberger was substantially different. Problems with the gun, especially with ruptured cases, prevented its adoption into production during the war.&lt;ref name="Williams2005"&gt;Anthony G Williams (8 November 2005), [http://www.quarry.nildram.co.uk/Split%20Breech.htm SPLIT BREECH GUNS: THE NUTCRACKER AND THE 40MM MK 18] {{webarchive|url=https://web.archive.org/web/20070614202850/http://www.quarry.nildram.co.uk/Split%20Breech.htm |date=14 June 2007 }}. quarry.nildram.co.uk&lt;/ref&gt; After moving to the US, Fokker continued to work on the design, but he was ultimately unsuccessful—properly sealing the rotary split-breech was apparently very difficult. A single surviving prototype is known today at the [[Kentucky Military Treasures]].&lt;ref name="moments"&gt;{{cite web|title=Fokker Split Breech Rotary Machine Gun, ca. 1930| url=http://www.lrc.ky.gov/record/Moments10RS/web/KMT%20legislative%20moment%2040.pdf|publisher = lrc.ky.gov / Kentucky Historical Society|quote="This test model of a rotary machine gun built for Dutch designer Anthony Fokker proved unsuccessful because of its inability to seal breech cylinders. Although an incomplete specimen, it is the only known extant example of the Fokker Split Breech Rotary Machine Gun. […] Due to the unsatisfactory test results of this prototype, the project was abandoned. Other prototypes were destroyed. Donated by [[Val Forgett]], 1977.08.01}}&lt;/ref&gt;&lt;ref&gt;[http://kyhistory.pastperfect-online.com/35577cgi/mweb.exe?request=record&amp;id=B54DA4F4-8851-4F4D-ADC2-453181649430&amp;type=101 Gun, Machine] {{webarchive|url=https://web.archive.org/web/20140407093738/http://kyhistory.pastperfect-online.com/35577cgi/mweb.exe?request=record&amp;id=B54DA4F4-8851-4F4D-ADC2-453181649430&amp;type=101 |date=7 April 2014 }}. Kentucky Historical Society&lt;/ref&gt;
+
+==Return to the Netherlands==
+[[File:Anthony Fokker 1934b.jpg|thumb|Fokker in the Netherlands in 1934]]
+After the war's end, the terms of the [[Treaty of Versailles]] forbade Germany to build any aircraft or [[aircraft engine]]s. The treaty singled out the Fokker D.VII for destruction or confiscation, the only aircraft to be named in the treaty. In 1919 Fokker returned to the Netherlands and started a new aircraft company, the ''Nederlandse Vliegtuigenfabriek'' (Dutch Aircraft Factory), predecessor to the [[Fokker]] Aircraft Company. Despite the strict disarmament conditions in the Treaty, Fokker did not return home empty-handed: he managed to smuggle six goods trains' worth of [[Fokker D.VII|D.VII]] and [[Fokker C.I|C.I]] military planes and spare parts out of Germany across the German-Dutch border. Author Weyl says that Fokker used 350 railway wagons and made sure that each train was too long to fit into the railway sidings where trains were normally checked for contraband. Weyl quotes Fokker himself as saying that he paid 20,000 Dutch guilders in bribes. The trains included 220 aeroplanes, more than 400 aero engines and much other material. This initial stock enabled him to quickly set up shop, but his focus shifted from military to civil aircraft such as the very successful [[Fokker F.VII]] [[trimotor]].
+
+Fokker's admitted bribery has contributed to his reputation for sharp business practices. Weyl also points out that – in addition to possible criminal charges for the Fokker D.VIII fatal crashes – Fokker also failed to pay taxes to German authorities and actually owed more than 14 million marks.  Fokker's autobiography tells a similar story, but focuses on the rampant corruption, hyper-inflation, economic meltdown, and violent revolutionary forces of the pre-Weimar days.  According to Fokker's account, as WWI progressed, the German High Command became increasingly brazen, even forcing Fokker into German citizenship against his will.  Fokker describes his escape from Germany as a harrowing tale in which he protected as many workers as possible and escaped with less than a quarter of his net worth.  He takes pains to rebuff the claim that he left the country owing any taxes.&lt;ref&gt;{{cite book|last1=Fokker|first1=Anthony|title=Flying Dutchman: The Life of Anthony Fokker|date=1931|publisher=Henry Holt and Company|location=New York|pages=221–242}}&lt;/ref&gt;
+
+==Personal life==
+On 25 March 1919, Fokker married Sophie Marie Elisabeth von Morgenland in [[Haarlem]]. This marriage ended in divorce in 1923. In 1927, he married Canadian Violet Eastman in [[New York City]]. On 8 February 1929, she died in a fall from their hotel suite window. The original police report said her death was a suicide, but this was later changed to 'vertigo victim' at the request of her husband's staff. On the subject of his marriages, Fokker wrote, "I have always understood airplanes much better than women. I had more love affairs in my life, and they ended just like the first one, really, because I thought there was nothing that could be more important than my airplanes... I have now learned, by bitter experience, that one must give a little too; in love one has to use one's brain just as much as in business, and perhaps even more".&lt;ref name="HegenerFOKKER1961/2"&gt;{{cite book|author1=Henri Hegener|author2=Bruce Robertson (editor)|title=Fokker-the Man and the Aircraft.|year=1961|publisher=Letchworth (UK) / Aero Publishers (US)|page=111}}&lt;/ref&gt;
+
+==Move to the US and death==
+[[File:Anthony.Fokker.grave.jpg|thumb|Fokker's grave in Driehuis]]
+In or about 1926 or 1927, Fokker moved to the [[United States]]. Here he established the North American branch of his company, the [[Atlantic Aircraft]] Corporation.
+
+He was the maker of the [[Fokker F-VII]] airplane ''Josephine Ford'' (named after the grand daughter of automobile magnate [[Henry Ford]]), which Lieutenant Commander [[Richard E. Byrd]] and Machinist [[Floyd Bennett]] flew over or near the [[North Pole]] on 9 May 1926.
+
+In 1931, Fokker sold his American aircraft plants to [[General Motors]], whereupon they became the company's General Aviation division.
+
+Fokker died at age 49 in New York in 1939 from [[meningitis|pneumococcal meningitis]], after a three-week-long illness.&lt;ref&gt;{{cite news |title=A.H.G. Fokker Dies. Airplane Designer. Pioneer Manufacturer Victim of Rare Disease After 'a Most Gallant Fight'. Made World War Craft. Synchronized Propeller With Machine Gun to Permit Firing Between Blades |url=https://www.nytimes.com/1928/06/05/archives/has-international-license-miss-earhart-is-the-first-woman-to-obtain.html |quote=Anthony H.G. Fokker, pioneer airplane designer, manufacturer and promoter, died yesterday morning at Murray Hill Hospital, where he had been ill of pneumococcous meningitis for the last three weeks. He was 49 years old. A pioneer in aviation, who took up flying in 1911, he first attracted attention .... Holding FAI license No. 88, issued May 16, 1911, he continued to fly  … |newspaper=[[The New York Times]] |date=24 December 1939 |accessdate=1 October 2012 }}&lt;/ref&gt; In 1940, his ashes were brought to Westerveld Cemetery in [[Driehuis]], [[North Holland]], where they were buried in the family grave.
+
+In 1970, Fokker was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==Popular culture==
+Fokker's [[nickname]] was ''The [[Flying Dutchman]]''.&lt;ref&gt;Fokker, Anthony and Bruce Gould. ''Flying Dutchman: The Life of Anthony Fokker.'' London: George Routledge, 1931.&lt;/ref&gt; In popular media, [[Hurd Hatfield]] portrayed him in the 1971 film ''[[Von Richthofen and Brown]]'' and the character [[Roy Fokker]] from the animated series [[Macross]] was named in honor of Anthony Fokker. Fokker is portrayed by [[Craig Kelly (actor)|Craig Kelly]] in the ''[[Young Indiana Jones Chronicles]]: Attack of the Hawkmen''.
+
+==See also==
+* [[Jan Hilgers]]
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{refbegin}}
+* Boyne, Walter J. ''The Smithsonian Book of Flight for Young People.'' Washington, DC: Smithsonian Institution, 1988. {{ISBN|0-689-31422-1}}.
+* Dierikx, Marc. ''Fokker: A Transatlantic Biography.'' Washington, DC: Smithsonian Institution Press, 1997. {{ISBN|1-56098-735-9}}.
+* Fokker, Anthony and Bruce Gould. ''Flying Dutchman: The Life of Anthony Fokker.'' London: George Routledge, 1931.
+* Hegener, Henri; Bruce Robinson (ed.) ''Fokker – The Man and the Aircraft.'' Lethchworth: Harleyford, 1961.
+* Molson, K.M. ''Pioneering in Canadian Air Transport.''  Winnipeg: James Richardson &amp; Sons, Ltd., 1974. {{ISBN|0-919212-39-5}}.
+* Nevin, David. ''The Pathfinders'' (The Epic of Flight Series). Alexandria, Virginia: Time-Life Books, 1980. {{ISBN|0-8094-3256-0}}.
+* Postma, Thijs. ''Fokker: Aircraft Builders to the World.''  London: Jane's, 1979. {{ISBN|0-7106-0059-3}}.
+* Weyl, A.R. ''Fokker: The Creative Years.'' London, Putnam publications, 1965
+
+{{refend}}
+
+==External links==
+{{Commons category|Anthony Fokker}}
+* [https://books.google.com/books?id=ZigDAAAAMBAJ&amp;pg=PA29 "Tony Fokker Wizard Of Flight", ''Popular Science,'' May 1931]
+* [https://books.google.com/books?id=9CcDAAAAMBAJ&amp;pg=PA24 "Tony Fokker And The World War", ''Popular Science,'' June 1931]
+* [https://books.google.com/books?id=XygDAAAAMBAJ&amp;pg=PA38 "Tony Fokker Captures America", ''Popular Science,'' July 1931]
+* [http://mirc.sc.edu/islandora/object/usc%3A39210  Anthony Fokker] Richard Byrd and others in restored Fox Movietone sound newsreel during preparations for Fokker [[America (aircraft)|America]] flight. Recorded May 19, 1927 the day before Lindbergh's famous Atlantic flight (courtesy Univ. of South Carolina)
+* {{PM20|FID=pe/005356}}
+
+{{s-start}}
+{{s-ach}}
+{{s-bef|before=[[George Bernard Shaw]]}}
+{{s-ttl|title=[[List of People on the Cover of Time Magazine: 1920s|Cover of Time Magazine]]
+| years=31 December 1923}}
+{{s-aft|after=[[William G. McAdoo]]}}
+{{s-end}}
+{{KLM Royal Dutch Airlines}}
+{{AHOFONJ}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fokker, Anthony}}
+[[Category:1890 births]]
+[[Category:1939 deaths]]
+[[Category:Aviation pioneers]]
+[[Category:Aviation inventors]]
+[[Category:Dutch aviators]]
+[[Category:Dutch chief executives in the airline industry]]
+[[Category:Dutch businesspeople]]
+[[Category:Dutch corporate directors]]
+[[Category:Dutch company founders]]
+[[Category:Dutch investors]]
+[[Category:Dutch aerospace engineers]]
+[[Category:Dutch expatriates in the United States]]
+[[Category:Dutch people of World War I]]
+[[Category:Members of the Early Birds of Aviation]]
+[[Category:Fokker]]
+[[Category:Infectious disease deaths in New York (state)]]
+[[Category:People from Blitar]]
+[[Category:Deaths from pneumonia]]</text>
+      <sha1>j4pn0qu4c9gb4jx6xdt8flqudsoesw0</sha1>
+    </revision>
+  </page>
+</mediawiki>

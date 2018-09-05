@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>João Ribeiro de Barros</title>
+    <ns>0</ns>
+    <id>20174850</id>
+    <revision>
+      <id>837289771</id>
+      <parentid>776538226</parentid>
+      <timestamp>2018-04-19T22:14:53Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (1 source from WD), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2216">{{about|the Brazilian aviator|the Portuguese historian|João de Barros}}
+{{unreferenced|date=October 2015}}
+{{Expand Portuguese|João Ribeiro de Barros|date=January 2015}}
+{{Portuguese name|Ribeiro|de Barros}} 
+{{Infobox person
+| name = João Ribeiro de Barros
+| image = JoaoRibeirodeBarros.jpg
+| birth_date = {{birth date|1900|04|04}}
+| birth_place = [[Jaú]], [[São Paulo]], Brazil
+| death_date = {{death date and age|1947|07|20|1900|04|04}}
+| death_place = Jaú, São Paulo, Brazil 
+| occupation = 
+}}
+
+'''João Ribeiro de Barros''' (4 April 1900 &amp;ndash; 20 July 1947) was the first [[aviator]] of the three Americas to make an air crossing from [[Europe]] to America, on April 28, 1927, crossing the Atlantic Ocean with the [[Savoia-Marchetti S.55]] hydroplane ''Jahú''. On his flight, he had the company of three others: João Negrão (co-pilot), Newton Braga (navigator) and Vasco Cinquini (mechanic). The four [[aviator]]s departed from [[Genoa]], in [[Italy]], to [[Santo Amaro (district of São Paulo)|Santo Amaro]] (São Paulo), with stopovers in [[Spain]], [[Gibraltar]], [[Colonial Cape Verde|Cabo Verde]] and [[Fernando de Noronha]], in the Brazilian territory.
+
+==History==
+
+De Barros was a student of ''Ateneu Jauense'' and completed secondary school at the Instituto de Ciências e Letras of [[São Paulo]]. He was considered a good student. He ingressed in Faculdade do Largo de São Francisco (USP today).
+
+In 1919 he abandoned school and decided to study mechanical engineering in the US. On February 21, 1923 he obtained the No.88 international brevet of Aviator International League in [[France]]. He then started his pilot career in France and obtained more training in air navigation and as a pilot in the US, and air acrobatics in [[Germany]].
+
+In 1926, he started a project: to realize a "raid", from Italy, on board a hydroplane, to Brazil, in an independent flight without the use of ships.
+
+==See also==
+* [[First aerial crossing of the South Atlantic]]
+* [[Sarmento de Beires]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barros, Joao Ribeiro de}}
+[[Category:1900 births]]
+[[Category:1947 deaths]]
+[[Category:Brazilian aviators]]
+[[Category:Transatlantic flight]]</text>
+      <sha1>cfsk1f7m0bv0pvk90qkrnsfa0ou3c8k</sha1>
+    </revision>
+  </page>
+</mediawiki>

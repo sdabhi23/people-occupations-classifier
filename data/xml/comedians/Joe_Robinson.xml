@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joe Robinson (radio personality)</title>
+    <ns>0</ns>
+    <id>12931160</id>
+    <revision>
+      <id>807329799</id>
+      <parentid>772340655</parentid>
+      <timestamp>2017-10-27T08:28:55Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v470)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3909">{{Infobox person
+| name        = Joe Robinson
+| image       = Joe ontheair.jpg
+| caption     = Joe on the air
+| birthname   = Joseph Mitchell Robinson
+| birth_date  = December 2, 1968
+| birth_place = Silver Spring, Maryland
+| parents     = Ralph, Kerry
+| children    = Joseph, Jr&lt;br&gt; James
+| known_for   =
+| occupation  = [[Radio personality]], [[Comedian]]
+}}
+[[Image:JOE ROBINSON-WIKI2.JPG|thumb|Joe Robinson in 1989.]]
+'''Joe Robinson''' (born December 2, 1968) is an American [[comedian]] and former radio host on "Irresponsible Radio with Theo &amp; Joe"&lt;ref&gt;98 Rock WIYY Baltimore archived jock pages&lt;/ref&gt; that was broadcast 7PM-Midnight on [[WIYY]], 98Rock (97.9 FM) in [[Baltimore, Maryland]], from September 2007-July 2008.
+
+A veteran of Baltimore/[[Washington, D.C.|DC]] comedy, Joe has opened for [[DC Benny]], [[Tom Rhodes]] and [[Dave Attell]].  After placing in both the 2006 "DC Improv Showcase" and "Funniest Person in Baltimore" competitions, Joe most recently was the winner of the Arlington Drafthouse Comedy Competition.
+
+He got his start in radio on XM Comedy and as a regular on [[WIYY|98 Rock's]] [[Mickey and Amelia|Mickey, Amelia &amp; Spiegel Morning Show]].  In the 2007-2008 [[NFL]] season he was also the co-host on 98 Rock's "Ravens' [http://www.98online.com/show/last-call-with-joe-robinson/ Last Call]" post-game show. He returned as the host of that show in 2015.
+
+Joe can currently be heard at a regular guest and substitute host on the [[Justin, Scott, and Speigel|98 Rock Morning show]]. In 2011 he worked briefly on 1090 AM WBAL as a regular panelist on the station's "Week in Review" program as well as one of the rotating hosts of "1090 at Night".  He also co-hosts a comedy-oriented show (which more closely resembles his 98 Rock Show) live on the internet every Monday at 7:30pm with comedian [http://robmaher.com/ Rob Maher].
+
+In 2016, Joe received national attention when he was critical of [[Tom_Arnold_(actor)]] following a [[Baltimore]] comedy show, where Robinson was his opening act. Arnold "returned fire" on Twitter after hearing the discussion on the [[Justin,_Scott,_and_Spiegel]] Morning Show, where Robinson detailed the actor's behavior throughout the evening.
+
+==References==
+{{Reflist}}
+*[http://theinterrobang.com/tom-arnold-fights-opener-baltimore Tom Arnold Goes on 55 Tweet Rant]
+*[http://www.baltimoresun.com/features/baltimore-insider-blog/bal-baltimore-comedian-joe-robinson-at-odds-with-comedian-tom-arnold-htmlstory.html Baltimore Comedian at odds with Tom Arnold]
+*[http://www.fmqb.com/Article.asp?id=459981 FMQB]
+*[http://cclamp.radioandrecords.com/RRWebSite/Search.aspx?search=Joe%20Robinson Radio&amp;Record]
+*[http://www.98online.com/show/last-call-with-joe-robinson Ravens Last Call Show]
+*[http://www.baltimoresun.com/entertainment/music/bal-artslife-comedy,0,7773999.story?page=3&amp;coll=bal-music-utility/ Baltimore Sun - "Just for Laughs"]
+*[http://www.baltimoresun.com/entertainment/music/bal-artslife-comedy-quotes,0,5615960.story?coll=bal-music-utility&amp;?track=sto-relcon/ Baltimore Sun - "In their words - What the comics have to say"]
+*[https://www.washingtonpost.com/wp-dyn/content/article/2006/07/20/AR2006072001694_4.html?sub=AR/ Washington Post - "on Stage"]
+*[http://upcoming.yahoo.com/event/235733/DC/Washington-DC/HBO39s-quotLucky-21quot-Comedy-Festival-Contest/DC-Improv-Comedy-Club/ HBO's Lucky 21 Comedy Festival]
+*{{YouTube|uoAxcUW1o2U|Arlington Drafthouse Comedy Competition}}
+*[http://www.xmfan.com/guide.php?q=Joe+Robinson&amp;mode=artist&amp;sort=Channel XM Comedy]
+*[http://www.robandjoe.com/ The Rob and Joe Show]
+
+==External links==
+* [http://www.joerobinsoncomedy.com/ Official site]
+
+==External links==
+* [http://www.robandjoeshow.com/ Official site]
+
+{{DEFAULTSORT:Robinson, Joe}}
+[[Category:American comedians]]
+[[Category:American radio personalities]]
+[[Category:1968 births]]
+[[Category:Living people]]
+
+
+{{US-radio-bio-stub}}</text>
+      <sha1>5zruuskhr424eye0fdf1qvfmsa8y5pd</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lefred Thouron</title>
+    <ns>0</ns>
+    <id>16845773</id>
+    <revision>
+      <id>722294049</id>
+      <parentid>655201812</parentid>
+      <timestamp>2016-05-27T04:46:23Z</timestamp>
+      <contributor>
+        <username>Lockley</username>
+        <id>207616</id>
+      </contributor>
+      <minor/>
+      <comment>remove deprecated persondata</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2341">'''Lefred Thouron''' is a cartoonist and writer born in [[Nancy, France|Nancy]], [[France]] in 1961.
+
+==Biography==
+His first cartoons were published in 1984 in ''[[Hara-Kiri (magazine)|Hara-Kiri]]''. Following, his work will be published in the weekly news magazine ''L'événement du Jeudi'', the daily ''Libération'', ''7 à Paris'', ''[[La Grosse Bertha]]'' and ''[[Charlie Hebdo]]'' (which he left in 1996 following the «Patrick Font » controversy). Having authored 20 or so books, Lefred currently works for the icon of French irreverent political press, ''[[Le Canard Enchaîné]]'', where he is one of the chief contributors with Pétillon and [[Cabu]]; ''l'Équipe magazine'' where he publishes a weekly page that covers sports news; ''[[Fluide Glacial]]'' where he contributes humorous illustrations, cartoons, articles and photo-stories.
+
+As a writer, Lefred Thouron has collaborated with Yan Lindingre on « Les carottes sont crues », a spoof on the "organic" craze, has brought back to life "The Adventures of Super-Dupont" with [[Gotlib]] and [[Solé]] in the magazine [[Fluide Glacial]], and above all, has worked with [[Diego Aranega]] to produce « Casiers Judiciaires », slices of life in a provincial courthouse, recently published as a collection by [[Dargaud]].
+
+==Bibliography==
+
+===Press===
+Le Canard Enchaîné, L’Équipe Magazine, Fluide Glacial, La Décroissance, CQFD, Libération, etc.
+
+===Books and collections===
+
+====Dargaud====
+
+*Casiers Judiciaires (artwork by Diego Aranega)
+
+====Glénat====
+
+*Œuvres complètes, tome 8 (houit)
+*Manger est bon
+*Nos animaux les bêtes
+*Étons modernes
+
+====Fluide Glacial====
+
+*Soyons sports dans l’effort
+*Le sport bourse pleine
+*Je suis gland
+*Ich bin vraiiiment gland
+*Superdupont
+
+====Hors Collection====
+
+*Ana-Gangné
+
+====Canal+ éditions====
+
+*600 blagues de Sport (with Eric Bayle)
+
+====Bikini====
+
+*Les 5000 meilleurs dessins de Lefred Thouron
+*Gros Congé
+*Toi &amp; Moi
+*Poulet pur porc
+
+====Les Requins Marteaux====
+
+*Les carottes sont crues (artwork by Lindingre)
+
+====Verticales====
+
+*Aimémé Jacquet, droit au but par la diagonale
+
+====Albin Michel====
+
+*Bernadette, priez pour nous
+
+====Editions du Layeur====
+
+*Et puis c’est comme ça
+
+{{DEFAULTSORT:Thouron, Lefred}}
+[[Category:French cartoonists]]
+[[Category:Living people]]
+
+
+{{cartoonist-stub}}</text>
+      <sha1>h8rvp61v012kgxn82a8df0ri9l0zcaa</sha1>
+    </revision>
+  </page>
+</mediawiki>

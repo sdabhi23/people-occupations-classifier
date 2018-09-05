@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Markus Maria Profitlich</title>
+    <ns>0</ns>
+    <id>4464885</id>
+    <revision>
+      <id>707255067</id>
+      <parentid>660224911</parentid>
+      <timestamp>2016-02-27T19:56:05Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Markus Maria Profitlich|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2013">{{BLP sources|date=December 2010}}
+'''Markus Maria Profitlich''' (born March 25, 1960 in [[Bonn]]) is a [[Germany|German]] [[comedian]] and [[actor]] who was a cast member of ''[[Die Wochenshow]]'' between 1999 and 2001. He now hosts and performs his own show, ''[[Mensch Markus]]''.
+
+His most famous role on ''Die Wochenshow'' was the [[Erklärbär]] (Explaining Bear). Other roles included the shy reporter Peter Wuttke, Mawegda Gandhi and Baby Markus.
+
+Furthermore, Profitlich is the producer of the programme ''Weibsbilder'', as well as ''Deutschland ist schön'' (Germany is nice).
+The name ''Profitlich'' is not a [[stage name]], but is probably derived from "a person who acts profitably" (source: [[Jürgen Udolph|Udolph, Jürgen]]: ''Professor Udolphs Buch der Namen'', Munich, 2005, P. 78-81).
+
+==Private life==
+Markus Maria Profitlich is married to the German actress Ingrid Einfeldt, his stage partner in ''Mensch Markus''. His daughter was born in the beginning of 2005.
+
+Profitlich is member of the [[Social Democratic Party of Germany]] and a confessing Christian.&lt;ref&gt;http://www.jesus.ch/index.php/D/article/548-Promis/35994-Markus_Maria_Profitlich:_Jesus_brachte_Ordnung_in_mein_Leben/&lt;/ref&gt; In his youth, he visited the [[YMCA]] in Siegburg (near [[Bonn]]), where he led Christian holiday courses for children. He is now member of a free Protestant parish.
+
+==Awards==
+*2002 [[German Comedy Awards]]: ''Best Comedian'' for ''Mensch Markus''
+*2004 German Comedy Awards: ''Best Sketch Show'' for ''Mensch Markus''
+*2006 German Comedy Awards: ''Best Sketch Comedy'' for ''Mensch Markus''
+
+==References==
+{{Reflist}}
+==External links==
+* [http://www.profitlich.de/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Profitlich, Markus Maria}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:People from Bonn]]
+[[Category:German Protestants]]
+[[Category:German male television actors]]
+[[Category:German male comedians]]
+[[Category:Social Democratic Party of Germany politicians]]</text>
+      <sha1>bvrzqwfd0aogvujhoaelbrjpz5vsl5j</sha1>
+    </revision>
+  </page>
+</mediawiki>

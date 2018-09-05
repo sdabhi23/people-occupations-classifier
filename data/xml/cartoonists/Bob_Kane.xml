@@ -1,0 +1,196 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bob Kane</title>
+    <ns>0</ns>
+    <id>548725</id>
+    <revision>
+      <id>847578433</id>
+      <parentid>841047157</parentid>
+      <timestamp>2018-06-26T10:36:46Z</timestamp>
+      <contributor>
+        <ip>180.111.35.213</ip>
+      </contributor>
+      <comment>not a lot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26274">{{Infobox comics creator
+| image         = Bob Kane 1966 photo.jpg
+| caption       = Kane posing with a [[Batmobile]] painting in 1966
+| birth_name    = Robert Kahn
+| birth_place   = [[New York City]], [[New York (state)|New York]], U.S.
+| death_place   = [[Los Angeles]], [[California]], U.S.
+| nationality   = American
+| write         = y
+| pencil        = y
+| notable works = ''[[Batman (comic book)|Batman]]''&lt;br&gt;''[[Detective Comics]]''
+| awards        = 
+| subcat        = American
+| birth_date={{Birth date|1915|10|24}}
+| death_date={{Death date and age|1998|11|3|1915|10|24}}
+| spouse=Beverly (m. in 1940s; divorced 1957)&lt;br/&gt;Elizabeth Sanders (1987-1998; his death)
+}}
+
+'''Robert Kane''', known professionally as '''Bob Kane''' (born '''Robert Kahn''' {{IPAc-en|k|ɑː|n}}; October 24, 1915 – November 3, 1998), was an American comic book writer and artist who co-created, with [[Bill Finger]], the [[DC Comics]] character [[Batman]]. He was inducted into the [[comic book]] industry's [[Jack Kirby Hall of Fame]] in 1994 and into the [[Eisner Award|Will Eisner Comic Book Hall of Fame]] in 1996.
+
+==Early life and work==
+Robert Kahn was born in [[New York City]], [[New York (state)|New York]].&lt;ref name=nytobit /&gt; His parents, Augusta and Herman Kahn, an engraver,&lt;ref&gt;{{cite book|first=Salvatore| last=Mondello | last2=Carnes | first2=Mark C., ed. | url=https://books.google.com/books?id=wZczV8ZxgL4C&amp;pg=PA302 |title=American National Biography: Supplement 2| publisher= [[Oxford University Press]] | year= 2005|accessdate=December 30, 2012| isbn=978-0195222029}}&lt;/ref&gt; were of [[Eastern European Jews|Eastern European Jewish]] descent.&lt;ref&gt;{{cite news|url=http://www.independent.ie/entertainment/books/holy-sunflowers-how-batman-drove-van-gogh-out-of-town-2105626.html |title=Holy sunflowers! How Batman drove Van Gogh out of town|work=[[Irish Independent]]|date= 20 March 2010}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|last=Bloom|first=Nate|title=Jewish Stars |publisher=[[Cleveland Jewish News]]|date=July 18, 2008 |url=https://www.clevelandjewishnews.com/archives/jewish-stars/article_86beaefa-cc2e-5c8d-81ce-f5d56fd4176a.html|accessdate=}}&lt;/ref&gt; A [[high school]] friend of fellow cartoonist and future [[Spirit (comics)|Spirit]] creator [[Will Eisner]],&lt;ref name="UUaOV"&gt;{{cite book | last=Weinstein| first=Simcha| authorlink=Simcha Weinstein | year=2006 | title=Up, Up, and Oy Vey! | edition=1st | publisher=Leviathan Press | isbn=978-1-881927-32-7 }}&lt;/ref&gt; Robert Kahn graduated from [[DeWitt Clinton High School]] and then legally changed his name to '''Robert Kane'''.&lt;ref name="me"&gt;{{cite book |first=Bob |last=Kane |author2=Tom Andrae |title=Batman &amp; Me |publisher=Eclipse Books |location=Forestville, California |year=1989 |isbn=1-56060-017-9 |page=44}}&lt;/ref&gt; He studied art at [[Cooper Union]] before "joining the [[Max Fleischer]] [[Fleischer Studios|Studio]] as a trainee animator in the year of 1934".&lt;ref&gt;Chris Ryall, Scott Tipton, ''Comic Books 101: The History, Methods and Madness'' (Impact Books, 2009). {{ISBN|978-1-60061-187-2}}&lt;/ref&gt;
+
+==Comics==
+He entered the comics field two years later, in 1936, freelancing original material to editor [[Jerry Iger]]'s [[comic book]] ''Wow, What A Magazine!'', including his first pencil and ink work on the serial ''Hiram Hick''.&lt;ref name="Joe Desris 1994 p. 223"&gt;{{cite book | first =Joe | last= Desris | chapter = Biography | title =Batman Archives, Volume 3 | publisher = [[DC Comics]] | year= 1994 |page= 223 | isbn = 1-56389-099-2}}&lt;/ref&gt; The following year, Kane began to work at Iger's subsequent studio, [[Eisner &amp; Iger]], which was one of the first comic book "packagers" that produced comics on demand for publishers entering the new [[mass media|medium]] during its late-1930s and 1940s [[Golden Age of Comic Books|Golden Age]]. Among his work there was the [[funny animal]] feature "Peter Pupp" — which belied its look with overtones of "mystery and menace"&lt;ref name="Joe Desris 1994 p. 223" /&gt; — published in the U.K. comic magazine ''Wags'' and reprinted in [[Fiction House]]'s ''[[Jumbo Comics]]''. Kane also produced work through Eisner &amp; Iger for two of the companies that would later merge to form DC Comics, including the humor features "Ginger Snap" in ''[[More Fun Comics]]'', "Oscar the Gumshoe" for ''[[Detective Comics]]'', and "Professor Doolittle" for ''[[Adventure Comics]]''. For that last title he went on to do his first adventure strip, "Rusty and his Pals".
+
+===Batman===
+[[File:Detective Comics 27.jpg|thumb|180px|''Detective Comics'' #27 (May 1939). The first appearance of Batman. Art by Bob Kane.]]
+In early 1939, DC's success with the seminal superhero [[Superman]] in ''[[Action Comics]]'' prompted editors to scramble for more such heroes. In response, Bob Kane conceived "[[Batman|the Bat-Man]]."&lt;ref&gt;[[Les Daniels|Daniels, Les]]. ''Batman: The Complete History''. Chronicle Books, 1999. {{ISBN|0-8118-4232-0}}, pg. 18.&lt;/ref&gt; Kane said his influences for the character included actor [[Douglas Fairbanks]]' film portrayal of the [[swashbuckler]] [[Zorro]]; [[Leonardo da Vinci]]'s diagram of the [[ornithopter]], a flying machine with huge bat-like wings; and the 1930 film ''[[The Bat (1926 film)#Remakes|The Bat Whispers]]'', based on [[Mary Rinehart]]'s mystery novel ''[[The Circular Staircase]]'' (1908).&lt;ref&gt;Daniels, page 20&lt;/ref&gt;
+
+[[Bill Finger]] joined Bob Kane's nascent studio in 1938. An aspiring writer and part-time shoe salesperson, he had met Kane at a party, and Kane later offered him a job [[ghost writer|ghost writing]] the strips ''Rusty'' and ''Clip Carson''.&lt;ref&gt;Walker, Brian. ''The Comics Since 1945'' (Harry N. Abrams), pp. 10-12&lt;/ref&gt;&lt;ref name="jim"&gt;[[Jim Steranko|Steranko, Jim]]. ''The Steranko History of Comics'' (Supergraphics, Reading, Pa., 1970; {{ISBN|0-517-50188-0}}), p. 44&lt;/ref&gt; He recalled that Kane
+{{blockquote|...had an idea for a character called 'Batman', and he'd like me to see the drawings. I went over to Kane's, and he had drawn a character who looked very much like Superman with kind of ... reddish tights, I believe, with boots ... no gloves, no gauntlets ... with a small domino mask, swinging on a rope. He had two stiff wings that were sticking out, looking like bat wings. And under it was a big sign ... BATMAN.&lt;ref name="jim" /&gt;}}
+
+Finger said he offered such suggestions as giving the character a cowl and scalloped cape instead of wings; adding gloves; leaving the mask's eyeholes blank to connote mystery; and removing the bright red sections of the original costume, suggesting instead a gray-and-black color scheme. Finger additionally said&lt;ref&gt;Finger in Kane, Andrae, p. 41&lt;/ref&gt; his suggestions were influenced by [[Lee Falk]]'s ''[[The Phantom]]'', a [[Print syndication|syndicated]] [[newspaper]] [[comic strip]] character with which Kane was familiar as well. Finger, who said he also devised the character's civilian name, [[Bruce Wayne]], wrote the first Batman story, while Kane provided art.  Kane, who had already submitted the proposal for Batman at DC and held a contract, is the only person given an official company credit for Batman's creation. Comics historian [[Ron Goulart]], in ''Comic Book Encyclopedia'', refers to Batman as the "creation of artist Bob Kane and writer Bill Finger".&lt;ref&gt;[[Ron Goulart|Goulart, Ron]], ''Comic Book Encyclopedia'' ([[HarperCollins|Harper Entertainment]], New York, 2004) {{ISBN|0-06-053816-3}}.&lt;/ref&gt;
+
+According to Kane, "Bill Finger was a contributing force on Batman right from the beginning. He wrote most of the great stories and was influential in setting the style and genre other writers would emulate ... I made Batman a superhero-vigilante when I first created him. Bill turned him into a scientific detective.&lt;ref&gt;Kane, Andrae, p. 43&lt;/ref&gt;
+
+The character debuted in ''Detective Comics'' #27 (May 1939) and proved a breakout hit. Within a year, Kane hired art assistants [[Jerry Robinson]] (initially as an [[inker]]) and [[George Roussos]] (backgrounds artist and [[letterer]]). Though Robinson and Roussos worked out of Kane's art studio in ''[[The New York Times]]'' building, Kane himself did all his drawing at home.&lt;ref&gt;{{cite news | author = Gruenwald, Mark | authorlink = Mark Gruenwald | date = April 1983 | title = George Roussos | work = [[Comics Interview]] | issue = 2 | pages = 45–51 | publisher = [[Fictioneer Books]]}}&lt;/ref&gt; Shortly afterward, when DC wanted more Batman stories than Kane's studio could deliver, the company assigned [[Dick Sprang]] and other in-house pencilers as "[[ghostwriter|ghost artists]]", drawing uncredited under Kane's supervision. Future ''Justice League'' writer [[Gardner Fox]] wrote some early scripts, including the two-part story "The Monk" that introduced some of The Batman's first "Bat-" equipment.&lt;ref&gt;Kane, Andrae, p. 103; Daniels, page 29&lt;/ref&gt;
+
+In 1943, Kane left the Batman comic books to focus on penciling the daily ''Batman'' newspaper [[comic strip]].&lt;ref name="Joe Desris 1994 p. 223"/&gt; DC Comics artists ghosting the comic-book stories now included [[Jack Burnley]] and [[Win Mortimer]], with Robinson moving up as [[penciler]] and [[Fred Ray]] contributing some covers. After the strip finished in 1946, Kane returned to the comic books but, unknown to DC, had hired his own personal ghosts, including [[Lew Schwartz]]&lt;ref name=alterego51&gt;[[Lew Schwartz]] interview, ''Alter Ego'' #51 (Aug. 2005)&lt;/ref&gt; and [[Sheldon Moldoff]] from 1953-1967.&lt;ref&gt;Moldoff, in a 1994 interview given while Kane was alive&lt;!--important to note, since claims made after another party is dead cannot be challenged and have less credibility than claims made while the other party is alive--&gt;, described his clandestine arrangement in ''Alter Ego'' #59 (June 2006, p. 15)&lt;/ref&gt;
+
+===Robin===
+Bill Finger recalled that,
+{{quote|[[Robin (character)|Robin]] was an outgrowth of a conversation I had with Bob. As I said, Batman was a combination of [Douglas] Fairbanks and Sherlock Holmes. Holmes had his Watson. The thing that bothered me was that Batman didn't have anyone to talk to, and it got a little tiresome always having him thinking. I found that as I went along Batman needed a Watson to talk to. That's how Robin came to be. Bob called me over and said he was going to put a boy in the strip to identify with Batman. I thought it was a great idea.&lt;ref name="jim" /&gt;}}
+
+Kane, who had previously created a sidekick for Peter Pupp, proposed adding a boy named Mercury who would have worn a "super-costume".&lt;ref&gt;''Comic Book Interview Super Special: Batman'', Fictioneer Press, 1989&lt;/ref&gt; Robinson suggested a normal human, along with the name "[[Robin (name)|Robin]]", after [[Robin Hood]] books he had read during boyhood, and noting in a 2005 interview he had been inspired by one book's [[N. C. Wyeth]] illustrations.&lt;ref name="TCJ271"&gt;{{cite journal |last=Interview, |first=|authorlink= |date=October 2005 |title=Jerry Robinson |journal=The Comics Journal |volume= |issue=271 |pages= |issn=0194-7869 |url=http://www.tcj.com/index.php?option=com_content&amp;task=view&amp;id=350&amp;Itemid=48 |accessdate= November 18, 2007| archiveurl=https://web.archive.org/web/20090522235616/http://www.tcj.com/index.php?option=com_content&amp;task=view&amp;id=350&amp;Itemid=48 | archivedate=May 22, 2009}}&lt;/ref&gt;
+{{quote|The impetus came from Bill's wanting to extend the parameters of the story potential and of the drama. He saw that adding a sidekick would enhance the drama. Also, it enlarged the readership identification. The younger kids could then identify with Robin, which they couldn't with Batman, and the older ones with Batman. It extended the appeal on a lot of levels.&lt;ref name="TCJ271" /&gt;}} The new character, an orphaned circus performer named [[Dick Grayson]], came to live with Bruce Wayne as his young [[ward (law)|ward]] in ''Detective Comics'' #38 (April 1940) and would inspire many similar sidekicks throughout the Golden Age of comic books.
+
+===The Joker===
+Batman's nemesis the [[Joker (comics)|Joker]] was introduced near that same time, in ''Batman'' #1 (Spring 1940). Credit for that character's creation is disputed. Kane's position is that
+
+{{quote|Bill Finger and I created the Joker. Bill was the writer. Jerry Robinson came to me with a playing card of the Joker. That's the way I sum it up. [The Joker] looks like [[Conrad Veidt]] — you know, the actor in ''[[The Man Who Laughs (1928 film)|The Man Who Laughs]]'', [the 1928 movie based on the novel] by [[Victor Hugo]]. ... Bill Finger had a book with a photograph of Conrad Veidt and showed it to me and said, 'Here's the Joker'. Jerry Robinson had absolutely nothing to do with it. But he'll always say he created it till he dies. He brought in a [[playing card]], which we used for a couple of issues for him [the Joker] to use as his playing card.&lt;ref&gt;{{cite web | url = http://franklovece.com/webexclusives.html |title= Web Exclusives — Bob Kane interview |publisher=FrankLovece.com (official site of ''[[Entertainment Weekly]]'' writer) | date = 17 May 1994 |accessdate=2010-12-29 | archivedate = 4 February 2012 | archiveurl = https://web.archive.org/web/20120204122050/http://franklovece.com/webexclusives.html}}&lt;/ref&gt;}}
+
+Robinson, whose original Joker playing card was on public display in the exhibition "Masters of American Comics" at the [[Jewish Museum (New York)|Jewish Museum]] in New York City, New York, from September 16, 2006 to January 28, 2007, and the William Breman Jewish Heritage Museum in [[Atlanta]], [[Georgia (U.S. state)|Georgia]] from October 24, 2004 to August 28, 2005, has countered that:
+
+{{quote|Bill Finger knew of Conrad Veidt because Bill had been to a lot of the foreign films. Veidt ... had this clown makeup with the frozen smile on his face (classic). When Bill saw the first drawing of the Joker, he said, 'That reminds me of Conrad Veidt in ''The Man Who Laughs''.' He said he would bring in some shots of that movie to show me. That's how that came about. I think in Bill's mind, he fleshed out the concept of the character.&lt;ref&gt;{{cite web|author= |url=http://forum.newsarama.com/showthread.php?t=88092 |archiveurl=https://web.archive.org/web/20090502003113/http://forum.newsarama.com/showthread.php?t=88092 |archivedate=May 2, 2009| publisher = Newsarama.com |date= October 18, 2006| title= The Joker, the Jewish Museum and Jerry: Talking to Jerry Robinson| first=Matt|last=Brady|accessdate=December 29, 2010}}&lt;/ref&gt;}}
+
+Robinson added, however, "If you read the Batman historian [[E. Nelson Bridwell|[E. Nelson] Bridwell]], he had one interview where he interviewed Bill Finger and he said no, the Joker was created by me — an acknowledgement. He can be credited and Bob himself, we all played a role in it. ... .He wrote the script of that, so he really was co-creator, and Bob and I did the visuals, so Bob was also."&lt;ref&gt;[[Jerry Robinson]] in {{cite web|url=http://www.rocketllama.com/blog-it/2009/08/05/interview-the-jokers-maker-tackles-the-man-who-laughs | title=The Joker's Maker Tackles 'The Man Who Laughs'|publisher=RocketLlama.com |date=August 5, 2009 | accessdate = December 29, 2010| archiveurl = https://web.archive.org/web/20150910064541/http://www.rocketllama.com/blog-it/2009/08/05/interview-the-jokers-maker-tackles-the-man-who-laughs/ | archivedate=September 10, 2015|deadurl=no}}&lt;/ref&gt;
+
+===Other characters===
+According to comics historian [[Les Daniels]], "nearly everyone seems to agree that [[Two-Face]] was Kane's brainchild exclusively".&lt;ref&gt;Daniels, Les, ''Batman: The Complete History'', Chronicle Books, 1999, p. 45.&lt;/ref&gt;  [[Catwoman]], originally introduced by Kane with no costume as "the Cat", was partially inspired by his cousin, Ruth Steel.&lt;ref&gt;Kane, Andrae, p. ???&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Steel|first=Ruth|title=Ruth Steel Interview (Age 96)|url=https://www.youtube.com/watch?v=0HfIuUKpTPU#t=7m55s|work=Video|publisher=YouTube|accessdate=June 2, 2011}}&lt;/ref&gt; Kane, a frequent movie goer, mentioned that [[Jean Harlow]] was a model for the design and added that "I always felt that women were feline".&lt;ref name="Daniels, Les 1999, p. 42"&gt;Daniels, Les, ''Batman: The Complete History'', Chronicle Books, 1999, p. 42.&lt;/ref&gt;  Kane created the [[Scarecrow (DC Comics)|Scarecrow]] and drew his first appearance, which was scripted by Finger.&lt;ref&gt;Daniels, Les, ''Batman: The Complete History'', Chronicle Books, 1999, p. 55.&lt;/ref&gt;  Kane also created the original incarnation of [[Clayface]].&lt;ref&gt;{{Cite book  | last = Wallace | first = Dan | author-link = | contribution = Clayface I-IV | editor-last = Dougall  | editor-first = Alastair  | title = The DC Comics Encyclopedia  | page = 85  | publisher = [[Dorling Kindersley]]  | place = New York  | year = 2008 | isbn = 0-7566-4119-5 | oclc = 213309017}}&lt;/ref&gt;  According to Kane, he drew [[Penguin (comics)|the Penguin]] after being inspired by the then advertising mascot of [[Kool (cigarette)|Kool]] cigarettes — a [[penguin]] with a top hat and cane. Finger, however, claimed that he created the villain as a caricature of the aristocratic type, because "stuffy English gentlemen" reminded him of [[emperor penguins]].&lt;ref name="Daniels, Les 1999, p. 42"/&gt;
+
+==Later life and career==
+[[File:Bob Kane Grave.JPG|thumb|Grave of Bob Kane, at Forest Lawn Hollywood Hills]]
+In 1966, Kane retired from DC Comics, choosing to focus on [[fine art]].&lt;ref name="Park West Gallery"&gt;{{cite web|title=Bob Kane|url=http://www.parkwestgallery.com/artist/bob-kane|publisher=Park West Gallery|location = [[Southfield, Michigan]]|accessdate= April 3, 2014| archiveurl = https://web.archive.org/web/20140407072647/http://www.parkwestgallery.com/artist/bob-kane | archivedate=April 7, 2014|deadurl=no}}&lt;/ref&gt; As Kane's comic-book work tapered off in the 1960s, he parlayed his Batman status into minor celebrity. He enjoyed a post-comics career in [[Animation in the United States in the television era|television animation]], creating the characters [[Courageous Cat]] and [[Cool McCool]], and as a painter showed his work in [[art museum|art galleries]], although some of these paintings were produced by ghost artists.&lt;ref&gt;{{cite web|url=http://www.newsfromme.com/archives/2007_03_15.html#013103 |archiveurl=https://web.archive.org/web/20090523105715/http://www.newsfromme.com/archives/2007_03_15.html |archivedate=May 23, 2009 |title=POV Online (column of March 15, 2007): "News from Me: Arnold", by Mark Evanier |publisher=Newsfromme.com |accessdate=2010-12-29 |deadurl=yes |df= }}&lt;/ref&gt; DC Comics named Kane in 1985 as one of the honorees in the company's 50th anniversary publication ''[[Fifty Who Made DC Great]]''.&lt;ref&gt;{{Cite comic| writer = Marx, Barry| cowriters = [[Joey Cavalieri|Cavalieri, Joey]] and Hill, Thomas| artist = Petruccio, Steven | editor = Marx, Barry| story = Bob Kane Batman Takes Wing| title = Fifty Who Made DC Great| date = 1985| publisher = DC Comics| page = 10| panel = | id = }}&lt;/ref&gt; In 1989, Kane published the autobiography ''[[Batman and Me]]'', with a second volume ''Batman and Me, The Saga Continues'', in 1996.
+
+Kane worked as a consultant on the 1989 film ''[[Batman (1989 film)|Batman]]'' and its three sequels with directors [[Tim Burton]] and [[Joel Schumacher]].
+
+[[Stan Lee]] interviewed Kane in the documentary series ''[[The Comic Book Greats]]''.
+
+==Personal life==
+Kane married his first wife, Beverly, in the 1940s,&lt;ref name=oxfordpress&gt;{{cite book| url=https://books.google.com/books?isbn=0195222024|title= American National Biography: Supplement 2| first=Mark C., ed.|last= Carnes |year=2005 | publisher=[[Oxford University Press]] | isbn=978-0195222029| quote=Kane married his first wife, Beverly, in the 1940s; the couple had a daughter...}}&lt;/ref&gt;  and the two divorced in 1957.&lt;ref&gt;{{cite web|url= https://www.bleedingcool.com/2014/08/14/the-bob-kane-files-what-kanes-personal-copies-of-the-earliest-batman-comics-tells-us-about-one-of-comics-historys-most-enigmatic-creators/| title=The Bob Kane Files: What Kane’s Personal Copies Of The Earliest Batman Comics Tells Us About One Of Comics History’s Most Enigmatic Creators|first=Mark |last=Seifert | publisher =[[BleedingCool.com]]|date=August 14, 2014 |accessdate= March 9, 2017| archivedate= October 31, 2015| archiveurl = https://web.archive.org/web/20151031225534/http://www.bleedingcool.com/2014/08/14/the-bob-kane-files-what-kanes-personal-copies-of-the-earliest-batman-comics-tells-us-about-one-of-comics-historys-most-enigmatic-creators/| deadurl=no}}&lt;/ref&gt;&lt;ref&gt;Staff-written introduction to {{cite news| url= http://people.com/archive/my-son-the-batman-a-proud-memoir-by-the-artist-who-sired-gothams-defender-vol-32-no-5/| title=My Son, the Batman: A Proud Memoir by the Artist Who Sired Gotham's Defender|first=Bob|last=Kane|date= July 31, 1989| work = [[People (magazine)|People]]| accessdate= March 8, 2017| archivedate= March 9, 2017| archiveurl = https://web.archive.org/web/20170309002529/http://people.com/archive/my-son-the-batman-a-proud-memoir-by-the-artist-who-sired-gothams-defender-vol-32-no-5/| deadurl=no}}&lt;/ref&gt; They had a daughter,&lt;ref name=oxfordpress/&gt; Deborah.&lt;ref name=nytobit&gt;{{cite news| last=Boxer|first=Sarah| url = https://www.nytimes.com/learning/general/onthisday/bday/1024.html |title=Bob Kane, 83, the Cartoonist Who Created 'Batman,' Is Dead| work =[[The New York Times]]| date= November 7, 1998| archivedate= September 29, 2015| archiveurl = https://web.archive.org/web/20150929022628/http://www.nytimes.com/learning/general/onthisday/bday/1024.html | deadurl=no}}&lt;/ref&gt; Kane married his second wife, actress Elizabeth Sanders Kane, in 1987.&lt;ref name="People"&gt;{{Cite web |url=http://people.com/archive/caped-creator-vol-50-no-19/ |title= Caped Creator | accessdate= March 8, 2017 |work=People|archivedate=March 9, 2017| archiveurl=https://web.archive.org/web/20170309001240/http://people.com/archive/caped-creator-vol-50-no-19/|deadurl=no}}&lt;/ref&gt;
+
+Kane died on November 3, 1998, at [[Cedars-Sinai Medical Center]] in Los Angeles, at age 83.&lt;ref name=nytobit /&gt; He is buried at [[Forest Lawn Memorial Park (Hollywood Hills)|Forest Lawn Memorial Park]] in the [[Hollywood Hills]] of Los Angeles, California.&lt;ref&gt;{{cite web |url=http://www.seeing-stars.com/ImagePages/BobKaneGravePhoto.shtml |title=The Grave of Bob Kane |publisher=Seeing-Stars.com |accessdate=2010-12-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20110110035432/http://www.seeing-stars.com/imagepages/BobKaneGravePhoto.shtml |archivedate=2011-01-10 |df= }}&lt;/ref&gt;
+
+==Awards and honors==
+Kane was inducted into the Jack Kirby Hall of Fame in 1994&lt;ref&gt;{{cite web | url = http://www.hahnlibrary.net/comics/awards/harvey94.php | title= 1994 Harvey Award Nominees and Winners | first= Joel, ed. | last=Hahn | publisher= Comic Book Awards Almanac | accessdate=August 22, 2015 | archiveurl = https://web.archive.org/web/20150608194910/http://www.hahnlibrary.net/comics/awards/harvey94.php | archivedate= June 8, 2015| deadurl=no}}&lt;/ref&gt; and the [[List of Eisner Award winners#The Will Eisner Award Hall of Fame|Will Eisner Comic Book Hall of Fame]] in 1996.&lt;ref name=halloffame-official&gt;{{cite web| url= http://www.comic-con.org/awards/hall-fame-awards | title=Will Eisner Hall of Fame| publisher= [[San Diego Comic-Con International]] | accessdate= August 22, 2015 | archivedate= July 7, 2015| archiveurl=https://web.archive.org/web/20150707202058/http://www.comic-con.org/awards/hall-fame-awards | deadurl=no}}&lt;/ref&gt;
+
+On October 21, 2015, for his work in motion pictures, he posthumously received a star on the [[Hollywood Walk of Fame]], at 6764 [[Hollywood Boulevard]].&lt;ref&gt;{{cite news | url =http://www.walkoffame.com/bob-kane| title=Bob Kane | date=October 21, 2015 |  publisher=[[Hollywood Walk of Fame]] (Hollywood Chamber of Commerce) | accessdate= October 13, 2016 | archivedate= April 3, 2016 | archiveurl = https://web.archive.org/web/20160403102933/http://walkoffame.com/bob-kane| deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{Cite press release|url=http://www.dccomics.com/blog/2015/10/21/batman-creator-bob-kane-honored-posthumously-with-star-on-the-hollywood-walk-of-fame|title=Batman Creator Bob Kane Honored Posthumously with Star on the Hollywood Walk of Fame|first= Sara|last= Ruiz|date= October 21, 2015|publisher= [[DC Comics]]| accessdate=July 29, 2016|archivedate= September 19, 2016| archiveurl = https://web.archive.org/web/20160919174552/http://www.dccomics.com/blog/2015/10/21/batman-creator-bob-kane-honored-posthumously-with-star-on-the-hollywood-walk-of-fame| deadurl=no}}&lt;/ref&gt;
+
+Kane's work is housed in collections in New York City's [[Museum of Modern Art]], [[Whitney Museum of American Art]], and [[St. John's University (New York City)|St. John's University]].&lt;ref name="Park West Gallery"/&gt;
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Goulart, Ron, ''Over 50 Years of American Comic Books'' (BDD Promotional Books Company, 1991) {{ISBN|0-7924-5450-2}}; {{ISBN|978-0-7924-5450-2}}
+
+==External links==
+{{Wikiquote}}
+*{{IMDb name|4170}}
+*[http://www.twomorrows.com/comicbookartist/articles/03kane.html ''Comic Book Artist'' #3 (Winter 1999): "The Bob Kane Letter"] (September 14, 1965 open letter by Bob Kane)
+* {{LCAuth|n89105909|Bob Kane|204|}}
+
+{{Navboxes
+|title= Articles and topics related to Batman
+|state=collapsed
+|list1=&lt;/span&gt;
+{{Batman}}
+{{Batman characters}}
+{{Batman publications}}
+{{Batman in popular media}}
+{{Batman music}}
+{{Justice League}}
+{{Justice League International}}
+{{Superman and Batman}}
+{{Catwoman}}
+{{Batgirl}}
+{{The Outsiders}}
+{{Birds of Prey}}
+{{GoldenAge}}
+{{Gotham}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kane, Bob}}
+[[Category:1915 births]]
+[[Category:1998 deaths]]
+[[Category:20th-century American artists]]
+[[Category:20th-century American writers]]
+[[Category:American autobiographers]]
+[[Category:American comics artists]]
+[[Category:American comics writers]]
+[[Category:American people of Eastern European descent]]
+[[Category:Artists from New York City]]
+[[Category:Batman]]
+[[Category:Burials at Forest Lawn Memorial Park (Hollywood Hills)]]
+[[Category:Cooper Union alumni]]
+[[Category:DeWitt Clinton High School alumni]]
+[[Category:Golden Age comics creators]]
+[[Category:Jack Kirby Hall of Fame inductees]]
+[[Category:Jewish American artists]]
+[[Category:Will Eisner Award Hall of Fame inductees]]
+[[Category:Writers from New York City]]</text>
+      <sha1>jnlhos2h3z5g4z64086mmf0os1l1sti</sha1>
+    </revision>
+  </page>
+</mediawiki>

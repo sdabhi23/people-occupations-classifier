@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alex Akerbladh</title>
+    <ns>0</ns>
+    <id>33041646</id>
+    <revision>
+      <id>845161454</id>
+      <parentid>828852702</parentid>
+      <timestamp>2018-06-09T21:03:31Z</timestamp>
+      <contributor>
+        <username>Kjell Knudde</username>
+        <id>7436027</id>
+      </contributor>
+      <comment>Added more categories.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2696">{{Use dmy dates|date=March 2018}}
+[[File:AkerbladhLupinoLane.jpg|thumb|right|300px|"[[Lupino Lane]]" comic strip, drawn by Alex Akerbladh, from ''[[Film Fun]]'', 1927]]
+'''Alexander''' ('''Alex''') '''Akerbladh''' was a [[Sweden|Swedish]]-born comics artist who drew for the [[Amalgamated Press]] in the UK from the 1900s to the 1950s.  Born in [[Sundsvall]], Sweden&lt;ref name="lambiek"&gt;[http://lambiek.net/artists/a/akerbladh_alex.htm Alex Akerbladh on Lambiek Comiclopedia]&lt;/ref&gt; on 25 April 1886,&lt;ref name="clark"&gt;Alan Clark, ''Dictionary of British Comic Artists, Writers and Editors'', The British Library, 1998, p. 1-2&lt;/ref&gt; he studied architecture at [[Glasgow School of Art]], and became an apprentice to Sir [[John James Burnet]] for seven years, before studying art at the [[St John's Wood Art School]] in [[London]] under Leonard Walker, and in [[Munich]] under Anton Binder in 1916. He painted interiors and figures in oils and watercolours.&lt;ref name="lambiek" /&gt;
+
+His earliest known comics work was "Hounslow Heath the Highwayman" for ''[[Illustrated Chips]]'' in 1909. In 1916 he drew a celebrity comic based on vaudeville comedian [[Little Tich]]. &lt;ref&gt;https://www.lambiek.net/artists/a/akerbladh_alex.htm&lt;/ref&gt;He went on to draw for many titles from then until the late 1930s, including ''[[Comic Cuts]]'', ''[[Firefly (comic)|Firefly]]'', ''[[Jester (comic)|Jester]]'', ''[[Kinema Comic]]'', ''[[Sports Fun]]'', ''[[Butterfly (comic)|Butterfly]]'', ''[[Larks (comic)|Larks]]'', ''[[Merry and Bright]]'', ''[[Jingles (comic)|Jingles]]'' and ''[[Crackers (comic)|Crackers]]'', including painting covers for ''Crackers'' annuals. From the late 1930s to the early 1950s his work appeared primarily in ''[[Radio Fun]]'', where he drew "[[Flanagan and Allen]]", "[[Bob Hope]] and [[Jerry Colonna (entertainer)|Jerry Colonna]]", and "[[Arthur Askey]] and [[Anthea Askey|Anthea]]". His last known work was for ''[[TV Fun]]'' in 1953.&lt;ref name="clark" /&gt;
+
+A freelancer, he worked from home, and his pages are said to have arrived at the AP "in grubby condition, with no trouble taken to erase pencil marks or spilled ink".&lt;ref name="clark" /&gt; He lived for a time in [[France]], and is believed to have retired to [[South Africa]], where he died&lt;ref name="clark" /&gt; in 1958.&lt;ref name="lambiek" /&gt;
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Akerbladh, Alex}}
+[[Category:Swedish comics artists]]
+[[Category:British comics artists]]
+[[Category:1886 births]]
+[[Category:1958 deaths]]
+[[Category:Alumni of the Glasgow School of Art]]
+[[Category:People from Sundsvall]]
+[[Category:Swedish expatriates in the United Kingdom]]
+
+{{Sweden-artist-stub}}
+{{UK-comics-artist-stub}}</text>
+      <sha1>f74l7p61v08q2yabkh02qxi1dbzxxcc</sha1>
+    </revision>
+  </page>
+</mediawiki>

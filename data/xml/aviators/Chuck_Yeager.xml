@@ -1,0 +1,363 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chuck Yeager</title>
+    <ns>0</ns>
+    <id>6185</id>
+    <revision>
+      <id>854831546</id>
+      <parentid>853812402</parentid>
+      <timestamp>2018-08-14T02:48:17Z</timestamp>
+      <contributor>
+        <ip>207.38.160.235</ip>
+      </contributor>
+      <comment>/* World War II */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="47843">{{Infobox military person
+|name= Chuck Yeager
+|image= ChuckYeager.jpg
+|image_size= 
+|alt=
+|birth_name= Charles Elwood Yeager
+|nickname= "Chuck"
+|birth_date= {{Birth date and age|1923|2|13}}
+|birth_place= [[Myra, West Virginia]], U.S.
+|death_date= &lt;!-- {{Death date and age|YYYY|MM|DD|1923|2|13}} death date first, then birth date --&gt;
+|death_place= 
+|placeofburial= 
+|allegiance= {{flag|United States of America}}
+|branch= [[File:US Army Air Corps Hap Arnold Wings.svg|25px]] [[United States Army Air Forces]]&lt;br /&gt;{{Air force|United States}}
+|serviceyears= 1941–1975
+|rank= [[File:US Air Force O7 shoulderboard rotated.svg|25px]] [[Brigadier general (United States)|Brigadier general]]
+|battles= [[World War II]]&lt;br/&gt;[[Cold War]]&lt;br/&gt;[[Vietnam War]]
+|awards= [[Air Force Distinguished Service Medal]]&lt;br/&gt;[[Army Distinguished Service Medal]]&lt;br/&gt;[[Silver Star]] (2)&lt;br/&gt;[[Legion of Merit]] (2)&lt;br/&gt;[[Distinguished Flying Cross (United States)|Distinguished Flying Cross]] (3)&lt;br/&gt;[[Bronze Star Medal]]&lt;br/&gt;[[Purple Heart]]&lt;br/&gt;[[#Awards and decorations|''Others (see below)'']]
+|spouse= {{marriage|Glennis Dickhouse &lt;br&gt;|1945|1990|end=died}}&lt;br /&gt;{{marriage|Victoria Scott D'Angelo &lt;br&gt;|2003| |end= }} 
+|children = 4
+|relations= [[Steve Yeager]] (cousin)
+|laterwork= [[Flight instructor]] and [[test pilot]]
+|signature= Chuck Yeager signature.SVG
+|website= http://www.chuckyeager.com/
+}}
+'''Charles Elwood "Chuck" Yeager''' ({{IPAc-en|ˈ|j|eɪ|ɡ|ər}}; born {{nowrap|February 13}}, 1923) is a former [[United States Air Force]] officer, [[flying ace]], and record-setting [[test pilot]]. In 1947, he became the first pilot confirmed to have exceeded the [[speed of sound]] in level flight.
+
+Yeager's career began in [[World War II]] as a [[Private (rank)|private]] in the [[United States Army Air Forces]].&lt;ref&gt;Yeager had not been in an airplane prior to January 1942, when his Engineering Officer invited him on a test flight after maintenance of an [[Beechcraft Model 18|AT-11]]. He related that he got really sick on the flight: "After puking all over myself I said, 'Yeager, you made a big mistake'". ''My First Time'', [[Air &amp; Space/Smithsonian]], Vol. 17 No. 2 (June/July 2002), p. 48&lt;/ref&gt; After serving as an aircraft mechanic, in September 1942 he entered [[Enlisted rank|enlisted]] pilot training and upon graduation was promoted to the rank of [[flight officer]] (the [[World War II]] USAAF equivalent to [[Warrant Officer (United States)|warrant officer]]) and became a [[North American P-51 Mustang|P-51]] [[fighter pilot]].
+
+After the war, Yeager became a test pilot of many types of aircraft, including experimental rocket-powered aircraft. As the first human to officially break the sound barrier, on {{nowrap|October 14}}, 1947, he flew the experimental [[Bell X-1]] at [[Mach number|Mach]] 1 at an altitude of {{nowrap|45,000 ft}} ({{nowrap|13,700 m}}). He then went on to break several other speed and altitude records.
+
+Yeager later commanded fighter squadrons and wings in Germany, and in [[Southeast Asia]] during the [[Vietnam War]], and in recognition of the outstanding performance ratings of those units he was promoted to [[brigadier general]]. Yeager's flying career spans more than 60 years and has taken him to many parts of the world, including the [[Soviet Union]] during the height of the [[Cold War]].
+
+==Early life and education==
+Yeager was born {{nowrap|February 13}}, 1923, to farming parents Susie Mae and Albert Hal Yeager in [[Myra, West Virginia]], and graduated from high school in [[Hamlin, West Virginia]], in June 1941. He had two brothers, Roy and Hal Jr., and two sisters, Doris Ann (accidentally killed at age 2 by 6-year-old Roy playing with a shotgun)&lt;ref name="yeagerEsquire"&gt;[http://www.esquire.com/features/what-ive-learned/chuck-yeager-quotes-0109 Esquire Magazine – Chuck Yeager: What I've Learned]&lt;/ref&gt;&lt;ref name="yeagerbio_6"&gt;Yeager and Janos 1985, p. 6.&lt;/ref&gt; and Pansy Lee. His first experience with the military was as a teen at the [[Citizens Military Training Camp]] at [[Fort Benjamin Harrison]], [[Indianapolis, Indiana]], during the summers of 1939 and 1940. On {{nowrap|February 26}}, 1945, Yeager married Glennis Dickhouse, and the couple had four children. Glennis died in 1990.&lt;ref name="Dickhouse"&gt;Houvouras, John H. [http://www.chuckyeager.com/HuntingtonQuarterly.pdf "The Man."] ''The Huntington Quarterly'', Winter 1998, p. 21. Retrieved: April 14, 2015.&lt;/ref&gt;
+
+The name "Yeager" ({{IPAc-en|ˈ|j|eɪ|ɡ|ər}}) is an Anglicized form of the German name ''Jäger'' or ''Jaeger'' (German: "hunter"). He is the cousin of former baseball catcher [[Steve Yeager]].&lt;ref&gt;{{cite news |last1=Kantowski |first1=Ron |title=Q+A Steve Yeager |url=http://lasvegassun.com/news/2006/apr/06/qa-steve-yeager/ |accessdate=February 26, 2016 |work=Las Vegas Sun|date=April 6, 2006 |quote=He's not my uncle, he's a cousin. That's a misprint. You can't believe everything you read.}}&lt;/ref&gt;{{refn|Chuck Yeager is not related to [[Jeana Yeager]], one of the two pilots of the [[Rutan Voyager]] aircraft, which circled the world without landing or refueling.&lt;ref&gt;{{cite news |title=Jeana Yeager Was Not Just Along for the Ride |url=http://articles.latimes.com/1986-12-24/news/mn-236_1_jeana-yeager |accessdate=February 26, 2016 |work=Los Angeles Times |date=December 24, 1986}}&lt;/ref&gt;|group=Note}}
+
+==Career==
+
+===World War II===
+Yeager enlisted as a private in the [[United States Army Air Forces|U.S. Army Air Forces]] (USAAF) on {{nowrap|September 12}}, 1941, and became an aircraft mechanic at [[George Air Force Base]], [[Victorville, California]]. At enlistment, Yeager was not eligible for flight training because of his age and educational background, but the entry of the U.S. into World War II less than three months later prompted the USAAF to alter its recruiting standards. Having unusually sharp vision (a [[visual acuity|visual acuity rated 20/10]]), which once enabled him to shoot a deer at {{convert|600|yd}},&lt;ref name="yeagerbio_297"&gt;Yeager and Janos 1985, p. 297.&lt;/ref&gt; Yeager displayed natural talent as a pilot and was accepted for flight training.
+
+He received his wings and a promotion to [[Warrant Officer (United States)#Flight Officer|flight officer]] at [[Luke Air Force Base|Luke Field]], [[Arizona]], where he graduated from class 43C on {{nowrap|March 10}}, 1943. Assigned to the [[357th Fighter Group]] at [[Tonopah, Nevada]], he initially trained as a fighter pilot, flying [[Bell P-39 Airacobra]]s (being grounded for seven days for clipping a farmer's tree during a training flight),&lt;ref&gt;''Take Off magazine'', Issue 36, p. 991.&lt;/ref&gt; and shipped overseas with the group on {{nowrap|November 23}}, 1943.
+
+[[File:P51-1 300.jpg|thumb|[[North American P-51 Mustang|P-51D-20NA]], ''Glamorous Glen III'', is the aircraft in which Yeager achieved most of his aerial victories.]]
+Stationed in the United Kingdom at [[RAF Leiston]], Yeager flew [[North American P-51 Mustang|P-51 Mustang]]s in combat with the [[363d Fighter Squadron]]. He named his aircraft ''Glamorous Glen''&lt;ref&gt;{{cite web|title=Chuck Yeager downs five – becomes an "Ace in a Day" |date=n.d. |accessdate=July 7, 2015 |website=World War II Today |url=http://ww2today.com/12-october-1944-chuck-yeager-downs-five-becomes-an-ace-in-a-day |archiveurl=https://web.archive.org/web/20150121114735/http://ww2today.com/12-october-1944-chuck-yeager-downs-five-becomes-an-ace-in-a-day |archivedate=January 21, 2015 |deadurl=no |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=12 October 1944 |date=n.d. |accessdate=July 7, 2015 |website=This Day in Aviation |url=http://www.thisdayinaviation.com/tag/363d-fighter-squadron/ |archiveurl=https://web.archive.org/web/20150707233503/http://www.thisdayinaviation.com/tag/363d-fighter-squadron/ |archivedate=July 7, 2015 |deadurl=no |df= }}&lt;/ref&gt; after his girlfriend, Glennis Faye Dickhouse, who became his wife in February 1945. Yeager had gained one victory before he was shot down over France in his first aircraft (P-51B-5-NA s/n 43-6763) on {{nowrap|March 5}}, 1944 during his eighth mission.&lt;ref name=EscapeEvasion&gt;[http://narademo.umiacs.umd.edu/cgi-bin/isadg/viewitem.pl?item=105467 "Escape and Evasion Case File for Flight Officer Charles (Chuck) E. Yeager."] {{webarchive|url=https://web.archive.org/web/20090218212756/http://narademo.umiacs.umd.edu/cgi-bin/isadg/viewitem.pl?item=105467 |date=2009-02-18 }} ''narademo.umiacs.umd.edu.'' Retrieved: December 8, 2010.&lt;/ref&gt; He escaped to Spain on {{nowrap|March 30}} with the help of the ''[[Maquis (World War II)|Maquis]]'' (French Resistance) and returned to England on {{nowrap|May 15}}, 1944. During his stay with the ''Maquis'', Yeager assisted the guerrillas in duties that did not involve direct combat; he helped construct bombs for the group, a skill that he had learned from his father.&lt;ref name="yeagerbio_45"&gt;Yeager and Janos 1985, p. 45.&lt;/ref&gt; He was awarded the [[Bronze Star Medal|Bronze Star]] for helping a B-24 navigator, "Pat" Patterson, who was shot in the knee during the escape attempt, to cross the [[Pyrenees]]. Yeager cut off the tendon by which Patterson's leg was hanging below the knee, then tied off the leg with a spare shirt made of parachute silk.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=TWveOFiCUrcC&amp;dq=master+of+air|title=Masters of the Air: America's Bomber Boys Who Fought the Air War Against Nazi Germany|last=Miller|first=Donald L.|date=2007-09-25|publisher=Simon and Schuster|isbn=9780743235457|language=en p.270}}&lt;/ref&gt;
+
+Despite a regulation prohibiting "evaders" (escaped pilots) from flying over enemy territory again, the purpose of which was to prevent a second capture from compromising resistance groups, Yeager was reinstated to flying combat. He had joined another evader, fellow P-51 pilot 1st Lt Fred Glover,&lt;ref&gt;Disney 2016.&lt;/ref&gt; in speaking directly to the [[Supreme Allied Commander]], General [[Dwight D. Eisenhower]], on {{nowrap|June 12}}, 1944. With Glover pleading their case, they argued that because the Allies had invaded France and the ''Maquis'' were by then openly fighting the Nazis alongside Allied troops, if Yeager or Glover were shot down again, there was little about those who had previously helped them evade capture that could be revealed to the enemy.
+
+Eisenhower, after gaining permission from the War Department to decide the requests, concurred with Yeager and Glover. Yeager later credited his postwar success in the Air Force to this decision, saying that his test pilot career followed naturally from his having been a decorated combat pilot, along with having been an aircraft mechanic before attending pilot school. In part, because of his maintenance background, he also frequently served as a maintenance officer in his flying units.
+
+Yeager demonstrated outstanding flying skills and combat leadership. On {{nowrap|October 12}}, 1944, he became the first pilot in his group to make "[[ace in a day]]," downing five enemy aircraft in a single mission. Two of these kills were scored without firing a single shot: when he flew into firing position against a [[Messerschmitt Bf 109]], the pilot of the aircraft panicked, breaking to starboard and colliding with his wingman. Yeager said both pilots bailed out. He finished the war with 11.5 official victories, including one of the first air-to-air victories over a jet fighter, a German [[Messerschmitt Me 262]] that he shot down as it was on final approach for landing.&lt;ref&gt;{{cite web|url=http://warfarehistorynetwork.com/daily/wwii/chuck-yeager-fighter-pilot/|last=Niderost|first=Eric|title=Chuck Yeager: Fighter Pilot|website=Warfare History Network|access-date=29 March 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.chuckyeager.com/yeager-destroys-an-me-262|title=Encounter Report|date=6 November 1944}}&lt;/ref&gt;
+
+In his 1986 memoirs, Yeager recalled with disgust that "atrocities were committed by both sides" said he went on a mission with orders from the [[Eighth Air Force]] to "strafe anything that moved."&lt;ref name="Wolfgang W. E p454"&gt;Samuel 2004, p. 454.&lt;/ref&gt;&lt;ref name="J. Coady p.13"&gt;Coady 2008, p. 13.&lt;/ref&gt; During the mission briefing, he whispered to Major Donald H. Bochkay, "If we are going to do things like this, we sure as hell better make sure we are on the winning side."&lt;ref name="Wolfgang W. E p454"/&gt;&lt;ref name="J. Coady p.13"/&gt; Yeager said, "I’m certainly not proud of that particular strafing mission against civilians. But it is there, on the record and in my memory."&lt;ref&gt;Yeager and Janos 1985, pp. 63, 80.&lt;/ref&gt; He has also expressed bitterness at his treatment in England during WWII, describing the British as "arrogant" and "nasty".&lt;ref&gt;https://www.telegraph.co.uk/news/2016/10/05/british-people-are-nasty-and-arrogant-says-wwii-flying-ace-chuck/&lt;/ref&gt;
+
+Yeager was commissioned a [[US Second Lieutenant|second lieutenant]] while at Leiston, and was promoted to [[Captain (U.S. Air Force)|captain]] before the end of his tour. He flew his 61st and final mission on {{nowrap|January 15}}, 1945, and returned to the United States in early February. As an evader, he received his choice of assignments and, because his new wife was pregnant, chose [[Wright Field]] to be near his home in West Virginia. His high number of flight hours and maintenance experience qualified him to become a functional test pilot of repaired aircraft, which brought him under the command of Colonel [[Albert Boyd]], head of the Aeronautical Systems Flight Test Division.&lt;ref name="yeagerbio_60"&gt;Yeager and Janos 1985, p. 60.&lt;/ref&gt;
+
+===Post-World War II===
+
+====Test pilot – breaking the sound barrier====
+[[File:Yeager supersonic flight 1947.ogv|thumb|Yeager broke the sound barrier on {{nowrap|October 14}}, 1947, in the X-1.]]
+Yeager remained in the [[United States Air Force|Air Force]] after the war, becoming a test pilot at Muroc Army Air Field (now [[Edwards Air Force Base]]), following graduation from [[U.S. Air Force Test Pilot School|Air Materiel Command Flight Performance School]] (Class 46C).&lt;ref&gt;[https://www.cnet.com/news/getting-schooled-with-the-air-forces-elite-test-pilots "Test pilot Capt Chuck Yeager."] ''Getting schooled with the Air Force's elite test pilots.'' Retrieved: April 30, 2017.&lt;/ref&gt; After [[Bell Aircraft]] test pilot [[Chalmers "Slick" Goodlin]] demanded $150,000 ($1.6 million in 2015 dollars) to break the sound "barrier," the USAAF selected Yeager to fly the rocket-powered [[Bell X-1|Bell XS-1]] in a [[National Advisory Committee for Aeronautics|NACA]] program to research high-speed flight.&lt;ref name="yeagerbio_121"&gt;Yeager and Janos 1985, p. 121.&lt;/ref&gt;&lt;ref name="right_stuff_52-53"&gt;Wolfe 1979, pp. 52–53.&lt;/ref&gt;
+
+[[File:Chuck Yeager.jpg|thumb|Yeager in front of the [[Bell X-1]], which, as with all of the aircraft assigned to him, he named ''Glamorous Glennis'' (or some variation thereof), after his wife.]]
+[[File:Chuck Yeager X-1 (color).jpg|thumb|Yeager in the Bell X-1 cockpit]]
+Such was the difficulty in this task that the answer to many of the inherent challenges was along the lines of "Yeager better have paid-up insurance."&lt;ref name="yeagerbio_157"&gt;Yeager and Janos 1985, p. 157.&lt;/ref&gt; Two nights before the scheduled date for the flight, Yeager broke two ribs when he fell from a horse. He was worried that the injury would remove him from the mission and reported that he went to a civilian doctor in nearby [[Rosamond, California|Rosamond]], who taped his ribs.&lt;ref name="Ryan"&gt;{{cite book |last1=Ryan |first1=Craig |title=Sonic Wind: The Story of John Paul Stapp and How a Renegade Doctor Became the Fastest Man on Earth |date=August 17, 2015 |publisher=W. W. Norton &amp; Company |isbn=9781631490798 |pages=98–99 |url=https://books.google.com/books?id=ID-dBAAAQBAJ&amp;pg=PT98 |accessdate=February 26, 2016}}&lt;/ref&gt;{{refn|In some versions of the story, the doctor was a veterinarian; however, local residents have noted that Rosamond was so small that it had neither a medical doctor nor a veterinarian.&lt;ref name="Ryan"/&gt;|group=Note}} Yeager told only his wife, as well as friend and fellow project pilot [[Jack Ridley (pilot)|Jack Ridley]], about the accident. On the day of the flight, Yeager was in such pain that he could not seal the X-1's hatch by himself. Ridley rigged up a device, using the end of a broom handle as an extra lever, to allow Yeager to seal the hatch.
+
+Yeager broke the [[sound barrier]] on {{nowrap|October 14}}, 1947, flying the X-1 ''Glamorous Glennis'' at [[Mach number|Mach]] 1.07 at an altitude of {{nowrap|45,000 ft}} ({{nowrap|13,700 m}}).&lt;ref&gt;[https://www.nytimes.com/1947/12/22/archives/new-us-plane-said-to-fly-faster-than-speed-of-sound-said-to-have.html "New U.S. Plane Said to Fly Faster Than Speed of Sound."] ''[[The New York Times]],'' December 22, 1947. Quote: "An experimental rocket plane, the Bell XS-1, has flown faster than the speed of sound a number of times recently, [[Aviation Week &amp; Space Technology|Aviation Week]] reports in an issue to be released tomorrow."&lt;/ref&gt;{{refn|There is anecdotal evidence that American pilot [[George Welch (pilot)|George Welch]] may have broken the sound barrier two weeks before Yeager, while diving an [[North American F-86 Sabre|XP-86 Sabre]] on {{nowrap|October 1}}, 1947, and again on {{nowrap|October 14}}, just 30 minutes before Yeager's X-1 flight. However, the precision instruments used to carefully document the speed of Yeager's flight were not used during Welch's flights.&lt;ref&gt;Blackburn, Al. [https://wayback.archive-it.org/all/20140511104429/http://www.airspacemag.com/history-of-flight/mach-match-361247/?all "Mach match: Did an XP-86 beat Yeager to the punch?"] ''Smithsonian Air &amp; Space Magazine'', January 1999. Retrieved: April 14, 2015.&lt;/ref&gt; Even earlier, German pilot [[Lothar Sieber]] was estimated to have broken the speed of sound during his fatal test-flight of the rocket-powered [[Bachem Natter]] on March 1, 1945, although the speed was not officially measured.&lt;ref&gt;{{cite news|url=https://www.dailytelegraph.com.au/news/pilot-chuck-yeagers-resolve-to-break-the-sound-barrier-was-made-of-the-right-stuff/news-story/b5cc3ee54c061c32b0bb08f42e11ab24|title=Pilot Chuck Yeager’s resolve to break the sound barrier was made of the right stuff|last=Donnelly|first=Marea|date=13 October 2017|newspaper=The Daily Telegraph|publisher=Newscorp Australia|access-date=29 March 2018}}&lt;/ref&gt; In his 1990 book ''Me-163'', former Messerschmitt Me 163 "Komet" pilot Mano Ziegler claims that his friend, test pilot [[Heini Dittmar]], broke the sound barrier and that on 6 July 1944 he reached 1,130 km/h in dive, and that several people on the ground heard the sonic booms. There was also a disputed claim by German pilot [[Hans Guido Mutke]] that he was the first person to break the sound barrier, on {{nowrap|April 9}}, 1945, in a [[Messerschmitt Me 262|Me 262]].&lt;ref&gt;{{cite web|last=Yoon|first=Joe|url=http://www.aerospaceweb.org/question/history/q0198c.shtml|title=Me 262 &amp; the Sound Barrier|website=Aerospaceweb|date=7 October 2004|access-date=14 April 2015}}&lt;/ref&gt;|group=Note}} over the Rogers Dry Lake in the [[Mojave Desert]].&lt;ref&gt;[http://www.history.com/this-day-in-history/yeager-breaks-sound-barrier "This day in history: Yeager breaks the sound barrier."]&lt;/ref&gt; Yeager was awarded the [[Mackay Trophy]] and the [[Collier Trophy]] in 1948 for his mach-transcending flight, and the [[Harmon International Trophy]] in 1954. The X-1 he flew that day was later put on permanent display at the [[Smithsonian Institution]]'s [[National Air and Space Museum]].
+
+Yeager went on to break many other speed and altitude records. He was also one of the first American pilots to fly a [[Mikoyan-Gurevich MiG-15|MiG-15]], after its pilot, [[No Kum-sok]], defected to [[South Korea]].&lt;ref&gt;Clark 1954, p. 208.&lt;/ref&gt;&lt;ref&gt;Kum-Suk and Osterholm 2007, p. 158.&lt;/ref&gt; Returning to Muroc, during the latter half of 1953, Yeager was involved with the USAF team that was working on the [[Bell X-1#X-1A|X-1A]], an aircraft designed to surpass Mach 2 in level flight. That year, he flew a [[chase plane|chase aircraft]] for the civilian pilot [[Jacqueline Cochran|Jackie Cochran]] as she became the first woman to fly faster than sound.&lt;ref name="yeagerbio_252"/&gt;
+
+On {{nowrap|November 20}}, 1953, the U.S. Navy program involving the [[Douglas Skyrocket|D-558-II Skyrocket]] and its pilot, [[Albert Scott Crossfield|Scott Crossfield]], became the first team to reach twice the speed of sound. After they were bested, Ridley and Yeager decided to beat rival Crossfield's speed record in a series of test flights that they dubbed "Operation NACA Weep." Not only did they beat Crossfield by setting a new record at Mach 2.44 on {{nowrap|December 12}}, 1953, but they did it in time to spoil a celebration planned for the [[Wright brothers|50th anniversary of flight]] in which Crossfield was to be called "the fastest man alive."&lt;ref name="yeagerbio_252"&gt;Yeager and Janos 1985, p. 252.&lt;/ref&gt;
+
+The new record flight, however, did not entirely go to plan, since shortly after reaching Mach 2.44, Yeager lost control of the X-1A at about {{convert|80000|ft|m|abbr=on}} due to [[inertia coupling]], a phenomenon largely unknown at the time. With the aircraft simultaneously rolling, pitching, and yawing out of control, Yeager dropped {{convert|51000|ft|m}} in less than a minute before regaining control at around {{convert|29000|ft|m}}. He then managed to land without further incident.&lt;ref name="yeagerbio_252"/&gt; For this achievement, Yeager was awarded the [[Distinguished Service Medal (U.S. Army)|Distinguished Service Medal]] (DSM) in 1954.{{Refn|Yeager received the DSM in the Army design, since the [[Air Force Distinguished Service Medal]] was not awarded until 1965.|group=Note}}
+
+====Military command====
+[[File:Charles Yeager photo portrait head on shoulders left side.jpg|thumb|upright|Chuck Yeager in 1950]]
+Yeager was foremost a fighter pilot and held several squadron and wing commands. From May 1955 to July 1957 he commanded the [[North American F-86 Sabre|F-86H Sabre]]-equipped 417th Fighter-Bomber Squadron (50th Fighter-Bomber Wing) at [[Frankfurt-Hahn Airport|Hahn AB]], Germany, and [[Toul-Rosieres Air Base]], France; and from 1957 to 1960 the [[North American F-100 Super Sabre|F-100D Super Sabre]]-equipped [[1st Fighter Squadron (United States)|1st Fighter Day Squadron]] (later, while still under Yeager's command, re-designated the 306th Tactical Fighter Squadron) at [[George Air Force Base]], California, and [[Morón Air Base]], Spain.
+
+Now a full colonel&lt;ref&gt;[http://www.chuckyeager.com/1961-1975-to-new-heights Yeager (n.d.). To New Heights: 1961–1975]&lt;/ref&gt; in 1962, after completion of a year's studies at the [[Air War College]], Yeager became the first commandant of the [[U.S. Air Force Test Pilot School|USAF Aerospace Research Pilot School]], which produced astronauts for [[National Aeronautics and Space Administration|NASA]] and the USAF, after its redesignation from the USAF Flight Test Pilot School. (Yeager himself had only a high school education, so he was not eligible to become an astronaut like those he trained.) Between December 1963 and January 1964,&lt;ref name=Crash&gt;[http://www.check-six.com/Crash_Sites/NF-104A_crash_site.htm "The Crash of Chuck Yeager's NF-104A".] ''check-six.com'', December 10, 1963.&lt;/ref&gt; Yeager completed five flights in the [[NASA M2-F1]] [[lifting body]]. An accident during a [[Lockheed NF-104A#Third NF-104A|December 1963 test flight]] in one of the school's [[Lockheed NF-104A|NF-104]]s eventually put an end to his record attempts.
+
+In 1966 Yeager took command of the 405th Tactical Fighter Wing at [[Clark Air Base]], the [[Philippines]], whose squadrons were deployed on rotational temporary duty (TDY) in [[South Vietnam]] and elsewhere in Southeast Asia. There he accrued another 414 hours of combat time in 127 missions, mostly in a [[Martin B-57 Canberra]] light bomber. In February 1968, Yeager was assigned command of the [[4th Fighter Wing|4th Tactical Fighter Wing]] at [[Seymour Johnson Air Force Base]], [[North Carolina]], and led the [[McDonnell Douglas F-4 Phantom II]] wing in [[South Korea]] during the [[USS Pueblo (AGER-2)|''Pueblo'' crisis]].
+
+On {{nowrap|June 22}}, 1969, Yeager was promoted to [[Brigadier general (United States)|brigadier general]] and was assigned in July as the vice-commander of the [[Seventeenth Air Force]].
+
+From 1971 to 1973, at the behest of Ambassador Joe Farland, Yeager was assigned to [[Pakistan]] to advise the [[Pakistan Air Force]].&lt;ref name="yeagerbio_391"&gt;Yeager and Janos 1985, p. 391.&lt;/ref&gt;  In one of the numerous raids carried out by Indian pilots against Pakistani airfields, Yeager's plane was destroyed while it was parked at Islamabad airport.&lt;ref name="yeagerbio_398"&gt;Yeager and Janos 1985, pp. 398.&lt;/ref&gt;  Edward C. Ingraham, a U.S diplomat who had served as political counselor to Ambassador Farland in Islamabad recalled this incident in the ''Washington Monthly'' of October, 1985: "After Yeager’s Beechcraft was destroyed during an Indian air raid, he raged to his cowering colleagues that the Indian pilot had been specifically instructed by Indira Gandhi to blast his plane. 'It was,' he later wrote, 'the Indian way of giving Uncle Sam the finger.'" &lt;ref&gt;{{cite web|url=http://www.unz.org/Pub/WashingtonMonthly-1985oct-00035|title=The Right Stuff in the Wrong Place|publisher=Washington Monthly |access-date=2017-09-08}}&lt;/ref&gt;
+
+===Post-retirement career===
+[[File:ChuckYeager.jpeg|thumb|upright|Brigadier General Yeager in 2000]]
+
+On {{nowrap|March 1}}, 1975, following assignments in Germany and Pakistan, Yeager retired from the Air Force at [[Norton Air Force Base]] after serving over 33 years on active duty, although he continued to occasionally fly for the USAF and NASA as a consulting test pilot at Edwards AFB.{{refn|For his consultant work to the Test Pilot School Commander at Edwards Air Force Base, Yeager was paid one dollar annually, along with all the flying time he wanted. The $1 allowed him to be covered by [[workers' compensation]] insurance.|group=Note}}
+
+Yeager made a [[cameo appearance]] in the movie ''[[The Right Stuff (film)|The Right Stuff]]'' (1983). He played "Fred," a bartender at [[Happy Bottom Riding Club|"Pancho's Place"]], which was most appropriate, as Yeager said, "if all the hours were ever totaled, I reckon I spent more time at her place than in a cockpit over those years."&lt;ref&gt;Yeager and Janos 1985, p. 172.&lt;/ref&gt; His own role in the movie was played by [[Sam Shepard]].
+
+For several years in the 1980s, Yeager was connected to [[General Motors]], publicizing [[AC Delco]], the company's automotive parts division.&lt;ref name="yeagerbio_418"&gt;Yeager and Janos 1985, p. 418.&lt;/ref&gt; In 1986 he was invited to drive the [[Chevrolet Corvette]] [[pace car]] for the [[1986 Indianapolis 500|70th running of the Indianapolis 500]]. In [[1988 Indianapolis 500|1988]], Yeager was again invited to drive the pace car, this time at the wheel of an [[Oldsmobile Cutlass Supreme]]. In 1986, President Reagan appointed Yeager to the [[Rogers Commission]] that investigated the explosion of the [[Space Shuttle Challenger|Space Shuttle ''Challenger'']].&lt;ref&gt;[http://www.456fis.org/CHUCK_YEAGER_BIOGRAPHY.htm "Brigadier General Charles E. Yeager."] ''The 456th Fighter Interceptor Squadron.'' Retrieved: December 8, 2010.&lt;/ref&gt;
+
+In the late 1980s and early 1990s, Yeager set several light general aircraft performance records for speed, range, and endurance. Most notable were flights conducted on behalf of [[Piper Aircraft]]. On one such flight, Yeager performed an emergency landing as a result of fuel exhaustion. On another, he piloted Piper's [[turboprop]] [[Piper PA-42 Cheyenne|Cheyenne 400LS]] to a time-to-height record: FL350 (35,000 feet) in 16 minutes, exceeding the climb performance of a Boeing 737 at gross weight.
+
+During this time Yeager also served as a technical adviser for three Electronic Arts flight simulator video games. The games include ''[[Chuck Yeager's Advanced Flight Trainer]]'', ''[[Chuck Yeager's Advanced Flight Trainer 2.0]]'', and ''[[Chuck Yeager's Air Combat]]''. The game manuals featured quotes and anecdotes from Yeager, and were well received by players. Missions featured several of Yeager's accomplishments and let players attempt to top his records. ''Chuck Yeager's Advanced Flight Trainer'' was Electronic Art's top selling game for 1987.&lt;ref&gt;[http://www.mobygames.com/game/chuck-yeagers-advanced-flight-simulator "Moby Games"] ''Chuck Yeager's Advanced Flight Trainer'' Retrieved: June 9th, 2017.&lt;/ref&gt;
+
+In 2009, Yeager participated in the documentary ''[[The Legend of Pancho Barnes and the Happy Bottom Riding Club]]'', a profile of his friend [[Pancho Barnes]]. The documentary was screened at film festivals, aired on public television in the United States and won an [[Emmy Award]].&lt;ref&gt;{{Cite web |url=http://www.legendofpanchobarnes.com/ |title=Archived copy |access-date=2013-08-03 |archive-url=https://web.archive.org/web/20130523111947/http://www.legendofpanchobarnes.com/ |archive-date=2013-05-23 |dead-url=yes |df= }}&lt;/ref&gt;
+
+Yeager is fully retired from military test flying, after having maintained that status for three decades after his official retirement from the Air Force. On {{nowrap|October 14}}, 1997, on the 50th anniversary of his historic flight past Mach 1, he flew a new ''Glamorous Glennis III'', an [[McDonnell Douglas F-15 Eagle|F-15D Eagle]], past Mach 1. The chase plane for the flight was an [[General Dynamics F-16 Fighting Falcon|F-16 Fighting Falcon]] piloted by [[Bob Hoover]], a longtime test, fighter and [[aerobatic]] pilot who had been Yeager's wingman for the first supersonic flight. This was Yeager's last official flight with the U.S. Air Force. At the end of his speech to the crowd, Yeager concluded, "All that I am ... I owe to the Air Force." Later that month, he was the recipient of the [[Tony Jannus Award]] for his achievements.
+
+On {{nowrap|October 14}}, 2012, on the 65th anniversary of breaking the sound barrier, Yeager did it again at the age of 89, riding in a [[McDonnell Douglas F-15 Eagle]] piloted by Captain David Vincent out of [[Nellis Air Force Base]].&lt;ref&gt;Rogers, Keith. [http://www.lvrj.com/news/famous-pilot-yeager-re-enacting-right-stuff-65-years-later-173858381.html "Famous pilot Yeager re-enacting right stuff 65 years later."] ''Las Vegas Review-Journal,'' October 12, 2012.&lt;/ref&gt;
+
+==Awards and decorations==
+[[File:Yeager congressional silver medal.jpg|thumb|Special Congressional Silver Medal awarded to Yeager in 1976]]
+In 1973, Yeager was inducted into the [[National Aviation Hall of Fame]], arguably aviation's highest honor. In December 1975, the U.S. Congress awarded Yeager a silver medal "equivalent to a noncombat [[Medal of Honor]] ... for contributing immeasurably to aerospace science by risking his life in piloting the X-1 research airplane faster than the speed of sound on {{nowrap|October 14}}, 1947." President [[Gerald Ford]] presented the medal to Yeager in a ceremony at the White House on {{nowrap|December 8}}, 1976.&lt;ref&gt;[[s:Page:United States Statutes at Large Volume 89.djvu/1094|"Public Law 94-179."]] ''United States Statutes.'' Retrieved: September 10, 2012.&lt;/ref&gt;{{refn|This is apparently a unique award, as the law that created it states it is equivalent to a noncombat Medal of Honor. It is referred to as a Special Congressional Silver Medal in the President's Daily Diary (also see for a list of ceremony attendees).&lt;ref&gt;[http://www.fordlibrarymuseum.gov/library/document/0036/pdd761208.pdf "The Daily Diary of President Gerald R. Ford."] ''fordlibrarymuseum.gov.'' Retrieved: September 10, 2012.&lt;/ref&gt;|group=Note}}
+
+Yeager, who never attended college and was often modest about his background, is considered by many, including ''Flying Magazine'', the California Hall of Fame, the State of West Virginia, National Aviation Hall of Fame, a few U.S. presidents, and the United States Army Air Force, to be one of the greatest pilots of all time. Despite his lack of higher education, he has been honored in his home state. [[Marshall University]] has named its highest academic scholarship, the [[Society of Yeager Scholars]], in his honor. Yeager was also the chairman of [[Experimental Aircraft Association]]'s [[Young Eagles|Young Eagle Program]] from 1994–2004, and has been named the program's chairman emeritus.&lt;ref&gt;Ford, Harrison. "Freedom and Responsibility". ''[[Sport Aviation (magazine)|Sport Aviation]]'', September 2010.&lt;/ref&gt;
+
+In 1966, Yeager was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+[[Yeager Airport]] in [[Charleston, West Virginia]], is named in his honor. The [[Interstate 64]]/[[Interstate 77]] bridge over the [[Kanawha River]] in Charleston is named in his honor. On {{nowrap|October 19}}, 2006, the state of [[West Virginia]] also honored Yeager with a marker along [[Corridor G (Appalachian Development Highway System)|Corridor G]] (part of [[U.S. Route 119|U.S. 119]]) in his home Lincoln County, and also renamed part of the highway the ''Yeager Highway''.&lt;ref name=YeagerComesHome&gt;[http://www.wowktv.com/story.cfm?func=viewstory&amp;storyid=15274 "Yeager Comes Home."] {{webarchive|url=https://web.archive.org/web/20061110171342/http://www.wowktv.com/story.cfm?func=viewstory&amp;storyid=15274 |date=2006-11-10 }} ''[[WOWK-TV]]'', August 19, 2006.&lt;/ref&gt;
+
+Yeager is an honorary board member of the humanitarian organization [[Wings of Hope (charity)|Wings of Hope]].&lt;ref&gt;[http://wings-of-hope.org "Chuck Yeager."] ''Wings of Hope''. Retrieved: December 8, 2010.&lt;/ref&gt; On {{nowrap|August 25}}, 2009, [[Governor Schwarzenegger]] and [[Maria Shriver]] announced that Yeager would be one of 13 [[California Hall of Fame]] inductees in [[The California Museum]]'s yearlong exhibit. The induction ceremony was on {{nowrap|December 1}}, 2009, in [[Sacramento, California]]. ''[[Flying Magazine]]'' ranked Yeager number 5 on its 2013 list of The 51 Heroes of Aviation; he is the highest-ranked living person on the list.&lt;ref&gt;[http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41840 "Chuck Yeager."] ''Flying Magazine’s 51 Heroes of Aviation'', August 19, 2013. Retrieved: April 14, 2015.&lt;/ref&gt;
+
+The [[Civil Air Patrol]], the volunteer auxiliary of the USAF, awards the Charles E. "Chuck" Yeager Award to its Senior Members as part of its Aerospace Education program.&lt;ref&gt;[http://members.gocivilairpatrol.com/aerospace_education/awards/yeager-award/ "Yeager Award – Civil Air Patrol."] {{webarchive|url=https://web.archive.org/web/20131104044104/http://members.gocivilairpatrol.com/aerospace_education/awards/yeager-award/ |date=2013-11-04 }} ''Members.gocivilairpatrol.com''. Retrieved: July 10, 2014.&lt;/ref&gt;  The General Chuck Yeager Cadet Squadron (SER-FL-237), associated with the Florida Wing, Civil Air Patrol, and based in Brandon, Florida, is also named in his honor.
+{{refimprove|table|date=October 2017}}
+
+{| class="wikitable"
+|- style="background:#ccf; text-align:center;"
+| colspan=2 |'''Badges, patches and tabs'''
+|-
+|[[File:COMMAND PILOT WINGS.png|100px]]
+|[[United States Aviator Badge|U.S. Air Force Command Pilot Badge]]
+|- style="background:#ccf; text-align:center;"
+| colspan=2 |'''Personal decorations'''
+|-
+|{{ribbon devices|number=0|type=oak|name=Air Force Distinguished Service ribbon|width=60}}
+|[[Air Force Distinguished Service Medal]] (retirement award in 1975)
+|-
+|{{ribbon devices|number=0|type=oak|name=Distinguished Service Medal ribbon|width=60}}
+|[[Distinguished Service Medal (U.S. Army)|Distinguished Service Medal]] (Army design awarded in 1954)
+|-
+|{{ribbon devices|number=1|type=oak|name=Silver Star ribbon|width=60}}
+|[[Silver Star]] with bronze [[oak leaf cluster]] (for shooting down five Messerschmitt Bf 109s in one day&lt;ref name="yeagerbio_73"&gt;Yeager and Janos 1985, p. 73.&lt;/ref&gt;)
+|-
+|{{ribbon devices|number=1|type=oak|name=Legion of Merit ribbon|width=60}}
+|[[Legion of Merit]] with bronze oak leaf cluster
+|-
+|{{ribbon devices|number=2|type=oak|name=Distinguished Flying Cross ribbon|width=60}}
+|[[Distinguished Flying Cross (United States)|Distinguished Flying Cross]] with two bronze oak leaf clusters (for a Messerschmitt Me 262 kill&lt;ref name="yeagerbio_76"&gt;Yeager and Janos 1985, p. 76.&lt;/ref&gt; and first to break the sound barrier)
+|-
+|{{ribbon devices|number=0|type=oak|other_device=v|name=Bronze Star ribbon|width=60}}
+|[[Bronze Star Medal]] with bronze [[valor device]] (for helping rescue a fellow airman from Occupied France&lt;ref name="yeagerbio_45" /&gt;)
+|-
+|{{ribbon devices|number=0|type=oak|name=Purple Heart BAR|width=60}}
+|[[Purple Heart]]
+|-
+|{{ribbon devices|number=10|type=oak|name=Air Medal ribbon|width=60}}
+|[[Air Medal]] with two silver oak leaf clusters
+|-
+|{{ribbon devices|number=0|type=oak|name=Air Force Commendation ribbon|width=60}}
+|[[Air Force Commendation Medal]]
+|-
+|{{ribbon devices|number=0|type=oak|ribbon=Presidential Medal of Freedom (ribbon).png|width=60}}
+|[[Presidential Medal of Freedom]]
+|- style="background:#ccf; text-align:center;"
+| colspan=2 |'''Unit awards'''
+|-
+|{{ribbon devices|number=1|type=oak|ribbon=AF Presidential Unit Citation Ribbon.png|width=60}}
+|[[Presidential Unit Citation (United States)|Presidential Unit Citation]] with bronze oak leaf cluster
+|-
+|{{ribbon devices|number=0|type=oak|name=Outstanding Unit ribbon|width=60}}
+|[[Outstanding Unit Award|Air Force Outstanding Unit Award]]
+|- style="background:#ccf; text-align:center;"
+| colspan=2 |'''Campaign and service medals'''
+|-
+|{{ribbon devices|number=0|type=oak|name=American Defense Service ribbon|width=60}}
+|[[American Defense Service Medal]]
+|-
+|{{ribbon devices|number=0|type=service-star|name=American Campaign Medal ribbon|width=60}}
+|[[American Campaign Medal]]
+|-
+|{{ribbon devices|number=8|type=service-star|name=European-African-Middle Eastern Campaign ribbon|width=60}}
+|[[European-African-Middle Eastern Campaign Medal]] with silver and three bronze [[service star]]s
+|-
+|{{ribbon devices|number=0|type=oak|name=World War II Victory Medal ribbon|width=60}}
+|[[World War II Victory Medal (United States)|World War II Victory Medal]]
+|-
+|{{ribbon devices|number=0|type=oak|name=Army of Occupation ribbon|width=60}}
+|[[Army of Occupation Medal]] with "Germany" clasp
+|-
+|{{ribbon devices|number=1|type=service-star|name=National Defense Service Medal ribbon|width=60}}
+|[[National Defense Service Medal]] with star
+|-
+|{{ribbon devices|number=0|type=oak|name=AFEMRib|width=60}}
+|[[Armed Forces Expeditionary Medal]]
+|-
+|{{ribbon devices|number=2|type=service-star|name=Vietnam Service Ribbon|width=60}}
+|[[Vietnam Service Medal]] with two campaign stars
+|-
+|{{ribbon devices|number=6|type=oak|name=Air Force Longevity Service ribbon|width=60}}
+|[[Air Force Longevity Service Ribbon]] with one silver and one bronze oak leaf clusters
+|-
+|{{ribbon devices|number=0|type=oak|name=USAF Marksmanship ribbon|width=60}}
+|[[Marksmanship Ribbon|Air Force Small Arms Expert Marksmanship Ribbon]]
+|-
+|[[File:Vietnam Campaign Medal ribbon with 60- clasp.svg|60px]]
+|[[Republic of Vietnam Campaign Medal]]
+|}
+
+===Other achievements===
+[[File:CAP Yeager Cadet Sq Emblem.gif|alt=Gen Chuck Yeager Cadet Squadron (SER-FL-237)|thumb|Official emblem of the General Chuck Yeager Cadet Squadron (Civil Air Patrol)]]
+{{Plainlist |
+* 1940–1949 [[Harmon Trophy]]: Citation of Honorable Mention
+* 1953 [[Harmon Trophy]]
+* 1976 [[Congressional Silver Medal]] for breaking the sound barrier for the first time.&lt;ref name="yeagerbio_413-414"&gt;Yeager and Janos 1985, pp. 413–414.&lt;/ref&gt;
+* 1976 [[Collier Trophy]] and [[Mackay Trophy]], for breaking the sound barrier for the first time.
+}}
+
+==Personal life==
+Yeager named his plane after his wife Glennis as a good-luck charm; "You're my good-luck charm, hon. Any airplane I name after you always brings me home".&lt;ref&gt;{{Cite book|title=How is it done?|last=Frost|first=John|publisher=The Reader's Digest Association Limited|year=1990|isbn=|location=London|pages=202|quote=|via=}}&lt;/ref&gt; Yeager and Glennis moved to [[Grass Valley, California]], after his retirement from the Air Force in 1975. The couple prospered because of Yeager's best-selling autobiography, speaking engagements and commercial ventures.&lt;ref name="Moller"&gt;Moller, Dave. [http://www.theunion.com/apps/pbcs.dll/article?AID=/20040219/NEWS/102190105 "Yeager children sue their father."] ''The Union'' (Nevada County, California), February 19, 2004. Retrieved: September 26, 2011.&lt;/ref&gt; Glennis Yeager died of [[ovarian cancer]] in 1990. They had four children (Susan, Don, Mickey and Sharon).&lt;ref name="Tresniowski"&gt;Tresniowski, Alex. [http://www.people.com/people/archive/article/0,,20149499,00.html "The Wife Stuff – Feuds, Trials &amp; Lawsuits, Bills, Bills, Bills, Chuck Yeager."] ''[[People (American magazine)|People]],'' March 8, 2004. Retrieved: September 26, 2011.&lt;/ref&gt;
+
+In 2000, Yeager met actress Victoria Scott D'Angelo on a hiking trail in Nevada County. The pair started dating shortly thereafter, and married in August 2003.&lt;ref name='LAT'/&gt; Subsequent to the commencement of their relationship, a bitter dispute arose between Yeager, his children and D'Angelo. The children contended that D'Angelo, 41 years Yeager's junior, had married him for his fortune.  Yeager and D'Angelo both denied the charge. Litigation ensued, in which his children accused D'Angelo of "undue influence" on Yeager, and Yeager accused his children of diverting hundreds of thousands of dollars from his pension fund.&lt;ref name="Tresniowski"/&gt;&lt;ref name='LAT'&gt;Hubler, Shawn. [http://articles.latimes.com/2004/jul/02/entertainment/et-hubler2 "Far from heavens."] ''[[Los Angeles Times]],'' July 2, 2004. Retrieved: September 26, 2011.&lt;/ref&gt;&lt;ref name=Nyt060607&gt;[https://www.nytimes.com/2006/06/07/us/07brfs-brief-006.html?_r=1&amp;ex=1155787200&amp;en=95aaa879ddd4b2fa&amp;ei=5070 "Record-Setting Pilot Chuck Yeager Sues His Children."] ''[[The New York Times]]'', June 7, 2006.&lt;/ref&gt; In August 2008, the [[California Court of Appeal]] ruled for Yeager, finding that his daughter Susan had breached her duty as trustee.&lt;ref&gt;[http://www.metnews.com/articles/2008/yeag082608.htm "C.A. rules against Chuck Yeager’s daughter in dispute with stepmother."] ''MetNews,'' August 26, 2008. Retrieved: November 30, 2012.&lt;/ref&gt;&lt;ref&gt;''[http://www.fearnotlaw.com/articles/article22023.html Yeager v. D’Angelo]'', no. C052483 (Cal.App.3rd, Aug. 22, 2008).&lt;/ref&gt;
+
+Yeager and Victoria reside in [[Penn Valley, California]], the location of the General Chuck Yeager Foundation, which supports programs that "teach the ideals by which General Yeager has lived."&lt;ref&gt;[http://www.engineerscouncil.org/Yeager/ChuckYeagerFoundation/foundation1.htm "Mission Statement."] ''Chuck Yeager Foundation'' via ''Engineer's Council of San Fernando Valley, California.'' Retrieved: November 18, 2011.&lt;/ref&gt; 
+
+==See also==
+*[[List of firsts in aviation]]
+*[[Chuck Yeager's Advanced Flight Trainer]]
+*[[Chuck Yeager's Air Combat]]
+
+==References==
+
+===Notes===
+{{Reflist|group=Note}}
+
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* Clark, Mark. ''From the Danube to the Yalu.'' New York: Harper, 1954.
+* Coady, C. A. J. ''Morality and Political Violence''. Cambridge, UK: Cambridge University Press, 2008. {{ISBN|978-0-521-70548-6}}.
+* Disney, Ryan. "Escape &amp; Evasion Report No. 686: The True Story of an American Fighter Pilot's Escape from Nazi-Occupied France". Amazon Digital Services, 2016. ASIN: B01N9LBA0H. 
+* Hallion, Richard P. ''Designers and Test Pilots''. New York: Time-Life Books, 1982. {{ISBN|0-8094-3316-8}}.
+* Kum-Suk, No and J. Roger Osterholm. ''A MiG-15 to Freedom: Memoir of the Wartime North Korean Defector who First Delivered the Secret Fighter Jet to the Americans in 1953.'' Jefferson, North Carolina: McFarland &amp; Co., 2007, First edition 1996. {{ISBN|0-7864-0210-5}}.
+* Pisano, Dominick A., R. Robert van der Linden and [[Frank H. Winter]]. ''Chuck Yeager and the Bell X-1: Breaking the Sound Barrier''. Washington, D.C.: Smithsonian National Air and Space Museum (in association with Abrams, New York), 2006. {{ISBN|0-8109-5535-0}}.
+* Samuel, Wolfgang, W.E. ''American Raiders: The Race to Capture the Luftwaffe's Secrets''. Jackson, Mississippi: University Press of Mississippi, 2004. {{ISBN|978-1-57806-649-0}}.
+* [[Tom Wolfe|Wolfe, Tom]]. ''[[The Right Stuff (book)|The Right Stuff]]''. New York: [[Farrar, Straus and Giroux|Farrar-Straus-Giroux]], 1979. {{ISBN|0-374-25033-2}}.
+* Yeager, Chuck, Bob Cardenas, Bob Hoover, Jack Russell and James Young. ''The Quest for Mach One: A First-Person Account of Breaking the Sound Barrier''. New York: Penguin Studio, 1997. {{ISBN|0-670-87460-4}}.
+* Yeager, Chuck and Charles Leerhsen. ''Press on! Further Adventures in the Good Life''. New York: Bantam Books, 1988. {{ISBN|0-553-05333-7}}.
+* Yeager, Chuck and Leo Janos. ''Yeager: An Autobiography''. New York: Bantam, 1985. {{ISBN|978-0-553-25674-1}}.
+{{Refend}}
+
+==External links==
+* {{official website|https://web.archive.org/web/20060502161501/http://www.edwards.af.mil/history/docs_html/people/yeager_biography.html}}
+* [http://www.chuckyeager.org Original Yeager website]
+* [http://www.af.mil/AboutUs/Biographies/Display/tabid/225/Article/105165/brigadier-general-charles-e-chuck-yeager.aspx U.S. Air Force: Chuck Yeager biography]
+* {{webarchive |url=https://web.archive.org/web/20060502161501/http://www.edwards.af.mil/history/docs_html/people/yeager_biography.html |date=May 2, 2006 |title=Biographical sketch }}
+* [http://www.aerospaceweb.org/question/history/q0011a.shtml "Chuck Yeager &amp; the Sound Barrier"]
+* [https://web.archive.org/web/20060502161501/http://www.edwards.af.mil/history/docs_html/people/yeager_biography.html Space.com: Chuck Yeager]
+* [http://www.check-six.com/Crash_Sites/NF-104A_crash_site.htm The Crash of Yeager's NF-104]
+* [http://www.nationalaviation.org/our-enshrinees/yeager-charles-chuck/ Yeager's biography in the National Aviation Hall of Fame]
+
+{{Top US World War II Aces}}
+{{Authority control}}
+{{Subject bar
+| portal1=Aviation
+| portal2=Biography
+| portal3=United States Air Force
+| portal4=World War II
+| commons=y
+| commons-search=Chuck Yeager
+}}
+
+{{DEFAULTSORT:Yeager, Chuck}}
+[[Category:United States Air Force generals]]
+[[Category:American World War II flying aces]]
+[[Category:Aviation pioneers]]
+[[Category:Aviation history of the United States]]
+[[Category:American military personnel of the Vietnam War]]
+[[Category:Shot-down aviators]]
+[[Category:Harmon Trophy winners]]
+[[Category:Collier Trophy recipients]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Recipients of the Silver Star]]
+[[Category:Recipients of the Air Force Distinguished Service Medal]]
+[[Category:Recipients of the Distinguished Flying Cross (United States)]]
+[[Category:Recipients of the Legion of Merit]]
+[[Category:Recipients of the Air Medal]]
+[[Category:People from Lincoln County, West Virginia]]
+[[Category:1923 births]]
+[[Category:Living people]]
+[[Category:U.S. Air Force Test Pilot School alumni]]
+[[Category:American test pilots]]
+[[Category:United States Army Air Forces soldiers]]
+[[Category:United States Army Air Forces officers]]
+[[Category:United States Army Air Forces pilots of World War II]]
+[[Category:Aviators from West Virginia]]
+[[Category:Military personnel from West Virginia]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:American expatriates in Pakistan]]
+[[Category:Mackay Trophy winners]]
+[[Category:Articles containing video clips]]
+[[Category:Survivors of aviation accidents or incidents]]
+[[Category:American aviation record holders]]</text>
+      <sha1>8djf94q0m4aglgjrbupcaf5oefehirj</sha1>
+    </revision>
+  </page>
+</mediawiki>

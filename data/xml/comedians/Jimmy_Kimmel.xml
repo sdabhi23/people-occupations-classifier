@@ -1,0 +1,802 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jimmy Kimmel</title>
+    <ns>0</ns>
+    <id>385290</id>
+    <revision>
+      <id>852625806</id>
+      <parentid>851153188</parentid>
+      <timestamp>2018-07-30T08:16:16Z</timestamp>
+      <contributor>
+        <username>All Hallow's Wraith</username>
+        <id>5044346</id>
+      </contributor>
+      <minor/>
+      <comment>/* Early life and family */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="58524">{{semiprotected|small=yes}}
+{{Use mdy dates|date=June 2016}}
+{{Use American English|date=June 2016}}
+{{Infobox comedian
+| image                 = Jimmy Kimmel and Cousin Sal (cropped).jpg
+| name                  = Jimmy Kimmel
+| alt                   =
+| caption               = Kimmel at [[Citi Field]] in 2015
+| pseudonym             =
+| birth_name            = James Christian Kimmel
+| birth_date            = {{Birth date and age|mf=yes|1967|11|13}}&lt;ref&gt;{{cite news |title = Monitor |newspaper = ''Entertainment Weekly'' |date = November 18, 2011 |issue = 1181 |page = 34}}&lt;/ref&gt;
+| birth_place           = [[Brooklyn, New York]], U.S.&lt;ref name="rock interview" /&gt;
+| medium                = {{hlist|Television|film|radio}}
+| active                = 1989–present
+| genre                 = {{hlist|[[Observational comedy]]|[[black comedy]]|[[insult comedy]]|[[surreal humor]]|[[satire]]|[[deadpan]]}}
+| subject               = {{hlist|[[Culture of the United States|American culture]]|[[American politics]]|[[everyday life]]|[[pop culture]]|[[gender differences]]|[[human behavior]]|[[human sexuality]]}}
+| spouse                = {{Plainlist|
+* {{Marriage|Gina Maddy|1988|2002|reason=divorced}}
+* {{Marriage|Molly McNearney|2013}}
+}}
+| children              = 4
+| relatives             = {{plainlist|
+*[[Jonathan Kimmel]] &lt;small&gt;(brother)&lt;/small&gt;
+*[[Frank Potenza]] &lt;small&gt;(uncle)&lt;/small&gt;
+*[[Sal Iacono]] &lt;small&gt;(cousin)&lt;/small&gt;
+}}
+| website               = {{official website}}
+}}
+
+'''James Christian Kimmel''' (born November 13, 1967)&lt;ref name=tvgbio /&gt; is an American television host, comedian, writer, and producer. He is the host and executive producer of ''[[Jimmy Kimmel Live!]]'', a [[late-night talk show]] that premiered on [[American Broadcasting Company|ABC]] in 2003. Kimmel hosted the [[Primetime Emmy Awards]] in [[64th Primetime Emmy Awards|2012]] and [[68th Primetime Emmy Awards|2016]], and the [[Academy Awards]] in [[89th Academy Awards|2017]] and [[90th Academy Awards|2018]].
+
+Before hosting ''Jimmy Kimmel Live!'', he was best known as the co-host of [[Comedy Central|Comedy Central's]] ''[[The Man Show]]'' and ''[[Win Ben Stein's Money]]''. Kimmel has also produced such shows as ''[[Crank Yankers]]'', ''[[Sports Show with Norm Macdonald]]'', and ''[[The Andy Milonakis Show]]''.
+
+== Early life and family ==
+Kimmel was born in [[Brooklyn]], [[New York (state)|New York]], and grew up in the neighborhood of [[Mill Basin, Brooklyn|Mill Basin]]&lt;ref name="rock interview"&gt;{{cite episode |title = Interview with Chris Rock |series = Jimmy Kimmel Live |network=ABC |airdate=June 24, 2010}}&lt;/ref&gt; as the eldest of three children of Joan (née Iacono), a homemaker, and James John Kimmel, who worked at [[American Express]] and was an [[IBM]] executive.&lt;ref name=people&gt;{{cite web |last = Lipton |first = Michael A. |url = http://www.people.com/people/archive/article/0,,20139546,00.html |title = Kimmel Vision – Jimmy Kimmel Live, Jimmy Kimmel |work = People |date = March 17, 2003 |accessdate = July 19, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url = https://www.nytimes.com/2007/10/21/arts/television/21rhod.html |work = The New York Times |title = Distilling the Fun From Dysfunctional |first = Joe |last = Rhodes |date = October 21, 2007 |accessdate = May 6, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite episode |title = Interview with Matthew Fox |series = Jimmy Kimmel Live |network = ABC |airdate = July 29, 2010}}&lt;/ref&gt;
+
+He is, and was raised, Catholic, and as a child was an [[altar server]].&lt;ref&gt;{{cite news |url = http://uk.reuters.com/article/idUKN1447436020080715 |title = Jimmy Kimmel and Sarah Silverman end 5-year romance |publisher = Reuters |date = July 15, 2008 |accessdate = May 20, 2010 |last = Nielsen}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url = https://tv.yahoo.com/jimmy-kimmel/contributor/585360/bio |title = Jimmy Kimmel Biography |publisher = Yahoo! TV |quote = Jimmy Kimmel, was born on November 13, 1967, in Brooklyn, NY to devoutly Catholic parents who made sure that Kimmel served as an altar boy, ... |accessdate = May 20, 2010 |deadurl = yes |archiveurl = https://web.archive.org/web/20101013014508/http://tv.yahoo.com/jimmy-kimmel/contributor/585360/bio |archivedate = October 13, 2010 |df = mdy-all }}&lt;/ref&gt; Kimmel's mother is of Italian ancestry, while two of his paternal great-great-grandparents were German immigrants. His family's surname was "[[Kümmel (disambiguation)|Kümmel]]" ("[[caraway]]" in German) several generations back.&lt;ref name=fdnr1&gt;Stated on ''[[Finding Your Roots]]'', January 26, 2016, PBS&lt;/ref&gt;&lt;ref&gt;{{cite web |url = https://www.youtube.com/watch?v=3I5Y_lO4M8Q |title = Catherine Bell on Jimmy Kimmel |publisher = YouTube |date = September 9, 2007 |accessdate = July 19, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url = http://www.sitiincontri.it |title = extraconiugali}}&lt;/ref&gt;&lt;ref&gt;{{YouTube|q41tYW5Gfds|Ancestry.com on ''Jimmy Kimmel Live''}}&lt;/ref&gt;
+
+The family moved to [[Las Vegas, Nevada]], when he was nine years old.&lt;ref name=people /&gt; He graduated from [[Ed W. Clark High School]],&lt;ref&gt;{{cite news |last1 = Santiago |first1 = Brianna |title = 13 celebrities you didn’t know graduated from L.V. high schools |url = http://lasvegassun.com/news/2015/jun/19/12-celebrities-you-didnt-know-graduated-las-vegas-/ |accessdate = June 19, 2015 |newspaper = [[Las Vegas Sun]] |date = June 19, 2015}}&lt;/ref&gt; and then attended [[University of Nevada, Las Vegas]] (for one year) and [[Arizona State University]] (for two years). He received an honorary degree from UNLV in 2013.&lt;ref&gt;{{cite news | url=http://www.reviewjournal.com/news/education/dr-kimmel-leaves-them-laughing-unlv-graduation | title=Dr. Kimmel leaves them laughing at UNLV graduation | work=[[Las Vegas Review-Journal]] | date=May 19, 2013 | accessdate=October 10, 2016 | author=Amaro, Yesenia}}&lt;/ref&gt;
+
+Kimmel's uncle, [[Frank Potenza]] ("Uncle Frank"), appeared on ''Jimmy Kimmel Live!'' as a regular from 2003 until his death in 2011.&lt;ref name=nytimes&gt;{{cite news |first = Bill |last = Carter |title = Frank Potenza, Foil for Kimmel, Is Dead at 77 |url = https://www.nytimes.com/2011/08/26/arts/television/frank-potenza-foil-for-nephew-jimmy-kimmel-dies-at-77.html |work = New York Times |date = August 26, 2011 |accessdate = September 1, 2011}}&lt;/ref&gt; His cousin, [[Sal Iacono]], performed Kimmel's former co-hosting duties during the last season of ''Win Ben Stein's Money'' and then became a writer and sketch performer on ''Jimmy Kimmel Live!''&lt;ref&gt;{{cite web|title=10th Annual Jimmy Kimmel Live Belly Flop Competition|url=https://www.youtube.com/watch?v=JMEEdFz0d7Q|accessdate=27 July 2016|language=English|format=YouTube Video|date=20 July 2016}}&lt;/ref&gt; His Aunt Chippy (Concetta Potenza) is also a featured part of the show. His brother, Jonathan, works on the show as a director. His sister, Jill, is a comedian. He has a son, Kevin, who works on the show as a production assistant. He has a daughter, Katie, who is a ceramics artist. He also has a daughter named Jane (born c. 2014) and a son named Billy (born 2017).&lt;ref&gt;{{cite web|url=http://video.gq.com/watch/jimmy-kimmel-goes-undercover-on-reddit-twitter-wikipedia|title=Jimmy Kimmel Goes Undercover on Reddit, Twitter &amp; Wikipedia|website=GQ Videos}}&lt;/ref&gt;
+
+== Career ==
+
+=== Radio career ===
+
+Kimmel began working in the radio industry while in high school, hosting a Sunday night interview show on [[UNLV]]'s college station, [[KUNV]].{{citation needed|date=February 2014}} While attending [[Arizona State University]], he became a popular caller to the [[KZZP]]-FM afternoon show hosted by radio personalities Mike Elliott and [[Kent Voss]] in [[Phoenix, Arizona]]. In 1989, Kimmel landed his first paying job alongside Voss as morning drive co-host of ''The Me and Him Show'' at [[KZOK-FM]] in Seattle, Washington. {{citation needed|date=February 2014}}
+
+Ten months later, Kimmel and Voss were fired by KZOK and were fired again a year later at [[WRBQ-FM]] in [[Tampa, Florida]]. Kimmel went on to host his own show at [[KKUU|KCMJ]] in [[Palm Springs, California]], where he persuaded a young [[Carson Daly]] to drop out of college and become his intern. {{citation needed|date=May 2014}} After a morning stint at [[KRQQ]] in [[Tucson, Arizona]], Kimmel landed at [[KROQ-FM]] in Los Angeles. He spent five years as "Jimmy The Sports Guy" for the [[Kevin and Bean]] morning show. During this time he met and befriended a struggling comedian named [[Adam Carolla]].&lt;ref&gt;{{cite book |last = Carolla |first = Adam |title = In 50 Years We'll All Be Chicks |year = 2010 |publisher = Crown Archetype |isbn=0-307-71737-2}}&lt;!-- page(s)?? --&gt;&lt;/ref&gt;
+
+=== Comedy Central ===
+
+Kimmel began his television career as the comedic counterpart to [[Ben Stein]] on the game show ''[[Win Ben Stein's Money]]'', which began airing on [[Comedy Central]] in 1997. His quick wit and "[[everyman]]" personality were counterpoints to Stein's monotonous vocal style and faux-[[Patrician (post-Roman Europe)|patrician]] demeanor. The combination earned the pair an [[Emmy]] award for Best Game Show Host.
+
+In 1999, during his time with ''Win Ben Stein's Money'', Kimmel co-hosted (with [[Adam Carolla]]) and co-produced (with [[Daniel Kellison]]), Comedy Central's ''[[The Man Show]]''. Kimmel left ''Win Ben Stein's Money'' in 2001 and was replaced by comedian [[Nancy Pimental]], who was eventually replaced by Kimmel's cousin [[Sal Iacono]]. ''[[The Man Show]]'''s success allowed Kimmel, Carolla, and Kellison to create and produce, under the banner [[Jackhole Productions]], ''[[Crank Yankers]]'' for [[Comedy Central]] (on which Kimmel plays the characters "Elmer Higgins", "Terrence Catheter", "The Nudge", "[[Karl Malone]]" and himself) and later ''[[The Andy Milonakis Show]]'' for MTV2. Kimmel also produced and co-wrote the feature film ''[[Windy City Heat]]'', Festival Prize winner of the Comedia Award for Best Film at the 2004 [[Montreal Comedy Festival]].
+
+=== ''Jimmy Kimmel Live!'' ===
+[[File:Jimmy Kimmel in 2015.jpg|thumb|right|Kimmel during a ''[[Jimmy Kimmel Live!]]'' video taping in March 2015]]
+{{Main|Jimmy Kimmel Live!}}
+
+In January 2003, Jimmy Kimmel permanently left ''The Man Show'' to host his own late-night talk show, ''Jimmy Kimmel Live!'', on [[American Broadcasting Company|ABC]]. In the April 2007 issue of Stuffmagazine.com, Kimmel was named the "biggest badass on TV". Kimmel said it was an honor but clearly a mistake.
+
+Despite its name, the show hasn't actually aired live since 2004, when censors were unable to properly [[bleep censor]] a barrage of swearing from actor [[Thomas Jane]].&lt;ref&gt;{{cite news |url = http://www.vulture.com/2012/10/jimmy-kimmel-live-gets-new-time-slot.html |title = Jimmy Kimmel Takes On Brooklyn And Two New Rivals |last = Yuan |first = Jada |publisher = [[New York (magazine)|Vulture]] |date = October 21, 2012}}&lt;/ref&gt;
+
+During an incident during the [[2004 NBA Finals]] in Detroit, Kimmel appeared on ABC's halftime show to make an on-air plug for his show. He suggested that if the [[Detroit Pistons]] defeated the [[Los Angeles Lakers]], "they're gonna burn the city of Detroit down … and it's not worth it." Officials with Detroit's ABC affiliate, [[WXYZ-TV]], immediately announced that that night's show would not air on the station. Hours later, ABC officials pulled that night's show from the entire network. Kimmel later apologized.&lt;ref&gt;{{cite news |first = Gary |last = Susman |title = The Ban Show |url = http://www.ew.com/ew/article/0,,650146,00.html |work = Entertainment Weekly |date = June 11, 2004 |accessdate = January 2, 2009}}&lt;/ref&gt;
+
+Kimmel usually ends his show with "My apologies to [[Matt Damon]], we ran out of time." When Matt Damon did actually appear on the show to be interviewed, he walked in and sat down only to be told just a few seconds later by Kimmel, "Unfortunately, we are totally out of time," followed by "my apologies to Matt Damon." Damon appeared angry but both performers have since indicated that their faux-feud is a joke.&lt;ref&gt;Butler, Bethonie, [https://www.washingtonpost.com/news/arts-and-entertainment/wp/2017/02/27/the-long-hilarious-history-of-jimmy-kimmel-and-matt-damon-pretending-to-hate-each-other/ The long, hilarious history of Jimmy Kimmel and Matt Damon pretending to hate each other], ''[[The Washington Post]]'', 27 February 2017. Retrieved 28 February 2018.&lt;/ref&gt;
+
+In February 2008, Kimmel showed a mock music video with a panoply of stars called "[[I'm fucking matt damon|I'm Fucking Ben Affleck]]",&lt;ref&gt;{{cite news |url = http://www.people.com/people/article/0,,20180150,00.html |title = So Long, Sarah! Jimmy Kimmel Is, Well, 'Dating' Ben Affleck |first = Stephen M. |last = Silverman |work = [[People (magazine)|People]] |date = February 25, 2008 |accessdate = February 25, 2008}}&lt;/ref&gt; as "revenge" after his then-girlfriend [[Sarah Silverman]] and Damon recorded a similar video titled, "[[I'm Fucking Matt Damon]]". Silverman's video originally aired on ''Jimmy Kimmel Live!'' and became an "instant YouTube sensation."&lt;ref&gt;{{cite news |url = http://www.people.com/people/article/0,,20175789,00.html |title = Behind Matt Damon's Raunchy Payback to Jimmy Kimmel |first = Julie |last = Jordan |work = [[People (magazine)|People]] |date = February 2, 2008 |accessdate = February 25, 2008}}&lt;/ref&gt; Kimmel's "revenge" video featured himself, [[Ben Affleck]], and a large lineup of stars, particularly in scenes spoofing the 1985 "[[We Are the World]]" video: [[Brad Pitt]], [[Don Cheadle]], [[Cameron Diaz]], [[Robin Williams]], [[Harrison Ford]], [[Dominic Monaghan]], [[Benji Madden]] and [[Joel Madden]] from [[Good Charlotte]], [[Lance Bass]], [[Macy Gray]], [[Josh Groban]], [[Huey Lewis]], [[Perry Farrell]], [[Christopher Mintz-Plasse]], [[Pete Wentz]], [[Meat Loaf]], [[Rebecca Romijn]], [[Christina Applegate]], [[Dom Joly]], [[Mike Shinoda]], [[Lauren Conrad]], and [[Joan Jett]], among others.
+
+After this, Jimmy's sidekick, Guillermo, appeared in a spoof of ''[[The Bourne Ultimatum (film)|The Bourne Ultimatum]]'', which starred Damon. He was then chased down by Damon, who was cursing about Kimmel being behind all this. Guillermo also stopped Damon on the red carpet one time and before he could finish the interview he said, "Sorry, we are out of time." The most recent encounter was titled "The Handsome Men's Club" which featured Kimmel, along with the "Handsome Men", who were: [[Matthew McConaughey]], [[Rob Lowe]], [[Lenny Kravitz]], [[Patrick Dempsey]], [[Sting (musician)|Sting]], [[Keith Urban]], [[John Krasinski]], [[Ethan Hawke]], [[Josh Hartnett]], [[Tony Romo]], [[Ted Danson]], [[Taye Diggs]], [[Gilles Marini]], and [[Ben Affleck]], speaking about being handsome and all the jobs that come with it. At the end of the skit Kimmel has a door slammed in his face by none other than [[Matt Damon]], stating that they had run out of time and then Damon continues with a sinister laugh. [[Jennifer Garner]] also makes a surprise appearance. As a tradition, celebrities voted off ''[[Dancing with the Stars (U.S. TV series)|Dancing with the Stars]]'' appear on ''Jimmy Kimmel Live!'', causing Kimmel to describe himself as "the [[Cerberus|three-headed dog]] the stars must pass on their way to No-Dancing Hell".
+
+In October 2013, a new segment of the show, "Kids Table", showcased five- and six-year-olds discussing the U.S. government shutdown and U.S. debts. When one of the children suggested "killing all the people in China", as a way of resolving the U.S. debt, Kimmel responded that that was "an interesting idea" and soon jokingly asked a follow up: “Should we allow the Chinese to live?”.&lt;ref name="ew"&gt;{{cite web |url = http://insidetv.ew.com/2013/10/28/jimmy-kimmel-live-china-joke-apology |title = ABC apologizes for child's China joke on ''Jimmy Kimmel Live'' |date = October 28, 2013 |work = Entertainment Weekly |accessdate = February 26, 2014}}&lt;/ref&gt; The incident triggered discussions and protests on Internet, even from [[Mainland China]]. In an October 25 letter to a group called the [[80-20 Initiative]], which identifies itself as a pan-Asian-American political organization, ABC apologized for the segment, saying "We would never purposefully broadcast anything to upset the Chinese community, Asian community, anyone of Chinese descent or any community at large."&lt;ref name=ew /&gt;&lt;ref name="time"&gt;{{cite web |url = http://entertainment.time.com/2013/10/28/kids-say-the-most-divisive-things-asian-americans-protest-jimmy-kimmel |title = Asian Americans Protest Jimmy Kimmel |last = Steinmetz |first = Katy |date = October 28, 2013 |work = [[Time (magazine)|Time]] |accessdate = February 26, 2014}}&lt;/ref&gt;
+
+More than 100 people took to the streets in San Francisco on October 28 to protest the show and demand "a more elaborate apology" and that Kimmel to be fired.&lt;ref name=time /&gt; On that day's broadcast, Kimmel addressed the controversy personally, saying: "I thought it was obvious that I didn't agree with that statement, but apparently it wasn't … So I just wanted to say, I'm sorry, I apologize.”&lt;ref&gt;{{cite web |url = https://blogs.wsj.com/speakeasy/2013/10/29/abc-apologizes-for-kill-everyone-in-china-line-on-jimmy-kimmel-live |title = ABC Apologizes for "Kill Everyone in China" Line on Jimmy Kimmel Live |last = Little |first = Lyneka |date = October 29, 2013 |work = [[The Wall Street Journal]] |accessdate = February 26, 2014}}&lt;/ref&gt; Despite the apologies from ABC and Kimmel, protests continued. A [[White House petition]] was created to investigate this incident and reached the 100,000 signatures needed to require a response from the White House.&lt;ref&gt;{{cite web |url = https://www.washingtonpost.com/blogs/reliable-source/wp/2013/11/08/how-jimmy-kimmels-china-joke-became-an-issue-for-the-white-house |title = How Jimmy Kimmel's China joke became an issue for the White House |date = November 8, 2013 |work = The Washington Post |accessdate = February 26, 2014}}&lt;/ref&gt; The [[Congressional Asian Pacific American Caucus]] denounced the incident and demanded a formal apology from ABC.&lt;ref&gt;{{cite web |url = http://capac-chu.house.gov/press-release/capac-issues-letter-racially-insensitive-kids-table-segment-jimmy-kimmel-live |title = CAPAC Issues Letter on Racially Insensitive "Kids' Table" Segment on Jimmy Kimmel Live |date = October 29, 2013 |work = [[United States House of Representatives]] |accessdate = February 26, 2014}}&lt;/ref&gt;
+
+=== Other television work ===
+[[File:JimmyKimmelHWOFSept2012.jpg|thumb|right|Kimmel in September 2012]]
+In spring 1996, Kimmel appeared as "Jimmy the Fox Guy" in promos on the [[Fox Network]]. His other television work included being the on-air football prognosticator for ''[[Fox NFL Sunday]]'' for four years. He has had numerous appearances on other talk shows including, but not limited to, ''[[Live with Regis and Kelly]]'', ''[[The Howard Stern Show]]'', ''[[The Ellen DeGeneres Show]]'', and the ''[[Late Show with David Letterman]]''.
+
+He has appeared on ''[[Late Show with David Letterman|The Late Show]]'' five times, most recently in 2010. Kimmel served as roastmaster for the [[New York Friars' Club]] Roast of [[Hugh Hefner]] and [[Comedy Central Roast]]s of ''[[Pamela Anderson]]''. He has appeared on ABC's ''Dancing with the Stars''.
+
+In August 2006, ABC announced that Jimmy Kimmel would be the host of their new game show ''[[Set for Life]]''.&lt;ref&gt;{{cite web |url = http://www.thefutoncritic.com/news.aspx?id=20060822abc02 |title = Jimmy Kimmel Named Host For ABC's Newst Game Show, "Set For Life", From Endemol USA |publisher = Thefutoncritic.com |date = September 26, 2006 |accessdate = July 19, 2010}}&lt;/ref&gt; The show debuted on July 20, 2007. On April 6, 2007, Kimmel filled in for [[Larry King]] on ''[[Larry King Live]]''. That particular broadcast dealt with paparazzi. Kimmel reproached [[Emily Gould]], an editor from [[Gawker.com]], about the web site's alleged stalking of celebrities. On July 8, 2007, Kimmel managed the National League in the 2007 [[Taco Bell]] All-Star Legends and Celebrity Softball Game in San Francisco. He played in the game in 2004 and 2006 (in Houston and Pittsburgh, respectively). On July 11, 2007, Kimmel, along with basketball player [[LeBron James]], hosted the 2007 ''[[ESPY Awards]]''. The show aired on [[ESPN]] on July 15, 2007. Kimmel hosted the [[American Music Awards]] on [[American Broadcasting Company|ABC]] five times, in 2003, 2004, 2006, 2007, and 2008.
+
+Kimmel guest hosted ''[[Live with Regis and Kelly]]'' during the week of October 22–26, 2007, commuting every day between New York and Los Angeles. In the process, he broke the [[Guinness World Record]] for the longest distance ({{convert|22406|mi|km}}) travelled in one work week.&lt;ref&gt;{{cite web |url = http://www.nydailynews.com/entertainment/tv/2007/10/29/2007-10-29_inner_tube_jimmy_kimmel_goes_distance_se.html |title = Inner Tube: Jimmy Kimmel goes distance, sets World Record |work = New York Daily News |date = October 29, 2007 |accessdate = June 4, 2010}}&lt;/ref&gt;
+
+Kimmel has performed in several animated films, often voicing dogs. His voice appeared in ''[[Garfield]]'' and ''[[Road Trip (film)|Road Trip]]'', and he portrayed Death's Dog in the ''[[Family Guy]]'' episode "[[Mr. Saturday Knight]]"; ''Family Guy'' creator [[Seth MacFarlane]] later presented Kimmel with a figurine of his character on ''Jimmy Kimmel Live!'' Kimmel also did voice work for ''[[Robot Chicken]]''. Kimmel's cousin "Sal" ([[Sal Iacono]]) has accepted and won a wrestling match with [[Santino Marella]].
+
+On January 14, 2010, in the midst of the [[2010 Tonight Show conflict|2010 ''Tonight Show'' host and time slot conflict]], Kimmel was the special guest of [[Jay Leno]] on ''[[The Jay Leno Show]]'''s "10 at 10" segment. Kimmel derided Leno in front of a live studio audience for taking back the 11:35&amp;nbsp;pm time slot from [[Conan O'Brien]], and repeatedly insulted Leno. He ended the segment with a plea that Leno "leave our shows alone," as Kimmel and O'Brien had "kids" while Leno only had "cars".&lt;ref&gt;{{cite web |url = http://www.wwtdd.com/2010/01/jimmy-kimmel-annihilated-jay-leno |title = kimmel &gt; leno. again. |publisher = What Would Tyler Durden Do? |date = January 15, 2010 |accessdate = January 2, 2011}}&lt;/ref&gt;
+
+He hosted the [[64th Primetime Emmy Awards]] on September 23, 2012, and the [[68th Primetime Emmy Awards]] on September 18, 2016.&lt;ref&gt;{{cite news |title = Jimmy Kimmel to host Emmys for the first time |url = http://latimesblogs.latimes.com/showtracker/2012/03/jimmy-kimmel-to-host-emmys-for-the-first-time.html |work = Los Angeles Times |date = March 26, 2012 |accessdate = March 26, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url = https://variety.com/2016/tv/news/jimmy-kimmel-2016-emmys-1201724088/ |title = Jimmy Kimmel to Host 2016 Emmy Awards |date = March 7, 2016 |work = Variety |accessdate = March 25, 2016}}&lt;/ref&gt;
+
+Kimmel hosted the [[89th Academy Awards|89th edition]] of the [[Academy Awards]] ceremony on February 26, 2017.&lt;ref&gt;{{cite web|title=Oscars: Jimmy Kimmel to Host This Year's Ceremony (Exclusive)|url=http://www.hollywoodreporter.com/news/oscars-jimmy-kimmel-host-years-ceremony-952662?|work=[[The Hollywood Reporter]]|first=Gregg|last=Kilday|date=December 5, 2016|accessdate=March 14, 2017}}&lt;/ref&gt; Kimmel returned as host for the 90th edition of the [[Academy Awards]] on March 4, 2018.&lt;ref&gt;{{cite web|last1=Rottenberg|first1=Josh|title=Jimmy Kimmel set to return as host for next year's Oscars|url=http://www.latimes.com/entertainment/la-et-entertainment-news-updates-may-jimmy-kimmel-set-to-return-as-host-for-1494949815-htmlstory.html|website=Los Angeles Times|accessdate=16 May 2017|date=16 May 2017}}&lt;/ref&gt;
+
+In June 2018, Kimmel was challenged by senator [[Ted Cruz]] to a one-on-one basketball game after Kimmel compared Cruz's appearance to that of a [[blobfish]]. Kimmel accepted and the game (known as the Blobfish Basketball Classic) was scheduled to take place at [[Texas Southern University]] on June 16, and the loser will donate $5000 to the non-political charity of the winner's choice.&lt;ref&gt;{{cite web|url=https://www.cnn.com/2018/06/12/politics/ted-cruz-jimmy-kimmel-charity-basketball-blobfish/index.html|title=Cruz, Kimmel to face off in one-on-one basketball game to benefit charity|first=Donald Judd,|last=CNN|date=|website=cnn.com}}&lt;/ref&gt; Cruz defeated Kimmel 11-9, and over $80,000 was raised from the game and donated to the charities.&lt;ref&gt;{{cite web|url=https://www.cnn.com/2018/06/19/politics/jimmy-kimmel-ted-cruz-basketball-game-highlights/index.html|title=Cruz and Kimmel are better at raising money than playing basketball|first=Saba Hamedy,|last=CNN|date=|website=cnn.com}}&lt;/ref&gt;
+
+== Influences ==
+[[File:David Letterman at Perelman Institute crop.jpg|thumb|upright|[[David Letterman]] was Kimmel's biggest inspiration for getting into comedy.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=y29ELOsXSI0|title=YouTube|website=www.youtube.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=3Qy5Bln-VBE|title=LATE SHOW with David Letterman - November 1, 1999 - Jimmy Kimmel (PARTIAL SHOW)|first=|last=Daniel Poitras|date=March 23, 2017|publisher=|via=YouTube}}&lt;/ref&gt;]]
+Kimmel's biggest influences in comedy are [[David Letterman]] and [[Howard Stern]]. Kimmel has described Letterman's work as, "His show was just so weird and different, I'd never seen anything like it. I didn't know anyone who had a sense of humor like that."&lt;ref&gt;{{cite web|title=Here's Jimmy Kimmel|url=https://www.rollingstone.com/movies/news/heres-jimmy-kimmel-20130301?page=2|work=[[Rolling Stone]]|first=Jonah|last=Weiner|date=March 1, 2012|accessdate=February 14, 2017}}&lt;/ref&gt; Kimmel has often joked that the only reason he got into show business was just so he can be friends with Letterman, he has also questioned why anybody would watch his show instead of Letterman's.&lt;ref&gt;{{cite web|title=Jimmy Kimmel Takes on Brooklyn and Two New Rivals|url=http://www.vulture.com/2012/10/jimmy-kimmel-live-gets-new-time-slot.html|work=[[Vulture.com]]|first=Jada|last=Yuan|date=October 21, 2012|accessdate=February 14, 2017}}&lt;/ref&gt; Kimmel wrote a piece for ''[[Time (magazine)|Time]]'' writing his love for Letterman by saying, "As I write this, there are only 10 shows left before the funniest, most inventive and smartest man who ever wore an Alka Seltzer suit goes fishing for good. None of us who discovered Dave on our own and claimed him as our own will ever be able to satisfactorily explain to the younger people who didn’t what he did, what he meant and what he means. I guess it doesn’t matter. It’s only an exhibition, not a competition. Thanks Dave. For whatever it’s worth, you’re my favorite."&lt;ref&gt;{{cite web|title=Jimmy Kimmel: Watching David Letterman 'Was More Important Than Sleep'|url=http://time.com/3858014/david-letterman-jimmy-kimmel-tribute/|work=[[Time (magazine)|Time]]|first=Jimmy|last=Kimmel|date=May 14, 2015|accessdate=February 14, 2017}}&lt;/ref&gt;
+
+== Personal life ==
+
+Kimmel married Gina Maddy in 1988; the couple divorced in 2002.&lt;ref name=abc02252014&gt;{{cite web|title=Jimmy Kimmel Engagement Announced |url=http://abcnews.go.com/blogs/entertainment/2012/08/jimmy-kimmel-engagement-announced |first=Jennifer |last=Abbey |publisher=ABC News |date=August 15, 2012 |accessdate=February 15, 2014 |archivedate=April 14, 2016 |archiveurl=https://web.archive.org/web/20160414001740/http://abcnews.go.com/blogs/entertainment/2012/08/jimmy-kimmel-engagement-announced/ |deadurl=no |df= }}&lt;/ref&gt; They have a daughter, Katherine (born 1991), and a son, Kevin (born 1993).&lt;ref&gt;{{cite news|last1=Satran|first1=Joe|title=Jimmy Kimmel, Emmy Host, Rose From Beer-Drinking Bozo To America's Favorite Emcee|url=http://www.huffingtonpost.com/2012/09/21/jimmy-kimmel-emmy_n_1901978.html|accessdate=May 2, 2017|work=Huffington Post|date=September 21, 2012|quote=Gina would give birth to the couple’s first child, Katie, four years [after the couple's 1988 marriage]; a son, Kevin, followed in 1993. }}&lt;/ref&gt;&lt;ref name=tvgbio&gt;{{cite web |title = Jimmy Kimmel |publisher = [[TV Guide|TV Guide.com]] |url = http://www.tvguide.com/celebrities/jimmy-kimmel/bio/194203 |archivedate=March 8, 2016 | archiveurl = https://web.archive.org/web/20160308020823/http://www.tvguide.com/celebrities/jimmy-kimmel/bio/194203/ |deadurl=yes |accessdate=May 3, 2017}}&lt;/ref&gt;&lt;!--Only archived version of TVGuide.com has birth date--&gt; He had a relationship with comedian [[Sarah Silverman]] from 2002 until they broke up in March 2009.&lt;ref&gt;{{cite web |last = Tan |first = Michelle |title = Sarah Silverman and Jimmy Kimmel Call It Quits – Again |url = http://www.people.com/people/article/0,,20263895,00.html |date = March 7, 2009 |accessdate = March 20, 2009}}&lt;/ref&gt;
+
+He started dating Molly McNearney, a co-head writer for ''Jimmy Kimmel Live'', in October 2009.&lt;ref&gt;{{cite web|last=Ingrassia |first=Lisa |url=http://www.people.com/people/article/0,,20311576,00.html |title=Move Over, Ben Affleck! Jimmy Kimmel's Got a New Squeeze – Couples, Jimmy Kimmel |work=People |date=October 10, 2009 |accessdate=July 19, 2010 |archivedate=February 1, 2017 |archiveurl=https://web.archive.org/web/20170201072120/http://people.com/celebrity/move-over-ben-affleck-jimmy-kimmels-got-a-new-squeeze/ |deadurl=no |df= }}&lt;/ref&gt; Kimmel and McNearney became engaged in August 2012,&lt;ref name=abc02252014 /&gt;&lt;ref&gt;{{cite web|last=Rizzo |first=Monica |url=http://www.people.com/people/article/0,,20621259,00.html |title=Jimmy Kimmel Is Engaged to Molly McNearney |work=People |date=August 15, 2012 |accessdate=August 15, 2012 |archivedate=May 4, 2017 |archiveurl=https://web.archive.org/web/20170504170956/http://people.com/celebrity/jimmy-kimmel-engaged-to-jimmy-kimmel-live-co-head-writer-molly-mcnearney/ |deadurl=no |df= }}&lt;/ref&gt; and married in July 2013.&lt;ref&gt;{{cite web |last = Leonard |first = Elizabeth |url = http://www.people.com/people/article/0,,20717001,00.html |title = Jimmy Kimmel, Molly McNearney Marry |work = [[People (magazine)|People]] |date = January 14, 2013 |accessdate = July 16, 2013}}&lt;/ref&gt; On July 10, 2014, they had their first child, Jane.&lt;ref&gt;{{cite web |url =http://celebritybabies.people.com/2014/07/10/jimmy-kimmel-molly-mcnearney-welcome-daughter-jane/ |title = Jimmy Kimmel Welcomes Daughter Jane |work = People |date = July 10, 2014 |accessdate = December 6, 2016 |first1 = Sarah |last1 = Michaud|first2=Elizabeth|last2=Leonard| archivedate = May 30, 2016 | archiveurl =https://web.archive.org/web/20160530032216/http://celebritybabies.people.com/2014/07/10/jimmy-kimmel-molly-mcnearney-welcome-daughter-jane/ | deadurl=no}}&lt;/ref&gt;
+
+Their second child, a son named William ("Billy") John, was born on April 21, 2017.&lt;ref&gt;{{cite web|last1=Rose |first1=Lacey |title=Jimmy Kimmel Reveals Newborn Son's Open Heart Surgery in Emotional Monologue |url=http://www.hollywoodreporter.com/live-feed/jimmy-kimmel-reveals-newborn-sons-open-heart-surgery-emotional-monologue-999346 |work=The Hollywood Reporter |accessdate=May 2, 2017 |archivedate=May 4, 2017 |archiveurl=https://web.archive.org/web/20170504033206/http://www.hollywoodreporter.com/live-feed/jimmy-kimmel-reveals-newborn-sons-open-heart-surgery-emotional-monologue-999346 |deadurl=no |df= }}&lt;/ref&gt; The infant was born with a rare congenital heart defect,&lt;ref&gt;{{cite news|last1=Greenemeier |first1=Larry |title=Billy Kimmel's Rare Heart Condition Explained |url=https://www.scientificamerican.com/article/billy-kimmels-rare-heart-condition-explained1/ |accessdate=May 4, 2017 |work=[[Scientific American]] |date=May 3, 2017 |language=en |archivedate=May 4, 2017 |archiveurl=https://web.archive.org/web/20170504171521/https://www.scientificamerican.com/article/billy-kimmels-rare-heart-condition-explained1/ |deadurl=no |df= }}&lt;/ref&gt; [[tetralogy of Fallot]] (TOF) with [[pulmonary atresia]],&lt;ref&gt;{{cite news|last1=Bever|first1=Lindsey|title=A tearful Jimmy Kimmel said his newborn had a congenital heart defect. Here's how it works.|url=https://www.washingtonpost.com/news/to-your-health/wp/2017/05/02/a-tearful-jimmy-kimmel-said-his-newborn-has-a-congenital-heart-defect-heres-how-it-works/|accessdate=May 2, 2017|work=The Washington Post|date=May 2, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Phillips|first1=Jevon|title=Today in Entertainment: Writers strike averted; Jimmy Kimmel's newborn son had heart surgery|url=http://www.latimes.com/entertainment/la-et-entertainment-news-updates-may-jimmy-kimmel-emotionally-recounts-a-1493706999-htmlstory.html|accessdate=May 2, 2017|work=The Los Angeles Times|date=May 2, 2017}}&lt;/ref&gt; which was first detected when he had a purplish appearance at three hours after birth. He underwent successful surgery at three days of age.&lt;ref&gt;{{cite news|last1=Schoenberg |first1=Nara |title=Surgeon explains Kimmel baby's heart defect |url=http://www.chicagotribune.com/lifestyles/health/sc-kimmel-baby-heart-defect-0502-20170502-story.html |accessdate=May 4, 2017 |work=[[The Chicago Tribune]] |date=May 2, 2017 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Jimmy Kimmel reveals newborn son's heart defect in emotional monologue |url=http://abcnews.go.com/Entertainment/jimmy-kimmel-reveals-newborn-sons-heart-defect-emotional/story?id=47149065 |accessdate=May 2, 2017 |publisher=ABC News |date=May 2, 2017 |archivedate=May 3, 2017 |archiveurl=https://web.archive.org/web/20170503201610/http://abcnews.go.com/Entertainment/jimmy-kimmel-reveals-newborn-sons-heart-defect-emotional/story?id=47149065 |deadurl=no |df= }}&lt;/ref&gt; The first guests Kimmel had when his show returned following his son's birth were [[Cardiothoracic surgery|cardiac surgeon]] Dr. [[Mehmet Oz]], who explained the condition,&lt;ref&gt;{{cite news|title=Jimmy Kimmel tearfully recounts newborn son's heart surgery|url=http://abcnews.go.com/Entertainment/wireStory/jimmy-kimmel-tearfully-recounts-newborn-sons-heart-surgery-47149630|accessdate=May 2, 2017|work=ABC News|date=May 2, 2017|language=en}}&lt;/ref&gt; and snowboarder [[Shaun White]], who was born with TOF.&lt;ref&gt;{{cite news|title=Shaun White Talks to Jimmy Kimmel About Billy's Heart Condition |last=Bacardi |first=Francesca |url=http://www.eonline.com/news/847722/shaun-white-assuages-jimmy-kimmel-s-fears-after-discussing-heart-condition-he-and-baby-billy-share |accessdate=May 2, 2017 |publisher=E! News |date=May 2, 2017 |archivedate=May 2, 2017 |archiveurl=https://web.archive.org/web/20170502194028/http://www.eonline.com/news/847722/shaun-white-assuages-jimmy-kimmel-s-fears-after-discussing-heart-condition-he-and-baby-billy-share |deadurl=no |df= }}&lt;/ref&gt;
+
+Kimmel plays the [[bass clarinet]], and was a guest performer at a July 20, 2008, concert in [[Costa Mesa, California]], featuring [[The Mighty Mighty Bosstones]], performing with the group on the song "[[The Impression That I Get]]".&lt;ref&gt;{{cite web|url=http://www.ocregister.com/2008/07/21/set-lists-dropkick-murphys-mighty-mighty-bosstones-at-pacific/ |title=Dropkick Murphys, Mighty Mighty Bosstones win one for Boston at Pacific |work=[[Orange County Register]] |date=July 21, 2008 |first=Ben |last=Wener |accessdate=May 4, 2017 |archivedate=May 4, 2017 |archiveurl=https://archive.is/20170504171848/http://www.ocregister.com/2008/07/21/set-lists-dropkick-murphys-mighty-mighty-bosstones-at-pacific/ |deadurl=no |df= }}&lt;/ref&gt;
+
+Kimmel has spoken publicly of being a [[Narcolepsy|narcoleptic]].&lt;ref&gt;{{cite news |url = https://www.nytimes.com/2002/11/03/magazine/in-the-land-of-the-insomniac-the-narcoleptic-wants-to-be-king.html |title = In The Land of the Insomniac The Narcoleptic Wants To Be King |author = Carter, Bill |work = The New York Times |date = November 3, 2003 |accessdate=December 11, 2009}}&lt;/ref&gt;
+
+Kimmel co-founded the annual Los Angeles [[Feast of San Gennaro]], a New York City annual tradition, and co-hosted the eighth annual Los Angeles version in 2009.&lt;ref&gt;{{cite web|url=http://lastheplace.com/2007/09/21/jimmy-kimmel-and-adam-corolla-host-the-6th-annual-precious-cheese-feast-of-san-gennaro |title=Jimmy Kimmel and Adam Corolla Host the 6th Annual Precious Cheese Feast of San Gennaro |publisher=LAsThePlace..com |date=September 21, 2007 |accessdate=July 19, 2010}}&lt;/ref&gt;
+
+== Filmography ==
+[[File:JimmyKimmelHWOFJan2013.jpg|thumb|Kimmel at the [[Hollywood Walk of Fame]] on January 25, 2013]]
+
+=== Film ===
+{| class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2000
+| ''[[Down to You]]''
+| Himself
+|
+|-
+| 2000
+| ''[[Road Trip (film)|Road Trip]]''
+| Corky's Voice (voice)
+|
+|-
+| 2002
+| ''[[Like Mike]]''
+| Client in Commercial
+| Uncredited
+|-
+| 2003
+| ''[[Windy City Heat]]''
+| Himself
+| Also writer, producer
+|-
+| 2004
+| ''[[Garfield: The Movie]]''
+| Spanky (voice)
+| Unnamed in the film
+|-
+| 2005
+| ''[[The Aristocrats (film)|The Aristocrats]]''
+| Himself
+| Cameo
+|-
+| 2008
+| ''[[Hellboy II: The Golden Army]]''
+| Himself
+| Cameo
+|-
+| 2012
+| ''[[Project X (2012 film)|Project X]]''
+| Himself
+| Cameo
+|-
+| 2013
+| ''[[The Smurfs 2]]''
+| Passive Aggressive Smurf (voice)
+|
+|-
+| 2015
+| ''[[Pitch Perfect 2]]''
+| Himself
+| Cameo
+|-
+| 2015
+| ''[[Ted 2]]''
+| Himself
+| Cameo
+|-
+| 2015
+| ''Miss Famous''
+| Mr. Chipmunk
+| Short film
+|-
+| 2017
+| ''[[The Boss Baby]]''
+| Ted Templeton (voice)
+| 
+|-
+| 2017
+| ''[[Sandy Wexler]]''
+| Himself
+| Cameo
+|-
+| 2017
+| ''[[The Heyday of the Insensitive Bastards]]''
+| Lunchtime creeper in park
+|
+|-
+| 2017
+| ''[[Brad's Status]]''
+| Himself
+| Cameo
+|-
+| 2018
+| ''[[Teen Titans Go! To the Movies]]''
+| [[Batman]] (voice) 
+| 
+|-
+|}
+
+=== Television ===
+{| class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1997–2000
+| ''[[Win Ben Stein's Money]]''
+| Himself (co-host)
+| 19 episodes
+|-
+| 1999
+| ''[[Charmed]]''
+| Host on TV
+| Episode: "The Painted World"
+|-
+| 1999–2003
+| ''[[The Man Show]]''
+| Himself (co-host)
+| 112 episodes; also co-creator, writer
+|-
+| 2001
+| ''[[Family Guy]]''
+| Death's Dog (voice)
+| Episode: "[[Mr. Saturday Knight]]"
+|-
+| 2002
+| ''[[MADtv]]''
+| Himself, Jay Mattioli
+| Episode: "7.16"
+|-
+| 2002–05, 2007
+| ''[[Crank Yankers]]''
+| Various voices
+| 70 episodes; also creator, executive producer, writer
+|-
+| 2003–present
+| ''[[Jimmy Kimmel Live!]]''
+| Himself (host)
+| Also creator, executive producer, writer
+|-
+| 2003
+| ''[[I'm with Her]]''
+| Himself
+| Episode: "The Second Date"
+|-
+| 2003
+| ''[[American Music Awards of 2003 (November)|American Music Awards of 2003]]''
+| Himself (host)
+| TV Special
+|-
+| 2004
+| ''[[Entourage (U.S. TV series)|Entourage]]''
+| Himself
+| Episode: "Talk Show"
+|-
+| 2004
+| ''[[American Music Awards of 2004]]''
+| Himself (host)
+| TV Special
+|-
+| 2005–07
+| ''[[The Andy Milonakis Show]]''
+| Himself
+| 22 episodes; also co-creator, executive producer, writer
+|-
+| 2005
+| ''[[Comedy Central Roast of Pamela Anderson]]''
+| Himself (host)
+| TV Special
+|-
+| 2006
+| ''[[American Music Awards of 2006]]''
+| Himself (host)
+| TV Special
+|-
+| 2006
+| ''[[Robot Chicken]]''
+| Boss, Ryu, Lots of Laughs Bear (voice)
+| 2 episodes
+|-
+| 2006
+| ''[[Drawn Together]]''
+| Old Man, Mrs. Ham, Various voices
+| 2 episodes
+|-
+| 2007
+| ''[[Set for Life]]''
+| Himself (host)
+| 7 episodes
+|-
+| 2007
+| ''[[Comedy Central Roast of Flavor Flav]]''
+| Himself (roaster)
+| TV Special
+|-
+| 2007
+| ''[[The Sarah Silverman Program]]''
+| Joan the Dispatcher
+| Episode: "Positively Negative"
+|-
+| 2007
+| ''[[ESPY Awards|2007 ESPY Awards]]''
+| Himself (host)
+| TV Special
+|-
+| 2007
+| ''[[American Music Awards of 2007]]''
+| Himself (host)
+| TV Special
+|-
+| 2008
+| ''[[American Music Awards of 2008]]''
+| Himself (host)
+| TV Special
+|-
+| 2008
+| ''Jimmy Kimmel's Big Night of Stars''
+| Himself (host)
+| TV Special
+|-
+| 2010
+| ''[[Glenn Martin, DDS]]''
+| Himself (voice)
+| Episode: "Camp"
+|-
+| 2011
+| ''[[Sesame Street]]''
+| Himself
+| Episode: "Siblings"
+|-
+| 2011
+| ''[[Hot in Cleveland]]''
+| Himself
+| Episode: "I Love Lucci (Part 1)"
+|-
+| 2011
+| ''[[The Soup]]''
+| [[Joel McHale]]
+| Episode: "8.72"
+|-
+| 2012–2016
+| ''[[Scandal (TV series)|Scandal]]''
+| Himself
+| 3 episodes
+|-
+| 2012
+| ''[[White House Correspondents' Dinner]]''
+| Himself (host)
+| TV Special
+|-
+| 2012
+| ''[[64th Primetime Emmy Awards]]''
+| Himself (host)
+| TV Special
+|-
+| 2013
+| ''[[Brody Stevens: Enjoy It!]]''
+| Himself
+| Episode: "Brody Stevens, Who Are You?"
+|-
+| 2014
+| ''[[Tim &amp; Eric's Bedtime Stories]]''
+| Himself
+| Episode: "The Endorsement"
+|-
+| 2014
+| ''[[The Middle (TV series)|The Middle]]''
+| Himself
+| Episode: "The Table"
+|-
+| 2014
+| ''[[Shark Tank]]''
+| Himself
+| Episode: "Oilerie USA"
+|-
+| 2015
+| ''[[The Bachelor (U.S. TV series)|The Bachelor]]''
+| Himself (host)
+| Episode: "[[The Bachelor (season 19)|19.3]]"
+|-
+| 2015
+| ''[[The Eric Andre Show]]''
+| Himself
+| Episode 3.08
+|-
+| 2016
+| ''[[The Grinder (TV series)|The Grinder]]''
+| Himself
+| Episode: "The Olyphant in the Room"
+|-
+| 2016
+| ''[[The Real O'Neals]]''
+| Himself
+| Episode: "The Real Papaya"
+|-
+| 2016
+| ''[[Trailer Park Boys]]''
+| Himself
+| Episode: "All The Fuckin' Dope You Can Smoke!"
+|-
+| 2016
+| ''[[Pitch (TV series)|Pitch]]''
+| Himself
+| Episode: "The Interim"
+|-
+| 2016
+| ''[[68th Primetime Emmy Awards]]''
+| Himself (host)
+| TV Special
+|-
+| 2017
+| ''[[89th Academy Awards]]''
+| Himself (host)
+| TV Special
+|-
+| 2017
+| ''[[Curb Your Enthusiasm]]''
+| Himself
+| Episode: "Foisted!"
+|-
+| 2018
+| ''[[90th Academy Awards]]''
+| Himself (host)
+| TV Special
+|}
+
+==== As executive producer ====
+{| class="wikitable sortable"
+! Year
+! Title
+! class="unsortable" | Notes
+|-
+| 2003
+| ''[[Gerhard Reinke's Wanderlust]]''
+| 6 episodes
+|-
+| 2005
+| ''[[The Adam Carolla Project]]''
+| 13 episodes
+|-
+| 2011
+| ''[[Sports Show with Norm Macdonald]]''
+| 9 episodes
+|-
+| 2017
+| ''[[Big Fan (TV series)|Big Fan]]''
+| 4 episodes
+|}
+
+===Video games===
+{| class="wikitable sortable"
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2012
+| ''[[Call of Duty: Black Ops II]]''
+| Himself
+| Appeared on his own talk show
+|}
+
+== Awards and nominations ==
+{|class="wikitable sortable"
+|-
+! Year
+! Award
+! Nominated work
+! Result
+|-
+| 1999
+| [[Daytime Emmy Award for Outstanding Game Show Host]]&lt;ref name="1999 Win"&gt;{{cite news|title=Lucci wins!|url=https://news.google.com/newspapers?id=J51GAAAAIBAJ&amp;sjid=5_gMAAAAIBAJ&amp;dq=26th%20daytime%20emmy&amp;pg=1410%2C4361266|accessdate=May 6, 2013|newspaper=[[The Day (New London)|The Day]]|publisher=The Day Publishing Company|date=May 22, 1999|agency=Associated Press|page=8|location=[[New London, Connecticut]]}}&lt;/ref&gt;
+| ''[[Win Ben Stein's Money]]''
+| {{Won}}
+|-
+| 2001
+| [[Daytime Emmy Award for Outstanding Game Show Host]]&lt;ref name="2001 Nom"&gt;{{cite web|title=Regis tracks two Emmys |url=https://variety.com/2001/tv/news/regis-tracks-two-emmys-1117795353/ |work=[[Variety (magazine)|Variety]] |publisher=[[Penske Business Media]] |accessdate=May 6, 2013 |date=March 13, 2001 |archiveurl=https://www.webcitation.org/6HiBgtxIy?url=http://variety.com/2001/tv/news/regis-tracks-two-emmys-1117795353/ |archivedate=June 28, 2013 |location=Los Angeles |deadurl=yes |df=}}&lt;/ref&gt;
+| ''Win Ben Stein's Money''
+| {{Nom}}
+|-
+| 2003
+| [[2003 Teen Choice Awards|Teen Choice Award for Choice TV: Late Night]]
+| ''[[Jimmy Kimmel Live!]]''
+| {{Nom}}
+|-
+| 2004
+| [[2004 Teen Choice Awards|Teen Choice Award for Choice TV Show: Late Night]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| 2005
+| [[31st People's Choice Awards|People's Choice Award for Favorite Late Night Talk Show Host]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| rowspan="2"| 2009
+| [[Writers Guild of America Awards 2008|Writers Guild of America Award for Comedy/Variety – Music, Awards, Tributes – Specials]]
+| ''Jimmy Kimmel's Big Night of Stars''
+| {{Nom}}
+|-
+| [[2009 Teen Choice Awards|Teen Choice Award for Choice TV: Late Night Show]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| rowspan="3"| 2011
+| [[Writers Guild of America Awards 2010|Writers Guild of America Award for Comedy/Variety – Music, Awards, Tributes – Specials]]
+| ''Jimmy Kimmel Live!'' for "Jimmy Kimmel Live: After the Academy Awards"
+| {{Nom}}
+|-
+| [[The Comedy Awards#2011 Comedy Awards|The Comedy Award for Late Night Comedy Series]]
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| rowspan="4"| 2012
+| [[38th People's Choice Awards|People's Choice Award for Favorite Late Night TV Host]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Writers Guild of America Awards 2011|Writers Guild of America Award for Comedy/Variety – Music, Awards, Tributes – Specials]]
+| ''Jimmy Kimmel Live!'' for "Jimmy Kimmel Live: After the Academy Awards"
+| {{Won}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety Series]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| rowspan="9"| 2013
+| [[39th People's Choice Awards|People's Choice Award for Favorite Late Night TV Host]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Writers Guild of America Awards 2012|Writers Guild of America Award for Comedy/Variety (including talk) series]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Writers Guild of America Awards 2012|Writers Guild of America Award for Comedy/Variety – Music, Awards, Tributes – Specials]]
+| ''Jimmy Kimmel Live!'' for "Jimmy Kimmel Live: After the Academy Awards"
+| {{Nom}}
+|-
+| [[Producers Guild of America Awards 2012|Producers Guild of America Award for Outstanding Producer of Live Entertainment &amp; Talk Television]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| colspan="2" style="text-align:center;"|[[Hollywood Walk of Fame]]&lt;ref&gt;{{cite web |url = http://latimesblogs.latimes.com/lanow/2013/01/jimmy-kimmel-star-hollywood-walk-fame.html |title = Jimmy Kimmel to get star on Hollywood Walk of Fame |date = January 25, 2013 |work = Los Angeles Times |accessdate = July 10, 2014}}&lt;/ref&gt;
+| {{Won}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety Series]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Variety Series]]
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| colspan="2" style="text-align:center;"|Variety's Power of Comedy Award&lt;ref&gt;{{cite web |url = https://variety.com/2013/tv/news/jimmy-kimmel-to-receive-varietys-power-of-comedy-award-1200712603/ |title = Jimmy Kimmel to Receive Variety's Power of Comedy Award |date = July 10, 2014 |work = Variety |accessdate = July 10, 2014}}&lt;/ref&gt;
+| {{won}}
+|-
+| rowspan="6"|2014
+| [[40th People's Choice Awards|People's Choice Award for Favorite Late Night Talk Show Host]]&lt;ref name=Noms&gt;[http://www.eonline.com/news/477644/glee-katy-perry-lead-people-s-choice-award-nominations-2-broke-girls-kat-dennings-and-beth-behrs-to-host Glee, Katy Perry Lead People's Choice Award Nominations, 2 Broke Girls' Kat Dennings and Beth Behrs to Host] E! Online, Retrieved November 5, 2013.&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Writers Guild of America Awards 2013|Writers Guild of America Award for Comedy/Variety (including talk) series]]&lt;ref&gt;{{cite web|title=2014 Writers Guild Awards Winners Announced |url=http://www.wga.org/content/default.aspx?id=5399 |work=Writers Guild of America |publisher=Writers Guild of America |accessdate=February 2, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20160421153558/http://www.wga.org/content/default.aspx?id=5399 |archivedate=April 21, 2016 |df=}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Producers Guild of America Awards 2013|Producers Guild of America Award for Outstanding Producer of Live Entertainment &amp; Talk Television]]&lt;ref&gt;{{cite web |url = http://www.producersguild.org/news/151419/ |title = Nominations for Theatrical Motion Picture, Animated Theatrical Motion Picture and Long-Form TV |date = January 2, 2014 |work = [[Producers Guild of America]] |accessdate = January 2, 2014}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[American Comedy Awards 2014|American Comedy Award for Best Late Night Talk Show]]&lt;ref&gt;{{cite web |url = http://popwatch.ew.com/2014/05/09/amy-poehler-seth-rogen-american-comedy-awards/ |title = Amy Poehler, Seth Rogen win American Comedy Awards |work = Entertainment Weekly |date = May 9, 2014 |accessdate = September 26, 2014}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]&lt;ref&gt;{{cite web |title = Critics' Choice TV Awards 2014: And the nominees are... |publisher = Entertainment Weekly |url = http://insidetv.ew.com/2014/05/28/critics-choice-television-awards-nominees/ |date = May 28, 2014 |accessdate = May 28, 2014}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety Series]]&lt;ref&gt;{{cite news |url = https://www.nytimes.com/2014/07/11/arts/television/2014-emmy-nominations-game-of-thrones-true-detective-among-the-honored.html?_r=0 |title = 2014 Emmy Nominations: ‘Breaking Bad,’ ‘True Detective’ Among the Honored |date = July 10, 2014 |work = New York Times |accessdate = July 10, 2014}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| rowspan="6"|2015
+| [[41st People's Choice Awards|People's Choice Award for Favorite Late Night Talk Show Host]]&lt;ref name="Noms" /&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Producers Guild of America Awards 2014|Producers Guild of America Award for Outstanding Producer of Live Entertainment &amp; Talk Television]]&lt;ref&gt;{{cite web |url = http://m.hollywoodreporter.com/entry/view/id/868326 |title = Producers Guild Announces TV Nominees |date = December 1, 2014 |work = The Hollywood Reporter |accessdate = December 2, 2014}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{Nom}}
+|-
+| [[Writers Guild of America Awards 2014|Writers Guild of America Award for Comedy/Variety (Including Talk) – Series]]&lt;ref name="WGA2015"&gt;{{cite news |last1 = McNary |first1 = Dave |title = ‘Game of Thrones,’ ‘True Detective,’ ‘Transparent’ Lead WGA TV Nominations |url = https://variety.com/2014/tv/news/writers-guild-tv-nominations-modern-family-true-detective-game-of-thrones-transparent-1201370582/ |accessdate = January 7, 2014 |work = [[Variety (magazine)|Variety]] |date = December 4, 2014}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]&lt;ref&gt;{{cite web |url = http://www.people.com/article/critics-choice-tv-awards-2015-nominees |title = HBO and FX Lead 5th Annual Critics' Choice Television Awards Nominations |work = People |first = Wade |last = Rouse |date = May 6, 2015 |accessdate = May 6, 2015}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| colspan="2"|[[2015 Teen Choice Awards|Teen Choice Award for Choice Comedian]]&lt;ref name="Teen Choice"&gt;{{cite web |last1 = Coggan |first1 = Devan |title = Teen Choice Award nominations pit Zayn Malik against One Direction |url = http://www.ew.com/article/2015/06/09/teen-choice-award-nominations-2015 |website = ew.com |publisher = Entertainment Weekly.Inc |date = June 9, 2015 |accessdate = June 11, 2015}}&lt;/ref&gt;
+| {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety Talk Series]]&lt;ref name="Emmys 2015"&gt;{{cite web |url = https://www.theguardian.com/tv-and-radio/2015/jul/16/game-of-thrones-emmy-nominations-mad-men-transparent |title = Game of Thrones set to dominate Emmys after netting 24 nominations |date = July 16, 2015 |work = [[The Guardian]] |accessdate = July 17, 2015}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| rowspan="5"|2016
+| [[42nd People's Choice Awards|People's Choice Award for Favorite Late Night Talk Show Host]]&lt;ref&gt;{{cite web |url = http://www.cbsnews.com/news/peoples-choice-awards-2016-winners-and-highlights/ |title = 2016 Winners and highlights |date = January 6, 2016 |work = CBS News |accessdate = January 7, 2016}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]&lt;ref&gt;{{cite web |url = http://www.people.com/article/critics-choice-awards-nominations-mad-max |title = Critics' Choice Awards Mad About ''Mad Max: Fury Road'' as Nominations Are Announced |website = people.com |date = December 14, 2015 |first = Jodi |last = Guglielmi |accessdate=December 14, 2015}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Writers Guild of America Awards 2015|Writers Guild of America Award for Comedy/Variety (Music, Awards, Tributes) – Specials]]&lt;ref&gt;{{cite news |title = 'WGA Awards: 'Spotlight' &amp; 'The Big Short' Take Marquee Film Honors; 'Mad Men', 'Veep' &amp; 'Mr. Robot' Top TV – Full List |url=http://deadline.com/2016/02/wga-award-winners-2016-full-list-writers-guild-1201702307/ |accessdate = February 13, 2016 |website=[[Deadline Hollywood]] |date=February 13, 2016}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!'' for "After the Oscars"
+| {{won}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety Talk Series]]&lt;ref name="Emmys 2016"&gt;{{cite web|last=Stack |first=Tim |url=http://www.ew.com/article/2016/07/14/american-crime-story-people-oj-emmy-nominations |title=The People v. O.J. Simpson: American Crime Story nabs 22 Emmy nominations |work=Entertainment Weekly |date=July 14, 2016 |accessdate=August 22, 2016}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Critics' Choice Television Award for Best Talk Show]]&lt;ref&gt;{{cite web|url=http://deadline.com/2016/11/television-nominees-for-2016-critics-choice-awards-unveiled-1201853806/|title=Critics’ Choice TV Nominations Unveiled|website=Deadline|date=November 14, 2016 |first=Ross |last=Lincoln A.|accessdate=November 14, 2016}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nominated}}
+|-
+| rowspan="4"|2017
+| [[43rd People's Choice Awards|People's Choice Award for Favorite Late Night Talk Show Host]]&lt;ref&gt;{{cite web|url=http://deadline.com/2016/11/peoples-choice-awards-nominees-2016-full-list-captain-america-kevin-hart-1201854910/|title=People’s Choice Awards Nominees 2017 — Full List|date=November 15, 2016|work=Deadline|accessdate=November 15, 2016}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nominated}}
+|-
+| [[Writers Guild of America Awards 2016|Writers Guild of America Award for Comedy/Variety (Music, Awards, Tributes) – Specials]]&lt;ref&gt;{{cite web|last1=Petski|first1=Denise|title=WGA TV Nominations: ‘The Americans’, ‘Stranger Things’, ‘Westworld’, ‘This Is Us’ Among Nominees|url=http://deadline.com/2016/12/wga-tv-nominations-the-americans-stranger-things-this-is-us-westworld-1201864546/|website=Deadline|accessdate=7 December 2016}}&lt;/ref&gt;
+| ''[[68th Primetime Emmy Awards]]''
+| {{nominated}}
+|-
+| [[Primetime Emmy Award for Outstanding Variety Talk Series]]&lt;ref name="Emmys 2017"&gt;{{cite web|url=https://variety.com/2017/tv/news/2017-emmy-nominees-list-nominations-1202494465/|title=Emmys 2017: Full List of Nominations|author=&lt;!-- Variety Staff report --&gt;|date=July 13, 2017|work=[[Variety (magazine)|Variety]]|accessdate=July 13, 2017}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nominated}}
+|-
+| [[Primetime Emmy Award for Outstanding Special Class Program]]&lt;ref name="Emmys 2017"/&gt;
+| ''[[89th Academy Awards]]''
+| {{nominated}}
+|-
+| rowspan="5"|2018
+| [[Critics' Choice Television Award for Best Talk Show]]&lt;ref&gt;{{cite web|last1=Tapley|first1=Kristopher|title=Netflix, FX’s ‘Feud’ Lead Critics’ Choice TV Nominations|url=https://variety.com/2017/tv/awards/critics-choice-tv-nominations-list-1202631798/|website=Variety|accessdate=6 December 2017}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{won}}
+|-
+| [[NAACP Image Award for Outstanding Talk Series]]&lt;ref&gt;{{cite web|url=http://deadline.com/2017/11/naacp-image-awards-netflix-own-annapurna-universal-pictures-open-road-films-anthony-anderson-1202212017/|title=NAACP Image Awards Nominees: Netflix, OWN Lead In TV; Universal, Annapurna, Open Road Top Film|website=Deadline|date=November 20, 2017 |first=Bruce |last=Haring|accessdate=November 20, 2017}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Producers Guild of America Awards 2017|Producers Guild of America Award for Outstanding Producer of Live Entertainment &amp; Talk Television]]&lt;ref&gt;{{cite web|last1=Pedersen|first1=Erik|title=PGA Awards Film &amp; TV Nominations Unveiled|url=http://deadline.com/2018/01/pga-awards-nominations-2018-1202236312/|website=Deadline Hollywood|accessdate=5 January 2018|date=5 January 2018}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Writers Guild of America Awards 2017|Writers Guild of America Award for Comedy/Variety – Talk Series]]&lt;ref name="WGA 2017"&gt;{{cite web|last1=Littleton|first1=Cynthia|title=Writers Guild Award TV Nominations: ‘The Americans,’ ‘Handmaid’s Tale,’ ‘GLOW’ Grab Multiple Mentions|url=https://variety.com/2017/tv/news/writers-guild-award-tv-nominations-americans-handmaids-tale-glow-1202632895/|website=Variety|accessdate=7 December 2017}}&lt;/ref&gt;
+| ''Jimmy Kimmel Live!''
+| {{nom}}
+|-
+| [[Writers Guild of America Awards 2017|Writers Guild of America Award for Comedy/Variety (Music, Awards, Tributes) – Specials]]&lt;ref name="WGA 2017"/&gt;
+| ''89th Academy Awards''
+| {{nom}}
+|}
+
+== References ==
+
+{{Reflist|30em}}
+
+== External links ==
+{{sisterlinks|collapsible=true|d=Q4914|c=category:Jimmy Kimmel|n=no|b=no|v=no|voy=no|m=no|mw=no|species=no|wikt=no|s=no}}
+
+* {{Official website}}
+* {{IMDb name|0453994}}
+* [http://abc.go.com/shows/jimmy-kimmel-live ABC Jimmy Kimmel Live website]
+
+{{Portalbar|Biography|Comedy|Film|Greater Los Angeles|Music|Nevada|Radio|Television in the United States}}
+
+{{Daytime Emmy Award Outstanding Game Show Host}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kimmel, Jimmy}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:21st-century American writers]]
+[[Category:American game show hosts]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American male voice actors]]
+[[Category:American people of German descent]]
+[[Category:American people of Italian descent]]
+[[Category:American Roman Catholics]]
+[[Category:American television producers]]
+[[Category:American television talk show hosts]]
+[[Category:American television writers]]
+[[Category:Arizona State University alumni]]
+[[Category:Daytime Emmy Award winners]]
+[[Category:Daytime Emmy Award for Outstanding Game Show Host winners]]
+[[Category:Late night television talk show hosts]]
+[[Category:Male actors from Nevada]]
+[[Category:Male actors of Italian descent]]
+[[Category:Male television writers]]
+[[Category:People with narcolepsy]]
+[[Category:Radio personalities from the Las Vegas Valley]]
+[[Category:University of Nevada, Las Vegas alumni]]
+[[Category:Writers from Nevada]]</text>
+      <sha1>curkzoua41p2zx7gehcttbjtja2mzjg</sha1>
+    </revision>
+  </page>
+</mediawiki>

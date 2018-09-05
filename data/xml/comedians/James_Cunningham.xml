@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>James Cunningham (comedian)</title>
+    <ns>0</ns>
+    <id>31598795</id>
+    <revision>
+      <id>848298128</id>
+      <parentid>816960331</parentid>
+      <timestamp>2018-07-01T02:21:12Z</timestamp>
+      <contributor>
+        <username>MarcMarkMarc</username>
+        <id>29406575</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3879">{{Infobox person
+| name        = James Cunningham
+| image       = Eat St.'s James Cunningham.jpg
+| alt         = 
+| caption     = Cunningham in September 2012
+| birth_name  = 
+| birth_date  = &lt;!-- {{Birth date and age|YYYY|MM|DD}} or {{Birth-date and age|Month DD, YYYY}} --&gt;
+| birth_place = 
+| death_date  = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|Month DD, YYYY|Month DD, YYYY}} (death date then birth date) --&gt;
+| death_place = 
+| nationality = Canadian
+| other_names = 
+| known_for   = 
+| occupation  = 
+}}
+
+'''James Cunningham''' (born 1973 or 1974)&lt;ref name=owe&gt;{{cite news|url=http://www.canada.com/Generation+should+responsible+kids+financial+literacy/4237680/story.html|title=Generation Owe: who should be responsible for kids' financial literacy?|last=Laucius|first=Joanne|work=Canada.com|date=7 February 2011|accessdate=6 May 2011}}&lt;/ref&gt; is a Canadian stand-up comedian and TV host.
+
+He is the host of [[Food Network (Canada)|Food Network Canada]]'s and [[Cooking Channel]] US's ''[[Eat St.]]'', a TV show about North American [[street food]] that debuted in 2011. He initially auditioned for another show before being offered the job of hosting Eat St.&lt;ref name=shortorder&gt;{{cite news|url=http://blogs.miaminewtimes.com/shortorder/2011/05/eat_streets_james_cunningham_e.php|title=Eat Street's James Cunningham Searches for Miami Food Truck Girl|last=Doss|first=Laine|work=Short Order|publisher=Miami New Times|date=5 May 2011|accessdate=6 May 2011}}&lt;/ref&gt;.Other television appearances include "Last Comic Standing" and "Just for Laughs."&lt;ref&gt;{{cite news|url=http://www.winnipegfreepress.com/arts-and-life/food/new-series-eat-st-captures-revolution-in-gourmet-food-says-host-119178534.html|title=New series 'Eat St.' captures 'revolution' in gourmet food, says host|last=Ahearn|first=Victoria|work=Winnipeg Free Press|date=4 April 2011|accessdate=6 May 2011}}&lt;/ref&gt; He has also worked as a TV warm up act.&lt;ref&gt;{{cite news|url=http://www.canadaeast.com/entertainment/article/537325|title=Shining a spotlight on the crowd warmer, the 'unsung hero' of TV tapings|last=Ahearn|first=Victoria|work=The Canadian Press|date=12 January 2009|accessdate=6 May 2011}}&lt;/ref&gt;
+
+He wrote and hosts "Funny Money", a stage show designed to teach students about finance.&lt;ref&gt;{{cite news|url=http://www.canada.com/ottawacitizen/news/bustech/story.html?id=c6211306-6bf4-4f42-8b2c-5b837d1eeba2 |title=Funny money banks laughs |date=26 April 2008 |work=Ottawa Citizen |accessdate=6 May 2011 |archiveurl=https://web.archive.org/web/20121110091320/http://www.canada.com/ottawacitizen/news/bustech/story.html?id=c6211306-6bf4-4f42-8b2c-5b837d1eeba2 |archivedate=10 November 2012 |deadurl=yes |df= }}&lt;/ref&gt; He does over 300 stand-up performances a year, mostly "Funny Money".&lt;ref name=crave/&gt;
+
+Cunningham was born in Toronto,&lt;ref name=crave&gt;{{cite news|url=http://www.craveonline.com/tv/interviews/167369-james-cunningham-of-qeat-stq-has-the-funny-and-the-food|title=Eat St.'s James Cunningham|last=Cox|first=Jennifer|work=Crave Online|date=4 May 2011|accessdate=6 May 2011}}&lt;/ref&gt; where his father was an accountant. He studied drama and minored in finance at the [[University of Toronto]].&lt;ref name=owe/&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.james-cunningham.com/}}
+*https://web.archive.org/web/20110504153023/http://eatst.foodnetwork.ca/
+*https://web.archive.org/web/20130116121837/http://www.cookingchanneltv.com/eat-street/index.html
+
+{{DEFAULTSORT:Cunningham, James}}
+[[Category:1970s births]]
+[[Category:Living people]]
+[[Category:Canadian male comedians]]
+[[Category:Canadian people of Irish descent]]
+[[Category:Canadian people of Italian descent]]
+[[Category:Canadian people of Polish descent]]
+[[Category:Comedians from Toronto]]
+[[Category:University of Toronto alumni]]
+[[Category:Year of birth uncertain]]</text>
+      <sha1>2bi9l5o3lhs42zi3rt4ifinzsnsovw9</sha1>
+    </revision>
+  </page>
+</mediawiki>

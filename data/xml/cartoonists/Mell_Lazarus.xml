@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mell Lazarus</title>
+    <ns>0</ns>
+    <id>1505241</id>
+    <revision>
+      <id>827551355</id>
+      <parentid>824126417</parentid>
+      <timestamp>2018-02-25T10:37:17Z</timestamp>
+      <contributor>
+        <username>Jabberjaw</username>
+        <id>9895903</id>
+      </contributor>
+      <minor/>
+      <comment>/* Biography */clean up, [[WP:AWB/T|typo(s) fixed]]: (nee → (née using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9801">{{about|the cartoonist named Lazarus|other uses of the name Lazarus|Lazarus (name)}}
+{{Use mdy dates|date=May 2016}}
+{{Infobox comics creator
+| name=Mell Lazarus
+| birth_name = Melvin Lazarus
+| image = Mell-Lazarus Field-Newspaper-Syndicate-publicity-photo.jpg
+| image_size = 
+| caption = Lazarus in 1970 with his creation, Momma
+| birth_date = {{birth date|1927|5|3}}
+| birth_place = [[Brooklyn, New York]], U.S.
+| death_place = [[Los Angeles, California]], U.S.
+| death_date = {{death date and age|2016|5|24|1927|5|3}}
+| area = Cartoonist, Novelist
+| cartoonist = y
+| alias = Fulton
+| notable works   = ''[[Miss Peach]]''&lt;br /&gt;''[[Momma]]''
+| spouse = Sally Mitchell
+| children =Marjorie, Susan, Cathy
+| awards = [[Reuben Award]] (1981)
+}}
+'''Melvin Lazarus''' (May 3, 1927&lt;ref name=CBG1285&gt;{{cite journal|first=John  Jackson |last=Miller |url=http://cbgxtra.com/knowledge-base/for-your-reference/comics-industry-birthdays |title=Comics Industry Birthdays |work=[[Comics Buyer's Guide]] |number=1485 |date=June 10, 2005 |accessdate=December 12, 2010 |archiveurl=https://www.webcitation.org/5trAbNQWw?url=http://cbgxtra.com/knowledge-base/for-your-reference/comics-industry-birthdays |archivedate=October 30, 2010 |deadurl=yes |df= }}&lt;/ref&gt; – May 24, 2016)&lt;ref name=ncsobit&gt;{{cite web| url= http://www.reuben.org/2016/05/mell-lazarus-1927-2016/| title=Mell Lazarus 1927-2016| publisher=[[National Cartoonists Society]] | date= May 24, 2016|archivedate=August 21, 2017|archiveurl= https://web.archive.org/web/20170821061824/http://www.reuben.org/2016/05/mell-lazarus-1927-2016/| deadurl=no}}&lt;/ref&gt; was an American [[cartoonist]], best known as the creator of two [[comic strip]]s, ''[[Miss Peach]]'' (1957–2002) and ''[[Momma]]'' (1970–2016). Additionally, he wrote two novels. For his comic strip ''Pauline McPeril'' (a 1966-69 collaboration with [[Jack Rickard]]), he used the pseudonym '''Fulton''', which is also the name of a character in his first novel, ''The Boss Is Crazy, Too''.
+
+==Biography==
+Lazarus was born in Brooklyn,&lt;ref name=syndicatebio&gt;{{cite web|url=http://www.creators.com/author/mell-lazarus |publisher=[[Creators Syndicate]]|title=About Mell Lazarus|accessdate=May 24, 2016|archivedate= September 6, 2017|archiveurl= https://web.archive.org/web/20170906060824/https://www.creators.com/author/mell-lazarus|deadurl=no}}&lt;/ref&gt; to Sydney Lazarus, a successful glass-blower, and Frances (née Mushkin) Lazarus, nicknamed Frankie.&lt;ref name=NYtimes&gt;{{cite web|url=https://www.nytimes.com/2016/05/26/arts/design/mell-lazarus-cartoonist-of-miss-peach-and-momma-dies-at-89.html|title=Mell Lazarus, Cartoonist of 'Miss Peach' and 'Momma,' Dies at 89|first=Sam |last=Roberts|work=[[The New York Times]]|accessdate=2017-12-22}}&lt;/ref&gt;&lt;ref name=latimes /&gt; Lazarus, who dropped out of high school, published his first cartoon at 16, and later enlisted in the [[U.S. Navy]].&lt;ref name=latimes /&gt;
+
+During his twenties, he worked for [[Al Capp]] and his brother [[Elliott Caplin]] at the Capp family-owned [[Toby Press]].&lt;ref name=NYtimes /&gt; In the early 1950s, he created two children's comic strips, ''Wee Women'' and ''Li'l Ones''.&lt;ref name=NYtimes/&gt;
+
+His comic strip ''[[Momma]]'' debuted on October 26, 1970. Although Lazarus based the title character on his own mother, she believed the character was based on his aunt, exclaiming, "You caught Aunt Helen to a tee!"&lt;ref name=toon&gt;{{cite web |url=http://www.toonopedia.com/momma.htm |title='' Momma'' |publisher=[[Don Markstein's Toonopedia]]|first=Don|last=Markstein |accessdate=October 28, 2009 |archivedate=March 9, 2016 |archiveurl=https://www.webcitation.org/6frtnMCLh?url=http://www.toonopedia.com/momma.htm |deadurl=no |df=mdy-all }}&lt;/ref&gt;
+
+In 1964, Lazarus talked about his background and working methods:
+{{quote|I never actually graduated high school. My art teacher flunked me. I have since, however, attended many classes of one kind or another. I frequently lecture at colleges and to other groups around the country. I sold my first cartoon when I was 16. I did commercial art and edited children’s magazines prior to February 4, 1957 when my comic, ''Miss Peach'', was launched. The characters in ''Miss Peach'' are not actually modeled on real persons, with the possible exception of Lester, the skinny kid in the strip. Possibly the most loved character is Arthur, the dopey little kid. I make notes all week based on thoughts, conversational fragments, etc. I sift through all these notes on Monday mornings and select several to develop. I then write gags for them. I do six daily strips and a [[Sunday strip|Sunday page]].&lt;ref&gt;{{cite book|last=Willette|first= Allen|title=These Top Cartoonists Tell How They Create America's Favorite Comics|publisher=Allied Publications|year= 1964}}&lt;/ref&gt;&lt;!--published before ISBN numbers--&gt;}}
+[[File:Misspeach52960.jpg|thumb|right|400px|Mell Lazarus' ''Miss Peach'' of May 29, 1960.]]
+
+Lazarus served as President of the [[National Cartoonists Society]] for two consecutive terms, from 1989 to 1993.{{citation needed|date=May 2016}}
+
+In 1992, Lazarus made a cameo appearance in the ''Murder, She Wrote'' episode "The Dead File".{{citation needed|date=December 2017}}
+
+==Books==
+His novel ''The Boss Is Crazy, Too'' (Dial, 1963) concerns Carson Hemple, art director of a comic-book and confession-magazine publishing company, who is told by the owner to help force the company into bankruptcy, and who responds with inventive embezzlement schemes.&lt;ref&gt;{{cite news|url=https://www.kirkusreviews.com/book-reviews/mell-lazarus-2/the-boss-is-crazy-too/| title=''The Boss Is Crazy, Too'' |publisher= (review) ''[[Kirkus Reviews]]''|date=June 3, 1963| accessdate= May 24, 2016| archivedate= May 24, 2016| archiveurl=https://web.archive.org/web/20160524212138/https://www.kirkusreviews.com/book-reviews/mell-lazarus-2/the-boss-is-crazy-too/|deadurl=no}}&lt;/ref&gt; The book was inspired by his time at [[Toby Press]].&lt;ref name=ncsobit /&gt;
+
+''The Neighborhood Watch'' (Doubleday, 1986) is about an impoverished Brooklyn writer who steals from his wealthy neighbors. Its protagonist, widowed father Loring Neiman, having turned to burglary when his book is rejected, discovers he has a knack for it. He prepares to give up the criminal life after becoming romantically involved with a married woman, but a criminally inclined neighbor coerces him into one purportedly final robbery.&lt;ref&gt;{{cite news| url= http://www.publishersweekly.com/978-0-385-23170-1 | title=''The Neighborhood Watch'' | publisher=(review) ''[[Publishers Weekly]]'' | date=March 14, 1986 | accessdate= May 24, 2016| archivedate= May 24, 2016| archiveurl=https://web.archive.org/web/20160524211658/http://www.publishersweekly.com/978-0-385-23170-1 |deadurl=no}}&lt;/ref&gt; It was optioned for a movie.&lt;ref name=syndicatebio /&gt;
+
+==Awards==
+Lazarus won the [[National Cartoonists Society]]'s award for Newspaper Strip, Humor, in 1973 and 1979, both times for ''[[Miss Peach]]''.&lt;ref name=ncsawards&gt;{{cite web|url=http://www.reuben.org/awards/| title=NCS Awards| publisher=National Cartoonists Society|accessdate= May 24, 2016|archivedate= March 25, 2016| archiveurl= https://web.archive.org/web/20160325171614/http://www.reuben.org/awards/ | deadurl=no}}&lt;/ref&gt;
+
+He won the [[Reuben Award]] for Outstanding Cartoonist of the Year, for ''Miss Peach'', in 1981, and the organization's Silver T-Square Award in 2000.&lt;ref name=ncsawards /&gt;
+
+On January 23, 2016, Lazarus became the second recipient of the National Cartoonists Society Medal of Honor, established the year before.&lt;ref&gt;{{cite web|url=http://www.reuben.org/2016/02/mel-lazarus-given-the-ncs-medal-of-honor/ |title=Mell Lazarus Given the NCS Medal of Honor |date=February 4, 2016 |publisher=National Cartoonists Society |accessdate=May 24, 2016 |archivedate=May 24, 2016 |archiveurl=https://www.webcitation.org/6hklzkFvH?url=http://www.reuben.org/2016/02/mel-lazarus-given-the-ncs-medal-of-honor/ |deadurl=no |df= }}&lt;/ref&gt;
+
+==Personal life==
+Lazarus was married twice, first to Eileen Lazarus, which ended in divorce; then to Sally Mitchell,&lt;ref name=NYtimes/&gt; daughter of comic-strip gag writer Ed Mitchell.&lt;ref name=ncsobit /&gt; Lazarus lived in Los Angeles from the 1970s until his death on May 24, 2016.&lt;ref name=ncsobit /&gt;&lt;ref name=syndicatebio /&gt; from complications from [[Alzheimer's]].&lt;ref name=latimes&gt;{{cite news|url=http://www.latimes.com/local/obituaries/la-me-mell-lazarus-20160602-snap-story.html|title=Mell Lazarus dies at 89; Woodland Hills cartoonist behind 'Momma' and 'Miss Peach'|first=Jill|last=Leovy|date=June 2, 2016|work=[[Los Angeles Times]]|location=California|accessdate=December 23, 2017|archivedate=December 23, 2017|archiveurl=https://archive.is/20171223145732/http://www.latimes.com/local/obituaries/la-me-mell-lazarus-20160602-snap-story.html|deadurl=no|df=mdy-all}}&lt;/ref&gt;&lt;ref name=NYtimes/&gt; He had three daughters, Marjorie, Susan and Cathy.&lt;ref name=ncsobit /&gt;
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.lambiek.net/artists/l/lazarus_m.htm Mell Lazarus] at the [[Lambiek Comiclopedia]]
+* [https://www.youtube.com/watch?v=Eprv4GI-M7c Tribute to Mell Lazarus], excerpted from the documentary film by Sari Armington, [https://www.facebook.com/The-Folks-Behind-the-Funnies-740066412741043/?fref=ts&amp;ref=br_tf The Folks Behind the Funnies]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lazarus, Mell}}
+[[Category:1927 births]]
+[[Category:2016 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:American comic strip cartoonists]]
+[[Category:American Jews]]
+[[Category:American male novelists]]
+[[Category:Reuben Award winners]]
+[[Category:People from Brooklyn]]
+[[Category:People from Los Angeles]]
+[[Category:20th-century male writers]]
+[[Category:Novelists from California]]
+[[Category:Novelists from New York (state)]]</text>
+      <sha1>lh2xqyoyay9z6ppgqx65p8hiqv3xq55</sha1>
+    </revision>
+  </page>
+</mediawiki>

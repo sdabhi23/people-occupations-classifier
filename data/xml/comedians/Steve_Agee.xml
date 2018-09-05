@@ -1,0 +1,425 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steve Agee</title>
+    <ns>0</ns>
+    <id>9264846</id>
+    <revision>
+      <id>850962707</id>
+      <parentid>849443749</parentid>
+      <timestamp>2018-07-19T04:19:42Z</timestamp>
+      <contributor>
+        <username>Slowsand</username>
+        <id>14315450</id>
+      </contributor>
+      <comment>Nice try, Steve.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6887">{{BLP sources|date=February 2008}}
+{{Infobox person
+| image        = Steve Agee by Gage Skidmore 2.jpg
+| caption      = Agee at [[San Diego Comic-Con International]] in 2016.
+| birth_name   = Steven Douglas Agee
+| birth_date   = {{Birth date and age|1969|2|26|mf=y}}
+| birth_place  = [[Riverside, California]], U.S.
+| occupation   = Comedian, actor, writer
+| years_active = 2000–present
+}}
+
+'''Steven Douglas Agee''' (pronounced ''A-G''; born February 26, 1969) is an American comedian, actor, and writer, known for his role as Steve Myron on the [[Comedy Central]] series ''[[The Sarah Silverman Program]]''.
+
+Agee was born in [[Riverside, California]]. As a promotional stunt for his [[Twitter]] account, Agee promised to read every one of his followers' names if he reached 5,000 followers as of April 17, 2009. He acquired over 7,700 followers by that date, and fulfilled the promise on [[Ustream.tv]] the following day.&lt;ref&gt;http://www.ustream.tv/channel/-theagee5k&lt;/ref&gt; [[Rich Fulcher]], [[James Gunn (filmmaker)|James Gunn]], [[Rainn Wilson]], [[Sarah Silverman]] and various friends of Agee talked over the phone and read names.
+
+He has a podcast called ''Steve Agee: Uhhh'' that is updated semi-regularly.
+
+==Writing credits==
+* 2005–08: ''[[Jimmy Kimmel Live!]]'' (337 episodes)
+* ''[[The Andy Milonakis Show]]''
+
+==Filmography==
+{| class="wikitable sortable"
+|+ Film
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2000
+| ''{{sortname|The|Bogus Witch Project}}''
+| {{n/a}}
+| "The Griffith Witch Project" segment;&lt;br&gt;also director and producer
+|-
+| 2003
+| ''[[Kicked in the Nuts]]''
+| Man on the Street
+| Short film
+|-
+| 2005
+| ''[[Sarah Silverman: Jesus Is Magic]]''
+| Guy in Wings
+|
+|-
+| 2006
+| ''[[Sleeping Dogs Lie (2006 film)|Sleeping Dogs Lie]]''
+| Carl
+|
+|-
+| 2010
+| ''[[Super (2010 American film)|Super]]''
+| Comic Book Store Jerk
+|
+|-
+| 2011
+| ''[[God Bless America (film)|God Bless America]]''
+| American Superstarz Crew Member
+|
+|-
+| 2011
+| ''Angry White Man''
+| Floyd
+|
+|-
+| 2012
+| ''[[Hit and Run (2012 film)|Hit and Run]]''
+| Dude #1
+|
+|-
+| 2013
+| ''{{sortname|The|Insomniac|dab=2013 film}}''
+| Gun Dealer
+|
+|-
+| 2013
+| ''[[Dealin' with Idiots]]''
+| Hezekiah
+|
+|-
+| 2014
+| ''Leonard in Slow Motion''
+| Redhead
+| Short film
+|-
+| 2014
+| ''Abby in the Summer''
+| Rick the Repairman
+|
+|-
+| 2014
+| ''[[Dark Was the Night (film)|Dark Was the Night]]''
+| The Foreman
+|
+|-
+| 2014
+| ''Me''
+| Steve
+|
+|-
+| 2015
+| ''[[The Hive (2014 film)|The Hive]]''
+| Kevin
+|
+|-
+| 2015
+| ''Amigo Undead''
+| Norm Ostrowski
+|
+|-
+| 2015
+| ''Dementia''
+| Larry
+| 
+|-
+| 2016
+| ''[[Maid of Heaven]]''
+| Jack
+| Short Music Film 
+|-
+| 2017
+| ''[[Guardians of the Galaxy Vol. 2]]''
+| Gef
+| 
+|}
+
+{| class="wikitable sortable"
+|+ Television
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2007–10
+| ''{{sortname|The|Sarah Silverman Program}}''
+| Steven Ned Myron III
+| Main cast; 32 episodes
+|-
+| 2010
+| ''[[Accidentally on Purpose (TV series)|Accidentally on Purpose]]''
+| Ian
+| Episode: "Speed"
+|-
+| 2010–13
+| ''[[Childrens Hospital (TV Series)|Childrens Hospital]]''
+| Lollipop Salesman / Terry
+| 2 episodes
+|-
+| 2011
+| ''[[Bob's Burgers]]''
+| Glitter
+| Voice; episode: "[[Sheesh! Cab, Bob?]]"
+|-
+| 2011–16
+| ''[[Adventure Time]]''
+| Various voices
+| 9 episodes
+|-
+| 2011
+| ''[[Death Valley (TV series)|Death Valley]]''
+| Porn Director
+| Episode: "Two Girls, One Cop"
+|-
+| 2012
+| ''[[Happy Endings (TV series)|Happy Endings]]''
+| Chad
+| Episode: "Makin' Changes!"
+|-
+| 2012–16
+| ''[[2 Broke Girls]]''
+| Tig / Nurse
+| 2 episodes
+|-
+| 2012
+| ''{{sortname|The|League}}''
+| Piano Store Guy
+| Episode: "The Vapora Sport"
+|-
+| 2013–17
+| ''[[New Girl]]''
+| Outside Dave / Judge Pasqual
+| 13 episodes
+|-
+| 2013
+| ''{{sortname|The|Cleveland Show}}''
+| {{n/a}}
+| Voice; episode: "[[The Hangover: Part Tubbs]]"
+|-
+| 2013–16
+| ''[[@midnight]]''
+| Himself
+| 17 episodes
+|-
+| 2013
+| ''[[You're Whole]]''
+| Lonny Dibbs
+| Episode: "Lemonade/Fishing/Cupcakes"
+|-
+| 2014
+| ''[[Rick and Morty]]''
+| Giant / Restaurant Owner
+| Voice; episode: "Meeseeks and Destroy"
+|-
+| 2014–15
+| ''[[Community (TV series)|Community]]''
+| David / Deejay
+| 2 episodes
+|-
+| 2014
+| ''[[Garfunkel and Oates (TV series)|Garfunkel and Oates]]''
+| Toy Store Cashier
+| Episode: "The Fadeaway"
+|-
+| 2014–17
+| ''[[You're the Worst]]''
+| Pizza Delivery Guy / Dutch
+| 6 episodes
+|-
+| 2015
+| ''[[A to Z (TV series)|A to Z]]''
+| Lewis
+| Episode: "L Is for Likability"
+|-
+| 2015
+| ''[[Maron (TV series)|Maron]]''
+| Himself
+| Episode: "Steel Johnson"
+|-
+| 2015
+| ''[[Comedy Bang! Bang! (TV series)|Comedy Bang! Bang!]]''
+| Donald
+| Episode: "Mary Elizabeth Winstead Wears an A-Line Skirt and Pointy Black Boots"
+|-
+| 2015–16
+| ''[[Regular Show]]''
+| Corny / Cowboy / Zaxon
+| Voice; 2 episodes
+|-
+| 2016
+| ''[[Modern Family]]''
+| Tommy
+| Episode: "Thunk in the Trunk"
+|-
+| 2016
+| ''[[American Dad!]]''
+| {{n/a}}
+| Voice; episode: "The Devil Wears a Lapel Pin"
+|-
+| 2016
+| ''[[Mr. Neighbor's House]]''
+| Demon #2
+| TV special
+|-
+| 2016–17
+| ''[[Superstore (TV series)|Superstore]]''
+| Isaac
+| 2 episodes
+|-
+| 2017
+| ''[[American Housewife]]''
+| Don
+| 2 episodes
+|-
+| 2017
+| ''[[Crashing (U.S. TV series)|Crashing]]''
+| Himself
+| Episode: "Warm-Up"
+|-
+| 2017
+| ''[[Speechless (TV series)|Speechless]]''
+| Lunch Man
+| Episode: "T-R-- TRAINING D-A-- DAY"
+|-
+| 2017
+| ''[[Steven Universe]]''
+| Eduardo
+| Voice; episode: "Reunited"
+|-
+|2018
+|''[[Talking Dead]]''
+| Himself
+| Episode: "[[Dead or Alive Or]]"
+|-
+|2018
+|''[[Drunk History]]''
+| Harry Reeder
+| Episode: "World War II"
+|}
+
+
+{| class="wikitable sortable"
+|+ Web
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2005
+| ''[[House of Cosbys]]''
+| Housekeeping Cosby
+| 1 episode
+|-
+| 2008
+| ''Held Up''
+| Homeless man
+| Unknown episodes
+|-
+| 2014
+| ''American Viral''
+| Dr. Giggles
+| Episode: "Paging Dr. Giggles"
+|-
+| 2014
+| ''[[Too Cool! Cartoons|Manly]]''
+| Ahriman
+| Voice
+|-
+| 2016
+| ''[[HarmonQuest]]''
+| Tec Powers
+| Episode 3: "Welcome to Freshport"
+|-
+| 2016
+| ''[[Screen Junkies|Pitch Off]]''
+| Himself
+| Episode: "Pitch Speed 3 to Doug Benson"
+|}
+
+{| class="wikitable"
+|+ Video games
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2009
+| ''[[Brütal Legend]]''
+| Skull Raker
+| Voice
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|0012948}}
+* [http://uhhhpodcast.libsyn.com/ Steve Agee: Uhhh Podcast]
+
+{{authority control}}
+
+{{DEFAULTSORT:Agee, Steve}}
+[[Category:1969 births]]
+[[Category:21st-century American male actors]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American podcasters]]
+[[Category:American stand-up comedians]]
+[[Category:American television writers]]
+[[Category:Living people]]
+[[Category:Male television writers]]
+[[Category:Male actors from Riverside, California]]
+[[Category:Comedians from California]]</text>
+      <sha1>00ync4l2h0iqm6qsuwus3f3ydyoxw97</sha1>
+    </revision>
+  </page>
+</mediawiki>

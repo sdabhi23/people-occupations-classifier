@@ -1,0 +1,208 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Echo Kellum</title>
+    <ns>0</ns>
+    <id>37855032</id>
+    <revision>
+      <id>853703591</id>
+      <parentid>848700816</parentid>
+      <timestamp>2018-08-06T13:20:59Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8127">{{Infobox person
+| name         = Echo Kellum
+| image        = Echo Kellum Portrait 2017.jpg
+| caption      = Kellum in 2017
+| birth_date   = {{birth date and age|1982|08|29}}
+| birth_place  = [[Chicago]], [[Illinois]], U.S.
+| occupation   = Actor
+| years_active = 2012–present
+}}
+
+'''Echo Kellum''' (born August 29, 1982){{citation needed|date=July 2018}} is an American actor and comedian. Kellum is best known for his roles as [[Mister Terrific (comics)|Curtis Holt]] on [[The CW]] drama series ''[[Arrow (TV series)|Arrow]]'', Tommy on the [[Fox Broadcasting Company|FOX]] sitcom ''[[Ben and Kate]]'',&lt;ref name="dallasnews"&gt;{{cite web |author=Robert Wilonsky |url=http://popcultureblog.dallasnews.com/2012/12/echo-kellum-co-star-of-foxs-ben-and-kate-was-in-town-promoting-his-show-this-is-our-visit.html/ |title=Echo Kellum, co-star of FOX’s ‘Ben and Kate,’ was in town promoting his show. This is our visit. |work=The Dallas Morning News Pop Culture Blog |publisher=The Dallas Morning News Inc. |date=December 4, 2012 |accessdate=2016-04-05}}&lt;/ref&gt; and Hunter on [[NBC]]'s ''[[Sean Saves the World]]''.&lt;ref name="NYPost"&gt;{{cite web |author=Michael Starr |url=https://nypost.com/2013/10/02/will-grace-vet-best-reason-to-watch-sean-saves-the-world/ |title=‘Will &amp; Grace’ vet best reason to watch ‘Sean Saves the World’ |work=[[New York Post]] |date=October 2, 2013 |accessdate=2016-04-05 |quote=...and Hayes is nicely supported by Echo Kellum and Megan Hilty as co-workers Hunter (he of the understated sarcasm) and Liz (also Sean’s best friend outside the office).}}&lt;/ref&gt;
+
+==Early life ==
+Born in [[Chicago]], [[Illinois]],&lt;ref&gt;{{cite news |author=Darel Jevens |url=http://chicago.suntimes.com/entertainment/chicagos-echo-kellum-cast-as-mr-terrific-on-arrow/ |title=Chicago’s Echo Kellum cast as Mr. Terrific on ‘Arrow’ |work=[[Chicago Sun-Times]] |date=July 20, 2015 |accessdate=2016-06-02}}&lt;/ref&gt; he moved to Los Angeles in late 2009 to pursue a career in comedy.&lt;ref name="UCB"&gt;{{cite web|url=http://losangeles.ucbtheatre.com/talent/view/21329 |title=UCB Theatre • Echo Kellum |publisher=UCB Comedy |date= |accessdate=2012-12-07}}&lt;/ref&gt; He is a graduate of [[The Groundlings]], [[I.O. West]], and the [[Upright Citizens Brigade]].&lt;ref name="dallasnews"/&gt;&lt;ref name="UCB"/&gt;
+
+==Career==
+Kellum gained his first major role in 2012 when he was cast in the FOX comedy ''[[Ben and Kate]]'' (then titled ''Ben Fox Is My Manny'') playing the role of Tommy, the best friend of the titular character Ben ([[Nat Faxon]]).&lt;ref&gt;{{cite web |author=Nellie Andreeva |url=http://deadline.com/2012/02/michael-arden-joins-anger-management-echo-kellum-cast-in-ben-fox-is-my-manny-230758/ |title=Michael Arden Joins 'Anger Management', Echo Kellum Cast In 'Ben Fox Is My Manny' |work=[[Deadline Hollywood]] |date=February 14, 2012 |accessdate=2016-04-05}}&lt;/ref&gt; Following ''Ben and Kate'', Kellum was cast as Hunter in NBC's ''[[Sean Saves the World]]'' starring [[Sean Hayes (actor)|Sean Hayes]] and [[Megan Hilty]].
+
+In 2015, Kellum was cast in the recurring role of Curtis Holt, based on the [[DC Comics|DC]] character [[Mister Terrific (comics)|Mister Terrific]], in the fourth season of The CW drama series ''[[Arrow (TV series)|Arrow]]''.&lt;ref name="EW-Arrow"&gt;{{cite web |author=Natalie Abrams |url=http://www.ew.com/article/2015/07/16/arrow-echo-kellum-mr-terrific-season-4 |title=Arrow casts Mr. Terrific for season 4 |work=[[Entertainment Weekly]] |date=July 17, 2015 |accessdate=2016-04-05}}&lt;/ref&gt; Curtis is a technological savant and inventor who works at Palmer Technologies under the supervision of Felicity Smoak, and later becomes a member of Team Arrow. In April 2016, it was announced that Kellum would be promoted to series regular for the fifth season of ''Arrow''.&lt;ref name="TVL-Arrow"&gt;{{cite web |author=Matt Webb Mitovich |url=http://tvline.com/2016/04/04/arrow-season-5-echo-kellum-series-regular-curtis/ |title=Arrow Season 5: Echo Kellum Promoted to Series Regular as Curtis |work=[[TVLine]] |date=April 4, 2016 |accessdate=2016-04-05}}&lt;/ref&gt;
+
+In 2017,&lt;ref&gt;http://fanfest.com/2016/07/06/echo-kellum-talks-about-the-future-of-arrows-mister-terrific&lt;/ref&gt; Kellum appeared in [[Netflix]]'s ''[[Girlfriend's Day]]''&lt;ref&gt;{{cite web |author=Rebecca Ford |url=http://www.hollywoodreporter.com/news/netflix-nabs-chris-sparlings-mercy-842494 |title=Netflix Nabs Chris Sparling's 'Mercy,' 'Girlfriend's Day' With Bob Odenkirk (Exclusive) |work=[[The Hollywood Reporter]] |date=November 23, 2015}}&lt;/ref&gt; as Madsen, beat poet and a co-worker of [[Bob Odenkirk]]'s character.&lt;ref&gt;http://www.talentmonthly.com/arrows-echo-kellum-talks-playing-curtis-mr-terrific-and-more/&lt;/ref&gt;
+
+Kellum voices the character "King Joaquín" on the [[Disney Channel]] animated series ''[[Elena of Avalor]]''. He also voices multiple characters for the [[Adult Swim]] animated series ''[[Rick and Morty]]''.
+
+== Filmography==
+{| class="wikitable sortable"
+|+ Television and film roles
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2012
+| ''[[Comedy Bang! Bang!]]''
+| Concerned Citizen
+| Episode: "Zach Galifianakis Wears a Blue Jacket &amp; Red Socks"
+|-
+| rowspan=2 | 2012–13
+| ''[[Ben and Kate]]''
+| Tommy
+| Main cast, 16 episodes
+|-
+| ''[[Hot in Cleveland]]''
+| Aaron / Johnny
+| Episodes: "Hot &amp; Heavy", "Love Is All Around"
+|-
+| rowspan=4 | 2013
+| ''The Gates''
+| Rav Mukherjee
+| Unsold television pilot&lt;ref&gt;{{cite web |url=http://www.thefutoncritic.com/news/2013/05/08/development-update-wednesday-may-8-nbc-passes-on-four-dramas-three-comedies-867413/10325/ |title=Development Update: Wednesday, May 8 - NBC Passes on Four Dramas, Three Comedies |work=[[The Futon Critic]] |date=May 8, 2013 |accessdate=2016-04-05}}&lt;/ref&gt;
+|-
+| ''[[NTSF:SD:SUV]]''
+| Clarence / Lex
+| Episodes: "Inertia", "Unfrozen Agent Man"
+|-
+| ''[[Key and Peele]]''
+| Funk Band Member
+| Episode #3.9
+|-
+| ''Comedy Bang! Bang!''
+| Tiberius Jones
+| Episodes: "Aziz Ansari Wears a Charcoal Blazer", "Zach Galifianakis Wears a Santa Suit"
+|-
+| 2013–14
+| ''[[Sean Saves the World]]''
+| Hunter
+| Main cast, 15 episodes (2 unaired)
+|-
+| 2013–17
+| ''[[Rick and Morty]]''
+| Jacob / Brad / First Mate / Triple Trunks
+| Voice roles; 4 episodes
+|-
+| 2014
+| ''Two to Go''
+| Nick
+| Unsold television pilot&lt;ref&gt;{{cite web |url=http://www.thefutoncritic.com/news/2014/05/09/development-update-friday-may-9-odds-and-ends-155515/10886/ |title=Development Update: Friday, May 9 - Odds &amp; Ends |work=[[The Futon Critic]] |date=May 9, 2014 |accessdate=2016-04-05}}&lt;/ref&gt;
+|-
+| rowspan=6 | 2015
+| ''Shangri-La Suite''
+| Hepcat
+| Film
+|-
+| ''Dead People''
+| Doug
+| Unsold television pilot&lt;ref&gt;{{cite web |url=http://www.thefutoncritic.com/news/2015/05/07/development-update-thursday-may-7-odds-and-ends-810005/11333/ |title=Development Update: Thursday, May 7 - Odds &amp; Ends |work=[[The Futon Critic]] |date=May 7, 2015 |accessdate=2016-04-05}}&lt;/ref&gt;
+|-
+| ''[[A to Z (TV series)|A to Z]]''
+| Joseph
+| Episodes: "J Is for Jan Vaughan", "K Is for Keep Out"
+|-
+| ''[[Drunk History]]''
+| Lew Alcindor
+| Episode: "Cleveland"
+|-
+| ''[[The League]]''
+| Mr. McGibblets
+| Episode: "The Yank Banker"
+|-
+| ''[[You're the Worst]]''
+| Tall Nathan
+| 4 episodes
+|-
+| 2015–present
+| ''[[Arrow (TV series)|Arrow]]''
+| [[Mister Terrific (Michael Holt)|Curtis Holt / Mister Terrific]]
+| Recurring role (season 4)
+Series regular (season 5-present)
+|-
+|2016
+| ''[[Pig Goat Banana Cricket]]''
+| Guitar / Lil' Doctor Dirty
+| Voice roles; 2 episodes
+|-
+| rowspan=2 | 2017
+| ''[[Girlfriend's Day]]''
+| Madsen
+| Film
+|-
+| ''[[Legends of Tomorrow]]''
+| Curtis Holt / Mister Terrific
+| Episodes: "Return of the Mack", "[[Crisis on Earth-X|Crisis on Earth-X, Part 4]]"
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb name|4523855|Echo Kellum}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Kellum, Echo}}
+[[Category:Male actors from Chicago]]
+[[Category:American male comedians]]
+[[Category:American male television actors]]
+[[Category:Living people]]
+[[Category:21st-century American male actors]]
+[[Category:Comedians from Illinois]]
+[[Category:1982 births]]
+
+
+{{US-tv-actor-stub}}</text>
+      <sha1>1sumaiuuyp77zsr0fdm40ggufk4efo4</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Roland Garros (aviator)</title>
+    <ns>0</ns>
+    <id>37399</id>
+    <revision>
+      <id>851952821</id>
+      <parentid>851727258</parentid>
+      <timestamp>2018-07-25T17:08:03Z</timestamp>
+      <contributor>
+        <username>Jon Kolbert</username>
+        <id>29727696</id>
+      </contributor>
+      <minor/>
+      <comment>Updating URL format for [[The New York Times]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14903">{{other uses2|Roland Garros}}
+{{Expand French|Roland Garros|date=July 2017}}
+{{Infobox military person
+|name          = Roland Garros
+|image         =File:Roland Garros (aviator).jpg
+|caption       = Roland Garros in [[Tunisia]] on 23 September 1913 immediately after becoming the first person to cross the [[Mediterranean Sea]] by air.
+|birth_name    =Eugène Adrien Roland Georges Garros
+|birth_date    = {{birth date|1888|10|06|df=y}}
+|birth_place   = [[Saint-Denis, Réunion]], [[France]]
+|death_date    = {{death date and age|1918|10|05|1888|10|06|df=y}}
+|death_place   = [[Vouziers]], [[Ardennes]], [[France]]
+|allegiance    ={{Flag|France}}
+|death_cause   = [[Aircraft crash]]
+|resting_place = [[Vouziers]], [[France]]
+|resting_place_coordinates =
+|residence     =
+|nationality   = [[France|French]]
+| awards        = Chevalier de la [[Légion d'honneur]] (1913) &lt;br&gt;Officier de la [[Légion d'honneur]] (1918)&lt;ref&gt;[http://www.culture.gouv.fr/LH/LH067/PG/FRDAFAN83_OL1081036v001.htm culture.gouv.fr : certificate of the legion of honour]&lt;/ref&gt;
+}}
+
+'''Eugène Adrien Roland Georges Garros''' ({{IPA-fr|ʁɔlɑ̃ ɡaʁos}}; 6 October 1888 – 5 October 1918) was a [[France|French]] pioneering [[aviator]] and [[fighter pilot]] during [[World War I]] and early days of [[aviation]].&lt;ref name=death/&gt;
+
+==Biography==
+Eugène Adrien Roland Georges Garros&lt;ref&gt;[http://www.culture.gouv.fr/LH/LH067/PG/FRDAFAN83_OL1081036v007.htm culture.gouv.fr : Extract of state registers]&lt;/ref&gt; was born in [[Saint-Denis, Réunion]], and studied at the [[Lycée Janson de Sailly]] and [[HEC Paris]]. He started his aviation career in 1909 flying a [[Santos-Dumont Demoiselle|Demoiselle]] (Dragonfly) monoplane, an aircraft that only flew well with a small lightweight pilot.  He gained Ae.C.F. licence no. 147 in July 1910. In 1911 Garros graduated to flying [[Blériot XI|Blériot]] monoplanes and entered a number of European air races with this type of machine, including the [[1911 Paris to Madrid air race]] and the [[Circuit of Europe]] (Paris-London-Paris), in which he came second.&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1911/1911%20-%200640.html Judges' Report in European Circuit][[Flight International|''Flight'']] 22 July 1911&lt;/ref&gt;
+
+On 4 September 1911, he set an altitude record of {{convert|3950|m|ft|abbr=on}}. The following year, on 6 September 1912, after Austrian aviator Philipp von Blaschke had flown to {{convert|4360|m|ft|abbr=on}}, he regained the height record by flying to {{convert|5610|m|ft|abbr=on}}.&lt;ref&gt;{{cite news|title=Aviator Rises to 16,400 feet|url=http://chroniclingamerica.loc.gov/lccn/sn83030272/1912-09-07/ed-1/seq-5/|accessdate=18 October 2016|work=The Sun|date=7 September 1912|location=New York|page=5}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fai.org/fai-record-file/?recordId=15888|publisher=FAI|title=FAI Record ID#15888|accessdate=20 September 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20130921054730/http://www.fai.org/fai-record-file/?recordId=15888|archivedate=21 September 2013|df=dmy-all}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fai.org/fai-record-file/?recordId=15889|publisher=FAI|title=FAI Record ID#15889|accessdate=18 October 2016}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+By 1913 he had switched to flying the faster [[Morane-Saulnier]] monoplanes, and gained fame for making the first non-stop flight across the [[Mediterranean Sea]] from [[Fréjus]] in the south of France to [[Bizerte]] in [[Tunisia]]&lt;ref&gt;{{cite journal | date = 27 September 1913 | title = Flying the Mediterranean | journal = [[Flight International|''Flight'']] | volume = V | issue = 39 | pages = 1078 | url = http://www.flightglobal.com/pdfarchive/view/1913/1913%20-%201052.html | accessdate = 24 September 2014}}&lt;/ref&gt; in a [[Morane-Saulnier G]]. The following year, Garros joined the [[French Army in World War I|French army]] at the outbreak of World War&amp;nbsp;I.
+
+===Myth of first air battle===
+Reports published in August 1914 claimed Garros was involved in the "first air battle in world history" and that he had flown his plane into a [[Zeppelin]], destroying the airship and killing its pilots and himself.&lt;ref&gt;{{cite web|url= http://www.upi.com/Archives/1914/08/03/LONDON-Aug-3-1914-UP-The-first-air-battle-in-world-history-has-taken-place-at-Longwy-France-A-French-aviator-circled-above-a-German-aircraft-fired-down-upon-it-and-sent-it-300-feet-to-earth-The-German-aviator-was-killed/9181863545103/ | publisher=United Press|title=First air battles in History | date=3 August 2014}}&lt;/ref&gt; This story was quickly contradicted by reports that Garros was alive and well in Paris.&lt;ref name="The War in the Air"&gt;{{cite journal|title=The War in the Air|journal=The Literary Digest|date=15 August 1914|volume=49|issue=7|page=283|url=https://books.google.com/books?id=dHJFAQAAMAAJ&amp;pg=PA283}}&lt;/ref&gt; Such early reports maintained that an unidentified French pilot had indeed rammed and destroyed a Zeppelin,&lt;ref name="The War in the Air"/&gt; however, German authorities denied the story.&lt;ref&gt;{{cite book|last1=Reynolds|first1=Francis J.|last2=Churchill|first2=Allen L.|last3=Miller|first3=Francis Trevelyan|title=The Story of the Great War|date=1916|publisher=P.F. Collier and Son|location=New York|page=592|url=https://books.google.com/books?id=Qw9EbZIa3bgC&amp;pg=PA592}}&lt;/ref&gt; Later sources indicated the [[Reginald Warneford|first aerial victory against a Zeppelin]] occurred in June 1915 and that earlier reports, including that of Garros, had been discredited.&lt;ref&gt;{{cite journal|title=Zeppelin Loses Battle with Monoplane|journal=Popular Mechanics|date=August 1915|page=196|url=https://books.google.com/books?id=l98DAAAAMBAJ&amp;pg=PA196}}&lt;/ref&gt;
+
+===Development of interrupter gear===
+{{main|Synchronization gear}}
+[[File:Morane-Saulnier-L-airscrew-with-deflector.jpg|thumb|right|95px|Garros' propeller, with its bullet deflectors, after being recovered from his downed aircraft]]
+In the early stages of the air war in [[World War I]] the problem of mounting a forward-firing machine gun on combat aircraft was considered by a number of individuals.  The so-called "interrupter gear" did not come into use until [[Anthony Fokker]] developed a synchronization device which had a large impact on air combat; however, Garros also had a significant role in the process of achieving this goal.&lt;ref&gt;Volker, Hank. "Synchronizers Parts 1–6" in ''WORLD WAR I AERO''. (1992–1996), World War I Aeroplanes, Inc. Part 1, pp. 49–50&lt;/ref&gt;
+
+As a reconnaissance pilot with the [[Escadrille 26|Escadrille MS26]], Garros visited the [[Morane-Saulnier]] Works&lt;ref name="van Wyngarden"&gt;{{cite book|last=van Wyngarden|first=Greg |title=Early German Aces of World War I|url=https://books.google.com/books?id=G94svgAACAAJ|year=2006|publisher=Bloomsbury USA|isbn=978-1-84176-997-4}}&lt;/ref&gt; in December 1914.  Saulnier's work on metal deflector wedges attached to propeller blades was taken forward by Garros; he eventually had a workable installation fitted to his [[Morane-Saulnier Type L]] aircraft. The [[Aero Club of America]] awarded him a medal for this invention three years later.&lt;ref&gt;{{cite news |author= |title=Aero Club Honors Garros. Aviator Gets Notice That a Medal Has Been Awarded to Him |url=https://timesmachine.nytimes.com/timesmachine/1918/03/09/98259570.pdf |quote= |newspaper=[[The New York Times]] |date=9 March 1918 }}&lt;/ref&gt; Garros achieved the first ever shooting-down of an aircraft by a fighter firing through a tractor propeller, on 1 April 1915; two more victories over [[Germany|German]] aircraft were achieved on 15 and 18 April 1915.&lt;ref name="van Wyngarden"/&gt;
+
+On 18 April 1915, either Garros's fuel line clogged or, by other accounts, his aircraft was downed by ground fire, and he glided to a landing on the German side of the lines. Garros failed to destroy his aircraft completely before being taken prisoner: most significantly, the gun and armoured propeller remained intact.&lt;ref name="van Wyngarden"/&gt; Legend has it that after examining the plane, German aircraft engineers, led by Fokker, designed the improved interrupter gear system. In fact the work on Fokker's system had been going for at least six months before Garros's aircraft fell into their hands.&lt;ref name="Woodman1989"&gt;{{cite book|last=Woodman|first=Harry |title=Early Aircraft Armament: The Aeroplane and the Gun Up to 1918|url={{google books|id=sq8WAAAAYAAJ|plainurl=yes|page=181|keywords=garros}}|year=1989|publisher=Smithsonian Institution Press|isbn=978-0-87474-994-6|p=181}}&lt;/ref&gt; With the advent of the interrupter gear the tables were turned on the Allies, with Fokker's planes shooting down many Allied aircraft, leading to what became known as the [[Fokker Scourge]].&lt;ref name="Robertson2003"&gt;{{cite book|last=Robertson|first=Linda Raine |title=The Dream of Civilized Warfare: World War I Flying Aces and the American Imagination|url=https://books.google.com/books?id=IEazJzZPaGMC&amp;pg=PA103|year=2003|publisher=U of Minnesota Press|isbn=978-0-8166-4270-0|page=103}}&lt;/ref&gt;
+
+===After internment in a POW camp===
+Garros finally managed to escape from a [[prisoner-of-war camp|POW camp]] in Germany on 14 February 1918, after several attempts, and rejoined the French army.&lt;ref&gt;{{cite news |author= |title=Garros To Train Anew In The Art Of Air Warfare. French Airman, Back From Germany, Finds He Must Learn How All Over Again |url=https://www.nytimes.com/1918/03/09/archives/garros-to-train-anew-in-the-art-of-air-warfare-french-airman-back.html |quote= |newspaper=[[The New York Times]] |date=9 March 1918 }}&lt;/ref&gt; He settled into Escadrille 26 to pilot a Spad, and claimed two victories on 2 October 1918, one of which was confirmed.
+
+===Death===
+On 5 October 1918, he was shot down and killed near [[Vouziers]], [[Ardennes]], a month before the end of the war and one day before his 30th birthday.&lt;ref&gt;{{cite news |author= |title=Garros Is Killed, Berlin Reports. Famous French Airman Was Shot Down on Oct. 4, Says Message |url=https://timesmachine.nytimes.com/timesmachine/1918/10/17/97033991.pdf |quote= |newspaper=[[The New York Times]] |date=17 October 1918 }}&lt;/ref&gt;&lt;ref name=death&gt;{{cite news |author= |title=Roland Garros Killed. Famous French Aviator, Reported Wounded, Died Oct. 5 |url=https://timesmachine.nytimes.com/timesmachine/1918/11/01/97039776.pdf |quote= |newspaper=[[The New York Times]] |date=1 November 1918 }}&lt;/ref&gt; His adversary was probably German ace [[Hermann Habich]] from ''[[Jagdstaffel 49|Jasta 49]]''.&lt;ref name="Guttman2002"&gt;{{cite book|last=Guttman|first=Jon |title=SPAD XII/XIII Aces of World War 1|url=https://books.google.com/books?id=m84tvgAACAAJ|year=2002|publisher=Bloomsbury USA|isbn=978-1-84176-316-3}}&lt;/ref&gt;
+
+==Legacy==
+Garros is erroneously called the world's first [[fighter ace]]. In fact, he shot down only four aircraft; the definition of "[[fighter ace|ace]]" is five or more victories. The honour of becoming the first ace went to another French airman, [[Adolphe Pégoud]], who had six victories early in the war.&lt;ref name="Franks1992"&gt;{{cite book|last=Franks|first=Norman L. R. |title=Over the Front: A Complete Record of the Fighter Aces and Units of the United States and French Air Services, 1914-1918|url={{google books|id=etxmAAAAMAAJ|plainurl=yes|keywords=garros|page=84}}|year=1992|publisher=Grub Street|isbn=978-0-948817-54-0|page=84}}&lt;/ref&gt;
+
+==Eponyms==
+
+A [[tennis]] centre constructed in Paris in the 1920s was named after him, the ''[[Stade Roland Garros]]''. The stadium accommodates the [[French Open (tennis)|French Open]], one of the four [[Grand Slam in tennis|Grand Slam]] tennis tournaments.&lt;ref&gt;Who's Who—Roland Garros. [http://www.firstworldwar.com/bio/garros.htm FirstWorldWar.com] Retrieved 3 August 2011&lt;/ref&gt;  Consequently, the tournament is officially called ''Les Internationaux de France de Roland-Garros'' (the "French Internationals of Roland Garros").&lt;ref&gt;{{cite news|first=Christopher |last=Clarey|title=A Puzzler in Paris: French Open or Roland Garros?|url=https://www.nytimes.com/2013/05/24/sports/tennis/a-puzzler-in-paris-french-open-or-roland-garros.html|work=[[The New York Times]]|date=23 May 2013}}&lt;/ref&gt;
+
+According to [[Vũ Trọng Phụng]]'s urban novel, ''[[Dumb Luck (novel)|Dumb Luck]],'' (1936), during colonial times the Hanoi government named the city's main tennis stadium after Roland Garros.&lt;ref name="VũZinoman2002"&gt;{{cite book|last1=Vũ|first1=Trọng Phụng|translator-last=Zinoman|translator-first=Peter|title=Dumb Luck: A Novel|url=https://books.google.com/books?id=0qin5eEwyMYC&amp;pg=PA180|year=2002|publisher=University of Michigan Press|isbn=9780472068043|page=180}}&lt;/ref&gt;
+
+The international airport of La [[Réunion]], [[Roland Garros Airport]], is also named after him.
+There is a monument to Garros in Bizerte at the site of his landing, which is called "Roland Garros Plaza".&lt;ref&gt;{{Cite web |url=https://lepetitjournal.com/tunis/actualites/centenaire-bizerte-fete-roland-garros-51755 |title=CENTENAIRE – Bizerte fête Roland Garros |date=16 September 2013 |website=Le Petit Journal |language=fr |access-date=16 April 2018|df=dmy-all}}&lt;/ref&gt;
+
+The French car manufacturer [[Peugeot]] commissioned a 'Roland Garros' limited edition version of its [[Peugeot 205|205 model]] in celebration of the tennis tournament that bears his name. The model included special paint and leather interior. Because of the success of this special edition, Peugeot later created Roland Garros editions of its [[Peugeot 106|106]], [[Peugeot 108|108]], [[Peugeot 206|206]], [[Peugeot 207|207]], [[Peugeot 208|208]], [[Peugeot 306|306]], [[Peugeot 307|307]], [[Peugeot 406|406]], and [[Eurovan (PSA/Fiat joint venture)|806]] models.&lt;ref&gt;{{Cite magazine |title=La saga des Peugeot Roland Garros en photos |url=http://www.largus.fr/actualite-automobile/la-saga-des-peugeot-roland-garros-en-photos-428141-9887086-diapo.html#photos-main-title-anchor |magazine=[[:fr:L'Argus|L'Argus]] |language=fr |access-date=16 April 2018|df=dmy-all}}&lt;/ref&gt;
+
+==See also==
+*[[History of the Armée de l'Air (1909–1942)]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commonscat-inline|Roland Garros (pilot)|Roland Garros}}
+
+{{wwi-air}}
+
+{{Authority control}}
+{{Use dmy dates|date=April 2018}}
+
+{{DEFAULTSORT:Garros, Roland}}
+[[Category:1888 births]]
+[[Category:1918 deaths]]
+[[Category:Aerial warfare pioneers]]
+[[Category:Aviators killed by being shot down]]
+[[Category:Escapees from German detention]]
+[[Category:Flight altitude record holders]]
+[[Category:French aviation record holders]]
+[[Category:French aviators]]
+[[Category:French military personnel killed in World War I]]
+[[Category:French prisoners of war in World War I]]
+[[Category:French World War I flying aces]]
+[[Category:French World War I pilots]]
+[[Category:Lycée Janson de Sailly alumni]]
+[[Category:People from Saint-Denis, Réunion]]
+[[Category:World War I prisoners of war held by Germany]]</text>
+      <sha1>dkcx17qk2nluyhyf5uuabxlq6wrbu2s</sha1>
+    </revision>
+  </page>
+</mediawiki>

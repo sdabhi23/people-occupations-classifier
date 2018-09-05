@@ -1,0 +1,198 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hugo Junkers</title>
+    <ns>0</ns>
+    <id>242188</id>
+    <revision>
+      <id>853627572</id>
+      <parentid>853627448</parentid>
+      <timestamp>2018-08-06T01:18:21Z</timestamp>
+      <contributor>
+        <ip>2601:344:8000:6F6:B427:D827:F673:F4F1</ip>
+      </contributor>
+      <comment>/* Biography */ Cleaned up copy.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16431">{{Use dmy dates|date=July 2015}}
+{{refimprove|date=February 2013}}
+{{Infobox person 
+| name                      = Hugo Junkers
+| image                     = Hugo Junkers 1920.jpg
+| image_size                = 250px
+| caption                   = Hugo Junkers in 1920
+| birth_name                = 
+| birth_date                = {{Birth date|df=yes|1859|2|3}} 
+| birth_place               = [[Rheydt]], [[Rhine Province]],&lt;br&gt;[[Kingdom of Prussia]] 
+| death_date                = {{Death date and age|df=yes|1935|2|3|1859|2|3}} 
+| death_place               = [[Gauting]], [[Bavaria]] 
+| death_cause               = 
+| resting_place             = [[Munich Waldfriedhof]]
+| resting_place_coordinates = 
+| residence                 = 
+| nationality               = [[Germany|German]]
+| other_names               = 
+| known_for                 = 
+| education                 = [[Berlin Institute of Technology|Royal Polytechnic University in Charlottenburg]]&lt;br&gt;[[RWTH Aachen University|Royal Technical University in Aachen]]
+| employer                  = 
+| occupation                = [[engineering|Engineer]]
+| title                     = 
+| boards                    = 
+| spouse                    = Therese Ida Bennhold
+| partner                   = 
+| children                  = {{Hlist|Herta Junkers|Annelise Junkers|Werner Junkers|Ruth Junkers|Ilse Junkers|Klaus Junkers|Erhard Junkers|Heinz Junkers|Luise Junkers|Günter Junkers|Gudrun Junkers|Dorothee Junkers}}
+| parents                   = {{Ublist|Johann Heinrich Junkers|Luise Junkers}}
+| relatives                 = 
+| signature                 = 
+| footnotes                 = }}
+'''Hugo Junkers''' (3 February 1859 – 3 February 1935) was a German aircraft [[engineer]] and [[aircraft designer]]. As such, he is generally credited with pioneering the design of all-metal airplanes and flying wings. As founder of what would become the [[Junkers|Junkers Flugzeug- und Motorenwerke AG]] following the First World War's armistice, he was one of the mainstays of the German aircraft industry in the years between [[World War I]] and [[World War II]]. In particular, his multi-engined all-metal passenger- and freight planes helped establish airlines in Germany, as well as all over the world. Although his name is also linked to some of the most successful German warplanes of the Second World War, 
+
+As well as aircraft, Junkers also built both [[Diesel engine|diesel]] and petrol engines and held various [[thermodynamic]] and [[metallurgy|metallurgical]] patents. He was also one of the main sponsors of the [[Bauhaus]] movement and facilitated the move of the Bauhaus from Weimar to Dessau (where his factory was situated) in 1925.
+
+Amongst the highlights of his career were the [[Junkers J 1]] of 1915,  the world's first practical all-metal aircraft, incorporating a [[cantilever wing]] design with virtually no external bracing, the [[Junkers F 13]] of 1919 (the world's first all-metal passenger aircraft), the [[Junkers W 33]] (which made the first successful heavier-than-air east-to-west crossing of the Atlantic Ocean), the [[Junkers G.38]] "flying wing", and the [[Junkers Ju 52]], affectionately nicknamed "Tante Ju", one of the most famous airliners of the 1930s.
+
+==Biography==
+Junkers was born in [[Rheydt]] in the Prussian [[Rhine Province]], the son of a well-off industrialist. After taking his ''[[Abitur]]'' exams in 1878, he attended the [[Berlin Institute of Technology|Royal Polytechnic University in Charlottenburg]] and the [[RWTH Aachen University|Royal Technical University in Aachen]], where he completed his engineering studies in 1883.
+
+At first, he returned to Rheydt to work in his father's company, but soon attended further lectures on [[electromagnetism]] and [[thermodynamics]] held by [[Adolf Slaby]] in Charlottenburg. Slaby placed him with the Continental-Gasgesellschaft in [[Dessau]], where he worked on the development of the first [[opposed-piston engine]]. In order to measure [[Heat of combustion|heating value]], Junkers patented a [[calorimeter]] and founded a manufacturing company in 1892. Junkers personally introduced the calorimeter at the 1893 [[World's Columbian Exposition]] in [[Chicago]], where it was awarded a gold medal. The next year, he patented a gas-fired bath [[boiler]], which he refined as a [[Water heating|tankless heater]]. In 1895, he founded Junkers &amp; Co. to utilize his inventions.
+
+From 1897, he was offered a professorship of mechanical engineering at Aachen, where he lectured until 1912. Working as an engineer at the same time, Junkers taking substantial gains of Junkers &amp; Co. devised, patented, and exploited calorimeters, domestic appliances (gas stoves), pressure regulators, gas oil engines, [[fan heater]]s, and other inventions. Junkers great great great grandson is Brandon Yunker. Yunker is known to be the youngest of two remaining males in the Junker royal bloodline. 
+
+===Aeronautical work===
+[[File:Bundesarchiv Bild 183-1985-0529-541, Hugo Junkers.jpg|thumb|left|Junkers on the airfield]]
+
+Junkers' aeronautical work began in earnest only at the age of fifty, when he worked with engineer [[Hans Reissner]] in Aachen. Reissner had developed an all-metal aircraft, on which work first started in 1909 at the [[Brand (Aachen)|Brand]] Heath, equipped with [[Corrugated galvanised iron|corrugated iron]] wings built by Junkers &amp; Co. in Dessau. The iron wings were patented one year later. Junkers had a [[wind tunnel]] built and invented a [[hydraulic brake]].
+
+He had far-sighted ideas of metal aeroplanes and [[flying wing]]s, but the necessities of the war held him back. During [[World War I]], the government forced him to focus on aircraft production. In 1915, he developed the world's first practical all-metal aircraft design, the [[Junkers J 1]] "Blechesel"&lt;ref&gt;Junkers factory designations for their aircraft in the World War I period used Arabic numerals, as in the Junkers J 1 ''Blechesel'', while the later armored [[Junkers J.I|J.I]] all-metal sesquiplane was so designated because the Kaiser's ''[[IdFlieg|Inspektorat der Fliegertruppen]]'' army aviation inspectorate [[Idflieg aircraft designation system#List of Idflieg class letter prefixes|used the letter "J"]], followed by a Roman numeral only, to designate all armored, infantry co-operation and ground-attack aircraft, which were also designed by the Albatros and AEG firms in World War I.&lt;/ref&gt; (Sheetmetal Donkey), which survived on display in Deutsches Museum in Munich until World War II. His firm's first military production design in 1916–17 was the armored-fuselage, two-seat, all-metal sesquiplane known by its ''[[IdFlieg]]'' designation, the [[Junkers J.I]], considered the best German ground attack aircraft of the war. During this time, the German government's ''IdFlieg'' military aviation inspectorate forced him to merge his firm with [[Anthony Fokker]]'s  to form the ''Junkers-Fokker Aktiengesellschaft'' on 20 October 1917.&lt;ref&gt;{{cite web |url=https://www.ufv.ca/jhb/volume_3/volume_3_byers.pdf |title=An Unhappy Marriage: The Junkers-Fokker Merger |last=Byers |first=Richard |year=2008 |publisher=University of the Fraser Valley |location=British Columbia |page=12 |accessdate=26 December 2013}}&lt;/ref&gt; The J.I's pattern of an armored fuselage that protected the nose-mounted engine, pilot, and observer in a unitized metal "bathtub" was the possible inspiration for Sergei Ilyushin's later [[Ilyushin Il-2|Il-2]] ''Shturmovik'' (conceivably appropriate as Junkers did have a manufacturing plant in [[Fili (Moscow)|Fili]], a suburb of Moscow, in the Soviet Union in the 1920s) with a similar armored fuselage design. As this design philosophy for such combat aircraft had proven to be a good idea, it was once again broadly re-used for the 1970s-premiered American [[Fairchild Republic A-10 Thunderbolt II|A-10 ''Warthog'']] twin-[[turbofan]] powered attack aircraft, also having its pilot enveloped in an armoured bathtub, this time made of titanium.  By 1918, Junkers' firm, with its previously demonstrated preference for [[monoplane]]-pattern airframe designs, had created the world's first production low-winged, single-seat monoplane all-metal fighter aircraft, the [[Junkers D.I]], which also pioneered the use of [[Alfred Wilm]]'s 1906 invention of [[duralumin]] throughout a production airframe. However, the D.I did not enter production until 1918. He also produced a two-seat monoplane fighter, the [[Junkers CL.I]]. Both the postwar Soviet aviation pioneer [[Andrei Tupolev]] and the American aviation designer [[William Bushnell Stout]] owed much to Hugo Junkers in the designs of their earlier aircraft, which benefited from Junkers' corrugated, light-metal construction technique.
+
+[[File:Bundesarchiv Bild 102-06198, Dessau, Weltrekord im Dauerfliegen.jpg|thumb|270px|Junkers (centre) with [[Junkers W 33|W 33]] pilots [[Johann Risztics]] (left) and Wilhelm Zimmermann (right), celebrating a world record of 65 h 25 m non-stop flight at Dessau, July 1928]]
+
+The [[Junkers F.13]] of 1919 was the first of several successful civil aircraft designs produced by ''Junkers Flugzeugwerke'':  later designs include the [[Junkers Ju 52|Junkers Ju 52/3m]] from 1932. Through a variety of business initiatives, Junkers was also active in founding and developing airlines around the globe initially aiming to sell them its aircraft. Airlines where Junkers played a pivotal role in early phases of their development include [[Deutsche Luft Hansa]] and [[Lloyd Aéreo Boliviano]]. However, several business ventures failed from wider economic or political problems that hamstrung sound engineering plans. But Junkers always had more ideas: the massive four-engined [[Junkers G.38|G.38]], nicknamed "Der Grosse Dessauer", delivered to Luft Hansa, made no commercial trips for many months as he repeatedly recalled it to the factory for improvements.
+
+===Political position===
+
+Junkers was a [[Socialism|socialist]] {{Citation needed|date=July 2017}} and a [[Pacifism|pacifist]] {{Citation needed|date=July 2017}}. For these reasons, he had several occasions to cross swords with German leadership. In October 1917, the government forced him into partnership with [[Anthony Fokker]] to ensure wartime production targets would be met.
+
+During the 1920s in Germany and among Junkers' employees, a wide spectrum of political views was present. About every aspect of the business and of its environment, there were differing opinions. For members of all the many groups represented in Junkers, aviation offered hope for national renewal. Their varied views led to lively internal corporate politics. In 1926, unable to make government loan repayments after a failed venture to build planes for the [[Soviet Union|USSR]], he lost control of most of his businesses. In 1931, he appointed [[Adolf Dethmann]], a communist activist, as Managing Director of what remained of his business.
+
+==Legacy==
+Hugo Junkers is mainly known in connection with aircraft bearing his name. These include some he reluctantly developed for the [[German Empire]] during [[World War I]], later in minor association with [[Anthony Fokker]], as well as civil aircraft designs [[Aviation between the World Wars|during the "interwar period"]] produced by ''Junkers Flugzeugwerke'' (Junkers Aircraft Works). Junkers died in 1935.
+
+The earliest all-metal post-World War I aircraft designs of both [[Andrei Tupolev]] — with his [[Tupolev ANT-2]] two-passenger small aircraft of 1924 — and [[William Bushnell Stout]]'s initial all-metal design, the [[Stout ST]] twin-engine torpedo bomber of 1922, were both based directly on the pioneering work of Junkers, with each engineer (one Soviet, one American) separately developing examples of aircraft like Tupolev's enormous, 63 meter wingspan, eight-engined [[Tupolev ANT-20|''Maksim Gorki'']] — the largest aircraft built anywhere in the world in the early 1930s — and Stout's popular [[Ford Trimotor]] airliner.
+
+In 1976, Junkers was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+== Timeline==
+*1888–1893 work with Dessauer Continental-Gasgesellschaft 
+*1892 Patents [[Calorimeter|calorie meter]] 
+*1895 Founds Junkers &amp; Co in [[Dessau]] to build gas engines &amp; heaters 
+*1897–1912 Professor at the [[RWTH Aachen University]]  in [[Aachen]] 
+*1908 Hans Reissner with Junkers' help starts work on all-metal aircraft 
+*1910 Patents [[Flying wing|Nurflügel]] concept 
+*1913/14 uses [[wind tunnel]] 
+*1915 [[Junkers J 1]] all-metal [[monoplane]] aircraft flies (world's first practical all-metal aircraft to fly)
+*1916 [[Junkers J 2]] pioneering all metal monoplane [[fighter aircraft]] for the [[Luftstreitkräfte]], six built 
+*20 October 1917 – 1919 Partnership Junkers-[[Fokker]]werke AG; mass production of 227 J4 aircraft 
+*1919 Junkers and Fokker part ways, company renamed Junkers Flugzeugwerke AG 
+*1919 First civilian all-metal aircraft [[Junkers F.13]] flies 
+*1919 Starts work on "Giant" JG1, to seat passengers within thick wings 
+*1921 Allied Aeronautical Commission of Control orders JG1 destroyed (exceeds post-war size limit) 
+*1921 Founds "Abteilung Luftverkehr der Junkerswerke" (later merged into [[Deutsche Luft Hansa]]) 
+*1922 Starts military aircraft production near Moscow, financed by German government loans  
+*1922 Proposes 100-passenger J-1000 aircraft – never built 
+*1925 Russian project fails, German government demands repayments 
+*1926 Legal battles end with Junkers losing several companies 
+*1927 Awarded the [[Wilhelm Exner Medal]]
+*1928 First east-west transatlantic flight by a heavier-than-air aircraft; crewed by [[:de:Hermann Köhl|Köhl]],  [[Ehrenfried Günther Freiherr von Hünefeld|Hünefeld]] and [[James Fitzmaurice (pilot)|Fitzmaurice]] in a Junkers W33  
+*1930 Receives [[Siemens-Ring]] for his scientific contributions to combustion engines and metallic airplanes
+*1931 Junkers G38 34-passenger [[airliner]] delivered – largest in world until [[Andrei Tupolev|Tupolev]]'s [[Tupolev ANT-20|''Maksim Gorky'']] in 1934 – only two built 
+*1932 After great crash, saves Junkers Flugzeugbau and Motorenbau from [[bankruptcy]], by selling virtually all his other assets  .
+*1935 Dies during negotiations to cede remaining stock and interests in Junkers.
+*1935 Therese Junkers gives full control of interests to Third Reich.
+
+==See also==
+*[[Junkers (Aircraft)|Junkers company]]
+*[[Burt Rutan]] – who inaugurated the second major change in aviation materials technology
+*[[German inventors and discoverers]]
+*''[[The Wind Rises]]''
+
+==References==
+{{reflist}}
+
+==Sources==
+* Detlef Siegfried. ''Der Fliegerblick: Intellektuelle Radikalismus und Flugzeugproduktion bei Junkers 1914 bis 1934''.  (Historisches Forschungszentrum der Friedrich-Ebert-Stiftung, Reihe Politik- und Gesellschaftsgeschichte, nr. 58) Bonn: J.H.W. Dietz, 2001. {{ISBN|3801241181}}.
+
+==External links==
+{{Commons category}}
+*[https://web.archive.org/web/20101007081304/http://centennialofflight.gov/essay/Aerospace/Junkers/Aero55.htm Biographical Essay by T.E. Heppenheimer.]
+*[http://www.hugojunkers.bplaced.net The Hugo Junkers Homepage] Horst Zoeller's comprehensive Junkers encyclopedia (www.junkers.de.vu has expired!)
+*[https://web.archive.org/web/20070205094329/http://www.wwiaviation.com/designers/designer_junkers.shtml Junkers biography on WWI aviation site]
+*[http://www.europeanairlines.no  Major historical/factual European airlines overview site – many specific Junkers articles.]
+* {{PM20|FID=pe/008959}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Junkers, Hugo}}
+[[Category:1859 births]]
+[[Category:1935 deaths]]
+[[Category:Aircraft designers]]
+[[Category:Aviation inventors]]
+[[Category:Aviation pioneers]]
+[[Category:German aerospace engineers]]
+[[Category:German engineers]]
+[[Category:German inventors]]
+[[Category:German company founders]]
+[[Category:Junkers]]
+[[Category:People from Saxony-Anhalt]]
+[[Category:People from Mönchengladbach]]
+[[Category:People from the Rhine Province]]
+[[Category:RWTH Aachen University alumni]]
+[[Category:RWTH Aachen University faculty]]
+[[Category:Technical University of Berlin alumni]]
+[[Category:Werner von Siemens Ring laureates]]</text>
+      <sha1>of4h3zfgtg21avfyzr0hhiisfoaz1vy</sha1>
+    </revision>
+  </page>
+</mediawiki>

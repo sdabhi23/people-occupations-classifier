@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lou Darvas</title>
+    <ns>0</ns>
+    <id>3608830</id>
+    <revision>
+      <id>818977045</id>
+      <parentid>798834841</parentid>
+      <timestamp>2018-01-06T17:54:06Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2420">'''Louis F. Darvas''' (30 July 1913, [[Cleveland, Ohio]] - February 1987, Cleveland) was an artist and sports cartoonist. He received the [[National Cartoonist Society]] Sports Cartoon Award for 1963 and 1967 for his work.
+
+He also authored a book called "You Can Draw Cartoons", published in 1960 by [[Doubleday (publisher)|Doubleday]].
+
+==Background==
+Darvas started his artistic journey as a cartoonist at Thomas Jefferson Junior High School, and then at the West Technical High School through the 11th grade. He then got a job scrapping old signs for an advertising firm, while he followed his cartoonist training in night art classes at [[John Huntington Institute]].
+
+==Career==
+Darvas's first newspaper job was with the [[Toledo News Bee]] as an artist. He moved to Cleveland and worked with the [[Cleveland Press]] from 1938 onwards.
+
+During [[World War II]], he served in the [[United States Army Air Corps]] as head of the drafting and art room of the senior staff school supervising charts and graphs for secret Air Force statistical records. During his stint in the Army, he won the first place for cartoons in the art show of the Army Air Corps Tactical Center at [[Orlando, Florida]] in 1944.
+
+He was the author of a daily comic strip called "[[Half Nelson (comic)|Half Nelson]]" for the [[Chicago Sun-Times]] Syndicate for a year before returning to Cleveland Press.
+
+His work appeared regularly from 1946 onwards on the cover of the ''[[Sporting News]]''.
+
+Lou Darvas died aged 73, and was survived by his wife Margaret, his daughters Janet and Laura, his son Robert, his stepdaughter Terry Rohde, 2 grandchildren and a sister.
+
+==Awards==
+He was inducted into the [[Hall of Fame of the Sports Media Association]] and received the National Cartoonist Society Award for the best work in the field of sports in 1964 and 1968.
+
+==External links==
+* [https://web.archive.org/web/20080629073540/http://www.reuben.org/ncs/awards2.asp NCS Awards]
+* [https://web.archive.org/web/20060717191058/http://www.learn-to-draw-and-paint.com/how-to-draw-cartoons.html Lou Darvas' Book].
+* [https://www.amazon.com/How-to-Draw-Cartoons/dp/B003RYFBMI Lou Darvas Course on DVD].
+
+{{DEFAULTSORT:Darvas, Lou}}
+[[Category:1913 births]]
+[[Category:1987 deaths]]
+[[Category:American cartoonists]]
+[[Category:American military personnel of World War II]]
+[[Category:United States Army Air Forces soldiers]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>qys9y3y7bxm4pkr2d62t9klzd9h0lfv</sha1>
+    </revision>
+  </page>
+</mediawiki>

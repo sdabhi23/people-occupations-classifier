@@ -1,0 +1,169 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Scott D. Anderson</title>
+    <ns>0</ns>
+    <id>43312404</id>
+    <revision>
+      <id>852552709</id>
+      <parentid>847591445</parentid>
+      <timestamp>2018-07-29T19:49:03Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20785">{{Use mdy dates|date=July 2014}}
+{{Infobox person 
+ | name             = Scott D. Anderson
+ | birth_name       = 
+ | birth_date       = {{birth date|1965|5|2}}
+ | birth_place      = [[Boston, Massachusetts]]
+ | death_date       = {{death date and age|1999|3|23|1965|5|2}}
+ | death_place      = [[Duluth, Minnesota]]
+ | death_cause     = Plane crash
+ | nationality        = United States
+ | home_town        = Duluth, Minnesota
+ | education        = [[Bachelor of Science|BS]] in Mechanical Engineering and History, [[Stanford University]]
+ | alma mater      = [[Duluth East High School]]&lt;br&gt;[[University of Minnesota]] (transferred)&lt;br&gt;[[Stanford]] (B.S., 1987)
+ | other_names      = 
+ | image            = Scott D. Anderson 1990.jpg
+ | imagesize        = 180px
+ | caption          = Anderson circa 1990
+ | occupation       = [[Minnesota Air National Guard]] [[General Dynamics F-16 Fighting Falcon|F-16 pilot]], [[Cirrus Aircraft]] [[test pilot]] &amp; [[Flight Operations Officer|flight operations officer]], inventor, [[canoeist]], author, engineer
+ | years active    = 1987–1999
+  |known for = [[Cirrus Airframe Parachute System]] test pilot; ''Distant Fires'' (book); Scott D. Anderson Leadership Foundation (scholarship) 
+ | awards = [[ALA Best Fiction for Young Adults|American Library Association Best Book For Young Adults]]—''Distant Fires'' (1991)&lt;br&gt;[[Minnesota Aviation Hall of Fame]] Inductee (2010)
+}}
+
+'''Major Scott Douglas Anderson''' (May 2, 1965 – March 23, 1999) was a late 20th-century American [[polymath]]: [[Air National Guard]] [[General Dynamics F-16 Fighting Falcon|F-16]] [[pilot (aeronautics)|pilot]], [[general aviation]] [[test pilot]], [[flight instructor]], [[Flight dispatcher|flight operations officer]], engineer, inventor, musician, [[American football|football player]], [[outdoor recreation|outdoor adventurist]], and award-winning author. He is perhaps most notable for his achievements in 1998 flight-testing the first [[type certificate|certified]] whole-plane [[Cirrus Airframe Parachute System|parachute recovery system]], which is credited with saving over 140 lives as a standard equipment on [[Cirrus Aircraft]]'s line of single-engine aircraft.
+
+Anderson was killed near the [[Duluth International Airport]] while testing the first production model [[Cirrus SR20]]. He was posthumously inducted into the [[Minnesota Aviation Hall of Fame]] in 2010 for his contributions to the development and advancement of aviation in the state. The Scott D. Anderson Leadership Foundation was created in his honor.&lt;ref name=SalfLeadersWhoIsScott&gt;{{cite web|url=http://www.salfleaders.com/about/scottanderson.htm|title=Who Is Scott?|website=Salfleaders.com|accessdate=August 22, 2017}}&lt;/ref&gt;&lt;ref name=MinnesotaAviationHallofFame&gt;{{cite web|url=http://www.mnaviationhalloffame.org/inductees/a.html|title= Inductees: A|website=Mnaviationhalloffame.org|accessdate=August 22, 2017}}&lt;/ref&gt;&lt;ref name=DNT&gt;{{cite web |url=http://www.duluthnewstribune.com/content/pilot-scott-anderson-remembered |last=Passie |first=Peter |title= Pilot Scott Anderson Remembered |publisher=Duluth News Tribune |date= 23 April 2010 |accessdate= 11 July 2015}}&lt;/ref&gt;
+
+==Early years and education==
+Scott Anderson and his family moved to [[Duluth, Minnesota]] when he was six years old. He graduated from [[Duluth East High School]] as a star football player and went on to attend the [[University of Minnesota]]. As an undergraduate engineering student-intern and a member of Minnesota Power's Research and Development team, Anderson earned recognition as co-inventor on a [[U.S. patent]]. He continued his college career later at [[Stanford University]], where he led an undergraduate team to build a two-person [[submarine]]. Anderson graduated from Stanford with degrees in [[mechanical engineering]] and history.&lt;ref name=SalfLeadersWhoIsScott/&gt;&lt;ref name=MinnesotaAviationHallofFame/&gt;&lt;ref&gt;{{cite web|url=http://www.salfleaders.com/support/index.htm|title=Support - Scott D. Anderson Leadership Foundation|website=Salfleaders.com|accessdate=August 22, 2017}}&lt;/ref&gt;
+
+==Career==
+In 1987, the summer after graduating college, he and his friend Steve Baker planned a marathon [[canoe|canoe trip]] from Duluth to [[York Factory]] on the [[Hudson Bay]].&lt;ref name=CapitolWords&gt;{{cite web| url=https://www.congress.gov/congressional-record/1999/03/25/extensions-of-remarks-section/article/E578-1|title=Congressional Record - Tribute to Scott Anderson|website=Congress.gov|accessdate=August 24, 2017}}&lt;/ref&gt; After completing the 1,700-mile-long exploit, Anderson wrote his first book, ''Distant Fires'', published in 1990, an autobiographical adventure story based on his experiences during the journey. ''Distant Fires'' was widely received by the local community at the time of its release—the ''[[Duluth News Tribune]]'' describing it as a marvelous "voyage of discovery"—and went on to win the [[American Library Association]] [[ALA Best Fiction for Young Adults|Best Book for Young Adults Award]] in 1991.&lt;ref&gt;{{cite web| url= http://www.librarything.com/bookaward/ALA+Best+Books+for+Young+Adults|title=Book awards: ALA Best Books for Young Adults|website= Librarything.com|accessdate=August 24, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.upress.umn.edu/book-division/books/distant-fires|title=Distant Fires|website=University of Minnesota Press|accessdate=August 22, 2017}}&lt;/ref&gt;
+
+Anderson was known to have been a talented [[saxophonist]], playing for multiple jazz bands around Duluth in the late '80s and early '90s. He then moved from the United States to [[Salzburg, Austria]] to play professional [[American football]], before returning to become a pilot flying [[F-16 Fighting Falcon|F-16s]] for the [[Air National Guard]] and [[flight instructor|flight instructing]] with Duluth's [[179th Fighter Squadron]].&lt;ref name=MinnesotaAviationHallofFame/&gt; His second publication, and first novel, ''Unknown Rider'' (1995), was a fictional manifestation of his experience achieving the title "Fighter Pilot". He summed up his writing process saying, "When I was training to fly the F-16 at Kingsley Field in Oregon, each evening, after a day of flying fighters, I sat down and typed a little bit of this book… All I had to do was invent a few characters, put them in an airplane, and make them the heroes of the stories that filled the air."&lt;ref&gt;{{cite web|url=http://airandspacemuseum.org/news/?p=1081|title=Book Review: Unknown Rider by Major Scott D. Anderson, USAF - News|website=Airandspacemuseum.org|accessdate=August 22, 2017}}&lt;/ref&gt;
+
+===Cirrus Aircraft===
+[[File:caps deploy.jpg|thumb|200px|1998 photo series showing the [[Cirrus Airframe Parachute System]] (CAPS) in action during an [[Cirrus SR20|SR20]] flight-test over the southern California desert, Scott Anderson piloting]]
+In 1996, Anderson's career path led him to [[Cirrus Aircraft|Cirrus Design]] (now called Cirrus Aircraft), a newly Duluth-landed [[general aviation]] [[startup company|startup]] founded by two brothers, [[Klapmeier brothers|Alan and Dale Klapmeier]], hailing from a rural [[Baraboo, Wisconsin|southern Wisconsin]] farm. He was named Director of [[Dispatcher|Flight Operations]] along with Chief [[Test pilot|Test Pilot]] for the company, contributing his efforts to the early developmental stages of the [[Cirrus SR20]] single-engine four-seat [[Composite material|composite]] aircraft. In addition to all-composite construction, the SR20 introduced the [[light aircraft]] manufacturing industry to a number of innovative new designs, including a single power-lever that adjusts both throttle and propeller RPM, a side-yoke [[flight control system]], a [[leading edge cuff|spin-resistant]] wing design, and a large [[LCD screen]] for the [[avionics]].&lt;ref&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/top-100-airplanes-platinum-edition?image=90|title=Top 100 Airplanes:Platinum Edition|publisher=Flying|date=|accessdate=2014-04-05}}&lt;/ref&gt;&lt;ref name="FlyingMag.com"&gt;{{cite web|url=http://www.flyingmag.com/aircraft/pistons/10-ways-sr22-changed-flying?page=0,0|title = 10 Ways that the SR22 Changed Flying|authorlink = |first = Robert|last = Goyer|year =2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/top-25-coolest-aircraft?image=4|title = Top 25 Coolest Aircraft|authorlink = |first = Robert |last = Goyer|year = 2014|website=Flyingmag.com|accessdate=2017-08-22}}&lt;/ref&gt; In 1997, Anderson became the lead test pilot on a ground breaking safety innovation by [[Ballistic Recovery Systems]] and Cirrus Aircraft. The feature was titled [[Cirrus Airframe Parachute System|CAPS]] (Cirrus Airframe Parachute System), and acted as a parachute recovery device installed on the SR20 that was designed to lower the entire aircraft safely to the ground after a loss of control or structural failure.&lt;ref name=CapitolWords/&gt;&lt;ref&gt;{{cite web|last=Goyer|first=Robert|url=http://www.flyingmag.com/blogs/going-direct/after-10-years-cirrus-chute-controversy-persists|title=After Ten Years, Cirrus Chute Controversy Persists|publisher=Flying|date=August 2010|accessdate=24 August 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20141026150049/http://www.flyingmag.com/blogs/going-direct/after-10-years-cirrus-chute-controversy-persists|archivedate=26 October 2014|df=dmy-all}}&lt;/ref&gt;
+
+Anderson worked closest on the project with fellow Cirrus test pilot Gary Black,&lt;ref name=DNT/&gt; who also formally flew jets for the military, as well as the company's Chief Engineer, Paul Johnston, who played a crucial role in the design process of the CAP system.&lt;ref name=NYTimes&gt;{{cite web|last=Fallows |first=James |url=https://www.nytimes.com/1999/11/21/magazine/turn-left-at-cloud-109.html?pagewanted=all&amp;src=pm |title=Turn Left at Cloud 109 |publisher=The New York Times |date= November 21, 1999 |accessdate=2014-07-15}}&lt;/ref&gt;&lt;ref name=TheAtlantic&gt;{{cite web|last=Fallows |first=James |url=https://www.theatlantic.com/past/docs/issues/2001/06/fallows.htm |title=Freedom of the Skies |publisher=The Atlantic |date= June 2001 |accessdate=2014-07-15}}&lt;/ref&gt; CAPS testing began by the summer of 1998. The Cirrus team went out to the high desert of California where Anderson would make the first flight. He deployed the parachute multiple times during dives and spins, to simulate recovery after a midair collision or after [[spatial disorientation]], and from level flight to resemble engine failure. At this time Cirrus only had two SR20 prototypes, so in order to test the parachute repeatedly Anderson would restart the engine mid-air while descending under the parachute, cut the chute loose and land the plane normally for it to be tested again (ground-impact testing took place with a mockup that would be dropped at the calculated descent-velocity and measured based on sustained damage to the [[fuselage]]).&lt;ref name=TheAtlantic/&gt;&lt;ref&gt;{{cite web|url=http://cirrusaircraft.com/wp-content/uploads/2014/12/CAPS_Guide.pdf|title=Guide to the CIRRUS AIRFRAME PARACHUTE SYSTEM|last = Cirrus Aircraft |accessdate=2015-05-02}}&lt;/ref&gt; Anderson successfully made all seven of the company's in-flight test deployments of CAPS. The SR20 became [[FAA]] approved and [[type certificate|typed certified]] in October 1998, making Anderson the first pilot in history to successfully test a certified aircraft equipped with a [[ballistic parachute]].&lt;ref name="A00009CH"&gt;{{cite web|url=http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgMakeModel.nsf/0/169146a0f8275d0a86257b0b00564a20/$FILE/A00009CH_Rev_19.pdf|title=Type Certification Data Sheet A00009CH|last = [[Federal Aviation Administration]] |accessdate=2014-07-15}}&lt;/ref&gt;&lt;ref name=FlightGlobal&gt;{{cite web|last=Higdon |first=Dave |url=http://www.flightglobal.com/news/articles/cirrus-sr20-demonstrator-kills-test-pilot-in-prison-49656/ |title=Cirrus SR20 demonstrator kills test pilot in prison crash |website=Flighglobal.com |date =March 31, 1999 |accessdate=2014-07-15}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.brsaerospace.com/BRS_History.html|title=BRS History|accessdate=2017-08-24}}&lt;/ref&gt;
+
+==Death==
+The following year, on 23 March 1999, Anderson died while putting the first production SR20 aircraft through experimental test flights before it went on sale. The purpose of the flight was to perform routine torture-test maneuvers and assess changes to the [[aileron]] if there were any issues. The incident occurred after the plane's aileron had jammed.&lt;ref name=NYTimes/&gt;&lt;ref name=LidleLawsuit&gt;{{cite web|last=Fallows |first=James |url=https://www.theatlantic.com/technology/archive/2007/03/lidle-lawsuit-update-the-myth-of-quot-aileron-failure-quot/7541/ |title=Lidle lawsuit update: the myth of 'aileron failure' |publisher=The Atlantic |date= March 7, 2007 |accessdate=2014-07-15}}&lt;/ref&gt; Anderson was about 4 [[nautical mile]]s out from the [[Duluth International Airport]] at the start of the flight when he radioed the [[control tower]] that he was returning due to a problem. At about 1.5 nautical miles from the airport, he declared an emergency. Less than 400 meters out, Anderson crashed near the medical facility on the prison grounds; he died later that day in the hospital.&lt;ref name=FlightGlobal/&gt; The plane Anderson was flying had not yet been equipped with the standard CAPS that would come on every aircraft.&lt;ref name=NYTimes/&gt;&lt;ref name=LidleLawsuit/&gt; Due to Cirrus being in very early production phase, the company was 10 days away from receiving production model chute systems at the time of Anderson's death. Cirrus has never test-flown an aircraft without a parachute since.&lt;ref name=DNT/&gt;
+
+===Posthumous recognition===
+[[File:Scott Anderson memorial, Duluth, Minnesota, 2012.jpg|thumb|right|A memorial of Anderson located in downtown [[Duluth, Minnesota|Duluth]]'s Leif Erickson Park, detailing a passage from his 1990 book ''Distant Fires'']]
+18-term Minnesota Congressman [[Jim Oberstar]] paid tribute to Anderson shortly after his death, calling him a "hero" and a "pioneer in general aviation". Oberstar went on saying, "Scott made a profound difference to the State of Minnesota and to the national aviation community".&lt;ref name=CapitolWords/&gt; [[Cirrus Aircraft]] Co-Founder and CEO [[Klapmeier brothers|Dale Klapmeier]] spoke at Anderson's induction into the [[Minnesota Aviation Hall of Fame]] on 24 April 2010, stating, "Scott was an exemplary pilot and person. During his tenure at Cirrus, he made considerable contributions to the company, the industry, and aviation safety that many people still benefit from today… To date, 17 CAPS deployments have saved 35 lives due to Scott's pioneering work."&lt;ref&gt;{{cite web|url=http://www.aero-news.net/index.cfm?do=main.textpost&amp;id=e83bcb54-7b29-4950-876b-9ec778bfdf0d|title=Scott D. Anderson Inducted Into Minnesota Aviation Hall of Fame|website=Aero-news.net|accessdate=August 22, 2017}}&lt;/ref&gt;
+
+Anderson has been referenced multiple times in national articles and columns such as [[The Atlantic|''The Atlantic Monthly'']] and ''[[The New York Times]]'' by journalist, author and former speechwriter for President [[Jimmy Carter]], [[James Fallows]]. He has often been credited by Fallows as being a "Renaissance man" and "beloved, charismatic figure of Duluth". Anderson was also a supporting theme in his 2001 book, ''Free Flight: Inventing the Future of Travel.''&lt;ref name=NYTimes/&gt;&lt;ref name=TheAtlantic/&gt;&lt;ref name=LidleLawsuit/&gt;
+
+===Legacy===
+In the months following his death, Cirrus continued on to redesign the aileron in order to prevent the problem that killed Anderson, and sold their first SR20 in July 1999.&lt;ref name=NYTimes/&gt;&lt;ref name=LidleLawsuit/&gt; The SR20's successor, the [[Cirrus SR22]], became the world's best-selling general aviation airplane in 2003 and has held the title every year since, with a combined overall production of more than 7,000 examples from 1999–2018.&lt;ref&gt;{{cite news|url=http://www.cirrusaircraft.com/news/cirrus-aircraft-deliveries-in-2014-drive-strongest-performance-in-six-years/|title= Cirrus Aircraft Deliveries in 2014 Drive Strongest Performance in Six Years|accessdate = February 15, 2015|website=Cirrusaircraft.com |date = February 11, 2015}}&lt;/ref&gt; As of March 24, 2017, there have been 85 CAPS deployments saving 146 lives.&lt;ref&gt;{{cite web|url=https://www.cirruspilots.org/copa/safety_programs/w/safety_pages/723.cirrus-caps-history.aspx|title=CAPS History by Cirrus Owners &amp; Pilots Association |website=Cirruspilots.org|accessdate = 2014-07-15}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://cirrusaircraft.com/caps/|title= CAPS Training|first=|last=|website=Cirrusaircraft.com|accessdate=August 22, 2017}}&lt;/ref&gt;
+
+The Scott D. Anderson Leadership Foundation (SALF) was established in late 1999 and is a fund of the [[Duluth Superior Area Community Foundation]]. It allows a group of high school students each year to receive scholarships dedicated to the delivery of high-quality, value-based leadership training.&lt;ref&gt;{{cite web|url=http://www.salfleaders.com/about/index.htm|title=About Us - Scott D. Anderson Leadership Foundation|website=Salfleaders.com|accessdate=August 22, 2017}}&lt;/ref&gt;&lt;ref name=SALFhistory/&gt;
+
+Anderson is memorialized by the "ANDOE" waypoint for the outer marker on [[instrument landing system|ILS]] runway 27 approaching Duluth International Airport.&lt;ref&gt;{{cite web |url=https://www.cirruspilots.org/copa/safety_programs/w/accidenthistory/cirrus-fatal-accidents.aspx |title= Cirrus Fatal Accidents |accessdate=2017-08-22|website=Cirruspilots.org}}&lt;/ref&gt;
+
+==Personal life==
+Anderson was a practicing [[Christian]] throughout the entirety of his life.&lt;ref name=SalfLeadersWhoIsScott/&gt; On the SALF organization's website, it lists several of its "Guided Values and Principles", focusing mostly on promotion towards the common good, community, affirming the dignity of individuals, encouraging creativity, mentorship, pursuing goals, and strengthening one's character, stating:
+
+{{quote| These principles and values emanate from the Biblical foundations of the Judeo-Christian faith, which were formative in the life of Scott Anderson.&lt;ref&gt;{{cite web|url=http://www.salfleaders.com/about/guidingprinciples.htm|title=Guiding Principles - Scott D. Anderson Leadership Foundation|website=Salfleaders.com|accessdate=August 22, 2017}}&lt;/ref&gt; }}
+
+He is survived today by his widow, Laurie, their son, Evan (born 1999), his siblings, Catherine and Todd, as well as parents, Paul and Carol.&lt;ref name=SALFhistory&gt;{{cite web|url=http://www.salfleaders.com/about/history.htm|title=History - Scott D. Anderson Leadership Foundation|website=Salfleaders.com|accessdate=August 22, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.duluthnewstribune.com/news/4065567-forum-helps-local-high-school-students-build-leadership-skills |last=Schneider |first=Kim |title=Forum helps local high school students build leadership skills |newspaper=[[Duluth News Tribune]] |date= 30 June 2016 |accessdate= 13 November 2015}}&lt;/ref&gt;
+
+The Anderson family resides in [[Duluth, Minnesota]].
+
+==Bibliography==
+*''Distant Fires: From Duluth to Hudson Bay'' (autobiographical outdoor recreation book with [[Les Kouba]] as illustrator, 1990)
+*''Unknown Rider'' (fictional aviation novel with Andrea Dwyer as illustrator, 1995)
+*''The Mosquito Book'' ([[entomological]] self-help book with Tony Dierkens as co-author, 1998)
+
+==See also==
+*[[List of firsts in aviation]]
+*[[Society of Experimental Test Pilots]]
+*''[[Canoeing with the Cree]]'' - 1935 book by [[Eric Sevareid]], served as the inspiration for ''Distant Fires''
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.salfleaders.com/ Scott D. Anderson Leadership Foundation website]
+*[http://www.referenceforbusiness.com/history2/97/Cirrus-Design-Corporation.html Cirrus Design Corporation History and Background Information]
+*[http://airandspacemuseum.org/news/?p=1081 Greater St. Louis Air and Space Museum book review: ''Unknown Rider'']
+*[https://www.youtube.com/watch?v=2_8qCTAjsDg Video of Scott Anderson spinning the SR20 during inflight CAPS testing]
+*[https://www.youtube.com/watch?v=9-n9nTUj-5k Video about Scott Anderson and his namesake foundation]
+ 
+{{Cirrus}}
+{{Air National Guard}}
+{{American Library Association}}
+{{Authority control}}
+
+{{DEFAULTSORT:Anderson, Scott D.}}
+[[Category:1965 births]]
+[[Category:1999 deaths]]
+[[Category:American test pilots]]
+[[Category:National Guard of the United States officers]]
+[[Category:Aviators from Minnesota]]
+[[Category:American male canoeists]]
+[[Category:Writers from Duluth, Minnesota]]
+[[Category:Aviation pioneers]]
+[[Category:Christians from Minnesota]]
+[[Category:Stanford University School of Engineering alumni]]
+[[Category:Accidental deaths in Minnesota]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:University of Minnesota alumni]]</text>
+      <sha1>r8nvgjx97ga6i4jg9oe7voxqrwic0f5</sha1>
+    </revision>
+  </page>
+</mediawiki>

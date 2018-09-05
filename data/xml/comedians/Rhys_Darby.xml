@@ -1,0 +1,440 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rhys Darby</title>
+    <ns>0</ns>
+    <id>2738051</id>
+    <revision>
+      <id>855473549</id>
+      <parentid>853484964</parentid>
+      <timestamp>2018-08-18T15:30:29Z</timestamp>
+      <contributor>
+        <username>Gilgamesh~enwiki</username>
+        <id>47947</id>
+      </contributor>
+      <comment>/* Television */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19462">{{Use New Zealand English|date=December 2013}}
+{{Use dmy dates|date=May 2012}}
+{{Infobox person
+| name        = Rhys Darby
+| image       = Rhys_Darby_2013.jpg
+| birth_name=Rhys Montague Darby
+| caption     = Rhys Darby performing in 2013 
+| birth_date  = {{birth date and age|1974|3|21|df=y}}
+| birth_place = [[Auckland]], [[New Zealand]]
+| years_active= 1996–present
+| occupation  = Actor, comedian
+| residence   = [[Los Angeles]], [[California]], U.S.&lt;ref name=GeoffLloyd/&gt;
+| website     = {{url|rhysdarby.com}}
+| spouse      = Rosie Carnahan
+| children    = 2
+}}
+
+'''Rhys Montague Darby''' (born 21 March 1974)&lt;ref&gt;{{cite web|url=http://www.stuff.co.nz/dominion-post/culture/3040949/Rhys-Darby-not-planning-to-slow-down|title=Rhys Darby not planning to slow down|first=Greer|last=McDonald|work=The Dominion Post|date=7 November 2009|accessdate=14 June 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.nzherald.co.nz/personalities/news/article.cfm?c_id=72&amp;objectid=10536462|title=Roll call: Rhys Darby|first=Joanna|last=Hunkin|work=The New Zealand Herald|date=10 October 2008|accessdate=6 July 2012}}&lt;/ref&gt; is an actor and comedian from [[New Zealand]], known for his energetic physical comedy routines, telling stories accompanied with [[mime]] and sound effects&lt;ref name="Chortle review"&gt;{{cite web|url=http://www.chortle.co.uk/comics/r/561/rhys_darby/review|title=Rhys Darby's review|publisher=Chortle|accessdate=25 May 2010}}&lt;/ref&gt; of things such as machinery and animals.&lt;ref name="Apiary interview"&gt;{{cite web|author=Keith Huang|url=http://www.theapiary.org/archives/2007/08/inside_with_rhy.html|title=Inside With: Rhys Darby|publisher=The Apiary|date=13 August 2007|accessdate=25 May 2010}}&lt;/ref&gt; He was nominated for the [[Billy T Award]] in 2001 and 2002.&lt;ref name="bio"/&gt; He also won the 2012 Fred (Dagg) award at the New Zealand International Comedy Festival, for Best NZ show.&lt;ref name=FredAward/&gt;
+
+Darby is best known for playing [[Flight of the Conchords (TV series)#Cast|Murray Hewitt]], the band manager of ''[[Flight of the Conchords]]'' in the [[Flight of the Conchords (TV series)|television series]], a role he originally played in the [[The BBC Radio Series: Flight of the Conchords|BBC radio series]] under the name Brian Nesbit&lt;ref name="Radio 2"&gt;{{cite web|url=http://www.bbc.co.uk/radio2/comedy/conchords.shtml |title=Radio 2 Comedy|publisher=BBC|accessdate=25 May 2010}}&lt;/ref&gt; and for playing the boss of [[Jim Carrey]]'s character in ''[[Yes Man (film)|Yes Man]]'', as well as roles in ''[[What We Do in the Shadows]]'', ''[[The Boat That Rocked]]'', ''[[Jumanji: Welcome to the Jungle]]'', ''[[A Series of Unfortunate Events (TV series)|A Series of Unfortunate Events]]'', and ''[[Voltron: Legendary Defender]]''.
+
+==Early life==
+Darby was born in Auckland, and brought up in its [[Pakuranga]] suburb. He attended Edgewater College.&lt;ref&gt;{{cite news|url=http://www.times.co.nz/news/global-star-recalls-roots.html|title=Global star recalls roots|date=12 May 2012|newspaper=Howick and Pakuranga Times}}&lt;/ref&gt; A former soldier (signaller trained in morse code), he left the [[New Zealand Army]] in 1994 and began studies at the [[University of Canterbury]].&lt;ref name="University Performance"&gt;{{cite web|url=https://www.youtube.com/watch?v=sMpOAA5WK4w|title=Performance in University Comedy Show|work=Youtube|accessdate=25 May 2010}}&lt;/ref&gt; In 1996 he formed a comedy duo, [[Rhysently Granted]], with Grant Lobban.&lt;ref name="Mrs Whippy song"&gt;{{cite web|url=https://www.youtube.com/watch?v=bTiv6h5qi6w|title="Mrs Whippy" song by Rhysently Granted|work=Youtube|date=2 April 2008|accessdate=25 May 2010}}&lt;/ref&gt; After winning an open mic contest at Southern Blues Bar in [[Christchurch]], they began performing at local venues.&lt;ref name="Green Room Bar Performance"&gt;{{cite web|url=https://www.youtube.com/watch?v=8ZUW8VPfavQ|title=Rhysently Granted performance in Christchurch bar 1997|work=Youtube|date=10 April 2008|accessdate=25 May 2010}}&lt;/ref&gt;
+
+==Career==
+Rhysently Granted performed at two international comedy festivals which led to Darby moving back to [[Auckland]] to seek more solo stand-up experience.&lt;ref name="May 2000 Stand-up"&gt;{{cite web|url=https://www.youtube.com/watch?v=siR8De662Qc|title=May 2000 Stand-up Performance|work=Youtube|date=2 September 2008|accessdate=25 May 2010}}&lt;/ref&gt; After performing his first solo show at the [[2002 Edinburgh Festival Fringe]], Darby moved to the UK to pursue his career further.&lt;ref name="bio"&gt;[http://rhysdarby.com/download/Rhys_Darby_Biography.pdf Rhys Darby profile] {{webarchive |url=https://web.archive.org/web/20090806172730/http://rhysdarby.com/download/Rhys_Darby_Biography.pdf |date=6 August 2009 }}&lt;/ref&gt; 
+
+In 2004 he appeared in the Flight of the Conchords BBC radio series as the band's manager Brian Nesbit alongside comedy stars such as [[Rob Brydon]], [[Andy Parsons]] and [[Jimmy Carr]].{{cn|date=February 2016}} Darby plays Murray, the band's manager, on Flight of the Conchords TV show. He provided vocals for the track ''Leggy Blonde'' on their [[Flight of the Conchords (album)|self-titled first album]] and also in the second series of the show on the track "Rejected" during the episode "[[A Good Opportunity]]" alongside tenor Andrew Drost.{{cn|date=February 2016}}
+
+Darby played the role of Norman, the boss of [[Jim Carrey]]'s character in ''[[Yes Man (film)|Yes Man]]''.&lt;ref name="Yes Man"&gt;{{cite web|url=http://www.chortle.co.uk/news/2007/09/24/5824/darby_joins_jim_carrey_movie|title=Darby joins Jim Carrey movie|publisher=Chortle|date=24 September 2007|accessdate=25 May 2010}}&lt;/ref&gt; In July 2008 he appeared in a [[Nike, Inc.|Nike]] advertisement featuring [[Roger Federer]]; he played an impostor posing as Federer's coach.&lt;ref&gt;{{cite news|last=Brown|first=Rich|url=https://www.telegraph.co.uk/sport/tennis/2304662/Roger-Federers-coach-revealed-in-Nike-advert.html|title=Roger Federer's coach 'revealed' in Nike advert|publisher=Telegraph|date=2 July 2008|accessdate=25 May 2010|location=London, UK}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://link.brightcove.com/services/link/bcpid1640149465/bctid1641860585|title=Video - watch video clips, live streaming, daily - brightcove.com|accessdate=14 February 2016}}&lt;/ref&gt;
+
+He appeared on a British children's television program ''[[The Slammer]]'' during its first season. He also appeared in several advertisements for New Zealand mobile phone company [[2degrees]]. He appeared on [[Soccer AM]] on 18 October 2008 and on ''[[Never Mind The Buzzcocks]]'' on 23 October. The DVD of his live performance ''Imagine That!'' has gone platinum in New Zealand.{{cn|date=May 2016}}
+
+Rhys Darby's hair colour is self-described as ''Electric Copper'' in the episode of ''Flight of the Conchords'' entitled ''[[Murray Takes It to the Next Level]]''. He refers to this in his stand-up show ''It's Rhys Darby Night'' which he performed at the [[Edinburgh Festival Fringe]] from 6–15 August 2009,&lt;ref&gt;{{cite web|url=http://edinburghfestival.list.co.uk/event/10001823-rhys-darby-its-rhys-darby-night|title=Rhys Darby: It's Rhys Darby Night|publisher=Edinburghfestival.list.co.uk|accessdate=25 May 2010}}&lt;/ref&gt; The Bloomsbury Theatre in London from 27 July–1 August and toured around New Zealand with in October and November that year.
+
+Darby played the role of Angus in the [[Richard Curtis]] film ''[[The Boat That Rocked]]''&lt;ref name="Boat"&gt;{{cite web|url=https://www.imdb.com/title/tt1131729/fullcredits#cast|title=Pirate Radio (2009)|publisher=}}&lt;/ref&gt; released in the UK on 1 April 2009. This film was released in some countries in November 2009 under the name ''Pirate Radio''.&lt;ref name="imdb"/&gt;
+
+In 2009 while home in New Zealand he began filming T.V. ads for NZ's new mobile network [[2degrees]] and appearing in NZ shows Rocked the Nation 2, Jaquie Brown Diaries and Intrepid Journeys. He has also branched out into producing live comedy with his wife and their company ''Awesomeness International''. At the NZ International Comedy Festival they produced shows for local comedians. Darby became a climate ambassador for [[Greenpeace]] in its Sign On climate campaign&lt;ref name="Sign On"&gt;{{cite web|url=http://www.signon.org.nz/community/high-profile|title=GREENPEACE New Zealand|publisher=Sign On|accessdate=14 February 2016}}&lt;/ref&gt; and published a poem on [http://www.signon.org.nz/people/rhys-darby-poem-video Youtube] in support of the campaign.
+
+In 2009 Darby became a part of the New Zealand [[TV One (New Zealand)|TV ONE]] series ''[[Intrepid Journeys]]'', Season 5, touring [[Rwanda]]. On 10 August 2010, ''[[Entertainment Weekly]]'' claimed that Darby was in consideration for a role in the television series ''[[The Office (U.S. TV series)|The Office]]'' after [[Steve Carell]] left at the end of the 2011 season, however this did not materialise.&lt;ref&gt;{{cite web|author=Brian Gallagher|url=http://www.movieweb.com/news/NEtg7oMlsMl0ww|title=The Office Seeking Danny McBride and Rhys Darby?|publisher=MovieWeb.com|date=10 August 2010|accessdate=16 May 2012}}&lt;/ref&gt;
+
+In May 2011, he also filmed a pilot for a [[Channel 4]] sitcom in the UK, ''The Fun Police''.&lt;ref&gt;{{cite web|url=http://www.comedy.co.uk/news/story/00000542/vic_reeves_rhys_darby_new_sitcom_pilot|title=Vic Reeves and Rhys Darby to star in health and safety sitcom pilot|date=18 May 2011|publisher=The British Comedy Guide|accessdate=29 May 2011}}&lt;/ref&gt; The pilot was broadcast on 16 September. In 2011, Darby and family moved to the USA for Darby to take a role in the CBS sitcom ''[[How to Be a Gentleman]]''.&lt;ref&gt;{{cite web|url=http://www.rhysdarby.com|work=How to Be a Gentleman|title=rhysdarby.com}}&lt;/ref&gt; Darby's second DVD "It's Rhys Darby Night!" was released in NZ on 12 December 2011.&lt;ref name="imdb"&gt;{{IMDb name|1055302}}&lt;/ref&gt;
+
+He wrote a self-described "autobiographical space novel" entitled "This Way to Spaceship", which was released on 12 April 2012. On 20 May 2012, Darby was awarded the Fred Award by the [[New Zealand International Comedy Festival]] for his show of the same name as his book.&lt;ref name=FredAward&gt;{{cite web|url=http://tvnz.co.nz/entertainment-news/rhys-darby-wins-top-nz-award-4895181|title=Rhys Darby wins top NZ award|work=Television New Zealand|date=21 May 2012|accessdate=21 May 2012}}&lt;/ref&gt;
+
+In 2013 he was responsible for flying 'Cornish rappers' [[Hedluv + Passman|hedluv + passman]] to New Zealand for the [[New Zealand International Comedy Festival]],&lt;ref name="nzherald.co.nz"&gt;{{cite news|url=http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&amp;objectid=10877501|work=The New Zealand Herald|title=Rhys Darby: Two Cornish rappers and a Casiotone to go|date=15 April 2013}}&lt;/ref&gt; this was followed by an appearance on ''[[Seven Sharp]]'', where he introduced 'his rappers'&lt;ref name="nzherald.co.nz"/&gt; to the New Zealand public.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=kepmX9VCiI4#!|title=Hedluv + Passman on Seven Sharp NZ|publisher=YouTube|date=17 April 2013|accessdate=14 February 2016}}&lt;/ref&gt;
+
+Darby summited [[Mount Kilimanjaro|Mt Kilimanjaro]] in July 2013 as part of a World Vision team of celebrities that included Olympian [[Mahé Drysdale]] and musician [[Boh Runga]]. On 8 November 2013, Darby made an appearance and performed some standup comedy in his capacity as second guest on the ''[[Late Show with David Letterman]]''. He portrayed Anton in the 2014 release comedy horror film ''[[What We Do in the Shadows]]''.&lt;ref&gt;{{cite web|title=What We Do in Shadows stars FOTC's Rhys Darby, Jonathan Brugh, Cori Gonzalez-Macuer, Stu Rutherford, and Jackie Van Beek|publisher=[[Absolute Radio]]|date=7 July 2014|url=http://www.dreadcentral.com/news/90530/new-shadows-video-plays-rules|accessdate=12 July 2014}}&lt;/ref&gt;
+
+As of July 2014, Darby and his family reside in [[Los Angeles, California]].&lt;ref name=GeoffLloyd&gt;{{cite podcast|host=Geoff Lloyd|title=Geoff Lloyd – Rhys Derby|website=absoluteradio.co.uk/onair/geoff/index.html|publisher=[[Absolute Radio]]|date=7 July 2014|url=http://www.absoluteradio.co.uk/podcasts/Geoff-Lloyd-s-Hometime-Show/2014-07-07/20140707201227|accessdate=12 July 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140714172409/http://www.absoluteradio.co.uk/podcasts/Geoff-Lloyd-s-Hometime-Show/2014-07-07/20140707201227/|archivedate=14 July 2014|df=dmy-all}}&lt;/ref&gt;
+
+In February 2016, he played character Guy Mann in the third episode ("[[Mulder and Scully Meet the Were-Monster]]") of ''[[The X-Files]]''. Darby, a long time fan of the show, was thrilled by his experience on set. He saw this as an opportunity that only comes around every so often and said he'd return to the set the first chance he received.&lt;ref&gt;{{Cite web|url=http://www.vulture.com/2016/02/rhys-darby-x-files-monster.html|title=Rhys Darby on Playing an X-Files Monster and the Future of Flight of the Conchords|website=Vulture|accessdate=12 May 2016}}&lt;/ref&gt;
+
+==Filmography==
+===Film===
+{| class="wikitable"
+! Year
+! Film
+! Role
+! Notes
+|- 
+| 2008
+| ''[[Yes Man (film)|Yes Man]]''
+| Norman
+|
+|-
+| rowspan="3"| 2009
+| ''[[The Boat That Rocked]]''
+| Angus Nutsford
+| Renamed ''Pirate Radio''
+|-
+| ''[[Diagnosis: Death]]''
+| Specialist
+| 
+|-
+| ''Peacock Season''
+| Galtrex Guy
+| 
+|-
+| rowspan="3"| 2011
+| ''Coming &amp; Going''
+| Lee Leonetti
+| 
+|-
+| ''[[Love Birds (2011 film)|Love Birds]]''
+| Doug
+| 
+|- 
+| ''[[Arthur Christmas]]''
+| Lead Elf
+| Voice
+|- 
+| 2014
+| ''[[What We Do in the Shadows]]''
+| Anton
+|  
+|- 
+| rowspan="2"|2016
+| ''[[Hunt for the Wilderpeople]]''
+| Psycho Sam
+|  
+|-
+| ''[[Trolls (film)|Trolls]]''
+| Bibbly
+| Voice
+|-
+| rowspan="2"|2017
+| ''[[Killing Hasselhoff]]''
+| Fish
+|
+|-
+| ''[[Jumanji: Welcome to the Jungle]]''
+| Nigel 
+|
+|}
+
+===Television===
+{| class="wikitable plainrowheaders"
+|-
+! Years
+! Show
+! Role
+! class="unsortable" | Notes
+|-
+| 2005
+| ''Who's Ya Mate?''
+| Multiple
+| Television film
+|-
+| 2007–2009
+| ''[[Flight of the Conchords (TV series)|Flight of the Conchords]]''
+| Murray Hewitt
+| 22 episodes
+|-
+| rowspan="2"| 2009
+| ''[[The Jaquie Brown Diaries]]''
+| Terence Ben'et
+| 1 episode
+|-
+| ''[[Comedy Showcase|Comedy Showcase: The Amazing Dermot]]''
+| Dermot Flint 
+| 
+|-
+| 2010
+| ''[[Radiradirah]]''
+| Gavin Hoode, First Officer Rangi
+| 3 episodes
+|-
+| rowspan="2"| 2011
+| ''[[How to Be a Gentleman]]''
+| Mike
+| 9 episodes
+|-
+| ''[[Comedy Showcase|Comedy Showcase: The Fun Police]]''
+| Leslie
+|
+|-
+| rowspan="3"| 2012
+| ''[[Jake and the Never Land Pirates]]''
+| Percy
+| 
+|-
+| ''Life Stinks''
+| Connor
+| Miniseries
+|-
+| ''The Skinner Boys: Live At Mingara NSW''
+| Professor Tinkerpuff
+| Television stage show
+|- 
+| rowspan="6"| 2013
+| ''[[How I Met Your Mother]]''
+| Hamish (Desk Clerk)
+| 1 episode 
+|-
+| ''Watsky's Releasing an Album''
+| Flynn
+| 3 episodes
+|-
+| ''[[The Aquabats! Super Show!]]''
+| The Shark Fighter
+| 
+|-
+| ''Tiny Commando''
+| Tony Turk
+| 2 episodes
+|- 
+| ''[[Jake and the Never Land Pirates]]''
+| Percy the Penguin
+| 2 episodes
+|-
+| ''Keep Calm and Karey On''
+| 
+| Television film
+|- 
+| rowspan="6"| 2014
+| ''[[Legit (2013 TV series)|Legit]]''
+| Trevor
+| 1 episode
+|-
+| ''[[Short Poppies]]''
+| Various
+| &lt;!--All episodes--&gt;
+|-
+| ''[[Modern Family]]''
+| Fergus Anderson
+| 1 episode
+|-
+| ''[[Comedy Bang! Bang! (TV series)|Comedy Bang! Bang!]]''
+| Uncle Deckard
+| 1 episode
+|-
+| ''[[Hot in Cleveland]]''
+| Jack
+| 3 episodes
+|-
+| ''[[It's a Date (TV series)|It's a Date]]''
+| Craig
+| 1 episode
+|-
+| 2015–2016
+| ''[[Thunderbirds Are Go (TV series)|Thunderbirds Are Go]]''
+| Langstrom Fischler (voice)
+| 3 episodes&lt;ref&gt;{{cite web|url=https://www.thunderbirds.com/en/news/article/19|title=News - Thunderbirds Are Go|publisher=}}&lt;/ref&gt;
+|-
+| 2015
+| ''[[Life in Pieces]]''
+| Teddy
+| 2 episodes
+|-
+| rowspan="2"| 2016
+| ''[[The X-Files]]''
+| Guy Mann
+| Episode: "[[Mulder and Scully Meet the Were-Monster]]"
+|-
+| ''[[Mike Tyson Mysteries]]''
+| Terry (voice)
+| Episode: "Yves Klein Blues"
+|-
+| rowspan="2"| 2016–present
+| ''[[Wrecked (U.S. TV series)|Wrecked]]''
+| Steve
+| Regular
+|-
+| ''[[Voltron: Legendary Defender]]''
+| Coran (voice)
+| 27 episodes
+|-
+| rowspan="11"| 2017
+| ''[[A Series of Unfortunate Events (TV series)|A Series of Unfortunate Events]]''
+| Charles
+| 2 episodes
+|-
+| ''[[Fresh Off the Boat]]''
+| Tony Wonder
+| Episode: "Living While Eddie"
+|-
+| ''[[Dr. Ken]]''
+| Charles Evans
+| Episode: "Ken and the CEO"
+|-
+| ''[[Bob's Burgers]]''
+| Duncan (voice)
+| Episode: "Ain't Miss Debatin'"
+|-
+| ''[[The Lion Guard]]''
+| Mwenzi (voice)
+| Episode: "Ono the Tickbird"
+|-
+| ''[[Bajillion Dollar Propertie$]]''
+| Stevahn Rabren
+| Episode: "Dean's Legacy"
+|-
+| ''[[Milo Murphy's Law]]''
+| King Pistashion (voice)
+| Episode: "Missing Milo"
+|-
+| ''[[We Bare Bears]]''
+| Kyle (voice)
+| Episode: "Kyle"
+|-
+| ''[[The Jim Jefferies Show]]''
+| Jacko
+| Episode: "America’s Opioid Epidemic"
+|-
+| ''[[Star vs. the Forces of Evil]]''
+| Eddie (voice)
+| Episode: "The Bogbeast of Boggabah"
+|-
+| ''[[Welcome to the Wayne]]''
+| Isthotep (voice)
+| Episode: “Flutch”
+|-
+| rowspan="1"| 2018
+| ''[[Rise of the Teenage Mutant Ninja Turtles]]''
+| Hypno-Potamus (voice)
+| Episode: “Newsworthy”
+|}
+
+===Television appearances as himself===
+{| class="wikitable"
+|-  style="background:#ccc; text-align:center;"
+|'''Year'''||'''Titles'''||'''Role'''
+|-
+| 2001–2002 || ''[[Billy T Award]]''|| Himself
+|-
+| 2005 || ''[[Mighty Truck of Stuff]]''|| Himself
+|-
+| 2006 || ''[[The Slammer]]''|| Himself
+|-
+| 2007–2008 || Sounds Like a Laugh || Himself
+|-
+| 2008 || ''[[Yo Gabba Gabba!]]''|| Himself
+|-
+| 2008 || ''The Comedy Store Live''|| Himself
+|-
+| 2009 || ''Rocked the Nation 2: 100 NZ Pop Culture Moments'' || Himself
+|-
+| 2009 || ''[[Spicks and Specks (TV series)|Spicks and Specks]]''|| Himself
+|-
+| 2009 || ''[[Thank God You're Here]]''|| Himself
+|-
+| 2009 || ''[[Rove (TV series)|ROVE]]'' || Himself
+|-
+| 2009 || ''[[Intrepid Journeys]]'' || Himself
+|-
+| 2009–2012 || ''[[7 Days (New Zealand)|7 Days]]'' || Himself
+|-
+| 2010 || ''[[The Qantas TV and Film Awards]]'' || Host
+|-
+| 2011 || ''[[A Quiet Word With&amp;nbsp;...]]'' || Himself
+|-
+| 2011 || ''[[The Rob Brydon Show]]'' || Himself
+|-
+| 2012 || ''[[Mad Mad World (TV Series)|Mad Mad World]]'' || Himself
+|-
+| 2012 || ''[[Sunday Brunch]]'' || Himself
+|-
+| 2012 || ''The Comedy Marathon Spectacular'' || Himself
+|-
+| 2012 || ''[[QI]]'' || Himself
+|-
+| 2013–2017 || ''[[@midnight]]'' || Himself
+|-
+| 2013 || ''[[Late Show with David Letterman]]'' || Himself
+|-
+| 2014 || ''[[No, You Shut Up!]]'' || Himself
+|-
+| 2016 || ''[[The Café (TV3)|The Café]]'' || Himself
+|-
+| 2016–17 || ''[[Whose Line Is It Anyway? (Australian TV series)|Whose Line is it Anyway? Australia]]'' || Himself
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Rhys Darby}}
+*[http://www.rhysdarby.com/ Official website]
+*[http://www.theapiary.org/archives/2007/08/inside_with_rhy.html Interview in The Apiary]
+*[http://www.therock.net.nz/Rhys-Darby-interview/tabid/715/articleID/4830/cat/163/Default.aspx Interview on The Rock radio station]
+*{{IMDb name|1055302}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Darby, Rhys}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Flight of the Conchords]]
+[[Category:New Zealand Army personnel]]
+[[Category:New Zealand male comedians]]
+[[Category:New Zealand stand-up comedians]]
+[[Category:New Zealand expatriates in the United States]]
+[[Category:New Zealand male television actors]]
+[[Category:University of Canterbury alumni]]
+[[Category:Place of birth missing (living people)]]
+[[Category:People from Auckland]]</text>
+      <sha1>a4kvrj4ijupg8p6zfr5dwgzwth4fh9v</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,415 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sasheer Zamata</title>
+    <ns>0</ns>
+    <id>41568050</id>
+    <revision>
+      <id>854741932</id>
+      <parentid>854663592</parentid>
+      <timestamp>2018-08-13T13:30:01Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15535">{{Use mdy dates|date=January 2014}}
+{{Infobox person
+| name          = Sasheer Zamata
+| native_name   = 
+| image         = Sasheer Zamata (81960)b.jpg
+| alt           =
+| caption       = Zamata performing at the 2018 [[Tribeca Film Festival]]
+| birth_name    = Sasheer Zamata Moore&lt;ref name="nydn-path"/&gt;
+| birth_date    = {{Birth date and age|1986|5|6}}
+| birth_place   = [[Indianapolis]], [[Indiana]], U.S.
+| nationality   =
+| other_names   =
+| education     =
+| alma_mater    = [[University of Virginia]]
+| occupation    = {{hlist|Actress|comedian}}
+| years_active  = 2009–present
+}}
+
+'''Sasheer Zamata Moore'''&lt;ref name="nydn-path"&gt;{{cite news | url = http://www.nydailynews.com/entertainment/sasheer-zamata-path-saturday-night-live-article-1.1569388 | title = Sasheer Zamata's path to 'Saturday Night Live' | first = Molly | last = Friedman | work = [[Daily News (New York)|Daily News]] | location = New York City | edition = Web | date = January 8, 2014 &lt;!-- 2:00 AM --&gt;  | quote = ...Zamata, who at the time still used her last name, Moore, suffered during college. }}&lt;/ref&gt;&lt;ref name="uva-graduates"&gt;{{cite web | url = http://www.virginia.edu/finals/archives/2008/images/program_graduates08.pdf | title = Graduates and Degree Candidates | publisher = [[University of Virginia]] | date = May 21, 2008 | page = 39 | accessdate = January 21, 2014 }}&lt;/ref&gt; ({{IPAc-en|z|ə|ˈ|m|eɪ|t|ə|}}; born May 6,&lt;ref name="snl-bio"/&gt; 1986),&lt;ref name="timeout"/&gt; known professionally as '''Sasheer Zamata''',&lt;ref name="snl-bio" /&gt; is an American actress and comedian who was a cast member&lt;ref name="snl-bio"/&gt; on ''[[Saturday Night Live]]'' from January 18, 2014, until May 20, 2017. She also has served as a celebrity ambassador for the [[American Civil Liberties Union|ACLU]].
+
+==Early life==
+Zamata was raised in [[Indianapolis]], [[Indiana]], and is a graduate of [[Pike High School]].&lt;ref name="indy"/&gt; She is the daughter of Ivory Steward and Henry Moore, a lieutenant colonel in the Air Force.&lt;ref&gt;{{cite web|last=Lindquist |first=David |url=http://www.indystar.com/story/entertainment/movies/2014/01/08/local-snl-mom-says-daughter-is-ready-for-late-night-spotlight/4381769/ |title=Sasheer Zamata's mom: 'SNL' player is late-night ready |work =The Indianapolis Star|date=9 January 2014 |accessdate=2015-03-09}}&lt;/ref&gt; She stated her parents named her after the alien flower-like crystal called the "Sahsheer" from the ''[[Star Trek: The Original Series|Star Trek]]'' episode "[[By Any Other Name]]".&lt;ref&gt;ABC's Match Game Season 2 Episode 12, aired 14 May 2017; Zamata was a panelist for this episode, and the topic of her name came up when introduced by host [[Alec Baldwin]].&lt;/ref&gt; She attended the [[University of Virginia]], and graduated with a [[Bachelor of Arts]] degree.&lt;ref name="nydn-path"/&gt;&lt;ref name="uva-graduates"/&gt; Zamata was a founding member of the University's long-form improv comedy troupe, Amuse Bouche.&lt;ref&gt;{{cite web|url=http://www.4mcveys.com/bouche/?page_id=187 |title=Friends &amp; Alumni &amp;#124; |publisher=4mcveys.com |date= |accessdate=2015-03-09}}&lt;/ref&gt;
+
+==Career==
+[[File:Sasheer Zamata, Peoples Improv Theater, 2011.png|thumb|left|Sasheer Zamata in 2011]]
+
+Zamata has performed regularly at the [[Upright Citizens Brigade Theatre]] in [[New York City]] since 2009.&lt;ref name="UCB" /&gt; Zamata co-starred in the [[ABC News]] hidden camera series ''[[Primetime (U.S. TV program)|Primetime]]: Would You Fall For That?''&lt;ref name="abc" /&gt; She was a cast member on [[MTV]]'s series ''Hey Girl''.&lt;ref name="av announcement" /&gt;  Zamata has also appeared in sketches on ''[[Totally Biased with W. Kamau Bell]]'' and ''[[Inside Amy Schumer]]''.&lt;ref name="UCB"/&gt; She stars in the webseries ''Pursuit of Sexiness''.&lt;ref name="av announcement"/&gt; Additionally, she has appeared in sketches for [[CollegeHumor]].&lt;ref&gt;{{cite web|url=http://www.nydailynews.com/entertainment/sasheer-zamata-path-saturday-night-live-article-1.1569388|title=Sasheer Zamata's path to 'Saturday Night Live': 'SNL's' first black female cast member in several years, a star of the web series 'Pursuit of Sexiness,' shares a college and an improv troupe with Tina Fey|first=Molly|last=Friedman|work=New York Daily News|date=January 8, 2014|accessdate=January 31, 2014}}&lt;/ref&gt;
+
+Videos on Zamata's [[YouTube]] channel include impersonations of [[Michelle Obama]], [[Rihanna]], [[Nicki Minaj]], [[Tyra Banks]], and [[Beyoncé]].&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/live-feed/snls-sasheer-zamata-5-funny-668796 |title='SNL's' Sasheer Zamata: 5 Funny Sketches and Impersonations (Video) |work= Hollywood Reporter |date=January 7, 2014 |accessdate=January 31, 2014}}&lt;/ref&gt;
+
+Zamata also voices the character Sally in ''[[Call of Duty: Infinite Warfare]]'' Zombie mode.
+
+===''Saturday Night Live''===
+In 2014, Zamata joined the cast of [[NBC]]'s ''[[Saturday Night Live]]'' (''SNL'') during its [[Saturday Night Live (season 39)|39th season]]. She joined the [[Saturday Night Live cast members|''SNL'' cast]] amid a season in which black cast members [[Jay Pharoah]] and [[Kenan Thompson]], TV critics, and other black comedians had criticized ''Saturday Night Live'' for not being ethnically diverse (specifically, not hiring any black female cast members at the start of the new season and only having five of them in the near-40 years the show has been on the air).&lt;ref name="time" /&gt;  Zamata is the first black female cast member on ''SNL'' since [[Maya Rudolph]] departed midway through the show's [[Saturday Night Live (season 33)|33rd season]] in 2007.&lt;ref name="time"/&gt;&lt;ref name=TVGuide&gt;{{cite web|last=Gennis|first=Sadie|title=Kenan Thompson Blames SNL's Diversity Issue on Lack of Talented Black Comediennes|url=http://www.tvguide.com/News/SNL-Diversity-Issue-Kenan-Thompson-1072056.aspx|publisher=TV Guide|accessdate=January 7, 2014}}&lt;/ref&gt;&lt;ref name="dh2" /&gt;
+
+Zamata debuted on ''SNL'' as a featured player in the January 18, 2014 episode hosted by [[Drake (rapper)|Drake]],&lt;ref name="dh"/&gt; in which she impersonated [[Rihanna]].&lt;ref&gt;{{cite web|last=Thomas |first=Rebecca |url=http://www.mtv.com/news/articles/1720740/saturday-night-live-sasheer-zamata-debut.jhtml |title='Saturday Night Live': Sasheer Zamata Debuts, But How'd She Do? - Music, Celebrity, Artist News |publisher=MTV.com |date=January 19, 2014 |accessdate=January 31, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Chan |first=Robert |url=https://tv.yahoo.com/blogs/tv-news/sasheer-zamata--the-first-black-woman-on--snl--in-6-years--debuts-151818391.html |title=Sasheer Zamata, the First Black Woman on 'SNL' in 6 Years, Makes Her Debut &amp;#124; Yahoo TV - Yahoo TV |publisher=Tv.yahoo.com |date=January 19, 2014 |accessdate=January 31, 2014}}&lt;/ref&gt; She was promoted to repertory player in the first episode of [[Saturday Night Live (season 41)|Season 41]].&lt;ref name='splitsider'&gt;{{cite web|work=Splitsider.com|date=2015|title=SNL Promotes Beck, Bennett and Sasheer to Repertory Players|url=http://splitsider.com/2015/10/snl-promotes-beck-bennett-and-sasheer-zamata-to-repertory-players/}}&lt;/ref&gt; Some of her recurring characters include Janelle, a teenage girl who hosts a [[YouTube]] channel called ''How 2 Dance with Janelle'' but is unaware of how her developing sexuality is coming off to viewers, and Keeley, a contestant on an African-American centric version of [[Jeopardy!]] called ''Black Jeopardy!'' Some of her celebrity impressions have included the aforementioned [[Rihanna]], [[Michelle Obama]], [[Nicki Minaj]], [[Beyonce Knowles]], [[Solange Knowles]], [[Diana Ross]], [[Lupita Nyong'o]], and [[Taraji P. Henson]]. She left the show in 2017 after the season finale of season 42.&lt;ref&gt;{{cite web|url=http://www.etonline.com/news/217983_exclusive_sasheer_zamata_leaving_saturday_night_live/|title= Sasheer Zamata Leaving 'Saturday Night Live'|date=May 21, 2017|work=Entertainment Tonight|author =Antoinette Bueno}}&lt;/ref&gt;
+
+===The ACLU and Work with Women's Rights===
+Zamata was named a celebrity ambassador to the [[American Civil Liberties Union]] (ACLU) in 2015, and began work with the Women's Rights Project.&lt;ref&gt;http://www.eurweb.com/2015/10/snls-sasheer-zamata-is-aclu-celebrity-ambassador-on-womens-rights/#&lt;/ref&gt; The ACLU Women's Right's project seeks to break down gender biases and "ensure equal economic opportunities, [[educational equity]], and an end to gender-based violence".&lt;ref&gt;[https://www.aclu.org/issues/womens-rights "Women's Rights"], American Civil Liberties Union&lt;/ref&gt; She has spoken out on gender discrimination in the U.S. today, and has advocated for equal rights among women of color, in particular.&lt;ref&gt;https://www.aclu.org/blog/speak-freely/saturday-night-lives-sasheer-zamata-lets-talk-about-privilege&lt;/ref&gt; In an interview with ''Allure Magazine'', Zamata opened up about her experiences with discrimination and colorism.&lt;ref name="allure.com"&gt;http://www.allure.com/story/sasheer-zamata-talks-diversity-in-hollywood&lt;/ref&gt; Though often stigmatized for her darker skin tone, she hopes to turn her experiences into a message of self-acceptance and body positivity for women in all shades.&lt;ref name="allure.com"/&gt;
+
+==Filmography==
+{| class="wikitable sortable"
+|+ Film roles
+! Year
+! Title
+! Role
+! Notes
+|-
+|2005
+|''Sticks and Stones''
+|
+|Short film
+|-
+|2009
+|''Michelle Obama's Breaking Point''
+|[[Michelle Obama]]
+|Short film
+|-
+|2010
+|''Tyra Banks Exclusive 2010''
+|[[Tyra Banks]]
+|Short film
+|-
+|2011
+|''Subway Rush''
+|
+|Short film
+|-
+|2012
+|''White Powder''
+|
+|Short film
+|-
+|2012
+|''Three to One''
+|
+|Short film
+|-
+|2013
+|''Black Superheroes''
+|
+|Short film
+|-
+|2013
+|''Tie''
+|
+|Short film
+|-
+|2013
+|''Best Buy Real Home Theater Experience''
+|
+|Short film
+|-
+|2013
+|''Little Horribles''
+|
+|Short film
+|-
+|2014
+|''The Re-Gift''
+|ACE Party Girl
+|Short film
+|-
+|2014
+|''The Crumb of It''
+|Sasheer
+|Short film
+|-
+|2014
+|''Intimate Semaphores''
+|Sasheer
+|Segment "Cake"
+|-
+|2014
+|''Grow a Guy''
+|Friend
+|Short film
+|-
+|2015
+|''The Jay Z Story''
+|[[Beyoncé|Beyoncé Knowles]]
+|Short film
+|-
+|2015
+|''Prom Queen''
+|Teacher #2
+|Short film
+|-
+|2016
+|''[[Sleight]]''
+|Georgi
+|
+|-
+|2016
+|''[[Yoga Hosers]]''
+|Principal Invincible
+|
+|-
+|2017
+|''[[Deidra &amp; Laney Rob a Train]]''
+|Ms. Spencer
+|
+|-
+|2017
+|''The Outdoorsman''
+|Mona
+|
+|-
+|2018
+|''[[I Feel Pretty (film)|I Feel Pretty]]''
+|Tasha
+|
+|-
+|2019
+|''The Weekend''
+|
+|In-production
+|}
+
+{| class="wikitable sortable"
+|+ Television roles
+! Year
+! Title
+! Role
+! Notes
+|-
+|2010
+|''Acid Tests''
+|Karen
+|
+|-
+|2011
+|''Beyonce as a Mommy''
+|Beyonce
+|
+|-
+|2011
+|rowspan="2"|''Jest Originals''
+|Chelsea
+|Episode: "TOMS 'One 4 One' Gone Wrong"
+|-
+|2012
+|Blue Ivy
+|Episode: "Blue Ivy in the Nursery"
+|-
+|2012
+|''UCB Live!''
+|Herself
+|
+|-
+|2012-2013
+|''Fodder''
+|Various
+|14 episodes
+|-
+|2012-2015
+|''[[CollegeHumor|CollegeHumor Originals]]''
+|Various
+|5 episodes
+|-
+|2013
+|''The Morning After''
+|Herself
+|Episode: "Once You Go Black..."
+|-
+|2013
+|''Thingstarter''
+|Woman on Street
+|Episode: "iNotRacist"
+|-
+|2013
+|''PITtv''
+|Mom
+|Episode: "Gay-Doh"
+|-
+|2013
+|''Above Average Presents''
+|Various
+|3 episodes
+|-
+|2013
+|''[[Inside Amy Schumer]]''
+|Sales Girl
+|Episode: "Bad Decisions"
+|-
+|2013-2015
+|''[[Upright Citizens Brigade|UCB Comedy Originals]]''
+|Various
+|9 episodes
+|-
+|2013-2015
+|''Pursuit of Sexiness''
+|Sheer
+|Main cast
+|-
+|2014
+|''Dream Jobs''
+|Madison
+|
+|-
+|2014
+|''Inside Amy Schumer''
+|Tess
+|Episode: "Slut-Shaming"
+|-
+|2014-2017
+|''[[Saturday Night Live]]''
+|Herself/Various
+|Main cast
+|-
+|2015
+|''[[Lucas Bros. Moving Co.]]''
+|Blackneficent (voice)
+|Episode: "For the Love of Moving"
+|-
+|2016
+|''Night Train with Wyatt Cenac''
+|
+|Episode: "Cleve &amp; Steve"
+|-
+|2016
+|''[[Transparent (TV series)|Transparent]]''
+|Asra
+|Episode: "Elizah"
+|-
+|2016
+|''[[People of Earth]]''
+|Marcy
+|Episode: "Significant Other"
+|-
+|2016
+|''[[Albert (2016 film)|Albert]]''
+|Maisie (voice)
+|TV Movie
+|-
+|2017
+|''The Special Without Brett Davis''
+|
+|Episode: "Raddisson"
+|-
+|2017
+|''Sasheer Zamata Party Time''
+|Herself
+|Main cast
+|-
+|2017
+|''[[BoJack Horseman]]''
+|Jewelry Store Clerk (voice)
+|Episode: "Ruthie"
+|-
+|2017
+|''[[At Home with Amy Sedaris]]''
+|Ms. Stern
+|Episode: "Making Love"
+|-
+|2017-2018
+|''[[Loosely Exactly Nicole]]''
+|Kim Whitfield
+|Recurring
+|}
+
+{| class="wikitable sortable"
+|+ Video game roles
+! Year
+! Title
+! Role
+|-
+|2016
+|''[[Call of Duty: Infinite Warfare|Call of Duty: Infinite Warfare: Zombies in Spaceland]]''
+|Sally
+|}
+
+==References==
+{{Reflist|refs=
+&lt;ref name="abc"&gt;{{cite web|title="Would You Fall for That?" Airs Friday, August 9, 9 p.m. ET on ABC|url= http://abcnews.go.com/blogs/headlines/2013/08/would-you-fall-for-that-airs-friday-august-9-9-pm-et-on-abc/|publisher=ABC PR|accessdate=January 7, 2014}}&lt;/ref&gt;
+
+&lt;ref name="av announcement"&gt;{{cite news|last=O'Neal|first=Sean|title=''Saturday Night Live'' has officially added its first black female cast member in years|url=http://www.avclub.com/article/saturday-night-live-has-officially-added-its-first-106748|accessdate=January 8, 2014|newspaper=[[The A.V. Club]]|date=January 6, 2014}}&lt;/ref&gt;
+
+&lt;ref name="dh"&gt;{{cite web |url=http://www.deadline.com/2014/01/saturday-night-live-adds-sasheer-zamata-black-cast-member/ |title=Sasheer Zamata Joins ''Saturday Night Live'' as New Cast Member |last=Andreeva |first=Nellie |date=January 6, 2014 |work=[[Deadline Hollywood]] |publisher=[[PMC (company)|PMC]]}}&lt;/ref&gt;
+
+&lt;ref name="dh2"&gt;{{cite web|last=De Moraes|first=Lisa|title=UPDATE: ‘SNL’ To Audition Black Female Cast Hopefuls Monday, Pick One For January Start|url=http://www.deadline.com/2013/12/snl-holds-auditions-for-black-female-cast-hopefuls-at-groundlings/|publisher=Deadline: Hollywood|accessdate=January 7, 2014}}&lt;/ref&gt;
+
+&lt;ref name="indy"&gt;{{cite web|title=Indy Native Sasheer Zamata Joins SNL Cast |url=http://www.indianapolismonthly.com/circlecitizen/2014/01/07/indy-native-sasheer-zamata-joins-snl-cast |work=[[Indianapolis Monthly]] |last=Scott |first=Jonathan |publisher=[[Emmis Communications]] |date=January 7, 2014}}&lt;/ref&gt;
+
+&lt;ref name="snl-bio"&gt;{{cite web | url = http://www.nbc.com/saturday-night-live/about/bio/cast/sasheer-zamata/851611/ | title = Bios: Sasheer Zamata / Featured Player | publisher = [[National Broadcasting Company|NBC]] | accessdate = January 18, 2014 }}&lt;/ref&gt;
+
+&lt;ref name="time"&gt;{{cite web |url=http://entertainment.time.com/2014/01/06/snl-finally-gets-a-black-female-cast-member/ |title=''SNL'' Finally Gets a Black Female Cast Member |last=Rhodan |first=Maya |work=[[Time (magazine)|Time]] |publisher=[[Time Warner]] |date=January 6, 2014}}&lt;/ref&gt;
+
+&lt;ref name="timeout"&gt;{{cite news | url = http://www.timeout.com/newyork/things-to-do/sasheer-moore-23 | title = Sasheer Moore, 23: McCarren Park, Williamsburg, Brooklyn | date = July 21, 2009 | work = [[Time Out New York]] | location = New York City }}&lt;/ref&gt;
+
+&lt;ref name="UCB"&gt;{{cite web|title=UCB Theatre&amp;nbsp;– Sasheer Zamata|url=http://newyork.ucbtheatre.com/talent/view/15496|accessdate=January 7, 2014}}&lt;/ref&gt;
+}}
+
+==External links==
+*{{IMDb name}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Zamata, Shasheer}}
+[[Category:African-American actresses]]
+[[Category:American television actresses]]
+[[Category:American women comedians]]
+[[Category:University of Virginia alumni]]
+[[Category:Actresses from Indianapolis]]
+[[Category:Living people]]
+[[Category:1986 births]]
+[[Category:21st-century American actresses]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American sketch comedians]]
+[[Category:Upright Citizens Brigade Theater performers]]
+[[Category:21st-century American comedians]]
+[[Category:Comedians from Indiana]]</text>
+      <sha1>qf3rkx89m3pe92hwm8wz6w1hahfyj1c</sha1>
+    </revision>
+  </page>
+</mediawiki>

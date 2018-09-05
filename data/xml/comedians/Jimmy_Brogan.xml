@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jimmy Brogan</title>
+    <ns>0</ns>
+    <id>24809860</id>
+    <revision>
+      <id>854115636</id>
+      <parentid>848033182</parentid>
+      <timestamp>2018-08-09T02:01:29Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* External links */add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5880">{{Infobox person
+|name=Jimmy Brogan
+|image=
+|caption=
+|birth_date={{Birth date and age|1948|9|18}}
+|birth_place=[[Boston]], [[Massachusetts]], United States
+|alma_mater=[[University of Notre Dame]]&lt;ref&gt;[http://magazine.nd.edu/news/26469-mining-for-humor/ Magazine.nd.edu]&lt;/ref&gt;
+|occupation=Stand-up comedian, writer, actor
+|years_active=1975–present
+}}
+'''Jimmy Brogan''' (born September 18, 1948), sometimes credited as '''Jim Brogan''', is an American stand-up comedian, writer and actor.  He has made numerous standup appearances on the talk show circuit including ''[[The Tonight Show Starring Johnny Carson]]'' and ''[[Late Night with David Letterman]]''.&lt;ref name=LATimes&gt;{{cite web|last1=Strauss|first1=Duncan|title=Brogan: A Stand-Up Comic Who Stands Alone|url=http://articles.latimes.com/1988-04-04/entertainment/ca-337_1_jimmy-brogan|website=LA Times|publisher=LATimes|accessdate=5 April 2015}}&lt;/ref&gt;  He was a writer on ''[[The Tonight Show with Jay Leno]]'' for 9 years.&lt;ref name=imdb&gt;{{cite web|last1=Brogan|first1=Jimmy|title=Artist's page|url=https://www.imdb.com/name/nm0111156/|website=Imdb|publisher=Imdb|accessdate=5 April 2015}}&lt;/ref&gt;  As an actor, he starred in the ABC sitcom ''[[Out of the Blue (1979 TV series)|Out of the Blue]]''.&lt;ref name=imdb/&gt;
+
+== Comedian ==
+Brogan is well known in the comedy clubs for his off the cuff adlib-style act.  The ''[[Los Angeles Times]]'' has called Brogan “an absolute master at interacting with the crowd” and says, “he elevated crowd interaction to a high art.”&lt;ref name=LATimes/&gt;
+
+Brogan started doing stand-up comedy in New York City in 1975.  Within his first year and a half of doing stand-up he was a regular performer at the [[The Improv|Improv]], [[Catch a Rising Star (comedy clubs)|Catch a Rising Star]] and the [[Comic Strip]].&lt;ref name=LATimes/&gt; Brogan guest starred on ''[[The Tonight Show Starring Johnny Carson]]'' 7 times from 1984 to 1992.  He also appeared on ''[[Late Night with David Letterman]]'' and the ''[[Merv Griffin Show]]''.&lt;ref name=imdb/&gt;
+	
+He hosted ''[[Laffathon]]'' on Showtime 1980-81, ''[[Comic Strip Live]]'' on Fox 1987, ''[[You Asked for it Again]]'' on the Family Channel 1992.&lt;ref&gt;http://www.anshe.org/comedy.htm&lt;/ref&gt;&lt;ref name=caldwell&gt;{{cite journal|title=Caldwell Chr|journal=Caldwell Chronicle|date=February 2007|volume=40|issue=2|page=2|url=http://www.cccti.edu/Chronicle/2007/Febraury%202%20Chronicle.pdf|accessdate=5 April 2015}}&lt;/ref&gt;  He also hosted ''[[The Late Show (1986 TV series)|The Late Show]]'' on Fox in 1987 after Joan Rivers left the show.&lt;ref name=caldwell/&gt; From 1992 until 2001 he appeared many times on ''[[The Tonight Show with Jay Leno]]'' doing stand-up, in written comedy pieces and in remote segments.
+	
+He warmed up the studio audiences for sitcoms ''[[Taxi (TV series)|Taxi]]'', ''[[Cheers]]'', ''[[Newhart]]'' and ''[[Seinfeld]]'' as well as talk shows ''[[The Tonight Show with Jay Leno]]'', ''[[Late Night with David Letterman]]'' and ''[[The Oprah Winfrey Show|Oprah]]''.&lt;ref name=caldwell/&gt;
+
+Almost every Sunday for the last 18 years, he has been opening for Jay Leno at the [[Comedy &amp; Magic Club]] in Hermosa Beach.&lt;ref&gt;http://losangeles.metromix.com/events/comedy_event/jay-leno-&lt;/ref&gt; "Leno calls Brogan every Sunday to ask if they're riding together. 'He picks me up in one of his 80 exotic cars,' Brogan said. 'We ride in a different one every Sunday. This has been a ritual since 1991.'"&lt;ref&gt;http://www.sheckymagazine.com/2007/04/brogan-leno-exotic-cars.html&lt;/ref&gt;
+
+== Writer ==
+Brogan served as a writer for the opening monologue on ''[[The Tonight Show with Jay Leno]]'' from 1992-2001.  The ''[[Los Angeles Times Magazine]]'' called him "L.A.'s premier 'joke scientist' …dissecting, analyzing, adding or subtracting ingredients" in Leno's opening monologue.&lt;ref&gt;http://articles.latimes.com/1998/feb/22/magazine/tm-21820&lt;/ref&gt; During the show "Jimmy would sit to one side of the audience while Jay told his jokes.  On occasion, Jimmy and Jay would make a bet to see if a certain joke worked or not.  If Jimmy won, Jay would walk down the stage, and pay Jimmy.  If Jay won, Jimmy would come to the stage and pay off the bet.  All this was done while the camera was running."&lt;ref name=imdb/&gt;
+
+== Actor ==
+In 1979, Brogan moved to Los Angeles to star in the sitcom ''[[Out of the Blue (1979 TV series)|Out of the Blue]]'' on ABC as Random the Angel.&lt;ref name=imdb/&gt;  ABC aired 9 episodes, including the premiere episode which co-starred Robin Williams as Mork from ''[[Mork and Mindy]]''.
+	
+Brogan also appeared in an episode of ''[[Happy Days]]'' entitled ''[[Chachi Sells his Soul]]'' as Random to cross promote his show ''[[Out of the Blue (1979 TV series)|Out of the Blue]]''.&lt;ref name=imdb/&gt;
+	
+He had guest parts on other TV shows including ''[[Just the Ten of Us]]'', ''[[Brooklyn Nine Nine]]'' and ''[[Stand-Up Confidential|Jerry Seinfeld’s Stand-up Confidential]]''.&lt;ref name=imdb/&gt;
+	
+Brogan also appeared in three major motion pictures: ''[[Punchline (film)|Punchline]]'' (with Tom Hanks and Sally Field) playing the younger clergyman; Steven Soderbergh’s ''[[The Informant!]]'' (with Matt Damon) as psychiatrist, Dr. Miller; and ''[[Bridesmaids]]'' (with Kristen Wiig) as the minister at the wedding.&lt;ref name=imdb/&gt;
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IMDb name|0111156|Jimmy Brogan}}
+* [http://www.jimbroganonline.com/ JimBroganonLine.com] (official website)
+* [http://www.cleancomedian.info/ CleanComedian] (official website)
+
+{{authority control}}
+
+{{DEFAULTSORT:Brogan, Jimmy}}
+[[Category:1948 births]]
+[[Category:American comedy writers]]
+[[Category:American stand-up comedians]]
+[[Category:Living people]]
+[[Category:20th-century American male actors]]
+[[Category:University of Notre Dame alumni]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>es4jxz3puyl44vvd5houmbwxfbbh96q</sha1>
+    </revision>
+  </page>
+</mediawiki>

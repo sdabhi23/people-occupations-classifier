@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Charles Fern</title>
+    <ns>0</ns>
+    <id>13818685</id>
+    <revision>
+      <id>850863142</id>
+      <parentid>846445408</parentid>
+      <timestamp>2018-07-18T13:05:31Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* Notes */add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4621">{{for|the Australian Labor Party politician|Charles Fern (politician)}}
+{{Infobox aviator
+|name= Charles Fern
+|image=
+|image_size=
+|alt=
+|caption=
+|full_name= Charles J. Fern
+|birth_date= {{Birth date|1892|06|20}}
+|birth_place=
+|death_date= {{Death date and age|1995|03|29|1892|06|20}}
+|death_place=
+|death_cause=
+|resting_place=
+|resting_place_coordinates= &lt;!-- {{Coord|LATITUDE|LONGITUDE|type:landmark}} --&gt;
+|monuments=
+|nationality={{USA}}
+|spouse= Mary Gillespie
+|relatives= Charlie Fern, niece
+|known_for=First round trip between O‘ahu and Maui
+|first_flight_aircraft=Matson freighter
+|first_flight_date= May 9, 1920
+|famous_flights= First commercial flight in Hawaii
+|license_date=
+|license_place=
+|air_force=Army Air Corps
+|battles=World War I
+|rank=
+|awards= Hawaii Publishers Association Hall of Fame
+|first_race = &lt;!-- For racing aviators --&gt;
+|racing_best = &lt;!-- For racing aviators --&gt;
+|racing_aircraft = &lt;!-- For racing aviators --&gt;
+|website= &lt;!-- {{URL|example.com}} --&gt;
+}}
+
+'''Charles J. "Charlie" Fern''' (June 20, 1892 &amp;ndash; March 29, 1995), a [[barnstorming]] [[Hawaii]] aviator and newspaper pioneer, was a [[University of California, Berkeley]] graduate and a World War I pilot. Fern lived to be 102.
+
+== Biography ==
+Fern, who was raised in the Madison Barracks community in [[Sackets Harbor]], [[New York (state)|New York]], arrived in the Hawaiian Islands in 1919. With partner Ben Stoddard, they barnstormed in Honolulu at Kapi‘olani Park, where they flew passengers 10 minutes for $10 each.&lt;ref&gt;[http://www.hanahou.com/pages/Magazine.asp?Action=DrawArticle&amp;ArticleID=138&amp;MagazineID=7&amp;Page=3 Hana Hou Magazine]&lt;/ref&gt; Fern’s plane, 20-gallon tank, two-cockpit, single-engine Jenny, was brought to the Islands on a Matson freighter. On February 1, 1920, Fern, who learned to fly in the Army Air Corps during World War I, carried the first paying passenger on an inter-island flight, giving him the distinction of being the first commercial pilot in Hawaii.&lt;ref&gt;[http://www.pacificaerospace.org/history.html Aviation History in Hawaii] {{webarchive |url=https://web.archive.org/web/20090622053151/http://www.pacificaerospace.org/history.html |date=June 22, 2009 }}&lt;/ref&gt; In addition, on May 9, 1920, Fern made the first round trip between O‘ahu and Maui in the same plane and then flew on to Kaua‘i. He became known as “Mr. Kaua‘i" and was eventually inducted into the Hawaii Publishers Association Hall of Fame.&lt;ref&gt;[http://www.hawaiipublishersassociation.com/pagebrowse-33-1713.htm HPA Hall of Fame]&lt;/ref&gt;
+
+In 1927 he formed the first Kauai barefoot football league. In 1938 he built Kauai's first radio station, KOWY (renamed KTOH).&lt;ref&gt;[http://starbulletin.com/2002/08/27/business/index6.html Kauai radio station owner plans statewide network]&lt;/ref&gt; During World War II, Fern published the ''Cow Eye Sentinel'', a weekly paper for soldiers stationed on Kauai. Eventually he became owner of ''[[The Garden Island]]'', where he worked for 44 years, but sold the paper and radio station when he retired to Honolulu in 1966.
+
+== Family ==
+In 1922 Fern married Mary Gillespie. A son, Mike Fern, went on to become an editor at ''[[The Garden Island]]''. A great-niece, [[Charlie Fern|Charlene "Charlie" Fern]], nicknamed after him, also became a newspaper reporter, editor and, later, a White House speechwriter.
+
+== See also ==
+* [[List of radio stations in Hawaii]]
+
+== References ==
+* [https://web.archive.org/web/20090622053151/http://www.pacificaerospace.org/history.html Aviation History in Hawaii]
+* [https://web.archive.org/web/20070702023502/http://www.hawaiianhistory.org/moments/barnstrm.html Hawaiian Historical Society]
+* [http://www.kauaiworld.com/articles/2006/10/05/news/news04.txt ''The Garden Island'' newspaper]
+* [https://web.archive.org/web/20071123024503/http://www.honoluluweekly.com/cover/detail.php?id=96 ''Honolulu Weekly'']
+* [http://www.honoluluweekly.com/cover/2005/08/the-crossing/ Honolulu Weekly article]
+* [http://kauaihistorymakers.com/Fer-Jar_files/ferniweb-1.pdf Kauai History Makers]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://thegardenisland.com/news/local/801af0de-85a2-11df-ba65-001cc4c002e0.html Biography of Charles Fern]
+
+== Notes ==
+&lt;references/&gt;
+
+{{authority control}}
+
+{{DEFAULTSORT:Fern, Charles}}
+[[Category:American male journalists]]
+[[Category:American journalists]]
+[[Category:American newspaper journalists]]
+[[Category:Aviation pioneers]]
+[[Category:American centenarians]]
+[[Category:1892 births]]
+[[Category:1995 deaths]]
+[[Category:Commercial aviators]]
+[[Category:Aviators from Hawaii]]</text>
+      <sha1>cobw59min5f8lc60g3m9i5hdl15zjlw</sha1>
+    </revision>
+  </page>
+</mediawiki>

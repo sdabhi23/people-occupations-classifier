@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Craig McKay (cartoonist)</title>
+    <ns>0</ns>
+    <id>3618761</id>
+    <revision>
+      <id>775233396</id>
+      <parentid>738186536</parentid>
+      <timestamp>2017-04-13T15:17:04Z</timestamp>
+      <contributor>
+        <username>Cheyannide</username>
+        <id>30812199</id>
+      </contributor>
+      <minor/>
+      <comment>minor grammar fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1421">'''Craig McKay''' (born 1966) is an American [[cartoonist]] who has done [[freelance]] [[cartoon]]ing and [[illustration]] for numerous of firms.
+
+==Biography==
+McKay was born in [[Ohio]] in 1966 but was raised in [[Indiana]]. He attended the [[Art Academy of Cincinnati]] in [[Cincinnati, Ohio]], graduating with a [[Bachelor of Fine Arts|B.F.A.]] in 1989. Working as a freelancer since 1990, McKay received the [[National Cartoonist Society]] Advertising and Illustration Award in 1999, 2000, and 2008.&lt;ref&gt;http://www.reuben.org/divisions.html#editorial&lt;/ref&gt; He and his wife live in Cincinnati.&lt;ref&gt;http://monkeywithcrayon.com/bio.html&lt;/ref&gt;
+
+==Awards==
+* [[National Cartoonist Society]] Division Award for Advertising and Illustration
+**1999 &amp;ndash; for his illustration of ''[[A Christmas Carol]]'' for the [[Cincinnati Playhouse in the Park]]
+**2000 &amp;ndash; for his packaging illustrations and character designs for "X-treme Petz," a line of [[toy]]s
+**2008
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.monkeywithcrayon.com Craig McKay's website, monkeywithcrayon.com]
+* [https://web.archive.org/web/20060106021759/http://www.reuben.org/ncs/awards.asp NCS Awards]
+* [http://www.reuben.org/ncs/members/biogs/mckay.asp Craig McKay's biography at the NCS site]
+
+{{DEFAULTSORT:McKay, Craig}}
+[[Category:American cartoonists]]
+[[Category:Living people]]
+[[Category:1966 births]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>dajg1c3qja660omlb2eiq94nsja2kd6</sha1>
+    </revision>
+  </page>
+</mediawiki>

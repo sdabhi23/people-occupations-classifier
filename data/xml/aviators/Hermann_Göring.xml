@@ -1,0 +1,1172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hermann Göring</title>
+    <ns>0</ns>
+    <id>13487</id>
+    <revision>
+      <id>855261498</id>
+      <parentid>855235687</parentid>
+      <timestamp>2018-08-17T01:39:45Z</timestamp>
+      <contributor>
+        <username>Beyond My Ken</username>
+        <id>11112747</id>
+      </contributor>
+      <comment>Undid revision 855235687 by [[Special:Contributions/Catrìona|Catrìona]] ([[User talk:Catrìona|talk]]) It was perfectly reasonable language, and not POV in the least</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="88744">{{redirect|Göring}}
+{{Use dmy dates|date=March 2013}}
+{{good article}}
+{{Infobox officeholder
+| name = Hermann Göring
+| image = File:Bundesarchiv Bild 102-15607, Potsdam, Göring.jpg
+| image_size = 200px
+| caption = (1934)
+| constituency = 
+| signature = Hermann Göring Signature.svg
+| governor2 = {{Unbulleted list|item_style=white-space: nowrap | Adolf Hitler | Himself as ''[[Reichsstatthalter#Third Reich|Reichsstatthalter]]'' }}
+| office2 = [[Minister President of Prussia]]
+| predecessor2 = [[Franz von Papen]]
+| party = [[Nazi Party]] (NSDAP; 1922–1945)
+| chancellor1 = {{plainlist|
+* [[Heinrich Brüning]]
+* [[Franz von Papen]]
+* [[Kurt von Schleicher]]
+* Adolf Hitler}}
+| office1 = [[Reichstag (Weimar Republic)|President of the Reichstag]]
+| predecessor1 = [[Paul Löbe]]
+| president1 = {{Unbulleted list|item_style=white-space: nowrap | [[Paul von Hindenburg]]&lt;br&gt;(1932–1934) | [[Adolf Hitler]]&lt;br&gt;(1934–1945; as ''[[Führer]]'')}}
+| successor1 = Position abolished
+| successor2 = Position abolished
+| birth_name = Hermann Wilhelm Göring
+| birth_date = {{birth date|df=yes|1893|1|12}}
+| birth_place = [[Rosenheim]], [[Kingdom of Bavaria]], [[German Empire]]
+| death_date = {{death date and age|df=yes|1946|10|15|1893|1|12}}
+| death_place = [[Nuremberg]], [[Bavaria]], [[Allied-occupied Germany]]
+| spouse = {{plainlist |
+* {{marriage|[[Carin Göring|Carin von Kantzow]]&lt;br&gt;|1923|1931|reason=died}}
+* {{marriage|[[Emmy Göring|Emmy Sonnemann]]&lt;br&gt;|1935}}
+}}
+| relations = [[Albert Göring]] (brother)
+| children = [[Edda Göring]]
+| parents =  {{plainlist|
+* [[Heinrich Ernst Göring]] (father)
+* Franziska Tiefenbrunn (mother)
+}}
+| occupation =  {{plainlist|
+* Aviator
+* Politician
+* Art collector}}
+| profession = 
+| cabinet =  [[Hitler Cabinet]]
+| nickname = 
+| allegiance = {{Unbulleted list|item_style=white-space: nowrap | {{flag|German Empire}} (1912–1918) | {{flag|Weimar Republic}} (1923–1933) | {{flag|Nazi Germany}} (1933–1945) }}
+| branch = {{Unbulleted list|item_style=white-space: nowrap | {{flagicon|German Empire|size=23px}} [[Imperial German Army]] | [[File:Cross-Pattee-Heraldry.svg|23px|Cross pattée]] ''[[Luftstreitkräfte]]'' | {{Luftwaffe|Nazi Germany}} }}
+| serviceyears = {{plainlist|
+*1912–1918
+*1923–1945
+}}
+| rank = {{Unbulleted list|item_style=white-space: nowrap | ''[[Reichsmarschall]]'' (1940–1945) | ''[[Field marshal (Germany)|Generalfeldmarschall]]'' (1938–1940) | ''[[Sturmabteilung|SA]]-[[Gruppenführer]]'' (to 1945) }}
+| commands = Luftwaffe&amp;nbsp; (1935–1945)
+| battles = {{unbulleted list |[[World War I]] |[[World War II]]}}
+| awards = {{Unbulleted list | &lt;!--[[Iron Cross]], 1st Class | {{nowrap|[[Knight's Cross of the Iron Cross]]}} | [[Order of the Zähringer Lion|Zähring Lion]] with Swords |[[Friedrich Order]] | {{longitem|[[House Order of Hohenzollern]] with Swords, 3rd Class}} | --&gt; ''[[Pour le Mérite]]'' | {{nowrap|[[Grand Cross of the Iron Cross]]}} }}
+| honorific-prefix = ''[[Reichsmarschall]]''
+| term_start1 = 30 August 1932
+| term_end1 = 23 April 1945
+| term_start2 = 10 April 1933
+| term_end2 = 23 April 1945
+| office3 = ''[[Reichsstatthalter#Third Reich|Reichsstatthalter]]'' of Prussia &lt;br&gt;&lt;small&gt;(Acting)&lt;/small&gt;
+| term_start3 = 25 April 1933{{sfn|Kershaw|2008|p=284}}
+| term_end3 = 23 April 1945
+| primeminister3 = Himself
+| predecessor3 = Adolf Hitler
+| successor3 = Position abolished
+| office4 = [[Ministry of Aviation (Nazi Germany)|Reich Minister of Aviation]]
+| term_start4 = 27 April 1933
+| term_end4 = 23 April 1945
+| president4 = {{Unbulleted list|item_style=white-space: nowrap | [[Paul von Hindenburg]] | Adolf Hitler (as ''[[Führer]]'') }}
+| chancellor4 = Adolf Hitler
+| predecessor4 = Position established
+| successor4 = [[Robert Ritter von Greim]]
+| office5 = Reich Minister of Forestry
+| term_start5 = July 1934
+| term_end5 = 23 April 1945
+| president5 = {{Unbulleted list|item_style=white-space: nowrap | [[Paul von Hindenburg]] | Adolf Hitler (as ''[[Führer]]'') }}
+| chancellor5 = Adolf Hitler
+| predecessor5 = Position established
+| successor5 = Position abolished
+| office6 = Reich Plenipotentiary of the [[Four Year Plan]]{{sfn|Evans|2005|p=358}}
+| term_start6 = 18 October 1936{{sfn|Evans|2005|p=358}}
+| term_end6 = 23 April 1945
+| president6 = Adolf Hitler (as ''[[Führer]]'')
+| chancellor6 = Adolf Hitler
+| predecessor6 = Position established
+| successor6 = Position abolished
+| office7 = [[List of German economics ministers|Reich Minister of Economics]]
+| term_start7 = 26 November 1937
+| term_end7 = 15 January 1938
+| chancellor7 = Adolf Hitler
+| predecessor7 = [[Hjalmar Schacht]]
+| successor7 = [[Walther Funk]]
+| office8 = Chairman of the Ministerial Council for Reich Defense{{sfn|Nazi Conspiracy and Aggression|1946|pp=100-101}}
+| term_start8 = 30 August 1939{{sfn|Nazi Conspiracy and Aggression|1946|pp=100-101}}
+| term_end8 = 23 April 1945
+| president8 = [[Adolf Hitler]] (1934–1945; as ''[[Führer]]'')
+| chancellor8 = [[Adolf Hitler]]
+| predecessor8 = Position established
+| successor8 = Position abolished
+| office9 = [[Vice-Chancellor of Germany]]
+| chancellor9 = Adolf Hitler
+| term_start9 = 10 February 1941
+| term_end9 = 23 April 1945
+| predecessor9 = [[Franz von Papen]]
+| successor9 = [[Franz Blücher]] ([[West Germany]])
+}}
+
+'''Hermann Wilhelm Göring''' (or '''Goering''';{{efn|name=spelling}} {{IPA-de|ˈɡøːʁɪŋ|lang|De-HermannWGoering.ogg}}; 12 January 1893&amp;nbsp;– 15 October 1946) was a German political and military leader as well as one of the most powerful figures in the [[Nazi Party]] (NSDAP) that ruled Germany from 1933 to 1945. A veteran [[World War I]] fighter pilot [[Flying aces|ace]], he was a recipient of the ''[[Pour le Mérite]]'' (The Blue Max). He was the last commander of [[Jagdgeschwader 1 (World War I)|''Jagdgeschwader'' 1]] (Jasta 1), the fighter wing once led by [[Manfred von Richthofen]].
+
+An early member of the Nazi Party, Göring was among those wounded in [[Adolf Hitler]]'s failed [[Beer Hall Putsch]] in 1923. While receiving treatment for his injuries, he developed an addiction to [[morphine]] which persisted until the last year of his life. After Hitler became [[Chancellor of Germany]] in 1933, Göring was named as Minister Without Portfolio in the new government. One of his first acts as a cabinet minister was to oversee the creation of the [[Gestapo]], which he ceded to [[Heinrich Himmler]] in 1934. Following the establishment of the Nazi state, Göring amassed power and political capital to become the second most powerful man in Germany. In 1935, he was appointed commander-in-chief of the [[Luftwaffe]] (air force), a position he held until the final days of the regime. Upon being named [[Plenipotentiary]] of the [[Four Year Plan]] in 1936, Göring was entrusted with the task of mobilizing all sectors of the economy for war, an assignment which brought numerous government agencies under his control and helped him become one of the wealthiest men in the country. After the [[Battle of France|Fall of France]] in 1940, he was bestowed the specially created rank of ''[[Reichsmarschall]]'', which gave him seniority over all officers in [[Wehrmacht|Germany's armed forces]].
+
+By 1941, Göring was at the peak of his power and influence, and Hitler designated him as his successor and deputy in all his offices. As the [[Second World War]] progressed, Göring's standing with Hitler and with the German public declined after the Luftwaffe proved incapable of [[Defence of the Reich|preventing the Allied bombing of German cities]] and [[Battle of Stalingrad#Sixth Army surrounded|resupplying surrounded German forces in Stalingrad]]. Around that time, Göring increasingly withdrew from the military and political scene to devote his attention to collecting property and artwork, much of which was taken from Jewish victims of [[the Holocaust]]. Informed on 22 April 1945 that Hitler intended to commit suicide, Göring sent [[Göring Telegram|a telegram to Hitler]] requesting permission to assume control of the Reich. Considering it an act of treason, Hitler removed Göring from all his positions, expelled him from the party, and ordered his arrest.
+
+After the war, Göring was convicted of [[conspiracy]], [[crimes against peace]], [[war crime]]s and [[crimes against humanity]] at the [[Nuremberg trials]]. He was sentenced to death by hanging, but committed suicide by ingesting [[Cyanide poisoning|cyanide]] the night before the sentence was to be carried out.
+
+== Early life ==
+
+Göring was born on 12 January 1893{{sfn|Manvell|Fraenkel|2011|p=21}} at the Marienbad Sanatorium in [[Rosenheim]], [[Kingdom of Bavaria|Bavaria]]. His father, [[Heinrich Ernst Göring]] (31 October 1839&amp;nbsp;– 7 December 1913), a former cavalry officer, had been the first Governor-General of the German protectorate of [[South West Africa|South-West Africa]] (modern-day [[Namibia]]).{{sfn|Block|Trow|1971|pp=327–330}} Heinrich had five children from a previous marriage. Göring was the fourth of five children by Heinrich's second wife, Franziska Tiefenbrunn (1859–15 July 1943), a Bavarian peasant. Göring's elder siblings were Karl, Olga, and Paula; his younger brother was [[Albert Göring|Albert]]. At the time that Göring was born, his father was serving as consul general in [[Haiti]], and his mother had returned home briefly to give birth. She left the six-week-old baby with a friend in Bavaria and did not see the child again for three years, when she and Heinrich returned to Germany.{{sfn|Manvell|Fraenkel|2011|pp=21–22}}
+
+[[File:Bundesarchiv Bild 183-R25668, Hermann Göring.jpg|thumb|left|upright|Göring in 1907, at age 14]]
+
+Göring's godfather was Dr. Hermann Epenstein, a wealthy Jewish physician and businessman his father had met in Africa. Epenstein provided the Göring family, who were surviving on Heinrich's pension, first with a family home in Berlin-Friedenau,{{sfn|Freitag|2015|pp=25–45}} then in a small castle called Veldenstein, near [[Nuremberg]]. Göring's mother became Epenstein's mistress around this time, and remained so for some fifteen years. Epenstein acquired the minor title of [[Ritter]] (knight) von Epenstein through service and donations to the Crown.{{sfn|Manvell|Fraenkel|2011|pp=22–24}}
+
+Interested in a career as a soldier from a very early age, Göring enjoyed playing with toy soldiers and dressing up in a [[Boer]] uniform his father had given him. He was sent to boarding school at age eleven, where the food was poor and discipline was harsh. He sold a violin to pay for his train ticket home, and then took to his bed, feigning illness, until he was told he would not have to return.{{sfn|Manvell|Fraenkel|2011|pp=24–25}} He continued to enjoy war games, pretending to lay siege to the castle Veldenstein and studying [[Teutons|Teutonic]] legends and sagas. He became a mountain climber, scaling peaks in Germany, at the [[Mont Blanc massif]], and in the [[Austrian Alps]]. At sixteen he was sent to a military academy at [[Berlin Lichterfelde]], from which he graduated with distinction.{{sfn|Manvell|Fraenkel|2011|pp=24–28}} (During the Nuremberg war-crimes trials In 1946, psychologist [[Gustave Gilbert]] measured him as having an [[intelligence quotient]] (IQ) of 138.){{sfn|Maser|2004|p=392}}
+
+Göring joined the Prince Wilhelm Regiment (112th Infantry) of the [[Kingdom of Prussia|Prussian]] army in 1912. The next year his mother had a falling-out with Epenstein. The family was forced to leave Veldenstein and moved to [[Munich]]; Göring's father died shortly afterwards. When World War I began in August 1914, Göring was stationed at [[Mulhouse]] with his regiment.{{sfn|Manvell|Fraenkel|2011|pp=24–28}}
+
+== World War I ==
+{{stack|[[File:Göring.ogg|thumb|left|Film clip of Göring in the cockpit of a [[Fokker D.VII]] during World War I]]}}
+
+During the first year of World War I, Göring served with his infantry regiment in the area of [[Mülhausen]], a garrison town less than 2&amp;nbsp;km from the French frontier. He was hospitalized with [[rheumatism]], a result of the damp of trench warfare. While he was recovering, his friend [[Bruno Loerzer]] convinced him to transfer to what would become, by October 1916, the ''[[Luftstreitkräfte]]'' ("air combat forces") of the German army, but his request was turned down. Later that year, Göring flew as Loerzer's observer in ''[[Feldflieger Abteilung]]'' 25 (FFA 25)&amp;nbsp;– Göring had informally transferred himself. He was discovered and sentenced to three weeks' confinement to barracks, but the sentence was never carried out. By the time it was supposed to be imposed, Göring's association with Loerzer had been made official. They were assigned as a team to FFA 25 in the [[William, German Crown Prince|Crown Prince]]'s Fifth Army. They flew reconnaissance and bombing missions, for which the Crown Prince invested both Göring and Loerzer with the [[Iron Cross]], first class.{{sfn|Manvell|Fraenkel|2011|pp=28–29}}
+
+After completing the pilot's training course, Göring was assigned to [[Jagdstaffel 5|''Jagdstaffel'' 5]]. Seriously wounded in the hip in aerial combat, he took nearly a year to recover. He then was transferred to [[Jagdstaffel 26|''Jagdstaffel'' 26]], commanded by Loerzer, in February 1917. He steadily scored [[dogfight|air victories]] until May, when he was assigned to command [[Jagdstaffel 27|''Jagdstaffel'' 27]]. Serving with ''Jastas'' 5, 26, and 27, he continued to win victories. In addition to his Iron Crosses (1st and 2nd Class), he received the [[Order of the Zähringer Lion|Zaehring Lion]] with swords, the [[Friedrich Order]], the [[House Order of Hohenzollern]] with swords third class, and finally, in May 1918, the coveted ''[[Pour le Mérite]]''.{{sfn|Manvell|Fraenkel|2011|pp=31–32}} According to [[Hermann Dahlmann]], who knew both men, Göring had Loerzer lobby for the award.{{sfn|Franks|1993|pp= 95, 117, 156 }} He finished the war with [[List of World War I aces credited with 20 or more victories|22 victories]].{{sfn|Franks|1993|p=117}} A thorough post-war examination of [[Allies of World War I|Allied]] loss records showed that only two of his awarded victories were doubtful. Three were possible and 17 were certain, or highly likely.{{sfn|Kilduff|2013|pp=165–166}}
+
+On 7 July 1918, following the death of [[Wilhelm Reinhard (pilot)|Wilhelm Reinhard]], successor to [[Manfred von Richthofen]], Göring was made commander of the famed "Flying Circus", [[Jagdgeschwader 1 (World War I)|''Jagdgeschwader'' 1]].{{sfn|Manvell|Fraenkel|2011|pp=31–33}} His arrogance made him unpopular with the men of his squadron.{{sfn|Manvell|Fraenkel|2011|p=403}}
+
+In the last days of the war, Göring was repeatedly ordered to withdraw his squadron, first to [[Tellancourt]] airdrome, then to [[Darmstadt]]. At one point, he was ordered to surrender the aircraft to the Allies; he refused. Many of his pilots intentionally crash-landed their planes to keep them from falling into enemy hands.{{sfn|Manvell|Fraenkel|2011|pp=34–36}}
+
+Like many other German veterans, Göring was a proponent of the [[Stab-in-the-back legend]], the belief which held that the German Army had not really lost the war, but instead was betrayed by the civilian leadership: Marxists, Jews, and especially the [[Weimar Republic|Republicans]], who had overthrown the German monarchy.{{sfn|Manvell|Fraenkel|2011|p=39}}
+
+== After World War I ==
+
+Göring remained in aviation after the war. He tried [[barnstorming]] and briefly worked at [[Fokker]]. After spending most of 1919 living in [[Denmark]], he moved to Sweden and joined [[Svensk Lufttrafik]], a Swedish airline. Göring was often hired for private flights. During the winter of 1920–1921, he was hired by [[Count Eric von Rosen]] to fly him to his castle from Stockholm. Invited to spend the night, Göring may at this time have first seen the [[swastika]] emblem, which Rosen had set in the chimney piece as a family badge.{{sfn|Manvell|Fraenkel|2011|pp=39–41}}{{efn|name=swastika}}
+
+This was also the first time that Göring saw his future wife; the count introduced his sister-in-law, Baroness [[Carin Göring|Carin von Kantzow]] (''née'' Freiin von Fock). Estranged from her husband of ten years, she had an eight-year-old son. Göring was immediately infatuated and asked her to meet him in Stockholm. They arranged a visit at the home of her parents and spent much time together through 1921, when Göring left for Munich to take political science at the university. Carin obtained a divorce, followed Göring to Munich, and married him on 3 February 1922.{{sfn|Manvell|Fraenkel|2011|p=43}} Their first home together was a hunting lodge at Hochkreuth in the [[Bavarian Alps]], near [[Bayrischzell]], some {{convert|80|km|mi}} from Munich.{{sfn|Manvell|Fraenkel|2011|pp=41, 43}} After Göring met [[Adolf Hitler]] and joined the [[Nazi Party]] (NSDAP) in 1922, they moved to Obermenzing, a suburb of Munich.{{sfn|Manvell|Fraenkel|2011|pp=45, 47}}
+
+== Early Nazi career ==
+[[File:Hitler 1928.jpg|left|upright=1.0|thumb|Göring (left) stands in front of [[Hitler]] at a Nazi rally in [[Nuremberg]] (c. 1928)]]
+
+Göring joined the Nazi Party in 1922 after hearing a speech by Hitler.{{sfn|Manvell|Fraenkel|2011|pp=45, 47}}{{sfn|Miller|2006|p=426}} He was given command of the ''[[Sturmabteilung]]'' (SA) as the ''[[Oberster SA-Führer]]'' in 1923.{{sfn|Kershaw|2008|p=112}} He was later appointed an ''SA-[[Gruppenführer]]'' (Lieutenant General) and held this rank on the SA rolls until 1945. At this time, Carin—who liked Hitler—often played hostess to meetings of leading Nazis, including her husband, Hitler, [[Rudolf Hess]], [[Alfred Rosenberg]], and [[Ernst Röhm]].{{sfn|Manvell|Fraenkel|2011|p=47}} Hitler later recalled his early association with Göring:
+
+{{quote|text="I liked him. I made him the head of my SA. He is the only one of its heads that ran the SA properly. I gave him a dishevelled rabble. In a very short time he had organised a [[Fallschirm-Panzer Division 1 Hermann Göring|division]] of 11,000 men."{{sfn|Hitler|1988|p=168}}|sign=Adolf Hitler|source=}}
+
+Hitler and the Nazi Party held mass meetings and rallies in Munich and elsewhere during the early 1920s, attempting to gain supporters in a bid for political power.{{sfn|Manvell|Fraenkel|2011|pp=49–51}} Inspired by [[Benito Mussolini]]'s [[March on Rome]], the Nazis attempted to seize power on 8–9 November 1923 in a failed coup known as the [[Beer Hall Putsch]]. Göring, who was with Hitler heading up the march to the War Ministry, was shot in the leg. Fourteen Nazis and four policemen were killed; many top Nazis, including Hitler, were arrested.{{sfn|Kershaw|2008|p=131}} With Carin's help, Göring was smuggled to [[Innsbruck]], where he received surgery and was given morphine for the pain. He remained in hospital until 24 December.{{sfn|Manvell|Fraenkel|2011|pp=57–58}} This was the beginning of his morphine addiction, which lasted until his imprisonment at Nuremberg.{{sfn|Speer|1971|p=644}} Meanwhile, the authorities in Munich declared Göring a wanted man. The Görings—acutely short of funds and reliant on the good will of Nazi sympathizers abroad—moved from Austria to [[Venice]]. In May 1924 they visited Rome, via [[Florence]] and [[Siena]]. Göring met Mussolini, who expressed an interest in meeting Hitler, who was by then in prison.{{sfn|Manvell|Fraenkel|2011|pp=59–60}}
+
+Personal problems continued to multiply. By 1925, Carin's mother was ill. The Görings—with difficulty—raised the money in the spring of 1925 for a journey to Sweden via Austria, [[Czechoslovakia]], Poland, and [[Free City of Danzig|Danzig]] (now Gdańsk). Göring had become a violent morphine addict; Carin's family were shocked by his deterioration. Carin, who was ill with [[epilepsy]] and a weak heart, had to allow the doctors to take charge of Göring; her son was taken by his father. Göring was certified a dangerous drug addict and was placed in Långbro asylum on 1 September 1925.{{sfn|Manvell|Fraenkel|2011|p=61}} He was violent to the point where he had to be confined to a [[straitjacket]], but his psychiatrist felt he was sane; the condition was caused solely by the morphine.{{sfn|Manvell|Fraenkel|2011|p=404}} Weaned off the drug, he left the facility briefly, but had to return for further treatment. He returned to Germany when an amnesty was declared in 1927 and resumed working in the aircraft industry.{{sfn|Manvell|Fraenkel|2011|p=62, 64}} Hitler, who had written ''[[Mein Kampf]]'' while in prison, had been released in December 1924.{{sfn|Kershaw|2008|p=160}} Carin Göring, ill with [[epilepsy]] and tuberculosis,{{sfn|Shirer|1960|p=146}} died of heart failure on 17 October 1931.
+
+Meanwhile, the NSDAP was in a period of rebuilding and waiting. The economy had recovered, which meant fewer opportunities for the Nazis to agitate for change. The SA was reorganised, but with [[Franz Pfeffer von Salomon]] as its head rather than Göring, and the ''[[Schutzstaffel]]'' (SS) was founded in 1925, initially as a bodyguard for Hitler. Membership in the party increased from 27,000 in 1925 to 108,000 in 1928 and 178,000 in 1929. In [[German federal election, 1928|the May 1928 elections]] the party only obtained twelve seats out of an available 491.{{sfn|Shirer|1960|p=118–121}} Göring was elected as a representative from Bavaria.{{sfn|Manvell|Fraenkel|2011|p=66}} The [[Wall Street Crash of 1929]] led to a disastrous downturn in the German economy, and [[German federal election, 1930|in the next election]], the NSDAP won 6,409,600 votes and 107 seats in the [[Reichstag (Weimar Republic)|Reichstag]].{{sfn|Shirer|1960|p=136,138}} In May 1931, Hitler sent Göring on a mission to the [[Holy See|Vatican]], where he met the future [[Pope Pius XII]].{{sfn|Manvell|Fraenkel|2011|p=74}}
+
+In the [[German federal election, July 1932|July 1932 election]], the Nazis won 230 seats to become far and away the largest party in the Reichstag. By longstanding tradition, the Nazis were thus entitled to select the President of the Reichstag, and were able to elect Göring for the post.{{sfn|Evans|2003|p=297}}
+
+== Reichstag fire ==
+The [[Reichstag fire]] occurred on the night of 27 February 1933. Göring was one of the first to arrive on the scene. [[Marinus van der Lubbe]]—a communist radical—was arrested and claimed sole responsibility for the fire. Göring immediately called for a crackdown on communists.{{sfn|Evans|2003|p=329–330}}
+
+The Nazis took advantage of the fire to advance their own political aims. The [[Reichstag Fire Decree]], passed the next day on Hitler's urging, suspended basic rights and allowed detention without trial. Activities of the [[Communist Party of Germany|German Communist Party]] were suppressed, and some 4,000 communist party members were arrested.{{sfn|Shirer|1960|p=194}} Göring demanded that the detainees should be shot, but [[Rudolf Diels]], head of the Prussian political police, ignored the order.{{sfn|Evans|2003|p=331}} Some researchers, including [[William L. Shirer]] and [[Alan Bullock]], are of the opinion that the NSDAP itself was responsible for starting the fire.{{sfn|Shirer|1960|p=192}}{{sfn|Bullock|1999|p=262}}
+
+At the [[Nuremberg trials]], General [[Franz Halder]] testified that Göring admitted responsibility for starting the fire. He said that, at a luncheon held on Hitler's birthday in 1942, Göring said, "The only one who really knows about the Reichstag is I, because I set it on fire!"{{sfn|Shirer|1960|p=193}} In his own Nuremberg testimony, Göring denied this story.{{sfn|Nuremberg Trial Proceedings, 18 March 1946}}
+
+== Second marriage ==
+During the early 1930s, Göring was often in the company of [[Emmy Göring|Emmy Sonnemann]], an actress from [[Hamburg]].{{sfn|Manvell|Fraenkel|2011|p=111}} They were married on 10 April 1935 in Berlin; the wedding was celebrated on a huge scale. A large reception was held the night before at the Berlin Opera House. Fighter aircraft flew overhead on the night of the reception and the day of the ceremony,{{sfn|Manvell|Fraenkel|2011|p=139–140}} at which Hitler was best man.{{sfn|Gunther|1940|p=63}} Göring's daughter, [[Edda Göring|Edda]], was born on 2 June 1938.{{sfn|Manvell|Fraenkel|2011|p=187}}
+
+== Nazi potentate ==
+{{Nazism sidebar}}
+
+When Hitler was named [[chancellor of Germany]] in January 1933, Göring was appointed as [[minister without portfolio]], Minister of the Interior for Prussia, and Reich Commissioner of Aviation.{{sfn|Manvell|Fraenkel|2011|p=92}} [[Wilhelm Frick]] was named Reich Interior Minister. Frick and head of the ''[[Schutzstaffel]]'' (SS) [[Heinrich Himmler]] hoped to create a unified police force for all of Germany, but Göring on 30 November 1933 established a Prussian police force, with [[Rudolf Diels]] at its head. The force was called the ''Geheime Staatspolizei'', or [[Gestapo]]. Göring, thinking that Diels was not ruthless enough to use the Gestapo effectively to counteract the power of the SA, handed over control of the Gestapo to Himmler on 20 April 1934.{{sfn|Evans|2005|p=54}} By this time, the SA numbered over two million men.{{sfn|Goldhagen|1996|p=95}}
+
+Hitler was deeply concerned that [[Ernst Röhm]], the chief of the SA, was planning a coup. Himmler and [[Reinhard Heydrich]] plotted with Göring to use the Gestapo and SS to crush the SA.{{sfn|Kershaw|2008|p=306}} Members of the SA got wind of the proposed action and thousands of them took to the streets in violent demonstrations on the night of 29 June 1934. Enraged, Hitler ordered the arrest of the SA leadership. Röhm was shot dead in his cell when he refused to commit suicide; Göring personally went over the lists of detainees—numbering in the thousands—and determined who else should be shot. At least 85 people were killed in the period of 30 June to 2 July, which is now known as the [[Night of the Long Knives]].{{sfn|Evans|2005|pp=31–35, 39}} Hitler admitted in the Reichstag on 13 July that the killings had been entirely illegal, but claimed a plot had been under way to overthrow the Reich. A retroactive law was passed making the action legal. Any criticism was met with arrests.{{sfn|Evans|2005|pp=38}}
+
+One of the terms of the [[Treaty of Versailles]], which had been in place since the end of World War I, stated that Germany was not allowed to maintain an air force. After the 1926 signing of the [[Kellogg–Briand Pact]], police aircraft were permitted. Göring was appointed Air Traffic Minister in May 1933. Germany began to accumulate aircraft in violation of the Treaty, and in 1935 the existence of the [[Luftwaffe]] was formally acknowledged,{{sfn|Manvell|Fraenkel|2011|pp=116–117}} with Göring as Reich Aviation Minister.{{sfn|Evans|2005|p=364}}
+
+[[File:Bundesarchiv Bild 183-C01410, Berlin, Göring auf der "Grünen Woche".jpg|thumb|left|Göring during the ''[[Berlin International Green Week|Grüne Woche]]'' in Berlin, 1937]]
+
+During a cabinet meeting in September 1936, Göring and Hitler announced that the German rearmament programme must be sped up. On 18 October, Hitler named Göring as [[Plenipotentiary]] of the [[Four Year Plan]] to undertake this task. Göring created a new organisation to administer the Plan and drew the ministries of labour and agriculture under its umbrella. He bypassed the economics ministry in his policy-making decisions, to the chagrin of [[Hjalmar Schacht]], the minister in charge. Huge expenditures were made on rearmament, in spite of growing deficits.{{sfn|Evans|2005|pp=357–360}} Schacht resigned on 8 December 1937,{{sfn|Shirer|1960|p=311}} and [[Walther Funk]] took over the position, as well as control of the [[Reichsbank]]. In this way, both of these institutions were brought under Göring's control under the auspices of the Four Year Plan.{{sfn|Evans|2005|p=361}} In July 1937, the [[Reichswerke Hermann Göring]] was established under state ownership – though led by Göring – with the aim of boosting steel production beyond the level which private enterprise could economically provide.{{sfn|Overy|2002|p=145}}
+[[File:Bundesarchiv Bild 102-17986, Schorfheide, Lord Edward Frederik Halifax, Hermann Göring crop.jpg|200px|thumb|Göring with [[Edward Wood, 1st Earl of Halifax|Lord Halifax]] at Schorfheide, 20 November 1937]]
+
+In 1938, Göring was involved in the [[Blomberg–Fritsch Affair]], which led to the resignations of the War Minister, ''[[Generalfeldmarschall]]'' [[Werner von Blomberg]], and the army commander, General [[Werner von Fritsch]]. Göring had acted as witness at Blomberg's wedding to Margarethe Gruhn, a 26-year-old typist, on 12 January 1938. Information received from the police showed that the young bride was a prostitute.{{sfn|Gerwarth|2011|p=116}} Göring felt obligated to tell Hitler, but also saw this event as an opportunity to dispose of Blomberg. Blomberg was forced to resign. Göring did not want Fritsch to be appointed to that position and thus be his superior. Several days later, Heydrich revealed a file on Fritsch that contained allegations of homosexual activity and blackmail. The charges were later proven to be false, but Fritsch had lost Hitler's trust and was forced to resign.{{sfn|Gerwarth|2011|pp=116, 117}} Hitler used the dismissals as an opportunity to reshuffle the leadership of the military. Göring asked for the post of War Minister, but was turned down; he was appointed to the rank of ''Generalfeldmarschall''. Hitler took over as supreme commander of the armed forces and created subordinate posts to head the three main branches of service.{{sfn|Evans|2005|pp=642–644}}
+
+{{main article|Anschluss}}
+As minister in charge of the Four Year Plan, Göring became concerned with the lack of natural resources in Germany, and began pushing for Austria to be incorporated into the Reich. The province of [[Styria]] had rich iron ore deposits, and the country as a whole was home to many skilled labourers that would also be useful. Hitler had always been in favour of a takeover of Austria, his native country. He met on 12 February 1938 with Austrian chancellor [[Kurt Schuschnigg]], threatening invasion if peaceful unification was not forthcoming. The Nazi party was made legal in Austria to gain a power base, and a referendum on reunification was scheduled for March. When Hitler did not approve of the wording of the plebiscite, Göring telephoned Schuschnigg and Austrian head of state [[Wilhelm Miklas]] to demand Schuschnigg's resignation, threatening invasion by German troops and civil unrest by the Austrian Nazi Party members. Schuschnigg resigned on 11 March and the plebiscite was cancelled. By 5:30 the next morning, German troops that had been massing on the border marched into Austria, meeting no resistance.{{sfn|Evans|2005|pp=646–652}}
+[[File:Bundesarchiv Bild 183-2004-1202-504, Berlin, Adolf Hitler und Hermann Göring.jpg|thumb|Adolf Hitler with Göring on balcony of the Chancellery, Berlin, 16 March 1938]]
+
+{{main article|German occupation of Czechoslovakia}}
+Although [[Joachim von Ribbentrop]] had been named Foreign Minister in February 1938, Göring continued to involve himself in foreign affairs.{{sfn|Manvell|Fraenkel|2011|p=187}} That July, he contacted the British government with the idea that he should make an official visit to discuss Germany's intentions for [[Czechoslovakia]]. [[Neville Chamberlain]] was in favour of a meeting, and there was talk of a pact being signed between Britain and Germany. In February 1938, Göring visited Warsaw to quell rumours about the upcoming invasion of Poland. He had conversations with the Hungarian government that summer as well, discussing their potential role in an invasion of Czechoslovakia. At the [[Nuremberg Rally]] that September, Göring and other speakers denounced the Czechs as an inferior race that must be conquered.{{sfn|Manvell|Fraenkel|2011|p=194–197}} Chamberlain met with Hitler in a series of meetings that led to the signing of the [[Munich Agreement]] (29 September 1938), which turned over control of the [[Sudetenland]] to Germany.{{sfn|Evans|2005|p=674}} In March 1939, Göring threatened Czechoslovak president [[Emil Hácha]] with the bombing of [[Prague]]. Hácha then agreed to sign a communique accepting the German occupation of the remainder of [[Bohemia]] and [[Moravia]].{{sfn|Noakes|Pridham|2001|p=119}}
+
+Although many in the party disliked him,{{sfn|Gunther|1940|p=19}} before the war Göring enjoyed widespread personal popularity among the German public because of his perceived sociability, colour and humour.{{sfn|Overy|2002|p=73}}{{sfn|Overy|2002|p=236}} As the Nazi leader most responsible for economic matters, he presented himself as a champion of national interests over allegedly corrupt big business and the old German elite. The Nazi press was on Göring's side. Other leaders, such as Hess and Ribbentrop, were envious of his popularity.{{sfn|Overy|2002|p=73}} In Britain and the United States, some viewed Göring as more acceptable than the other Nazis and as a possible mediator between the western democracies and Hitler.{{sfn|Overy|2002|p=236}}
+
+== World War II ==
+
+=== Success on all fronts ===
+
+Göring and other senior officers were concerned that Germany was not yet ready for war, but Hitler insisted on pushing ahead as soon as possible.{{sfn|Manvell|Fraenkel|2011|pp=197, 211}} The invasion of Poland, the opening action of World War II, began at dawn on 1 September 1939.{{sfn|Shirer|1960|p=597}} Later in the day, speaking to the ''Reichstag'', Hitler designated Göring as his successor as Führer of all Germany, "If anything should befall me",{{sfn|Shirer|1960|p=599}} with Hess as the second alternate.{{sfn|Gunther|1940|p=19}} Big German victories followed one after the other in quick succession. With the help of the Luftwaffe, the [[Polish Air Force]] was defeated within a week.{{sfn|Hooton|1999|p=177–189}} The ''[[Fallschirmjäger]]'' seized vital airfields in [[Norway]] and captured [[Fort Eben-Emael]] in Belgium. Göring's Luftwaffe played critical roles in the [[Battle of the Netherlands|Battles of the Netherlands]], [[Battle of Belgium|Belgium]] and [[Battle of France|France]] in May 1940.{{sfn|Shirer|1960|pp=721, 723}}
+
+After the [[Fall of France]], Hitler awarded Göring the [[Grand Cross of the Iron Cross]] for his successful leadership.{{sfn|Fellgiebel|2000|p=198}} During the [[1940 Field Marshal Ceremony]], Hitler promoted Göring to the rank of ''[[Reichsmarschall]] des Grossdeutschen Reiches'' (Reich Marshal of the Greater German Reich), a special rank which made him senior to all field marshals in the military, including the Luftwaffe. As a result of his promotion, he was then the top ranking soldier of all Germany until the end of the war. Göring had already received the [[Knight's Cross of the Iron Cross]] on 30 September 1939 as Commander in Chief of the Luftwaffe.{{sfn|Fellgiebel|2000|p=198}}
+
+The UK had declared war on Germany immediately after the invasion of Poland. In July 1940, Hitler began preparations for an invasion of Britain. As part of the plan, the [[Royal Air Force]] (RAF) had to be neutralized. Bombing raids commenced on British air installations and on cities and centres of industry.{{sfn|Evans|2008|pp=113, 136, 143}} Göring had by then already announced in a radio speech, "If as much as a single enemy aircraft flies over German soil, my name is Meier!",{{sfn|Oestermann|2001|p=157}} something that would return to haunt him, when the RAF began bombing German cities on 11 May 1940.{{sfn|Selwood|2015}} Though he was confident the Luftwaffe could defeat the RAF within days, Göring, like Admiral [[Erich Raeder]], commander-in-chief of the ''[[Kriegsmarine]]'' (navy),{{sfn|Raeder|2001|pp=324–325}} was pessimistic about the chance of success of the planned invasion (codenamed [[Operation Sea Lion]]).{{sfn|Bungay|2000|pp=337}} Göring hoped that a victory in the air would be enough to force peace without an invasion. The campaign failed, and Sea Lion was postponed indefinitely on 17 September 1940.{{sfn|Evans|2008|p=144}} After their defeat in the [[Battle of Britain]], the Luftwaffe attempted to defeat Britain via [[strategic bombing]]. On 12 October 1940 Hitler cancelled Sea Lion due to the onset of winter.{{sfn|Taylor|1965|p=500}} By the end of the year, it was clear that British morale was not being shaken by [[the Blitz]], though the bombings continued through May 1941.{{sfn|Evans|2008|p=145}}
+
+=== Decline on all fronts ===
+[[File:Bundesarchiv Bild 101III-Reprich-012-08, Wolfschanze, Hitler, Ley, Porsche und Göring.jpg|thumb|Hitler meeting Göring and automotive engineer [[Ferdinand Porsche]] at the ''[[Wolf's Lair]]'' in 1942]]
+In spite of the [[Molotov–Ribbentrop Pact]], signed in 1939, Nazi Germany began [[Operation Barbarossa]]—the invasion of the Soviet Union—on 22 June 1941. Initially the Luftwaffe was at an advantage, destroying thousands of Soviet aircraft in the first month of fighting.{{sfn|Evans|2008|p=178–179}} Hitler and his top staff were sure that the campaign would be over by Christmas, and no provisions were made for reserves of men or equipment.{{sfn|Evans|2008|p=187}} But, by July, the Germans had only 1,000 planes remaining in operation, and their troop losses were over 213,000 men. The choice was made to concentrate the attack on only one part of the vast front; efforts would be directed at capturing Moscow.{{sfn|Evans|2008|p=201}} After the long, but successful, [[Battle of Smolensk (1941)|Battle of Smolensk]], Hitler ordered [[Army Group Centre]] to halt its advance to Moscow and temporarily diverted its Panzer groups north and south to aid in the encirclement of [[Leningrad]] and [[Kiev]].{{sfn|Stolfi|1982}} The pause provided the Red Army with an opportunity to mobilize fresh reserves; historian Russel Stolfi considers it to be one of the major factors that caused the failure of the Moscow offensive, which was resumed in October 1941 with the [[Battle of Moscow]].{{sfn|Stolfi|1982}} Poor weather conditions, fuel shortages, a delay in building aircraft bases in Eastern Europe, and overstretched supply lines were also factors. Hitler did not give permission for even a partial retreat until mid-January 1942; by this time the losses were comparable to those of the [[French invasion of Russia]] in 1812.{{sfn|Evans|2008|pp=207–213}}
+
+Hitler decided that the summer 1942 campaign would be concentrated in the south; efforts would be made to capture the oilfields in the [[Caucasus]].{{sfn|Evans|2008|pp=404–405}} The [[Battle of Stalingrad]], a major turning point of the war,{{sfn|Evans|2008|p=421}} began on 23 August 1942 with a bombing campaign by the Luftwaffe.{{sfn|Evans|2008|p=409}} The [[6th Army (Wehrmacht)|Sixth Army]] entered the city, but because of its location on the front line, it was still possible for the Soviets to encircle and trap it there without reinforcements or supplies. When the Sixth Army was surrounded by the end of November in [[Operation Uranus]], Göring promised that the Luftwaffe would be able to deliver a minimum of 300 tons of supplies to the trapped men every day. On the basis of these assurances, Hitler demanded that there be no retreat; they were to fight to the last man. Though some airlifts were able to get through, the amount of supplies delivered never exceeded 120 tons per day.{{sfn|Evans|2008|pp=412–413}}{{sfn|Speer|1971|p=329}} The remnants of the German Sixth Army—some 91,000 men out of an army of 285,000—surrendered in early February 1943; only 5,000 of these captives survived the Russian prisoner of war camps to see Germany again.{{sfn|Shirer|1960|p=932}}
+
+=== War over Germany ===
+[[File:Bundesarchiv Bild 146-1977-149-13, Hermann Göring, Adolf Hitler, Albert Speer.jpg|thumb|Göring with Hitler and [[Albert Speer]], 10 August 1943]]
+Meanwhile, the strength of the US and British bomber fleets had increased. Based in Britain, they began [[Defence of the Reich|operations against German targets]]. The first thousand-bomber raid was staged [[Bombing of Cologne in World War II|on Cologne]] on 30 May 1942.{{sfn|Evans|2008|p=438, 441}} Air raids continued on targets further from England after auxiliary fuel tanks were installed on US [[fighter aircraft]]. Göring refused to believe reports that American fighters had been shot down as far east as [[Aachen]] in winter 1943. His reputation began to decline.{{sfn|Speer|1971|p=378}}
+
+The American [[P-51 Mustang]], with a [[combat radius]] of over {{convert|1800|mi}} when using underwing [[drop tank]]s, began to escort the bombers in large formations to and from the target area in early 1944. From that point onwards, the Luftwaffe began to suffer casualties in aircrews it could not sufficiently replace. By targeting oil refineries and rail communications, [[Allies of World War II|Allied]] bombers crippled the German war effort by late 1944.{{sfn|Evans|2008|p=461}} German civilians blamed Göring for his failure to protect the homeland.{{sfn|Evans|2008|p=447}} Hitler began excluding him from conferences, but continued him in his positions at the head of the Luftwaffe and as plenipotentiary of the Four Year Plan.{{sfn|Manvell|Fraenkel|2011|pp=296, 297, 299}} As he lost Hitler's trust, Göring began to spend more time at his various residences.{{sfn|Evans|2008|p=510}} On [[D-Day]] (6 June 1944), the Luftwaffe only had some 300 fighters and a small number of bombers in the area of the landings; the Allies had a total strength of 11,000 aircraft.{{sfn|Manvell|Fraenkel|2011|pp=295, 302}}
+
+=== End of the war ===
+{{see also|Göring Telegram}}
+[[File:Goeringcaptivity.jpg|thumb|Göring in captivity 9 May 1945]]
+
+As the Soviets approached Berlin, Hitler's efforts to organise the defence of the city became ever more meaningless and futile.{{sfn|Evans|2008|p=725}} His last birthday, celebrated at the ''[[Führerbunker]]'' in Berlin on 20 April 1945, was the occasion for leave-taking for many top Nazis, Göring included. By this time, Carinhall had been evacuated, the building destroyed,{{sfn|Manvell|Fraenkel|2011|p=310}} and its art treasures moved to [[Berchtesgaden]] and elsewhere.{{sfn|Evans|2008|p=722}} Göring arrived at his estate at [[Obersalzberg]] on 22 April, the same day that Hitler, in a lengthy diatribe against his generals, first publicly admitted that the war was lost and that he intended to remain in Berlin to the end and then commit suicide.{{sfn|Evans|2008|p=723}} He also stated that Göring was in a better position to negotiate a peace settlement. In 1941—a week after the start of the Soviet invasion—Hitler had issued a decree naming Göring his successor in the event of his death.{{sfn|Shirer|1960|p=1115}}
+
+OKW operations chief [[Alfred Jodl]] was present for Hitler's rant, and notified Göring's chief of staff, [[Karl Koller (general)|Karl Koller]], at a meeting a few hours later. Sensing its implications, Koller immediately flew to Berchtesgaden to notify Göring, who feared being accused of treason if he tried to take power. On the other hand, if he did nothing, he feared being accused of dereliction of duty. After some hesitation, Göring reviewed his copy of the 1941 decree naming him Hitler's successor. It not only placed Göring first in the line of succession, but also stated that, if Hitler ever lost his freedom of action, Göring had complete authority to act on Hitler's behalf as his deputy. After conferring with Koller and [[Hans Lammers]], the state secretary of the Reich Chancellery, Göring concluded that, by remaining in Berlin to face certain death, Hitler had incapacitated himself from governing. All agreed that Göring therefore had a clear duty to take power in Hitler's stead.{{sfn|Shirer|1960|p=1116}} He was also motivated by fears that his rival, [[Martin Bormann]], would seize power upon Hitler's death and would have him killed as a traitor. With this in mind, Göring sent a carefully worded telegram asking Hitler for permission to take over as the leader of Germany, stressing that he would be acting as Hitler's deputy. He added that, if Hitler did not reply by 22:00 that night (23 April), he would assume that Hitler had indeed lost his freedom of action, and would assume leadership of the Reich.{{sfn|Manvell|Fraenkel|2011|p=315}}
+
+[[File:SFP 186 - Hermann Göring.ogv|left|thumb|Göring after his capture (May 1945)]]
+
+The telegram was intercepted by Bormann, who convinced Hitler that Göring was a traitor and that the telegram was a demand to resign or be overthrown. Hitler sent a reply to Göring{{mdash}}prepared with Bormann's help{{mdash}}informing him that, unless he resigned immediately, he would be executed for high treason. Soon afterward, Hitler removed Göring from all of his offices and ordered Göring, his staff, and Lammers placed under house arrest at Obersalzberg.{{sfn|Shirer|1960|p=1118}}{{sfn|Evans|2008|p=724}} Bormann made an announcement over the radio that Göring had resigned for health reasons.{{sfn|Manvell|Fraenkel|2011|p=318}}
+
+By 26 April, the complex at Obersalzberg was under attack by the Allies, so Göring was moved to [[Burg Mauterndorf|his castle at Mauterndorf]]. In his [[Last will and testament of Adolf Hitler|last will and testament]], Hitler expelled Göring from the party and formally rescinded the decree making him his successor. He then appointed [[Karl Dönitz]], the Navy's commander-in-chief, as president of the Reich and commander-in-chief of the armed forces. Hitler and his wife, [[Eva Braun]], [[Death of Adolf Hitler|committed suicide]] on 30 April 1945, a few hours after a hastily arranged wedding. Göring was freed on 5 May by a passing Luftwaffe unit, and he made his way to the US lines in hopes of surrendering to them rather than to the Soviets. He was taken into custody near [[Radstadt]] on 6 May by elements of the [[36th Infantry Division (United States)|36th Infantry Division]] of the [[United States Army|US Army]].{{sfn|Manvell|Fraenkel|2011|pp=320–325}} This move likely saved Göring's life; Bormann had ordered him executed if Berlin had fallen.{{sfn|Shirer|1960|p=1128}}
+
+== Trial and death ==
+{{main article|Nuremberg trials}}
+
+Göring was flown to [[Camp Ashcan]], a temporary prisoner-of-war camp housed in the Palace Hotel at [[Mondorf-les-Bains]], Luxembourg. Here he was weaned off [[dihydrocodeine]] (a mild morphine derivative)—he had been taking the equivalent of three or four grains (260 to 320&amp;nbsp;mg) of morphine a day—and was put on a strict diet; he lost {{convert|60|lb}}. His IQ was tested while in custody and found to be 138.{{sfn|Gilbert|1995|p=31}} Top Nazi officials were transferred in September to [[Nuremberg]], which was to be the location of a series of military tribunals beginning in November.{{sfn|Manvell|Fraenkel|2011|pp=329–331}}
+
+[[File:Defendants in the dock at the Nuremberg Trials.jpg|thumb|left|275px|Göring (first row, far left) at the [[Nuremberg trial]]]]
+
+Göring was the second-highest-ranking Nazi official tried at Nuremberg, behind Reich President (former Admiral) Karl Dönitz. The prosecution levelled an indictment of four charges, including a charge of conspiracy; waging a war of aggression; war crimes, including the plundering and removal to Germany of works of art and other property; and crimes against humanity, including the disappearance of political and other opponents under the ''[[Nacht und Nebel]]'' (Night and Fog) decree; the torture and ill-treatment of prisoners of war; and the murder and enslavement of civilians, including what was at the time estimated to be 5,700,000 Jews. Not permitted to present a lengthy statement, Göring declared himself to be "in the sense of the indictment not guilty".{{sfn|Manvell|Fraenkel|2011|pp=336–337}} The trial lasted 218 days; the prosecution presented their case from November through March, and Göring's defence{{mdash}}the first to be presented{{mdash}}lasted from 8 to 22 March. The sentences were read out on 30 September 1946.{{sfn|Manvell|Fraenkel|2011|p=337}} Göring, forced to remain silent while seated in the dock, communicated his opinions about the proceedings using gestures, shaking his head, or laughing. He constantly took notes and whispered with the other defendants, and tried to control the erratic behaviour of [[Rudolf Hess|Hess]], who was seated beside him.{{sfn|Manvell|Fraenkel|2011|p=339}} During breaks in the proceedings, Göring tried to dominate the other defendants, and he was eventually placed in solitary confinement when he attempted to influence their testimony.{{sfn|Manvell|Fraenkel|2011|pp=341–342}} Göring told US psychiatrist [[Leon Goldensohn]] that the court was "stupid" to try "little fellows" like Funk and [[Ernst Kaltenbrunner|Kaltenbrunner]] instead of letting Göring take all the blame on himself.{{sfn|Goldensohn|2004|}} He also claimed that he had never heard of most of the other defendants before the trial.{{sfn|Goldensohn|2004|}}
+
+Captain [[Gustave Gilbert]], a German-speaking US intelligence officer and psychologist, interviewed Göring and the others in prison during the trial.{{sfn|Manvell|Fraenkel|2011|p=339}} Gilbert kept a journal, which he later published as ''[[Nuremberg Diary]]''. Here he describes Göring on the evening of 18 April 1946, as the trials were halted for a three-day Easter recess:
+
+[[File:Hermann Goering - Nuremberg2.jpg|thumb|upright=1.02|Göring at the Nuremberg Trials]]
+
+{{quote|sign=Cpt. Gustave Gilbert|source=|"Sweating in his cell in the evening, Göring was defensive and deflated and not very happy over the turn the trial was taking. He said that he had no control over the actions or the defense of the others, and that he had never been anti-Semitic himself, had not believed these atrocities, and that several Jews had offered to testify on his behalf."{{sfn|Gilbert|1995|p=278}}}}
+
+On several occasions over the course of the trial, the prosecution showed films of the [[Nazi concentration camps|concentration camps]] and other atrocities. Everyone present, including Göring, found the contents of the films shocking; he said that the films must have been faked. Witnesses, including Paul Koerner and [[Erhard Milch]], tried to portray Göring as a peaceful moderate. Milch stated it had been impossible to oppose Hitler or disobey his orders; to do so would likely have meant death for oneself and one's family.{{sfn|Manvell|Fraenkel|2011|pp=343–347}} When testifying on his own behalf, Göring emphasised his loyalty to Hitler, and claimed to know nothing about what had happened in the concentration camps, which were under Himmler's control. He gave evasive, convoluted answers to direct questions and had plausible excuses for all his actions during the war. He used the witness stand as a venue to expound at great length on his own role in the Reich, attempting to present himself as a peacemaker and diplomat before the outbreak of the war.{{sfn|Manvell|Fraenkel|2011|pp=359–367}} During cross-examination, chief prosecutor [[Robert H. Jackson]] read out the minutes of a meeting that had been held shortly after [[Kristallnacht]], a major [[pogrom]] in November 1938. At the meeting, Göring had plotted to confiscate Jewish property in the wake of the pogrom.{{sfn|Manvell|Fraenkel|2011|p=369}} Later, [[David Maxwell Fyfe, 1st Earl of Kilmuir|David Maxwell-Fyfe]] proved it was impossible for Göring not to have known about the [[Stalag Luft III murders]]{{mdash}}the shooting of fifty airmen who had been recaptured after escaping from [[Stalag Luft III]]{{mdash}}in time to have prevented the killings.{{sfn|Manvell|Fraenkel|2011|p=371}} He also presented clear evidence that Göring knew about the extermination of the [[Hungarian Jews]].{{sfn|Manvell|Fraenkel|2011|p=374–375}}
+
+[[File:Goering-corpse.jpg|thumb|left|250px|Göring's corpse]]
+
+Göring was found guilty on all four counts and was sentenced to death by hanging. The judgment stated:
+
+{{quote|There is nothing to be said in mitigation. For Göring was often, indeed almost always, the moving force, second only to his leader. He was the leading war aggressor, both as political and as military leader; he was the director of the slave labour programme and the creator of the oppressive programme against the Jews and other races, at home and abroad. All of these crimes he has frankly admitted. On some specific cases there may be conflict of testimony, but in terms of the broad outline, his own admissions are more than sufficiently wide to be conclusive of his guilt. His guilt is unique in its enormity. The record discloses no excuses for this man.{{sfn|International Military Tribunal|1946}}}}
+
+Göring made an appeal asking to be shot as a soldier instead of hanged as a common criminal, but the court refused.{{sfn|Manvell|Fraenkel|2011|p=392–393}} Defying the sentence imposed by his captors, he committed suicide with a [[potassium cyanide]] capsule the night before he was to be hanged.{{sfn|Kershaw|2008|p=964}}
+
+One theory as to how Göring obtained the poison holds that US Army Lieutenant Jack G. Wheelis, who was stationed at the Nuremberg Trials, retrieved the capsules from their hiding place among Göring's personal effects that had been confiscated by the Army and handed them over to the prisoner,{{sfn|Taylor|1992|p=623}} after being bribed by Göring, who gave him his gold watch, pen, and cigarette case.{{sfn|Botting|2006|p=280}} In 2005, former US Army Private Herbert Lee Stivers, who served in the [[1st Infantry Division (United States)|1st Infantry Division]]'s [[26th Infantry Regiment]]{{mdash}}the honour guard for the Nuremberg Trials{{mdash}}claimed he gave Göring "medicine" hidden inside a fountain pen that a German woman had asked him to smuggle into the prison. Stivers later said that he did not know what was in the pill until after Göring's suicide.{{sfn|BBC News|2005}}
+
+Göring's body, as with those of the men who were executed, was displayed at the execution ground for the witnesses of the executions. The bodies were cremated at [[Ostfriedhof (Munich)|Ostfriedhof]], Munich, and the ashes were scattered in the [[Isar]] River.{{sfn|Darnstädt|2005}}{{sfn|Manvell|Fraenkel|2011|p=393}}{{sfn|Overy|2001|p=205}}
+
+== Personal properties ==
+{{see also|Nazi plunder|Reichswerke Hermann Göring}}
+[[File:Göering weapon and baton.jpg|thumb|upright|Göring's ''Reichsmarschall'' baton and [[Smith &amp; Wesson]] revolver. To the left is the silver-bound guest book from [[Carinhall]]. ([[West Point Museum]])]]
+Göring's name is closely associated with the Nazi plunder of Jewish property. His name appears 135 times on the [[Nazi plunder#Art Looting Investigation Unit (ALIU) Reports 1945-1946 and ALIU Red Flag Names List and Index|OSS Art Looting Investigation Unit (ALIU) Red Flag Names List]].{{sfn|OSS Reports}} compiled by US Army intelligence in 1945-6 and declassified in 1997.{{sfn|NARA Records}}
+
+The confiscation of Jewish property gave Göring the opportunity to amass a personal fortune. Some properties he seized himself or acquired for a nominal price. In other cases, he collected bribes for allowing others to steal Jewish property. He took [[Political corruption|kickbacks]] from industrialists for favourable decisions as Four Year Plan director, and money for supplying arms to the Spanish Republicans in the [[Foreign involvement in the Spanish Civil War|Spanish Civil War]] via [[Pyrkal]] in Greece (although Germany was supporting Franco and the Nationalists).{{sfn|Beevor|2006|pp=366–368, 538}}
+
+Göring was appointed Reich Master of the Hunt in 1933 and Master of the German Forests in 1934. He instituted reforms to the forestry laws and acted to protect endangered species. Around this time he became interested in [[Schorfheide-Chorin Biosphere Reserve|Schorfheide Forest]], where he set aside {{convert|100000|acres|km2}} as a state park, which is still extant. There he built an elaborate hunting lodge, [[Carinhall]], in memory of his first wife, Carin. By 1934, her body had been transported to the site and placed in a vault on the estate.{{sfn|Manvell|Fraenkel|2011|pp=120–123}} The main lodge had a large art gallery where Göring displayed works that had been plundered from private collections and museums around Europe from 1939 onward.{{sfn|Speer|1971|pp=244–245}}{{sfn|Rothfeld|2002}} Göring worked closely with the ''Einsatzstab Reichsleiter Rosenberg'' ([[Reichsleiter Rosenberg Taskforce]]), an organisation tasked with the looting of artwork and cultural material from Jewish collections, libraries, and museums throughout Europe.{{sfn|Manvell|Fraenkel|2011|pp=283–285}} Headed by [[Alfred Rosenberg]], the task force set up a collection centre and headquarters in Paris. Some 26,000 railroad cars full of art treasures, furniture, and other looted items were sent to Germany from France alone. Göring repeatedly visited the Paris headquarters to review the incoming stolen goods and to select items to be sent on a special train to Carinhall and his other homes.{{sfn|Manvell|Fraenkel|2011|pp=283–285, 291}} The estimated value of his collection—numbering some 1,500 pieces—was $200 million.{{sfn|Manvell|Fraenkel|2011|p=281}}
+
+[[File:Mundur Goeringa.jpg|thumb|upright|left|Göring's uniform on display at the ''[[Luftwaffenmuseum der Bundeswehr]]'']]
+
+Göring was known for his extravagant tastes and garish clothing. He had various special uniforms made for the many posts he held;{{sfn|Manvell|Fraenkel|2011|pp=115–116}} his ''Reichsmarschall'' uniform included a jewel-encrusted baton. [[Hans-Ulrich Rudel]], the top ''[[Stuka]]'' pilot of the war, recalled twice meeting Göring dressed in outlandish costumes: first, a medieval hunting costume, practicing archery with his doctor; and second, dressed in a red [[toga]] fastened with a golden clasp, smoking an unusually large pipe. Italian Foreign Minister [[Galeazzo Ciano]] once noted Göring wearing a fur coat that looked like what "a high grade prostitute wears to the opera".{{sfn|Fussell|2002|pp=24–25}} He threw lavish housewarming parties each time a round of construction was completed at Carinhall, and changed costumes several times throughout the evenings.{{sfn|Manvell|Fraenkel|2011|p=122}}
+
+Göring was noted for his patronage of music, especially opera. He entertained frequently and sumptuously, and hosted elaborate birthday parties for himself.{{sfn|Speer|1971|p=417}} Armaments minister [[Albert Speer]] recalled that guests brought expensive gifts such as gold bars, Dutch cigars, and valuable artwork. For his birthday in 1944, Speer gave Göring an oversize marble bust of Hitler.{{sfn|Speer|1971|pp=416–417}} As a member of the Prussian Council of State, Speer was required to donate a considerable portion of his salary towards the Council's birthday gift to Göring without even being asked. ''Generalfeldmarschall'' [[Erhard Milch]] told Speer that similar donations were required out of the Air Ministry's general fund.{{sfn|Speer|1971|pp=417–418}} For his birthday in 1940, Italian Foreign Minister Count Ciano decorated Göring with the coveted [[Supreme Order of the Most Holy Annunciation|Collar of Annunziata]]. The award reduced him to tears.{{sfn|Mosley|1974|pp=280}}
+
+[[File:Standarte des Reichsmarschalls (1941–45).jpg|thumb|Standard, on display at the ''Musée de la Guerre'' in [[Les Invalides]], Paris]]
+
+The design of the ''Reichsmarschall'' standard, on a light blue field, featured a gold [[German eagle]] grasping a wreath surmounted by two batons overlaid with a [[swastika]]. The reverse side of the flag had the ''Großkreuz des Eisernen Kreuzes'' ("[[Grand Cross of the Iron Cross]]") surrounded by a wreath between four Luftwaffe eagles. The flag was carried by a personal standard-bearer at all public occasions.
+
+Though he liked to be called "''der Eiserne''" (the Iron Man), the once dashing and muscular fighter pilot had become corpulent. He was one of the few Nazi leaders who did not take offence at hearing jokes about himself, "no matter how rude", taking them as a sign of popularity. Germans joked about his ego, saying that he would wear an admiral's uniform with rubber medals to take a bath, and his obesity, joking that "he sits down on his stomach".{{sfn|Block|Trow|1971|p=330}}{{sfn|Gunther|1940|p=65}} One joke claimed that he had sent a wire to Hitler after his visit to the Vatican: "Mission accomplished. Pope unfrocked. Tiara and pontifical vestments are a perfect fit."{{sfn|Evans|2005|p=409}}
+
+== Complicity in the Holocaust ==
+[[File:Carta Göring.JPG|thumb|Göring's July 1941 letter to [[Reinhard Heydrich]]]]
+[[Joseph Goebbels]] and Himmler were far more antisemitic than Göring, who mainly adopted that attitude because party politics required him to do so.{{sfn|Manvell|Fraenkel|2011|pp=136–137}} His deputy, [[Erhard Milch]], had a Jewish parent. But Göring supported the [[Nuremberg Laws]] of 1935, and later initiated economic measures unfavourable to Jews.{{sfn|Manvell|Fraenkel|2011|pp=136–137}} He required the registration of all Jewish property as part of the Four Year Plan, and at a meeting held after Kristallnacht was livid that the financial burden for the Jewish losses would have to be made good by German-owned insurance companies. He proposed that the Jews be fined one billion marks.{{sfn|Manvell|Fraenkel|2011|pp=189–191}}
+
+At the same meeting, options for the disposition of the Jews and their property were discussed. Jews would be segregated into ghettos or encouraged to emigrate, and their property would be seized in a programme of [[Aryanization (Nazism)|Aryanization]]. Compensation for seized property would be low, if any was given at all.{{sfn|Manvell|Fraenkel|2011|pp=189–191}} Detailed minutes of this meeting and other documents were read out at the Nuremberg trial, proving his knowledge of and complicity with the persecution of the Jews.{{sfn|Manvell|Fraenkel|2011|p=369}} He told Gilbert that he would never have supported the anti-Jewish measures if he had known what was going to happen. "I only thought we would eliminate Jews from positions in big business and government", he claimed.{{sfn|Manvell|Fraenkel|2011|p=378}}
+
+In July 1941, Göring issued a memo to [[Reinhard Heydrich]] ordering him to organise the practical details of a solution to the "Jewish Question". By the time that this letter was written, many Jews and others had already been killed in Poland, [[Russian Soviet Federative Socialist Republic|Russia]], and elsewhere. At the [[Wannsee Conference]], held six months later, Heydrich formally announced that genocide of the Jews of Europe was now official Reich policy. Göring did not attend the conference, but he was present at other meetings where the number of people killed was discussed.{{sfn|Manvell|Fraenkel|2011|pp=259–260}}
+
+== Support of anti-Nazi brother ==
+{{main article|Albert Göring}}
+
+Göring's younger brother Albert despised [[Nazism]], and offered active resistance to the regime, including helping prisoners escape from concentration camps. He was arrested four times, but Hermann secured his release each time. Hermann's daughter [[Edda Göring|Edda]] told ''[[The Guardian]]'' that Albert "could certainly help people in need himself financially and with his personal influence, but as soon as it was necessary to involve higher authority or officials, then he had to have the support of my father, which he did get."{{sfn|Burke|2010}}
+
+== Decorations and awards ==
+
+=== German ===
+[[File:Bundesarchiv Bild 102-13805, Hermann Göring.jpg|thumb|right|167px|Göring wearing his ''[[Pour le Mérite]]'' medal (1932)]]
+
+* [[Iron Cross]]
+** 2nd Class on 15 September 1914{{sfn|Miller|2006|p=442}}
+** 1st Class on 22 March 1915{{sfn|Miller|2006|p=442}}
+* [[Pour le Mérite]] (2 June 1918){{sfn|Miller|2006|p=442}}
+* [[Blood Order]] (Commemorative Medal of 9 November 1923){{sfn|Miller|2006|p=442}}
+* [[Clasp to the Iron Cross]]
+** 2nd Class on 30 September 1939{{sfn|Miller|2006|p=442}}
+** 1st Class on 30 September 1939{{sfn|Miller|2006|p=442}}
+* [[Knight's Cross of the Iron Cross]] on 30 September 1939{{sfn|Miller|2006|p=442}}
+* [[Grand Cross of the Iron Cross]] for "the victories of the Luftwaffe in 1940 during the French campaign" (the only award of this decoration – 19 August 1940){{sfn|Miller|2015|p=89}}
+* Order from the Grand Duke of Baden [[Orden vom Zähringer Löwen]] (de) Knights Cross 2nd Class with Swords{{sfn|Miller|2015|p=89}}
+* [[Golden Party Badge]]{{sfn|Miller|2006|p=442}}
+* Knights Cross with Swords of the [[House Order of Hohenzollern]]{{sfn|Miller|2015|p=89}}
+* Knights Cross of the [[Military Karl-Friedrich Merit Order]]{{sfn|Miller|2015|p=89}}
+* [[Danzig Cross]], 1st and 2nd class{{sfn|Miller|2006|p=442}}
+
+=== Foreign ===
+* Grand Cross of the [[Order of Saints Cyril and Methodius]] (Kingdom of Bulgaria){{sfn|Petrov|2005|p=56}}
+* Grand Cordon of the [[Order of the Rising Sun]] (Japan) (1943){{sfn|Miller|2006|p=443}}
+* Member First Class of the [[Order of Michael the Brave]] (Kingdom of Romania) (1941){{sfn|Miller|2006|p=443}}
+* Knight of the [[Order of St. Stephen of Hungary|Order of St Stephen]] (Kingdom of Hungary){{efn|name=Huyngarian order}}
+* Commander Grand Cross of the [[Order of the Sword]] (Kingdom of Sweden) (1939){{sfn|Miller|2006|p=443}}
+* Grand Cross of the Order of Yoke and Arrows (Spain) (1939){{sfn|Miller|2006|p=443}}
+* Knight Grand Cross of the [[Order of Saints Maurice and Lazarus]] (Kingdom of Italy) (1938){{sfn|Miller|2006|p=443}}
+* Knight of the [[Supreme Order of the Most Holy Annunciation]] (Kingdom of Italy) (1940){{sfn|Miller|2006|p=443}}
+* Knight Grand Cross of the [[Order of the Crown of Italy]] (Kingdom of Italy) (1940){{sfn|Miller|2006|p=443}}
+* [[Order of the White Rose of Finland]], Commander grade{{sfn|Miller|2006|p=443}}
+
+== See also ==
+{{Portal|Biography|Germany|Bavaria|Nazi Germany|Politics|Fascism|Aviation|World War I|World War II}}
+* [[Aerial victory standards of World War I]]
+* [[Air warfare of World War II]]
+* [[Fallschirm-Panzer Division 1 Hermann Göring]]
+* [[Glossary of Nazi Germany]]
+* [[Glossary of German military terms]]
+* [[Göring's Green Folder]]
+* [[List of Nazi Party leaders and officials]]
+
+== References ==
+
+'''Informational  notes'''
+{{notes
+| notes =
+{{efn
+| name = spelling
+|''Göring'' is the German spelling, but the name is [[English terms with diacritical marks#Words imported from other languages|commonly transliterated]] ''Goering'' in English and other languages, using {{angbr|[[Oe (digraph)|oe]]}} to replace the [[o-umlaut]] in the German spelling.
+}}
+
+{{efn
+| name = swastika
+|The swastika was a badge which the count and some friends had adopted at school, and he adopted it as a family emblem. See {{harvnb|Manvell|Fraenkel|2011|pp=403–404}}.
+}}
+{{efn
+| name = Huyngarian order
+| One of a number of Nazis who were awarded this by the Regent, Admiral [[Miklós Horthy]]; these were controversial and some appointments are not recognised by Hungarian monarchists.
+}}
+}}
+
+'''Citations'''
+{{reflist|20em}}
+
+'''Bibliography'''
+::'''Printed sources'''
+* {{cite book
+ | last = Beevor
+ | first = Antony
+ | authorlink = Antony Beevor
+ | title = The Battle for Spain: The Spanish Civil War 1936–1939
+ | year = 2006
+ | publisher = Phoenix
+ | location = London
+ | isbn = 978-0-7538-2165-7
+ | ref = harv
+}}
+* {{cite book
+ | last1 = Block
+ | first1 = Maxine
+ | last2 = Trow
+ | first2 = E. Mary
+ | title = Current Biography: Who's News and Why 1941
+ | year = 1971
+ | publisher = H.W. Wilson
+ | location = New York
+ | oclc = 16655369
+ | ref = harv
+ }}
+* {{cite book
+ | last = Botting
+ | first = Douglas
+ | authorlink = Douglas Botting
+ | title = In the Ruins of The Reich: Germany 1945–1949
+ | year = 2006
+ | publisher = Methuen Publishing
+ | location = London
+ | isbn = 978-0-413-77511-5
+ | ref = harv
+}}
+* {{cite book
+ | last = Bullock
+ | first = Alan
+ | authorlink = Alan Bullock
+ | title = Hitler: A Study in Tyranny
+ | year = 1999
+ | origyear = 1952
+ | publisher = Konecky &amp; Konecky
+ | location = New York
+ | isbn = 978-1-56852-036-0
+ | ref = harv
+ }}
+* {{cite book
+ | last = Bungay
+ | first = Stephen
+ | authorlink = Stephen Bungay
+ | title = The Most Dangerous Enemy: A History of the Battle of Britain
+ | year = 2000
+ | publisher = Aurum Press
+ | location = London
+ | isbn = 978-1-85410-721-3
+ | ref = harv
+}}
+* {{cite news
+ | last = Darnstädt
+ | first = Thomas
+ | title = Ein Glücksfall der Geschichte
+ | work = [[Der Spiegel]]
+ | date = 4 April 2005
+ | url = http://www.spiegel.de/spiegel/print/d-39916258.html
+ | accessdate = 13 September 2016
+ | ref = harv
+}}
+* {{cite book
+ | last = Evans
+ | first = Richard J.
+ | authorlink = Richard J. Evans
+ | year = 2003
+ | title = The Coming of the Third Reich
+ | publisher = Penguin
+ | location = New York
+ | isbn = 978-0-14-303469-8
+ | ref = harv
+ }}
+* {{cite book
+ | last = Evans
+ | first = Richard J.
+ | year = 2005
+ | title = The Third Reich in Power
+ | publisher = Penguin
+ | location = New York
+ | isbn = 978-0-14-303790-3
+ | ref = harv
+ }}
+* {{cite book
+ | last = Evans
+ | first = Richard J.
+ | year = 2008
+ | title = The Third Reich at War
+ | publisher = Penguin
+ | location = New York
+ | isbn = 978-0-14-311671-4
+ | ref = harv
+ }}
+* {{cite book
+ | last = Fellgiebel
+ | first = Walther-Peer
+ | authorlink = Walther-Peer Fellgiebel
+ | title = Die Träger des Ritterkreuzes des Eisernen Kreuzes, 1939–1945
+ | publisher = Podzun-Pallas
+ | location = Friedberg
+ | year = 2000
+ | origyear = 1986
+ | language = German
+ | isbn = 978-3-7909-0284-6
+ | ref = harv
+ }}
+* {{cite book
+ | last = Franks
+ | first = Norman
+ | title = Above the Lines: The Aces and Fighter Units of the German Air Service, Naval Air Service and Flanders Marine Corps, 1914–1918
+ | publisher = Grub Street
+ | location = Oxford
+ | year = 1993
+ | isbn = 978-0-948817-19-9
+ | ref = harv
+ }}
+* {{cite book
+ | last = Freitag
+ | first = Christian H.
+ | title = Ritter, Reichsmarschall &amp; Revoluzzer. Aus der Geschichte eines Berliner Landhauses
+ | year = 2015
+ | publisher = Friedenauer Brücke
+ | location = Berlin
+ | language = German
+ | isbn = 978-3-9816130-2-5
+| ref = harv}}
+* {{cite book
+ | last = Fussell
+ | first = Paul
+ | title = Uniforms: Why We Are What We Wear
+ | year = 2002
+ | publisher = Houghton Mifflin
+ | location = New York
+ | isbn = 978-0-618-38188-3
+ | ref = harv
+ }}
+* {{cite book
+ | last = Gerwarth
+ | first = Robert
+ | authorlink = Robert Gerwarth
+ | year = 2011
+ | title = Hitler's Hangman: The Life of Heydrich
+ | publisher = Yale University Press
+ | location = New Haven, CT
+ | isbn = 978-0-300-11575-8
+ | ref = harv
+ }}
+* {{cite book
+ | last = Gilbert
+ | first = Gustave
+ | authorlink = Gustave Gilbert
+ | title = Nuremberg Diary
+ | publisher = Da Capo Press
+ | location = New York
+ | year = 1995
+ | isbn =978-0-306-80661-2
+ | ref = harv
+ }}
+* {{cite book |last= Goldensohn |first= Leon N. |authorlink= Leon Goldensohn |year= 2004 |title= The Nuremberg Interviews: Conversations with the Defendants and Witnesses |location= New York,&amp;nbsp;NY |publisher= [[Alfred A. Knopf]] |isbn= 978-0-375-41469-5 |ref= harv}}
+* {{cite book
+ | last = Goldhagen
+ | first = Daniel
+ | authorlink = Daniel Goldhagen
+ | title = [[Hitler's Willing Executioners|Hitler's Willing Executioners: Ordinary Germans and the Holocaust]]
+ | year = 1996
+ | publisher = Knopf
+ | location = New York
+ | isbn = 978-0-679-44695-8
+ | ref = harv
+ }}
+* {{cite book
+ | last = Gunther
+ | first = John
+ | authorlink = John Gunther
+ | title = Inside Europe
+ | year = 1940
+ | publisher = Harper &amp; Brothers
+ | location = New York
+ | url=https://archive.org/stream/in.ernet.dli.2015.149663/2015.149663.Inside-Europe#page/n1/mode/2up
+ | oclc = 836676034
+ | ref = harv}}
+* {{cite book
+ | last = Hitler
+ | first = Adolf
+ | authorlink = Adolf Hitler
+ | title = Hitler's Table Talk, 1941–1944
+ | publisher = Oxford University Press
+ | location = Oxford; New York
+ | year = 1988
+ | isbn = 978-0-19-285180-2
+ | ref = harv
+ }}
+* {{cite book
+ | last = Hooton
+ | first = Edward
+ | authorlink = E. R. Hooton
+ | title = Phoenix Triumphant: The Rise and Rise of the Luftwaffe
+ | publisher = Arms &amp; Armour
+ | location = Garden City
+ | year = 1999
+ | isbn = 1-85409-181-6
+ | ref = harv
+ }}
+* {{cite book
+ | last = Kershaw
+ | first = Ian
+ | authorlink = Ian Kershaw
+ | year = 2008
+ | title = Hitler: A Biography
+ | publisher = W. W. Norton &amp; Company
+ | location = New York, NY
+ | isbn = 978-0-393-06757-6
+ | ref = harv
+ }}
+* {{cite book
+ | last = Kilduff
+ | first = Peter
+ | title = Herman Göring, Fighter Ace: The World War I Career of Germany's Most Infamous Airman
+| year = 2013
+ | publisher = Grub Street
+ | location = London
+ | isbn = 978-1-906502-66-9
+ | ref = harv
+}}
+* {{cite book
+ | last1 = Manvell
+ | first1 = Roger
+ | authorlink1 = Roger Manvell
+ | last2 = Fraenkel
+ | first2 = Heinrich
+ | authorlink2 = Heinrich Fraenkel
+ | title = Goering: The Rise and Fall of the Notorious Nazi Leader
+ | publisher = Skyhorse
+ | location = London
+ | year = 2011
+ | origyear = 1962
+ | isbn = 978-1-61608-109-6
+ | ref = harv
+ }}
+* {{cite book
+ | last = Maser
+ | first = Werner
+ | title = Fälschung, Dichtung und Wahrheit über Hitler und Stalin
+ | publisher = Olzog
+ | location = Munich
+ | language = German
+ | year = 2004
+ | isbn = 3-7892-8134-4
+ | ref = harv
+ }}
+* {{cite book
+ | last = Miller
+ | first = Michael
+ | year = 2006
+ | title = Leaders of the SS and German Police, Vol. 1
+ | publisher = R. James Bender
+ | location = San Jose, CA
+ | isbn = 978-93-297-0037-2
+ | ref = harv
+ }}
+* {{cite book
+ | last = Mosley
+ | first = Leonard
+ | authorlink = Leonard Mosley
+ | title = The Reich Marshal: A Biography of Hermann Goering
+ | publisher = Doubleday
+ | location = Garden City
+ | year = 1974
+ | isbn = 0-385-04961-7
+ | ref = harv
+ }}
+* {{cite book
+ | editor1-last = Noakes
+ | editor1-first = Jeremy
+ | editor2-last = Pridham
+ | editor2-first = Geoffrey
+ | title = Nazism 1919–1945: Foreign Policy, War and Racial Extermination
+ | year = 2001
+ | origyear = 1988
+ | series = Exeter Studies in History
+ | volume = 3
+ | publisher = University of Exeter Press
+ | location = Exeter
+ | isbn =
+ | ref = {{sfnRef|Noakes|Pridham|2001}}
+}}
+* {{cite book
+ | last = Oestermann
+ | first = Günter
+ | title = Junger Wolf im Nebel. Ein Junge in Deutschland 1930–1945
+ | year = 2001
+ | publisher = [Norderstedt] Books on Demand
+ | location = Hamburg
+ | language = German
+ | isbn = 978-3-8311-2487-9
+ | ref = harv
+}}
+* {{cite book
+ | last = Overy
+ | first = Richard J.
+ | authorlink = Richard Overy
+ | title = Interrogations: The Nazi Elite in Allied Hands, 1945
+ | year = 2001
+ | publisher = Viking
+ | location = New York
+ | isbn = 978-0-670-03008-8
+ | ref = harv
+}}
+* {{cite book
+ | last = Overy
+ | first = Richard J.
+ | title = War and Economy in the Third Reich
+ | year = 2002
+ | origyear = 1994
+ | publisher = Oxford University Press
+ | location = Oxford; New York
+ | isbn = 978-0-19-164737-6
+ | ref = harv
+}}
+* {{cite book
+ | last = Petrov
+ | first = Todor
+ | title = Bulgarian Orders and Medals 1878–2005
+ | year = 2005
+ | origyear =
+ | publisher = Military Publishing House Ltd.
+ | location = Sofia
+ | isbn = 954-509-317-X
+ | ref = harv
+}}
+* {{cite book
+ | last = Raeder
+ | first = Erich
+ | title = Erich Rader, Grand Admiral: The Personal Memoir of the Commander in Chief of the German Navy From 1935 Until His Final Break With Hitler in 1943
+ | publisher = New York: Da Capo Press. United States Naval Institute
+ | location = London
+ | year = 2001
+ | origyear =
+ | isbn = 0-306-80962-1
+ | ref = harv
+ }}
+* {{cite book
+ | last = Shirer
+ | first = William L.
+ | authorlink = William L. Shirer
+ | title = [[The Rise and Fall of the Third Reich]]
+ | publisher = Simon &amp; Schuster
+ | location = New York
+ | year = 1960
+ | isbn = 978-0-671-62420-0
+ | ref = harv
+ }}
+* {{cite book
+ | last = Speer
+ | first = Albert
+ | authorlink = Albert Speer
+ | origyear = 1969
+ | year = 1971
+ | title = [[Inside the Third Reich]]
+ | publisher = Avon
+ | location = New York
+ | isbn = 978-0-380-00071-5
+ | ref = harv
+ }}
+* {{cite journal
+ | last = Stolfi
+ | first = Russel
+ | title = Barbarossa Revisited: A Critical Reappraisal of the Opening Stages of the Russo-German Campaign (June–December 1941)
+ | journal = [[Journal of Modern History]]
+ | date = March 1982
+ | volume = 54
+ | issue = 1
+ | pages = 27–46
+ | doi = 10.1086/244076
+ | ref = harv
+ }}
+* {{cite book
+ | last = Taylor
+ | first = A. J. P.
+ | authorlink = A. J. P. Taylor
+ | title = English History 1914–1945
+ | publisher = Oxford University Press
+ | location = Reading, Berkshire
+ | year = 1965
+ | isbn = 0-19-280140-6
+ | ref = harv
+ }}
+* {{cite book
+ | last = Taylor
+ | first = Telford
+ | title = The Anatomy of the Nuremberg Trials
+ | publisher = Knopf
+ | location = New York
+ | year = 1992
+ | isbn = 978-0-394-58355-6
+ | ref = harv
+ }}
+
+::'''Online sources'''
+* {{cite web
+ | title = Art Provenance and Claims Records and Research
+ | url = https://www.archives.gov/research/holocaust/art/key-series-descriptions/key-series-descriptions-01.html
+ | publisher = National Archives and Records Administration
+ | accessdate = 16 July 2017
+ | ref = {{sfnRef|NARA Records}}
+ }}
+* {{cite web
+ | last = Burke
+ | first = William Hastings
+ | title = Albert Göring, Hermann's anti-Nazi brother
+ | work = [[The Guardian]]
+ | date = 20 February 2010
+ | publisher = Guardian News and Media
+ | url = https://www.theguardian.com/lifeandstyle/2010/feb/20/albert-goering-hermann-goering-brothers
+ | accessdate = 4 May 2014
+ | ref = harv
+ }}
+* {{Cite news
+ | title = Guard 'gave Goering suicide pill'
+ | work = BBC News
+ | date = 8 February 2005
+ | url = http://news.bbc.co.uk/1/hi/world/americas/4247069.stm
+ | accessdate = 8 May 2012
+ | ref = {{sfnRef|BBC News|2005}}
+}}
+* {{cite web
+ | title = Judgment of International Military Tribunal on Hermann Goering
+ | work = The Avalon Project
+ | publisher = Yale Law School, Lillian Goldman Law Library
+ | location = New Haven, Connecticut
+ | date = 30 September 1946
+ | url = http://avalon.law.yale.edu/imt/judgoeri.asp
+ | accessdate = 8 May 2012
+ | ref = {{sfnRef|International Military Tribunal|1946}}
+ }}
+* {{cite web
+ | title = Nazi Conspiracy and Aggression, Volume 2, Chapter XV, Part 3: The Reich Cabinet
+ | publisher = Office of United States Chief of Counsel For Prosecution of Axis Criminality
+ | date = 1946
+ | url = https://www.loc.gov/rr/frd/Military_Law/pdf/NT_Nazi_Vol-II.pdf
+ | format = PDF
+ | access-date = 20 August 2017
+ | ref = {{sfnRef|Nazi Conspiracy and Aggression|1946}}
+}}
+* {{cite web
+ | title = Nuremberg Trial Proceedings, Volume 9: Eighty-fourth day, Monday, 18 March 1946, morning session
+ | work = The Avalon Project
+ | publisher = Yale Law School, Lillian Goldman Law Library
+ | location = New Haven, Connecticut
+ | url = http://avalon.law.yale.edu/imt/03-18-46.asp
+ | accessdate = 28 March 2012
+ | ref = {{sfnRef|Nuremberg Trial Proceedings, 18 March 1946}}
+ }}
+* {{cite web
+ | title = OSS (USS Office of Strategic Services) Art Looting Intelligence Unit (ALIU) Reports 1945–1946 and ALIU Red Flag Names List and Index
+ | url = http://www.lootedart.com/MVI3RM469661
+ | publisher = Central Registry of Information on Looted Cultural Property 1933–1945
+ | accessdate = 16 July 2017
+ | ref = {{sfnRef|OSS Reports}}
+ }}
+* {{cite journal
+| last = Rothfeld
+| first = Anne
+| title = Nazi Looted Art: The Holocaust Records Preservation Project, Part 1
+| year = 2002
+| journal = Prologue Magazine
+| publisher = U.S. National Archives and Records Administration
+| volume = 34
+| issue = 3
+| url = https://www.archives.gov/publications/prologue/2002/summer/nazi-looted-art-1.html
+| ref = harv
+}}
+* {{cite web
+| last = Selwood
+| first = Dominic
+| authorlink = Dominic Selwood
+| title = Dresden was a civilian town with no military significance. Why did we burn its people?
+| work = The Telegraph
+| date = 13 February 2015
+| url = https://www.telegraph.co.uk/history/world-war-two/11410633/Dresden-was-a-civilian-town-with-no-military-significance.-Why-did-we-burn-its-people.html
+| accessdate = 14 February 2015
+| ref = harv
+}}
+
+'''Further reading'''
+* {{cite book
+ | last = Brandenburg
+ | first = Erich
+ | title = Die Nachkommen Karls Des Grossen
+ | publisher = Degener
+ | location = Neustadt/Aisch
+ | year = 1995
+ | isbn = 3-7686-5102-9
+ }}
+* {{cite book
+ | last = Burke
+ | first = William Hastings
+ | title = Thirty Four
+ | authorlink =
+ | year = 2009
+ | publisher = Wolfgeist
+ | location = London
+ | isbn = 978-0-9563712-0-1
+ }}
+* {{cite book
+ | last = Butler
+ | first = Ewan
+ | title = Marshal Without Glory
+ | authorlink =
+ | coauthors =
+ | year = 1951
+ | publisher = Hodder &amp; Stoughton
+ | location = London
+ | oclc = 1246848
+ }}
+* {{cite book
+ | last = Fest
+ | first = Joachim
+ | authorlink = Joachim Fest
+ | title = Inside Hitler's Bunker
+ | publisher = Farrar, Straus and Giroux
+ | location = New York
+ | year = 2004
+ | isbn = 0-374-13577-0
+ }}
+* {{cite book
+ | last = Frischauer
+ | first = Willi
+ | origyear = 1950
+ | year = 2013
+ | title = Goering
+ | publisher = Unmaterial Books
+ | isbn = 978-1-78301-221-3
+ }}
+* {{cite book
+ |last        = Göring
+ |first       = Hermann
+ |title       = Germany Reborn
+ |year        = 1934
+ |publisher   = E. Mathews &amp; Marrot
+ |location    = London
+ |oclc        = 570220
+ |url         = http://www.third-reich-books.com/x-567-hermann-goering-germany-reborn.htm
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20040803085611/http://www.third-reich-books.com/x-567-hermann-goering-germany-reborn.htm
+ |archivedate = 3 August 2004
+ |df          = dmy-all
+}}
+* {{cite book
+ | last = Leffland
+ | first = Ella
+ | year = 1990
+ | title = The Knight, Death and the Devil
+ | publisher = Morrow
+ | location = New York
+ | isbn = 0-688-05836-1
+ }}
+* {{cite book
+ | last = Maser
+ | first = Werner
+ | year = 2000
+ | title = Hitlers janusköpfiger Paladin: die politische Biographie
+ | location = Berlin
+ | language = German
+ | isbn = 3-86124-509-4
+ }}
+* {{cite book
+ | last = Miller
+ | first = Michael
+ | title = Leaders of the Storm Troops, Vol. 1
+ | publisher = Helion &amp; Company
+ | location = Solihull, West Midlands
+ | year = 2015
+ | isbn = 978-1-909982-87-1
+ | ref = harv
+ }}
+* {{cite book
+ | last = Overy
+ | first = Richard
+ | title = Goering: Hitler's Iron Knight
+ | publisher = Phoenix Press
+ | location = London
+ | year = 2000
+ | isbn = 1-84212-048-4
+ }}
+* {{cite book
+ | last = Paul
+ | first = Wolfgang
+ | title = Wer War Hermann Göring: Biographie
+ | publisher = Bechtle
+ | location = Esslingen
+ | language = German
+ | year = 1983
+ | isbn = 3-7628-0427-3
+ }}
+
+== External links ==
+{{commons category|Hermann Göring}}
+{{wikiquote|Hermann Göring}}
+* [http://avalon.law.yale.edu/imt/03-13-46.asp#Goering1 Nuremberg Trial Proceedings Vol. 9] Transcript of Goering's testimony at the trial
+* [http://www.historynet.com/lost-prison-interview-with-hermann-goring-the-reichsmarschalls-revelations.htm "Lost Prison Interview with Hermann Goring: The Reichsmarschall's Revelations"] published by [http://www.thehistorynet.com ''World War II Magazine'']
+* [https://web.archive.org/web/20131228012959/http://langbrosjukhus.se/hermann-goring/ Göring at Långbro asylum]
+* [http://www.dhm.de/datenbank/goering/dhm_goering.php?seite=9 The Goering Collection: online database (in German as Die Kunstsammlung Hermann Göring) of 4263 artworks in Hermann Göring's collection]
+* {{PM20|FID=pe/006239}}
+
+{{s-start}}
+{{s-mil}}
+|-
+{{s-bef|before=[[Erich Wieland]]}}
+{{s-ttl|title=Commanding Officer of [[Jasta 27|''Jasta'' 27]]|years=1917–1918}}
+{{s-aft|after=[[Hermann Frommherz]]}}
+|-
+{{s-bef|before=[[Wilhelm Reinhard (pilot)|Wilhelm Reinhard]]}}
+{{s-ttl|title=Commanding Officer of [[Jagdgeschwader 1 (World War I)|''Jagdgeschwader'' 1]]|years=1918}}
+{{s-aft|after=[[Erich von Wedel]]}}
+|-
+{{s-bef|before=[[Erich von Wedel]]}}
+{{s-ttl|title=Commanding Officer of [[Jagdgeschwader 1 (World War I)|''Jagdgeschwader'' 1]]|years=1918}}
+{{s-non|reason=Unit disbanded}}
+|-
+{{s-new|reason=Luftwaffe re-established}}
+{{s-ttl|title=[[Oberkommando der Luftwaffe|Commander-in-Chief]] of the [[Luftwaffe]]|years=1935–1945}}
+{{s-aft|after=[[Robert Ritter von Greim]]}}
+|-
+{{s-off}}
+{{s-bef|before=[[Hans Ulrich Klintzsche]]}}
+{{s-ttl|title=[[Oberste SA-Führer|Leader of the SA]] |years=1923}}
+{{s-vac|next=[[Franz Pfeffer von Salomon]]}}
+|-
+{{s-bef|before=[[Paul Löbe]]}}
+{{s-ttl|title=[[List of Presidents of the Reichstag (Germany)|President of the ''Reichstag'']] |years=1932–1945}}
+{{s-non|reason=Reichstag abolished}}
+|-
+{{s-bef|before=[[Franz von Papen]] &lt;br /&gt; (''Reichskomissar'')}}
+{{s-ttl|title=[[Prime Minister of Prussia]] |years=1933–1945}}
+{{s-non|reason=[[Prussia#The end of Prussia|Prussia abolished]]}}
+|-
+{{s-bef|before=[[Adolf Hitler]]}}
+{{s-ttl|title=''[[Reichsstatthalter]]'' of Prussia|years=1933–1945}}
+{{s-non|reason=[[Prussia#The end of Prussia|Prussia abolished]]}}
+|-
+{{s-bef|before=[[Hjalmar Schacht]]}}
+{{s-ttl|title=[[Members of Hitler's cabinet|''Reichminister'' of Economics]]|years=1937–1938}}
+{{s-aft|after=[[Walther Funk]]}}
+|-
+{{s-bef|before=[[Franz von Papen]]}}
+{{s-ttl|title=[[Vice-Chancellor of Germany]]|years=1941–1945}}
+{{s-aft|after=[[Franz Blücher]]}}
+{{s-end}}
+{{Navboxes
+|title=Articles and topics related to Hermann Göring
+|state=collapsed
+|list1=
+{{Nazism}}
+{{GFMofWWII}}
+{{Final occupants of the Führerbunker}}
+{{Main Nuremberg defendants}}
+{{Hitler's Cabinet}}
+{{GermanViceChancellors}}
+{{Economy Ministers of Germany}}
+{{Prime Ministers of Prussia}}
+{{Reichsstatthalters of Nazi Germany}}
+{{Recipients of the Grand Cross}}
+{{Recipients of the Pour le Mérite and Knight's Cross}}
+{{Interior Ministers of Prussia}}
+{{NSDAP}}
+{{Subject bar
+| portal1=Aviation
+| portal2=Biography
+| portal3=Military of Germany
+| portal4=World War I
+| portal5=World War II
+| commons=y
+| commons-search=Hermann Wilhelm Göring
+| q=y
+}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Goering, Hermann}}
+[[Category:Hermann Göring| ]]
+[[Category:1893 births]]
+[[Category:1946 deaths]]
+[[Category:Art crime]]
+[[Category:Articles containing video clips]]
+[[Category:Aviators who committed suicide]]
+[[Category:Commanders Grand Cross of the Order of the Sword]]
+[[Category:Economy ministers of Germany]]
+[[Category:Forestry in Germany]]
+[[Category:German anti-communists]]
+[[Category:German World War I flying aces]]
+[[Category:German conservationists]]
+[[Category:German expatriates in Sweden]]
+[[Category:German expatriates in Denmark]]
+[[Category:German expatriates in Italy]]
+[[Category:German expatriates in Austria]]
+[[Category:German military leaders of World War II]]
+[[Category:German nationalists]]
+[[Category:German Nazi politicians]]
+[[Category:German people convicted of crimes against humanity]]
+[[Category:German people convicted of the international crime of aggression]]
+[[Category:German people who died in prison custody]]
+[[Category:German prisoners sentenced to death]]
+[[Category:Gestapo personnel]]
+[[Category:Göring family]]
+[[Category:Grand Cordons of the Order of the Rising Sun]]
+[[Category:Holocaust perpetrators]]
+[[Category:Knights Grand Cross of the Order of Saints Maurice and Lazarus]]
+[[Category:Looting]]
+[[Category:Luftstreitkräfte personnel]]
+[[Category:Luftwaffe World War II field marshals]]
+[[Category:Members of the Reichstag of the Weimar Republic]]
+[[Category:Members of the Reichstag of Nazi Germany]]
+[[Category:Nazi Germany ministers]]
+[[Category:Nazi leaders]]
+[[Category:Nazis who committed suicide by cyanide poisoning in Germany]]
+[[Category:Nazis who committed suicide in Nuremberg]]
+[[Category:Nazis who committed suicide in prison custody]]
+[[Category:Nazis who participated in the Beer Hall Putsch]]
+[[Category:Nazis who served in World War I]]
+[[Category:Nuclear program of Nazi Germany]]
+[[Category:People convicted by the International Military Tribunal in Nuremberg]]
+[[Category:People from Rosenheim]]
+[[Category:People from the Kingdom of Bavaria]]
+[[Category:Porajmos perpetrators]]
+[[Category:Prime Ministers of Prussia]]
+[[Category:Prisoners sentenced to death by international courts and tribunals]]
+[[Category:Recipients of the Order of Michael the Brave, 1st class]]
+[[Category:Recipients of the Pour le Mérite (military class)]]
+[[Category:Knights of the House Order of Hohenzollern]]
+[[Category:Recipients of the Grand Cross of the Iron Cross]]
+[[Category:Recipients of the Knight's Cross of the Iron Cross]]
+[[Category:Recipients of the Blood Order]]
+[[Category:Recipients of the clasp to the Iron Cross, 1st class]]
+[[Category:Sturmabteilung officers]]
+[[Category:Suicides by cyanide poisoning]]
+[[Category:Thule Society members]]
+[[Category:Interior ministers of Prussia]]
+[[Category:Luftwaffe personnel convicted of war crimes]]</text>
+      <sha1>ky5pjaj0rpy0gdip5b5fyyol4qsctll</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Virginio Livraghi</title>
+    <ns>0</ns>
+    <id>6337340</id>
+    <revision>
+      <id>837769430</id>
+      <parentid>787152781</parentid>
+      <timestamp>2018-04-22T23:05:41Z</timestamp>
+      <contributor>
+        <username>Keith D</username>
+        <id>2278355</id>
+      </contributor>
+      <minor/>
+      <comment>Fix cite date error using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1154">{{BLP sources|date=June 2011}}
+'''Virginio Livraghi''' is an [[Italy|Italian]] [[comic strip]] [[artist]] and [[illustrator]]&lt;ref name="Brasch2000"&gt;{{cite book|last=Brasch|first=Walter M.|title=Brer Rabbit, Uncle Remus, and the "Cornfield Journalist": the tale of Joel Chandler Harris|url=https://books.google.com/books?id=Y1MwwOVbraMC&amp;pg=RA11-PT10|accessdate=17 June 2011|date=October 2000|publisher=Mercer University Press|isbn=978-0-86554-696-7|pages=11–}}&lt;/ref&gt; who worked for the [[United Kingdom|British]] nursery [[comics]] ''[[Playhour]]'' and ''[[Once Upon a Time (comic)|Once Upon a Time]]''.
+
+==Books Illustrated by Virginio Livraghi in English==
+* [[Alice's Adventures in Wonderland|Alice in Wonderland]], retold by Jane Carruth (London, Odhams, 1963)
+* Curly the Pig, by Maria Pia Pezzi (New York, Golden Press, 1967)
+* [[Brer Rabbit]], by Barbara Hayes (Vero Beach, Fla., Rourke Enterprises, 1984; {{ISBN|0-86592-228-4}})
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Livraghi, Virginio}}
+[[Category:Italian comics artists]]
+[[Category:Italian illustrators]]
+[[Category:Living people]]
+
+
+{{Europe-comics-creator-stub}}</text>
+      <sha1>9zrjp4mzq6dbp4m5mqxyro47dp4x5t8</sha1>
+    </revision>
+  </page>
+</mediawiki>

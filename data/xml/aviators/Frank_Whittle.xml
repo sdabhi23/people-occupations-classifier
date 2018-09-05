@@ -1,0 +1,421 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frank Whittle</title>
+    <ns>0</ns>
+    <id>42707</id>
+    <revision>
+      <id>852976544</id>
+      <parentid>850951463</parentid>
+      <timestamp>2018-08-01T16:20:37Z</timestamp>
+      <contributor>
+        <username>Recensore256</username>
+        <id>34313057</id>
+      </contributor>
+      <comment>/* After the war */ Added and cited HoF induction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="70496">{{Use dmy dates|date=April 2016}}
+{{Use British English|date=April 2016}}
+{{Infobox military person
+| name        = Sir Frank Whittle
+| honorific_suffix = 
+| image       = Frank Whittle CH 011867 crop.jpg
+| image_size  = 250px
+| birth_date  = {{birth date|df=yes|1907|06|1}}
+| birth_place = [[Earlsdon]], [[Coventry]], [[England]]
+| death_date  = {{Death date and age|df=yes|1996|08|9|1907|06|1}}
+| death_place = [[Columbia, Maryland]], United States
+| death_cause = [[Lung cancer]]
+| resting_place = [[Cranwell]], [[England]]
+| nationality = British
+| known_for   = Development of the [[jet engine]]
+| employer    = [[Royal Air Force]]
+| occupation  = RAF Engineer Officer
+| spouse      = Dorothy Lee (1930–1976) (1904-1996)&lt;br/&gt;Hazel Hall (1916-2007)
+| children    = 2 sons
+| allegiance = {{flagu|United Kingdom}}
+| branch = {{Air force|United Kingdom}}
+| serviceyears = 1923–1948
+| rank = [[Air Commodore]]
+| battles =[[World War II]]
+| awards = {{unbulleted list
+  |[[Legion of Merit|Commander of the Legion of Merit]] (1946)
+  |[[Companion of the Order of the Bath|CB]] (1947)
+  |[[Knight Commander of the Order of the British Empire|KBE]] (1948)
+  |[[Rumford Medal]] (1950)
+  |[[The Franklin Institute Awards|Louis E. Levy Medal]] (1956)
+  |[[Order of Merit]] (1986)
+  |[[Fellow of the Royal Society]] (1986)&lt;ref name="frs"&gt;{{Cite journal | last1 = Feilden | first1 = G. B. R. | authorlink1 = Bob Feilden| last2 = Hawthorne | first2 = W. | authorlink2 = William Hawthorne| doi = 10.1098/rsbm.1998.0028 | title = Sir Frank Whittle, O. M., K. B. E.. 1 June 1907-9 August 1996 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 44 | pages = 435 | year = 1998 | pmid =  | pmc = }}&lt;/ref&gt;
+  |Honorary Fellow of the [[Royal Aeronautical Society]] (1986)
+  |[[Charles Stark Draper Prize]] (1991)
+  |[[Prince Philip Medal|Prince Philip Medal (RAE)]] (1991)
+  }}
+| laterwork = BOAC technical advisor, Shell engineer, engineer for Bristol Aero Engines, NAVAIR Professor at the US Naval Academy
+}}
+
+[[Air Commodore]] '''Sir Frank Whittle''' {{post-nominals|country=GBR|size=100%|OM|KBE|CB|FRS|FRAeS}}&lt;ref name="frs"/&gt; (1 June 1907 – 9 August 1996) was a British [[Royal Air Force]] [[air officer]].  He is credited with single-handedly inventing the [[turbojet]] engine.  A patent was submitted by [[Maxime Guillaume]] in 1921 for a similar invention; however, this was technically unfeasible at the time.  Whittle's [[jet engine]]s were developed some years earlier than those of Germany's [[Hans von Ohain]] who was the designer of the first ''operational'' turbojet engine.&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/425933/Hans-Joachim-Pabst-von-Ohain''Hans Joachim Pabst von Ohain''] Encyclopædia Britannica&lt;/ref&gt;
+
+From an early age, Whittle demonstrated an aptitude for engineering and an interest in flying.  At first he was turned down by the RAF but, determined to join the Royal Air Force, he overcame his physical limitations and was accepted and sent to No. 2 School of Technical Training to join No 1 Squadron of Cranwell Aircraft Apprentices.  He was taught the theory of aircraft engines and gained practical experience in the engineering workshops.  His academic and practical abilities as an Aircraft Apprentice earned him a place on the officer training course at [[RAF Cranwell|Cranwell]].  He excelled in his studies and became an accomplished pilot.  While writing his thesis there he formulated the fundamental concepts that led to the creation of the turbojet engine, taking out a patent on his design in 1930.  His performance on an officers' engineering course earned him a place on a further course at [[Peterhouse, Cambridge|Peterhouse]], [[University of Cambridge|Cambridge]], where he graduated with a First.&lt;ref name=tele/&gt;&lt;ref name="Eminent Petreans"&gt;{{cite web|url=http://www.pet.cam.ac.uk/welcome-peterhouse/eminent-petreans|title=Eminent Petreans|publisher=}}&lt;/ref&gt;
+
+Without [[Air Ministry]] support, he and two retired RAF servicemen formed [[Power Jets]] Ltd to build his engine with assistance from the firm of [[British Thomson-Houston]].&lt;ref&gt;{{cite web|last1=Evans|first1=R.L.|title=Whittle Power Jet Papers|url=https://cudl.lib.cam.ac.uk/view/MS-WHITTLE-00001/1|website=Cambridge Digital Library|accessdate=21 April 2017}}&lt;/ref&gt; Despite limited funding, a prototype was created, which first ran in 1937. Official interest was forthcoming following this success, with contracts being placed to develop further engines, but the continuing stress seriously affected Whittle's health, eventually resulting in a nervous breakdown in 1940. In 1944 when Power Jets was nationalised he again suffered a nervous breakdown, and resigned from the board in 1946.&lt;ref name=trust/&gt;
+
+In 1948, Whittle retired from the RAF and received a [[Orders, decorations, and medals of the United Kingdom|knighthood]].  He joined [[British Overseas Airways Corporation|BOAC]] as a technical advisor before working as an engineering specialist with [[Royal Dutch Shell|Shell]], followed by a position with [[Bristol Aeroplane Company|Bristol Aero Engines]]. After emigrating to the U.S. in 1976 he accepted the position of NAVAIR Research Professor at the [[United States Naval Academy]] from 1977–1979. In August 1996, Whittle died of lung cancer at his home in Columbia, Maryland.&lt;ref name="Whittle quantal DVD"&gt;{{cite video |people     = Frank Whittle |date     =  |title     = Whittle – the Jet Pioneer |url     = http://www.thehistorychannel.co.uk/site/tv_guide/full_details/Technology/programme_2819.php |format     = History Channel broadcast &amp; DVD |medium     =  |publisher     = The History Channel (TV&amp;nbsp;broadcast) &amp; Quantal films (extended DVD of broadcast) |location     =  |accessdate     = 5 October 2007 |deadurl     = yes |archiveurl     = https://web.archive.org/web/20080305070342/http://www.thehistorychannel.co.uk/site/tv_guide/full_details/Technology/programme_2819.php |archivedate     = 5 March 2008 |df     = dmy-all }}&lt;/ref&gt; In 2002, Whittle was ranked number 42 in the BBC poll of the [[100 Greatest Britons]].&lt;ref name="bbc100" &gt;{{cite news|url=http://www.dailymail.co.uk/news/article-134458/100-great-Britons--A-complete-list.html|title=100 great Britons|publisher=Daily Mail|date=21 August 2002|accessdate=27 August 2012}}&lt;/ref&gt;
+
+==Early life==
+[[File:Whittle terraced house 8g07.JPG|right|thumb|275px|Whittle's birthplace in [[Earlsdon, Coventry|Earlsdon]], Coventry, England. (photo 2007)]]
+
+Whittle was born in a [[terraced house]] in Newcombe Road, [[Earlsdon, Coventry|Earlsdon]], [[Coventry]], [[England]] on 1 June 1907, the eldest son of Moses Whittle and Sara Alice Garlick.&lt;ref name="RAF1"&gt;[http://www.raf.mod.uk/history_old/whittle1.html Whittle's biography on the RAF history website p. 1] Retrieved: 18 July 2008&lt;/ref&gt; When he was nine years old, the family moved to the nearby town of [[Leamington Spa|Royal Leamington Spa]] where his father, a highly inventive practical engineer and mechanic,&lt;ref name="MAM"&gt;Details from the Sir Frank Whittle Jet Heritage Centre display at the [[Midland Air Museum]]&lt;/ref&gt; purchased the Leamington Valve and Piston Ring Company, which comprised a few lathes and other tools and a single-cylinder [[gas engine]], on which Whittle became an expert.&lt;ref name=tele &gt;''[http://www2.eng.cam.ac.uk/~bcb/whittle/telgraph.htm Sir Frank Whittle]'', [[The Daily Telegraph]], Obituaries, 10 August 1996&lt;/ref&gt;&lt;ref name ="Whittle quantal DVD"/&gt; Whittle developed a rebellious and adventurous streak, together with an early interest in aviation.&lt;ref name="RAF1"/&gt;
+
+After two years attending Milverton School, Whittle won a scholarship to a secondary school which in due course became [[Leamington College for Boys]], but when his father's business faltered there was not enough money to keep him there. He quickly developed practical engineering skills while helping in his father's workshop, and being an enthusiastic reader spent much of his spare time in the Leamington reference library, reading about astronomy, engineering, turbines, and the theory of flight.&lt;ref name="MAM"/&gt; At the age of 15, determined to be a pilot, Whittle applied to join the [[Royal Air Force|RAF]].&lt;ref name=tele/&gt;
+
+==Entering the RAF==
+In January 1923, having passed the RAF entrance examination with a high mark, Whittle reported to [[RAF Halton]] as an [[Aircraft Apprentice]]. He lasted only two days: just five feet tall and with a small chest measurement, he failed the medical.&lt;ref name=tele/&gt; He then put himself through a vigorous training programme and special diet devised by a physical training instructor at Halton to build up his physique, only to fail again six months later, when he was told that he could not be given a second chance, despite having added three inches to his height and chest.&lt;ref name="RAF1"/&gt; Undeterred, he applied again under an assumed name and presented himself as a candidate at the No 2 School of Technical Training [[RAF Cranwell]]. This time he passed the physical and, in September that year, 364365 Boy Whittle, F started his three-year training as an aircraft mechanic in No. 1 Squadron of No. 4 Apprentices Wing, RAF Cranwell, because RAF Halton [[No. 1 School of Technical Training RAF|No. 1 School of Technical Training]]&lt;ref name="MAM"/&gt; was unable to accommodate all the aircraft apprentices at that time.
+
+Whittle hated the strict discipline imposed on apprentices and, convinced there was no hope of ever becoming a pilot he at one time seriously considered deserting.&lt;ref name="MAM"/&gt; However, throughout his early days as an aircraft apprentice (and at the [[Royal Air Force College Cranwell]]), he maintained his interest in model aircraft and joined the Model Aircraft Society, where he built working replicas. The quality of these attracted the eye of the Apprentice Wing commanding officer, who noted that Whittle was also a mathematical genius. He was so impressed that in 1926 he recommended Whittle for officer training at RAF College Cranwell.&lt;ref name=tele/&gt;
+
+For Whittle, this was the chance of a lifetime, not only to enter the commissioned ranks but also because the training included [[Flight training|flying lessons]] on the [[Avro 504]].&lt;ref name=tele/&gt; While at Cranwell he lodged in a bungalow at [[Dorrington, Lincolnshire|Dorrington]]. Being an ex-apprentice amongst a majority of ex-public schoolboys, life as an officer cadet was not easy for him, but he nevertheless excelled in the courses and went solo in 1927 after only 13.5 hours instruction, quickly progressing to the [[Bristol F.2 Fighter|Bristol Fighter]] and gaining a reputation for daredevil low flying and aerobatics.&lt;ref name="MAM"/&gt;
+
+A requirement of the course was that each student had to produce a thesis for graduation: Whittle decided to write his on potential aircraft design developments, notably flight at high altitudes and speeds over 500&amp;nbsp;mph (800&amp;nbsp;km/h). In ''Future Developments in Aircraft Design'' he showed that incremental improvements in existing propeller engines were unlikely to make such flight routine. Instead he described what is today referred to as a [[motorjet]]; a motor using a conventional [[piston engine]] to provide compressed air to a combustion chamber whose exhaust was used directly for thrust – essentially an [[afterburner]] attached to a propeller engine. The idea was not new and had been talked about for some time in the industry, but Whittle's aim was to demonstrate that at increased altitudes the lower outside air pressure would increase the design's efficiency. For long-range flight, using an Atlantic-crossing mailplane as his example, the engine would spend most of its time at high altitude and thus could outperform a conventional powerplant.&lt;ref name=tele /&gt;
+
+Of the few apprentices accepted into the Royal Air Force College, Whittle graduated in 1928 at the age of 21 and was commissioned as a [[Pilot Officer]] in July.&lt;ref&gt;{{London Gazette
+|issue = 33414
+|date = 21 July 1928
+|page=5575
+}}&lt;/ref&gt; He ranked second in his class in academics, won the Andy Fellowes Memorial Prize for Aeronautical Sciences for his thesis, and was described as an "exceptional to above average" pilot.&lt;ref name=tele/&gt; However, his flight logbook also showed numerous red ink warnings about showboating and overconfidence,&lt;ref name=tele/&gt; and because of dangerous flying in an [[Armstrong Whitworth Siskin]] he was disqualified from the end of term flying contest.&lt;ref name="MAM"/&gt;
+
+==Development of the turbojet engine==
+Whittle continued working on the motorjet principle after his thesis work but eventually abandoned it when further calculations showed it would weigh as much as a conventional engine of the same thrust. Pondering the problem he thought: "Why not substitute a turbine for the piston engine?" Instead of using a piston engine to provide the compressed air for the burner, a turbine could be used to extract some power from the exhaust and drive a similar compressor to those used for [[supercharger]]s. The remaining exhaust thrust would power the aircraft.&lt;ref&gt;''[http://www.warbirdforum.com/whittle.htm Gentlemen, I give you the Whittle engine]'' {{webarchive |url=https://web.archive.org/web/20080516164256/http://www.warbirdforum.com/whittle.htm |date=16 May 2008 }}&lt;/ref&gt;
+
+On 27 August 1928 Pilot Officer Whittle joined [[No. 111 Squadron RAF|No. 111 Squadron]], Hornchurch, flying [[Armstrong Whitworth Siskin|Siskin IIIs]]. His continuing reputation for low flying and aerobatics provoked a public complaint that almost led to his being court-martialled.&lt;ref name="RAF2" &gt;{{cite web |url=http://www.raf.mod.uk/history_old/whittle2.html |title=Sir Frank Whittle - Flying Career. |work=Royal Air Force History |archiveurl=https://web.archive.org/web/20070713020750/https://www.raf.mod.uk/history_old/whittle2.html |archivedate=13 July 2007}}&lt;/ref&gt; Within a year he was posted to [[Central Flying School]], Wittering, for a flying instructor's course. He became a popular and gifted instructor, and was selected as one of the entrants in a competition to select a team to perform the "crazy flying" routine in the 1930 Royal Air Force Air Display at [[Hendon Aerodrome|RAF Hendon]]. He destroyed two aircraft in accidents during rehearsals but remained unscathed on both occasions. After the second incident an enraged Flight Lieutenant Harold W. Raeburn said furiously, "Why don't you take all my bloody aeroplanes, make a heap of them in the middle of the aerodrome and set fire to them – it's quicker!"&lt;ref name="RAF2" /&gt;
+
+Whittle showed his engine concept around the base, where it attracted the attention of Flying Officer Pat Johnson, formerly a patent examiner. Johnson, in turn, took the concept to the commanding officer of the base. This set in motion a chain of events that almost led to the engines being produced much sooner than actually occurred.&lt;ref name=tele/&gt;
+
+Earlier, in July 1926, [[Alan Arnold Griffith|A. A. Griffith]] had published a paper on compressors and turbines, which he had been studying at the [[Royal Aircraft Establishment]] (RAE). He showed that such designs up to this point had been flying "stalled", and that by giving the compressor blades an aerofoil-shaped cross-section their efficiency could be dramatically improved. The paper went on to describe how the increased efficiency of these sorts of compressors and turbines would allow a jet engine to be produced, although he felt the idea was impractical, and instead suggested using the power as a [[turboprop]]. At the time most superchargers used a [[centrifugal compressor]], so there was limited interest in the paper.
+
+Encouraged by his commanding officer, in late 1929 Whittle sent his concept to the [[Air Ministry]] to see if it would be of any interest to them. With little knowledge of the topic they turned to the only other person who had written on the subject and passed the paper on to Griffith. Griffith appears to have been convinced that Whittle's "simple" design could never achieve the sort of efficiencies needed for a practical engine. After pointing out an error in one of Whittle's calculations, he went on to comment that the centrifugal design would be too large for aircraft use and that using the jet directly for power would be rather inefficient. The RAF returned his comment to Whittle, referring to the design as being "impracticable".&lt;ref name=tele/&gt;
+
+Pat Johnson remained convinced of the validity of the idea, and had Whittle patent&lt;ref&gt;http://www.frankwhittle.co.uk/content.php?act=viewDoc&amp;docId=4&amp;docFatherId=1&amp;level=sub&lt;/ref&gt; the idea in January 1930. Since the RAF was not interested in the concept they did not declare it secret, meaning that Whittle was able to retain the rights to the idea, which would have otherwise been their property. Johnson arranged a meeting with [[British Thomson-Houston]] (BTH), whose chief turbine engineer seemed to agree with the basic idea. However, BTH did not want to spend the ₤60,000 it would cost to develop it, and this potential brush with early success went no further.&lt;ref name=tele/&gt;
+
+In January 1930, Whittle was promoted to [[Flying Officer]].&lt;ref&gt;{{London Gazette
+|issue = 33591
+|date = 25 March 1930
+|page=1896
+}}&lt;/ref&gt; In Coventry, on 24 May 1930, Whittle married his fiancée, Dorothy Mary Lee, with whom he later had two sons, David and Ian.&lt;ref name="RAF2"/&gt; Then, in 1931, he was posted to the [[Marine Aircraft Experimental Establishment]] at [[Felixstowe]] as an armament officer and [[test pilot]] of seaplanes, where he continued to publicize his idea.  This posting came as a surprise for he had never previously flown a seaplane, but he nevertheless increased his reputation as a pilot by flying some 20 different types of floatplanes, flying boats, and amphibians.&lt;ref name="MAM"/&gt;&lt;ref&gt;{{cite web|url=http://www.flightglobal.com/pdfarchive/view/1951/1951%20-%200881.html|title=power jets - frank whittle - gloster - 1951 - 0881 - Flight Archive|publisher=}}&lt;/ref&gt; Every officer with a permanent commission was expected to take a specialist course, and as a result Whittle attended the Officers' Engineering Course at [[RAF Henlow]], [[Bedfordshire]] in 1932. He obtained an aggregate of 98% in all subjects in his exams, completing the course in 18&amp;nbsp;months instead of the more normal two&amp;nbsp;years.
+
+His performance in the course was so exceptional that in 1934 he was permitted to take a two-year engineering course as a member of [[Peterhouse, Cambridge|Peterhouse]], the oldest college of [[University of Cambridge|Cambridge University]], graduating in 1936 with a First in the Mechanical Sciences Tripos.&lt;ref name=tele /&gt; In February 1934, he had been promoted to the rank of [[Flight Lieutenant]].&lt;ref&gt;{{London Gazette
+|issue = 34023
+|date = 13 February 1934
+|page=1004
+}}&lt;/ref&gt;
+
+===Power Jets Ltd===&lt;!-- This section is linked from [[Gloster Meteor]] --&gt;
+Still at Cambridge, Whittle could ill afford the £5 renewal fee for his jet engine patent when it became due in January 1935, and because the Air Ministry refused to pay it the patent was allowed to lapse. Shortly afterwards, in May, he received mail from [[Sir Rolf Dudley-Williams, 1st Baronet|Rolf Dudley-Williams]], who had been with him at Cranwell in the 1920s and Felixstowe in 1930. Williams arranged a meeting with Whittle, himself, and another by-then-retired RAF serviceman, [[James Collingwood Tinling]]. The two proposed a partnership that allowed them to act on Whittle's behalf to gather public financing so that development could go ahead.&lt;ref name=tele/&gt;&lt;ref name="Eminent Petreans"/&gt;
+
+The agreement soon bore fruit, and in 1935, through Tinling's father, Whittle was introduced to Mogens L. Bramson, a well-known independent consulting aeronautical engineer.&lt;ref&gt;Golley 1987, p. 66&lt;/ref&gt; Bramson was initially skeptical but after studying Whittle's ideas became an enthusiastic supporter.&lt;ref name = ASAEE&gt;{{cite report |url= https://archive.org/details/ECL-172|title= ECL 172: This Must Be Done!|last1= Kardos|first1= Geza|date= 1971|website= |publisher= [[American Society for Engineering Education]] | series = Engineering Case Library|access-date= 16 July 2015}}&lt;/ref&gt;  Bramson introduced Whittle and his two associates to the investment bank O.T. Falk &amp; Partners, where discussions took place with [[Lancelot Law Whyte]] and occasionally Sir Maurice Bonham-Carter.&lt;ref name=tele/&gt;&lt;ref name="Golley 1987, p. 67"&gt;Golley 1987, p. 67&lt;/ref&gt; The firm had an interest in developing speculative projects that conventional banks would not touch. Whyte was impressed by the 28-year-old Whittle and his design when they met on 11 September 1935:
+
+{{quote|The impression he made was overwhelming, I have never been so quickly convinced, or so happy to find one's highest standards met... This was genius, not talent. Whittle expressed his idea with superb conciseness:  'Reciprocating engines are exhausted.  They have hundreds of parts jerking to and fro, and they cannot be made more powerful without becoming too complicated.  The engine of the future must produce 2,000&amp;nbsp;hp with one moving part: a spinning turbine and compressor.' |Lancelot Law Whyte&lt;ref name=airf&gt;Lee Payne, ''[http://www.afa.org/magazine/jan1982/0182race.html The Great Jet Engine Race... And How We Lost]'', Air Force Magazine, Vol. 65, No. 1 (January 1982) {{webarchive |url=https://web.archive.org/web/20120515152255/http://www.afa.org/magazine/jan1982/0182race.html |date=15 May 2012 }}&lt;/ref&gt;}}
+
+However O.T. Falk &amp; Partners specified they would only invest in Whittle's engine if they had independent verification that it was feasible.&lt;ref name = Bramson/&gt; They financed an independent engineering review from Bramson (The historic&lt;ref name="Golley 1987, p. 67"/&gt; "Bramson Report"&lt;ref name = Bramson&gt;{{Cite journal |last= Meher-Homji|first= Cyrus B. |date= 2002|title= Enabling the Turbojet Revolution – The Bramson Report|url= http://files.asme.org/IGTI/News/25224.pdf |journal= |publisher= American Society of Mechanical Engineers|volume= 42|issue= 1|pages= 16–20|access-date=16 July 2015}}&lt;/ref&gt;
+&lt;ref&gt;{{Cite journal |last= Bramson|first= Mogens |date= February 1979|title= Report on the Whittle System of Aircraft Propulsion (Theoretical Stage)- 8 October 1935|journal= Journal of the Royal Aeronautical Society}}&lt;/ref&gt;), which was issued in November 1935.  It was favourable and Falk then agreed to finance Whittle.&lt;ref&gt;Nahum 2004, p. 28.&lt;/ref&gt; With that the jet engine was finally on its way to becoming a reality.
+
+On 27 January 1936, the principals signed the "Four Party Agreement", creating "[[Power Jets]] Ltd" which was incorporated in March 1936. The parties were O.T. Falk &amp; Partners, the Air Ministry, Whittle and, together, Williams and Tinling. Falk was represented on the board of Power Jets by Whyte as Chairman and Bonham-Carter as a director (with Bramson acting as alternate&lt;ref&gt;Golley 1987, p. 70&lt;/ref&gt;).&lt;ref&gt;Nahum 2004, pp. 34–35.&lt;/ref&gt; Whittle, Williams and Tinling retained a 49% share of the company in exchange for Falk and Partners putting in £2,000 with the option of a further £18,000 within 18 months.&lt;ref name=trust&gt;[http://www.frankwhittle.co.uk/content.php?act=viewDoc&amp;docId=6&amp;docFatherId=1&amp;level=sub POWER JETS A brief biography], ''The Sir Frank Whittle Commemorative Trust''&lt;/ref&gt;&lt;ref&gt;Golley 1987, p. 69&lt;/ref&gt; As Whittle was still a full-time RAF officer and currently at Cambridge, he was given the title "Honorary Chief Engineer and Technical Consultant". Needing special permission to work outside the RAF, he was placed on the Special Duty List and allowed to work on the design as long as it was for no more than six hours a week.&lt;ref&gt;Nahum 2004, p. 35.&lt;/ref&gt; However he was allowed to continue at Cambridge for a year doing post-graduate work which gave him time to work on the turbojet.&lt;ref&gt;Golley 1987, p. 77&lt;/ref&gt;
+
+The Air Ministry still saw little immediate value in the effort (they regarded it as long-range research&lt;ref&gt;Golley 1987, pp. 71 &amp; 77&lt;/ref&gt;), and having no production facilities of its own, Power Jets entered into an agreement with steam turbine specialists British Thomson-Houston (BTH) to build an experimental engine facility at a BTH factory in [[Rugby, Warwickshire]].&lt;ref&gt;Nahum 2004, p. 53.&lt;/ref&gt; Work progressed quickly, and by the end of the year 1936 the prototype detail design was finalised and parts for it were well on their way to being completed, all within the original £2,000 budget.&lt;ref name=trust/&gt;&lt;ref&gt;Golley 1987, p. 82&lt;/ref&gt; However, by 1936, Germany had also started working on jet engines ([[Herbert A. Wagner]] at [[Junkers]] and [[Hans von Ohain]] at [[Heinkel]]) and, although they too had difficulty overcoming conservatism, the [[Ministry of Aviation (Nazi Germany)|German Ministry of Aviation]] (Reichsluftfahrtministerium) was more supportive than their British counterpart.&lt;ref&gt;Golley 1987, pp. 77 &amp; 80&lt;/ref&gt;
+
+===Financial difficulty===
+Earlier, in January, when the company formed, [[Henry Tizard]], the rector of [[Imperial College London]] and chairman of the [[Aeronautical Research Committee]] (ARC), had prompted the Air Ministry's Director of Scientific Research to ask for a write-up of the design. The report was once again passed on to Griffith for comment, but was not received back until March 1937 by which point Whittle's design was well along. Griffith had already started construction of his own turbine engine design and, perhaps to avoid tainting his own efforts, he returned a somewhat more positive review. However, he remained highly critical of some features, notably the use of jet thrust. The Engine Sub-Committee of ARC studied Griffith's report, and decided to fund his effort instead.&lt;ref name=trust/&gt;
+
+Given this astonishing display of official indifference, Falk and Partners gave notice that they could not provide funding beyond £5,000.&lt;ref name=trust/&gt; Nevertheless, the team pressed ahead, and the [[Power Jets WU|W.U.]] (Whittle Unit) engine ran successfully on 12 April 1937. Tizard pronounced it "streaks ahead" of any other advanced engine he had seen, and managed to interest the [[Air Ministry]] enough to fund development with a contract for £5,000 to develop a flyable version.&lt;ref name="Nahum 37–38"&gt;Nahum 2004, pp. 37–38.&lt;/ref&gt; However, it was a year before the funds were made available, greatly delaying development.
+
+In July, when Whittle's stay at Cambridge was over, he was released to work full-time on the engine. On 8 July Falk gave the company an emergency loan of £250, and on the 15th they agreed to find £4,000 to £14,000 in additional funding. The money never arrived and, entering into default, Falk's shares were returned to Williams, Tinling and Whittle on 1 November. Nevertheless, Falk arranged another loan of £3,000, and work continued.&lt;ref name=trust/&gt; Whittle was promoted to [[Squadron Leader]] in December.&lt;ref&gt;{{London Gazette
+|issue = 34461
+|date = 7 December 1937
+|page=7661
+}}&lt;/ref&gt;
+
+Testing continued with the W.U., which showed an alarming tendency to race out of control. Because of the dangerous nature of the work being carried out, development was largely moved from Rugby to BTH's lightly used Ladywood foundry at nearby [[Lutterworth]] in [[Leicestershire]] in 1938, where there was a successful run of the W.U. in March that year. BTH had decided to put in £2,500 of their own in January, and in March 1938 the Air Ministry funds finally arrived. This proved to be a mixed blessing – the company was now subject to the [[Official Secrets Act]], which made it extremely difficult to gather more private equity.
+
+[[File:Gloster E28-39 first prototyp lr.jpg|thumb|The [[Gloster E.28/39]], the first British aircraft to fly with a turbojet engine]]
+
+These delays and the lack of funding slowed the project. In Germany, [[Hans von Ohain]] had started work on a prototype in 1935, and had by this point passed the prototype stage and was building the world's first flyable [[Jet aircraft]], the [[Heinkel HeS 3]]. There is little doubt that Whittle's efforts would have been at the same level or even more advanced had the Air Ministry taken a greater interest in the design. When [[World War II|war]] broke out in September 1939, Power Jets had a payroll of only 10 and Griffith's operations at the RAE and [[Metropolitan-Vickers]] were similarly small.
+
+The stress of the continual on-again-off-again development and problems with the engine took a serious toll on Whittle.
+
+{{quote|The responsibility that rests on my shoulders is very heavy indeed.&amp;nbsp;... either we place a powerful new weapon in the hands of the Royal Air Force or, if we fail to get our results in time, we may have falsely raised hopes and caused action to be taken which may deprive the Royal Air Force of hundreds of [conventional] aircraft that it badly needs.&amp;nbsp;... I have a good crowd round me. They are all working like slaves, so much so, that there is a risk of mistakes through physical and mental fatigue.|Frank Whittle&lt;ref&gt;Nahum 2004, p. 57.&lt;/ref&gt;}}
+
+His smoking increased to three packs a day and he suffered from various stress-related ailments such as frequent severe headaches, indigestion, insomnia, anxiety, [[eczema]] and heart palpitations,&lt;ref name = Golley148&gt;Golley 1987, pp. 149 &amp; 150&lt;/ref&gt; while his weight dropped to nine&amp;nbsp;stone (126&amp;nbsp;lb / 57&amp;nbsp;kg). In order to keep to his 16-hour workdays, he sniffed [[Benzedrine]] during the day and then took tranquillizers and sleeping pills at night to offset the effects and allow him to sleep. He admitted later he had become addicted to benzidrene.&lt;ref name = Golley148/&gt;  Over this period he became irritable and developed an "explosive" temper.&lt;ref&gt;Nahum 2004, pp. 79–80, 89.&lt;/ref&gt;
+
+===Changing fortunes===
+By June 1939, Power Jets could barely afford to keep the lights on when yet another visit was made by Air Ministry personnel. This time Whittle was able to run the W.U. at high power for 20&amp;nbsp;minutes without any difficulty. One of the members of the team was the Director of Scientific Research, [[David Randall Pye]], who walked out of the demonstration utterly convinced of the importance of the project. The Ministry agreed to buy the W.U. and then loan it back to them, injecting cash, and placed an order for a flyable version of the engine.&lt;ref name="Nahum 37–38"/&gt;
+
+Whittle had already studied the problem of turning the massive W.U. into a flyable design, with what he described as very optimisitic targets, to power a little aeroplane weighing 2,000 lb with a static thrust of 1,389 lb.&lt;ref&gt;"The Early History Of The Whittle Jet Propulsion Gas Turbine" Air Commodore F. Whittle, James Clayton Memorial Lecture 1945, Institution of Mechanical Engineers, p.423, Fig.4&lt;/ref&gt; With the new contract work started in earnest on the "[[Power Jets W.1|Whittle Supercharger Type W.1]]". It featured a reverse-flow design;  air from the compressor was fed rearwards into the combustion chambers, then back towards the front of the engine, then finally reversing again into the turbine. This design reduced the length of the engine, and the length of the drive shaft connecting the compressor and turbine, thus reducing weight.
+
+In January 1940, the Ministry placed a contract with the [[Gloster Aircraft Company]] for a simple aircraft specifically to flight-test the W.1, the [[Gloster E.28/39]]. They also placed a second engine contract, this time for a larger design that developed into the otherwise similar [[Power Jets W.2|W.2]]. In February work started on a third design, the W.1A, which was the size of the W.1 but used the W.2's mechanical layout. The W.1A allowed them to flight test the W.2's basic mechanical design in the E.28/39. Power Jets also spent some time in May 1940 drawing up the W.2Y, a similar design with a "straight-through" airflow that resulted in a longer engine and, more critically, a longer driveshaft but having a somewhat simpler layout. To reduce the weight of the driveshaft as much as possible, the W.2Y used a large diameter, thin-walled, shaft almost as large as the turbine disc, "necked down" at either end where it connected to the turbine and compressor.
+
+In April, the Air Ministry issued contracts for W.2 production lines with a capacity of up to 3,000 engines a month in 1942, asking BTH, [[Vauxhall Motors|Vauxhall]] and the [[Rover Company]] to join. However, the contract was eventually taken up by Rover only.&lt;ref&gt;Nahum 2004, p. 61.&lt;/ref&gt; In June, Whittle received a promotion to [[Wing Commander (rank)|Wing Commander]].&lt;ref&gt;{{London Gazette
+|issue = 34866
+|date = 7 June 1940
+|page=3437
+}}&lt;/ref&gt;
+
+===Rover===
+Meanwhile, work continued with the W.U., which eventually went through nine rebuilds in an attempt to solve the combustion problems that had dominated the testing. On 9 October the W.U. ran once again, this time equipped with Lubbock or "Shell" atomizing-burner combustion chambers.&lt;ref&gt;Developed by Isaac Lubbock of the Shell combustion laboratories in Fulham. Nahum 2004, pp. 80–81.&lt;/ref&gt; Combustion problems ceased to be an obstacle to development of the engine although intensive development was started on all features of the new combustion chambers.&lt;ref&gt;"The early history of the Whittle jet propulsion Gas Turbine" Air Commodore F. Whittle, James Clayton Memorial Lecture 1945, Institution of Mechanical Engineers, p. 428-430&lt;/ref&gt;
+
+By this point it was clear that Gloster's first airframe would be ready long before Rover could deliver an engine. Unwilling to wait, Whittle cobbled together an engine from spare parts, creating the W.1X ("X" standing for "experimental") which ran for the first time on 14 December 1940. On 10 December Whittle suffered a nervous breakdown, and left work for a month.&lt;ref&gt;Nahum 2004, p. 89.&lt;/ref&gt; Shortly afterwards an application for a  US patent was made by Power Jets for an "Aircraft propulsion system and power unit"&lt;ref&gt;https://www.google.co.uk/patents/US2404334?dq=2,404,334&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjW0cKd4JjMAhVCWhoKHXQxCG8Q6AEIHDAA&lt;/ref&gt;
+
+The W1X engine powered the E.28/39 for taxi testing on 7 April 1941 near the factory in Gloucester, where it took to the air for two or three short hops of several hundred yards at about six feet from the ground.&lt;ref name ="Whittle quantal DVD"/&gt;
+
+The definitive W.1 of 850&amp;nbsp;[[lbf]] (3.8&amp;nbsp;[[kilonewton|kN]]) thrust ran on  12 April 1941, and on 15 May the W.1-powered E.28/39 took off from Cranwell at 7:40&amp;nbsp;pm, flying for 17&amp;nbsp;minutes and reaching a maximum speed of around 340&amp;nbsp;mph (545&amp;nbsp;km/h). At the end of the flight, Pat Johnson, who had encouraged Whittle for so long said to him, "Frank, it flies."  Whittle replied, "Well, that's what it was bloody well designed to do, wasn't it?"&lt;ref name=tele/&gt;&lt;ref&gt;[http://www.businessweek.com/magazine/content/04_18/b3881044_mz072.htm Frank Whittle: A Daredevil Who Built Jets], BusinessWeek&lt;/ref&gt;
+
+Within days the aircraft was reaching 370&amp;nbsp;mph (600&amp;nbsp;km/h) at 25,000&amp;nbsp;feet (7,600&amp;nbsp;m), exceeding the performance of the contemporary [[Supermarine Spitfire|Spitfires]]. Success of the design was now evident; the first example of what was a purely experimental and entirely new engine design was already outperforming one of the best piston engines in the world, an engine that had five years of development and production behind it, and decades of engineering. Nearly every engine company in Britain then started their own crash efforts to catch up with Power Jets.
+
+[[File:Whittle Jet Engine W2-700.JPG|thumb|left|The [[Power Jets W.2|W2/700]] engine, or W.2B/23 as it was known to the Air Ministry. It was the first British production jet engine, powering early models of the Gloster Meteor.]]
+
+In 1941 Rover set up a new laboratory for Whittle's team along with a production line at their unused [[Barnoldswick]] factory, but by late 1941 it was obvious that the arrangement between Power Jets and Rover was not working. Whittle was frustrated by Rover's inability to deliver production-quality parts, as well as with their attitude of engineering superiority, and became increasingly outspoken about the problems. Rover decided to set up secretly a parallel effort with their own engineers at Waterloo Mill, in nearby [[Clitheroe]]. Here [[Adrian Lombard]] started work developing the W.2B into Rover's own production-quality design, dispensing with Whittle's "reverse-flow" combustion chambers and developing a longer but simpler "straight-through" engine instead. This was encouraged by the Air Ministry, who gave Whittle's design the name "B.23", and Rover's became the "B.26".
+
+Work on all of the designs continued over the winter of 1941–42. The first W.1A was completed soon after, and on 2 March 1942 the second E.28/39 reached 430&amp;nbsp;mph (690&amp;nbsp;km/h) at 15,000&amp;nbsp;feet (4,600&amp;nbsp;m) on this engine. The next month work on an improved W.2B started under the new name, "W2/500". In April Whittle learned of Rover's parallel effort, creating discontentment and causing a major crisis in the programme. Work continued, however, and in September the first W2/500 ran for the first time, generating its full design thrust of 1,750&amp;nbsp;lbf (7.8&amp;nbsp;kN) the same day. Work started on a further improvement, the W2/700.
+
+===Rolls-Royce===
+{{refimprove section|date=April 2013}}
+Earlier, in January 1940, Whittle had met Dr [[Stanley Hooker]] of [[Rolls-Royce Limited|Rolls-Royce]], who in turn introduced Whittle to Rolls-Royce board member and manager of their Derby factory, [[Ernest Walter Hives, 1st Baron Hives|Ernest Hives]] (later Lord Hives). Hooker was in charge of the supercharger division at Rolls-Royce Derby and was a specialist in the mathematics of "[[Fluid dynamics|fluid flow]]".  He had already increased the power of the [[Rolls-Royce Merlin|Merlin]] piston engine by improving its supercharger.{{sfn|Hooker|2002|p=52}} Such a speciality was naturally suited to the aero-thermodynamics of jet engines in which the optimisation of airflow in compressor, combustion chambers, turbine and jet pipe, is fundamental. Hives agreed to supply key parts to help the project. Also, Rolls-Royce built a compressor test rig which helped Whittle solve the [[Compressor stall|surging]] problems (unstable airflow in the compressor) on the W.2 engine.{{sfn|Hooker|2002|p=68}} In early 1942 Whittle contracted Rolls-Royce for six engines, known as the WR.1, identical to the existing W.1.
+
+When Rolls-Royce became involved, Ray Dorey, the manager of the company's Flight Centre at [[Hucknall Aerodrome|Hucknall airfield]] on the north side of Nottingham, had a Whittle engine installed in the rear of a [[Vickers Wellington]] bomber.{{sfn|Hooker|2002|p=106}}&lt;ref&gt;Verbal evidence from Flight Test Engineer W R (Bill) Grose who operated the Whittle engine in the Wellington and had previously been involved in ground test running of the Whittle engine at either Lutterworth or Rugby&lt;/ref&gt; The installation was done by Vickers at Weybridge.&lt;ref&gt;Men Of Power, Robert Jackson, Pen % Sword Aviation, Barnsley 2006, {{ISBN|1 84415 427 0}}, p.85&lt;/ref&gt; A flying test-bed enables testing to be done in flight without the aircraft depending on an untried engine for its own propulsion and safety.
+
+The problems between Rover and Power Jets became a "public secret" and late in 1942 [[Spencer Wilks]] of Rover met with Hives and Hooker at the "Swan and Royal" pub, in Clitheroe, near the Barnoldswick factory. By arrangement with the Ministry of Aircraft Production&lt;ref&gt;https://www.flightglobal.com/pdfarchive/view/1946/1946%20-%200235.html&lt;/ref&gt; they traded the jet factory at Barnoldswick for Rolls-Royce's [[Rolls-Royce Meteor|tank engine]] factory in Nottingham, sealing the deal with a handshake. The official handover took place on 1 January 1943, although the W.2B contract had already been signed over in December. Rolls-Royce closed Rover's secret parallel plant at [[Clitheroe]] soon after; however, they continued the development of the W.2B/26 that had begun there.
+
+Testing and production ramp-up was immediately accelerated. In December 1942 Rover had tested the W.2B for a total of 37&amp;nbsp;hours, but within the next month Rolls-Royce tested it for 390&amp;nbsp;hours. The W.2B passed its first 100-hour test at full performance of 1,600&amp;nbsp;lbf (7.1&amp;nbsp;kN) on 7 May 1943. The prototype [[Gloster Meteor|Meteor]] airframe was already complete and took to the air on 12 June 1943. Production versions of the engine started rolling off the line in October, first known as the W.2B/23, then the RB.23 (for "Rolls-Barnoldswick") and eventually became known as the [[Rolls-Royce Welland]]. Barnoldswick was too small for full-scale production and turned back into a pure research facility under Hooker's direction, while a new factory was set up in [[Newcastle-under-Lyme]]. Rover's W.2B/26, as the [[Rolls-Royce Derwent]], opened the new line and soon replaced the Welland, allowing the production lines at Barnoldswick to shut down in late 1944.
+
+Despite lengthy delays in their own programme, the [[Luftwaffe]] beat the British efforts into the air by nine months. A lack of cobalt for high-temperature steel alloys meant the German designs were always at risk of overheating and damaging their turbines. The low-grade alloy production versions of the [[Junkers Jumo 004]], designed by Dr. [[Anselm Franz]] and which powered the [[Messerschmitt Me 262]] would typically last only 10–25&amp;nbsp;hours (longer with an experienced pilot) before burning out; if it was accelerated too quickly, the compressor would stall and power was immediately lost and sometimes it exploded on their first startup.  Over 200 German pilots were killed during training.  Nevertheless, the Me 262 could fly far faster than allied planes and had very effective firepower.  Although Me 262s were introduced late in the war they shot down 542&lt;ref&gt;{{Cite book |last=Green |first=William |year=1970 |title=Warplanes of the Third Reich |location=New York |publisher=Galahad Books |isbn=0-88365-666-3 |pp=634–638}}&lt;/ref&gt; or more&lt;ref&gt;{{Cite book |last=Boyne |first=Walter J. |authorlink=Walter J. Boyne |year=1994 |title=Clash of Wings |location=New York |publisher=Simon &amp; Schuster |isbn=0-684-83915-6 |p=325}}&lt;/ref&gt; allied planes and in one allied bombing raid downed 32 of the 36 [[Boeing B-17 Flying Fortress]]es.{{sfn|Golley|1987|pp=222 &amp; 223}} Whittle's designs were more basic, with centrifugal compressors rather than the more complicated axial designs.  The latter, having several stages of rotating blades, each stage increasing the pressure, were potentially more efficient but were much more difficult to develop.  The UK designs also had better materials such as the [[Nimonic]] alloys for turbine blades. Early UK jet engines would run for 150&amp;nbsp;hours between overhauls and had better [[power-to-weight ratio]] and [[Thrust specific fuel consumption|specific fuel consumption]] compared with the German designs. By the end of the Second World War, other UK engine companies were working on jet designs based on the Whittle pattern, such as the [[de Havilland Goblin]] and [[de Havilland Ghost|Ghost]] engines. However, the advantages of axial-flow compressors with their higher pressure ratios compared with simpler centrifugal designs led to a transition to axial compressors in the late 1940s, epitomised by the [[Rolls-Royce Avon]] series, [[Armstrong Siddeley Sapphire]], [[Rolls-Royce Olympus|Bristol Olympus]], and others.
+
+===Continued development===
+[[File:GE J-31 Turbojet Engine.jpg|thumb|A cutaway [[General Electric J31|General Electric J31 (I-16)]] turbojet engine based on the [[Power Jets W.1|W.1]]/[[Power Jets W.2|W.2B]]]]
+
+With the W.2 design proceeding smoothly, Whittle was sent to [[Boston]], [[Massachusetts]] in mid-1942 to help the [[General Electric]] jet programme.&lt;ref&gt;Golley 1987, p. 182&lt;/ref&gt; GE, the primary supplier of [[turbocharger]]s in the U.S., was well suited to starting jet production quickly. A combination of the W.2B design and a simple airframe from [[Bell Aircraft]] flew in autumn of 1942 as the [[Bell XP-59A Airacomet]], six months before the flight of the British Meteor.&lt;ref&gt;Golley 1987, p. 183&lt;/ref&gt;
+
+Whittle's developments at Power Jets continued, the W.2/700 later being fitted with an [[afterburner]] ("reheat" in British terminology), as well as experimental [[Water injection (engines)|water injection]] to cool the engine and allow higher power settings without melting the turbine. Whittle also turned his attention to the axial-flow (straight-through) engine type as championed by Griffith, designing the L.R.1. Other developments included the use of fans to provide greater mass-flow, either at the front of the engine as in a modern [[turbofan]] or at the rear, which is much less common but somewhat simpler.
+
+Whittle's work had caused a minor revolution within the British engine manufacturing industry, and even before the E.28/39 flew most companies had set up their own research efforts. In 1939, [[Metropolitan-Vickers]] set up a project to develop an axial-flow design as a [[turboprop]] but later re-engineered the design as a pure jet known as the  [[Metrovick F.2]].&lt;ref name = Golley180&gt;Golley 1987, p. 180&lt;/ref&gt; Rolls-Royce had already copied the W.1 to produce the low-rated WR.1 but later stopped work on this project after taking over Rover's efforts.&lt;ref name = Golley187&gt;Golley 1987, p. 187&lt;/ref&gt; In 1941, de Havilland started a jet fighter project, the Spider Crab&amp;nbsp;— later called [[de Havilland Vampire|Vampire]]&amp;nbsp;— along with their own engine to power it;&lt;ref&gt;Golley 1987, p. 179&lt;/ref&gt; [[Frank Halford]]'s [[de Havilland Goblin|Goblin]] (Halford H.1). [[Armstrong Siddeley]] also developed a more complex axial-flow design with an engineer called Heppner,&lt;ref name = Golley180/&gt; the [[Armstrong Siddeley ASX|ASX]] but reversed Vickers' thinking and later modified it into a turboprop instead, the [[Armstrong Siddeley Python|Python]]. The [[Bristol Aeroplane Company]] proposed to combine jet and piston engines but dropped the idea and concentrated on propellor turbines instead.&lt;ref name = Golley180/&gt;
+
+===Nationalisation===
+During a demonstration of the E.28/39 to [[Winston Churchill]] in April 1943, Whittle proposed to [[Stafford Cripps]], Minister of Aircraft Production, that all jet development be nationalised. He pointed out that the company had been funded by private investors who helped develop the engine successfully, only to see production contracts go to other companies. Nationalisation was the only way to repay those debts and ensure a fair deal for everyone, and he was willing to surrender his shares in Power Jets to make this happen. In October, Cripps told Whittle that he decided a better solution would be to nationalise Power Jets only.&lt;ref name=trust/&gt;
+Whittle believed that he had triggered this decision, but Cripps had already been considering how best to maintain a successful jet programme and act responsibly regarding the state's substantial financial investment, while at the same time wanting to establish a research centre that could utilise Power Jets' talents, and had come to the conclusion that national interests demanded the setting up of a Government-owned establishment.&lt;ref&gt;Nahum 2004, pp. 101, 105.&lt;/ref&gt; On 1 December Cripps advised Power Jets' directors that the Treasury would not pay more than £100,000 for the company.&lt;ref name=trust/&gt;
+
+In January 1944 Whittle was awarded the [[CBE]] in the New Year Honours.&lt;ref&gt;{{London Gazette |issue = 36309 |date = 31 December 1943 |page=17 |supp=y }}&lt;/ref&gt; By this time he was a [[Group Captain]], having been promoted from [[Wing Commander (rank)|Wing Commander]] in July 1943.&lt;ref&gt;{{London Gazette |issue=36092 |date=13 July 1943 |supp=y |page=3200}}&lt;/ref&gt; Later that month after further negotiations the Ministry made another offer of £135,500 for Power Jets, which was reluctantly accepted after the Ministry refused arbitration on the matter. Since Whittle had already offered to surrender his shares he would receive nothing at all, while Williams and Tinling each received almost £46,800 for their stock, and investors of cash or services had a threefold return on their original investment.&lt;ref&gt;Nahum 2004, p. 102.&lt;/ref&gt; Whittle met with Cripps to object personally to the nationalisation efforts and how they were being handled, but to no avail. The final terms were agreed on 28 March, and Power Jets officially became Power Jets (Research and Development) Ltd, with [[Roxbee Cox, Baron Kings Norton|Roxbee Cox]] as Chairman, [[Hayne Constant|Constant]] of RAE Head of Engineering Division, and Whittle as Chief Technical Advisor. On 5 April 1944, the Ministry sent Whittle an award of only £10,000 for his shares.&lt;ref name=trust/&gt;
+
+From the end of March, Whittle spent six months in hospital recovering from nervous exhaustion, and resigned from Power Jets (R and D) Ltd in January 1946. In July the company was merged with the gas turbine division of the RAE to form the [[National Gas Turbine Establishment]] (NGTE) at Farnborough, and 16 Power Jets engineers, following Whittle's example, also resigned.&lt;ref&gt;Nahum 2004, pp. 118–119.&lt;/ref&gt;
+
+==After the war==
+[[File:whittle.1946.arp.600pix.jpg|thumb|Frank Whittle speaking to employees of the Flight Propulsion Research Laboratory (Now known as the [[Glenn Research Center|NASA Glenn Research Center]]), USA, in 1946]]
+
+In 1946 Whittle accepted a post as Technical Advisor on Engine Design and Production to Controller of Supplies (Air); was made Commander, the U.S. [[Legion of Merit]]; and was awarded the [[Order of the Bath]] (CB) in 1947. During May 1948 Whittle received an [[Ex gratia|ex-gratia]] award of £100,000 from the Royal Commission on Awards to Inventors in recognition of his work on the jet engine, and two months later he was made a Knight Commander of the [[Order of the British Empire]] (KBE), Military Division.&lt;ref name=tele/&gt;&lt;ref&gt;{{London Gazette |issue=38311 |date=4 June 1948 |page=3372}}&lt;/ref&gt;
+
+During a lecture tour in the U.S. he again broke down and retired from the RAF on medical grounds on 26 August 1948, leaving with the rank of [[Air Commodore]].&lt;ref name=tele/&gt;&lt;ref&gt;{{London Gazette |issue=38397 |date=3 September 1948 |supp=y |page=4860}}&lt;/ref&gt; He joined [[British Overseas Airways Corporation|BOAC]] as a technical advisor on aircraft gas turbines and travelled extensively over the next few years, viewing jet engine developments in the United States, Canada, Africa, Asia and the Middle East. He left BOAC in 1952 and spent the next year working on a biography, ''Jet: The Story of a Pioneer''.&lt;ref name="RAF4"/&gt; He was awarded the [[Royal Society of Arts]]' [[Albert Medal (RSA)|Albert Medal]] that year.
+
+Returning to work in 1953, he accepted a position as a Mechanical Engineering Specialist with [[Royal Dutch Shell|Shell]], where he developed a new type of self-powered drill&lt;ref name="RAF4"/&gt; driven by a turbine running on the lubricating mud that is pumped into the borehole during drilling. Normally a well is drilled by attaching rigid sections of pipe together and powering the cutting head by spinning the pipe from the surface, but Whittle's design removed the need for a strong mechanical connection between the drill and the head frame, allowing for much lighter piping to be used.  He gave the [[Royal Institution Christmas Lectures]] in 1954 on ''The Story of Petroleum''.
+
+Whittle left Shell in 1957 to work for [[Bristol Aeroplane Company|Bristol Aero Engines]] who picked up the project in 1961,&lt;ref name="RAF4"/&gt; setting up "Bristol Siddeley Whittle Tools" to further develop the concept. In 1966 Rolls-Royce purchased Bristol Siddeley, but the financial pressures and eventual bankruptcy because of cost overruns of the [[Rolls-Royce RB211|RB211]] project led to the slow wind-down and eventual disappearance of Whittle's "turbo-drill". The concept eventually re-appeared in the west in the late 1980s, imported from Russian designs.  (Russia needed the technology because it lacked high strength [[drill pipe]].)
+
+Turbine drilling is best used for drilling hard rocks at high bit RPM's with diamond impregnated bits, and can be used with an angled drive shaft for directional drilling and horizontal drilling. It competes though with moyno motors and increasingly with rotary steerable systems and is again out of favour.
+
+As part of his [[socialist]] ideals, he proposed that Power Jets be nationalised; in part because he saw that private companies would profit from the technology freely given during the war.&lt;ref&gt;{{cite web|url=http://www.frankwhittle.co.uk/content.php?act=viewDoc&amp;docId=3&amp;docFatherId=1&amp;level=sub|title=Welcome to the Frank Whittle Website|publisher=}}&lt;/ref&gt; By 1964 he had deserted his previously socialist beliefs, going so far as to launch a fierce attack on the Labour candidate in Smethwick.&lt;ref&gt;[[David Edgerton|Edgerton, David]], ''Warfare State'', Cambridge University Press, 2006, p. 227, {{ISBN|978-0-521-85636-2}}&lt;/ref&gt;
+
+In 1960 he was awarded an [[honorary degree]], doctor techn. honoris causa, at the [[Norwegian Institute of Technology]], later part of [[Norwegian University of Science and Technology]].&lt;ref&gt;{{cite web |url=http://www.ntnu.edu/phd/honorary-doctors|title=Honorary doctors at NTNU|publisher=Norwegian University of Science and Technology|language=English}}&lt;/ref&gt;
+
+In 1967, he was awarded an Honorary Degree (Doctor of Science) by the [[University of Bath]].&lt;ref&gt;http://www.bath.ac.uk/ceremonies/hongrads/older.html&lt;/ref&gt; That year, he was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+In 1987, he was awarded an Honorary Degree (Doctor of Technology) by [[Loughborough University]].&lt;ref&gt;http://www.lboro.ac.uk/service/publicity/degree_days/hon_grads_80to89.html&lt;/ref&gt;
+
+==Later life==
+Whittle received the ''[[Tony Jannus Award]]'' in 1969 for his distinguished contributions to commercial aviation.
+
+In 1976, his marriage to Dorothy was dissolved and he married American Hazel S. Hall ("Tommie"). He emigrated to the U.S. and the following year accepted the position of NAVAIR Research Professor at the [[United States Naval Academy]] ([[Annapolis, Maryland]]).&lt;ref name="RAF4"&gt;{{cite web |url=http://www.raf.mod.uk/history_old/whittle4.html |title=Sir Frank Whittle - After the RAF |accessdate=2008-07-19 |deadurl=bot: unknown |archiveurl=https://web.archive.org/web/20070713020730/http://www.raf.mod.uk/history_old/whittle4.html |archivedate=13 July 2007 |df=dmy-all }}, RAF history website&lt;/ref&gt; His research concentrated on the [[boundary layer]] before his professorship became part-time from 1978 to 1979. The part-time post enabled him to write a textbook entitled ''Gas turbine aero-thermodynamics: with special reference to aircraft propulsion'', published in 1981.&lt;ref name=tele/&gt;
+
+Having first met [[Hans von Ohain]] in 1966, Whittle again met him at [[Wright-Patterson Air Force Base]] in 1978 while von Ohain was working there as the Aero Propulsion Laboratory's Chief Scientist. Initially upset because he believed von Ohain's engine had been developed after seeing Whittle's patent, he eventually became convinced that von Ohain's work was, in fact, independent.&lt;ref&gt;[http://www.ascho.wpafb.af.mil/encounter/encounter.HTM Verbatim transcript of a two-day conference, ''An Encounter Between the Jet Engine Inventors'', held at Wright-Patterson Air Base 3–4 May 1978] {{webarchive|url=https://web.archive.org/web/20071220010412/http://www.ascho.wpafb.af.mil/encounter/encounter.htm |date=20 December 2007 }} Retrieved: 19 July 2008&lt;/ref&gt; The two became good friends and often toured the U.S. giving talks together.
+
+In a conversation with Whittle after the war, Von Ohain stated that "If you had been given the money you would have been six years ahead of us. If Hitler or Goering had heard that there is a man in England who flies 500&amp;nbsp;mph in a small experimental plane and that it is coming into development, it is likely that World War II would not have come into being."&lt;ref&gt;Margaret Conner, ''Hans von Ohain: Elegance in Flight'' (Reston, Virginia: American Institute for Aeronautics and Astronautics, Inc., 2001)&lt;/ref&gt;
+
+In 1986, Whittle was appointed a member of the [[Order of Merit]] (Commonwealth). He was made a [[Royal Society|Fellow of the Royal Society]], and of the [[Royal Aeronautical Society]],&lt;ref name=tele/&gt; and in 1991 he and von Ohain were awarded the [[Charles Stark Draper Prize]] for their work on turbojet engines.
+
+Whittle became an atheist by degrees.&lt;ref&gt;{{cite book|title=Jet: Frank Whittle and the Invention of the Jet Engine|author=John Golley|publisher=Eloy Gutierrez|year=2010|isbn=9781907472008|page=34|quote=Although he had occasionally cut Church Parade, he had once held very strong religious beliefs, but these had eroded to such an extent that he had come to regard himself as an atheist. "By degrees", he said "I was forced to the conclusion that my beliefs were inconsistent with scientific teaching. Once the seeds of doubt were sown the whole structure of my former religious beliefs rapidly collapsed, and I swung to the other extreme.}}&lt;!--|access-date=30 May 2012--&gt;&lt;/ref&gt;
+
+Whittle died of lung cancer on 9 August 1996, at his home in [[Columbia, Maryland]]. He was cremated in America and his ashes were flown to England where they were placed in a memorial in a church in [[Cranwell]].&lt;ref name ="Whittle quantal DVD"/&gt;
+
+==Styles and promotions==
+[[File:Air Commodore Sir Frank Whittle at desk.jpg|thumb|Air Commodore Frank Whittle at his desk &lt;ref&gt;Note the image has been reversed left to right and is the wrong way round&lt;/ref&gt;]]
+*1907–1923: Frank Whittle
+*1923–1926: Apprentice Frank Whittle
+*1926–1928: [[Officer Cadet]] Frank Whittle
+*1928–1930: [[Pilot Officer]] Frank Whittle
+*1930–1934: [[Flying Officer]] Frank Whittle
+*1934–1938: [[Flight Lieutenant]] Frank Whittle
+*1938–1940: [[Squadron Leader]] Frank Whittle
+*1940–1941: Squadron Leader (Temp. [[Wing Commander (rank)|Wing Commander]]) Frank Whittle
+*1941-1943: Wing Commander Frank Whittle
+*1943–1944: Wing Commander (Temp. [[Group Captain]]) Frank Whittle
+*1944–1946: Group Captain (Actg. [[Air Commodore]]) Frank Whittle, [[CBE]]
+*1946–1947: Group Captain (Temp. Air Commodore) Frank Whittle, CBE
+*1947–1948: Group Captain (Temp. Air Commodore) Frank Whittle, [[Order of the Bath|CB]], CBE
+*1948–1986: Air Commodore [[Sir]] Frank Whittle, [[KBE]], CB
+*1986–1996: Air Commodore Sir Frank Whittle, [[Order of Merit|OM]], KBE, CB, [[Fellow of the Royal Society|FRS]], [[FRAeS]]
+
+==Memorials==
+[[File:Frank whittle statue 12u07.JPG|upright|right|thumb|Statue of Sir Frank Whittle under the Whittle Arches, Coventry]]
+[[File:Whittle statue and arches -Coventry2 -26m08.JPG|upright|right|thumb|Whittle Arches and statue, Coventry]]
+
+===Coventry, England===
+*The "Whittle Arch" is a large double wing-like structure situated outside the [[Coventry Transport Museum]], Millennium Place, [[Coventry]] City Centre.
+*A statue of Whittle by Faith Winter is situated under the Whittle Arch. It was unveiled on 1 June 2007 by his son, Ian Whittle, during a televised event. It shows Whittle at [[RAF Cranwell]] looking towards the sky observing the first test flight of a Whittle-powered [[Gloster E.28/39]] on 15 May 1941.
+*A school is named after Whittle in the [[Walsgrave]] suburb of Coventry. It was first called ''Frank Whittle Primary'', then renamed in 1997 as ''Sir Frank Whittle Primary School''. A jet engine replica sits in the reception area of the school, donated by Whittle himself during his life.
+*A commemorative plaque marks the house in Newcombe Road, [[Earlsdon, Coventry]], in which he was born and lived until age nine.&lt;ref name="Whittle quantal DVD"/&gt;
+*On [[Hearsall Common]], near Whittle's Coventry birthplace, a plaque commemorates where Whittle gained inspiration when he saw an aircraft land. It says "on this common Frank Whittle, jet pioneer, first felt the power of flight."
+*[[Coventry University]] named a building after him.
+*The main hangar at the [[Midland Air Museum]] is called ''The Sir Frank Whittle Jet Heritage Centre''.
+*Whittle house was one of the four "[[House system|houses]]" at [[Finham Park School]] until they were renamed in 2008.
+[[File:Replica Gloster Whittle.JPG|thumb|Whittle memorial at [[Lutterworth]]]]
+
+===Lutterworth, England===
+* The [[Sir Frank Whittle Studio School]] is a [[studio school]] set to open mid 2015. It will be situated alongside [[Lutterworth College]], both of which will make up The Lutterworth Academies Trust.
+* Lutterworth Museum hold a very large unrivalled collection of original papers including the 1936 Patent, Power Jets Autograph book from 1945 and the Champagne bottle signed by everyone at a party at RAF Cranwell on the night of the first flight plus many more artifacts and displays. Also Lutterworth Museum give talks and put on displays all over the country.
+* A  memorial has been erected in the middle of a [[roundabout]] outside [[Lutterworth]] and a bust of Frank Whittle has been erected in Lutterworth, where much of Whittle's development on the jet engine, was carried out.
+* A bust of Sir Frank Whittle near the war memorial on the corner of Church and George street.
+* The Sir Frank Whittle Public House was opened in 2010 and situated on the Greenacres estate in Lutterworth. It was replaced with a [[The Co-operative Food|Co-operative]] convenience store much to the dismay of the residents.&lt;ref&gt;{{cite news|title=Residents fighting Proposal for new Co-op store|url=http://www.harboroughmail.co.uk/news/mail-news/residents-fighting-proposal-for-new-co-op-store-1-5591774|accessdate=19 December 2014|work=Harborough Mail|publisher=Johnston Publishing Ltd.|date=21 October 2013}}&lt;/ref&gt;
+* 'Whittle Road' in Lutterworth was named after Sir Frank Whittle.
+
+===Elsewhere===
+* In 2015, Whittle's college at the [[University of Cambridge]], [[Peterhouse, Cambridge|Peterhouse]], opened the Whittle Building on its grounds.&lt;ref&gt;{{cite web|url=http://www.pet.cam.ac.uk/petreans/colleges-needs|title=The College's needs|publisher=}}&lt;/ref&gt;
+* The [[Department of Engineering, University of Cambridge]] has a Whittle Laboratory.&lt;ref&gt;{{cite web|url=http://www-diva.eng.cam.ac.uk/turbo|title=Introduction|publisher=}}&lt;/ref&gt;
+* A full-scale model of the Gloster E28/39 Whittle has been erected just outside the northern boundary of [[Farnborough Airfield]] in [[Hampshire]], UK.
+* The [[Sir Frank Whittle Medal]] is awarded annually by the [[Royal Academy of Engineering]] to an engineer, normally resident in the UK, for outstanding and sustained achievement which has contributed to the well-being of the nation.&lt;ref&gt;[http://www.raeng.org.uk/prizes/whittle/ The Royal Academy of Engineering website] Retrieved: 20 July 2008&lt;/ref&gt;
+* Two roads in [[Derby]] are named Sir Frank Whittle Road and Sir Frank Whittle Way, as a tribute to his work at [[Rolls-Royce Limited|Rolls-Royce]].
+* The main office complex at the [[Rolls-Royce plc|Rolls-Royce]] Bristol site has been named Whittle House.
+[[File:FrankwhittleE28-39farnborough.jpg|thumb|Sir Frank Whittle's memorial at Farnborough Aerodrome]]
+* Whittle Parkway in [[Burnham, Buckinghamshire|Burnham]] is named after him.
+* One of the main buildings at the [[Royal Air Force College]] Cranwell is called Whittle Hall. It houses the Officer &amp; Aircrew Cadet Training Unit and the Air Power Studies Division of [[King's College London]].
+* A road in [[Cranford, London|Cranford]], on the site of the former [[Heston Aerodrome]], is named Whittle Road.
+* A road in Shaw, Oldham, is named Whittle Drive.
+* A road in [[Rugby, Warwickshire|Rugby]] is named Whittle Close.
+* Whittle Close in [[Clitheroe]] is named after him.
+* Sir Frank Whittle Way, a new road in Blackpool Business park, Blackpool..
+* The [[Easington Gas Terminal#Juno development|Whittle Gas field]] in the Southern North Sea operated by BP.
+* ''The Whittle Inn'' near the [[Gloster Aircraft Company]]'s former test runway in [[Hucclecote]], [[Gloucestershire]] is named after Whittle; the nearby [[Tesco]] has a picture of a [[Gloster Meteor]] incorporated in part of its glass frontage.
+* The bar/restaurant in [[Royal Mail]]'s management college at [[Coton House]], near [[Rugby, Warwickshire|Rugby]], was named the ''Whittle Bar''.
+* A memorial stone was placed in the Royal Air Force Chapel in Westminster Abbey in his memory.  The inscription on the stone reads: "Frank Whittle. Inventor &amp; Pioneer of the Jet Engine. 1907–1996". The stone was carved by [[John Shaw (stone carver)]].
+* Sir Frank Whittle's national and international honours, medals, and awards (including the Order of Merit), are displayed in the Royal Academy of Engineering, London.
+* The Frank Whittle house, with its own building existed at the now closed Fairham Comprehensive School Clifton, Nottingham.
+*A building at Aero Engine Controls in Birmingham, UK has been named 'The Whittle Building' (1994)
+* Whittle Hangar is one of the main Hangars at [[HMS Sultan (establishment)|HMS Sultan]], and is used to house [[Royal Navy]] marine gas turbines. The gas turbines are fully operational and used to train Royal Navy and foreign officers and sailors in gas turbine technology.
+* A plaque has been placed at the Port of Felixstowe to honour his link with the town (August 2010)
+* A plaque commemorating Whittle has been placed inside the hall of Binswood Sixth Form College in Leamington Spa, formerly Leamington College for Boys.
+* A plaque commemorating Whittle has been placed on Walland Hill, near Chagford in Devon, the house where he lived from 1962 to 1976 &lt;ref&gt;{{cite web|url=http://www.rcec.co.uk/plaques/F.WHITTLE.htm|title=F. WHITTLEL|author=Mike Ralls|publisher=}}&lt;/ref&gt;
+
+==See also==
+*[[Timeline of jet power]]
+
+== References ==
+===Notes===
+{{Reflist}}
+
+===Bibliography===
+*{{Cite book|last=Brooks |first=David S|title=Vikings at Waterloo: Wartime Work on the Whittle Jet Engine by the Rover Company|publisher=Rolls-Royce Heritage Trust|year=1997|isbn=1-872922-08-2}}
+*{{Cite book|last1=Golley |first1=John |editor-last = Gunston|editor-first = Bill |editor-link = Bill Gunston |title=Whittle: the true story|publisher=Airlife Publishing Ltd.|location = Shrewsbury, UK | year=1987|isbn= 9780906393826|ref=harv}}
+*{{Cite book|last=Golley |first=John |title=Genesis of the Jet: Frank Whittle and the Invention of the Jet Engine|publisher=Crowood Press|year=1997|isbn=1-85310-860-X|ref=harv}}
+*{{Cite book|last=Hooker |first=Stanley |authorlink=Stanley Hooker
+  |title=Not much of an engineer. An autobiography|publisher=Airlife Publ.|location=Shrewsbury|year=2002|isbn=1-85310-285-7|ref=harv}}
+*{{Cite book|last=Jones |first=Glyn |title=The jet pioneers. The birth of Jet-Powered Flight|publisher=Methuen|location=London|year=1989|isbn=0-413-50400-X|ref=harv}}
+*{{Cite book|last=Nahum |first=Andrew |title=Frank Whittle: Invention of the Jet|publisher=Icon Books Ltd|year=2004|isbn=1-84046-538-7|ref=harv}}
+*{{Cite book|last=Roland |first=John
+|title=The Jet Man: the Story of Sir Frank Whittle|location=New York |publisher =Roy Publishers, Inc. |date=1967|ISBN = |OCLC=1414376 | ref = harv }}
+*{{Cite book|last=Whittle |first=Frank |title=Jet: The story of a pioneer|publisher=Frederick Muller Ltd|year=1953|oclc=2339557|ref=harv}}
+*{{Cite book|last=Whittle |first=Frank |title=Gas turbine aero-thermodynamics: with special reference to aircraft propulsion|publisher=Pergamon|year=1981|isbn=978-0-08-026718-0|ref=harv}}
+
+==External links==
+{{Commons category|Frank Whittle}}
+* [http://www.lutterworthmuseum.com Whittle Archive]
+* [https://web.archive.org/web/20041216114915/http://www.admin.cam.ac.uk/news/press/dpp/2004010801 News report – Memorial for University of Cambridge Student who Invented the Jet Engine]
+* [http://www-g.eng.cam.ac.uk/125/achievements/whittle/telgraph.htm More about Frank Whittle]
+* [http://www.raf.mod.uk/history_old/whittle1.html More about Frank Whittle and the jet age] at the Royal Air Force History website
+* [http://www.flightglobal.com/pdfarchive/view/1945/1945%20-%202018.html ''Flight'', October 1945 – "Early History of the Whittle Jet Propulsion Gas Turbine" by Air Commodore Frank Whittle] ''abstract''
+*[http://archive.pepublishing.com/content/p2qq75p425787023/ Early History of the Whittle Jet Propulsion Gas Turbine by Frank Whittle]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }} ''Full text of the first James Claydon lecture''
+*[http://www.rafweb.org/Biographies/Whittle_F.htm Air of Authority - Sir Frank Whittle]
+*[http://www.flightglobal.com/pdfarchive/view/1949/1949%20-%200235.html "Jet Liners for Short Range"] a 1949 ''Flight'' report of a Frank Whittle lecture to the Aero Club de France
+*[http://www.flightglobal.com/pdfarchive/view/1951/1951%20-%200879.html "The Secret Years"] a 1951 ''Flight'' article
+*[https://cudl.lib.cam.ac.uk/view/MS-WHITTLE-00001/1 Whittle Power Jet Papers] - Correspondence from the archives of [[Peterhouse, Cambridge|Peterhouse College]] in [[Cambridge Digital Library]]
+*{{Cite ODNB|id=67854|first=G.B.R|last=Feilden|origyear=2004|title=Sir Frank Whittle (1907–1996)}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Whittle, Frank}}
+[[Category:1907 births]]
+[[Category:1996 deaths]]
+[[Category:Alumni of Peterhouse, Cambridge]]
+[[Category:Burials in Lincolnshire]]
+[[Category:Commanders of the Legion of Merit]]
+[[Category:Companions of the Order of the Bath]]
+[[Category:Deaths from lung cancer]]
+[[Category:Draper Prize winners]]
+[[Category:English aerospace engineers]]
+[[Category:English atheists]]
+[[Category:English aviators]]
+[[Category:English engineers]]
+[[Category:English inventors]]
+[[Category:Fellows of the Royal Aeronautical Society]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Graduates of the Royal Air Force College Cranwell]]
+[[Category:Jet engine pioneers]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:Members of the Order of Merit]]
+[[Category:People from Coventry]]
+[[Category:People from Royal Leamington Spa]]
+[[Category:People associated with Cranfield University]]
+[[Category:Royal Aeronautical Society Gold Medal winners]]
+[[Category:Royal Air Force officers]]
+[[Category:Test pilots]]
+[[Category:Trenchard Brats]]
+[[Category:National Inventors Hall of Fame inductees]]</text>
+      <sha1>2w32i6b9rntmpj2l4u9t88829r8bhf9</sha1>
+    </revision>
+  </page>
+</mediawiki>

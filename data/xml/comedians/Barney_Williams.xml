@@ -1,0 +1,131 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Barney Williams (actor)</title>
+    <ns>0</ns>
+    <id>38342475</id>
+    <revision>
+      <id>854066949</id>
+      <parentid>838445325</parentid>
+      <timestamp>2018-08-08T18:51:20Z</timestamp>
+      <contributor>
+        <username>VaneWimsey</username>
+        <id>1498879</id>
+      </contributor>
+      <minor/>
+      <comment>/* Biography */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10683">{{Infobox person
+| name  =  Barney Williams
+| birthname   =   Bernard O’Flaherty 
+| image     = Barney Williams 001.JPG
+| image_size     = 195px
+| caption  = From the [[New York Public Library]] Digital Gallery
+| birth_date = {{Birth date |1824|8|30|mf=y}}
+| birth_place = [[Cork (city)|Cork, Ireland]]
+| death_date = {{Death date and age|1876|4|25|1824|8|30|mf=y}}
+| death_place = [[New York City]]
+| spouse = Maria Pray
+| occupation     =Actor-Comedian, Irish Clog Dancer }}
+
+'''Barney Williams''' (August 20, 1824 – April 25, 1876) was an Irish-American actor-comedian popular during the mid decades of the 19th century. He was probably best remembered by audiences of the day for playing Ragged Pat in J. A. Amherst's drama ''Ireland as it is'' and the title role in Samuel Lover's comic opera ''Rory O'More''. Throughout the greater part of his career he was billed along with his wife, the former Maria Pray, as Mr. and Mrs. Barney Williams.&lt;ref&gt;[https://books.google.com/books?id=6DoIAAAAQAAJ&amp;pg=RA1-PA295 Mason, James - ''The History of the Year 1876, 1876, p. 295] accessed 1.28.2013&lt;/ref&gt;
+
+When [[Benjamin Day (publisher)|Benjamin H. Day]] founded the ''[[New York Sun]]'' in 1833, he employed Williams as his first, and for a time, only [[Newspaper hawker|newsboy]].&lt;ref&gt;[https://books.google.com/books?id=PbMpAAAAYAAJ&amp;pg=RA6-PA16 Printer’s Ink, November 27, 1901, p. 16] accessed 1.27.2013&lt;/ref&gt;
+
+==Biography==
+Bernard O'Flaherty was born in 1824 at [[Cork (city)|Cork, Ireland]], to Michael and Mary O’Flaherty.&lt;ref name= "Phelps"&gt;Phelps, H. P. - ''The Players of a Century'', 1890, p.245&lt;/ref&gt;&lt;ref&gt;Note: Birth year sometimes listed as 1823 - [https://books.google.com/books?id=ZEI1AQAAMAAJ&amp;pg=PA265 Hill, Thomas Edie - ''Hill's Album of Biography and Art'' - 1888; p.295] accessed 2.25.2013&lt;/ref&gt; In 1831 his family immigrated to America where his father would become a New York City policeman. As a boy Williams ran errands, sold newspapers, worked at a printer’s office and at some point began performing bit parts at New York’s Franklin Theatre. On one night in 1836 he was given the opportunity to play a speaking rôle in ''The Ice Witch'' that came available after actor Alonzo Williams suddenly fell ill. As a result of his performance, Williams became a regular cast member of the theatre’s troupe performing under the stage name Barney Williams.&lt;ref name= "Phelps" /&gt;
+&lt;ref&gt;1850 U.S. Census, Bernard O’Flaherty, actor-Ancestry.com&lt;/ref&gt;&lt;ref name= "Cyclopedia"&gt;Derby, George, White, James Terry - ''The National Cyclopedia of American Biography'', Vol. 5, 1897, p. 440&lt;/ref&gt;
+
+Barney’s first big hit (c. 1840) was as Pat Rooney in ''The Omnibus'' (Williams: p.&amp;nbsp;69). This play was written by his mentor Tyrone Powers probably around 1833. Maria made her stage debut at the Chatham Theatre – as a member of the corps de ballet, in the first production of a burlesque entitled "New York Assurance", which was a travesty on "London Assurance".  See Clapp: p.&amp;nbsp;386; and Players: p.&amp;nbsp;387.  Barney is also credited as introducing Irish clog dancing to America.
+
+In 1843 Barney played the role of Jerry Murphy in ''Bumpology'' at the Chatham theatre in New York. In these days Williams played in several roles in the Tyrone Powers repertory, including Paddy O’Rafferty in ''Born to Good Luck'', and Terry O’Rourke in ''The Irish Tutor''.  In 1844, Barney was a member of a company owned by P.T. Barnum called a "Moral Lecture Room".  By 1845, at age twenty-two, Williams was manager of Vauxhall Garden, NY, located at LaFayette Street in New York. This area later became known as The Bowery.
+
+For several seasons Williams was a popular [[blackface]] comedian touring in minstrel shows [Kentucky Minstrels] before embarking in 1846 on a long career as an Irish comedian. On November 24, 1849, Williams married actress Maria Pray (1828–1911), the widow of actor Charles Mestayer who died the previous year. She was the daughter of William Pray, an actor who perished in a New York theatre fire, and a sister of Malvina Florence, actress wife of the well-known actor [[William J. Florence]].&lt;ref name= "Cyclopedia" /&gt;&lt;ref&gt;Mrs. Barney Williams Dead-The New York Times, May 7, 1911, p. 11&lt;/ref&gt;
+[[File:Maria and Barney Williams.JPG|thumb|left|150px|Maria and Barney Williams&lt;br&gt;NYPL Digital Gallery]] After marrying, Barney shed his roles in the negro minstrelsy genre.
+
+In 1850 Barney and new wife Maria appeared at National Theatre in New York, in the title roles of ''The Irish Boy'' and ''Yankee Girl''. On August 18 (1853), the Williamses commenced an engagement at Niblo’s Garden in New York, appearing in ''Ireland As It Is''. On August 25, the couple produced their new drama, ''Shandy McGuire'', with both in lead roles.
+
+As a team, Williams and Pray would find the greatest successes of their careers beginning [1854] with long runs at San Francisco’s Metropolitan Theatre. They also performed in Sacramento, Marysville, Stockton, Grass Valley, and Nevada. The couple set sail for London on June 7, 1855, where they performed at the [[Adelphi Theatre]] in London. The latter engagement led to a four-year tour of Europe performing in plays such as ''Rory O'More'' among others. Williams often played Irish characters to Pray's Yankee in performances that on four occasions were attended by [[Queen Victoria]]. From 1856 to 1857 the Williamses performed at The Adelphi.  According to the ''London Times'' they performed the following: ''Bobbing Around'', ''Polly'', ''Won’t You Try Me, Oh?'', and ''My Own Mary Anne''. Some of their more popular performances were ''Ireland As it Is'', ''Barney the Baron'' and ''Our Gal''.  On July 24, 1856, Barney and Maria performed for the Royal family, and again in February 1857. While in the U.K., the couple toured Dublin, Cork, Belfast, Limerick, Edinburgh, Glasgow, Liverpool, Manchester and Birmingham.
+
+The Williamses returned to New York in October 1859. On October 17, 1859, they appeared at Niblo’s Garden playing in Born to Good Luck, An Hour in Seville, and in Latest from New York. This engagement lasted 36 nights.
+
+The two starred in annual tours throughout most of the 1860s before Williams was given the opportunity to manage (1867–1868) [[Wallack's Theatre|Wallack's Broadway Theatre]].&lt;ref name = "Cyclopedia" /&gt; In the 1860s they most performed in Philadelphia, Baltimore, Washington and New York.  By 1863 they were playing in Washington, D.C., performing ''The Fairy Circle'' in Grover Theatre in February. On February 26 they performed at Grover’s for [[Abraham Lincoln]]. In October 1863 Barney performed for the Union troops of the 47th New York Infantry Volunteer
+Infantry as they sailed down the Hudson, as mentioned by Private Miles O’Reilly. Barney and Maria appeared at Niblo’s Garden in New York in ''Irish and Yankee Life'' and ''The Connie Soogah'', December 1864. Barney may have sung "The Bowld Soldier Song" for the Irish Brigade of the 63rd New York Volunteers in 1864.
+
+Maria debuted on French stage, April 23, 1867; she appeared in the French Theatre in New York acting the part of Caesarine Clapier in the vaudeville of ''Le Marly dans du Coon''.  Barney and Maria appeared in The Emerald Ring at the Broadway Theatre in New York, April 5, 1869.  On April 28, 1869, Barney played the last night the theatre was open in ''Ireland As It Was'' as Ragged Pat.  Barney and Maria began an engagement in ''Connie Soogah, or the Jolly Peddler'' on September 21, 1874, at Booth’s Theatre in New York.  In December 1875 Barney performed – perhaps for last time – at Booth’s theatre, ''The Coonie Soogah'' and ''The Fairy Circle''.
+
+Barney died in New York City as a result of a stroke while in his 51st year (1876). Over his career Williams’ success was such that he became one of the wealthiest actors of his day, leaving behind an estate considered to be in the neighborhood of $400,000.&lt;ref name= "Will"&gt;The Will of Barney Williams-The New York Times, May 5, 1876, p.10&lt;/ref&gt;
+
+Williams’ funeral service was held at St. Stephen’s Roman Catholic Church on the morning of April 28, 1876. Listed among his pallbearers were [[John C. Frémont|General John C. Frémont]], [[John R. Brady|Judge John R. Brady]] and actors [[Lester Wallack]] and [[John Brougham]]. Williams’ remains were interred at the [[Green-Wood Cemetery]] in Brooklyn. He was survived by his wife, daughter Marie and three sisters.&lt;ref name= "Will" /&gt;&lt;ref&gt;The Dead Comedian-The New York Times, April 28, 1876, p. 7&lt;/ref&gt;&lt;ref&gt;[https://www.findagrave.com/memorial/18013019 Barney Williams, Find a Grave Memorial] accessed 1.27.2013&lt;/ref&gt;
+
+&lt;blockquote&gt;''Over on the other side of the cemetery, on Battle Hill, from which the bay and the city can be viewed, sleeps Barney Williams, almost the first actor in the line of Irish comedy. His monument is a rich and costly one, of the Gothic order. It is adorned with a marble bust of the comedian. On the base of the monument is the name "Bernard Flaherty," which was the real name of Barney Williams. This plot is kept in splendid order by the actor's widow, still a handsome woman, whose snowy hair seems like a crown upon her shapely head. Historic Long Island, 1902, Rufus Rockwell Wilson''&lt;ref&gt;Wilson, Rufus Rockwell - Historic Long Island, 1902, p. 327&lt;/ref&gt; &lt;/blockquote&gt;
+
+Maria's last performance was in 1877, performing a week's engagement at the Walnut Street Theatre in Philadelphia. Maria Pray Williams died in 1911 in New York City.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Barney Williams}}
+*[http://web.nypl.org/locations/lpa New York Public Library] (Lincoln Center) - has several original plays related to Barney and Maria Williams.
+*[https://digitalcollections.nypl.org/search/index?utf8=✓&amp;keywords=barney+williams#/?scroll=0 New York Public Library] (Lincoln Center) - shows what images of Barney and Maria are in the NYPL archives.
+*[https://www.flickr.com/photos/tellinghistory/sets/72157632469888791/with/8362577874/ Barney Images Private Collection] several period images, including CDVs, of Barney &amp; Maria from a private collection (Flickr).
+*[https://www.scribd.com/doc/127895270/The-Life-and-Career-of-Irish-Songster-Barney-Williams-1824-1876 The Life and Career of Irish Songster Barney Williams], a ScribD publication by Kraig W. McNutt
+
+{{Authority control}}
+
+{{DEFAULTSORT:Williams, Barney}}
+[[Category:1824 births]]
+[[Category:1876 deaths]]
+[[Category:Burials at Green-Wood Cemetery]]
+[[Category:American male stage actors]]
+[[Category:19th-century American male actors]]
+[[Category:American people of Irish descent]]
+[[Category:Male actors from Cork (city)]]</text>
+      <sha1>f00npbm55v9b0hr3vg3wwdyz63yxaev</sha1>
+    </revision>
+  </page>
+</mediawiki>

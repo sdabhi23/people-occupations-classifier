@@ -1,0 +1,356 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Denver</title>
+    <ns>0</ns>
+    <id>58586</id>
+    <revision>
+      <id>855842482</id>
+      <parentid>855842364</parentid>
+      <timestamp>2018-08-21T06:02:52Z</timestamp>
+      <contributor>
+        <username>EEng</username>
+        <id>6484069</id>
+      </contributor>
+      <comment>/* Later years and humanitarian work */ rm self-serving stuff from an organization</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="58754">{{Use mdy dates|date=December 2013}}
+{{Infobox person
+| name = John Denver
+| image = John Denver 1973.jpg
+| caption = Denver in 1973
+| birth_name = Henry John Deutschendorf Jr.
+| birth_date = {{Birth date|1943|12|31|mf=y}}
+| birth_place = [[Roswell, New Mexico]], U.S.
+| death_date = {{Death date and age|mf=yes|1997|10|12|1943|12|31}}
+| death_place = [[Monterey Bay]], [[California]], U.S.
+| death_cause = Plane crash
+| resting_place = Ashes scattered in the Rocky Mountains
+| years_active = 1962–1997
+| spouse =   {{ubl|{{marriage|Annie Martell-Denver|1967|1982|reason=divorced}}|{{marriage|Cassandra Delaney-Denver|1988|1993|reason=divorced}}}}
+| children = 3
+| occupation = {{hlist|Singer-songwriter|musician|record producer|activist|actor|humanitarian}}
+| module      = {{Infobox musical artist|embed= yes
+| background = solo_singer&lt;!--mandatory field--&gt;
+| instrument = {{hlist|Vocals|acoustic guitar&lt;!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument---&gt;}}
+| genre = {{hlist|[[folk music|Folk]]|[[folk rock]]|[[Pop music|pop]]|[[Western music (North America)|Western]]|[[Country music|country]]|[[soft rock]]&lt;ref&gt;{{cite web|url=https://books.google.com/books?id=dmmLAgAAQBAJ&amp;pg=PA708&amp;lpg=PA708&amp;dq=john+denver+soft+rock&amp;source=bl&amp;ots=32i2ms6dVb&amp;sig=mwF3_kZQ3aauOVUAvPc0TmKVLXA&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiIi-_3ssTVAhUHNpQKHfLmB1QQ6AEIUTAI#v=onepage&amp;q=john+denver+soft+rock&amp;f=false|title=The Concise Encyclopedia of American Radio|first1=Christopher H.|last1=Sterling|first2=Cary|last2=O'Dell|date=April 12, 2010|publisher=Routledge|via=Google Books}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.allmusic.com/album/the-music-of-john-denver-mw0000825709|title=The Music of John Denver – Songs, Reviews, Credits |website=AllMusic}}&lt;/ref&gt;}}
+| label = {{hlist|[[Mercury Records|Mercury]]|[[Reprise Records|Reprise]]|[[RCA Records|RCA]]|[[Windstar Records|Windstar]]|[[Sony Wonder]]}}
+| associated_acts = {{hlist|[[The John Denver Band]]|[[Starland Vocal Band]]|[[The Back Porch Majority]]|[[The New Christy Minstrels]]|[[Chad Mitchell Trio]]|[[The Muppets]]|[[Cass Elliot]]|[[Olivia Newton-John]]|[[Plácido Domingo]]|[[Emmylou Harris]]|[[Peter, Paul and Mary]]|[[Johnny Cash]]|[[Tina Turner]]|[[Glen Campbell]]|[[George Burns]]|[[Frank Sinatra]]}}
+| website = {{URL|johndenver.com}}
+}}}}
+
+'''Henry John Deutschendorf Jr.''' (December 31, 1943&amp;nbsp;– October 12, 1997), known professionally as '''John Denver''', was an American singer-songwriter, record producer, actor, activist, and humanitarian, whose greatest commercial success was as a solo singer. After traveling and living in numerous locations while growing up in his military family, Denver began his music career with [[folk music]] groups during the late 1960s.&lt;ref&gt;{{cite web|url=http://www.notablebiographies.com/supp/Supplement-Ca-Fi/Denver-John.html |title=John Denver Biography – life, family, children, name, death, wife, young, son, born |publisher=Notablebiographies.com |date= |accessdate=2015-08-25}}&lt;/ref&gt; Starting in the 1970s, he was one of the most popular acoustic artists of the decade and one of its best-selling artists.&lt;ref&gt;{{cite web |url=http://www.mademan.com/mm/10-best-selling-artists-70s.html |title=10 Best Selling Artists of the 1970s |author=Maphis, Susan  |publisher=mademan.com |accessdate=May 16, 2012}}&lt;/ref&gt; By 1974, he was firmly established as one of America's best-selling performers, and [[AllMusic]] has described Denver as "among the most beloved entertainers of his era".&lt;ref name="John Denver AllMusic"&gt;{{cite web | url= http://www.allmusic.com/artist/john-denver-mn0000811622/biography | title= John Denver Biography | publisher=AllMusic | first=Jason | last=Ankeny | accessdate=4 June 2014}}&lt;/ref&gt;
+
+Denver recorded and released approximately 300 songs, about 200 of which he composed, with total sales of over 33 million records worldwide.&lt;ref&gt;{{cite web|author= |url=http://floridatheatre.com/event/john-denver-rocky-mountain-high-concert/ |title=John Denver, A Rocky Mountain High Concert |publisher=The Florida Theatre |date=2013-11-19 |accessdate=2015-08-25}}&lt;/ref&gt; He recorded and performed primarily with an acoustic guitar and sang about his joy in nature, his disdain for city life, his enthusiasm for music, and his relationship trials. Denver's music appeared on a variety of charts, including [[country music]], the [[Billboard Hot 100|''Billboard'' Hot 100]], and [[Adult contemporary music|adult contemporary]], in all earning him twelve [[Music recording sales certification|gold]] and four platinum albums with his signature songs "[[Take Me Home, Country Roads]]", "[[Annie's Song]]", "[[Rocky Mountain High]]", "[[Calypso (song)|Calypso]]", "[[Thank God I'm a Country Boy]]", and "[[Sunshine on My Shoulders]]".
+
+Denver appeared in several films and television specials during the 1970s and 1980s. He continued to record in the 1990s, also focusing on environmental issues by lending vocal support to space exploration and testifying in front of [[United States Congress|Congress]] in protest against censorship in music. He lived in [[Aspen, Colorado]], for much of his life and was known for his love of Colorado, which he sang about numerous times. In 1974, Denver was named [[poet laureate]] of the state. The Colorado state legislature also adopted "Rocky Mountain High" as one of its two state songs in 2007.
+
+Denver was an avid pilot who died aged 53 in a single-fatality crash while flying his experimental [[Rutan Long-EZ]] [[Canard (aeronautics)|canard]] aircraft.
+
+==Biography==
+===Early years===
+
+Henry John Deutschendorf Jr. was born in [[Roswell, New Mexico]], to Captain Henry John "Dutch" Deutschendorf,&lt;ref&gt;{{cite web|url=http://www.wargs.com/other/denver.html |title='&amp;#39;Ancestry of John Denver'&amp;#39; compiled by William Addams Reitwiesner |publisher=Wargs.Com |accessdate=May 9, 2011}}&lt;/ref&gt; a [[United States Army Air Forces]] pilot stationed at [[Walker AFB|Roswell AAF]] and his wife, Erma Louise (Swope). Years later, as a Lieutenant Colonel in the [[U.S. Air Force]], Deutschendorf Sr. would set three speed records in the [[B-58 Hustler]] bomber and earn a place in the Air Force Hall of Fame.&lt;ref&gt;{{YouTube|0jN6hx0LCfA|Video of Denver's father flying a B-58.}}&lt;/ref&gt; He met and married his "Oklahoma Sweetheart".&lt;ref&gt;{{cite web|url=http://www.recordclick.com/john-denvers-genealogy-country-road-leads-to-oklahoma-not-colorado/|title=John Denver's Genealogy Road Leads to Oklahoma, Not Colorado|website=Recordclick.com|accessdate=1 June 2018}}&lt;/ref&gt;&lt;ref&gt;Plett, Rowena. "[http://starj.com/direct/john_denver_had_mennonite_ancestors+1117denver+4a6f686e2044656e76657220686164204d656e6e6f6e69746520616e636573746f7273 John Denver Had Mennonite Ancestors]." Hillsboro Star-Journal. 2011-01-19. Retrieved 2017-09-19.&lt;/ref&gt;&lt;ref name="JD"&gt;[http://www.john-denver.org/default.asp?nc=1168&amp;id=444] {{webarchive |url=https://web.archive.org/web/20060628051820/http://www.john-denver.org/default.asp?nc=1168&amp;id=444 |date=June 28, 2006 }}&lt;/ref&gt; In his autobiography, ''Take Me Home'', Denver described his life as the eldest son of a family shaped by a stern father who could not show his love for his children.
+
+Because Denver's father was in the military and his family moved often, it was difficult for him to make friends and fit in with other children of his own age. Constantly being the new kid was troubling for the introverted Denver, and he grew up always feeling as though he should be somewhere else, but never knowing where that "right" place was.&lt;ref&gt;{{cite news| url=https://www.telegraph.co.uk/news/obituaries/7733036/John-Denver.html | location=London | work=The Daily Telegraph | title=John Denver | date=October 14, 1997}}&lt;/ref&gt; While the family was stationed at [[Davis-Monthan AFB]] in [[Tucson, Arizona]], Denver was a member of the Tucson Arizona Boys Chorus for two years. Denver was happy living in Tucson, but his father was then transferred to [[Maxwell AFB]] in [[Montgomery, Alabama]], then in the midst of the [[Montgomery Bus Boycott|Montgomery boycotts]]. The family later moved to [[Carswell AFB]] in [[Fort Worth, Texas]], where Denver graduated from [[Arlington Heights High School]]. Fort Worth was a distressing experience for Denver and in his third year of high school, he drove his father's car to California to visit family friends and begin his music career but his father flew to California in a friend's jet to retrieve him and Denver reluctantly returned to complete his schooling.&lt;ref&gt;{{cite news|url=http://findarticles.com/p/articles/mi_g1epc/is_bio/ai_2419200301 |archive-url=https://archive.is/20120708100625/http://findarticles.com/p/articles/mi_g1epc/is_bio/ai_2419200301 |dead-url=yes |archive-date=July 8, 2012 |title=FindArticles biodata |publisher=Findarticles.com |accessdate=May 9, 2011 |year=2002 }}&lt;/ref&gt;
+
+At the age of 11, Denver received an [[acoustic guitar]] from his grandmother.&lt;ref name="bio"/&gt; He learned to play well enough to perform at local clubs by the time he was in college. He adopted the surname "Denver" after the capital of his favorite state, [[Colorado]].  He decided to change his name when [[Randy Sparks]], founder of [[The New Christy Minstrels]], suggested that "Deutschendorf" wouldn't fit comfortably on a [[Pole_marquee|marquee]].&lt;ref name="sparks"/&gt; Denver studied Architecture at [[Texas Tech University]] in [[Lubbock, Texas|Lubbock]], and sang in a folk-music group called "The Alpine Trio" while pursuing architectural studies.&lt;ref name="bio2"&gt;{{cite web|url=http://www.notablebiographies.com/supp/Supplement-Ca-Fi/Denver-John.html |title=John Denver Biography – life, family, children, name, death, wife, young, son, born, college, contract, marriage, year, Raised in Military Family |publisher=Notablebiographies.com |accessdate=August 17, 2010}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=University|first=Texas Tech|date=1962|title=La Ventana, vol. 037|url=http://hdl.handle.net/2346/48702|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=University|first=Texas Tech|date=1964|title=La Ventana, vol. 039|url=http://hdl.handle.net/2346/48704|language=en}}&lt;/ref&gt; He was also a member of the [[Delta Tau Delta]] Fraternity. Denver dropped out of the Texas Tech School of Engineering in 1963,&lt;ref name="bio"/&gt; and moved to Los Angeles, where he sang in folk clubs. In 1965, Denver joined [[The Chad Mitchell Trio|The Mitchell Trio]], replacing founder Chad Mitchell, which later became "Denver, Boise, and Johnson" (John Denver, David Boise, and [[Michael Johnson (singer)|Michael Johnson]]).&lt;ref name="bio"/&gt;
+
+In 1969, Denver abandoned the band life to pursue a solo career and released his first album for [[RCA Records]]: ''[[Rhymes &amp; Reasons (John Denver album)|Rhymes &amp; Reasons]]''. Two years prior, Denver had made a self-produced demo recording of some of the songs he played at his concerts. He included in the demo a song he had written called "Babe I Hate to Go", later renamed "[[Leaving on a Jet Plane]]". Denver made several copies and gave them out as presents for Christmas.&lt;ref&gt;[http://www.johndenver.com/current/current.html] {{webarchive |url=https://web.archive.org/web/20101205131958/http://www.johndenver.com/current/current.html |date=December 5, 2010 }}&lt;/ref&gt; Producer [[Milt Okun]], who produced records for the Mitchell Trio and the high-profile folk group [[Peter, Paul and Mary]], had become Denver's producer as well. Okun brought the unreleased "Jet Plane" song to Peter, Paul and Mary. Their version of the song hit number one on the Billboard Hot 100.&lt;ref&gt;{{cite web| last = Ruhlman | first = William | title = Beginnings| publisher=Goldmine Magazine  | date = April 12, 1996 | url =http://www.peterpaulandmary.com/history/f-ruhlmann3.htm | accessdate =January 24, 2010}}&lt;/ref&gt; (This was the only single to hit number one for the group.) Denver's composition also made it to the U.K. No.&amp;nbsp;2 spot in February 1970, having also made No.&amp;nbsp;1 on the U.S. Cash Box chart in December 1969.
+
+Although RCA did not actively promote ''Rhymes &amp; Reasons'' with a tour, Denver himself embarked on an impromptu supporting tour throughout the Midwest, stopping at towns and cities as the fashion took him, offering to play free concerts at local venues. When he was successful in persuading a school, college, American Legion hall, or local coffee-house to let him play, he would spend a day or so distributing posters in the town and could usually be counted upon to show up at the local radio station, guitar in hand, offering himself for an interview. {{Citation needed|date=September 2009}} With his foot in the door as author of "[[Leaving on a Jet Plane]]", he was often successful in gaining some valuable promotional airtime, usually featuring one or two songs performed live. Some venues would let him play for the "door"; others restricted him to selling copies of the album at intermission and after the show. After several months of this constant low-key touring schedule, however, he had sold enough albums to persuade RCA to take a chance on extending his recording contract. He had also built a sizable and solid fan base, many of whom remained loyal throughout his career.&lt;ref name="bio"&gt;{{cite web|url=http://johndenver.com/about/biography/ |title=Biography |publisher=john denver |accessdate=August 17, 2010}}&lt;/ref&gt;
+
+Denver recorded two more albums in 1970, ''[[Take Me to Tomorrow]]'' and ''[[Whose Garden Was This]]'', including a mix of songs he had written and cover versions of other artists' compositions.
+
+===Career peak===
+His next album, ''[[Poems, Prayers, and Promises]]'' (released in 1971), was a breakthrough for him in the U.S., thanks in part to the single "[[Take Me Home, Country Roads]]", which went to number 2 on the ''Billboard'' charts despite the first pressings of the track being distorted. Its success was due in part to the efforts of his new manager, future Hollywood producer [[Jerry Weintraub]], who signed Denver in 1970. Weintraub insisted on a re-issue of the track and began a radio-airplay campaign that started in Denver, Colorado. Denver's career flourished from then on, and he had a series of hits over the next four years. In 1972, Denver scored his first Top Ten album with ''[[Rocky Mountain High (album)|Rocky Mountain High]]'', with its title track reaching the Top Ten in 1973.&lt;ref&gt;{{cite web|url=http://www.billboard.com/charts/1973-02-17/hot-100 |title=Top 100 Music Hits, Top 100 Music Charts, Top 100 Songs &amp; The Hot 100 |work=Billboard  |accessdate=August 17, 2010}}&lt;/ref&gt; Between 1974 and 1975, Denver experienced an impressive chart dominance, with a string of four No.&amp;nbsp;1 songs ("[[Sunshine on My Shoulders]]", "[[Annie's Song]]", "[[Thank God I'm a Country Boy]]", and "[[I'm Sorry (John Denver song)|I'm Sorry]]") and three No.&amp;nbsp;1 albums (''[[John Denver's Greatest Hits]]'', ''[[Back Home Again (John Denver album)|Back Home Again]]'', and ''[[Windsong]]'').&lt;ref&gt;{{cite web |url=http://www.countrypolitan.com/bio-john-denver.php |title=Artist Biography – John Denver |publisher=Countrypolitan.com |date=October 12, 1997 |accessdate=May 9, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20010221215317/http://www.countrypolitan.com/bio-john-denver.php |archivedate=February 21, 2001 |df=mdy-all }}&lt;/ref&gt;
+
+In the 1970s, Denver's onstage appearance included long blond hair and "granny" glasses. His embroidered shirts emblazoned with images commonly associated with the American West were created by the designer &amp; appliqué artist Anna Zapp. His manager, Jerry Weintraub, insisted on a significant number of television appearances, including a series of half-hour shows in the [[United Kingdom]], despite Denver's protests at the time, "I've had no success in Britain... I mean ''none''."&lt;ref&gt;''Rocky Mountain Wonderboy,'' James M. Martin, Pinnacle Books 1977&lt;/ref&gt; Weintraub explained to Maureen Orth of ''Newsweek'' in December 1976, "I knew the critics would never go for John. I had to get him to the people."
+
+After appearing as a guest on many shows, Denver went on to host his own variety/music specials, including several concerts from [[Red Rocks Amphitheatre]] near [[Denver]]. His seasonal special, ''Rocky Mountain Christmas,'' was watched by more than 60 million people and was the highest-rated show for the ABC network at that time.{{Citation needed|date=November 2010}}
+
+[[File:John Denver 1975.JPG|thumb|Denver's live concert television special ''An Evening With John Denver'' (1975)]]
+His live concert special, ''An Evening with John Denver'', won the 1974–1975 [[Emmy Award|Emmy]] for Outstanding Special, Comedy-Variety or Music.&lt;ref&gt;{{cite web|url=http://www.infoplease.com/ipa/A0151551.html |title=Private Tutor |publisher=Infoplease.com |accessdate=August 17, 2010}}&lt;/ref&gt; When Denver ended his business relationship{{when|date=July 2017}} because of Weintraub's focus on other projects, Weintraub threw Denver out of his office and accused him of [[Nazism]]. Denver would later tell Arthur Tobier, when the latter transcribed his autobiography,{{citation needed|date=November 2010}} "I'd bend my principles to support something he wanted of me. And of course, every time you bend your principles – whether because you don't want to worry about it, or because you're afraid to stand up for fear of what you might lose – you sell your soul to the devil."&lt;ref&gt;''Take Me Home: An Autobiography,'' John Denver and Arthur Tobier, Harmony Books, 1994.&lt;/ref&gt;
+
+Denver was also a guest star on ''[[The Muppet Show]]'', the beginning of the lifelong friendship between Denver and [[Jim Henson]] that spawned two television specials with [[The Muppets]]. He also tried acting, appearing in ''The Colorado Cattle Caper'' episode of the ''[[McCloud (TV series)|McCloud]]'' television movie on February 24, 1974, and starring in the 1977 film ''[[Oh, God! (film)|Oh, God!]]'' opposite [[George Burns]]. Denver hosted the [[Grammy Award]]s five times in the 1970s and 1980s, and guest-hosted ''The Tonight Show'' on multiple occasions.&lt;ref&gt;{{cite web|url=http://www.answers.com/topic/john-denver |title=John Denver: Biography from |publisher=Answers.com |accessdate=May 9, 2011}}&lt;/ref&gt;
+In 1975, Denver was awarded the [[Country Music Association]]'s Entertainer of the Year award. At the ceremony, the outgoing Entertainer of the Year, [[Charlie Rich]], presented the award to his successor, but in protest of what he considered the inappropriateness of Denver's selection, Rich set fire to the envelope containing the official notification of the award.&lt;ref&gt;{{cite web|url=https://web.archive.org/web/20120320051946/http://www.cmt.com/shows/dyn/greatest_series/76893/episode_featured_copy.jhtml |title=The Greatest : Features |publisher=CMT.com |date=April 3, 1992 |accessdate=August 10, 2018}}&lt;/ref&gt; However, Denver's music was defended by country singer [[Kathy Mattea]], who told Alanna Nash of ''[[Entertainment Weekly]],'' "A lot of people write him off as lightweight, but he articulated a kind of optimism, and he brought acoustic music to the forefront, bridging folk, pop, and country in a fresh way... People forget how huge he was worldwide."
+
+In 1977, Denver co-founded [[The Hunger Project]] with [[Werner Erhard]] and [[Robert W. Fuller]]. He served for many years and supported the organization until his death. Denver was also appointed by President [[Jimmy Carter]] to serve on the President's Commission on World Hunger, writing the song "I Want to Live" as its theme song. In 1979, Denver performed "Rhymes &amp; Reasons" at the [[Music for UNICEF Concert]]. Royalties from the concert performances were donated to [[UNICEF]].&lt;ref&gt;{{cite web|author=thepiperchile |url=http://www.abbaontv.com/1979/description-unicef1.html |title=ABBA on TV – Music for UNICEF – A Gift of Song Concert |publisher=Abbaontv.com |accessdate=May 9, 2011}}&lt;/ref&gt; His father taught him to fly in the mid-1970s, which led to a reconciliation between father and son.&lt;ref name="bio2"/&gt; In 1980, Denver and his father, by then a [[lieutenant colonel]], co-hosted an award-winning television special, "The Higher We Fly: the History of Flight".&lt;ref name="JD"/&gt; It won the Osborn Award from the Aviation/Space Writers’ Association, and was honored by the Houston Film Festival.&lt;ref name="JD"/&gt;
+
+===Political activism===
+In the mid-1970's, Denver became outspoken in politics. He expressed his ecologic interests in the epic 1975 song "[[Calypso (song)|Calypso]]," which is an ode to [[Calypso (ship)|the eponymous exploration ship]] and team of environmental activist [[Jacques Cousteau]]. In 1976, he campaigned for [[Jimmy Carter]], who became a close friend and ally. Denver was a supporter of the [[Democratic Party (United States)|Democratic Party]] and of a number of charitable causes for the environmental movement, the homeless, the poor, the hungry, and the [[HIV/AIDS in Africa|African AIDS crisis]]. He founded the charitable [[Windstar Foundation]] in 1976, to promote [[sustainable living]]. His dismay at the [[Chernobyl disaster]] led to precedent-setting concerts in parts of communist Asia and Europe.&lt;ref name="bio2"/&gt;
+
+During the 1980s, Denver was critical of the [[Ronald Reagan|Reagan administration]], but he remained active in his campaign against hunger, for which Reagan awarded Denver the Presidential World Without Hunger Award in 1985.&lt;ref name="bio2"/&gt; Denver's criticism of the conservative politics of the 1980s was expressed in his autobiographical folk-rock ballad "Let Us Begin (What Are We Making Weapons For)." In an open letter to the media, he wrote that he opposed oil drilling in the [[Arctic National Wildlife Refuge]]. Denver had battled to expand the refuge in the 1980s, and he praised President [[Bill Clinton]] for his opposition to the proposed drilling. The letter, which he wrote in the midst of the 1996 presidential election, was one of the last he ever wrote.&lt;ref name="bio2"/&gt; Denver was also on the Board of Governors of the [[National Space Society]] for many years.
+
+===Later years and humanitarian work===
+Denver had a few more U.S. Top 30 hits as the 1970s ended, but nothing to match his earlier success. He began to focus more on humanitarian and [[sustainability]] causes, focusing extensively on [[Conservation (ethic)|conservation]] projects. He made public expression of his acquaintances and friendships with ecological design researchers such as [[Buckminster Fuller|Richard Buckminster Fuller]] (about whom he wrote and composed "What One Man Can Do") and [[Amory Lovins]], from whom he said he learned much. He also founded the environmental group Plant-It 2020 (originally Plant-It 2000). Denver had a keen interest in solutions to [[hunger|world hunger]]. He visited Africa during the 1980s to witness first-hand the suffering caused by starvation and to work with African leaders toward solutions.
+
+In 1983 and 1984, Denver hosted the annual [[Grammy Award]]s. In the 1983 finale, Denver was joined on stage by folk music legend [[Joan Baez]] with whom he led an all-star version of "[[Blowin' in the Wind]]" and "[[Let The Sunshine In]]," joined by such diverse musical icons as [[Jennifer Warnes]], [[Donna Summer]], and [[Rick James]].
+
+In 1984, [[Roone Arledge]], president of [[ABC Sports]], asked Denver to compose and sing the theme song for the [[1984 Winter Olympics]] in [[Sarajevo]]. Denver worked as both a performer and a skiing commentator. (Skiing was another avocation of Denver.) He had written and composed "The Gold and Beyond," and he sang it for the Olympic Games athletes, as well as local venues including many schools.&lt;ref name="JD"/&gt;
+
+In 1985, Denver asked to participate in the singing of "[[We Are the World]]," but he was turned down. According to [[Ken Kragen]] (who helped to produce the song), the reason Denver was turned down was that many people felt his image would hurt the credibility of the song as a pop-rock anthem. "I didn't agree" with this assessment, Kragen said, but reluctantly turned Denver down anyway.&lt;ref&gt;{{cite web|url=http://www.harrychapin.com/circle/winter05/behind.htm |title=Harry Chapin  |publisher=Harrychapin.com |accessdate=May 9, 2011}}&lt;/ref&gt;
+
+For Earth Day 1990, Denver was the on-camera narrator of a well-received environmental TV program, ''In Partnership With Earth,'' with then–[[Environmental Protection Agency|EPA]] Administrator [[William K. Reilly]].
+
+Due to his love of flying, he was attracted to [[NASA]] and became dedicated to America's work in outer space. He conscientiously worked to help bring into being the "Citizens in Space" program. Denver received the [[NASA Public Service Medal]], in 1985 for "helping to increase awareness of space exploration by the peoples of the world," an award usually restricted to spaceflight engineers and designers. Also, in 1985, Denver passed NASA's rigorous physical exam and was in line for a space flight, a finalist for the first citizen's trip on the Space Shuttle in 1986, but he was not chosen. After the [[Space Shuttle Challenger disaster]] with teacher [[Christa McAuliffe]] aboard, Denver dedicated his song "Flying for Me" to all astronauts, and he continued to support NASA.&lt;ref name="JD"/&gt;
+
+Denver testified before the Senate Labor and Commerce Committee on the topic of censorship during a [[Parents Music Resource Center]] hearing in 1985. Denver also toured Russia in 1985. His 11 Soviet Union concerts were the first by any American artist in more than 10 years.&lt;ref name="Windstar_Russia_CD"&gt;{{cite web |url=http://www.wstar.org/windstar/OnlineStore/Products/russiacd.html |title=Windstar Foundation announcement |publisher=Wstar.Com |date=September 11, 2007 |accessdate=May 9, 2011 |archive-url=https://web.archive.org/web/20110615073607/http://www.wstar.org/windstar/OnlineStore/Products/russiacd.html |archive-date=June 15, 2011 |dead-url=yes |df=mdy-all }}&lt;/ref&gt; He returned two years later to perform at a benefit concert for the victims of the [[Chernobyl disaster]].
+
+In October 1992, Denver undertook a multiple-city tour of the People's Republic of China. He also released a greatest-hits CD, ''Homegrown'', to raise money for homeless charities. In 1994, he published his autobiography, ''Take Me Home'', in which he candidly spoke of his [[cannabis (drug)|cannabis]], [[LSD]], and [[cocaine]] use, his marital infidelities, and his history of domestic violence.&lt;ref name="ORL"&gt;''[http://articles.orlandosentinel.com/1994-11-06/news/9411051052_1_martell-chainsaws-annie Slice Of Life: Denver Tells Of Chainsaws, Choke Holds],'' The Orlando Sentinel, November 6, 1994, retrieved February 16, 2012&lt;/ref&gt;&lt;ref name="DEN"&gt;Denver, John, ''Take Me Home: An Autobiography,'' Crown Archetype Press, {{ISBN|978-0-517-59537-4}} (1994)&lt;/ref&gt;  In 1996, he was inducted into the [[Songwriters Hall of Fame]].
+
+In early 1997, Denver filmed an episode for the ''[[Nature (TV series)|Nature]]'' series, centering on the natural wonders that inspired many of his best-loved songs. His last song, "Yellowstone, Coming Home," which he composed while rafting along the [[Colorado River]] with his son and young daughter, is included.&lt;ref&gt;{{cite web|url=https://www.pbs.org/wnet/nature/denver/index.html |title=John Denver – Let this be a voice |publisher=Pbs.org Nature|accessdate=May 9, 2011}}&lt;/ref&gt; In the summer of 1997, shortly before his death, Denver recorded a children's train album for [[Sony Wonder]], titled ''[[All Aboard! (John Denver album)|All Aboard!]]'' This was produced by long-time friend [[Roger Nichols (recording engineer)|Roger Nichols]].&lt;ref&gt;{{cite news| url=https://www.telegraph.co.uk/news/obituaries/8580588/Roger-Nichols.html | location=London | work=The Daily Telegraph | title=Roger Nichols | date=June 16, 2011}}&lt;/ref&gt; The album consisted of old-fashioned swing, [[big band]], [[Traditional music|folk]], [[bluegrass music|bluegrass]], and [[Gospel music|gospel]] styles of music woven into a theme of railroad songs. This album won a posthumous [[Grammy Award for Best Musical Album for Children|Best Musical Album For Children Grammy]] for Denver, which was his only [[Grammy]].&lt;ref&gt;{{cite web|url=http://www.rockonthenet.com/artists-d/johndenver_main.htm |title=John Denver |publisher=Rock on the Net |accessdate=May 9, 2011}}&lt;/ref&gt;
+
+===Personal life===
+Denver's first marriage was to Anne Martell of [[St. Peter, Minnesota]].&lt;ref&gt;{{cite journal |url=https://people.com/archive/cover-story-john-denvers-unsung-story-vol-11-no-8/ |title=John Denver's Unsung Story |last=Martin |first=Frank W. |date=26 February 1979 |access-date=15 August 2018 |magazine=[[People (magazine)|People]] |publisher=[[Meredith Corporation]]}}&lt;/ref&gt; She was the subject of his hit "[[Annie's Song]]", which he composed in only ten minutes as he sat on a Colorado [[ski lift]] after the couple had an argument.&lt;ref name="bio2"/&gt; They lived in [[Edina, Minnesota]], from 1968 to 1971. Following the success of "[[Rocky Mountain High]]", inspired by a camping trip with Anne and some friends, Denver purchased a residence in [[Aspen, Colorado]]. He lived in Aspen continuously until his death.&lt;ref&gt;{{cite web|url=http://www.midtod.com/98autumn/denver.phtml |title=John Denver |publisher=Midtod.com |date=1997-10-05 |accessdate=2015-08-25}}&lt;/ref&gt; The Denvers adopted a boy, Zachary John, and girl, Anna Kate, who Denver would say were "meant to be" theirs.&lt;ref name="JD"/&gt; Denver once said, "I'll tell you the best thing about me. I'm some guy's dad; I'm some little gal's dad. When I die, Zachary John and Anna Kate's father, boy, that's enough for me to be remembered by. That's more than enough".&lt;ref&gt;Martin, Frank W. [http://www.people.com/people/archive/article/0,,20073026,00.html "John Denver's Unsung Story"], ''People'', February 26, 1979.&lt;/ref&gt; Zachary was the subject of "A Baby Just Like You", a song that included the line "Merry Christmas, little Zachary" and which he wrote for [[Frank Sinatra]]&lt;!--, who also appeared on the ''Muppet Christmas Special''--&gt;. Denver and Martell divorced in 1982. In a 1983 interview shown in the documentary ''John Denver: Country Boy'' (2013), Denver said that career demands drove them apart; Anne said that they were too young and immature to deal with John's sudden mega-success. The ensuing property settlement caused Denver to become so enraged, he nearly choked Martell, then used a [[chainsaw]] to cut their marital bed in half.&lt;ref name="bio2"/&gt;&lt;ref name="ORL"/&gt;&lt;ref name="DEN"/&gt;&lt;ref name="STO"&gt;Story, Rob, [http://www.skinet.com/ski/resorts/2005/12/dropping-in-john-denvers-moral-victory "Dropping In: John Denver's Moral Victory"], ''Ski Magazine'', retrieved February 16, 2012&lt;/ref&gt;
+
+Denver married Australian actress [[Cassandra Delaney]]&lt;ref&gt;{{cite web|title=Cassandra Delaney Biography|url=https://www.imdb.com/name/nm0216261/bio?ref_=nm_ov_bio_sm|website=Internet Movie Database|accessdate=2014-07-08}}&lt;/ref&gt; in 1988, after a two-year courtship. Settling at Denver's home in Aspen, the couple had a daughter, Jesse Belle. Denver and Delaney separated in 1991 and divorced in 1993.&lt;ref name="bio2"/&gt; Of his second marriage, Denver would later recall that "before our short-lived marriage ended in divorce, she managed to make a fool of me from one end of the valley to the other".&lt;ref name="DEN"/&gt;
+
+In 1993, Denver pleaded guilty to a drunken driving charge, and was placed on probation.&lt;ref name="STO"/&gt; In August 1994, while still on probation, he was again charged with misdemeanor driving under the influence after crashing his Porsche into a tree in Aspen.&lt;ref name="STO"/&gt; Though a jury trial in July 1997 resulted in a hung jury on the second DUI charge, prosecutors later decided to reopen the case, which was closed only after Denver's accidental death in October 1997.&lt;ref name="STO"/&gt;&lt;ref name="CAS"&gt;Castro, Peter, [http://www.people.com/people/archive/article/0,,20123569,00.html "Peaks &amp; Valleys"], ''People'', October 27, 1997, Vol. 49 No. 17, retrieved February 16, 2012&lt;/ref&gt; In 1996, the FAA decided that Denver could no longer fly a plane, due to medical disqualification for failure to abstain from [[alcohol (drug)|alcohol]], a condition that the FAA had imposed in October 1995 after his prior drunk-driving conviction.&lt;ref name="AVW"&gt;[http://www.avweb.com/other/ntsb9905.html "Close-up: The John Denver Crash"] {{webarchive|url=https://web.archive.org/web/20100211143251/http://www.avweb.com/other/ntsb9905.html |date=February 11, 2010 }}, AVWeb, retrieved February 16, 2012&lt;/ref&gt;&lt;ref name="NTSB"&gt;National Transportation Safety Board, "NTSB Public Meeting of January 26, 1999: Aircraft Accident involving John Denver in Flight Collision with Terrain/Water October 12, 1997, Pacific Ocean near Pacific Grove, CA, LAX-98-FA008", Washington, D.C., January 26, 1999&lt;/ref&gt;
+
+Denver's talent extended beyond music. Artistic interests included painting, but because of his limiting schedule he pursued photography, saying once "photography is a way to communicate a feeling". Denver was also an avid skier and golfer, but his principal interest was in flying. His love of flying was second only to his love of music.&lt;ref name="People"&gt;Castro, Peter. [http://www.people.com/people/archive/article/0,,20123569,00.html "Peaks &amp; Valleys"], ''People'', October 27, 1997.&lt;/ref&gt; In 1974, he bought a [[Learjet]] to fly himself to concerts. He was a collector of vintage biplanes, and owned a [[Aviat Eagle II|Christen Eagle]] aerobatic plane, two [[Cessna 210]] airplanes, and in 1997, an experimental, amateur-built [[Rutan Long-EZ]].&lt;ref name="JD"/&gt;&lt;ref name="NTSB"/&gt;&lt;ref name="People"/&gt;
+
+===Death===
+[[File:NOAA-Long-EZ.jpg|thumb|upright=1.2|A Long-EZ two-seater [[Canard (aeronautics)|canard plane]]]]
+Denver was killed on October 12, 1997 when his experimental [[Rutan Long-EZ]] plane, [[Aircraft registration|aircraft registration number]] N555JD, crashed into [[Monterey Bay]] near [[Pacific Grove, California]], while making a series of [[touch-and-go landing]]s at the nearby [[Monterey Regional Airport|Monterey Peninsula Airport]].&lt;ref name="avweb"&gt;{{cite web|url=http://www.avweb.com/other/ntsb9905.html |title=Closeup: The John Denver Crash |publisher=Avweb.com |accessdate=May 9, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20100211143251/http://www.avweb.com/other/ntsb9905.html |archivedate=February 11, 2010 }}&lt;/ref&gt; Denver was the only occupant of the aircraft. Identification was not possible using dental records; only his fingerprints confirmed that the pilot was Denver.&lt;ref&gt;Kligman, David. [http://www.highbeam.com/doc/1P2-4413095.html "John Denver Dies In Crash"], ''Chicago Sun Times'', October 13, 1997. reprinted at highbeam.com&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rockmine.com/Archive/Vault/DeaCert/Denver.html |title=Archive : Vault : Death Certificates: John Denver |publisher=Rockmine |date= |accessdate=2015-08-25}}&lt;/ref&gt;
+
+A pilot with over 2,700 hours of experience, Denver had [[Pilot licensing and certification|pilot ratings]] for single-engine land and sea, multi-engine land, glider, and instrument. He also held a [[type rating]] in his Learjet. He had recently purchased the Long-EZ aircraft, made by someone else from a kit,&lt;ref&gt;{{cite web|url=http://articles.latimes.com/1998/jun/23/news/mn-62708|title=John Denver Plane Crash Inquiry Ends|first=From Associated|last=Press|date=June 23, 1998|publisher=|via=LA Times}}&lt;/ref&gt; and had taken a half-hour checkout flight with the aircraft the day before the accident.&lt;ref&gt;{{cite web|url=http://www.check-six.com/Crash_Sites/John-Denver-N555JD.htm |title=Denver's Long-EZ |publisher=Check-six.com |date= |accessdate=2015-08-25}}&lt;/ref&gt;&lt;ref name="urlwww.ntsb.gov"&gt;{{cite web|url=http://www.ntsb.gov/news/1999/990126.htm |title=Press release |author=National Transportation Safety Board (NTSB) |accessdate=December 7, 2009}}&lt;/ref&gt;
+
+Denver was not legally permitted to fly at the time of the accident. In previous years, Denver had a number of [[Driving under the influence|drunk driving]] arrests.&lt;ref&gt;{{cite news |url=http://www.sfgate.com/news/article/John-Denver-dies-in-crash-3095382.php |title=John Denver dies in crash |date= October 13, 1997 |work=[[SFGate]] |first1=Zachary |last1=Coile |first2=Emily |last2=Gurnon |first3=Larry D. |last3=Hatfield |access-date=26 September 2016}}&lt;/ref&gt; In 1996, nearly a year before the accident, the [[Federal Aviation Administration]] learned that Denver had failed to maintain sobriety by failing to refrain entirely from [[Alcoholic beverage|alcohol]], and was compelled to revoke his medical certification.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt; However, the accident was not influenced by alcohol use, as an autopsy found no sign of alcohol or other drugs in Denver's body.&lt;ref name=autogenerated1&gt;National Transportation Safety Board. [http://dms.ntsb.gov/aviation/GenPDF.aspx?id=LAX98FA008&amp;rpt=fa ''Long-EZ, N555JD, Flight History and Accident Report'', ID= LAX98FA008], October 12, 1997.{{dead link|date=September 2017}}&lt;/ref&gt;&lt;ref name="avweb"/&gt;
+
+Post-accident investigation by the NTSB showed that the leading cause of the accident was Denver's inability to switch fuel tanks during flight. The quantity of fuel had been depleted during the plane's transfer to Monterey and in several brief practice takeoffs and landings Denver performed at the airport immediately prior to the final flight. His newly purchased experimental Rutan had an unusual fuel selector valve handle configuration. Intended by the plane's designer to be located between the pilot's legs, the builder instead had placed the fuel selector behind the pilot's left shoulder, with the fuel gauge also behind the pilot's seat and not visible to the person at the controls.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt; An NTSB interview with the aircraft mechanic servicing Denver's plane revealed that he and Denver had discussed the inaccessibility of the cockpit fuel selector valve handle and its resistance to being turned.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt;
+
+Before the flight, Denver and the mechanic had attempted to extend the reach of the handle, using a pair of [[Locking pliers|Vise-Grip pliers]]. However, this did not solve the problem, and the pilot still could not reach the handle while strapped into his seat. NTSB investigators' post-accident investigation showed that because of the positioning of the fuel selector valves, switching fuel tanks required the pilot to turn his body 90 degrees to reach the valve. This created a natural tendency to extend one's right foot against the right rudder pedal to support oneself while turning in the seat, which caused the aircraft to [[Aircraft principal axes|yaw]] (nose right) and pitch up.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt;
+
+The mechanic said he had remarked to Denver that the fuel sight gauges were visible only to the rear cockpit occupant. Denver had asked how much fuel was shown. He told Denver there was "less than half in the right tank and less than a quarter in the left tank". He then provided Denver with an inspection mirror so he could look over his shoulder at the fuel gauges. The mirror was later recovered in the wreckage. Denver said he would use the autopilot inflight to hold the airplane level while he turned the fuel selector valve. He turned down an offer to refuel, saying he would be flying for about an hour.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt;
+
+The NTSB interviewed 20 witnesses of Denver's last flight. Six of them had seen the plane crash into the ocean near Point Pinos.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt; Four witnesses stated the aircraft was originally heading west. Five said they saw the plane in a steep bank, with four of these saying the bank was to the right (north). Twelve witnesses described seeing the aircraft in a steep nose-down descent. Witnesses estimated the plane's altitude to be between {{convert|350 and 500|ft}} when heading toward the shoreline. Eight said that they heard a "pop" or "backfire", accompanied by a reduction in the engine noise level just before the airplane crashed into the sea.
+
+In addition to Denver's failing to refuel and his subsequent loss of control, while attempting to switch fuel tanks, the NTSB determined there were other key factors that led to the accident. Foremost among these was Denver's inadequate transition training on this type of aircraft, and the builder's decision to locate the fuel selector handle in a difficult-to-reach location.&lt;ref name="AVW"/&gt;&lt;ref name="NTSB"/&gt; The board issued recommendations on the requirement and enforcement of mandatory training standards for pilots operating experimental aircraft. It also emphasized the importance of mandatory ease of access to all controls, including fuel selectors and fuel gauges, in all aircraft. The official cause of death listed on Denver's death certificate was 'Multiple Blunt Force Trauma'.
+
+==Posthumous recognition==
+[[File:JohnDenverMemorialPacificGrove.JPG|thumb|The plaque marking the location of Denver's plane crash in [[Pacific Grove, California]]]]
+Upon announcement of Denver's death, Colorado governor [[Roy Romer]] ordered all state flags to be lowered to [[half-mast|half-staff]] in his honor.  Funeral services were held at Faith Presbyterian Church in [[Aurora, Colorado]], on October 17, 1997, officiated by Pastor Les Felker, a retired Air Force chaplain, following which Denver's remains were cremated and his ashes were scattered in the Rocky Mountains.  Further tributes were made at the following Grammys and [[Country Music Association|Country Music Association Awards]].
+
+In 2000, CBS presented the television movie ''Take Me Home: The John Denver Story'' loosely based on his memoirs, starring [[Chad Lowe]] as Denver. The ''New York Post'' observed, "An overachiever like John Denver couldn't have been this boring."&lt;ref&gt;Buckman, Adam. "Home Movie Disses Denver", ''[[New York Post]]'', April 29, 2000.&lt;/ref&gt;
+
+On September 23, 2007, nearly ten years after Denver's death, his brother Ron witnessed the dedication of a plaque placed near the crash site in Pacific Grove, California, commemorating the singer.
+
+Denver's music remains popular around the world. Previously unreleased and unnoticed recordings are now sought-after collectibles in pop, folk and country genres.{{Citation needed|date=July 2012}} Also in demand are copies of Denver's many television appearances, especially his one-hour specials from the 1970s and his six-part series for Britain's BBC, ''The John Denver Show''. Despite strong interest in these programs, no sign of "official" release is evident for the vast majority of this material.{{Citation needed|date=July 2012}} An anthology musical featuring Denver's music, ''Back Home Again: A John Denver Holiday'', premiered at the Rubicon Theatre Company in November 2006.&lt;ref&gt;{{cite web|url=http://www.shellworld.net/~emily/jdfriend.html |title=John Denver and Friends Rocky Mountain High |publisher=Shellworld.net |date=April 17, 2009 |accessdate=May 9, 2011}}&lt;/ref&gt;
+
+On March 12, 2007, the [[Colorado Senate]] passed a resolution to make Denver's trademark 1972 hit "[[Rocky Mountain High]]" one of the state's two official state songs, sharing duties with its predecessor, "[[Where the Columbines Grow]]".&lt;ref&gt;{{cite web|url=http://www.netstate.com/states/symb/song/co_rocky_mountain_high.htm |title=Colorado State Song Rocky Mountain High composed by John Denver |publisher=Netstate.com |date= |accessdate=2015-08-25}}&lt;/ref&gt; The resolution passed 50–11 in the House, defeating an objection by Rep. [[Debbie Stafford]] (R-[[Aurora, Colorado|Aurora]]) that the song reflected drug use, most specifically the line, "friends around the campfire and everybody's high". Sen. [[Bob Hagedorn]], the Aurora Democrat who sponsored the proposal, defended the song as nothing to do with drugs, but everything to do with sharing with friends the euphoria of experiencing the beauty of Colorado's mountain vistas. Nancy Todd (D-Aurora) said that "John Denver to me is an icon of what Colorado is."&lt;ref&gt;Denver Post, March 13, 2007&lt;/ref&gt;
+
+[[File:DSCN2983 johndenvermemorial e 600.jpg|thumb|left|upright=1.2|John Denver Memorial stone with the lyrics to "Rocky Mountain High" in Rio Grande Park, Aspen, Colorado&lt;ref&gt;{{cite web|url=http://www.aspenportrait.com/john_denver_sanctuary/denver1-0706.html |title=John Denver Sanctuary, Aspen, Colorado |publisher=Aspenportrait.com |date=October 12, 1997 |accessdate=May 9, 2011}}&lt;/ref&gt;]]
+On September 24, 2007, the California Friends of John Denver and The Windstar Foundation unveiled a bronze plaque near the spot where his plane went down near Pacific Grove. The site had been marked by a driftwood log carved (by Jeffrey Pine of Colorado) with the singer's name, but fears that the memorial could be washed out to sea sparked the campaign for a more permanent memorial. Initially, the Pacific Grove Council denied permission for the memorial, fearing the place would attract ghoulish curiosity from extreme fans. Permission was finally granted in 1999, but the project was put on hold at the request of the singer's family. Eventually, over 100 friends and family attended the dedication of the plaque, which features a [[bas-relief]] of the singer's face and lines from his song "Windsong": "So welcome the wind and the wisdom she offers. Follow her summons when she calls again."&lt;ref&gt;{{cite web|url=http://johndenverclub.org/JohnDenverPlaque/johndenvermemorialplaquepacificgrove.html |title=John Denver Memorial Plaque Pacific Grove |publisher=Johndenverclub.org |accessdate=May 9, 2011}}&lt;/ref&gt;
+
+To mark the 10th anniversary of Denver's death, his family released a set of previously unreleased recordings of Denver's 1985 concert performances in the [[Soviet Union]]. This two-CD set, ''John Denver – Live in the USSR'', was produced by Denver's friend [[Roger Nichols (recording engineer)|Roger Nichols]], and released by AAO Music. These digital recordings were made during 11 concerts and then rediscovered in 2002. Included in this set is a previously unpublished rendition of "[[Annie's Song]]" in Russian. The collection was released November 6, 2007.&lt;ref name="Windstar_Russia_CD" /&gt;
+
+On October 13, 2009, a DVD box set of previously unreleased concerts recorded throughout Denver's career was released by [[Eagle Rock Entertainment]]. ''Around the World Live'' is a 5-disc DVD set featuring three complete live performances with full band from Australia in 1977, Japan in 1981, and England in 1986. These are complemented by a solo acoustic performance from Japan in 1984, and performances at [[Farm Aid]] from 1985, 1987, and 1990. The final disc has two-hour-long documentaries made by Denver.
+
+On April 21, 2011, Denver became the first inductee into the [[Colorado Music Hall of Fame]]. A benefit concert was held at Broomfield's [[1stBank Center]] and hosted by [[Olivia Newton-John]]. Other performers participating in the event included [[Nitty Gritty Dirt Band]], [[Lee Ann Womack]], and [[John Oates]]. Both of his ex-wives were in attendance, and the award was presented to his three children.
+
+The [[John Denver "Spirit" statue]] is a 2002 bronze sculpture statue by artist [[Sue DiCicco]] that was financed by Denver's fans. It is located at the [[Colorado Music Hall of Fame]] at [[Red Rocks]].
+
+On March 7, 2014, the West Virginia Legislature approved a resolution to make "Take Me Home, Country Roads" the official state song of West Virginia. Governor Earl Ray Tomblin signed the resolution into law on March 8.&lt;ref&gt;[http://www.wchstv.com/newsroom/eyewitness/140307_23786.shtml ] {{webarchive |url=https://web.archive.org/web/20140308010234/http://www.wchstv.com/newsroom/eyewitness/140307_23786.shtml |date=March 8, 2014 }}&lt;/ref&gt;
+
+On October 24, 2014, Denver was awarded a star on the [[Hollywood Walk of Fame]] in [[Hollywood|Hollywood, California]].&lt;ref&gt;{{cite news|last1=Baskin|first1=Gregory|title=John Denver To Get Posthumous Star on Hollywood Walk of Fame [Video]|url=http://guardianlv.com/2014/10/john-denver-to-get-posthumous-star-on-hollywood-walk-of-fame-video/|accessdate=18 October 2014|publisher=Guardian Liberty Voice|date=16 October 2014}}&lt;/ref&gt;
+
+==Related artists==
+{{Main article|The John Denver Band}}
+Denver began his recording career with a group that had started as the [[Chad Mitchell Trio]]; his distinctive voice can be heard where he sings solo on ''Violets of Dawn,'' among other songs. He recorded three albums with the Mitchell Trio, replacing Chad Mitchell himself as high tenor.&lt;ref name="bio"/&gt; The group Denver, Boise, and Johnson, which had evolved from the Mitchell Trio, released a single before he moved on to a solo career.&lt;ref name="sparks"&gt;{{cite web|url=http://www.thenewchristyminstrels.com/ |title=The New Christy Minstrels |publisher=Thenewchristyminstrels.com |accessdate=August 17, 2010}}&lt;/ref&gt;
+
+[[Bill Danoff]] and [[Taffy Nivert]], credited as co-writers of Denver's song "[[Take Me Home, Country Roads]]", were close friends of Denver and his family, appearing as singers and songwriters on many of Denver's albums until they formed the [[Starland Vocal Band]] in 1976. The band's albums were released on Denver's Windsong Records (later known as [[Windstar Records]]) label. Denver's solo recording contract resulted in part from the recording by Peter, Paul, and Mary of his song "[[Leaving on a Jet Plane]]", which became the sole number-1 hit single for the group.&lt;ref name="bio"/&gt; Denver recorded songs by [[Tom Paxton]], [[Eric Andersen]], [[John Prine]], [[David Mallett]], and many others in the folk scene. His record company, [[Windstar Records|Windstar]], is still an active record label today.&lt;ref&gt;{{Citation|last=John Denver|title=The Windstar Greatest Hits|url=https://www.amazon.com/Windstar-Greatest-Hits-John-Denver/dp/B0762KHCL8|access-date=2018-07-08}}; record was published in December 2017 suggesting the label is still active but appears to be mostly reissuing John Denver's Music&lt;/ref&gt; Country singer [[John Berry (singer)|John Berry]] considers Denver the greatest influence on his own music and has recorded Denver's hit "Annie's Song" with the original arrangement.
+
+[[Olivia Newton-John]], an Australian singer whose across-the-board appeal to pop, [[Middle of the road (music)|MOR]], and country audiences in the mid-1970s was similar to Denver's, lent her distinctive backup vocals to Denver's 1975 single "Fly Away"; she performed the song with Denver on his 1975 ''[[Rocky Mountain Christmas]]'' special. She also covered his "[[Take Me Home, Country Roads]]", and had a hit in the United Kingdom (#15 in 1973) and Japan (#6 in a belated 1976 release) with it.{{Citation needed|date=September 2009}} In 1976, Denver appeared as a guest star, along with [[Olivia Newton-John]], who made a cameo appearance, on [[The Carpenters]] Very First Special, a one-hour TV special broadcast on the ABC television network. A highlight of the program was John singing a duet with [[Karen Carpenter]] of a medley of "[[Comin' Thro' the Rye]]" and "[[Good Vibrations]]", although the medley was never released commercially as a single or on an album.{{Citation needed|date=September 2009}}
+
+==Awards and recognition==
+'''[[American Music Award|Academy of Country Music]]'''
+*[[Academy of Country Music|1974 Album of the Year]] for ''[[Back Home Again (John Denver album)|Back Home Again]]''
+
+'''[[American Music Awards]]'''
+*[[American Music Award for Favorite Pop/Rock Male Artist|1975 Favorite Pop/Rock Male Artist]]
+*[[American Music Award for Favorite Country Album|1976 Favorite Country Album]] for ''[[Back Home Again (John Denver album)|Back Home Again]]''
+*[[American Music Award for Favorite Country Male Artist|1976 Favorite Country Male Artist]]
+
+'''[[Country Music Association]]'''
+*[[Country Music Association Awards|1975 Entertainer of the Year]]
+*[[Country Music Association Awards|1975 Song of the Year]] for "[[Back Home Again (song)|Back Home Again]]"
+
+'''[[Emmy Award]]s'''
+*1975 Emmy for Outstanding Variety, Music or Comedy Special for ''An Evening With John Denver''&lt;ref name="JD"/&gt;
+
+'''[[Grammy Award]]s'''
+*[[Grammy Award for Best Musical Album for Children|1997 Best Musical Album For Children]] for ''[[All Aboard! (John Denver album)|All Aboard!]]''
+*[[Grammy Hall of Fame Award|1998 Grammy Hall of Fame Award]] for "[[Take Me Home, Country Roads]]"
+
+'''[[Songwriters Hall of Fame]]'''
+*[[Songwriters Hall of Fame#1996|Inducted in 1996]]
+
+===Other recognition===
+* [[Poet Laureate]] of Colorado, 1977&lt;ref name="JD"/&gt;
+* [[People's Choice Awards]], 1977&lt;ref name="JD"/&gt;
+* Ten Outstanding Young Men of America, 1979&lt;ref name="JD"/&gt;
+* [[Carl Sandburg]]'s People's Poet Award, 1982{{citation needed|date=June 2012}}
+* [[NASA Public Service Medal]], 1985&lt;ref name="Kroll"&gt;{{cite web |last1=Kroll |first1=David |title=John Denver, friend of science, born today in 1943 {{!}} Take As Directed |url=http://blogs.plos.org/takeasdirected/2010/12/31/john-denver-friend-of-science-born-today-in-1943/ |website=Take As Directed |publisher=PLOS |accessdate=17 June 2018 |date=December 31, 2010}}&lt;/ref&gt;
+* [[Albert Schweitzer]] Music Award, 1993{{citation needed|date=June 2012}}
+* [[Freedoms Foundation]] Award, [[Valley Forge, Pennsylvania|Valley Forge]], [[Pennsylvania]], 1980&lt;ref&gt;Along with [[U.S. Senator]] [[Jake Garn]], [[Ambassadors of the United States|U.S. Ambassador]] [[Shirley Temple|Shirley Temple Black]], actor [[James Stewart]], and [[Tom Abraham]], a businessman from [[Canadian, Texas|Canadian]], [[Texas]], who worked with [[immigrant]]s seeking to become U.S. citizens. Cited in "Tom Abraham to be honored by Freedoms Foundation Feb. 22", ''Canadian Record'', February 14, 1980, p. 19&lt;/ref&gt;
+
+==Discography==
+{{Main article|John Denver discography}}
+;Studio albums
+{{col-begin}}
+{{col-break}}
+* ''John Denver Sings'' (1966)
+* ''[[Rhymes &amp; Reasons (John Denver album)|Rhymes &amp; Reasons]]'' (1969)
+* ''[[Take Me to Tomorrow]]'' (1970)
+* ''[[Whose Garden Was This]]'' (1970)
+* ''[[Poems, Prayers &amp; Promises]]'' (1971)
+* ''[[Aerie (album)|Aerie]]'' (1971)
+* ''[[Rocky Mountain High (album)|Rocky Mountain High]]'' (1972)
+* ''[[Farewell Andromeda]]'' (1973)
+* ''[[Back Home Again (John Denver album)|Back Home Again]]'' (1974)
+* ''[[Windsong]]'' (1975)
+* ''[[Rocky Mountain Christmas]]'' (1975)
+* ''[[Spirit (John Denver album)|Spirit]]'' (1976)
+* ''[[I Want to Live (album)|I Want to Live]]'' (1977)
+{{col-break}}
+* ''[[John Denver (album)|John Denver]]'' (1979)
+* ''[[Autograph (album)|Autograph]]'' (1980)
+* ''[[Some Days Are Diamonds (album)|Some Days Are Diamonds]]'' (1981)
+* ''[[Seasons of the Heart (album)|Seasons of the Heart]]'' (1982)
+* ''[[It's About Time (John Denver album)|It's About Time]]'' (1983)
+* ''[[Dreamland Express]]'' (1985)
+* ''[[One World (John Denver album)|One World]]'' (1986)
+* ''[[Higher Ground (John Denver album)|Higher Ground]]'' (1988)
+* ''[[Earth Songs]]'' (1990)
+* ''[[The Flower That Shattered the Stone]]'' (1990)
+* ''[[Different Directions (John Denver album)|Different Directions]]'' (1991)
+* ''[[All Aboard! (John Denver album)|All Aboard!]]'' (1997)
+{{col-end}}
+
+==Filmography==
+{{Main article|John Denver filmography}}
+
+==Selected writings==
+*''The Children and The Flowers'' (1979) {{ISBN|0-914676-28-8}}
+*''Alfie the Christmas Tree'' (1990) {{ISBN|0-945051-25-5}}
+*''Take Me Home: An Autobiography'' (1994) {{ISBN|0-517-59537-0}}
+*''Poems, Prayers and Promises: The Art and Soul of John Denver'' (2004) {{ISBN|1-57560-617-8}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+*Flippo, Chet (1998) "John Denver", ''The Encyclopedia of Country Music,'' Paul Kingsbury, Editor, New York: Oxford University Press. p.&amp;nbsp;143.
+*Martin, James M. (1977) ''John Denver: Rocky Mountain Wonderboy'', Pinnacle Books. (Out of print) Biography of Denver with insight into Denver's impact of the 1970s music industry.
+*Orth, Maureen, "Voice of America", ''[[Newsweek]],'' December 1976. Includes information on the role of Weintraub in shaping Denver's career, which has since been edited out of later versions of his biography.
+
+==External links==
+{{commons category}}
+{{Wikiquote}}
+* [https://www.johndenver.com/ Official website] [dead link checked 8/4/2018]
+* [https://www.wstar.org/ Windstar Foundation, cofounded by Denver] [dead link checked 8/4/2018]
+* [https://songwritershalloffame.org/exhibits/C155 Clips of his songs]{{spaced ndash}}[[Songwriters Hall of Fame]]
+* {{findagrave|2122}}
+* [http://www.johndenverclub.org/ Official German Fanclub{{snd}}bilingual website with bio, info, photos etc]
+* [http://www.anexplorersheart.com/john-denver-sanctuary-aspen-colorado/ John Denver Sanctuary]
+* [https://vault.fbi.gov/john-denver FBI Records: The Vault{{snd}}John Denver]
+{{John Denver}}
+{{CMA Entertainer of the Year}}
+{{Authority control}}
+
+{{DEFAULTSORT:Denver, John}}
+[[Category:1943 births]]
+[[Category:1997 deaths]]
+[[Category:20th-century American male actors]]
+[[Category:20th-century American poets]]
+[[Category:Accidental deaths in California]]
+[[Category:American country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:American environmentalists]]
+[[Category:American folk singers]]
+[[Category:American folk-pop singers]]
+[[Category:American male singer-songwriters]]
+[[Category:People of Volga German descent]]
+[[Category:American people of German-Russian descent]]
+[[Category:American people of German descent]]
+[[Category:American people of Irish descent]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:Grammy Award winners]]
+[[Category:American folk guitarists]]
+[[Category:American country guitarists]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:American humanitarians]]
+[[Category:Colorado Democrats]]
+[[Category:Country musicians from Colorado]]
+[[Category:Military brats]]
+[[Category:Musicians from Denver]]
+[[Category:Singers from New Mexico]]
+[[Category:People associated with the Human Potential Movement]]
+[[Category:People from Aspen, Colorado]]
+[[Category:People from Roswell, New Mexico]]
+[[Category:Poets Laureate of Colorado]]
+[[Category:Singers from Denver]]
+[[Category:Songwriters from Colorado]]
+[[Category:Songwriters from New Mexico]]
+[[Category:Songwriters Hall of Fame inductees]]
+[[Category:Texas Tech University alumni]]
+[[Category:American acoustic guitarists]]
+[[Category:American male guitarists]]
+[[Category:New Mexico Democrats]]
+[[Category:Articles containing video clips]]
+[[Category:RCA Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Victims of aviation accidents or incidents in the United States]]
+[[Category:Guitarists from New Mexico]]
+[[Category:20th-century male writers]]
+[[Category:20th-century American guitarists]]
+[[Category:Ballad musicians]]</text>
+      <sha1>ow22whvsb1q6e7e08coihzc2so4ls0d</sha1>
+    </revision>
+  </page>
+</mediawiki>

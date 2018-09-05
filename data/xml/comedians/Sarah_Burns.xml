@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sarah Burns</title>
+    <ns>0</ns>
+    <id>27513627</id>
+    <revision>
+      <id>854741160</id>
+      <parentid>836132208</parentid>
+      <timestamp>2018-08-13T13:23:37Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* References */add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3824">{{other people}}
+{{Infobox person
+|name=Sarah Burns
+|birth_date={{birth date and age|1981|7|26}}
+|birth_place=Long Island, New York
+}}
+'''Sarah Burns''' (born July 26, 1981) is an [[United States|American]] [[film]] and [[television]] [[actress]] and [[comedian]], best known for playing Krista on [[HBO]]'s ''[[Enlightened (TV series)|Enlightened]]''.
+
+==Life and career==
+Born on [[Long Island]], [[New York (state)|New York]],&lt;ref&gt;{{cite web|url=http://www.funnyordie.com/sarahburns|title=Sarah Burns|work=Funny or Die|accessdate=May 14, 2015}}&lt;/ref&gt; Burns is known for her appearances in comedic films and television series. Her film roles include Anne in ''[[Slow Learners (2015 film)|Slow Learners]]'' (2015) opposite [[Adam Pally]], Hailey in ''[[I Love You, Man]]'' (2009), Harper in ''[[Going the Distance (2010 film)|Going the Distance]]'' (2010) and Janine Groff in ''[[Life as We Know It (film)|Life as We Know It]]'' (2010).&lt;ref name="imdb"/&gt;
+
+She has also appeared in television productions including ''[[Damage Control (TV series)|Damage Control]]'' (one episode; 2005), ''[[Flight of the Conchords (TV series)|Flight of the Conchords]]'' (one episode; 2007), ''[[Party Down]]'' (one episode; 2010) and ''[[Ben and Kate]]'' (one episode; 2012). She had a costarring role in the [[short film]] ''Cried Suicide'' (2010), which was screened at the 2010 [[Tribeca Film Festival]]. Her [[short film]] "The First Step" (2012) premiered at the 2013 [[Seattle International Film Festival]].&lt;ref name="imdb"/&gt;
+
+Appears as part of a recurring cast of sketch players for the [[Comedy Central]] television series ''[[Drunk History]]'', which premiered in July 2013. In 2015, Burns was a series regular in second season of the FX comedy series ''[[Married (TV series)|Married]]''. Burns was cast as Assistant District Attorney Emily Sinclair in Season Two of the show ''[[How to Get Away with Murder|How to Get Away With Murder]]''.&lt;ref name="imdb"&gt;{{IMDb name|1901220|Sarah Burns}}&lt;/ref&gt;
+
+Burns has performed [[Improvisational theatre|improvisational comedy]] regularly at the [[Upright Citizens Brigade Theatre]] in [[New York City]], New York.&lt;ref&gt;{{cite web|url=http://www.sheknows.com/articles/810504/sarah-burns-exclusive-interview|title=Sarah Burns exclusive interview|author=Joel D. Amos|work=SheKnows|accessdate=May 14, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ew.com/ew/gallery/0,,20300978_20694288,00.html|title=Emmys|website=Ew.com|accessdate=May 14, 2015}}&lt;/ref&gt;
+
+In 2009, ''[[Entertainment Weekly]]'' named her one of the "25 Funniest Actresses in Hollywood".&lt;ref&gt;{{cite web|url=http://www.ew.com/ew/gallery/0,,20271251_21,00.html|title=Entertainment Weekly|website=Ew.com|accessdate=May 14, 2015}}&lt;/ref&gt;
+
+In June 2013 ''[[Entertainment Weekly]]'' named Burns one of "15 Actresses We're Rooting For" as part of its "Emmy Watch".&lt;ref&gt;{{cite web|url=http://insidetv.ew.com/2013/06/27/emmy-watch-sarah-burns-enlightened|title=Emmy Watch: Sarah Burns discusses that extremely awkward hospital visit in 'Enlightened'|website=Insidetv.ew.com|accessdate=May 14, 2015}}&lt;/ref&gt;
+
+In 2016, Burns appeared as Margie Turley in the [[Lorne Michaels]]-produced ''[[Brother Nature (film)|Brother Nature]]''. In 2017, Burns appeared as Gabrielle in the [[HBO]] original miniseries ''[[Big Little Lies (TV series)|Big Little Lies]]'' and in the [[Netflix]] series ''[[Wet Hot American Summer: Ten Years Later]].
+
+==References==
+{{Reflist}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Burns, Sarah}}
+[[Category:Actresses from New York (state)]]
+[[Category:American women comedians]]
+[[Category:American film actresses]]
+[[Category:American television actresses]]
+[[Category:Living people]]
+[[Category:Comedians from New York (state)]]
+[[Category:21st-century American actresses]]
+[[Category:1981 births]]
+
+
+{{US-screen-actor-stub}}</text>
+      <sha1>t3eogkczplu82o35d2tr4zfq0zxkwoo</sha1>
+    </revision>
+  </page>
+</mediawiki>

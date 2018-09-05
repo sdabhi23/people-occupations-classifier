@@ -1,0 +1,160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>W. Kamau Bell</title>
+    <ns>0</ns>
+    <id>36496850</id>
+    <revision>
+      <id>855891452</id>
+      <parentid>855891351</parentid>
+      <timestamp>2018-08-21T14:42:21Z</timestamp>
+      <contributor>
+        <username>Anarcho-authoritarian</username>
+        <id>29426272</id>
+      </contributor>
+      <comment>/* Television host */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18277">{{Infobox comedian
+| name        = W. Kamau Bell
+| image       = W. Kamau Bell.jpg
+| imagesize   = 
+| caption     = W. Kamau Bell in 2016
+| pseudonym   = 
+| birth_name = Walter Kamau Bell
+| birth_date = {{birth date and age|1973|1|26|mf=yes}}
+| birth_place = [[Palo Alto, California]], [[United States|U.S.]]&lt;ref name="trying"&gt;{{cite news |last=Tedder |first=Michael |url= https://www.buzzfeed.com/michaeltedder/w-kamau-bell-is-trying-to-become-a-thing#.cvd1VMD6x |title=W. Kamau Bell Is Trying To Become A Thing |work=[[Buzzfeed]] |date=2013-09-12 |accessdate=}}&lt;/ref&gt;
+| medium      = [[Stand up comedian|Stand-up]] [[comedy]]
+| nationality = [[United States|American]]
+| active      = 
+| genre       = 
+| subject     = [[Racism]], [[social identity]], [[social inequality|inequality]], American politics
+| influences  =
+| influenced  = [[Zahra Noorbakhsh]]
+| spouse      = Melissa Hudson Bell&lt;ref name=B&gt;{{cite web|url=http://www.berkeleyside.com/2015/03/16/at-community-forum-in-berkeley-w-kamau-bell-and-elmwood-cafe-launch-implicit-bias-training-initiative/|work=Berkeleyside|title=At community forum in Berkeley, W. Kamau Bell and Elmwood Café launch 'implicit bias' training initiative|date=March 16, 2015|first=Tracey|last=Taylor}}&lt;/ref&gt;
+| children    = Sami Bell (daughter)&lt;br&gt;Juno Bell (daughter)&lt;ref&gt;{{cite web|url=http://bossip.com/1098464/race-matters-comedian-kamau-bell-told-to-scram-by-waitress-while-socializing-with-his-white-wife-and-her-friends/|title=Race Matters: Comedian Kamau Bell Told To 'Scram' By Waitress While Socializing With His White Wife And Her Friends|date=February 2, 2015}}&lt;/ref&gt;
+| notable_work= ''[[Totally Biased with W. Kamau Bell]]'', ''[[United Shades of America]]'', ''[[Denzel Washington Is The Greatest Actor Of All Time Period]]''
+| signature   = 
+| website     = {{url|http://wkamaubell.com}}
+| footnotes   = 
+| parents     = [[Walter Bell (businessman)|Walter Bell]]&lt;br&gt;Janet Cheatham Bell
+}}
+
+'''Walter Kamau Bell''' (born January 26, 1973),&lt;ref name="CBI"&gt;{{cite web |author=California Birth Index |title=Walter K Bell, Born 01/26/1973 in California |url=http://www.californiabirthindex.org/birth/walter_k_bell_born_1973_11856509 |publisher=California Birth Index |accessdate=May 10, 2016}}&lt;/ref&gt; known professionally as '''W. Kamau Bell''', is an American [[stand-up comic]] and [[television host]].&lt;ref name=BB&gt;{{cite web|url=http://www.breitbart.com/big-journalism/2015/03/10/cnn-adds-reza-aslan-w-kamau-bell-to-cable-line-up/|work=[[Breitbart.com]]|title=CNN Adds Reza Aslan, W. Kamau Bell to Cable Line Up|first=Warner Todd|last=Huston|date=10 Mar 2015}}&lt;/ref&gt; Prominent within the [[San Francisco]] stand-up comedy scene, he is best known as the host of the CNN original series ''[[United Shades of America]]'' and of the former [[FXX]] television series ''[[Totally Biased with W. Kamau Bell]]''.&lt;ref name="BB" /&gt;&lt;ref&gt;{{Cite web|title = W. Kamau Bell on Twitter|url = https://twitter.com/wkamaubell/status/691054029036658688|website = Twitter|access-date = 2016-01-24}}&lt;/ref&gt; He is the host of the live radio show and podcast ''Kamau Right Now'' on [[KALW]], and also co-hosts the podcasts ''[[Denzel Washington Is The Greatest Actor Of All Time Period]]'' with [[Kevin Avery (comedian)|Kevin Avery]] and ''[[Politically Re-Active]]'' with [[Hari Kondabolu]].&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/show/denzel-washington/|title=Denzel Washington Is The Greatest Actor Of All Time Period podcast on Earwolf|website=www.earwolf.com|access-date=2016-06-29}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web|url=http://www.politicallyreactive.com/|title=Home|website=Politically Re-Active|access-date=2016-06-29}}&lt;/ref&gt;
+
+==Early life and education==
+Bell grew up in Alabama, Boston and Chicago, the son of [[Walter Bell (businessman)|Walter Bell]], who served as Alabama's [[Insurance commissioner|Insurance Commissioner]] and Chairman of [[Swiss Re]] America Holding Corporation, and author Janet Cheatham Bell, who founded a self-publishing firm.&lt;ref&gt;{{Cite web|url=http://articles.philly.com/2013-07-12/news/40516514_1_fxx-chicago-laboratory-schools-one-man-show|title=Comic Bell brings his total bias here|website=philly-archives|access-date=2016-04-22|archiveurl=https://web.archive.org/web/20150915135437/http://articles.philly.com/2013-07-12/news/40516514_1_fxx-chicago-laboratory-schools-one-man-show|archivedate=15 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.theclimategroup.org/what-we-do/interviews/walter-bell/|title=The Clean Revolution is achievable and essential|website=www.theclimategroup.org|access-date=2016-04-22|archiveurl=https://web.archive.org/web/20150906130840/https://www.theclimategroup.org/what-we-do/interviews/walter-bell/|archivedate=6 September 2015}}&lt;/ref&gt; Between ages five and 12, Bell lived in [[Boston]], [[Massachusetts]] in the [[Mattapan]] neighborhood of the city.&lt;ref&gt;{{Cite web|url=http://www.bostonmagazine.com/arts-entertainment/blog/2016/10/14/w-kamau-bell-boston-trump/|title=W. Kamau Bell on Growing Up in Boston, Donald Trump's Rise, and Tom Brady|website=Boston Magazine|access-date=2016-10-15}}&lt;/ref&gt; Bell graduated from the [[University of Chicago Laboratory Schools]] and attended the [[University of Pennsylvania]] before dropping out. Later he began to pursue a career in comedy.&lt;ref&gt;[http://www.avclub.com/article/w-kamau-bell-bruce-lee-and-why-he-didnt-know-jimi--236560W. Kamau Bell on Bruce Lee and why he didn’t know Jimi Hendrix was black] AV Club.&lt;/ref&gt;
+
+He is [[Cousin#1stOnceRem|first cousin once removed]] of speculative fiction writer [[N. K. Jemisin]].&lt;ref&gt;Bell, W. Kamau. ''The Awkward Thoughts of W. Kamau Bell''. New York, NY: Dutton, 2017. pp. 24, 28. {{ISBN|978-1-101-98587-8}}.&lt;/ref&gt;
+
+== Career ==
+After establishing himself as a sociopolitical comedian and community activist based in San Francisco, Bell became a founding member of the comedy collective [[Laughter Against the Machine]] and has been featured in a number of prominent podcasts and publications, such as ''[[WTF with Marc Maron]]'', ''[[Citizen Radio]]'', and [[Current TV]]'s ''[[The War Room with Jennifer Granholm]]'', on which Bell was a regular correspondent.
+
+His first [[comedy album]], ''One Night Only'', was released in 2007. Also in 2007, he developed a [[One-person show|one-man show]] entitled ''The W. Kamau Bell Curve: Ending Racism in About An Hour'', "a comedic exploration of the current state of America’s racism", which he periodically performs in updated versions.&lt;ref name=":2" /&gt;&lt;ref&gt;{{Cite web|url=https://thebottomline.as.ucsb.edu/2015/02/ending-racism-in-about-an-hour-with-w-kamau-bell|title=Ending Racism in About an Hour with W. Kamau Bell |work=The Bottom Line|last=Lemon|first=Bryn|date=2015-02-11|access-date=2016-06-29}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.wkamaubell.com/calendar/2016/3/24/st-paul-mn-the-w-kamau-bell-curve-ending-racism-in-about-an-hour|title=St. Paul, MN – Presenting 'The W. Kamau Bell Curve: Ending Racism in about an Hour'|website=W. Kamau Bell|access-date=2016-06-29}}&lt;/ref&gt;
+
+His follow-up album, ''Face Full of Flour'', was released in 2010, and was named one of the Top 10 Best Comedy Albums of the year by [[iTunes]] and ''Punchline Magazine''.&lt;ref&gt;{{Cite web|url=http://tempeimprov.com/event.cfm?id=335501|title=W. Kamau Bell|website=tempeimprov.com|access-date=2016-06-29|quote=Kamau has also released two stand-up comedy CD's, ONE NIGht ONLY &amp; Face Full of Flour which was named one of the Ten Best Comedy Albums of 2010 by both iTunes &amp; Punchline Magazine.}}&lt;/ref&gt; From 2011 to 2012, he wrote the blog "Kamau's Komedy Korner" for the ''[[San Francisco Weekly]]''.&lt;ref&gt;{{Cite web|url=http://www.sfweekly.com/sanfrancisco/ArticleArchives?author=2317616|title=San Francisco News and Events |work=SF Weekly|access-date=2016-06-29}}&lt;/ref&gt; In 2012, Bell was voted San Francisco's best comedian by the [[SF Weekly]], the [[San Francisco Bay Guardian]], and [[7x7 (magazine)|7×7 Magazine]].&lt;ref name=":2"&gt;{{Cite web|url=http://www.huffingtonpost.com/author/w-kamau-bell|title=W. Kamau Bell|website=www.huffingtonpost.com|access-date=2016-06-29|quote=}}&lt;/ref&gt;
+
+His first stand-up comedy [[Television special|TV special]], ''Semi-Prominent Negro'', premiered on Showtime on April 29, 2016,&lt;ref&gt;{{Cite web|url=http://www.sho.com/titles/3429029/w-kamau-bell-semi-prominent-negro|title=W. Kamau Bell: Semi-Prominent Negro {{!}} SHOWTIME|website=SHO.com|access-date=2016-06-29}}&lt;/ref&gt; and on September 30, 2016, his third full-length album, also titled ''Semi-Prominent Negro'', was released on [[Kill Rock Stars]].&lt;ref&gt;{{cite web|title=W. KAMAU BELL 'SEMI-PROMINENT NEGRO' OUT NOW ON CD &amp; MP3!|url=http://www.killrockstars.com/news/w-kamau-bell-'semi-prominent-negro'-out-now-on-cd-mp3|date=1 October 2016}}&lt;/ref&gt;
+
+On November 7, 2017, Bell became the Frank Sinatra Artist-in-Residence of Santa Clara University in Santa Clara, California.&lt;ref&gt;{{cite news|url=http://www.mercurynews.com/2017/10/05/kamau-w-bell-named-santa-clara-university-artist-in-residence/|title=W. Kamau Bell named Santa Clara University artist in residence |publisher=[[Mercury News]]|date=October 5, 2017|access-date=2017-11-08|author=Chuck Barney}}&lt;/ref&gt;
+
+=== Television host ===
+From 2012 to 2013, Bell hosted a weekly [[Stand-up comedy|stand up comedy]] television series, ''[[Totally Biased with W. Kamau Bell]]'', first on FX and later on FXX.&lt;ref name="LAT"&gt;{{cite web|work=[[Los Angeles Times]]|url=http://articles.latimes.com/2013/nov/13/entertainment/la-et-st-chris-rockproduced-totally-biased-with-wkamau-bell-canceled-20131113|title=Chris Rock's 'Totally Biased with W. Kamau Bell' canceled|date=November 13, 2013|first=Greg|last=Braxton}}&lt;/ref&gt; The show, produced by [[Chris Rock]], provided [[observational comedy]] and commentary on social and political issues in addition to celebrity interviews. After the show was cancelled in November 2013,&lt;ref name="LAT" /&gt; Bell moved back to California from New York.&lt;ref&gt;{{cite web|last1=Sale|first1=Anna|title=W. Kamau Bell Wonders How Much Is Enough|url=http://www.wnyc.org/story/w-kamau-bell-death-sex-money/|website=Death, Sex &amp; Money|publisher=wnyc.org|accessdate=2 July 2015|ref=wnyc}}&lt;/ref&gt;
+
+He is currently the host of the [[CNN]] documentary series ''[[United Shades of America]]'', which premiered on April 24, 2016 and was renewed for a third season in 2017. The show, of which Bell is an Executive Producer, was awarded the Creative Arts Emmy for Outstanding Unstructured Reality Program in 2017.
+
+=== Podcast host ===
+From 2010 to 2014, Bell co-hosted the podcast ''The Field Negro Guide to Arts &amp; Culture'' with [[Living Colour]] guitarist [[Vernon Reid]].&lt;ref&gt;{{Cite web|url=http://thatfnpod.libsyn.com/|title=The Field Negro Guide to Arts and Culture w/ Vernon Reid and W. Kamau Bell|website=thatfnpod.libsyn.com|access-date=2016-06-29}}&lt;/ref&gt;
+
+Since November 2014, Bell has co-hosted the [[Earwolf]]-produced podcast ''[[Denzel Washington Is The Greatest Actor Of All Time Period]]'' with comedian and writer [[Kevin Avery (comedian)|Kevin Avery]].&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/show/denzel-washington/|title=Denzel Washington Is The Greatest Actor Of All Time Period podcast on Earwolf|website=www.earwolf.com|access-date=2016-05-08}}&lt;/ref&gt; In addition to reviewing the films of Denzel Washington one by one, the podcast has also featured interviews with prominent actors, filmmakers, musicians, and comedians including [[Spike Lee]],&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/episode/54-spike-lee/|title=Spike Lee: Another Thing People Don't Know, episode #57 of Denzel Washington Is The Greatest Actor Of All Time Period on Earwolf|website=www.earwolf.com|access-date=2016-05-08}}&lt;/ref&gt; [[Ava DuVernay]],&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/episode/48-mo-better-blues-w-ava-duvernay/|title=Mo' Better Blues w/ Ava Duvernay, episode #50 of Denzel Washington Is The Greatest Actor Of All Time Period on Earwolf|website=www.earwolf.com|access-date=2016-05-08}}&lt;/ref&gt; [[Jesse Williams (actor)|Jesse Williams]],&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/episode/jesse-williams-of-greys-anatomy/|title=Jesse Williams of Grey's Anatomy, episode #70 of Denzel Washington Is The Greatest Actor Of All Time Period on Earwolf|website=www.earwolf.com|access-date=2016-05-08}}&lt;/ref&gt; [[Issa Rae]],&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/episode/devil-in-a-blue-dress-with-issa-rae/|title=Devil in a Blue Dress with Issa Rae, episode #69 of Denzel Washington Is The Greatest Actor Of All Time Period on Earwolf|website=www.earwolf.com|access-date=2016-05-08}}&lt;/ref&gt; and [[Ryan Coogler]].&lt;ref&gt;{{Cite web|url=http://www.earwolf.com/episode/57-creed-w-ryan-coogler-aaron-covington/|title=Creed w/ Ryan Coogler, Aaron Covington, episode #57 of Denzel Washington Is The Greatest Actor Of All Time Period on Earwolf|website=www.earwolf.com|access-date=2016-05-08}}&lt;/ref&gt;
+
+Since January 2016, he has hosted ''Kamau Right Now'', a live radio show and podcast produced by [[KALW]].&lt;ref&gt;{{Cite web|url=http://kalw.org/programs/kamau-right-now#stream/0|title=Kamau Right Now!|access-date=2016-06-29}}&lt;/ref&gt;
+
+Since June 2016, he has also co-hosted the [[Panoply Media|Panoply]]/[[First Look Media]]-produced podcast ''Politically Re-Active'' with comedian [[Hari Kondabolu]].&lt;ref name=":1" /&gt; The podcast explores American politics and elections with a comedic approach, and includes interviews with activists, journalists, and scholars such as [[Ian Haney-López]], [[Robert Reich]], and [[Pramila Jayapal]].&lt;ref&gt;{{Cite web|url=https://itunes.apple.com/us/podcast/politically-re-active-w.-kamau/id1125018164|title=Politically Re-Active with W. Kamau Bell &amp; Hari Kondabolu by First Look Media / Panoply on iTunes|website=iTunes|access-date=2016-06-29}}&lt;/ref&gt;
+
+=== Author ===
+Bell has authored a number of essays and blog posts about race and racism in American politics and media. In May 2017, Bell published his first book,''The Awkward Thoughts of W. Kamau Bell: Tales of a 6'4, African American, Heterosexual, Cisgender, Left-Leaning, Asthmatic, Black and Proud Blerd, Mama's Boy, Dad, and Stand-Up Comedian''.&lt;ref&gt;{{Cite news|url=https://www.publishersweekly.com/978-1-101-98587-8|title=Nonfiction Book Review: The Awkward Thoughts of W. Kamau Bell: Tales of a 6'4, African-American, Heterosexual, Cisgender, Left-Leaning, Asthmatic, Black, and Proud Blerd, Mama’s Boy, Dad, and Stand-Up Comedian by W. Kamau Bell. Dutton, $28  (320p) ISBN 978-1-101-98587-8|work=PublishersWeekly.com|access-date=2018-07-16|language=en}}&lt;/ref&gt; The book is a humorous autobiography interspersed with essays about politics and popular culture.
+
+== Activism ==
+
+Bell sits on the advisory boards of [[Race Forward]], a racial justice think tank (formerly known as the Applied Research Center), and [[Hollaback!]], an anti-harassment organization.&lt;ref&gt;{{Cite web|url=http://www.wkamaubell.com/bio/|title=Bio|website=W. Kamau Bell|access-date=2016-05-08}}&lt;/ref&gt; In October 2013, he was named the [[American Civil Liberties Union]] celebrity ambassador on racial justice.&lt;ref&gt;{{cite web |url= https://www.aclu.org/ambassadors |title= ACLU Ambassadors – W. Kamau Bell |publisher=Aclu.olrg (American Civil Liberties Union) |accessdate=2015-01-05}}&lt;/ref&gt;
+
+=== Implicit bias incident in 2015 ===
+
+On January 26, 2015, Bell and his wife Melissa were involved in an incident at the Elmwood Cafe in [[Berkeley, California]], which Bell alleged was racially motivated.&lt;ref&gt;http://www.berkeleyside.com/2015/01/29/comedian-w-kamau-bell-reports-being-subject-of-racism-at-berkeleys-elmwood-cafe&lt;/ref&gt; An employee of the cafe told Bell to "scram", or words to that effect, while he was talking to his white wife and her friends at one of its outdoor tables.&lt;ref&gt;https://www.berkeleyside.com/2015/01/29/comedian-w-kamau-bell-reports-being-subject-of-racism-at-berkeleys-elmwood-cafe&lt;/ref&gt; The cafe owner and Bell held a community forum to discuss [[implicit bias]] and how to improve.&lt;ref&gt;http://www.berkeleyside.com/2015/03/16/at-community-forum-in-berkeley-w-kamau-bell-and-elmwood-cafe-launch-implicit-bias-training-initiative&lt;/ref&gt; Bell's account was eventually featured in an episode of the radio series ''[[This American Life]]'' entitled ''Birds &amp; Bees''.&lt;ref name="TAL"&gt;{{cite web|work=[[This American Life]]|title=557: Birds &amp; Bees Transcript|date=May 15, 2015|url=http://www.thisamericanlife.org/radio-archives/episode/557/transcript}}&lt;/ref&gt; After a [[Criticism of Starbucks#Philadelphia arrests|similar incident]] resulted in the arrests of two black men at a [[Starbucks]] in April 2018, Bell renewed his criticism of the Elmwood Cafe, and it closed shortly thereafter.&lt;ref&gt;http://www.berkeleyside.com/2018/04/20/elmwood-cafe-closed-as-2015-racism-charge-gets-new-life-with-starbucks-arrest&lt;/ref&gt;&lt;ref&gt;http://www.berkeleyside.com/2018/04/20/opinion-whatever-the-reason-it-closed-the-elmwood-cafe-missed-a-real-opportunity-to-be-a-force-for-change-in-berkeley&lt;/ref&gt;&lt;ref&gt;http://www.berkeleyside.com/2018/04/20/after-closure-elmwood-cafe-owner-says-worker-co-op-nonprofit-could-take-over&lt;/ref&gt;
+
+==Discography==
+*2007: ''One Night Only''
+*2010: ''Face Full of Flour''
+*2016: ''Semi-Prominent Negro''&lt;ref&gt;{{cite web|url=https://www.pastemagazine.com/articles/2016/08/w-kamau-bell-announces-new-album-release-tour-date.html|title=W. Kamau Bell Announces New Stand-up Album, Semi-Prominent Negro|author=Cameron Wade|date=August 23, 2016|publisher=Paste Magazine|accessdate=2016-09-13}}&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* {{official website|http://wkamaubell.com}}
+* {{IMDb name|4826314}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bell, W. Kamau}}
+[[Category:1973 births]]
+[[Category:African-American stand-up comedians]]
+[[Category:American stand-up comedians]]
+[[Category:American television talk show hosts]]
+[[Category:African-American comedians]]
+[[Category:African-American television hosts]]
+[[Category:American comedy writers]]
+[[Category:Late night television talk show hosts]]
+[[Category:Living people]]
+[[Category:People from Chicago]]
+[[Category:Place of birth missing (living people)]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:University of Chicago Laboratory Schools alumni]]
+[[Category:Comedians from Illinois]]
+[[Category:21st-century American comedians]]</text>
+      <sha1>jgtkeye6fsbs1shzkli3ynjdfu6egvp</sha1>
+    </revision>
+  </page>
+</mediawiki>

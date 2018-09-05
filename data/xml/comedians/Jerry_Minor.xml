@@ -1,0 +1,143 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jerry Minor</title>
+    <ns>0</ns>
+    <id>2456037</id>
+    <revision>
+      <id>838107732</id>
+      <parentid>819220377</parentid>
+      <timestamp>2018-04-24T23:59:41Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (1 source from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7554">{{Infobox person
+|name = Jerry Minor
+|image = 
+|caption = 
+|birth_name=Jerry C. Minor
+|birth_date = {{birth date and age|1969|10|4}}
+|birth_place = [[Memphis, Tennessee]]
+|occupation = Actor, comedian, writer
+|yearsactive = 1996–present
+}}
+
+'''Jerry C. Minor''' (born October 4, 1969) is an [[United States|American]] actor, comedian and writer known for his comedic roles in numerous television programs such as ''[[Mr. Show]]'', ''[[Saturday Night Live]]'', ''[[Trigger Happy TV#US version|Trigger Happy TV]]'', ''[[Delocated]]'', ''[[Brickleberry]]'', ''[[Unbreakable Kimmy Schmidt]]'', ''[[Crossballs]]'', ''[[The Hotwives of Orlando]]'', ''[[Carpoolers]]'', ''[[Community (TV series)|Community]]'', and ''[[Lucky Louie]]''.
+
+==Life and career==
+Minor was born in [[Memphis, Tennessee]] and grew up in [[Flint, Michigan]]. Minor was raised as a [[Jehovah's Witness]] during most of his youth. Later in life, after rejecting his Jehovah's Witness upbringing, Minor was shunned by some members of his family.&lt;ref&gt;http://www.jehovahs-witness.com/topic/261140/truth-told-new-film-on-jws-previewing-tomorrow-night-thursday-laemmles-los-angeles?page=1&lt;/ref&gt;&lt;ref&gt;https://soundcloud.com/racewars/the-unbreakable-jerry-minor&lt;/ref&gt; He began doing [[stand-up comedy]] and writing/performing with [[sketch comedy]] groups in [[Detroit]] before eventually joining the [[The Second City|Second City]] Detroit's [[Main stage|mainstage]] improv troupe. After writing and performing in three [[revue]]s, he joined the Second City [[Chicago]] for two shows and then one revue at the Second City [[Toronto]]. At the time he was the only performer to have belonged to all three of the Second City's touring companies.
+
+Minor was hired as a cast member and writer on ''[[Saturday Night Live]]'' for one season in [[Saturday Night Live (season 26)|2000–2001]]. He was let go from the show over the summer hiatus, before the start of the 2001–2002 season, because Lorne Michaels wanted to hire four new cast members, but did not want to go over budget. Minor's best known work at ''SNL'' included the recurring sketch ''Rap Street'' (which he performed with [[Horatio Sanz]]) and his appearances on [[Weekend Update]] as [[Al Sharpton]].
+
+In addition to ''SNL'', Minor has appeared regularly on a number of other sketch comedy programs, perhaps the most notable being [[HBO]]'s ''[[Mr. Show]]'', of which he was a cast member during its final season. He was briefly a correspondent on ''[[The Daily Show]]'' in early 2000, had a recurring role as Officer Carter on ''[[Arrested Development (TV series)|Arrested Development]]'' and was one of the main cast members of [[Comedy Central]]'s debate show parody ''[[Crossballs]]'' in 2004. He worked briefly as a writer and occasional performer on the short-lived [[Fox Broadcasting Company|FOX]] sketch series ''[[Cedric the Entertainer Presents]]''.
+
+In 2006, Minor was part of the main cast of the HBO series ''[[Lucky Louie]]'', on which he played [[Louis C.K.]]'s neighbor, Walter. Minor was praised for his ''Lucky Louie'' role in a 2006 issue of ''[[TV Guide]]'', where he was given a "Cheers" in the magazine's ''Cheers and Jeers'' section. Most recently, he was part of the cast of the 2008 [[American Broadcasting Company|ABC]] sitcom ''[[Carpoolers]]'', playing the role of Aubrey and was a featured comedian on ''[[Lewis Black's Root of All Evil]]'' on Comedy Central. Minor has also gained attention online in 2010, for his memorable appearances as "Cyber Thug" on the ''[[Comedy Bang Bang]]'' podcast, which was briefly spun off into its own podcast titled ''Cyber Thug Radio'' on the [[Earwolf]] network.
+
+For a number of years Minor and comedian [[Craig Robinson (actor)|Craig Robinson]] had a comedy act where they performed as musical duo "L. Witherspoon &amp; Chucky", with Minor as smooth singing "L. Witherspoon" and Robinson as "Chucky", the keyboard player and back-up singer. They performed the act on several stand-up shows on Comedy Central as well as on ''[[Real Time with Bill Maher]]'' and ''[[Jimmy Kimmel Live!]]''.&lt;ref&gt;[https://www.youtube.com/watch?v=ty8BrKtk_u0 L. Witherspoon &amp; Chucky on Real Time]&lt;/ref&gt;
+
+Minor has appeared in films such as ''[[I Love You, Man]]'', ''[[Drillbit Taylor]]'' and ''[[Beer League]]'', and had a small part in the 2003 movie ''[[Melvin Goes to Dinner]]'' directed by [[Bob Odenkirk]].
+
+Minor has made guest appearances on shows such as ''[[Curb Your Enthusiasm]]'', ''[[Funny or Die Presents]]'', ''[[Drunk History]]'', ''[[The League]]'', ''[[Nick Swardson's Pretend Time]]'', ''[[Key &amp; Peele]]'', ''[[Jon Benjamin Has a Van]]'', ''[[Last Man Standing (U.S. TV series)|Last Man Standing]]'', and ''[[How I Met Your Mother]]''. In 2010, he co-starred as "Mighty Joe Jon the Black Blonde" in the second season of the [[Adult Swim]] series ''[[Delocated]]''. Minor has also had recurring appearances on comedy programs such as ''[[The Office (U.S. TV series)|The Office]]'' as Brandon, ''[[Eastbound &amp; Down]]'' as Jamie Laing, ''[[Community (TV series)|Community]]'' as Jerry the Janitor, ''[[The Hotwives]]'' as Rodney, ''[[Unbreakable Kimmy Schmidt]]'' as Chris, and in the animated series ''[[Bob's Burgers]]'' as the voice of Officer Julia. He also co-starred as the voice of Denzel in the [[Comedy Central]] animated series ''[[Brickleberry]]''.
+
+==Characters on ''SNL''==
+*Grand Master Rap, co-host of the old-school rap music program ''Rap Street'' on [[Black Entertainment Television|BET]].
+*Terrell, the catty and effeminate security guard who works with conceited deskclerk Jackie ([[Maya Rudolph]])
+*Willy Sluggs, a magician who performs less-than-spectacular magic tricks on his show ''Willy Sluggs' Eye Poppers''
+
+==Celebrity impressions==
+*[[Cuba Gooding Jr.]] (on ''SNL'')
+*[[Jimi Hendrix]] (on ''SNL'')
+*[[Al Sharpton]] (on ''SNL'')
+*[[Miss Cleo]] (on ''SNL'' - cut sketch)
+*[[Nipsey Russell]] (on ''SNL'' - cut sketch: shown in 2001 SNL Halloween Special)
+*[[Puff Daddy]] (on ''VH1 Divas Live'' Aretha Franklin special)
+*[[Billy Dee Williams]] (on ''Mr. Show'' DVD audio commentary')
+*[[Bill Cosby]] (on ''Lucky Louie'')
+*[[Ja Rule]] (on ''Jimmy Kimmel Live!'')
+*[[Chris Tucker]] (on ''Primetime Glick'' and ''The Martin Short Show'')
+*[[Michael Winslow]] (on Showtime's ''The Offensive Show'' pilot)
+*[[Joseph Kony]] (on ''PoliPopTV'' viral video)
+*[[Boyd Tinsley]] (at UCB's ''The Midnight Show'')
+*[[Steve Harvey]] (at UCB's ''Comedy Death-Ray'')
+*[[Kanye West]] (at UCB's ''Comedy Death-Ray'')
+*[[Ben Carson]] (at UCB's ''Decision Election 2016 All-Star Clusterfuck'')
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|id=0591576}}
+*[https://www.youtube.com/profile?user=jerryminor1 Jerry Minor] on YouTube
+*[https://archive.is/20130117191025/http://benkharakh.com/jerry_minor In depth interview from November 12, 2007]
+
+{{The Daily Show}}
+{{Authority control}}
+
+{{DEFAULTSORT:Minor, Jerry}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:African-American male actors]]
+[[Category:American comedy musicians]]
+[[Category:American male film actors]]
+[[Category:American stand-up comedians]]
+[[Category:American male television actors]]
+[[Category:American television writers]]
+[[Category:Male television writers]]
+[[Category:Writers from Flint, Michigan]]
+[[Category:Male actors from Memphis, Tennessee]]
+[[Category:Male actors from Michigan]]
+[[Category:21st-century American male actors]]
+[[Category:20th-century American male actors]]
+[[Category:American sketch comedians]]
+[[Category:Actors from Flint, Michigan]]</text>
+      <sha1>g6n7yix69z7w34nwtoztm4aq3yrlrcz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,383 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mo'Nique</title>
+    <ns>0</ns>
+    <id>1401564</id>
+    <revision>
+      <id>854705147</id>
+      <parentid>854613779</parentid>
+      <timestamp>2018-08-13T06:22:54Z</timestamp>
+      <contributor>
+        <username>Geraldo Perez</username>
+        <id>14926857</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2600:1700:FE40:1E00:8926:AFD4:39DB:BA9B|2600:1700:FE40:1E00:8926:AFD4:39DB:BA9B]] ([[User talk:2600:1700:FE40:1E00:8926:AFD4:39DB:BA9B|talk]]): Unsourced change. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30788">{{Infobox person
+| name               = Mo'Nique
+| image              = File:Mo'Nique attending the 82nd Academy Awards 2010.jpg
+| caption            = Mo'Nique attending the [[82nd Academy Awards]] in  2010
+| birth_name         = Monique Angela Imes
+| birth_date         = {{birth date and age|1967|12|11}}
+| birth_place        = [[Baltimore, Maryland]], United States
+| othername          = Myelle Kaye
+| occupation         = [[Actress]], [[comedian]], [[talk show host]], [[author]]
+| yearsactive        = 1999–present
+| spouse             = {{marriage|Mark Jackson|1997|2001}}&lt;br&gt;{{marriage|Sidney Hicks|2006}}
+| children           = 3
+| homepage           = {{URL|moniqueworldwide.com}}
+}}
+
+'''Monique Angela Hicks''' (née '''Imes'''; born December 11, 1967),&lt;ref name="variety"&gt;{{cite news|url=http://www.variety.com/profiles/people/Biography/50715/Monique+Imes.html?dataSet=1 |title=Mo'Nique: Biography&amp;nbsp;– Actor, Executive Producer, Voice&amp;nbsp;– Variety Profiles |accessdate=February 22, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20130116081629/http://www.variety.com/profiles/people/Biography/50715/Monique%2BImes.html/?dataSet=1 |archivedate=January 16, 2013 |df= }}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://www.hollywoodreporter.com/news/monique-show-put-indefinite-hiatus-217730 | work=The Hollywood Reporter | first=Sofia M. | last=Fernandez | title='Mo'Nique Show' Put on Indefinite Hiatus | date=August 1, 2011}}&lt;/ref&gt; known professionally as '''Mo'Nique''', is an American comedian and &lt;!-- DO NOT put "Academy Award winning" here: See [[WP:LEDE]] --&gt;[[actress]]. She first gained fame as a member of the Queens Of Comedy, as well as her role as Nicole "Nikki" Parker in the [[UPN]] series ''[[The Parkers]]'' while making a name as a stand-up comedian hosting a variety of venues, including ''[[Showtime at the Apollo]]''. Mo'Nique transitioned to film with roles in such films as ''[[Phat Girlz]]'' (2006) and ''[[Welcome Home Roscoe Jenkins]]'' (2008). In 2002, she, along with several other female comedians, earned a [[Grammy|Grammy Award]] nomination for [[Grammy Award for Best Comedy Album|Best Comedy Album]].
+
+In 2009, she received critical praise for her role as the abusive Mary Lee Johnston in the film ''[[Precious (film)|Precious]]'' and won numerous awards, including the [[Academy Award for Best Supporting Actress]]. She hosted ''[[The Mo'Nique Show]]'', a late-night talk show that premiered in 2009 on [[Black Entertainment Television|BET]]; it was cancelled in 2011. In 2015, she received rave reviews for her performance as [[Ma Rainey]] in the [[HBO]] biopic ''[[Bessie (film)|Bessie]]'' and earned a [[Primetime Emmy Award for Outstanding Supporting Actress in a Miniseries or a Movie|Primetime Emmy Award]] nomination.
+
+==Early life==
+Mo'Nique was born on December 11, 1967 in [[Baltimore]], Maryland,&lt;ref name="variety"/&gt; the daughter of engineer Alice Imes and drug counselor Steven Imes, Jr.&lt;ref name="ref1"&gt;{{cite news|last=John-Hall|first=Annette|title=Proudly 'phat' actress has a new, plus-sized role|pages=|publisher=AZ Central.com|date=2006-04-08|url=http://www.azcentral.com/ent/movies/articles/0408monique0408.html|accessdate=2009-12-16}}&lt;/ref&gt; She is the youngest of four children.  Mo'Nique graduated from [[Milford Mill High School]] in Baltimore County in 1985&lt;ref&gt;{{cite web |accessdate=2015-12-13 |title=monique imes Milford Mill High School/Academy '85 BALTIMORE, MD
+|publisher=[[classmates.com]]
+|url=http://www.classmates.com/people/monique-imes/13133192327}}&lt;/ref&gt; and attended [[Morgan State University]].&lt;ref name="ref2"&gt;{{cite news|last=Crockett|first=Sandra|title=Comedian has fine time just being Mo'Nique Laughing out LOUD|pages=|publisher=The Sun|date=1994-11-19|url=https://pqasb.pqarchiver.com/baltsun/access/111908356.html?dids=111908356:111908356&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Nov+19%2C+1994&amp;author=Sandra+Crockett&amp;pub=The+Sun&amp;desc=Comedian+has+fine+time+just+being+Mo'Nique+Laughing+out+LOUD&amp;pqatl=google|accessdate=2009-12-16}}&lt;/ref&gt; She is a 1987 graduate of the Broadcasting Institute of Maryland.&lt;ref&gt;{{cite web |url= http://www.bim.org/news.php |title= Broadcasting Institute of Maryland |accessdate= March 4, 2011}}&lt;/ref&gt;
+
+Before she was an actress, Monique worked as a customer service representative at the phone company [[MCI Communications|MCI]] in [[Hunt Valley, Maryland]].&lt;ref name=oprah28&gt;''[[The Oprah Winfrey Show]]'', Interview with the cast of ''[[Welcome Home Roscoe Jenkins]]''. Original air date January 28, 2008.&lt;/ref&gt; She got her start in comedy at the downtown Baltimore Comedy Factory Outlet when her brother Steve dared her to perform at an [[open mic]] night.
+
+During a 2008 ''[[Essence (magazine)|Essence]]'' magazine interview, Mo'Nique revealed that she was sexually abused by her brother Gerald from ages 7–11; he went on to sexually abuse another girl and was sentenced to 12 years in prison. After her twin boys were born in 2005, Mo'Nique cut off all contact with Gerald. On April 19, 2010, he admitted on ''[[The Oprah Winfrey Show|Oprah]]'' to sexually abusing her over several years. He also was abused by family members and struggled with substance abuse.&lt;ref&gt;{{cite web|url=http://abcnews.go.com/Entertainment/moniques-brother-gerald-imes-apologizes-precious-star-sexual/story?id=10414287#.T9Ws29VYsoI|title=Mo'Nique's Brother, Gerald Imes, Apologizes to Precious Star for Sexual Abuse - ABC News|work=ABC News|accessdate=18 October 2014}}&lt;/ref&gt;
+
+==Career==
+
+===Television roles===
+Mo'Nique portrayed Nicole "Nikki" Parker on the UPN television series ''[[The Parkers]]'' from 1999 to 2004. She was featured on many leading stand-up venues such as ''[[Showtime at the Apollo]]'', ''[[Russell Simmons]]' [[Def Comedy Jam]]'', and ''[[Thank God You're Here (US TV series)|Thank God You're Here]]''. Monique tackles race issues in her stand up routines, for instance at the Montreal Just For Laugh Festival in 2000: white and black people, we're just mad at each other, we don't know why we're mad at each other. We're not each other's enemy. We're not the enemy. It's the Chinese people we need to watch out for".&lt;ref&gt;{{Cite web|url = https://www.youtube.com/watch?v=dIjeJGWHAc8&amp;index=27&amp;list=RDUX2bnODw7ps|title = Montreal Just For Laugh Festival 2000|date = |accessdate = |website = |publisher = |last = |first = }}&lt;/ref&gt;
+
+She was also named hostess of ''[[Showtime at the Apollo]].'' She was the hostess and executive producer of ''[[Mo'Nique's Fat Chance]]'', a beauty pageant for plus-sized women, on the [[Oxygen (TV channel)|Oxygen]] cable network. She hosted the first season of ''[[Flavor of Love Girls: Charm School]]'' on ''[[VH1]]'' where she crowned [[Saaphyri]] as the winner.
+
+Mo'Nique's 2007 documentary ''I Coulda Been Your Cellmate!'' focuses on incarcerated women. In interviews with individual women, she touches on the common factors that bring many women into the penal system. The documentary was related to her filming a comedy special at the Ohio Reformatory for Women, also known as The Farm.{{Citation needed|date=April 2010}} In 2007, Mo'Nique had a guest-starring role on the hit television series ''[[Ugly Betty]]'' as L'Amanda, Mode's weekend security guard.
+
+Mo'Nique starred in ''[[The Mo'Nique Show]]'', her own late-night talk show. Taped in Atlanta, the show premiered October 5, 2009 on BET.&lt;ref&gt;BET Coming Soon [http://www.bet.com/OnTV/BETShows/monique Monique Show Official Page] {{webarchive|url=https://web.archive.org/web/20091002223801/http://www.bet.com/ontv/betshows/monique/ |date=2009-10-02 }}&lt;/ref&gt;
+
+===Film and video career===
+Mo'Nique has had a number of supporting roles in film. She appeared in the 2008 comedy film, ''Welcome Home Roscoe Jenkins'' with [[Martin Lawrence]]. She has had roles in ''[[Beerfest]]'', '' [[3 Strikes (film)|3 Strikes]]'', ''[[Two Can Play That Game]]'', ''[[Half Past Dead]]'', and ''[[Soul Plane]]''. She voiced a character in ''[[Garfield: The Movie]]'', but her role was cut from the movie.
+
+In 2005, Mo'Nique played a significant role in Tony Scott's thriller ''[[Domino (2005 film)|Domino]]'', co-starring [[Keira Knightley]] and [[Mickey Rourke]]. In 2006, Mo'Nique was cast as the lead in ''Phat Girlz'', a comedy about an aspiring fashion designer struggling to find love and acceptance. The film was met with lukewarm response from critics and fans. It did earn back its $3 million production cost in its first weekend of release.&lt;ref&gt;{{cite web|url = https://www.imdb.com/chart/bottom|publisher = IMDb.com|title = Bottom 100}}&lt;/ref&gt;
+
+She was featured in soul singer [[Anthony Hamilton (musician)|Anthony Hamilton]]'s video "[[Sista Big Bones]]", the second single from his album ''[[Ain't Nobody Worryin']]''. She plays the role of a beautiful woman whom Anthony secretly admires.
+
+Mo'Nique hosted the 2003 and 2004 BET Awards and appeared as the host again for the 2007 BET Awards. She received positive responses in July 2004 with her opening performance of [[Beyoncé]]'s single "[[Crazy in Love (Beyoncé Knowles song)|Crazy in Love]]" In 2007, she performed Beyoncé's "[[Déjà Vu (Beyoncé Knowles song)|Déjà Vu]]".
+
+In 2008, Mo'Nique stated on ''[[The Oprah Winfrey Show|Oprah Winfrey Show]]'' that [[Martin Lawrence]] gave her invaluable advice about show business: "He pulled me to the side and he said, 'Listen, don't ever let them tell you what you can't have.' Since that day, I've made some of the best deals I've ever made in my career because it keeps ringing in my head...It will stay with me forever."&lt;ref&gt;{{cite web|url = http://www2.oprah.com/tows/slide/200801/20080128/slide_20080128_350_207.jhtml|publisher = Oprah.com|title = Martin Lawrence's Advice to Mo'Nique|accessdate = January 28, 2008}}&lt;/ref&gt;
+
+In 2009, Mo'Nique appeared in the film ''[[Precious: Based on the Novel "Push" by Sapphire|Precious]]'', directed by [[Lee Daniels]], portraying an inner-city teenager's abusive mother. She won the [[Sundance Film Festival]] Special Jury Prize for her performance in the film. The [[African-American Film Critics Association]] (AAFCA) awarded Mo'Nique with the Best Supporting Actress Award in December 2009. It also announced that Mo'Nique received the AAFCA's first ever unanimous vote in an acting category. Moreover, she received Best Supporting Actress awards from the [[Stockholm International Film Festival]], the [[Washington DC Area Film Critics Association]], the [[Los Angeles Film Critics Association]], the [[Boston Society of Film Critics]], the [[New York Film Critics Online]], the [[New York Film Critics Circle]], the Southeastern Film Critics Association, the [[San Francisco Film Critics Circle]], the [[Dallas-Fort Worth Film Critics Association]], the Las Vegas Film Critics Society, the Utah Film Critics Association, the [[Detroit Film Critics Society]], the Indiana Film Critics Association, the [[Online Film Critics Society]], the [[National Society of Film Critics Awards]], the Alliance of Women Film Journalists, and the [[Critics Choice Awards]].  ''[[Time (magazine)|Time]]'' magazine ranked Mo'Nique's outstanding performance as the Best Female Performance of 2009. She won the Academy Award for Best Supporting Actress, the [[Independent Spirit Award]], and the [[BAFTA]] Award.&lt;ref&gt;{{cite web|url = http://www.eonline.com/uberblog/b168157_hurt_locker_schools_education_avatar.html|title = The Hurt Locker Schools An Education, Avatar at Brit-Snubbing BAFTAs|publisher = E Online}}.&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://www.thefilmexperience.net/Awards/2009/suppactress.html|title = 2009 Supporting Actress|publisher = The Film Experience|deadurl = yes|archiveurl = https://web.archive.org/web/20090409085158/http://www.thefilmexperience.net/Awards/2009/suppactress.html|archivedate = 2009-04-09|df = }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://incontention.com/?page_id=4595|publisher = InContention.com|title = OSCAR PREDICTION CHARTS|date = February 23, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url = http://lexib.net/2010/03/sandra-bullock-monique-oscar-academy-award-2010/ | title = Will Sandra Bullock, Mo'Nique Meet Their New Man, 'Oscar'|publisher = LexiB}}.&lt;/ref&gt;
+
+In November 2009, Mo'Nique said, "I own the rights to [[Hattie McDaniel]]'s life story, and I can't wait to tell that story because that woman was absolutely amazing. She had to stand up to the adversity of black and white [society] at a time when we really weren't accepted. Mr. Lee Daniels is going to direct it, of course, and I'm going to be Miss Hattie McDaniel. I really hope I can do that woman justice."&lt;ref&gt;{{Cite news|last=Ben|last2=Walters|author2-link=|title=Comic Mo'Nique takes dramatic turn in "Precious"|magazine=The Hollywood Reporter / Reuters|date=2009-11-15|url=https://www.reuters.com/article/idUSTRE5AF0LV20091116}}&lt;/ref&gt;
+
+In 2014, Mo'Nique starred in [[Patrik-Ian Polk]]'s drama film [[Blackbird (Patrik-Ian Polk film)|''Blackbird'']] as Claire Rousseau.
+
+At a May 2017 performance, she claimed Daniels, Winfrey and Perry have been blackballing her ever since she did not promote ''Precious'' in 2009.&lt;ref&gt;{{cite web|url=http://www.latimes.com/entertainment/la-et-entertainment-news-updates-may-mo-nique-blackballed-lee-daniels-oprah-1494883625-htmlstory.html|title=Today in Entertainment: Katy Perry cops to that Taylor Swift feud; Vanity Fair's 'Star Wars' covers cue the waterworks|publisher=|via=LA Times}}&lt;/ref&gt;
+
+===Theater===
+Mo'Nique's first play was [[Eve Ensler]]'s [[Obie Award]]-winning production of ''[[The Vagina Monologues]]'' in March 2002. Mo'Nique, [[Ella Joyce]] (''[[Roc (TV series)|Roc]]''); [[Wendy Raquel Robinson]] (''[[The Steve Harvey Show]]'' and ''[[The Game (U.S. TV series)|The Game]]'') and [[Vanessa Bell Calloway]] (''[[What's Love Got to Do with It (film)|What's Love Got to Do with It]]''), were the first all black celebrity cast to perform ''The Vagina Monologues''. Produced by YYP &amp; Associates, the show was directed by playwright and director Yetta Young as well as co-produced by Kellie R. Griffin, Lisa D. Washington and Anita Cal.
+
+===Books and radio===
+Mo'Nique is the author of the best-selling book ''Skinny Women Are Evil: Notes of a Bigg Girl in a Small-Minded World''. She also released a 2006 cookbook called ''Skinny Cooks Can't Be Trusted''.
+
+Mo'nique was part of the Washington, D.C. WHUR radio show with George Wilborn.
+
+In 2006, she occasionally filled in for afternoon personality [[Michael Baisden]] when his contract with [[Citadel Media|ABC Radio]] was in the process of getting renewed.&lt;ref&gt;{{cite web|url=http://www.allaccess.com/net-news/archive/story/16985/monique-to-fill-in-for-michael-baisden?ref=search|title=Monique to Fill in for Michael Baisden|work=All Access|accessdate=18 October 2014}}&lt;/ref&gt;
+
+In 2008, [[Radio One (Company)|Radio One]] signed her to her own radio show: ''Mo'Nique in the Afternoon'' (or ''The Mo'Nique Show''), which premiered on several Radio One-owned [[Urban Adult Contemporary]]-formatted R&amp;B/soul radio stations in July 2008. It mainly aired on these stations that had a local lineup because some Radio One stations did not carry it due to their contracts with Michael Baisden. The show lasted until March 18, 2009 when Mo'Nique decided to leave to "further her career in television, film, and comedy."&lt;ref&gt;{{cite web|url=http://news.radio-online.com/cgi-bin/$rol.exe/headline_id=n19041 |title=Syndicated Personality Mo'Nique to End ''Mo'Nique Show'' |publisher=Radio Online |accessdate=March 24, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090317214021/http://news.radio-online.com/cgi-bin/%24rol.exe/headline_id%3Dn19041 |archivedate=March 17, 2009 |df= }}&lt;/ref&gt;
+
+==Personal life==
+[[File:82nd Academy Awards, Mo'Nique and Sidney Hicks.jpg|right|thumb|Mo'Nique and husband Sidney Hicks attending the [[82nd Academy Awards]]]]
+Mo'Nique was briefly engaged to accountant Kenny Mung.&lt;ref&gt;{{cite news|url = http://findarticles.com/p/articles/mi_m1355/is_21_102/ai_94161427|publisher = JET Magazine|date = November 11, 2002|title = Actress and comedienne Mo'Nique of the Parkers talks about her: career new book `Skinny Women are Evil' new fiance|last = Yarbrough | first = Marti}}&lt;/ref&gt;
+
+From 1997 to 2001, she was married to Mark Jackson. They have a son named Shalon Jackson.
+
+Mo'Nique gave birth to twin sons Jonathan and David Hicks in October 2005, two months early.&lt;ref&gt;{{cite web|url=http://www.people.com/people/article/0,,1115775,00.html|title=Mo'Nique a New Mom Again – of Twins|work=PEOPLE.com|accessdate=18 October 2014}}&lt;/ref&gt; In 2006, she married their father Sidney Hicks. In a ''[[New York Times]]'' profile, she mentions that she and Hicks have an [[open marriage]]:
+
+{{quote|We have an agreement that we'll always be honest, and if sex happens with another person, that's not a {{sic|deal break|er|hide=y}} for us, that's not something where we'll have to say, 'Oh God, we've got to go to divorce court because you cheated on me.' Because we don't cheat.&lt;ref&gt;{{cite news|url=https://query.nytimes.com/gst/fullpage.html?res=9407E3D6103EF936A3575BC0A9619C8B63&amp;sec=&amp;spon=&amp;pagewanted=2|title=Luckily, There's Plenty of Her for Everybody|last=Lee|first=Felicia R.|date=2007-08-05|publisher=''New York Times''|pages=2}}&lt;/ref&gt;}}
+
+She repeated this view later on ''[[The Oprah Winfrey Show]]'' when she said that, in her prior marriages, she was constantly searching for "that extra oomph".&lt;ref name= Oprah&gt;Sheri Salata (Producer). (Jan 28, 2008). ''The Oprah Winfrey Show''. Chicago: Harpo Productions, Inc.&lt;/ref&gt; Mo'Nique explained, 
+
+&lt;blockquote&gt;When I said I had an open marriage, people automatically jumped to sex. They automatically went there. But I've been best friends with my husband since we were 14 years old. When we say open, we're very honest. There are no secrets. Oftentimes you have people that are married, but they're strangers, and we refuse to be those people.&lt;ref name= Oprahweb&gt;{{cite web|archiveurl = https://web.archive.org/web/20080131132627/http://www2.oprah.com/tows/slide/200801/20080128/slide_20080128_350_206.jhtml | archivedate = 2008-01-31| url= http://www2.oprah.com/tows/slide/200801/20080128/slide_20080128_350_206.jhtml|publisher= Oprah.com|title = Mo'Nique on her open marriage.|accessdate= January 28, 2008}}&lt;/ref&gt;&lt;/blockquote&gt; 
+
+She concluded, "I've had to sneak and I've had to lie, and I don't want to do that any more. But my husband is so awesome and so fine and so—oh, girl...No other man can compare".&lt;ref name=Oprahweb/&gt;
+
+==Filmography==
+
+===Film===
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" | Notes
+|-
+| &lt;center&gt;2000&lt;/center&gt;
+| align="center"| ''[[3 Strikes (film)|3 Strikes]]''
+| Dahlia
+| 
+|-
+| rowspan="2" | &lt;center&gt;2001&lt;/center&gt;
+| align="center"| ''[[Baby Boy (film)|Baby Boy]]''
+| Patrice
+|
+|-
+| align="center"| ''[[Two Can Play That Game]]''
+| Diedre
+| Nominated — [[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture]]
+|-
+| &lt;center&gt;2002&lt;/center&gt;
+| align="center"| ''[[Half Past Dead]]''
+| Twitch's Girl
+| 
+|-
+| rowspan="3" | &lt;center&gt;2004&lt;/center&gt;
+| align="center"| ''[[Soul Plane]]''
+| Jamiqua 
+| Nominated — [[BET Awards|BET Comedy Award for Outstanding Supporting Actress in a Box Office Movie]]
+|-
+| align="center"| ''[[Hair Show]]''
+| Peaches
+| Nominated — [[BET Awards|BET Comedy Award for Outstanding Lead Actress in a Theatrical Film]]
+|-
+| align="center"| ''[[Garfield: The Movie]]''
+| Rat
+| Role deleted in final cut of the film
+|-
+| rowspan="2" | &lt;center&gt;2005&lt;/center&gt;
+| align="center"| ''[[Shadowboxer]]''
+| Precious
+|
+|-
+| align="center"| ''[[Domino (2005 film)|Domino]]''
+| Lateesha Rodriquez
+| 
+|-
+| rowspan="4" | &lt;center&gt;2006&lt;/center&gt;
+| align="center"| ''[[Farce of the Penguins]]''
+| Vicky
+| Voice
+|-
+| align="center"| ''[[Irish Jam]]''
+| Psycho
+|
+|-
+| align="center"| ''[[Phat Girlz]]''
+| Jazmin Biltmore
+| 
+|-
+| align="center"| ''[[Beerfest]]''
+| Cherry
+|
+|-
+| &lt;center&gt;2008&lt;/center&gt;
+| align="center"| ''[[Welcome Home, Roscoe Jenkins]]''
+| Betty
+|
+|-
+| rowspan="2" | &lt;center&gt;2009&lt;/center&gt;
+| align="center"| ''[[Steppin: The Movie]]''
+| Aunt Carla
+|
+|-
+| align="center"| ''[[Precious (film)|Precious]]''
+| Mary Lee Johnston
+| [[Academy Award for Best Supporting Actress]]&lt;br&gt;[[African-American Film Critics Association Awards 2009|African-American Film Critics Association Award for Best Supporting Actress]]&lt;br&gt; [[Alliance of Women Film Journalists|Alliance of Women Film Journalists Award for Best Supporting Actress]]&lt;br&gt; [[Alliance of Women Film Journalists|Alliance of Women Film Journalists Award for Bravest Performance Award]]&lt;br&gt; [[Alliance of Women Film Journalists|Alliance of Women Film Journalists Award for Unforgettable Moment]]&lt;br&gt;[[BAFTA Award for Best Actress in a Supporting Role]]&lt;br&gt;[[BET Award for Best Actor &amp; Actress|BET Award for Best Actress]]&lt;br&gt;[[Black Reel Award for Best Ensemble]]&lt;br&gt;[[Black Reel Award: Best Supporting Actress|Black Reel Award for Best Supporting Actress]]&lt;br&gt;[[Boston Society of Film Critics Award for Best Supporting Actress]]&lt;br&gt;[[Boston Society of Film Critics Awards 2009|Boston Society of Film Critics Award for Best Ensemble Cast]]&lt;br&gt;[[Broadcast Film Critics Association Award for Best Supporting Actress]]&lt;br&gt;Central Ohio Film Critics Association Award for Best Supporting Actress&lt;br&gt;[[Chicago Film Critics Association Award for Best Supporting Actress]] &lt;br&gt;[[Dallas-Fort Worth Film Critics Association Award for Best Supporting Actress]]&lt;br&gt;Denver Film Critics Society Award for Best Supporting Actress&lt;br&gt;[[Detroit Film Critics Society|Detroit Film Critics Society Award for Best Supporting Actress]]&lt;br&gt;[[Florida Film Critics Circle Award for Best Supporting Actress]]&lt;br&gt;[[Golden Globe Award for Best Supporting Actress - Motion Picture]]&lt;br&gt;[[Independent Spirit Award for Best Supporting Female]]&lt;br&gt;Indiana Film Critics Association Award for Best Supporting Actress&lt;br&gt;[[International Online Film Critics' Poll|International Online Film Critics' Poll Award for Best Supporting Actress]]&lt;br&gt;Iowa Film Critics Award for Best Supporting Actress&lt;br&gt;Kansas City Film Critics Circle Award for Best Supporting Actress&lt;br&gt;Las Vegas Film Critics Society Award for Best Supporting Actress&lt;br&gt;[[London Film Critics Circle Award for Actress of the Year]]&lt;br&gt;[[Los Angeles Film Critics Association Award for Best Supporting Actress]]&lt;br&gt;[[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture]]&lt;br&gt;[[National Society of Film Critics Award for Best Supporting Actress]]&lt;br&gt;[[New York Film Critics Circle Award for Best Supporting Actress]]&lt;br&gt;[[New York Film Critics Online Awards 2009|New York Film Critics Online Award for Best Supporting Actress]]&lt;br&gt;[[Online Film Critics Society Award for Best Supporting Actress]]&lt;br&gt;Oklahoma Film Critics Circle Award for Best Supporting Actress&lt;br&gt;Phoenix Film Critics Society Award for Best Supporting Actress&lt;br&gt;[[San Francisco Film Critics Circle Award for Best Supporting Actress]]&lt;br&gt;[[Satellite Award for Best Supporting Actress - Motion Picture]]&lt;br&gt;[[Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role]]&lt;br&gt;Southeastern Film Critics Association Award for Best Supporting Actress&lt;br&gt;[[St. Louis Gateway Film Critics Association Award for Best Supporting Actress]]&lt;br&gt;[[Stockholm International Film Festival|Stockholm Film Festival Award for Best Actress]]&lt;br&gt;[[List of Sundance Film Festival award winners|Sundance Film Festival Special Jury Prize for Acting]]&lt;br&gt;Utah Film Critics Association Award for Best Supporting Actress &lt;br&gt;[[Village Voice Film Poll|Village Voice Film Poll – Best Supporting Actress]]&lt;br&gt;[[Washington DC Area Film Critics Association|Washington DC Area Film Critics Association Award for Best Supporting Actress]]&lt;br&gt;Nominated — [[Alliance of Women Film Journalists|Alliance of Women Film Journalists Award for Best Ensemble Cast]]&lt;br&gt;Nominated — [[Broadcast Film Critics Association Award| Broadcast Film Critics Association Award for Best Acting Ensemble]]&lt;br&gt;Nominated — [[Detroit Film Critics Society|Detroit Film Critics Society Award for Best Ensemble]]&lt;br&gt;Nominated — [[Houston Film Critics Society Awards 2009|Houston Film Critics Society Award for Best Supporting Actress]]&lt;br&gt;Nominated — [[2009 in film|International Cinephile Society Award for Best Supporting Actress]]&lt;br&gt;Nominated — [[San Diego Film Critics Society Award for Best Supporting Actress]]&lt;br&gt;Nominated — [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture]]&lt;br&gt;Nominated — [[St. Louis Gateway Film Critics Association|St. Louis Gateway Film Critics Association Award for Favorite Scene]]&lt;br&gt;Nominated — [[Toronto Film Critics Association Award for Best Supporting Actress]]&lt;br&gt;Nominated — [[Washington DC Area Film Critics Association Award| Washington DC Area Film Critics Association Award for Best Ensemble]]&lt;br&gt;Nominated — [[Vancouver Film Critics Circle Award for Best Supporting Actress]]
+|-
+| rowspan="2" | &lt;center&gt;2014
+| align="center"| ''[[Blackbird (2014 film)|Blackbird]]''
+| Claire Rousseau
+|
+|-
+| align="center"| ''About''
+| Barbara
+|
+|-
+| &lt;center&gt;2016&lt;/center&gt;
+| align="center"| ''[[Almost Christmas (film)|Almost Christmas]]''
+| Aunt May
+| 
+|-
+|}
+
+===Television===
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Role
+! scope="col" | Notes
+|-
+! scope="row" | 1999-2000
+| ''[[Moesha]]''
+| Nicole "Nikki" Parker
+| Season 4, Episode 18 "[[List of Moesha episodes#Season 4 (1998–1999)|It Takes Two]]" &lt;br /&gt; Season 4, Episode 22 "[[List of Moesha episodes#Season 4 (1998–1999)|I Studied Twelve Years for This?]]" &lt;br /&gt; Season 6, Episode 8 "[[List of Moesha episodes|The Candidate]]"
+|-
+! scope="row" | 2001
+| ''[[The Hughleys]]''
+| Nicole "Nikki" Parker
+| Season 3, Episode 15 "[[List of The Hughleys episodes#Season 3: 2000–2001|Forty Acres and a Fool]]" 
+|-
+! scope="row" | 2002
+| ''[[The Proud Family]]''
+| Boonnetta
+| Voice; &lt;br /&gt; Season 2, Episode 5 "[[List of The Proud Family episodes#Season 2: 2002–2003|Behind the Family Lines]]"
+|-
+! scope="row" | 2003
+| ''[[Good Fences]]''
+| Ruth Crisp
+| Television film &lt;br /&gt; [[Black Reel Award|Black Reel Award for Best Supporting Actress on Television]]
+Nominated — [[NAACP Image Award for Outstanding Actress in a Television Movie, Mini-Series or Dramatic Special]]
+|-
+! scope="row" | 2004
+| ''[[The Bernie Mac Show]]''
+| Lynette
+| Season 3, Episode 16 "[[List of The Bernie Mac Show episodes#Season 3: 2003–2004|Who's That Lady]]"
+|-
+! scope="row" | 1999-2004
+| ''[[The Parkers]]''
+| Nicole "Nikki" Parker
+| Lead role; &lt;br /&gt; [[List of The Parkers episodes|110 episodes]] &lt;br /&gt; [[NAACP Image Award for Outstanding Actress in a Comedy Series]] &lt;small&gt;(2001, 2002, 2004, 2005)&lt;/small&gt; &lt;br /&gt; 
+Nominated — [[NAACP Image Award for Outstanding Actress in a Comedy Series]] &lt;small&gt;(2003)&lt;/small&gt; &lt;br /&gt;
+Nominated — [[BET Awards|BET Comedy Award for Outstanding Lead Actress in a Comedy Series]]
+|-
+| rowspan="2" | 2006
+| ''[[Rugrats]]''
+| Aunt Moo
+| Direct-to-DVD episode "Tales from the Crib: Three Jacks and a Beanstalk"
+|-
+| ''[[Nip/Tuck]]''
+| Evetta Washington
+| Season 4, Episode 8 "[[Nip/Tuck (season 4)|Conor McNamara]]"
+|-
+| rowspan="4" | 2007
+| ''[[Flavor of Love Girls: Charm School]]''
+| Host/Herself
+| 11 episodes
+|-
+| ''[[The Game (U.S. TV series)|The Game]]''
+| Plus Size Actress
+| Season 2, Episode 1 "[[List of The Game episodes#Season 2 (2007-08)|Diary of a Mad Black Woman, Redux]]"
+|-
+|''[[The Boondocks (TV series)|The Boondocks]]''
+| Jamiqua
+| Voice; &lt;br /&gt; Season 2, Episode 1 "[[The Boondocks (season 2)|...Or Die Trying]]"
+|-
+|''[[Ugly Betty]]''
+| L'Amanda
+| Season 2, Episode 8 "[[I See Me, I.C.U.]]"
+|-
+! scope="row" | 2009-2011
+|''[[The Mo'Nique Show]]''
+| Host/Herself
+| 2 seasons - 251 episodes
+|-
+! scope="row" | 2014
+|''[[Love &amp; Hip Hop: New York]]''
+| Host/Herself
+| [[Love &amp; Hip Hop: New York (season 4)|Season 4]] Reunion Special - 2 episodes
+|-
+! scope="row" | 2015
+|''[[Bessie (film)|Bessie]]''
+|[[Ma Rainey]]
+| Television film &lt;br&gt; Nominated — [[Satellite Award for Best Supporting Actress – Series, Miniseries or Television Film]] &lt;br&gt; Nominated — [[Critics' Choice Television Award for Best Supporting Actress in a Movie/Miniseries]] &lt;br&gt; Nominated — Online Film &amp; Television Association Award for Best Supporting Actress in a TV Movie or Miniseries &lt;br&gt; Nominated — Online Film &amp; Television Association Award for Best Ensemble in a TV Movie or Miniseries &lt;br&gt; Nominated — [[Primetime Emmy Award for Outstanding Supporting Actress in a Miniseries or a Movie]]  
+|}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Mo'Nique}}
+*{{IMDb name|0594898}}
+
+{{Navboxes
+|title = Awards for Mo'Nique
+|list =
+{{AcademyAwardBestSupportingActress 2001-2020}}
+{{BAFTA Award for Best Supporting Actress 1985-2009}}
+{{Boston Society of Film Critics Award for Best Supporting Actress}}
+{{Broadcast Film Critics Association Award for Best Supporting Actress}}
+{{GoldenGlobeBestSuppActressMotionPicture 2001-2020}}
+{{IndependentSpiritBestSupportingFemale 2000-2020}}
+{{London Film Critics Circle Award for Actress of the Year}}
+{{Los Angeles Film Critics Association Award for Best Supporting Actress}}
+{{National Society of Film Critics Award for Best Supporting Actress}}
+{{New York Film Critics Circle Award for Best Supporting Actress}}
+{{Satellite Award Best Supporting Actress Motion Picture}}
+{{ScreenActorsGuildAward FemaleSupportMotionPicture}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Monique}}
+[[Category:1967 births]]
+[[Category:20th-century American actresses]]
+[[Category:21st-century American actresses]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:Actresses from Baltimore]]
+[[Category:African-American actresses]]
+[[Category:African-American comedians]]
+[[Category:American film actresses]]
+[[Category:American television actresses]]
+[[Category:African-American television producers]]
+[[Category:American television producers]]
+[[Category:Women television producers]]
+[[Category:American voice actresses]]
+[[Category:American women comedians]]
+[[Category:Best Supporting Actress BAFTA Award winners]]
+[[Category:Best Supporting Actress Golden Globe (film) winners]]
+[[Category:Best Supporting Actress Academy Award winners]]
+[[Category:Broadcasting Institute of Maryland alumni]]
+[[Category:Independent Spirit Award winners]]
+[[Category:Late night television talk show hosts]]
+[[Category:Living people]]
+[[Category:Morgan State University alumni]]
+[[Category:Participants in American reality television series]]
+[[Category:Outstanding Performance by a Female Actor in a Supporting Role Screen Actors Guild Award winners]]</text>
+      <sha1>n4t24zlb5v8t1kg68k2rbtt3fvr9b8m</sha1>
+    </revision>
+  </page>
+</mediawiki>

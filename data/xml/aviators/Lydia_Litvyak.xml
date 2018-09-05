@@ -1,0 +1,424 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lydia Litvyak</title>
+    <ns>0</ns>
+    <id>1826353</id>
+    <revision>
+      <id>855415663</id>
+      <parentid>854400316</parentid>
+      <timestamp>2018-08-18T03:46:00Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>+{{[[Template:Authority control|Authority control]]}} (5 sources from Wikidata), [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39913">{{Infobox military person
+|name= Lydia Litvyak
+|native_name = Лидия Литвяк
+|image=Lydia Litvyak.JPG
+|birth_date= 18 August 1921
+|death_date= {{Death date and age|df=yes|1943|8|1|1921|8|18}}
+|birth_place= [[Moscow]], [[Russian Soviet Federative Socialist Republic|Russian SFSR]]
+|death_place= [[Krasnyi Luch]], [[Ukrainian Soviet Socialist Republic|Ukrainian SSR]], [[Soviet Union]]
+|caption= Lydia Litvyak
+|nickname= Lilya&lt;br&gt;"White Lily of Stalingrad"&lt;br&gt;"White Rose of Stalingrad"
+|allegiance= {{USSR}}
+|serviceyears = 1941–1943
+|rank         = [[Senior Lieutenant]]
+|branch       = {{flagicon image|Flag of the Soviet Air Force.svg}} [[Soviet Air Force]]
+|commands     =
+|unit         = 73rd Guards Fighter Regiment
+|battles      = [[Eastern Front (World War II)|Eastern Front of World War II]]
+|awards       = {{Hero of the Soviet Union}} {{Order of Lenin (medallion)}} {{Order of the Red Banner (medallion)}} {{Order of the Patriotic War 1st Class (medallion)}} {{Order of the Red Star (medallion)}}
+}}
+'''Lydia Vladimirovna Litvyak''' (Лидия Владимировна Литвяк, (August 18, 1921, in [[Moscow]] – August 1, 1943, in [[Krasnyi Luch]]), also known as '''Lilya''', was a [[fighter pilot]] in the [[Soviet Air Force]] during [[World War II]].&lt;ref name="Goodpaster p. 27."&gt;Goodpaster 2009, p. 27.&lt;/ref&gt; With five solo victories, soviet propaganda claimed up to twelve solo victories and two to four shared kills in 66 combat sorties.&lt;ref name=Polunina/&gt;&lt;ref name="Jackson p. 57."&gt;Jackson 2003, p. 57.&lt;/ref&gt;&lt;ref name="Seidl p. 323."&gt;Seidl 1998, p. 323.&lt;/ref&gt;&lt;ref name="Bergström, 2007, p. 83"&gt;Bergström, 2007, p. 83.&lt;/ref&gt;&lt;ref name="Bergström, 2007, p. 83"/&gt;&lt;ref name="Spick p. 120."&gt;Spick 1999, p. 120.&lt;/ref&gt; In about two years of operations, she was the first female fighter pilot to shoot down an enemy aircraft, the first of two female fighter pilots who have earned the title of [[fighter ace]] and the holder of the record for the greatest number of kills by a female fighter pilot. She was shot down near [[Orel, Russia|Orel]] during the [[Battle of Kursk]] as she attacked a formation of German aeroplanes.
+
+{{TOClimit|limit=2}}
+
+== Early life ==
+Born in [[Moscow]], to a Jewish family&lt;ref&gt;{{cite web|url=http://www.iaf.org.il/4593-32722-he/IAF.aspx|work=בטאון חיל האוויר 192|title=המכשפות באו בלילה|date=April 1, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hschools.haifanet.org.il/ironi_a/hisc/subjects/history/DocLib8/%D7%AA%D7%A7%D7%95%D7%A4%D7%94%20%D7%A9%D7%A0%D7%99%D7%99%D7%94%20%20--%20%D7%A7%D7%99%D7%A5%202013%20%D7%9E%D7%93%D7%A2%D7%99%D7%95%D7%AA.pdf|title=לוחמים יהודים בצבאות בעלות הברית ובארגוני מחתרת נגד הנאצים, עמ' 38}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nrg.co.il/online/12/ART2/487/681.html|work=מעריב|title=טייסים יראי שמיים:הדתיים של הקורס|date=July 7, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.inn.co.il/News/News.aspx/204087|work=Arutch 7|title=אהוד ברק: גם היום - להישמר מקריאות להשמדת עם|date=May 9, 2010}}&lt;/ref&gt; Litvyak became interested in aviation at an early age. At 14, she enrolled in a [[flying club]]. She performed her first solo flight at 15, and later graduated at Kherson military flying school. She became a [[flight instructor]] at [[Tver|Kalinin]] Airclub,&lt;ref name="Seidl p. 134."&gt;Seidl 1998, p. 134.&lt;/ref&gt; and by the time the German-Soviet war broke out, had already trained 45 pilots.&lt;ref name="Cottam-Selected-Biographies p. 149."&gt;Cottam-Selected-Biographies 1998, p. 149.&lt;/ref&gt;
+
+==World War II==
+
+===Women's regiment===
+After the German attack on the [[Soviet Union]] in June 1941, Litvyak tried to join a military aviation unit, but was turned down for lack of experience. After deliberately exaggerating her pre-war flight time by 100 hours, she joined the all-female 586th Fighter Regiment of the Air Defense Force (586 IAP/PVO,  ''istrebitel'naia aviatsia protivovozdushnoi oborony''),&lt;ref name="Pennington p. XV."&gt;Pennington 2001, p. XV.&lt;/ref&gt; which was formed by [[Marina Raskova]]. She trained there on the [[Yakovlev Yak-1]] aircraft.
+[[File:Bundesarchiv Bild 101I-345-0780-14A, Frankreich, abgestürztes Flugzeug.jpg|thumb|left|A wrecked Junkers Ju 88: the first "victim" of Litvyak was an aircraft of this type]]
+
+===Men's regiment===
+Litvyak flew her first combat flights in the summer of 1942 over [[Saratov]]. In September, she was assigned to the 437 IAP, a men's regiment fighting over [[Stalingrad]]. On 10 September she moved along with [[Katya Budanova]], Maria M. Kuznetsova and Raisa Beliaeva, the commander of the group, and accompanying female ground crew, to the regiment airfield, at Verkhnaia Akhtuba, on the east bank of the Volga river. But when they arrived the base was empty and under attack, so they soon moved to Srednaia Akhtuba.&lt;ref name="Pennington pp. 130-131."&gt;Pennington 2001, pp. 130-131.&lt;/ref&gt; Here, flying a Yak-1&lt;ref name="Polak p. 202."&gt;Polak 1999, p. 202.&lt;/ref&gt; carrying the number "32" on the fuselage, she would achieve considerable success.&lt;ref name="Polak p. 201."&gt;Polak 1999, p. 201.&lt;/ref&gt; Boris Eremin (later [[lieutenant general]] of aviation), a [[commander|regimental commander]] in the [[Division (military)|division]] to which she and Budanova were assigned, saw her as "a very aggressive person" and "a born fighter pilot".&lt;ref name="Pennington p. 163."&gt;Pennington 1997, p. 163.&lt;/ref&gt;
+[[File:Me109.jpg|jpg|thumb|left|Restored Messerschmitt Bf 109G: The first fighter shot down by Litvyak was an aircraft of this type, flown by Luftwaffe ace [[Unteroffizier]] Erwin Meier.&lt;ref name=warthunder&gt;{{cite web|last=Barber|first=Mark|title=Ace of the Month – Lidya Litvyak|url=http://warthunder.com/en/news/282-A-en|publisher=Gaijin Entertainment|accessdate=1 October 2013}}&lt;/ref&gt; ]]
+In the 437th Fighter Regiment, Litvyak scored her first two kills on 13 September, three days after her arrival and on her third mission to cover Stalingrad, becoming the first woman fighter pilot to shoot down an enemy aircraft.&lt;ref name="Cottam-Selected-Biographies p. 150."&gt;Cottam-Selected-Biographies 1998, p. 150.&lt;/ref&gt; That day, four Yak-1s—with Major S. Danilov in the lead—attacked a formation of [[Junkers Ju 88]]s escorted by [[Messerschmitt Bf 109]]s.&lt;ref name="Seidl p. 135."&gt;Seidl 1998, p. 135.&lt;/ref&gt; Her first kill was a Ju 88 which fell in flames from the sky after several bursts. Then she shot down a Bf 109 G-2 "Gustav" on the tail of her squadron commander, Raisa Beliaeva.&lt;ref name="Seidl p. 135."/&gt;&lt;ref&gt;The Eastern Front. Russian Aces. [http://www.theeasternfront.co.uk/Aircraft/russian/russianaces.htm ''Lilya Vladimirovna Litviak.''] Retrieved March 23, 2009.&lt;/ref&gt; The Bf 109 was piloted by a decorated pilot from the 4th Air Fleet, commanded by General [[Wolfram Freiherr von Richthofen]] (a distant relative of the [[Red Baron]]),&lt;ref name="Cottam-Selected-Biographies p. 150."/&gt; the 11-victory ace,&lt;ref name="Goodpaster p. 27."/&gt; Staff Sergeant Erwin Maier of the 2nd Staffel of [[Jagdgeschwader 53]]. Maier parachuted from his aircraft, was captured by Soviet troops, and asked to see the Russian ace who had outflown him. When he was taken to Litvyak, he thought he was being made the butt of a Soviet joke. It was not until Litvyak described each move of the fight to him in perfect detail that he knew he had been shot down by a woman pilot.&lt;ref name="Goodpaster p. 27."/&gt;
+But according to other authors,&lt;ref name="Bergström p. 83."&gt;Bergström 2007, p. 83.&lt;/ref&gt; the first air victory by a female pilot was achieved by  586° IAP's ''Lieutenant'' Valeriya Khomiakova when she shot down  the Ju 88 flown by  ''Oblt.'' Gerhard Maak of 7./KG76 on the night of 24 September 1942. On 14 September, according to some authors, Litvyak shot down another Bf 109.&lt;ref name="Sakaida p. 14."&gt;Sakaida 2003, p. 14.&lt;/ref&gt; Her victim was probably [[Knight's Cross of the Iron Cross|Knight's Cross]] holder and 71-kill ''experte'' ''Lt.'' Hans Fuss (Adj.II./JG-3), injured in aerial combat with a Yak-1 on 14 September 1942 in Stalingrad area, when his G-2 fuel tank was hit, his plane somersaulted during the landing when he ran out of fuel flying back to base. He was critically injured, lost one leg and died of his wounds 10 November 1942.&lt;ref&gt;{{Cite web|url=http://www.aircrewremembered.com/KrackerDatabase/?q=Fuss%2C+Hans|title=Lt. Hans Fuss details|last=|first=|date=|website=|access-date=}}&lt;/ref&gt;  On 27 September, Litvyak scored an air victory against a Ju 88, the gunner having shot up the regiment commander, Major M.S. Khovostnikov.&lt;ref name="Seidl p. 135."/&gt; Possibly Ju 88A-4 "5K + LH" of [[Iron Cross]] holder ''Oblt.'' Johann Wiesniewski, 2./KG 3, MIA with all crew members.&lt;ref&gt;{{Cite web|url=http://www.aircrewremembered.com/KrackerDatabase/?q=Wiesniewski%2C+Johann|title=Oblt. Johann Wiesniewski details|last=|first=|date=|website=|access-date=}}&lt;/ref&gt; For some historians,&lt;ref name="Bergström p. 83."/&gt; that was her first kill.
+
+===Free hunter===
+Litvyak, Beliaeva, Budanova and Kuznetsova stayed in the 437 IAP for a short time only, mainly because it was equipped with [[Lavochkin-Gorbunov-Goudkov LaGG-3|LaGG 3s]] rather than Yak-1s, that the women flew, and was lacking the facilities to service the latter. So the four women were moved to the 9th [[Guards (Russia)|Guards]] Fighter Regiment (9 GvIAP, ''gvardeiskii istrebitel’ nyi aviatsionnyi polk''). From October 1942 till January 1943, Litvyak and Budanova served, still in the Stalingrad area, with this famous unit, commanded by [[Lev Shestakov]], [[Hero of Soviet Union]].&lt;ref name="Cottam-Selected-Biographies p. 150."/&gt;
+
+In January 1943, the 9th was re-equipped with the [[Bell P-39 Airacobra]]s  and Litvyak and Budanova were moved to the 296 IAP (later the 73 GvIAP, ''Guards Fighter Aviation Regiment'') of Nikolai Baranov, of the 8th Air Army, so that they could still fly the Yaks.&lt;ref name="Pennington pp. 135-163."&gt;Pennington 2001, pp. 135-163.&lt;/ref&gt; On February 23, she was awarded the [[Order of the Red Star]], made a [[second lieutenant|junior lieutenant]] and selected to take part in the elite air tactic called ''okhotniki'', or "free hunter", where pairs of experienced pilots searched for targets on their own initiative.&lt;ref name="Pennington1997"/&gt; Twice, she was forced to land due to battle damage. On 22 March she was wounded for the first time.&lt;ref name="Cottam-Selected-Biographies p. 152."&gt;Cottam-Selected-Biographies 1998, p. 152.&lt;/ref&gt; That day she was flying as part of a group of six Yak fighters when they attacked a dozen Ju 88s. Litvyak shot down one of the bombers but was in turn attacked and wounded by the escorting Bf 109s. She managed to shoot down a Messerschmitt and to return to her airfield and land her plane, but was in severe pain and losing blood.&lt;ref name="Pennington pp. 137-138."&gt;Pennington 2001, pp. 137-138.&lt;/ref&gt;
+While in 73 GvIAP, she often flew as wingman of ''Kapitan'' [[Aleksey Frolovich Solomatin]] a flying ace. He had claimed  a total of 39 victories (22 shared), when he flew into the ground, in Pavlonka, and was killed in front of the entire regiment on May 21,&lt;ref name="Polak p. 302."&gt;Polak 1999, p. 302.&lt;/ref&gt; while training a new flyer. Litvyak was devastated by the crash and wrote a letter to her mother describing how she realized only after Solomatin's death that she had loved him.&lt;ref name="Pennington1997"&gt;Pennington, 1997&lt;/ref&gt;
+
+Senior Sergeant Inna Pasportnikova, Litvyak's mechanic during the time she flew with the men's regiment, reported in 1990 that after Solomatin's death, Litvyak wanted nothing but to fly combat missions, and she fought desperately.&lt;ref name="Noggle p.198"&gt;Noggle, 1994, p. 198&lt;/ref&gt;
+
+Litvyak scored against a difficult target on May 31, 1943: an [[Observation balloon|artillery observation balloon]] manned by a German officer. German artillery was aided in targeting by reports from the observation post on the balloon. The elimination of the balloon had been attempted by other Soviet airmen but all had been driven away by a dense protective belt of anti-aircraft fire defending the balloon. Litvyak volunteered to take out the balloon but was turned down. She insisted and described for her commander her plan: she would attack it from the rear after flying in a wide circle around the perimeter of the battleground and over German-held territory. The tactic worked—the hydrogen-filled balloon caught fire under her stream of [[Tracer ammunition|tracer bullets]] and was destroyed.&lt;ref&gt;Noggle, 1994, pp. 197–198.&lt;/ref&gt;
+
+On June 13, 1943, Litvyak was appointed flight commander of the 3rd Aviation Squadron within 73rd GvIAP.&lt;ref name="Pennington1997"/&gt;
+
+Litvyak made an additional kill on July 16, 1943.&lt;ref name="Sakaida p. 15."&gt;Sakaida 2003, p. 15.&lt;/ref&gt;&lt;ref name="Pennington (Amazons) p. 264."&gt;Pennington (Amazons) 2003, p. 264.&lt;/ref&gt; That day, six Yaks encountered 30 German Ju-88 bombers with six escorts. The female ace downed a bomber and shared a victory with a comrade, but her fighter was hit and she had to make a [[belly landing]].&lt;ref name="Pennington (Amazons) p. 264."/&gt; She was wounded again but refused to take medical leave. She shot down one Bf 109 on 19 July 1943, probably 6-kill ace ''Uffz.'' Helmuth Schirra, 4./JG-3 (MIA, Luhansk area).&lt;ref&gt;{{Cite web|url=http://www.aircrewremembered.com/KrackerDatabase/?q=Schirra%2C+Helmuth+|title=Uffz. Helmut Schirra details|last=|first=|date=|website=|access-date=}}&lt;/ref&gt; Another Bf 109 kill followed two days later on 21 July 1943, possibly Bf 109G-6 of [[Iron Cross]] holder and 28-kill ''experte Lt.'' Hermann Schuster 4./JG-3(KIA, near Pervomaysk, Luhansk area).&lt;ref&gt;{{Cite web|url=http://www.ww2.dk/lwoffz.html|title=Luftwaffe Officer Career Summaries(S-Z): SCHUSTER, Hermann.|last=|first=|date=|website=|access-date=}}&lt;/ref&gt;&lt;ref name="Pennington (Amazons) p. 264."/&gt;
+
+=== Last mission ===
+[[File:Krasnyi Luch Wall.jpg|thumb|Krasnyi Luch wall of Honor to the Heroes of War and Labor. Litvyak took off for her last mission from an airfield close to this city, where a museum dedicated to her is located.]]
+On August 1, 1943, Litvyak did not come back to her base at [[Krasnyy Luch]]. It was her fourth sortie of the day, escorting a flight of [[Ilyushin Il-2]] ''Shturmoviks''. As the Soviets were returning to base near Orel,&lt;ref name="Spick p. 120."/&gt; a pair of Bf 109 fighters&lt;ref name="Noggle p.198"/&gt; dived on Litvyak while she was attacking a large group of German bombers. Soviet pilot Ivan Borisenko recalled: “Lily just didn’t see the Messerschmitt 109s flying cover for the German bombers. A pair of them dived on her and when she did see them she turned to meet them. Then they all disappeared behind a cloud.” Borisenko, involved in the dogfight, saw her the last time, through a gap in the clouds, her Yak-1 pouring smoke and pursued by as many as eight Bf 109s.&lt;ref name="Myles p. 232."&gt;Myles 1981, p. 232.&lt;/ref&gt;
+
+Borisenko descended to see if he could find her. No parachute was seen, and no explosion, yet she never returned from the mission. Litvyak was 21 years old. Soviet authorities suspected that she might have been captured, a possibility that prevented them from awarding her the title of [[Hero of the Soviet Union]].&lt;ref name=Noggle199&gt;Noggle, 1994, p. 199&lt;/ref&gt;
+
+Two German pilots are believed to have shot down Litvyak: [[Iron Cross]] holder and 30-kill ''experte Fw.'' Hans-Jörg Merkle of ''1./JG.52'', Knight's Cross holder and future 99-kill ''experte Lt'', or [[Hans Schleef]], of ''7./JG 3''. Merkle is the only pilot that claimed a Yak-1 near Dmitryevka on 1 August 1943, his 30th victory.  (Dmitrijewka is where she was last seen and was – reportedly – buried.) This occurred before being rammed and killed by his own victim (Luftwaffe combat report of collision: 3&amp;nbsp;km east of Dmitrijewka).  While Schleef claimed a [[LaGG-3]] (often confused in combat with Yak-1s by German pilots) kill on the same day, in the South-Ukraine area where Litvyak's aircraft was at last found.&lt;ref&gt;{{Cite web|url=http://www.aircrewremembered.com/KrackerDatabase/?q=Merkle+Hans|title=Fw. Hans-Jörg Merkle details|last=|first=|date=|website=|access-date=}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.ww2.dk/lwoffz.html|title=Luftwaffe Officer Career Summaries(S-Z):SCHLEEF, Hans.|last=|first=|date=|website=|access-date=}}&lt;/ref&gt;
+
+==Recognition and controversy==
+In an attempt to prove that Litvyak had not been taken captive, Pasportnikova embarked on a 36-year search for the Yakovlev Yak-1 crash site assisted by the public and the media. For three years she was joined by relatives who together combed the most likely areas with a metal detector.&lt;ref name=Noggle199/&gt; In 1979, after uncovering more than 90 other crash sites, 30 aircraft&lt;ref name=Noggle199/&gt; and many lost pilots killed in action, "the searchers discovered that an unidentified woman pilot had been buried in the village of Dmitrievka... in Shakhterski district." It was then assumed that it was Litvyak and that she had been killed in action after sustaining a mortal head wound.&lt;ref name="Pennington1997"/&gt; Pasportnikova said that a special commission was formed to inspect the exhumed body and it concluded the remains were those of Litvyak.&lt;ref name="Noggle p. 200."&gt;Noggle 1994, p. 200.&lt;/ref&gt;
+
+On May 6, 1990, USSR President [[Mikhail Gorbachev]] posthumously awarded Litvyak Hero of the Soviet Union.&lt;ref&gt;Noggle, 1994, pp. 158, 194.&lt;/ref&gt; Her final rank was senior lieutenant, as documented in all Moscow newspapers of that date.
+
+===Death controversy===
+Arguments have been published that dispute the official version of Litvyak's death. Although Yekaterina Valentina Vaschenko, the curator of the Litvyak museum in [[Krasnyi Luch]] has stated that the body was disinterred and examined by forensic specialists, who determined that it was indeed Litvyak,&lt;ref&gt;Soviet-Awards.com Henry Sakaida, 2002. [http://soviet-awards.com/digest/litvyak/litvyak3.htm ''The Memorial to Soviet Ace Lydia Litvyak'', page 3.] Retrieved on March 23, 2009.&lt;/ref&gt; Kazimiera Janina "Jean" Cottam claims, on the basis of evidence provided by Ekaterina Polunina, chief mechanic and archivist of the 586th Fighter Regiment in which Litvyak initially served, that the body was never exhumed and that verification was limited to comparison of a number of reports.&lt;ref name="Cottam2006"&gt;Redarmyonline.org. Kazimiera Janina "Jean" Cottam, 2006. ([http://www.redarmyonline.org/FI_Article_by_KJ_Cottam.html ''Lidya (Lily) Vladimirovna Litvyak (b. 1921)''.] Retrieved March 23, 2009.&lt;/ref&gt; Cottam, an author and researcher focusing on Soviet women in the military, concludes that Litvyak made a belly-landing in her stricken aircraft, was captured and taken to a [[prisoner of war]] camp.&lt;ref name="Cottam2006"/&gt; In her book published in 2004, Polunina lists evidence that led her to conclude that Litvyak was pulled from the downed aircraft by German troops and held prisoner for some time.&lt;ref name=Polunina&gt;Polunina, 2004&lt;/ref&gt;
+
+Gian Piero Milanetti, author of a recent book about Soviet aviatrixes,&lt;ref&gt;{{cite web|url=http://www.aviolibri.it/prodotti/9308_milanetti_soviet_air_women_of_the_great_patriotic_war_a_pictorial_history.php?page=9&amp;ordina=|title=AVIOLIBRI - Soviet Air Women of the Great Patriotic war. A pictorial history|publisher=|accessdate=10 March 2016}}&lt;/ref&gt; wrote that an airwoman parachuted in the approximate location of the alleged crash landing of Litvyak's aircraft. No other Soviet airwomen operated in that area, so Milanetti believes the pilot was Litvyak, probably captured by the enemy.
+
+A television broadcast from Switzerland was seen in 2000 by [[Nina Raspopova|Raspopova]], a veteran of the women's night bomber regiment. It featured a former Soviet woman fighter pilot who Raspopova thought may have been Litvyak. This veteran was wounded twice. Married outside of the Soviet Union, she had three children. Raspopova promptly told Polunina what she inferred from the Swiss broadcast.&lt;ref name=Polunina/&gt;
+
+===Validity of number of kills===
+There are conflicting claims about Litvyak's victory score in different publications; none are official records. Most often, 11 individual kills and 3 team kills are quoted, but also eight individual and four team, 12 individual and two team,&lt;ref name=Noggle157&gt;Noggle, 1994, p. 157.&lt;/ref&gt; or other combinations. Pasportnikova stated in 1990 that the tally was 12 solo kills including the balloon, and three shared.&lt;ref&gt;Noggle, 1994, p. 197.&lt;/ref&gt; Polunina has written that the kills of top-scoring Soviet pilots, including those of Litvyak and Budanova, were often inflated; and that Litvyak should be credited with five solo aircraft kills and two group kills, including the observation balloon.&lt;ref name=Polunina/&gt;
+
+Litvyak was awarded the [[Order of the Red Banner]], [[Order of the Red Star]], and was twice honored with the [[Order of the Patriotic War]].
+
+==Character and private life==
+Litvyak displayed a rebellious and romantic character.&lt;ref name="Milanetti"&gt;{{cite book |last=Milanetti |first=Gian Piero |title=Le streghe della notte |trans-title=The Night Witches |edition=1st |date=April 2011 |publisher=Istituto Bibliografico Napoleone |location=Rome |language=Italian |isbn=88-7565-100-0 |pages=73–88}}&lt;/ref&gt; Returning from a successful mission, she would "buzz" the aerodrome and then indulge in unauthorised aerobatics, knowing that it enraged her commander.
+
+Litvyak could also be superstitious, as Paspotnikova testified:
+&lt;blockquote&gt;
+She never believed that she was invincible. She believed that some pilots had luck on their side and others didn't. She firmly believed that, if you survived the first missions, the more you flew and the more experience you got your chances of making it would increase. But you had to have luck on your side.&lt;ref&gt;Milanetti, 2011, p.79&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Despite the predominantly male environment in which she found herself, she never renounced her femininity, and would carry on dyeing her hair blonde, sending her friend Inna Pasportnikova to the hospital to fetch hydrogen peroxide for her.&lt;ref name="Milanetti"/&gt; She would fashion scarves from parachute material, dyeing the small pieces in different colors and stitching them together and would not hide her love of flowers, which she picked at every available occasion, favoring red roses. She would make bouquets and keep them in the cockpit, which were promptly discarded by the male pilots who shared her aircraft.&lt;ref&gt;Milanetti, 2011, p.80&lt;/ref&gt;
+
+Her comrade Solomatin is believed to have been her fiancé, and after his death, she wrote to her mother:
+&lt;blockquote&gt;
+You see, he was not my type, but his insistence and his love for me convinced me to love him... and now, it seems I will never meet someone like him ever again.&lt;ref name="Milanetti"/&gt;
+&lt;/blockquote&gt;
+
+The novel ''Vernis iz Poleta''&lt;ref&gt;[http://openlibrary.org/b/OL4050426M/Vernisʹ_iz_poletathat ''Return from the flight'']&lt;/ref&gt; ("Return from Flight") by  [[Natalya Myeklin|Natalya Kravtsova]] fictionalizes the death of Solomatin, stating that he was killed when he ran out of ammunition while battling with a German Bf 109 fighter plane over his own airfield. In this version, Litvyak and others at the airfield watched the fight and witnessed his death.
+
+Litvyak was called the "White Lily of Stalingrad" in Soviet press releases; the white lily flower may be translated from Russian as [[Madonna lily]]. She has also been called the "White Rose of Stalingrad" in Europe and North America since reports of her exploits were first published in English.&lt;ref&gt;{{cite web|title=Who was the White Rose of Stalingrad?|url=http://www.bbc.co.uk/history/0/21329663|publisher=BBC History}}&lt;/ref&gt;
+
+==Depictions in fiction==
+
+Litvyak is the major character in Mary Ann Cook's romanticized novel ''The White Rose, ''a fictional account of her wartime experiences.&lt;ref&gt;Cook, Mary Ann (2012) ''The White Rose, ''{{ISBN|978-0-9886323-3-2}}&lt;/ref&gt;
+
+A heavily fictionalized Litvyak (called Natasha in the book) is the main character of Belinda Alexandra's novel "Sapphire Skies" &lt;ref&gt;{{cite web|url=http://www.harpercollins.com.au/books/Sapphire-Skies-Belinda-Alexandra/?isbn=9781743099117|title=Sapphire Skies|author=World Archipelago|work=HarperCollins AUS|accessdate=10 March 2016}}&lt;/ref&gt;
+
+Perhaps the most detailed work of literary fiction about Litvyak, her life, times and loves, was written by an American, M.G. Crisci, with no Russian ancestry, in cooperation with Valentina Vaschenko, the curator of the Lilya Litvyak Museum and School in Krasny Luch, Eastern Ukraine. The book entitled "Call Sign, White Lily," &lt;ref&gt;{{ISBN|978-0-9663360-3-0}}&lt;/ref&gt; also contains never-before-seen photographs contributed by the museum.
+
+Litvyak (along with Budanova) is depicted in Preston Poulter's comic book "White Lily".  Issue 1 &lt;ref&gt;{{cite web|url=https://www.kickstarter.com/projects/254514360/white-lily-miniseries-issue-1-expanded-print-run|title=White Lily Miniseries-Issue 1 Expanded Print Run|author=Poulter, Preston|accessdate=30 June 2017}}&lt;/ref&gt; was funded on Kickstarter in February 2017, #2 in April 2018, and #3 is in production.
+
+In [[Zap Comix]] #11 (February [[1985]]), graphic artist [[Spain Rodriguez]] dramatizes the fighter pilot's story in a ten-page narrative: "Lily Litvak, the Rose of Stalingrad."&lt;ref&gt;{{cite web|url=https://comics.ha.com/itm/original-comic-art/panel-pages/spain-rodriguez-zap-comix-11-lily-litvak-the-rose-of-stalingrad-partial-story-original-art-last-gasp-1985-total-9-items-/a/7093-92250.s|title=Lily Litvak, The Rose of Stalingrd|author=Rodriguez, Spain|accessdate=24 January 2018}}&lt;/ref&gt; The work is also included in Rodriguez's [[1995]] [[Fantagraphics Books]] anthology, "My True Story."&lt;ref&gt;{{ISBN|978-1560971412|title=My True Story|author=Rodriguez, Spain|accessdate=25 January 2018}}&lt;/ref&gt;
+
+===Stage play===
+The play ''White Rose'' by Scottish playwright [[Peter Arnott (playwright)|Peter Arnott]] portrays Litvyak's imagined political thoughts, with her character discussing war and Soviet women's resistance against Nazism. It was first performed on 22 May 1985 at the [[Edinburgh Festival]], in the [[Traverse Theatre]]. [[Ken Stott]] and [[Tilda Swinton]] played the lead characters; the role helped advance Swinton's career. Swinton met her future husband [[John Byrne (playwright)|John Byrne]] during the production. Byrne, also a playwright, served as the set designer for ''White Rose''.&lt;ref&gt;{{cite web |url=http://www.traverse.co.uk/writing/artists-in-residence/peter-arnott/ |title=Peter Arnott |work=Artists-in-residence |publisher=Traverse Theatre |accessdate=23 December 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.theatrescotland.com/email/update.html |title=Playwrights in agreement shock |work=Weekly Update |date=12 March 2010 |publisher=TheatreScotland.com |accessdate=23 December 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://blogs.warwick.ac.uk/michaelwalford/entry/tilda_swinton_/ |last=Walford |first=Michael |work=Kinoeye |title=Tilda Swinton (1960–) |date=17 August 2008 |accessdate=23 December 2012}}&lt;/ref&gt;
+
+There has been a production at the [[Tron Theatre]] in Glasgow in February–March 2013.&lt;ref&gt;[http://www.tron.co.uk/event/white_rose-83/ Tron website] {{webarchive|url=https://archive.is/20130505091141/http://www.tron.co.uk/event/white_rose-83/ |date=2013-05-05 }}&lt;/ref&gt;
+
+==Decorations==
+&lt;gallery&gt;
+File:Hero of the USSR Gold Star.png|[[Hero of the Soviet Union]]
+File:Kiselev's Order of Lenin (cropped).png|[[Order of Lenin]]
+File:Order of Red Banner.png|[[Order of the Red Banner]]
+File:Orden-otechestvennoy-voyny A0078505.jpg|[[Order of the Patriotic War]] 1st class
+File:Order-of-the-Red-Star.jpg|[[Order of the Red Star]]
+&lt;/gallery&gt;
+
+==Aerial victories (claimed)==
+* September 13, 1942
+** two solo, a Junkers Ju 88&lt;ref name="Polak p. 201."/&gt; and a Messerschmitt Bf 109 (of E. Maier.) Another source suggests a [[Heinkel He 111]] instead of a Ju 88.&lt;ref name="Myles 1981"&gt;Myles, 1981&lt;/ref&gt;
+* September 14, 1942
+** one solo, a Bf 109 &lt;ref name="Sakaida p. 14."/&gt; (according to historian Hans D. Seidl,&lt;ref name="Seidl p. 135."/&gt; it was a kill shared with Katya Budanova)&lt;ref name="auto"&gt;Fast, JG 52, IV p. 76&lt;/ref&gt;&lt;ref name="auto1"&gt;Die Geschichte der II./JG 52, p.308&lt;/ref&gt;
+* September 27, 1942
+** one solo, a Junkers Ju 88&lt;ref name="auto2"&gt;Bergstrom, Dikov &amp; Antipov, p.168&lt;/ref&gt;&lt;ref name="auto3"&gt;LW Loss Report (microfilm roll #7)&lt;/ref&gt;
+** one shared, with Raisa Beliaeva, a Messerschmitt Bf 109&lt;ref name="auto"/&gt;&lt;ref name="auto1"/&gt;{{clarify|date=August 2011}} &lt;!-- according to the map of pag. 293 of Barbas book, II./JG 52 on that day was based on Maikop-Krymskaya airstrip, about 1,000 km far from Stalingrad. --&gt;
+* February 11, 1943
+** one solo, a [[Junkers Ju 87]]&lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt;&lt;ref name="Aranysas 3-09"&gt;''Aranysas'', March 2009. [http://www.aranysas.hu/ "Sztálingrád Fehér Lilioma".] Retrieved March 23, 2009.&lt;/ref&gt;
+** one shared, with [[Alexei Solomatin]], a [[Focke-Wulf Fw 190]]&lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt;
+* March 22, 1943
+** two solo, a Messerschmitt Bf 109&lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt; and a Junkers Ju 88 &lt;ref name="Polak p. 202."/&gt;
+* May 5, 1943
+** one solo, a Messerschmitt Bf 109&lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt;&lt;ref name="Aranysas 3-09" /&gt;
+* May 7, 1943
+** one solo, a Messerschmitt Bf 109 &lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt;&lt;ref name="Aranysas 3-09" /&gt;
+* May 31, 1943
+** one solo, an artillery observation balloon&lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt;&lt;ref name="Aranysas 3-09" /&gt;
+* July 16, 1943
+** one solo, Messerschmitt Bf 109.  One source claims the victim aircraft had an "Ace of Spades" card painted on the fuselage.&lt;ref name="Myles 1981" /&gt; Another source claims that this kill was a bomber.&lt;ref name="Sakaida p. 15."/&gt;
+** one shared&lt;ref name="Sakaida p. 15."/&gt; (According to another source, the shared kill was a Bf 109 while the solo was a Ju 88&lt;ref name="Polak p. 202."/&gt;)
+* July 19, 1943
+** one solo, a Messerschmitt Bf 109&lt;ref name="ReferenceA"/&gt;&lt;ref name="Prien/Stemmer, II./JG 3, p.408"/&gt;
+* July 21, 1943
+** one a Messerschmitt Bf 109&lt;ref name="Pennington (Amazons) p. 264."/&gt;
+* August 1, 1943
+** one solo, a Messerschmitt Bf 109,&lt;ref name="Polak p. 202."/&gt;
+** one shared, a Messerschmitt Bf 109&lt;ref name="Polak p. 202."/&gt;&lt;ref name="Pennington1997"/&gt;
+
+The following table summarizes Litvyak's victories and their fates:
+
+{| class="wikitable"
+|-
+! Date (dd.mm.yyyy)
+! Soviet Unit
+! Aircraft flown
+! Enemy Aircraft
+! Pilot &amp; Fate
+! Axis Unit
+|-
+| 13.09.1942
+| 437 IAP
+| Yak-1 "White 02"
+| Ju.88
+|
+| Luftwaffe (**)
+|-
+| 13.09.1942
+| 437 IAP
+| Yak-1 "White 02"
+| Bf.109G-2 W.Nr.13556 black 8
+| Obfw. Erwin Meier - POW ('''11-kill ace''')
+| 2./JG 53&lt;ref&gt;Belyakov, Vladimir. Aviation History magazine, March 2002&lt;/ref&gt;&lt;ref&gt;Prien, JG 53, II, p. 569&lt;/ref&gt;
+|-
+| 14.09.1942
+| 437 IAP
+| Yak-1 "White 02"
+| Bf.109
+|
+| Luftwaffe (**)
+|-
+| 27.09.1942
+| 437 IAP
+| Yak-1 "White 02"
+| Ju.88A-4 W.Nr.3517
+| Unknown (80% dam, w/o)
+| 5./KG 76&lt;ref name="auto2"/&gt;&lt;ref name="auto3"/&gt;
+|-
+| 27.09.1942
+| 437 IAP
+| Yak-1 "White 02"
+| Bf.109G-2 W.Nr.14221
+| Horst Loose - KIA (shared)
+| 4./JG 52&lt;ref name="auto"/&gt;&lt;ref name="auto1"/&gt;
+{{clarify|date=August 2011}} &lt;!-- according to the map of pag. 293 of Barbas book, II./JG 52 on that day was based on Maikop-Krymskaya airstrip, about 1,000 km far from Stalingrad. --&gt;
+
+|-
+| 11.02.1943
+| 296 IAP
+| Yak-1 "Red 32"
+| Fw.190
+| (shared)
+| Luftwaffe (**)
+|-
+| 11.02.1943
+| 296 IAP
+| Yak-1 "Red 32"
+| Ju.87D-3 W.Nr.2948
+| Gerhard Weber + gunner - MIAs
+| 5./StG 77&lt;ref&gt;LW Loss Report (microfilm roll #8)&lt;/ref&gt;
+|-
+| 22.03.1943
+| 296 IAP
+| Yak-1 "Yellow 44"
+| Bf.109G-4 "BH+XB"
+| Lt. Franz Müller
+| 9./JG 3&lt;ref name="elknet.pl"&gt;{{cite web |url=http://www.elknet.pl/acestory/raskov/raskov.htm |title=Marina Raskova and Soviet Female Pilots |first1=Harold |last1=Stockton |first2=Dariusz |last2=Tyminski |first3=Christer |last3=Bergström |work=WWII Ace Stories |language=Polish |publisher=Elknet.pl |date=1998-12-09 |accessdate=2011-12-31 |deadurl=yes |archiveurl=https://web.archive.org/web/20111213210423/http://www.elknet.pl/acestory/raskov/raskov.htm |archivedate=2011-12-13 |df= }}&lt;/ref&gt;
+|-
+| 22.03.1943
+| 296 IAP
+| Yak-1 "Yellow 44"
+| Ju.88
+|
+| Luftwaffe (**)
+|-
+| 5.05.1943
+| 73 GIAP
+| Yak-1 "Yellow 44"
+| Bf.109
+|
+| Luftwaffe (**)
+|-
+| 7.05.1943
+| 73 GIAP
+| Yak-1 "Yellow 44"
+| Bf.109
+|
+| Luftwaffe (**)
+|-
+|31.05.1943
+| 73 GIAP
+| Yak-1
+|Observation balloon
+|
+|
+|-
+| 16.07.1943
+| 73 GIAP
+| Yak-1b "White 23"
+| Bf.109G-6 W.Nr.15204
+| Unknown (20% dam)
+| 5./JG 3&lt;ref name="ReferenceA"&gt;LW Loss Report (microfilm roll #11)-Vol. 19&lt;/ref&gt;&lt;ref name="Prien/Stemmer, II./JG 3, p.408"&gt;Prien/Stemmer, II./JG 3, p.408&lt;/ref&gt;
+|-
+| 16.07.1943
+| 73 GIAP
+| Yak-1b "White 23"
+| Bf.109G-? W.Nr.?
+|
+|
+|-
+| 19.07.1943
+| 73 GIAP
+| Yak-1b "White 23"
+| Bf.109G-6 W.Nr.20005
+| Unknown (40% dam)
+| 5./JG 3&lt;ref name="ReferenceA"/&gt;&lt;ref name="Prien/Stemmer, II./JG 3, p.408"/&gt;
+|-
+| 21.07.1943
+| 73 GIAP
+| Yak-1b "White 23"
+| Bf.109
+|
+| Luftwaffe (**)
+|-
+| 1.08.1943
+| 73 GIAP
+| Yak-1b "White 23"
+| Bf.109G-6 W.Nr.15852
+| Unknown (50% dam)
+| 2./JG 52&lt;ref name="ReferenceB"&gt;LW Loss Report (microfilm roll #11)-Vol. 20&lt;/ref&gt;&lt;ref&gt;Fast, JG 52, IV, p.102&lt;/ref&gt;
+|-
+| 1.08.1943
+| 73 GIAP
+| Yak-1b "White 23"
+| Bf.109G-6 W.Nr.20423 white 3
+| Fw. Hans-Jörg Merkle - KIA ('''30-kill ace''')(shared)
+| 1./JG 52&lt;ref name="ReferenceB"/&gt;&lt;ref&gt;Fast, JG 52 Band IV p102&lt;/ref&gt;
+|}
+
+&lt;!--(**) = Overclaim. Not known German combat loss match this claim.{{clarify|date=April 2011}}--&gt; &lt;!-- Lack of German records must be referenced to a published source which states this to be the case. --&gt;
+
+==See also==
+{{Portal|Soviet Union|Aviation|Military}}
+* [[List of female Heroes of the Soviet Union]]
+* [[Yekaterina Budanova]], the only other female flying ace.
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Bibliography===
+* {{cite book |title=Barbarossa—The Air Battle: July–December 1941 |last=Bergström |first=Christer |year=2007 |publisher=Classic Publications |isbn=1-85780-270-5 |url=https://books.google.com/books?id=-FiyGAAACAAJ}}
+* Bergström, Christer. ''Stalingrad—The Air Battle: 1942 through January 1943''. Hinckley England, Midland, 2007. {{ISBN|978-1-85780-276-4}}.
+* Christer Bergström, Andrey Dikov &amp; Vlad Antipov, ''Black Cross – Red Star. Air War over the Eastern Front. Volume 3. Everything for Stalingrad''. Eagle Editions Ltd., 2006.
+* {{cite book |title=Flying for Her Country: the American and Soviet women military pilots of World War II |last=Goodpaster-Strebe |first=Amy |year=2007 |publisher=Greenwood Publishing Group |isbn=0-275-99434-1 |url=https://books.google.com/books?id=bFbUVQNeSwoC}}
+* {{cite book |title=Women in War and Resistance: Selected Biographies of Soviet Women Soldiers |last=Cottam |first=Kazimiera J. |year=1998 |publisher=Focus Publishing/R.Pullins Co. |isbn=1-58510-160-5 }}
+* Jackson, Robert. ''Air Aces of WWII''. Ramsbury, MarlboRough, Vital Guide, Airlife Crowood Press, 2003. {{ISBN|1-84037-412-8}}.
+* {{cite book |title=Le Streghe della Notte: La storia non detta delle eroiche ragazze-pilota dell'Unione Sovietica nella Grande Guerra Patriottica |language=Italian |last=Milanetti |first=Gian Piero |year=2011 |publisher=Istituto Bibliografico Napoleone, Roma, Italia|isbn=88-7565-100-0
+|url=http://www.calameo.com/books/0007962970324ec79c522 }}
+* {{cite book |title=Soviet Airwomen of the Great Patriotic War - A pictorial history|last=Milanetti |first=Gian Piero |year=2013 |publisher=IBN, Istituto Bibliografico Napoleone, Rome, Italy|isbn=9788875651466}}
+* {{cite book |title=Night Witches: the untold story of Soviet women in combat |last=Myles |first=Bruce |year=1981 |publisher=Mainstream |isbn=0-906391-22-9 |url=https://books.google.com/books?id=CkRnAAAAMAAJ}}
+* {{cite book |title=A Dance with Death: Soviet Airwomen in World War II |last=Noggle |first=Anne |year=1994 |publisher=Texas A&amp;M University |isbn=0-89096-601-X |url=https://books.google.com/books?id=-ESSJzUOk2oC}}
+* {{cite book |title=Amazons to Fighter Pilots: A Biographical Dictionary of Military Women |editor-last=Pennington |editor-first=Reina |year=2003 |publisher=Greenwood Press |location=Westport, Connecticut/London |isbn=0-313-32707-6}}
+* Prien, Jochen - Stemmer, Gerhard - Rodeike, Peter - Bock, Winfried: ''Die Jagdfliegerverbände der Deutschen Luftwaffe 1934 bis 1945 - Teil 6 Tielband I Unternehmen "Barbarossa" Einsatz im Osten 22.6. bis 05.12.1941'', Struve Druck, 2003.
+* Prien, Jochen - Stemmer, Gerhard - Rodeike, Peter - Bock, Winfried: ''Die Jagdfliegerverbände der Deutschen Luftwaffe 1934 bis 1945 - Teil 9 Tielband II Wom Sommerfeldzug 1942 bis zur Niederlage von Stalingrad 1.5.1942 bis 3.2.1943'', Struve Druck, 2006.
+* {{cite book |title=Wings, Women, and War: Soviet Airwomen in World War II Combat |last=Pennington |first=Reina |year=1997 |publisher=University Press of Kansas |isbn=0-7006-1554-7 |url=https://books.google.com/books?id=HBpSGQAACAAJ}}
+* {{cite book |title=Devčonki, podružki, letčicy |last=Polunina |first=Ekaterina K. |year=2004 |publisher=Izdat. Dom "Vestnik Vozduš. Flota" |isbn= |url=https://books.google.com/books?id=YzesMQAACAAJ}}
+* Morgan, Hugh. ''Gli assi Sovietici della Seconda guerra mondiale'' (in Italian). Edizioni del Prado/Osprey Aviation, 1999. {{ISBN|84-8372-203-8}}.
+* Polak, Tomas with Christofer Shores. ''Stalin's Falcons—The aces of the red star''. London, Grub Street, 1999. {{ISBN|1-902304-01-2}}.
+* {{cite book |title=Heroines of the Soviet Union: 1941-45|last=Sakaida |first=Henry |year=2003 |publisher=Osprey Publishing |isbn=978-1-84176-598-3 }}
+* Seidl, Hans D. ''Stalin's Eagles—An illustrated Study of the Soviet Aces of World War II and Korea''. Atglen, PA, Schiffer Military History, 1998. {{ISBN|0-7643-0476-3}}.
+* Shores, Christopher. ''Air Aces''. Greenwich CY, Bison Books, 1983. {{ISBN|0-86124-104-5}}.
+* Spick, Mike.''The Complete Fighter Ace: All the World's Fighter Aces, 1914–2000''. London, Greenhill Books, 1999. {{ISBN|1-85367-374-9}}.
+* Yenne, Bill. ''The White Rose of Stalingrad: The Real Life Adventure of Lidiya Vladimirovna Litvyak, the Highest Scoring Female Air Ace of All Time'', Osprey, London. 2013. {{ISBN|978-1-84908-810-7}}
+
+== External links ==
+* [http://wio.ru/aces/gal-f.htm ''The best Soviet WW2 pilots''] A photo gallery of female pilots
+* [http://www.soviet-awards.com/digest/litvyak/litvyak1.htm Lydia Litvyak Memorial]
+* [https://web.archive.org/web/20130620221049/http://www.elknet.pl/acestory/litvak/litvak.htm WWII Ace Stories. Dariusz Tyminski. ''Lilya Litvak—The "White Rose" of Stalingrad.'']
+* [http://www.bbc.co.uk/history/0/21329663 BBC History: Who was the White Rose of Stalingrad?]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Litvyak, Lydia}}
+[[Category:1921 births]]
+[[Category:1943 deaths]]
+[[Category:People from Moscow]]
+[[Category:Soviet women in World War II]]
+[[Category:Women air force personnel of the Soviet Union]]
+[[Category:Female aviators]]
+[[Category:Soviet World War II flying aces]]
+[[Category:Soviet Air Force officers]]
+[[Category:Heroes of the Soviet Union]]
+[[Category:Russian people of World War II]]
+[[Category:Russian Jews]]
+[[Category:Soviet World War II pilots]]
+[[Category:Soviet military personnel killed in World War II]]
+[[Category:Victims of aviation accidents or incidents in Ukraine]]
+[[Category:Victims of aviation accidents or incidents in the Soviet Union]]
+[[Category:Aviators killed by being shot down]]
+[[Category:Aviation accidents and incidents in 1943]]
+[[Category:Guggenheim Fellows]]
+[[Category:Soviet Jews in the military]]
+[[Category:Recipients of the Order of the Red Banner]]
+[[Category:Recipients of the Order of the Patriotic War, 1st class]]
+[[Category:Russian female aviators]]</text>
+      <sha1>em7snxz0fkz3x81muca507g6pxh1xxi</sha1>
+    </revision>
+  </page>
+</mediawiki>

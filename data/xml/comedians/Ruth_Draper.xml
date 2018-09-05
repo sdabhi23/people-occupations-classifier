@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ruth Draper</title>
+    <ns>0</ns>
+    <id>4638254</id>
+    <revision>
+      <id>827417896</id>
+      <parentid>825050524</parentid>
+      <timestamp>2018-02-24T17:00:58Z</timestamp>
+      <contributor>
+        <username>Frietjes</username>
+        <id>13791031</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9096">{{Infobox person
+|image = John-singer-sargent-portrait-of-ruth-draper.jpg 
+|caption = Portrait of Ruth Draper by [[John Singer Sargent]], 1913
+|imagesize= 
+|birth_date={{Birth date|1884|12|2}}
+|birth_place= [[New York City]], [[New York (state)|New York]], [[United States]]
+|death_date={{Death date and age|1956|12|30|1884|12|2}}
+|death_place= [[New York City]], [[New York (state)|New York]], [[United States]]
+|occupation=[[Stage actress]]}}
+
+'''Ruth Draper''' (December 2, 1884{{spaced ndash}}December 30, 1956) was an [[United States|American]] [[actress]], [[dramatist]] and noted [[Monologist#Diseuse|diseuse]]&lt;ref&gt;Sir John Gielgud: A Life in Letters By John Gielgud - 2005 pg. 516&lt;/ref&gt; who specialized in character-driven [[monologue]]s and [[monodrama]]. Her best-known pieces include ''The Italian Lesson'', ''Three Women and Mr. Clifford'', ''Doctors and Diets'', and ''A Church in Italy''.
+
+==Early life and family==
+
+Ruth Draper was born in [[New York City]], the youngest child of Dr. William Henry and Ruth (née Dana) Draper. Her father, who was born in [[Brattleboro, Vermont]],&lt;ref&gt;US Passport Application - December 2, 1884&lt;/ref&gt;&lt;ref&gt;The Atlanta Constitution April 27, 1901&lt;/ref&gt; had the affluence to support a large family with the help of several servants.&lt;ref name="ReferenceA"&gt;US Census records 1860, 1870, 1880, 1900&lt;/ref&gt; Ruth Draper's mother was the daughter of [[Charles Anderson Dana]], editor and publisher of ''[[The New York Sun]]'' and had married Dr. Draper in 1878 some years after the loss of his first wife, Lucy.&lt;ref name="ReferenceA"/&gt;&lt;ref&gt;The Bridgeport Post, December 31, 1956 pg. 16&lt;/ref&gt; Her nephew, [[Paul Draper (dancer)|Paul Draper]], was a noted dancer and actor. Draper's second cousin was the society architect Paul Phipps, father of [[UK|British]] actress [[Joyce Grenfell]] (Grenfell's career as a monologist was directly inspired by Draper). Her nephew [[Raimund Sanders Draper]] was a heroic WWII pilot.&lt;ref name="Letters"&gt;{{Cite book
+| publisher = SIU Press
+| isbn = 978-0-8093-2188-9
+| last = Draper
+| first = Ruth
+|author2=[[Dorothy Warren]]
+ | title = The letters of Ruth Draper: self-portrait of an actress, 1920-1956
+| date = 1999-11-03
+}}&lt;/ref&gt;&lt;ref name="BFP"&gt;{{cite web|title=The Spitfire: Britain's Flying past |episodelink= |url=https://www.bbc.co.uk/iplayer/episode/b0153yb6/The_Spitfire_Britains_Flying_Past/ |accessdate= |series= |serieslink= |credits= |network=[[BBC]] |station= |city= |airdate=2011-09-22 |season= |seriesno= |number= |minutes= |time= |transcript= |transcripturl= |quote= |deadurl=yes |archiveurl=https://web.archive.org/web/20110925064421/http://www.bbc.co.uk/iplayer/episode/b0153yb6/The_Spitfire_Britains_Flying_Past |archivedate=September 25, 2011 }}&lt;/ref&gt;
+
+==Career==
+
+Ruth Draper's inspiration to become an actress came from the Polish [[pianist]] [[Ignacy Jan Paderewski]], a friend of her family.&lt;ref name="ReferenceB"&gt;The Ottawa Citizen December 31, 1956&lt;/ref&gt; She made her [[Broadway theatre|Broadway]] debut in the 1916 play ''A Lady's Name'' by [[Cyril Harcourt]],&lt;ref&gt;IBDb.com&lt;/ref&gt; and by 1921 was becoming well known as monologist, or more specifically diseuse, appearing in [[monodrama]]s.
+
+Thus, Draper dominated the field of professional solo performance during the second quarter of the twentieth century, performing with great success throughout the United States and Europe. Draper's one-person shows differed in kind from the majority of the early lyceum and [[Chautauqua]] solo performers coming before her, as the monologues/monodramas she performed were original characters as opposed to selections of published literature.&lt;ref&gt;{{Cite book|title=Cast of One|last=Gentile|first=John S.|publisher=University of Illinois Press|year=1989|isbn=|location=Urbana and Chicago|pages=104-105}}&lt;/ref&gt;
+
+With a chair, shawl and occasional table as her only [[Theatrical property|props]], Draper entertained audiences in a half dozen languages worldwide for nearly forty years.&lt;ref name="ReferenceB"/&gt; Her best-known pieces include ''The Italian Lesson'', ''Three Women and Mr. Clifford'', ''Doctors and Diets'', and ''A Church in Italy''.
+
+[[File:Ruth Draper as a Dalmation Peasant.jpeg|thumb|Ruth Draper as a Dalmatian Peasant by John Singer Sargent]]
+
+Such theatre legends as [[George Bernard Shaw]], [[Thornton Wilder]], [[John Gielgud]], [[Katharine Hepburn]], [[Maurice Chevalier]], [[Laurence Olivier]], and [[Uta Hagen]] were among those dazzled by Draper's artistry and talent, as were authors [[Henry James]], [[Henry Brooks Adams|Henry Adams]], [[Edith Wharton]] and [[Agatha Christie]]. Draper inspired characters in two of Christie's works — Carlotta Adams in the 1933 novel ''[[Lord Edgware Dies]]'',&lt;ref&gt;In her ''[[Agatha Christie: An Autobiography|Autobiography]]'', Christie says, "I thought how clever she was and how good her impersonations were; the wonderful way she could transform herself from a nagging wife to a peasant girl kneeling in a cathedral. Thinking about her led me to the book ''Lord Edgware Dies''." Christie, Agatha. ''An Autobiography'' (p. 437). Collins, 1977; {{ISBN|0-00-216012-9}}.&lt;/ref&gt; and Aspasia Glen in the short story "[[The Mysterious Mr Quin#The Dead Harlequin|The Dead Harlequin]]".
+
+In 1951 [[George VI|King George VI of the United Kingdom]] awarded Ruth Draper [[Title of honor|honor]]ary membership in the [[Order of the British Empire]] with the rank of [[Commander]] (CBE). On April 29, 1953, she had lunch with C. S. Lewis the day after he saw her performance at the New Theatre in Oxford. Nearly a quarter century earlier she gave a performance at [[Windsor Castle]] after an invitation from [[George V|King George V]] and [[Mary of Teck|Queen Mary]].&lt;ref&gt;The New York Times December 19, 1951 pg. 41&lt;/ref&gt;
+
+Draper had many relationships in [[Italy]], in large part through her connection with [[Lauro De Bosis]], a young Italian poet and writer who died in 1931 after a daring flight over [[Rome]] during which he threw thousands of leaflets denouncing [[Benito Mussolini]] and the [[National Fascist Party]].
+
+==Death==
+
+Ruth Draper died on December 30, 1956, of an apparent [[heart attack]],&lt;ref&gt;The New York Times December 31, 1956 pg. 13&lt;/ref&gt; just hours after giving a performance on [[Broadway theatre|Broadway]] at the Playhouse Theatre. Draper's family had a summer home in [[Islesboro, Maine]], which she purchased from her family and where she spent increasing amounts of time in her later years.&lt;ref&gt;[http://www.workingwaterfront.com/articles/How-Brilliant-She-Was--Islesboros-Ruth-Draper-had-an-Uncanny-Ability-to-Impersonate-People/10198/printer-friendly/ Ruth Draper]&lt;/ref&gt; A short biography of Draper is among several collected by the Anglo-Italian writer [[Iris Origo]] in her 1984 book, ''A Need to Testify''.
+
+==Recordings==
+Recordings of Draper's monologues have influenced many contemporary writers and performers, including [[Joyce Grenfell]], [[Lily Tomlin]], [[Mike Nichols]], [[Julie Harris (American actress)|Julie Harris]], [[Simon Callow]], [[Emma Thompson]], [[Charles Busch]], [[David Mamet]], [[Julia Sweeney]], [[Annette Bening]], [[Maureen Lipman]] and [[John Lithgow]].
+
+== References ==
+{{Reflist|1}}
+
+==Further reading==
+*Young, Jordan R. (1989). ''Acting Solo: The Art of One-Person Shows''. Beverly Hills: Past Times Publishing Co.
+*Catron, Louis E.  (2000). ''The Power of One: The Solo Play for Playwrights, Actors, and Directors''.  Portsmouth, N.H: Heinemann.
+*Origo, Iris (1984). ''A Need to Testify''.  Harcourt Brace Jovanovich.
+*Gentile, John S. (1989). ''Cast of One: One-Person Shows from the Chautauqua Platform to the Broadway Stage.'' University of Illinois Press.
+
+==External links==
+*{{IBDB name}}
+*{{IMDb name|1812608}}
+*[http://www.drapermonologues.com/biography.html Biography from drapermonologues.com]
+*[http://www.drapermonologues.com/legacy.html Legacy from drapermonologues.com]
+*[http://archives.nypl.org/the/21262 Barnett Owen papers regarding Ruth Draper, 1905-1956], held by the Billy Rose Theatre Division, [[New York Public Library for the Performing Arts]]
+*{{NYPL Digital Gallery keyword|Ruth Draper}}
+* [https://archive.org/stream/artofruthdraperh000960mbp/artofruthdraperh000960mbp_djvu.txt Morton Dauwen Zabel]: ''The Art of Ruth Draper. Her Dramas and Characters.'' With a Memoir. [[Doubleday (publisher)|Doubleday]], [[Garden City, New York|Garden City]] 1960, at [[archive.org]]
+* [https://www.britannica.com/biography/Ruth-Draper 2 photographs,] [[Encyclopædia Britannica]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Draper, Ruth}}
+[[Category:1884 births]]
+[[Category:1956 deaths]]
+[[Category:American stage actresses]]
+[[Category:People from Manhattan]]
+[[Category:Honorary Commanders of the Order of the British Empire]]
+[[Category:People from Brattleboro, Vermont]]
+[[Category:Actresses from New York City]]
+[[Category:Actresses from Vermont]]
+[[Category:Writers from New York City]]
+[[Category:Writers from Vermont]]
+[[Category:20th-century American actresses]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:People from Islesboro, Maine]]</text>
+      <sha1>oqj6uknqb2tjx4x47exid8ocbmclbm3</sha1>
+    </revision>
+  </page>
+</mediawiki>

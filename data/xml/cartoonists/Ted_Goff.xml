@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ted Goff</title>
+    <ns>0</ns>
+    <id>20003647</id>
+    <revision>
+      <id>715399716</id>
+      <parentid>609352120</parentid>
+      <timestamp>2016-04-15T15:01:46Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Ted Goff|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2268">'''Ted Goff''' is an American cartoonist who specializes in business and industrial safety cartoons.
+
+==Career==
+Goff is a cartoonist who says, "I've been drawing cartoons forever, and selling them since 1980". He specializes in drawing business and safety cartoons.
+
+==Appearances==
+The "About Me" section of Goff's website states: "My cartoons have appeared in hundreds of publications around the world, and have been used in ads, presentations, T-shirts, newsletters, textbooks and posters. Thanks to the web, I often hear from great people on every continent who need cartoons to accompany their ideas."&lt;ref name="Ted Goff"&gt;{{cite web|title=Ted Goff Business Cartoons|url=http://www.newslettercartoons.com//catalog/catalog.cgi?sid=106201111|publisher=Newsletter Cartoons|accessdate=1 January 2012}}&lt;/ref&gt; His work has appeared in print, in ''[[Harvard Business Review]], [[Saturday Evening Post|The Saturday Evening Post]], [[Wall Street Journal|The Wall Street Journal]],'' and many other publications,&lt;ref name="Ted Goff" /&gt; as well as online; "Mostly Business" is a daily business cartoon for intranets and web pages.&lt;ref&gt;{{cite web|url=http://www.dailybusinesscartoon.com/|title=Mostly Business|date=April 9, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://ltolliver2.pageout.net|title=Professor Tolliver's Teaching Gateway|accessdate=April 9, 2014}}&lt;/ref&gt;
+
+==Awards==
+In 2001, Goff received the [[National Cartoonist Society]] Silver T-Square Award, awarded by unanimous vote of the NCS Board of Directors, to persons who have demonstrated outstanding dedication or service to the Society or the profession.&lt;ref name="Ted Goff" /&gt;&lt;ref&gt;{{cite web|author=National Cartoonist Society|title=Silver T-Square Award |url=http://www.reachinformation.com/define/National%20Cartoonists%20Society.aspx| accessdate=April 9, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.reuben.org/ncs/archive/divisions/tsquare.asp |website=Reuben.org|title=NCS Awards}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web|url=http://www.newslettercartoons.com/ |website=Newsletter.cartoons.com|title=Ted Goff's website}}
+
+{{DEFAULTSORT:Goff, Ted}}
+[[Category:American cartoonists]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{US-cartoonist-stub}}</text>
+      <sha1>d3gy99j2s7pmh6l69okjqvl7bcvd0ow</sha1>
+    </revision>
+  </page>
+</mediawiki>

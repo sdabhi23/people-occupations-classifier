@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Barry Took</title>
+    <ns>0</ns>
+    <id>46821</id>
+    <revision>
+      <id>854504584</id>
+      <parentid>851464073</parentid>
+      <timestamp>2018-08-11T21:00:54Z</timestamp>
+      <contributor>
+        <username>Chris the speller</username>
+        <id>525927</id>
+      </contributor>
+      <minor/>
+      <comment>/* Career */replaced: USA → United States using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8670">{{Use dmy dates|date=December 2013}}
+{{refimprove|date=February 2013}}
+{{Infobox writer
+| name         = Barry Took
+| image        = Barry Took.jpg
+| birth_name   = 
+| birth_date   = {{birth date|1928|6|19|df=y}}
+| birth_place  = [[Wood Green]], [[north London]], England 
+| death_date   = {{death date and age|2002|3|31|1928|6|19|df=y}}
+| death_place  = 
+| occupation   = [[Screenwriter|Scriptwriter]]
+| nationality  = British
+| period       = 1957–99
+| genre        = Radio, television
+| notableworks = ''[[The Army Game]]'' (1957–61), ''[[Bootsie and Snudge]]'' (1960–64, 1974), ''[[Round the Horne]]'' (1965–67), ''[[One-Upmanship]]'' (1976–78)
+| spouse       = 
+| partner      =
+}}
+'''Barry Took''' (19 June 1928{{snd}}31 March 2002) was an English writer, television presenter and comedian. His decade and a half writing partnership with [[Marty Feldman]] led to the television series ''[[Bootsie and Snudge]]'' and the radio comedy ''[[Round the Horne]]'' and other projects.
+
+He is also remembered in the UK for presenting ''[[Points of View (TV series)|Points of View]]'', a [[BBC Television]] programme featuring viewers' letters on the [[BBC]]'s output,&lt;ref name="Stevens"&gt;{{cite book	
+|last= Stevens	
+|first= Christopher
+|title= Born Brilliant: The Life Of Kenneth Williams
+|publisher= John Murray
+|year= 2010
+|isbn = 1-84854-195-3
+|page=370
+}}&lt;!--|accessdate=4 July 2012--&gt;&lt;/ref&gt; and the [[BBC Radio 4]] programme ''[[The News Quiz]]''.
+
+==Early life and education==
+The son of a manager at the Danish Bacon Company, Took was born somewhere between the boroughs of [[Muswell Hill]]&lt;ref name=Martin&gt;{{cite news| first= Douglas |last= Martin |url= https://www.nytimes.com/2002/04/14/nyregion/barry-took-73-father-of-monty-python-dies.html |title= Barry Took, 73, Father of Monty Python, Dies| work= [[The New York Times]]| date= 14 April 2002| accessdate= 1 May 2015}}&lt;/ref&gt; and [[Wood Green]],&lt;ref name=Scotsman /&gt; [[north London]] and brought up there during the war, running away from the home in [[Wisbech]] to which he had been evacuated.&lt;ref name="Telegraph"&gt;[https://www.telegraph.co.uk/news/obituaries/1389535/Barry-Took.html Obituary: Barry Took], telegraph.co.uk, 2 April 2002&lt;/ref&gt; He attended [[Stationers' Company's School|Stationers School]]&lt;ref&gt;{{Cite web | last =Gifford | first =Dennis | title =Barry Took | work =Obituary | publisher = Independent.co.uk | date =1 April 2002 | url =https://www.independent.co.uk/news/obituaries/barry-took-729876.html | accessdate =24 November 2009 }}&lt;/ref&gt; but quit school at age 15.&lt;ref name=Martin /&gt; His older brother Philip would eventually work for the US Space Program before dying as a young man.&lt;ref name=Scotsman /&gt;
+
+==Career==
+With his limited education, Took found work as an office boy for a publisher and a cinema projectionist.&lt;ref name=Scotsman /&gt;&lt;ref name="telegraph.co.uk"/&gt; During his period of [[Conscription in the United Kingdom#After 1945|National Service]] in the [[Royal Air Force|RAF]] in which he played the trumpet,&lt;ref name=Scotsman /&gt; he began performing and later worked as a stand-up comedian, eventually becoming a West End [[revue]] performer, working on ''[[For Amusement Only]]'' and ''[[For Adults Only (revue)|For Adults Only]]''.
+
+In terms of his comedy writing, Took's best work was written in collaboration with [[Marty Feldman]], whom he first met in 1954.&lt;ref name="screenonline"&gt;John Oliver [http://www.screenonline.org.uk/people/id/532391/ "Took, Barry (1928–2002)"], BFI screenonline&lt;/ref&gt; The two men wrote for several television shows in the 1950s and '60s, including ''[[The Army Game]]'' and its spin-off ''[[Bootsie and Snudge]]''. He co-wrote ''[[Beyond Our Ken]]'' for two series (1958–59) with [[Eric Merriman]] for BBC Radio before leaving after a disagreement with his fellow writer. With [[Marty Feldman]] he wrote most episodes of ''[[Round the Horne]]''; the intermittent partnership between them continued until 1974.&lt;ref name="screenonline"/&gt;
+
+In the late 1960s Took became comedy advisor to the BBC and was responsible for bringing together the performers who formed ''[[Monty Python's Flying Circus]]'', before moving to the United States to work briefly on ''[[Rowan and Martin's Laugh In]]''.&lt;ref name="telegraph.co.uk"/&gt; He returned to the UK in early 1970, was involved in setting up the BBC series ''[[The Goodies (TV series)|The Goodies]]'', although he had returned to take up the position of Head of Light Entertainment at [[London Weekend Television]]. He resigned from this position when [[Stella Richman]], his superior and the Director of Programming, was dismissed.&lt;ref name="Telegraph"/&gt; ''[[On the Move (TV series)|On the Move]]'' (1975–76), a programme linked to a national campaign to promote adult literacy, was written by Took and featured [[Bob Hoskins]] and Donald Gee. He was involved in two further television series on the issue, ''Your Move'' and ''Write Away''.&lt;ref name="telegraph.co.uk"&gt;{{cite news| url= https://www.telegraph.co.uk/news/obituaries/1389535/Barry-Took.html| work= The Telegraph | title= Barry Took| date= 2 Apr 2002 | accessdate= 1 May 2015}}&lt;/ref&gt;
+
+In 1977 Took hosted his own comedy sketch show, ''Took and Co''. Also featuring [[Robin Bailey]], [[Chris Emmett]], [[Andrew Sachs]] and [[Gwen Taylor]], the series ran for seven episodes late at night on [[ITV (TV network)|ITV]].
+
+In 1979 he became chairman of ''[[The News Quiz]]'' on [[BBC Radio 4]], a role he filled until 1981 and again from 1986 to 1995. In the same year he became a presenter of ''[[Points of View (TV series)|Points of View]]'', staying with the programme for 7½ years.&lt;ref name="telegraph.co.uk"/&gt;
+
+Took also hosted the [[BBC Radio 2]] comedy panel game ''The Impressionists'', which included [[Peter Goodwright]], [[Roger Kitter]], [[David Jason]] and Dave Evans and, in 1998, the single-season revival of ''[[Twenty Questions]]'' titled ''Guess What?''.
+
+He had seven books published, including his autobiography and several histories of comedy.&lt;ref name="telegraph.co.uk"/&gt; He also wrote [[Kenneth Williams]]'s life story for the ''[[Oxford Dictionary of National Biography]]'' in 1996.&lt;ref name="Stevens"/&gt;
+
+==Personal life and final years==
+During his time with the Royal Air Force he met his first wife, Dorothy "Dot" Bird, who was serving in the [[Women's Royal Air Force]].&lt;ref name=Martin /&gt; They married in 1950&lt;ref name="Telegraph"/&gt; and had three children (Barry, Susan and David), but were later divorced. In 1964&lt;ref name=Scotsman&gt;[http://www.scotsman.com/news/obituaries/barry-took-1-500864 "Barry Took"], ''The Scotsman'', 1 April 2002&lt;/ref&gt; he married Lynden "Lyn" Leonard, this second marriage resulting in a daughter named Elinor. The couple separated in 1999&lt;ref name="Purser"&gt;{{cite news| first= Philip |last= Purser |url= https://www.theguardian.com/media/2002/apr/01/broadcasting.guardianobituaries |title= Obituary: Barry Took| work= [[The Guardian]]| date= 1 April 2002}}&lt;/ref&gt; and eventually divorced.&lt;ref name=Martin /&gt; Took went through a phase of drinking heavily.&lt;ref name= Scotsman /&gt; He also spoke publicly about his experiences with depression and undergoing extensive psychotherapy for several years.&lt;ref name=Martin /&gt;&lt;ref name= Scotsman /&gt;
+
+After suffering from bladder cancer for a period during the 1970s,&lt;ref name=Scotsman /&gt; in 1999 he was diagnosed with cancer of the oesophagus,&lt;ref name="Purser"/&gt; and suffered a stroke four weeks after undergoing major surgery.&lt;ref&gt;{{cite news| url= http://news.bbc.co.uk/1/hi/entertainment/1903971.stm |title= Comedian Barry Took dies| publisher= BBC News| date= 31 March 2002}}&lt;/ref&gt; He died at age 73 on Easter Sunday, 2002 in a nursing home in [[London Borough of Enfield|Enfield]], [[Middlesex]].&lt;ref&gt;[http://www.findmypast.com/BirthsMarriagesDeaths.jsp Deaths England and Wales 1984–2006]&lt;/ref&gt;
+
+==Autobiography==
+*''A Point of View'' (1990)
+
+==References==
+{{Reflist|40em}}
+
+==External links==
+* {{IMDb name|0867458|Barry Took}}
+*[http://www.comedy-zone.net/standup/comedian/t/took-barry.htm Barry Took] – Comedy Zone
+*[http://news.bbc.co.uk/hi/english/entertainment/tv_and_radio/newsid_1903000/1903696.stm BBC News article reporting his death]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Took, Barry}}
+[[Category:1928 births]]
+[[Category:2002 deaths]]
+[[Category:Deaths from cancer in England]]
+[[Category:English male comedians]]
+[[Category:English radio personalities]]
+[[Category:English radio writers]]
+[[Category:English television personalities]]
+[[Category:People from Muswell Hill]]
+[[Category:People from Wisbech]]
+[[Category:People from Wood Green]]
+[[Category:People educated at the Stationers' Company's School]]</text>
+      <sha1>cgydm55qj0ddx807i7d3qqlkh2rnbw1</sha1>
+    </revision>
+  </page>
+</mediawiki>

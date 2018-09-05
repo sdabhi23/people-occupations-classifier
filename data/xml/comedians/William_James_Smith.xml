@@ -1,0 +1,225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Will Smith (comedian)</title>
+    <ns>0</ns>
+    <id>7562438</id>
+    <revision>
+      <id>848300796</id>
+      <parentid>844808323</parentid>
+      <timestamp>2018-07-01T02:48:07Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13412">{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox person
+| name = Will Smith
+| image = http://www.comedycv.co.uk/willsmith/will-smith-2011-march.jpg
+| birth_name  = William James Smith
+| birth_date  = {{birth date and age|1971|6|8|df=y}}&lt;ref&gt;{{cite web|url=http://id.loc.gov/authorities/names/nb2007010621.html |title=Smith, Will, 1971- - LC Linked Data Service &amp;#124; Library of Congress |publisher=Id.loc.gov |date= |accessdate=2017-03-30}}&lt;/ref&gt;
+| birth_place = [[Winchester]], [[Hampshire]], [[England]]
+| nationality =  British
+| years_active  = 1996–present
+| known_for   = TV, film and radio comedy
+| occupation  = Actor, screenwriter, stand-up comedian, novelist, producer
+}}
+'''William James Smith''' (born 8 June 1971) is an English stand-up comedian, screenwriter, novelist, actor and producer.
+
+As co-writer and co-producer of the [[HBO]] sitcom ''[[Veep (TV series)|Veep]]'', he was among the recipients of two [[Emmy Award|Emmy]]s and two [[Writers Guild of America Award]]s, and has received nominations for the [[Golden Globe Award]] and the [[Producers Guild of America Award for Best Episodic Comedy]].&lt;ref name="emmys"&gt;{{cite web|url=http://www.emmys.com/awards/nominees-winners/2015/outstanding-comedy-series|publisher=emmys.com|title=Nominees/Winners &amp;#124; Television Academy|accessdate=9 September 2016}}  {{cite web|url=http://www.emmys.com/awards/nominees-winners/2016/outstanding-comedy-series|publisher=emmys.com|title=Nominees/Winners &amp;#124; Television Academy|accessdate=21 September 2016}}&lt;/ref&gt;&lt;ref name="goldenglobes"&gt;{{cite web|url=http://www.goldenglobes.com/tv-show/veep|publisher=goldenglobes.com|title=Veep &amp;#124; Golden Globes|accessdate=9 September 2016}}&lt;/ref&gt;&lt;ref name="wga"&gt;{{cite web|url=http://awards.wga.org/wga-awards/nominees-winners|publisher=awards.wga.org|title=2016 Writers Guild Awards Nominees|accessdate=9 September 2016|deadurl=bot: unknown|archiveurl=https://web.archive.org/web/20171018003632/http://awards.wga.org/wga-awards/nominees-winners|archivedate=18 October 2017|df=dmy-all}}&lt;/ref&gt;&lt;ref name="hollywoodreporter"&gt;{{cite web|url=http://www.hollywoodreporter.com/lists/2016-pga-nominations-complete-list-856980/item/outstanding-producer-episodic-television-comedy-856974|publisher=hollywoodreporter.com|title=2016 PGA Nominations (Complete List) &amp;#124; Hollywood Reporter|accessdate=9 September 2016}}
+{{cite web|url=
+http://www.hollywoodreporter.com/lists/2017-pga-award-nominations-960097/item/danny-thomas-award-outstanding-producer-episodic-television-comedy-2017-pga-nominations-960092 |publisher=hollywoodreporter.com|title=2017 PGA Nominations (Complete List) &amp;#124; Hollywood Reporter|accessdate=12 November 2017}}
+&lt;/ref&gt;
+
+==Early life and education==
+Though born in [[Winchester]], [[Hampshire]],&lt;ref&gt;[https://www.independent.co.uk/arts-entertainment/books/features/will-smiths-new-book-mainlander-john-le-carr-meets-middlemarch-10037021.html ] {{webarchive |url=https://web.archive.org/web/20150211051847/http://www.independent.co.uk/arts-entertainment/books/features/will-smiths-new-book-mainlander-john-le-carr-meets-middlemarch-10037021.html |date=11 February 2015 }}&lt;/ref&gt; Smith grew up in Jersey and was educated there at [[Victoria College, Jersey|Victoria College]]. His brother is the TV presenter and wine critic [[Olly Smith]].&lt;ref&gt;{{cite web|url=https://twitter.com/jollyolly/status/63616733273014272 |title=Twitter / jollyolly: @tvpeanuts Yes I am related |publisher=Twitter.com |date= |accessdate=11 October 2012}}&lt;/ref&gt;
+
+==Stand up comedy==
+Smith started his career in [[stand-up comedy]], winning awards including [[Chortle Awards|Chortle Best Headliner 2005]] and [[Time Out Comedy Awards|Time Out Comedy 2004]].&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/comics/w/76/will_smith |title=Will Smith on : Chortle : The UK Comedy Guide |publisher=Chortle |date= |accessdate=11 October 2012}}&lt;/ref&gt; One critic called him 'the [[Hugh Grant]] of comedy',&lt;ref name="independent1"&gt;{{cite news|url=https://www.independent.co.uk/arts-entertainment/books/features/will-smiths-new-book-mainlander-john-le-carr-meets-middlemarch-10037021.html |title=Will Smith's New Book: John Le Carre Meets Middlemarch |publisher=Independent |date= |accessdate=10 March 2015}}&lt;/ref&gt; and he appeared in ''[[The 11 O'Clock Show]]'' with [[Sacha Baron Cohen]] and [[Ricky Gervais]] as the character 'Posh Boy'.&lt;ref&gt;{{cite web|url=https://www.imdb.com/title/tt0224452/fullcredits/|title=The 11 O'Clock Show (1998–2000) : Full Cast &amp; Crew|publisher=IMDb.com|accessdate=25 November 2015}}&lt;/ref&gt; He took solo shows to the [[Edinburgh Fringe Festival]] every year from 2003 to 2006: "Will Smith Is Much Obliged", "Misplaced Childhood" (inspired by his love of the rock band [[Marillion]] and [[Misplaced Childhood|their 1985 album of the same name]]),&lt;ref&gt;{{cite web | url= http://www.getreadytorock.com/bstage_heroes/will_smith.htm | title= Interview: Will Smith | publisher=Get Ready to Rock | first=Jason | last=Ritchie | accessdate=8 August 2014}}&lt;/ref&gt; "Ten Arguments I Should Have Won",&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/shows/edinburgh_fringe_2004/w/1295/will_smith%3A_10_arguments_i_should_have_won/review?id_review=1295 |title=Will Smith: 10 Arguments I Should Have Won' review : Chortle : The UK Comedy Guide |publisher=Chortle |date= |accessdate=11 October 2012}}&lt;/ref&gt; and "How To Be Cool".&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/shows/edinburgh_fringe_2006/w/14893/will_smith%3A_how_to_be_cool/review?id_review=14893 |title=Will Smith: How To Be Cool' review : Chortle : The UK Comedy Guide |publisher=Chortle |date= |accessdate=11 October 2012}}&lt;/ref&gt;
+Smith supported Gervais on his record-breaking sell-out [[Fame (2007 film)|2007 "Fame" tour]], and supported [[Ardal O'Hanlon]] and [[Johnny Vegas]] on national tours.
+
+==Television==
+With [[Armando Iannucci]] and [[Roger Drew]] he devised BBC future comedy ''[[Time Trumpet]]'', six episodes that screened in 2006.&lt;ref&gt;{{cite web |url=http://www.timetrumpet.co.uk/credits.htm |title=Credits |publisher=Time Trumpet |date= |accessdate=25 November 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20160303183253/http://www.timetrumpet.co.uk/credits.htm |archivedate=3 March 2016 |df=dmy-all }}&lt;/ref&gt;
+
+Smith is involved with both British and American [[political satire]]. He is a writer and one of the [[Television producer#Types of television producers|executive producers]] on [[HBO]]'s [[Emmy Award|Emmy]]-winning [[sitcom]] ''[[Veep (TV series)|Veep]]'', starring [[Julia Louis-Dreyfus]].&lt;ref name="theguardian1"&gt;{{cite web|author=Will Smith |url=https://www.theguardian.com/books/2015/feb/21/will-smith-screenwriter-turns-novelist |title=A screenwriter turns novelist, looking for less interference and fewer turkeys &amp;#124; Books |publisher=The Guardian |date= |accessdate=25 November 2015}}&lt;/ref&gt; He wrote or co-wrote the Veep episodes: Chung (Season 1); Midterms, Running (Season 2); Some New Beginnings, Fishing (Season 3); Storms and Pancakes, Testimony (Season 4); Thanksgiving, C**tgate (Season 5){{citation needed|date=May 2016}}. Smith also wrote on the [[BAFTA]]-winning BBC political comedy ''[[The Thick of It]]''. He was the only writer on the programme who acted in it – as MP Peter Mannion's inept adviser, ''[[Lord of the Rings]]''-obsessive Phil Smith. He also has a [[cameo role]] in the closing credits of ''[[In the Loop]]'', the Anglo-American film spin-off.
+
+He is also a writer on the sitcom ''[[Damned (TV series)]]'' and contributed additional material to ''Back'', both airing on Channel 4.{{cn|date=November 2017}}
+
+==Books==
+Comedy books by Smith include ''How To Be Cool''&lt;ref&gt;{{cite web|url=https://www.amazon.co.uk/How-Be-Cool-Social-Blunders/dp/0719524903 |title=How to Be Cool: Make Social Blunders a Thing of the Past!: Amazon.co.uk: Will Smith: Books |publisher=Amazon.co.uk |date= |accessdate=11 October 2012}}&lt;/ref&gt; ([[Harry Enfield]] said of it 'Will Smith is the coolest guy in the world (if uncool is the new cool) – he's also terrifically funny'), and ''The Joy of No Sex'', published by [[Penguin Group|Penguin]],&lt;ref&gt;{{cite book|url=https://www.amazon.co.uk/dp/0718148371 |title=The Joy of No Sex: A Guide to Life Without Lovemaking: Amazon.co.uk: Will Smith, Roger Drew |isbn=9780718148379 |publisher=Amazon.co.uk |date= |accessdate=25 November 2015}}&lt;/ref&gt; a parody of ''[[The Joy of Sex]]''.
+
+Smith writes for various publications, including the magazine ''[[Intelligent Life (magazine)|Intelligent Life]]'', in which he learns something new for each issue. Articles have included banjo-playing, ice-sculpting, circus skills and making a [[soufflé]].&lt;ref&gt;{{cite web|url=http://www.moreintelligentlife.com/content/will-smith-learns-do-something-new-this-issue-the-banjo |accessdate=8 October 2008 }}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+
+In 2015 Smith published his first novel, ''Mainlander'' (4th Estate, a division of [[HarperCollins]]),&lt;ref&gt;{{cite book|author=Will Smith |url=https://www.amazon.co.uk/Mainlander-Will-Smith/dp/0007594267 |title=Mainlander |isbn=9780007594269 |publisher=Amazon.co.uk |date= |accessdate=25 November 2015}}&lt;/ref&gt; a thriller about a schoolboy who goes missing on Jersey. ''[[The Independent]]'' described it as '[[John le Carré]] meets [[Middlemarch]]',&lt;ref name="independent1"/&gt; and [[ShortList]] called it a 'knockout'.&lt;ref&gt;{{cite web|url=http://www.shortlist.com/entertainment/books/the-shortread-will-smith |title=The ShortRead: Will Smith &amp;#124; ShortList Magazine |publisher=Shortlist.com |date= |accessdate=25 November 2015}}&lt;/ref&gt; The ''[[Daily Mail]]'' also gave it a positive review, hailing it as 'a proper work of fiction... A carefully worked plot, seen through the viewpoints of a clutch of cast members, builds nicely to a satisfying climax.'&lt;ref&gt;{{cite web|last=Ritchie |first=Harry |url=http://www.dailymail.co.uk/home/books/article-2960581/LITERARY-FICTION.html#ixzz3U4lpKk9b |title=LITERARY FICTION &amp;#124; Daily Mail Online |publisher=Dailymail.co.uk |date=19 February 2015 |accessdate=25 November 2015}}&lt;/ref&gt;
+
+Smith reflects on the difference between writing for television and writing a novel in ''[[The Guardian]]''. "The chain from author to reader is short and simple – agent, editor, proofreader, shop/website. In TV, the script will have to be signed off by producers, executive producers, genre commissioners and channel commissioners, and that’s still only a starting point". He cites as his influences [[John Cleese]] and [[Stephen Fry]], as well as [[Charlotte Bronte]] and [[George Eliot]].&lt;ref name="theguardian1"/&gt;
+
+==Radio==
+Smith appears on [[BBC Radio 4]], both as a guest in comedy [[panel show]]s, as well as in his own shows.
+* ''[[Armando Iannucci's Charm Offensive]]''
+* ''[[Banter (radio show)|Banter]]'' (2002, 2007)
+* ''[[The Personality Test]]'' (2003–09)&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/people/VGVmL25hbWUvc21pdGgsIHdpbGwgKGNvbWVkaWFuKQ|title=BBC – Programmes – Categorised as will smith|accessdate=18 April 2009}}&lt;/ref&gt;
+* ''[[Will Smith Presents the Tao of Bergerac]]'' (2007), based on [[Bergerac (TV series)|the 1980s TV series set on Jersey]]. Released as a BBC Audio CD in 2008.&lt;ref&gt;{{cite book|author=Will Smith |url=https://www.amazon.co.uk/dp/1405677422 |title=Will Smith Presents: The Tao of Bergerac (BBC Audio) |isbn=9781405677424 |publisher=Amazon.co.uk |date= |accessdate=25 November 2015}}&lt;/ref&gt;
+* ''Will Smith's Midlife Crisis Management'' (2005)
+* ''[[It's Your Round]]'' (2011)
+* ''[[Mr. &amp; Mrs. Smith (radio)|Mr and Mrs Smith]]'' (2012) Sitcom about a couple in marriage counselling.&lt;ref&gt;{{cite web|author=|url=http://www.bbc.co.uk/programmes/b01bgnxm |title=BBC Radio 4 – Mr and Mrs Smith |publisher=Bbc.co.uk |date=21 February 2012 |accessdate=11 October 2012}}&lt;/ref&gt;
+
+==Credits==
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1997
+| ''[[The 11 O'Clock Show]]''
+|
+|
+|-
+| 2000
+| ''[[Time Gentlemen Please]]''
+|
+|
+|-
+| 2003
+| ''[[Gash (TV series)|Gash]]''
+|
+|
+|-
+| 2004
+| ''[[A Wife For William]]''
+|
+|
+|-
+| 2005
+| ''[[The Comic Side of 7 Days]]''
+|
+|
+|-
+| 2005
+| ''Back in the Day''
+|
+|
+|-
+| 2006
+| ''[[The Charlotte Church Show]]''
+|
+|
+|-
+| 2006
+| ''[[Never Mind the Buzzcocks]]''
+|
+|
+|-
+| 2006–2012
+| ''[[The Thick of It]]''
+| [[List of The Thick of It characters#Her Majesty's Most Loyal Opposition|Phil Smith]]
+| 2006, one-hour special in 2007, 2009, 2012
+|-
+| 2007
+| ''The C Word''
+|The euphemism for "[[Cunt#Television|cunt]]", not "cancer"
+|
+|-
+| 2007
+| ''[[The Late Edition]]''
+|
+|
+|-
+| 2008
+| ''For One Night Only''
+|
+|
+|-
+| 2009
+| ''[[Argumental]]''
+|
+| 2 guest appearances
+|-
+| 2011
+| ''[[Comedy Lab]]''
+| Tony
+| Season 12, Episode 5
+|-
+| 2012
+| ''[[Have I Got News for You]]''
+|
+|
+|-
+| 2012
+| ''[[Dead Boss]]''
+| Governor Gorey
+| Season 1, Episode 6
+|}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* {{IMDb name|id=0810337|name=Will Smith}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Will}}
+[[Category:1971 births]]
+[[Category:Jersey comedians]]
+[[Category:British stand-up comedians]]
+[[Category:Living people]]
+[[Category:Male actors from Hampshire]]
+[[Category:Jersey screenwriters]]
+[[Category:People educated at Victoria College, Jersey]]
+[[Category:People from Winchester]]
+[[Category:Jersey male actors]]
+[[Category:British male television actors]]</text>
+      <sha1>pdf3rta57mzgyt31r5p2gg9rrq5jbv7</sha1>
+    </revision>
+  </page>
+</mediawiki>

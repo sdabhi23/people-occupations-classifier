@@ -1,0 +1,395 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rajiv Gandhi</title>
+    <ns>0</ns>
+    <id>26129</id>
+    <revision>
+      <id>855989229</id>
+      <parentid>855600345</parentid>
+      <timestamp>2018-08-22T05:16:45Z</timestamp>
+      <contributor>
+        <username>Vikramkkl</username>
+        <id>32878625</id>
+      </contributor>
+      <comment>Added Bharat Ratna Tag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="70649">{{about|the politician|other uses of the name}}
+{{Use Indian English|date=December 2015}}
+{{Use dmy dates|date=March 2014}}
+{{Infobox officeholder
+| name = Rajiv Gandhi
+| honorific-suffix = {{post-nominals|size=100|list=[[Bharat Ratna|BR]]}}
+| honorific-prefix = [[The Honorable]]
+| office = [[List of Prime Ministers of India|7th Prime Minister of India]]
+| native_name = 
+| image = File:Rajiv Gandhi (1987).jpg
+| alt = 
+| caption = 
+| predecessor = [[Indira Gandhi]]
+| president = [[Zail Singh]]&lt;br&gt;[[R. Venkataraman]]
+| successor = [[V. P. Singh]]
+| office2 = [[President of the Indian National Congress]]
+| predecessor2 = [[Indira Gandhi]]
+| successor2 = [[P. V. Narasimha Rao]]
+| party = [[Indian National Congress]]
+| office1 = [[Leader of the Opposition (India)|Leader of the Opposition]]
+| predecessor1 = ''Vacant''
+| primeminister1 = V. P. Singh
+| successor1 = [[L. K. Advani]]
+| birth_name = Rajiv Ratna Gandhi
+| birth_date = 20 August 1944
+| birth_place = [[Bombay]], [[Bombay Presidency]], [[British India]]
+| death_date = {{death date and age|1991|5|21|1944|8|20|df=yes}}
+| death_place = [[Sriperumbudur]], [[Tamil Nadu]], [[India]]
+| death_cause = [[Assassination of Rajiv Gandhi|Assassination]]
+| resting_place = [[Raj Ghat and associated memorials|Veer Bhumi]]
+| spouse = {{marriage|[[Sonia Gandhi]]|1968}}
+| children = {{hlist|[[Rahul Gandhi|Rahul]]|[[Priyanka Gandhi|Priyanka]]}}
+| parents = [[Feroze Gandhi]]&lt;br&gt;[[Indira Gandhi]]
+| alma_mater = [[Trinity College, Cambridge]]&lt;br&gt;[[Imperial College London]]
+| profession = {{hlist|Aircraft pilot|Politician}}
+| relations = ''See [[Nehru–Gandhi family]]''
+| awards = [[Bharat Ratna]] (1991)
+| term_start = 31 October 1984
+| term_end = 2 December 1989
+| term_start1 = 18 December 1989
+| term_end1 = 23 December 1990
+| term_start2 = 1985
+| term_end2 = 1991
+| office3 = Member of [[Lok Sabha|Parliament]]&lt;br&gt;for [[Amethi (Lok Sabha constituency)|Amethi]]
+| term_start3 = 17 August 1981
+| term_end3 = 21 May 1991
+| predecessor3 = [[Sanjay Gandhi]]
+| successor3 = [[Satish Sharma]]
+}}
+'''Rajiv Ratna Gandhi''' ({{IPAc-en|ˈ|r|ɑː|dʒ|iː|v|_|ˈ|ɡ|ɑː|n|d|iː|audio=Hi-RajivGandhi.ogg}}; 20 August 1944 – 21 May 1991) was an Indian politician who served as the 7th [[List of Prime Ministers of India|Prime Minister of India]] from 1984 to 1989. He took office after the [[Assassination of Indira Gandhi|1984 assassination]] of his mother, Prime Minister [[Indira Gandhi]], to become the youngest Indian Prime Minister at the age of 40.
+
+Gandhi was a [[lineal descendant|scion]] of the politically powerful [[Nehru–Gandhi family]], which had been associated with the [[Indian National Congress]] party. For much of his childhood, his maternal grandfather [[Jawaharlal Nehru]] was Prime Minister. Gandhi attended college in the United Kingdom. He returned to India in 1966 and became a professional pilot for the state-owned [[Indian Airlines]]. In 1968 he married [[Sonia Gandhi]]; the couple settled in Delhi to a domestic life with their children [[Rahul Gandhi]] and [[Priyanka Gandhi Vadra]]. For much of the 1970s, his mother [[Indira Gandhi]] was prime minister and his brother [[Sanjay Gandhi]] (earlier Sanjay) an MP; despite this, Rajiv Gandhi remained apolitical. After Sanjay's death in an aeroplane crash in 1980, Gandhi reluctantly entered politics at the behest of Indira. The following year he won his brother's Parliamentary seat of [[Amethi (Lok Sabha constituency)|Amethi]] and became a member of the [[Lok Sabha]]—the lower house of [[Parliament of India|India's Parliament]]. As part of his political grooming, Rajiv was made a general secretary of the Congress party and given significant responsibility in organising the [[1982 Asian Games]].
+
+On the morning of 31 October 1984, his mother was assassinated by two of her bodyguards; later that day, Gandhi was appointed Prime Minister. His leadership was tested over the next few days as organised mobs [[1984 anti-Sikh riots|rioted against the Sikh community]], resulting in riots in Delhi. That December, an [[Indian general election, 1984|almost nationwide sympathy vote]] for the Congress party helped it win the largest Lok Sabha majority to date, 411 seats out of 542. Rajiv Gandhi's period in office was mired in controversies; perhaps the greatest crises were the [[Bhopal disaster]] and the [[Shah Bano case]]. In 1988 he reversed the [[1988 Maldives Coup|coup in Maldives]], antagonising militant Tamil groups such as [[People's Liberation Organisation of Tamil Eelam|PLOTE]], intervening and then sending [[Indian Peace Keeping Force|peacekeeping]] troops to Sri Lanka in 1987, leading to open conflict with the [[Liberation Tigers of Tamil Eelam]] (LTTE). In mid-1987 the [[Bofors scandal]] damaged his corruption-free image and resulted in a major defeat for his party in the [[Indian general election, 1989|1989 election]].
+
+Gandhi remained [[Congress President]] until the [[Indian general election, 1991|elections in 1991]]. While campaigning for the elections, [[Assassination of Rajiv Gandhi|he was assassinated]] by a suicide bomber from the LTTE. His widow Sonia became the president of the Congress party in 1998 and led the party to victory in the 2004 and 2009 parliamentary elections. His son Rahul is a Member of Parliament and the current President of Indian National Congress. In 1991 the Indian government posthumously awarded Gandhi the [[Bharat Ratna]], the country's highest civilian award. At the India Leadership Conclave in 2009, the ''Revolutionary Leader of Modern India'' award was conferred posthumously on Gandhi.&lt;ref&gt;{{Cite news|title = Special award bestowed on Rajiv Gandhi|url = http://www.thehindu.com/todays-paper/tp-national/special-award-bestowed-on-rajiv-gandhi/article192344.ece|newspaper = The Hindu|date = 2009-09-27}}&lt;/ref&gt;
+
+==Early life and career==
+[[File:Indira Gandhi, Jawaharlal Nehru, Rajiv Gandhi and Sanjay Gandhi.jpg|thumb|upright|[[Indira Gandhi]], [[Jawaharlal Nehru]], Rajiv Gandhi and [[Sanjay Gandhi]]]]
+Rajiv Gandhi was born in [[Bombay]] on 20 August 1944 to [[Indira Gandhi|Indira]] and [[Feroze Gandhi]]. In 1951, Rajiv and Sanjay were admitted to Shiv Niketan school, where the teachers said Rajiv was shy and introverted, and  "greatly enjoyed painting and drawing".&lt;ref&gt;Chand p. 34&lt;/ref&gt;  He was admitted to the [[Welham Boys' School]] and [[Doon School]] in 1954, where Sanjay joined him two years later.&lt;ref&gt;Agarwal, p. 17&lt;/ref&gt; Rajiv was sent to London in 1961 to study [[A-level]]s. From 1962 to 1965 he studied engineering at [[Trinity College, Cambridge]], but did not obtain a degree.&lt;ref&gt;{{cite web|title=Rahul first in three generations with a world university degree|url=http://www.tribuneindia.com/2014/20140218/main6.htm|publisher=Tribune India|accessdate=18 May 2015}}&lt;/ref&gt; In 1966 he began a course in mechanical engineering at [[Imperial College London]], but did not complete it. Gandhi really was not interested in 'mugging for his exams', as he went on to admit later.&lt;ref&gt;'GANDHI, Rajiv', Who Was Who, A &amp; C Black, an imprint of Bloomsbury Publishing plc, 1920–2016; online edn, Oxford University Press, 2014; online edn, April 2014 [http://www.ukwhoswho.com/view/article/oupww/whowaswho/U172595 accessed 2 April 2017]&lt;/ref&gt;
+
+Gandhi returned to India in 1966, the year his mother became Prime Minister. He went to Delhi and became a member of the Flying Club, where he was trained as a pilot. In 1970, he was employed as a pilot by [[Air India]]; unlike Sanjay, he did not exhibit any interest of joining politics.&lt;ref&gt;Agarwal, p. 18&lt;/ref&gt; In 1968, after three years of courtship, he married [[Sonia Gandhi|Edvige Antonia Albina Màino]], who changed her name to Sonia Gandhi and made India her home. Their first child, a son, [[Rahul Gandhi]] was born in 1970. In 1972, the couple had a daughter, [[Priyanka Gandhi]], who married [[Robert Vadra]].&lt;ref&gt;Khan, p. 76&lt;/ref&gt;
+
+==Entry into politics==
+On 23 June 1980, Rajiv's younger brother Sanjay Gandhi died unexpectedly in an airplane crash. At that time, Rajiv Gandhi was in London as part of his foreign tour. Hearing the news, he returned to Delhi and cremated Sanjay's body.&lt;ref&gt;Agarwal, p. 20&lt;/ref&gt; As per Agarwal, in the week following Sanjay's death, Shankaracharya Swami Shri Swaroopanand, a saint from [[Badrinath]], visited the family's house to offer his condolences.&lt;ref&gt;Agarwal, p. 21&lt;/ref&gt; He advised Rajiv not to fly aeroplanes and instead "dedicate himself to the service of the nation".&lt;ref name="Meenatt"&gt;Agarwal, p. 22&lt;/ref&gt; 70 members of the Congress party signed a proposal and went to Indira, urging Rajiv to enter politics. Indira told them it was Rajiv's decision whether to enter politics. When he was questioned about it, he replied, "If my mother gets help from it, then I will enter politics".&lt;ref name="Meenatt"/&gt; Rajiv entered politics on 16 February 1981, when he addressed a national farmers' rally in Delhi.&lt;ref name="TH"&gt;Agarwal, p. 23&lt;/ref&gt; During this time, he was still an employee of Air India.&lt;ref name="Anant"&gt;{{cite book|author1=Kirusna Anant|title=India Since Independence: Making Sense of Indian Politics|publisher=Pearson Education India|isbn=9788131725672|page=257}}&lt;/ref&gt;
+
+===Participation in active politics===
+On 4 May 1981, Indira Gandhi presided over a meeting of the [[All India Congress Committee]]. [[Vasantdada Patil]] proposed Rajiv as a candidate for the [[Amethi (Lok Sabha constituency)|Amethi constituency]], which was accepted by all members at the meeting. A week later, the party officially announced his candidacy for the constituency. He then paid the party membership fees of the party and flew to [[Sultanpur, Uttar Pradesh|Sultanpur]] to file his nomination papers and completed other formalities.&lt;ref&gt;Agarwal, p. 24&lt;/ref&gt; He won the seat, defeating [[Lok Dal]] candidate [[Sharad Yadav]] by a margin of 237,000 votes.&lt;ref&gt;{{cite book|author1=Satinder Sharma, Indra Sharma|title=Rajiv Gandhi: an annotated bibliography, 1944–1982|publisher=University of Michigan|page=65}}&lt;/ref&gt; He took his oath on 17 August as [[Member of Parliament]].&lt;ref name="Anant"/&gt;
+
+Rajiv Gandhi's first political tour was to England, where he attended the wedding ceremony of [[Prince Charles]] and [[Diana, Princess of Wales|Lady Diana Spencer]] on 29 July 1981.&lt;ref name="TF"&gt;Agarwal, p. 25&lt;/ref&gt; In December the same year, he was put in charge of the [[Indian Youth Congress]].&lt;ref name="TF"/&gt; He first showed his organisational ability by "working round the clock" on the [[1982 Asian Games]].&lt;ref&gt;Chand, p. 66&lt;/ref&gt; He was one of 33 members of the Indian parliament who were part of the Games' organising committee; sports historian [[Boria Majumdar]] writes that being "son of the prime minister he had a moral and unofficial authority" over the others.&lt;ref name="Boria"&gt;{{cite book|author1=Boria Majumdar|authorlink1=Boria Majumdar|title=Olympics - The India Story|publisher=[[HarperCollins Publishers]]|isbn=9789350295090|page=74}}&lt;/ref&gt; The report submitted by the Asian Games committee mentions Gandhi's "drive, zeal and initiative" for the "outstanding success" of the games.&lt;ref name="Boria"/&gt;
+
+===Indira Gandhi's death===
+{{Main|1984 anti-Sikh riots}}
+[[File:Rajiv Gandhi meeting Russian Hare Krishna devotees in New Delhi 1989.jpg|thumb|Meeting Russian [[International Society for Krishna Consciousness|Hare Krishna]] devotees in 1989.]]
+
+On 31 October 1984, the Prime Minister, Rajiv Gandhi's mother Indira Gandhi, was assassinated by her Sikh bodyguards, which led to violent riots against Sikhs.&lt;ref name="AS"/&gt; At a Boat Club rally 19 days after the assassination, Gandhi said, "Some riots took place in the country following the murder of Indiraji. We know the people were very angry and for a few days it seemed that India had been shaken. But, when a mighty tree falls, it is only natural that the earth around it does shake a little".&lt;ref&gt;{{cite book|author1=Indu Prakash Singh|title=The aborted revolution|publisher=University of Michigan|page=235}}&lt;/ref&gt; According to Verinder Grover, the statement made by Gandhi was a "virtual justification" of the riots.&lt;ref name="AS"&gt;{{cite book|author1=Verinder Grover|title=Indian Political System: Trends and Challenges|publisher=Deep and Deep Publications|isbn=9788171008834|page=366}}&lt;/ref&gt; Congress leader [[Mani Shankar Aiyar]] wrote, "Did it constitute an incitement to mass murder?" He also criticised Gandhi for his reluctance to bring the army from [[Meerut]] to handle the mob.&lt;ref&gt;Aiyar, p. 194&lt;/ref&gt;
+
+==Prime Minister of India==
+Rajiv Gandhi was in West Bengal on 31 October 1984 when his mother, Prime Minister Indira Gandhi, was assassinated by two of her Sikh bodyguards, [[Satwant Singh]] and [[Beant Singh (assassin)|Beant Singh]], to avenge the military attack on the [[Harmandir Sahib|Golden Temple]] during [[Operation Blue Star]]. Sardar Buta Singh and President [[Zail Singh]] pressed Rajiv to succeed his mother as Prime Minister within hours of her murder. Commenting on the anti-Sikh riots in Delhi, Rajiv Gandhi said, "When a giant tree falls, the earth below shakes";&lt;ref&gt;{{cite web|url=http://www.hinduonnet.com/fline/fl1504/15040190.htm |title=Back to the dynasty |work=Frontline |publisher=Hinduonnet.com |date=6 March 1998 |accessdate=7 March 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20090110022524/http://www.hinduonnet.com/fline/fl1504/15040190.htm |archivedate=10 January 2009 }}&lt;/ref&gt; a statement for which he was widely criticised. Many Congress politicians were accused of orchestrating the violence.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/south_asia/4130962.stm |title=World &amp;#124; South Asia &amp;#124; Leaders 'incited' anti-Sikh riots|publisher=BBC News  |date=8 August 2005 |accessdate=7 March 2010}}&lt;/ref&gt;
+
+{{quote box|align=right|width=20em|quote=Indian politics got the youngest ever Prime minister in Rajiv Gandhi. This phenomenon attracted attention the world over. . . his winsome smile, charm and decency were his valuable personal assets. . . A senior opposition member, while talking to me, conceded that . . . he could not conceal his feeling that Rajiv Gandhi would be invincible for the opposition.|source= — ''[[Satyendra Narayan Sinha]]''&lt;ref&gt;{{cite book |url=https://books.google.co.in/books?id=L5bTCgLM1lYC&amp;pg=PT197&amp;dq=satyendra+narayan+rajiv+gandhi+invincible&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjo5uvtk7HKAhXlg6YKHR0AAk4Q6AEIGzAA#v=onepage&amp;q=satyendra%20narayan%20rajiv%20gandhi%20invincible&amp;f=false |title=Memorable Quotes from Rajiv Gandhi and on Rajiv Gandhi |date=2009 |last=Palanithurai |first=G |publisher= Concept Publishing Company, New Delhi |isbn= 81 8069 587 5 |accessdate= 11 January 2015 }}&lt;/ref&gt;}}
+
+Soon after assuming office, Gandhi asked President Singh to dissolve Parliament and hold fresh elections, as the Lok Sabha had completed its five-year term. Gandhi officially became the President of the Congress party, which won a landslide victory with the largest majority in history of the Indian Parliament, giving Gandhi absolute control of government. He benefited from his youth and a general perception of being free of a background in corrupt politics.&lt;ref&gt;{{cite news | work=BBC News | url = http://news.bbc.co.uk/onthisday/hi/dates/stories/december/29/newsid_3314000/3314987.stm | title =  	
+1984: Rajiv Gandhi wins landslide election victory | date=29 December 1984 | accessdate=1 September 2013 }}&lt;/ref&gt; Gandhi took his oath on 31 December 1984; at 40,  he was the youngest Prime Minister of India.&lt;ref name="oath"/&gt; Historian Meena Agarwal writes that even after taking the Prime Ministerial oath, he was a relatively unknown figure, "novice in politics" as he assumed the post after being an MP for three years.&lt;ref&gt;Agarwal, p. 28&lt;/ref&gt;
+
+===Cabinet ministers===
+{{Main|Rajiv Gandhi ministry}}
+After his swearing-in as Prime Minister, Gandhi appointed his fourteen-member cabinet. He said he would monitor their performance and would "fire ministers who do not come to the mark".{{citation needed|date=June 2015}} From the [[Third Indira Gandhi ministry]], he removed two powerful figures; Finance Minister [[Pranab Mukherjee]] and Railway Minister [[A. B. A. Ghani Khan Choudhury]]. [[Mohsina Kidwai]] became the Minister of Railways; she was the only female figure in the cabinet. Former Home Minister [[PV Narasimha Rao]] was put in charge of [[Minister of Defence (India)|defence]].&lt;ref name="oath"&gt;{{cite news|title=Rajiv Gandhi takes oath as India's prime minister|url=https://news.google.com/newspapers?nid=336&amp;dat=19841231&amp;id=sTdTAAAAIBAJ&amp;sjid=B4MDAAAAIBAJ&amp;pg=3454,6835384&amp;hl=en|accessdate=25 May 2015|publisher=The Deseret News|date=31 December 1984|page=1}}&lt;/ref&gt; [[V.P. Singh]] who was initially appointed as the [[Minister of Finance (India)|Finance Minister]], was given the Defence Ministry in 1987.&lt;ref&gt;{{cite web|title=Shri Vishwanath Pratap Singh : Biography|url=http://www.vpsingh.in/biography.html|publisher=VP Singh|accessdate=26 May 2015}}&lt;/ref&gt; During his tenure as Prime Minister, Gandhi frequently shuffled his cabinet ministers, drawing criticism from newspaper [[India Today]], which called it a "wheel of confusion". The [[West Bengal]] chief minister [[Jyoti Basu]] said, "The Cabinet change reflects the instability of the Congress (I) Government at the Centre".&lt;ref&gt;{{cite web|title=Wheel of confusion|url=http://indiatoday.intoday.in/story/whenever-in-doubt-rajiv-gandhi-plays-the-cabinet-reshuffle-card/1/329067.html|publisher=India Today|accessdate=26 May 2015}}&lt;/ref&gt;
+
+===Anti-defection law===
+Gandhi's first action as Prime Minister was passing the [[Parliamentary system|anti-defection law]] in January 1985. According to this law, an elected Member of Parliament or legislative assembly could not join an opposition party until the next election. Historian Manish Telikicherla Chary calls it a measure of curbing corruption and bribery of ministers by switching parties so they could gain majority.&lt;ref&gt;Chary, p. 129&lt;/ref&gt; Many such defections occurred during the 1980s as elected leaders of the Congress party joined opposition parties.&lt;ref&gt;{{cite web|title=Provisions of Anti-Defection Law in India|url=http://www.elections.in/political-corner/provisions-of-anti-defection-law-in-india/|publisher=Elections|accessdate=26 May 2015}}&lt;/ref&gt;
+
+===Shah Bano case===
+{{Main|Shah Bano case}}
+
+In 1985, the [[Supreme Court of India]] ruled in favour of Muslim divorcee [[Shah Bano]], declaring that her husband should give her [[alimony]]. Some Indian Muslims treated it as an encroachment upon [[Muslim Personal Law]] and protested against it. Gandhi agreed to their demands.&lt;ref&gt;{{cite web|url=http://homepages.uc.edu/thro/shahbano/sb-rajiv.htm |title=Shah Bano – Rajiv Gandhi |publisher=Homepages.uc.edu |accessdate=7 March 2010}}&lt;/ref&gt; In 1986, the Parliament of India passed [[The Muslim Women (Protection of Rights on Divorce) Act 1986]], which nullified the Supreme Court's judgment in the Shah Bano case. The Act diluted the Supreme Court judgment and allowed maintenance payments to divorced women only during the period of [[Iddah]], or until 90 days after the divorce, according to the provisions of Islamic law. This was in contrast to Section 125 of the Code.&lt;ref&gt;{{cite web|title=From Shah Bano to Salma|url=http://archive.indianexpress.com/news/from-shah-bano-to-salma/520890/0|publisher=Indian Express|accessdate=26 May 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The Shah Bano legacy|url=http://www.hindu.com/2003/08/10/stories/2003081000221500.htm|publisher=The Hindu|accessdate=26 May 2015}}&lt;/ref&gt; Indian magazine ''Business and Economics'' called it a minority appeasement by Gandhi.&lt;ref&gt;{{cite web|title=The ghost of Shah Bano|url=http://www.businessandeconomy.org/14052009/storyd.asp?sid=4364&amp;pageno=1|publisher=Business and Economy|accessdate=26 May 2015}}&lt;/ref&gt; Lawyer and former Law Minister of India, [[Ram Jethmalani]], called the Act "retrogressive obscurantism for short-term minority populism".&lt;ref name="medio"&gt;{{cite web|title=Cementing of dynastic democracy|url=http://www.sunday-guardian.com/analysis/cementing-of-dynastic-democracy|publisher=Sunday Guardian|accessdate=26 May 2015}}&lt;/ref&gt; Gandhi's colleague [[Arif Mohammad Khan]], who was then a Member of Parliament, resigned in protest.&lt;ref name=indiaafterind&gt;{{cite book|title=India Since Independence|date=1 January 2008|publisher=Penguin Books India|location=India|isbn=0143104098|page=362|url=https://books.google.com/books?id=dE9qEg-NgHMC&amp;pg=PA362&amp;lpg=PA362&amp;dq=arif+mohammad+khan+muslim+shah+bano+resigned&amp;source=bl&amp;ots=ZH1m8ZhYR9&amp;sig=x2X64kRTARgjy428EyF73KnYxV8&amp;hl=en&amp;sa=X&amp;ei=Y_NkU6KZFdOhugTPyIK4Dg&amp;ved=0CDwQ6AEwAg#v=onepage&amp;q=arif%20mohammad%20khan%20muslim%20shah%20bano%20resigned&amp;f=false|author=Bipan Chandra|authorlink1=Bipan Chandra|author2=Aditya Mukherjee |author3=Mridula Mukherjee |editor=Penguin Books India}}&lt;/ref&gt; It also became compulsory for Muslim divorced men to give money to their ex wife
+
+===Economic policy===
+[[File:Pandit Ram Kishore Shukla with Rajiv Gandhi at 7, Race course road in 1988.jpg|thumb|Prime Minister Rajiv Gandhi with [[Ram Kishore Shukla]] in 1988.]]
+
+In his election manifesto for the [[Indian general election, 1984|1984 general election]], he did not mention any economic reforms, but after assuming office he tried to liberalise the country's economy.&lt;ref name="EP"&gt;Kohli, p. 103&lt;/ref&gt; He did so by providing incentives to make private production profitable. Subsidies were given to corporate companies to increase industrial production, especially of durable goods. It was hoped this would increase economic growth and improve the quality of investment.&lt;ref&gt;Kohli, p. 102&lt;/ref&gt; But according to Professor [[Atul Kohli]] of [[Princeton University]] in a book published by Cambridge University, Gandhi faced stiff opposition from Congress leadership who thought "it would open the economy to external economic influences".&lt;ref name="EP"/&gt; Rural and tribal people protested because they saw them as "pro-rich" and "pro-city" reforms.&lt;ref name="EP"/&gt;
+
+Gandhi increased government support for science, technology and associated industries, and reduced import quotas, taxes and tariffs on technology-based industries, especially computers, airlines, defence and telecommunications. In 1986, he announced a [[National Policy on Education]] to modernise and expand higher education programs across India. In 1986, he founded the [[Jawahar Navodaya Vidyalaya]] System, which is a Central government-based education institution that provides rural populations with free residential education from grades six to twelve.&lt;ref&gt;{{cite web |url=http://www.basearticles.com/Art/65874/216/Rajiv-Gandhi-aimed-at-value-based-education-in-rural-India-through-JNVs.html | title=Rajiv Gandhi aimed at value based education in rural India through JNVs | accessdate=19 February 2011 | publisher=Pressbrief}}&lt;/ref&gt; His efforts created [[MTNL]] in 1986, and his public call offices—better known as PCOs—helped develop the telephone network in rural areas.&lt;ref&gt;{{cite web | url=http://meachq.in/html/rahul_memo.pdf | title=MTNL Letter | accessdate=19 February 2011 | date=16 September 2009}}&lt;/ref&gt; He introduced measures to significantly reduce the ''[[Licence Raj]]'' after 1990, allowing businesses and individuals to purchase capital, consumer goods and import without bureaucratic restrictions.&lt;ref name="princeton.edu"&gt;{{cite journal| url=http://www.princeton.edu/~reddings/pubpapers/ABRZ_AER_Sept2008.pdf|title=Unequal effects of Liberalisation – Dismantling the license raj in India}}&lt;/ref&gt;
+
+===Foreign policy===
+[[File:President Reagan, Nancy Reagan, Rajiv Gandhi and Sonia Gandhi in the Yellow Oval Room during a state dinner.jpg|thumb|right|President Ronald Reagan, Sonia Gandhi, First Lady Nancy Reagan and Prime Minister Rajiv Gandhi, during a state dinner for Prime Minister Gandhi. June 1985.]]
+
+According to [[Rejaul Karim Laskar]], a scholar of [[Indian foreign policy]] and an ideologue of [[Indian National Congress|Congress party]], Rajiv Gandhi's vision for a new world order was premised on [[India]]'s place in its front rank.&lt;ref name="diplomatist.com"&gt;{{cite journal|last1=Laskar|first1=Rejaul|title=Rajiv Gandhi's Diplomacy: Historic Significance and Contemporary  Relevance|journal=Extraordinary and Plenipotentiary Diplomatist|date=September 2014|volume=2|issue=9|page=46|url=http://www.diplomatist.com/dipom09y2014/article015.html|accessdate=8 March 2018}}&lt;/ref&gt; According to [[Rejaul Karim Laskar|Laskar]], the "whole gamut" of Rajiv Gandhi's [[foreign policy]] was "geared towards" making India "strong, independent, self-reliant and in the front rank of the nations of the world." &lt;ref name="diplomatist.com"/&gt; According to [[Rejaul Karim Laskar|Laskar]], Rajiv Gandhi's diplomacy was "properly calibrated" so as to be "conciliatory and accommodating when required" and "assertive when the occasion demanded." &lt;ref name="diplomatist.com"/&gt;
+
+In 1986, by request of the President of Seychelles [[France-Albert René]], Gandhi sent India's navy to [[Seychelles]] to oppose an attempted coup against René. The intervention of India averted the coup. This mission was codenamed as [[Operation Flowers are Blooming]].&lt;ref&gt;{{cite web|title=Modi to the land where India staged 'Operation Wild Flowers are Blooming'|url=http://www.aniin.com/top-story-details.php?va=MzEwMjA=|publisher=Asian News International|accessdate=26 May 2015}}&lt;/ref&gt; In 1987, India re-occupied the Quaid Post in the disputed [[Siachen]] region of the [[Indo-Pakistani border]] after winning what was termed [[Operation Rajiv]].&lt;ref&gt;{{cite web|title=1987 Siachen hero passes away|url=http://timesofindia.indiatimes.com/india/1987-Siachen-hero-passes-away/articleshow/16802705.cms|publisher=Times of India|accessdate=26 May 2015}}&lt;/ref&gt; In the [[1988 Maldives coup d'état]], the Maldives president [[Maumoon Abdul Gayoom]] asked for help from Gandhi. He dispatched 1500 soldiers and the coup was suppressed.&lt;ref&gt;Agarwal, p. 141&lt;/ref&gt;
+
+&lt;!-- Deleted image removed: [[File:Indian Prime Minister Rajiv Gandhi in US House of Representatives.jpg|thumb|Prime Minister Rajiv Gandhi gives a speech to the [[United States House of Representatives]]&lt;ref&gt;[http://commerce.wazeedigital.com/license/clip/587005_007.do]&lt;/ref&gt;]] --&gt;On Thursday, 9 June 1988, at the fifteenth special session of the [[United Nations General Assembly]], held at Headquarters, New York, Gandhi made vocal his views on a world free of nuclear weapons, to be realised through an, 'Action Plan for Ushering in a Nuclear-Weapon Free and Non-Violent World Order.'&lt;ref&gt;[http://www.thehindu.com/opinion/op-ed/rajiv-gandhi-plan-a-valuable-solution/article559548.ece Rajiv Gandhi Plan: a valuable solution]&lt;/ref&gt;&lt;ref&gt;PM Rajeev Gandhi at the Fifteenth special session of [[United Nations General Assembly]][http://fissilematerials.org/library/gan98.pdf]&lt;/ref&gt;
+
+He said:
+
+&lt;blockquote&gt;Alas, nuclear weapons are not the only weapons of mass destruction. New knowledge is being generated in the life sciences. Military applications of these developments could rapidly undermine the existing convention against the military use of biological weapons. The ambit of our concern must extend to all means of mass [[annihilation]].&lt;/blockquote&gt;
+
+This was based on his prior historic speech before the Japanese [[National Diet]] on 29 November 1985, in which he said:
+
+&lt;blockquote&gt;Let us remove the mental partitions which obstruct the ennobling vision of the human family linked together in peace and prosperity. The Buddha's message of compassion is the very condition of human survival in our age.&lt;ref&gt;Japanese [[National Diet]] on 29 November 1985 [http://www.sgiquarterly.org/global2009Oct-1.html]&lt;/ref&gt;&lt;ref&gt;[http://www.ioc.u-tokyo.ac.jp/~worldjpn/documents/indices/JPSA/index-ENG.html Documents related to Japan - South Asia Relations]&lt;/ref&gt;&lt;ref&gt;Speech by Prime Minister Rajiv Gandhi of India at the Joint Session of the Japanese Upper and Lower Houses [http://www.ioc.u-tokyo.ac.jp/~worldjpn/documents/texts/JPSA/19851129.S1J.html]&lt;/ref&gt;&lt;/blockquote&gt;
+
+The foiled bid of India recently to enter the [[Nuclear Suppliers Group]], echoed his policy of  non-proliferation to be linked to universal disarmament, which the [[World Nuclear Association]] refuses to recognise; non-proliferation being seen by India as essentially a weapon of the arms control regime, of the big nuclear powers as United States, Russia, United Kingdom, France, and China.&lt;ref&gt;[http://www.newslaundry.com/shorts/indias-nsg-bid-foiled-china-stands-tall-switzerland-backstabs/ India’s NSG bid foiled – China stands tall, Switzerland ‘backstabs’]&lt;/ref&gt;&lt;ref&gt;[http://en.dailypakistan.com.pk/pakistan/china-foils-indias-bid-to-join-nsg/ China foils India’s bid to join NSG]&lt;/ref&gt;
+
+====Pakistan====
+In February 1987, the Pakistani President [[Muhammad Zia-ul-Haq|Zia-ul-Haq]] visited Delhi, where he met Gandhi to discuss "routine military exercises of the Indian army" on the borders of [[Rajasthan]] and [[Punjab, India|Punjab]].  Gandhi reciprocated , in December 1988, by visiting [[Islamabad]] and meeting the new Prime Minister  of Pakistan, [[Benazir Bhutto]], to reaffirm the [[1972 Shimla agreement]].&lt;ref name="Sharma, p. 16"&gt;Sharma, p. 16&lt;/ref&gt;
+
+====Sri Lanka====
+{{See also|Sri Lankan civil war|Indian intervention in the Sri Lankan Civil War}}
+The [[Sri Lankan Civil War]] broke out with the [[Liberation Tigers of Tamil Eelam]] (LTTE), which was demanding an independent [[Tamil people|Tamil]] state in Sri Lanka. Gandhi discussed the matter with the Sri Lankan Prime Minister [[Ranasinghe Premadasa]] at the [[SAARC]] meeting in 1986. In that year, the Sri Lankan army blockaded the Tamil majority district of [[Jaffna District|Jaffna]]; Gandhi ordered relief supplies to be dropped into the area by parachute because the Sri Lankan navy did not allow the [[Indian Navy]] to enter.&lt;ref&gt;Sharma, p. 14&lt;/ref&gt;
+
+Gandhi signed the [[Indo-Sri Lanka Accord]] in July 1987. The accord "envisaged a devolution of power to the Tamil-majority areas", dissolved the LTTE, and designated [[Tamil language|Tamil]] as an official language of Sri Lanka.&lt;ref name="SL"/&gt; Gandhi said:
+
+&lt;blockquote&gt;The Government of India believe that, despite some problems and delays, many of which were foreseen but unavoidable in the resolution of an issue of this magnitude and complexity, this Agreement represents the only way of safeguarding legitimate Tamil interests and ensuring a durable peace in Sri Lanka. Some have chosen to criticise the Agreement. None has shown a better way of meeting the legitimate aspirations of the Tamils in Sri Lanka, restoring peace in that country and of meeting our own security concern in the region. We have accepted a role which is difficult, but which is in our national interests to discharge. We shall not shrink our obligations and commitments. This is a national endeavour.&lt;ref name="SL"&gt;Sharma, p. 15&lt;/ref&gt;&lt;/blockquote&gt;
+
+However, the LTTE refused to give up violence and used propaganda against India, threatening Tamils opposed to its cause. In 1987, Gandhi sent the [[Indian Peace Keeping Force]] (IPKF) to protect civilians and to apprehend anyone carrying arms. The IPKF was attacked by LTTE, which led to the former disarming the latter. Gandhi withdrew the IPKF in 1989.&lt;ref name="Sharma, p. 16"/&gt;
+
+====Assault by Sri Lankan guard====
+On 30 July 1987, a day after Gandhi went to Sri Lanka and signed the Indo-Sri Lanka Accord, an honour guard named [[Vijitha Rohana]] hit him on his shoulder with his rifle; Gandhi's quick reflexes saved him from injury. The guard was then dragged off by his security personnel.&lt;ref name="NIE"&gt;{{cite web|title=No regrets for attack on Rajiv, says Lankan guard|url=http://www.newindianexpress.com/world/No-regrets-for-attack-on-Rajiv-says-Lankan-guard/2013/07/30/article1708707.ece|publisher=New Indian Express|accessdate=26 May 2015}}&lt;/ref&gt;&lt;ref name="injure"/&gt; The guard said his intention was to kill Gandhi because of "the damage he had caused" to Sri Lanka. Wijemuni was imprisoned for two-and-a-half years for the assault.&lt;ref name="NIE"/&gt; Gandhi later said about the incident:
+
+&lt;blockquote&gt;When I was inspecting the guard of honour and as I walked past one person, I saw through the corner of my eye some movement. I ducked down a little bit in a reflex action. By my ducking, he missed my head and the brunt of the blow came on my shoulder below the left ear.&lt;ref name="injure"&gt;{{cite web|title=Sri Lankan in Honour Guard Attacks Gandhi|url=http://articles.latimes.com/1987-07-30/news/mn-453_1_sri-lankan|publisher=Los Angeles Times|accessdate=26 May 2015}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+===Regional issues===
+[[File:Bajaj-Polar-3.jpg|thumb|right|Rajiv Gandhi (left) congratulates Indian Army explorers for reaching the South Pole.]]
+
+====Punjab====
+Soon after assuming office, Gandhi released the leaders of the [[Akali Dal]] who had been imprisoned since 1984's Operation Blue Star during Indira Gandhi's prime ministership. He lifted the ban on [[All India Sikh Students Federation]] and filed an inquiry into the [[1984 Anti-Sikh Riots]]. He also held a closed-door meeting with senior Akali Dal leaders to find a solution to the Punjab problem. Despite Akali opposition, in January 1985, Gandhi signed the [[Rajiv-Longowal Accord]] with Akali leader HS Longowal. Punjab's state assembly election was scheduled in September 1985, but Longowal died and was replaced by [[Surjit Singh Barnala]], who formed the government. After two years, in 1987, Barnala resigned his office because of a breakdown of law and order, leading to the implementation of [[President's rule]] in the state.&lt;ref&gt;Sharma, p. 10&lt;/ref&gt;
+
+In May 1988, Gandhi launched the [[Operation Black Thunder]] to clear the Golden Temple in [[Amritsar]] of arms and gunmen. Two groups called National Security Guard and Special Action Group were created; they surrounded the temple in a 10-day siege during which the extremists' weapons were confiscated. Congress leader [[Anand Sharma]] said, "Operation Black Thunder effectively demonstrated the will of Rajiv Gandhi's government to take firm action to bring peace to Punjab".&lt;ref&gt;Sharma, p. 11&lt;/ref&gt;
+
+====Northeast India====
+Gandhi's prime-ministership marked an increase of [[Insurgency in Northeast India|insurgency in northeast India]]. [[Mizo National Front]] demanded independence for [[Mizoram]]. In 1987, Gandhi addressed this problem; Mizoram and [[Arunachal Pradesh]] were given the status of states that were earlier union territories.&lt;ref&gt;Sharma, p. 12&lt;/ref&gt; Gandhi also ended the [[Assam Movement]], which was launched by Assamese people to protest against the alleged illegal migration of Bangladeshi Muslims and immigration of other Bengalis to their state, which had reduced the Assamese to a minority there. He signed the [[Assam Accord]] on 15 August 1985. According to the accord, foreigners who came to the state between 1951 and 1961 were given full citizenship but those who arrived there between 1961 and 1971 did not get right to vote for the next ten years.&lt;ref&gt;Sharma, p. 13&lt;/ref&gt;
+
+===Technology===
+Gandhi employed former [[Rockwell International]] executive [[Sam Pitroda]] as his adviser on public information infrastructure and innovation. During Gandhi's time in office, public sector telecom companies [[MTNL]] and [[VSNL]] was developed.&lt;ref&gt;{{cite book|author1=Marcus F. Franda|title=China and India Online: Information Technology Politics and Diplomacy in the|publisher=Rowman &amp; Littlefield|isbn=9780742519466|page=137}}&lt;/ref&gt; According to Pitroda, Gandhi's ability to resist pressure from multi-national companies to abandon his plan to spread telecommunication services has been an important factor in India's development. According to news website [[Oneindia]], "About 20 years ago telephones were considered to be a thing for the use of the rich, but credit goes to Rajiv Gandhi for taking them to the rural masses".&lt;ref name="RG"&gt;{{cite web|title=Telecom revolution driving development; credit to Rajiv|url=http://www.oneindia.com/2007/01/18/telecom-revolution-driving-development-credit-to-rajiv-pitroda-1169113386.html|publisher=One India|accessdate=26 May 2015}}&lt;/ref&gt; Pitroda also said their plan to expand India's telephone network succeeded because of Gandhi's political support. According to Pitroda, by 2007 they were "adding six million phones every month".&lt;ref name="RG"/&gt; Gandhi's government also allowed the import of fully assembled motherboards, which led to the price of computers being reduced.&lt;ref name="tel"/&gt; According to some commentators,  the seed for the information technology (IT) revolution was also planted during Rajiv Gandhi's time.&lt;ref name="tel"&gt;{{cite web|title=Economic Milestone: Ushering in Telecom Reforms (1985)|url=http://forbesindia.com/article/independence-day-special/economic-milestone-ushering-in-telecom-reforms-(1985)/38441/1?utm=slidebox|publisher=Forbes India|accessdate=26 May 2015}}&lt;/ref&gt;
+
+===Bofors scandal and 1989 elections defeat===
+{{Main|Bofors scandal}}
+
+Rajiv Gandhi's finance minister, [[V. P. Singh]], uncovered compromising details about government and political corruption, to the consternation of Congress leaders. Transferred to the Defence Ministry, Singh uncovered what became known as the Bofors scandal, which involved millions of US dollars and concerned alleged payoffs by the Swedish arms company [[Bofors]] through Italian businessman and Gandhi family associate [[Ottavio Quattrocchi]], in return for Indian contracts. Upon discovering the scandal, Singh was dismissed from office and later resigned his Congress membership. Gandhi was later personally implicated in the scandal when the investigation was continued by [[Narasimhan Ram]] and Chitra Subramaniam of ''[[The Hindu]]'' newspaper, damaging his image as an honest politician. In 2004, he was posthumously cleared of this allegation.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/south_asia/3458319.stm |title=Rajiv Gandhi cleared over bribery |publisher=BBC News  |date=4 February 2004 |accessdate=7 March 2010}}&lt;/ref&gt;
+
+In his book, ''Unknown Facets of Rajiv Gandhi, Jyoti Basu and Indrajit Gupta'', released in November 2013, former [[Central Bureau of Investigation|CBI]] director Dr. A P Mukherjee wrote that Gandhi wanted commission paid by defence suppliers to be used exclusively for meeting running expenses of the Congress party.&lt;ref&gt;[http://www.indianexpress.com/news/rajiv-gandhi-told-me-to-use-arms-deal-payoffs-for-party-funds-excbi-chief/1194313/ Rajiv Gandhi told me to use arms deal payoffs for party funds: Ex-CBI chief]. Indian Express (2013-11-13). Retrieved on 2014-05-21.&lt;/ref&gt; Mukherjee said Gandhi explained his position in a meeting between the two at the Prime Minister's residence on 19 June 1989.&lt;ref&gt;{{cite news|title=Rajiv Gandhi wanted Bofors money to run Congress: Ex-CBI chief|url=http://timesofindia.indiatimes.com/india/Rajiv-Gandhi-wanted-Bofors-money-to-run-Congress-Ex-CBI-chief/articleshow/25720914.cms|newspaper=The Times of India|date=14 November 2013}}FTP ACCESS&lt;/ref&gt; In May 2015, Indian president Pranab Mukherjee said the scandal was a "media trial" as "no Indian court has as yet established it as a scandal".&lt;ref&gt;{{cite web|title=Bofors scandal more of a media trial: Pranab Mukherjee|url=http://indiatoday.intoday.in/story/bofors-scandal-more-of-a-media-trial-pranab-mukherjee/1/440281.html|publisher=India Today|accessdate=26 May 2015}}&lt;/ref&gt;
+
+Opposition parties Lok Dal, [[Indian National Congress (Socialist)]] and [[Jan Morcha]] united under Singh to form the [[Janata Dal]].&lt;ref&gt;{{cite web|title=Janata Parivar: Can 'socialist' Mulayam and co stop the Modi wave?|url=http://m.firstpost.com/politics/janata-parivar-can-socialist-mulayam-and-co-stop-the-modi-wave-1835149.html|publisher=First Post|accessdate=26 May 2015}}&lt;/ref&gt; Singh led the [[National Front (India)|National Front]] coalition to victory in [[Indian general election, 1989|1989 elections]] and he was sworn in as Prime Minister. Though the coalition won 143 seats compared to Congress's 197, it gained majority in the lower house of the parliament through outside support from the [[Bharatiya Janta Party]] under the leadership of [[Atal Bihari Vajpayee]] and [[Lal Krishna Advani]] and the left parties such as the [[Communist Party of India (Marxist)]] and the [[Communist Party of India]].&lt;ref&gt;{{cite web|title=History of Lok Sabha elections|url=http://www.smetimes.in/smetimes/general-elections-2009/miscellaneous/2009/Mar/23/history-of-lok-sabha-elections5584.html|publisher=SME Times|accessdate=26 May 2015}}&lt;/ref&gt; Eminent lawyer and politician, former [[Ministry of Law and Justice (India)|Law Minister of India]] [[Ram Jethmalani]] said that as Prime Minister, Gandhi was "lacklustre and mediocre".&lt;ref name="medio"/&gt;
+
+==Later years==
+
+===Allegations of black money===
+In November 1991, ''[[Schweizer Illustrierte]]'' magazine published an article on [[black money]] held in secret accounts by [[Imelda Marcos]] and 14 other rulers of Third World countries. Citing [[McKinsey &amp; Company|McKinsey]] as a source, the article stated that Rajiv Gandhi held 2.5 billion [[Swiss franc]]s in secret Indian accounts in Switzerland.&lt;ref name="jethmalani"&gt;{{cite web |last=Jethmalani | first=Ram |url=http://indiatoday.intoday.in/story/dacoits+have+looted+india/1/123602.html|title=Dacoits have looted India|date=17 December 2010|publisher=India Today|accessdate=30 December 2011}}&lt;/ref&gt;&lt;ref name="Gisler 38–41"&gt;{{cite journal |last=Gisler|first=Daniela|date=11 November 1991|title=Fluchtgelder – Die Schweizer Konten der Diktatoren|trans-title=Flight capital – the Swiss accounts of the dictators|journal=Schweizer Illustrierte|language=German|publisher=Ringier AG|location=Zürich, Switzerland|issue=46|pages=38–41|url=http://www.schweizer-illustrierte.ch/sites/default/files/SI-46-1991-Seiten-38-41.pdf|accessdate=30 December 2011}}&lt;/ref&gt; Several leaders of opposition parties in India have raised the issue, citing the Schweizer Illustrierte article. In December 1991, Amal Datta raised the issue in the Indian Parliament; the Speaker of the Lok Sabha, [[Shivraj Patil]], expunged Rajiv Gandhi's name from the proceedings.&lt;ref name="gurumurthy"/&gt; In December 2011, [[Subramanian Swamy]] wrote to the director of the Central Bureau of Investigation, citing the article and asking him to take action on black money accounts of the [[Nehru–Gandhi family|Nehru-Gandhi family]].&lt;ref&gt;{{cite news |date=7 December 2011 |url=http://www.moneylife.in/article/dr-subramanian-swamy-asks-cbi-to-take-action-on-gandhi-familys-black-money-accounts/22045.html |title=Dr Subramanian Swamy asks CBI to take action on Rajiv Gandhi's family's black money accounts|work=Moneylife|accessdate=30 December 2011}}&lt;/ref&gt; On 29 December 2011, Ram Jethmalani made an indirect reference to the issue in the [[Rajya Sabha]], calling it a shame that one of India's former Prime Ministers was named by a Swiss magazine. This was met by uproar and a demand for withdrawal of the remark by the ruling Congress party members.&lt;ref&gt;{{cite news |date=29 December 2011 |url=http://indiatoday.intoday.in/story/lokpal-bill-debate-in-rajya-sabha-ram-jethmalani/1/166383.html |title=Lokpal debate: Ram Jethmalani creates ruckus in Rajya Sabha|work=India Today|accessdate=30 December 2011}}&lt;/ref&gt;
+
+===Funding from KGB===
+In 1992, the Indian newspapers ''[[Times of India]]'' and ''The Hindu'' published reports alleging that Rajiv Gandhi had received funds from the [[KGB]].&lt;ref name="gurumurthy"&gt;{{cite web |last=Gurumurthy | first=S |url=http://newindianexpress.com/opinion/article402584.ece|title=Zero tolerance, secret billions|date=30 January 2011|work=The New Indian Express |accessdate=30 December 2011}}&lt;/ref&gt; The Russian government confirmed this disclosure and defended the payments as necessary for Soviet ideological interest.&lt;ref name="puri"/&gt; In their 1994 book ''The State Within a State'', journalists [[Yevgenia Albats]] and [[Catherine A. Fitzpatrick|Catherine Fitzpatrick]] quoted a letter signed by [[Viktor Chebrikov]], head of the KGB, in the 1980s. The letter says the KGB maintained contact with Gandhi, who expressed his gratitude to the KGB for benefits accruing to his family from commercial dealings of a controlled firm. A considerable portion of funds obtained from this channel were used to support his party.&lt;ref&gt;{{cite book | first1=Yevgenia | last1=Albats | first2=Catherine | last2=Fitzpatrick | year=1999 | origyear=1994 | title =The State Within a State: The KGB and its Hold on Russia-Past, Present, and Future | publisher=Macmillan | isbn=9780374527389 | location =London, United Kingdom | page=223 | quote=A letter signed by Viktor Chebrikov, who replaced Andropov as the KGB head in 1982 noted: "the USSR KGB maintains contact with the son of the Premier Minister Rajiv Gandhi [of India] ... R Gandhi expresses deep gratitude for the benefits accruing to the Prime Minister's family from the commercial dealings of the firm he controls in co-operation with the Soviet foreign trade organisations. R Gandhi reports confidentially that a substantial portion of the funds obtained through this channel are used to support the party of R Gandhi." | url=https://books.google.com/?id=9PBjk03E814C&amp;printsec=frontcover#v=onepage&amp;q=gandhi&amp;f=false | accessdate=30 December 2011}}&lt;/ref&gt; Albats later said that in December 1985, Chebrikov had asked for authorisation from the [[Central Committee of the Communist Party of the Soviet Union]] to make payments to family members of Rajiv Gandhi, including Sonia Gandhi and Rahul Gandhi.&lt;ref name="gurumurthy"/&gt;&lt;ref name="puri"&gt;{{cite web |last=Puri | first=Rajinder |url=http://www.outlookindia.com/article.aspx?232223|title=How Free Is India? |date=15 August 2006|publisher=Outlook India|accessdate=30 December 2011}}&lt;/ref&gt; The payments were authorised by a resolution and endorsed by the USSR Council of Ministers, and had been paid since 1971.&lt;ref name="puri"/&gt; In December 2001, Subramanian Swamy filed a writ petition in the Delhi High Court; the Court ordered CBI to ascertain the truth of the allegations in May 2002. After two years, the CBI told the Court Russia would not entertain such queries without a registered FIR.&lt;ref name="puri"/&gt;
+
+==Assassination==
+{{Main|Assassination of Rajiv Gandhi}}
+
+Rajiv Gandhi's last public meeting was on 21 May 1991, at [[Sriperumbudur]], a village approximately {{Convert|40|km|miles|abbr=on}} from [[Madras]], where he was assassinated while campaigning for the Sriperumbudur Lok Sabha Congress candidate. At 10:10&amp;nbsp;pm, a woman later identified as [[Thenmozhi Rajaratnam]], approached Gandhi in public and greeted him. She then bent down to touch his feet and detonated a belt laden with {{Convert|700|g|lbs|abbr=on}} of [[RDX]] explosives tucked under her dress.&lt;ref&gt;{{cite web |url=http://www.india-today.com/itoday/01021999/rdx.html |author=Ramesh Vinayak |title=The Nation: Terrorism: The RDX Files |publisher=India-today.com |date=1 February 1999 |accessdate=7 March 2010 |archive-url=https://web.archive.org/web/20101009004813/http://india-today.com/itoday/01021999/rdx.html |archive-date=9 October 2010 |dead-url=yes |df=dmy-all }}&lt;/ref&gt; [[File:Rajiv Gandhi Memorial-Delhi.jpg|thumb|''[[Raj Ghat|Veer Bhumi]]'' at Delhi, where Rajiv&amp;nbsp;Gandhi was cremated]]The explosion killed Gandhi, Rajaratnam, and at least 25 other people. The assassination was captured by a 21-year-old local photographer, whose camera and film were found at the site. The cameraman, named Haribabu, died in the blast but the camera remained intact.&lt;ref&gt;{{Cite web|url=https://iconicphotos.wordpress.com/2012/05/21/assassination-of-rajiv-gandhi/|title=Assassination of Rajiv Gandhi|website=Iconic Photos|access-date=2016-03-27}}&lt;/ref&gt; Gandhi's mutilated body was airlifted to the [[All India Institute of Medical Sciences]] in New Delhi for post-mortem, reconstruction and embalming.&lt;ref name="rajivgandhifuneral"&gt;{{cite book|url=https://books.google.com/?id=SAZVQqntxY0C&amp;pg=PA70&amp;lpg=PA70&amp;dq=rajiv+gandhi+body+reconstructed |title=Assassination of Rajiv Gandhi – Shashi Ahluwalia, Meenakshi Ahluwalia |publisher=Google Books |accessdate=19 January 2013|isbn=9788170993155 |date=1991-01-01 }}&lt;/ref&gt;
+
+A state funeral was held for Gandhi on 24 May 1991; it was telecast live and was attended by dignitaries from over 60 countries.&lt;ref&gt;{{cite web |author=Essay |url=http://www.publishyourarticles.net/knowledge-hub/essay/assassination-of-rajiv-gandhi-and-its-aftermath-essay.html |title=Assassination of Rajiv Gandhi and its aftermath |publisher=Knowledge Hub |date=21 May 1991 |accessdate=19 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130430204658/http://www.publishyourarticles.net/knowledge-hub/essay/assassination-of-rajiv-gandhi-and-its-aftermath-essay.html |archivedate=30 April 2013 |df=dmy-all }}&lt;/ref&gt; He was cremated at [[Raj Ghat and associated memorials|Veer Bhumi]], on the banks of the river [[Yamuna river|Yamuna]] near the [[Samadhi (shrine)|shrine]]s of his mother (Indira Gandhi), brother (Sanjay Gandhi), and grandfather [[Jawaharlal Nehru]].
+
+===Aftermath===
+[[File:Rajiv Gandhi Memorial lawn.jpg|thumb|right|The ''[[Rajiv Gandhi Memorial]]'', at [[Sriperumbudur]]]]
+
+The Supreme Court judgement, by Justice [[K. T. Thomas (Justice)|K. T. Thomas]], confirmed that Gandhi was killed because of personal animosity by the LTTE chief [[Velupillai Prabhakaran|Prabhakaran]] arising from his sending the Indian Peace Keeping Force (IPKF) to Sri Lanka and the alleged IPKF atrocities against Sri Lankan Tamils.&lt;ref&gt;''State of Tamil Nadu through Superintendent of Police, CBI/SIT vs. Nalini &amp; 25 Ors.'', Death Ref. Case No. 1 of 1998 (@ D.No.1151 of 1998) per [http://cbi.nic.in/dop/judgements/thomas.pdf K.T. Thomas], para. 163&lt;/ref&gt; The Gandhi administration had already antagonised other Tamil militant organisations like [[People's Liberation Organisation of Tamil Eelam|PLOTE]] for reversing [[1988 Maldives Coup|the 1988 military coup in Maldives]]. The judgement further cites the death of [[Thileepan]] in a hunger strike and the suicide by 12 LTTE cadres in a vessel in Oct 1987.&lt;ref&gt;https://scroll.in/article/867736/operation-cactus-the-indian-military-was-asked-to-intervene-in-the-maldives-20-years-ago-as-well
+&lt;/ref&gt;
+
+In the [[Jain Commission]] report, various people and agencies are named as suspects in the murder of Rajiv Gandhi. Among them, the cleric [[Chandraswami]] was suspected of involvement, including financing the assassination.&lt;ref&gt;[http://www.outlookindia.com/pti_print.asp?id=266715 outlookindia.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.expressindia.com/ie/daily/19980711/19250694.html |title=Probe Chandraswami's role in Rajiv case{{mdash}}Jain report |work=The Indian Express |date=11 July 1998 |author=Rtiu Sarin |accessdate=7 March 2010}}&lt;/ref&gt;&lt;ref&gt;[http://www.deccanherald.com/deccanherald/dec112004/i2.asp] {{webarchive|url=https://web.archive.org/web/20041228043145/http://www.deccanherald.com/deccanherald/dec112004/i2.asp|date=28 December 2004}}&lt;/ref&gt; Nalini Sriharan, the only surviving member of the five-member squad behind the assassination of Rajiv Gandhi, is serving life imprisonment. Arrested on 14 June 1991, she and 25 others were sentenced to death by a special court on 28 January 1998. The court confirmed the death sentences of four of the convicts, including Nalini, on 11 May 1999.&lt;ref&gt;''State of Tamil Nadu through Superintendent of Police, CBI/SIT vs. Nalini &amp; 25 Ors.'', Death Ref. Case No. 1 of 1998 (@ D.No.1151 of 1998) per [http://judis.nic.in/supremecourt/imgs1.aspx?filename=16829 D.P. Wadhwa] and [http://judis.nic.in/supremecourt/imgs1.aspx?filename=16823 S.S.M. Quadri]&lt;/ref&gt; Nalini was a close friend of an LTTE operative known as Sriharan alias Murugan, another convict in the case who has been sentenced to death. Nalini later gave birth to a girl, Harithra, in prison. Nalini's death sentence was commuted to life imprisonment in April 2000.&lt;ref&gt;G.O.Ms.No.406, Home Department, dated 24.4.2000&lt;/ref&gt; Rajiv's widow, Sonia Gandhi, intervened and asked for clemency for Nalini on the grounds of the latter being a mother.&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/2/hi/south_asia/526728.stm|title=BBC News - SOUTH ASIA - Gandhi pleads for husband's killer|work=bbc.co.uk|accessdate=13 October 2015}}&lt;/ref&gt; Later, it was reported that Gandhi's 19-year-old daughter, [[Priyanka Gandhi Vadra]], had met Nalini at Vellore Central Prison in March 2008.&lt;ref&gt;{{cite web|url=http://www.tribuneindia.com/2008/20080416/main3.htm|title=The Tribune, Chandigarh, India - Main News|work=tribuneindia.com|accessdate=13 October 2015}}&lt;/ref&gt; Nalini regrets the killing of Gandhi and said the real conspirators have not been caught yet.&lt;ref&gt;{{cite web|author=PTI |url=http://articles.timesofindia.indiatimes.com/2008-08-03/india/27901060_1_rajiv-gandhi-assassination-case-nalini-sriharan-suicide-bomber |title=I regret Rajiv Gandhi's assassination: Nalini - Times Of India |publisher=Articles.timesofindia.indiatimes.com |accessdate=27 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dnaindia.com/india/report_my-sins-washed-away-says-nalini-sriharan_1159967|title=My sins washed away, says Nalini Sriharan|date=16 April 2008|work=dna}}&lt;/ref&gt;
+
+In August 2011, the President of India rejected the clemency pleas of Murugan and two others on death row—Suthendraraja alias Santhan and Perarivalan alias Arivu.&lt;ref&gt;{{cite web|url=http://articles.timesofindia.indiatimes.com/2011-09-11/india/30141652_1_vellore-prison-nalini-sriharan-puzhal-prison |title=Nalini meets hubby on death row - Times Of India |publisher=Articles.timesofindia.indiatimes.com |date=11 September 2011 |accessdate=27 February 2013}}&lt;/ref&gt; The execution of the three convicts was scheduled for 9 September 2011. However, the [[Madras High Court]] intervened and stayed their executions for eight weeks based on their petitions. In 2010, Nalini had petitioned the Madras High Court seeking release because she had served more than 20 years in prison. She argued that even life convicts were released after 14 years. The state government rejected her request.&lt;ref&gt;{{cite web|url=http://indiatoday.intoday.in/story/Rajiv+Gandhi+assassin+Nalini+Sriharan+not+to+be+freed/1/90329.html |title=Rajiv Gandhi assassin Nalini Sriharan not to be freed : Latest Headlines, News - India Today |publisher=Indiatoday.intoday.in |date=29 March 2010 |accessdate=27 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://articles.timesofindia.indiatimes.com/2012-03-16/india/31200948_1_special-prison-puzhal-m-radhakrishnan |title=Rajiv Gandhi's assassin Nalini gets back 'A' class jail facilities - Times Of India |publisher=Articles.timesofindia.indiatimes.com |accessdate=27 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ndtv.com/article/india/rajiv-gandhi-s-killer-nalini-breaks-down-132130 |title=Rajiv Gandhi's killer Nalini breaks down |publisher=NDTV.com |date=7 September 2011 |accessdate=27 February 2013}}&lt;/ref&gt; Murugan, Santhan and Perarivalan have said they are political prisoners rather than ordinary criminals.&lt;ref&gt;{{cite web|url=http://www.dnaindia.com/india/report_rajiv-gandhi-assassination-convict-nalini-shifted-to-vellore-prison_1584208 |title=Nalini Sriharan back in Vellore - India - DNA |publisher=Dnaindia.com |accessdate=27 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://articles.timesofindia.indiatimes.com/2010-06-29/chennai/28311629_1_premature-release-prison-manual-rules-nalini-sriharan |title=Nalini shifted from Vellore jail to Puzhal - Times Of India |publisher=Articles.timesofindia.indiatimes.com |accessdate=27 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=A Subramani, TNN 21 Jan 2010, 01.27am IST |url=http://articles.timesofindia.indiatimes.com/2010-01-21/india/28126770_1_premature-release-vellore-prison-nalini |title=After 19 yrs in jail for Rajiv murder, Nalini may be freed - Times Of India |publisher=Articles.timesofindia.indiatimes.com |accessdate=27 February 2013}}&lt;/ref&gt; On 18 February 2014, the Supreme Court of India commuted the death sentences of Murugan, Santhan and Perarivalan to life imprisonment, holding that the 11-year-long delay in deciding their mercy petition had a dehumanising effect on them.&lt;ref&gt;[http://judis.nic.in/supremecourt/imgs1.aspx?filename=41228 ''V. Sriharan @ Murugan vs. Union of India &amp; Ors.'', T.C. (Crl.) Nos. 1-3 of 2012] citing [http://judis.nic.in/supremecourt/imgs1.aspx?filename=41163 ''Shatrughan Chauhan &amp; Anr. vs. Union of India &amp; Ors.'', W.P. (Crl.) No. 55 of 2013]&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Supreme Court commuted Death Sentence of Rajiv Gandhi's Killers to Life Imprisonment|url=http://news.biharprabha.com/2014/02/supreme-court-death-sentence-of-rajiv-gandhis-killers-to-life-imprisonment/|work=IANS|publisher=news.biharprabha.com|accessdate=18 February 2014}}&lt;/ref&gt; On 19 February 2014 Tamil Nadu government decided to release all seven convicts in Rajiv Gandhi assassination case, including A G Perarivalan and Nalini.&lt;ref&gt;{{cite web |url=http://chennaivision.com/news/2014/72578.php |title=TN to release all Rajiv convicts |date=19 February 2014 |accessdate=19 February 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140304231802/http://chennaivision.com/news/2014/72578.php |archivedate=4 March 2014 |df=dmy-all }}&lt;/ref&gt; The [[Union of India]] challenged this decision before the Supreme Court, which referred the case to a Constitution Bench.&lt;ref&gt;[http://judis.nic.in/supremecourt/imgs1.aspx?filename=41465 ''Union of India vs. V. Sriharan @ Murugan &amp; Ors.'', W.P. (Crl.) 48 of 2014]&lt;/ref&gt;
+
+The report of the Jain Commission created controversy when it accused the [[Tamil Nadu]] chief minister [[Karunanidhi]] of a role in the assassination, leading to Congress withdrawing its support for the [[I. K. Gujral]] government and fresh elections in 1998. LTTE spokesman [[Anton Balasingham]] told the Indian television channel [[NDTV]] the killing was a "great tragedy, a monumental historical tragedy which we deeply regret".&lt;ref&gt;{{cite web|url=http://www.expressindia.com/fullstory.php?newsid=70062 |title=We deeply regret Rajiv's death: LTTE |work=The Indian Express    |date=27 June 2006 |accessdate=7 March 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/south_asia/5122032.stm |title=Tamil Tiger 'regret' over Gandhi |publisher=BBC News  |date=27 June 2006 |accessdate=7 March 2010}}&lt;/ref&gt; A memorial called [[Raj Ghat and other memorials|Veer Bhumi]] was constructed at the place of Gandhi's cremation in Delhi. In 1992, the [[Rajiv Gandhi National Sadbhavana Award]] was instituted by the Indian National Congress Party.
+
+Since his death, 21 May has been declared Anti-Terrorism Day in India.&lt;ref&gt;
+{{cite web |url=https://economictimes.indiatimes.com/news/politics-and-nation/assam-observes-anti-terrorism-day-on-rajiv-gandhis-death-anniversary/articleshow/47371181.cms |title=Assam observes Anti-Terrorism Day on Rajiv Gandhi's death anniversary |publisher=The Economic Times |date=21 May 2005 |access-date=14 March 2018}}&lt;/ref&gt;
+
+==Institutions named after Gandhi==
+A [[Right to Information]] (RTI) request filed in August 2009 found that more than 450 government projects and schemes are named after the [[Gandhi-Nehru family]].&lt;ref&gt;{{cite web|title=Use Indira, Rajiv names sparingly while announcing schemes: Cabinet Secretary|url=http://www.ndtv.com/india-news/use-indira-rajiv-names-sparingly-while-announcing-schemes-cabinet-secretary-435202|publisher=NDTV|accessdate=27 May 2015}}&lt;/ref&gt; In May 2012, ''[[Zee News]]'' reported there were 16 government schemes named after Gandhi, including ''[[Rajiv Awas Yojana]]'' and Rajiv Gandhi Udyami Mitra Yojana.&lt;ref&gt;{{cite web|title=16 govt schemes named after Rajiv Gandhi|url=http://zeenews.india.com/news/delhi/16-govt-schemes-named-after-rajiv-gandhi_774279.html|publisher=Zee News|accessdate=27 May 2015}}&lt;/ref&gt; In March 2015, [[Haryana]] sports minister [[Anil Vij]] said that at that time there were 232 rural stadia in India, with 226 of them being named after him. He said the government was "planning to rename" all the stadia in Haryana state named after him. Vij drew criticism from Congress leader [[Kuldeep Sharma]], who said it was an "insult to their national leaders".&lt;ref&gt;{{cite web|title=Why is everything in India named after just Rajiv or Indira Gandhi, asks Haryana Minister|url=http://www.ibnlive.com/news/india/why-is-everything-in-india-named-after-just-rajiv-or-indira-gandhi-asks-haryana-minister-975021.html|publisher=IBN Live|accessdate=27 May 2015}}&lt;/ref&gt;
+
+{{div col|colwidth=35em}}
+*[[Rajiv Gandhi International Cricket Stadium]] at [[Hyderabad]], [[Telangana]].&lt;ref&gt;{{cite web|title=Rajiv Gandhi International Stadium|url=http://www.espncricinfo.com/india/content/ground/58142.html|publisher=ESPNCricinfo|accessdate=27 May 2015}}&lt;/ref&gt;
+*[[Rajiv Gandhi Stadium, Aizawl]] at [[Aizawl]], [[Mizoram]].&lt;ref&gt;{{cite web|title=Address by Smt Sonia Gandhi|url=http://dipr.mizoram.gov.in/speech/address-by-smt-sonia-gandhi-on-the-occasion-of-foundation-stone-laying-of-rajiv-gandhi-stadium|publisher=Mizoram|accessdate=27 May 2015}}&lt;/ref&gt;
+*[[Rajiv Gandhi International Airport]] at Hyderabad, Telangana.&lt;ref&gt;{{cite web|title=Change of name puts Hyderabad International airport staff in a piquant situation|url=http://www.deccanchronicle.com/141121/nation-current-affairs/article/change-name-puts-hyderabad-international-airport-staff-piquant|publisher=Deccan Chronicle|accessdate=27 May 2015}}&lt;/ref&gt;
+*[[Rajiv Gandhi Indian Institute of Management]] at [[Shillong]], [[Meghalaya]]
+*[[Rajiv Gandhi National University of Law]], at [[Patiala]], [[Punjab, India|Punjab]].&lt;ref&gt;{{cite web|title=About us|url=http://rgnul.ac.in/page.aspx?page=2|publisher=RGNUL|accessdate=27 May 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150602050444/http://rgnul.ac.in/page.aspx?page=2|archivedate=2 June 2015|df=dmy-all}}&lt;/ref&gt;
+*[[Rajiv Gandhi University of Health Sciences]], at [[Bangalore]], [[Karnataka]].
+*[[Rajiv Gandhi Technical University]], at [[Bhopal]], [[Madhya Pradesh]].&lt;ref&gt;{{cite web|title=About us|url=http://www.rit.ac.in/|publisher=RIT|accessdate=27 May 2015}}&lt;/ref&gt;
+*[[Rajiv Gandhi Centre for Biotechnology]], at [[Thiruvananthapuram]], [[Kerala]].
+*[[Rajiv Gandhi Institute of Technology, Kottayam|Rajiv Gandhi Institute of Technology]], at [[Kottayam]], [[Kerala]].&lt;ref&gt;{{cite web|title=Rajiv Gandhi Institute of Technology|url=http://www.rit.ac.in/|accessdate=27 March 2014}}&lt;/ref&gt; 
+*[[Rajiv Gandhi Institute of Petroleum Technology]], at [[Rae Bareli]], [[Uttar Pradesh]].&lt;ref&gt;{{cite web|title=Rajiv Gandhi Institute of Petroleum Technology|url=http://www.rgipt.ac.in/mba_addmission.htm|publisher=Rajiv Gandhi Institute of Petroleum Technology|accessdate=27 May 2015}}&lt;/ref&gt;
+*[[Rajiv Gandhi Combined Cycle Power Project]], at [[Alappuzha district]], [[Kerala]].&lt;ref&gt;{{cite web|title=Prime Minister inaugurates Rajiv Gandhi Combined Cycle Power project at Kayamkulam|url=http://www.pib.nic.in/newsite/erelease.aspx?relid=7140|publisher=PIB|accessdate=27 May 2015}}&lt;/ref&gt;
+*[[Assam Rajiv Gandhi University of Cooperative Management]], [[Sivasagar]]
+*[[Rajiv Gandhi University]], at [[Doimukh]], [[Arunachal Pradesh]].&lt;ref&gt;{{cite web|title=Rajiv Gandhi University|url=http://www.rgu.ac.in/|publisher=Rajiv Gandhi University|accessdate=27 May 2015}}&lt;/ref&gt;
+*Rajiv Gandhi National Institute of Intellectual Property Management.&lt;ref&gt;{{cite web|title=Rajiv Gandhi National Institute of Intellectual Property Management|url=http://www.ipindia.nic.in/niipm/|publisher=|accessdate=27 May 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150614052336/http://www.ipindia.nic.in/niipm/|archivedate=14 June 2015|df=dmy-all}}&lt;/ref&gt;
+*[[Government General Hospital, Chennai|Rajiv Gandhi Government General Hospital]], at [[Chennai]], Tamil Nadu.&lt;ref&gt;The hospital is considered the only government facility in the region to handle emergencies.&lt;/ref&gt;&lt;ref&gt;{{cite news
+ | last =
+ | first =
+ | title =  Government General Hospital in Chennai to be named after Rajiv Gandhi 
+ | newspaper = The Hindu
+ | location = Chennai
+ | pages =
+ | language =
+ | publisher = The Hindu
+ | date = 14 January 2011 
+ | url = http://www.hindu.com/2011/01/14/stories/2011011457800400.htm
+ | accessdate = 21 Jun 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+ | last = Sujatha 
+ | first = R. 
+ | title = Government General Hospital overburdened 
+ | newspaper = The Hindu
+ | location = Chennai
+ | pages =
+ | language =
+ | publisher = The Hindu
+ | date = 28 July 2006 
+ | url = http://www.hindu.com/2006/07/28/stories/2006072820410300.htm
+ | accessdate = 21 Jun 2012}}&lt;/ref&gt;
+*[[International Container Transshipment Terminal, Kochi|Rajiv Gandhi Container Terminal]], at [[Kochi]], Kerala.&lt;ref name="Rname"&gt;{{cite web|title=Government Schemes and Projects named after Nehru-Gandhi family|url=http://www.deccanherald.com/content/12096/government-schemes-projects-named-nehru.html|publisher=Deccan Herald|accessdate=27 May 2015}}&lt;/ref&gt;
+* Rajiv Gandhi Academy for Aviation Technology, Trivandrum, Kerala&lt;ref&gt;[http://www.rajivgandhiacademyforaviationtechnology.org/ Rajiv Gandhi Academy for Aviation Technology]&lt;/ref&gt;
+* Rajiv Gandhi School of Intellectual Property Law, IIT Kharagpur, West Bengal
+* [[Rajiv Smruthi Bhavan]], [[Visakhapatnam]]
+* MCTs Rajiv Gandhi Institute of Technology, Mumbai
+* [http://www.rgukt.ac.in/ Rajiv Gandhi University of Knowledge Technologies]
+{{div col end}}
+
+==Notes==
+{{Reflist|40em}}
+
+==References==
+{{Refbegin|40em}} 
+*{{cite book|title=Rajiv Gandhi|author=Meena Agarwal|first=|year=|isbn=9788128809002|location=|pages=|publisher=Diamond Pocket Books|url=https://books.google.co.in/books?id=lC4dLXMz-wEC&amp;dq=rajiv+gandhi+biography&amp;source=gbs_navlinks_s|accessdate=18 May 2015}}
+*{{cite book|title=Rajiv Gandhi: His Mind and Ideology|author=Attar Chand|first=|publisher=Gyan Publishing House|year=|isbn=|location=|pages=|url=https://books.google.co.in/books?id=JdBt-Fqj_HQC&amp;dq=rajiv+gandhi+1982+asian+games&amp;source=gbs_navlinks_s|accessdate=23 May 2015}}
+*{{cite book|title=Great Personalities of the World|author=Tanvir Khan|first=|publisher=V&amp;S Publishers|url=https://books.google.co.in/books?id=2qCNAwAAQBAJ&amp;dq=rajiv+gandhi+anti+sikh+riots&amp;source=gbs_navlinks_s|accessdate=26 May 2015|year=|isbn=9789350572450|location=|pages=}}
+*{{cite book|title=India: Nation on the Move: An Overview of India's People, Culture, History, Economy, IT Industry, &amp; More|author=Manish Telikicherla Chary|first=|publisher=iUniverse|url=https://books.google.co.in/books?id=6WE8SwINOKMC&amp;dq=rajiv+gandhi+anti+sikh+riots&amp;source=gbs_navlinks_s|accessdate=26 May 2015|year=|isbn=9781440116353|location=|pages=}}
+*{{cite book|title=Confessions of a Secular Fundamentalist|author=[[Mani Shankar Aiyar]]|first=|publisher=[[Penguin Books]]|url=https://books.google.co.in/books?id=_7Fsq8rBUtkC&amp;pg=PA193&amp;dq=rajiv+gandhi+when+a+big+tree+falls&amp;hl=en&amp;sa=X&amp;ei=JypkVYjsGIK1uQTBiIOgAg&amp;ved=0CCcQ6wEwAg#v=onepage&amp;q=rajiv%20gandhi%20when%20a%20big%20tree%20falls&amp;f=false|accessdate=26 May 2015|year=|isbn=9780143062059|location=|pages=}}
+*{{cite book|title=State Power and Social Forces: Domination and Transformation in the Third World|author=Kohli|first=|publisher=[[Cambridge University Press]]|url=https://books.google.co.in/books?id=5uqtkTkYas4C&amp;dq=rajiv+gandhi+economic+policy&amp;source=gbs_navlinks_s|author-link=Atul Kohli|accessdate=27 May 2015|year=|isbn=9780521467346|location=|pages=}}
+*{{cite book|title=Journey of a Nation|author=[[Anand Sharma]]|first=|publisher=Academic Foundation|year=|isbn=9788171888405|location=|pages=}}
+{{Refend}}
+
+;Further reading
+*{{cite book|title=Rajiv Gandhi: His Mind and Ideology|author=Attar Chand|publisher=Gyan Publishing House|url=https://books.google.co.in/books?id=JdBt-Fqj_HQC&amp;dq=rajiv+gandhi+1982+asian+games&amp;source=gbs_navlinks_s|accessdate=23 May 2015}}
+*Shourie, Arun (1992). These lethal, inexorable laws: Rajiv, his men and his regime. Delhi: South Asia Books.
+
+==External links==
+{{Commons category|Rajiv Gandhi}}
+{{Wikiquote}}
+* [http://pmindia.gov.in/en/former_pm/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%80%E0%A4%B5-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80/ Profile] at PMO website
+*{{C-SPAN}}
+
+{{s-start}}
+{{s-off}}
+{{s-bef|rows=2|before=[[Indira Gandhi]]}}
+{{s-ttl|title=[[Prime Minister of India]]|years=1984–89}}
+{{s-aft|after=[[V. P. Singh]]}}
+|-
+{{s-ttl|title=[[Minister of External Affairs (India)|Minister of External Affairs]]|years=1984–85}}
+{{s-aft|after=[[Bali Ram Bhagat]]}}
+|-
+{{s-bef|before=[[P. V. Narasimha Rao]]}}
+{{s-ttl|title=[[Minister of Defence (India)|Minister of Defence]]|years=1985–87}}
+{{s-aft|after=V. P. Singh}}
+|-
+{{s-bef|before=V. P. Singh}}
+{{s-ttl|title=[[Minister of Finance (India)|Minister of Finance]]|years=1987}}
+{{s-aft|after=[[N. D. Tiwari]]}}
+|-
+{{s-bef|before=N. D. Tiwari}}
+{{s-ttl|title=Minister of External Affairs|years=1987–88}}
+{{s-aft|after=P. V. Narasimha Rao}}
+|-
+{{s-dip}}
+{{s-bef|before=[[Ataur Rahman Khan]]}}
+{{s-ttl|title=Chairperson of [[South Asian Association for Regional Cooperation|SAARC]]|years=1986}}
+{{s-aft|after=[[Marich Man Singh Shrestha]]}}
+{{s-end}}
+
+{{Prime Ministers of India}}
+{{Indian National Congress Presidents}}
+{{Bharat Ratna}}
+{{Authority control}}
+
+{{DEFAULTSORT:Gandhi, Rajiv}}
+[[Category:1944 births]]
+[[Category:1991 deaths]]
+[[Category:1984 anti-Sikh riots]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Alumni of Imperial College London]]
+[[Category:Assassinated heads of government]]
+[[Category:Assassinated Indian politicians]]
+[[Category:Children of Prime Ministers of India]]
+[[Category:The Doon School alumni]]
+[[Category:Indian amateur radio operators]]
+[[Category:Leaders of the Opposition (India)]]
+[[Category:Nehru–Gandhi family]]
+[[Category:Politicians from Mumbai]]
+[[Category:People from Sultanpur, Uttar Pradesh]]
+[[Category:Presidents of the Indian National Congress]]
+[[Category:Prime Ministers of India]]
+[[Category:Rajiv Gandhi administration]]
+[[Category:Recipients of the Bharat Ratna]]
+[[Category:Recipients of the Indira Gandhi Peace Prize]]
+[[Category:Terrorist incidents in 1991]]
+[[Category:Terrorism deaths in India]]
+[[Category:Lok Sabha members from Uttar Pradesh]]
+[[Category:Ministers for External Affairs of India]]
+[[Category:People killed during the Sri Lankan Civil War]]
+[[Category:Deaths by suicide bomber]]
+[[Category:Finance Ministers of India]]
+[[Category:20th-century Indian politicians]]
+[[Category:7th Lok Sabha members]]
+[[Category:8th Lok Sabha members]]
+[[Category:9th Lok Sabha members]]
+[[Category:10th Lok Sabha members]]
+[[Category:State funerals in India]]</text>
+      <sha1>3hi0jdzcxly4k16v2dizxvuoig74a2l</sha1>
+    </revision>
+  </page>
+</mediawiki>

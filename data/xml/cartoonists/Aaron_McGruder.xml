@@ -1,0 +1,146 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aaron McGruder</title>
+    <ns>0</ns>
+    <id>398867</id>
+    <revision>
+      <id>848383423</id>
+      <parentid>841320224</parentid>
+      <timestamp>2018-07-01T15:56:54Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14556">{{Use mdy dates|date=April 2015}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+| name = Aaron McGruder
+| image = File:Aaron McGruder 2002 (cropped).png
+| caption = Aaron McGruder, at the 2002 [[H.O.P.E.|Hackers on Planet Earth]] [[hacker con]]
+| imagesize = 150px
+| birth_date = {{birth date and age|1974|5|29|mf=y}}
+| birth_place = [[Chicago]], [[Illinois]], U.S.
+| occupation = [[Writer]], [[cartoonist]], [[public speaker]]
+| genre = [[Comic strip]]s, [[television writer|television screenwriter]]
+| movement =
+| notableworks = ''[[The Boondocks (comic strip)|The Boondocks]]''
+| influences =
+| influenced =
+}}
+'''Aaron Vincent McGruder'''&lt;ref name=encyc&gt;{{cite web| title= McGruder, Aaron 1974| website= encyclopedia.com| date= 2009| publisher= Gale| access-date= October 18, 2016}}&lt;/ref&gt; (born May 29, 1974)&lt;ref name=CAO&gt;{{cite web|title=Aaron McGruder|work=Contemporary Authors Online| publisher=Gale|location=Detroit|year=2009| registration= yes}}&lt;/ref&gt; is an American writer, lecturer,&lt;ref name= AVclub_interview&gt;{{cite web| last = McGruder | first = Aaron| subjectlink = Aaron McGruder |title= Aaron McGruder|  interviewer= Interview by Nathan Rabin| access-date= October 17, 2016 | work= The A.V. Club|url=http://www.avclub.com/articles/aaron-mcgruder,13965/ | date=2005-11-03}}&lt;/ref&gt; producer, screenwriter and [[cartoonist]] best known for writing and drawing ''[[The Boondocks (comic strip)|The Boondocks]]'', a [[Universal Press Syndicate]] [[comic strip]]&lt;ref name=tease&gt;{{cite news |title= Strip Tease |work= [[The Guardian|Guardian]] |date= December 22, 2005|url= https://www.theguardian.com/artanddesign/2005/dec/22/art.usa |accessdate= 2010-02-07 | location= London | first= Gary | last= Younge}}&lt;/ref&gt;&lt;ref name= Astor /&gt; and [[The Boondocks (TV series)|its animated TV series adaptation]] for which he was the creator, executive producer, and [[head writer]].&lt;ref name= IMDB_The_Boondocks&gt;{{cite web| url= https://www.imdb.com/title/tt0373732/combined| title= The Boondocks (1995)| website= IMDb.com |access-date= October 18, 2016}}&lt;/ref&gt;
+
+==Early life and education==
+Aaron McGruder was born in [[Chicago]], [[Illinois]].&lt;ref name=CAO /&gt; When Aaron was six years old, his family moved to [[Columbia, Maryland|Columbia]], [[Maryland]], after his father accepted a job with the [[National Transportation Safety Board]]. McGruder has an older brother. 
+
+MacGruder attended a [[Jesuit]] school from grades seven to nine, followed by public high school at [[ Oakland Mills High School]] and the [[University of Maryland, College Park|University of Maryland]], from which he graduated&lt;ref&gt;{{Cite news|url=https://alumni.umd.edu/outstanding-young-alumnus-award|title=Outstanding Young Alumnus Award|date=2016-05-25|work=University of Maryland Alumni Association|access-date=2018-02-24|language=en}}&lt;/ref&gt; with a degree in [[African American Studies]].
+
+==Career==
+===''The Boondocks'' and related work===
+''The Boondocks'' began in 1996 as a [[webcomic]] on Hitlist.com, one of the first online music websites.&lt;ref name="uclick"&gt;{{cite web| url= http://content.uclick.com/pdfs/theboondocks_factsheet.pdf| title= ''The Boondocks''| website= UClick.com| publisher= Andrews McMeel Universal | archiveurl= https://web.archive.org/web/20120704100132/http://content.uclick.com/pdfs/theboondocks_factsheet.pdf| archivedate= July 4, 2012| deadurl= yes| access-date= October 17, 2016}}&lt;/ref&gt;  At the time, he was also a DJ on ''The Soul Controllers Mix Show'' on [[WMUC]]. ''The Boondocks'' also briefly appeared as a comic strip in the University of Maryland's newspaper ''[[The Diamondback]]'' during [[Jayson Blair]]'s tenure as editor-in-chief.&lt;ref name="radical"/&gt;&lt;ref name="uclick"/&gt; McGruder signed a deal with the [[Universal Press Syndicate]] and in April 1999, the strip began appearing in 160 newspapers.&lt;ref name="radical"/&gt;
+
+The comic strip's main characters are two young African-American brothers, [[Huey Freeman|Huey]] (named after [[Huey P. Newton]]) and his younger brother and wannabe [[Gangster|gangsta]], [[Riley Freeman|Riley]],&lt;ref name=tease/&gt; from inner-city Chicago who are relocated to live with their grandfather in a sedate suburb. In six months, the comic strip was being distributed to more than 200 publications.&lt;ref name=Astor&gt;{{cite news| title= 'Boondocks' Artist Still Living on the Edge of Controversy: Aaron McGruder Comes to Canada to Talk about His High-Profile Comic| last= Astor| first= David | work= [[Editor &amp; Publisher]]| publisher= republished excerpt online at ''Questia.com''| date= October 9, 1999 | accessdate= October 18, 2016}}&lt;/ref&gt; Five ''The Boondocks'' collections have been published: ''All The Rage'', ''Public Enemy #2'', ''A Right To Be Hostile'', ''Fresh for '01: You Suckaz'', and ''Boondocks: Because I Know You Don't Read The Newspaper''. An animated television series [[The Boondocks (TV series)|adaptation of the strip]] proved successful on [[Cartoon Network]]'s [[Adult Swim]]. 
+
+McGruder expressed interest in 2013 about filming a movie featuring ''The Boondocks'' TV series supporting character [[Uncle Ruckus]]. [[Gary Anthony Williams]] would reprise his role. McGruder set a goal of $200,000 for startup donations at uncleruckusmovie.com between January 30 through March 1, 2013, but the campaign ended with 2,667 backers and $129,963.&lt;ref&gt;{{cite web| url= http://www.kickstarter.com/projects/362353100/the-uncle-ruckus-movie |title= The Uncle Ruckus Movie by Aaron McGruder| website= Kickstarter.com}}&lt;/ref&gt;
+
+In March 2014, ''The Boondocks'' was revived for a new season, but without McGruder's involvement as its [[showrunner]].&lt;ref name= final&gt;{{cite news| last= Moore| first= Frazier|title= 'The Boondocks' Back For Final 'Offensive' Season| url= http://bigstory.ap.org/article/boondocks-back-final-offensive-season|accessdate=April 23, 2014|website= AP.org| agency= Associated Press|date=April 18, 2014}}&lt;/ref&gt; The first episode of this final season was first broadcast on April 21, 2014.&lt;ref name=4th&gt;{{cite web| url= https://www.imdb.com/title/tt0373732/episodes?season=4| website= IMDb.com| title= ''The Boondocks'' (2005) Episode List: Season 4| access-date= October 17, 2016}}&lt;/ref&gt;
+
+In August 2017, it was announced that McGruder, along with producer [[Will Packer]], will develop a series for [[Amazon Video]] called ''[[Black America]]'' which will be based on an alternative history where emancipated black Americans receive 3 Southern states as [[reparations for slavery]].&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/tv/news/boondocks-creator-preps-alt-history-drama-black-america-w495349|title='Boondocks' Creator Preps Alt-History Drama 'Black America'|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.chicagotribune.com/entertainment/tv/ct-civil-war-history-tv-drama-black-america-20170801-story.html|title=Another Civil War alternate history comes to TV — but with black independence and reparations|first=Elahe|last=Izadi|publisher=}}&lt;/ref&gt; It is reportedly seen as a response to [[HBO]]'s alternative history series ''[[Confederate (TV series)|Confederate]]'', whose plot entails a history where the Confederacy won the Civil War.&lt;ref&gt;{{cite web|url=http://ew.com/tv/2017/08/01/black-america-plot-confederate/|title=Alt-History Drama 'Black America' Reveals Premise in Response to 'Confederate' News|date=August 1, 2017|publisher=}}&lt;/ref&gt;
+
+===Other work===
+Among his other projects have been the ''[[Super Deluxe]]'' variety comedy series ''The Super Rumble Mix Show''. McGruder also developed ''[[Black Jesus (TV series)|Black Jesus]]'', another comedy series broadcast on [[Adult Swim]], part of [[Cartoon Network]].&lt;ref name= final /&gt;
+
+With [[Reginald Hudlin]], McGruder co-authored a [[graphic novel]], ''Birth of a Nation: A Comic Novel'' (2004), about African Americans in [[East St. Louis]] during an election.&lt;ref name= encyc /&gt; The book's illustrations were drawn by cartoonist [[Kyle Baker]]. 
+
+McGruder has developed into a public speaker on political and cultural issues.&lt;ref name= Astor /&gt;&lt;ref name=H2K2_speakers /&gt;&lt;ref name=obama_comments /&gt;&lt;ref name= AVclub_interview /&gt;
+
+In 2010, McGruder worked as screenwriter in the final treatment of the feature film ''[[Red Tails]]'', released in early 2012. Its story is based on the [[Tuskegee Airmen]], a group of African American combat pilots during [[World War II]].&lt;ref name=moviefone&gt;{{cite web| last= Larnick| first= Eric| url= http://news.moviefone.com/2012/01/19/red-tails-aaron-mcgruder_n_1217128.html| title= Aaron McGruder, 'Boondocks' Creator, on Writing 'Red Tails' and Working With George Lucas After Making Fun of Him| website= Moviefone.com| date= January 20, 2012| access-date= January 23, 2012| deadurl= yes| archiveurl= https://web.archive.org/web/20120724072317/http://news.moviefone.com/2012/01/19/red-tails-aaron-mcgruder_n_1217128.html| archivedate= July 24, 2012| df= mdy-all}}&lt;/ref&gt;
+
+==Controversies==
+McGruder's strip was a [[The Boondocks (comic strip)#Controversies|veritable lightning rod]] for criticism since it debuted in 1999, with newspapers consigning it to editorial sections, or suspending the run of the strip altogether. Favored targets of ''The Boondocks'' include [[Black Entertainment Television|BET]], [[Condoleezza Rice]], [[Whitney Houston]], [[Bill Cosby]], [[Vivica A. Fox]], and [[Black conservatism in the United States|black conservative]] commentator [[Larry Elder]]''. 
+
+McGruder has often attacked Elder in the comic strip as well as the television series.  In response, Elder published an [[editorial|opinion piece]] in which he created the "McGruder," an award for statements made by black public figures that Elder considers "dumb," "vulgar," and/or "offensive."&lt;ref name=elder&gt;{{cite book| first1= Jonathan |last1= Gray| first2= Jeffrey |last2= Jones| first3= Ethan |last3= Thompson| title= Satire TV: Politics and Comedy in the Post-Network Era| publisher= New York University Press| date= April 2009| page= 271}}&lt;/ref&gt;
+
+McGruder said in a 2002 keynote address&lt;ref name=H2K2_speakers&gt;{{cite web| url= http://www.h2k2.net/panels.html#mcg |title= Speakers and Panels| website= H2K2.net| year= 2002| access-date= October 18, 2016}}&lt;/ref&gt; at the July 12–14, 2002 [[Hackers on Planet Earth#H2K2|H2K2]] conference that he believed that President [[George W. Bush]] was involved with the [[September 11 attacks]]:
+{{cquote|Outside of the world of whackos and conspiracy theorists and all of that, very few people in the mainstream have been willing to say what I'm about to say, which is, I really and truthfully believe that George W. Bush is somehow involved, either directly or indirectly, in the attacks on New York City on September 11.&lt;ref name=address&gt;{{cite web|url=http://www.h2k2.net/media/aaron.mp3|title=Keynote address, H2K2 |time= 21:08 – 21:51|accessdate=June 7, 2010|first= Aaron |last= McGruder|date=July 13, 2002|format=MP3}}&lt;/ref&gt;}}
+
+He visited [[Cuba]], meeting [[Fidel Castro]]&lt;ref name= AVclub_interview /&gt; with California [[United States Representative|Rep]]. [[Barbara Lee]].&lt;ref name=radical&gt;{{cite news |title=The Radical: Why do editors keep throwing 'The Boondocks' off the funnies page? |first=Ben |last=McGrath |date=April 19, 2004 |work= [[The New Yorker]] |url= http://www.newyorker.com/archive/2004/04/19/040419fa_fact2}}&lt;/ref&gt; Later, during a 2003 reception hosted by ''[[The Nation]]'', McGruder offended many attendees by defiantly expressing his support for [[Ralph Nader]]'s 2000 presidential bid. McGruder endured heckling and walkouts as he defended his commitment to left-wing causes, including, he claimed, calling [[Condoleezza Rice]] a "mass-murderer" to her face during the 2002 [[NAACP]] [[Image Awards]].&lt;ref name= radical /&gt; In 2009, it was reported by the [[Richmond, Indiana]] publication ''Palladium Item'' that he had told a [[Martin Luther King Day]] audience at [[Earlham College]] in [[Indiana]] that then-President-elect [[Barack Obama]] was not black.&lt;ref name=obama_comments&gt;{{cite web| website=[[Black Entertainment Television|BET]].com| url= http://www.bet.com/news/news/2009/01/22/newsarticleaaronmcgruderobamacomments.html |title= 'Boondocks' Creator Explains Obama Comment| first= Kim| last= Rose| date= January 22, 2009| access-date= October 18, 2016}}&lt;/ref&gt; McGruder released a statement insisting he was misquoted, while maintaining he remained "cautiously pessimistic" about Obama's presidency.&lt;ref name=obama_comments /&gt;
+
+A long-standing feud with [[Black Entertainment Television]] provided McGruder with material both for his strip and the animated series. Two episodes of the second season of ''The Boondocks'', "[[The Hunger Strike]]" and "[[The Uncle Ruckus Reality Show]]", were never broadcast in the United States due to possible legal action against [[Cartoon Network]]'s parent company [[Time Warner]] by [[Viacom]] (BET's parent company, also the owners of Cartoon Network rival [[Nickelodeon]] and [[Comedy Central]]) because of satirization of BET; however, they resurfaced for television airplay weeks later in Canada and were included in the DVD release. (The episodes depict BET as an evil media empire plotting the destruction of black people.&lt;ref name= latimes_bet&gt;{{cite news|last=Braxton|first=Greg|title='Boondocks' to BET: !*%#! |url= http://articles.latimes.com/2008/jun/04/entertainment/et-boondocks4|accessdate=May 22, 2010|newspaper=Los Angeles Times |date= June 4, 2008}}&lt;/ref&gt;)
+
+==Personal life==
+By 2005&lt;ref name= AVclub_interview /&gt; and {{as of|2013|lc=yes}}, McGruder was residing in Los Angeles&lt;ref name= encyc /&gt;&lt;ref name= AVclub_interview /&gt; with his three dogs: Remix, Retro, and Hooligan.&lt;ref&gt;{{cite web| url= https://www.kickstarter.com/projects/362353100/the-uncle-ruckus-movie/creator_bio| title= The Uncle Ruckus Movie by Aaron McGruder| website= Kickstarter.com| publisher= |date= 2013| access-date= October 17, 2016}}&lt;/ref&gt; 
+
+== Footnotes ==
+{{Reflist}}
+
+==External links==
+* {{IMDB name|1412298}}
+*{{C-SPAN|Aaron McGruder}}
+
+{{The Boondocks}}
+
+{{Authority control}}
+{{DEFAULTSORT:Mcgruder, Aaron}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:African-American comics creators]]
+[[Category:American comics creators]]
+[[Category:American animators]]
+[[Category:The Boondocks]]
+[[Category:American comic strip cartoonists]]
+[[Category:American comics artists]]
+[[Category:American social commentators]]
+[[Category:Free speech activists]]
+[[Category:Writers from Chicago]]
+[[Category:People from Columbia, Maryland]]
+[[Category:University of Maryland, College Park alumni]]</text>
+      <sha1>mecqpwwf3sdqm8ff4g6hx5n0ankl731</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nostalgia Critic</title>
+    <ns>0</ns>
+    <id>29587435</id>
+    <revision>
+      <id>855890342</id>
+      <parentid>854889932</parentid>
+      <timestamp>2018-08-21T14:31:41Z</timestamp>
+      <contributor>
+        <ip>198.84.179.13</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17538">{{Use mdy dates|date=January 2017}}
+{{Infobox television
+| show_name                = Nostalgia Critic
+| image                    = Nostalgia Critic logo.png
+| caption                  = 
+| genre                    = [[Review]]/[[wikt:rant|Rant]]&lt;br&gt;[[Insult comedy]]&lt;br&gt;[[Black comedy]]&lt;br&gt;[[Surreal comedy]]&lt;br&gt;[[Off-color humor|Off-color comedy]]&lt;br&gt;[[Parody]]&lt;br&gt;[[Deadpan]]
+| creator                  = Doug Walker
+| developer                = Doug Walker&lt;br /&gt;Rob Walker
+| writer                   = Doug Walker&lt;br /&gt;Rob Walker
+| director                 = Doug Walker
+| starring                 = Doug Walker&lt;br /&gt;Rob Walker&lt;br /&gt;Malcolm Ray (2013–present)&lt;br /&gt;Rachel Tietz (2013–14)&lt;br /&gt;Tamara Chambers (2014–present)
+| theme_music_composer     = Michael "Skitch" Schiciano&lt;ref&gt;{{cite web|url=https://tgwtg.bandcamp.com/track/the-review-must-go-on-nostalgia-critic-theme|title= The Review Must Go On (Nostalgia Critic Theme) |publisher=bandcamp |date= May 13, 2013 }}&lt;/ref&gt;
+
+| opentheme                = "The Review Must Go On" &lt;small&gt;(2013–present)&lt;/small&gt;
+| endtheme                 = "The Review Must Go On" &lt;small&gt;(2011; 2013–present)&lt;/small&gt; &lt;br&gt; Various
+| country                  = United States
+| language                 = English
+| num_seasons              = 11
+| num_episodes             = 393
+| executive_producer       = Michael Michaud
+| producer                 = Doug Walker
+| editor                   = Doug Walker
+| location                 = [[Downer's Grove, Illinois]] (2007–12)&lt;br /&gt;[[Lombard, Illinois]] &lt;br /&gt;(2013–present)
+| camera                   = Single-camera
+| runtime                  = Various (avg. 10-30 minutes)
+| company                  = [[Channel Awesome]]
+| distributor              = [[YouTube]]&lt;br /&gt;(2007–08, 2012–present)&lt;br /&gt;[[Blip (website)|Blip]] (2008–15)&lt;ref&gt;{{cite web|url=https://variety.com/2015/digital/news/maker-studios-is-shutting-down-blip-next-month-1201544219/|author= Variety |title= Maker Studios Is Shutting Down Blip Next Month|date=2015-07-21|accessdate=2015-07-21}}&lt;/ref&gt; &lt;br /&gt;[[Vessel (website)|Vessel]] (2016)&lt;br /&gt; [[Vidme]] (2016–17)&lt;br /&gt; [[Vimeo]] (2017–present)
+| picture_format           = [[480p]] ([[4:3]] [[Flash Video|FLV]]) {{small|(2007–09)}}&lt;br /&gt;480p ([[16:9]] [[Flash Video|FLV]]) {{small|(2009–11)}}&lt;br /&gt;[[720p]] ([[16:9]] [[MPEG-4 Part 14|MP4]]) {{small|(2011–15)}}&lt;br /&gt;[[1080p]] ([[16:9]] [[MPEG-4 Part 14|MP4]]) {{small|(2016–present)}}
+| first_aired              = {{Start date|2007|7|3}}
+| last_aired               = present &lt;!-- Until the show has been announced as over by a reliable source, please do not change from "present" --&gt;
+| related                  = ''The Nostalgia Chick''
+| website                  = http://channelawesome.com
+| channel                  = YouTube {{small|(2007–08, 2012–present)}}&lt;br /&gt;Blip {{small|(2008–15)}}
+}}
+
+'''''Nostalgia Critic''''' is &lt;!-- Until the show has been announced as over by a reliable source, please do not change to "was" --&gt; an American [[review]] [[comedy]] web television series created/directed by and starring web comedian [[Doug Walker (actor)|Doug Walker]] (born November 17, 1981). The series initially launched on [[YouTube]] in July 3, 2007 before moving to Walker's own site [[That Guy with the Glasses]], then to [[Channel Awesome]]. The show followed Walker as the titular Nostalgia Critic, a bitter and sarcastic [[critic]] who mostly reviews [[films]] and [[television shows]] from his childhood and recent past, usually with comically exaggerated rage. The show often alternates the Critic's angry rants and juvenile humor with legitimate analysis of the episode's subject.
+
+Walker briefly retired the series in August 14, 2012 to work on other projects, even writing the character out of existence in the [[Channel Awesome]] film ''To Boldly Flee''. However, on January 22, 2013, Walker announced the show's imminent return in a narrative video called "The Review Must Go On".&lt;ref name="thereview"&gt;{{cite web |url=http://thatguywiththeglasses.com/videolinks/thatguywiththeglasses/nostalgia-critic/38009-the-review-must-go-on |archive-url=https://web.archive.org/web/20130127005155/http://thatguywiththeglasses.com/videolinks/thatguywiththeglasses/nostalgia-critic/38009-the-review-must-go-on |dead-url=yes |archive-date=January 27, 2013 |title=The Review Must Go On |publisher=[[That Guy with the Glasses]] |accessdate=January 22, 2013 |df=mdy-all }}&lt;/ref&gt; The show subsequently returned with a more narrative and [[Sketch comedy|sketch]]-driven sixth season, beginning on February 5, 2013 with a review of ''[[The Odd Life of Timothy Green]]''.
+
+==History==
+The series was initially launched on [[YouTube]] in July 3, 2007 with a review of ''[[Transformers (film)|Transformers]]'' but episodes were frequently removed by the website following complaints of copyright infringement. In April 2008, the videos were removed from YouTube but an arrangement between the company and content host [[Blip (website)|Blip]] in 2009 resulted in them being featured on YouTube once more.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/film/filmblog/2007/nov/19/thefivesecondmoviesandwhyyoushouldwatchthem |title=The five-second movies and why you should watch them |accessdate=2008-12-09 |first=Anna |last=Pickard |work=The Guardian |location=London |date=November 19, 2007}}&lt;/ref&gt;&lt;ref name="adage"&gt;{{cite news |first=Mke |last=Learmonth |title=Blip.tv Brings Programs to YouTube, Ads to 'Channel Awesome' |url=http://adage.com/digital/article?article_id=138164 |work=[[Advertising Age]] |date=July 28, 2009 |accessdate=July 30, 2009}}&lt;/ref&gt;
+[[File:The Nerd and the Nostalgia Critic Face to Face.jpg|left|thumb|219x219px|[[James Rolfe]] as the ''[[Angry Video Game Nerd]]'' and Doug Walker as the Nostalgia Critic in 2008.]]
+The announcement of a [[Spin-off (media)|spin-off]], called ''The Nostalgia Chick'', was created in "The Search for the Nostalgia Chick" (August 10, 2008). The concept was for a female host to review female-targeted "nostalgic" films and television.&lt;ref name="manhour"&gt;{{cite web |url=http://www.themanhour.net/|title=The Man Hour|last1=Jenkins|first1=Mike|last2=Bacio|first2=Jose|date=June 19, 2009|work=Man Hour Goes Nostalgic|accessdate=December 24, 2009}} ([https://itunes.apple.com/us/podcast/the-man-hour-blog-talk-radio/id297194268 iTunes])&lt;/ref&gt; The contest ended in a three-way tie between Lindsay Ellis (who reviewed [[Pocahontas (1995 film)|Disney's ''Pocahontas'']]), Krissy Diggs (who reviewed ''[[Sailor Moon]]''), and Kaylyn Saucedo (who reviewed ''[[The Last Unicorn (film)|The Last Unicorn]]''). The competition was won by Ellis, then using the name "The Dudette", as announced on the site, "Nostalgia Chick Winner!" (September 15, 2008).&lt;ref name="manhour" /&gt; Diggs and Saucedo would still join That Guy with the Glasses as That Chick with the Goggles and Marzgurl respectively.
+
+On September 14, 2012, Walker announced the retirement of ''Nostalgia Critic'' and that it would no longer be a weekly production, as he and his brother felt that they had gone as far as they could with the series. On January 22, 2013, Walker released a sketch short film titled "The Review Must Go On", that also announced the return of the Nostalgia Critic. In December 30, 2015, Nostalgia Critic aired its 300th episode, a review of ''[[Star Wars: The Force Awakens]]''.
+
+==Episode format==
+The series focuses on the Nostalgia Critic, a fictional character invented by (and played by) Doug Walker. GigaOM describes it as "high energy and shamelessly nerdy".&lt;ref name="gigaom1"&gt;{{cite web|last=Shannon |first=Liz |url=http://gigaom.com/2009/10/06/nostalgia-critic-takes-apart-your-childhood-favorites/ |title=Nostalgia Critic Takes Apart Your Childhood Favorites — Tech News and Analysis |publisher=Gigaom.com |date=October 6, 2009 |accessdate=October 20, 2013}}&lt;/ref&gt; Reuters described him as having "offbeat personalities".&lt;ref&gt;{{cite web|url=https://www.reuters.com/article/2009/10/13/idUS110259+13-Oct-2009+BW20091013 |archive-url=https://web.archive.org/web/20141129123238/https://www.reuters.com/article/2009/10/13/idUS110259+13-Oct-2009+BW20091013 |dead-url=yes |archive-date=November 29, 2014 |title=South Florida's Largest Video Game Event Gathers Hottest Video Games, Gamers, World Champs and Game Platforms Creators |publisher=Reuters |date=October 13, 2009 |accessdate=October 20, 2013}}&lt;/ref&gt;
+The shows mostly focus on the Critic watching a film as he makes fun of the movie's problems with recurring memes, comedic sketches and pop culture gags, such as making fun of famous actors who starred in lesser-known roles before their rise to fame. The show also features other segments, such as the "Top 11" lists countdowns for his favorite films, villains, or moments in television shows and "Old vs. New" which compares a [[Reboot (fiction)|reboot]] of a popular film or series to the original. Since the revival of the series in 2013, Walker occasionally produces an editorial which discusses relevant film topics; while still featuring the Critic persona, these videos are much less comedic and contain no sketches or other actors. Beginning with ''[[Jurassic World]]'' in June 23, 2015, the series also occasionally features "clipless reviews" of films that are still currently in theaters to avoid [[copyright infringement]] instead of stills and clips. These reviews instead feature scenes from the movies re-enacted comedically by Walker, his family and other [[Channel Awesome]] contributors.
+
+Walker describes his philosophy thus: "[We need a critic of nostalgia] because everybody already does it. When we look at movies and shows from our youth, they're rarely as good as we remember them, and oftentimes it's quite humorous to compare what you liked then to what you like now. That's basically what the Nostalgia Critic is about, looking back at just how much nostalgia cloaked our vision in heavenly bliss and how bizarre the reality is."&lt;ref&gt;{{cite web|url=http://articles.courant.com/2011-01-28/entertainment/hc-nostalgia-critic-0130-20110128_1_uconn-football-team-video-games-nerds |title=U-Con at UConn is for the Nerds|publisher=[[The Hartford Courant]] |author=Dunne, Susan |date=2011-01-28 |accessdate=2013-10-20}}&lt;/ref&gt; This is mostly reflected in the series, but sometimes he reviews whatever is popular at the moment.
+
+==Main cast==
+*'''Doug Walker''': Nostalgia Critic, the aggressive and short-tempered film critic. He is characterized by his angry rants and hatred of bad movies. All of the reviews star him as the main character, and feature him providing commentary and criticism while talking directly to the audience. 
+*'''Rob Walker''': Rob is the Critic's real-life older brother who appears in most of the Critic's videos as "The Other Guy" as well as different minor and major characters, notably [[Santa Claus|Santa]] [[Jesus|Christ]].
+*'''Malcolm Ray''': Malcolm is one of the Critic's friends who appears on the show and works with him on his videos. Malcolm often plays many secondary characters, most notably as the [[Devil]] in some of the sketches.
+*'''Rachel Tietz:''' She is a friend of the Critic's who worked with him and Malcolm on the show. She played multiple characters, including Evilina (the daughter of the Devil and [[Kim Kardashian]]) and [[Rita Repulsa]] (though her voice was dubbed by Doug Walker in that role). She later left the show after season six to pursue her career in [[Los Angeles]] but has made some cameos in later episodes.
+*'''Tamara Chambers:''' After Rachel Tietz left the show to pursue a career in Los Angeles, Tamara stepped in to take her place. She now has her own short series called ''Tamara's Never Seen'', where she opens talking about an iconic movie that she is about to watch for the first time, followed by her immediate impressions. She also plays a recurring character called Hyper [[Fangirl]].
+*'''Jim Jarosz''': Jim is a friend of the Critic's who often works with Tamara and Malcolm, though he is not present in every episode as Tamara and Malcolm are. He is mainly responsible for most of the props and set pieces in the show, most notably for the review of ''[[Mad Max: Fury Road]]''.
+
+('''Note:''' All of the cast members often play fictionalized versions of their real counterparts).
+
+==Reception==
+''Nostalgia Critic'' has received a mostly positive response with many praising the humor, characters, and Doug Walker's performance. The series eventually garnered a [[cult following]]. [[Greg Weisman]], producer of ''[[Gargoyles (TV series)|Gargoyles]]'', stated that he enjoyed the Critic's review of it.&lt;ref&gt;{{cite web|url=http://www.s8.org/gargoyles/askgreg/search.php?qid=11558 |title=Search Ask Greg : Gargoyles : Station Eight |publisher=S8.org |date= |accessdate=2013-10-20}}&lt;/ref&gt; [[Roger Ebert]] called the episode "A Tribute to Siskel and Ebert" "the best, funniest video about Siskel &amp; Ebert I've ever seen".&lt;ref name="ebert"&gt;{{cite tweet|user=ebertchicago|author=Roger Ebert|number=5711089913|date=14 November 2009|title=The best, funniest  video about Siskel &amp; Ebert I've ever seen. http://j.mp/kpxx8 From Nostalgia Critic http://j.mp/1z4pVJ}}&lt;/ref&gt; Walker later stated in his editorial titled "Farewell to Roger Ebert" that he has since had the quote framed and hung up on his wall, and in "The Making of a Nostalgia Critic Episode", it can be seen on his desk.&lt;ref name="Wall Quote"&gt;{{cite web |last=Walker |first=Doug |title=Animaniacs Tribute |work=Nostalgia Critic Animaniacs Tribute |date=August 11, 2010 |url=http://thatguywiththeglasses.com/videolinks/thatguywiththeglasses/nostalgia-critic/27440-animaniacs-tribute |archive-url=https://web.archive.org/web/20100815040719/http://thatguywiththeglasses.com/videolinks/thatguywiththeglasses/nostalgia-critic/27440-animaniacs-tribute |dead-url=yes |archive-date=August 15, 2010 |df=mdy-all }}&lt;/ref&gt; Animation writer [[Paul Dini]] also thanked the Critic for his episode "The Top 11 ''[[Batman: The Animated Series]]'' Episodes".&lt;ref&gt;{{cite tweet|user=Paul_Dini|author=Paul_Dini|number=103714757961465856|date=17 August 2011|title=Thanks both to  @TGWTG for his nice words about B:TAS and to everyone who pointed me to his list.  I miss that show.}}&lt;/ref&gt; Seth Kearsley, director of ''[[Eight Crazy Nights]]'', praised the Critic's review of the movie on his Twitter account.&lt;ref&gt;{{cite tweet|user=SethKearsley|author=Seth Kearsley|number=478994914399621120|date=17 June 2014|title=Hilarious.  8 Crazy Nights - Nostalgia Critic: via @YouTube}}&lt;/ref&gt; [[WatchMojo.com]] placed the Nostalgia Critic at #2 on their Top 10 YouTube Movie Critics list. Jacob Davich, who portrayed Linus in the film, ''[[The Adventures of Sharkboy and Lavagirl in 3-D|The Adventures of Sharkboy and Lavagirl]]'', highly praised the Critic's review of the film.&lt;ref&gt;https://www.facebook.com/permalink.php?story_fbid=1244697972263328&amp;id=127127037353766&amp;match=amFjb2I%3D&lt;/ref&gt; Both [[Bill Farmer]], the voice of [[Goofy]],&lt;ref&gt;{{cite tweet|user=GoofyBill|author=Bill Farmer|number=705608056290177024|date=4 March 2016|title=@ChannelAwesome I've been voicing Goofy for nearly 30 years &amp;amp; I totally loved your video on Goofy! Very fresh &amp;amp; fun!}}&lt;/ref&gt; and [[Jason Marsden]], the voice of [[Max Goof|Max]], praised Channel Awesome after watching the Critic's editorial, ''Is Goofy Secretly Badass?''&lt;ref&gt;{{cite tweet|user=JasonMarsden|author=Jason Mars-mas|number=705506336499437568|date=3 March 2016|title=Yup that's my pop! @GoofyBill}}&lt;/ref&gt; Animation director [[Ralph Bakshi]] praised the review of ''[[Cool World]]'', finding it "very funny".&lt;ref&gt;https://www.facebook.com/127127037353766/photos/a.465719730161160.105344.127127037353766/1317668541632937/?type=3&amp;theater&lt;/ref&gt;  On August 27, 2017, the Critic did a crossover with fellow Channel Awesome critic, Nash Bozard.  For ''Here There Be Dragons'', Bozard's review series about fantasy films and adaptations, the Critic and Nash reviewed the short-lived [[Syfy]] series ''[[The Dresden Files (TV series)|The Dresden Files]]''.  [[Jim Butcher]], the author who wrote [[The Dresden Files|the novel series]] on which the series was based, seemed to react positively, tweeting "AHAHAHAHAHAHAHA ICANTSTOPLAUGHINGHAHAHAHAHAH".&lt;ref&gt;{{cite tweet|user=longshotauthor|author=Jim Butcher|number=900204891720830976|date=23 August 2017|title=AHAHAHAHAHAHAHA ICANTSTOPLAUGHINGHAHAHAHAHAH}}&lt;/ref&gt;
+
+The series is unofficially translated into many languages. On [[YouTube]], one can find versions with French, Spanish, Portuguese and Polish subtitles, as well as a version with Russian dubbing. However, of all of them, only [[Poland]], where ''Nostalgia Critic'' is a cult series, has its own unofficial website devoted to Channel Awesome's reviewers and its YouTube channel.&lt;ref&gt;{{cite web|url=https://www.youtube.com/channel/UC3_1I-uMQrC_m8MgbIEZh7Q|title= TGWTGpl}}&lt;/ref&gt;
+
+==See also==
+* [[Channel Awesome]]
+* ''[[Angry Video Game Nerd]]''
+* ''[[The Cinema Snob]]''
+* [[CinemaSins]]
+* [[How It Should Have Ended]]
+* [[Screen Junkies]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote|The Nostalgia Critic}}
+* {{Official website|http://channelawesome.com/category/videos/channelawesome/dougwalker/nostalgia-critic/}}
+* {{IMDb title|1635327|Nostalgia Critic}}
+
+{{Channel Awesome}}
+
+{{DEFAULTSORT:Nostalgia Critic}}
+[[Category:2007 web series debuts]]
+[[Category:American web series]]
+[[Category:Black comedy]]
+[[Category:Channel Awesome]]
+[[Category:Comedy web series]]
+[[Category:YouTube series]]</text>
+      <sha1>fbs2m78pajhhmy2zv29te9jd9n0snvm</sha1>
+    </revision>
+  </page>
+</mediawiki>

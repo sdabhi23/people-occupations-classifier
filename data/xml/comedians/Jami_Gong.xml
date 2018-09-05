@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jami Gong</title>
+    <ns>0</ns>
+    <id>18699904</id>
+    <revision>
+      <id>824039014</id>
+      <parentid>811759383</parentid>
+      <timestamp>2018-02-04T23:31:48Z</timestamp>
+      <contributor>
+        <username>Auric</username>
+        <id>31706</id>
+      </contributor>
+      <comment>/* top */ update infobox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3844">{{Infobox comedian
+| name        = Jami Gong
+| image       =
+| imagesize   = 
+| caption     = 
+| pseudonym   = 
+| birth_name  = Jameson Gong
+| birth_date  = 
+| birth_place = [[Chinatown, Manhattan]]
+| death_date  =
+| medium      = [[Stand-up comedy|Stand-up]], Producer
+| nationality = [[United States|American]]
+| active      = 
+| genre       = 
+| subject     = 
+&lt;!-- | influences  = [[Bob Hope]] --&gt;
+| website     = {{url|http://www.takeoutcomedy.com}}
+| spouse      = 
+| notable_work= Producer and host of TakeOut Comedy
+}}
+
+'''Jami Gong''' is a [[Chinese American]] [[stand-up comedian]].&lt;ref&gt;[http://www.aarising.com/aprofiler/jamigong.htm "Featured Profiles", ''Aprofiler'']&lt;/ref&gt;
+
+== Biography ==
+
+Jameson ("Jami") Gong was born in 1969 and raised in New York City's [[Chinatown, Manhattan|Chinatown]].&lt;ref&gt;[https://query.nytimes.com/gst/fullpage.html?res=980DE7DD1739F93BA25755C0A9629C8B63 "PUBLIC LIVES; Carrying a Torch for Chinatown, and for Comedy", ''The New York Times''] June 18, 2004&lt;/ref&gt;
+
+Jami's first attempt at stand-up comedy came on a dare while he attended [[Syracuse University]].&lt;ref&gt;http://www.takeoutcomedy.com&lt;/ref&gt;  After graduating from Syracuse with a geography degree, Jami moved back into his family's brownstone in Chinatown.  He made a living selling sports souvenirs at [[Madison Square Garden]], and in later years, working at a chain of men's clothing stores around [[New York City]].  At nights, Jami performed stand-up comedy, although he did not perform from 1993 to 1999 as a result of a poor autism-induced performance that affected his confidence.  He returned to stand-up after vowing to his sick grandmother that he would live life to the fullest.&lt;ref&gt;[https://query.nytimes.com/gst/fullpage.html?res=980DE7DD1739F93BA25755C0A9629C8B63 "PUBLIC LIVES; Carrying a Torch for Chinatown, and for Comedy", ''The New York Times''] June 18, 2004&lt;/ref&gt;
+
+In 1999, Jami, along with several friends, created www.ChinatownNYC.com, a website featuring information about Chinatown.&lt;ref&gt;http://www.takeoutcomedy.com&lt;/ref&gt;  Jami also became a licensed tour guide and conducted acclaimed&lt;ref&gt;http://www.jaunted.com/story/2007/10/1/163053/175/travel/iPod+Audio+Tours+Taking+Over+New+York&lt;/ref&gt; walking tours in Chinatown.  Later, Jami made stand-up comedy his full-time profession.  He has appeared at [[comedy clubs]] all over the world, as well as on [[Late Night with Conan O'Brien]].&lt;ref&gt;http://www.takeoutcomedy.com&lt;/ref&gt;
+
+In 2005, Jami produced the first National Asian Comedy tour, and also took the tour overseas to [[Asia]].&lt;ref&gt;http://www.coolinyourcode.com/jami-gong/&lt;/ref&gt;  In February 2007, Jami founded [[The TakeOut Comedy Club Hong Kong]],[http://www.takeoutcomedy.com] which is the first full-time comedy club in Asia.&lt;ref&gt;[http://www.takeoutcomedy.com/SCMP.pdf "Stand and Deliver", ''South China Morning Post'']&lt;/ref&gt;  In 2009, the club expanded its operations to conduct shows in [[Macau]] and the [[Philippines]].
+
+== Miscellaneous ==
+
+In 1995, Jami was knighted by the country of [[Malta]].&lt;ref&gt;http://www.takeoutcomedy.com&lt;/ref&gt;  In 2004, Jami carried the [[Olympic flame]] through Lower Manhattan as an official torchbearer for the [[2004 Summer Olympics]].&lt;ref&gt;[https://query.nytimes.com/gst/fullpage.html?res=980DE7DD1739F93BA25755C0A9629C8B63 "PUBLIC LIVES; Carrying a Torch for Chinatown, and for Comedy", ''The New York Times''] June 18, 2004&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.takeoutcomedy.com TakeOut Comedy's] website
+* [http://www.hkcomedyfestival.com HK International Comedy Festival's] website
+
+{{DEFAULTSORT:Gong, Jami}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Hong Kong stand-up comedians]]
+[[Category:Living people]]
+[[Category:People from Chinatown, Manhattan]]
+[[Category:Syracuse University alumni]]
+
+
+{{comedy-stub}}</text>
+      <sha1>mr3pk20m55s34hguhj9y40k4ibytq4m</sha1>
+    </revision>
+  </page>
+</mediawiki>

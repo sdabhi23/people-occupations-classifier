@@ -1,0 +1,209 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shemp Howard</title>
+    <ns>0</ns>
+    <id>658679</id>
+    <revision>
+      <id>856144612</id>
+      <parentid>856144568</parentid>
+      <timestamp>2018-08-23T05:27:57Z</timestamp>
+      <contributor>
+        <username>Ewulp</username>
+        <id>998182</id>
+      </contributor>
+      <comment>del per [[Template:Infobox person]]: cause of death "should only be included when the cause of death has significance for the subject's notability, e.g. James Dean, John F. Kennedy.")</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19068">{{Infobox person
+| name            = Shemp Howard
+| image           = Shemp Howard in Brideless Groom 1947.png
+| caption         = Howard in ''[[Brideless Groom]]''
+| birth_name      = Samuel Horwitz
+| birth_date      = {{Birth date|1895|03|11}}
+| birth_place     = {{nowrap|[[Manhattan, New York City]], U.S.}}
+| death_date      = {{Death date and age|1955|11|22|1895|3|11}}
+| death_place     = [[Hollywood, California]], U.S.
+| resting_place   = [[Home of Peace Cemetery (East Los Angeles)|Home of Peace Cemetery]]
+| years_active    = 1923–1955
+| occupation      = Actor, comedian
+|known_for        = ''[[The Three Stooges]]''
+| spouse          = {{marriage|Gertrude Frank&lt;br&gt;|1925|1955|reason=his death}}
+| other_names     = 
+| children        = 1
+| relatives       = [[Moe Howard]] &lt;small&gt;(brother)&lt;/small&gt;&lt;br&gt;[[Curly Howard]] &lt;small&gt;(brother)&lt;/small&gt;&lt;br&gt;[[Joan Howard Maurer]] &lt;small&gt;(niece)&lt;/small&gt;
+}}
+
+'''Samuel Horwitz''' (March 11, 1895 – November 22, 1955),&lt;ref name="Mar11"&gt;{{cite web|url=http://threestooges.net/forums/gallery/9_11_03_11_8_19_15.jpg|title=Shemp's Birth Certificate|publisher=Threestooges.net|accessdate=2014-02-02|deadurl=yes|archiveurl=https://web.archive.org/web/20131215055306/http://threestooges.net/forums/gallery/9_11_03_11_8_19_15.jpg|archivedate=2013-12-15|df=}}&lt;/ref&gt; known professionally as '''Shemp Howard''', was an American [[actor]] and [[comedian]]. He was called "Shemp" because "Sam" came out that way in his mother's thick [[Lithuanian Yiddish|Litvak]] accent. He is best known today for his role as the third stooge in [[the Three Stooges]], a role he first portrayed at the beginning of the act in the early 1920s (1923–1932) while the act was still associated with [[Ted Healy]] and known as "Ted Healy and his Stooges", and again from 1946 until his death in 1955. Between his times with the Stooges, Shemp had a successful film career as a solo comedian.
+
+==Early life==
+Shemp was born as '''Shmuel Horwitz''' [[Manhattan, New York]] on March 11, 1895, and raised in Brooklyn. He was the third-born of the five Horwitz brothers, the sons of their [[Lithuanian Jewish]] parents: Solomon Horwitz (1872–1943) and Jennie Horwitz (1870–1939). Irving and Jack were his older brothers; [[Moe Howard|Moses]] and [[Curly Howard|Jerome]] were his younger brothers.
+
+His first name, '''Shmuel''' was [[anglicize]]d to '''Samuel''', and his parents and brothers usually called him '''Sam'''.  His mother's Lithuanian accent caused his name to sound like ''Shem'', when she spoke it, hence his nickname.
+
+==Career==
+
+===Show business===
+Shemp's brother, Moe Howard, started in show business as a youngster, on stage and in films.  Eventually, Moe and Shemp tried their hands as minstrel-show-style "blackface" comedians with an act they called "Howard and Howard—A Study In Black". Meanwhile, they also worked for a rival vaudeville circuit at the same time, appearing without makeup.
+
+By 1922, Moe had teamed up with boyhood-friend-turned-vaudeville star [[Ted Healy]] in a "roughhouse" act. One day Moe spotted his brother Shemp in the audience, and yelled at him from the stage. Quick-witted Shemp yelled right back, and walked onto the stage. From then on he was part of the act, usually known as "Ted Healy and His Stooges". His original stooges were the Howard brothers, with [[Larry Fine]] joining in March 1925. On stage, Healy sang and told jokes while his three noisy stooges got in his way. Healy retaliated with physical and verbal abuse. Shemp played a bumbling fireman in the Stooges' first film, ''[[Soup to Nuts]]'' (1930), the only film in which he plays one of Healy's gang.
+
+After a disagreement with Healy in August 1930, Moe, Larry and Shemp left to launch their own act, "Howard, Fine &amp; Howard," and joined the [[Keith-Albee-Orpheum|RKO vaudeville circuit]]. The three premiered at Los Angeles' Paramount Theatre on August 28, 1930.  In 1931, they added "Three Lost Soles" to the act's name, and took on Jack Walsh as their straight man.  Moe, Larry and Shemp continued until July 1932, when Ted Healy approached them to team up again for the Shuberts' Broadway revue "Passing Show of 1932," and they readily accepted the offer. In spite of any differences, Moe knew that an association with the nationally-known Ted Healy provided opportunities the three comics were not achieving on their own.
+
+On August 16, 1932, in a contract dispute, Healy walked out on the Shuberts' revue during rehearsals. Following this, three days later, tired of what he considered Healy's domineering handling of the Stooges' career, Shemp left Healy's act to remain with "Passing Show," which closed in September during roadshow performances and after pan reviews in Detroit and Cincinnati. Shemp regrouped to form his own act and played on the road for a few months. He landed at Brooklyn's Vitaphone Studios for movie appearance opportunities in May 1933. When he split from Healy, Shemp was immediately replaced by his and Moe's younger brother [[Jerry Howard]] (known as Curly) in the act.&lt;ref&gt;{{cite news |url=http://mentalfloss.com/article/29769/final-years-curly-three-stooges-fame |title=The Final Years of Curly (of Three Stooges Fame) |work=[[Mental Floss]] |last=Deezen |first=Eddie |date=January 18, 2012 |accessdate=July 2, 2017}}&lt;/ref&gt;
+
+===Solo years===
+Shemp Howard, like many New York-based performers, found work at the [[Vitaphone]] studio in Brooklyn. Originally playing bit roles in Vitaphone's [[Roscoe Arbuckle]] comedies, showing off his goofy appearance, he was entrusted with speaking roles and supporting parts almost immediately. He was featured with Vitaphone comics [[Jack Haley]], [[Ben Blue]] and [[Gus Shy]], then co-starred with [[Harry Gribbon]], [[Daphne Pollard]] and Johnnie Berkes, and finally starred in his own two-reel comedies. A Gribbon-Howard short, ''[[Art Trouble]]'' (1934), also features then unknown [[James Stewart (actor)|James Stewart]] in his first film role.
+
+Shemp would seldom stick to the script, and would liven up a scene with ad-libbed incidental dialogue or wisecracks. This became a trademark of his performances. In late 1935, Vitaphone was licensed to produce short comedies based on the "[[Joe Palooka]]" comic strip. Shemp was cast as "Knobby Walsh," and though only a supporting character became the comic focus of the series, with Johnny Berkes and Lee Weber as his foils. He co-starred in the first seven shorts, released during 1936 and 1937; nine were produced altogether, with the last two done after Shemp's departure from Vitaphone for greener pastures on the West Coast.
+
+Away from Vitaphone he attempted, unsuccessfully, to lead his own group of "stooges" in the Van Beuren musical comedy short ''[[The Knife of the Party]]''.  But Shemp's solo career was otherwise successful. He followed his brothers' lead, moved to the West Coast in 1937 and landed supporting-actor roles at several studios, predominantly at [[Columbia Pictures]] and [[Universal Studios]]. Shemp worked exclusively at Universal from August 1940 to August 1943. He performed with such comics as [[W. C. Fields]], playing Fields' bartender in the film ''[[The Bank Dick]]'' (1940); and with comedy duos [[Abbott and Costello]] and [[Olsen and Johnson]]. He lent comic relief to [[Charlie Chan]] and [[The Thin Man]] murder mysteries.  Shemp appeared in several Universal B-musicals of the early 1940s, among them ''[[Strictly in the Groove]]'' (1942), ''[[How's About It?]]'' (1943), ''[[Moonlight and Cactus (1944 film)|Moonlight and Cactus]]'' (1944) and ''[[San Antonio Rose (film)|San Antonio Rose]]'' (1941), in which he is paired with [[Lon Chaney, Jr.]] as a faux Abbott and Costello.  Most of these projects took great advantage of his improvisational skills. He was briefly teamed with comedians [[Billy Gilbert]] and [[Maxie Rosenbloom]] for three B-comedy features in 1944–45. He also played a few serious parts, such as his supporting role in ''[[Pittsburgh (1942 film)|Pittsburgh]]'' (1942), starring [[Marlene Dietrich]] and [[John Wayne]].
+
+===The Three Stooges: 1946–1955===
+[[File:Malice in the Palace.JPG|250px|thumb|Moe, Shemp (bottom centre), and Larry in [[Malice in the Palace]]]]
+During 1938–1939 and 1944–1946, Shemp appeared in Columbia's two-reel comedies, co-starring with Columbia regulars [[Andy Clyde]], The Glove Slingers, [[El Brendel]] and [[Tom Kennedy (American actor)|Tom Kennedy]]. He was given his own starring series in 1944; he was working for Columbia in this capacity when his brother Curly was felled by a debilitating stroke on May 6, 1946, although he had already suffered a series of them prior to the filming of ''[[If a Body Meets a Body]]'' (1945). Shemp replaced Curly in Columbia's popular Stooge shorts, knowing that Moe and Larry would be out of work if he refused. He rejoined the Stooges at first on only a temporary basis until Curly recovered, but as Curly's condition worsened it became apparent that Shemp's association with the Stooges would be permanent. Reportedly he was initially reluctant about rejoining the Stooges, but Shemp's income increased significantly over the next several years due to this career change.  Before replacing Curly in the film series, it has also been claimed that Shemp substituted for his brother in various personal appearances in the early 1940s; however, that only occurred once in January 1945, for a week-long appearance at the St. Charles Theatre in New Orleans.  Curly died on January 18, 1952, at the age of 48.
+
+Shemp's role as the third Stooge was much different from Curly's. While he could still roll with the punches in response to Moe's slapstick abuse, he was more of a laid-back dimwit as opposed to Curly's energetic man-child persona. And unlike Curly, who had many distinct mannerisms, Shemp's most notable characteristic as a Stooge was a high-pitched "bee-bee-bee-bee-bee-bee!" sound, a sort of soft screech done by inhaling. This was rather multi-purpose, since Shemp emitted this sound when scared, sleeping (done as a form of snoring), overtly happy or dazed. It became as much a trademark sound of Shemp as the "nyuk nyuk" sound had become Curly's. Because of his established solo career, he was also given opportunities within the sketches to act out comic routines on his own.
+
+It was during this period that The Three Stooges first ventured into live television appearances, beginning on Tuesday, October 19, 1948 with [[Milton Berle]] on his [[Texaco Star Theatre]] program.
+
+Shemp appeared with Moe and Larry in 73 short subjects—or 77, counting four that were made after Shemp's death by using stock footage.  The trio also made the feature film ''[[Gold Raiders]]'' (1951). Shemp suffered a mild [[stroke]] in November 1952, although he recovered from it within weeks.  The medical episode had no noticeable effect on his remaining films with the Stooges, many of which were remakes of earlier films that also used recycled footage to reduce costs.
+
+==Personal life==
+In September 1925, Shemp (at age 30) married Gertrude Frank (26), a fellow New Yorker. They had one child, Morton (1926–1972).
+
+Shemp used his somewhat homely appearance for comic effect, often mugging grotesquely or allowing his hair to fall in disarray. He even played along with a publicity stunt that named him "The Ugliest Man in Hollywood". ("I'm hideous," he explained to reporters.) Notoriously [[phobia|phobic]], his fears included [[airplane]]s, [[automobile]]s, [[Cynophobia|dogs]] and [[Aquaphobia|water]].
+
+According to Moe's autobiography, Shemp was involved in a driving accident as a teenager and never obtained a driver's license.&lt;ref name="Moe"&gt;{{cite book| last = Howard | first = Moe| authorlink = Moe Howard| coauthors =| title = [[Moe Howard and the Three Stooges]]| publisher = Broadway Publishing| origyear = 1977| year = 1979| location = | pages = |isbn = 978-0-8065-0723-1}}&lt;/ref&gt;
+
+==Death==
+[[File:Shempgrave.jpg|thumb|Crypt of Shemp Howard at the Home of Peace Cemetery]]
+On November 22, 1955, Shemp went out with his friends Al Winston and Bobby Silverman to a boxing match (one of Shemp's favorite pastimes), at the old Hollywood Legion Stadium (at North El Centro Avenue &amp; Selma Avenue), located just one block above the Hollywood Palladium. While returning home in a taxicab that evening, he died of a sudden massive heart attack, at the age of 60. He was leaning back and lighting a cigar after telling a joke, when he suddenly slumped over on his friend Al Winston's lap, accidentally burning Al with the cigar. Al thought Shemp was playing a joke, since Shemp was laughing moments earlier, but realized he was actually dead. 
+
+Moe's autobiography gives a death date of November 23, 1955, as do most subsequent accounts, because of Moe's book. But much of that book was finished posthumously by his daughter and son-in-law, and some specific details were confused as a result. The Los Angeles county coroner's death certificate states that Shemp Howard died on Tuesday, November 22, 1955, at 11:35 [PM] PST; confirming that, Shemp's obituary appeared in the November 23 afternoon editions of [[Los Angeles]] newspapers, establishing the night of November 22 as the date of death.&lt;ref&gt;{{cite news |author= |coauthors= |title=Comic Shemp Howard of 3 Stooges Dies. Veteran Actor, 60, Stricken by Heart Attack in Auto |url=https://pqasb.pqarchiver.com/latimes/access/452964462.html?dids=452964462:452964462&amp;FMT=ABS&amp;FMTS=ABS:AI&amp;type=historic&amp;date=Nov+24%2C+1955&amp;author=&amp;pub=Los+Angeles+Times&amp;desc=Comic+Shemp+Howard+of+3+Stooges+Dies&amp;pqatl=google |quote=Shemp Howard, 60, veteran stage and screen comedian and one of 'The Three Stooges,' died Tuesday of a heart attack. |newspaper=[[Los Angeles Times]] |date=November 24, 1955 |accessdate=2011-08-12 }}&lt;/ref&gt; A different account is offered by former daughter-in-law Geri Greenbaum, who says Shemp's death happened just as their cab came over the rise on Barham Boulevard (heading to his Toluca Lake home).{{Citation needed|date=June 2016}}
+
+Shemp Howard was entombed in a crypt in the Indoor Mausoleum at the [[Home of Peace Cemetery (East Los Angeles)|Home of Peace Cemetery]] in [[East Los Angeles (region)|East Los Angeles]]. His younger brother Curly is also interred there in an outdoor tomb in the Western Jewish Institute section, as well as his parents Solomon &amp; Jennie Horwitz, and older brother Benjamin "Jack".
+
+==Tributes==
+The Three Stooges earned a star on the [[Hollywood Walk of Fame]] at 1560 Vine Street on August 30, 1983.&lt;ref&gt;{{cite web |title=The Three Stooges |url=http://www.walkoffame.com/the-three-stooges |publisher=walkoffame.com |accessdate=2018-04-20 }}&lt;/ref&gt;
+
+==The "Fake Shemps" and Legacy==
+Columbia had promised exhibitors eight Three Stooges comedies for 1956, but only four had been completed at the time of Shemp's death. To fulfill the contract, producer [[Jules White]] manufactured four more shorts by reusing old footage of Shemp and filming new connecting scenes with a double (longtime Stooge supporting actor [[Joe Palma]]), who is seen mostly from the back.
+
+Palma came to be known by Stooge fans as the "[[Fake Shemp]]", and director [[Sam Raimi]] and his childhood friend actor [[Bruce Campbell]] referred to anyone playing a body double or stand-in in other films as "Shemp" or "a Fake Shemp" in reference to the postmortem Stooge shorts with a double portraying Shemp in some scenes.
+
+The [[List of Three Stooges Recycled Shorts|re-edited films]] range from clever to blatantly patchy, and are often dismissed as second-rate. ''[[Rumpus in the Harem]]'' borrows from ''[[Malice in the Palace]]'', ''[[Hot Stuff (1956 film)|Hot Stuff]]'' from ''[[Fuelin' Around]]'', and ''[[Commotion on the Ocean]]'' (all re-edits released 1956) from ''[[Dunked in the Deep]]'' (originals all 1949). The best-received (and most technically accomplished) is ''[[Scheming Schemers]]'' (again 1956), combining new footage with recycled clips from ''three'' old Stooge shorts: ''[[A Plumbing We Will Go]]'' (1940), ''[[Half-Wits Holiday]]'' (1947) and ''[[Vagabond Loafers]]'' (1949).&lt;ref&gt;Forrester, Jeff (2002). ''Three Stooges: The Triumphs and Tragedies of the Most Popular Comedy Team of All Time'', p. 151–152. Donaldson Books. {{ISBN|0-9715801-0-3}}.&lt;/ref&gt;
+
+When it was time to renew the Stooges' contract, Columbia hired comedian [[Joe Besser]] to replace Shemp. Columbia stopped filming new Stooge shorts for theaters in December 1957, but kept the series going into the 1960s by reissuing Shemp's Stooge shorts, so that Shemp Howard remained a popular star for more than a decade after he died.
+
+In a TV biopic film, ''[[The Three Stooges (TV movie)|The Three Stooges]]'' (2000), produced by [[Mel Gibson]], Shemp was portrayed by 'fake Shemp' [[Johnny Kassir]], who donned a floppy, straight-haired wig to portray the famous comic.
+
+==Selected filmography==
+* "[[Spring Fever (1919 film)|Spring Fever]]" (1919)
+* ''[[Art Trouble]]'' (1934)
+* ''[[Another Thin Man]]'' (1939)
+* ''[[The Bank Dick]]'' (1940)
+* ''[[Millionaires in Prison]]'' (1940)
+* ''[[The Invisible Woman]]'' (1940)
+* ''[[Six Lessons from Madame La Zonga]]'' (1941)
+* ''[[Tight Shoes (film)|Tight Shoes]]''  (1941)
+* ''[[Hold That Ghost]]'' (1941)
+* ''[[Buck Privates]]'' (1941)
+* ''[[Too Many Blondes]]'' (1941)
+* ''[[In The Navy (film)|In the Navy]]'' (1941)
+* ''[[San Antonio Rose (film)|San Antonio Rose]]'' (1941)
+* ''[[Hellzapoppin' (film)|Hellzapoppin']]'' (1941)
+* ''[[Road Show (film)|Road Show ]]'' (1941)
+* ''[[Crazy House (1943 film)|Crazy House]]'' (1942)
+* ''[[Arabian Nights (1942 film)|Arabian Nights]]'' (1942)
+* ''[[Pittsburgh (1942 film)|Pittsburgh]]'' (1942)
+* ''[[Private Buckaroo]]'' (1942)
+* ''[[The Strange Case of Doctor Rx]]'' (1942)
+* ''[[Strictly in the Groove]]'' (1942)
+* ''[[How's About It]]'' (1943)
+* ''[[Crazy Knights]]'' (1944)
+* ''[[Moonlight and Cactus (1944 film)|Moonlight and Cactus]]'' (1944)
+* ''[[Strange Affair (1944 film)|Strange Affair]]'' (1944)
+* ''[[Three of a Kind (1944 film)|Three of a Kind]]'' (1944)
+* ''[[One Exciting Week]]'' (1946)
+* ''[[Africa Screams]]'' (1949)
+* ''[[Gold Raiders]]'' (1951)
+Charlie Chan Murder Over New York (1940)
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+{{Portal|Biography}}
+* {{IMDb name|0397602}}
+* {{tcmdb name|id=89697|name=Shemp Howard}}
+* {{IBDB name}}
+* {{Find a Grave|6130700}}
+
+{{ThreeStooges}}
+{{Authority control}}
+
+{{DEFAULTSORT:Howard, Shemp}}
+[[Category:1895 births]]
+[[Category:1955 deaths]]
+[[Category:Male actors from New York City]]
+[[Category:Jewish American comedians]]
+[[Category:American male comedians]]
+[[Category:American comedians]]
+[[Category:American male film actors]]
+[[Category:American people of Lithuanian-Jewish descent]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:People from Manhattan]]
+[[Category:The Three Stooges members]]
+[[Category:Vaudeville performers]]
+[[Category:Jewish American male actors]]
+[[Category:20th-century American male actors]]
+[[Category:American male comedy actors]]</text>
+      <sha1>98i7x3jywskyuhqbogta89ddigazblx</sha1>
+    </revision>
+  </page>
+</mediawiki>

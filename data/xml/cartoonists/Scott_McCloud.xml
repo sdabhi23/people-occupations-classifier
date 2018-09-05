@@ -1,0 +1,227 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Scott McCloud</title>
+    <ns>0</ns>
+    <id>298647</id>
+    <revision>
+      <id>854877622</id>
+      <parentid>852284443</parentid>
+      <timestamp>2018-08-14T11:55:33Z</timestamp>
+      <contributor>
+        <username>Equinox</username>
+        <id>24880950</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25637">{{Distinguish|Scott McLeod (disambiguation){{!}}Scott McLeod}}
+{{Infobox comics creator
+| name          = Scott McCloud
+| image         = Scott McCloud.Making Comics Tour.RISD.gk.JPG
+| imagesize     = 
+| caption       = McCloud, [[Rhode Island School of Design|RISD]], March 2007.
+| alt           =
+| birth_name    = Scott McLeod
+| birth_date    = {{Birth date and age|1960|06|10}} 
+| birth_place   = [[Boston]], Massachusetts, United States
+| death_date    = 
+| death_place   = 
+| nationality   = American
+| area          = {{Plainlist|
+*[[Cartoonist]]
+*Comics theorist}}
+| cartoonist    = y
+| alias         = 
+| notable works = {{plainlist|
+*''[[Zot!]]''
+*''[[Understanding Comics]]''
+*''[[Reinventing Comics]]''
+*''Making Comics''
+*''[[The Sculptor (comics)|The Sculptor]]''}}
+| awards        = {{plainlist|
+*1985 [[Russ Manning Award]]
+*1985 [[Jack Kirby Award]]
+*1994 [[Eisner Award]]
+*3 [[Harvey Award]]s}}
+| website       = {{URL|www.scottmccloud.com}}
+| subcat        = American}}
+
+'''Scott McCloud''' (born '''Scott McLeod''' on June 10, 1960) is an American [[cartoonist]] and comics theorist.  He is best known for his non-fiction books about comics, ''[[Understanding Comics]]'' (1993), ''[[Reinventing Comics]]'' (2000), and ''[[Making Comics]]'' (2006).
+
+==Early life==
+[[File:ScottMcCloud.jpg|thumb|upright|left|McCloud on the ''Making Comics'' Tour in Louisville, Kentucky]]
+McCloud was born in 1960&lt;ref name=ReinventingComics&gt;McCloud, Scott. (2000), ''Reinventing Comics''. [[Paradox Press]]. p. 92&lt;/ref&gt; in [[Boston]], Massachusetts, the son of Willard Wise (an inventor and engineer) and Patricia Beatrice McLeod,&lt;ref name=":0"&gt;[https://sites.google.com/site/understandingcomics/Home/author Understanding Comics]&lt;/ref&gt;&lt;ref name=NYTimes/&gt; and spent most of his childhood in [[Lexington, Massachusetts]].&lt;ref name=PopImage&gt;Albert Boime and David Dodd (August 22, 2000), [http://www.popimage.com/profile/082200mccloud1.html "PROFILE INTERVIEW: Scott McCloud"]. PopImage. Retrieved November 16, 2011.&lt;/ref&gt; He decided he wanted to be a comics artist in 1975, during his junior year in high school.
+
+[[Syracuse University]]'s Illustration program was closest to his career goals. He selected that school and major,&lt;ref name=ReinventingComics/&gt;&lt;ref name=PopImage/&gt; and graduated with a [[Bachelor of Fine Arts]] degree in 1982.&lt;ref&gt;Harvey, R.C. (August 1979), [http://archives.tcj.com/2_archives/i_mccloud.html "Scott McCloud"] {{webarchive|url=https://web.archive.org/web/20120319194942/http://archives.tcj.com/2_archives/i_mccloud.html |date=2012-03-19 }}. ''[[The Comics Journal]]'' #179. Retrieved November 16, 2011.&lt;/ref&gt;
+
+==Career==
+===Artist and theorist===
+McCloud created the light-hearted [[science fiction]]/[[superhero]] [[comic book]] series ''[[Zot!]]'' in 1984, in part as a reaction to the increasingly grim direction that superhero comics were taking in the 1980s.
+
+His other print comics include ''Destroy!!'' (a deliberately over-the-top, oversized single-issue comic book, intended as a parody of formulaic superhero fights), the [[graphic novel]] ''The New Adventures of Abraham Lincoln'' (done with a mixture of computer-generated and manually drawn digital images), 12 issues writing [[DC Comics]]' ''[[Superman Adventures]]'', the three-issue limited series ''Superman: Strength'',&lt;ref&gt;[http://buku135.com/detail_pengarang.php?ID=763 Toko Buku Online.]&lt;/ref&gt; and his 2015 graphic novel ''[[The Sculptor (comics)|The Sculptor]]''.&lt;ref&gt;{{cite book |last=McCloud |first=Scott |title=The Sculptor |publisher=First Second |location=New York |date=Feb 2015}}&lt;/ref&gt;
+
+He is best known as a comics theorist or, as some say, the "Aristotle of comics",&lt;ref&gt;Wardrip-Fruin, Noah &amp; Montfort, Nick (2003). ''The New Media Reader''. The MIT Press.&lt;/ref&gt; following the publication in 1993 of ''[[Understanding Comics]]'', a wide-ranging exploration of the definition, history, vocabulary, and methods of the medium of comics, itself in comics form.&lt;ref name="www2.und.nodak.edu"&gt;http://www2.und.nodak.edu/our/uletter/print_article.php?uletterID=2163&lt;/ref&gt;  He followed in 2000 with ''[[Reinventing Comics]]'' (also in comics form), in which he outlined twelve "revolutions" that he argued would be keys to the growth and success of comics as a popular and creative medium. Finally, in 2006, he released ''Making Comics''. Following publication, he went on a tour with his family that included all 50 U.S. states and parts of Europe.&lt;ref name="MIT-tour"&gt;{{cite web|last=MIT news |title='Making Comics' author decodes cartoons |date=September 20, 2006 |url=http://web.mit.edu/newsoffice/2006/mccloud-0920.html |deadurl=yes |archiveurl=https://web.archive.org/web/20071128143552/http://web.mit.edu/newsoffice/2006/mccloud-0920.html |archivedate=November 28, 2007 }}&lt;/ref&gt;
+
+He was one of the earliest vocal supporters of [[micropayment]]s.&lt;ref name="Guardian-Pay"&gt;{{cite web|author=Ben Hammersley|publisher =[[The Guardian]]|title = Making the web pay | date = August 7, 2003 | url =http://technology.guardian.co.uk/online/story/0,3605,1013313,00.html }}&lt;/ref&gt; He was also an adviser to [[BitPass]], a company that provided an online micropayment system, which he helped launch with the publication of ''[[The Right Number]]'', an online graphic novella priced at US$0.25 for each chapter.  McCloud maintains an active online presence on his web site where he publishes many of his ongoing experiments with comics produced specifically for the web.  Among the techniques he explores is the "[[infinite canvas]]" permitted by a web browser, allowing panels to be spatially arranged in ways not possible in the finite, two-dimensional, paged format of a physical book.&lt;ref name="www2.und.nodak.edu"/&gt;
+
+He created a comic book that formed the press release introducing [[Google]]'s web browser, [[Google Chrome]], which was published on September 1, 2008.&lt;ref&gt;{{cite web|title=Google Chrome, behind the Open Source Browser Product |last=McCloud|first=Scott|date=2008-09-01|accessdate=2008-09-02|url=https://www.google.com/googlebooks/chrome/|publisher=Google}}&lt;/ref&gt;
+
+In 2009, McCloud was featured in ''[[The Cartoonist]]'', a documentary film on the life and work of [[Jeff Smith (cartoonist)|Jeff Smith]], creator of ''Bone.''&lt;ref&gt;[http://www.thecartoonistmovie.com The Cartoonist Movie]. Retrieved November 14, 2011.&lt;/ref&gt;
+
+He also authored a comic strip explaining Kubernetes &lt;ref&gt;[https://cloud.google.com/kubernetes-engine/kubernetes-comic/ Kubernetes Comic&lt;/ref&gt;
+
+===Creator's Bill of Rights===
+McCloud was the principal author of the [[Creator's Bill of Rights]], a 1988 document with the stated aim of protecting the rights of comic book creators and help aid against the exploitation of comic artists and writers by corporate work-for-hire practices.&lt;ref name="Comics Journal 137"&gt;Coogan, Pete  (September, 1990). "Creator's Rights". ''[[The Comics Journal]]'' p. 65-71&lt;/ref&gt; The group that adopted the Bill also included artists [[Kevin Eastman]], [[Dave Sim]], and  [[Stephen R. Bissette]].&lt;ref name="reinventing comics"&gt;McCloud, Scott (2000). ''[[Reinventing Comics]]'', New York: Paradox Press. Pg. 62&lt;/ref&gt; The Bill included twelve rights such as "The right to full ownership of what we fully create," and "The right to prompt payment of a fair and equitable share of profits derived from all of our creative work."&lt;ref&gt;{{cite web|url=http://www.scottmccloud.com/inventions/bill/bill_of_rights.html|title=Creator's Bill of Rights|date=2006-10-13}}&lt;/ref&gt;
+
+===24-hour comic===
+In 1990, McCloud coined the idea of a [[24-hour comic]], a complete 24-page comic created by a single cartoonist in 24 consecutive hours.  It was a mutual challenge with cartoonist [[Steve Bissette]], intended to compel creative output with a minimum of self-restraining contemplation.&lt;ref name="Brattlebro-24"&gt;{{cite web | last =Brattleboro Museum | title = The 24-Hour Comic Book Challenge | url=http://www.brattleboromuseum.org/events/ComicChallenge.html  |archiveurl = https://web.archive.org/web/20070607194756/http://www.brattleboromuseum.org/events/ComicChallenge.html |archivedate = 2007-06-07}}&lt;/ref&gt; Thousands of cartoonists have since taken up the challenge, including [[Neil Gaiman]]; [[Kevin Eastman]], co-creator of ''[[Teenage Mutant Ninja Turtles]]''; [[Dave Sim]], who published some of his work from this challenge in ''[[Cerebus the Aardvark]]'';&lt;ref&gt;''Cerebus'' #142 (Aardvark/Vanaheim, January 1991).&lt;/ref&gt; and [[Rick Veitch]] who used it as a springboard for his comic ''Rarebit Fiends''.&lt;ref&gt;McCloud, Scott. [http://www.scottmccloud.com/4-inventions/24hr/phenomenon/index.htmlindex The 24-Hour Comics Index]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}. scottmccloud.com. Retrieved October, 2013.&lt;/ref&gt;
+
+==Technique and materials==
+Although McCloud sketches his layouts in pencil, the remainder of his work is done digitally, explaining in his 2006 book ''Making Comics'' that he had not used traditional materials like [[Bristol board]], pens or brushes in years. After sketching layouts, which he says are "pretty tight", and include the full script, he scans them into an 18-inch [[computer tablet]]/monitor to use them as a guide for lettering them in [[Adobe Illustrator]]. After completing the lettering, he exports the files to [[Adobe Photoshop|Photoshop]], where he fully renders the art at a resolution of 1,200 [[Dots per inch|dpi]], creating between five and fifty layers of finished art before flattening it into a single black and white [[bitmap]], plus a [[greyscale]] page, if needed.&lt;ref&gt;McCloud, Scott (2006), ''Making Comics''. [[William Morrow Paperbacks]]. pp 196-197&lt;/ref&gt;
+
+== Views of Different Types of Comics ==
+In Scott McCloud’s book, ''Understanding Comics,'' he gives an explanation on what he believes are comics. He sees Mayan manuscripts, Tapestry, Egyptian Hieroglyphics, [[Lynd Ward]]s’ “Woodcut Novels” and of course, Manga. Even though he lists these as being comics, he says that many do not receive the recognition of comics. However he states that “comics” have had a bad reputation and has even made some comic book artists want to change their title to “Illustrators”, “Commercial Artists”, or at best “Cartoonists”. The reason that some innovative and inspirational comics are not viewed as comics because of their superior qualities. People do not want these great works of art as “comics”, so they do not give it the title even though that is what they are. Though the different types of comics that had McCloud the most intrigued were the Japanese comics “Manga.&lt;ref name=":0" /&gt;
+
+Scott McCloud talked about the first time he was introduced to Manga. He said that he was working in DC at the time during the 1980s. He said that a friend from Syracuse was the one that introduced him to manga. He said the friend arrived with two manga that were un-translated. One of the books was called [[Phoenix (manga)|Phoenix]], by [[Osamu Tezuka]], and the other comic could not be remembered. McCloud was instantly intrigued and the first thing he wanted to do was find some more Japanese Manga, however he also shares that his interest in Manga was not shared by everyone. He still recalls that even though he was in the few, he would spend his lunch break reading manga. He says that he would eat lunch and “stand-read” manga. The manga he read was still un-translated and was learning from the books. He states “Of course, I didn’t know a word of Japanese. But I knew to read right-to-left.  I knew how to read comics. They were such good visual storytellers that I was learning their storytelling techniques and I was soaking in the stories.” He said that he wanted other Americans to also learn from Manga and wanted them to understand it more.&lt;ref&gt;{{Cite web|url=ezproxy.lib.umb.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=34365979&amp;site=ehost-live|title="Manga In Manhattan, Scott McCloud's Twelve Revolutions, and Comics' Perfect Storm."|last=Vollmar|first=Rob|date=September–October 2008|website=World Literature Today|accessdate=December 13, 2017}}&lt;/ref&gt;
+
+McCloud also states that Tezuka, the man who created the first manga that he was introduced to, was his favorite cartoonists for many years. He states that he had a bookcase that was filled with Tezuka’s work, even though the work was still un-translated. He said that he studied the manga “like the Torah for hours on end.” He would randomly choose a page from a manga and immediately be amazed by the page that he landed on. He also added a tribute to his favorite cartoonist in ''[[Zot!]]'', a comic book written by McCloud. A reader of McClouds’ comic book showed Tezuka the tribute of himself in McClouds’ comic and his message back to McCloud was “to emphasize ‘quality over quantity.’” McCloud finds joy in newer cartoonists and readers discovering Tezuka and enjoying the manga that he used to read.&lt;ref&gt;{{Cite web|url=http://scottmccloud.com/category/manga/|title=Scott McCloud {{!}} Journal  » Manga|website=scottmccloud.com|language=en-US|access-date=2017-12-14}}&lt;/ref&gt;
+
+Throughout his time reading Manga, he learned to deconstruct and assess the comics. McCloud learned to “systematically deconstruct the elements” of manga “into visual segments for his audience.” He asses the style of storytelling because of the immersive techniques that Manga hold.  He also said that through his assessment of manga and deconstructing it, that he can even analytically criticize comic classics such as ''[[Garfield]]'' and ''[[Archie Comics|Archie]]''. From his experience and depth, McCloud has learned to blend word and image together. He bettered his skills in developing comic book by learning from Manga and dissecting its’ techniques.&lt;ref&gt;{{Cite web|url=http://ezproxy.lib.umb.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=26685227&amp;site=ehost-live|title=Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels|last=Rosemary|first=Johnsen|date=October 2007|website=|accessdate=December 13, 2017}}&lt;/ref&gt;
+
+Scott McCloud continues to say a lot of positive things to say about Manga. During [[San Diego Comic-Con|Comic-con]] in 2009, McCloud stated how graphic novels, which include manga, were “doing pretty good”. He was referring to the outcome of the comic-con event even during the rough patch the economy took during that gap.  During the Comic-con [[Viz Media]], known for its’ manga and anime, had a booth lined up that received a lot of attention during the event.  Viz Media was announcing many new publishing and even a manga adaption of [[Twilight (novel series)|Twilight]] that was gathering and impressing everyone who attended the events. McCloud was right to believe that the graphic novels were “doing pretty good” because the manga industry in the United States only continues to grow and has changed the views of many people across the United States. The Manga and Anime industry continue to reinforce each other in gaining more and more popularity and acceptance by new generations, and older ones as well.&lt;ref&gt;{{Cite news|url=https://www.publishersweekly.com/pw/by-topic/new-titles/adult-announcements/article/2188-manga-keeps-growing-in-a-tough-economy.html|title=Manga Keeps Growing in a Tough Economy|work=PublishersWeekly.com|access-date=2017-12-14|language=en}}&lt;/ref&gt;
+
+McCloud also gives the credit of bringing girls in to the comic book world. He says that the “Manga invasion”, which occurred in the 1990s, is when girls began to pick up the Japanese comics. He believed that the comics were so influential that the children who were reading the books were going to be the inspiration of the new kids who joined art schools and wanted to be comic book artists, and he was right. He also goes on to believe that within the new eight years “we may see a majority female industry and readership”. The “Manga Invasion” changed the game for American teens that were interested in comics and wanted to join the industry. It completely changed the demographics of an all boy activity, to a boy and girl activity, to possibly even an activity that would be ruled by all women. They were ultimately, inspired, like McCloud said, and changed the “face of comics”.&lt;ref&gt;{{Cite web|url=http://time.com/3841761/scott-mccloud-free-comic-book-day/|title=Scott McCloud: Girls Are Taking the Comic Book World By Storm|website=Time|access-date=2017-12-14}}&lt;/ref&gt;
+
+==Personal life==
+McCloud lives in [[Newbury Park, California]].&lt;ref&gt;McCloud, Scott [http://scottmccloud.com/5-about/index.html "About"]. Retrieved November 30, 2012.&lt;/ref&gt; He has been married to Ivy Ratafia since 1988,&lt;ref&gt;McCloud, Scott. Postscript to ''[[The Sculptor (comics)|The Sculptor]]'' (First Second, 2015).&lt;/ref&gt; and they have two daughters, Sky and Winter.&lt;ref&gt;Ratafia, Ivy. [https://web.archive.org/web/20120309210836/http://ivy-rat.livejournal.com/111676.html "What I did on my summer vacation,"] Ivy Ratafia's journal (Apr. 16, 2016).&lt;/ref&gt;
+
+==Reception and legacy==
+McCloud has been called the "[[Marshall McLuhan]] of comics".&lt;ref name=NYTimes&gt;{{cite news |title=A New Therapeutic Tool in the Doctor’s Bag: Comic Strips |author-last=Warren |author-first=James | date=June 17, 2011  |url=https://www.nytimes.com/2011/06/17/us/17cncwarren.html |journal=The New York Times |accessdate=March 19, 2013}}&lt;/ref&gt;
+
+==Awards==
+*1985 [[Jack Kirby Award]] for Best New Series for ''Zot!''&lt;ref&gt;[http://www.hahnlibrary.net/comics/awards/kirby85.php 1985 "Jack Kirby Awards"]. Hahn Library Comic Book Awards Almanac]. Retrieved November 16, 2011.&lt;/ref&gt;
+*1985 [[Russ Manning Most Promising Newcomer Award]] for ''Zot!''&lt;ref name=Lambiek&gt;{{cite web|author=Kees Kousemaker|publisher=[[Lambiek|Kees Kousemaker's Lambiek Comiclopedia]]|title=Scott McCloud|url=http://lambiek.net/artists/m/mccloud.htm|accessdate=November 16, 2011}}&lt;/ref&gt;&lt;ref&gt;[http://www.comic-con.org/cci/cci_manning.php "The Russ Manning Most Promising Newcomer Award"] {{webarchive|url=https://web.archive.org/web/20111101190330/http://www.comic-con.org/cci/cci_manning.php |date=2011-11-01 }}. [[San Diego Comic-Con International]]. Retrieved November 16, 2011.&lt;/ref&gt;&lt;ref&gt;[http://www.hahnlibrary.net/comics/awards/manning.php "The Russ Manning Most Promising Newcomer Award"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*1994 [[Eisner Award]] for Best Comics-Related Book for ''[[Understanding Comics]]''&lt;ref name=Eisners1994&gt;[http://www.hahnlibrary.net/comics/awards/eisner94.php "1994 Will Eisner Comic Industry Award Nominees"]. Hahn Library Comic Book Awards Almanac. November 16, 2011.&lt;/ref&gt;
+*1994 [[Harvey Award]] for Best Writer for ''Understanding Comics''&lt;ref name=Harvey1994&gt;[http://www.hahnlibrary.net/comics/awards/harvey94.php "1994 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*1994 Harvey Award for Best Graphic Album/Original Material for ''Understanding Comics''&lt;ref name=Harvey1994/&gt;
+*1994 Harvey Award for Best Biographical, Historical or Journalistic Presentation for ''Understanding Comics''&lt;ref name=Harvey1994/&gt;
+*2001 Harvey Award for Best Biographical/Historical Presentation for ''[[Reinventing Comics]]''&lt;ref name=Harvey2001&gt;[http://www.hahnlibrary.net/comics/awards/harvey01.php "2001 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*2007 [[Eagle Award (comics)|Eagle Award]] for Favourite Comics-Related Book for ''Making Comics''
+*2007 [[Quill Award]] for Best Graphic Novel for ''Making Comics''
+
+===Nominations===
+*1988 Harvey Award for Best Cartoonist for ''Zot!''&lt;ref&gt;[http://www.hahnlibrary.net/comics/awards/harvey88.php "1988 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*1988 Eisner Award for Best Single Issue for ''Zot!'' #14&lt;ref name=Eisners1988&gt;[http://www.hahnlibrary.net/comics/awards/eisner88.php "1988 Will Eisner Comic Industry Award Nominees"]. Hahn Library Comic Book Awards Almanac. November 16, 2011.&lt;/ref&gt;
+*1988 Eisner Award for Best Continuing Series for ''Zot!''&lt;ref name=Eisners1988/&gt;
+*1988 Eisner Award for Best Black-and-White Series for ''Zot!''&lt;ref name=Eisners1988/&gt;
+*1988 Eisner Award for Best Writer/Artist for ''Zot!''&lt;ref name=Eisners1988/&gt;
+*1991 Harvey Award for Best Writer for ''Zot!''&lt;ref name=Harvey1991&gt;[http://www.hahnlibrary.net/comics/awards/harvey91.php "1991 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*1991 Harvey Award for Best Single Issue or Story for ''Zot!'' #33&lt;ref name=Harvey1991/&gt;
+*1991 Eisner Award for Best Story or Single Issue for ''Zot!'' #33&lt;ref name=Eisners1991&gt;[http://www.hahnlibrary.net/comics/awards/eisner91.php "1991 Will Eisner Comic Industry Award Nominees"]. Hahn Library Comic Book Awards Almanac. November 16, 2011.&lt;/ref&gt;
+*1991 Eisner Award for Best Continuing Series for ''Zot!''&lt;ref name=Eisners1991/&gt;
+*1991 Eisner Award for Best Black-and-White Series for ''Zot!''&lt;ref name=Eisners1991/&gt;
+*1991 Eisner Award for Best Writer for ''Zot!''&lt;ref name=Eisners1991/&gt;
+*1992 Harvey Award for Best Single Issue or Story for ''Zot!'' #35&lt;ref name=Harvey1992&gt;[http://www.hahnlibrary.net/comics/awards/harvey92.php "1992 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*1993 Harvey Award for Best Biographical, Historical or Journalistic Presentation for ''Understanding Comics: The Slideshow!''&lt;ref name=Harvey1993&gt;[http://www.hahnlibrary.net/comics/awards/harvey93.php "1993 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+*1998 Eisner Award for Best Single Issue for ''[[Superman Adventures]]'' #3 ("Distant Thunder"; with [[Rick Burchett]] and [[Terry Austin (comics)|Terry Austin]])&lt;ref name=Eisners1998&gt;[http://www.hahnlibrary.net/comics/awards/eisner98.php "1998 Will Eisner Comic Industry Award Nominees"]. Hahn Library Comic Book Awards Almanac. November 16, 2011.&lt;/ref&gt;
+*1998 Eisner Award for Best Serialized Story for ''Superman Adventures'' #11-12 ("The War Within"; with Rick Burchett and Terry Austin)&lt;ref name=Eisners1998/&gt;
+*1998 Eisner Award for Best Writer for ''Superman Adventures''&lt;ref name=Eisners1998/&gt;
+*2007 Harvey Award for Best Biographical, Historical or Journalistic Presentation for ''Making Comics''&lt;ref name=Harvey2007&gt;[http://www.hahnlibrary.net/comics/awards/harvey07.php "2007 Harvey Award Nominees and Winners"]. Hahn Library Comic Book Awards Almanac. Retrieved November 16, 2011.&lt;/ref&gt;
+
+== Bibliography ==
+* ''[[Zot!]]''
+** ''Zot!: Book One'' (Eclipse Books, 1991) {{ISBN|978-0-913035-04-7}}
+** ''Zot!: Book Two (Issues 11-15 &amp; 17-18)'' (Kitchen Sink Press, 1998) {{ISBN|978-0-87816-428-8}}
+** ''Zot!: The Complete Black and White Collection: 1987-1991'' (Harper Paperbacks, 2008) {{ISBN|0-06-153727-6}}
+* comics scholarship
+**''[[Understanding Comics|Understanding Comics: The Invisible Art]]'' (1993, &lt;small&gt;{{ISBN|0-613-02782-5}}&lt;/small&gt;)
+**''[[Reinventing Comics|Reinventing Comics: How Imagination and Technology Are Revolutionizing an Art Form]]'' (2000, &lt;small&gt;{{ISBN|0-06-095350-0}}&lt;/small&gt;)
+**''[[Making Comics|Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels]]'' (2006, &lt;small&gt;{{ISBN|0-06-078094-0}}&lt;/small&gt;)
+* ''The New Adventures of Abraham Lincoln'' (Image Comics,  1998) {{ISBN|978-1-887279-87-1}}
+* ''[[24 Hour Comics]]'' (editor) (About Comics, 2004) {{ISBN|978-0-9716338-4-1}}
+* ''[http://www.scottmccloud.com/2-print/older/destroy/index.html Destroy!! (Oversized Edition)]'' (Eclipse Books,  1986)
+* ''[[The Sculptor (comics)|The Sculptor]]'' (First Second, 2015) 978-1-59643-573-5
+
+==See also==
+{{Portal bar|Boston|Comics|Biography}}
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* [https://web.archive.org/web/20080330020233/http://www.readyourselfraw.com/profiles/mccloud/profile_mccloud.htm McCloud profile] on RAW's site
+* [http://www.bedetheque.com/auteur-419-BD-McCloud-Scott.html Scott McCloud French publications] Bedetheque {{fr icon}}
+
+==External links==
+{{Commons category}}
+* {{Official website|www.scottmccloud.com}}
+* [http://www.24hourcomics.com 24 Hour Comics]
+* [http://lambiek.net/artists/m/mccloud.htm Scott McCloud biography] on Lambiek Comiclopedia
+* [http://www.ted.com/talks/view/id/432 TED Talks: Scott McCloud on comics] at [[TED (conference)|TED]] in 2005
+* [http://lambiek.net/artists/m/mccloud.htm Scott McCloud's page on Comiclopedia]
+
+===Interviews===
+* [http://www.nydailynews.com/money/2008/09/07/2008-09-07_interview_with_scott_mccloud_artist_behi.html "Interview with Scott McCloud, artist behind Google Chrome comic"] New York ''Daily News'' (Sept. 7, 2008).
+* [http://www.tcj.com/2_archives/i_mccloud.html "Interview of McCloud by R.C. Harvey, excerpted from The Comics Journal #179"] ''[[The Comics Journal]]''
+* [http://www.believermag.com/issues/200704/?read=interview_mccloud Interview with Hillary Chute], ''[[The Believer (magazine)|The Believer]]'', April 2007
+* [http://www.tcj.com/232/i_mccloud.html "Still Thinking: By Charles Hatfield"] ''[[The Comics Journal]]''
+
+{{Scott McCloud}}
+{{Authority control}}
+
+{{DEFAULTSORT:McCloud, Scott}}
+[[Category:1960 births]]
+[[Category:American webcomic creators]]
+[[Category:Harvey Award winners for Best Writer]]
+[[Category:Living people]]
+[[Category:Artists from Boston]]
+[[Category:Syracuse University alumni]]
+[[Category:Lexington High School alumni]]
+[[Category:Comics scholars]]</text>
+      <sha1>1mbapu9pynpbz0kn3ti1dp93yjbggw6</sha1>
+    </revision>
+  </page>
+</mediawiki>

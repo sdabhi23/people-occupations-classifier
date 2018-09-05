@@ -1,0 +1,538 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rowan Atkinson</title>
+    <ns>0</ns>
+    <id>19614294</id>
+    <revision>
+      <id>854600100</id>
+      <parentid>854512095</parentid>
+      <timestamp>2018-08-12T14:17:37Z</timestamp>
+      <contributor>
+        <username>Rivertorch</username>
+        <id>1938168</id>
+      </contributor>
+      <comment>rv good-faith edits. wp ≠ news. let's wait and see whether this proves noteworthy or trivial.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45672">{{pp-move-indef}}
+{{pp-blp|small=yes}}
+{{Use British English Oxford spelling|date=November 2015}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox comedian
+| name             = Rowan Atkinson
+| honorific_suffix = [[Order of the British Empire|CBE]]
+| image            = Rowan Atkinson, 2011.jpg
+| caption          = Atkinson at the ''[[Johnny English Reborn]]'' première in 2011
+| birth_name       = Rowan Sebastian Atkinson
+| alma_mater       = [[Newcastle University]]&lt;br /&gt;[[The Queen's College, Oxford]]
+| birth_date       = {{birth date and age|1955|01|06|df=y}}
+| birth_place      = [[Consett]], [[County Durham]], [[England]]
+| active           = 1978–present
+| medium           = [[Stand-up comedy|Stand-up]], [[television]], [[film]]
+| spouse           = {{marriage|Sunetra Sastry|1990|2015|end=div}}
+| domesticpartner          = Louise Ford&lt;br /&gt;(2014–present)&lt;ref&gt;{{cite news |url=http://metro.co.uk/2017/11/12/rowan-atkinson-33-year-old-girlfriend-due-to-give-birth-to-his-third-child-in-matter-of-weeks-7072489/ |title=Rowan Atkinson is set to become a father for the third time at the age of 62 |newspaper=[[Metro (British newspaper)|Metro]] |date=12 November 2017 |access-date=13 November 2017 |last=Duncan |first=Amy}}&lt;/ref&gt;
+| children         = 3
+| relatives        = [[Rodney Atkinson]] (brother)
+| signature        = Rowan Atkinson.png
+| module           = {{Listen |embed= yes |filename= Rowan Atkinson BBC Radio4 Front Row 8 Jan 2012 b018zvm9.flac |title= Rowan Atkinson's voice |type= speech |description= from the BBC programme ''Front Row Interviews'', 8 January 2012.&lt;ref&gt;{{Cite episode |title= Rowan Atkinson |series= Front Row Interviews |serieslink= |url= http://bbc.co.uk/programmes/b018zvm9 |station= [[BBC Radio 4 Extra]] |date= 8 January 2012 |access-date= 18 January 2014}}&lt;/ref&gt;}}
+}}
+'''Rowan Sebastian Atkinson''', [[Order of the British Empire|CBE]] (born 6 January 1955) is an English actor, comedian, and [[screenwriter]] best known for his work on the [[sitcom]]s ''[[Blackadder]]'' and ''[[Mr. Bean]]''. Atkinson first came to prominence in the BBC's [[sketch comedy]] show ''[[Not the Nine O'Clock News]]'' (1979–82), receiving the 1981 [[British Academy Television Award for Best Entertainment Performance|BAFTA for Best Entertainment Performance]], and via his participation in [[The Secret Policeman's Ball]] from 1979. His other work includes the 1983 James Bond film ''[[Never Say Never Again]]'', playing a bumbling vicar in ''[[Four Weddings and a Funeral]]'' (1994), voicing the [[red-billed hornbill]] Zazu in ''[[The Lion King]]'' (1994), and featuring in the BBC sitcom ''[[The Thin Blue Line (TV series)|The Thin Blue Line]]'' (1995–1996). His work in theatre includes the 2009 [[West End theatre|West End]] revival of the musical ''[[Oliver!]]''.
+
+Atkinson was listed in ''[[The Observer]]'' as one of the 50 funniest actors in British comedy,&lt;ref&gt;[http://observer.guardian.co.uk/review/story/0,,1101477,00.html "The A-Z of laughter (part one)", ''The Observer''], 7 December 2003. Retrieved 7 January 2007.&lt;/ref&gt; and among the top 50 comedians ever, in a 2005 poll of fellow comedians.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/4141019.stm|publisher=BBC News|title=Cook voted 'comedians' comedian'|date=2 January 2005}}&lt;/ref&gt; In addition to his 1981 BAFTA, he received an [[Laurence Olivier Award|Olivier Award]] for his 1981 West End theatre performance in ''Rowan Atkinson in Revue''. He has also had cinematic success with his performances in the [[Mr. Bean]] movie adaptations ''[[Bean (film)|Bean]]'' and ''[[Mr. Bean's Holiday]]'', and also in ''[[Johnny English]]'' (2003), and the sequels ''[[Johnny English Reborn]]'' (2011) and ''[[Johnny English Strikes Again]]'' (2018). He also appears as the [[Jules Maigret|titular character]] in ''[[Maigret (2016 TV series)|Maigret]]'' (2016-present).
+
+== Early life==
+Atkinson, the youngest of four brothers, was born in [[Consett]], [[County Durham]], England, on 6 January 1955.&lt;ref name=whoswho&gt;{{Who's Who | surname = ATKINSON |othernames = Rowan Sebastian|id = U5964 | volume = 2014 | edition = online [[Oxford University Press]]}} {{subscription required}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Rowan Atkinson: Biography |access-date=9 February 2012 |url=http://movies.msn.com/celebrities/celebrity-biography/rowan-atkinson/ |publisher=[[MSN]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.tvguide.com/celebrities/rowan-atkinson/bio/173131 |title=Rowan Atkinson: Biography |work=[[TV Guide]] |access-date=9 February 2012}}&lt;/ref&gt;&lt;ref name="FamilyDetective"&gt;{{Cite news|url=https://www.telegraph.co.uk/education/main.jhtml?view=DETAILS&amp;grid=&amp;xml=/education/2007/08/25/fafamdet125.xml|title=Family Detective&amp;nbsp;— Rowan Atkinson|first=Nick|last=Barratt|work=The Daily Telegraph |location=UK |date=25 August 2007}}&lt;/ref&gt;
+
+His parents were Eric Atkinson, a farmer and [[Board of directors|company director]], and Ella May (née Bainbridge), who married on 29 June 1945.&lt;ref name="FamilyDetective" /&gt; His three older brothers are Paul, who died as an infant; [[Rodney Atkinson|Rodney]], a [[Euroscepticism|Eurosceptic]] [[economist]] who narrowly lost the [[UK Independence Party]] leadership election in 2000; and Rupert.&lt;ref&gt;[http://www.abc.net.au/foreign/stories/s374382.htm Foreign Correspondent&amp;nbsp;— 22 July 1997: Interview with Rodney Atkinson], ''[[Australian Broadcasting Corporation]]''. Retrieved 27 January 2007.&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/1/low/uk_politics/5221824.stm Profile: UK Independence Party], [[BBC News]], 28 July 2006. Retrieved 27 January 2007.&lt;/ref&gt;
+
+Atkinson was brought up [[Anglicanism|Anglican]],&lt;ref name="raisedref"&gt;{{Cite news|last=Mann|first=Virginia|title=For Rowan Atkinson, comedy can be frightening|publisher=The Record|date=28 February 1992|url=https://www.highbeam.com/doc/1P1-22623334.html|access-date=10 December 2007}}&lt;/ref&gt; and was educated at [[Chorister School, Durham|Durham Choristers School]], a preparatory school, [[St Bees School]], and [[Newcastle University]], where he received a degree in Electrical Engineering.&lt;ref name="comedyguidebio"&gt;{{cite web|title=BBC&amp;nbsp;— Comedy Guide&amp;nbsp;— Rowan Atkinson|url=http://www.bbc.co.uk/comedy/guide/talent/a/atkinson_rowan.shtml |publisher=BBC|date=4 December 2004|access-date=29 December 2008|archiveurl=https://web.archive.org/web/20041204231354/http://www.bbc.co.uk/comedy/guide/talent/a/atkinson_rowan.shtml|archivedate=4 December 2004}}&lt;/ref&gt; In 1975, he continued for the degree of MSc in Electrical Engineering at [[The Queen's College, Oxford]], the same college where his father matriculated in 1935,&lt;ref&gt;{{cite web|url=http://www.queens.ox.ac.uk/old-members/files/newsletters/newsletter3.pdf|title=page 6: "The donation was given in memory of Rowan Atkinson's father, Eric Atkinson, who graduated at Queens in 1935."|format=PDF|access-date=21 June 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110711132702/http://www.queens.ox.ac.uk/old-members/files/newsletters/newsletter3.pdf|archivedate=11 July 2011}}&lt;/ref&gt; and which made Atkinson an [[Honorary title (academic)|Honorary Fellow]] in 2006.&lt;ref&gt;{{cite web|url=http://hoot.queens.ox.ac.uk/old-members/files/newsletters/newsletter8.pdf|title=queens iss 1|format=PDF|access-date=21 June 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20121018084752/http://hoot.queens.ox.ac.uk/old-members/files/newsletters/newsletter8.pdf|archivedate=18 October 2012}}&lt;/ref&gt;
+
+First winning national attention in [[The Oxford Revue]] at the [[Edinburgh Festival Fringe]] in August 1976,&lt;ref name="comedyguidebio" /&gt; he had already written and performed early sketches for shows in Oxford by the Etceteras&amp;nbsp;— the revue group of the [[Experimental Theatre Club]] (ETC), and for the [[Oxford University Dramatic Society]] (OUDS), meeting writer [[Richard Curtis]],&lt;ref name="comedyguidebio" /&gt; and composer [[Howard Goodall]], with whom he would continue to collaborate during his career.
+
+== Career ==
+
+=== Radio ===
+Atkinson starred in a series of comedy shows for [[BBC Radio 3]] in 1979 called ''[[The Atkinson People]]''. It consisted of a series of satirical interviews with fictional great men, who were played by Atkinson himself. The series was written by Atkinson and [[Richard Curtis]], and produced by [[Griff Rhys Jones]].&lt;ref name="Atkinson people"&gt;"[https://www.theguardian.com/media/2007/jan/31/tvandradio Pick of the Day]", ''The Guardian'', 31 January 2007.&lt;/ref&gt;
+
+=== Television ===
+After university, Atkinson toured with [[Angus Deayton]] as his [[double act|straight man]] in an act that was eventually filmed for a television show. {{Citation needed|date=July 2017}} After the success of the show, he did a one-off pilot for [[London Weekend Television]] in 1979 called ''[[Canned Laughter (sitcom)|Canned Laughter]]''. Atkinson then went on to do ''[[Not the Nine O'Clock News]]'' for the [[BBC]], produced by his friend [[John Lloyd (producer)|John Lloyd]]. He featured in the show with [[Pamela Stephenson]], [[Griff Rhys Jones]] and [[Mel Smith]], and was one of the main sketch writers.
+
+The success of ''Not the Nine O'Clock News'' led to him taking the lead role in the medieval sitcom ''[[The Black Adder]]'' (1983), which he also co-wrote with [[Richard Curtis]]. After a three-year gap, in part due to budgetary concerns, a second series was broadcast, this time written by Curtis and [[Ben Elton]]. ''[[Blackadder II]]'' (1986) followed the fortunes of one of the descendants of Atkinson's original character, this time in the [[Elizabethan era]]. The same pattern was repeated in the two more sequels ''[[Blackadder the Third]]'' (1987) (set in the [[Regency era]]), and ''[[Blackadder Goes Forth]]'' (1989) (set in World War I). The ''[[Blackadder]]'' series became one of the most successful of all [[BBC]] situation comedies, spawning television specials including ''[[Blackadder's Christmas Carol]]'' (1988), ''[[Blackadder: The Cavalier Years]]'' (1988), and later ''[[Blackadder: Back &amp; Forth]]'' (1999), which was set at the turn of the Millennium. The final scene of "Blackadder Goes Forth" (when Blackadder and his men go "over the top" and charge into No-Man's-Land) has been described as "bold and highly poignant".&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/comedy/blackaddergoesforth/|title=BBC&amp;nbsp;— Comedy&amp;nbsp;— Blackadder Goes Forth}}&lt;/ref&gt; During the 2014 centennial of the start of World War I, [[Michael Gove]] and war historian [[Max Hastings]] complained about the so-called "Blackadder version of history".&lt;ref&gt;{{cite web|url=http://www.historyextra.com/feature/blackadder-bad-first-world-war-history|title=Is Blackadder bad for First World War history?}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-politics-25612369|title=BBC News Blackadder star Sir Tony Robinson in Michael Gove WW1 row|publisher=BBC News | date=5 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.rusi.org/analysis/commentary/ref:C52D3C5B606225/#.U0lQ9tx18-A|title=RUSI&amp;nbsp;— Dealing With the Blackadder View of the First World War: The Need for an Inclusive, Bi-Partisan Centenary|work=RUSI|deadurl=yes|archiveurl=https://web.archive.org/web/20140413142036/https://www.rusi.org/analysis/commentary/ref:C52D3C5B606225/#.U0lQ9tx18-A|archivedate=13 April 2014}}&lt;/ref&gt;
+
+[[File:Atkinson Rowan.jpg|thumb|right|Atkinson in 1997, promoting ''Bean''. In 2014, young adults from abroad named Mr. Bean among a group of people they most associated with [[Culture of the United Kingdom|UK culture]].&lt;ref&gt;{{cite news|title=Culture, attraction and soft power|url=https://www.britishcouncil.org/sites/default/files/as-others-see-us-report.pdf|publisher=British Council|date=3 December 2016}}&lt;/ref&gt;]]
+Atkinson's other creation, the hapless ''[[Mr. Bean]]'', first appeared on New Year's Day in 1990 in a half-hour special for [[Thames Television]]. The character of Mr. Bean has been likened to a modern-day [[Buster Keaton]],&lt;ref name="Museum.tv"&gt;{{cite web|url=http://www.museum.tv/eotv/atkinsonrow.htm |title=Museum.tv |publisher=Museum.tv |access-date=21 June 2011}}&lt;/ref&gt; but Atkinson himself has stated that [[Jacques Tati]]'s character [[Monsieur Hulot]] was the main inspiration.&lt;ref&gt;[http://www.latimes.com/entertainment/tv/showtracker/la-et-st-mr-bean-rowan-atkinson-20150326-column.html Los Angeles Times, March 27, 2015: ''Before and after 'Bean': A talk with Rowan Atkinson, continued''] Linked 22 December 2016&lt;/ref&gt;
+
+Several sequels to ''Mr. Bean'' appeared on television until 1995, and the character later appeared in a feature film. ''[[Bean (film)|Bean]]'' (1997) was directed by Mel Smith, Atkinson's colleague in ''Not the Nine O'Clock News''. A second film, ''[[Mr. Bean's Holiday]]'', was released in 2007. In 1995 and 1996, Atkinson portrayed Inspector Raymond Fowler in ''[[The Thin Blue Line (TV series)|The Thin Blue Line]]'' television sitcom written by Ben Elton, which takes place in a police station located in fictitious Gasforth.
+
+Atkinson has fronted campaigns for [[Kronenbourg Brewery|Kronenbourg]],&lt;ref name="Rowan Atkinson in Kronenbourg commercial"&gt;{{cite web|author=mhm grax|url=http://mhmgrax.com/c_tvads.htm|title=Kronenbourg Commercial|publisher=Mhmgrax.com|access-date=21 June 2011}}&lt;/ref&gt; [[Fujifilm]], and [[Blood donation|Give Blood]]. Atkinson appeared as a hapless and error-prone espionage agent named Richard Lathum in a long-running series of adverts for [[Barclaycard]], on which character his title role in ''[[Johnny English]]'' and ''[[Johnny English Reborn]]'' was based. In 1999, he played [[The Doctor (Doctor Who)|the Doctor]] in ''[[Doctor Who: The Curse of Fatal Death|The Curse of Fatal Death]]'', a special ''[[Doctor Who]]'' serial produced for [[Comic Relief]]. Atkinson appeared as the ''Star in a Reasonably Priced Car'' on ''[[Top Gear (2002 TV series)|Top Gear]]'' in July 2011, driving the [[Kia Cee'd]] around the track in 1:42.2, placing him at the top of the leaderboard until [[Matt LeBlanc]] later recorded a 1:42.1 lap time.
+
+Atkinson appeared at the [[2012 Summer Olympics opening ceremony]] in London as Mr. Bean in a comedy sketch during a performance of "[[Chariots of Fire (instrumental)|Chariots of Fire]]", playing a repeated single note on [[synthesizer]].&lt;ref&gt;{{cite web|url=http://www.hollywoodlife.com/2012/07/27/london-olympics-2012-opening-ceremony-performance-mr-bean-chariots-of-fire/|title=Mr. Bean's Hilarious 'Chariots of Fire' Skit at Olympics|publisher=hollywoodlife.com|date=27 July 2012|access-date=27 July 2012}}&lt;/ref&gt; He then lapsed into a dream sequence in which he joined the runners from the [[Chariots of Fire|film of the same name]] (about the [[1924 Summer Olympics]]), beating them in their iconic run along West Sands at St. Andrews, by riding in a [[Taxicabs of the United Kingdom#minicab|minicab]] and tripping the front runner.&lt;ref&gt;{{cite news|title=Mr Bean's Olympic orchestral appearance|url=https://www.bbc.co.uk/news/uk-19021660|publisher=BBC News|date=27 July 2012|access-date=28 July 2012}}&lt;/ref&gt; Atkinson starred as [[Jules Maigret]] in ''[[Maigret (2016 TV series)|Maigret]]'', a series of television films from ITV.&lt;ref&gt;[https://www.itv.com/presscentre/press-releases/rowan-atkinson-starts-filming-itv-drama-maigret Rowan Atkinson starts filming ITV drama Maigret], ITV, 8 September 2015&lt;/ref&gt;
+
+=== Retirement of Mr. Bean ===
+In November 2012, it emerged that Rowan Atkinson intended to retire Mr. Bean. "The stuff that has been most commercially successful for me&amp;nbsp;— basically quite physical, quite childish&amp;nbsp;— I increasingly feel I'm going to do a lot less of," Atkinson told the ''Daily Telegraph''{{'}}s Review. "Apart from the fact that your physical ability starts to decline, I also think someone in their 50s being childlike becomes a little sad. You've got to be careful."&lt;ref&gt;Victoria Ward [https://www.telegraph.co.uk/culture/9684184/Rowan-Atkinson-suggests-end-is-in-sight-for-Mr-Bean.html "Rowan Atkinson suggests end is in sight for Mr Bean"], ''The Daily Telegraph'', 17 November 2012&lt;/ref&gt; He has also said that the role [[Typecasting (acting)|typecast]] him to a degree.&lt;ref&gt;{{cite news|first1=Dominic|last1=Cavendish|url=https://www.telegraph.co.uk/culture/theatre/drama/9690459/Rowan-Atkinson-Goodbye-Mr-Bean.html|title=Rowan Atkinson: Goodbye, Mr Bean?|date= 21 November 2012|access-date=30 August 2015|location=London}}&lt;/ref&gt; But in 2016 Atkinson said he would never retire playing the beloved Mr Bean.&lt;ref&gt;https://www.radiotimes.com/news/2016-03-21/rowan-atkinson-i-will-never-wave-goodbye-to-mr-bean/amp/&lt;/ref&gt;
+
+In January 2014 ITV announced a new animated series featuring Mr. Bean with Rowan Atkinson returning to the role. It was expected to be released online as a Web-series later in 2014, as a television broadcast followed shortly after.&lt;ref&gt;{{cite web|url=http://www.comedy.co.uk/news/story/000001347/mr_bean_animated_series_for_2014/|title=Rowan Atkinson working on new animated Mr. Bean series|publisher=[[British Comedy Guide]]|access-date=30 August 2015|date=22 January 2014}}&lt;/ref&gt; In October 2014, Atkinson also appeared as Mr. Bean in a TV advert for [[Snickers]]. In 2015, he starred alongside [[Ben Miller]] and [[Rebecca Front]] in a sketch for BBC [[Comic Relief#Red Nose Day history|Red Nose Day]] in which Mr. Bean attends a funeral. In 2017, he appeared as Mr. Bean in the Chinese film ''Huan Le Xi Ju Ren''.&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/arts-entertainment/films/news/rowan-atkinson-mr-bean-top-funny-comedian-the-movie-a7639261.html|title=Rowan Atkinson reprises Mr Bean role for Chinese film Top Funny Comedian: The Movie|publisher=''[[The Independent]]''|last=Shepherd|first=Jack|date=20 March 2017|access-date=30 March 2017}}&lt;/ref&gt;
+
+=== Film ===
+Atkinson's film career began with a supporting part in the "unofficial" [[James Bond]] movie ''[[Never Say Never Again]]'' (1983) and a leading role in ''[[Dead on Time (1983 film)|Dead on Time]]'' (also 1983) with [[Nigel Hawthorne]]. He was in the 1988 Oscar-winning short film ''[[The Appointments of Dennis Jennings]]''. He appeared in Mel Smith's directorial debut ''[[The Tall Guy]]'' (1989) and appeared alongside [[Anjelica Huston]] and [[Mai Zetterling]] in [[Roald Dahl]]'s ''[[The Witches (1990 film)|The Witches]]'' (1990). He played the part of Dexter Hayman in ''[[Hot Shots! Part Deux]]'' (1993), a parody of ''[[Rambo III]]'', starring [[Charlie Sheen]].
+
+Atkinson gained further recognition with his turn as a verbally bumbling vicar in ''[[Four Weddings and a Funeral]]'' (1994) and featured in [[The Walt Disney Company|Disney's]] ''[[The Lion King]]'' (also 1994) as the voice of Zazu the [[red-billed hornbill]]. He also sang the song ''[[I Just Can't Wait to Be King]]'' in ''The Lion King''. Atkinson continued to appear in supporting roles in comedies, including ''[[Rat Race (film)|Rat Race]]'' (2001), ''[[Scooby-Doo (film)|Scooby-Doo]]'' (2002), ''[[Love Actually]]'' (2003), and the crime comedy ''[[Keeping Mum]]'' (2005), which also starred [[Kristin Scott Thomas]], [[Maggie Smith]], and [[Patrick Swayze]].
+
+In addition to his supporting roles, Atkinson has also had success as a leading man. His television character Mr. Bean debuted on the big screen with ''[[Bean (film)|Bean]]'' (1997) to international success. A sequel, ''[[Mr. Bean's Holiday]]'' (2007), also became an international success. He has also starred in the James Bond parody ''[[Johnny English]]'' (2003), its sequel, ''[[Johnny English Reborn]]'' (2011), and its second upcoming sequel; ''[[Johnny English Strikes Again]]'' (2018).
+
+=== Theatre ===
+Rowan Atkinson performed live on-stage skits&amp;nbsp;— also appearing with members of [[Monty Python]]&amp;nbsp;— in ''[[The Secret Policeman's Ball (1979)|The Secret Policeman's Ball]]'' (1979) in London for [[Amnesty International]].&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/news/people/profiles/rowan-atkinson-mr-bean-shows-his-serious-side-683230.html|title= Rowan Atkinson: Mr Bean shows his serious side|work=The Independent |date=9 October 2011 |access-date=21 November 2015 |location=London |first=Ryan |last=Gilbey}}&lt;/ref&gt; Atkinson undertook a four-month tour of the UK in 1980. A recording of the stage performance was subsequently released as ''[[Live in Belfast]].''
+
+In 1984, Atkinson appeared in a [[West End theatre|West End]] version of the comedy play ''[[The Nerd]]'' alongside a 10-year-old [[Christian Bale]].&lt;ref&gt;{{cite web | url = http://www.thespiannet.com/actors/B/bale_christian/christian_bale.shtml | title = Christian Bale&amp;nbsp;— Screenshots and Info for Actor Christian Bale}}&lt;/ref&gt; ''The Sneeze and Other Stories'', seven short [[Anton Chekhov]] plays, translated and adapted by [[Michael Frayn]], were performed by Rowan Atkinson, [[Timothy West]] and [[Cheryl Campbell]] at the Aldwych Theatre, London in 1988 and early 1989.&lt;ref&gt;{{cite book |editor1-last=Gottlieb|editor1-first=Vera|editor2-last= Allain|editor2-first= Paul|title=The Cambridge Companion to Chekhov|publisher= Cambridge University Press|page= 257 |chapter= Appendix 2:Select Stage Productions|isbn= 0-521-58917-7|publication-date=4 November 2000}}&lt;/ref&gt;
+
+[[File:Oliver Theatre Royal Bill Board.jpg|thumb|right|''Oliver!'' billboard at the West End's [[Theatre Royal, Drury Lane]] in 2009.]]
+In 2009, during the West End revival of the musical ''[[Oliver!]]'' based on [[Charles Dickens]]' novel ''[[Oliver Twist]]'', Atkinson played the role of [[Fagin]].&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/journalists/charles-spencer/4244331/Oliver-musical-First-night-review-at-the-Theatre-Royal-Drury-Lane.html|title= Review of Oliver! opening night|work=The Telegraph |date=January 2009 |access-date=24 January 2015 |location=London |first=Charles |last=Spencer}}&lt;/ref&gt; His portrayal and singing of Fagin at the [[Theatre Royal, Drury Lane]] in London garnered favourable reviews and he was nominated for an [[Laurence Olivier Award|Olivier Award]] for best actor in a musical or entertainment.&lt;ref&gt;{{cite web |url=http://www.olivierawards.com/about/previous-winners/view/item110508/olivier-winners-2010/|title= Olivier award winners 2010|work=The Olivier awards |date=March 2010 |archiveurl=https://web.archive.org/web/20150210154929/http://www.olivierawards.com/about/previous-winners/view/item110508/Olivier-Winners-2010/|archivedate=10 February 2015}}&lt;/ref&gt;
+
+On 28 November 2012, Rowan Atkinson reprised the role of Blackadder at the "We are Most Amused" comedy gala for [[The Prince's Trust]] at the [[Royal Albert Hall]] in London. He was joined by Tony Robinson as Baldrick. The sketch involved the first new Blackadder material for 10 years, with Blackadder as CEO of Melchett, Melchett and Darling bank facing an enquiry over the banking crisis.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/culture/9710828/Rowan-Atkinson-stars-in-new-Blackadder-sketch...-on-bankers.html|title= Review of 'We are most amused' (2012)|work=The Telegraph |date=29 November 2012|access-date=25 January 2015|location=London|first=Michael|last=Deacon}}&lt;/ref&gt;
+
+In February 2013, Atkinson took on the titular role in a 12-week production (directed by [[Richard Eyre]]) of the [[Simon Gray]] play ''[[Quartermaine's Terms]]'' at [[Wyndham's Theatre]] in London with costars [[Conleth Hill]] (''[[Game of Thrones]]'') and [[Felicity Montagu]] (''[[I'm Alan Partridge]]'').&lt;ref&gt;{{cite web |url=https://www.theguardian.com/stage/2013/feb/03/quartermaines-terms-rowan-atkinson-review|title= Quartermaine's Terms&amp;nbsp;— review|work=The Guardian |date=3 February 2013|access-date=27 January 2015}}&lt;/ref&gt; In December 2013, he revived his schoolmaster sketch for Royal Free Hospital's Rocks with Laughter at the Adelphi Theatre.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/stage/2013/dec/02/royal-free-rocks-with-laughter-review|title=Royal Free Rocks with Laughter&amp;nbsp;— review|newspaper=The Guardian|author=Brian Logan|date=1 December 2013|access-date=21 November 2015}}&lt;/ref&gt; A few days prior, he performed a selection of sketches in a small coffee venue in front of only 30 people.&lt;ref&gt;{{cite web|url=http://www.theindychannel.com/entertainment/rowan-atkinson-plays-surprise-comedy-show-in-london_26375720|title=Rowan-Atkinson-plays-surprise-comedy-show-in-London_26375720|author=(SMH/WNTSU/LR)|work=RTV6|deadurl=yes|archiveurl=https://web.archive.org/web/20131217104405/http://www.theindychannel.com/entertainment/rowan-atkinson-plays-surprise-comedy-show-in-london_26375720|archivedate=17 December 2013}}&lt;/ref&gt;
+
+== Comic style ==
+Best known for his use of [[physical comedy]] in his Mr. Bean persona, Atkinson's other characters rely more heavily on language. Atkinson often plays authority figures (especially priests or vicars) speaking absurd lines with a completely [[deadpan]] delivery.
+
+One of his better-known [[comedic device|comic devices]] is over-articulation of the "B" sound, such as his pronunciation of "[[List of Blackadder characters#Bob|Bob]]" in the ''[[Blackadder II]]'' episode "[[Bells (Blackadder)|Bells]]". Atkinson suffers from a [[Stuttering|stammer]],&lt;ref&gt;{{cite news|title=10 Questions for Rowan Atkinson|url=http://www.time.com/time/magazine/article/0,9171,1655712,00.html|access-date=1 June 2011|work=Time|date=23 August 2007}}&lt;/ref&gt; and the over-articulation is a technique to overcome problematic consonants.
+
+Atkinson's often visually based style, which has been compared to that of [[Buster Keaton]],&lt;ref name="Museum.tv" /&gt; sets him apart from most modern television and film comics, who rely heavily on dialogue, as well as stand-up comedy which is mostly based on monologues. This talent for visual comedy has led to Atkinson being called "the man with the rubber face"; comedic reference was made to this in an episode of ''[[Blackadder the Third]]'' ("[[Sense and Senility]]"), in which [[Baldrick]] ([[Tony Robinson]]) refers to his master, [[Edmund Blackadder|Mr. E. Blackadder]], as a "lazy, big-nosed, rubber-faced bastard".
+
+== Personal life ==
+[[File:RowanAtkinsonMar07.jpg|left|thumb|upright|right|Rowan Atkinson at the ''[[Mr. Bean's Holiday]]'' premiere at [[Leicester Square]] in London (2007)]]
+In March 2001, while Atkinson was on a holiday trip to [[Kenya]], the pilot of his private plane [[Syncope (medicine)|fainted]]. Atkinson managed to maintain the plane in the air until the pilot recovered and was able to land the plane at [[Nairobi]]'s [[Wilson Airport]].&lt;ref&gt;{{cite news|title=Atkinson 'averted air disaster'|publisher=bbc.co.uk|date=24 March 2001|url=http://news.bbc.co.uk/1/hi/entertainment/1239279.stm|access-date=5 July 2015}}&lt;/ref&gt;
+
+=== Marriage and children ===
+Rowan Atkinson married Sunetra Sastry in February 1990. They have two children, Ben and Lily.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/news/celebritynews/8683435/Rowan-Atkinson-Mr-Bean-star-known-for-satire-and-love-of-fast-cars.html|title=Rowan Atkinson: Mr Bean star known for satire and love of fast cars|work=[[The Daily Telegraph]]|access-date=30 January 2014|location=London|first=Andrew|last=Hough|date=5 August 2011}}&lt;/ref&gt; The couple first met in the late 1980s, when she was working as a makeup artist with the [[BBC]].&lt;ref&gt;{{cite news | url=http://www.thehindu.com/todays-paper/tp-features/tp-sundaymagazine/beany-wonder/article2275288.ece | title=Beany wonder | work=The Hindu | date=10 June 2007 | access-date=11 November 2015}}&lt;/ref&gt; They [[Legal separation|separated]] in 2014 and were [[divorce]]d on 10 November 2015.&lt;ref&gt;{{cite news | url=https://www.telegraph.co.uk/news/celebritynews/11985967/Rowan-Atkinson-divorced-in-65-seconds-on-grounds-of-his-unreasonable-behaviour.html | title=Rowan Atkinson divorced in 65 seconds on grounds of his 'unreasonable behaviour' | work=The Daily Telegraph | date=10 November 2015 | access-date=11 November 2015}}&lt;/ref&gt; Atkinson has been in a relationship with Louise Ford since 2014; she gave birth to Atkinson's third child in December 2017.&lt;ref&gt;{{cite news |url=http://metro.co.uk/2017/11/12/rowan-atkinson-33-year-old-girlfriend-due-to-give-birth-to-his-third-child-in-matter-of-weeks-7072489/ |title=Rowan Atkinson is set to become a father for the third time at the age of 62 |newspaper=[[Metro (British newspaper)|Metro]] |date=12 November 2017 |access-date=13 November 2017 |last=Duncan |first=Amy}}&lt;/ref&gt;
+
+=== Political activism ===
+In June 2005, Atkinson led a coalition of the United Kingdom's most prominent actors and writers, including [[Nicholas Hytner]], [[Stephen Fry]], and [[Ian McEwan]], to the [[Parliament of the United Kingdom|British Parliament]] in an attempt to force a review of the controversial [[Racial and Religious Hatred Act 2006|Racial and Religious Hatred Bill]], which they felt would give overwhelming power to religious groups to impose censorship on the arts.&lt;ref&gt;{{cite news|url=http://www.timesonline.co.uk/tol/news/uk/article535556.ece|title=Rowan Atkinson leads crusade against religious hatred Bill|last=Freeman|first=Simon|date=20 June 2005|work=The Times|location=UK|access-date=22 September 2009}}&lt;/ref&gt;
+In 2009, he criticized [[Homophobia|homophobic]] speech legislation, saying that the [[House of Lords]] must vote against a government attempt to remove a free speech clause in an anti-gay hate law.&lt;ref&gt;{{cite web|last=Geen|first=Jessica|url=http://www.pinknews.co.uk/news/articles/2005-11670.html|title=Rowan Atkinson attacks gay hate law|publisher=[[Pink News]]|access-date=21 June 2011}}&lt;/ref&gt;
+
+In October 2012, he voiced his support for the [[Hate speech laws in the United Kingdom#Reform Section 5 campaign|Reform Section 5 campaign]],&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/news/uknews/law-and-order/9616750/Rowan-Atkinson-we-must-be-allowed-to-insult-each-other.html|title=Rowan Atkinson: we must be allowed to insult each other|work=[[The Daily Telegraph]]|date=18 October 2012|access-date=21 October 2012|location=London}}&lt;/ref&gt; which aims to reform or repeal Section 5 of the [[Public Order Act 1986]], particularly its statement that an [[Harassment, alarm or distress|insult]] can be grounds for arrest and punishment. It is a reaction to several recent high-profile arrests, which Atkinson sees as a restriction of freedom of expression.&lt;ref&gt;{{cite web|url=http://reformsection5.org.uk/2012/10/rowan-atkinsons-speech-at-rs5-parliamentary-reception|title=Rowan Atkinson's address to the Reform Section 5 parliamentary reception|date= 16 October 2012 |publisher=reformsection5.org.uk|access-date=21 October 2012}}&lt;/ref&gt;
+
+=== Religious views ===
+Atkinson is an outspoken critic of religious views and opposes the [[Serious Organised Crime and Police Act 2005]] law.&lt;ref&gt;{{cite web | url=http://news.bbc.co.uk/2/hi/uk_news/politics/4073997.stm | title=Atkinson's religious hate worry | publisher=[[BBC News]] | date=7 December 2004 | access-date=9 January 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.telegraph.co.uk/news/uknews/1478381/Atkinson-defends-right-to-offend.html | title=Atkinson defends right to offend | publisher=[[The Daily Telegraph]] | date=7 December 2004 | access-date=9 January 2016}}&lt;/ref&gt;
+
+=== Cars ===
+Atkinson holds a category C+E (formerly "Class 1") [[Truck|lorry]] [[Driving licence in the United Kingdom|driving licence]], gained in 1981, because lorries held a fascination for him, and to ensure employment as a young actor. He has also used this skill when filming comedy material. In 1991, he starred in the self-penned ''The Driven Man'', a series of sketches featuring Atkinson driving around London trying to solve his obsession with cars, and discussing it with taxi drivers, policemen, used-car salesmen and psychotherapists.&lt;ref&gt;{{cite news|url=http://movies2.nytimes.com/gst/movies/movie.html?v_id=42187|work=The New York Times|title=Rowan Atkinson: The Driven Man&amp;nbsp;— Trailer&amp;nbsp;— Cast&amp;nbsp;— Showtimes|first=Manohla|last=Dargis|date=7 February 2005}}&lt;/ref&gt; A lover of and participant in car racing, he appeared as racing driver [[Tim Birkin|Henry Birkin]] in the television play ''Full Throttle'' in 1995.
+[[File:Rowan Atkinson at Goodwood Revival 2009.jpg|thumb|right|Atkinson racing in a [[Jaguar Mark VII]] M at the [[Goodwood Revival]] motor racing festival in England in 2009]]
+
+Atkinson has raced in other cars, including a [[Renault 5#Renault 5 GT Turbo|Renault 5 GT Turbo]] for two seasons for its [[Renault Clio Cup|one make series]]. From 1997 to 2015, he owned a rare [[McLaren F1]], which was involved in an accident in Cabus, near [[Garstang]], Lancashire, with an [[Austin Metro]] in October 1999.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/485692.stm|publisher=BBC News|title=Mr Bean crashes sports car|date=27 October 1999}}&lt;/ref&gt; It was damaged again in a serious crash in August 2011 when it caught fire after Atkinson reportedly lost control and hit a tree.&lt;ref&gt;{{cite news|last=Dunning|first=Craig|title=Mr Bean and Blackadder star Rowan Atkinson in hospital after McLaren F1 supercar crash|work=The Daily Telegraph|date=5 August 2011|url=http://www.dailytelegraph.com.au/news/story-e6freuy9-1226109003161|access-date =5 August 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.eveningstar.co.uk/news/cambridgeshire_tv_star_rowan_atkinson_in_hospital_following_crash_1_985153|title= Update: TV star Rowan Atkinson in hospital following Cambridgeshire crash|work= Evening Star}}&lt;/ref&gt; That accident caused significant damage to the vehicle, taking over a year to be repaired and leading to the largest insurance payout in Britain, at £910,000.&lt;ref&gt;{{cite news|last=Warnes|first=Sophie|title=Rowan Atkinson crash forces insurers to pay out record £910,000 to repair supercar|work=The Independent|date=7 February 2013|url=https://www.independent.co.uk/news/uk/home-news/rowan-atkinson-crash-forces-insurers-to-pay-out-record-910000-to-repair-supercar-8486081.html|access-date =26 March 2015|location=London}}&lt;/ref&gt; He has previously owned a [[Honda NSX]],&lt;ref name=tgs16&gt;Top Gear Series 17, episode 4&lt;/ref&gt; an [[Audi A8]]&lt;ref&gt;{{cite web |url=http://www.bankrate.com/finance/auto/the-cars-of-the-stars-rowan-atkinson.aspx |title=The cars of the stars: Rowan Atkinson |publisher=bankrate.com |access-date=30 April 2014}}&lt;/ref&gt; a [[Škoda Superb]], and a [[Honda Civic Hybrid]].&lt;ref name=autogenerated1&gt;{{cite web|last=Wormald |first=Andrew |url=http://cars.uk.msn.com/news/articles.aspx?cp-documentid=147861295 |title=Stars &amp; their Cars:Rowan Atkinson&amp;nbsp;— Celebrity Fun &amp;#124; MSN Cars UK |publisher=MSN |date=31 May 2011 |access-date=21 June 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20090918033603/http://cars.uk.msn.com/news/articles.aspx?cp-documentid=147861295 |archivedate=18 September 2009}}&lt;/ref&gt;
+
+The [[Conservative Party (UK)|Conservative Party]] politician [[Alan Clark]], a devotee of classic motor cars, recorded in his published ''[[Alan Clark Diaries|Diaries]]'' a chance meeting with a man he later realized was Atkinson while driving through [[Oxfordshire]] in May 1984: "Just after leaving the motorway at Thame I noticed a dark red [[Aston Martin DBS|DBS V8]] Aston Martin on the slip road with the bonnet up, a man unhappily bending over it. I told Jane to pull in and walked back. A DV8 in trouble is always good for a gloat." Clark writes that he gave Atkinson a lift in his [[List of Rolls-Royce motor cars|Rolls-Royce]] to the nearest telephone box, but was disappointed in his bland reaction to being recognised, noting that: "he didn't sparkle, was rather disappointing and [[wikt:chétif|chétif]]."&lt;ref&gt;Alan Clark Diaries (Phoenix, 1993) p. 80&lt;/ref&gt;
+
+In July 2001, Atkinson crashed an [[Aston Martin V8 Zagato]] at an enthusiasts' meeting, but walked away unhurt. This was whilst he was competing in the ''[[Aston Martin Owners Club]]'' event, at the [[Croft Circuit|Croft Racing Circuit]], [[Darlington]].&lt;ref&gt;{{cite news|title=Atkinson unharmed after car crash|work=The Daily Telegraph|date=9 July 2001|url=http://news.bbc.co.uk/1/hi/entertainment/1430754.stm|access-date=27 February 2016}}&lt;/ref&gt;
+
+One car Atkinson has said he will not own is a [[Porsche]]: "I have a problem with Porsches. They're wonderful cars, but I know I could never live with one. Somehow, the typical Porsche people&amp;nbsp;— and I wish them no ill&amp;nbsp;— are not, I feel, my kind of people. I don't go around saying that Porsches are a pile of dung, but I do know that psychologically I couldn't handle owning one."&lt;ref name=autogenerated1 /&gt;&lt;ref name="awardref"&gt;{{cite web|url=http://www.museum.tv/eotv/atkinsonrow.htm|title=Museum.tv|publisher=Museum.tv|access-date=21 June 2011}}&lt;/ref&gt;
+
+In July 2011, Atkinson appeared as the "Star in a Reasonably Priced Car" on ''[[Top Gear (2002 TV series)|Top Gear]]'', driving the Kia Cee'd around the track in 1:42.2, granting him first place on the leaderboard.&lt;ref name="tgs16" /&gt;
+
+=== Honours ===
+Atkinson was appointed Commander of the [[Order of the British Empire]] in the [[2013 Birthday Honours]] for services to drama and charity.&lt;ref name=gaz31712&gt;{{London Gazette|issue=60534 |supp=y|page=7|date=15 June 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-22904807 |title=Birthday Honours: Adele joins Blackadder stars on list |publisher=BBC |date=14 June 2013 |access-date=8 September 2013}}&lt;/ref&gt;
+
+== Filmography ==
+{{Main|Rowan Atkinson filmography}}
+=== Film ===
+{|class="wikitable sortable"
+|-
+!Year || Title || Role || Notes
+|-
+| 1982 || ''Fundamental Frolics'' || Himself || Short film
+|-
+| 1983 || ''[[Dead on Time (1983 film)|Dead on Time]]'' || Bernard Fripp || Short Film
+|-
+| 1983 || ''[[Never Say Never Again]]'' || Nigel Small-Fawcett||
+|-
+| 1988 || ''[[The Appointments of Dennis Jennings]]'' || Dr. Schooner || Short Film
+|-
+| 1989 || ''[[The Tall Guy]]'' || Ron Anderson ||
+|-
+| 1990 || ''[[The Witches (1990 film)|The Witches]]'' || Mr. Stringer||
+|-
+| 1993 || ''[[Hot Shots! Part Deux]]'' || Dexter Hayman ||
+|-
+| 1994 || ''[[Four Weddings and a Funeral]]'' || Father Gerald||
+|-
+| 1994 || ''[[The Lion King]]'' || [[List of The Lion King characters#Zazu|Zazu]] || Voice 
+|-
+| 1997 || ''[[Bean (film)|Bean]]'' || Mr. Bean|| Also executive Producer
+|-
+| 2000 || ''[[Maybe Baby (2000 film)|Maybe Baby]]'' || Mr. James ||
+|-
+| 2001 || ''[[Rat Race (film)|Rat Race]]'' || Enrico Pollini ||
+|-
+| 2002 || ''[[Scooby-Doo (film)|Scooby-Doo]]'' || Emile Mondavarious ||
+|-
+| 2003 || ''[[Johnny English]]'' || Johnny English || Nominated&amp;nbsp;— [[European Film Award for Best Actor]]
+|-
+| 2003 || ''[[Love Actually]]'' || Rufus || 
+|-
+| 2005 || ''[[Keeping Mum]]'' || Reverend Walter Goodfellow ||
+|-
+| 2007 || ''[[Mr. Bean's Holiday]]'' || Mr. Bean || 
+|-
+| 2011 || ''[[Johnny English Reborn]]'' || Johnny English || 
+|-
+| 2017 || ''Huan Le Xi Ju Ren'' ||Mr. Bean || Cameo
+|-
+| 2018 || ''[[Johnny English Strikes Again]]'' || Johnny English || Also producer
+|-
+|}
+
+=== Television ===
+{|class="wikitable sortable"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1979
+| ''[[Canned Laughter (sitcom)|Canned Laughter]]''
+| Robert Box
+| Pilot; also writer
+|-
+| 1979
+| ''[[The Secret Policeman's Ball (1979)|The Secret Policeman's Ball]]''
+| Himself
+| Television special
+|-
+| 1979–1982
+| ''[[Not the Nine O'Clock News]]''
+| Various roles
+| 28 episodes; also writer
+|-
+| 1980
+| ''[[Peter Cook#1980s|Peter Cook &amp; Co]]''
+| Various roles
+| Television special
+|-
+| 1980
+| ''[[The Innes Book of Records]]''
+| 
+| 1 episode
+|-
+| 1981
+| ''[[The Secret Policeman's Other Ball]]'' 
+| Various roles
+| Television special
+|-
+| 1983
+| ''[[The Black Adder]]''
+| [[Edmund Blackadder|Prince Edmund Plantagenet]]
+| 6 episodes; also co-creator and writer
+|-
+| 1986
+| ''[[Blackadder II]]''
+| Edmund, Lord Blackadder
+| 6 episodes
+|-
+| 1986
+| ''[[Saturday Live (UK TV series)|Saturday Live]]''
+| Himself (host)
+| 1 episodes
+|-
+| 1987
+| ''[[Blackadder the Third]]''
+| Edmund Blackadder
+| 6 episodes
+|-
+| 1988
+| ''[[Blackadder: The Cavalier Years]]''
+| Sir Edmund Blackadder
+| Television short
+|-
+| 1988
+| ''[[Blackadder's Christmas Carol]]''
+| Ebenezer Blackadder
+| Television special
+|-
+| 1989
+| ''[[Blackadder Goes Forth]]''
+| Captain Edmund Blackadder
+| 6 episodes
+|-
+| 1990–1995
+| ''[[Mr. Bean]]''
+| Mr. Bean
+| 15 episodes; also co-creator and writer
+|-
+| 1991
+| ''[[Bernard and the Genie]]''
+| Bernard's Boss
+| Television film
+|-
+| 1991
+| ''The Driven Man'' 
+| Himself 
+| Television documentary; also writer
+|-
+| 1992
+| ''Rowan Atkinson Live''
+| Himself
+| Television special; also writer
+|-
+| 1992
+| ''[[Funny Business (TV series)|Funny Business]]''
+| Kevin / Narrator
+| 6 episodes; also writer
+|-
+| 1992
+| ''[[A Bit of Fry &amp; Laurie]]''
+| Guest
+| 1 episode
+|-
+| 1992 
+| ''Laughing Matters'' 
+| Himself (host) 
+| Television documentary
+|-
+| 1995–1996
+| ''[[The Thin Blue Line (TV series)|The Thin Blue Line]]''
+| Inspector Raymond Fowler
+| 14 episodes
+|-
+| 1999
+| ''[[Blackadder: Back &amp; Forth]]''
+| Lord Blackadder / King Edmund III / Centurion Blaccadius 
+| Television film
+|-
+| 1999
+| ''[[Doctor Who: The Curse of Fatal Death]]''
+| [[The Doctor (Doctor Who)|The Doctor]]
+| Television special
+|-
+| 2001
+| ''Popsters''
+| Nasty Neville
+| Television short
+|-
+| 2002–2004&lt;br /&gt;2015–2016
+| ''[[Mr. Bean (animated TV series)|Mr. Bean]]''
+| Mr. Bean
+| Voice&lt;br /&gt;104 episodes; also executive producer
+|-
+| 2003
+| ''Lying to Michael Jackson''
+| [[Martin Bashir]]
+| Television short
+|-
+| 2005
+| ''[[Spider-Plant Man]]''
+| Peter Piper/Spider-Plant Man
+| Television short
+|-
+| 2010
+| ''[[Bondi Rescue]]''
+| Mr. Bean
+| 1 episode
+|-
+| 2012
+| ''[[2012 Summer Olympics opening ceremony|The Olympics Opening Ceremony]]''
+| Mr. Bean
+| Television special
+|-
+| 2013
+| ''Live from Lambeth Palace sketches''
+| The [[Archbishop of Canterbury]]
+| Television special
+|-
+| 2015
+| ''[[Horrible Histories (2015 TV series)|Horrible Histories]]''
+| [[Henry VIII of England]]
+| 1 episode
+|-
+| 2016–present
+| ''[[Maigret (2016 TV series)|Maigret]]''
+| [[Jules Maigret]]
+| 
+|-
+| 2017
+| ''[[Red Nose Day Actually]]''
+| Rufus
+| Television short
+|}
+
+=== Television advertisements ===
+{|class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Year
+! Title
+! Role
+|-
+| 1980
+| [[Kronenbourg Brewery|Kronenbourg 1664]]
+| Customs officer
+|-
+| 1983
+| [[Appletiser]]
+| Fisherman
+|-
+| 1989
+| Give Blood
+| Doctor
+|-
+| 1991–1997
+| [[Barclaycard]]
+| Richard Latham
+|-
+| 1994
+| [[REMA 1000]]
+| Mr. Bean
+|-
+| 1997
+| [[M&amp;M's]]
+| Mr. Bean
+|-
+| 1999
+| [[Nissan Almera Tino|Nissan Tino]]
+| Mr. Bean
+|-
+| 2014
+| [[Snickers]]&lt;ref&gt;{{cite news|url=http://time.com/3481884/mr-bean-kung-fu-snickers-ad/ |title=Video: Mr Bean Does Kung Fu in Snickers Ad |work=Time |date=8 October 2014 |access-date=26 July 2015}}&lt;/ref&gt;
+| Mr. Bean
+|-
+| 2018
+| [[Etisalat]]&lt;ref&gt;{{cite news|url=https://www.thenational.ae/arts-culture/film/watch-rowan-atkinson-roams-the-uae-in-new-commercial-1.704861|title=Video: Watch Rowan Atkinson roams the UAE in new commercial|date=2018}}&lt;/ref&gt;
+| Agent One
+|}
+
+== Stage ==
+{|class="wikitable"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1981
+| ''Rowan Atkinson in Revue''
+| Various roles
+| Also writer&lt;br /&gt;[[Globe Theatre]]
+|-
+| 
+| ''Rowan Atkinson in New Revue''
+| Various roles
+| 
+|-
+| 1984
+| ''[[The Nerd]]''
+| Willum Cubbert
+| [[Aldwych Theatre]]
+|-
+| 1986
+| ''Rowan Atkinson at the Atkinson''
+| Various roles
+| Also writer&lt;br /&gt;[[Brooks Atkinson Theatre]]
+|-
+| 1988
+| ''[[The Sneeze (play)|The Sneeze]]''
+| Various roles
+| [[Aldwych Theatre]]
+|-
+| 2009
+| ''[[Oliver!]]''
+| [[Fagin]]
+| [[Theatre Royal, Drury Lane|Drury Lane]]
+|-
+| 2013
+| ''[[Quartermaine's Terms]]''
+| St. John Quartermaine
+| [[Wyndham's Theatre]]
+|}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Rowan Atkinson}}
+* {{IMDb name|100}}
+* [http://www.screenonline.org.uk/people/id/571262/index.html Rowan Atkinson biography at BFI Screenonline]
+* {{Rotten Tomatoes person|rowan_atkinson|Rowan Atkinson}}
+* [https://www.bbc.co.uk/programmes/p009mg58 Rowan Atkinson] interview on BBC Radio 4 ''[[Desert Island Discs]]'', 20 May 1988
+
+{{British Academy Television Award for Best Entertainment Performance}}
+{{OlivierAward ComedyPerformance}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Atkinson, Rowan}}
+&lt;!-- Please do not include religious categories in bios of living people unless they publicly self-identify with the label and it is relevant to their public lives. Those are the rules.{{Authority control|VIAF=116674546}}
+[[Category:English Anglicans]] --&gt;
+&lt;!-- Please do not include this category. He has a degree in electrical engineering, but he doesn't actually work as one.
+[[Category:British electrical engineers]] --&gt;
+[[Category:1955 births]]
+[[Category:20th-century English male actors]]
+[[Category:21st-century English male actors]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]
+[[Category:Living people]]
+[[Category:Actors from County Durham]]
+[[Category:Alumni of Newcastle University]]
+[[Category:Alumni of The Queen's College, Oxford]]
+[[Category:BAFTA winners (people)]]
+[[Category:British car collectors]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:English comedy writers]]
+[[Category:English male comedians]]
+[[Category:English male film actors]]
+[[Category:English male radio actors]]
+[[Category:English male stage actors]]
+[[Category:English male television actors]]
+[[Category:English male voice actors]]
+[[Category:Free speech activists]]
+[[Category:Fellows of The Queen's College, Oxford]]
+[[Category:Laurence Olivier Award winners]]
+[[Category:Mr. Bean]]
+[[Category:People educated at St. Bees School]]
+[[Category:People educated at the Chorister School, Durham]]
+[[Category:People from Consett]]
+[[Category:British male comedy actors]]
+[[Category:British comedians]]</text>
+      <sha1>ho57c3siu5uczg9gpdy76t6l2dg5mxj</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Henry Tracey Coxwell</title>
+    <ns>0</ns>
+    <id>2648788</id>
+    <revision>
+      <id>825878637</id>
+      <parentid>805275536</parentid>
+      <timestamp>2018-02-15T23:27:39Z</timestamp>
+      <contributor>
+        <username>Dl2000</username>
+        <id>917223</id>
+      </contributor>
+      <minor/>
+      <comment>en-GB</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7885">{{Use dmy dates|date=February 2018}}
+{{Use British English|date=February 2018}}
+{{Infobox person
+| name        = Henry Tracey Coxwell
+| image       = Henry-T-Coxwell.jpg
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|1819|03|02|df=yes}} 
+| birth_place = [[Wouldham]]
+| death_date  = {{Death date and age|1900|01|05|1819|03|02|df=yes}} 
+| death_place = [[Seaford, East Sussex]]
+| nationality = 
+| other_names = 
+| occupation  = Balloonist
+| known_for   = 
+}}
+'''Henry Tracey Coxwell''' (2 March 1819, [[Wouldham]], Kent &amp;ndash; 5 January 1900, Lewes, Sussex, England),&lt;ref name=obit/&gt; was an English [[aeronaut]]. 
+==Life==
+He was the youngest son of Commander Joseph Coxwell of the Royal Navy, and grandson of the Rev. Charles Coxwell of Ablington House, [[Gloucestershire]], and was born at the parsonage at Wouldham on 2 March 1819. 
+He went to school at [[Chatham, Kent|Chatham]], where his family moved in 1822, and in 1836 he was apprenticed to a surgeon dentist.
+ 
+As a boy he became interested in [[balloon (aircraft)|balloons]], and he spared no efforts to witness as many ascents as possible; among the aeronauts he admired and envied as a boy were [[Mrs Graham]], [[Charles Green (balloonist)]], [[Robert Cocking]] and [[John Hampton (parachutist)|John Hampton]]. 
+The successful voyage of Green's balloon from [[Vauxhall Gardens]] to Germany stimulated his enthusiasm, but it was not until 19 August 1844, at Pentonville, that he had an opportunity  of making an ascent.{{sfn|Seccombe|1901}}
+
+In the autumn of 1845 he founded and edited ''The Balloon, or Aerostatic Magazine,'' of which about twelve numbers appeared at irregular intervals. 
+In 1847 he made a night flight from [[Vauxhall Gardens]] with [[Albert Richard Smith|Albert Smith]] during a storm: a {{convert|16|ft|m|abbr=on}} rent appeared in the envelope, and the balloon fell rapidly to earth, the occupants being saved by the balloon catching on some scaffolding before hitting the ground. Undeterred, Coxwell made another flight the following week.&lt;ref name=obit&gt;{{Cite newspaper The Times |articlename=Mr. Henry Coxwell |day_of_week=Saturday |date=6 January 1900 |page_number=6 |issue= 36032|column=E |section=Obituaries}}&lt;/ref&gt; 
+     
+He became a professional balloonist in 1848, when he was entrusted with the management of a balloon, the ''Sylph'', in Brussels, and subsequently made ascents at [[Antwerp]], [[Elberfeld]], [[Cologne]], and [[Johannisberg (Geisenheim)|Johannisberg]] in Prussia; in 1849 he exhibited his balloon at Kroll's Gardens, [[Berlin]], and demonstrated the ease with which [[petard]]s could be discharged in the air; in September he made excursions to [[Stettin]], [[Breslau]], and [[Hamburg]]. 
+At [[Hanover]], in the summer of 1850, he had a narrow escape, owing to the proximity of lofty trees, and during this year and the next he took up many passengers at Berlin, [[Prague]], [[Vienna]], [[Leipzig]], and elsewhere. 
+In 1852 he returned to London and made ascents from [[Cremorne Gardens, London|Cremorne Gardens]], the New Globe Gardens in the [[Mile End Road]] and the Pavilion Gardens in [[Woolwich]]. &lt;ref&gt;Coxwell 1887, p. 151&lt;/ref&gt;   
+In September 1854 he made some demonstrations in signalling from a balloon at Surrey Gardens.{{sfn|Seccombe|1901}}
+
+In 1862 the [[British Association for the Advancement of Science]] determined to make investigations of the upper atmosphere using balloons. Dr [[James Glaisher]], FRS. was chosen to carry out the experiments, and at the suggestion of Charles Green Coxwell was employed to fly the balloons.&lt;ref&gt; Holmes (2013), p. 199&lt;/ref&gt;
+Coxwell constructed a {{convert|93000|ft3|m3|abbr=on}} capacity balloon named the ''Mammoth'', and on 5 September 1862, taking off from [[Wolverhampton]], Coxwell and Glaisher reached the greatest height achieved to date.  
+Glaisher lost consciousness during the ascent, his last barometer reading indicating an altitude of {{convert|29000|ft|m|abbr=on}} and Coxwell lost all sensation in his hands, but managed just in time to pull the valve-cord with his teeth. 
+The balloon dropped nineteen thousand feet in fifteen minutes, landing safely made near [[Ludlow]].   Later calculations estimated their maximum altitude at {{convert|35000|to|37000|ft|m|sigfig=3|abbr=on}}&lt;ref&gt;Holmes  (2013), p. 213&lt;/ref&gt;
+ 
+In 1863 Coxwell made a demonstration of ballooning to the Army at [[Aldershot]].  These had little practical outcome, although later the War Office did order a balloon from Coxwell with the intention of shipping it to [[Ghana]] for use in the [[Anglo-Ashanti wars#Third Anglo-Ashanti War|Third Anglo-Ashanti War]].  However, the practicalities of supplying  hydrogen under field conditions resulted in the cancellation of the project.&lt;ref&gt;{{cite journal|journal=[[Flight International|Flight]]|url=http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200373.html|title=Army Aeronautics|date=26 June 1909|page= 375}}&lt;/ref&gt; 
+In 1863, in company with [[Henry Negretti]], he made the first aerial trip in England for purposes of photography. 
+In 1864-5, in the ''Research'', he made some very successful ascents in Ireland, and gave some lectures upon aerostation. 
+When the [[Franco-Prussian war]] broke out in 1870 he went to manage some war-balloons for the Germans. 
+He formed two companies, two officers, and forty-two men, at Cologne, and his assistant went on to Strasbourg, but the town surrendered before much service was rendered.{{sfn|Seccombe|1901}}
+ 
+On 17 June 1885, he made his last ascent in a large balloon, the ''City of York''. 
+He had made an annual display at [[York]] for several years, and there he bade farewell to a profession of which he had been one of the most daring exponents for over forty years. 
+His immunity from serious accidents was due to his instinctive prudence, but still more to his thorough knowledge of ballooning tackle.{{sfn|Seccombe|1901}}
+
+Coxwell had a balloon factory in Richmond Road [[Seaford, East Sussex|Seaford, Sussex]] and has a memorial at St Peter's Church, [[East Blatchington]], Seaford.
+After his retirement he lived for a time at [[Tottenham]], but later moved to [[Seaford, East Sussex]], where he died on 5 January 1900.{{sfn|Seccombe|1901}}
+
+==Works==
+During 1887-9 Coxwell collected together in two volumes a number of interesting but ill-arranged and confusing chapters upon his career as an aeronaut, to which he gave the title ''My Life and Balloon Experiences;'' to vol. i. is added a supplementary chapter on military ballooning. 
+As a frontispiece is a photographic portrait, reproduced in the ''Illustrated London News'' (13 January 1900) as that of the foremost balloonist of the last half-century.{{sfn|Seccombe|1901}}
+
+He says:
+:''I had hammered away in [[The Times]] for little less than a decade before there was a real military trial of ballooning for military purposes at [[Aldershot]].''
+==References==
+;Notes
+{{reflist}}
+;Bibliography
+*{{DNBSupp|wstitle=Coxwell, Henry |first=Thomas |last=Seccombe}}
+*{{cite book|title=My life and balloon experiences|year=1887|author=Coxwell, Henrt|location=London|publisher=W. H. Allen|url=https://archive.org/details/mylifeandballoo04coxwgoog}}
+*{{cite book|last=Holmes|first=Richard|authorlink=Richard Holmes (biographer)|title=Falling Upwards|location=London|publisher=Collins|year=2013|isbn= 978-0-00-738692-5}}
+
+==External links==
+* {{wikisource author-inline}}
+*[http://www.davidbristow.com/coxwell_crash.html Henry Coxwell’s high-speed crash landing]
+*http://www.historywebsite.co.uk/articles/BalloonFlight/Flight.htm
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coxwell, Henry Tracey}}
+[[Category:British balloonists]]
+[[Category:1819 births]]
+[[Category:1900 deaths]]
+[[Category:People from Wouldham]]
+[[Category:Flight altitude record holders]]
+[[Category:Balloon flight record holders]]
+[[Category:British aviation record holders]]</text>
+      <sha1>qn47gd6trkyckpnp9cdmmrvw4excycq</sha1>
+    </revision>
+  </page>
+</mediawiki>

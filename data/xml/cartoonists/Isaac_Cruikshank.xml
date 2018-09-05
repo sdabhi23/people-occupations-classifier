@@ -1,0 +1,236 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Isaac Cruikshank</title>
+    <ns>0</ns>
+    <id>11164382</id>
+    <revision>
+      <id>828790122</id>
+      <parentid>824818004</parentid>
+      <timestamp>2018-03-04T19:46:06Z</timestamp>
+      <contributor>
+        <ip>24.90.192.148</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17368">{{Use dmy dates|date=November 2017}}
+{{Use British English|date=November 2017}}
+{{Infobox person
+| honorific_prefix   = 
+| name               =  &lt;!-- include middle initial, if not specified in birth_name --&gt;
+| honorific_suffix   = 
+| image              =  Indecency2.jpg&lt;!-- filename only, i.e. without "File:" (or "Image:") prefix or enclosing [[brackets]] --&gt;
+| image_size         = 
+| alt                = 
+| caption            = Indecency, among Cruikshank's most notable works. 
+Published in London by S.W. Fores, 1799
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         =  &lt;!-- only use if different from name above --&gt;
+| birth_date         = 1764 &lt;!-- {{birth date and age|df=yes|YYYY|MM|DD}} for living people supply only the year unless the exact date is already widely published, as per [[WP:DOB]] --&gt;
+| birth_place        = [[Edinburgh, Scotland]]
+| baptised           =  &lt;!-- will not display if birth_date is entered --&gt;
+| disappeared_date   =  &lt;!-- {{disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         =  1811&lt;!-- {{death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;
+| death_place        = [[London]]
+| death_cause        = [[alcohol poisoning]] 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| burial_place       =  &lt;!-- may be used instead of resting_place and resting_place_coordinates - displays "Burial place" as label --&gt;
+| burial_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| monuments          = 
+| residence          = 
+| nationality        = Scot
+| other_names        = 
+| ethnicity          =  &lt;!-- Ethnicity should be supported with a citation from a reliable source --&gt;
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = artist, caricaturist
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent              =  &lt;!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source --&gt;
+| known_for          = 
+| notable_works      =  &lt;!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works" --&gt;
+| style              = 
+| home_town          = 
+| height             =  &lt;!-- "X cm", "X m"  or "X ft Y in" plus optional reference (conversions are automatic) --&gt;
+| weight             =  &lt;!-- "X kg", "X lb" or "X st Y lb" plus optional reference (conversions are automatic) --&gt;
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| religion           =  &lt;!-- Religion should be supported with a citation from a reliable source --&gt;
+| denomination       =  &lt;!-- Denomination should be supported with a citation from a reliable source --&gt;
+| criminal_charge    =  &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             =  Mary MacNaughton (1769–1853)&lt;!-- Use article title or common name --&gt;
+| partner            =  &lt;!-- (unmarried long-term partner) --&gt;
+| children           = [[Isaac Robert Cruikshank]] (1789–1856)&lt;br&gt;
+[[George Cruikshank]] (1792–1878)&lt;br&gt;Margaret Eliza  (1808&amp;ndash;1825)&lt;br&gt;Mary (1795&amp;ndash;1795)
+| parents            = Elizabeth Davidson (born c.1725)&lt;br&gt;Andrew Crookshanks (c.1725–c.1783)
+| relatives          = 
+| awards             = 
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+
+'''Isaac Cruikshank''' (1764–1811), Scottish painter and caricaturist, was born in [[Edinburgh]] and had most of his career in London. Cruikshank is known for his social and political [[satire]]. &lt;ref name="lambiek.net"&gt;{{cite web|url=https://www.lambiek.net/artists/c/cruikshank_isaac.htm|title=Isaac Cruikshank|website=lambiek.net}}&lt;/ref&gt; His sons [[Isaac Robert Cruikshank]] (1789–1856) and [[George Cruikshank]] (1792–1878) also became artists, and the latter in particular achieved fame as an [[illustrator]] and [[caricaturist]].
+
+==Biography==
+Isaac Cruikshank was born in 1764 to Elizabeth Davidson (born c.1725), daughter of a gardener, and Andrew Crookshanks (c.1725–c.1783), a former customs inspector&lt;ref name="lambiek.net"/&gt;, dispossessed for his role in the [[Jacobite rising of 1745]]. Isaac grew up in New North Kirk parish in Edinburgh after his family moved there. He was the youngest child, and was interested in all sorts of hobbies including sports and music. Isaac studied with a local artist, possibly John Kay (1742–1826).
+
+In 1783 Cruikshank left Scotland to travel to London with his master.&lt;ref name="lambiek.net"/&gt; There he married Mary MacNaughton (1769–1853) on 14 August 1788.&lt;ref&gt;Ancestry.com. England, ''Select Marriages, 1538–1973'' [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. {{subscription}}&lt;/ref&gt; The couple had five known children, two of whom died in infancy. A daughter, Margaret Eliza (1808&amp;ndash;1825),&lt;ref&gt;Ancestry.com. London, England, ''Deaths and Burials, 1813&amp;ndash;1980'' [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2010., [http://search.ancestry.com//cgi-bin/sse.dll?ssrc=pt_t45369905_p24451903007&amp;srchb=r&amp;gss=angs-g&amp;rank=1&amp;tid=45369905&amp;pid=24451903007&amp;gpid=&amp;gsfn=Margaret+Eliza&amp;gsln=Cruikshanks&amp;msbdy=1808&amp;msddy=1825&amp;msbpn__ftp=London%2c+London%2c+England&amp;cp=4&amp;cpxt=1&amp;msfng=Isaac&amp;msfns=Cruikshanks&amp;msmng=Mary&amp;msmns=MacNaughton&amp;msbng0=Isaac+Robert&amp;msbns0=Cruikshanks&amp;msbng1=George&amp;msbns1=Cruikshanks&amp;msbng2=Mary&amp;msbns2=Cruikshanks&amp;_83004003-n_xcl=m&amp;MSAV=1&amp;pcat=ROOT_CATEGORY&amp;h=8957537&amp;db=LMAdeaths&amp;indiv=1 p76/js2/026]. {{subscription}}&lt;/ref&gt; a promising artist, died at the age of eighteen of [[tuberculosis]]. Their sons [[Isaac Robert Cruikshank]] (1789–1856)&lt;ref&gt;Ancestry.com. England, Select Births and Christenings, 1538-1975 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014. {{subscription}}&lt;/ref&gt; and [[George Cruikshank]] (1792–1878)&lt;ref&gt;London Metropolitan Archives, St George, Bloomsbury, Register of baptisms, Oct 1775-Nov 1808, [http://search.ancestry.com/cgi-bin/sse.dll?indiv=1&amp;dbid=1624&amp;h=2040850&amp;ssrc=pt&amp;tid=45369905&amp;pid=24451902895&amp;usePUB=true P82/GEO1/002]. {{subscription}}&lt;/ref&gt; also became artists.&lt;ref name=Broadley2930&gt;Alexander Meyrick Broadley, ''Napoleon in Caricature, 1795&amp;ndash;1821'', John Lane, 1911, pp. 29&amp;ndash;30&lt;/ref&gt;
+&lt;gallery&gt;
+File:Cruikshank - The Radical's Arms.png|"The Radical's Arms" - Cruikshank used the guillotine as a symbol of violent French excesses during the [[Reign of Terror]] in the 1790s, when tens of thousands of political opponents were executed.
+File:Friends of the People 1792 Cruikshank.jpg|''The Friends of the People'', 15 November 1792, caricaturing [[Joseph Priestley]] and [[Thomas Paine]], ([[Chemical Heritage Foundation|Chemical Heritage Foundation Museum]]).
+&lt;/gallery&gt;
+Cruikshank's first known publications were etchings of Edinburgh "types", from 1784. His first caricature etching called ''Scotch Eloquence'' was of Edinburgh characters.&lt;ref name=":0" /&gt; He produced illustrations for books about the theatre, did the frontispiece for ''Witticisms and Jests of Dr Johnson'' (1791), and illustrated [[George Shaw]]'s extensive ''General Zoology'' (1800–26). &lt;ref name="lambiek.net"/&gt;His water colours were exhibited, but in order to make a living, he found it more lucrative to produce prints and caricatures. He was responsive to the marketplace but firm in his dislikes of [[Napoleon]] and Britain's home grown political radicals, including, for example, the members of the [[London Corresponding Society]] and the [[Society of the Friends of the People]] He and [[James Gillray]] developed the figure of [[John Bull]], the nationalistic representation of a solid British yeoman. His ''Olympic games or John Bull introducing his new ambassador to the grand consul'' (1803) and ''Boney at Brussells'' (also 1803) contrast an implied European capitulation and British defiance under the threat of invasion.&lt;ref&gt;''Napoleonic and Georgian Social and Political Satire', Thursday 25 June 2015, Bloomsbury Auctions, London, 2015.&lt;/ref&gt;
+
+Near the start of his fame in 1789, Cruikshank produced several watercolors adapted from his earlier drawings, and was on exhibition at the Royal Academy. Publisher John Roach was a friend and patron. Cruikshank later also worked with print dealer S. W. Fores and Johnny Fairburn. He also collaborated with [[George Moutard Woodward|G. M. Woodward]], and later, with his son George. (See also [[G.S. Tregear]].)  He also etched and designed lottery tickets and the song-heads of musical scores.&lt;ref&gt;Broadley, p.26.&lt;/ref&gt;
+
+Cruikshank died of alcohol poisoning at the age of fifty-five as a result of a drinking contest.&lt;ref name="lambiek.net"/&gt; He is buried near his home in London.&lt;ref name=Broadley2930/&gt;
+
+== Caricature Prominence During Isaac Cruikshank's Era ==
+During the late 18th century, there was an enormous amount of propaganda due to changes of power in Europe, the main being French Revolution. The British Monarchy was also being highly criticized of debauchery during this time, as it was a period of economic hardship and debt. Political caricature and graphic satire became a prominent outlet for mass propaganda to express competing perspectives on political and economic issues. The revolution also triggered feelings and expressions of patriotism towards artists' home countries which they depicted by shedding a grotesque light on their countries' enemies.&lt;ref&gt;{{Cite book|title = The Sketch and Caricature as Metaphors for the French Revolution|last = Boime|first = Albert|publisher = Deutscher Kunstverlag GmbH Munchen Berlin|year = 1992|isbn = |location = |pages = }}&lt;/ref&gt;
+
+Isaac Cruikshank, James Gillray, and Thomas Rowlandson were considered the leading caricaturists during this period and produced many popular sketches and graphics to be published to citizens. These three prominent artists' distinct styles and subject matter let them to be notable and widespread and Europe, although they also adapted and changed images from smaller artists. The three artists were sometimes considered rivals as their ideas often took different positions and angles on matters, despite sometimes collaborating on works. A common theme in all three artists' works were the portrayal of gluttony and cannibalism to represent exploitation of the monarchy sparked by the economical effects of the French Revolution&lt;ref name=":0" /&gt; These artists, however, were all publishing their work in Britain, as in France censorship laws were at an all-time high.&lt;ref&gt;{{Cite book|title = Censorship of Political Caricature in Nineteenth-century France|url = https://books.google.com/books?id=vIA1F2Qm0WgC|publisher = Kent State University Press|date = 1989-01-01|isbn = 9780873383967|first = Robert Justin|last = Goldstein}}&lt;/ref&gt;
+
+&lt;!--
+{| class="sortable wikitable"
+! scope="col" class="unsortable" | Image
+! scope="col" | Name
+! scope="col" | Dates
+|-
+|
+|The Corsican Ogre
+|1798
+|
+|-
+|
+|Little Boney gone to pot
+|1803
+|
+|-
+|
+|
+|
+|
+|-
+|[[File:Napoleon-nappy-crying-for-a-new-toy-1803-caricature.jpg|80px|]]
+|Napoleon Crying for a new toy
+|1803
+| 
+|-
+|}--&gt;
+In 1803 after the French declared war on Britain, numerous patriotic prints resulted focused around support and strength for the British homefront. Cruikshank was one of the first to illustrate Napoleon as non-realistic and instead satanic in his work ''Buonaparte at Rome Giving Audience in State'' (1797).&lt;ref&gt;{{Cite book|title = The British Monarchy and the French Revolution|last = Morris|first = Marilyn|publisher = |year = |isbn = |location = |pages = }}&lt;/ref&gt; In 1809, Cruikshank created ''French Generals Receiving an English Charge'' which largely attacked [[Prince Frederick, Duke of York and Albany|Prince Frederick, Duke of York]] for his scandalous affairs with [[Mary Anne Clarke]] during the time.&lt;ref&gt;{{Cite web|title = Isaac Cruikshank|url = http://www.oxforddnb.com/view/article/6844|website = www.oxforddnb.com|accessdate = 2015-12-03}}&lt;/ref&gt;
+[[File:Mw05034.jpg|thumb|Pencil sketch of [[William Pitt the Younger]], by Cruikshank, dated 1789&amp;ndash;1790]]
+
+==Legacy==
+A contemporary of [[James Gillray]] and [[Thomas Rowlandson]], Cruikshank was part of what has been called "the Golden Age of British Caricature." Some have called his work "uneven"&lt;ref&gt;Robert L. Patten, "[http://www.oxforddnb.com/view/article/6844 Cruikshank , Isaac (1764–1811),"] ''Oxford Dictionary of National Biography''. Ed. H. C. G. Matthew and Brian Harrison. (Oxford: OUP, 2004. 11 May 2007.)&lt;/ref&gt; but at its best, it provided a vivid insight into the cultural and political preoccupations of the British during the decades at the turn of the nineteenth century. He was an avid and skilled water colorist, and had a "keen sense of humour",although his achievements during his shortened life suffered from the greater successes and "more prolonged career of his gifted son."&lt;ref&gt;Broadley, 26.&lt;/ref&gt;
+
+There are believed to be at least 345 prints created by Isaac Cruikshank between 1793 and 1800 that are in the [[British Museum]]'s collection. E.B. Crumbier created a catalogue of around 1350 images that Cruikshank produced in his lifetime.&lt;ref name=":0"&gt;{{Cite web|title = Oxford DNB article:   Cruikshank,   Isaac|url = http://www.oxforddnb.com/view/article/6844|website = www.oxforddnb.com|accessdate = 2015-12-02}}&lt;/ref&gt; In [[Huntington Library]], California, there is also a collection of his watercolor drawings.
+
+Cruikshank, just like his son [[Isaac Robert Cruikshank]] and famous son [[George Cruikshank]], hold importance as a pioneer in the [[history of comics]] for creating several cartoons with make use of narrative sequences and/or [[speech balloon]]s. &lt;ref name="lambiek.net"/&gt;
+
+==Gallery==
+&lt;gallery&gt;
+File:African woman slave trade.jpg|''[[Abolition of the Slave Trade|The Abolition of the Slave Trade]]'' (1792), Cruikshank's depiction of the alleged murder of a slave girl by [[John Kimber]], published April 10, 1792
+File:Friends of the People 1792 Cruikshank.jpg|''The Friends of the People'', 15 November 1792, caricaturing [[Joseph Priestley]] and [[Thomas Paine]], ([[Chemical Heritage Foundation|Chemical Heritage Foundation Museum]]).
+File:IsaacCruikshank-DebatingSoc.jpg|Isaac Cruikshank, Debating Society (Substitute for Hair Powder). London: Published by Laurie &amp; Whittle, 5 May 1795.  A reference to [[William Pitt the Younger]]'s new [[Duty on Hair Powder Act 1795|tax on hair powder]].
+File:1799-Belvoir-Castle-houseparty-Isaac-Cruikshank.jpg|"The Humours of [[Belvoir Castle]] -- or the Morning After", a March 1, 1799 English caricature engraving showing the aftermath of a night of upper-class [[:wikt:debauchery|debauchery]] at a large country mansion, marking the celebration of the owner's coming of age.
+File:Napoleon-nappy-crying-for-a-new-toy-1803-caricature.jpg|"Crying for a New Toy", a caricature of [[Napoleon Bonaparte|Napoleon]] attributed to Cruikshank (1803)&lt;ref&gt;Broadley, p. lxxii.&lt;/ref&gt;
+&lt;/gallery&gt;
+
+== Notes ==
+{{Reflist|2}}
+
+== Electronic resources ==
+*[https://www.npg.org.uk/live/search/person.asp?LinkID=mp06840&amp;role=art Cruikshank's work at the National Portrait Gallery]
+*[http://www.artcyclopedia.com/artists/cruikshank_isaac.html Isaac Cruikshank at Artcyclopedia]
+*[https://web.archive.org/web/20070405023741/http://bugpowder.com/andy/e.bc_cruikshank.isaac.html Isaac Cruikshank - Cartoons]
+*[http://www.connectedhistories.org/Search_results.aspx?dtf=1500-01-01&amp;dtt=1899-12-31&amp;rs=isaac+cruikshank Connected Histories: British History Sources, 1500-1900] This Jisc-funded web service provides federated searching of online historical resources for research. The web link provides access to primary sources which refer to Isaac Cruikshank.
+
+== Resources ==
+{{commons category|Isaac Cruikshank}}
+*The British Museum, the Huntington Library in California, and The Houghton Library at Harvard University all have significant holdings of Cruikshank's work.
+*George, Mary Dorothy. ''Hogarth to Cruikshank: Social Change in Graphic Satire''. 1967.
+*Nygren, Edward J., ed. ''Isaac Cruikshank and the Politics of Parody: Watercolors in the Huntington Collection''. University of California Press, 2005. {{ISBN|0-87328-147-0}}; {{ISBN|978-0-87328-147-8}}
+*Patten, Robert L.. "[http://www.oxforddnb.com/view/article/6844 Cruikshank , Isaac (1764–1811)."] ''Oxford Dictionary of National Biography''. Ed. H. C. G. Matthew and Brian Harrison. Oxford: OUP, 2004. 11 May 2007.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cruikshank, Isaac}}
+[[Category:Scottish illustrators]]
+[[Category:Scottish cartoonists]]
+[[Category:Scottish caricaturists]]
+[[Category:Scottish comics artists]]
+[[Category:Scottish satirists]]
+[[Category:Scottish male painters]]
+[[Category:People from Edinburgh]]
+[[Category:1756 births]]
+[[Category:1811 deaths]]
+[[Category:Alcohol-related deaths in England]]</text>
+      <sha1>ns5eninbu4r9v16p2jqkxqdw3xkoce4</sha1>
+    </revision>
+  </page>
+</mediawiki>

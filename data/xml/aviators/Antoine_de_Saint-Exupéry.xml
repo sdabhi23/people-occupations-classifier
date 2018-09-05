@@ -1,0 +1,633 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Antoine de Saint-Exupéry</title>
+    <ns>0</ns>
+    <id>63174</id>
+    <revision>
+      <id>855384497</id>
+      <parentid>855148862</parentid>
+      <timestamp>2018-08-17T22:09:06Z</timestamp>
+      <contributor>
+        <username>SK10</username>
+        <id>19612122</id>
+      </contributor>
+      <minor/>
+      <comment>confirmed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="99711">{{Use dmy dates|date=May 2017}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+ | image         = 11exupery-inline1-500.jpg
+ | caption       = Saint-Exupéry in Toulouse, France, 1933
+ | birth_name    = Antoine Marie Jean-Baptiste Roger
+ | birth_date    = {{birth date|1900|6|29|df=yes}}
+ | birth_place   = [[Lyon]], France
+ | death_date    = presumed {{death date and age|1944|7|31|1900|6|29|df=yes}}
+ | death_place   = south of [[Marseille]], France
+ | religion      = [[Roman Catholicism]]&lt;ref&gt;[https://www.nytimes.com/1993/10/28/style/28iht-book_16.html Book - ANTOINE DE SAINT-EXUPERY - NYTimes.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+ | education     = [[Villa St. Jean International School]]
+ | occupation    = [[Aviator]], writer
+ | nationality   = French
+ | genre         = Autobiography, [[belles-lettres]], essays, children's literature
+ | awards        ={{plainlist|
+*[[Legion of Honour|Légion d'honneur]] (1930,1939){{sfnp|Commire|1980|p=158}}
+*[[prix Femina]] (1929){{sfnp|Commire|1980|p=158}}
+*[[Grand Prix du roman de l'Académie française]] (1939)
+*[[National Book Award|U.S. National Book Award]] (1940)
+*[[Croix de guerre 1939–1945 (France)|Croix de guerre]] (1940){{sfnp|Commire|1980|p=161}}
+*[[:fr:Prix des Ambassadeurs|Prix des Ambassadeurs]] (posthumous)
+*[[Croix de guerre 1939–1945 (France)|Croix de guerre avec palme]] (1944) (posthumous)
+}}
+ | spouse        = [[Consuelo de Saint Exupéry|Consuelo Suncín de Sandoval]] (1931 – his death)
+ | signature     = Antoine de Saint-Exupéry signature.svg
+}}
+
+'''Antoine Marie Jean-Baptiste Roger, comte de Saint-Exupéry'''{{sfnp|Schiff|2006|p=xi}}{{#tag:ref|
+
+Standard modern usage for the spelling of Saint-Exupéry's surname includes the hyphen. But according to French legal documents and his birth certificate, no hyphen is used in his name; thus, it is formally ''de Saint Exupéry'', not ''Saint-Exupéry''. The Armorial de l'ANF,&lt;ref name="Armorial-ANF" /&gt; which is a listing of French nobility, mentions the ''Saint Exupéry (de)'' family without a hyphen. However, both spellings are found for the author's relatives in the advanced research facility ''{{ill|Géopatronyme|fr}}'', for records in the Rhône department for the period 1891–1915, showing two birth certificates with a hyphen and one without. Most of his books were published under his name with a hyphen; memorial plaques, the 50-franc banknote, and the bracelet he was wearing at the time of his death also use the hyphen. The author adopted the hyphen after his arrival in the United States in 1941, as he was annoyed with Americans' addressing him as "Mr. Exupéry".
+
+|group=Note}} ({{IPA-fr|ɑ̃twan də sɛ̃tɛɡzypeʁi|lang}}; 29 June 1900&amp;nbsp;– 31 July 1944) was a French writer, poet, aristocrat, journalist, and pioneering aviator. He became a [[laureate]] of several of France's highest [[literary award]]s and also won the U.S. [[List of National Book Award winners#1935 to 1941|National Book Award]].&lt;ref name="NewYorkTimes-1940.02.14" /&gt; He is best remembered for his novella ''[[The Little Prince]]'' (''Le Petit Prince'') and for his lyrical aviation writings, including ''[[Wind, Sand and Stars]]'' and ''[[Night Flight (novel)|Night Flight]]''.
+
+Saint-Exupéry was a successful commercial pilot before World War II, working [[airmail]] routes in Europe, Africa and South America. At the outbreak of war, he joined the [[French Air Force]] (''Armée de l'Air''), flying reconnaissance missions until [[Armistice with France (Second Compiègne)|France's armistice with Germany]] in 1940. After being demobilised from the French Air Force, he travelled to the United States to help persuade its government to enter the war against [[Nazi Germany]]. Following a 27-month hiatus in North America, during which he wrote three of his most important works, he joined the [[Free French Air Force]] in North Africa, although he was far past the maximum age for such pilots and in declining health. He disappeared over the Mediterranean on a reconnaissance mission in July 1944, and is believed to have died at that time.
+
+Prior to the war, Saint-Exupéry had achieved fame in France as an aviator. His literary works – among them ''The Little Prince'', translated into 300&lt;ref&gt;http://www.ctvnews.ca/entertainment/the-little-prince-becomes-world-s-most-translated-book-excluding-religious-works-1.3358885&lt;/ref&gt; languages and dialects – posthumously boosted his stature to national hero status in France.&lt;ref name="NewYorkTimes-2005.04.03" /&gt;&lt;ref name="Peak-2011.03" /&gt; He earned further widespread recognition with international translations of his other works. His 1939 philosophical memoir [[Wind, Sand and Stars|''Terre des hommes—Man and His World'']] became the name of an [[Terre des hommes|international humanitarian group]], and was also used [[Expo 67#Montebello conference produces theme|to create the central theme]] of the most successful world's fair of the 20th century, [[Expo 67]] in Montreal, Quebec, Canada.&lt;ref name="Berton" /&gt;
+{{TOC limit|limit=1}}
+
+== Youth and aviation ==
+[[File:Birthplace Saint-Exupéry 1.jpg|thumb|right|Birthplace of Saint-Exupéry in the [[Presqu'île]] section of [[Lyon]], on the street now named after him, in blue at lower left.]]
+
+Saint-Exupéry was born in [[Lyon]] to an aristocratic Catholic family that could trace its lineage back several centuries. He was the third of five children of the [[Viscountess]] Marie de Fonscolombe and [[Viscount]] Jean de Saint Exupéry (1863–1904).&lt;ref&gt;[http://www.fondsenligne.archives-lyon.fr/ac69v2/visu_affiche.php?PHPSID=7ca752c2a0fed8db778487d95c291b10&amp;param=visu&amp;page=158  ''Acte de naissance numéro 1703,'' page 158/257, reg. 2E1847''], with marginal note concerning his mariage with Consuelo Suncin ([[Nice]], 22 April 1931). ''Archives municipales numérisées de Lyon''.&lt;/ref&gt;{{sfnp|Webster|1994|p=12}}&lt;ref name="Saint-Exupéry.com-b" /&gt;{{#tag:ref|
+
+Saint-Exupéry was born at No. 8 rue Peyrat, later rue Alphonse Fochier, and still later renamed as Rue de Saint Exupéry, in [[Arrondissements of Lyon|Lyon's 2nd arrondissement]].{{sfnp|Webster|1994|p=12}} He was the third of five children (and nicknamed 'Tonio'), after older sisters Marie-Madeleine ("Biche", b. 26 January 1897–1927), Simone ("Monot", 26 January 1898–1978), and his younger siblings François (1902–1917) and Gabrielle ("Didii", 1903–1986). His father and mother were Viscount Jean de Saint Exupéry (1863–1904; different sources name his father as Jean-Marc or Caesar de Saint Exupéry{{sfnp|Commire|1980|p=154}}) and Visountess Marie, née Boyer de Fonscolombe (1875–1972). He was baptized in a Catholic ceremony in his great-aunt's chapel on 15 August 1900 in [[Saint-Maurice-de-Rémens]]; his godfather was his uncle, Roger de Saint Exupéry, Earl of Miremont (1865 – August 1914, killed leading his battalion in Maissin, Belgium, during the First World War), and his godmother was his aunt Madeleine Fonscolombe.&lt;ref name="Saint-Exupéry.com-b" /&gt;
+
+|group="Note"}} His father, an executive of the ''Le Soleil'' (The Sun) insurance brokerage, died of a stroke in Lyon's ''La Foux'' train station before his son's fourth birthday. His father's death affected the entire family, transforming their status to that of 'impoverished aristocrats'.{{sfnp|Schiff|2006|p=ix}}
+
+Saint-Exupéry had three sisters and a younger blond-haired brother, François, who at age 15 died of rheumatic fever contracted while both were attending the [[Marianist]] [[Villa St. Jean International School|College Villa St. Jean]] in [[Fribourg, Switzerland]], during World War I. Saint-Exupéry attended to his brother, his closest confidant, beside François' death bed, and later wrote that François "...remained motionless for an instant. He did not cry out. He fell as gently as a [young] tree falls", imagery which would much later be recrafted into the climactic ending of ''[[The Little Prince]]''. At the age of 17, now the only "man" in the family following the death of his brother, the young author was left as distraught as his mother and sisters, but he soon assumed the mantle of a protector and took to consoling them.{{sfnp|Schiff|1996|pp=61–62}}
+
+After twice failing his final exams at a preparatory [[École Navale|Naval Academy]], Saint-Exupéry entered the [[École des Beaux-Arts]] as an [[Academic audit|auditor]] to study architecture for 15 months, again without graduating, and then fell into the habit of accepting odd jobs. In 1921, Saint-Exupéry began his military service as a basic-rank soldier with the ''2e Régiment de [[chasseurs]] à cheval'' (2nd Regiment of [[light cavalry]]) and was sent to Neuhof, near [[Strasbourg]].{{sfnp|Schiff|1996|p=80}} While there he took private flying lessons and the following year was offered a transfer from the French Army to the French Air Force. He received his [[Aircrew brevet|pilot's wings]] after being posted to the 37th Fighter Regiment in [[Casablanca, Morocco]]. Later, being reposted to the 34th Aviation Regiment at [[Le Bourget]] on the outskirts of Paris, and then experiencing the first of his many [[Aviation accidents and incidents|aircraft crashes]], Saint-Exupéry bowed to the objections of the family of his fiancée, future novelist [[Louise Lévêque de Vilmorin]], and left the air force to take an office job. The couple ultimately broke off their engagement and he worked at several more odd jobs without success over the next few years.{{Citation needed|date = June 2017}}
+
+By 1926, Saint-Exupéry was flying again. He became one of the pioneers of international [[airmail|postal flight]], in the days when aircraft had few instruments. Later he complained that those who flew the more advanced aircraft had become more like accountants than pilots. He worked for [[Aéropostale (aviation)|Aéropostale]] between [[Toulouse]] and [[Dakar]], and then also became the airline stopover manager for the [[Cape Juby]] airfield in the Spanish zone of [[Morocco|South Morocco]], in the [[Sahara]] desert. His duties included negotiating the safe release of downed fliers taken hostage by Saharan tribes , a perilous task which earned him his first [[Légion d'honneur]] from the French Government.{{Citation needed|date = June 2017}}
+
+In 1929, Saint-Exupéry was transferred to Argentina, where he was appointed director of the [[Aeroposta Argentina]] airline. He surveyed new air routes across South America, negotiated agreements, and even occasionally flew the airmail as well as search missions looking for downed fliers. This period of his life is briefly explored in ''[[Wings of Courage]]'', an [[IMAX]] film by French director [[Jean-Jacques Annaud]].&lt;ref name="NewYorkTimes-1995.04.21" /&gt;
+
+== Writing career ==
+[[Image:Antoine de Saint-Exupéry.jpg|thumb|left|Saint-Exupéry photographed near [[Montreal|Montreal, Quebec]], Canada, in May 1942, on a speaking tour in support of France after its armistice with Germany. Despite his appearance, he had been beset with stress and bedridden with [[cholecystitis]].&lt;ref name="Saint-Exupéry.com-a" /&gt;&lt;ref name="Guardian-2010.04.09" /&gt;]]
+
+Saint-Exupéry's first novella, ''[[L'Aviateur]]'' (''The Aviator''), was published in a short-lived literary magazine ''[[Le Navire d'Argent]]'' (''The Silver Ship'').&lt;ref name="Ibert" /&gt; In 1929, his first book, ''[[Courrier sud (novel)|Courrier Sud]]'' (''Southern Mail'') was published; his career as an aviator and journalist was about to begin. That same year, Saint-Exupéry flew the [[Casablanca]]—[[Dakar]] route.
+
+The 1931 publication of ''[[Vol de nuit]]'' (''Night Flight'') established Saint-Exupéry as a rising star in the literary world. It was the first of his major works to gain widespread acclaim and won the [[prix Femina]]. The novel mirrored his experiences as a mail pilot and director of the [[Aeroposta Argentina]] airline, based in [[Buenos Aires]], Argentina.{{sfnp|Schiff|1994|p=210}} That same year, at [[Grasse]], Saint-Exupéry married [[Consuelo de Saint-Exupéry|Consuelo Suncin]] (née Suncín Sandoval), a twice-widowed [[El Salvador|Salvadoran]] writer and artist, who possessed a bohemian spirit and a "viper's tongue". Saint-Exupéry, thoroughly enchanted by the diminutive woman, would leave and then return to her many times – she was both his muse and, over the long term, the source of much of his angst.&lt;ref name="Guardian-2000.06.24" /&gt; It was a stormy union, with Saint-Exupéry travelling frequently and indulging in numerous affairs, most notably with the Frenchwoman Hélène de Vogüé (1908–2003), known as "Nelly" and referred to as "Madame de B." in Saint-Exupéry biographies.&lt;ref name="Nelly" /&gt;{{#tag:ref|
+
+Hélène (Nelly) de Vogüé (1908–2003), born Hélène Jaunez to a French businessman, became a well known French business executive and also an intellectual fluent in several languages. She married the equally well known French noble, Jean de Vogüé, in 1927 and had one child with him, a son named Patrice. Hélène is referred to only as "Madame de B." in multiple Saint-Exupéry biographies. This occurred due to agreements she made with writers before granting them access to her troves of the author-aviator's writings, which she deposited in the French national archives – from which they will not be released until 2053. It is believed she sought her anonymity in order to protect Saint-Exupéry's reputation, as during the Second World War, the U.S. [[Office of Strategic Services|O.S.S.]] suspected she was a secret Vichy agent and Nazi collaborator.&lt;ref name="Telegraph-2007.04.30" /&gt;
+
+|group="Note"}} Vogüé became Saint-Exupéry's literary [[executrix]] after his death and also wrote her own Saint-Exupéry biography under a pseudonym, Pierre Chevrier.&lt;ref name="NewYorkTimes-2000.06.25" /&gt;
+
+Saint-Exupéry continued to write until the spring of 1943, when he left the United States with American troops bound for North Africa in the [[World War II|Second World War]].
+
+== Desert crash ==
+[[File:Tarfaya Saint-Exupery.jpg|thumb|right| A monument in [[Tarfaya]], [[Cape Juby]], [[Morocco]], commemorating [[Aéropostale (aviation)|Aéropostale's]] mail stopover station and Saint-Exupéry, its manager]]
+
+On 30 December 1935, at 2:45&amp;nbsp;a.m., after 19 hours and 44 minutes in the air, Saint-Exupéry, along with his mechanic-navigator André Prévot, crashed in the Libyan desert,{{sfnp|Schiff|1996|p=258}} during an attempt to break the speed record in a Paris-to-Saigon air race and win a prize of 150,000&amp;nbsp;[[francs]].&lt;ref name="Schiff-1996a" /&gt;{{#tag:ref|
+
+The aircraft Saint-Exupéry was flying when he crashed in the Sahara was a [[Caudron C.630 Simoun]], Serial Number 7042, with the French registration F-ANRY, with 'F' being the international designator for France, and the remainder being derived from 'ANtoine de saint-exupéRY'.
+
+|group="Note"}} The crash site is thought to have been near the [[Wadi El Natrun|Wadi Natrun]] valley, close to the [[Nile Delta]].{{sfnp|Schiff|1996|p=263}}
+
+Both Saint-Exupéry and Prévot miraculously survived the crash, only to face rapid dehydration in the intense desert heat. Their maps were primitive and ambiguous, leaving them with no idea of their location. Lost among the sand dunes, their sole supplies consisted of some grapes, two oranges, a [[Madeleine (cake)]], a pint of coffee in a battered thermos and a half pint of white wine in another. They also had with them a small store of medicine: "a hundred grammes of ninety percent alcohol, the same of pure ether, and a small bottle of iodine."&lt;ref&gt;Antoine de Saint-Exupéry, Wind, Sand, and Stars, 1939, p127-152&lt;/ref&gt; The pair had only one day's worth of fluids.{{sfnp|Schiff|2006|p=258}} They both saw mirages and experienced auditory hallucinations, which were quickly followed by more vivid hallucinations. By the second and third day, they were so dehydrated that they stopped sweating. On the fourth day, a [[Bedouin]] on a camel discovered them and administered a native rehydration treatment that saved their lives.&lt;ref name="Schiff-1996a" /&gt; The near brush with death would figure prominently in his 1939 memoir, ''[[Wind, Sand and Stars]]'', winner of several awards. Saint-Exupéry's classic novella ''[[The Little Prince]]'', which begins with a pilot being marooned in the desert, is, in part, a reference to this experience.
+
+== American and Canadian sojourn and ''The Little Prince'' ==
+{{main|The Little Prince}}
+[[Image:Consuelo en 1942 à Montréal.jpg|thumb|left|The vain and petulant Rose in ''[[The Little Prince]]'' was likely inspired by Saint-Exupéry's [[Salvadoran]] wife, [[Consuelo de Saint Exupéry]].]]
+
+Following the [[battle of France|German invasion of France in 1940]], Saint-Exupéry flew a [[Bloch MB.174]] with the ''Groupe de reconnaissance II/33'' reconnaissance squadron of the [[Armée de l'Air]].
+
+After France's [[Armistice with France (Second Compiègne)|armistice with Germany]], Saint-Exupéry went into exile in North America, escaping through Portugal. He arrived in New York City on the last day of 1940, with the intention of convincing the U.S. to enter the conflict against Nazi Germany quickly.{{sfnp|Schiff|1996|p=331}} On 14 January 1941, at a [[Hotel Astor]] author luncheon attended by approximately 1,500, he belatedly received his [[National Book Award]] for ''[[Wind, Sand and Stars]]'', won a year earlier while he was occupied witnessing the [[Battle of France|destruction of the French Army]].&lt;ref name="NewYorkTimes-1941.01.15" /&gt; Consuelo followed him to New York City several months later after a chaotic migration to the southern French town of [[Oppède]], where she lived in an artist's commune, the basis of her autobiography, ''Kingdom of the Rocks: Memories of Oppède''.&lt;ref name="SaintExupéryConsuelo" /&gt;{{sfnp|Schiff|1996|p=338}}
+
+Between January 1941 and April 1943, the Saint-Exupérys lived in New York City's [[Central Park South]] in twin penthouse apartments,{{sfnp|Dunning|1989}} as well as [[The Bevin House]] mansion in [[Asharoken, New York|Asharoken]] on [[Long Island|Long Island, New York]] and a townhouse on [[Beekman Place (Manhattan)|Beekman Place]] in [[Manhattan]].{{sfnp|Cotsalas|2000}}
+
+Some researchers have implied that during his stay in the United States, Saint-Exupéry became intimate with [[Anne Morrow Lindbergh]], wife of the famous American aviator [[Charles Lindbergh]]. Ironically, while his intention was to convince the U.S. Government of the need to fight fascism, both Anne and her husband Charles were strongly advocating against American intervention in the European war. Anne wrote a 41-page booklet, ''The Wave of the Future'', in support of her husband, who was lobbying for a U.S.–German peace treaty similar to [[Molotov–Ribbentrop Pact negotiations|Stalin's treaty with Hitler]]. The Roosevelt administration subsequently attacked ''The Wave of the Future'' as "the bible of every American Nazi, Fascist, [[German American Bund|Bundist]] and Appeaser", and the booklet became one of the most despised writings of the period.&lt;ref name="Independent-2001.02.15" /&gt;
+
+[[File:Saint Exupery exhibit - Air &amp; Space Museum, Le Bourget, Paris, France, absent artwork and not subject to copyright.jpg|thumb|Two editions of ''[[The Little Prince]]'' (lower left and upper right, artwork not shown) on display at the Saint-Exupéry exhibit at the [[French Air and Space Museum|Air and Space Museum]] in Paris, France. Also, upper left: ''Lettre à un otage'' (''Letter to a Hostage''), and bottom right: ''Pilote de guerre'' (English version: ''[[Flight to Arras]]'').]]
+
+Saint-Exupéry and Charles Lindbergh both became [[Lockheed P-38 Lightning|P-38]] pilots during World War II, with a disgraced Lindbergh fighting in the [[Pacific War]],&lt;ref name="PBS" /&gt; and with Saint-Exupéry fighting and dying over the Mediterranean.&lt;ref name="Time-1944.08.14" /&gt;
+
+It was after Saint-Exupéry's arrival in the United States that the author adopted the hyphen within his surname, as he was annoyed with Americans addressing him as "Mr. Exupéry".{{sfnp|Schiff|2006|p=xi}} It was also during this period that he authored ''Pilote de guerre ([[Flight to Arras]])'', which earned widespread acclaim, and [[:fr:Lettre à un otage|''Lettre à un otage'']] (''Letter to a Hostage''), dedicated to the 40 million French [[German military administration in occupied France during World War II|living under Nazi oppression]], plus numerous shorter pieces in support of France. The Saint-Exupérys also resided in [[Quebec City]], Canada for several weeks during the late spring of 1942, during which time they met a precocious eight-year-old boy with blond curly hair, Thomas, the son of philosopher [[Charles De Koninck]], with whom the Saint-Exupérys resided.{{sfnp|Schiff|2006|p=379}}{{sfnp|Brown|2004|}}{{#tag:ref|
+
+The large home of [[Charles De Koninck]] has since been classified as a historical building and has been visited frequently by numerous worldwide personalities from academic, scientific, intellectual, and political circles. Thomas kept a few memories from Saint-Exupéry's visit: "[He was] a great man. He was the aviator. Someone we would get attached to quite easily, who would show interest in us, the kids. He would make us paper planes, drawings. [...] He loved mathematical enigmas." The following year, he published ''[[The Little Prince]]''. According to the local legend, Saint-Exupéry received his inspiration from the junior De Koninck, who asked many questions. However, Thomas De Koninck denied this interpretation: "''The Little Prince'' is Saint-Exupéry himself."|group="Note"}}
+
+After he returned from his stay in Quebec, which had been fraught with illness and stress, the French wife of one of his publishers helped persuade Saint-Exupéry to produce a children's book,{{sfnp|Schiff|1996|p=278}} hoping to calm his nerves and also compete with the new series of ''[[Mary Poppins]]'' stories by [[P. L. Travers|P.L. Travers]]. Saint-Exupéry wrote and illustrated ''[[The Little Prince]]'' in New York City and the village of [[Asharoken, New York|Asharoken]] in mid-to-late 1942, with the manuscript being completed in October.{{sfnp|Schiff|2006|p=379}} It would be first published months later in early 1943 in both English and French in the United States, and would only later appear in his native homeland posthumously after the [[Western Front (World War II)#Liberation of France|liberation of France]], as his works had been banned by the collaborationist [[Vichy France|Vichy Regime]].{{sfnp|Severson|2004|p=166, 171}}{{sfnp|Schiff|1996|p=366}}{{#tag:ref|
+
+Although Saint-Exupéry's regular publisher in France, Gallimard, lists ''Le Petit Prince'' as being published in 1946, that apparently is a legalistic interpretation possibly designed to allow for an extra year of the novella's copyright protection period, and is based on Gallimard's explanation that sales of the book started only in 1946.  Other sources, such as the one referenced, depict the first Librairie Gallimard printing of 12,250 copies as occurring on 30 November 1945.&lt;ref name="PetitPrince.net-a" /&gt;|group="Note"}}
+
+== Return to war ==
+
+In April 1943, following his 27 months in North America, Saint-Exupéry departed with an American military convoy for [[Algiers]], to fly with the [[Free French Air Force]] and fight with the [[Allies of World War II|Allies]] in a Mediterranean-based squadron. Then 43, soon to be promoted to the rank of commandant (major), he was far older than most men in operational units. Although eight years over the age limit for such pilots, he had petitioned endlessly for an exemption which had finally been approved by General [[Dwight D. Eisenhower|Dwight Eisenhower]]. However, Saint-Exupéry had been suffering pain and immobility due to his many previous crash injuries, to the extent that he could not dress himself in his own [[flight suit]] or even turn his head leftwards to check for enemy aircraft.{{sfnp|Schiff|2006|p=180}}
+
+Saint-Exupéry was assigned with a number of other pilots to his former unit, renamed ''Groupe de reconnaissance 2/33 "Savoie"'', flying [[Lockheed P-38 Lightning|P-38 Lightnings]], which an officer described as "war-weary, non-airworthy craft".{{sfnp|Cate|1970}} The Lightnings were also more sophisticated than models he previously flew, requiring him to undertake seven weeks of stringent training before his first mission. After wrecking a P-38 through engine failure on his second mission, he was grounded for eight months, but was then later reinstated to flight duty on the personal intervention of [[Ira C. Eaker|General Ira Eaker]], Deputy Commander of the U.S. Army Air Forces.{{sfnp|Schiff|2006|p=423}}&lt;ref name="Time-1944.08.14" /&gt;{{#tag:ref|
+
+After being grounded following his crash, Saint-Exupéry spared no efforts in his campaign to return to active combat flying duty. He utilized all his contacts and powers of persuasion to overcome his age and physical handicap barriers, which would have completely barred an ordinary patriot from serving as a war pilot. Instrumental in his reinstatement was an agreement he proposed to John Phillips, a fluently bilingual ''[[Life Magazine]]'' correspondent in February 1944, where Saint-Exupéry committed to "...write, and I'll donate what I do to you, for your publication, if you get me reinstated into my squadron."{{sfnp|Schiff|2006|p=421}} Phillips later met with a high level U.S. Army Air Forces press officer in Italy, Colonel John Reagan McCrary, who conveyed the ''Life Magazine'' request to General Eaker.  The approval for return to flying status would be made "...not through favoritism, but through exception". The brutalized French, it was noted, would cut a German's throat "...probably with more relish than anybody".|group="Note"}}
+
+After Saint-Exupéry resumed flying, he also returned to his longtime habit of reading and writing while flying his single seat F-5B (a [[Reconnaissance aircraft|specially configured]] P-38 reconnaissance variant). His prodigious studies of literature gripped him and on occasion he continued his readings of literary works until moments before takeoff, with mechanics having [[Run-up (aviation)|warmed up and tested]] his aircraft for him in preparation for his flight. On one flight, to the chagrin of his colleagues awaiting his arrival, he circled the airport for an hour after returning, so that he could finish reading a novel. Saint-Exupéry frequently flew with a lined notebook (''carnet'') during his long solitary flights and some of his philosophical writings were created during such periods when he could reflect on the world below him.{{sfnp|Schiff|2006}}
+
+== Disappearance ==
+
+Prior to his return to flight duties with his squadron in North Africa, the collaborationist [[Vichy France|Vichy Regime]] unilaterally promoted Saint-Exupéry as one of its members – quite a shock to the author. Subsequently, French General (later French President) [[Charles de Gaulle]], whom Saint-Exupéry and others held in low regard, publicly implied that the author-pilot was supporting Germany. Depressed at this, he began to drink heavily.&lt;ref name="BBC-2004.08.07" /&gt; Additionally, his health, both physically and mentally, had been deteriorating. Saint-Exupéry was said to be intermittently subject to depression and there was discussion of taking him off flying status.{{sfnp|Schiff|2006|pp=430–433, 436–437}}{{#tag:ref|
+Saint-Exupéry suffered recurring pain and immobility from multiple previous injuries due to his five serious aircraft crashes. After his death, there were also vague suggestions that his disappearance was the result of suicide rather than aircraft failure or combat loss.|group=Note}}
+
+Saint-Exupéry's last assigned reconnaissance mission was to collect intelligence on German troop movements in and around the [[Rhone]] Valley preceding the [[Operation Dragoon|Allied invasion of southern France]] ("Operation Dragoon"). Although he had been reinstated to his old squadron with the provision that he was to fly only five missions,{{sfnp|Schiff|2006|p=430}} on 31 July 1944, he took off in an unarmed [[P-38]] on his ninth reconnaissance mission from an airbase on [[Corsica]].{{#tag:ref|Various sources state that his final flight was either his seventh, eight, ninth, and even his 10th mission. He volunteered for almost every proposed mission submitted to his squadron, and protested fiercely after being grounded following his second sortie, which ended with a demolished P-38. Saint-Exupéry's friends, colleagues and compatriots were actively working to keep him grounded and out of harm's way, but his connections in high places, plus a publishing agreement with ''[[Life Magazine]]'', were instrumental in having the grounding lifted.&lt;ref name="Eyheramonno" /&gt;|group="Note"}} To the great alarm of the squadron compatriots who revered him, he did not return, dramatically vanishing without a trace.{{sfnp|Schiff|2006|pp=402–451}}{{#tag:ref|One ruse contemplated by GR II/33's commanders was to expose Saint-Exupéry "accidentally" to the plans of the pending invasion of France so he could be subsequently grounded. No air force general would countermand such a grounding order and risk Saint-Exupéry's being captured by the Germans if he were forced down. Saint-Exupéry's commanding officer – a close friend of his – was ill and absent when the author took off on his final flight. The commander "bawled out" his staff when he learned that a grounding scheme hadn't been implemented.|group=Note}} Word of his disappearance shortly spread across the literary world and then into international headlines.{{sfnp|Schiff|2006|pp=434–438}}&lt;ref name="Time-1944.08.14" /&gt; A French woman reported much later having watched an aircraft crash around noon &lt;!-- on 1 August [1 August doesn't appear logical, as he took off on 31 July at 8:45 a.m.{{sfnp|Schiff|2006|p=432}} with only 6 hours of fuel on board] --&gt; near the Bay of [[Carqueiranne]] off [[Toulon]]. An unidentifiable body in a French uniform was found several days after his disappearance east of the [[Frioul archipelago]] south of [[Marseille]] and buried in Carqueiranne in September.
+
+=== Discovery at sea ===
+[[File:Gourmette de Saint Exupery.jpg|thumb|left|Bracelet of Saint-Exupéry found in 1998]]
+
+In September 1998, Jean-Claude Bianco, a fisherman, found, to the east of Riou Island, south of Marseille, a silver identity bracelet (''gourmette'') bearing the names of Saint-Exupéry and of his wife [[Consuelo de Saint Exupéry|Consuelo]]&lt;ref name="CDNN" /&gt; and his American publisher, [[Reynal &amp; Hitchcock]], hooked to a piece of fabric, presumably from his flight suit.&lt;ref name="NewYorkTimes-2000.06.25" /&gt; The recovery of his bracelet was an emotional event in France, where Saint-Exupéry had by then assumed the mantle of a national icon and some disputed its authenticity as it was found far from his intended flight path, implying that the aircraft might not have been shot down.&lt;ref name="Independent-2000.05.28" /&gt;
+
+In May 2000, Luc Vanrell, a diver, found the partial remains of a Lockheed P-38 Lightning spread over thousands of square metres of the seabed off the coast of Marseille, near where the bracelet was previously found. The discovery galvanized the country, which for decades had conducted searches for his aircraft and speculated on Saint-Exupéry's fate.&lt;ref name="AgenceFrancePress-2004.04.07" /&gt; After a two-year delay imposed by the French government, the remnants of the aircraft were recovered in October 2003.&lt;ref name="CDNN" /&gt;{{#tag:ref|
+
+Saint-Exupéry's P-38, as identified in Aéro-Re.L.I.C.'s detailed crash wreckage recovery report, was an F-5B-1-LO, LAC 2734 variant, serial number 42-68223, which departed Borgo-Porreta, Bastia, Corsica, France on 31 July 1944, at 8h 45m (8:45 a.m.). The report is eight pages long, broken into six technical sections, with five photographs, including an image of an identifying component serial number which verified the wreckage belonged to Saint-Exupéry's aircraft. Although the debris field, one kilometre long and 400 metres wide, was located in May 2000, it took over two years before the French government agreed to the organization's request to permit recovery of the crash debris from the seabed. It is believed that the wide distribution of crash wreckage which left hundreds of parts deposited on the sea floor was created by the Lightning striking the sea's surface at high velocity.&lt;ref name="Aero-relic" /&gt;|group="Note"}}
+
+[[File:Saint Exupery exhibit - Air &amp; Space Museum, Le Bourget, Paris, France (12).JPG|thumb|right|upright|A piece of the landing gear of Saint-Exupéry's P-38 Lightning, recovered from the Mediterranean off the coast of France in 2003, displayed at the [[French Air and Space Museum]]]]
+
+On 7 April 2004, Patrick Granjean, head of the [[Minister of Culture (France)|French Ministry of Culture]], Captain Frederic Solano of the [[French Air Force]], plus investigators from the French [[Maritime archaeology|Underwater Archaeological Department]] confirmed that the remnants of the crash wreckage were, indeed, from Saint-Exupéry's [[Lockheed F-5B]].&lt;ref name="AgenceFrancePress-2004.04.07" /&gt;&lt;ref name="Globe&amp;Mail-2004.04.08" /&gt;
+
+No marks or holes attributable to gunfire were found; however, that was not considered significant as only a small portion of the aircraft was recovered.&lt;ref name="Aero-relic" /&gt; In June 2004, the fragments were given to the [[Musée de l'Air et de l'Espace|Air and Space Museum]] in [[Paris – Le Bourget Airport|Le Bourget, Paris]], where Saint-Exupéry's life is commemorated in a special exhibit.&lt;ref name="LeMonde-2008-03-15" /&gt;&lt;ref name="MuseeAireSpace.fr-a" /&gt;
+
+The location of the crash site and the bracelet are less than 80&amp;nbsp;km by sea from where the unidentified French serviceman was found in [[Carqueiranne]] and it remains plausible, but has not been confirmed, that the body was carried there by sea currents after the crash over the course of several days.{{Citation needed|date = August 2012}}
+
+=== Speculations in 1948 and 2008 ===
+
+In 1948, former [[Luftwaffe]] telegrapher Rev. [[Hermann Korth]] made public his war logs, noting an instance on 31 July around midday where a [[Focke-Wulf Fw 190]] downed a P-38 Lightning, which ostensibly supported a shoot-down hypothesis for Saint-Exupéry.&lt;ref name="TheWingedLife" /&gt;&lt;ref name="Triebel" /&gt;  Though popular in the 1960s and '70s, Korth’s log was met with skepticism, as it described aerial combat, which was inconsistent with the fact that Saint-Exupéry’s plane was unarmed.&lt;ref name="TheWingedLife" /&gt;  Evidence exists, however, of a P-38 flown by Second Lieutenant Gene Meredith downed in combat on 30 July around the same location.&lt;ref name="AeroJournal-2008.No4" /&gt;{{#tag:ref|
+
+Lt. Meredith's remains were not recovered. He is listed on the Tablets of the Missing at the Florence, Italy ABMC Cemetery {ABMC Records}. Lt. Meredith was shot down by Feldwebel Guth of 3./Jagdgruppe 200, the same unit in which Hort Rippert (see below) was serving. Guth's victory claim is recorded in the lists held by the German Bundesarchiv-Militärarchiv. The progress of the interception was followed by Allied radar and radio monitoring stations and documented in Missing Air Crew Report 7339 on the loss of Second Lieutenant Gene C. Meredith of the [[23d Information Operations Squadron|23rd Photographic Squadron]]/5th Reconnaissance Group. The intercepted Mediterranean Allied Air Forces Signals Intelligence Report for 30 July records that "an Allied reconnaissance aircraft was claimed shot down at 1115 [GMT]".&lt;ref name=GhostBombers /&gt;|group="Note"}}
+
+Luftwaffe reconnaissance pilot Robert Heichele was shot down on 16 August 1944 and died five days later; he is buried in the German military cemetery at [[Dagneux]], France.&lt;ref name="Volksbund.de" /&gt; Issue No. 725 of the German magazine ''Der Landser'' quoted a purported letter from Heichele in which he claimed to have shot down a P-38 on 31 July 1944. The credibility of this letter is suspect because it claims that Heichele and his wingman were flying the Focke-Wulf Fw 190 D-9, a variant which had not yet entered Luftwaffe service.&lt;ref name="Urbanke" /&gt; The letter also claims that the hostile aircraft initiated an attack on the Germans, whereas Saint-Exupéry was flying an unarmed F-5 reconnaissance variant. In the lists held by the Bundesarchiv-Militärarchiv, no victory is accredited to Heichele or his unit in July or August 1944; the decrypted report of the day's reconnaissance missions by the parent formation, Fliegerdivision 2, does not include any flights by 2./NAG 13's Fw 190s.&lt;ref name="UK National Archives" /&gt;
+
+In 2008, a French journalist from ''La Provence'', investigating Saint-Exupéry's death, contacted hundreds of former Luftwaffe pilots, eventually getting an account from Horst Rippert, who believed he shot down Saint-Exupéry.&lt;ref name="LeMonde-2008-03-15" /&gt;{{sfnp|Tagliabue|2006}}&lt;ref name="BBCWorld"&gt;[http://news.bbc.co.uk/2/hi/europe/7300489.stm "Wartime Author Mystery 'Solved'."] ''BBC News'', 17 March 2008.&lt;/ref&gt;  After the war, Rippert's memoirs expressed both fears and doubts that he was responsible, but in 2003 he stated he became certain when he learned the location of Saint-Exupéry’s wreckage.&lt;ref name="NewYorkTimes-2008.4.10" /&gt;  Rippert stated he reported the kill over his radio, but no documents exist to verify his account.&lt;ref name="Triebel" /&gt;&lt;ref name="AeroJournal-2008.No4" /&gt;{{#tag:ref|The RAF's No. 276 Wing (Signals Intelligence, intercepted Luftwaffe communications) Operations Record Book for 31 July 1944 notes only: "... three enemy fighter sections between 0758/0929 hours operating in reaction to Allied fighters over Cannes, Toulon and the area to the North. No contacts. Patrol activity north of Toulon reported between 1410/1425 hours". Archive sources for Luftwaffe activity over Southern France on 30 and 31 July 1944 are cited in an extensive article on the Ghost Bombers aviation history webpage for the Saint-Exupéry episode.|group="Note"}}
+
+Former Luftwaffe comrades reacted with skepticism to Rippert's claim, as he held it private for 64 years.{{sfnp|Altweg|2008|}}&lt;ref name="Spiegel 2008.03.22" /&gt;{{#tag:ref|The proposed "suppression" of Rippert's claim due to Saint-Exupéry's stature was also met with skepticism as Luftwaffe pilots tended to immediately report their kills, and the Allies did not broadcast Saint-Exupéry's status as missing for at least two days.&lt;ref name="AeroJournal-2008.No4" /&gt;  After the war, Horst Rippert became a television journalist and led the [[ZDF]] sports department.  He was the brother of German singer [[Ivan Rebroff]].  Rippert died in 2013. |group="Note"}} Two French and German books discuss the alleged Saint-Exupéry shoot-down.&lt;ref name="AgenceFrancePresse-2008.03.15" /&gt;&lt;ref name="Reuters-2008.03.16" /&gt;  Very little German documentation survived the war, and contemporary archival sources, consisting of Allied intercepts of Luftwaffe signals, offer no evidence to verify Rippert’s account.{{sfnp|Bönisch|Leick|2008|}}&lt;ref name="JanBobek" /&gt;{{sfnp|Bönisch|Leick|2008|}}  Thus, Rippert’s claim remains a hypothesis until proven otherwise, and the cause of Saint-Exupéry’s death remains unknown.&lt;ref name="AeroJournal-2008.No4" /&gt;&lt;ref name="VonGartzen" /&gt;
+
+== Literary works ==
+
+While not precisely autobiographical, much of Saint-Exupéry's work is inspired by his experiences as a pilot. One notable example is his novella, ''[[The Little Prince]],'' a poetic tale self-illustrated in watercolours in which a pilot stranded in the desert meets a young prince fallen to Earth from a tiny [[asteroid]]. ''The Little Prince'' is a philosophical story, including societal criticism, remarking on the strangeness of the adult world. One biographer wrote of his most famous work: "Rarely have an author and a character been so intimately bound together as Antoine de Saint-Exupéry and his Little Prince," and remarking of their dual fates, "...the two remain tangled together, twin innocents who fell from the sky." &lt;ref name="NewYorkTimes-2000.06.25" /&gt; Saint-Exupéry's notable literary works (published English translations in brackets) are constituted by:&lt;ref name="PetitPrince.net-b" /&gt;
+* ''[[:fr:L'Aviateur|L'Aviateur]]'' (1926) ([[The Aviator (short story)|''The Aviator'']], in the anthology ''[[A Sense of Life]]'')
+* ''[[:fr:Courrier sud|Courrier sud]]'' (1929) (''Southern Mail'') – made as a movie in French
+* ''[[:fr:Vol de nuit|Vol de nuit]]'' (1931) (''[[Night Flight (novel)|Night Flight]]'') – winner of the full [[prix Femina]] and made twice as a movie and a TV film, both in English
+* ''[[:fr:Terre des hommes|Terre des hommes]]'' (1939) – winner of the [[Grand Prix du roman de l'Académie française]]
+: ''[[Wind, Sand and Stars]]'' (simultaneous distinct English version){{#tag:ref|
+
+The French and English versions of this book (''Terre des hommes''/''[[Wind, Sand and Stars]]'') differed significantly, with Saint-Exupéry removing sections from the original French version he did not consider appropriate for its targeted U.S. audience, and adding new material specifically written for that group and translated into English, which he could not speak. Although it did not appear in its earliest editions of the English translation, ''An Appreciation'' was added to later printings, contributed by [[Anne Morrow Lindbergh]], and earlier published in ''[[The Saturday Review of Literature]]'' on 14 October 1939.&lt;ref name="Miller-Fay-1946a" /&gt;
+
+|group="Note"|}} – winner of the U.S. [[National Book Award]]&lt;ref name="NewYorkTimes-1940.02.14" /&gt;&lt;ref name="Miller-Fay-1946a" /&gt;
+* ''[[:fr:Pilote de guerre|Pilote de guerre]]'' (1942) (titled in English as: ''[[Flight to Arras]]'') – winner of the [[:fr:Aéro-Club de France#Prix littéraires|Grand Prix Littéraire de l'Aéro-Club de France]]&lt;ref name="Fay-1946a" /&gt;
+* ''[[:fr:Le Petit Prince|Le petit prince]]'' (1943) (''[[The Little Prince]]''), posthumous in France&lt;ref name="Fay-1946a" /&gt; – translated into more than 250 languages and dialects and among the [[Best selling books#More than 100 million copies|top four selling books in the world]];&lt;ref name="InstitutionalInvestior-2011.11.06" /&gt; made as both movies and TV films in a number of languages, and [[List of The Little Prince adaptations|adapted to numerous other media]] in many languages
+* ''[[:fr:Lettre à un otage|Lettre à un otage]]'' (1944) (''Letter to a Hostage'', posthumous in English)&lt;ref name="Fay-1946b"&gt;Fay 1946, p. 463.&lt;/ref&gt;
+
+=== &lt;small&gt;Published posthumously&lt;/small&gt; ===
+* ''[[:fr:Citadelle (livre)|Citadelle]]'' (1948) (titled in English: as ''The Wisdom of the Sands'') – winner of the [[:fr:Prix des Ambassadeurs|Prix des Ambassadeurs]]
+* ''[[:fr:Lettres à une jeune fille|Lettres à une jeune fille]]'' (1950)
+* ''[[:fr:Lettres de jeunesse|Lettres de jeunesse, 1923–1931]]'' (1953)
+* ''Lettres à l'amie inventée'' (1953)&lt;ref name="Smith-bibliography"&gt;Smith, Maxwell A. [http://www.trussel.com/saint-ex/smithbib.htm ''Knight of the Air: The Life and Works of Antoine de Saint-Exupéry''] New York: Pageant Press, 1956; London: Cassell, 1959,  bibliography, pp. 205–221.&lt;/ref&gt;
+* ''[[:fr:Carnets|Carnets]]'' (1953)
+* ''[[:fr:Lettres à sa mère|Lettres à sa mère]]'' (1955)
+* ''Un sens à la vie'' (1956), (''[[A Sense of Life]]'')&lt;ref name="Saint-Exupéry-SenseofLife" /&gt;&lt;ref name="Flying-1966.01" /&gt;{{#tag:ref|
+
+The last paragraph of ''Flying''{{'}}s book review of ''A Sense of Life'' incorrectly states that Saint-Exupéry's last mission was a bombing run, when in fact it was a photo-reconnaissance assignment for the pending invasion of Southern France.
+
+|group="Note"|}}
+* ''Lettres de Saint-Exupéry'' (1960)
+* ''Lettres aux américains'' (1960)
+* ''[[:fr:Écrits de guerre|Écrits de guerre, 1939–1944]]'' (1982) (''Wartime Writings, 1939–1944'')
+* ''[[:fr:Manon, danseuse|Manon, danseuse]]'' (2007)
+* ''[[:fr:Lettres à l'inconnue|Lettres à l'inconnue]]'' (2008)
+
+=== Other works ===
+
+During the 1930s, Saint-Exupéry led a mixed life as an aviator, journalist, author and publicist for [[Air France]], [[Aéropostale (aviation)|Aéropostale's]] successor. His journalistic writings for ''[[Paris-Soir]]'', ''[[Marianne (magazine)|Marianne]]'' and other newspapers covered events in [[Indochina]] and the Far East (1934), the Mediterranean, Soviet Union and Moscow (1935), and the [[Spanish Civil War]] (1936–1937). Saint-Exupéry additionally wrote a number of shorter pieces, essays and commentaries for various other newspapers and magazines.{{sfnp|Saint-Exupéry|1965|}}
+
+Notable among those during World War II was "An Open Letter to Frenchmen Everywhere", which was highly controversial in its attempt to rally support for France against Nazi oppression at a time when the French were sharply divided between support of the [[Gaullists]] and [[Vichy France|Vichy factions]]. It was published in ''[[The New York Times Magazine]]'' in November 1942,&lt;ref name="Saint-Exupéry-OpenLetterToFrenchmen" /&gt; in its original French in ''Le Canada, de Montréal'' at the same time, and in ''Pour la Victoire'' the following month.&lt;ref name="Miller-Fay-1946a" /&gt; Other shorter pieces include (in French except where translated by others to English):&lt;ref name="Smith-bibliography" /&gt;&lt;ref name="Saint-Exupéry-OpenLetterToFrenchmen" /&gt;
+* "Une Lettre de M. de Saint-Exupéry", ''[[:fr:Annales Politiques et Littéraires|Les Annales politiques et littéraires]]'', 15 December 1931; (extracts from a letter written to [[:fr:Benjamin Crémieux|Benjamin Crémieux]]).
+* Preface of ''Destin de Le Brix'' by José le Boucher, Nouvelle Librairie Française, 1932.
+* Preface of ''Grandeur et servitude de l'aviation'' by [[:fr:Maurice Bourdet|Maurice Bourdet]], Paris: Editions Corrêa, 1933.
+* "Reflections on War", translated from ''[[Paris-Soir]]'' and published in ''[[Eliakim Littell|Living Age]]'', November 1938, pp.&amp;nbsp;225–228.
+* Preface of ''Vent se lève'' (French translation of ''[[Listen! The Wind]]'')  by [[Anne Morrow Lindbergh]], Paris: Editions Corrêa, 1939.{{#tag:ref|
+
+In exchange, Lindbergh contributed "An Appreciation" to the later printings of Saint-Exupéry's ''Wind, Sand and Stars'', earlier published in ''[[The Saturday Review of Literature]]'' on 14 October 1939.&lt;ref name="Miller-Fay-1946a" /&gt;
+
+|group="Note"}}
+* Preface of ''Pilotes d'essai'' by [[:fr:Jean-Marie Conty|Jean-Marie Conty]], Paris: Edition Spes, 1939.
+* "Books I Remember", ''[[Harper's Bazaar]]'', April 1941.
+* "Letter to Young Americans", ''The American High School Weekly'', 25 May 1942, pp.&amp;nbsp;17–18.
+* "Voulez-vous, Français, vous reconcilier?", ''Le Canada, de Montreal'', 30 November 1942.
+* "L'Homme et les éléments", ''Confluences'', 1947, Vol. VII, pp.&amp;nbsp;12–14 (issue dedicated to Saint-Exupéry; originally published in English in 1939 as 'The Elements' in ''[[Wind, Sand and Stars]]'').
+* "Lettre Inédite au General C", ''[[Le Figaro|Le Figaro Littéraire]]'', 10 April 1948 (posthumous).
+* "Seigneur Berbère", ''[[:fr:Éditions de la Table ronde|La Table Ronde]]'', No. 7, July 1948 (posthumous).
+
+=== Censorship and publication bans ===
+
+''Pilote de guerre'' (''Flight To Arras''), describing the German invasion of France, was slightly censored when it was released in its original French in his homeland, by removing a derogatory remark made of Hitler (which French publisher [[Éditions Gallimard|Gallimard]] failed to reinsert in subsequent editions after World War II). However, shortly after the book's release in France, Nazi appeasers and Vichy supporters objected to its praise of one of Saint-Exupéry's squadron colleagues, Captain [[Jean Israël]], who was portrayed as being amongst the squadron's bravest defenders during the [[Battle of France]].  In support of their German occupiers and masters, Vichy authorities attacked the author as a defender of Jews (in racist terms) leading to the praised book being banned in France, along with prohibitions against further printings of Saint-Exupéry's other works.{{sfnp|Schiff|1996|p=366}} Prior to [[Military history of France during World War II#Campaign of France (1944–1945)|France's liberation]] new printings of Saint-Exupéry's works were made available there only by means of covert print runs,{{sfnp|Schiff|1996|p=366}}{{sfnp|Severson|2004|p=166, 171}} such as that of February 1943 when 1,000 copies of an [[Resistance during World War II|underground]] version of ''Pilote de guerre'' were printed in Lyon.&lt;ref name="PetitPrince.net-c" /&gt;
+
+A further complication occurred due to Saint-Exupéry's and others' view of General [[Charles de Gaulle]], who was held in low regard. Early in the war, de Gaulle became the leader of the [[Free French Forces]] in exile, with his headquarters in London. Even though both men were working to free France from Nazi occupation, Saint-Exupéry viewed de Gaulle with apprehension as a possible post-war dictator, and consequently provided no public support to the General. In response, de Gaulle struck back at the author by implying that the author was a German supporter, and then had his literary works banned in [[Resistance during World War II|France's North African colonies]]. Saint-Exupéry's writings were, with irony, banned simultaneously in both [[German military administration in occupied France during World War II|occupied France]] and [[Free France]].&lt;ref name="NewYorkTimes-2000.06.25" /&gt;{{sfnp|Schiff|1996|p=414}}
+
+=== Extension of copyrights in France ===
+Due to Saint-Exupéry's wartime death, his estate received the [[Napoleonic code|civil code]] designation ''[[Mort pour la France]]'' (English: ''Died for France''), which was applied by the French Government in 1948. Amongst the law's provisions is an increase of 30 years to the duration of the original copyright's duration of 70 years;&lt;ref name="Celog.fr" /&gt; thus most of Saint-Exupéry's creative works will not fall out of copyright status in France for an extra 30 years.{{sfnp|Schiff|2006|p=438}}
+
+== Honours and legacy ==
+&lt;center&gt;
+&lt;gallery caption="Images of remembrance" widths="150px" heights="130px" perrow="4"&gt;
+
+File:Panthéon de Paris Saint Exupéry.jpg | Commemorative inscription in the [[Panthéon, Paris|Panthéon of Paris]].
+File:50francstexupery.jpg | Portrait and images from ''[[The Little Prince]]'' on a 50-franc banknote
+File:St-ExuperyPlaque.jpg | Historical marker where the Saint-Exupérys resided in [[Quebec City|Quebec.]]
+
+&lt;/gallery&gt;
+&lt;/center&gt;
+* Saint-Exupéry is commemorated with an inscription in the [[Panthéon (Paris)|Panthéon]] in Paris, France's repository of historical greats. Although his body was never identified, his name was added to the Panthéon in November 1967 by a French legislative act. The inscription reads: "''A LA MÉMOIRE DE • ANTOINE DE SAINT EXUPERY • POÈTE ROMANCIER AVIATEUR  • DISPARU AU COURS D'UNE MISSION • DE RECONNAISSANCE AÉRIENNE • LE 31 JUILLET 1944''" (To the memory of Antoine de Saint Exupery, poet, novelist, aviator, missing during an aerial reconnaissance mission, 31 July 1944). Amongst other honours from France, he was named a [[Legion of Honour|Chevalier de la Légion d'honneur]] in April 1930 and was promoted to an Officier de la Légion d'honneur in January 1939. He was awarded the [[Croix de guerre]] in 1940 and was posthumously awarded the [[Croix de guerre|Croix de guerre avec Palme]] in 1944.
+* From 1993 until the introduction of the [[euro]], Saint-Exupéry's portrait and several of his drawings from ''The Little Prince'' appeared on France's [[French franc#Banknotes|50-franc banknote]].&lt;ref name="NewYorkTimes-2000.06.25" /&gt; The French Government also later minted a 100-franc commemorative coin, with Saint-Exupéry on its [[Obverse and reverse|obverse side]], and the Little Prince on its reverse. Brass-plated souvenir ''Monnaie de Paris'' commemorative medallions were also created in his honour, depicting the pilot's portrait over the P-38 Lightning aircraft he last flew.
+* In 1999, the [[Government of Québec|Government of Quebec]] and [[Québec City|Quebec City]] added a historical marker to the family home of [[Charles De Koninck]], head of the Department of Philosophy at [[Université Laval]], where the Saint-Exupérys stayed while lecturing in Canada for several weeks during May and June 1942.
+* In 2000, on the centenary of his birth, in the city where he was born, he was memorialised when the Lyon Satolas Airport was renamed the [[Lyon-Saint Exupéry Airport]]. Lyon's [[TGV]] bullet train station was also renamed as [[Gare de Lyon Saint-Exupéry]]. The author is additionally commemorated by a statue in Lyon, depicting a seated Saint-Exupéry with the little prince standing behind him.
+* A street in [[Montesson]], a suburb of Paris, is named for him as Rue Antoine de Saint-Exupéry.
+
+=== Museums and exhibits ===
+[[File:Saint Exupery exhibit - Air &amp; Space Museum, Le Bourget, Paris, France (6).JPG|thumb|A portion of the '''Saint-Exupéry exhibit''', in the [[Musée de l'Air|French Air &amp; Space Museum]], Le Bourget, Paris.]]
+[[File:Tarfaya Antoine de St Exupery Museum 2011.jpg|thumb|right|The facade of the '''[[Antoine de Saint-Exupery Museum]]''' in [[Tarfaya]], [[Morocco]].]]
+[[File:The Lamplighter Square.jpg|thumb|Lamplighter Square at '''The Museum of The Little Prince''', Hakone, Japan.]]
+
+Museum exhibits, exhibitions and theme villages dedicated to both him and his diminutive Little Prince have been created in [[Le Bourget|Le Bourget, Paris]] and other locations in France, as well as in the Republic of South Korea, Japan, Morocco, Brazil, the United States and Canada.
+* The [[French Air and Space Museum|Air and Space Museum]] at Paris's [[Paris – Le Bourget Airport|Le Bourget Airport]], in cooperation with The Estate of Saint-Exupéry-d'Agay, have created a permanent exhibit of 300 m² dedicated to the author, pilot, person and humanist. The ''Espace Saint Exupéry'' exhibit, officially inaugurated in 2006 on the anniversary of the aviator's birthday,&lt;ref name="Basse" /&gt; traces each stage of his life as an airmail pioneer, eclectic intellectual-artist and military pilot. It includes artifacts from his life: photographs, his drawings, letters, some of his original notebooks (''carnets'') he scribbled in voluminously and which were later published posthumously, plus [[Antoine de Saint-Exupéry#Discovery at sea|remnants of the unarmed P-38]] he flew on his last reconnaissance mission and which were recovered from the Mediterranean Sea.&lt;ref name="MAE-SaintEx"&gt;{{cite web|url=http://www.mae.org/votre-visite/halls-dexposition/saint-exupery.html |title=Halls d'exposition: Saint-Exupéry |accessdate=5 December 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20091205182255/http://www.mae.org/votre-visite/halls-dexposition/saint-exupery.html |archivedate=5 December 2009 |df=dmy }}, Le Bourget, Paris: [[Musée de l'Air|French Air &amp; Space Museum]] website. Retrieved from [[Internet Archive|Archive.org]], 13 March 2013. {{Fr icon}}&lt;/ref&gt;
+* In [[Tarfaya|Tarfaya, Morocco]], next to the [[Cape Juby]] airfield where Saint-Exupéry was based as an [[Aéropostale (aviation)|Aéropostale]] airmail pilot/station manager, [[Antoine de Saint-Exupery Museum]] was created honouring both him and the company. A small monument at the airfield is also dedicated to them.
+* In [[Gyeonggi-do|Gyeonggi-do, South Korea]], and [[Hakone|Hakone, Japan]], theme village museums have been created honouring Saint-Exupéry's ''Little Prince''.
+* In January 1995, the [[Alberta Aviation Museum]] of [[Edmonton]], Alberta, Canada, in conjunction with the cultural organization [[Alliance française]], presented a showing of Saint-Exupéry letters, watercolours, sketches and photographs.&lt;ref name="EdmontonJournal-1995.01.17" /&gt;
+* In [[São Paulo]], Brazil, through 2009, the Oca Art Exhibition Centre presented Saint-Exupéry and The Little Prince as part of The Year of France and The Little Prince.  The displays covered over 10,000 m² on four floors, and chronicled Saint-Exupéry, ''The Little Prince'' and their philosophies, as visitors passed through theme areas of the desert, asteroids, stars and the cosmos. The ground floor of the giant exhibition was laid out as a huge map of the routes flown by the author with [[Aéropostale (aviation)|Aeropostale]] in South America and around the world. Also included was a full-scale replica of the author's crashed [[Caudron Simoun]], lying wrecked on the ground of a simulated Libyan desert following his disastrous Paris-Saigon race attempt. The miraculous survival of Saint-Exupéry and his mechanic/navigator was subsequently chronicled in the award-winning memoir ''[[Wind, Sand and Stars]]'' (''Terre des hommes''), and also formed the introduction of his most famous work ''[[The Little Prince]]'' (''Le Petit Prince'').&lt;ref name="LittlePrince.com-a" /&gt;
+* In 2011, the [[Toulouse|City of Toulouse, France]], home of [[Airbus]] and the pioneering airmail carrier [[Aéropostale (aviation)|Aéropostale]], in conjunction with the Estate of Saint-Exupéry-d'Agay and the Youth Foundation of Antoine de Saint-Exupéry, hosted a major exposition on Saint-Exupéry and his experience with Aéropostale. The exposition, titled ''L'année Antoine de Saint-Exupéry à Toulouse'', exhibited selected personal artifacts of the author-aviator, including gloves, photos, posters, maps, manuscripts, drawings, models of the aircraft he flew, some of the wreckage from his Sahara Desert plane crash, and the personal silver identification bracelet engraved with his and Consuelo's name, presented by his U.S. publisher, which was recovered from his last, ultimate crash site in the Mediterranean Sea.&lt;ref name="Toulouse-a" /&gt;
+* On 27 February 2012, Russia's [[Ulyanovsk State University]] inaugurated its new International Saint-Exupéry Centre, led by its Director, Elena Mironova, an associate professor of French. The center will serve as a permanent museum dedicated to the author-aviator, as well as a cultural and linguistics center for the university. The museum was established with the assistance of Civil Aviation College teacher Nikolai Yatsenko, an author of 12 publications on Saint-Exupéry who personally donated some 6,000 related items.  Located in [[Ulyanovsk]], the university's new center will also help support the study of international languages in a city which promotes itself as a major aerospace and cultural centre. The centre's opening was attended by Ulyanovsk Governor [[Sergey Ivanovich Morozov|Sergey Morozov]], Sergey Krasnov of the Ulyanovsk Civil Aviation College and other aerospace and academic dignitaries, as well as Veronique Jober, [[Sorbonne]] professor of Slavic languages, who addressed the audience by video link from Paris.&lt;ref name="USU" /&gt;&lt;ref name="VoiceOfRussia" /&gt;
+* A number of other prominent exhibitions were created in France and the United States, many of them in 2000, honouring the centenary of the author-aviator's birth.
+*  In January 2014, New York City's [[Morgan Library &amp; Museum]] featured a [[The Little Prince#Museums and exhibits|major three-month-long exhibition, ''The Little Prince: A New York Story'']]. Celebrating the 70th anniversary year of the novella's publication, its exhibits included many of Saint-Exupéry's original manuscript pages, his story's preliminary drawings and watercolor paintings, and also examined Saint-Exupéry's creative writing processes.&lt;ref name="NewYorkTimes-2014.01.23.a" /&gt;&lt;ref name="NewYorkTimes-2014.01.23.b" /&gt;&lt;ref name="Wall Street Journal-2014.01.23" /&gt;&lt;ref name="Morgan Museum-2014.01.main" /&gt;&lt;ref name="Telegraph-2014.01.24" /&gt;
+
+=== International ===
+* Saint-Exupéry's 1939 memoir [[:fr:Terre des hommes|''Terre des hommes'']] (titled as ''[[Wind, Sand and Stars]]'' in English) was chosen [[Expo 67#Montebello conference produces theme|to create the central theme]] (''Terre des Hommes–Man and His World'') of the [[Expo 67|1967 International and Universal Exposition]] in Montreal, Quebec, Canada (Expo '67), the most successful world's fair of the 20th century. The central theme, which also generated the 17 subsidiary elements used for the world's fair, was elucidated at a 1963 [[Montebello, Quebec]], conference held with some of Canada's leading thinkers. At Montebello, French-Canadian author [[Gabrielle Roy]] helped choose the central theme by quoting Saint-Exupéry on mankind's place in the universe:
+{{cquote|«''Être homme, c'est précisément être responsable. C'est sentir, en posant sa pierre, que l'on contribue à bâtir le monde''» (to be a man is to be responsible, to feel that by laying one's own stone, one contributes to building the world)|}}
+:Additionally, [[:fr:Michèle Lalonde|Michèle Lalonde]] and [[André Prévost (composer)|André Prévost]]'s [[oratorio]] ''Terre des hommes'', performed at the ''Place des Nations'' opening ceremonies and attended by the international delegates of the participating countries, strongly projected the French writer's 'idealist rhetoric'.  [[Consuelo de Saint Exupéry]] (1901–1979), his widow, was also a guest of honour at the opening ceremonies of the world's fair.&lt;ref name="Krôller" /&gt;
+* Asteroid [[2578 Saint-Exupéry]], discovered in November 1975 by Russian astronomer [[Tamara Mikhaylovna Smirnova|Tamara Smirnova]] and provisionally cataloged as Asteroid 1975 VW3, was renamed in the author-aviator's honour. Another asteroid was named as [[46610 Besixdouze|46610 Bésixdouze]] (translated to and from both [[hexadecimal]] and French as 'B612'). Additionally the terrestrial-asteroid protection organization [[B612 Foundation]] was named in tribute to the author's ''Little Prince'', who fell to Earth from Asteroid B-612.
+* [[Philately|Philatelic]] tributes have been printed in at least 25 other countries as of 2011.&lt;ref name="Trussel-all" /&gt; Only three years after his death, the pilot-aviator was first featured on an 8 franc [[French West Africa]] airmail stamp (Scott Catalog # C11). France followed several months later in 1948 with an 80 franc airmail stamp honouring him (CB1), and later with another stamp honouring both him and airmail pioneer Jean Mermoz, plus the supersonic [[Concorde]] passenger airliner, in 1970 (C43).&lt;ref name="Trussel-all" /&gt; In commemoration of the 50th anniversary of the writer's death, [[Israel]] issued a stamp honoring "Saint-Ex" and ''The Little Prince'' in 1994.&lt;ref name="Trussel-is" /&gt;
+* In Argentina and Brazil, where Saint-Exupéry became the founding director of the pioneering South American airmail airline [[Aeroposta Argentina]]:
+** the [[Aguja Saint Exupery]] is a mountain peak located near the [[Cerro Chaltén]] (also known as Monte Fitz Roy) in the [[Los Glaciares National Park]] in Patagonia, Argentina, The mountain peak is named in Saint-Exupéry's honour;
+** the [[San Antonio Oeste]] municipal airport was named [[Antoine de Saint Exupéry Airport (Argentina)|Aerodromo Saint Exupery]].&lt;ref name="Airport-Info" /&gt; A small museum exhibit resides in the airport building;
+** the small Brazilian airport serving [[Ocauçu|Ocauçu, São Paulo]] is named after the pilot, and
+** several Argentinian schools are also named after the author-aviator.
+
+=== Institutions and schools ===
+* In 1960 the humanitarian organization ''[[Terre des hommes]]'', named after Saint-Exupéry's 1939 philosophical memoir [[:fr:Terre des hommes|''Terre des hommes'']] (titled as ''[[Wind, Sand and Stars]]'' in English),&lt;ref name="TDH" /&gt; was founded in [[Lausanne, Switzerland]] by Edmond Kaiser. Other ''Terre des Hommes'' societies were later organized in more countries with similar [[Social work|social aid]] and humanitarian goals. The several independent groups joined together to form a new umbrella organization, ''Terre des Hommes-Fédération Internationale'' (TDHFI, in English: [[Terre des hommes|International Federation of Terre des Hommes]], or IFTDH). The national constituents first met in 1966 to formalize their new parent organization, headquartered in [[Geneva, Switzerland]].  As of 2009 eleven organizations in Canada, Denmark, Germany, France, Italy, Luxembourg, the Netherlands, Spain, Switzerland, and Syria belonged to the Federation.  An important part of their works is their consulting role to the [[United Nations Economic and Social Council]] (ECOSOC).&lt;ref name="TerreDesHommes.org-a" /&gt;
+* In June 2009, the Antoine de Saint-Exupéry Youth Foundation (FASEJ) was founded in Paris by the Saint-Exupéry–d'Agay Estate, to promote education, art, culture, health and sports for youth worldwide, especially those from disadvantaged backgrounds. This organization, which follows Saint-Exupéry's philosophies and his memory, was financed in part by the sale of one of his original 1936 handwritten manuscripts at a [[Sotheby's]] auction for €312,750.&lt;ref name="Peak-2011.03" /&gt;&lt;ref name="Peak-2011.03.03" /&gt;
+* Numerous public schools, lycées, high schools, colleges and technical schools have been named in honour of Saint-Exupéry across France, Europe, Québec and South America, as well as at least two in Africa. The ''[[École Antoine de Saint-Exupéry de Kigali]]'', a French international school in [[Rwanda]], is named after him, as is École Francaise Antoine de Saint-Exupéry in Saint Louis, Senegal &lt;ref&gt;[http://www.aefe.fr/reseau-scolaire-mondial/rechercher-un-etablissement/senegal-saint-louis-ecole-francaise-antoine-de AEFE]&lt;/ref&gt;&lt;ref&gt;[http://www.ecole-saintexupery.org/ Ecole Saint Exupery - Senegal]&lt;/ref&gt;
+
+=== Other ===
+
+Numerous [[The Little Prince#Honours and legacy|other tributes have been awarded]] to honour Saint-Exupéry and his most famous literary creation, his ''[[The Little Prince|Little Prince]]'':
+* The ''[[:fr:Escadron de reconnaissance 1/33 Belfort|GR I/33]]'' (later renamed as the 1/33 Belfort Squadron), one of the French Air Force squadrons Saint-Exupéry flew with, adopted the image of the ''Little Prince'' as part of the squadron and [[Military aircraft insignia|tail insignia]] on its [[Dassault Mirage III|Dassault Mirage fighter jets]].{{sfnp|Schiff|2006|p=445}}
+* Google celebrated Saint-Exupéry's 110th birthday with a special logotype depicting the little prince being hoisted through the heavens by a flock of birds.&lt;ref name="Google" /&gt;
+* Numerous streets and place names are named after the author-aviator throughout France and other countries.
+* Cafe Saint-Ex, a popular bar and nightclub in Washington, D.C. near the U-Street corridor, holds Saint-Exupéry as its name source.
+* Uruguayan airline [[BQB Líneas Aéreas]] named one of its aircraft, an [[ATR-72]] (CX-JPL), in honor of the aviator.
+* International Watch Company (IWC) has created many St Exupery tribute versions of several of their wristwatch lines, with the distinctive 'A' from his signature featured on the dial.
+* The American aviation magazine [[Flying (magazine)|''Flying'']] ranked Saint-Exupéry number 41 on their list of the "51 Heroes of Aviation".&lt;ref name=51Heroes&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41811|title=51 Heroes of Aviation|accessdate=28 February 2015}}&lt;/ref&gt;
+*The French 50 Franc banknote depicts Antoine de Saint-Exupéry and has several features that allude to his works.&lt;ref&gt;https://www.pmgnotes.com/news/article/6432/A-Note-Fit-for-a-Little-Prince/&lt;/ref&gt;
+
+==In popular culture==
+
+=== Film ===
+* ''[[Wings of Courage]]'' is a 1995 docudrama by French director [[Jean-Jacques Annaud]]. The movie was the world's first dramatic picture shot in the [[IMAX]]-format, and is an account of the true story of early airmail pilots [[Henri Guillaumet]] (played by [[Craig Sheffer]]), Saint-Exupéry played by [[Tom Hulce]], and several others.
+* Saint-Exupéry and his wife [[Consuelo de Saint Exupéry|Consuelo]] were portrayed by [[Bruno Ganz]] and [[Miranda Richardson]] in the 1997 biopic ''[[Saint-Ex]]'', a British film biography of the French author-pilot. It also featured [[Eleanor Bron]] and was filmed and distributed in the United Kingdom, with scripting by Frank Cottrell Boyce. The film combines elements of biography, documentary, and dramatic
+
+=== Literature ===
+* After his disappearance, [[Consuelo de Saint Exupéry]] wrote ''The Tale of the Rose'', which was published in 2000 and subsequently translated into 16 languages.{{sfnp|Saint-Exupéry|2000}}
+* Saint-Exupéry is mentioned in [[Tom Wolfe]]'s ''[[The Right Stuff (book)|The Right Stuff]]'': "A saint in short, true to his name, flying up here at the right hand of God. The good Saint-Ex! And he was not the only one. He was merely the one who put it into words most beautifully and anointed himself before the altar of the right stuff."
+* Comic-book author [[Hugo Pratt]] imagined the fantastic story of Saint-Exupéry's last flight in ''Saint-Exupéry: le dernier vol'' (1994).
+* Saint-Exupéry is the subject of the 2013 historical novel ''Studio Saint-Ex'' (Knopf, New York / Penguin, Canada) by [[Ania Szado]]. In the novel Saint-Exupéry awaits the Americans' entry into World War II, while writing ''The Little Prince'' in New York.
+* ''[[Wind, Sand and Stars]]'' is an important book to narrator Theo Decker, who re-reads it often, in ''[[The Goldfinch (novel)|The Goldfinch]]'' (2013) by [[Donna Tartt]].
+
+=== Music ===
+* Saint-Exupéry's death and speculation that Horst Rippert shot him down are the subject of "Saint Ex", a song on [[Widespread Panic]]'s eleventh studio album, ''[[Dirty Side Down]]''.
+* The Norwegian progressive rock band [[Gazpacho (band)|Gazpacho]]'s concept album ''Tick Tock'' is based on Saint-Exupéry's [[#Desert crash|desert crash]].
+* "On the Planet of the Living", a song sung by [[Eduard Khil]], was dedicated to Saint-Exupéry.
+* "St. Exupéry Blues" - a song by Russian folk-rock band Melnitsa from their album "Alchemy"
+
+=== Theatre ===
+
+In August 2011, the world premiere of ''Saint-Ex'', a theatrical production of Saint-Exupéry's life, was launched at the Weston Playhouse in [[Weston, Vermont]].  The live theatre musical explores in drama and song the aviator-author's early life, the aerial band-of-brothers he flew with at [[Aéropostale (aviation)|Aéropostale]], and the raucous relations between him and his fiery Latin writer-artist wife, born [[Consuelo de Saint Exupéry|Consuelo Suncín Sandoval Zeceña]].&lt;ref name="NewYorkTimes-2011.08.17" /&gt;&lt;ref name="Playbill" /&gt; The production was written by the husband and wife team of lyricist Sean Barry and composer Jenny Giering, and staged with the assistance of director Matt Castle and set designer Tim Mackabee, plus choreography by Jennifer Turey. The leading cast members include [[Alexander Gemignani]] (playing Saint-Exupéry), [[Krysta Rodriguez]] (playing his tempestuous wife Consuelo), Cass Morgan (Saint-Exupéry's mother, author Countess Marie de Fonscolombe), plus Charlie Brady (Aéropostale pilot and [[Air France]] director [[Henri Guillaumet]]).&lt;ref name="NewYorkTimes-2011.08.17" /&gt;&lt;ref name="Playbill" /&gt; Although the musical production successfully debuted on 25 August 2011, the theatre was soon deluged with two-to-four metres of water generated by [[Hurricane Irene (2011)|Hurricane Irene]], which struck the east coast of the United States three days later.  After pumping the floodwaters from the building and partially restoring the costumes and stage sets, the musical production "resurfaced" on 2 September.&lt;ref name="NewYorkTimes-2011.08.29" /&gt;
+
+==See also==
+*[[List of people who disappeared mysteriously]]
+
+=== General ===
+* [[Consuelo de Saint Exupéry]], wife of Saint-Exupéry
+* [[:Category:Antoine de Saint-Exupéry|Indexed listing of Wikipedia's Saint-Exupéry articles]]
+
+=== Literary works in English ===
+* ''[[The Aviator (short story)|The Aviator]]''
+* ''[[Courrier sud (novel)|Southern mail]]
+* ''[[Night Flight (novel)|Night Flight]]''
+* ''[[Wind, Sand and Stars]]''
+* ''[[Flight to Arras]]''
+* ''[[The Little Prince]]''
+* ''[[A Sense of Life]]''
+
+=== Media and popular culture ===
+* [[List of The Little Prince adaptations]]
+* ''[[Saint-Ex]]'', a 1997 British biopic
+
+== References ==
+
+=== Notes ===
+
+{{Reflist|group=Note|colwidth=30em}}
+
+=== Citations ===
+
+{{Reflist|colwidth=30em|refs=
+&lt;!--
+** PLEASE MAINTAIN ALPHABETICAL ORDER OF REF NAMES **
+
+--&gt;
+&lt;ref name="Aero-relic"&gt;[http://www.aero-relic.org/English/F-5B_42-68223_St_Exupery/e-00-stexuperyf5b.htm Aero-relic.org. "Riou Island's F-5B Lightning, Rhône's Delta, France. Pilot: Commander Antoine de Saint-Exupéry (aircraft crash recovery report)".] ''Aero-relic.org'', 12 April 2004. Retrieved: 10 August 2009.&lt;/ref&gt;
+
+&lt;ref name="AeroJournal-2008.No4"&gt;Beale, Nick. "Saint-Exupéry Entre mythe et réalité." ''Aero Journal'', No. 4, 2008,  pp. 78–81. More details on the web-site "Ghost Bombers" (see External links)&lt;/ref&gt;
+
+&lt;ref name="AgenceFrancePresse-2008.03.15"&gt;[http://afp.google.com/article/ALeqM5g7ukB4TAlW0AQaNTtxsKvBqkjbVA "Ivan Rebroffs Bruder schoss Saint-Exupéry ab" {{de-icon}}.] ''[[Agence France-Presse]],'' 15 March 2008. {{webarchive |url=https://web.archive.org/web/20080320232100/http://afp.google.com/article/ALeqM5g7ukB4TAlW0AQaNTtxsKvBqkjbVA |date=20 March 2008 }}&lt;/ref&gt;
+
+&lt;ref name="AgenceFrancePress-2004.04.07"&gt;"France Finds Crash Site of 'Little Prince' Author Saint-Exupery." ''Europe Intelligence Wire'', ''[[Agence France Press]]'', 7 April 2004. Retrieved 9 November 2011 via Gale General OneFile (subscription); Gale Document Number: GALE|A115071273.&lt;/ref&gt;
+
+&lt;ref name="Airport-Info"&gt;[http://www.airport-information.org/AR/OES/ "Antoine de Saint Exupéry Airport, San Antonio Oeste, Argentina"], Airport-information. Retrieved: 8 March 2012.&lt;/ref&gt;
+
+&lt;ref name="Armorial-ANF"&gt;[http://www.editions-du-gui.fr/indexnomlivre.php?li_id=30 ''Armorial de l'ANF''], Editions-du-gui.fr website. {{webarchive |url=https://web.archive.org/web/20070928132948/http://www.editions-du-gui.fr/indexnomlivre.php?li_id=30 |date=28 September 2007 }}&lt;/ref&gt;
+
+&lt;ref name="Basse"&gt;Basse, D.H. [https://groups.google.com/forum/?hl=fr&amp;fromgroups=#!topic/fr.rec.aviation/-CX96rByqz8 Le musée de l'Air du Bourget va ouvrir un espace Saint-Exupéry], French Recreational Aviation bulletin board website. Retrieved from Groups.Google.com 14 March 2013. {{Fr icon}}&lt;/ref&gt;
+
+&lt;ref name="BBC-2004.08.07"&gt;Buckley, Martin. [http://www.thewe.cc/contents/more/archive2004/august/antoine_de_saint-exupery_death.htm "Mysterious Wartime Death of French Novelist."] ''[[BBC News]], World Edition'', 7 August 2004. Retrieved: 3 August 2012.&lt;/ref&gt;
+
+&lt;ref name="Berton"&gt;[[Pierre Berton|Berton]] 1997, book jacket and pp. 358–364.&lt;/ref&gt;
+
+&lt;ref name="Celog.fr"&gt;[http://www.celog.fr/cpi/lv1_tt2.htm "French Code of Intellectual Property {{fr-icon}}."] ''celog.fr.'' Retrieved: 22 August 2012.&lt;/ref&gt;
+
+&lt;ref name="CDNN"&gt;[http://schools.u-46.org/public/Was%20Death%20of%20Saint%20Exupery%20A%20Suicide.doc "Saint-Exupery Committed Suicide Says Diver Who Found Plane Wreckage."] ''Cyber Diver News Network'', 7 August 2004. (Note: old link location became a [http://www.cdnn.info/industry/i040807/i040807.html dead link])&lt;/ref&gt;
+
+&lt;ref name="EdmontonJournal-1995.01.17"&gt;Mandel, Charles. "Museum Marks Pilot's Life And Dangerous Times." ''[[Edmonton Journal]]'', Edmonton, Alberta, 17 January 1995, p. A.11, ProQuest ID: 20547779 (subscription).&lt;/ref&gt;
+
+&lt;ref name="Eyheramonno"&gt;Eyheramonno, Joelle. [http://members.multimania.nl/tlp/antoine.htm "Antoine de Saint-Exupéry."] ''Slamaj personal website'', 22 October 2011. {{webarchive |url=https://web.archive.org/web/20110811221207/http://members.multimania.nl/tlp/antoine.htm |date=11 August 2011 }}&lt;/ref&gt;
+
+&lt;ref name="Fay-1946a"&gt;Fay, Elliot G. "Saint-Exupéry in New York." ''[[Modern Language Notes]]'', [[Johns Hopkins University Press]], Vol. 61, No. 7, November 1946, p. 461.&lt;/ref&gt;
+
+&lt;ref name="Flying-1966.01"&gt;M.A.K. [https://books.google.com/books?id=J2hhfuWxA20C "Book Reviews: A Sense Of Life."] ''[[Flying Magazine]]'', January 1966, p. 114.&lt;/ref&gt;
+
+&lt;ref name=GhostBombers&gt;[http://www.ghostbombers.com/various/Rippert/saint-ex_01.html "Saint-Exupéry episode."] ''Ghostbombers.com.'' Retrieved: 30 September 2012.&lt;/ref&gt;
+
+&lt;ref name="Google"&gt;[http://www.logo-google.com/2010/official_google_logos/antoine-de-saint-exuperys-110th-birthday/ "Google's Celebration of Antoine de Saint-Exupéry's 110th Birthday."] ''Logo-Google.com website'', 29 June 2010.&lt;/ref&gt;
+
+&lt;ref name="Globe&amp;Mail-2004.04.08"&gt;"Saint-Exupéry's Plane Found". Toronto: ''[[The Globe and Mail]]'', 8 April 2004, p. R6. via ''ProQuest'', 20 September 2011 (subscription); ProQuest Document ID: 1055123471.&lt;/ref&gt;
+
+&lt;ref name="Guardian-2000.06.24"&gt;Webster, Paul. [https://www.theguardian.com/books/2000/jun/24/biography.books "Flying Into A Literary Storm: Antoine de Saint-Exupéry, Author of 'The Little Prince', was born 100 years ago. The Celebrations, however, have been marred by his widow's bitter account of their marriage."] ''[[The Guardian]]'' (London), 24 June 2000.&lt;/ref&gt;
+
+&lt;ref name="Guardian-2010.04.09"&gt;Willsher, Kim. [https://www.theguardian.com/world/2010/apr/09/little-prince-footage-author-sothebys "Haunting Film of Petit Prince Author Saint-Exupéry For Auction."] ''Guardian.uk.co'', 9 April 2010.  On 10 April 2010, a version appeared in print on p. 31. Revised: 13 April 2010.&lt;/ref&gt;
+
+&lt;ref name="Ibert"&gt;Ibert, Jean-Claude. ''Antoine de Saint-Exupéry: ''Classiques de XXe Siècle''. Paris: Éditions Universitaires, 1953, p. 123.&lt;/ref&gt;
+
+&lt;ref name="Independent-2000.05.28"&gt;Lichfield, John. "St Exupery plane wreck found in Med." ''[[The Independent]]'', 28 May 2000.&lt;/ref&gt;
+
+&lt;ref name="Independent-2001.02.15"&gt;Batten, Geoffrey. "Obituary: Anne Morrow Lindbergh." ''[[The Independent]]'', 15 February 2001.&lt;/ref&gt;
+
+&lt;ref name="InstitutionalInvestior-2011.11.06"&gt;Inman, William H. "Hotelier Saint-Exupery's Princely Instincts." ''Institutional Investor'', March 2011. Retrieved online from General OneFile: 6 November 2011 (subscription).&lt;/ref&gt;
+
+&lt;ref name="JanBobek"&gt;Bobek, Jan.[http://ihned.cz/c4-10131700-23633160-000000_d-saint-exuperyho-nikdo-nesestrelil-vyplyva-z-archivnich-dokumentu Saint-Exupéry, lack of archival documents], HNED.cz, 29 March 2008.  Retrieved 25 March 2014.&lt;/ref&gt;
+
+&lt;ref name="Krôller"&gt;Krôller, Eva-Marie. [http://canlit.ca/site/getPDF/article/11882 "Expo '67: Canada's Camelot?"]{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }} ''Canadian Literature'', Spring–Summer 1997, Issue 152–153, pp.&amp;nbsp;36–51. {{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+* &lt;ref name="LeMonde-2008-03-15"&gt;[http://www.lemonde.fr/archives/article/2008/03/15/antoine-de-saint-exupery-aurait-ete-abattu-par-un-pilote-allemand_1023277_0.html "Antoine de Saint-Exupéry aurait été abattu par un pilote allemand" {{fr-icon}}.] ''[[Le Monde]]'', 15 March 2008.&lt;/ref&gt;
+
+&lt;ref name="LittlePrince.com-a"&gt;[http://www.thelittleprince.com/the-legend-of-saint-exupery-in-brazil/ "The Legend of Saint-Exupéry in Brazil."] {{webarchive|url=https://web.archive.org/web/20120426071033/http://www.thelittleprince.com/the-legend-of-saint-exupery-in-brazil/ |date=26 April 2012 }} ''TheLittlePrince.com'', 11 March 2011.&lt;/ref&gt;
+
+&lt;ref name="Morgan Museum-2014.01.main"&gt;[http://www.themorgan.org/exhibitions/exhibition.asp?id=90 The Little Prince: A New York Story: January 24 through April 27, 2014],  New York City: [[Morgan Library &amp; Museum|The Morgan Library &amp; Museum]] website, January 2014. Retrieved 15 January 2014.&lt;/ref&gt;
+
+&lt;ref name="MuseeAireSpace.fr-a"&gt;[http://aama.museeairespace.fr/en/visites-guidees/mini-visites/saint-exupery.html "Current Exhibitions: IWC-Saint Exupery Space."] {{webarchive|url=https://web.archive.org/web/20120402171605/http://aama.museeairespace.fr/en/visites-guidees/mini-visites/saint-exupery.html |date=2 April 2012 }} ''Association des Amis du Musée de l'Air website'', 21 September 2011.&lt;/ref&gt;
+
+&lt;ref name="Miller-Fay-1946a"&gt;Miller, John R. and Eliot G. Fay. [https://www.jstor.org/stable/381288 "Antoine de Saint-Exupéry: A Bibliography."] ''[[American Association of Teachers of French|The French Review]]'', [[American Association of Teachers of French]], Vol. 19, No. 5, March 1946, p.&amp;nbsp;300 (subscription). Retrieved: 20 September 2011.&lt;/ref&gt;
+
+&lt;ref name="Nelly"&gt;[http://www.antoinedesaintexupery.com/nelly-de-vog%C3%BC%C3%A9-1908-%E2%80%93-2003 "Biography: Nelly de Vogüé (1908–2003)."] ''AntoinedeSaintExupery.com''. Retrieved: 23 May 2012.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-1940.02.14"&gt;"1939 Book Awards Given by Critics: Elgin Groseclose's 'Ararat' is Picked as Work Which Failed to Get Due Recognition", ''[[The New York Times]]'', 14 February 1940, p. 25. via ''ProQuest Historical Newspapers: The New York Times (1851–2007)''.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-1941.01.15"&gt;"French Flier Gets Book Prize for 1939: Antoine de St. Exupery Able at Last to Receive ..." ''[[The New York Times]]'', 15 January 1941, p. 6. via ''ProQuest Historical Newspapers: The New York Times (1851–2007)''.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-1995.04.21"&gt;James, Caryn. [https://movies.nytimes.com/movie/review?res=990CE7DE1F39F932A15757C0A963958260 "Wings of Courage: High Over the Andes, In Enormous Goggles (1995 Film Review)."] ''[[The New York Times]]'', 21 April 1995.  Retrieved: 28 September 2012.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2000.06.25"&gt;Schiff, Stacy. [https://www.nytimes.com/books/00/06/25/bookend/bookend.html "Bookend: Par Avion."] ''[[The New York Times]]'', 25 June 2000.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2005.04.03"&gt;Shattuck, Kathryn. [https://www.nytimes.com/2005/04/03/arts/television/cover-story-a-prince-eternal.html?pagewanted=all "A Prince Eternal."] ''[[The New York Times]]'', 3 April 2005.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2008.4.10"&gt;Tagliabue, John. [https://www.nytimes.com/2008/04/10/world/europe/10iht-journal.4.11878260.html On the Trail of a Missing Aviator, Saint-Exupery] ''[[The New York Times]]'' New York edition, 10 April 2008.  Retrieved 25 March 2014.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2011.08.17"&gt;Grode, Eric. [https://www.nytimes.com/2011/08/21/theater/the-musical-saint-ex-illuminates-saint-exupery.html "Musical Couple Turn to Aviator and His Wife."] ''[[The New York Times]]'' New York edition, 21 August 2011, p. AR6.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2011.08.29"&gt;Healy, Patrick. [http://artsbeat.blogs.nytimes.com/2011/08/29/flooding-changes-plans-for-world-premiere-musical-in-vermont/ "Flooding Changes Plans for World Premiere Musical in Vermont."] ''[[The New York Times]]'', 29 August 2011. Retrieved: 26 September 2011.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2014.01.23.a"&gt;Rothstein, Edward. [https://www.nytimes.com/2014/01/24/arts/design/the-morgan-explores-the-origins-of-the-little-prince.html 70 Years on, Magic Concocted in Exile: The Morgan Explores the Origins of ‘The Little Prince’], ''[[The New York Times]]'' website, 23 January 2014, published in print 24 January 2014, p. C25 (New York edition). Retrieved 24 January 2014.&lt;/ref&gt;
+
+&lt;ref name="NewYorkTimes-2014.01.23.b"&gt;Gaffney, Adrienne. [http://tmagazine.blogs.nytimes.com/2014/01/23/on-view-long-live-the-little-prince/ On View | Long Live “The Little Prince”], ''[[The New York Times]]'' blog website, 23 January 2014. Retrieved 24 January 2014.&lt;/ref&gt;
+
+&lt;ref name="PBS"&gt;[https://www.pbs.org/wgbh/amex/lindbergh/sfeature/fallen.html Fallen Hero: Charles Lindbergh in the 1940s], WGBS, [[PBS|Public Broadcasting System]] website. Retrieved from PBS.org 1 February 2013.&lt;/ref&gt;
+
+&lt;ref name="Peak-2011.03"&gt;Mun-Delsalle, Y-Jean.  [http://www.fondation-antoine-de-saint-exupery.org/sites/default/files/pdf/ARTICLE_THE%20PEAK%20MAGAZINE_ASIA_03-2011.pdf "Guardians of the Future."] ''The Peak Magazine'', March 2011, p. 63. {{webarchive |url=https://web.archive.org/web/20120502204645/http://www.fondation-antoine-de-saint-exupery.org/sites/default/files/pdf/ARTICLE_THE%20PEAK%20MAGAZINE_ASIA_03-2011.pdf |date=2 May 2012 }}&lt;/ref&gt;
+&lt;ref name="Peak-2011.03.03"&gt;Mun-Delsalle, Y-Jean. [http://www.thepeak.com.my/2011/03/03/guardians-of-the-future/ "Pursuits: Guardians Of The Future (article synopsis)."] ''The Peak (magazine)'', March 2011. {{webarchive |url=https://web.archive.org/web/20120426072124/http://www.thepeak.com.my/2011/03/03/guardians-of-the-future/ |date=26 April 2012 }}&lt;/ref&gt;
+
+&lt;ref name="PetitPrince.net-a"&gt;[http://www.lepetitprince.net/sub_1945/1945gallimard-E.html "Le Petit Prince – 1945 – Gallimard."] {{webarchive|url=https://web.archive.org/web/20120304205653/http://www.lepetitprince.net/sub_1945/1945gallimard-E.html |date=4 March 2012 }} ''LePetitPrince.net'' website. Retrieved: 26 October 2011.&lt;/ref&gt;
+
+&lt;ref name="PetitPrince.net-b"&gt;[http://www.lepetitprince.net/sub_articles/articlehistory-E.html "Brief Chronograph Of Publications."] {{webarchive|url=https://web.archive.org/web/20081014052142/http://www.lepetitprince.net/sub_articles/articlehistory-E.html |date=14 October 2008 }} ''LePetitPrince.net'', 26 October 2011. Note: the earliest year of publication is given for either of the French or English versions. All of Saint-Exupéry's literary works were originally created in French (he could neither speak nor write English very well), but some of his writings were translated and published in English prior to their French publication.&lt;/ref&gt;
+
+&lt;ref name="PetitPrince.net-c"&gt;[http://www.lepetitprince.net/sub_articles/articlesframe-E.html "Articles of StEx: Brief Chronograph of Publications."] {{webarchive|url=https://web.archive.org/web/20120415021301/http://www.lepetitprince.net/sub_articles/articlesframe-E.html |date=15 April 2012 }} ''lepetitprince.net'', 2011. Retrieved: 23 October 2011.&lt;/ref&gt;
+
+&lt;ref name="Saint-Exupéry-OpenLetterToFrenchmen"&gt;Saint-Exupéry, Antoine. Retrieved from Trussel.com: 26 May 2012:
+* Saint-Exupéry, Antoine de. [http://www.trussel.com/saint-ex/nytimese.htm An Open Letter to Frenchmen Everywhere], ''[[The New York Times Magazine]]'', 29 November 1942, p. 7.  Also published in French as:
+* Saint-Exupéry, Antoine de. [http://www.trussel.com/saint-ex/nytimesf.htm "Voulez-vous, Français, vous reconcilier? (French People, Would You Reconcile?)."] ''Le Canada, de Montréal'', 30 November 1942.
+&lt;/ref&gt;
+
+&lt;ref name="Playbill"&gt;Jones, Kenneth. [http://www.playbill.com/news/article/154167-Saint-Ex-a-Musical-Drowned-by-Hurricane-Irene-Surfaces-Again-Sept-2-in-Vermont "Saint-Ex, a Musical Drowned by Hurricane Irene, Surfaces Again Sept. 2 in Vermont."] ''Playbill.com,'' 2 September 2011. Retrieved: 3 September 2011. {{webarchive |url=https://web.archive.org/web/20121022061131/http://www.playbill.com/news/article/154167-Saint-Ex-a-Musical-Drowned-by-Hurricane-Irene-Surfaces-Again-Sept-2-in-Vermont |date=22 October 2012 }}&lt;/ref&gt;
+
+&lt;ref name="Reuters-2008.03.16"&gt;[https://news.yahoo.com/s/nm/20080316/wl_nm/france_saintexupery_dc German "Pilot fears he killed writer St. Exupéry."] ''[[Reuters]]'' news story quoting Rippert in ''[[Le Figaro]]'', 16 March 2008. Retrieved: 16 March 2008. {{webarchive |url=https://web.archive.org/web/20080319231928/http://news.yahoo.com/s/nm/20080316/wl_nm/france_saintexupery_dc |date=19 March 2008 }}&lt;/ref&gt;
+
+&lt;ref name="Saint-Exupéry-SenseofLife"&gt;Saint-Exupéry, Antoine de. [https://books.google.com/books?id=yIodAQAAIAAJ ''A Sense of Life.''] New York: Funk &amp; Wagnalls, 1965.&lt;/ref&gt;
+
+&lt;ref name="Saint-Exupéry.com-a"&gt;[http://www.antoinedesaintexupery.com/d%C3%A9couverte-d%E2%80%99un-film-en-couleur-sur-saint-exup%C3%A9ry-0 Actualités: Découverte d’un film en couleur sur Saint Exupéry] (media release), AntoinedeSaintExupéry.com website {{fr-icon}}.  Retrieved: 25 September 2011.&lt;/ref&gt;
+
+&lt;ref name="Saint-Exupéry.com-b"&gt;[http://demo.antoinedesaintexupery.com/la-chronologie Chronology of Antoine de Saint-Exupéry.] AntoinedeSaint-Exupéry.com website. Retrieved: 31 October 2011.&lt;/ref&gt;
+
+&lt;ref name="SaintExupéryConsuelo"&gt;[[Consuelo de Saint Exupéry|Saint Exupéry, Consuelo de]], tr. by Woods, Katherine. [https://books.google.com/books/about/Kingdom_of_the_rocks.html?id=_x81AAAAIAAJ ''Kingdom of the Rocks: Memories of Oppède''], [[Random House]], 1946.&lt;/ref&gt;
+
+&lt;ref name="Schiff-1996a"&gt;Schiff 1994, pp. 256–267.&lt;/ref&gt;
+
+&lt;ref name="Spiegel 2008.03.22"&gt;Boenisch, Georg &amp; Leick, Romain. [http://www.spiegel.de/spiegel/print/d-56299159.html Legenden | Gelassen in den Tod], ''[[Der Spiegel]]'', 22 March 2008.  Retrieved 25 March 2014.&lt;/ref&gt;
+
+&lt;!-- Cite error: A list-defined reference named "Stamatoiu" is not used in the content of this article:
+
+ &lt;ref name="Stamatoiu"&gt;Stamatoiu, Cristian.[http://www.upm.ro/facultati_departamente/stiinte_litere/conferinte/situl_integrare_europeana/Lucrari2/Cristian%20Stamatoiu.pdf “The Last Day of Antoine de Saint-Exupery”] University of Petru Maior Faculty Journal, Romania.  Retrieved 25 March 2014.&lt;/ref&gt; --&gt;
+
+&lt;ref name="Telegraph-2007.04.30"&gt;Carrol, Tim. "Secret Love of a Renaissance Man". ''[[The Daily Telegraph|The Telegraph]]'', 30 April 2007.&lt;/ref&gt;
+
+&lt;ref name="Telegraph-2014.01.24"&gt;Runcie, Charlotte. [https://www.telegraph.co.uk/culture/books/10558604/The-story-of-The-Little-Prince-and-the-Big-Apple.html The story of The Little Prince and the Big Apple], ''[[The Daily Telegraph|The Telegraph]]'' website, 24 January 2014. Retrieved 24 January 2014.&lt;/ref&gt;
+
+&lt;ref name="TDH"&gt;[http://tdhontario.tdh.ca/about.html About Us: What's In A Name?] {{webarchive|url=https://web.archive.org/web/20111222073226/http://tdhontario.tdh.ca/about.html |date=22 December 2011 }}, ''Terre des hommes Ontario''. Retrieved 27 December 2011.&lt;/ref&gt;
+
+&lt;ref name="TerreDesHommes.org-a"&gt;[http://www.terredeshommes.org/index.php?lang=en&amp;page=abo.his "About TDFIF: Our History."] ''Terre des Hommes International Federation''. Retrieved: 27 December 2011.&lt;/ref&gt;
+
+&lt;!-- Cite error: A list-defined reference named "TheOtherShore" is not used in the content of this article:
+
+ &lt;ref name="TheOtherShore"&gt;Jackson, Michael.  “The Other Shore:  Essays on Writers and Writing”.  Berkeley: University of California, 2013. Print.&lt;/ref&gt;  --&gt;
+
+&lt;ref name="TheWingedLife"&gt;Rumbold, Richard &amp; Stewart, Lady Margaret. [https://thyquotes.com/richard-rumbold/ The Winged Life], N.Y.: David McKay Company, 1953. P.214&lt;/ref&gt;
+
+&lt;ref name="Time-1944.08.14"&gt;[http://www.time.com/time/magazine/article/0,9171,775173,00.html Milestones, Aug. 14, 1944. Missing in Action: Count Antoine de Saint Exupéry.] ''[[Time (magazine)|Time]]'', 14 August 1944. Quote: "Saint Exupery, veteran of over 13,000 flying hours, was grounded last March by a U.S. Army Air Forces officer because of age, was later put back into his plane by a decision of Lieut. General Ira C. Eaker, flew some 15 flak-riddled missions in a P-38 before his disappearance."&lt;/ref&gt;
+
+&lt;ref name="Toulouse-a"&gt;[http://www.toulouse7.com/2011/06/22/toulouse-va-celebrer-antoine-de-saint-exupery/ "Toulouse va célébrer Antoine de Saint-Exupéry."] ''Toulouse7.com'', 22 September 2011.&lt;/ref&gt;
+
+&lt;ref name="Triebel"&gt;Triebel, Claas.[http://www.cicero.de/salon/die-letzten-stunden-des-comte-de-saint-exup%C3%A9ry/38662 The Last Hours of Commander Saint-Exupery], ''[[Cicero magazine]]'', 12 April 2008.  Retrieved 25 March 2014.&lt;/ref&gt;
+
+&lt;ref name="Trussel-all"&gt;[http://www.trussel.com/saint-ex/stamps/saint-ex.htm Images of International Stamps (Government- and Private-Issue) Honoring Saint-Exupéry.] ''Trussel.com'' website. Retrieved: 9 February 2012.&lt;/ref&gt;
+
+&lt;ref name="Trussel-is"&gt;[http://www.trussel.com/saint-ex/stamps/israel.htm Images of the Israeli Stamp and Related Issues.] ''Trussel.com'' website. Retrieved: 20 October 2011.&lt;/ref&gt;
+
+&lt;ref name="UK National Archives"&gt;UK National Archives file HW5/548, item CX/MSS/T263/29&lt;/ref&gt;
+
+&lt;ref name="Urbanke"&gt;Axel Urbanke: "Green Hearts: First in Combat with the Dora 9", Eagle Editions, 1997, {{ISBN|978-0966070606}}.&lt;/ref&gt;
+
+&lt;ref name="USU"&gt;[http://english.ulsu.ru/news/15348/ USU Opens International Saint-Exupery Center], Lomonosov Moscow State University in Ulyanovsk website, 28 February 2012. Retrieved: 17 January 2013.&lt;/ref&gt;
+
+&lt;ref name="VoiceOfRussia"&gt;Zavialova, Tatiana. [https://archive.is/20130417192245/http://french.ruvr.ru/_print/67741561.html Le Musée Saint-Exupéry dans la capitale russe d'aviation], La Voix de la Russie website, 6 February 2012. Retrieved from french.ruvr.ru on 17 January 2013. {{fr-icon}}&lt;/ref&gt;
+
+&lt;ref name="Volksbund.de"&gt;{{cite web|url=http://www.volksbund.de/index.php?id=1775&amp;tx_igverlustsuche_pi2%5Bgid%5D=f6a4f0086513f7e924597da41da50094|title=Detailansicht|publisher=}}&lt;/ref&gt;
+
+&lt;ref name="VonGartzen"&gt;Von Gartzen, Lino &amp; Triebel, Claas. [https://www.amazon.com/Der-Prinz-Pilot-Antoine-Saint-Exup%C3%A9ry/dp/3776625694 The Prince, The Pilot, and Antoine de Saint-Exupery], Herbig Verlag Publishing, 1 August 2008.&lt;/ref&gt;
+
+&lt;ref name="Wall Street Journal-2014.01.23"&gt;Maloney, Jennifer. [https://www.wsj.com/news/articles/SB10001424052702303947904579338552736357232 'The Little Prince' lands at the Morgan Library: A New Exhibit Explores the Author's Years Writing in New York], ''[[The Wall Street Journal]]'' website, 23 January 2014. Retrieved 24 January 2014.&lt;/ref&gt;
+
+}}
+
+=== Bibliography ===
+
+{{Refbegin}}
+* Altweg, Jürg. [http://www.seiten.faz-archiv.de/faz/20080328/fd1200803281648221.html "Aus Erfahrung skeptisch: Französische Zweifel an Saint-Exuperys Abschuss durch Horst Rippert"] ''Frankfurter Allgemeine Zeitung'' (Frankfurt), Issue 32/S44, 28 March 2008.  {{de-icon}}
+* Berton, Pierre. ''[[1967: The Last Good Year]]''. [[Toronto]]: Doubleday Canada, 1997. {{ISBN|0-385-25662-0}}.
+* Bönisch, Georg von and Romain Leick.  [http://www.spiegel.de/spiegel/print/d-56299159.html "Gelassen in den Tod" (in German).] ''Der Spiegel'', Issue 13, 22 March 2008.
+* Brown, Hannibal. [https://web.archive.org/web/20061109113424/http://habpro.tripod.com/visionslp/id13.html "The Country Where the Stones Fly: Visions of a Little Prince"] ''habpro.tripod.com,'' 2004.
+* Cate, Curtis. ''Antoine de Saint-Exupéry: His Life and Times''. Toronto: Longmans Canada Limited, 1970. {{ISBN|978-1557782915}}.
+* [[Anne Commire|Commire, Anne]]. [https://books.google.com/books?id=3WoYAAAAIAAJ ''Something about the Author (Volume 20 of Something about the Author: Facts and Pictures about Contemporary Authors and Illustrators of Books for Young People).''] Detroit: [[Gale (publisher)|Gale Research Company]], 1980. {{ISBN|978-0-8103-0053-8}}.
+* Cotsalas, Valerie. [https://www.nytimes.com/2000/09/10/nyregion/the-little-prince-born-in-asharoken.html?pagewanted=all "The Little Prince: Born in Asharoken."] ''[[The New York Times]]'', 10 September 2000.
+* Dunning, Jennifer. [https://www.nytimes.com/1989/05/12/arts/in-the-footsteps-of-saint-exupery.html?pagewanted=2 "In the footsteps of Saint-Exupery."] ''[[The New York Times]]'', 12 May 1989.
+* Saint-Exupéry, Antoine de; with Adrienne Foulke (trans.) [https://books.google.com/books?id=yIodAQAAIAAJ ''A Sense of Life''.] New York: [[Funk &amp; Wagnalls]], 1965, 1956.
+* Saint-Exupéry, Antoine (Consuelo de); and/tr. by [[Esther Allen]]. [https://books.google.com/books/about/The_Tale_of_the_Rose.html?id=OarX1V7Mh6cC ''The Tale of the Rose: The Love Story Behind The Little Prince'']. New York: [[Random House]], 2000. {{ISBN|978-0-8129-6717-3}}.
+* [[Stacy Schiff|Schiff, Stacy]]. [https://books.google.com/books?id=2G4Q_GNpCUMC ''Saint-Exupéry: A Biography''], [[Da Capo Press]], 1997, {{ISBN|0306807408}}, {{ISBN|978-0-3068-0740-4}}; New York: [[Henry Holt and Company|Henry Holt]], 2006, First edition 1993. {{ISBN|978-0-8050-7913-5}}.
+* Severson, Marilyn S. ''Masterpieces of French Literature: Greenwood Introduces Literary Masterpieces.'' Westport, Connecticut: Greenwood Publishing Group, 2004. {{ISBN|978-0-313-31484-1}}.
+* Tagliabue, John. [https://www.nytimes.com/2008/04/11/world/europe/11exupery.html?_r=1&amp;pagewanted=print&amp;oref=slogin "Clues To The Mystery Of A Writer Pilot Who Disappeared."] ''[[The New York Times]]'', 11 April 2008.
+* La Gazette des Français du Paraguay ''Antoine de Saint-Exupéry, Vol de nuit 1931, Vaincre l'impossible - Antoine de Saint-Exupéry, Vuelo nocturno 1931, Superar lo desconocido'' bilingue, numéro 14 année II, Assomption, Paraguay.
+{{Refend}}
+
+==Further reading==
+
+===Selected biographies===
+* Chevrier, Pierre (pseudonym of Hélène (Nelly) de Vogüé). [https://books.google.com/books?id=XvRcAAAAMAAJ ''Antoine de Saint-Exupéry''.] Montreal, Quebec, Canada: La librairie Gallimard de Montréal, 1950.
+* Migeo, Marcel. ''Saint-Exupéry''. New York:  McGraw-Hill, (trans. 1961), 1960.
+* [[Peyre, Henri]]. ''French Novelists of Today''. New York: Oxford UP, 1967.
+* Robinson, Joy D. Marie. [https://books.google.com/books?id=qPVcAAAAMAAJ ''Antoine de Saint Exupéry'' (Twayne's World Authors series: French literature).] Boston: Twayne Publishers, 1984, pp.&amp;nbsp;120–142.
+* Rumbold, Richard and Lady Margaret Stewart. [https://books.google.com/books?id=Bdd9AAAAIAAJ ''The Winged Life: A Portrait of Antoine de Saint-Exupéry, Poet and Airman''.] New York: D. McKay, 1955.
+* Smith, Maxwell A. [https://books.google.com/books?id=A-q3AAAAIAAJ ''Knight of the Air: The Life and Works of Antoine de Saint-Exupéry''.] New York: Pageant Press, 1956.
+
+== External links ==
+{{wikiquote}}
+{{Commons category|Antoine de Saint-Exupéry}}
+* [http://www.antoinedesaintexupery.com/ Antoine de Saint-Exupéry (society)] (official website) {{fr icon}}
+* [http://www.fondation-antoine-de-saint-exupery.org/ Antoine de Saint-Exupéry Youth Foundation (F-ASEJ)] (official website) {{En icon}} {{fr-icon}}
+* [https://web.archive.org/web/20130404043121/http://www.saintexupery2011.fr/en/ 2011 Année Antoine de Saint-Exupéry] Toulouse celebration of Saint-Exupéry in 2011 {{En icon}} {{fr-icon}}
+* [http://www.trussel.com/saint-ex/stexbib.htm#47 Major bibliography of French and English biographical works on Saint-Exupéry] {{En icon}}
+* [http://rubenzecenamejia.comxa.com/laguerraAB1.htm A website dedicated to the Centennial Anniversary of Antoine and Consuelo de Saint-Exupéry]
+* [http://www.freewebs.com/saint-ex/ Another website about Antoine de Saint-Exupéry] {{fr icon}}
+{{Bibliowiki}}
+* [http://www.ghostbombers.com/various/Rippert/saint-ex_01.html The Luftwaffe and Saint-Exupéry: the evidence (in the website "Ghost Bombers")]
+
+{{Antoine de Saint-Exupéry|state=expanded}}
+{{The Little Prince}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Saint Exupery, Antoine de}}
+[[Category:Antoine de Saint-Exupéry| ]]
+[[Category:1900 births]]
+[[Category:1940s missing person cases]]
+[[Category:1944 deaths]]
+[[Category:People from Lyon]]
+[[Category:French emigrants to Argentina]]
+[[Category:French expatriates in Argentina]]
+[[Category:French expatriates in the United States]]
+[[Category:Aerial photographers]]
+[[Category:Aviation writers]]
+[[Category:Aviators killed in aviation accidents or incidents]]
+[[Category:Counts of France]]
+[[Category:French aviators]]
+[[Category:French children's writers]]
+[[Category:French fantasy writers]]
+[[Category:French memoirists]]
+[[Category:French Roman Catholics]]
+[[Category:French World War II pilots]]
+[[Category:Grand Prix du Roman winners]]
+[[Category:Lycée Saint-Louis alumni]]
+[[Category:Missing aviators]]
+[[Category:Missing in action of World War II]]
+[[Category:Modernist writers]]
+[[Category:National Book Award winners]]
+[[Category:Prix Femina winners]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:20th-century French novelists]]
+[[Category:French Army officers]]
+[[Category:French Air Force personnel]]
+[[Category:Free French military personnel of World War II]]
+[[Category:Recipients of the Croix de Guerre 1939–1945 (France)]]
+[[Category:Chevaliers of the Légion d'honneur]]</text>
+      <sha1>qvamatpqnl4dutiuq6iux33s8r6o2e6</sha1>
+    </revision>
+  </page>
+</mediawiki>

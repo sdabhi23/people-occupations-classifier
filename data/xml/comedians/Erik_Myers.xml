@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Erik Myers</title>
+    <ns>0</ns>
+    <id>52936931</id>
+    <revision>
+      <id>763209216</id>
+      <parentid>763209004</parentid>
+      <timestamp>2017-02-01T22:36:22Z</timestamp>
+      <contributor>
+        <ip>2601:204:D601:9500:9037:8159:D2CA:47C3</ip>
+      </contributor>
+      <comment>/* Career */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6127">{{Multiple issues|
+{{unreliable sources|date=January 2017}}
+{{BLP sources|date=January 2017}}
+{{notability|bio|date=January 2017}}
+}}
+{{Infobox person
+| honorific_prefix   = 
+| name               =  Erik Myers
+| honorific_suffix   = 
+| image              =
+| image_upright      = 
+| alt                = 
+| caption            = Erik Myers
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = 
+| birth_date         = &lt;!-- {{birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. --&gt;
+| birth_place        = 
+| baptised           = &lt;!-- will not display if birth_date is entered --&gt;
+| disappeared_date   = &lt;!-- {{disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         =  &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| burial_place       =  &lt;!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) --&gt;
+| burial_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| monuments          = 
+| residence          = 
+| nationality        = 
+| other_names        = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = Comedian
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent              =  &lt;!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source --&gt;
+| known_for          = 
+| notable_works      =  "Dopeless Romantic" on Hulu
+| style              = 
+| home_town          = Columbia, Maryland
+| salary             = 
+| net_worth          =  &lt;!-- Net worth should be supported with a citation from a reliable source --&gt;
+| height             =  &lt;!-- "X cm", "X m"  or "X ft Y in" plus optional reference (conversions are automatic) --&gt;
+| weight             =  &lt;!-- "X kg", "X lb" or "X st Y lb" plus optional reference (conversions are automatic) --&gt;
+| television         = Laughs, Gotham City Live, Andrew Dice Clay Present, The Blue Show, Comic Unleashed
+| title              = 
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charge    =  &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             =  &lt;!-- Use article title or common name --&gt;
+| partner            =  &lt;!-- (unmarried long-term partner) --&gt;
+| children           = 
+| parents            =  &lt;!-- overrides mother and father parameters --&gt;
+| mother             =  &lt;!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) --&gt;
+| father             =  &lt;!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) --&gt;
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = Funniest Person in Baltimore, Florida's Funniest Comedian
+| website            =  &lt;!-- {{URL|example.com}} --&gt;
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+
+'''Erik Myers''' is an American comedian, actor, and writer.
+
+== Early life ==
+Myers grew up in [[Columbia, Maryland]] and began his comedy career at the age of 18 at Winchester's Pub in Baltimore.&lt;ref&gt;{{cite web|url=http://www.uproarcomedycd.com/shop/erik-myers-basket-case/|title=Erik Myers – "Basket Case" |publisher=Uproar Entertainment}}&lt;/ref&gt; In 2005 he won the "Funniest Person in Baltimore" contest.&lt;ref&gt;{{cite web|url=http://comedyunderground.com/erik-myers-recording-new-comedy-album-comedy-underground/|title=Erik Myers recording at Comedy Underground|date=17 July 2014|publisher=Comedy Underground}}&lt;/ref&gt; Myers later moved to Florida where he was named 2011 Florida's Funniest Comedian.&lt;ref&gt;{{cite web|url=http://floridasfunny.com|title=Florida's Funny|publisher=}}&lt;/ref&gt;{{failed verification|date=January 2017}}
+
+== Career ==
+
+Myers is based in [[Los Angeles]], [[California]] where he's a paid regular at the world-famous ''Comedy Store'' in Hollywood.&lt;ref&gt;{{cite web|url=http://standuptalk.com/19-comedians-get-passed-at-the-comedy-store-for-2014/|title=19 Comedians Get Passed at the Comedy Store for 2014 |date=7 August 2015|publisher=StandUpTalk}}&lt;/ref&gt; He has appeared on "''Gotham City Live''", "''Laughs''" on the Fox Network, and performed his 1-hour special "''Dopeless Romantic''" for [[Hulu]].&lt;ref&gt;{{cite web|url=http://www.ticketfly.com/event/1401871-erik-myers-as-seen-on-las-vegas/|title=Erik Myers as seen on Showtime, Laughs and Live at Gotham - Ticket sales site|date=January 12, 2017|website=www.ticketfly.com}}&lt;/ref&gt; He has appeared on "''Andrew Dice Clay Presents''", "''The Blue Show''" on Showtime, and "''Comics Unleashed with Byron Allen''".&lt;ref&gt;{{cite web|url=http://www.laughfactory.com/erikmyers|title=The Erik Myers Channel |publisher=Laugh Factory Comedy Network}}&lt;/ref&gt; Myers is the co-creator of the animated cartoon "''Court Ordered''", loosely based on his life with characters voiced by many fellow notable comedians.&lt;ref&gt;{{cite web|url=http://courtorderedcartoon.com|title=Court Ordered|website=courtorderedcartoon.com}}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{imdb name|nm2898158|Erik Myers}}
+* {{imdb title|tt2419326|Erik Myers Dopeless Romantic}}
+
+{{DEFAULTSORT:Myers, Erik}}
+[[Category:Living people]]
+[[Category:People from Columbia, Maryland]]</text>
+      <sha1>gfgwebq939ux0choh5a4xmvtms0xgbp</sha1>
+    </revision>
+  </page>
+</mediawiki>

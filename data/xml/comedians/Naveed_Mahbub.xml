@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Naveed Mahbub</title>
+    <ns>0</ns>
+    <id>52061031</id>
+    <revision>
+      <id>747927250</id>
+      <parentid>745567388</parentid>
+      <timestamp>2016-11-05T06:46:25Z</timestamp>
+      <contributor>
+        <username>Tony1</username>
+        <id>332841</id>
+      </contributor>
+      <comment>[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3626">{{Use mdy dates|date=November 2016}}
+{{infobox comedian
+|name=Naveed Mahbub
+|nationality=Bangladeshi
+|alma_mater={{unbulleted list|[[Bangladesh University of Engineering and Technology]]|[[University of Michigan, Ann Arbor]]}}
+| medium = {{flatlist| 
+* Stand-up
+*television
+}}
+}}
+
+'''Naveed Mahbub''' is a Bangladeshi comedian and columnist. He was awarded Best Male Comedian in the [[The Comedy Festival|2007 Las Vegas Comedy Festival]].&lt;ref name=stand/&gt; In 2016, Mahbub was featured in US-based comedy television channel [[Comedy Central]]. He hosts a morning radio show, ''Good Morning Bangladesh'', on [[ABC Radio (Bangladesh)|ABC Radio]].&lt;ref name="cc"&gt;{{cite web | url=http://www.thedailystar.net/arts-entertainment/tv/naveed-mahbub-comedy-central-1302289 | title=Naveed Mahbub on Comedy Central | publisher=The Daily Star | date=October 22, 2016 | accessdate=October 22, 2016}}&lt;/ref&gt; He writes articles on the newspaper [[The Daily Star (Bangladesh)|The Daily Star]].&lt;ref&gt;{{cite web | url=http://archive.thedailystar.net/beta2/columnists/naveed-mahbub/ | title=Naveed Mahbub | publisher=The Daily Star | accessdate=October 21, 2016}}&lt;/ref&gt;
+
+==Education==
+Mahbub completed his bachelor's in electrical engineering from [[Bangladesh University of Engineering and Technology]] and master's from the [[University of Michigan, Ann Arbor]].&lt;ref name=stand&gt;{{cite web | url=http://www.thedailystar.net/news-detail-26426 | title=Naveed Mahbub and his stand-up comedy | date=March 7, 2008 | accessdate=October 21, 2016 | author=Mahboob, Mahdin}}&lt;/ref&gt; While he was an MBA student at the [[University of California, Berkeley]], he took a course in the Sandi Shore's Standup Comedy Workshop.&lt;ref name=stand/&gt;
+
+==Career==
+For 13 years, Mahbub served as an engineer at [[Ford Motor Company]], [[Kyocera Wireless]] and [[Qualcomm]] in the United States and the CEO of IBM and Nokia Siemens Networks Bangladesh.&lt;ref name=stand/&gt;&lt;ref&gt;{{cite web | url=http://www.thedailystar.net/author/naveed-mahbub | title=Naveed Mahbub | work=The Daily Star | accessdate=October 21, 2016}}&lt;/ref&gt;
+
+Mahbub had performed as a stand-up comic in the United States in the 2000s. He returned to Bangladesh in 2009. He founded the country's first comedy club, ''Naveed's Comedy Club'' in 2010.&lt;ref&gt;{{cite web | url=http://www.thedailystar.net/lifestyle/thank-god-its-friday/thank-god-its-friday-124183 | title=Thank God It's Friday | publisher=The Daily Star | date=August 11, 2015 | accessdate=October 21, 2016 | author=Ditan, Tanziral}}&lt;/ref&gt;
+
+Since June 2012, Mahbub hosted a [[late night television]] talk show ''"Grameenphone Presents – The Naveed Mahbub Show"''.&lt;ref&gt;{{cite web | url=http://www.thedailystar.net/news-detail-236479 | title=The Naveed Mahbub Show on ntv | publisher=The Daily Star | date=June 1, 2012 | accessdate=October 21, 2016}}&lt;/ref&gt;
+
+He acted in a small role in the film ''[[You Don't Mess with the Zohan]]'', featuring [[Adam Sandler]] and [[Rob Schneider]].&lt;ref name=stand/&gt;
+
+==Books==
+* ''Humorously Yours and Counting'' (2015)&lt;ref&gt;{{cite web | url=http://www.thedailystar.net/city/dhaka-lit-fest-begins-175285 | title=Dhaka Lit Fest begins | publisher=The Daily Star | date=November 20, 2015 | accessdate=October 21, 2016}}&lt;/ref&gt;
+
+== References ==
+{{reflist|30em}}
+
+{{DEFAULTSORT:Mahbub, Naveed}}
+[[Category:Living people]]
+[[Category:Bangladeshi comedians]]
+[[Category:Bangladeshi columnists]]
+[[Category:Bangladeshi male writers]]
+[[Category:Bangladesh University of Engineering and Technology alumni]]
+[[Category:University of Michigan alumni]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Bangladesh-bio-stub}}</text>
+      <sha1>i2n2sfl3cx0jadposgasct5sw8dwjdd</sha1>
+    </revision>
+  </page>
+</mediawiki>

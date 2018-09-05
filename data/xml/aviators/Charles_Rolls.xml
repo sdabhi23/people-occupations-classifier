@@ -1,0 +1,288 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Charles Rolls</title>
+    <ns>0</ns>
+    <id>53503</id>
+    <revision>
+      <id>852218185</id>
+      <parentid>852216621</parentid>
+      <timestamp>2018-07-27T11:57:43Z</timestamp>
+      <contributor>
+        <username>Eddaido</username>
+        <id>5743316</id>
+      </contributor>
+      <comment>/* Pioneer aviator */ note of predecessors</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18806">{{ref improve|date=May 2017}}
+{{Use dmy dates|date=April 2014}}
+{{EngvarB|date=April 2014}}
+{{Infobox person
+| pre-nominals       = The honourable
+| name               =  Charles Stewart Rolls
+| post-nominals      = 
+| image              =  Charles-Rolls.jpg
+| image_upright      = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         =  &lt;!-- only use if different from name above --&gt;
+| birth_date         =  {{birth date|1877|08|27|df=y}}
+| birth_place        = [[Berkeley Square]], London
+| baptised           =  &lt;!-- will not display if birth_date is entered --&gt;
+| disappeared_date   =  &lt;!-- {{disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) --&gt;
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         =  {{Death date and age|1910|07|12|1877|08|27|df=y}}
+| death_place        = [[Southbourne, Dorset|Southbourne]], [[Bournemouth]]
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| burial_place       =  &lt;!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) --&gt;
+| burial_coordinates =  &lt;!-- {{coord|LAT|LONG|type:landmark|display=inline}} --&gt;
+| monuments          = 
+| residence          = 
+| nationality        = Welsh
+| other_names        = 
+| citizenship        = 
+| education          = [[Eton College]]
+| alma_mater         = [[Trinity College, Cambridge]]
+| occupation         = Motor car promoter and aviator
+| years_active       = 6
+| era                = 
+| employer           = 
+| organization       = 
+| agent              =  &lt;!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source --&gt;
+| known_for          = [[Rolls-Royce Limited|Rolls-Royce]]
+| notable_works      =  &lt;!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" --&gt;
+| style              = 
+| home_town          = 
+| salary             = 
+| net_worth          =  &lt;!-- Net worth should be supported with a citation from a reliable source --&gt;
+| height             =  &lt;!-- "X cm", "X m"  or "X ft Y in" plus optional reference (conversions are automatic) --&gt;
+| weight             =  &lt;!-- "X kg", "X lb" or "X st Y lb" plus optional reference (conversions are automatic) --&gt;
+| television         = 
+| title              =  &lt;!-- Formal/awarded/job title. The parameter |office= may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) --&gt;
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charge    =  &lt;!-- Criminality parameters should be supported with citations from reliable sources --&gt;
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             =  &lt;!-- Use article title or common name --&gt;
+| partner            =  &lt;!-- (unmarried long-term partner) --&gt;
+| children           = 
+| parents            =  &lt;!-- overrides mother and father parameters --&gt;
+| mother             =  [[Georgiana Rolls, Baroness Llangattock]]
+| father             =  [[John Rolls, 1st Baron Llangattock|1st Baron Llangattock]]
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            =  &lt;!-- {{URL|example.com}} --&gt;
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = Charles Stewart Rolls Signature.svg
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+
+
+
+[[The Honourable]] '''Charles Stewart Rolls''' (27 August 1877 – 12 July 1910) was a Welsh motoring and aviation pioneer. Together with [[Henry Royce]] he co-founded the [[Rolls-Royce Limited|Rolls-Royce]] car manufacturing firm. He was the first Briton to be killed in an aeronautical accident with a powered aircraft, when the tail of his [[Wright Model A|Wright Flyer]] broke off during a flying display in the [[Southbourne, Dorset|Southbourne]] district of [[Bournemouth]]. He was aged 32.
+
+==Early life==
+[[File:Charles Rolls driving medal at Monmouth Museum, Wales.JPG|thumb|right|150px|Driving medals won by Rolls, at [[Monmouth Museum]]]]
+Rolls was born in [[Berkeley Square]], London, third son of the [[John Rolls, 1st Baron Llangattock|1st Baron Llangattock]] and [[Lady Llangattock]]. Despite his London birth, he retained a strong family connection with his ancestral home&lt;ref&gt;{{Cite web | url=https://www.geograph.org.uk/photo/372038 | title=The Hendre | publisher=Geograph Britain and Ireland | accessdate=29 June 2011}}&lt;/ref&gt; of [[The Hendre]], near [[Monmouth]], Wales. After attending Mortimer Vicarage [[Preparatory school (UK)|Preparatory School]] in Berkshire, he was educated at [[Eton College]] where his developing interest in engines earned him the nickname ''dirty Rolls''.&lt;ref name="The_Magic_Of_A_Name"&gt;{{cite book | last = Pugh | first = Peter | title = The Magic of a Name – The Rolls-Royce Story: The First 40 Years | publisher = Icon Books | year = 2001 | isbn = 1-84046-151-9 }}&lt;/ref&gt;
+
+In 1894 he attended a private [[Cram school|crammer]] in Cambridge which helped him gain entry to [[Trinity College, Cambridge]], where he studied mechanical and applied science. In 1896, at the age of 18, he travelled to Paris to buy his first car, a [[Peugeot]] [[Phaeton body|Phaeton]], and joined the [[French Automobile Club|Automobile Club of France]]. His Peugeot is believed to have been the first car based in Cambridge, and one of the first three cars owned in Wales. An early motoring enthusiast, he joined the Self-Propelled Traffic Association, which campaigned against the restrictions imposed on motor vehicles by the [[Locomotive Act]], and became a founder member of the [[Royal Automobile Club|Automobile Club of Great Britain]], with which the Association merged in 1897.&lt;ref&gt;{{cite book | last = Vance | first = James | title = Ways of the World: A History of the World's Roads and of the Vehicles That Used Them | publisher = Rutgers University Press | year = 1992 | isbn = 0-8135-2691-4 }}&lt;/ref&gt;
+
+Rolls was a keen cyclist and spent time at Cambridge bicycle racing. In 1896, he won a [[Blue (university sport)|Half Blue]] and the following year became captain of the Cambridge University Bicycle Club.&lt;ref name=TT39323&gt;Aeroplane Accident, Mr Rolls Killed at Bournemouth. ''The Times'', Wednesday, Jul 13, 1910; pg. 12; Issue 39323&lt;/ref&gt;&lt;ref&gt;The Bicycle, 15 July 1942, pG. Rolls won a half-blue because cycling was not considered a full sport. Rolls also had a collection of bicycles from solos up to four-man tandems.&lt;/ref&gt;
+
+Rolls graduated from Cambridge in 1898 and began working on the [[steam yacht]] ''Santa Maria'' followed by a position at the [[London and North Western Railway]] in [[Crewe]].&lt;ref name="The_Magic_Of_A_Name"/&gt; However, his talents lay more in salesmanship and motoring pioneering than practical engineering; in January 1903, with the help of £6,600 provided by his father, he started one of Britain's first car dealerships,&lt;ref name="BBC" /&gt; C.S.Rolls &amp; Co. based in [[Fulham]], to import and sell French [[Peugeot]] and Belgian [[Minerva (automobile)|Minerva]] vehicles.
+&lt;!--Rolls was a tall man, standing at about 1.95 m (6'5"). no citation, unable to verify--&gt;
+
+==Partnership with Royce==
+[[File:Panhard &amp; Levassor autocar, C S Rolls driver and George V.jpg|thumb|right|235px|[[George V of the United Kingdom|HRH The Duke of York]], Lord and Lady Llangattock, Sir Charles Cust and the Hon. C.S. Rolls at 'The Hendre', 1900]]
+{{Main|Rolls-Royce Limited}}
+
+Rolls was introduced to [[Henry Royce]] by a friend at the [[Royal Automobile Club]], Henry Edmunds, who was also a director of Royce Ltd. Edmunds showed him Royce's car and arranged the historic meeting between Rolls and Royce at the [[Midland Hotel (Manchester)|Midland Hotel]], Manchester, on 4 May 1904. In spite of his preference for three or four cylinder cars, Rolls was impressed with the two-cylinder Royce 10 and in a subsequent agreement of 23 December 1904 agreed to take all the cars Royce could make. These would be of two, three, four and six cylinders and would be badged as Rolls-Royces.
+
+[[File:CharlesRolls.jpg|thumb|left|123px|Bronze bust at [[Derby Industrial Museum]]]]
+The first Rolls-Royce car, the [[Rolls-Royce 10 hp]], was unveiled at the [[Paris Motor Show|Paris Salon]] in December 1904, although in the early advertising it was the name of Rolls that was emphasised over that of Royce. In 1906 Rolls and Royce formalised their partnership by creating Rolls-Royce Limited, with Rolls appointed Technical managing director on a salary of £750 per annum plus 4% of the profits in excess of £10,000. Rolls provided the financial backing and business acumen to complement Royce's technical expertise. In 1907 Rolls-Royce Limited bought out C.S. Rolls &amp; Co.
+
+Rolls put much effort into publicising the quietness and smoothness of the Rolls-Royce, and at the end of 1906 travelled to the USA to promote the new cars. The company was winning awards for the quality and reliability of its cars by 1907. But by 1909 Rolls' interest in the business was waning, and at the end of the year he resigned as Technical managing director and became a [[non-executive director]].&lt;ref name="The_Magic_Of_A_Name"/&gt;
+
+[[File:The late C.S. Rolls and Hon. Mrs Assheton Harbord.jpg|thumb|C. S. Rolls in a balloon probably his 'Midget']]
+==Pioneer aviator==
+Rolls was also a pioneer aviator and initially, balloonist,&lt;ref name="BBC"&gt;{{cite web|title=Charles Rolls|publisher=''[[BBC]]''|url=http://www.bbc.co.uk/wales/southeast/halloffame/historical_figures/charles_rolls.shtml|accessdate=29 June 2011}}&lt;/ref&gt; making over 170 balloon ascents. In 1903 he won the [[James Gordon Bennett Jr.|Gordon Bennett]] Gold Medal for the longest single flight time.
+
+By 1907 Rolls' interest turned increasingly to flying and he tried to persuade Royce to design an aero engine. He became the second Englishman to go up in an aeroplane. Piloted by  [[Wilbur Wright]] their flight on 8 October 1908 from Camp d'Auvours, eleven kilometres east of [[Le Mans]], lasted four minutes and twenty seconds.&lt;ref&gt;[http://www.cabangu.com.br/pai_da_aviacao/9-luso/wrigth/Flight%20Log%201908%20Camp%20d%27Auvours,%20Le%20Mans,%20France.htm "U.S Centennial of Flight Commission: Wilbur &amp; Orville Wright: A Chronology"].Flight Log 1908 Camp d'Auvours, Le Mans, France.Retrieved 25 July 2018&lt;/ref&gt; He bought one of six [[Wright Model A|Wright Flyer]] aircraft built by [[Short Brothers]] under licence from the [[Wright Brothers]] and from early October 1909&lt;ref name="The_Magic_Of_A_Name"/&gt; made more than 200 flights. Founder in 1901 with [[Frank Hedges Butler]] of the ballooning club that became the [[Royal Aero Club]]&lt;ref&gt;John Blake.[http://www.royalaeroclub.co.uk/history-and-origins.php "A Brief History Of The Royal Aero Club."] The Royal Aero Club Of The United Kingdom. Retrieved 24 July 2018&lt;/ref&gt; in March 1910 he was the second person they licensed to fly an aeroplane.&lt;ref name="12March1910"&gt;{{Cite journal |date=March 1910  | title=The Royal Aero Club of the United Kingdom – Official Notices to Members | journal=Flight | pages=185 | url=http://www.flightglobal.com/pdfarchive/view/1910/1910%20-%200189.html | format=PDF | accessdate=29 June 2011}} – 12 March 1910&lt;/ref&gt;He became the first man to make a non-stop double crossing of the [[English Channel]] by plane taking 95 minutes on 2 June 1910.&lt;ref name="BBC" /&gt; For this feat, which included the first East-bound aerial crossing of the English Channel, he was awarded the Gold Medal of the Royal Aero Club.&lt;ref&gt;{{Cite web | url=http://www.royalaeroclub.org/awardGold.htm | title=Royal Aero Club Awards &amp; Trophies | publisher=The Royal Aero Club of the United Kingdom | accessdate=29 June 2011}}&lt;/ref&gt;&lt;ref group=note&gt;[[Louis Bleriot]] on 25 July 1909 and [[Jacques de Lesseps|Count Jacques de Lesseps]] on 21 May 1910 crossed West-bound before him&lt;/ref&gt; There is a [[Statue of Charles Rolls, Monmouth|statue in Monmouth to commemorate the flight]] and another in [[Dover]].
+
+==Death==
+[[File:Death of Charles Stewart Rolls - Illustrated London News 2.jpg|thumb|right|Photograph on the front page of the Illustrated London News, 16 July 1910, showing the wreckage of the plane crash which killed Rolls]]
+On 12 July 1910, at the age of 32, Rolls was killed in an air crash at Hengistbury Airfield,&lt;ref&gt;{{Cite web | url=http://www.hengistbury-head.co.uk/history20.htm | title=Hengistbury Head in the 20th Century | publisher=Hengistbury Head | accessdate=29 June 2011 | deadurl=yes | archiveurl=https://web.archive.org/web/20110920111139/http://www.hengistbury-head.co.uk/history20.htm | archivedate=20 September 2011 | df=dmy-all }}&lt;/ref&gt; Southbourne, [[Bournemouth]] when the tail of his [[Wright Model A|Wright Flyer]] broke off during a flying display. He was the first Briton to be killed in an aeronautical accident with a powered aircraft, and the eleventh person internationally. His was also the first powered aviation fatality in the United Kingdom.&lt;ref name=TT39323/&gt;&lt;ref group=note&gt;"Mr. Rolls is the tenth airman who has met with a fatal accident in a motor-driven flying machine, and he is the first Englishman who has sacrificed his life in the cause of modern aviation." (Aeroplane Accident, Mr Rolls Killed at Bournemouth. ''The Times'', Wednesday, Jul 13, 1910; pg. 12; Issue 39323)&lt;/ref&gt; 
+
+A [[Statue of Charles Rolls, Monmouth|statue]] in his memory, in which he is seen holding a biplane model, was erected in Agincourt Square, [[Monmouth]]. A further memorial to him was unveiled in 1981 in the bottom playing field of [[St Peter's Catholic Comprehensive School|St Peter's School]], which was developed on the site of Hengistbury Airfield.
+
+His grave lies at the churchyard of [[Church of St Cadoc, Llangattock Vibon Avel|St Cadoc's Church]], [[Llangattock-Vibon-Avel]], where many of the Rolls family lie buried in various family tombs. His grave is just below Llangattock Manor and bears the inscription:
+
+&lt;blockquote&gt;"Blessed are the pure in heart for they shall see God."&lt;/blockquote&gt;
+
+&lt;gallery&gt;
+Image:MonRolls.jpg|[[Statue of Charles Rolls, Monmouth|Statue of Rolls]] in [[Agincourt Square, Monmouth|Agincourt Square]], Monmouth.
+Image:Charles Stewart Rolls, aviator - geograph.org.uk - 824750.jpg| Statue of Charles Rolls in [[Dover]].
+Image:Llangattock-Vibon-Avel 11.jpg|Rolls Family graves, [[Llangattock-Vibon-Avel]], [[Monmouthshire]].
+File:Charles Stewart Rolls, 1910.jpg|Charles Rolls (centre), 1910.
+&lt;/gallery&gt;
+
+{{Collapsed top|Family tree}}
+{{familytree/start}}
+{{familytree | | | | | |JR|v|SaC| | | SaC='''[[Sarah Coysh]]'''&lt;br&gt;(c1742–1801)|JR='''[[John Rolls]]'''&lt;br&gt;(1735–1801)
+}}
+{{familytree | | | | | | | | |!| | |}}
+{{familytree | | | | | | | |JR2|v|Di3|JR2='''[[John Rolls of The Hendre|John Rolls]]'''&lt;br&gt;of [[The Hendre]]&lt;br&gt;(1776–1837)| Di3='''Martha'''
+}}
+{{familytree | | | | | | | | | | |!|}} 
+{{familytree | | | | | | | | | |JR3|v|Eli|JR3='''[[John Etherington Welch Rolls]]'''&lt;br&gt;(1807–70)|Eli='''Elizabeth Mary Long'''
+}}
+{{familytree | | | | | | | | | | | | |!|}}
+{{familytree | | | | | | | | | | |JR4|v|Geo|JR4='''[[John Rolls, 1st Baron Llangattock|John Allan Rolls]]'''&lt;br&gt;(1837–1912)|Geo='''[[Lady Llangattock|Georgiana Marcia Maclean]]'''&lt;br&gt;(1837–1923)
+}}
+{{familytree | | | | | | | | | | | | | |!|}}
+{{familytree | | |,|-|-|-|v|-|-|-|v|-|-|(| | |}}
+{{familytree |JR5| |HEN| |EGR| |RR|JR5='''[[John Rolls, 2nd Baron Llangattock|John Maclean Rolls]]'''&lt;br&gt;(1870–1916)|HEN='''Henry Alan Rolls'''&lt;br&gt;(1871–1916)|EGR='''Eleanor Georgiana Rolls'''&lt;br&gt;(1872–1961)|RR='''Charles Stewart Rolls'''&lt;br&gt;(1877–1910)&lt;br&gt;(co-founder of&lt;br&gt;''[[Rolls-Royce Limited|Rolls Royce]]'')
+|boxstyle_RR=background-color: #faa
+}}
+{{familytree/end}}
+{{collapsed bottom}}
+
+==Note==
+{{reflist|group=note}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Charles Stewart Rolls}}
+* {{wikisource author-inline}}
+* {{Cite web
+ |url         = http://www.famouswelsh.com/07_adventurers/profiles/Charles_Rolls.shtml
+ |title       = Charles Rolls of Monmouthshire, co-founder of the world famous Rolls-Royce company
+ |publisher   = Famous Welsh
+ |accessdate  = 29 June 2011
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20110709024352/http://www.famouswelsh.com/07_adventurers/profiles/Charles_Rolls.shtml
+ |archivedate = 9 July 2011
+ |df          = dmy-all
+}} – More about Charles Rolls
+* {{Cite web
+ | url=http://www.earlyaviators.com/erolls.htm
+ | title=Charles Rolls
+ | publisher=Early Birds of Aviation, Inc.
+ | accessdate=29 June 2011
+}} – Transcription of the report of his death in a contemporary newspaper
+* {{Cite web
+ | url=http://www.gtj.org.uk/en/search/
+ | title=Search
+ | publisher=Gathering the Jewels
+ | accessdate=29 June 2011
+ | deadurl=yes
+ | archiveurl=https://web.archive.org/web/20110605022121/http://www.gtj.org.uk/en/search/
+ | archivedate=5 June 2011
+ | df=dmy-all
+ }} – Old Photo of Rolls and the Royal Family
+* {{Cite web
+ | url=http://www.southwalesargus.co.uk/resources/images/2716835/?type=articleLandscape
+ | title=Untitled Document
+ | work=Centennial of Flight
+ | publisher=South Wales Argus
+ | accessdate=17 May 2014
+}} – Charles Rolls goes on his first aeroplane flight with [[Wilbur Wright]] on 8 October 1908 at Camp D'Auvours, France
+* [https://www.panoramio.com/photo/81325030 Charles Stewart Rolls Statue, Dover Seafront] – Post-renovation photograph and description
+
+{{Aviators killed in early aviation accidents}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rolls, Charles}}
+[[Category:1877 births]]
+[[Category:1910 deaths]]
+[[Category:People from Westminster]]
+[[Category:People from Fulham]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:People educated at Eton College]]
+[[Category:Welsh aviators]]
+[[Category:People from Monmouthshire]]
+[[Category:Welsh businesspeople]]
+[[Category:Aviators killed in aviation accidents or incidents in England]]
+[[Category:Rolls-Royce people]]
+[[Category:British automobile designers]]
+[[Category:British founders of automobile manufacturers]]
+[[Category:Younger sons of barons]]
+[[Category:Members of the Early Birds of Aviation]]
+[[Category:English people of Welsh descent]]
+[[Category:Automotive pioneers]]
+[[Category:Burials in Wales]]
+[[Category:Monmouth, Wales]]
+[[Category:British balloonists]]
+[[Category:Aviation accidents and incidents in 1910]]</text>
+      <sha1>sydkvp16unclm00vciw5ci91swf945b</sha1>
+    </revision>
+  </page>
+</mediawiki>

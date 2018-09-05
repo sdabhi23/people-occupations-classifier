@@ -1,0 +1,475 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Catherine Tate</title>
+    <ns>0</ns>
+    <id>1655114</id>
+    <revision>
+      <id>855612556</id>
+      <parentid>855579285</parentid>
+      <timestamp>2018-08-19T15:51:07Z</timestamp>
+      <contributor>
+        <ip>2601:547:1000:45A1:48D6:80D7:60D8:46D</ip>
+      </contributor>
+      <comment>/* Film and television */Added a tv movie</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43476">{{Infobox person
+| name               = Catherine Tate
+| image              = Catherine Tate Jo Glover Charity.jpg
+| image size         = 
+| alt                = Tate smiling and holding a glass
+| caption            = Tate in 2010
+| birth_name         = Catherine Ford
+| birth_date         = {{Birth date and age|df=yes|1968|5|12}}
+| birth_place        = [[Bloomsbury]], London, England, United Kingdom
+| years_active       = 1991–present
+| occupation         = Actress, writer, comedian
+| children           = 1
+| residence          = [[Richmond, London]], England, United Kingdom
+}}
+
+'''Catherine Tate''' (born '''Catherine Ford'''; 12 May 1968&lt;!-- In 2018, Catherine Tate confirmed in her interviews for Good Morning Britain and Breakfast With Em, Grant &amp; Ed that she was born on December 5, 1969. Also The Times mentioned this date in 2010. May 12, 1968 is the wrong date! Day and month were mistakenly reversed. The year is not right too. --&gt;) is an English comedian, actress, and writer. She has won numerous awards for her work on the [[sketch comedy]] series ''[[The Catherine Tate Show]]'' as well as being nominated for an [[International Emmy Award for best actress|International Emmy Award]] and seven [[British Academy Television Awards|BAFTA Awards]]. Following the success of ''The Catherine Tate Show'', Tate played [[Donna Noble]] in the 2006 Christmas special of ''[[Doctor Who]]'' and later reprised her role, becoming the [[Tenth Doctor]]'s regular [[Companion (Doctor Who)|companion]] for the [[Doctor Who (series 4)|fourth series]] in 2008.&lt;ref name="bbc"&gt;"[http://news.bbc.co.uk/1/hi/entertainment/6267680.stm Tate to be Doctor's companion]". [[BBC News]], 3 July 2007. Retrieved 4 July 2007.&lt;/ref&gt; In 2011, she began a recurring role as [[Nellie Bertram]] in [[The Office (U.S. TV series)|the U.S. version of ''The Office'']] and was a regular until the series ended.&lt;ref name= "regular"&gt;{{cite news |last=Ng |first=Philiana |url= http://www.tvguide.com/News/Office-Catherine-Tate-1048407.aspx |title=The Office Promotes Catherine Tate to Series Regular |work=[[TV Guide]] |date=1 June 2012 |accessdate=4 June 2012}}&lt;/ref&gt; She now provides the voice of [[Magica De Spell]] in the 2017 reboot of Disney's ''[[DuckTales (2017 TV series)|DuckTales]]'' animated series.
+
+==Early life==
+Tate was born Catherine Ford on 12 May 1968&lt;ref&gt;{{Cite news|url=https://www.thetimes.co.uk/article/catherine-tate-quite-a-character-hvvj577m3j3|title=Catherine Tate, quite a character|last=Maxwell|first=Dominic|date=2010-11-29|work=The Times|access-date=2018-06-19|language=en|issn=0140-0460}}&lt;/ref&gt;&lt;ref&gt;{{Citation|last=Good Morning Britain|title=Catherine Tate's Nan Character Was Inspired By Someone She Met {{!}} Good Morning Britain|date=2018-04-06|url=https://www.youtube.com/watch?v=EvcoZEJAhFI|access-date=2018-06-19}}&lt;/ref&gt;&lt;ref&gt;{{Citation|last=FM|first=Player|title=Do you have a hobby that is a complete waste of money? Does your partner do food wrong? And Catherine Tate comes in for a chat!!|url=https://player.fm/series/2dayfm-breakfast-with-em-grant-ed/do-you-have-a-hobby-that-is-a-complete-waste-of-money-does-your-partner-do-food-wrong-and-catherine-tate-comes-in-for-a-chat|language=en|access-date=2018-06-19}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.theguardian.com/theguardian/2006/apr/29/weekend7.weekend|title=Q&amp;A|last=Greenstreet|first=Rosanna|date=2006-04-29|website=the Guardian|language=en|access-date=2018-06-19}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.theguardian.com/media/2005/dec/23/bbc.television|title=The Guardian profile: Catherine Tate|last=Gibson|first=Owen|date=2005-12-23|website=the Guardian|language=en|access-date=2018-06-19}}&lt;/ref&gt;&lt;!-- In 2018, Catherine Tate confirmed in her interviews for Good Morning Britain and Breakfast With Em, Grant &amp; Ed that she was born on May 12, 1968.--&gt; in [[Bloomsbury]], where she was raised in the [[Brunswick Centre]]. Her mother, Josephine, was a florist.&lt;ref name="catherinethegreat"&gt;Sawyer, Miranda. "[http://arts.guardian.co.uk/features/story/0,,1922639,00.html Catherine the Great]". ''[[The Guardian]]'', 15 October 2006. Retrieved 4 July 2007.&lt;/ref&gt; Tate has said that the character of [[The Catherine Tate Show characters#Frightened Woman|Margaret]] in ''The Catherine Tate Show'', who shrieks at the slightest of disturbances, is based largely on her mother.&lt;ref name="shystar"&gt;{{cite news|url=https://www.independent.co.uk/news/people/profiles/catherine-tate-the-shy-star-6229478.html|title=Catherine Tate: The shy star|last=Viner|first=Brian|date=23 December 2006|work=[[The Independent]]|access-date=21 August 2017|location=London}}&lt;/ref&gt; Tate never knew her father as he left very early on in her life&lt;ref name="shystar"/&gt; and, consequently, she was brought up in a female-dominated environment, being cared for by her mother, grandmother, and godparents.&lt;ref name="catherinethegreat"/&gt; As a child, Tate suffered from [[Obsessive-compulsive disorder|OCD]] and was obsessed with word association. For example, she was not able to leave a [[sweater|jumper]] on the floor because it might have brought misfortune to her mother, whose name began with the letter "J" like "jumper".&lt;ref name="shystar"/&gt;
+
+Tate attended St Joseph's Roman Catholic Primary School in [[Holborn]], and [[Notre Dame High School (Southwark)|Notre Dame High School]], a [[convent]] secondary school for girls in [[Southwark]].&lt;ref name="shystar"/&gt; By the time she was a teenager, she knew she wanted a professional acting career; following the abolition of the [[sixth form]] at her secondary school, she was sent to a boys' Roman Catholic school, [[Salesian College (London)|Salesian College]] in [[Battersea]], at the age of 16 as it had the necessary facilities for drama.&lt;ref name="catherinethegreat"/&gt; She left school without sitting her [[A levels]].&lt;ref name="lazycontrolfreak"&gt;[http://arts.guardian.co.uk/features/story/0,,1526370,00.html "I'm a lazy control freak"]. ''[[The Guardian]]'', 12 July 2005. Retrieved 19 July 2007.&lt;/ref&gt; She then tried for four years to get a place in the [[Central School of Speech and Drama]], succeeding on her fourth attempt.&lt;ref name="lazycontrolfreak"/&gt; She studied there for three years.&lt;ref name="catherinethegreat"/&gt;&lt;ref name="lazycontrolfreak"/&gt; Prior to getting a place there, Tate went to the [[Sylvia Young Theatre School]], but left after a week, later stating, "Even at that age, I realised I wasn't [[Bonnie Langford]]. It was very competitive."&lt;ref name="multiple"&gt;[http://news.independent.co.uk/people/profiles/article65541.ece "Catherine Tate: Multiple personality"]{{dead link|date=March 2017 |bot=InternetArchiveBot |fix-attempted=yes }}. ''[[The Independent]]'', 23 March 2004. Retrieved 3 January 2008.&lt;/ref&gt; She was also a member of the [[National Youth Theatre]].&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/theatre/actors/fame-academy-where-daniel-craig-helen-mirren-and-colin-firth-lea/|title=Fame Academy: Where Daniel Craig, Helen Mirren and Colin Firth learned to act|last=Bouquet|first=Tim|date=2016-09-02|work=The Telegraph|access-date=2018-02-13|language=en-GB|issn=0307-1235}}&lt;/ref&gt;
+
+==Career==
+[[File:Catherine Tate crop.jpg|thumb|Tate in 2006]]
+
+===Beginnings===
+Tate began her television acting career with roles in serial dramas such as ''[[The Bill]]''&lt;ref name="lazycontrolfreak"/&gt; and [[London's Burning (TV series)|''London's Burning'']].&lt;ref name="catherinethegreat"/&gt; Tate started stand-up comedy in 1996,&lt;ref name="guardianprofile"&gt;Gibson, Owen. "[http://arts.guardian.co.uk/features/story/0,,1673257,00.html The Guardian profile: Catherine Tate]". ''[[The Guardian]]'', 23 December 2005. Retrieved 18 July 2007.&lt;/ref&gt; and has appeared in comedy series such as ''[[The Harry Hill Show]]'', ''[[Barking (TV series)|Barking]]'', and ''[[That Peter Kay Thing]]''.&lt;ref name="bbcprofile"/&gt; She played the part of Kate in the unaired pilot episode of sitcom ''[[Not Going Out]]''.&lt;ref&gt;{{cite web
+|url=http://www.comedy.org.uk/guide/tv/not_going_out/interview/lee_mack/
+|title=Lee Mack Interview – Not Going Out – British Comedy Guide |publisher=comedy.org.uk
+|accessdate=12 May 2009}}&lt;/ref&gt; In 1998, she wrote and starred in ''[[Barking (TV series)|Barking]]'', a late night sketch show broadcast on Channel 4 and featuring a host of, back then, unknown stars such as [[David Walliams]], [[Peter Kay]] and [[Mackenzie Crook]].
+
+Soon after, she became involved with [[Lee Mack]]'s [[Perrier Comedy Award]]-nominated ''New Bits'' show at the [[Edinburgh Film Festival]] in 2000.&lt;ref name="bbcprofile"/&gt; In 2001, she returned to the festival with her own sell-out one-woman show,&lt;ref name="guardianprofile"/&gt; which was followed by roles in ''[[Big Train]]'',&lt;ref name="multiple"/&gt; ''[[Attention Scum]]'' and ''[[TVGoHome]]''.&lt;ref name="bbcprofile"/&gt; After being spotted at Edinburgh, she was given the role of Angela in the comedy, ''[[Wild West (TV series)|Wild West]]'', with [[Dawn French]],&lt;ref name="bbcprofile"&gt;"[http://www.bbc.co.uk/comedy/profiles/catherine_tate.shtml Catherine Tate profile]". [[bbc.co.uk]]. Retrieved 26 May 2007.&lt;/ref&gt; who commented "Catherine Tate is far too talented and she must be destroyed."&lt;ref name="multiple"/&gt;
+
+Tate has also performed with the [[Royal Shakespeare Company]],&lt;ref name="multiple"/&gt; and at the [[Royal National Theatre|National Theatre]].&lt;ref name="lazycontrolfreak"/&gt; She acted the role of Smeraldina in a 2000 RSC production of ''[[A Servant to Two Masters]]'', and another role in ''[[The Way of the World]]'' at the National Theatre.&lt;ref&gt;Calvi, Nuala. "[http://www.thestage.co.uk/news/newsstory.php/16864/tate-to-talk-about-her-relationship-with Tate to talk about her relationship with Shakespeare]". ''[[The Stage]]'', 16 May 2007. Retrieved 9 April 2008.&lt;/ref&gt;
+
+===2004–09===
+Tate was approached at a post-show party at the [[Edinburgh Festival]] by then-BBC controller of comedy [[Geoffrey Perkins]], who encouraged Tate to develop her character ideas, especially to push the boundaries with teenager [[Lauren Cooper]]. Undertaking Perkins' advice, after a live show Tate found the audience walking out of the show repeating the character's [[catchphrase]] ''Am I bovvered?''&lt;ref&gt;{{cite episode |title= Geoffrey Perkins|series= Comedy Connections|station= [[BBC 2]]|airdate= 8 November 2008}}&lt;/ref&gt;
+
+Produced by Perkins at [[Tiger Aspect]], Tate was given her own programme on [[BBC Two]] in 2004, which she co-wrote and starred in with [[Derren Litten]], entitled ''The Catherine Tate Show'', which ran for three series.&lt;ref name="bbcprofile"/&gt; Two of the show's well-known characters are teenager [[Lauren Cooper]] and [[Joannie Taylor|Joannie "Nan" Taylor]], the [[cockney]] grandmother.&lt;ref name="multiple"/&gt; Tate's inspiration for the cockney grandmother came from visits to old people's homes when she was at drama college.&lt;ref name="multiple"/&gt; Tate won a [[British Comedy Award]] for Best Comedy Newcomer for her work on the first series of ''The Catherine Tate Show'',&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/4117077.stm Triple triumph for Little Britain]". [[BBC News]], 22 December 2004. Retrieved 7 April 2008.&lt;/ref&gt; and with the first series becoming a success, in March 2005, Tate made a guest appearance during the [[BBC]]'s [[Comic Relief (charity)|Comic Relief]] as the character of Lauren from ''The Catherine Tate Show'', alongside boy-band [[McFly (band)|McFly]], which gained her further exposure.&lt;ref name="guardianprofile"/&gt;
+
+In November 2005, Tate appeared in another charity sketch as part of the BBC's annual ''[[Children in Need]]'' telethon. The segment was a crossover between ''[[EastEnders]]'' and ''The Catherine Tate Show'', featuring ''Eastenders'' characters [[Peggy Mitchell]], [[Little Mo Mitchell]] and [[Stacey Slater]], whilst Tate appeared as Lauren.&lt;ref&gt;"[http://news.bbc.co.uk/nolavconsole/ukfs_news/hi/newsid_4450000/newsid_4452400/bb_rm_4452426.stm Catherine Tate appears in Walford]". [[BBC News]]. Retrieved 18 February 2007.&lt;/ref&gt; Also at that time, she was a guest star at the 77th ''[[Royal Variety Performance]]'' and appeared again in the guise of Lauren Cooper. During the sketch, Tate looked up at the Royal Box and asked [[Elizabeth II of the United Kingdom|The Queen]], "Is one bovvered? Is one's face bovvered?".&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/wales/4454382.stm Tate asks if Queen is 'bovvered']". [[BBC News]], 22 November 2005. Retrieved 28 December 2006.&lt;/ref&gt; During the sketch, co-star [[Niky Wardley]] (in character as Liese) remarked: "That [[Prince Philip, Duke of Edinburgh|old man]] sitting next to her has fallen asleep." Prince Philip then reportedly complained to the show's executive producer, saying he had been insulted.&lt;ref name="shystar"/&gt; Tate later won a [[British Comedy Award]] for Best British Comedy Actress for her work in the second series of ''The Catherine Tate Show''.&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/entertainment/6177591.stm Merchant takes top comedy honour]". [[BBC News]], 14 December 2006. Retrieved 7 April 2008.&lt;/ref&gt; At the end of 2005, she appeared in the [[BBC]] television adaptation of ''[[Bleak House (2005 TV serial)|Bleak House]]''.&lt;ref&gt;"[http://www.bbc.co.uk/pressoffice/pressreleases/stories/2005/10_october/04/bleak.shtml Bleak House – on BBC ONE from Thursday 27 October 2005 at 8.00pm]". [[BBC]], 4 October 2005. Retrieved 8 April 2008.&lt;/ref&gt;
+
+Tate returned to the stage for the first time since working with the [[Royal Shakespeare Company|RSC]],&lt;ref name="revolution"&gt;Thorpe, Vanessa. "[https://www.theguardian.com/uk/2006/sep/24/film.filmnews Proletarian utopia? Am I bovvered?]". ''[[The Guardian]]'', 24 September 2006. Retrieved 7 April 2008.&lt;/ref&gt; to play a role in the 2005 West End revival of ''[[Some Girl(s)]]'', alongside Sara Powell, [[Lesley Manville]], [[Saffron Burrows]] and ''[[Friends]]'' star [[David Schwimmer]].&lt;ref&gt;"[http://news.bbc.co.uk/2/hi/entertainment/4574473.stm ''Friends'' star makes West End debut]". [[BBC News]], 24 May 2005. Retrieved 4 July 2007.&lt;/ref&gt; In an interview, Tate commented that she could not look Schwimmer in the eye during her time with him, leading to speculation that the pair did not get on.&lt;ref name="lazycontrolfreak"/&gt; Tate immediately denied the rumours, explaining that she was joking about her attempts to act "cool" around Schwimmer, whom she described as "a very funny, personable man, and easy to get along with".&lt;ref&gt;Kilkelly, Daniel. "[http://www.digitalspy.co.uk/showbiz/a22111/catherine-tate-denies-schwimmer-feud.html Catherine Tate denies Schwimmer feud]". [[Digital Spy]], 25 June 2005. Retrieved 15 August 2007.&lt;/ref&gt;
+
+The third series of ''The Catherine Tate Show'' aired in 2006, going on to win the [[National Television Awards|National Television Award]] for most popular comedy as voted for by the public,&lt;ref&gt;"[https://www.theguardian.com/media/2007/nov/01/television National Television Awards 2007]". ''[[The Guardian]]''. Retrieved 1 November 2007.&lt;/ref&gt; and Tate's catchphrase "bovvered", used by her character Lauren Cooper, became so influential in popular culture that it was named [[Word of the Year]] and was even poised to enter the ''[[Oxford English Dictionary]]''.&lt;ref&gt;Phillips, Sarah. "[http://blogs.guardian.co.uk/news/archives/2006/10/12/bovvered_wins_word_of_the_year_award.html 'Bovvered' wins Word of the Year award]". ''[[The Guardian]]'', 12 October 2006. Retrieved 1 October 2007.&lt;/ref&gt; Tate also played the role of [[Donna Noble]] in ''[[Doctor Who]]'', a woman in a wedding dress who suddenly appears in the [[TARDIS]] at the end of the episode "[[Doomsday (Doctor Who)|Doomsday]]".&lt;ref name="christmasspecial"&gt;[http://www.bbc.co.uk/pressoffice/pressreleases/stories/2006/07_july/09/who.shtml Catherine Tate to star in Doctor Who Christmas Special]. [[BBC]], 9 July 2006. Retrieved 7 April 2008.&lt;/ref&gt; The following episode, the Christmas special entitled "[[The Runaway Bride (Doctor Who)|The Runaway Bride]]", saw Tate's character in a major role, where she was temporarily the Doctor's companion.&lt;ref name="christmasspecial"/&gt; On her appearance in the series, Tate commented "I'm honoured and delighted to be joining [[David Tennant]] aboard the TARDIS. I was holding out for a summer season at [[Wigan]] [[repertory theatre|rep]] but as a summer job, this'll do."&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/entertainment/5161894.stm Tate to guest star in ''Doctor Who'']". [[BBC News]], 9 July 2006. Retrieved 14 June 2006.&lt;/ref&gt;
+
+Tate had roles in three films in 2006, these included, ''[[Starter for 10 (film)|Starter for 10]]'', ''[[Sixty Six (film)|Sixty Six]]'',&lt;ref name="revolution"/&gt; and ''[[Scenes of a Sexual Nature]]''.&lt;ref name="shystar"/&gt; She later appeared in the films ''[[Mrs Ratcliffe's Revolution]]'', in which she played the title character,&lt;ref name="revolution"/&gt; and ''[[Love and Other Disasters]]''.&lt;ref&gt;"[http://film.guardian.co.uk/Film_Page/0,,-123470,00.html Love And Other Disasters]". ''[[The Guardian]]''. Retrieved 7 April 2008.&lt;/ref&gt;
+
+In the 2007 television adaptation of the novel, ''[[The Bad Mother's Handbook]]'', she played the lead role and co-starred with [[Anne Reid]].&lt;ref&gt;Oatts, Joanne."[http://www.digitalspy.co.uk/broadcasting/a42922/bad-mother-tate-pulls-in-57-million.html 'Bad Mother' Tate pulls in 5.7 million]". [[Digital Spy]], 20 February 2007. Retrieved 3 January 2008.&lt;/ref&gt;
+
+On 16 March 2007, Tate appeared for a second time on Comic Relief as some of her well-known characters from ''The Catherine Tate Show''. She acted in sketches with [[David Tennant]], [[Daniel Craig]], [[Lenny Henry]] and the then Prime Minister [[Tony Blair]], who used the show's famous catchphrase, "Am I bovvered?"&lt;ref&gt;"[https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/03/22/ntate121.xml Catherine Tate hails Blair's comic skills]". ''[[The Daily Telegraph]]'', 23 March 2007. Retrieved 4 June 2007.&lt;/ref&gt; Tate also appeared as [[Joannie "Nan" Taylor]] in an episode of ''[[Deal or No Deal (UK game show)|Deal or No Deal]]'', hosted by [[Noel Edmonds]].&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/entertainment/6470511.stm Catherine Tate DVD 'sets record']". [[BBC News]], 20 March 2007. Retrieved 4 June 2007.&lt;/ref&gt;
+
+Tate became a Patron of the performing arts group [[Theatretrain]].&lt;ref&gt;{{cite web|url=http://www.theatretrain.co.uk/patrons/ |title=Theatretrain Patrons - Theatretrain |work=theatretrain.co.uk |accessdate=2 August 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150721234941/http://www.theatretrain.co.uk/patrons/ |archivedate=21 July 2015 |df=dmy-all }}&lt;/ref&gt;
+
+Despite speculation that the third series of ''The Catherine Tate Show'' would be the last, Tate and the BBC have not ruled out further episodes.&lt;ref name="revolution"/&gt; She later filmed a one-off special episode which aired on Christmas Day 2007.&lt;ref&gt;"[http://www.mailonsunday.co.uk/pages/live/articles/showbiz/showbiznews.html?in_article_id=466688&amp;in_page_id=1773 Catherine Tate takes foul-mouthed Nan back in time]". ''[[Mail on Sunday]]'', 6 July 2007. Retrieved 8 July 2007.&lt;/ref&gt; The episode was subject to criticism when 42 viewers complained about the amount of [[Profanity|swearing]], and accused Tate of bigotry over the depiction of a family from [[Northern Ireland]] as terrorists, whose Christmas presents included a [[Balaclava (clothing)|balaclava]] and a pair of [[Brass knuckles|knuckle dusters]], in reference to [[the Troubles]].&lt;ref&gt;Martin, Nicole."[https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/12/28/nbbc128.xml Ofcom to investigate Catherine Tate 'bigotry']". ''[[The Daily Telegraph]]'', 29 December 2007. Retrieved 4 January 2008.&lt;/ref&gt; After the complaints were made, an [[Ofcom]] report later concluded that the show was not offensive and did not violate broadcasting regulations.&lt;ref&gt;O'Shea, Katherine. "[https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/14/bvtate114.xml BBC cleared over 'offensive' Catherine Tate]". ''[[The Daily Telegraph]]'', 14 April 2008. Retrieved 8 May 2008.&lt;/ref&gt;&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/entertainment/7346479.stm Tate festive show 'not offensive']". [[BBC News]], 14 April 2008. Retrieved 8 May 2008.&lt;/ref&gt; An extract from the Ofcom report read "Overall this episode was typical of the Catherine Tate Show and would not have gone beyond the expectations of its usual audience. For those not familiar with the show, the information given at the start was adequate."&lt;ref&gt;Plunkett, John. "[https://www.theguardian.com/media/2008/apr/14/ofcom.television?gusrc=rss&amp;feed=media Ofcom not bovvered by Tate swearing]". ''[[The Guardian]]'', 14 April 2008. Retrieved 8 May 2008.&lt;/ref&gt;
+
+She has also been nominated for four [[BAFTA Television Award|BAFTA Award]]s for her work on ''The Catherine Tate Show'' to date, including Best Comedy Performance.&lt;ref&gt;"[http://news.bbc.co.uk/1/hi/entertainment/6091152.stm High ratings for Catherine Tate]". [[BBC News]], 27 October 2006. Retrieved 26 May 2007.&lt;/ref&gt;
+
+Tate returned to ''Doctor Who'' in 2008 to reprise the role of [[Donna Noble]] as the Doctor's companion throughout the [[Doctor Who (series 4)|fourth series]], which was shown on [[BBC One]] starting on 5 April for a 13-week run.&lt;ref&gt;"[http://www.bbc.co.uk/doctorwho/news/cult/news/drwho/2007/07/03/46831.shtml Donna says "I do!"]". [[BBC News]], 3 July 2007. Retrieved 4 July 2007.&lt;/ref&gt; Producer [[Russell T Davies]] said, "We are delighted that one of Britain's greatest talents has agreed to join us for the fourth series." Tate added, "I am delighted to be returning to ''Doctor Who''. I had a blast last Christmas and look forward to travelling again through time and space with that nice man from [[Gallifrey]]."&lt;ref name="bbc" /&gt; At the [[TV Quick Awards]] 2008, Tate was voted best actress for her role in ''Doctor Who''.&lt;ref&gt;"[http://thescotsman.scotsman.com/entertainment/Dr-Who-is-voted-No1.4470749.jp Dr Who is voted No1 … again]". ''[[The Scotsman]]'', 9 September 2008. Retrieved 9 September 2008.&lt;/ref&gt; She returned as Donna Noble in the two-part ''Doctor Who'' Christmas special ''[[The End of Time (Doctor Who)|The End of Time]]'' which was broadcast over Christmas 2009.&lt;ref name="jr"&gt;{{cite episode |title=Jonathan Ross |url=http://www.bbc.co.uk/programmes/b00jrvbs |series= Jonathan Ross |credits=[[David Tennant]], Catherine Tate (guest hosts) |network=[[BBC Radio 2]] |location=London |airdate=11 April 2009}}&lt;/ref&gt;&lt;ref name="westernmailapr14"&gt;{{cite news|first=Sarah |last=Miloudi |title=Catherine Tate spotted filming Doctor Who in Swansea sun |url=http://www.walesonline.co.uk/showbiz-and-lifestyle/2009/04/14/catherine-tate-spotted-filming-doctor-who-in-swansea-sun-91466-23378630/ |work=[[Western Mail (Wales)|Western Mail]] |date=14 April 2009 |accessdate=16 April 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090415164849/http://www.walesonline.co.uk/showbiz-and-lifestyle/2009/04/14/catherine-tate-spotted-filming-doctor-who-in-swansea-sun-91466-23378630/ |archivedate=15 April 2009 |df=dmy-all }}&lt;/ref&gt;
+ 
+In 2008 Tate starred as Michelle, a [[promiscuous]] mathematics teacher, in [[David Eldridge (dramatist)|David Eldridge]]'s ''Under The Blue Sky'' at the [[Duke of York's Theatre]], London, alongside [[Francesca Annis]] and [[Nigel Lindsay]]. Tate injured her ankle in rehearsal on 15 July. She performed preview shows with the aid of a crutch.
+On 11 April 2009, 26 December 2009 and 30 January 2010, Tate and David Tennant guest hosted [[Jonathan Ross]]' [[BBC Radio 2]] show.
+In 2009 she created a one off special spin off to ''The Catherine Tate Show''. Although this time the show only starred 'Nan'. In the show, Nan played Scrooge, and was visited by 3 ghosts, one of whom was played by David Tennant. The show was a one off Christmas special however was followed by three other episodes in 2014 and 2015 which are known collectively as ''[[Catherine Tate's Nan]]''.
+
+===2010–present===
+In 2010, Tate took part in ''[[Channel 4's Comedy Gala]]'', a [[Benefit concert|benefit show]] held in aid of [[Great Ormond Street Hospital|Great Ormond Street Children's Hospital]], filmed live at the [[The O2 Arena (London)|O2 Arena]] in London on 30 March.
+
+Tate took part in a series of short comedy films called 'Little Crackers'.&lt;ref&gt;{{Citation|url= http://sky1.sky.com/Little-Crackers-Interview-with-Catherine-Tate| title =Little Crackers December 2010 | publisher=[[Sky One]]| date = 12 August 2010 }}&lt;/ref&gt;
+Tate appeared as Queen Isabelle of Lilliput in the [[Gulliver's Travels (2010 film)|2010 film adaptation]] of ''[[Gulliver's Travels]]''.
+On 18 March 2011, the video for [[Take That]]'s new single "[[Happy Now (Take That song)|Happy Now]]" was debuted on [[Red Nose Day 2011|Comic Relief]]. The video shows comedians Catherine Tate, [[Alan Carr]], [[James Corden]], [[John Bishop (comedian)|John Bishop]] and [[David Walliams]] audition to become Take That's ultimate tribute band, Fake That. Filming took place at [[Ealing Studios]] on 17 February 2011.&lt;ref&gt;[http://www.rednoseday.com/whats-on/news/take-that-meet-fake-that Take That Meet Fake That] {{webarchive |url=https://web.archive.org/web/20110322032042/http://www.rednoseday.com/whats-on/news/take-that-meet-fake-that |date=22 March 2011 }} Red Nose Day, 18 February 2011&lt;/ref&gt;'
+
+Tate appeared alongside former co-star [[David Tennant]] in the Shakespeare comedy ''[[Much Ado About Nothing]]'' at London's [[Wyndham's Theatre]] from 16 May to September 2011.&lt;ref&gt;{{cite news |title=David Tennant and Catherine Tate reunite in West End |url=https://www.bbc.co.uk/news/entertainment-arts-12142161 |work=BBC News |date=8 January 2011 |accessdate=8 January 2011}}&lt;/ref&gt; For her performance – as Beatrice – Catherine won the BroadwayWorld UK Award for Best Leading Actress in a Play.&lt;ref&gt;[http://broadwayworld.com/article/2011-BWW-UK-Award-Winners-Announced-ROCK-OF-AGES-GHOST-WIZARD-and-PHANTOM-All-Win-20111205 2011 BWW UK Award Winners Announced! ROCK OF AGES, GHOST, WIZARD and PHANTOM All Win!]. Broadwayworld.com (5 December 2011). Retrieved 14 May 2012.&lt;/ref&gt;
+In the seventh-season finale of ''[[The Office (U.S. TV series)|The Office]]'', which aired on 19 May 2011, Tate guest starred as [[Nellie Bertram]], a potential replacement for the departing [[Michael Scott (The Office)|Michael Scott]] (played by [[Steve Carell]]).&lt;ref&gt;{{cite web |url= http://www.hollywoodreporter.com/live-feed/trio-tapped-office-season-finale-174993 |title=Trio Tapped for 'The Office' Season Finale  |first=Philiana |last=Ng |work=The Hollywood Reporter |date=5 April 2011|accessdate=12 April 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Catherine Tate in ''The Office''|last=Kaling|first=Mindy|url=https://twitter.com/mindykaling/status/57864594663809024|accessdate=12 April 2011}}&lt;/ref&gt; 
+On Saturday 17 December 2011, Tate presented the second episode of [[Channel 4]]'s ''Laughing at the...'' series – entitled "Catherine Tate: Laughing at the Noughties" – in which she met [[Alan Carr]], [[David Walliams]], [[Noel Fielding]], [[Rob Brydon]] and (her ''[[Doctor Who]]'' co-star) David Tennant to discuss the comedy highlights of the 2000s.&lt;ref&gt;[http://www.channel4.com/programmes/laughing-at-the/episode-guide/series-1/episode-1 Laughing at the... – Series 1 – Episode 2 – Catherine Tate: Laughing at the Noughties]. Channel 4 (17 December 2011). Retrieved 14 May 2012.&lt;/ref&gt;
+
+In January 2012, Tate returned to ''[[The Office (U.S. TV series)|The Office]]'' for its [[The Office (U.S. season 8)|eighth season]]. She reprised her role as Nellie, who was hired as a "misguided special projects manager".  She returned as Nellie for the [[The Office (U.S. season 9)|ninth and final season]].&lt;ref name= "return"&gt;{{cite news |last=Ng |first=Philiana |url= http://www.hollywoodreporter.com/live-feed/the-office-catherine-tate-332241 |title=Catherine Tate Set to Return to 'The Office' as Series Regular |work=[[The Hollywood Reporter]] |date=1 June 2012 |accessdate=4 June 2012}}&lt;/ref&gt;
+
+She starred alongside [[David Walliams]] and [[Philip Glenister]] in [[BBC One]]'s situation comedy ''[[Big School (TV series)|Big School]]'' in 2013.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/mediacentre/mediapacks/bigschool/catherine-tate.html|title=BBC - Big School - interview with Catherine Tate - Media Centre|work=bbc.co.uk|accessdate=2 August 2015}}&lt;/ref&gt; In November 2014 she was a guest on [[BBC One]]'s ''[[The Graham Norton Show]]'' in which she revealed that her first stage appearance had been performing an impression of [[Gary Glitter]] in her school nativity play.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/programmes/b04nyw7t|title=BBC One - The Graham Norton Show, Series 16, Episode 7|work=BBC|accessdate=2 August 2015}}&lt;/ref&gt;
+
+For Comic Relief 2015, Tate appeared as a [[nun]] in a sketch alongside with [[David Walliams]] as [[Lou Todd]] and [[Stephen Hawking]] in the [[Andy Pipkin]] role.&lt;ref&gt;{{Cite web | first=Danny | last=Walker  | title=Comic Relief 2015: Watch Stephen Hawking TRANSFORM into super-sized robot and blast Catherine Tate's nun |work=Mirror | date=13 March 2015  | url=https://www.mirror.co.uk/tv/tv-news/comic-relief-2015-watch-stephen-5330750 | accessdate=31 March 2015}}&lt;/ref&gt; Three further episodes of ''[[Catherine Tate's Nan]]'' aired in January 2014 and December 2015 on [[BBC One]] after ''Nan's Christmas Carol'' which aired on Christmas Day 2009.
+
+In January 2016, Tate played the role of Sapphire in the one-off comedy show ''[[Billionaire Boy]]'', written by [[David Walliams]].&lt;ref&gt;{{Cite web|url=https://www.theguardian.com/tv-and-radio/2016/jan/03/gareth-malone-choir-reunion-david-walliams-billionaire-boy-charlie-brooker-2015-wipe-review|title=The week in TV: Gareth Malone’s Great Choir Reunion; Billionaire Boy; Charlie Brooker’s 2015 Wipe; The Man in the High Castle|last=Day|first=Elizabeth|date=2016-01-03|website=the Guardian|language=en|access-date=2018-02-13}}&lt;/ref&gt; She appeared in ''Bruce's Hall of Fame with Alexander Armstrong'' the following day.
+
+In 2016, Tate appeared in the new musical comedy ''Miss Atomic Bomb'' at the [[St. James Theatre, London|St. James Theatre]].&lt;ref&gt;{{cite web|url=https://www.independent.co.uk/arts-entertainment/theatre-dance/reviews/miss-atomic-bomb-st-james-theatre-review-catherine-tate-is-absurdly-over-the-top-a6932051.html|title=Miss Atomic Bomb: Catherine Tate is absurdly over the top|website=Independent.co.uk|accessdate=18 July 2018}}&lt;/ref&gt; The show ran from 7 March to 9 April.&lt;ref&gt;[https://www.stjamestheatre.co.uk/theatre/miss-atomic-bomb/]{{dead link|date=July 2018 }}&lt;/ref&gt; It received poor reviews, including a one star review from [[The Stage]].&lt;ref&gt;{{cite web|url=https://www.bbc.com/news/entertainment-arts-35810676|title=Catherine Tate musical 'bombs'|date=15 March 2016|accessdate=18 July 2018|website=Bbc.co.uk}}&lt;/ref&gt;
+
+In late 2016, Tate began touring British theatres in ''The Catherine Tate Show Live'', guest-starring [[Mathew Horne]], [[Niky Wardley]] and [[Brett Goldstein]]. Tate's characters Nan, Nurse Bernie, Geordie Georgie, Sam and Paul and Lauren all featured in the show, linked by videos starring [[Nick Grimshaw]] and other celebrities interacting with the characters.&lt;ref&gt;{{cite web|url=http://www.digitalspy.com/showbiz/comedy/news/a792212/catherine-tate-is-touring-the-uk-later-this-year/|title=Catherine Tate is touring the UK later this year|date=27 April 2016|website=Digitalspy.com|accessdate=18 July 2018}}&lt;/ref&gt;
+
+In late 2017, Tate was revealed to be part of the cast of Disney's ''[[DuckTales (2017 TV series)|DuckTales]]'' reboot, providing the voice of the villainous sorceress [[Magica De Spell]] following the death of the character's longtime voice actor, [[June Foray]], in July of the same year. Coincidentally, her ''Doctor Who'' co-star, David Tennant, provides the voice of the show's protagonist, [[Scrooge McDuck]].
+
+==Personal life==
+Tate's former partner is stage manager Twig Clark. They have a daughter named Erin,&lt;ref&gt;{{cite web|url=http://www.dailymail.co.uk/femail/article-2210301/Did-divine-intervention-make-Adrian-Chiles-comedienne-Catherine-Tate-item.html|title=Did divine intervention make Adrian Chiles and comedienne Catherine Tate an item? - Daily Mail Online|work=Mail Online|accessdate=2 August 2015}}&lt;/ref&gt; who was born at London's [[Chelsea and Westminster Hospital]] in January 2003 and was delivered following an emergency [[caesarean section|C-section]].&lt;ref name="shystar"/&gt;
+
+Tate is the patron for the [[The Laura Crane Youth Cancer Trust|Laura Crane Youth Cancer Trust]], supporting the charity since August 2006. In 2011 she took part in the charity's 2011 Charity Calendar.&lt;ref&gt;{{cite web|url=http://www.lauracranetrust.org|title=Youth Cancer - Laura Crane Youth Cancer Trust|website=Lauracranetrust.org|accessdate=18 July 2018}}&lt;/ref&gt; Tate also speaks fluent French.&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/arts-entertainment/tv/features/remains-of-the-school-day-david-walliams-and-catherine-tate-in-big-school-8757986.html|title=Remains of the school day: David Walliams and Catherine Tate in Big|author=James Rampton|date=12 August 2013|work=The Independent}}&lt;/ref&gt;
+
+Tate suffered from [[postpartum depression|post-natal depression]],&lt;ref name="catherinethegreat"/&gt; from which she only recovered after the filming of the second series of ''[[The Catherine Tate Show]]''.&lt;ref name="shystar"/&gt; She also suffers from occasional [[panic attack]]s.&lt;ref name="shystar"/&gt; Regarding her personal outlook, Tate has said, "I'm an incredibly negative person, so any form of success is only ever going to be a relief to me and set my default position back to neutral."&lt;ref name="catherinethegreat"/&gt;
+
+==Awards and nominations==
+All for her work on ''The Catherine Tate Show'' unless otherwise stated:
+
+===Awards===
+*2004: [[British Comedy Award]]&amp;nbsp;– Best Comedy Newcomer
+*2006: [[Royal Television Society|RTS Television Award]]&amp;nbsp;– Best Comedy Performance
+*2006: British Comedy Award&amp;nbsp;– Best TV Comedy Actress
+*2007: [[National Television Awards]]&amp;nbsp;– Most Popular Comedy Programme
+*2008: [[TV Quick Awards|TV Quick Award]]&amp;nbsp;– Best Actress in a Drama Series (for ''Doctor Who'')&lt;ref name="tvquick"&gt;"[http://www.nowmagazine.co.uk/celebrity-news/tv-news/273131/doctor-who-is-big-winner-at-tv-quick-awards/1/ Doctor Who big winner at TV awards]". [[The Press Association]], 8 September 2008. Retrieved 9 September 2008.&lt;/ref&gt;
+*2009: [[Constellation Awards]]&amp;nbsp;–Best Female Performance in a Science Fiction Television Episode
+
+===Nominations===
+*2004: British Comedy Award&amp;nbsp;– Best TV Comedy Actress
+*2005: British Comedy Award&amp;nbsp;– Best TV Comedy Actress
+*2005: British Comedy Award&amp;nbsp;– People's Choice Award (polled most votes but award not received)&lt;ref name="deception"&gt;"[http://news.bbc.co.uk/1/hi/entertainment/7390193.stm ITV admits comedy award deception]". [[BBC News]], 8 May 2008. Retrieved 8 May 2008.&lt;/ref&gt;&lt;ref name="rigged"&gt;"[http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=564778&amp;in_page_id=1770 ITV rigged comedy award phone vote because Robbie Williams wanted Ant and Dec to win]". ''[[The Daily Mail]]'', 8 May 2008. Retrieved 8 May 2008.&lt;/ref&gt;
+*2005: [[International Emmy]]&amp;nbsp;– [[International Emmy Award for best actress|Best Performance by an Actress]]&lt;ref name="emmy"&gt;Salem, Rob. "[https://www.thestar.com/comment/columnists/article/295077 British sketch comedy's Catherine the great]". ''[[Toronto Star]]'', 19 January 2008. Retrieved 9 April 2008.&lt;/ref&gt;
+*2005: [[BAFTA TV Award]]&amp;nbsp;– Best New Writer
+*2005: BAFTA TV Award&amp;nbsp;– Comedy Programme or Series Award
+*2006: BAFTA TV Award&amp;nbsp;– Best Comedy Performance
+*2007: BAFTA TV Award&amp;nbsp;– Best Comedy Programme
+*2008: Nickelodeon's UK Kids Choice Awards 2008&amp;nbsp;– Funniest Person
+*2008: Nickelodeon's UK Kids Choice Awards 2008&amp;nbsp;– Best TV Actress (for ''Doctor Who'')
+*2008: National Television Award&amp;nbsp;– Outstanding Drama Performance (for ''Doctor Who'')
+*2011: BAFTA TV Award&amp;nbsp;– Catherine Tate's Little Cracker
+
+==Filmography==
+
+===Film and television===
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1994
+| ''[[Men Behaving Badly]]''
+| Potential buyer
+| Guest role
+|-
+| 1998–2002 
+| ''[[Big Train]]'' 
+| Various Characters
+|rowspan="2"|Main role
+|-
+| 2002–2004 
+| ''[[Wild West (TV series)|Wild West]]'' 
+| Angela Phillips 
+|-
+| 2004–2007
+| ''[[The Catherine Tate Show]]'' 
+| Various Characters
+|Lead role
+|-
+| 2005
+| ''[[Bleak House]]'' 
+| Mrs. Chadband
+| Guest role
+|-
+|rowspan="4"|2006
+| ''[[Starter for 10 (film)|Starter for 10]]'' 
+| Julie Jackson 
+|rowspan="4"|Film
+|-
+| ''[[Sixty Six (film)|Sixty Six]]'' 
+| Aunt Lila
+|-
+| ''[[Love and Other Disasters]]'' 
+| Tallulah Riggs-Wentworth
+|-
+| '' [[Agatha Christie's Marple]]''
+| Mitzi
+|-
+| 2006–2010 
+| ''[[Doctor Who]]''
+| [[Donna Noble]]
+| [[The Runaway Bride (Doctor Who)|2006 Christmas Special]], [[Doctor Who (series 4)|Series 4]], [[Doctor Who (2009 specials)|2009 specials]]
+|- series 9/10 cameo flashbacks 
+|2007
+|''[[Mrs Ratcliffe's Revolution]]''
+|Dorothy Ratcliffe
+|Main role
+|-
+Bad mother’s handbook in 2007
+|2009
+| ''[[Nan's Christmas Carol]]''
+| [[Joannie Taylor]]
+| TV film (lead role)
+|-
+| rowspan="2"|2010
+| ''[[Little Crackers]]''
+| Josephine
+| Short film (Tate's first directing role)
+|-
+| ''[[Gulliver's Travels (2010 film)|Gulliver's Travels]]''
+| Queen of Lilliput&lt;ref&gt;{{cite news| url=http://www.thesun.co.uk/sol/homepage/showbiz/tv/article2327754.ece | location=London | work=The Sun | first=Cara | last=Lee | title=Tates Hollywood role | date=19 March 2009}}&lt;/ref&gt;
+|rowspan="2"|Film
+|-
+| rowspan="2"|2011
+| ''[[Monte Carlo (2011 film)|Monte Carlo]]''
+| Alicia
+|-
+| ''[[A Quiet Word With&amp;nbsp;...]]''
+| Herself
+| Guest role (Season 2, Episode 3)&lt;ref name="aqww-ct"&gt;{{cite web|title=A Quiet Word With Catherine Tate|url=http://www.abc.net.au/tv/guide/abc1/201105/programs/AC1063V002D2011-05-14T213000.htm?program=A%20Quiet%20Word%20With%20Catherine%20Tate|work=Official website|publisher=Australian Broadcasting Corporation|accessdate=1 August 2011}}&lt;/ref&gt; 
+|-
+| 2011–2013
+|''[[The Office (U.S. TV series)|The Office]]''
+| [[Nellie Bertram]]
+| Guest (season 7)&lt;br&gt;Starring (season 8–9): 34 episodes
+|-
+| 2011
+| ''Laughing at the...''
+| Herself
+| ''Catherine Tate: Laughing at the Noughties'' Guest Presenter (Season 1, Episode 2)&lt;ref name="lat-ct"&gt;{{cite web|title=Laughing at the... |url=http://www.channel4.com/programmes/laughing-at-the/episode-guide/series-1/episode-1|work=Official website|publisher=[[Channel Four Television Corporation]]|accessdate=13 December 2011}}&lt;/ref&gt; 
+|-
+| 2013
+|''[[Khumba]]''
+| Nora the Sheep
+| Voice
+|-
+|2013–2014
+| ''[[Big School (TV series)|Big School]]''
+| Miss Sarah Postern
+| Lead role
+|-
+| 2014–2015
+| ''[[Catherine Tate's Nan]]''
+| [[Joannie Taylor]]
+| Lead role
+|-
+| 2014
+|''[[Nativity 3: Dude, Where's My Donkey?]]''
+|Sophie O'Donnell
+| rowspan="3" |Film
+|-
+|2015
+|''[[SuperBob]]''
+|Theresa
+|-
+| 2015
+| ''[[Unity (film)|Unity]]''&lt;ref&gt;{{cite web|author1=Dave McNary|title=Documentary 'Unity' Set for Aug. 12 Release with 100 Star Narrators|url=https://variety.com/2015/film/news/documentary-unity-set-for-aug-12-release-with-100-star-narrators-1201477200/|publisher=[[Variety (magazine)|Variety]]|accessdate=1 May 2015|date=22 April 2015}}&lt;/ref&gt;
+| Narrator
+|-
+| 2016
+| ''[[Billionaire Boy (film)|Billionaire Boy]]''
+| Sapphire Diamond
+| TV film
+|-
+| 2016
+| ''[[Asterix: The Mansions of the Gods]]''
+| Dulcia
+| Voice
+|-
+| 2016
+| ''Do Not Disturb''&lt;ref&gt;{{cite web|url=http://www.walesonline.co.uk/lifestyle/tv/sian-gibson-goes-car-share-10753375 |title=Archived copy |accessdate=2017-04-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20170419195140/http://www.walesonline.co.uk/lifestyle/tv/sian-gibson-goes-car-share-10753375 |archivedate=19 April 2017 |df= }}&lt;/ref&gt;
+|
+| 
+|-
+|2017-present
+| ''[[DuckTales (2017 TV series)|DuckTales]]''
+| [[Magica De Spell]]
+| Voice
+|}
+
+=== Theatre ===
+{| class="wikitable"
+|- style="text-align:center;"
+! style="background:#B0C4DE;" | Year
+! style="background:#B0C4DE;" | Title
+! style="background:#B0C4DE;" | Role
+! style="background:#B0C4DE;" | Theatre/Company
+|-
+| 1995
+|''The Way of the World''
+|
+|[[Royal National Theatre]]
+|-
+| 1996
+|''The Prince's Play''
+|Barmaid
+|[[Royal National Theatre]]
+|-
+| rowspan="2"|2000
+|''New Bits''
+|Various roles
+|Edinburgh Festival
+|-
+|''[[A Servant to Two Masters]]''
+|Smeraldina
+|Royal Shakespeare Company
+|-
+| rowspan="2"|2005
+|''[[Some Girl(s)]]''
+|Sam
+|[[Gielgud Theatre]]
+|-
+|''[[Royal Variety Performance]]''
+|Lauren Cooper
+|[[Wales Millennium Centre]]
+|-
+|2006
+|''[[The Exonerated (play)|The Exonerated]]''
+|Sunny Jacobs
+|[[Riverside Studios]]
+|-
+|2008
+|''[[Under The Blue Sky]]''
+|Michelle
+|[[Duke of York's Theatre]]
+|-
+|2010–2011
+|''[[Season's Greetings]]''
+|Belinda
+|[[Royal National Theatre]]
+|-
+| rowspan="2"|2011
+|''[[Much Ado About Nothing]]''
+|Beatrice
+|[[Wyndham's Theatre]]
+|-
+|''Sixty Six Books''
+|God
+|[[Bush Theatre]]
+|-
+| 2012
+|''24 Hour Plays''
+|Various
+|[[American Airlines Theatre]], Broadway
+|-
+|2014–2015
+|''[[Assassins (musical)|Assassins]]''
+|Sara Jane Moore
+|[[Menier Chocolate Factory]]
+|-
+| 2015
+|''The Vote''
+|Kirsty Henderson
+|[[Donmar Warehouse]]
+|-
+| rowspan="2"|2016
+|''Miss Atomic Bomb''
+|Myrna
+|[[St James Theatre, London]]
+|-
+|''[[The Catherine Tate Show#Live tour (2016)|The Catherine Tate Show: Live]]
+|Various characters 
+|UK tour
+|}
+
+===Radio and CD audio drama===
+{| class="wikitable"
+|- style="text-align:center;"
+! style="background:#B0C4DE;" | Year
+! style="background:#B0C4DE;" | Title
+! style="background:#B0C4DE;" | Role
+! style="background:#B0C4DE;" | Broadcaster
+|-
+| 2008 
+| ''[[The Forever Trap]]'' 
+| Narrator 
+| [[BBC Audio]]
+|-
+| 2009 
+| ''[[The Nemonite Invasion]]'' 
+| Narrator 
+| [[BBC Audio]]
+|-
+| 2009–10
+| ''[[Jonathan Ross]]''
+| Guest host - DJ 
+| [[BBC Radio 2]]
+|-
+| 2016
+| ''[[Doctor Who]]''
+| Donna Noble
+| [[Big Finish Productions]]
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{sisterlinks|d=Q254766|c=category:Catherine Tate|n=no|b=no|v=no|voy=no|s=no|wikt=no|q=no|m=no|mw=no|species=no}}
+*[http://www.bbc.co.uk/comedy/catherinetate/ Catherine Tate] at [[bbc.co.uk]]/comedy
+*[http://www.bbc.co.uk/comedy/guide/articles/c/catherinetateshow_999040216.shtml ''The Catherine Tate Show''] at [[bbc.co.uk]]/comedy
+*{{IMDb name|id=0851113|name=Catherine Tate}}
+*{{Worldcat id|lccn-no2006-133540}}
+{{Use British English|date=March 2012}}
+{{Use dmy dates|date=May 2015}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tate, Catherine}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]
+[[Category:20th-century English actresses]]
+[[Category:21st-century English actresses]]
+[[Category:21st-century British women writers]]
+[[Category:Actresses from London]]
+[[Category:Alumni of the Central School of Speech and Drama]]
+[[Category:Audiobook narrators]]
+[[Category:English film actresses]]
+[[Category:English stage actresses]]
+[[Category:English television actresses]]
+[[Category:English television writers]]
+[[Category:English women comedians]]
+[[Category:English women writers]]
+[[Category:National Youth Theatre members]]
+[[Category:People from Bloomsbury]]
+[[Category:People from Holborn]]
+[[Category:Royal Shakespeare Company members]]
+[[Category:English Shakespearean actresses]]
+[[Category:British sketch comedians]]
+[[Category:21st-century English writers]]</text>
+      <sha1>taneoca7gqxgmh78yts8xnrvfokjsir</sha1>
+    </revision>
+  </page>
+</mediawiki>

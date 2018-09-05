@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>LaWanda Page</title>
+    <ns>0</ns>
+    <id>1752991</id>
+    <revision>
+      <id>851855812</id>
+      <parentid>851654288</parentid>
+      <timestamp>2018-07-25T01:36:09Z</timestamp>
+      <contributor>
+        <username>Walor</username>
+        <id>3252575</id>
+      </contributor>
+      <comment>/* Biography */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10973">{{refimprove|date=March 2013}}
+{{Infobox comedian
+| name        = LaWanda Page
+| image       = LaWanda Page 1977.jpg
+| imagesize   = 
+| caption     = Page as Aunt Esther in ''[[Sanford Arms]]'', 1977.
+| birth_name   = Alberta Peal&lt;ref name=BLU/&gt;
+| birth_date  = {{Birth date|1920|10|19}}&lt;ref name= BLK/&gt;&lt;ref name=COM/&gt;
+| birth_place = [[Cleveland, Ohio]], U.S.&lt;ref name= BLK/&gt;
+| death_date  = {{death date and age|2002|9|14|1920|10|19}}&lt;ref name=OBIT&gt;[https://books.google.com/books?id=Z3rGCwAAQBAJ&amp;pg=PA228&amp;dq=lawanda+page&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjNjJ-rz-jbAhXmx4MKHWSpAjE4ChDoAQhIMAc#v=onepage&amp;q=lawanda%20page&amp;f=false Obituaries in the Performing Arts, 2002: Film, Television, Radio, Theatre - LaWanda Page]&lt;/ref&gt;&lt;ref name=JET&gt;[https://books.google.com/books?id=BsMDAAAAMBAJ&amp;pg=PA55&amp;dq=lawanda+page&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj89dPl1ujbAhUm8YMKHTt_Bo0Q6AEIKTAA#v=onepage&amp;q=lawanda%20page&amp;f=false JET Magazine - LaWanda Page, 81, Of 'Sanford And Son' Fame Succumbs In Los Angeles - October 7, 2002]&lt;/ref&gt;
+| death_place = [[Hollywood, California]], U.S.
+| medium      = {{hlist|[[Stand-up comedy|stand-up]]|television|[[film]]}}
+| nationality = [[United States|American]]
+| active      = 1935–1996
+| genre       = {{hlist|[[Word play]]|[[observational comedy]]|[[Black comedy]]|[[Off-color humor|blue comedy]]}}
+| subject     = {{hlist|[[human sexuality]]|[[race relations]]|[[African-American culture]]}} 
+| influences  = 
+| influenced = Her voice is sampled and used at the beginning of drag artist Ru Paul's song "A Shade Shady".  
+| notable_work= [[Esther Anderson (fictional character)|Esther (Aunt Esther) Anderson]] – ''[[Sanford and Son]]'', ''[[Sanford Arms]]'' and ''[[Sanford (TV series)|Sanford]]''
+| website     =  
+| footnotes   = 
+|goldenglobeawards = 
+}}
+'''LaWanda Page''' (born '''Alberta Peal'''; October 19, 1920&lt;ref name= BLK/&gt;{{spaced ndash}}September 14, 2002)&lt;ref name=OBIT/&gt;&lt;ref name=JET/&gt;, was an [[United States|American]] actress and [[comedian]] best known for her role as [[Esther Anderson (fictional character)|Esther "Aunt Esther" Anderson]] in the popular television sitcom ''[[Sanford and Son]]'' which originally aired from 1973 until 1977.&lt;ref name=COM/&gt; Page later reprised this role in the television shows ''[[Sanford Arms]]'' (1976–1977) and ''[[Sanford (TV series)|Sanford]]'' (1980–1981).&lt;ref name="NYT obit"/&gt;
+
+==Biography==
+===Early life and career===
+Page was born Alberta Peal&lt;ref name=BLU/&gt; on October 19, 1920, in [[Cleveland, Ohio]]&lt;ref name= BLK&gt;[https://books.google.com/books?id=Hvl299p1Yg4C&amp;pg=PA117&amp;dq=lawanda+page&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiA2_bJzejbAhXJ6YMKHRoIBuoQ6AEIMTAC#v=onepage&amp;q=lawanda%20page&amp;f=false Black Comedians on Black Comedy: How African-Americans Taught Us to Laugh - LaWanda Page]&lt;/ref&gt; and raised in [[St. Louis]], [[Missouri]]. Page attended Banneker Elementary School.&lt;ref name=BLU&gt;[https://books.google.com/books?id=a7vcX2uNPK4C&amp;pg=PA147&amp;dq=lawanda+page&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjNjJ-rz-jbAhXmx4MKHWSpAjE4ChDoAQg-MAU#v=onepage&amp;q=lawanda%20page&amp;f=false Black and Blue: The Redd Foxx Story]&lt;/ref&gt;  Page began her show business career dancing at age 15. Page later worked in small nightclubs billed as "The Bronze Goddess of Fire," an act which included Page [[Fire eating|eating fire]] and lighting cigarettes with her fingertips.&lt;ref name=COM&gt;[https://books.google.com/books?id=Iz_S7n9bWW8C&amp;pg=PT69&amp;dq=lawanda+page&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiA2_bJzejbAhXJ6YMKHRoIBuoQ6AEIVTAJ#v=onepage&amp;q=lawanda%20page&amp;f=false Comediennes: Laugh Be a Lady - LaWanda Page]&lt;/ref&gt;
+
+After paying dues on the club circuit, where she shared stages with noted comedians such as [[Redd Foxx]] and [[Richard Pryor]], Page moved to Los Angeles, California in the early 1960s where she became a member of the comedy group [[Sanford and Son#Other characters|Skillet, Leroy &amp; Co.]] Skillet was Ernest "Skillet" Mayhand (1916–2007) and Leroy was Wilbert LeRoy Daniel (1928–1993). In Los Angeles, Page started honing the feisty approach to comedy that would make her famous.&lt;ref name="NYT obit"&gt;{{cite news|last=Watkins|first=Mel|author-link=Mel Watkins (author)|date=September 18, 2002|title=LaWanda Page, 81, the Aunt On TV's 'Sanford and Son'|url=https://www.nytimes.com/2002/09/18/obituaries/18PAGE.html|work=[[The New York Times]]|accessdate=November 5, 2017}}&lt;/ref&gt; LaWanda Page and Redd Foxx (who portrayed [[Sanford and Son#Fred Sanford|Fred Sanford]]) were very close friends from the time they were pre-teens, having attended school and grown up together in St. Louis. Eventually, both entered the field of comedy separately and performed their own stage acts. During her tenure as a stand-up comic, a career she continued into the 1990s, Page often was billed as "The Queen of Comedy" or "The Black Queen of Comedy".
+
+Page recorded several live comedy albums for the [[Laff Records]] label in the late 1960s and early 1970s under her LaWanda Page stage name. Other than the relatively clean ''Sane Advice'' album, released two years after the run of ''[[Sanford and Son]]'', Page's albums and stand-up material were raunchy [[blue comedy]] in nature. She was one of the few women who performed extended spoken word pieces in the [[Signifyin'|black signifying or toasting]] tradition. One release, a [[gold album|gold-selling]] album called ''[[Watch It, Sucker!]]'', was titled after one of her Aunt Esther character's [[catchphrase]]s in order to capitalize on her newfound television fame.
+
+===''Sanford and Son'' (1973-1977)===
+On ''[[Sanford and Son]]'', [[Esther Anderson (Sanford and Son)|Esther Anderson]] ("Aunt Esther") was the sister of [[Sanford and Son#Fred Sanford|Fred Sanford]]'s late wife Elizabeth. Page had been performing her comedy routine in nightclubs in [[St. Louis]] and then [[Los Angeles]] for several years, but had planned to leave show business to move back to St. Louis to take care of her ailing mother. When [[Redd Foxx]] was offered a sitcom in Los Angeles, he brought his childhood friend Page to the attention to one of the show's producers, who was already familiar with Page and her act. Foxx subsequently asked Page to read for the role of Aunt Esther. She was offered the role after she auditioned. However, prior to taping, producers became concerned when Page, whose experience was limited primarily to nightclub stages, seemed to have difficulty working in a sitcom format. Eventually, one of ''Sanford and Son''{{'}}s producers told Foxx that Page would need to be fired and that another actor would need to be cast before the show could begin taping. Foxx responded by insisting that Page keep the part, even threatening to walk away from the show if Page were fired. The producers relented, and Page's Aunt Esther went on to become one of the most popular TV sitcom characters of the 1970s.&lt;ref&gt;TV Guide, March 17–23, 1973.&lt;/ref&gt; 
+
+Page's Aunt Esther was a combination of devout churchgoer and tough-as-nails realist, unafraid to state whatever was on her mind. While her relationship with Foxx's character [[Fred G. Sanford]] was usually confrontational, she portrayed a tender side when it came to her nephew [[Sanford and Son#Lamont Sanford|Lamont]]. Common issues between brother-in-law and sister-in-law were Sanford's lack of business success and lukewarm religious faith. Sometimes, primarily because of their shared love for Lamont and the late Elizabeth, the two adversaries managed to find common ground. Although ''Sanford and Son'' was clearly Foxx's vehicle, Page's Aunt Esther could hold her own against the show's star. The church-going act of Esther was a great contrast to the raunchy, expletive-filled material of Page's live act and records.
+
+===Other film and television appearances===
+In 1977, Page appeared in an episode of ''[[The Love Boat]]'' entitled "A Tasteful Affair; Oh, Dale!; The Main Event" alongside [[Sherman Hemsley]]. Page also appeared on several episodes of ''[[The Dean Martin Celebrity Roast]]s'', and over the next two decades occasionally guest-starred in episodes of other popular television shows, including ''[[Amen (TV series)|Amen]],'' ''[[Martin (TV series)|Martin]],'' ''[[227 (TV series)|227]],'' ''[[Family Matters]],'' and ''[[Diff'rent Strokes]].'' She appeared on ''Circus Of The Stars'' as a [[fire eater]]. In the early 1990s she appeared on several tracks of the debut album by [[RuPaul]] entitled ''[[Supermodel of the World]]'', most notably the hit song "[[Supermodel (You Better Work)]]." She also appeared in several music videos from the album. Shortly before her death she appeared in a series of comical [[Church's Chicken]] television commercials featuring the catchphrase "Gotta love it!" Among her movie credits are appearances in ''[[Zapped!]]'' (1982), ''[[Good-bye, Cruel World]]'' (1983), ''[[Mausoleum (film)|Mausoleum]]'' (1983), the [[Steve Martin]] film ''[[My Blue Heaven (1990 film)|My Blue Heaven]]'' (1990), as an extremely foul-mouthed clown in [[Bobcat Goldthwait]]'s 1991 comedy ''[[Shakes the Clown]]'', ''[[CB4]]'' (1993), a cameo appearance in the 1995 movie ''[[Friday (1995 film)|Friday]]'', stealing the opening scene with a one-liner, ''[[Don't Be a Menace to South Central While Drinking Your Juice in the Hood]]'' (1996), and a recurring role as Ms. Porter during the first season of the 1990s television sitcom ''[[Martin (TV series)|Martin]]''.
+
+==Personal life and death==
+Page was married three times, the first being at the age of 14.&lt;ref name="ODR"&gt;{{cite news|last1=Scott|first1=Vernon|title=LaWanda Page lives in Beverly Watts|url=https://newspaperarchive.com/anonymous-celebrity-clipping-may-24-1976-405726/|accessdate=16 November 2017|publisher=Ontario Daily Report|date=24 May 1976}}&lt;/ref&gt; Page was the older sister of actress [[Lynn Hamilton (actress)|Lynn Hamilton]].&lt;ref name=JET/&gt; Page died of complications from [[diabetes]] on September 14, 2002 at age 81.&lt;ref name=JET/&gt;&lt;ref name="NYT obit"/&gt; She is interred in an outdoor crypt at Inglewood Park Cemetery in [[Inglewood, California]]. Page's daughter, the evangelist Clara Estella Roberta Johnson, died on June 4, 2006, in [[Los Angeles, California]], at the age of 69.
+
+==Discography==
+*''[[Mutha Is Half a Word]]'' (1971)
+*''[[Watch It, Sucker!]]'' (1972)
+*''Back Door Daddy'' (1972; featuring Skillet &amp; Leroy)
+*''[[Preach On Sister, Preach On!]]'' (1973)
+*''[[Pipe Layin' Dan]]'' (1973)
+*''[[Sane Advice]]'' (1979)
+==References==
+{{reflist|2}}
+== External links ==
+*{{IMDb name|0656250}}
+*{{Find a Grave|6783219}}
+{{Authority control}}
+
+{{DEFAULTSORT:Page, Lawanda}}
+[[Category:1920 births]]
+[[Category:2002 deaths]]
+[[Category:African-American comedians]]
+[[Category:Burials at Inglewood Park Cemetery]]
+[[Category:Deaths from diabetes]]
+[[Category:Actresses from St. Louis]]
+[[Category:Actresses from Cleveland]]
+[[Category:American women comedians]]
+[[Category:American television actresses]]
+[[Category:African-American actresses]]
+[[Category:American film actresses]]
+[[Category:Comedians from Missouri]]</text>
+      <sha1>i8lsjyp33rzrg9jsvx1ghwhtm8rhkpo</sha1>
+    </revision>
+  </page>
+</mediawiki>

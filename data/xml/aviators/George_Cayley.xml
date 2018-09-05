@@ -1,0 +1,250 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>George Cayley</title>
+    <ns>0</ns>
+    <id>81936</id>
+    <revision>
+      <id>852981727</id>
+      <parentid>837485469</parentid>
+      <timestamp>2018-08-01T17:00:29Z</timestamp>
+      <contributor>
+        <username>Recensore256</username>
+        <id>34313057</id>
+      </contributor>
+      <comment>/* Memorial */ Added and cited HoF induction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21647">{{For|his grandson, the cricketer|George Cayley (cricketer)}}
+{{Use dmy dates|date=April 2012}}
+{{Use British English|date=December 2016}}
+{{Infobox scientist
+| name              = Sir George Cayley
+| honorific_suffix = {{post-nominals|country=GBR|Bt|size=100%}}
+| image             = George Cayley2.jpg
+| image_size       = 200px
+| caption           = George Cayley
+| father            = Sir Thomas Cayley, 5th Bt    
+| mother            = Isabella Seton 
+| birth_date        = {{Birth date|1773|12|27|df=yes}}
+| birth_place       = [[Scarborough, England|Scarborough]], [[Yorkshire]], England, Kingdom of Great Britain
+| death_date        = {{Death date and age|1857|12|15|1773|12|27|df=yes}}
+| death_place       = [[Brompton, Scarborough|Brompton]], Yorkshire, England, United Kingdom
+| nationality       = English
+| citizenship       = [[British people|British]]
+| field             = [[Aviation]], [[Aerodynamics]], [[Aeronautics]], [[Aeronautical engineering]]
+| known_for         = Designed first successful human glider. Discovered the four [[aerodynamic]] forces of flight [[weight]], [[Lift (force)|lift]], [[Drag (physics)|drag]], [[thrust]] and [[Camber (aerodynamics)|cambered wings]], basis for the design of the modern aeroplane.
+| }}
+
+'''Sir George Cayley, 6th Baronet''' (27 December 1773 – 15 December 1857) was an English engineer, inventor, and aviator. He is one of the most important people in the history of [[aeronautics]]. Many consider him to be the first true scientific aerial investigator and the first person to understand the underlying principles and forces of [[flight]].&lt;ref name="Father of aviation"&gt;
+*{{cite web
+ |title=Sir George Cayley 
+ |url=http://www.flyingmachines.org/cayl.html 
+ |publisher=Flyingmachines.org 
+ |accessdate=26 July 2009 
+}}
+*{{cite web
+ |title=The Pioneers: Aviation and Airmodelling 
+ |url=http://www.ctie.monash.edu.au/hargrave/cayley.html 
+ |publisher= 
+ |accessdate=26 July 2009 
+}}
+*{{cite web
+ |title=U.S Centennial of Flight Commission – Sir George Cayley. 
+ |url=http://www.centennialofflight.gov/essay/Prehistory/Cayley/PH2.htm 
+ |publisher= 
+ |accessdate=10 September 2008 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20080920052758/http://centennialofflight.gov/essay/Prehistory/Cayley/PH2.htm 
+ |archivedate=20 September 2008 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+In 1799, he set forth the concept of the modern aeroplane as a [[Fixed-wing aircraft|fixed-wing]] flying machine with separate systems for lift, propulsion, and control.&lt;ref&gt;{{cite web
+| title       = Aviation History
+| url         = http://www.aviation-history.com/early/cayley.htm
+| publisher   = 
+| accessdate  =26 July 2009
+}}&lt;/ref&gt;
+&lt;ref&gt;{{cite web
+| title       = Sir George Cayley (British Inventor and Scientist)
+| url         = http://www.britannica.com/EBchecked/topic/100795/Sir-George-Cayley-6th-Baronet
+| publisher   = Britannica
+| accessdate  =26 July 2009
+}}&lt;/ref&gt;
+He was a pioneer of [[aeronautical engineering]] and is sometimes referred to as "the father of aviation."&lt;ref name="Father of aviation"/&gt; He discovered and identified the four forces which act on a heavier-than-air flying vehicle: [[weight]], [[Lift (force)|lift]], [[Drag (physics)|drag]] and [[thrust]].&lt;ref&gt;
+[http://www.centennialofflight.net/essay/Prehistory/Cayley/PH2.htm Sir George Cayley - Making Aviation Practical] U.S. Centennial of Flight Commission. Retrieved June 28, 2016
+&lt;/ref&gt; Modern aeroplane design is based on those discoveries and on the importance of [[Camber (aerodynamics)|cambered wings]], also identified by Cayley.&lt;ref&gt;[[C. H. Gibbs-Smith]] (20 September 1962) [https://www.flightglobal.com/pdfarchive/view/1962/1962%20-%202155.html New Light on Cayley] [[Flight International]], link from [[Flightglobal]]&lt;/ref&gt; He constructed the first flying model aeroplane and also diagrammed the elements of vertical flight.&lt;ref&gt;{{cite web
+| title       = Sir George Cayley
+| url         = http://www.centennialofflight.net/essay/Dictionary/Cayley/DI15.htm
+| publisher   = U.S Centennial of Flight Commission
+| accessdate  =10 September 2008}}
+&lt;/ref&gt;
+He designed the first glider reliably reported to carry a human aloft. He correctly predicted that sustained flight would not occur until a lightweight engine was developed to provide adequate thrust and lift.&lt;ref name="Pioneers"/&gt; The [[Wright brothers]] acknowledged his importance to the development of aviation.&lt;ref name="Pioneers"&gt;{{cite web |title=The Pioneers: Aviation and Airmodelling |url=http://www.ctie.monash.edu.au/hargrave/cayley.html |publisher=  |accessdate=26 July 2009}}&lt;/ref&gt;
+
+Cayley represented the [[British Whig Party|Whig]] party as [[Member of Parliament]] for [[Scarborough (UK Parliament constituency)|Scarborough]] from 1832 to 1835, and in 1838, helped found the UK's first Polytechnic Institute, the Royal Polytechnic Institution (now [[University of Westminster]]) and served as its chairman for many years. He was a founding member of the [[British Association for the Advancement of Science]] and was a distant cousin of the [[mathematics|mathematician]] [[Arthur Cayley]].
+
+==General engineering projects==
+Cayley, from [[Brompton, Scarborough|Brompton-by-Sawdon]], near [[Scarborough, North Yorkshire|Scarborough]] in [[Yorkshire]], inherited Brompton Hall and [[Wydale Hall]] and other estates on the death of his father, the 5th baronet.  Captured by the optimism of the times, he engaged in a wide variety of [[engineering]] projects.  Among the many things that he developed are self-righting [[Lifeboat (rescue)|lifeboat]]s, [[Wire wheels|tension-spoke wheel]]s,
+&lt;ref&gt;In his notebook, dated March 19, 1808, Cayley proposed that in order to produce "the lightest possible wheel for aerial navigation cars," one should "do away with wooden spokes altogether and refer the whole firmness of the wheel to the strength of the rim only, by the intervention of tight strong cording … "  See:  J.A.D. Ackroyd (2011) [http://aerosociety.com/Assets/Docs/Publications/The%20Journal%20of%20Aeronautical%20History/2011-06Cayley-Ackroyd2.pdf "Sir George Cayley:  The invention of the aeroplane near Scarborough at the time of Trafalgar,"] ''Journal of Aeronautical History'' [Internet publication], paper no. 6, pages 130–181.  Cayley's tension-spoke wheel appears on page 152, "3.7  The Tension  Wheel, 1808".&lt;/ref&gt; the "Universal Railway" (his term for [[caterpillar track|caterpillar tractors]]),&lt;ref&gt;[https://books.google.com/books?id=_roAAAAAMAAJ&amp;pg=PA225#v=onepage&amp;q&amp;f=false "Sir George Cayley's patent universal railway,"] ''Mechanics' Magazine'', '''5''' (127) :  225–227 (January 28, 1826).&lt;/ref&gt; automatic signals for railway crossings,&lt;ref&gt;George Cayley (February 13, 1841) [https://books.google.com/books?id=E9tQAAAAYAAJ&amp;lpg=PA180&amp;ots=ZxdTdnUfpZ&amp;pg=PA129#v=onepage&amp;q&amp;f=false "Essay on the means of promoting safety in railway carriages,"] ''Mechanics' Magazine'', '''34''' (914) :  129–133.  See also letters in reply on pages 180–181.&lt;/ref&gt; [[seat belt]]s, small scale [[helicopter]]s, and a kind of prototypical [[internal combustion engine]] fuelled by [[gunpowder]].  He suggested that a more practical engine might be made using gaseous vapours rather than gunpowder, thus foreseeing the modern internal combustion engine.&lt;ref&gt;Raleigh, W; ''The War in the Air, Vol. 1'', Clarendon 1922.&lt;/ref&gt; He also contributed in the fields of [[prosthetic]]s, [[hot air engine|air engines]], [[electricity]], [[theatre]] [[architecture]], [[ballistics]], [[optics]] and [[land reclamation]], and held the belief that these advancements should be freely available.&lt;ref name="ackroyd"&gt;Ackroyd, J.A.D. [http://rsnr.royalsocietypublishing.org/content/56/2/167.full.pdf Sir George Cayley, the father of Aeronautics] ''Notes Rec. R. Soc. Lond. 56 (2), 167–181'' (2002). Retrieved: 29 May 2010.&lt;/ref&gt;&lt;!--page170--&gt;
+
+==Flying machines==
+[[File:Governableparachute.jpg|thumb|upright|Cayley's glider in ''Mechanics Magazine'', 1852]]
+He is mainly remembered for his pioneering studies and experiments with [[flying machine]]s, including the working, piloted [[glider aircraft|glider]] that he designed and built. He wrote a landmark three-part treatise titled "On Aerial Navigation" (1809–1810),&lt;ref name="AerNav123"&gt;''Cayley, George''. "On Aerial Navigation" [http://www.aeronautics.nasa.gov/fap/OnAerialNavigationPt1.pdf Part 1] {{webarchive |url=https://web.archive.org/web/20130511071413/http://www.aeronautics.nasa.gov/fap/OnAerialNavigationPt1.pdf |date=11 May 2013 }} , [http://www.aeronautics.nasa.gov/fap/OnAerialNavigationPt2.pdf Part 2] {{webarchive |url=https://web.archive.org/web/20130511041814/http://www.aeronautics.nasa.gov/fap/OnAerialNavigationPt2.pdf |date=11 May 2013 }} , [http://www.aeronautics.nasa.gov/fap/OnAerialNavigationPt3.pdf Part 3] {{webarchive |url=https://web.archive.org/web/20130511052409/http://www.aeronautics.nasa.gov/fap/OnAerialNavigationPt3.pdf |date=11 May 2013 }} ''Nicholson's Journal of Natural Philosophy'', 1809–1810. (Via [[NASA]]). [http://invention.psychology.msstate.edu/i/Cayley/Cayley.html Raw text]. Retrieved: 30 May 2010.&lt;/ref&gt; which was published in [[William Nicholson (chemist)|Nicholson]]'s ''Journal of Natural Philosophy, Chemistry and the Arts''. The 2007 discovery of sketches in Cayley's school notebooks (held in the archive of the [[Royal Aeronautical Society]] Library)&lt;ref&gt;http://www.adsadvance.co.uk/sir-george-cayley-s-notebooks-featured-on-antiques-roadshow.html&lt;/ref&gt; revealed that even at school Cayley was developing his ideas on the theories of flight. It has been claimed&lt;ref&gt;{{cite book |last= Dee |first= Richard |authorlink= Richard Dee |coauthors= |title= The Man who Discovered Flight: George Cayley and the First Airplane |year= 2007|publisher= McClelland and Stewart|location= Toronto |isbn= 978-0-7710-2971-4 }}&lt;/ref&gt; that these images indicate that Cayley identified the principle of a lift-generating inclined plane as early as 1792. To measure the drag on objects at different speeds and angles of attack, he later built a "whirling-arm apparatus", a development of earlier work in ballistics and air resistance. He also experimented with rotating wing sections of various forms in the stairwells at Brompton Hall.
+
+{{Quote box|width=28%|align=left|quote="About 100 years ago, an Englishman, Sir George Cayley, carried the science of flight to a point which it had never reached before and which it scarcely reached again during the last century."|source =— [[Wilbur Wright]], 1909.&lt;ref name="Pioneers"/&gt;}}
+These scientific experiments led him to develop an efficient [[camber (aerodynamics)|cambered]] [[airfoil]] and to identify the four vector forces that influence an aircraft: ''thrust'', ''lift'', ''drag'', and ''gravity''. He discovered the importance of the [[dihedral (aircraft)|dihedral]] angle for lateral stability in flight, and deliberately set the [[centre of gravity]] of many of his models well below the wings for this reason; these principles influenced the development of [[hang gliders]]. As a result of his investigations into many other theoretical aspects of flight, many now acknowledge him as the first [[aerospace engineer|aeronautical engineer]].  His emphasis on lightness led him to invent a new method of constructing [[wire wheel|lightweight wheels]] which is in common use today.  For his landing wheels, he shifted the spoke's forces from [[compression (physical)|compression]] to [[Tension (physics)|tension]] by making them from tightly-stretched string, in effect "reinventing the wheel".&lt;ref name="FG54"&gt;Pritchard, J. Laurence. [http://www.flightglobal.com/pdfarchive/view/1954/1954%20-%203051.html Summary of First Cayley Memorial Lecture at the Brough Branch of the Royal Aeronautical Society] ''[[Flight International|Flight]]'' number 2390 volume 66 page 702, 12 November 1954. Retrieved: 29 May 2010"&lt;/ref&gt;&lt;ref&gt;John Lloyd and John Mitchinson; ''QI: The Second Book of General Ignorance'', Faber &amp; Faber 2010, [https://books.google.co.uk/books?id=8m7T-DIwZn8C&amp;pg=PA1#v=onepage&amp;q&amp;f=false Page 1.]&lt;/ref&gt; Wire soon replaced the string in practical applications and over time the [[wire wheel]] came into common use on bicycles, cars, aeroplanes and many other vehicles.
+
+[[File:George Cayley Glider (Nigel Coates).jpg|thumb|right||Replica of Cayley's glider at the Yorkshire Air Museum]]
+The model glider successfully flown by Cayley in 1804 had the layout of a modern aircraft, with a kite-shaped wing towards the front and an adjustable  tailplane at the back consisting of [[horizontal stabiliser]]s and a [[Vertical stabilizer|vertical fin]].  A movable weight allowed adjustment of the model's [[centre of gravity]].&lt;ref&gt;Gibbs-Smith 2002, p. 35&lt;/ref&gt;  Around 1843 he was the first to suggest the idea for a convertiplane, an idea which was published in a paper written that same year.  At some time before 1849 he designed and built a biplane in which an unknown ten-year-old boy flew. Later, with the continued assistance of his grandson George John Cayley and his resident engineer Thomas Vick, he developed a larger scale glider (also probably fitted with "flappers") which flew across Brompton Dale in front of [[Wydale Hall]] in 1853. The first adult aviator has been claimed to be either Cayley's coachman, footman or butler: one source ([[Charles Harvard Gibbs-Smith|Gibbs-Smith]]) has suggested that it was John Appleby, a Cayley employee: however there is no definitive evidence to fully identify the pilot. An entry in volume IX of the 8th Encyclopædia Britannica of 1855 is the most contemporaneous authoritative account regarding the event. A 2007 biography of Cayley (Richard Dee's ''The Man Who Discovered Flight: George Cayley and the First Airplane'') claims the first pilot was Cayley's grandson George John Cayley (1826–1878).
+
+A replica of the 1853 machine was flown at the original site in Brompton Dale by [[Derek Piggott]] in 1973&lt;ref name="glidmag1"&gt;Piggott, Derek. [http://www.glidingmagazine.com/FeatureArticle.asp?id=360 Gliding 1852 Style] {{webarchive|url=https://web.archive.org/web/20120717072431/http://www.glidingmagazine.com/FeatureArticle.asp?id=360 |date=17 July 2012 }} ''Gliding Magazine'' issue 10, 2003. Accessed 11 August 2008&lt;/ref&gt; for TV and in the mid-1980s&lt;ref name="glidmag2"&gt;Short, Simine. [http://www.glidingmagazine.com/FeatureArticle.asp?id=357 Stamps that tell a story] {{webarchive|url=https://web.archive.org/web/20120729014138/http://www.glidingmagazine.com/FeatureArticle.asp?id=357 |date=29 July 2012 }} ''Gliding Magazine'' issue 10, 2003. Retrieved: 29 May 2010&lt;/ref&gt; for the [[IMAX]] film ''[[On the Wing (1986 film)|On the Wing]]''. The glider is currently on display at the [[Yorkshire Air Museum]].&lt;ref name="Yorkshire Air Museum"&gt;{{cite web
+ |url = http://www.yorkshireairmuseum.co.uk/exhibits/pioneers-of-aviation &lt;!--deadlink was http://www.yorkshireairmuseum.co.uk/collections/aircraft/pre_wwII_aircraft_info.asp?id=2 --&gt;
+ |title = Cayley glider 
+}}
+&lt;/ref&gt; Another replica, piloted by Allan McWhirter,&lt;ref name="virCay"&gt;[http://www.virgin-atlantic.com/en/gb/allaboutus/pressoffice/pressreleases/news/pr040305.jsp Cayley Flyer, oldest plane welcomes home Virgin Atlantic GlobalFlyer] ''Virgin'', 4 March 2005. Retrieved: 29 May 2010.&lt;/ref&gt; flew in [[Salina, Kansas]] just before [[Steve Fossett]] landed the [[Virgin Atlantic GlobalFlyer]] there in March 2003, and later piloted by [[Richard Branson]] at Brompton in summer 2003.&lt;ref name="popmecCay"&gt;[https://books.google.com/books?rview=1&amp;id=388DAAAAMBAJ&amp;jtp=20 Duplicate better than the original] ''[[Popular Mechanics]]'' page 20, November 2003. Retrieved: February 24, 2017.&lt;/ref&gt;
+
+==Memorial==
+[[File:George Cayley Plaque 309 Regent Street.jpg|thumb|right|Plaque at 309 Regent Street]]
+Cayley is commemorated in Scarborough at the [[University of Hull, Scarborough Campus]], where a [[hall of residence]] and a teaching building are named after him. He is one of many scientists and engineers commemorated by having a hall of residence and a bar at [[Loughborough University]] named after him. The [[University of Westminster]] also honours Cayley's contribution to the formation of the institution with a gold plaque at the entrance of the [[Regent Street]] building.
+
+There are display boards and a video film at the [[Royal Air Force Museum London]] in Hendon honouring Cayley's achievements and a modern exhibition and film "Pioneers of Aviation" at the Yorkshire Air Museum, Elvington,York. The Sir George Cayley Sailwing Club is a Yorkshire-based free flight club, affiliated to the British Hang Gliding and Paragliding Association, which has borne his name since its founding in 1975.&lt;ref&gt;{{cite web |url=http://www.cayleyparagliding.co.uk/ |title=Sir George Cayley Sailwing Club |publisher=cayleyparagliding.co.uk |accessdate=July 2015}}&lt;/ref&gt;
+
+In 1974, Cayley was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==Ancestry==
+{{ahnentafel
+|collapsed=yes |align=center
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1= 1. '''Sir George Cayley, 6th Bt.'''
+|2= 2. Sir Thomas Cayley, 5th Bt. (1732-1792)
+|3= 3. Isabella Seton (d. 1828)
+|4= 4. Sir George Cayley, 4th Bt. (d. 1791)
+|5= 5. Philadelphia Digby (1706-1765)
+|8= 8. Sir Arthur Cayley, 3rd Bt. (d. 1727)
+|9= 9. Everilda Thornhill (1680-1733)
+|10= 10. John Digby (1668-1728)
+|11= 11. Jane Wharton
+|16= 16. [[Cayley baronets|Sir William Cayley, 2nd Bt. (1635-1706/1708)]]
+|17= 17. Mary Holbech (d. 1709)
+|18= 18. George Thornhill (1655-1687),&lt;br&gt;grandson of [[George Wentworth (of Woolley)|George Wentworth]] and&lt;br&gt;Everilda Maltby (matrineal descendant of [[Cecily Neville, Duchess of York]])
+|19= 19. Mary Wyvill
+|22= 22. Sir Thomas Wharton (d. 1684),&lt;br&gt; son of [[Thomas Wharton (died 1622)|Sir Thomas Wharton]] and [[Robert Carey, 1st Earl of Monmouth|Lady Philadelphia Carey]]
+|23= 23. Jane Dand (d. 1714)
+}}
+
+==See also==
+*[[Early flying machines]]
+*[[William Samuel Henson]]
+*[[Timeline of aviation – 18th century]]
+*[[Timeline of aviation – 19th century]]
+*[[Kite types]]
+{{Clear}}
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+
+* [[Charles Harvard Gibbs-Smith|Gibbs-Smith, Charles H.]] ''Notes and Records of the Royal Society of London'', Vol. 17, No. 1 (May, 1962), pp.&amp;nbsp;36–56
+* Gibbs-Smith, C.H. ''Aviation''. London, NMSO, 2002
+* [[Gerard Fairlie]] and Elizabeth Cayley, ''The Life of a Genius'', [[Hodder and Stoughton]], 1965.
+
+== External links ==
+* {{Hansard-contribs | sir-george-cayley | Sir George Cayley }}
+*[https://web.archive.org/web/20051214032056/http://firstflight.open.ac.uk/cayley/cayley.html Cayley's principles of flight, models and gliders]
+*[http://www.flyingmachines.org/cayl.html Cayley's gliders]
+* [http://stirlingengines.org.uk/pioneers/pion3.html Some pioneers of air engine design]
+*[https://web.archive.org/web/20080920052758/http://centennialofflight.gov/essay/Prehistory/Cayley/PH2.htm Sir George Cayley – Making Aviation Practical]
+*[http://www.ctie.monash.edu.au/hargrave/cayley.html Sir George Cayley]
+*[http://www.flightglobal.com/pdfarchive/view/1954/1954%20-%203050.html "Sir George Cayley - The Man: His Work"] a 1954 ''Flight'' article
+*[http://www.flightglobal.com/pdfarchive/view/1954/1954%20-%202909.html "Aerodynamics in 1804"] a 1954 ''Flight'' art
+*[http://www.flightglobal.com/pdfarchive/view/1973/1973%20-%202999.html "Cayley's 1853 Aeroplane"] a 1973 ''Flight'' article
+* Ackroyd, J.A.D. "Sir George Cayley, the father of Aeronautics". Notes and Records of the Royal Society of London 56 (2002) [http://rsnr.royalsocietypublishing.org/content/56/2/167.full.pdf Part 1 (2), pp167–181], [http://rsnr.royalsocietypublishing.org/content/56/3/333.full.pdf Part 2 (3), pp333–348]
+*[http://www.uh.edu/engines/epi1120.htm Cayley's Flying Machines]
+
+{{s-start}}
+{{s-par|uk}}
+{{succession box
+ | title=[[Member of Parliament]] for [[Scarborough (UK Parliament constituency)|Scarborough]]
+ | years=1832–1835
+ | with =  [[Sir John Vanden-Bempde-Johnstone, 2nd Baronet|Sir John Vanden-Bempde-Johnstone, Bt]]
+ | before=[[Charles Manners-Sutton, 1st Viscount Canterbury|Charles Manners-Sutton]]&lt;br /&gt;[[Edmund Phipps (MP)|Edmund Phipps]]
+ | after=[[Sir John Vanden-Bempde-Johnstone, 2nd Baronet|Sir John Vanden-Bempde-Johnstone, Bt]]&lt;br /&gt;[[Frederick Trench (British Army officer)|Sir Frederick Trench]]
+}}
+{{s-reg|en-bt}}
+{{succession box | before=[[Thomas Cayley]] | title=[[Cayley baronets|Baronet]]&lt;br /&gt;'''(of Brompton)''' | years=1792–1857 | after=[[Digby Cayley]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cayley, George}}
+
+
+[[Category:1773 births|Cayley, Sir George]]
+[[Category:1857 deaths|Cayley, Sir George]]
+[[Category:18th-century English people]]
+[[Category:19th-century English people]]
+[[Category:Aerodynamicists]]
+[[Category:Aviation inventors]]
+[[Category:Aviation pioneers]]
+[[Category:Baronets in the Baronetage of England|Cayley, George, 6th Baronet]]
+[[Category:Cayley family|George]]
+[[Category:English aviators]]
+[[Category:English inventors]]
+[[Category:English aerospace engineers]]
+[[Category:Independent scientists]]
+[[Category:Members of the Parliament of the United Kingdom for English constituencies]]
+[[Category:People from Brompton, Scarborough]]
+[[Category:UK MPs 1832–35]]
+[[Category:Whig (British political party) MPs]]</text>
+      <sha1>hsia843o0yz094wnjo6nah1s8pq6x8k</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bob Penuelas</title>
+    <ns>0</ns>
+    <id>3021966</id>
+    <revision>
+      <id>743679293</id>
+      <parentid>706109708</parentid>
+      <timestamp>2016-10-10T17:57:09Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category People from San Diego, California to [[:Category:People from San Diego]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2584">{{Use mdy dates|date=January 2015}}
+'''Bob Penuelas''' is a [[comic strip]] illustrator and writer. He was the creator of the comic strip character [[Wilbur Kookmeyer]], which has appeared in Surfer Magazine since 1986.
+
+Born and raised in San Diego, Bob Penuelas learned to draw at an early age by his father, a technical illustrator. In Bob's younger years he was heavily influenced by the satirical humor of MAD Magazine. Later in his early teens he learned to surf and soon combined his art with his love for surfing. At that time he was influenced by Rick Griffin whose artwork regularly appeared in Surfer Magazine.
+
+Penuelas began his career as a comic strip artist with the creation of the "Maynard and the Rat" strip for Surfer Magazine in 1980. Between 1980 and 1985 he produced twenty-five, two-page episodes for Surfer.
+
+In 1985, while working on a "Maynard" strip, Bob introduced a dorky little character named Wilbur into the strip. The laughable, little beginner surfer struck a chord with the surfing public and there was a tremendous positive response from the readers. By 1986, Wilbur had totally eclipsed the "Maynard" strip and the title was then changed to "Wilbur Kookmeyer".
+
+Surfing for almost thirty-five years, Bob has always found limitless inspiration for fresh ideas and characters while out in the water. The driving force behind the success of the strip is Bob's ability to satirize the style and the people he knows so well.
+
+Through the years Wilbur Kookmeyer has gained a strong underground following and has become the unofficial mascot for surfers all over the world. In 2006, after twenty years and seventy-four episodes Penuelas decided that it was time for Wilbur to finally paddle into the sunset. Though the comic strip has been retired as a regular feature in Surfer Magazine, the name and legend of Wilbur Kookmeyer will undoubtedly live on among the pantheon of surf legends and heroes.
+
+Penuelas is now making some of the Wilbur Kookmeyer comic strip originals available to collectors exclusively through Mckibben Studios. Bob has also released a series of posters, which are reproduced from some of the most classic strips.
+
+==External links==
+* [http://www.wilbur-kookmeyer.com Bob Penuelas' official website]
+* [http://www.clubofthewaves.com/surf-art/tutorial-how-to-draw-a-wave.php 'How to draw a wave the Wilbur Kookmeyer way!' – An art tutorial by Bob Penuelas]
+
+{{DEFAULTSORT:Penuelas, Bob}}
+[[Category:American comic strip cartoonists]]
+[[Category:Living people]]
+[[Category:People from San Diego]]
+
+
+{{Comic-strip-creator-stub}}</text>
+      <sha1>nrs7mzi3zi42q47efs807gpbv64wupn</sha1>
+    </revision>
+  </page>
+</mediawiki>

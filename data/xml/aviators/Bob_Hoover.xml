@@ -1,0 +1,211 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bob Hoover</title>
+    <ns>0</ns>
+    <id>915567</id>
+    <revision>
+      <id>853170463</id>
+      <parentid>853000725</parentid>
+      <timestamp>2018-08-02T22:02:34Z</timestamp>
+      <contributor>
+        <username>Joey1niner</username>
+        <id>22222061</id>
+      </contributor>
+      <comment>staggered images and reorganize, usually the subject should be facing into the article, though could not figure out how to move annotated images to the left side</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28289">{{Infobox military person
+| name                = Robert A. Hoover
+| birth_name          = Robert Anderson Hoover
+| image               = {{Annotated image |image= Bob Hoover July 2011.jpg |annotations= |width= 280 |height= 370 |image-left= -340 |image-top= -220 |image-width= 850 |caption= Hoover in 2011}}
+&lt;!-- | image               = Bob Hoover Photo D Ramey Logan.jpg   --&gt;
+| caption             = &lt;!-- Bob Hoover at the final launch of [[SpaceShipOne]] in 2004 --&gt;
+| birth_date          = {{Birth date|1922|01|24}}
+| death_date          = {{Death date and age|2016|10|25|1922|01|24}}
+| birth_place         = [[Nashville, Tennessee]], U.S.
+| death_place         = [[Los Angeles, California]], U.S.
+| placeofburial       = 
+| placeofburial_label = Place of burial
+| nickname            = "Bob"
+| allegiance          = {{flag|United States}}
+| branch              = [[File:US Army Air Corps Hap Arnold Wings.svg|25px]] [[United States Army Air Forces]]&lt;br/&gt;[[File:Seal of the US Air Force.svg|25px]] [[United States Air Force]]
+| serviceyears        = 1940–1950
+| spouse          = {{marriage|Colleen Hoover|1948|March 11, 2016|reason=her death}}
+| rank                = [[File:US-O2 insignia.svg|6px]] [[First lieutenant#United States|First Lieutenant]]
+| unit                = [[52d Operations Group|52d Fighter Group]]&lt;br /&gt;Flight Evaluation Group
+| commands            = 
+| battles             = [[World War II]]&lt;br /&gt;[[Korean War]]
+| awards              = [[Distinguished Flying Cross (United States)|Distinguished Flying Cross]]&lt;br /&gt;[[Soldier's Medal|Soldier's Medal for Valor]]&lt;br /&gt;[[Air Medal]] with [[Oak leaf cluster|Clusters]]&lt;br /&gt;[[Purple Heart]]&lt;br /&gt;[[Croix de guerre 1939–1945 (France)|Croix de guerre]]
+| relations           = 
+| laterwork           = Test pilot, flight instructor and air show pilot (from 1948–1999)
+| current position    = 
+}}
+'''Robert Anderson "Bob" Hoover''' (January 24, 1922&amp;nbsp;– October 25, 2016) was a [[United States Army Air Forces]] [[fighter pilot]], [[United States Air Force|USAF]] and civilian [[test pilot]], [[flight instructor]], [[air show]] pilot, and [[aviation]] record-setter.&lt;ref&gt;{{cite web |url=http://blogs.mprnews.org/newscut/2016/10/bob-hoover-one-of-nations-greatest-pilots-dead-at-94/ |title=Bob Hoover, one of history’s greatest pilots, dead at 94 |last1=Collins |first1=Bob |date=October 25, 2016 |website=MPR News |publisher=[[Minnesota Public Radio]] |access-date=July 7, 2017}}&lt;/ref&gt; Known as the "pilot's pilot", Hoover revolutionized modern [[aerobatics|aerobatic]] flying and has been referred to in many aviation circles as one of the greatest pilots ever to have lived.&lt;ref name="51HeroesofAviation"&gt;[http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?image=42 "51 Heroes of Aviation."] ''Flying''. Retrieved: May 3, 2015.&lt;/ref&gt;&lt;ref&gt;[https://www.youtube.com/watch?v=yO8GyU8asEI ''The Bob Hoover Project: Flying the Feathered Edge''.] Documentary video. Retrieved: May 3, 2015.&lt;/ref&gt;&lt;ref&gt;[http://blog.nasm.si.edu/aviation/robert-a-bob-hoover-the-greatest-stick-and-rudder-man-is-honored-in-hollywood/ "Robert A. “Bob” Hoover, The Greatest Stick and Rudder Man, is Honored in Hollywood".] AirSpace Blog. Retrieved: July 27, 2015.&lt;/ref&gt;&lt;ref&gt;[https://www.bostonglobe.com/metro/obituaries/2016/10/26/bob-hoover-considered-one-greatest-pilots-world/ceGIzih07bE0h97EcF5QnM/story.html "Bob Hoover; considered one of the greatest pilots in world".] ''The Boston Globe''. Retrieved: October 28, 2016.&lt;/ref&gt; 
+{{TOC limit|limit=2}}
+
+==Aviation career==
+[[File:Bob Hoover with North American test pilots.jpg|thumb|Bob Hoover photographed with [[North American Aviation]] test pilots, bottom row second from right, c.1957]]
+{{Annotated image |image= HooverMustang.jpg |annotations= |width= 220 |height= 160 |image-left= -121 |image-top= -119 |image-width= 650 |caption= "Ole Yeller," flown by John Bagley at an air show in [[Rexburg, Idaho]].}}
+Hoover learned to fly at [[Nashville, Tennessee|Nashville]]'s [[Nashville International Airport|Berry Field]] while working at a local grocery store to pay for the flight training.&lt;ref name="Forever_Flying_p15_16"&gt;Hoover 1997, pp. 15–16.&lt;/ref&gt; He enlisted in the [[Tennessee Military Department|Tennessee National Guard]] and was sent for pilot training with the [[United States Army|Army]].&lt;ref name="Forever_Flying_p17"&gt;Hoover 1997, p. 17.&lt;/ref&gt;
+
+During World War II, Hoover was sent to [[Casablanca]], where his first major assignment was flight testing the assembled aircraft ready for service.&lt;ref name="Forever_Flying_p37"&gt;{{Cite book |last=Hoover |title=Forever Flying |page=37}}&lt;/ref&gt; He was later assigned to the [[Supermarine Spitfire|Spitfire]]-equipped [[52d Operations Group|52d Fighter Group]] in [[Sicily]].&lt;ref name="Forever_Flying_p50"&gt;Hoover 1997, p. 50.&lt;/ref&gt; On February 9, 1944, on his 59th mission, his malfunctioning Mark V Spitfire was shot down by a pilot of [[Jagdgeschwader 2]]&lt;ref&gt;{{cite news |url=http://bbs.hitechcreations.com/smf/index.php?topic=277903.0 |title=Bob Hoover and the Stolen FW-190 to escape from Stalag Luft 1 |work=Aces High Bulletin Board |accessdate=July 7, 2017}}&lt;/ref&gt; in a [[Focke-Wulf Fw 190]] off the coast of Southern France, and he was taken prisoner.&lt;ref name="Forever_Flying_p65_67"&gt;Hoover 1997, pp. 65–67.&lt;/ref&gt; He spent 16 months at the German [[internment|prison camp]] [[Stalag]] Luft 1 in [[Barth, Germany]].&lt;ref name="Forever_Flying_p90"&gt;Hoover 1997, p. 90.&lt;/ref&gt;
+
+After a staged fight covered his escape from the prison camp, Hoover managed to steal an [[Focke-Wulf Fw 190|Fw 190]] from a recovery unit's unguarded field&amp;nbsp;— the one flyable plane being kept there for spare parts&amp;nbsp;— and flew to safety in the [[Netherlands]].&lt;ref name="Forever_Flying_p88_90"&gt;Hoover 1997, pp. 88–90.&lt;/ref&gt; He was assigned to flight-test duty at [[Wilbur Wright Field]] after the war. There he impressed and befriended [[Chuck Yeager]].&lt;ref name="Forever_Flying_p93"&gt;Hoover 1997, p. 93.&lt;/ref&gt; When Yeager was later asked whom he wanted for flight crew for the [[Supersonic speed|supersonic]] [[Bell X-1]] flight, he named Hoover. Hoover became Yeager's backup pilot in the Bell X-1 program and flew chase for Yeager in a [[Lockheed P-80 Shooting Star]] during the [[Mach number|Mach]] 1 flight.&lt;ref name="Forever_Flying_110"&gt;Hoover 1997, p. 110.&lt;/ref&gt; He also flew chase for the 50th anniversary of the Mach 1 flight in a [[General Dynamics F-16 Fighting Falcon]].&lt;ref name="athens_post"&gt;[http://www.thepost.ohiou.edu/archives/archives/101597/briefly.html "Hoover Flys Chase for Yeager."] ''Ohio University Post'', October 15, 1997. Retrieved: November 29, 2008.{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+
+Hoover left the Air Force for civilian jobs in 1948.&lt;ref name="Forever_Flying_p137"&gt;Hoover 1997, p. 137.&lt;/ref&gt; After a brief time with [[Allison Engine Company]], he worked as a test/demonstration pilot with [[North American Aviation]], in which capacity he went to Korea to teach pilots in the [[Korean War]] how to dive-bomb with the [[North American F-86 Sabre|F-86 Sabre]]. During his six weeks in Korea, Hoover flew many combat bombing missions over enemy territory, but was denied permission to engage in air-to-air combat flights.&lt;ref&gt;Hoover 1997, pp. 187–189.&lt;/ref&gt;
+
+During the 1950s, Hoover visited many active-duty, reserve, and [[Air National Guard]] units to demonstrate planes' capabilities to their pilots. Hoover flew flight tests on the [[North American FJ-2 Fury|FJ-2 Fury]], F-86 Sabre, and the [[North American F-100 Super Sabre|F-100 Super Sabre]].
+
+In the early 1960s, Hoover began flying the [[North American P-51 Mustang]] at air shows around the country. The Hoover Mustang (N2251D) was purchased by North American Aviation from Dave Lindsay's [[Cavalier Aircraft|Cavalier Aircraft Corp.]] in 1962. A second Mustang (N51RH), later named "Ole Yeller", was purchased by North American Rockwell from Cavalier in 1971 to replace the earlier aircraft, which had been destroyed in a ground accident when an oxygen bottle exploded after being overfilled. Hoover demonstrated the Mustang and later the [[Aero Commander 500 family|Aero Commander]] at hundreds of air shows until his retirement in the 1990s. In 1997, Hoover sold "Ole Yeller" to his good friend John Bagley of Rexburg, Idaho. "Ole Yeller" still flies frequently and is based at the Legacy Flight Museum&lt;ref&gt;[http://www.legacyflightmuseum.com/planes.aspx "Library of Planes: Old Yeller."] {{webarchive |url=https://web.archive.org/web/20090512144432/http://www.legacyflightmuseum.com/planes.aspx |date=May 12, 2009 }} ''Legacyflightmuseum.com''. Retrieved: June 24, 2013.&lt;/ref&gt; in Rexburg.
+
+Hoover set transcontinental, time-to-climb, and speed records,&lt;ref name="Forever_Flying_p251_253"&gt;Hoover 1997, pp. 251–253.&lt;/ref&gt; and personally knew such great aviators as [[Wright brothers|Orville Wright]], [[Eddie Rickenbacker]], [[Charles Lindbergh]], [[Jimmy Doolittle]], [[Chuck Yeager]], [[Jacqueline Cochran]], [[Neil Armstrong]], and [[Yuri Gagarin]].&lt;ref name="Forever_Flying_p247"&gt;Hoover 1997, p. 247.&lt;/ref&gt;
+
+[[File:Bob Hoover Photo D Ramey Logan.jpg|thumb|left|Hoover at the final launch of [[SpaceShipOne]] in 2004]]
+Hoover was best known for his civil air show career, which started when he was hired to demonstrate the capabilities of [[Aero Commander]]'s [[Aero Commander 500 family|Shrike]] Commander, a twin piston-engined business aircraft that had developed a staid reputation due to its bulky shape. Hoover showed the strength of the plane as he put the aircraft through rolls, loops, and other maneuvers, which most people would not associate with executive aircraft. As a grand finale, he shut down both engines and executed a loop and an eight-point hesitation slow roll as he headed back to the runway. Upon landing he would touch down on one tire followed gradually by the other. After pulling off the runway, he would start his engines to taxi back to the parking area. On airfields with large enough parking ramps (such as the [[Reno Stead Airport]], where the [[Reno Air Races]] take place), Hoover would sometimes land directly on the ramp and coast all the way back to his parking spot in front of the grandstand without restarting the engines. He was also known for creating the stunt of successfully pouring a cup of tea while performing a [[g-force|1G]] [[barrel roll]].&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=V9pvG_ZSnCc |title=Bob Hoover Barrel Roll|publisher=YouTube |date=2014 |accessdate=2017-11-02}}&lt;/ref&gt;
+
+==End of career==
+[[File:Bob Hoover 2005 Gathering of Eagles Lithograph.jpg|thumb|Hoover's 2005 Gathering of Eagles Lithograph]]
+[[File:HooverShrike.JPG|thumb|right|Hoover's [[Shrike Commander]] at the [[Udvar-Hazy Center]]]]
+His air show aerobatics career ended in 1999, but was marked by issues with the FAA over his medical certification that began when Hoover's medical certificate was revoked by the [[Federal Aviation Administration]] (FAA) in the early 1990s.&lt;ref name="Forever_Flying_p278_279"&gt;Hoover 1997, pp. 278–279.&lt;/ref&gt;&lt;ref name="Facts"&gt;Jordan, Jon L., MD, JD. [http://www.faa.gov/other_visit/aviation_industry/designees_delegations/designee_types/ame/fasmb/editorials_jj/bobhoover/ "The Federal Air Surgeon's Column: Bob Hoover, the facts."] ''[[Federal Aviation Administration]]''. Retrieved: July 19, 2015.&lt;/ref&gt;
+
+Shortly before his revocation, Hoover experienced serious engine problems in a [[North American T-28 Trojan]] off the coast of California. During his return to [[Torrance, California|Torrance]], he was able to keep the engine running intermittently by constantly manipulating the throttle, mixture, and propeller levers. The engine seized at the moment of touchdown. Hoover believed his successful management of this difficult emergency should have convinced the FAA that he hadn't lost any ability.&lt;ref name="Forever_Flying_p280"&gt;Hoover 1997, p. 280.&lt;/ref&gt; Meanwhile, Hoover was granted a pilot's license, and medical certificate by Australia's aviation authorities.&lt;ref name="Forever_Flying_p281_282"&gt;Hoover 1997, pp. 281–282.&lt;/ref&gt; Hoover's medical certificate was restored shortly afterward and he returned to the American air show circuit for several years before retiring in 1999. At 77 years old Hoover still felt capable of performing and passed a rigorous FAA physical post retirement, but he was unable to obtain insurance for air shows. Although he had had free insurance for several years as part of air show sponsorship deals, he was forced in 1999 to pay for it out of his own pocket and could not get coverage under $2 million. His final air show was on November 13, 1999 at Luke Air Force base. His last flight in his famous Shrike Commander was on October 10, 2003 from Lakeland, Florida to the Smithsonian Air and Space museum in Washington D.C. with long time friend Steve Clegg.
+
+Following Hoover's retirement, his [[Shrike Commander]] was placed on display at the [[National Air and Space Museum]], [[Udvar-Hazy Center]], in [[Dulles, Virginia]].&lt;ref&gt;[http://airandspace.si.edu/collections/artifact.cfm?id=A20000796000 "North American Rockwell Shrike Commander 500S, Robert A. "Bob" Hoover."] {{webarchive |url=https://web.archive.org/web/20150721195628/http://airandspace.si.edu/collections/artifact.cfm?id=A20000796000 |date=July 21, 2015 }} ''Smithsonian National Air and Space Museum''. Retrieved: June 25, 2013.&lt;/ref&gt;
+
+In 2007, Hoover was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==Death==
+Hoover died on October 25, 2016 near his home in [[Los Angeles]] at the age of 94.&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2016/10/26/us/bob-hoover-dead.html?_r=0 |title=Bob Hoover, Aviator Whose Aerobatic Stunts Are Legend, Dies at 94 |work=[[The New York Times]] |last=Mellow |first=Craig H. |date=October 25, 2016 |accessdate=July 7, 2017}}&lt;/ref&gt;
+
+A memorial service and celebration of life honoring Bob Hoover was held on November 18, 2016, hosted by aerobatic legend [[Sean D. Tucker]] and world renowned pilot [[Clay Lacy]] at the [[Van Nuys Airport]]. Nearly 1,500 family and friends attended the memorial, with speakers such as Hollywood icon [[Harrison Ford]], film producer [[David Ellison]], Jonna Doolittle (granddaughter of [[Jimmy Doolittle]]) and many others. The event culminated with the [[United States Air Force]] [[Honor guard|Honor Guard]] presenting the American Flag to the family - which coincided with a three element fly-over. The lead element featured a [[Rockwell Sabreliner]] similar to that which Hoover flew during airshows, along with two [[F-16 Falcon|F-16s]] from the [[USAF Thunderbirds]] and a [[CT-114]] from the [[Canadian Forces Snowbirds]]. The second element featured the [[USAF Heritage Flight]] with an [[F-22 Raptor]] and two [[F-86 Sabrejet|F-86 Sabres]], and the third and final installment featured a four-ship [[World War II]] warbird flight, with the [[P-51]] Ole' Yeller pulling up in the [[missing man formation]] on the final note of [[Taps]].&lt;ref&gt;{{cite news |url=http://www.flyingmag.com/hundreds-honor-life-ra-bob-hoover |title=Hundreds Honor Life of R.A. Bob Hoover |work=[[Flying (magazine)|Flying]] |last=Bergqvist |first=Pia |date=November 21, 2016 |accessdate=July 7, 2017}}&lt;/ref&gt;
+
+==Honors and recognition==
+[[File:Bob Hoover and vet at Oshkosh 2011.jpg|thumb|270px|left|Bob Hoover meeting vet at [[EAA AirVenture Oshkosh]] in 2011]]
+Hoover was considered one of the founding fathers of modern [[aerobatics]] and was described by General [[Jimmy Doolittle]] as "the greatest stick-and-rudder man who ever lived".&lt;ref name="Hoover_NASM_Press_Release" /&gt; In the Centennial of Flight edition of ''[[Air &amp; Space/Smithsonian]]'', he was named the third greatest aviator in history.
+
+During his career, Hoover was awarded the following military medals: the [[Distinguished Flying Cross (United States)|Distinguished Flying Cross]], the [[Soldier's Medal]] for non-combat valor, the [[Air Medal]] with several oak leaf clusters, the [[Purple Heart]], and the French [[Croix de Guerre]].&lt;ref name="Forever_Flying_pxiii"&gt;Hoover 1997, p. xiii.&lt;/ref&gt; He was also made an honorary member of the [[Blue Angels]], the [[United States Air Force Thunderbirds|Thunderbirds]], the [[Snowbirds|RCAF Snowbirds]], the American Fighter Aces Association, and the original [[Eagle Squadrons|Eagle Squadron]], and received an Award of Merit from the American Fighter Pilots Association.&lt;ref name="Forever_Flying_pxiii" /&gt; He was inducted into the [[National Aviation Hall of Fame]] in 1988 and to the [[Aerospace Walk of Honor]] in 1992.&lt;ref name="Hoover_AWOH"&gt;[http://www.cityoflancasterca.org/Index.aspx?page=208#hoover "Hoover Biography."] {{webarchive |url=https://web.archive.org/web/20081220020706/http://www.cityoflancasterca.org/Index.aspx?page=208#hoover |date=December 20, 2008 }} ''Aerospace Walk of Honor, City of Lancaster, California''. Retrieved: November 29, 2008.&lt;/ref&gt;
+
+Hoover received the [[Living Legends of Aviation]] Freedom of Flight Award in 2006, which was renamed the Bob Hoover Freedom of Flight Award the following year. In 2007, he received the Smithsonian's [[National Air and Space Museum Trophy]]&lt;ref name="Hoover_NASM_Press_Release"&gt;[https://airandspace.si.edu/newsroom/press-releases/robert-bob-hoover-and-hale-sts-121-shuttle-team-are-smithsonians-national "Robert A. "Bob" Hoover and Hale, STS-121 Shuttle Team are Smithsonian's National Air and Space Museum Trophy Winners"] ''Smithsonian National Air and Space Museum'', March 7, 2007. Retrieved: July 7, 2017.{{cite web |url=http://www.nasm.si.edu/events/pressroom/releaseDetail.cfm?releaseID=166 |title=Archived copy |accessdate=2008-11-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20080303205529/http://www.nasm.si.edu/events/pressroom/releaseDetail.cfm?releaseID=166 |archivedate=March 3, 2008 |df= }}&lt;/ref&gt;&lt;ref name="Hoover_NASM"&gt;{{cite news |url=https://airandspace.si.edu/stories/editorial/remembering-robert-bob-hoover |title=Remembering the Extraordinary Man and Pilot Robert A. "Bob" Hoover |work=[[Smithsonian National Air and Space Museum]] |last=Cochrane |first=Dorothy |date=October 25, 2016 |accessdate=July 7, 2017}}&lt;/ref&gt; and was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt; 
+
+On May 18, 2010, Hoover delivered the 2010 Charles A. Lindbergh Memorial Lecture at the Smithsonian Institution's [[National Air and Space Museum]] in Washington, D.C. The [[U.S. Air Force Test Pilot School]] conferred an [[Honorary degree#Honorary doctorates|honorary doctorate]] on Hoover at the school's December 2010 graduation ceremony.&lt;ref name="PhD"&gt;"That's Dr. Hoover to You." ''Air &amp; Space/Smithsonian'', Volume, 25, Issue 7, February–March 2011, p. 11. ISSN 0886-2257&lt;/ref&gt; [[Flying (magazine)|''Flying'' magazine]] placed Hoover number 10 on its list of "The 51 Heroes of Aviation" in 2013.&lt;ref name="51HeroesofAviation"/&gt;
+
+On December 12, 2014, at the Aero Club of Washington's 67th annual Wright Memorial Dinner, Hoover was awarded the National Aeronautic Association's [[Wright Brothers Memorial Trophy]].
+
+The R.A. "Bob" Hoover Trophy is named in honor of him, and awarded to those who have demonstrated the airmanship, leadership, and passion that Hoover did during his career and life.&lt;ref&gt;{{cite web|url=https://generalaviationnews.com/2017/03/09/ga-leaders-awarded-during-bob-hoover-trophy-reception/|title=GA leaders awarded during Bob Hoover Trophy reception|publisher= General Aviation News|accessdate= 9 March 2017}}&lt;/ref&gt;
+
+On March 11, 2017, at the 2017 [[United States Air Force Academy]] Recognition Dinner, Hoover was announced as the Exemplar for the USAFA Class of 2020.{{Citation needed|date=March 2017}}
+
+== ''Flying the Feathered Edge'' ==
+{{Main|Flying the Feathered Edge: The Bob Hoover Project}}
+Hoover's decades of revolutionary flying formed the framework for the 2014 documentary film, ''[[Flying the Feathered Edge: The Bob Hoover Project]]'', directed by Kim Furst, which centers around Hoover's life and legacy. It was premiered at the [[EAA AirVenture Oshkosh]] convention in July 2014.&lt;ref&gt;[http://www.eaa.org/en/airventure/eaa-airventure-news-and-multimedia/eaa-airventure-news/eaa-airventure-oshkosh/2014-07-30-bob-hoover-documentary-preview-screening-at-airventure-warmly-receivedEAA "Bob Hoover Documentary Preview Screening at AirVenture Warmly Received."]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }} ''Oshkosh Daily Paper'', July 25, 2014.&lt;/ref&gt;
+
+[[Harrison Ford]] and [[Sean D. Tucker]] frame the documentary about the aviation pioneer.&lt;ref&gt;FilmStew.com, Harrison Ford Frames Documentary About Beloved Aviation Pioneer, July 30, 2014&lt;/ref&gt; The film begins with a tribute to Hoover's flying skills by [[Neil Armstrong]], and stars [[Burt Rutan]], [[Dick Rutan]], [[Carroll Shelby]], [[Eugene Cernan|Gene Cernan]], [[Medal of Honor]] Recipient Col. George E. [[Bud Day]], and [[Clay Lacy]], among others.&lt;ref name="generalaviationnews.com"&gt;[http://generalaviationnews.com/author/ganstaff/ "Bob Hoover documentary premieres Aug. 10."] ''General Aviation News'', August 7, 2014.&lt;/ref&gt;
+
+''Flying the Feathered Edge'' was a three-year project and tells Hoover's story from his first flying lessons before World War II to his combat and postwar careers as a test pilot and air show legend.&lt;ref&gt;[http://www.aero-news.net "Flying The Feathered Edge."] ''The Bob Hoover Project'', July 25, 2014.&lt;/ref&gt;&lt;ref name="generalaviationnews.com" /&gt; Reporter Fred George's review in the [[Aviation Week|Aviation Week Network]] stated, "After 90 minutes there were few dry eyes in the house as the credits rolled at the end of the documentary&amp;nbsp;... in Aviation Week's opinion, a film well worth our reader's viewing time when it appears in nearby theaters."&lt;ref&gt;[http://aviationweek.com/blog/hoover-bio-pic-premiers-airventure "Things with Wings: Hoover Bio Pic Premiers at AirVenture."] ''Aviation Week Blog'', July 30, 2014.&lt;/ref&gt;
+
+The official film premier was held August 2014 at the [[Rhode Island International Film Festival]] at the [[Veterans Memorial Auditorium (Providence)]] in Providence, Rhode Island,&lt;ref name="generalaviationnews.com" /&gt; winning the Grand Prize "Soldiers and Sacrifice Award".&lt;ref&gt;[http://www.film-festival.org/award14.php "RIIFF Awards, 2014 Film Festival Award Winners Announced."] ''film-festival.org'',  August 10, 2014.&lt;/ref&gt; The film received the Combs Gates Award from the [[National Aviation Hall of Fame]] in 2015 for "excellence in preserving aerospace history".&lt;ref&gt;{{cite news |url=https://www.aopa.org/news-and-media/all-news/2015/november/19/bob-hoover-film-wins-combs-gates-award |title=Bob Hoover film wins Combs Gates Award |work=[[Aircraft Owners and Pilots Association]] |last=Marsh |first=Alton K. |date=November 19, 2015 |accessdate=July 7, 2017 |deadurl=yes |archiveurl=https://web.archive.org/web/20161026075417/https://www.aopa.org/news-and-media/all-news/2015/november/19/bob-hoover-film-wins-combs-gates-award |archivedate=October 26, 2016 |df= }}&lt;/ref&gt;
+
+==Hoover Nozzle and Hoover Ring==
+The "Hoover Nozzle", used on jet fuel pumps, is designed with a flattened bell shape. It cannot be inserted in the filler neck of a plane with the "Hoover Ring" installed, thus preventing the tank from accidentally being filled with jet fuel.
+
+This system was given this name following an accident in which Hoover was seriously injured, when both engines on his Shrike Commander failed during takeoff. Investigators found that the plane had just been fueled by line personnel who mistook the piston-engine Shrike for a similar [[turboprop]] model, filling the tanks with [[jet fuel]] instead of [[avgas]] (aviation gasoline).&lt;ref name="Forever_Flying_p275_277"&gt;Hoover 1997, pp. 275–277.&lt;/ref&gt; There was enough avgas in the fuel system to taxi to the runway and take off, but then the jet fuel was drawn into the engines, causing them to stop.
+
+Once Hoover recovered, he widely promoted&lt;ref&gt;[http://avstop.com/news_sept_2010/six_aviation_legends_to_be_recognized_as_master_pilots.htm "Six aviation legends to be recognized as 'Master Pilots'."] ''Aviation Online Magazine'', September 19, 2010. Retrieved: June 24, 2013.&lt;/ref&gt; the use of the new type of nozzle with the support and funding of the [[National Air Transportation Association]], [[General Aviation Manufacturers Association]], and various other aviation groups (the nozzle is now required by Federal regulation on jet fuel pumps).&lt;ref&gt;[http://www.faa.gov/news/safety_briefing/2005/media/julaug2005.pdf   "The Causes and Remedies of Aviation Misfueling."] {{webarchive|url=https://web.archive.org/web/20150924050324/http://www.faa.gov/news/safety_briefing/2005/media/julaug2005.pdf |date=2015-09-24 }} ''Federal Aviation Administration'', July–August 2005, p. 20. Retrieved: June 24, 2013.&lt;/ref&gt;&lt;ref&gt;[http://nata.aero/data/files/safety%201st%20documents/etoolkit/safety1st%20etoolkit_24_%20jul-aug%202006.pdf "Aircraft Misfueling – A Continuing Threat."] ''NATA Safety 1st eToolkit'', July 18, 2006, p. 1. Retrieved: June 24, 2013.&lt;/ref&gt;
+
+==See also==
+{{Portal|Biography|United States Air Force}}
+*[[List of prisoners of war]]
+*[[Society of Experimental Test Pilots]]
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* Hoover, Robert A. ''Forever Flying:Fifty Years of High-Flying Adventures, From Barnstorming in Prop Planes to Dogfighting Germans to Testing Supersonic Jets: An Autobiography''. New York: Pocket Books, 1997. {{ISBN|978-0-67153-761-6}}.
+{{Refend}}
+
+==External links==
+* ''[http://www.ustream.tv/recorded/7027064 Bob Hoover: A Legendary Stick and Rudder Man ''] | [[National Air and Space Museum]]
+* [http://www.thebobhooverproject.com/ The Bob Hoover Project: Flying the Feathered Edge]
+* [http://www.nationalaviation.org/hoover-robert/ Biography in the National Aviation Hall of Fame]
+* [http://airportjournals.com/bob-hoover-a-calm-voice-in-the-face-of-disaster/ Biography in ''Airport Journals'']
+* [https://www.aopa.org/news-and-media/all-news/2016/october/26/aviation-legend-bob-hoover-dies-at-94 Aviation Legend Bob Hoover dies at 94]
+* [https://web.archive.org/web/20151027182122/http://ameliaslanding.com/images/Videos/2006-3-11_bob_hoover.avi Bob Hoover video in which he pours tea while performing a barrel roll] from [https://web.archive.org/web/20120520085044/http://www.ameliaslanding.com/aviation_videos.htm Amelia's Landing Hotel aviation video library]
+* [https://web.archive.org/web/20110722175734/http://www.au.af.mil/au/goe/eagle_bios/2005/hoover_2005.asp Hoover 2005 Gathering of Eagles Biography]
+* [https://www.nytimes.com/2016/10/26/us/bob-hoover-dead.html Hoover obituary] via ''[[The New York Times]]''
+
+{{Recipients of the Soldier's Medal}}
+{{Aerobatics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hoover, Robert A.}}
+[[Category:1922 births]]
+[[Category:2016 deaths]]
+[[Category:American aviators]]
+[[Category:American test pilots]]
+[[Category:American aviation record holders]]
+[[Category:Aerobatic pilots]]
+[[Category:Aviators from Tennessee]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:People from Nashville, Tennessee]]
+[[Category:Recipients of the Distinguished Flying Cross (United States)]]
+[[Category:Recipients of the Croix de Guerre (France)]]
+[[Category:Recipients of the Soldier's Medal]]
+[[Category:Recipients of the Air Medal]]
+[[Category:Survivors of aviation accidents or incidents]]
+[[Category:U.S. Air Force Test Pilot School alumni]]
+[[Category:United States Air Force officers]]
+[[Category:United States Army Air Forces pilots of World War II]]
+[[Category:United States Army Air Forces officers]]
+[[Category:World War II prisoners of war held by Germany]]</text>
+      <sha1>p9wx0twig5nj929dvhkxnyl4ou3rp14</sha1>
+    </revision>
+  </page>
+</mediawiki>

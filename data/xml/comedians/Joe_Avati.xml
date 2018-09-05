@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joe Avati</title>
+    <ns>0</ns>
+    <id>3862911</id>
+    <revision>
+      <id>773488462</id>
+      <parentid>773222783</parentid>
+      <timestamp>2017-04-02T18:41:47Z</timestamp>
+      <contributor>
+        <username>GünniX</username>
+        <id>237572</id>
+      </contributor>
+      <minor/>
+      <comment>References</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2854">{{Use dmy dates|date=June 2015}}
+'''Joe Avati''' (born 1974) is an [[Italian-Australian]] [[comedian]] who is popular among Italian and descendant of Italians from his native [[Australia]], as well as in [[Canada]], [[United Kingdom]] and the [[United States]], where he has performed on several occasions. 
+
+== Comedic style ==
+His parents are from [[Calabria]] in [[Italy]] and some of his show is performed in the [[Calabrian languages|Calabrese]] dialect, in English with or without a Calabrese accent.
+
+Avati's [[observational comedy|observational brand of comedy]] have earned him comparisons to [[Jerry Seinfeld]], and in promotions he is referred to as "the Italian Seinfeld". His observations are drawn from the life around his Italian family, particularly his experiences growing up. The characters and traits that Avati mentions seem to be universal in Italian families, which is why audiences familiar with this cultures are able to identify with him.{{cn|date=April 2017}}
+
+== Career ==
+Avati kicked off his career by releasing a tape entitled "[[Livin' la Dole-Cheque Vita]]" in late 1999. He also released [[Live and Unpluggato]] in late 2000 which was placed on the internet as a downloadable [[MP3]]. This album went on to become the number one selling comedy album in Canada for 18 months.{{cn|date=April 2017}}
+
+The stage show - IL DAGO - a "boy band" parody act was produced by Joe Avati and toured to major cities and regional centers around Australia from April 2007 until December 2009. IL Dago starred Joe Avati, [[George Kapiniaris]], [[Simon Palomares]] &amp; [[Nish Selvadurai]]. The show won the prestigious: "Most Outstanding Club Performers of the Year" and "Best Comedy Act of 2007" at the 10th Annual Australian Club Entertainment Awards.&lt;ref&gt;https://web.archive.org/web/20110219070608/http://www.aceawards.com.au/2007.php&lt;/ref&gt; 
+
+Avati began a national Canadian Tour in April 2008 followed by an extended tour of the award winning IL DAGO show throughout that same year.&lt;ref&gt;http://www.joeavati.com/tour/&lt;/ref&gt;
+
+==Discography==
+* Live and Unpluggato (1999)
+* Livin' la Dole-Cheque Vita (2000)
+* Best of Joe Avati Live
+* An Evening in Montreal
+
+==DVDs==
+* Vivo!
+* Live in Canada
+* Back Home and Live (2006)
+The Best of Joe Avati Live 2000 - 2007
+
+==References==
+&lt;references /&gt;
+
+== External links ==
+* {{Official website|http://www.joeavati.com}}
+* [http://www.myspace.com/joeavati MySpace website]
+* [https://www.youtube.com/joeavati YouTube Channel]
+* [https://web.archive.org/web/20110219070608/http://www.aceawards.com.au/2007.php 10th Annual Australian Club Entertainment Awards]
+
+{{Authority control}}
+{{DEFAULTSORT:Avati, Joe}}
+[[Category:Australian people of Italian descent]]
+[[Category:Australian people of Calabrian descent]]
+[[Category:Living people]]
+[[Category:1974 births]]
+[[Category:Australian male comedians]]</text>
+      <sha1>ncsu2kz5dscw4ti4oao6250ed98sli6</sha1>
+    </revision>
+  </page>
+</mediawiki>

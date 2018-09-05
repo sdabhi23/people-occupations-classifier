@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Liljemark</title>
+    <ns>0</ns>
+    <id>1892451</id>
+    <revision>
+      <id>818086121</id>
+      <parentid>711617724</parentid>
+      <timestamp>2018-01-01T13:18:55Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.6.1) ([[User:Balon Greyjoy|Balon Greyjoy]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2092">{{BLP sources|date=October 2011}}
+
+[[File:David Liljemark.jpg|thumb|David Liljemark]]
+'''David "Dayw" Liljemark''' (born in 1973 in [[Karlstad]], [[Värmland County]]) is a [[Sweden|Swedish]] [[list of comic creators|comic creator]], artist, and musician. Debuting at a young age in the Swedish [[fanzine]]/ [[mini-comic]] circles, Liljemark later became one of the most productive professional [[cartoonists]] of Sweden, having been published in big newspapers such as [[Dagens Nyheter]], magazines such as ''[[Galago (comics)|Galago]]'' and the Swedish edition of [[Mad Magazine]], and [[comic books]] such as ''[[Pyton|Mega-Pyton]]''.&lt;ref name=svd&gt;[http://www.svd.se/kultur/vulgart-och-groteskt-blir-mjukt-i-serieforpackning_98271.svd Vulgärt och groteskt blir mjukt i serieförpackning], ''[[Svenska Dagbladet]]'' 26 June 2013, retrieved 20 July 2014 {{sv icon}}&lt;/ref&gt; He has also produced several [[comic album]]s.&lt;ref name=dn&gt;[http://www.dn.se/dnbok/karismatisk-kvacksalvare-blir-seriefigur/ Karismatisk kvacksalvare blir seriefigur] {{webarchive|url=https://web.archive.org/web/20150924053149/http://www.dn.se/dnbok/karismatisk-kvacksalvare-blir-seriefigur/ |date=2015-09-24 }}, ''[[Dagens Nyheter]]'' 29 July 2009, retrieved 20 July 2014 {{sv icon}}&lt;/ref&gt;
+
+David Liljemark is also a musician, active in the Swedish band ''The Wonder Boys''.
+
+Liljemark received the [[Gustaf Fröding]] stipend awarded by [[Karlstad Municipality]] in 2010.&lt;ref&gt;[http://sverigesradio.se/sida/artikel.aspx?programid=93&amp;artikel=4214447 Tre delar på Frödingstipendium], ''[[Sveriges Radio]]'' 1 December 2010, retrieved 20 July 2014 {{sv icon}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.optimalpress.com/liljemark.html Optimal Press' David Liljemark Page] (in Swedish)
+* [http://www.thewonderboys.se/ The Wonder Boys]
+
+{{Authority control}}
+{{DEFAULTSORT:Liljemark, David}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:People from Karlstad]]
+[[Category:Swedish comics artists]]
+[[Category:Swedish cartoonists]]
+
+
+{{Sweden-artist-stub}}
+{{comics-creator-stub}}</text>
+      <sha1>g9qsqu5w9hddwgpg7rno0ijbew3yhry</sha1>
+    </revision>
+  </page>
+</mediawiki>

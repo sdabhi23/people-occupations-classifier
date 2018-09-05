@@ -1,0 +1,470 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Taran Killam</title>
+    <ns>0</ns>
+    <id>4789438</id>
+    <revision>
+      <id>854664511</id>
+      <parentid>854243550</parentid>
+      <timestamp>2018-08-13T00:04:17Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>standard quote handling in WP;standard Apostrophe/quotation marks in WP; MOS general fixes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20855">{{Infobox comedian
+| image       = 10.13.13TaranKillamByLuigiNovi1.jpg
+| imagesize   = 
+| caption     = Killam at the [[New York Comic Con]]
+| birth_name  = Taran Hourie Killam
+| birth_date  = {{Birth date and age|1982|4|1}}
+| birth_place = [[Culver City, California|Culver City]], [[California]], U.S.
+| death_date =
+| death_place =
+| medium = Film, television, stage
+| nationality = American
+| occupation  = Actor, writer, comedian
+| active = 1994–present
+| spouse      = {{Marriage|[[Cobie Smulders]]|September 8, 2012}}
+| children    = 2
+| genre = [[Improvisational comedy]], [[sketch comedy]], [[satire]] 
+| subject = [[American culture]], [[current events]], [[popular culture|pop culture]], [[mass media]]
+| notable_work = ''[[Saturday Night Live]]''&lt;br /&gt;''[[Wild 'N Out]]''&lt;br /&gt;''[[The Amanda Show]]'' &lt;br /&gt; ''[[Hamilton (musical)|Hamilton]]''&lt;br /&gt;''[[Stuck in the Suburbs]]
+}}
+'''Taran Hourie Killam''' (born April 1, 1982) is an American actor, comedian, and writer. He is best known for his television work on shows such as ''[[The Amanda Show]]'', ''[[Wild 'n Out]]'', ''[[Mad TV]]'',  and ''[[Saturday Night Live]]''. Killam is also known for his portrayal of a teen pop star in the 2004 Disney Channel Original Movie ''[[Stuck in the Suburbs]]''.
+
+Killam performed the role of [[King George III]] in the [[Broadway theatre|Broadway]] production of ''[[Hamilton (musical)|Hamilton]]'' at the [[Richard Rodgers Theatre]], ending his run on the evening of April 13, 2017.
+
+==Early life==
+Killam was born on April 1, 1982&lt;ref name=tvg&gt;{{cite web| url = http://www.tvguide.com/celebrities/taran-killam/216438 |title=Taran Killam| publisher=[[TV Guide|TVGuide.com]] | accessdate= March 22, 2014|archivedate=September 15, 2015| archiveurl = https://web.archive.org/web/20150915021447/http://www.tvguide.com/celebrities/taran-killam/bio/216438/}}&lt;/ref&gt; in [[Culver City, California]], and grew up in [[Big Bear Lake, California]].&lt;ref&gt;{{cite news|url=http://www.bigbeargrizzly.net/archive/article_1d60084d-3d7a-565e-8ab0-9bae8fcd470f.html|title=From Big Bear to big time-Taran Killam|date=July 15, 2004|accessdate=April 18, 2012|first=Arrissia|last=Owen Turner}}&lt;/ref&gt; He graduated from the [[Los Angeles County High School for the Arts]]. Killam attended the [[University of California, Los Angeles]] for one year in 2000.&lt;ref&gt;Yan, Marjorie (February 22, 2011). [http://dailybruin.com/2011/02/22/killam_with_laughter_actor_comedian_and_former_bruin_lands_dream_job_on_saturday_night_live_cast/ "Killam with laughter: actor, comedian, and former Bruin lands dream job on “˜Saturday Night Live’ cast"]. ''[[Daily Bruin]]''. [[University of California, Los Angeles]].&lt;/ref&gt;
+
+==Career==
+
+===Early career===
+In 1994, Killam made his first film appearance as an adolescent in ''[[Naked Gun 33⅓: The Final Insult]]''. Killam was featured on Nickelodeon's ''[[The Amanda Show]]'', a sketch-comedy vehicle for [[Amanda Bynes]], on which he played Spaulding, a boy who had a huge crush on Moody, in the soap opera parody "Moody's Point".
+
+Killam joined the cast of ''[[MADtv]]'' as a featured player during its seventh season from 2001 to 2002. Of the 25 episodes that aired during ''MADtv''{{'}}s seventh season, Killam appeared fully in 13 episodes. Joining the ''MADtv'' cast at age 19, Killam was the youngest cast member hired on the show and the only cast member on ''MADtv'' to get his start on children's shows (similar to [[Kenan Thompson]] on ''Saturday Night Live''). He was a regular cast member on the third and fourth seasons of [[Nick Cannon]]'s ''[[Wild 'N Out]]''. In 2005, Killam co-starred in the television pilot ''[[Nobody's Watching]]'', which never aired on network TV.  The pilot gained popularity after it was leaked online and webisodes were produced from 2006 to 2007.&lt;ref&gt;[https://www.youtube.com/watch?v=gkhESh4ERnM&amp;NR=1 "Nobody's Watching Part 2 "], [[YouTube]], June 8, 2006&lt;/ref&gt;
+
+Killam co-starred in the 2004 [[List of Disney Channel original films|Disney Channel original film]] ''[[Stuck in the Suburbs]]''. After ''MADtv'', Killam appeared on TV shows such as ''[[Jake in Progress]]'', ''[[Still Standing (TV series)|Still Standing]]'', ''[[Boston Public]]'', ''[[Drake &amp; Josh]]'', ''[[Do Over]]'', ''[[Roswell (TV series)|Roswell]]'' and ''[[Judging Amy]]''. He has appeared on ''[[Scrubs (TV series)|Scrubs]]'' and ''[[Scrubs: Interns]]'' as [[List of minor characters of Scrubs#Jimmy|Jimmy (the Overly Touchy Orderly)]]. Killam appeared as a contestant on the episode of ''[[The Price Is Right (U.S. game show)|The Price Is Right]]'' which aired on December 7, 2006. The episode was re-aired on July 19, 2007.
+
+He has been in ''[[Big Fat Liar]]'', ''[[Just Married]]'', ''Anderson's Cross'', and ''[[My Best Friend's Girl (2008 film)|My Best Friend's Girl]]''.
+
+Killam was a member of the [[Los Angeles]]-based improvisational and sketch-comedy troupe [[the Groundlings]]. He retired from the main company in  2012.
+
+===''Saturday Night Live''===
+On September 25, 2010, Killam joined the cast of ''[[Saturday Night Live]]'' for the 36th season, making him the second Nickelodeon veteran (after [[Kenan Thompson]]) to join ''SNL'' and the second ''SNL'' cast member who was previously a cast member on the sketch show ''[[MADtv]]'' (after [[Jeff Richards (comedian)|Jeff Richards]]). Killam named [[Eddie Murphy]] as his favorite ''SNL'' cast member and [[Arcade Fire]] as his favorite musical guest.&lt;ref  name=CBR10.17.13&gt;Dietsch, T.J. (October 17, 2013). [http://www.comicbookresources.com/?page=article&amp;id=48554 "NYCC: 'Saturday Night Live's' Taran Killam Debriefs 'The Illegitimates'"]. [[Comic Book Resources]].&lt;/ref&gt; In August 2016, Killam along with [[Jay Pharoah]] were let go from ''SNL''.&lt;ref&gt;{{cite web|last1=Ausiello|first1=Michael|title=SNL Vets Taran Killam and Jay Pharoah Not Returning for Season 42|url=http://tvline.com/2016/08/08/snl-season-42-taran-killam-jay-pharoah-leaving-saturday-night-live/|accessdate=February 19, 2017 | publisher=TVLine.com|date=August 8, 2016|archivedate= August 9, 2016| archiveurl= https://web.archive.org/web/20160809222510/http://tvline.com/2016/08/08/snl-season-42-taran-killam-jay-pharoah-leaving-saturday-night-live/|deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url=http://uproxx.com/movies/taran-killam-leaving-snl-interview/| title=Taran Killam On Why He's Leaving 'Saturday Night Live'|first=Mike|last=Ryan| publisher=[[Uproxx.com]]| date=August 8, 2016|accessdate=February 19, 2017| archivedate=August 10, 2016| archiveurl=https://web.archive.org/web/20160810035851/http://uproxx.com/movies/taran-killam-leaving-snl-interview/ | deadurl=no}}&lt;/ref&gt;
+
+===Other work===
+In December 2011, Killam replicated the Robyn video "Call Your Girlfriend" in a small writer's room and posted it to YouTube. The video went viral and by January 6, 2015 it had been viewed more than 958,382 times.&lt;ref&gt;{{cite web |url= https://www.youtube.com/watch?v=YbEOr5Weqb8 |date= December 12, 2011 |title= Call Your Girlfriend SNL |accessdate= August 24, 2013}}&lt;/ref&gt; The late night antics briefly became an [[Internet phenomenon]] and garnered Killam media and public attention.&lt;ref&gt;{{cite web |url= https://www.washingtonpost.com/blogs/celebritology/post/taran-killam-and-snl-cohorts-do-late-night-recreation-of-robyns-call-your-girlfriend-video/2011/12/13/gIQA5P9srO_blog.html/ |author= Hughes, Sarah |date= December 13, 2011 |title= Taran Killam and 'SNL' cohorts do late night recreation of Robyn's 'Call Your Girlfriend' (Video) |publisher= Washington Post |accessdate= February 7, 2013}}&lt;/ref&gt; When interviewed on ''[[Late Night with Jimmy Fallon]]'', Killam stated that he had not known the dance shown in the song's official video until Robyn was scheduled to appear on ''SNL'' as a guest; then, he watched the video repeatedly until he could perform it himself.&lt;ref&gt;{{cite web |url= http://www.latenightwithjimmyfallon.com/video/talkin-robyn-with-taran-killam/n19054/ |title= Talkin' Robyn with Taran Killam |publisher= [[Late Night with Jimmy Fallon]] |accessdate= February 7, 2013}}&lt;/ref&gt;
+
+In 2011, Killam appeared in ''[[Community (TV series)|Community]]'' episode "[[Regional Holiday Music]]" as Mr. Radison (Mr. Rad), a parody of [[Will Schuester]] from ''[[Glee (TV series)|Glee]]''. In 2012 he appeared in ''[[iCarly]]'' episode "[[iMeet the First Lady]]" as a Secret Service agent.
+
+On November 10, 2012, Killam appeared with Kenan Thompson in a short video, "The Legend of Mokiki and the Sloppy Swish". Mokiki is a laboratory test subject who wanders Manhattan performing a shuffling move known as the "Sloppy Swish". The [[Sketch comedy|sketch]] briefly became an [[Internet phenomenon]] and garnered Killam media and public attention.&lt;ref name="mash"&gt;{{cite web |url= http://mashable.com/2012/11/11/mokiki-sloppy-swish-snl/ |author= Hernandez, Brian Anthony |date= November 11, 2012 |title= Mokiki's Sloppy Swish Is the Next 'Gangnam Style' |publisher= [[Mashable]] |accessdate= February 3, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://now.msn.com/sloppy-swish-by-mokiki-viral-video-from-snl |date= November 12, 2012 |title= What's Trending: Look Out, Psy: SNL's 'Sloppy Swish' Might be the Next 'Gangnam Style' |publisher= [[MSN]] Now |quote= The ridiculous "Sloppy Swish" dance by Mokiki was featured in an SNL sketch last night, and, with the speed that it's gone viral today, some people are predicting it could be the next [[Gangnam Style]]. Parodies have already begun springing up on YouTube and there are Tumblr pages for both "Mokiki" and "Sloppy Swish." Sorry, [[Psy (entertainer)|Psy]] — there may be a new viral dance sensation on the block. |accessdate= February 3, 2013 |deadurl= yes |archiveurl= https://web.archive.org/web/20121115030903/http://now.msn.com/sloppy-swish-by-mokiki-viral-video-from-snl |archivedate= November 15, 2012 |df=  }}&lt;/ref&gt; Mike Ryan of ''[[The Huffington Post]]'' wrote, "It is one of the most bizarre things to ever air on ''SNL'', yet, the next day, everyone was talking about the Sloppy Swish."&lt;ref name="Ryan"&gt;{{cite web |url= http://www.huffingtonpost.com/2012/11/14/saturday-night-live-sloppy-swish_n_2125852.html |author= Ryan, Mike |date= November 14, 2012 |title= 'Saturday Night Live': Origins Of The Sloppy Swish And Mokiki, Explained By Taran Killam |publisher= ''[[The Huffington Post]]'' |accessdate= February 3, 2013}}&lt;/ref&gt;
+
+Killam co-starred in the 2013 comedy film ''[[The Heat (film)|The Heat]]''. Killam voices Zip "Frantic" Danger on the [[Hulu]] original series ''[[The Awesomes]]''.
+
+In 2013 Killam ventured into the spy genre and the comics industry with ''[[The Illegitimates]]'', a six-issue comics miniseries co-written by [[Marc Andreyko]], illustrated by Kevin Sharpe and published by [[IDW Publishing]]. The series focuses on a team of illegitimate siblings who are charged with taking the place of their father, Jack Steele, a [[James Bond]]-like spy, after his death. The first issue was published December 18, 2013,&lt;ref name=CBR10.17.13/&gt; and received mixed reviews.&lt;ref name=BleedingCool&gt;Konrad, Jeremy (October 16, 2013). [http://www.bleedingcool.com/2013/10/16/taran-killam-and-idws-the-illegitimates-win-over-the-crowd/ "Taran Killam And IDW’s The Illegitimates Win Over The Crowd"]. [[Bleeding Cool]].&lt;/ref&gt;&lt;ref&gt;Jasper, Marykate (December 20, 2013). [http://www.comicbookresources.com/?page=user_review&amp;id=6799 "The Illegitimates #1"]. Comic Book Resources.&lt;/ref&gt;&lt;ref&gt;Ostrowski, Vince (December 19, 2013). [http://multiversitycomics.com/reviews/review-the-illegitimates-1/ "Review: The Illegitimates #1"]. [[Multiversity Comics]].&lt;/ref&gt;&lt;ref&gt;Hunsaker, Andy (December 18, 2013). [http://www.craveonline.com/comics/reviews/620003-the-illegitimates-1-snl-star-taran-killams-comic-debut "The Illegitimates #1: ‘SNL’ Star Taran Killam’s Comic Debut"]. [[CraveOnline]].&lt;/ref&gt;
+
+Killam appears in the 2013 film ''[[12 Years a Slave (film)|12 Years a Slave]]'', playing the role of Abram Hamilton, one of the kidnappers who brought the main character into slavery.
+
+Killam is a fan of the ''[[Teenage Mutant Ninja Turtles]]'' franchise ([[Raphael (Teenage Mutant Ninja Turtles)|Raphael]] in particular), and successfully lobbied for a cameo role in the [[Teenage Mutant Ninja Turtles (2014 film)|2014 film]].&lt;ref name=CBR10.17.13/&gt;
+
+Killam made six guest appearances as Gary Blauman on his wife [[Cobie Smulders]]' TV series, ''[[How I Met Your Mother]]''. His first appearance was in the March 20, 2006 episode, "[[Life Among the Gorillas]]" and the final one was the March 24, 2014 episode, "[[The End of the Aisle]]".
+
+In 2015, Killam provided the voice of the titular character on the PBS Kids show ''[[Nature Cat]]'', along with ''SNL'' alumni [[Kate McKinnon]], [[Bobby Moynihan]], and [[Kenan Thompson]].
+
+On January 17, 2017 Killam succeeded [[Rory O'Malley]] in the role of [[King George III]] in the Broadway musical ''[[Hamilton (musical)|Hamilton]]''.&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/news/taran-killam-make-broadway-debut-hamilton-956153|title=aran Killam to Make Broadway Debut in 'Hamilton' |last=Lee|first=Ashley|date=December 14, 2016|work=[[The Hollywood Reporter]]|accessdate=December 14, 2016}}&lt;/ref&gt;
+
+Killam produced, scripted, directed and starred in the comic hitman film ''[[Killing Gunther]]'', given a general release in fall 2017. [[Arnold Schwarzenegger]], who played Gunther in the film, served as [[executive producer]] for it.
+
+==Personal life==
+After several years of dating, Killam and Canadian actress [[Cobie Smulders]] became engaged in January 2009.&lt;ref&gt;{{cite web|url=http://www.people.com/people/article/0,,20255446,00.html|title=HIMYM's Cobie Smulders Flashes Her New Engagement Ring |last=Alexander|first=Reagan|date=January 28, 2009|publisher=People|accessdate=25 November 2009}}&lt;/ref&gt; They married on September 8, 2012, in [[Solvang, California]].&lt;ref&gt;{{cite web|url=http://rumorfix.com/2012/09/snls-taran-killam-marries-how-i-met-your-mothers-cobie-smulders-exclusive/|title="SNL's" Taran Killam Marries "How I Met Your Mother's" Cobie Smulders — Exclusive|date=September 8, 2012|publisher=RumorFix|accessdate=September 8, 2012}}&lt;/ref&gt; The couple have two daughters. The first, Shaelyn Cado Killam, was born May 16, 2009;&lt;ref&gt;{{cite news|url=http://www.people.com/people/article/0,,20289390,00.html|title=It's a Girl for Cobie Smulders |last=Leon|first=Anya|date=July 3, 2009|newspaper=[[People (magazine)|People]]}}&lt;/ref&gt; the second, named Joelle, was born in January 2015.&lt;ref&gt;{{cite web|url=http://celebritybabies.people.com/2014/10/21/cobie-smulders-pregnant-taran-killam-second-child/|title=Taran Killam and Cobie Smulders Expecting Second Child|work=[[People (magazine)|People]]|date=October 21, 2014|accessdate=October 21, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bustle.com/articles/60735-unexpected-star-cobie-smulders-director-kris-swanberg-on-finally-making-a-pregnancy-film-from-the|title='Unexpected' Star Cobie Smulders &amp; Director Kris Swanberg On Finally Making a Pregnancy Film From the Female Perspective|first=Anna|last=Klassen|date=January 26, 2015|accessdate=January 30, 2015}}&lt;/ref&gt;&lt;!--Bustle page appears to be non-archivable on both Archive.org and WebCitation.org--&gt;
+
+==Filmography==
+
+===Film===
+{| class="wikitable"
+|-
+! Year 
+! Title 
+! Role 
+! Notes
+|-
+| 1994
+| ''[[Naked Gun 33⅓: The Final Insult]]''
+| Boy of Geriatric Park 
+| 
+|-
+| 2002
+| ''[[Big Fat Liar]]''
+| Bret Callaway
+|
+|-
+| 2003
+| ''[[Just Married]]''
+| Dickie McNerney
+|
+|-
+| 2004
+| ''[[Stuck in the Suburbs]]''
+| Jordan Cahill
+|
+|-
+| 2006
+| ''The Showdown''
+| The Batter
+| Short film
+|-
+| 2006
+| ''Dr. Miracles''
+| Mr. Peterson
+| Short film
+|-
+| 2007
+| ''[[Epic Movie]]''
+| Pirate
+| 
+|-
+| 2008
+| ''[[My Best Friend's Girl (2008 film)|My Best Friend's Girl]]''
+| Josh
+|
+|-
+| 2009
+| ''Three Matthew McConaugheys and a Baby''
+| [[Matthew McConaughey]]
+| Short film
+|-
+| 2010
+| ''[[Anderson's Cross]]''
+| Austin Wilson
+|
+|-
+| 2013
+| ''[[The Heat (film)|The Heat]]''
+| Adam
+| 
+|-
+| 2013
+| ''[[Grown Ups 2]]''
+| Male Cheerleader
+|
+|-
+| 2013
+| ''[[12 Years a Slave (film)|12 Years a Slave]]''
+| Abram Hamilton
+| 
+|-
+| 2014
+| ''[[Teenage Mutant Ninja Turtles (2014 film)|Teenage Mutant Ninja Turtles]]''
+| Jim McNaughton
+|
+|-
+| 2015
+| ''[[Ted 2]]''
+| Himself
+|
+|-
+| 2015
+| ''[[Underdogs (2013 animated film)|Underdogs]]''
+| Captain Skip (voice)
+|
+|-
+| 2016
+| ''Casual Encounters''
+| Justin Davis
+|
+|-
+| 2016
+| ''[[Brother Nature (film)|Brother Nature]]''
+| Roger Fellner
+| Also writer
+|-
+| 2017
+| ''[[All Nighter (film)|All Nighter]]''
+| Gary
+| 
+|-
+| 2017
+| ''[[Killing Gunther]]''
+| Blake
+| Also director, producer and writer
+|-
+| 2018
+| ''[[Night School (2018 film)|Night School]]''
+| Stewart
+| ''Post-production''
+|}
+
+===Television===
+{| class="wikitable"
+|-
+! Year 
+! Title 
+! Role 
+! Notes
+|-
+| 1994–2002
+| ''[[All That]]''
+| Himself
+| 15 episodes
+|-
+| 2000
+| ''[[The Jersey]]''
+| Varsity 1
+| Episode: "Nick's a Chick"
+|-
+| 2000
+| ''[[Judging Amy]]''
+| Freddie Felleman
+| Episode: "The Wee Hours"
+|-
+| 2000
+| ''[[Touched by an Angel]]''
+| Teenage Robert
+| Episode: "The Grudge"
+|-
+| 2000–2002
+| ''[[The Amanda Show]]''
+| Spaulding
+| 7 episodes
+|-
+| 2001
+| ''[[Undressed]]''
+| Blake
+| 40 episodes
+|-
+| 2001
+| ''[[Roswell (TV series)|Roswell]]''
+| Malamud
+| Episode: "Heart of Mine"
+|-
+| 2001–2002
+| ''[[MADtv]]''
+| Various
+| 13 episodes
+|-
+| 2002
+| ''[[Do Over]]''
+| Dave
+| Episode: "The Block Party"
+|-
+| 2004
+| ''[[Drake &amp; Josh]]''
+| Trevor
+| Episode: "Dune Buggy"
+|-
+| 2004
+| ''[[Boston Public]]''
+| Alex Buchanan
+| Episode: "Chapter Seventy-Eight"
+|-
+| 2004
+| ''[[Still Standing (TV series)|Still Standing]]''
+| Andy, Varsity Basketball Player #1
+| Episode: "Still Narcing"
+|-
+| 2004
+| ''[[Stuck in the Suburbs]]''
+| Jordan Cahill 
+| TV film
+|-
+| 2005
+| ''[[Jake in Progress]]''
+| Todd
+| Episode: "Loose Thread"
+|-
+| 2006
+| ''[[Girlfriends (U.S. TV series)|Girlfriends]]''
+| Jordan Gray
+| Episode: "Hustle &amp; Dough"
+|-
+| 2006–2014
+| ''[[How I Met Your Mother]]''
+| Gary Blauman
+| 6 episodes
+|-
+| 2006–2007
+| ''[[Wild 'n Out]]''
+| Various
+| 29 episodes
+|-
+| 2007
+| ''[[Nick Cannon Presents: Short Circuitz]]''
+| Various
+| 8 episodes; also writer
+|-
+| 2009
+| ''[[Scrubs (TV series)|Scrubs]]''
+| Jimmy
+| 4 episodes
+|-
+| 2009
+| ''[[Scrubs: Interns]]''
+| Jimmy 
+| Episode: "The Late Night with Jimmy Show"
+|-
+| 2010–2016
+| ''[[Saturday Night Live]]''
+| Himself, Various
+| 126 episodes
+|-
+| 2011
+| ''[[Community (TV series)|Community]]''
+| Cory Radison
+| Episode: "[[Regional Holiday Music]]"
+|-
+| 2012
+| ''[[iCarly]]''
+| Agent Kinsey
+| Episode: "iMeet the First Lady"
+|-
+| 2012
+| ''[[Saturday Night Live Weekend Update Thursday]]''
+| Patient, Steve Doocy, Guy
+| 2 episodes
+|-
+| 2013–2018
+| ''[[Drunk History]]''
+| Various
+| 6 episodes
+|-
+| 2013–2015
+| ''[[The Awesomes]]''
+| Zip "Frantic" Danger (voice)
+| Main role; 30 episodes
+|-
+| 2014
+| ''[[Comedy Bang! Bang! (TV series)|Comedy Bang! Bang!]]''
+| Smith Calvins
+| Episode: "Jenna Fischer Wears a Floral Blouse &amp; Black Heels"
+|-
+| 2014
+| ''[[Sesame Street]]''
+| Professor Buck Awe
+| Episode: "School for Chickens"
+|-
+| 2015–present
+| ''[[Nature Cat]]''
+| Nature Cat
+| Voice
+|-
+| 2016
+| ''[[New Girl]]''
+| Fred
+| Episode: "What About Fred"
+|-
+| 2016
+| ''Mating''
+| Jay
+| Pilot
+|-
+| 2018
+| ''[[A.P. Bio]]''
+| Mr. Vining
+| Episode: "Teacher Jail"
+|-
+| 2018
+| ''[[Single Parents (TV series)|Single Parents]]''
+| Will Cooper
+| Main role
+|}
+
+===Theatre===
+{| class="wikitable"
+|-
+! Year 
+! Title 
+! Role 
+! Notes
+|-
+| 2017
+| ''[[Hamilton (musical)|Hamilton]]''
+| [[George III of the United Kingdom|King George III]]
+| Broadway debut; replaced [[Rory O'Malley]]
+|}
+
+==Bibliography==
+* ''[[The Illegitimates]]'' #1–6 (2013)
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category}}
+*{{IMDb name|453115|Taran Killam}}
+*{{Twitter}}
+*[http://www.nbc.com/saturday-night-live/about/bio/taran-killam Official SNL cast biography]
+{{authority control}}
+
+{{DEFAULTSORT:Killam, Taran}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American male child actors]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American male television actors]]
+[[Category:American male voice actors]]
+[[Category:American male musical theatre actors]]
+[[Category:Male actors from the Greater Los Angeles Area]]
+[[Category:American comics writers]]
+[[Category:People from Big Bear Lake, California]]
+[[Category:People from Culver City, California]]
+[[Category:Writers from California]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:Los Angeles County High School for the Arts alumni]]
+[[Category:American sketch comedians]]
+[[Category:Comedians from California]]</text>
+      <sha1>cdz90w0h631j1grk7lmmn6n5ir2mlbx</sha1>
+    </revision>
+  </page>
+</mediawiki>

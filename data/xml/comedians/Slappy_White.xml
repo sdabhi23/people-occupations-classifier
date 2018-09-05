@@ -1,0 +1,141 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Slappy White</title>
+    <ns>0</ns>
+    <id>5283255</id>
+    <revision>
+      <id>842649883</id>
+      <parentid>816724891</parentid>
+      <timestamp>2018-05-23T19:37:32Z</timestamp>
+      <contributor>
+        <username>Alansohn</username>
+        <id>118722</id>
+      </contributor>
+      <comment>add cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16097">{{Infobox comedian
+| name                 = Slappy White
+| image                = Slappy White 1971.JPG
+| image_size           = 
+| alt                  = 
+| caption              = White in 1971
+| pseudonym            = 
+| birth_name           = Melvin Edward White
+| birth_date           = {{birth date|1921|09|27}}
+| birth_place          = [[Baltimore|Baltimore, Maryland]], U.S.
+| death_date           = {{death date and age|1995|11|07|1921|09|27}}
+| death_place          = [[Brigantine, New Jersey]], U.S.
+| medium               = Stage, film, television
+| active               = 1940–1995
+| genre                = 
+| subject              = 
+| spouse               = {{ubl|[[Pearl Bailey]]|{{marriage|[[LaVern Baker]]|1961|1969|end=divorced}}}}
+}}
+
+'''Melvin Edward "Slappy" White''' (September 27, 1921 &amp;ndash; November 7, 1995) was an American comedian and actor.&lt;ref name=NYT&gt;{{cite news|url=https://www.nytimes.com/1995/11/09/nyregion/slappy-white-74-who-brought-black-humor-into-white-clubs.html|title=Slappy White, 74, Who Brought Black Humor Into White Clubs|last=Van Gelder |first=Lawrence |author-link=Lawrence Van Gelder |date=November 9, 1995 |newspaper=[[The New York Times]] |access-date=December 22, 2017}}&lt;/ref&gt; He worked with [[Redd Foxx]] on the [[Chitlin' circuit]] of stand-up comedy during the 1950s and 1960s. He appeared on the television shows ''[[Sanford and Son]]'', ''[[That's My Mama]]'', ''[[Blossom (TV series)|Blossom]]'', and ''[[Cybill]]'' and in the films ''[[Mr. Saturday Night]]'' and ''[[Amazon Women on the Moon]]''.
+
+==Biography==
+White was born in [[Baltimore]], [[Maryland]], on September 27, 1921.&lt;ref name=NYT/&gt; His official biography reported that he "ran away to join the circus" as a child. White was born near the old [[Royal Theatre (Baltimore)|Royal Theatre]] in Baltimore, where by the age of 10, he used to dance outside for coins and sold candy at the theater. He left Baltimore at the age of 13 because he was in danger of being sent to reform school because of his school absences.&lt;ref name=Afro/&gt;&lt;ref name=Baltimore&gt;{{cite news|url=https://news.google.com/newspapers?id=U7s9AAAAIBAJ&amp;sjid=4SsMAAAAIBAJ&amp;pg=2777,17936422&amp;dq=slappy+white&amp;hl=en|work=Baltimore Afro-American|date=November 4, 1972|page=D-39|title=Slappy White|accessdate=September 12, 2013}}&lt;/ref&gt; White joined a traveling carnival and made a living as a tap dancer with the troupe.  He was eventually picked up by police and returned to his family, but could not trade show business for school.&lt;ref name=jokes&gt;{{cite news|url=https://news.google.com/newspapers?id=zGFcAAAAIBAJ&amp;sjid=l1YNAAAAIBAJ&amp;pg=3029,3406357&amp;dq=slappy+white&amp;hl=en|title=My Favorite Jokes|author=White, Slappy|date=June 23, 1968|page=14|work=Parade magazine|accessdate=September 12, 2013}}&lt;/ref&gt; He received his nickname from the manager of a local theater where he entered a talent contest with a friend; the manager billed them as "Slap and Happy".&lt;ref name=Afro&gt;{{Cite news|url=https://news.google.com/newspapers?id=oqs7AAAAIBAJ&amp;sjid=7ikMAAAAIBAJ&amp;pg=1352,2860700&amp;dq=slappy+white&amp;hl=en|title=Slappy White...Home for Christmas|author=Peters, Ida|date=December 15, 1979|pages=12 &amp; 16|work=Baltimore Afro-American|accessdate=September 12, 2013}}&lt;/ref&gt;
+
+==Career==
+He began his career as a dancer and did not turn to comedy until 1940 when he joined with a fellow hoofer and labeled his act the "Two Zephyrs". White and his partner, Clarence Schelle, had appeared on ''[[Major Bowes Amateur Hour|The Major Bowes Amateur Hour]]''.&lt;ref name=Foxx&gt;{{cite book|url=https://books.google.com/books?id=a7vcX2uNPK4C&amp;pg=PA99&amp;dq=slappy+white&amp;hl=en&amp;sa=X&amp;ei=BRQyUpKbG5LlqAGPnIH4DA&amp;ved=0CGMQ6AEwCQ#v=onepage&amp;q=slappy%20white&amp;f=false|title=Black and Blue: The Redd Foxx Story|editor-last=Starr|editor-first=Michael Seth|work=Applause Theatre &amp; Cinema|year=2011|isbn=9781557838520|accessdate=September 13, 2013}}&lt;/ref&gt; The "Two Zephyrs" made the circuits together for over four years appearing with such notables as [[Lionel Hampton]], [[Count Basie]], [[Duke Ellington]] and many others.&lt;ref name=laugh/&gt;  With his team "Slappy" was first introduced to Californians, making his West Coast debut in [[Los Angeles]] at the Orpheum Theatre along with [[Louis Armstrong]].
+
+After "Two Zephyrs" came "Lewis and White" his second successful comedy team.&lt;ref name=laugh/&gt;  "Lewis and White" traveled together for several years and appeared with such greats as [[Johnny Otis]], [[The Ink Spots]], [[Count Basie]], [[Duke Ellington]] and [[Lionel Hampton]]. Lewis and White made a television appearance on ''[[The Morey Amsterdam Show]]''.&lt;ref name=Foxx/&gt;
+
+The team with which he is best known is "[[Redd Foxx]] and 'Slappy' White".  Foxx and White met in [[Harlem]] in 1947 and formed a comedy team.&lt;ref name=Foxx/&gt; They toured from coast to coast with the [[Billy Eckstine]] Orchestra for more than four years.&lt;ref name=jokes/&gt;&lt;ref name=laugh&gt;{{cite book|url=https://books.google.com/books?id=Hvl299p1Yg4C&amp;pg=PA95&amp;dq=slappy+white&amp;hl=en&amp;sa=X&amp;ei=BRQyUpKbG5LlqAGPnIH4DA&amp;ved=0CEUQ6AEwBA#v=onepage&amp;q=slappy%20white&amp;f=false|title=Black Comedians on Black Comedy: How African-Americans Taught Us to Laugh|editor-last=Littleton|editor-first=Darryl|publisher=Hal Leonard Corporation|year=2008|isbn=9781557837301|accessdate=September 13, 2013}}&lt;/ref&gt; Some years before, White had met and married [[Pearl Bailey]], when both of them were still relatively unknown professionally.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=kUBLURuzOxEC&amp;pg=PA107&amp;dq=slappy+white&amp;hl=en&amp;sa=X&amp;ei=8xwyUr410MSpAbu5gJAN&amp;ved=0CD0Q6AEwBDge#v=onepage&amp;q=slappy%20white&amp;f=false|title=Ebony|date=April 1966|page=107|accessdate=September 13, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=3dXw6gR2GgkC&amp;pg=PA37&amp;dq=slappy+white+pearl+bailey&amp;hl=en&amp;sa=X&amp;ei=Bi4yUuLPGsrgqAHp9IDQAw&amp;ved=0CEsQ6AEwBQ#v=onepage&amp;q=slappy%20white%20pearl%20bailey&amp;f=false|title=African-American Lives|editor-last=Gates|editor-first=Louis Henry|editor2-last=Higginbotham|editor2-first=Evelyn Brooks|page=37|publisher=Oxford University Press|year=2004|isbn=9780199882861|accessdate=September 13, 2013}}&lt;/ref&gt; Bailey's career was on the way up.  She was performing in the better nightclubs with people like [[Duke Ellington]] and [[Cab Calloway]] while White was still struggling in lesser venues. The marriage was in trouble at the time White and Foxx first met.&lt;ref name=Foxx/&gt; The couple divorced.  Years later, when White and dancer [[Bill Bailey (dancer)|Bill Bailey]], who was Pearl's brother, teamed up for an act, White joked that the act would be billed as "Rev. Bill Bailey and his ex-brother-in-law".&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=C78DAAAAMBAJ&amp;pg=PA65&amp;dq=slappy+white+pearl+bailey&amp;hl=en&amp;sa=X&amp;ei=7y4yUoHCHMKcqgHz-YCQDg&amp;ved=0CC4Q6AEwAA#v=onepage&amp;q=slappy%20white%20pearl%20bailey&amp;f=false|title=Jet|page=65|date=September 30, 1954|accessdate=September 13, 2013}}&lt;/ref&gt;
+
+"Slappy's" solo career started in 1951 when [[Dinah Washington]] requested him to introduce her act at the [[Black Hawk (nightclub)|Black Hawk]] in [[San Francisco]].&lt;ref name=jokes/&gt;  White started out as a chauffeur to the singer, entertaining her with jokes as he drove.  When she was late arriving on stage one evening, Washington, worried about the waiting audience, asked White to go on stage and "say something funny" while she prepared for her performance.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=GcIDAAAAMBAJ&amp;pg=PA60&amp;dq=slappy+white&amp;hl=en&amp;sa=X&amp;ei=RB0yUqfFH4fgqAGCzYCwDw&amp;ved=0CFEQ6AEwCTgo#v=onepage&amp;q=slappy%20white&amp;f=false|title=Jet|date=January 9, 1964|page=60|accessdate=September 13, 2013}}&lt;/ref&gt; "Slappy" was such a hit with the patrons, she kept him on as her opening act. He was once  also married to [[Rock and Roll Hall of Fame]] inductee and blues belter,  [[LaVern Baker]] (1929-1997).&lt;ref name=Afro/&gt;&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=SFdGAAAAIBAJ&amp;sjid=h-UMAAAAIBAJ&amp;pg=6417,1085273&amp;dq=slappy+white&amp;hl=en|title=Lavern Baker marries comedian Slappy White|date=February 21, 1959|work=Baltimore Afro-American|page=4|accessdate=September 12, 2013}}&lt;/ref&gt;
+ 
+White was a performer in Las Vegas for many years. In the 1950s while he was on the bill with Dinah Washington, White performed his routine which made the nightclub's manager the target of his jokes. While there was nothing offensive about the jokes White told, there was an unwritten rule about black comedians targeting whites in this manner.  The manager fired White, but changed his mind about the comedian's employment when Dinah Washington indicated she would withdraw her entire act because of White's firing.&lt;ref name=NYT/&gt; White spent four years with Dinah Washington before establishing himself as a solo act.&lt;ref name=jokes/&gt;
+
+White wrote and performed a comedy routine called "Brotherhood Creed" using one black and one white glove while reciting his poem about equality between men. White performed the routine many times during the [[civil rights movement]] in America, and President [[John F. Kennedy]] once gave it a personal commendation.&lt;ref name=Afro/&gt; In 1965, White was invited to perform the "Brotherhood Creed" before the [[Massachusetts]] State Senate.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=S-MlAAAAIBAJ&amp;sjid=__QFAAAAIBAJ&amp;pg=925,31342&amp;dq=slappy+white&amp;hl=en|title=Art Prysock, Slappy White, Sammy Davis' bonanza|page=6|date=January 5, 1965|work=Baltimore Afro-American|accessdate=September 12, 2013}}&lt;/ref&gt; He was also well known as a comedian who eschewed offensive material in his nightclub act.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=3YclAAAAIBAJ&amp;sjid=yPQFAAAAIBAJ&amp;pg=2214,1395389&amp;dq=slappy+white&amp;hl=en|title='Gregory Helped Us' says Slappy White|author=Young, Masco|date=April 10, 1962|page=15|publisher=Washington Afro-American|accessdate=September 12, 2013}}&lt;/ref&gt;
+[[File:Slappy White Redd Foxx Sanford and Son 1972.JPG|thumb|200px|White (left) as Fred's friend, Melvin, on ''Sanford and Son'' in 1972.]]
+In 1969, he formed a new comedy team called Rossi and White with [[Steve Rossi]], who formerly worked with [[Marty Allen]].&lt;ref&gt;{{cite news|url=https://pqasb.pqarchiver.com/courant/doc/550204367.html?FMT=ABS&amp;FMTS=ABS:AI&amp;type=historic&amp;date=Aug%2017,%201969&amp;author=&amp;pub=Hartford%20Courant&amp;edition=&amp;startpage=&amp;desc=My%20Favorite%20Jokes|title=My Favorite Jokes|work=The Hartford Courant|date=August 17, 1969|page=31H|accessdate=September 12, 2013}}"Steve Rossi and Slappy While are a brand-new comedy team, the first such integrated act in show business history, and they re off to a last ...(pay-per-view)&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=dlxQAAAAIBAJ&amp;sjid=iFcDAAAAIBAJ&amp;pg=6468,1906150&amp;dq=slappy+white&amp;hl=en|title=Slappy White, Rossi Teamed|date=November 8, 1971|page=4-A|author=Harold, Chuck|work=The Evening Independent|accessdate=September 12, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=DIkbAAAAIBAJ&amp;sjid=MlEEAAAAIBAJ&amp;pg=7453,5354309&amp;dq=slappy+white&amp;hl=en|title=Rossi, White top team|author=Borders, Myram|date=October 28, 1971|work=The Pittsburgh Press|page=32|accessdate=September 12, 2013}}&lt;/ref&gt; The pair entertained at the White House in May of the same year.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=I7BBAAAAIBAJ&amp;sjid=aqkMAAAAIBAJ&amp;pg=5114,1343558&amp;dq=slappy+white&amp;hl=en|title=It Happened Last Night!|author=Wilson, Earl|page=10|date=April 24, 1969|work=Middlesboro Daily News|accessdate=September 12, 2013}}&lt;/ref&gt; Rossi and White also performed their act aboard a National Overseas Airlines flight from Chicago to Spain.  The airline had hoped that providing live entertainment on their flights would boost ticket sales.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=Z7EDAAAAMBAJ&amp;pg=PA21&amp;dq=slappy+white&amp;hl=en&amp;sa=X&amp;ei=hh4yUpPGE4nqrAHPoICABw&amp;ved=0CFEQ6AEwCTgy#v=onepage&amp;q=slappy%20white&amp;f=false|title=Jet|date= October 21, 1971|page=21|accessdate=September 12, 2013}}&lt;/ref&gt;
+
+Later in life, he performed under his given name on his friend Redd Foxx's TV show ''[[Sanford and Son]]'' as Fred's friend, also named Melvin, and had a million dollar contract to perform at the [[Flamingo Las Vegas|Flamingo Hotel]] in Las Vegas in 1973.&lt;ref name=Baltimore/&gt;&lt;ref&gt;{{cite web|url=https://news.google.com/newspapers?id=lNlRAAAAIBAJ&amp;sjid=SG4DAAAAIBAJ&amp;pg=6784,4408390&amp;dq=slappy+white&amp;hl=en|title=The Two Sides of Redd Foxx|work=Pittsburgh Post-Gazette|page=14|date=October 14, 1991|accessdate=September 12, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://articles.latimes.com/1995-11-09/news/mn-1205_1_slappy-white|title=Slappy White:Gained Fame in White-Black Comedy Act|author=Oliver, Myrna|date=November 9, 1995|accessdate=September 12, 2013|work=Los Angeles Times}}&lt;/ref&gt;
+
+In 1986 [[Milton Berle]] planned to introduce a new situation comedy called ''Moscow &amp; Vine'', with White as his co-star on the show.  White's role was to be that of Berle's old [[vaudeville]] partner and as an employee in the music store owned by Berle's character.  At one time, Berle hoped to syndicate the program.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=MUxTAAAAIBAJ&amp;sjid=3YMDAAAAIBAJ&amp;pg=3058,3735610&amp;dq=slappy+white&amp;hl=en|title=White and Berle in 'Moscow &amp; Vine'|page=12C|work=The Deseret News|date=April 14, 1986|accessdate=September 12, 2013}}&lt;/ref&gt;
+
+White was best known in later years for the [[New York Friars' Club|Friars' Club]] [[Roast (comedy)|roast]]s, where he routinely appeared along with other comedians, including Milton Berle, [[Jackie Vernon (comedian)|Jackie Vernon]], [[Pat Buttram]] and [[Dick Shawn]].&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=9NBRAAAAIBAJ&amp;sjid=7m0DAAAAIBAJ&amp;pg=6839,4858383&amp;dq=slappy+white&amp;hl=en|title=Red Buttons Gets His Dinner|author=Thomas, Bob|date=November 19, 1982|work=Pittsburgh Post-Gazette|page=34|accessdate=September 12, 2013}}&lt;/ref&gt; White enjoyed a minor renaissance after his death owing to bootleg recordings of Friars' Club roasts that became available through comedy record outlets. His name was used on an episode of ''[[Seinfeld]]'' entitled "[[The Money]]", in which Seinfeld uses "Slappy White" as his own name.
+
+==Death==
+White died of a heart attack at his home in Brigantine, New Jersey, just 38 days after the death of his long-time friend [[George Kirby]]. At the time of his death, White was preparing to retire from acting and was in the process of moving from Los Angeles to New Jersey.&lt;ref name=NYT/&gt; He had no children from either of his marriages.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=IUEnJvdQup8C&amp;pg=PA40&amp;dq=slappy+white&amp;hl=en&amp;sa=X&amp;ei=QhcyUu2zBcHYqgG614DYCQ&amp;ved=0CFEQ6AEwBjgK#v=onepage&amp;q=slappy%20white&amp;f=false|title=African-American Entertainment in Baltimore|page=40|editor-last=Pryor-Trusty|editor-first=Rosa|editor2-last=Taliaferro|editor2-first=Tonya|publisher=Arcadia Publishing|year=2003|isbn=9780738515137|accessdate=September 13, 2013}}&lt;/ref&gt;
+
+==Partial filmography==
+* 1970 ''[[The Man from O.R.G.Y.]]''
+* 1972 ''[[Sanford and Son]]'', as an old friend of Fred's named Melvin 
+* 1974 ''[[Amazing Grace (1974 film)|Amazing Grace]]''
+* 1981 ''White and Reno''&lt;ref&gt;{{cite web|url=http://www.tcm.com/tcmdb/title/483611/White-and-Reno/|title=White and Reno|publisher=Turner Classic Movies|year=1981|accessdate=September 12, 2013}}&lt;/ref&gt;
+* 1986 ''Playboy'' Comedy Roast for [[Tommy Chong]]
+* 1987 ''[[Amazon Women on the Moon]]''
+* 1992 ''[[Mr. Saturday Night]]'', cameo part in the [[New York Friars' Club]] scene
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{IMDb name|0925463}}
+*[http://www.nndb.com/people/631/000092355/ Slappy White at the NNDB]
+
+{{Authority control}}
+
+{{DEFAULTSORT:White, Slappy}}
+[[Category:1921 births]]
+[[Category:1995 deaths]]
+[[Category:American male comedians]]
+[[Category:American comedians]]
+[[Category:African-American male comedians]]
+[[Category:African-American comedians]]
+[[Category:African-American male actors]]
+[[Category:Male actors from Baltimore]]
+[[Category:People from Brigantine, New Jersey]]
+[[Category:20th-century American male actors]]</text>
+      <sha1>kwnk95j7tbd3p1ttx6xa80viwm7iav9</sha1>
+    </revision>
+  </page>
+</mediawiki>

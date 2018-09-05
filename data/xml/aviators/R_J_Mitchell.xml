@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>R. J. Mitchell</title>
+    <ns>0</ns>
+    <id>39031</id>
+    <revision>
+      <id>855785623</id>
+      <parentid>855785512</parentid>
+      <timestamp>2018-08-20T20:28:43Z</timestamp>
+      <contributor>
+        <ip>78.150.55.179</ip>
+      </contributor>
+      <comment>/* Legacy */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18414">{{for|the author|Rosamond Joscelyne Mitchell}}
+{{Infobox person
+| name          =R.J. Mitchell
+| image         =Reginald_Mitchell_Spitfire_designer.jpg
+| image_size    =
+| caption       =R. J. Mitchell, aeronautical engineer
+| birth_date    ={{Birth-date|20 May 1895|20 May 1895}}&lt;ref name="Price p.11"/&gt;
+| birth_place   =[[Butt Lane]], [[Kidsgrove]], [[Staffordshire]], England
+| death_date = {{death date and age|df=yes|1937|6|11|1895|5|20}}
+| death_place   =[[Portswood]], [[Southampton]], [[Hampshire]], England
+| occupation    =Aeronautical engineer
+| spouse        =Florence Dayson&lt;br&gt;(married 1918–1937)
+| parents       =Herbert Mitchell&lt;ref name="Price p.11"/&gt;
+| children      =Gordon Mitchell
+}}
+
+'''Reginald Joseph Mitchell''' [[Commander of the Order of the British Empire|CBE]], [[Fellow of the Royal Aeronautical Society|FRAeS]], (20 May 1895 &amp;ndash; 11 June 1937) was an English [[aeronautical engineering|aeronautical engineer]] who worked for [[Supermarine]] Aviation. Between 1920 and 1936 he designed many aircraft. He is best remembered for his racing seaplanes, which culminated in the [[Supermarine S.6B]], and the iconic [[World War II|Second World War]] fighter, the [[Supermarine Spitfire]].
+
+==Early life==
+R.J. Mitchell was born at 115 Congleton Road, [[Butt Lane]], [[Kidsgrove]], [[Staffordshire]], [[England]].&lt;ref&gt;Ritchie, Sebastian. [http://www.oxforddnb.com/view/article/35046 "Mitchell, Reginald Joseph (1895–1937)."] ''Oxford Dictionary of National Biography,'' Oxford University Press, September 2004. Retrieved: 21 August 2010.&lt;/ref&gt;  After leaving [[Mitchell High School (Stoke-on-Trent)|Hanley High School]], a co-educational grammar school in [[Stoke-on-Trent]], at the age of 16, he gained an [[apprenticeship]] at [[Kerr Stuart|Kerr Stuart &amp; Co.]] of [[Fenton, Staffordshire|Fenton]], a [[locomotive]] engineering works.&lt;ref name="Price p.11"&gt;Price 1982, p. 11.&lt;/ref&gt; At the end of his apprenticeship he worked in the drawing office at Kerr Stuart and studied engineering and [[mathematics]] at night school.
+
+==Early career==
+[[File:Supermarine Walrus.jpg|thumb|260px|left|Supermarine Walrus (1935)]]
+In 1917 he joined the [[Supermarine|Supermarine Aviation Works]] at [[Southampton]]. Advancing quickly within the company, Mitchell was appointed Chief Designer in 1919.&lt;ref name="Price p.11"/&gt; He was made Chief Engineer in 1920 and Technical Director in 1927.  He was so highly regarded that when [[Vickers-Armstrongs|Vickers]] took over Supermarine in 1928, one of the conditions was that Mitchell stay as a designer for the next five years.
+
+Between 1920 and 1936, Mitchell designed 24 aircraft. As Supermarine was primarily a seaplane manufacturer, this included several [[flying boat]]s such as the [[Supermarine Sea Eagle]], the [[Supermarine Sea King]], the [[Supermarine Walrus]], and [[Supermarine Stranraer]], and racing seaplanes. Mitchell also designed light aircraft, fighters, and bombers.
+
+He was first noted in this period for his work on a series of racing seaplanes, built by Supermarine to compete in the [[Schneider Trophy]] competition. The [[Supermarine S.4]] was entered in 1925, but crashed before the race. Two [[Supermarine S.5]] aircraft were entered in 1927, and finished first and second. The [[Supermarine S.6]] won in 1929. The final entry in the series, the [[Supermarine S.6B]], marked the culmination of Mitchell's quest to "perfect the design of the racing seaplane".&lt;ref name= "Price p. 11" &gt;[[#refPrice1977|Price 1977]], p.&amp;nbsp;11.&lt;/ref&gt; The S.6B won the Trophy in 1931 and broke the world air speed record 17 days later.
+
+Mitchell was awarded the [[Order of the British Empire|CBE]] on 29 December 1931 for services in connection with the Schneider Trophy Contest.&lt;ref&gt;{{London Gazette |date=29 December 1931 |issue=33785 |page=8}}&lt;/ref&gt;
+
+==Supermarine Spitfire==
+&lt;!-- Deleted image removed: [[File:Supermarine Spitfire prototype K5054 Unpainted.jpg|thumb|260px|right|The [[Supermarine Spitfire]] prototype, ''K5054'', prior to its first flight]] --&gt;
+{{quotation|If anybody ever tells you anything about an aeroplane which is so bloody complicated you can't understand it, take it from me: it's all balls.|R. J. Mitchell, advice given about his engineering staff to test pilot [[Jeffrey Quill]] during prototype trials{{sfnp|Quill|1983|p=102}}}}
+The technical skill that Mitchell used in the design of the Spitfire was developed in the evolution of the Schneider Trophy seaplanes. The significance of the many earlier planes is often overlooked when people refer to Mitchell, as is the fact that he was very concerned about developments in Germany and feared that British defence needed to be strengthened, especially in the air.
+
+In 1931 the [[Air Ministry]] issued [[List of Air Ministry Specifications|specification F7/30]] for a fighter aircraft to replace the [[Gloster Gauntlet]]. Mitchell's proposed design, the [[Supermarine Type 224|Type 224]] was one of three designs for which the Air Ministry ordered prototypes.
+
+The Type 224 first flew on 19 February 1934, but was eventually rejected by the [[Royal Air Force|RAF]] for unsatisfactory performance. While the 224 was being built, Mitchell was authorised by Supermarine in 1933 to proceed with a new design, the Type 300, an all-metal monoplane that would become the [[Supermarine Spitfire]]. This was originally a private venture by Supermarine, but the RAF quickly became interested and the Air Ministry financed a prototype.
+
+Many of the technical advances in the Spitfire had been made by others: the thin elliptical wings were designed by Canadian aerodynamicist [[Beverley Shenstone]], and shared some similarities with the [[Heinkel He 70]] Blitz; the under-wing radiators had been designed by the [[Royal Aircraft Establishment|RAE]], while [[monocoque]] construction had been first developed in the [[United States]]. Mitchell's genius was bringing it all together with his experience of high speed flight and the Type 224.
+
+The first prototype Spitfire, [[United Kingdom military aircraft serials|serial]] ''K5054'', flew for the first time on 5 March 1936 at [[Eastleigh]], [[Hampshire]]. In later tests, it reached 349&amp;nbsp;mph; consequently, before the prototype had completed its official trials, the RAF ordered 310 production Spitfires. Mitchell is reported to have said that "Spitfire was just the sort of bloody silly name they would choose."&lt;ref&gt;Deighton 1977, p. 99.&lt;/ref&gt;
+
+==Later years==
+In August 1933, Mitchell underwent a [[colostomy]] to treat [[rectal cancer]]. Despite this, he continued to work, not only on the Spitfire, but also on a four-engined bomber, the [[Supermarine B.12/36|Type 317]]. Unusually for an aircraft designer in those days, he took flying lessons and got his pilot's licence in July 1934.
+
+In 1936 cancer was diagnosed again, and subsequently, in early 1937, Mitchell gave up work, although he was often seen watching the Spitfire being tested. Mitchell went to the American Foundation in [[Vienna]] for a month, but died on 11 June 1937 at age 42. His ashes were interred at [[South Stoneham Cemetery]], Hampshire, four days later.&lt;ref name="RJM Biography"&gt;{{cite web |url=http://www.rjmitchell-spitfire.co.uk/aboutrjmitchell/biography.asp?sectionID=1 |title=A biography of R.J. Mitchell |last1=Mitchell |first1=Gordon |last2= |first2= |date=2009 |website=RJ Mitchell. A life in aviation. |publisher= |access-date=16 December 2015}}&lt;/ref&gt;{{efn|South Stoneham cemetery is not located at either South Stoneham Church or North Stoneham Church. The cemetery where Mitchell is buried is located approximately 1km between both churches.}}
+
+==Legacy==
+[[File:Statue of R. J. Mitchell in Hanley.jpg|thumb|Statue of R. J. Mitchell in Hanley town centre against the Potteries Museum]][[File:Spitfire-Southampton-Sculpture-cropped.jpg|thumb|260px|right|Sculpture at [[Southampton Airport]], formerly Eastleigh Aerodrome, site of the Spitfire's first flight, 5 March 1936]]
+Mitchell was succeeded as Chief Designer at Supermarine by [[Joseph Smith (aircraft designer)|Joseph Smith]], who was responsible for the further development of the Spitfire.  Nevertheless, Mitchell's design was so sound that the Spitfire was continually improved throughout [[World War II]]. Over 22,000 Spitfires and derivatives were built.
+
+Mitchell's career was dramatized in the [[biographical film]] ''[[The First of the Few]]'' (1942). He was portrayed by [[Leslie Howard]], who also produced and directed the film, released in the United States as ''Spitfire'' (1943).
+
+The school Mitchell attended, Hanley High School, was renamed [[Mitchell High School (Stoke-on-Trent)|Mitchell High School]] in his honour in 1989. Also, the primary school just by his birthplace (in Butt Lane, Kidsgrove, Stoke-on-Trent; built in 1909) was dedicated to him as Reginald Mitchell County Primary School.&lt;ref&gt;{{cite news | url= https://www.telegraph.co.uk/history/world-war-two/8349555/Family-of-Spitfire-designer-angry-over-renamed-school.html | title= Family of Spitfire designer angry over renamed school | work=The Daily Telegraph | first=Alastair | last=Jamieson | date=27 February 2011 | accessdate=25 July 2015}}&lt;/ref&gt;
+
+While working on the Spitfire at Woolston and Eastleigh, Mitchell lived with his wife and son in [[Portswood]], Southampton, at a home he had built to his own design, Hazeldene, at 2 Russell Place. An [[English Heritage]] blue plaque was dedicated there on September 8, 2005, a week before the 65th anniversary of the Battle of Britain.&lt;ref&gt;{{cite news |last= |first= |date=September 8, 2005 |title=Plaque for Spitfire man's city home |url= |newspaper=This is Hampshire ''(UK Newsquest Regional Press)'' |location= |access-date= }}&lt;/ref&gt; Earlier that year a blue plaque from the Newcastle Civic Society was dedicated at Mitchell's first home in [[Butt Lane]].&lt;ref&gt;{{cite news |last=Naylor |first=L. Aura |date=September 8, 2005 |title=Plaque honour for spitfire designer |url= |newspaper=The Sentinel |location=Stoke  }}&lt;/ref&gt;
+
+Gordon Mitchell told his father's story in a 1986 book,&lt;ref&gt;{{cite book |last=Mitchell |first=Gordon |date=1986 |title=R.J. Mitchell: World Famous Aircraft Designer: Schooldays to Spitfire |url= |location=Olney |publisher=Nelson &amp; Saunders Publishers |isbn=978-0-947750-05-3}}&lt;/ref&gt; revised in 1997 and updated in 2002&lt;ref&gt;{{cite news |last=Price |first=Brian |date=April 11, 2002 |title=Spitfire hero's secret cancer battle |url= |newspaper=[[Western Daily Press]]  }}&lt;/ref&gt; as ''R. J. Mitchell: Schooldays to Spitfire''.&lt;ref&gt;{{cite book |last=Mitchell |first=Gordon |date=2006 |title=R. J. Mitchell: Schooldays to Spitfire |url= |location=Stroud |publisher=[[The History Press|Tempus Publishing]] |isbn=978-0-7524-3727-9}}&lt;/ref&gt;
+
+In 1986, Mitchell was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+On 14 November 2000 [[Sentinel (sculpture)]] (grid reference SP13789065) is a 16m high sculpture by Tim Tolkien, installed upon Spitfire Island, a roundabout at the intersection of the Chester Road and the A47 Fort Parkway at the entrance to the Castle Vale estate in Birmingham, England.
+
+On 5 March 2004, Gordon Mitchell unveiled a 3/4-scale representation of the prototype Spitfire K5054 at the entrance to [[Southampton Airport]] (formerly known as Eastleigh Aerodrome), Southampton, on the 68th anniversary of its first flight. The sculpture was created by Alan Manning.&lt;ref&gt;{{cite news |last= |first= |date=4 March 2004 |title=It's so plane to see German link to Spitfire tribute |url= |newspaper=This Is Hampshire ''(UK Newsquest Regional Press)'' |location= |access-date= }}&lt;/ref&gt;
+
+American philanthropist [[Sidney Frank]] unveiled a statue of R. J. Mitchell at London's [[Science Museum, London|Science Museum]] on 15 September 2005. Made from hundreds of small pieces of Welsh slate, the statue shows Mitchell standing at his drawing board.&lt;ref&gt;{{cite news |date=16 September 2005 |title=Fitting tribute to the man who created the Spitfire|url=http://www.birminghampost.co.uk/news/local-news/fitting-tribute-man-who-created-3991508 |newspaper=Birmingham Post |access-date=16 December 2015}}&lt;/ref&gt; The slate drawing board's surface is incised with the image of the June 1936 drawing of the prototype Spitfire K5054.&lt;ref&gt;{{cite web |url=http://www.rjmitchell-spitfire.co.uk/newsandevents/statue.asp?sectionID=7 |title=RJ Mitchell Statue at the Science Museum |last1=Mitchell |first1=Gordon |last2= |first2= |date=2009 |website=RJ Mitchell. A life in aviation. |publisher= |access-date=17 December 2015}}&lt;/ref&gt; The stone sculpture was created by [[Stephen Kettle]] and given to the museum by the Sidney E. Frank Foundation.&lt;ref&gt;{{cite web|url=http://www.sciencemuseum.org.uk/objects/models/Stone%20sculpture%20of%20R%20J%20Mitchell.aspx|title=Stone sculpture of R. J. Mitchell|last1=|first1=|last2=|first2=|date=|website=|publisher=[[Science Museum, London|Science Museum]]|access-date=17 December 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151222103152/http://www.sciencemuseum.org.uk/objects/models/Stone%20sculpture%20of%20R%20J%20Mitchell.aspx|archivedate=22 December 2015|df=dmy-all}}&lt;/ref&gt; Frank also commissioned a web site commemorating Mitchell's life and achievements.&lt;ref&gt;{{cite web |url=http://www.rjmitchell-spitfire.co.uk/sidneyfrankfoundation/index.asp?sectionID=10 |title=About Sidney Frank |website=RJ Mitchell. A life in aviation. |publisher= |access-date=17 December 2015}}&lt;/ref&gt;
+
+In 2006 Gordon Mitchell received a letter from [[Prince Philip, Duke of Edinburgh]], supporting his efforts to rename Southampton Airport in honor of his father.&lt;ref&gt;{{cite news |last= |first= |date=28 August 2006 |title=Duke backs airport name |url= |newspaper=Gloucester Echo|location= |access-date= }}&lt;/ref&gt; A tireless proponent of his father's legacy, Mitchell died in 2009, aged 88.&lt;ref&gt;{{cite news|last=|first=|date=27 July 2009|title=Son of Spitfire designer dies|url=http://www.gloucestercitizen.co.uk/Son-Spitfire-designer-dies/story-11921125-detail/story.html|newspaper=[[Gloucester Citizen]]|location=|access-date=15 December 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151222083010/http://www.gloucestercitizen.co.uk/Son-Spitfire-designer-dies/story-11921125-detail/story.html|archivedate=22 December 2015|df=dmy-all}}&lt;/ref&gt;
+
+The [[Mitchell Arts Centre]] in Stoke-on-Trent, opened in 1957, was constructed in his honour.&lt;ref name=Baguley&gt;{{cite book|last1=Kent-Baguley|first1=Peter|title=Mitchell Memorial Youth Theatre 50th Anniversary|year=2007|publisher=Stoke-on-Trent City Council|page=9}}&lt;/ref&gt;
+
+In 2012, a road at the [[Advanced Manufacturing Park]] in Rotherham, England, was named Mitchell Way in honour of the Spitfire designer.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Deighton, Len. ''Fighter: The True Story of the Battle of Britain''. London: Grafton, 1977. {{ISBN|0-7858-1208-3}}.
+* Dibbs, John and Tony Holmes. ''Spitfire: Flying Legend''. Southampton, UK: Osprey Publishing, 1997. {{ISBN|1-84176-005-6}}.
+* Eforgan, Estel. ''Leslie Howard: The Lost Actor.'' London: Vallentine Mitchell, 2010. {{ISBN|978-0-85303-941-9}}.
+* McKinstry, Leo. ''Spitfire: Portrait of a Legend''. London: John Murray, 2007. {{ISBN|978-0-7195-6874-9}}.
+* Mitchell, Gordon. ''R.J. Mitchell: Schooldays to Spitfire''. London: Tempus Publishing, 2006. {{ISBN|0-7524-3727-5}}.
+* Palfrey, Brett R. and Christopher Whitehead. [https://web.archive.org/web/20070610045708/http://www.raf.mod.uk/history/spit1.html "Supermarine Spitfire: History of a Legend."] ''Royal Air Force (RAF)''. Retrieved: 27 December 2006.
+*{{cite book | last =  Pegram | first =  Ralph  | title = Beyond the Spitfire - The Unseen Designs of R.J. Mitchell | publisher = The History Press | year = 2016 | location = Brimscombe Port | isbn = 9780750965156}}
+* Price, Alfred. ''The Spitfire Story''. London: Silverdale Books, 1995. {{ISBN|1-85605-702-X}}.
+* &lt;cite id=refPrice1977&gt;Price, Alfred. ''Spitfire: A Documentary History''. New York: Charles Scribner's Sons, 1997. {{ISBN|0-684-16060-9}}.&lt;/cite&gt;
+* [[Jeffrey Quill|Quill, Jeffrey]]. ''Spitfire: A Test Pilot's Story''. London: Crécy Publishing, 1998; Air Data, 1996; John Murray, 1983 (first edition). {{ISBN|978-0-947554-72-9}}.
+*{{cite book | author = Shelton, John |title = Schneider Trophy to Spitfire - The Design Career of R.J. Mitchell | location = Sparkford | publisher = Hayes Publishing | year = 2008 | type = Hardback | isbn = 978-1-84425-530-6}}
+
+==External links==
+{{Commons category|R J Mitchell}}
+* [http://www.rjmitchell-spitfire.co.uk/ Awareness campaign for RJ Mitchell]
+*[http://www.bbc.co.uk/stoke/content/articles/2006/04/06/local_heroes_reginald_rj_mitchell_feature.shtml BBC Local Heroes]
+* [http://www.stokemuseums.org.uk/collections/local-history/spitfire-rw-388/ Spitfire Display at The Potteries Museum &amp; Art Gallery, Stoke-on-Trent]
+* [https://www.facebook.com/pages/RJ-Mitchell-primary-school/193795100645517 R J Mitchell Primary School Facebook Page]
+* [http://www.k5054.com/ Supermarine Spitfire prototype]
+* [https://web.archive.org/web/20080715234611/http://www.spitfirepilots.com/ Spitfires and Spitfire pilots]
+* {{webarchive |date=2012-09-10 |url=https://archive.is/20120910123131/http://www.spitfiresociety.com/content/Obituaries/content/Dr_Gordon_Mitchell_PhD_CBiol_FIBiol.html |title=Dr. Gordon Mitchell (obituary)}}
+* [http://www.rjmitchell-spitfire.co.uk/newsandevents/pdf/gordonmitchell.pdf An interview with Gordon Mitchell about his father (2005)]
+
+{{Supermarine aircraft}}
+{{Authority control}}
+{{Use dmy dates|date=June 2011}}
+
+{{DEFAULTSORT:Mitchell, R. J.}}
+[[Category:1895 births]]
+[[Category:1937 deaths]]
+[[Category:Aircraft designers]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Deaths from cancer in England]]
+[[Category:Deaths from colorectal cancer]]
+[[Category:English aerospace engineers]]
+[[Category:Fellows of the Royal Aeronautical Society]]
+[[Category:People educated at Hanley High School]]
+[[Category:People from Kidsgrove]]
+[[Category:People from Butt Lane]]
+[[Category:People from Southampton]]
+[[Category:Supermarine Spitfire]]</text>
+      <sha1>3aqo15sknftie0ynffkwniosw49cj5l</sha1>
+    </revision>
+  </page>
+</mediawiki>

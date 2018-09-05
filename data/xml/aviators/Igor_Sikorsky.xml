@@ -1,0 +1,252 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Igor Sikorsky</title>
+    <ns>0</ns>
+    <id>199513</id>
+    <revision>
+      <id>855794801</id>
+      <parentid>855794557</parentid>
+      <timestamp>2018-08-20T21:51:37Z</timestamp>
+      <contributor>
+        <username>BilCat</username>
+        <id>2043601</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/213.169.110.92|213.169.110.92]] ([[User talk:213.169.110.92|talk]]) to last version by Chewings72</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33618">{{For|the Ukrainian soccer player of the same name in the Ukrainian language|Ihor Sikorskyi}}
+{{redirect|Igor Sikorski|the Paralympic alpine skier|Igor Sikorski (alpine skier)}}
+{{other uses|Sikorsky (disambiguation)}}
+{{Infobox person
+|name=Igor Sikorsky
+|image=Sikorsky, Igor.jpg
+|caption=Studio portrait, {{circa}} 1950
+|birth_name=Igor Ivanovich Sikorsky
+|birth_date={{birth date|1889|5|25|mf=y}}
+|birth_place=[[Kiev]], [[Russian Empire]] (&lt;!-- Kiev --&gt;now [[Ukraine]])
+|death_date={{death date and age|1972|10|26|1889|5|25|mf=y}}
+|death_place=[[Easton, Connecticut]], United States
+|nationality=[[Russian-American]]&lt;ref name="Britannica Concise Encyclopedia - Encyclopædia Britannica, Inc. 2006"&gt;[https://books.google.com/books?id=ea-bAAAAQBAJ&amp;pg=PA1751&amp;lpg=PA1751&amp;dq=%22Russian-U.S.+pioneer+in+aircraft+design.+After+studying+engineering+in+Kiev%22&amp;source=bl&amp;ots=OHtrqAZd72&amp;sig=2TAJQJS77ihs9HBj6AowZ2BU-QQ&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjx3on6iMXNAhWKJ5QKHcUbA7kQ6AEIHjAA "Britannica Concise Encyclopedia - Encyclopædia Britannica, Inc. 2006, p. 1751"]&lt;/ref&gt;&lt;ref name="Sergei Sikorsky: Reflecting on the 90th Anniversary"/&gt;&lt;ref name="Igor Sikorsky Was a Reflection of His Heritage and Experiences in life"&gt;[http://www.sikorskyarchives.com/pdf/news%202013/April%202013%202.pdf] "My family is of Russian origin."&lt;/ref&gt;
+|other_names=
+|alma_mater=[[Kiev Polytechnic Institute]] &lt;br /&gt;ETACA (now {{ill|ESTACA|fr|École supérieure des techniques aéronautiques et de construction automobile}})
+|occupation=Aircraft designer
+|awards=[[Order of St. Vladimir]] &lt;br&gt;[[The Franklin Institute Awards|Howard N. Potts Medal]] &lt;small&gt;(1933)&lt;/small&gt;&lt;br&gt;[[Daniel Guggenheim Medal]] &lt;small&gt;(1951)&lt;/small&gt;&lt;br&gt;[[ASME Medal]] &lt;small&gt;(1963)&lt;/small&gt;&lt;br&gt;[[Wright Brothers Memorial Trophy]] &lt;small&gt;(1966)&lt;/small&gt;&lt;br&gt;[[National Medal of Science]] &lt;small&gt;(1967)&lt;/small&gt;&lt;br&gt;[[John Fritz Medal]] {{small|(1968)}}
+|known_for= First successful mass-produced [[helicopter]]
+|parents=
+|spouse=Olga Fyodorovna Simkovitch &lt;br/&gt;Elisabeth Semion
+|children=5
+}}
+
+'''Igor Ivanovich Sikorsky''' ({{lang-rus |И́горь Ива́нович Сико́рский|p=ˈiɡərʲ ɪˈvanəvitʃ sʲɪˈkorskʲɪj|a=Ru-Igor Sikorsky.ogg}}, &lt;small&gt;[[Scientific transliteration of Cyrillic|tr.]]&lt;/small&gt; ''Ígor' Ivánovič Sikórskij'';  May 25, 1889&amp;nbsp;– October 26, 1972),&lt;ref name="nam"&gt;Fortier, Rénald. [http://www.aviation.technomuses.ca/assets/pdf/e_sikorsky.pdf "Igor Sikorsky: One Man, Three Careers."] ''aviation.technomuses.ca,''1996. Retrieved: October 29, 2008.&lt;/ref&gt; was a [[Russian-American]]&lt;ref name="Britannica Concise Encyclopedia - Encyclopædia Britannica, Inc. 2006"&gt;[https://books.google.com/books?id=ea-bAAAAQBAJ&amp;pg=PA1751&amp;lpg=PA1751&amp;dq=%22Russian-U.S.+pioneer+in+aircraft+design.+After+studying+engineering+in+Kiev%22&amp;source=bl&amp;ots=OHtrqAZd72&amp;sig=2TAJQJS77ihs9HBj6AowZ2BU-QQ&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjx3on6iMXNAhWKJ5QKHcUbA7kQ6AEIHjAA "Britannica Concise Encyclopedia - Encyclopædia Britannica, Inc. 2006, p. 1751"]&lt;/ref&gt;&lt;ref name="Sergei Sikorsky: Reflecting on the 90th Anniversary"&gt;[http://www.sikorsky.com/Lists/eNewsletter/2013/Commlinks_0313.pdf "Sergei Sikorsky: Reflecting on the 90th Anniversary of Sikorsky Aircraft"] Quote: Some 90 years ago, on March 5, 1923, a Russian refugee named Igor Sikorsky organized a new company"&lt;/ref&gt;&lt;ref name="Igor Sikorsky Was a Reflection of His Heritage and Experiences in life"&gt;[http://www.sikorskyarchives.com/pdf/news%202013/April%202013%202.pdf] "My family is of Russian origin."&lt;/ref&gt; [[aviation pioneer]] in both [[helicopter]]s and [[fixed-wing aircraft]]. His first success came with the [[Sikorsky S-2|S-2]], the second aircraft of his design and construction. His fifth airplane, the [[Sikorsky S-5|S-5]], won him national recognition as well as F.A.I. license number 64.&lt;ref&gt;{{Cite web|url=https://www.sikorskyarchives.com/S-5.php|title=Sikorsky Archives {{!}} S-5|website=www.sikorskyarchives.com|access-date=2018-07-28}}&lt;/ref&gt; His [[Sikorsky S-6|S-6-A]] received the highest award at the 1912 Moscow Aviation Exhibition, and in the fall of that year the aircraft won for its young designer, builder and pilot first prize in the military competition at Saint Petersburg.&lt;ref&gt;[http://www.sikorskyarchives.com/History_2.php "Igor Sikorsky | Historical Archives"]&lt;/ref&gt;
+
+After immigrating to the United States in 1919, Sikorsky founded the [[Sikorsky Aircraft|Sikorsky Aircraft Corporation]] in 1923,&lt;ref name="Sik_history"&gt;[http://www.sikorsky.com/vgn-ext-templating-SIK/v/index.jsp?vgnextoid=208ae39d40a78110VgnVCM1000001382000aRCRD "About Sikorsky."] ''Sikorsky Aircraft''. Retrieved: December 11, 2008.&lt;/ref&gt; and developed the first of [[Pan American Airways]]' ocean-conquering [[flying boats]] in the 1930s.
+
+In 1939, Sikorsky designed and flew the [[Vought-Sikorsky VS-300]],&lt;ref&gt;Spenser 1998, p. 25.&lt;/ref&gt; the first viable American helicopter, which pioneered the rotor configuration used by most helicopters today.&lt;ref name="Woods 1979, p. 262"&gt;Woods 1979, p. 262.&lt;/ref&gt; Sikorsky modified the design into the [[Sikorsky R-4]], which became the world's first mass-produced helicopter in 1942.
+
+==Early life==
+Igor Sikorsky was born in [[Kiev]], [[Russian Empire]] (&lt;!-- Kiev --&gt;in present-day [[Ukraine]]), the youngest of five children. His father, Ivan Alexeevich Sikorsky, was a professor of [[psychology]] of Kiev St. Vladimir University, a psychiatrist with an international reputation, and an ardent Russian nationalist.&lt;ref name="books.google.com"&gt;''[https://books.google.com/books?id=TvqM0Fbjlb0C&amp;pg=PA72 "Homo Imperii A History of Physical Anthropology in Russia''], Marina Mogilner 2013, p.72"&lt;/ref&gt;&lt;ref&gt;''[https://books.google.com/books?id=TvqM0Fbjlb0C&amp;pg=PA167 Homo Imperii A History of Physical Anthropology in Russia''], Marina Mogilner 2013, p.167"&lt;/ref&gt;&lt;ref&gt;''[https://books.google.com/books?id=TvqM0Fbjlb0C&amp;pg=PA177 Homo Imperii A History of Physical Anthropology in Russia''], Marina Mogilner 2013, p.177"&lt;/ref&gt;&lt;ref&gt;"Children of Rus': Right-Bank Ukraine and the Invention of a Russian Nation 2013, by Faith Hillis, {{ISBN|0801452198}}, p.259&lt;/ref&gt;
+
+Igor Sikorsky was an Orthodox Christian.&lt;ref&gt;[http://www.sikorskyarchives.com/His_Philosophy.php Sikorskyarchives.com]&lt;/ref&gt; When questioned regarding his roots, he would answer: "My family is of Russian origin. My grandfather and other ancestors from the time of Peter the Great were Russian Orthodox priests."&lt;ref name="Igor Sikorsky Was a Reflection of His Heritage and Experiences in life"&gt;[http://www.sikorskyarchives.com/pdf/news%202013/April%202013%202.pdf] "My family is of Russian origin."&lt;/ref&gt;&lt;ref&gt;[http://www.sikorskyarchives.com/pdf/news%202013/April%202013%202.pdf Igor Sikorsky Was a Reflection of His Heritage and Experiences in life]. Sikorsky Achieves News. April 2013&lt;/ref&gt;
+
+Sikorsky's mother, Mariya Stefanovna Sikorskaya (née Temryuk-[[Cherkasov]]a),&lt;ref&gt;Mikheev, V. R. [https://translate.google.com/translate?u=http%3A%2F%2Fwww.pravmir.ru%2Farticle_2402.html&amp;sl=ru&amp;tl=en&amp;hl=en&amp;ie=UTF-8 "Sikorsky: Hero, Exile, the Father of Aviation" (English translation).] ''Pravmir.ru,'' October 31, 2011. Retrieved: May 16, 2012.&lt;/ref&gt; was a physician who did not work professionally. She is sometimes called Zinaida Sikorsky. While [[homeschooling]] young Igor, she gave him a great love for art, especially in the life and work of [[Leonardo da Vinci]], and the stories of [[Jules Verne]]. In 1900, at age 11, he accompanied his father to Germany and through conversations with his father, became interested in [[natural sciences]]. After returning home, Sikorsky began to experiment with model flying machines, and by age 12, he had made a small rubber band-powered helicopter.&lt;ref&gt;Woods 1979, p. 254.&lt;/ref&gt;
+
+Sikorsky began studying at the [[Saint Petersburg]] Maritime Cadet Corps, in 1903, at the age of 14. In 1906, he determined that his future lay in engineering, so he resigned from the academy, despite his satisfactory standing, and left the Russian Empire to study in Paris. He returned to the Russian Empire in 1907, enrolling at the Mechanical College of the [[Kiev Polytechnic Institute]]. After the academic year, Sikorsky again accompanied his father to Germany in the summer of 1908, where he learned of the accomplishments of the [[Wright brothers]]' Flyer and [[Ferdinand von Zeppelin]]'s [[dirigible]].&lt;ref name="franklin2"&gt;[https://www.fi.edu/case-files/igor-sikorsky "The Case Files: Igor Sikorsky"]. ''Franklin Institute''. Retrieved: August 24, 2017.&lt;/ref&gt; Sikorsky later said about this event: "Within twenty-four hours, I decided to change my life's work. I would study aviation."&lt;ref&gt;Christiano, Marilyn. [http://www.voanews.com/specialenglish/archive/2005-07/2005-07-05-voa1.cfm "Igor Sikorsky: Aircraft and Helicopter Designer."] ''VOA News'', July 5, 2005. Retrieved: July 17, 2010.&lt;/ref&gt;
+
+By the start of World War I in 1914, Sikorsky's airplane research and production business in Kiev was flourishing, and his factory made bombers during the war. After the [[October Revolution|Bolshevik revolution]] began in 1917, Igor Sikorsky fled his homeland, because the new government threatened to shoot him.&lt;ref name="300.years.spb.ru"&gt;[http://www.300.years.spb.ru/eng/3_spb_3.html?id=24] "Sergei Sikorsky: My father's fate (English translation version of an interview published in Russian by pravmir.ru)"&lt;/ref&gt; He moved to France where he was offered a contract for the design of a new, more powerful Muromets-type plane. But in November 1918 the war ended and the French government stopped subsidizing military orders, he arrived in the U.S. a few months later in 1919.&lt;ref name="300.years.spb.ru" /&gt;&lt;ref&gt;[http://www.pravmir.ru/igor-ivanovich-sikorskij-otec-aviacii-i-xramostroitel/] "An interview with Sergei Sikorsky in Russian by pravmir.ru"&lt;/ref&gt;&lt;ref&gt;Kutuzov, Mikhail. [https://translate.google.com/translate?u=http%3A%2F%2Fwww.archipelag.ru%2Fauthors%2Fkutuzov%2F%3Flibrary%3D2140&amp;sl=ru&amp;tl=en&amp;hl=en&amp;ie=UTF-8 "The Genius of Flight" (English translation).] ''Russian Archipelago,'' 2012. Retrieved: May 16, 2012.&lt;/ref&gt;
+
+==Aircraft designer==
+[[File:Sikorsky I.I. 1914. Karl Bulla.jpg|thumb|Igor Sikorsky in 1914]]
+
+With financial backing from his sister Olga, Sikorsky returned to Paris, the center of the aviation world at the time, in 1909. Sikorsky met with aviation pioneers, to ask them questions about aircraft and flying. In May 1909, he returned to Russia and began designing his first helicopter, which he began testing in July 1909. Despite his progress in solving technical problems of control, Sikorsky realized that the aircraft would never fly. He finally disassembled the aircraft in October 1909, after he determined that he could learn nothing more from the design.&lt;ref name="Woods 255"&gt;Woods 1979, p. 255.&lt;/ref&gt;
+
+&lt;blockquote&gt;I had learned enough to recognize that with the existing state of the art, engines, materials, and – most of all – the shortage of money and lack of experience... I would not be able to produce a successful helicopter at that time.&lt;ref name=Britannica&gt;[http://www.britannica.com/EBchecked/topic/543984/Igor-Ivan-Sikorsky "Igor Sikorsky."] ''Encyclopædia Britannica, 2009'' via ''britannica.com''. Retrieved: October 14, 2009.&lt;/ref&gt;&lt;/blockquote&gt;
+
+Sikorsky's first aircraft of his own design, the S-1 used a 15&amp;nbsp;hp [[Anzani 3-cylinder fan engine]] in a [[pusher configuration]], that could not lift the aircraft. His second design called the S-2 was powered by a 25&amp;nbsp;hp Anzani engine in a [[tractor configuration]] and first flew on June 3, 1910 at a height of a few feet. On June 30 after some modifications, Sikorsky reached an altitude of "sixty or eighty feet" before the S-2 stalled and was completely destroyed when it crashed in a ravine.&lt;ref name=winged&gt;{{cite book |last=Sikorsky |first=Igor|first2=|last2=|title=The Story of the Winged-S|year=1944|publisher=Dodd, Mead &amp; Company|location=New York|isbn=9781258163556|page=48}}&lt;/ref&gt;&lt;ref&gt;"Sikorsky Celebrates." ''Popular Aviation'' September 1930, p. 20.&lt;/ref&gt; Later, Sikorsky built the two-seat [[Sikorsky S-5|S-5]], his first design not based on other European aircraft. Flying this original aircraft, Sikorsky earned his [[pilot license]]; [[Fédération Aéronautique Internationale]] (FAI) license No. 64 issued by the Imperial Aero Club of Russia in 1911.&lt;ref name="Woods 1979, p. 256"&gt;Woods 1979, p. 256.&lt;/ref&gt; During a demonstration of the S-5, the engine quit and Sikorsky was forced to make a crash landing to avoid a wall. It was discovered that a [[mosquito]] in the gasoline had been drawn into the [[carburetor]], starving the engine of fuel. The close call convinced Sikorsky of the need for an aircraft that could continue flying if it lost an engine.&lt;ref&gt;''Current Biography 1940'', pp. 734–736.&lt;/ref&gt; His next aircraft, the S-6 held three passengers and was selected as the winner of the Moscow aircraft exhibition held by the [[Imperial Russian Army|Russian Army]] in February 1912.&lt;ref name="Woods 1979, p. 256"/&gt;
+
+[[File:Sikorsky-LeGrand.jpg|thumb|left|Sikorsky ''Bolshoi Baltisky'' of 1913, before receiving its pair of pusher engines]]
+In early 1912, Igor Sikorsky became Chief Engineer of the aircraft division for the [[Russo-Balt|Russian Baltic Railroad Car Works]] (''Russko-Baltiisky Vagonny Zavod'' or ''R-BVZ'')&lt;ref&gt;Murphy 2005, p. 180.&lt;/ref&gt; in [[Saint Petersburg]].&lt;ref name="bomber"&gt;Lake 2002, p. 31.&lt;/ref&gt; His work at R-BVZ included the construction of the first four-[[inline engine (aviation)|engine]] aircraft, the S-21 ''[[Sikorsky Russky Vityaz|Russky Vityaz]]'', which he initially called ''Le Grand'' when fitted with just two engines, then as the ''Bolshoi Baltisky'' (The Great Baltic) when fitted with four engines for the first time, each wing panel's pair of powerplants in a "push-pull" tandem configuration previous to the four [[tractor configuration|tractor-engined]] ''Russki Vityaz''.&lt;ref name="HaddrickTaylor"&gt;{{cite book |last=Haddrick Taylor |first=Michael John |title=The Illustrated Encyclopedia of Helicopters |isbn=9780671071493 |p=34 |url=https://books.google.co.uk/books?id=tdCa_zplDycC}}&lt;/ref&gt; He also served as the [[test pilot]] for its first flight on May 13, 1913.&lt;ref name="HaddrickTaylor"/&gt; In recognition for his accomplishment, he was awarded an honorary degree in engineering from [[Saint Petersburg Polytechnical Institute]] in 1914. Sikorsky took the experience from building the Russky Vityaz to develop the S-22 ''[[Sikorsky Ilya Muromets|Ilya Muromets]]'' airliner. Due to outbreak of [[World War I]], he redesigned it as the world's first four-engined [[bomber]], for which he was decorated with the [[Order of St. Vladimir]].
+
+After World War I, Igor Sikorsky briefly became an engineer for the French forces in Russia, during the [[Russian Civil War]].&lt;ref&gt;[https://timesmachine.nytimes.com/timesmachine/1918/06/25/102714001.pdf "Airmen leave Russia."] ''The New York Times'', June 25, 1918. Retrieved May 23, 2011.&lt;/ref&gt; Seeing little opportunity for himself as an aircraft designer in war-torn Europe, and particularly Russia, ravaged by the [[October Revolution]] and Civil War, he immigrated to the United States, arriving in New York on March 30, 1919.&lt;ref&gt;Woods 1979, p. 257.&lt;/ref&gt;&lt;ref&gt;[https://timesmachine.nytimes.com/timesmachine/1919/04/20/118146835.pdf "Russian airplane will be made here."] ''The New York Times'', April 20, 1919. Retrieved: July 17, 2010.&lt;/ref&gt;
+
+===List of aircraft designed by Sikorsky===
+[[File:Bulla Vityaz.jpg|thumb|Russian aviators Sikorsky, Genner and Kaulbars aboard a "[[Sikorsky Russky Vityaz|Russky Vityaz]]", c. 1913]]
+
+* S-6 – three-passenger plane – 1912
+* [[Sikorsky Russky Vityaz|S-21 Russky Vityaz]] four-engine biplane – 1913
+* [[Sikorsky Ilya Muromets|S-22 Ilya Muromets]] four-engine biplane – 1913
+* [[Sikorsky S-29|S-29]] twin-engine biplane - 1924
+* [[Sikorsky S-42|S-42 Clipper]] – flying boat – 1934
+* [[Vought-Sikorsky VS-300|VS-300]] experimental prototype helicopter – 1939
+* [[VS-44|VS-44 Excambian]] flying boat – 1942
+* [[Sikorsky R-4|R-4]] world's first production helicopter – 1942
+
+==Life in the United States==
+[[File:Sikorsky S42 (crop).jpg|thumb|[[Sikorsky S-42]] [[flying boat]] ]]
+[[File:Sikorsky Skycrane carrying house bw.jpg|thumb|[[Sikorsky Skycrane]] carrying a house]]
+
+In the U.S., Sikorsky first worked as a school teacher and a lecturer, while looking for an opportunity to work in the aviation industry. In 1932, he joined the faculty of the [[University of Rhode Island]] to form an aeronautical engineering program and remained with the university until 1948.&lt;ref&gt;{{cite web|url=http://www.uri.edu/home/about/history_timeline.html|title=URI History and Timeline|publisher=University of Rhode Island|accessdate=July 17, 2010|deadurl=yes|archiveurl=https://www.webcitation.org/6D8S8XJFr?url=http://www.uri.edu/home/about/history_timeline.html|archivedate=December 23, 2012|df=mdy-all}}&lt;/ref&gt; He also lectured at the [[University of Bridgeport]].
+
+In 1923, Sikorsky formed the [[Sikorsky Aircraft|Sikorsky Manufacturing Company]] in [[Roosevelt, New York]].&lt;ref&gt;Spenser 1998, p. 15.&lt;/ref&gt; He was helped by several former Russian military officers. Among Sikorsky's chief supporters was composer [[Sergei Rachmaninoff]], who introduced himself by writing a check for US$5,000 (approximately $61,000 in 2007).&lt;ref&gt;Prokhorov, Vadim. [http://www.airspacemag.com/history-of-flight/Piano_Man.html "Oldies &amp; Oddities: Sikorsky's Piano Man" (History of Flight).] {{webarchive|url=https://archive.is/20120724143639/http://www.airspacemag.com/history-of-flight/Piano_Man.html |date=July 24, 2012 }} ''Air &amp; Space Magazine/Smithsonian'', Volume 17, Issue 4, November 1, 2002. Retrieved: July 17, 2010.&lt;/ref&gt;  Although his prototype was damaged in its first test flight, Sikorsky persuaded his reluctant backers to invest another $2,500. With the additional funds, he produced the [[Sikorsky S-29|S-29]], one of the first twin-engine aircraft in America, with a capacity for 14 passengers and a speed of 115&amp;nbsp;mph.&lt;ref&gt;''Current Biography 1940'', p. 735.&lt;/ref&gt;  The performance of the S-29, slow compared to military aircraft of 1918, proved to be a "make or break" moment for Sikorsky's funding.{{cn|date=May 2018}}
+
+In 1928, Sikorsky became a [[naturalized citizen]] of the United States. The Sikorsky Manufacturing Company moved to [[Stratford, Connecticut]] in 1929. It became a part of the [[United Aircraft and Transport Corporation]] (now [[United Technologies Corporation]]) in July of that year.&lt;ref&gt;Spenser 1998, pp. 15–17.&lt;/ref&gt;  The company manufactured [[flying boat]]s, such as the [[Sikorsky S-42|S-42]] "Clipper", used by [[Pan American World Airways|Pan Am]] for transatlantic flights.&lt;ref name=Britannica/&gt;
+
+Meanwhile, Sikorsky also continued his earlier work on vertical flight while living in [[Nichols, Connecticut]]. On February 14, 1929, he filed an application to patent a "direct lift" amphibian aircraft which used compressed air to power a direct lift "propeller" and two smaller propellers for thrust.&lt;ref&gt;[https://www.google.com/patents/about?id=j4hOAAAAEBAJ&amp;dq=igor+sikorsky+nichols+ct "Patent number: 1848389"] ''google.com.'' Retrieved: November 25, 2010.&lt;/ref&gt; On June 27, 1931, Sikorsky filed for a patent for another "direct lift aircraft", and was awarded patent No. 1,994,488 on March 19, 1935.&lt;ref&gt;[https://www.google.com/patents/about?id=Nqd4AAAAEBAJ&amp;dq=1,994,488 "Patent number: 1994488."] ''google.com.'' Retrieved: November 25, 2010.&lt;/ref&gt; His design plans eventually culminated in the first (tethered) flight of the [[Vought-Sikorsky VS-300]] on September 14, 1939, with the first free flight occurring eight months later on May 24, 1940. Sikorsky's success with the VS-300 led to the [[Sikorsky R-4|R-4]], which became the world's first mass-produced helicopter, in 1942. Sikorsky's final VS-300 rotor configuration, comprising a single main rotor and a single antitorque [[tail rotor]], has proven to be one of the most popular helicopter configurations, being used in most helicopters produced today.&lt;ref name="Woods 1979, p. 262"/&gt;
+
+Igor Sikorsky was also on the board of directors for the [[Tolstoy Foundation]] Center in [[Valley Cottage, New York]].{{cn|date=May 2018}}
+
+==Family==
+Sikorsky was married to Olga Fyodorovna Simkovitch in the Russian Empire. They were divorced and Olga remained in Russia with their daughter, Tania, as Sikorsky departed after the [[October Revolution]]. In 1923, Sikorsky's sisters immigrated to the US, bringing six-year-old Tania with them.&lt;ref&gt;[http://www.fi.edu/learn/case-files/sikorsky/mission.html "Military Mission."] {{webarchive|url=https://web.archive.org/web/20080906102920/http://www.fi.edu/learn/case-files/sikorsky/mission.html |date=September 6, 2008 }} ''The Case Files: Igor Sikorsky'', ''Franklin Institute''. Retrieved: October 29, 2008.&lt;/ref&gt; Sikorsky married Elisabeth Semion (1903–1995) in 1924, in New York.&lt;ref&gt;Hacker and Vining 2007, p. 116.&lt;/ref&gt; Sikorsky and Elisabeth had four sons; Sergei, Nikolai, Igor Jr. and George.&lt;ref&gt;''Skyways'' July 1995, p. 71.&lt;/ref&gt;
+
+* Tania Sikorsky von York (March 1, 1918 – September 22, 2008), Sikorsky's eldest child and only daughter. Tania was born in Kiev, [[Ukrainian People's Republic|Ukraine]]. Educated in the United States, she earned a B.A. at [[Barnard College]] and a doctorate at [[Yale University]]. She was one of the original faculty members of [[Sacred Heart University]] in [[Bridgeport, Connecticut]], where she served as Professor of Sociology for 20 years.&lt;ref&gt;[http://www.legacy.com/Fosters/Obituaries.asp?Page=LifeStory&amp;PersonId=117985032 "Tania Sikorsky Von York."] ''Foster's Daily Democrat'', September 26, 2008. Retrieved: October 16, 2008.&lt;/ref&gt;
+* Sergei Sikorsky (1925–&amp;nbsp;), Sikorsky's eldest son. He joined United Technologies in 1951, and retired in 1992, as Vice-President of Special Projects at [[Sikorsky Aircraft]].&lt;ref&gt;[http://www.sikorskyarchives.com/first.html "First Helicopter Civilian Rescue November 29, 1945."] {{webarchive|url=https://web.archive.org/web/20081210120525/http://www.sikorskyarchives.com/first.html |date=December 10, 2008 }} ''Sikorskyarchives.com.'' Retrieved: July 17, 2010.&lt;/ref&gt;&lt;ref&gt;Zenobia, Keith. [http://www.pmlaa.org/newsletters/2004-06.pdf "Sergei Sikorsky: Recollections of a Pioneer, The Legacy of Igor Sikorsky."] ''PMLAA News Newsletter (Pine Mountain Lake Aviation Association)'', 19:6, 2004. Retrieved: December 2, 2010.&lt;/ref&gt;
+* Igor Sikorsky Jr. is an attorney, businessman and aviation historian.&lt;ref&gt;Church, Diane. [https://archive.is/20120729023436/http://www.bristolpress.com/articles/2012/03/20/news/doc4f67f1f1a7d6f704888394.txt "Sikorsky to speak in Plainville tonight."] ''Bristol Press,'' March 19, 2012.&lt;/ref&gt; Igor Sikorsky III is also a pilot.&lt;ref&gt;[http://www.bradfordcamps.com/1%20AVIATION%20DIGEST.htm "Igor Sikorsky Seminar."] {{webarchive|url=https://web.archive.org/web/20140304061152/http://www.bradfordcamps.com/1%20AVIATION%20DIGEST.htm |date=March 4, 2014 }} ''Aviation Digest: Bradford Camps'', June 2003.&lt;/ref&gt;
+
+==Death and legacy==
+[[File:15-a Yaroslaviv Val, Kiev (Sikorsky House).jpg|thumb|The Sikorsky's family house in Kiev's historical center, October 2009]]
+
+Sikorsky died at his home in [[Easton, Connecticut]], on October 26, 1972, and is buried in Saint John the Baptist Russian Orthodox Cemetery located on [[Connecticut Route 108|Nichols Avenue]] in [[Stratford, Connecticut|Stratford]].&lt;ref&gt;[http://www.angelfire.com/endymion77/st_john.html "St. John the Baptist Russian Orthodox Cemetery"]&lt;/ref&gt;
+
+In 1966, Sikorsky was inducted into the [[International Air &amp; Space Hall of Fame]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].
+
+&lt;/ref&gt;
+
+The [[Igor I. Sikorsky Memorial Bridge|Sikorsky Memorial Bridge]], which carries the [[Merritt Parkway]] across the [[Housatonic River]] next to the Sikorsky corporate headquarters, is named for him. Sikorsky has been designated a Connecticut Aviation Pioneer by the Connecticut State Legislature. The Sikorsky Aircraft Corporation in Stratford, Connecticut, continues to the present day as one of the world's leading helicopter manufacturers, and a nearby small airport has been named [[Sikorsky Memorial Airport]].&lt;ref&gt;[http://www.ja.org/hof/viewLaureate.asp?id=163&amp;alpha=S "Igor I. Sikorsky: Sikorsky Aircraft."] {{webarchive|url=https://web.archive.org/web/20130109220055/http://www.ja.org/hof/viewLaureate.asp?id=163&amp;alpha=S |date=January 9, 2013 }} ''JA Worldwide''. Retrieved: October 12, 2009.&lt;/ref&gt;
+
+Sikorsky was inducted into the National Inventors Hall of Fame and the Junior Achievement U.S. Business Hall of Fame in 1987.&lt;ref&gt;Ikenson 2004, p. 24.&lt;/ref&gt;&lt;ref&gt;[http://www.invent.org/hall_of_fame/135.html "Igor I. Sikorsky."] {{webarchive|url=https://web.archive.org/web/20091211221335/http://www.invent.org/hall_of_fame/135.html |date=December 11, 2009 }} ''National Inventors Hall of Fame Foundation, Inc.'' via ''invent.org.'' Retrieved: October 12, 2009.&lt;/ref&gt;
+
+In October 2011, one of the streets in Kiev was renamed after Sikorsky. The decision was made by the City Council at the request of the [[Embassy of the United States, Kiev|U.S. Embassy in Ukraine]], which opened its new office on that street.&lt;ref&gt;[http://www.kyivpost.com/news/city/detail/115805/ "Kyiv changes street name at Washington's request"] ''[[Kyiv Post]]''. Retrieved: November 26, 2011.&lt;/ref&gt; The Sikorsky's family house in the city's historical center is preserved to this day but is in a neglected condition pending restoration.
+
+In November 2012, one of the Russian [[supersonic]] heavy [[strategic bomber]] [[Tupolev Tu-160|Tu-160]], based at the [[Engels-2]] Air Force Base, was named for Igor Sikorsky, which caused controversy among air base crew members. One of the officers said that Igor Sikorsky does not deserve it because he laid the foundations of the U.S., rather than Russian aviation. However, the [[Long Range Aviation]] command officer said that Igor Sikorsky is not responsible for the activities of his military aircraft, noted that Sikorsky had also designed [[Sikorsky Ilya Muromets|the first heavy bomber]] for Russia.&lt;ref&gt;Mikhailov, Alexei and Bal′burov, Dmitry. [http://izvestia.ru/news/539463 "Ту-160 присвоили имя американского авиаконструктора Сикорского (in Russian) (The Tu-160 was named after the American Sikorsky Aircraft Designer)."] ''[[Izvestia]]'' November 13, 2012.&lt;/ref&gt; In 2013, [[Flying Magazine|''Flying'']] magazine ranked Sikorsky number 12 on its list of the 51 Heroes of Aviation.&lt;ref&gt;[http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41843 Flyingmag.com]&lt;/ref&gt;
+
+On March 22, 2018 the [[Kiev city council]] officially renamed [[Kiev airport]] ''International Airport "Kyiv" (Zhulyany) named after Igor Sikorsky''.&lt;ref&gt;[https://www.pravda.com.ua/news/2018/03/22/7175492/ Pravda.com]&lt;/ref&gt;
+
+==Philosophical and religious views==
+Sikorsky was a deeply religious [[Russian Orthodox Church|Russian Orthodox]] Christian&lt;ref&gt;[https://www.nytimes.com/1994/04/10/nyregion/faith-of-the-orthodox-born-in-russia.html Faith Of the Orthodox Born in Russia]&lt;/ref&gt; and authored two religious and philosophical books (''The Message of the Lord's Prayer'' and ''The Invisible Encounter''). Summarizing his beliefs, in the latter he wrote:
+{{quote|text=Our concerns sink into insignificance when compared with the eternal value of human personality – a potential child of God which is destined to triumph over life, pain, and death. No one can take this sublime meaning of life away from us, and this is the one thing that matters.&lt;ref&gt;[https://books.google.com/books?id=f93mAAAAMAAJ&amp;q=%22a+potential+child+of+God+which+is+destined+%22&amp;dq=%22a+potential+child+of+God+which+is+destined+%22 "The Invisible Encounter".] ''The Universalist Leader,'' Volume 130, Issue 5, 1948, p. 115.&lt;/ref&gt;&lt;ref&gt;[http://avstop.com/history/aroundtheworld/russia/sikorsky.html "Igor I. Sikorsky."] ''AvStop Online Magazine''. Retrieved: July 17, 2010.&lt;/ref&gt;}}
+
+==Published works==
+* Sikorsky, Igor Ivan. ''The Message of the Lord's Prayer''. New York: C. Scribner's sons, 1942. {{OCLC|2928920}}
+* Sikorsky, Igor Ivan. ''The Invisible Encounter''. New York: C. Scribner's Sons, 1947. {{OCLC|1446225}}
+* Sikorsky, Igor Ivan. ''The Story of the Winged-S: Late Developments and Recent Photographs of the Helicopter, an Autobiography''. New York: Dodd, Mead, 1967. {{OCLC|1396277}}
+
+==See also==
+* [[Aerosani]] – Sikorsky built some of these propeller-powered [[snowmobiles]] in 1909–10
+* [[Fedor Ivanovich Bylinkin]] – an early aircraft collaborator with Sikorsky, in 1910
+* [[Sikorsky Prize]] – a prize for human powered helicopters named in his honor
+* [[10090 Sikorsky]] – an [[asteroid]] named in honor of Igor Sikorsky
+
+==References==
+===Notes===
+{{Reflist|group=N}}
+
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* Delear, Frank J. ''Igor Sikorsky: His Three Careers in Aviation''. New York: Dodd Mead, 1969, Revised edition, 1976. {{ISBN|978-0-396-07282-9}}.
+* Hacker, Barton C. and Margaret Vining. ''American Military Technology: The Life Story of a Technology.'' Baltimore, Maryland: Johns Hopkins University Press, 2007. {{ISBN|978-0-8018-8772-7}}.
+* Ikenson, Ben. [https://books.google.com/books?id=gBV6bY2Ey3IC&amp;pg=PA24&amp;dq=igor+sikorsky ''Patents: Ingenious Inventions, How They Work and How They Came to Be''.] New York: Black Dog &amp; Leventhal Publishers, 2004. {{ISBN|978-1-57912-367-3}}.
+* Lake, Jon. ''The Great Book of Bombers: The World's Most Important Bombers from World War I to the Present Day.'' St. Paul, Minnesota: MBI Publishing Company, 2002. {{ISBN|0-7603-1347-4}}.
+* Leishman, J. Gordon. [https://web.archive.org/web/20140713201846/http://terpconnect.umd.edu/~leishman/Aero/history.html#The_Dream_of_True_Flight#The_Dream_of_True_Flight "The Dream of True Flight."] Online summary: ''Principles of Helicopter Aerodynamics''. Cambridge, UK: Cambridge University Press, 2006. {{ISBN|0-521-85860-7}}.
+* Murphy, Justin D. ''Military Aircraft, Origins to 1918: An Illustrated History of Their Impact'' (Weapons and warfare series). Santa Barbara, California, USA: ABC-CLIO, 2005. {{ISBN|1-85109-488-1}}.
+* Sikorsky, Igor Ivan. ''The Story of the Winged-S: Late Developments and Recent Photographs of the Helicopter, an Autobiography''. New York: Dodd, Mead, originally published 1938 (updated editions, various years up to 1948), Revised edition, 1967.
+* Spenser, Jay P. ''Whirlybirds, A History of the U.S. Helicopter Pioneers''. Seattle, Washington, USA: University of Washington Press, 1998. {{ISBN|0-295-97699-3}}.
+* Woods, Carlos C. [https://books.google.com/books?id=kz4rAAAAYAAJ "Memorial Tributes", pp. 253–266.] ''Igor Ivan Sikorsky''. Washington, D.C.: National Academy of Engineering (The Academy), 1979.
+{{Refend}}
+
+==External links==
+{{Commons category}}
+* [http://www.sikorskyarchives.com Official Sikorsky historical archives]
+* {{imdb name|0797756}}
+* [http://www.alexanderpalace.org/aerialrussia/ Igor Sikorsky] Aerial Russia – the Romance of the Giant Aeroplane – early days of Igor Sikorsky online book
+* [http://www.ctheritage.org/encyclopedia/ctsince1929/sikorsky.htm Igor Sikorsky article on ctheritage.org]
+* [http://www.time.com/time/magazine/archive/covers/0,16641,1101531116,00.html Igor Sikorsky]. Time magazine, November 16, 1953. (Cover)
+* [https://www.neam.org/exhibits.php The New England Air Museum] in Windsor Locks, Connecticut, has extensive Sikorsky exhibits
+* [https://books.google.com/books?id=vdkDAAAAMBAJ&amp;pg=PA380&amp;dq=defiant&amp;hl=en&amp;ei=Aud5TOmcGoqonQehs9mWCw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CFUQ6AEwCTgK#v=onepage&amp;q=defiant&amp;f=true Wingless Helicopter Flies Straight Up] September 1940 [[Popular Mechanics]] article showing Sikorsky flying his first helicopter and introducing him to the general public
+* {{US patent|1848389}} : "Aircraft, especially aircraft of the direct lift amphibian type and means of construction and operating the same"
+* {{US patent|1994488}}
+* {{US patent|2318259}}
+* {{US patent|2318260}}
+
+{{Sikorsky Aircraft Corporation}}
+{{Winners of the National Medal of Science|engineering}}
+{{ASME Medal|state=collapsed}}
+{{Use mdy dates|date=May 2018}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sikorsky, Igor}}
+[[Category:1889 births]]
+[[Category:1972 deaths]]
+[[Category:People from Kiev]]
+[[Category:Aircraft designers]]
+[[Category:American people of Russian descent]]
+[[Category:ASME Medal recipients]]
+[[Category:Aviation history of Russia]]
+[[Category:Aviation history of the United States]]
+[[Category:Aviation pioneers]]
+[[Category:Aviation inventors]]
+[[Category:Businesspeople in aviation]]
+[[Category:Members of the Early Birds of Aviation]]
+[[Category:American aerospace engineers]]
+[[Category:Russian aerospace engineers]]
+[[Category:American inventors]]
+[[Category:Russian inventors]]
+[[Category:Imperial Russian emigrants to France]]
+[[Category:Russian Orthodox Christians from the United States]]
+[[Category:Imperial Russian emigrants to the United States]]
+[[Category:National Medal of Science laureates]]
+[[Category:University of Bridgeport faculty]]
+[[Category:University of Rhode Island faculty]]
+[[Category:Recipients of the Order of St. Vladimir]]
+[[Category:Kyiv Polytechnic Institute alumni]]
+[[Category:People from Easton, Connecticut]]
+[[Category:National Inventors Hall of Fame inductees]]</text>
+      <sha1>os3989q5cq9c1jcn2otvx5nf2ffdbl7</sha1>
+    </revision>
+  </page>
+</mediawiki>

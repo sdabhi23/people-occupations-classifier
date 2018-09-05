@@ -1,0 +1,521 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jimmy Doolittle</title>
+    <ns>0</ns>
+    <id>147748</id>
+    <revision>
+      <id>853097021</id>
+      <parentid>853095970</parentid>
+      <timestamp>2018-08-02T12:03:13Z</timestamp>
+      <contributor>
+        <username>GB fan</username>
+        <id>7997523</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/165.138.141.60|165.138.141.60]] ([[User talk:165.138.141.60|talk]]) to last version by Donner60</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="56687">{{Use mdy dates|date=April 2012}}
+{{Infobox military person
+|name= James Doolittle
+|birth_name= James Harold Doolittle
+|birth_date= {{Birth date|1896|12|14}}
+|death_date= {{Death date and age|1993|09|27|1896|12|14}}
+|birth_place=[[Alameda, California|Alameda]], [[California]]
+|death_place=[[Pebble Beach, California|Pebble Beach]], California
+|placeofburial= [[Arlington National Cemetery]]
+|placeofburial_label= Place of burial
+|image= Lt. General James Doolittle, head and shoulders.jpg
+|caption=
+|nickname= "Jimmy"
+|spouse = {{marriage|Josephine Daniels|December 24, 1917|1988|end=died}}
+|allegiance={{flag|United States of America}}
+|branch= [[File:Insignia signal.svg|25px]] [[Aviation Section, U.S. Signal Corps]] (1917-1918)&lt;br&gt;[[File:Prop and wings.svg|25px]] [[United States Army Air Service]] (1918-1926)&lt;br&gt;[[File:USAAC Roundel 1919-1941.svg|25px]] [[United States Army Air Corps]] (1926-1941)&lt;br/&gt;[[File:US Army Air Corps Hap Arnold Wings.svg|25px]] [[United States Army Air Forces]] (1941-1947)&lt;br/&gt;[[File:Seal of the US Air Force.svg|25px]] [[United States Air Force]] (1947-1959)
+|serviceyears= 1917–1959
+|rank=[[File:US-O10 insignia.svg|25px]] [[General (United States)|General]]
+|commands= [[Twelfth Air Force]]&lt;br&gt;[[Fifteenth Air Force]]&lt;br&gt;[[Eighth Air Force]]
+|unit=
+|battles= [[Mexican Border Service]]&lt;br/&gt;[[World War I]] (stateside duty)&lt;br/&gt;[[World War II]]
+* [[Pacific Ocean theater of World War II|Pacific Theatre]]
+** [[Doolittle Raid]]
+* [[Mediterranean Theater of Operations|Mediterranean Theatre]]
+* [[European Theatre of World War II|European Theatre]]
+[[Cold War]]
+* [[Korean War]] (stateside duty)
+|awards=[[Medal of Honor]]&lt;br/&gt;[[Distinguished Service Medal (U.S. Army)|Army Distinguished Service Medal-2]]&lt;br/&gt;[[Silver Star]]&lt;br/&gt;[[Distinguished Flying Cross (United States)|Distinguished Flying Cross-3]]&lt;br/&gt;[[Bronze Star]]&lt;br/&gt;[[Air Medal|Air Medal-4]]&lt;br&gt;[[Presidential Medal of Freedom]]
+|education = [[Tufts College]], [[B.A.]] 1909 &lt;br /&gt;[[Harvard University]], [[Ph.D.]] 1913
+|laterwork= [[Shell Oil]], VP, director&lt;br/&gt;Space Technology Laboratories, chairman
+}}
+'''James Harold Doolittle''' (December 14, 1896 – September 27, 1993) was an American [[List of aviation pioneers|aviation pioneer]]. A [[United States Army Reserve|Reserve officer]] in the [[United States Army Air Corps]], Doolittle was recalled to active duty during [[World War II]]. He was awarded the [[Medal of Honor]] for personal valor and leadership as commander of the [[Doolittle Raid]], a bold long-range retaliatory [[Strategic bombing|air raid]] on the [[Empire of Japan|Japanese main islands]], on April 18, 1942, four months after the [[attack on Pearl Harbor]]. The attack was a major morale booster for the United States, and Doolittle was celebrated as a hero. He was eventually promoted to [[Lieutenant general (United States)|lieutenant general]] and commanded the [[Twelfth Air Force]] over North Africa, the [[Fifteenth Air Force]] over the Mediterranean, and the [[Eighth Air Force]] over Europe.
+
+==Early life and education==
+Doolittle was born in [[Alameda, California]], and spent his youth in [[Nome, Alaska]], where he earned a reputation as a boxer.
+His parents were Frank Henry Doolittle and Rosa (Rose) Cerenah Shephard. By 1910, Jimmy Doolittle was attending school in Los Angeles. When his school attended the [[1910 Los Angeles International Air Meet at Dominguez Field]], Doolittle saw his first airplane.&lt;ref name="Berliner 2009, p. 37"&gt;Berliner 2009, p. 37.&lt;/ref&gt; He attended [[Los Angeles City College]] after graduating from [[Manual Arts High School]] in Los Angeles, and later won admission to the [[University of California, Berkeley]] where he studied in The [[School of Mines]]. He was a member of [[Theta Kappa Nu]] fraternity, which would [[merger|merge]] into [[Lambda Chi Alpha]] during the latter stages of the [[Great Depression]].
+
+Doolittle took a leave of absence in October 1917 to enlist in the [[Signal Corps (United States Army)|Signal Corps Reserve]] as a flying cadet; he ground trained at the School of Military Aeronautics (an Army school) on the campus of the [[University of California]], and flight-trained at [[Rockwell Field]], [[California]]. Doolittle received his [[U.S. Air Force Aeronautical Ratings|Reserve Military Aviator rating]] and was commissioned a [[first lieutenant]] in the Signal Officers Reserve Corps of the U.S. Army on March 11, 1918.
+
+==Military career==
+During [[World War I]], Doolittle stayed in the United States as a flight instructor and performed his war service at Camp John Dick Aviation Concentration Center ("Camp Dick"), [[Texas]]; [[Wright-Patterson Air Force Base|Wright Field, Ohio]]; Gerstner Field, [[Louisiana]]; Rockwell Field, California; [[Kelly Air Force Base|Kelly Field, Texas]] and [[Eagle Pass, Texas]].
+[[File:Curtiss Racer NASA GPN-2000-001310.jpg|left|thumb|Doolittle on his [[Curtiss R3C-2]] Racer, the plane in which he won the 1925 [[Schneider Trophy]] Race]]
+
+Doolittle's service at Rockwell Field consisted of duty as a flight leader and gunnery instructor. At Kelly Field, he served with the [[104th Fighter Squadron|104th Aero Squadron]] and with the [[90th Fighter Squadron|90th Aero Squadron]] of the [[3d Operations Group|1st Surveillance Group]]. His detachment of the 90th Aero Squadron was based at [[Eagle Pass, Texas|Eagle Pass]], patrolling the Mexican border. Recommended by three officers for retention in the [[United States Army Air Service|Air Service]] during demobilization at the end of the war, Doolittle qualified by examination and received a Regular Army commission as a 1st Lieutenant, Air Service, on July 1, 1920.
+
+On May 10, 1921, he was engineering officer and pilot for an expedition recovering a plane that had force-landed in a Mexican canyon on February 10 during a transcontinental flight attempt by [[Alexander Pearson Jr.|Lieut. Alexander Pearson]]. Doolittle reached the plane on May 3 and found it serviceable, then returned May 8 with a replacement motor and four mechanics. The oil pressure of the new motor was inadequate and Doolittle requested two pressure gauges, using [[carrier pigeon]]s to communicate. The additional parts were dropped by air and installed, and Doolittle flew the plane to [[Del Rio, Texas]] himself, taking off from a 400-yard airstrip hacked out of the canyon floor.
+
+Subsequently, he attended the Air Service Mechanical School at Kelly Field and the Aeronautical Engineering Course at [[McCook Field, Ohio]]. Having at last returned to complete his college degree, he earned a [[Bachelor of Arts]] from the [[University of California, Berkeley]] in 1922, and joined the [[Lambda Chi Alpha]] fraternity.
+
+Doolittle was one of the most famous pilots during the inter-war period. In September 1922, he made the first of many pioneering flights, flying a [[de Havilland]] [[DH-4]] – which was equipped with early navigational instruments – in the first cross-country flight, from Pablo Beach (now [[Jacksonville Beach, Florida|Jacksonville Beach]]), [[Florida]], to Rockwell Field, [[San Diego]], California, in 21 hours and 19 minutes, making only one refueling stop at Kelly Field. The U.S. Army awarded him the [[Distinguished Flying Cross (U.S.)|Distinguished Flying Cross]].
+[[File:JimmyDoolittle.jpeg|thumb|Doolittle in a pre-World War II photo]]
+
+Within days after the transcontinental flight, he was at the Air Service Engineering School (a precursor to the [[Air Force Institute of Technology]]) at McCook Field, Dayton, Ohio. For Doolittle, the school assignment had special significance: "In the early '20s, there was not complete support between the flyers and the engineers. The pilots thought the engineers were a group of people who zipped slide rules back and forth, came out with erroneous results and bad aircraft; and the engineers thought the pilots were crazy – otherwise they wouldn't be pilots. So some of us who had previous engineering training were sent to the engineering school at old McCook Field. ... After a year's training there in practical aeronautical engineering, some of us were sent on to [[MIT]] where we took advanced degrees in aeronautical engineering. I believe that the purpose was served, that there was thereafter a better understanding between pilots and engineers."
+
+In July 1923, after serving as a [[test pilot]] and aeronautical engineer at McCook Field, Doolittle entered the [[Massachusetts Institute of Technology]]. In March 1924, he conducted aircraft acceleration tests at McCook Field, which became the basis of his master's thesis and led to his second Distinguished Flying Cross. He received his [[Master of Science|S.M.]] in Aeronautics from MIT in June 1924. Because the Army had given him two years to get his degree and he had done it in just one, he immediately started working on his [[Sc.D.]] in Aeronautics, which he received in June 1925. His doctorate in aeronautical engineering was the first ever issued in the United States.&lt;ref&gt;{{cite web|last1=Quigley|first1=Samantha L.|title=Detroit Defied Reality to Help Win World War II|url=https://www.uso.org/stories/112-detroit-defied-reality-to-help-win-world-war-ii|website=United Service Organizations|accessdate=8 January 2016}}&lt;/ref&gt; He said that he considered his master's work more significant than his doctorate.
+
+Following graduation, Doolittle attended special training in high-speed seaplanes at [[Naval Support Facility Anacostia|Naval Air Station Anacostia]] in [[Washington, D.C.]]. He also served with the Naval Test Board at [[Mitchel Field]], [[Long Island]], [[New York (state)|New York]], and was a familiar figure in air speed record attempts in the New York area. He won the [[Schneider Trophy|Schneider Cup]] race in a [[Curtiss R3C]] in 1925 with an average speed of 232 MPH.&lt;ref name="flightp703"&gt;Flight October 29, 1925, p.703.&lt;/ref&gt;  For that feat, Doolittle was awarded the [[Mackay Trophy]] in 1926.
+
+In April 1926, Doolittle was given a leave of absence to go to [[South America]] to perform demonstration flights. In [[Chile]], he broke both ankles, but put his [[Curtiss P-1 Hawk|P-1 Hawk]] through aerial maneuvers with his ankles in casts. He returned to the United States, and was confined to [[Walter Reed Army Medical Center|Walter Reed Army Hospital]] for his injuries until April 1927. Doolittle was then assigned to McCook Field for experimental work, with additional duty as an instructor pilot to the 385th Bomb Squadron of the Air Corps Reserve. During this time, in 1927 he was the first to perform an [[outside loop]] previously thought to be a fatal maneuver. Carried out in a Curtiss fighter at Wright Field in Ohio, Doolittle executed the dive from 10,000 feet, reached 280 miles per hour, bottomed out upside down, then climbed and completed the loop.
+
+===Instrument flight===
+[[File:JamesDoolittle-bust.jpg|thumb|right|upright=0.9|Bust of General Doolittle at the [[Imperial War Museum Duxford|Imperial War Museum, Duxford]]]]
+
+Doolittle's most important contribution to aeronautical technology was the development of [[Instrument flight rules|instrument flying]]. He was the first to recognize that true operational freedom in the air could not be achieved unless pilots developed the ability to control and navigate aircraft in flight, from takeoff run to landing rollout, regardless of the range of vision from the cockpit. Doolittle was the first to envision that a pilot could be trained to use instruments to fly through fog, clouds, precipitation of all forms, darkness, or any other impediment to visibility; and in spite of the pilot's own possibly convoluted motion sense inputs. Even at this early stage, the ability to control aircraft was getting beyond the motion sense capability of the pilot. That is, as aircraft became faster and more maneuverable, pilots could become seriously disoriented without visual cues from outside the cockpit, because aircraft could move in ways that pilots' senses could not accurately decipher.
+
+Doolittle was also the first to recognize these psycho-physiological limitations of the human senses (particularly the motion sense inputs, ''i.e.'', up, down, left, right). He initiated the study of the subtle interrelationships between the psychological effects of visual cues and motion senses. His research resulted in programs that trained pilots to read and understand navigational instruments. A pilot learned to "trust his instruments," not his senses, as visual cues and his motion sense inputs (what he sensed and "felt") could be incorrect or unreliable.
+
+In 1929, he became the first pilot to take off, fly and land an airplane using [[Flight instruments|instruments]] alone, without a view outside the cockpit. Having returned to Mitchel Field that September, he assisted in the development of fog flying equipment. He helped develop, and was then the first to test, the now universally used [[Attitude indicator|artificial horizon]] and [[Heading indicator|directional]] [[gyroscope]]. He attracted wide newspaper attention with this feat of [[Instrument flight rules|"blind" flying]] and later received the [[Harmon Trophy]] for conducting the experiments. These accomplishments made all-weather airline operations practical.
+
+In January 1930, he advised the Army on the construction of [[Floyd Bennett Field]] in New York City. Doolittle resigned his regular commission on February 15, 1930, and was commissioned a Major in the Air Reserve Corps a month later, being named manager of the Aviation Department of [[Shell Oil Company]], in which capacity he conducted numerous aviation tests.&lt;ref&gt;{{cite book|title=A History in the Making: 80 Turbulent Years in the American General Aviation Industry|author=Donald M. Pattillo|page=16}}&lt;/ref&gt; While in the Reserve, he also returned to temporary active duty with the Army frequently to conduct tests.
+
+Doolittle helped influence Shell Oil Company to produce the first quantities of [[Octane rating|100 octane]] aviation gasoline. High octane fuel was crucial to the high-performance planes that were developed in the late 1930s.
+
+In 1931, Doolittle won the first [[Bendix Trophy]] race from [[Burbank, California]], to [[Cleveland]], in a [[Laird Super Solution]] biplane.
+
+In 1932, Doolittle set the world's high speed record for land planes at 296 miles per hour in the Shell Speed Dash. Later, he took the [[Thompson Trophy]] race at Cleveland in the notorious [[Gee Bee R-1]] racer with a speed averaging 252 miles per hour. After having won the three big air racing trophies of the time, the Schneider, Bendix, and Thompson, he officially retired from air racing stating, "I have yet to hear anyone engaged in this work dying of old age."
+
+In April 1934, Doolittle was selected to be a member of the Baker Board. Chaired by former [[United States Secretary of War|Secretary of War]] [[Newton D. Baker]], the board was convened during the [[Air Mail scandal]] to study Air Corps organization. In 1940, he became president of the Institute of Aeronautical Science.
+
+Doolittle returned to active duty in the [[U.S. Army Air Corps]] on July 1, 1940 with rank of Major. He was assigned as the assistant district supervisor of the Central Air Corps Procurement District at [[Indianapolis]], and [[Detroit]], where he worked with large auto manufacturers on the conversion of their plants for production of planes.&lt;ref&gt;Herman, Arthur. ''Freedom's Forge: How American Business Produced Victory in World War II,'' pp. 114, 219-22, 239, 279, Random House, New York, NY. {{ISBN|978-1-4000-6964-4}}.&lt;/ref&gt; The following August, he went to England as a member of a special mission and brought back information about other countries' air forces and military build-ups.
+
+==Doolittle Raid==
+[[File:Dolittle Raider, Plane 1.jpg|thumb|right|upright=1.25|Then Lt. Col. James H. Doolittle, USAAF (2nd left), and his Crew just before take off for the [[Doolittle Raid|mission]] on {{USS|Hornet|CV-8}}, 18 April 1942]]
+[[File:Doolittle LtCol g41191.jpg|thumb|right|upright=1.25|Lt. Col. Doolittle (front), leader of the raiding force, wires a Japanese medal to a 500-pound bomb, during ceremonies on the flight deck of {{USS|Hornet|CV-8}}, shortly before his force of sixteen B-25B bombers took off to bomb Japan. The planes were launched on April 18, 1942.]]
+[[File:17 14 182 doolittle.jpg|thumb|right|Exhibit at [[National Museum of the United States Air Force|USAF Museum]] depicting a [[North American B-25 Mitchell|B-25B Mitchell]] in preparation for the [[Doolittle Raid]].]]
+{{Main|Doolittle Raid}}
+
+Following the reorganization of the Army Air Corps into the [[USAAF]] in [[1941 in aviation#June|June 1941]], Doolittle was promoted to [[Lieutenant colonel (United States)|lieutenant colonel]] on January 2, 1942, and assigned to Army Air Forces Headquarters to plan the first retaliatory air raid on the Japanese homeland. He volunteered for and received [[Henry H. Arnold|General H.H. Arnold's]] approval to lead the top secret attack of 16 [[B-25 Mitchell|B-25]] medium bombers from the aircraft carrier {{USS|Hornet|CV-8|6}}, with targets in [[Tokyo]], [[Kobe]], [[Yokohama]], [[Osaka]] and [[Nagoya]].
+
+After training at [[Eglin AFB|Eglin Field]] and [[Wagner Field]] in northwest Florida, Doolittle, his aircraft and volunteer flight crews proceeded to [[McClellan AFB|McClellan Field]], California for aircraft modifications at the Sacramento Air Depot, followed by a short final flight to [[Naval Air Station Alameda]], California for embarkation aboard the aircraft carrier [[USS Hornet (CV-8)|USS ''Hornet'']]. On April 18, Doolittle and his 16 B-25 crews took off from the ''Hornet'', reached Japan, and bombed their targets. Fifteen of the planes then headed for their recovery airfield in China, while one crew chose to land in Russia due to their bomber's unusually high fuel consumption. As did most of the other crewmen who participated in the one-way mission, Doolittle and his crew bailed out safely over China when their B-25 ran out of fuel. By then, they had been flying for about 12 hours, it was nighttime, the weather was stormy, and Doolittle was unable to locate their landing field. Doolittle came down in a rice paddy (saving a previously injured ankle from breaking) near Chuchow ([[Quzhou]]). He and his crew linked up after the bailout and were helped through Japanese lines by Chinese guerrillas and American missionary [[John Birch (missionary)|John Birch]]. Other aircrews were not so fortunate, although most eventually reached safety with the help of friendly Chinese. Seven crew members lost their lives, four as a result of being captured by the Japanese and three due to an aircraft crash or while parachuting. Doolittle thought he would be court martialed due to having to launch the raid ahead of schedule after being spotted by Japanese patrol boats.
+
+Doolittle went on to fly more combat missions as commander of the 12th Air Force in North Africa, for which he was awarded four Air Medals. The other surviving members of the Doolittle raid also went on to new assignments.
+
+Doolittle received the [[Medal of Honor]] from President [[Franklin D. Roosevelt]] at the [[White House]] for planning and leading his raid on Japan. His citation reads: "For conspicuous leadership above and beyond the call of duty, involving personal valor and intrepidity at an extreme hazard to life. With the apparent certainty of being forced to land in enemy territory or to perish at sea, Lt. Col. Doolittle personally led a squadron of Army bombers, manned by volunteer crews, in a highly destructive raid on the Japanese mainland."
+
+The [[Doolittle Raid]] is viewed by historians as a major morale-building victory for the United States. Although the damage done to Japanese war industry was minor, the raid showed the Japanese that their homeland was vulnerable to air attack, and forced them to withdraw several front-line fighter units from Pacific war zones for homeland defense. More significantly, Japanese commanders considered the raid deeply embarrassing, and their attempt to close the perceived gap in their Pacific defense perimeter led directly to the decisive American victory at the [[Battle of Midway]] in June 1942.
+
+When asked from where the Tokyo raid was launched, President Roosevelt coyly said its base was [[Shangri-La]], a fictional paradise from the popular novel ''[[Lost Horizon]]''. In the same vein, the U.S. Navy named one of its [[Essex-class aircraft carrier|''Essex''-class]] [[fleet carrier]]s the {{USS|Shangri-La|CV-38|6}}.
+
+==World War II, post-raid==
+[[File:Doolittle1.jpg|thumb|left|Lt. Gen. Jimmy Doolittle (left) with Maj. Gen. [[Curtis LeMay]] (right), standing in front of a [[Lockheed P-38 Lightning]] in Britain, 1944]]
+
+In July 1942, as a [[Brigadier general (United States)|brigadier general]]—he had been promoted by two grades on the day after the [[Tokyo]] attack, bypassing the rank of full [[Colonel (United States)|colonel]]—Doolittle was assigned to the nascent [[Eighth Air Force]]. This followed his rejection by General [[Douglas MacArthur]] as commander of the [[South West Pacific Area (command)|South West Pacific Area]] to replace Major General [[George Brett (general)|George Brett]]. Major General [[Frank Maxwell Andrews|Frank Andrews]] first turned down the position, and, offered a choice between [[George Kenney]] and Doolittle, MacArthur chose Kenney.{{sfn|Wolk|2003|pp=21-22}} In September, Doolittle became commanding general of the [[Twelfth Air Force]], soon to be operating in North Africa. He was promoted to [[Major general (United States)|major general]] in November 1942, and in March 1943 became commanding general of the [[Northwest African Strategic Air Force]], a unified command of U.S. Army Air Force and Royal Air Force units. In September, he commanded a raid against the Italian town of [[Battipaglia]] that was so thorough in its destruction that General [[Carl Andrew Spaatz]] sent him a joking message: "You're slipping Jimmy. There's one crabapple tree and one stable still standing."&lt;ref&gt;{{cite book|title=The Second World War|year=2012|isbn=978-0-7538-2824-3|author=[[Antony Beevor]]|page=503}}&lt;/ref&gt;
+
+Maj. Gen. Doolittle took command of the [[Fifteenth Air Force]] in the [[Mediterranean Theater of Operations]] in November 1943. On June 10, he flew as co-pilot with Jack Sims, fellow Tokyo Raider, in a [[B-26 Marauder]] of the [[320th Air Expeditionary Wing|320th Bombardment Group]], 442nd Bombardment Squadron on a mission to attack gun emplacements at [[Pantelleria]]. Doolittle continued to fly, despite the risk of capture, while being privy to the [[Ultra]] secret, which was that the German encryption systems had been broken by the British.&lt;ref name=enigma&gt;{{cite web|title=Enigmatic Man|url=http://www.ghspaulding.com/enigmatic_man.htm|author=G. H. Spaulding, CAPT, USN (Ret)|accessdate=November 20, 2010}}&lt;/ref&gt; From January 1944 to September 1945, he held his largest command, the [[Eighth Air Force]] (8 AF) in England as a [[Lieutenant general (United States)|lieutenant general]], his promotion date being March 13, 1944 and the highest rank ever held by an active reserve officer in modern times.
+
+===Doolittle's breakthrough in fighter tactics===
+
+Doolittle's major influence on the European air war occurred early in 1943 when he changed the policy requiring escorting fighters to remain with their bombers at all times. Doolittle allowed American fighter escorts to fly far ahead of the bombers' [[combat box]] formations in [[air supremacy]] mode.  Throughout most of 1944 this tactic negated the effectiveness of the twin-engined ''Zerstörergeschwader'' [[heavy fighter]] wings (and their replacement, single-engined ''Sturmgruppen'' of [[Focke-Wulf Fw 190 operational history#The Sturmböcke|heavily armed Fw 190As]]) by clearing opposition of the [[Luftwaffe]]'s [[bomber destroyer]]s from the airspace ahead of the bomber formations on their way to their targets. After the bombers had hit their targets, the USAAF's fighters were then free to strafe German airfields and transport on their trips returning to base.
+
+These tasks were initially performed with [[Lockheed P-38 Lightning]]s and [[Republic P-47 Thunderbolt]]s through the end of 1943. These were progressively replaced with the long-ranged [[North American P-51 Mustang]]s as the spring of 1944 wore on.
+
+===Post-VE Day===
+
+[[File:JimmyDoolittleAutographed.jpg|thumb|right|Personalized photo of General Jimmy Doolittle]]
+After the end of the European war, the Eighth Air Force was re-equipped with [[B-29 Superfortress]] bombers and started to relocate to [[Okinawa]] in the Pacific. Two bomb groups had begun to arrive on August 7. However, the 8th was not scheduled to be at full strength until February 1946 and Doolittle declined to rush 8th Air Force units into combat saying that "If the war is over, I will not risk one airplane nor a single bomber crew member just to be able to say the 8th Air Force had operated against the Japanese in the Pacific".
+
+==Postwar==
+
+===Doolittle Board===
+
+On 27 March 1946, Doolittle was requested by [[United States Secretary of War|Secretary of War]] [[Robert P. Patterson]] to head a commission on the relationships between officers and enlisted men in the U.S. Army. Called the "Doolittle Board", or informally the "GI Gripes Board", many of the recommendations were implemented for the postwar volunteer U.S. Army,&lt;ref&gt;p. 154 Brown, Jerold E. ''Historical Dictionary of the U.S. Army'' Greenwood Publishing Group, 2001&lt;/ref&gt; though many professional officers and noncommissioned officers thought the Board "destroyed the discipline of the Army".&lt;ref&gt;p. 105 Zellers, Larry ''In Enemy Hands: A Prisoner in North Korea'' University Press of Kentucky, 1 Nov 1999&lt;/ref&gt; After the [[Korean War]], columnist [[Hanson Baldwin]] said the Doolittle Board "caused severe damage to service effectiveness by recommendations intended to 'democratize' the Army—a concept that is self-contradictory".&lt;ref&gt;p. 51 Bogle, Lori L. ''The Pentagon's Battle for the American Mind: The Early Cold War'' Texas A&amp;M University Press, 12 Oct 2004&lt;/ref&gt;
+
+===U.S. space program===
+
+Doolittle became acquainted with the field of [[space science]] in its infancy. He wrote in his autobiography, "I became interested in [[rocket]] development in the 1930s when I met [[Robert H. Goddard]], who laid the foundation [in the US].... While with Shell [Oil] I worked with him on the development of a type of [rocket] fuel...."&lt;ref name="Doolittle"&gt;{{cite book|last1=Doolittle|first1=General James H. "Jimmy" with Carroll V. Glines|title=I Could Never Be So Lucky Again|date=1991|publisher=Bantam Books|location=New York|page=515}}&lt;/ref&gt; [[Harry Guggenheim]], whose foundation sponsored Goddard's work, and [[Charles Lindbergh]], who encouraged Goddard's efforts, arranged for (then Major) Doolittle to discuss with Goddard a special blend of gasoline. Doolittle piloted himself to Roswell, New Mexico in October 1938 and was given a tour of Goddard's workshop and a "short course" in rocketry and space travel. He then wrote a memo, including a rather detailed description of Goddard's rocket. In closing he said, "interplanetary transportation is probably a dream of the very distant future, but with the moon only a quarter of a million miles away—who knows!"&lt;ref name="Papers"&gt;{{cite book|last1=Goddard|first1=Esther and G. Edward Pendray, eds.|title=The Papers of Robert H. Goddard, 3 vols.|date=1970|publisher=McGraw-Hill Book Co.|location=New York|pages=1208–16}}&lt;/ref&gt; In July 1941 he wrote Goddard that he was still interested in rocket propulsion research. The Army, however, was interested only in [[JATO]] at this point. Doolittle was concerned about the state of rocketry in the US and remained in touch with Goddard.&lt;ref name="Papers"/&gt;{{rp|1443}}
+
+Shortly after World War II, Doolittle spoke to an [[American Rocket Society]] conference at which a large number interested in rocketry attended. The topic was Robert Goddard's work. He later stated that at that time "...we [the aeronautics field in the US] had not given much credence to the tremendous potential of rocketry.&lt;ref&gt;{{cite web|last1=Putnam|first1=William D. and Eugene M. Emme|title=I Was There: "The Tremendous Potential of Rocketry" AIR &amp; SPACE Magazine|website=www.airspacemag.com/space|publisher=Smithsonian Institution (Sep 2012)|accessdate=2015-12-16}}&lt;/ref&gt;
+
+In 1956, he was appointed chairman of the [[National Advisory Committee for Aeronautics]] (NACA) because the previous chairman, [[Jerome C. Hunsaker]], thought Doolittle to be more sympathetic to the rocket, which was increasing in importance as a scientific tool as well as a weapon.&lt;ref name="Doolittle"/&gt;{{rp|516}} The NACA Special Committee on Space Technology was organized in January 1958 and chaired by [[Guy Stever]] to determine the requirements of a national space program and what additions were needed to NACA technology. Doolittle, Dr. [[Hugh Dryden]] and Stever selected committee members, such as Dr. [[Wernher von Braun]] from the [[Army Ballistic Missile Agency]], Sam Hoffman of [[Rocketdyne]], Abe Hyatt of the [[Office of Naval Research]] and Colonel Norman Appold from the USAF missile program, considering their potential contributions to US space programs and ability to educate NACA people in space science.&lt;ref name="Bilstein"&gt;{{cite book|last1=Bilstein|first1=Roger E.|title=Stages to Saturn|date=1980|publisher=University Press of Florida|location=Gainesville|page=34}}&lt;/ref&gt;
+
+===Reserve status===
+
+On 5 January 1946, Doolittle reverted to inactive reserve status in the Army Air Forces in the grade of lieutenant general, a rarity in those days when nearly all other reserve officers were limited to the rank of major general or rear admiral, a restriction that would not end in the US armed forces until the 21st century. He retired from the United States Army on 10 May 1946. On 18 September 1947, his reserve commission as a general officer was transferred to the newly established [[United States Air Force]]. Doolittle returned to Shell Oil as a vice president, and later as a director.
+
+In the summer of 1946, Doolittle went to [[Stockholm]] where he was consulted about the "[[ghost rockets]]" that had been observed over [[Scandinavia]].&lt;ref&gt;{{cite book|title=Operation Trojan Horse|year=1996|isbn=978-0962653469|page=122|author=[[John Keel]]|url=http://galaksija.com/literatura/jk_oth.pdf|deadurl=yes|archiveurl=https://web.archive.org/web/20130420102608/http://galaksija.com/literatura/jk_oth.pdf|archivedate=April 20, 2013|df=mdy-all}}&lt;/ref&gt;
+
+In 1947, Doolittle also became the first president of the [[Air Force Association]], an organization which he helped create.
+
+In 1948, Doolittle advocated the desegregation of the US military. "I am convinced", emphasized Doolittle, "that the solution to the situation is to forget that they are colored." Industry was in the process of integrating, Doolittle said, "and it is going to be forced on the military. You are merely postponing the inevitable and you might as well take it gracefully."&lt;ref&gt;{{Cite journal|url=http://www.airforcemag.com/MagazineArchive/Pages/1998/July%201998/0798color.aspx|title=When the Color Line Ended
+|first= Herman S.|last=Wolk|year=1998|journal= Air Force Magazine|volume=81|issue=7|pages=}}&lt;/ref&gt;
+
+In March 1951, Doolittle was appointed a special assistant to the [[Chief of Staff of the Air Force]], serving as a civilian in scientific matters which led to Air Force ballistic missile and space programs. In 1952, following a string of three air crashes in two months at [[Elizabeth, New Jersey]], the President of the United States, [[Harry S. Truman]], appointed him to lead a presidential commission examining the safety of urban airports. The report "Airports and Their Neighbors" led to zoning requirements for buildings near approaches, early noise control requirements, and initial work on "super airports" with 10,000&amp;nbsp;ft runways, suited to 150 ton aircraft.
+
+Doolittle was appointed a life member of the [[MIT Corporation]], the university's board of trustees, an uncommon permanent appointment, and served as an MIT Corporation Member for 40 years.&lt;ref&gt;{{cite web|url=http://web.mit.edu/corporation/membership/pastmembers.html|title=Members of the MIT Corporation|work=mit.edu}}&lt;/ref&gt;
+
+In 1954, President [[Dwight D. Eisenhower]] asked Doolittle to perform a study of the [[Central Intelligence Agency]]; The resulting work was known as the [[Doolittle Report, 1954]], and was classified for a number of years.
+
+In January 1956, Eisenhower asked Doolittle to serve as a member on the first edition of the President's Board of Consultants on Foreign Intelligence Activities which, years later, would become known as the [[President's Intelligence Advisory Board]].{{citation needed|date=March 2015}}
+
+From 1957 to 1958, he was [[National Advisory Committee for Aeronautics#NACA chairmen|chairman]] of the [[National Advisory Committee for Aeronautics]] (NACA).  This period was during the events of [[Sputnik I|Sputnik]], [[Vanguard 1|Vanguard]] and [[Explorer I|Explorer]].  He was the last person to hold this position, as the NACA was superseded by [[NASA]].  Doolittle was offered the job of being the first administrator of NASA, but he turned it down.&lt;ref name=Putnam&gt;{{cite book|last1=Putnam|first1=William D. and Eugene M. Emme|title="I Was There: "The Tremendous Potential of Rocketry"." AIR &amp; SPACE Magazine|date=September 2012|publisher=Smithsonian Institution|url=http://www.airspacemag.com/space/i-was-there-the-tremendous-potential-of-rocketry-18946468/|accessdate=2015-12-16}}&lt;/ref&gt;
+
+Doolittle retired from [[Air Force Reserve]] duty on February 28, 1959. He remained active in other capacities, including chairman of the board of [[TRW Inc.|TRW]] Space Technology Laboratories.
+
+In 1972, Doolittle received the [[Tony Jannus Award]] for his distinguished contributions to commercial aviation, in recognition of the development of instrument flight.
+
+[[File:Reagan Goldwater pin star on Jimmy Doolittle 1985.jpg|thumb|right|Doolittle is awarded a fourth star, pinned on by President [[Ronald Reagan]] (left) and Senator [[Barry Goldwater]] (right), April 10, 1985.]]
+On April 4, 1985, the U.S. Congress promoted Doolittle to the rank of full four-star [[General (United States)|general]] (O-10) on the [[U.S. Air Force]] retired list. In a later ceremony, President [[Ronald Reagan]] and [[United States Senate|U.S. Senator]] and retired [[Air Force Reserve]] Major General [[Barry Goldwater]] pinned on Doolittle's [[General (United States)|four-star insignia]].
+
+In addition to his [[Medal of Honor]] for the Tokyo raid, Doolittle received the [[Presidential Medal of Freedom]], two [[Distinguished Service Medal (U.S. Army)|Distinguished Service Medals]], the [[Silver Star]], three [[Distinguished Flying Cross (U.S.)|Distinguished Flying Crosses]], the [[Bronze Star Medal]], four [[Air Medal]]s, and decorations from [[Belgium]], [[China]], [[Ecuador]], [[France]], [[Great Britain]], and [[Poland]]. He was the first American to be awarded both the Medal of Honor and the Medal of Freedom. Doolittle also was awarded the [[Public Welfare Medal]] from the [[United States National Academy of Sciences|National Academy of Sciences]] in 1959.&lt;ref name=PublicWelfare&gt;{{cite web|title=Public Welfare Award |url=http://www.nasonline.org/site/PageServer?pagename=AWARDS_pwm |publisher=National Academy of Sciences |accessdate=February 17, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20101229180311/http://www.nasonline.org/site/PageServer?pagename=AWARDS_pwm |archivedate=December 29, 2010 |df= }}&lt;/ref&gt; In 1983, he was awarded the [[United States Military Academy]]'s [[Sylvanus Thayer Award]]. He was inducted in the [[Motorsports Hall of Fame of America]] as the only member of the air racing category in the inaugural class of 1989, and into the [[Aerospace Walk of Honor]] in the inaugural class of 1990. The headquarters of the United States Air Force Academy Association of Graduates (AOG) on the grounds of the [[United States Air Force Academy]] is named Doolittle Hall.
+
+On May 9, 2007, The new [[12th Air Force]] [[Combined Air Operations Center]] (CAOC), Building 74, at [[Davis-Monthan Air Force Base]] in Tucson, Arizona, was named in his honor as the "General James H. Doolittle Center".  Several surviving members of the [[Doolittle Raid]] were in attendance during the ribbon cutting ceremony.
+
+==Personal life==
+[[File:James H. Doolittle by Garfield Jones, 1986.JPEG|thumb|left|Doolittle photographed in 1986]]
+Doolittle married Josephine "Jo" E. Daniels on December 24, 1917. At a dinner celebration after Jimmy Doolittle's first all-instrument flight in 1929, Josephine Doolittle asked her guests to sign her white damask tablecloth. Later, she embroidered the names in black. She continued this tradition, collecting hundreds of signatures from the aviation world. The tablecloth was donated to the [[Smithsonian Institution]]. Married for over 70 years, Josephine Doolittle died in 1988, five years before her husband.
+
+The Doolittles had two sons, James Jr., and John. Both became military officers and pilots. James Jr. was an [[A-26 Invader]] pilot in the U.S. Army Air Forces during World War II and later a fighter pilot in the [[U.S. Air Force]] in the late 1940s through the late 1950s. He committed suicide at the age of thirty-eight in 1958.&lt;ref&gt;{{Cite news|url=http://www.heraldtribune.com/apps/pbcs.dll/article?AID=/20060720/FEATURES/607200583/1021/FEATURES02|title=My grandfather The General|last=Rife|first=Susan L.|date=July 20, 2006|publisher=Herald Tribune|accessdate=May 1, 2009}}&lt;/ref&gt; At the time of his death, James Jr. was a Major and commander of the [[524th Fighter Squadron|524th Fighter-Bomber Squadron]], piloting the [[F-101 Voodoo]].&lt;ref&gt;{{cite web|url=https://news.google.com/newspapers?nid=1913&amp;dat=19580415&amp;id=4nEgAAAAIBAJ&amp;sjid=RGcFAAAAIBAJ&amp;pg=1734,4598721|title=Lewiston Evening Journal - Google News Archive Search|work=google.com}}&lt;/ref&gt;
+
+His other son, John P. Doolittle, retired from the Air Force as a Colonel, and his grandson, Colonel James H. Doolittle III, was the vice commander of the Air Force Flight Test Center at [[Edwards Air Force Base]], California.
+
+James H. "Jimmy" Doolittle died at the age of 96 in [[Pebble Beach, California]] on September 27, 1993, and is buried at [[Arlington National Cemetery]] in [[Virginia]], near [[Washington, D.C.]], next to his wife.&lt;ref name=findagrave&gt;{{Find a Grave|2454|work=Claim to Fame: Medal of Honor recipients|accessdate=July 26, 2008}}&lt;/ref&gt; In his honor at the funeral, there was also a flyover of Miss Mitchell, a lone [[B-25 Mitchell]], and USAF Eighth Air Force bombers from [[Barksdale Air Force Base]], [[Louisiana]].  After a brief graveside service, fellow Doolittle Raider Bill Bower began the final tribute on the bugle. When emotion took over, Doolittle's great-grandson, Paul Dean Crane, Jr., played [[Taps]].&lt;ref&gt;{{cite web|url=http://voices.washingtonpost.com/postmortem/2011/01/bill-bower-dies-doolittle-raid.html|title=Post Mortem  - Bill Bower dies; Doolittle Raider was last surviving pilot|work=washingtonpost.com}}&lt;/ref&gt;{{clear left}}
+
+==Dates of military rank==
+{| class="wikitable"
+! Insignia !! Rank !! Component !! Date
+|-
+|No insignia
+|[[Private First Class]] || [[United States Army]] || November 10, 1917
+|-
+|No insignia
+|[[Cadet|Aviation Cadet]] || United States Army || October 6, 1917
+|-
+|[[File:US-O1 insignia.svg|13px|center]]
+| &amp;nbsp;[[Second lieutenant#United States|Second Lieutenant]] || [[Officers Reserve Corps]] || March 11, 1918
+|-
+|[[File:US-O1 insignia.svg|13px|center]]
+| &amp;nbsp;[[Second lieutenant#United States|Second Lieutenant]] || [[United States Army Air Service|U.S. Army Air Service]] || September 19, 1920
+|-
+|[[File:US-O2 insignia.svg|13px|center]]
+| &amp;nbsp;[[First lieutenant#United States|First Lieutenant]] || U.S. Army Air Service || March 17, 1921&lt;br&gt;Resigned February 15, 1930
+|-
+|[[File:US-O4 insignia.svg|40px|center]]
+| &amp;nbsp;[[Major (United States)|Major]] || Specialist Reserve || March 5, 1930
+|-
+|[[File:US-O4 insignia.svg|40px|center]]
+| &amp;nbsp;[[Major (United States)|Major]] || [[Army of the United States]] || July 1, 1940
+|-
+|[[File:US-O5 insignia.svg|40px|center]]
+| &amp;nbsp;[[Lieutenant colonel (United States)|Lieutenant Colonel]] || Army of the United States || January 2, 1942
+|-
+|[[File:US-O7 insignia.svg|33px|center]]
+| &amp;nbsp;[[Brigadier general (United States)|Brigadier General]] || Army of the United States || April 19, 1942
+|-
+|[[File:US-O8 insignia.svg|66px|center]]
+| &amp;nbsp;[[Major general (United States)|Major General]] || Army of the United States || November 20, 1942
+|-
+|[[File:US-O9 insignia.svg|100px|center]]
+| &amp;nbsp;[[Lieutenant general (United States)|Lieutenant General]] || Army of the United States || March 13, 1944
+|-
+|[[File:US-O9 insignia.svg|100px|center]]
+| &amp;nbsp;[[Lieutenant general (United States)|Lieutenant General]] || U.S. Army, Retired || January 5, 1946
+|-
+|[[File:US-O9 insignia.svg|100px|center]]
+| &amp;nbsp;[[Lieutenant general (United States)|Lieutenant General]] || [[United States Army Reserve|Army Reserve]] || May 10, 1946
+|-
+|[[File:US-O9 insignia.svg|100px|center]]
+| &amp;nbsp;[[Lieutenant general (United States)|Lieutenant General]] || [[Air Force Reserve]] || September 18, 1947
+|-
+|[[File:US-O9 insignia.svg|100px|center]]
+| &amp;nbsp;[[Lieutenant general (United States)|Lieutenant General]] || Air Force Reserve, Retired List || February 28, 1959
+|-
+|[[File:US-O10 insignia.svg|133px|center]]
+| &amp;nbsp;[[General (United States)|General]] || Air Force Reserve, Retired List || April 4, 1985
+|}&lt;ref&gt;Official Register of Commissioned Officers of the United States Army, 1926.  pg. 165.&lt;/ref&gt;
+
+==Military and civilian awards==
+Doolittle's military and civilian decorations and awards include the following:
+{|
+|[[File:COMMAND PILOT WINGS.png|160px]]
+|[[United States Aviator Badge|United States Air Force Command Pilot Badge]]
+|-
+|[[File:Naval Aviator Badge.jpg|160px]]
+|[[United States Naval Aviator|Honorary Naval Aviator Badge]]
+|}
+{|
+|{{Ribbon devices|number=0|type=oak|ribbon=Medal of Honor ribbon.svg|width=106}}
+|[[Medal of Honor]]
+|-
+|{{Ribbon devices|number=1|type=oak|ribbon=Distinguished Service Medal ribbon.svg|width=106}}
+|[[Army Distinguished Service Medal]] with bronze oak leaf cluster
+|-
+|{{Ribbon devices|number=|type=oak|ribbon=Silver Star ribbon.svg|width=106}}
+|[[Silver Star]] 
+|-
+|{{Ribbon devices|number=2|type=oak|other_device=|ribbon=Distinguished Flying Cross ribbon.svg|width=106}}
+|[[Distinguished Flying Cross (United States)|Distinguished Flying Cross]] with two bronze oak leaf clusters
+|-
+|{{Ribbon devices|number=0|type=oak|other_device=|ribbon=Bronze Star ribbon.svg|width=106}}
+|[[Bronze Star Medal]]
+|-
+|{{Ribbon devices|number=3|type=oak|ribbon=Air Medal ribbon.svg|width=106}}
+|[[Air Medal]] with three bronze oak leaf clusters 
+|-
+|{{Ribbon devices|number=|type=oak|ribbon=Presidential Medal of Freedom (ribbon).png|width=106}}
+|[[Presidential Medal of Freedom]]
+|-
+|{{Ribbon devices|number=0|type=oak|ribbon=World War I Victory Medal ribbon.svg|width=106}}
+|[[World War I Victory Medal (United States)|World War I Victory Medal]]
+|-
+|{{Ribbon devices|number=1|type=service-star|ribbon=American Defense Service Medal ribbon.svg|width=106}}
+|[[American Defense Service Medal]] with one [[service star]]
+|-
+|{{Ribbon devices|number=0|type=service-star|ribbon=American Campaign Medal ribbon.svg|width=106}}
+|[[American Campaign Medal]]
+|-
+|{{Ribbon devices|number=1|type=service-star|ribbon=Asiatic-Pacific Campaign Medal ribbon.svg|width=106}}
+|[[Asiatic-Pacific Campaign Medal]] with bronze [[campaign star]]
+|-
+|{{Ribbon devices|number=8|type=service-star|ribbon=European-African-Middle Eastern Campaign ribbon.svg|width=106}}
+|[[European-African-Middle Eastern Campaign Medal]] with silver and three bronze campaign star
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=European-African-Middle Eastern Campaign ribbon.svg|width=106}}
+|[[European-African-Middle Eastern Campaign Medal]] ''(second ribbon required for accouterment spacing)''
+|-
+|{{Ribbon devices|number=0|type=service-star|ribbon=World War II Victory Medal ribbon.svg|width=106}}
+|[[World War II Victory Medal]]
+|-
+|{{Ribbon devices|number=4|type=oak|ribbon=Air Force Longevity Service ribbon.svg|width=106}}
+|[[Air Force Longevity Service Award]] with four bronze oak leaf clusters
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=AFRM with Hourglass Device.jpg|width=106}}
+|[[Armed Forces Reserve Medal]] with bronze hourglass device
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=BOL Order of Condor of the Andes - Officer BAR.png|width=106}}
+|''[[Order of the Condor of the Andes]]'', Officer (Bolivia)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Order of Abdón Calderón 1st Class (Ecuador) - ribbon bar.png|width=106}}
+|''[[Order of Abdon Calderón]]'' (Ecuador)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Ordre de l'Ouissam Alaouite Chevalier ribbon (Maroc).svg|width=106}}
+|''[[Order of Ouissam Alaouite]]'', Knight (Morocco)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Oorlogskruis with Palm.jpg|width=106}}
+|''[[War Cross (Belgium)|Croix de Guerre]]'', with Palm (Belgium)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Legion Honneur GC ribbon.svg|width=106}}
+|''[[Legion of Honour|Légion d'honneur]]'', Grand-Cross (France)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Croix de guerre 1939-1945 with palm (France) - ribbon bar.png|width=106}}
+|''[[Croix de guerre 1939–1945|Croix de Guerre]]'', with Palm (France)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Order of the Bath (ribbon).svg|width=106}}
+|''[[Order of the Bath]]'' (United Kingdom)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=POL Polonia Restituta Kawalerski BAR.svg|width=106}}
+|''[[Order of Polonia Restituta]]'', [[Order of Polonia Restituta|(Krzyż Kawalerski)]] (Poland)
+|-
+|{{Ribbon devices|number=|type=service-star|ribbon=Medal of the Armed Forces, A-First Class ribbon.png|width=106}}
+|''[[Orders, decorations, and medals of the Republic of China|Medal of the Armed Forces]]'', A-1 (Republic of China)
+|}
+
+===Medal of Honor citation===
+
+Rank and organization: Brigadier General, U.S. Army Air Corps&lt;br&gt;
+Place and date: Over Japan&lt;br&gt;
+Entered service at: Berkley, Calif.&lt;br&gt;
+Birth: Alameda, Calif.&lt;br&gt;
+G.O. No.: 29, 9 June 1942
+
+Citation:
+&lt;blockquote&gt;For conspicuous leadership above the call of duty, involving personal valor and intrepidity at an extreme hazard to life. With the apparent certainty of being forced to land in enemy territory or to perish at sea, Gen. Doolittle personally led a squadron of Army bombers, manned by volunteer crews, in a highly destructive raid on the Japanese mainland.&lt;ref name=AMOHW&gt;{{cite web
+ |accessdate=March 21, 2010 
+ |url=http://www.history.army.mil/html/moh/wwII-a-f.html 
+ |title=World War II (A-F); Doolittle, Jimmy entry 
+ |work=Medal of Honor recipients 
+ |publisher=[[United States Army Center of Military History]] 
+ |date=August 3, 2009 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20080616211621/http://www.history.army.mil/html/moh/wwII-a-f.html 
+ |archivedate=June 16, 2008 
+ |df= 
+}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+==Other awards and honors==
+Doolittle also received the following awards and honors:
+
+;Awards
+* In 1972, he was awarded the Horatio Alger Award, which is given to those who are dedicated community leaders who demonstrate individual initiative and a commitment to excellence; as exemplified by remarkable achievements accomplished through honesty, hard work, self-reliance and perseverance over adversity. The Horatio Alger Association of Distinguished Americans, Inc. bears the name of the renowned author Horatio Alger, Jr., whose tales of overcoming adversity through unyielding perseverance and basic moral principles captivated the public in the late 19th century.&lt;ref&gt;{{cite web|url=http://www.horatioalger.org/member_info.cfm?memberid=doo72 |archive-url=https://archive.is/20120913001043/http://www.horatioalger.org/member_info.cfm?memberid=doo72 |dead-url=yes |archive-date=2012-09-13 |title=Horatio Alger Association Member Information |publisher=Horatioalger.org |date= |accessdate=2014-07-08 }}&lt;/ref&gt;
+* On December 11, 1981, Doolittle was awarded Honorary Naval Aviator wings in recognition of his many years of support of military aviation by [[Chief of Naval Operations]] Admiral [[Thomas B. Hayward]].&lt;ref&gt;{{cite web|url=http://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/pdf/app18.pdf|title=Honorary Naval Aviator Designations |publisher=U.S. Navy History Office |date= |accessdate=2016-04-12}}&lt;/ref&gt;
+* In 1983, Doolittle was awarded the [[Sylvanus Thayer Award]].
+
+; Honors
+* The city of [[Doolittle, Missouri]], located 5 miles west of [[Rolla, Missouri|Rolla]] was named in his honor after World War II.
+* Doolittle was invested into the Sovereign Order of Cyprus and his medallion is now on display at the Smithsonian National Air and Space Museum.
+* His Bolivian [[Order of the Condor of the Andes]] is in the collection of the Smithsonian National Air and Space Museum.&lt;ref&gt;[http://www.nasm.si.edu/mobile/objdetail.cfm?id=A19600093000 accessed October 12, 2010]&lt;/ref&gt;
+* In 1967, James H. Doolittle was inducted into the [[National Aviation Hall of Fame]]. 
+* [[Flying Magazine|''Flying'']] magazine ranked him 6th on its list of the 51 Heroes of Aviation.&lt;ref&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41849|title=51 Heroes of Aviation|work=Flying Magazine}}&lt;/ref&gt;
+* The [[Society of Experimental Test Pilots]] annually presents the [[James H. Doolittle Award]] in his memory. The award is for "outstanding accomplishment in technical management or engineering achievement in aerospace technology".
+* Inducted into the [[San Diego Air &amp; Space Museum#International Air &amp; Space Hall of Fame|International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]] in 1966.&lt;ref&gt;http://sandiegoairandspace.org/hall-of-fame/honoree/james-h.-doolittle-jr&lt;/ref&gt;
+* The oldest residence hall on Embry-Riddle Aeronautical University's campus, Doolittle Hall (1968), was named after General James Harold "Jimmy" Doolittle.
+
+==In popular culture==
+
+* [[Spencer Tracy]] played Doolittle in [[Mervyn LeRoy]]'s 1944 film ''[[Thirty Seconds Over Tokyo]]''. This portrayal has received much praise.
+* [[Alec Baldwin]] played Doolittle in [[Michael Bay]]'s 2001 film ''[[Pearl Harbor (film)|Pearl Harbor]]''.
+* [[Bob Clampett]]'s 1946 [[cartoon]] ''[[Baby Bottleneck]]'' briefly portrays a [[dog]] named "Jimmy Do-quite-a-little", who invents a failed rocketship.
+
+==See also==
+{{Portal|Biography|United States Air Force|United States Army|World War I|World War II}}
+* [[List of Medal of Honor recipients for World War II#D|List of Medal of Honor recipients for World War II]]
+* [[Aviation history]]
+
+==References==
+;Notes
+{{Reflist|2}}
+
+;Bibliography
+{{external media| float = right| video1 = [https://www.c-span.org/video/?189705-1/calculated-risk-extraordinary-life-jimmy-doolittle Presentation by Jonna Doolittle Hoppes on ''Calculated Risk: The Extraordinary Life of Jimmy Doolittle, Aviation Pioneer and World War II Hero'', May 18, 2006], [[C-SPAN]]}}
+* {{Cite journal
+ |last = Berliner
+ |first = Don
+ |title = The Big Race of 1910
+ |journal = [[Air &amp; Space]]
+ |volume = 24
+ |issue = 6
+ |pages = 34–39
+ |date = December 2009 – January 2010
+ |url = http://www.airspacemag.com/history-of-flight/The-Big-Race-of-1910.html
+}}
+* {{Cite book |author=James H. Doolittle |author2=Carroll V. Glines |title=I Could Never Be So Lucky Again |isbn= 0-88740-737-4|oclc= 33957079}}
+* {{Cite book |author= Carroll V. Glines|title=Jimmy Doolittle: Daredevil Aviator and Scientist|publisher=Macmillan|date=1972 |oclc=488509 }}
+* {{Cite book |author=Jonna Doolittle Hoppes |authorlink=Jonna Doolittle Hoppes |title=Calculated Risk |isbn=1-891661-44-2}}
+* {{Cite journal
+ |title = The 1925 Schneider Trophy Race
+ |journal = [[Flight International|Flight]]
+ |page = 703
+ |location = London
+ |date = October 29, 1925
+ |url = http://www.flightglobal.com/pdfarchive/view/1925/1925%20-%200703.html
+}}
+* {{cite book
+ | last = Wolk
+ | first = Herman S.
+ | year = 2003
+ | title = Fulcrum of Power: Essays on the United States Air Force and National Security
+ | location = Washington, D. C.
+ | publisher = Air Force History and Museums Program
+ | url = http://www.afhso.af.mil/shared/media/document/AFD-101202-005.pdf
+ | accessdate=31 October 2013
+ | oclc = 
+ | ref = harv
+}}
+* {{cite web|accessdate=March 21, 2010 |url=http://www.af.mil/history/person.asp?dec=1940&amp;pid=123006483 |title=United States Air Force |author=SSG Cornelius Seon (Retired) (adapted public domain text) |deadurl=yes |archiveurl=https://web.archive.org/web/20090429010403/http://www.af.mil/history/person.asp?dec=1940&amp;pid=123006483 |archivedate=April 29, 2009 }}
+
+==External links==
+{{Commons category|James Harold Doolittle}}
+* {{cite web |accessdate=March 21, 2010 |url=http://www.arlingtoncemetery.com/jdoolitt.htm |title=Arlington National Cemetery Website – James Harold Doolittle}}
+* {{cite web |accessdate=March 21, 2010 |url=http://www.jimmydoolittlemuseum.org |title=Travis Air Museum, supporting the Jimmy Doolittle Air &amp; Space Museum}}
+* {{cite web |accessdate=March 21, 2010 |url=http://www.maritimequest.com/misc_pages/doolittle_raid_april_1942_page_1.htm |title=Maritimequest Doolittle Raid Photo Gallery}}
+* {{cite web|accessdate=March 21, 2010 |url=http://www.historynet.com/wars_conflicts/world_war_2/3038106.html |title=Article: Jimmy Doolittle Reminiscences About World War II |author=William R. Wilson |deadurl=yes |archiveurl=https://web.archive.org/web/20080907061221/http://www.historynet.com/wars_conflicts/world_war_2/3038106.html |archivedate=September 7, 2008 |df= }}
+* {{cite web |accessdate=March 21, 2010 |url=http://www.lylefrancispadilla.com/doolittle.html |title=Medal of Honor recipients on film}}
+* {{cite web |accessdate=March 21, 2010 |url=http://www.pritzkermilitarylibrary.org/events/2006-02-16-jonnaDoolittleHoppes.jsp |title=Interview with granddaughter Joanna Doolittle Hoppes at the Pritzker Military Library}}
+* {{cite web |accessdate=March 21, 2010 |url=http://www.doolittleraider.com/ |title=DoolittleRaiders.com}}
+;Media
+* {{Internet Archive short film|id=gov.dod.dimoc.52240|name=15 AF HERITAGE – HIGH STRATEGY – BOMBER AND TANKERS TEAM (1980)}}
+* {{Internet Archive short film|id=gov.archives.arc.65711|name=ACTIVITIES OF THE U.S. ARMY AIR SERVICE (1925)}}
+* [http://www.donhollway.com/doolittle-geebee/index.html "Doolittle Tames the Gee Bee"] Story of the 1932 Thompson Trophy race. Includes quotes, photos, video
+
+{{Authority control}}
+
+{{DEFAULTSORT:Doolittle, Jimmy}}
+[[Category:1896 births]]
+[[Category:1993 deaths]]
+[[Category:Air Corps Tactical School alumni]]
+[[Category:American air racers]]
+[[Category:American military personnel of World War I]]
+[[Category:American test pilots]]
+[[Category:United States Army Air Forces Medal of Honor recipients]]
+[[Category:Aviators from California]]
+[[Category:Burials at Arlington National Cemetery]]
+[[Category:Doolittle Raiders]]
+[[Category:Flight instructors]]
+[[Category:Harmon Trophy winners]]
+[[Category:Honorary Knights Commander of the Order of the Bath]]
+[[Category:Mackay Trophy winners]]
+[[Category:Recipients of awards from the United States National Academy of Sciences]]
+[[Category:People from Alameda, California]]
+[[Category:People from Nome, Alaska]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Recipients of the Air Medal]]
+[[Category:Recipients of the Distinguished Flying Cross (United States)]]
+[[Category:Recipients of the Distinguished Service Medal (United States)]]
+[[Category:Recipients of the Order of the Condor of the Andes]]
+[[Category:Recipients of the Silver Star]]
+[[Category:Schneider Trophy pilots]]
+[[Category:University of California, Berkeley College of Engineering alumni]]
+[[Category:United States Army Air Forces generals]]
+[[Category:United States Army Air Service pilots of World War I]]
+[[Category:United States Army Air Forces pilots of World War II]]
+[[Category:American World War II bomber pilots]]
+[[Category:Chief Scientists of the United States Air Force]]
+[[Category:Motorsports Hall of Fame of America inductees]]
+[[Category:World War II recipients of the Medal of Honor]]
+[[Category:People from Pebble Beach, California]]
+[[Category:American aviation record holders]]
+[[Category:Aerobatic record holders]]</text>
+      <sha1>rx089e3ejqlqao6shpc65eebqmhfthl</sha1>
+    </revision>
+  </page>
+</mediawiki>

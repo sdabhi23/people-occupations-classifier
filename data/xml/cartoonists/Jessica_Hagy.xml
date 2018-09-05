@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jessica Hagy</title>
+    <ns>0</ns>
+    <id>15295244</id>
+    <revision>
+      <id>785338238</id>
+      <parentid>713450012</parentid>
+      <timestamp>2017-06-12T23:49:19Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1326">{{Infobox person
+| name        = Jessica Hagy
+| image       = 
+| caption     = 
+| birth_name  = 
+| birth_date  = 
+| birth_place = 
+| citizenship = [[United States]]
+| known_for   = 
+| occupation  = [[cartoonist]], [[advertising]]
+| religion    = 
+}}
+
+'''Jessica Hagy''' is known for the online [[cartoon]] [[Indexed (cartoon)|Indexed]] which is a collection of [[charts]] and [[diagrams]] hand drawn on 3x5 [[index cards]] and organized into a [[blog]] format. She has compiled her cartoons into a book called ''Indexed''. The cartoon has also appeared in [[Freakonomics]], ''[[Plenty (magazine)|Plenty]]'', ''[[Good (magazine)|Good Magazine]]'', and [[BBC.co.uk]].&lt;ref&gt;[http://www.kottke.org/07/10/jessica-hagy Kottke.org Interview October 30, 2007 ]&lt;/ref&gt; Indexed was voted by readers on [[Time.com]] as the best blog of 2008.&lt;ref&gt;[http://www.time.com/time/specials/2007/article/0,28804,1725323_1727246,00.html Time.Com The 2008 Top 25 Blogs Poll ResultsApril 7, 2008 ]&lt;/ref&gt;
+
+==Books==
+;Cartoon Compilations
+
+*''Indexed'',  2008, {{ISBN|978-0-14-200520-0}}
+*"How To Be Interesting", 2013, {{ISBN|978-0-7611-7470-7}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.thisisindexed.com/ Indexed Cartoon]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hagy, Jessica}}
+[[Category:Living people]]
+
+
+{{US-comics-creator-stub}}</text>
+      <sha1>kdy78y66r08v7xcs4opzwy7jne4nrti</sha1>
+    </revision>
+  </page>
+</mediawiki>

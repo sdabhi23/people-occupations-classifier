@@ -1,0 +1,223 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Robert Woolsey</title>
+    <ns>0</ns>
+    <id>2254319</id>
+    <revision>
+      <id>855867548</id>
+      <parentid>848190201</parentid>
+      <timestamp>2018-08-21T10:38:53Z</timestamp>
+      <contributor>
+        <username>Savolya</username>
+        <id>6014161</id>
+      </contributor>
+      <comment>infobox updated</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6468">{{Infobox person
+| name        = Robert Woolsey &lt;!-- include middle initial, if not specified in birth_name --&gt;
+| image         = Bert Wheeler Robert Woolsey Peach O Reno 1931.JPG
+| caption       = [[Bert Wheeler]] (left) and Robert Woolsey (right) in 1931
+| birth_date    = {{Birth date|1888|08|14}}
+| birth_place   = [[Oakland, California]], U.S.
+| death_date    = {{Death date and age|1938|10|31|1888|08|14}}
+| death_place   = [[Malibu, California]], U.S.
+| death_cause   = kidney failure
+| resting_place = [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park Cemetery]]
+| nationality   = United States
+| known_for     = [[Wheeler &amp; Woolsey]]
+| occupation    = Actor
+| yearsactive   = 1929-1937
+| spouse        = {{marriage|Mignone Park Reed|1917|1938|reason=his death}}
+}}
+
+'''Robert Rolla Woolsey''' (August 14, 1888 &amp;ndash; October 31, 1938) was an [[United States|American]] stage and screen [[comedian]] and half of the 1930s comedy team [[Wheeler &amp; Woolsey]].
+
+==Early life ==
+He was born in [[Oakland, California]].&lt;ref&gt;[https://books.google.com/books?id=XFnfnKg6BcAC&amp;pg=PA1229&amp;lpg=PA1229&amp;dq Cullen, Frank; Hackman, Florence; McNeilly, Donald (2007). ''Vaudeville, Old &amp; New''. Routledge]. {{ISBN|0-415-93853-8}} p. 1229.&lt;/ref&gt; Woolsey always had a slight build, and as a young adult he tried to capitalize on it by becoming a jockey. After he fell from a horse and sustained an injury, he quit racing and turned instead to the stage. In 1925 he was featured as "Mortimer Pottle" in [[W. C. Fields]]'s Broadway hit ''[[Poppy (1923 musical)|Poppy]]''.
+
+==Wheeler and Woolsey ==
+Woolsey was teamed with comedy star [[Bert Wheeler]] in 1928, for the Broadway musical ''[[Rio Rita (musical)|Rio Rita]]''. [[RKO Radio Pictures]] filmed the play in 1929, launching Wheeler and Woolsey as movie personalities. Of the twenty-two films Woolsey would make, twenty-one of them would be with his comedy partner, Wheeler.
+
+Woolsey became terminally ill in 1937 and struggled to finish his last picture, ''High Flyers''. He was then confined to bed for almost a full year, before dying of kidney failure in 1938.&lt;ref&gt;{{cite news |author= |coauthors= |title=Robert Woolsey, Film Comedian, 49. Partner of Bert Wheeler in Many Pictures and on the Stage Dies in California. In First 'Rio Rita' Cast. That New York Success Led to Movie Contract. Big Cigar Was His Principal Prop. Played in Stock on Coast. Won Honors With Ziegfeld |url=https://query.nytimes.com/gst/abstract.html?res=9C07EEDA163BEE3ABC4953DFB7678383629EDE |quote=Robert Woolsey, motion picture comedian, died today at his home here after a long illness at the age of 49. ... |newspaper=[[New York Times]] |date=November 1, 1938 |accessdate=2015-01-04 }}&lt;/ref&gt; Robert Woolsey was interred in the [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park Cemetery]] in [[Glendale, California]].
+
+==Filmography==
+(As per the AFI database)&lt;ref name=AFI&gt;{{cite web | url=http://www.afi.com/members/catalog/SearchResult.aspx?s=&amp;Type=PN&amp;Tbl=&amp;CatID=DATABIN_CAST&amp;ID=19943&amp;searchedFor=Bert_Wheeler_&amp;SortType=ASC&amp;SortCol=RELEASE_YEAR | title=Bert Wheeler | publisher=American Film Institute | accessdate= August 3, 2014}}&lt;/ref&gt;
+{| class="wikitable"
+|-
+! Film title
+! Year
+! Character
+|-
+| ''[[Rio Rita (1929 film)|Rio Rita]]''
+| 1929
+| Lovett
+|-
+| ''[[Dixiana (film)|Dixiana]]''
+| 1930
+| Ginger
+|-
+| ''[[The Cuckoos (1930 film)|The Cuckoos]]''
+| 1930
+| Professor Bird
+|-
+| ''[[Half Shot at Sunrise]]''
+| 1930
+| Gilbert
+|-
+| ''[[Hook, Line and Sinker (1930 film)|Hook, Line and Sinker]]''
+| 1930
+| Addington Ganzy
+|-
+| ''[[Everything's Rosie]]''
+| 1931
+| Dr. J. Dockweiler Droop
+|-
+| ''[[Caught Plastered]]''
+| 1931
+| Egbert G. Higginbotham
+|-
+| ''[[Peach O'Reno]]''
+| 1931
+| Julius Swift
+|-
+| ''[[Cracked Nuts]]''
+| 1931
+| Zander "Zup" Ulysses Parkhurst
+|-
+| ''[[Hold 'Em Jail]]''
+| 1932
+| Spider Robbins
+|-
+| ''[[Girl Crazy]]''
+| 1932
+| Slick Foster
+|-
+| ''[[Diplomaniacs]]''
+| 1933
+| Hercules Glub
+|-
+| ''[[So This Is Africa]]''
+| 1933
+| Alexander Woolsey
+|-
+| ''[[Kentucky Kernels]]''
+| 1934
+| "The Great" Elmer Dugan 
+|-
+| ''[[Hips, Hips, Hooray!]]''
+| 1934
+| Dr. Bob Dudley
+|-
+| ''[[Cockeyed Cavaliers]]''
+| 1934
+| Bob
+|-
+| ''[[The Nitwits]]''
+| 1935
+| Newton
+|-
+| ''[[The Rainmakers (film)|The Rainmakers]]'' 
+| 1935
+| Roscoe the Rainmaker
+|-
+| ''[[Silly Billies]]''
+| 1936
+| Dr. Philip "Painless" Pennington
+|-
+| ''[[Mummy's Boys]]''
+| 1936
+| Aloysius C. Whittaker
+|-
+| ''[[On Again-Off Again]]''
+| 1937
+| Claude (Augustus) Horton
+|-
+| ''[[High Flyers]]''
+| 1937
+| Pierre Potkins
+|-
+|}
+
+==Personal life ==
+From 1921 to his death in 1938, Woolsey was married to Mignonne Park Reed, who lived on to age 94.&lt;ref name=Grave&gt;{{cite web|title=Mignonne R Reed Woolsey (1894-1989) FindAGrave Memorial|url=https://www.findagrave.com/memorial/85552450|publisher=Ancestry.com|accessdate=31 March 2013}}&lt;/ref&gt;&lt;ref name=IMDb&gt;{{cite web|title=Robert Woolsey-Biography|url=https://www.imdb.com/name/nm0941298/bio|publisher=IMDb.com Inc|accessdate=31 March 2013}}&lt;/ref&gt;
+
+==DVD releases ==
+Nine of Wheeler and Woolsey's 21 movies were released in a DVD collection entitled "Wheeler &amp; Woolsey: RKO Comedy Classics Collection" in March 2013 by [[Warner Archive]].&lt;ref name=NYTimes&gt;{{cite news|last=Kehr|first=Dave|title=DVD Ribaldry Before the Code|url=https://www.nytimes.com/2013/03/24/movies/homevideo/new-dvds-wheeler-and-woolseys-rko-comedy-classics.html?pagewanted=all|accessdate=30 March 2013|newspaper=The New York Times|date=2 March 2013}}&lt;/ref&gt;
+
+{U.S. Census Records indicate he was born in Carbondale, Jackson Co, IL}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Robert Woolsey}}
+* {{IMDb name|0941298}}
+* [http://www.wheelerandwoolsey.com/ Wheeler &amp; Woolsey]
+* [https://web.archive.org/web/20070928135049/http://www.wideopenwest.com/~stoogeman/ Wheeler &amp; Woolsey Fan Site]
+* {{Find a Grave|4056|Robert Woolsey}}
+* [http://www.virtual-history.com/movie/person/8601/robert-woolsey Literature on Robert Woolsey]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Woolsey, Robert}}
+[[Category:1888 births]]
+[[Category:1938 deaths]]
+[[Category:Vaudeville performers]]
+[[Category:Deaths from renal failure]]
+[[Category:Male actors from Oakland, California]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:RKO Pictures contract players]]
+[[Category:American male film actors]]
+[[Category:20th-century American male actors]]
+
+
+{{US-film-actor-1880s-stub}}
+{{US-comedian-stub}}</text>
+      <sha1>rwly1vhacow6gt2jhf5atl52444lmxw</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mike Melvill</title>
+    <ns>0</ns>
+    <id>739331</id>
+    <revision>
+      <id>847654585</id>
+      <parentid>841984233</parentid>
+      <timestamp>2018-06-26T21:44:35Z</timestamp>
+      <contributor>
+        <username>Druschba 4</username>
+        <id>20516592</id>
+      </contributor>
+      <minor/>
+      <comment>([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:MikeandScottC01.jpg]] → [[File:Scott Crossfield, passes the torch of Space Travel to Mike Melville by D Ramey Logan.jpg]] {{{9}}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6202">{{Infobox astronaut
+| name          = Mike Melvill
+| image         = patti-presenting-wings-web.jpg
+| caption       = Melvill receiving the first [[commercial astronaut]] wings
+| type          = [[Commercial Astronaut]]&lt;br /&gt;[[File:US - FAA Astronaut Wings.png|150px]]
+| nationality   = South African / American{{cn|reason=seems to be no source at all in the article on what his citizenship is; just where he was born and where he has lived for many years|date=December 2017}}
+| birth_name    = Michael Winston Melvill
+| birth_date    = {{Birth date and age|1940|11|30}}
+| birth_place   = [[Johannesburg]], South Africa
+| death_date    = 
+| death_place   = 
+| occupation    = [[Test pilot]]
+| alma_mater    = [[Hilton College (South Africa)|Hilton College]]
+| selection     = [[List of astronauts by selection#2003|SpaceShipOne 2003]]
+| space_time    = ~10 mins
+| missions      = [[SpaceShipOne flight 15P]], [[SpaceShipOne flight 16P]]
+| insignia      = 
+}}
+
+'''Michael Winston "Mike" Melvill''' (born November 30, 1940 [[Johannesburg]] &lt;ref&gt;{{cite web|url=https://global.britannica.com/biography/Michael-Melvill|title=Michael Melvill - American pilot and astronaut|publisher=|accessdate=24 October 2017}}&lt;/ref&gt;) is a world-record-breaking pilot&lt;ref&gt;{{cite web|title=Chronological listing of all known flights around the World |url=http://www.earthrounders.com/cgi/chrono.php |publisher=Earthrounders.com |accessdate=3 July 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20120712175742/http://www.earthrounders.com/cgi/chrono.php |archivedate=12 July 2012 |df= }}&lt;/ref&gt;  and one of the [[test pilot]]s for [[SpaceShipOne]], the experimental [[spaceplane]] developed by [[Scaled Composites]]. Melvill piloted SpaceShipOne on its first flight past the [[edge of space]], [[SpaceShipOne flight 15P|flight 15P]] on June 21, 2004,&lt;ref&gt;{{cite web |url=http://www.scaled.com/projects/tierone/combined_white_knight_spaceshipone_flight_tests |title=Scaled Composites: combined white knight spaceshipone flight tests |publisher=Scaled.com |date= |accessdate=2010-08-02}}&lt;/ref&gt; thus becoming the first [[commercial astronaut]] and the 434th person to go into space.&lt;ref&gt;{{cite web |url=http://www.worldspaceflight.com/bios/m/melvill-m.php |title=M.Melvill |publisher=Worldspaceflight.com |date= |accessdate=2010-08-02}}&lt;/ref&gt; He was also the pilot on SpaceShipOne's [[SpaceShipOne flight 16P|flight 16P]], the first competitive flight in the [[Ansari X Prize]] competition.&lt;ref&gt;{{cite web |url=http://www.spacefacts.de/bios/astronauts/english/melvill_michael.htm |title=Astronaut Biography: Michael Melvill |publisher=Spacefacts.de |date= |accessdate=2010-08-02}}&lt;/ref&gt;
+
+==Life and career==
+
+In 1978, Melvill met aerospace designer and [[Scaled Composites]] founder [[Burt Rutan]] when he flew to California to show Rutan the [[Rutan VariViggen|VariViggen]] he had built at his home. Rutan then hired him on the spot. In 1982, he was named Rutan's lead test pilot.&lt;ref name=Astronautix&gt;{{cite web |url=http://www.astronautix.com/astros/melvill.htm |title=Melvill |publisher=Astronautix.com |date= |accessdate=2010-08-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20101020020000/http://astronautix.com/astros/melvill.htm |archivedate=2010-10-20 |df= }}&lt;/ref&gt;
+
+In 1997, Melvill and [[Dick Rutan]], Burt's brother, flew two [[Rutan Long-EZ|Long-Eze]] aircraft that they built side-by-side around the world. This "around the world in 80 nights" flight was called The Spirit of [[Experimental Aircraft Association|EAA]] Friendship World Tour, and some legs of it lasted for over 14 hours.&lt;ref&gt;{{cite web|url=http://airportjournals.com/dick-rutan-the-frontiers-of-flight-the-last-great-world-record/|title=Dick Rutan The Frontiers of Flight – The Last Great World Record|date=10 October 2014|publisher=|accessdate=24 October 2017}}&lt;/ref&gt;
+
+Later in his career he became Vice President/General Manager at [[Scaled Composites]].&lt;ref name=Astronautix/&gt;
+
+==Awards and achievements==
+[[File:Scott Crossfield, passes the torch of Space Travel to Mike Melville by D Ramey Logan.jpg|thumb| The first "Commercial Astronaut", Mike Melvill, reviews the first private space flight with [[Scott Crossfield]]]]
+Melvill is the sole or joint holder of nine [[Fédération Aéronautique Internationale|FAI]] aviation world records in various categories.&lt;ref&gt;{{cite web |url=http://records.fai.org/data?p=707 |title=History of Records: Michael W. MELVILL (USA) |publisher=records.fai.org |date= |accessdate=2010-08-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20100729102740/http://records.fai.org/data?p=707 |archivedate=2010-07-29 |df= }}&lt;/ref&gt;
+
+He was awarded the [[Iven C. Kincheloe Award]] in 1999 for high altitude, developmental flight-testing of the [[Scaled Composites Proteus|model 281 Proteus]] aircraft.&lt;ref name=Astronautix/&gt;
+
+Through [[SpaceShipOne flight 15P]] in 2004, he is known as the first privately funded [[human spaceflight]] mission pilot to reach space.&lt;ref&gt;{{cite web |url=http://www.flyincruisein.com/MMelvill.html |title=Mike Melvill |publisher=Flyincruisein.com |date=2004-06-21 |accessdate=2010-08-02}}&lt;/ref&gt;
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* Biography at Scaled Composites http://www.scaled.com/projects/tierone/pilots/michael_w._melvill
+* [https://web.archive.org/web/20140719044635/http://www.earthrounders.com/cgi/melvill.php Sport Aviation article by Melvill describing his round-the-world trip]
+* [http://www.msnbc.msn.com/id/5236958/ "First private space pilot 'ready to go'"], ''msnbc'', Alan Boyle, 6/21/2004, accessdate August 2, 2010
+
+{{The Spaceship Company}}
+{{Scaled Composites}}
+
+{{DEFAULTSORT:Melvill, Michael W.}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:People from Johannesburg]]
+[[Category:South African people of British descent]]
+[[Category:Commercial astronauts]]
+[[Category:American aviators]]
+[[Category:South African astronauts]]
+[[Category:Scaled Composites]]
+[[Category:Scaled Composites Tier One program]]
+[[Category:Glider pilots]]
+[[Category:Aviation pioneers]]
+[[Category:Alumni of Hilton College (South Africa)]]
+[[Category:Alumni of Highbury Preparatory School]]
+[[Category:American test pilots]]</text>
+      <sha1>bt6gojwvkqe6nly5nvzeue38ecn4zaq</sha1>
+    </revision>
+  </page>
+</mediawiki>

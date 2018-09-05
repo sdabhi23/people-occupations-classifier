@@ -1,0 +1,315 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mitch Hedberg</title>
+    <ns>0</ns>
+    <id>607337</id>
+    <revision>
+      <id>853829230</id>
+      <parentid>853773275</parentid>
+      <timestamp>2018-08-07T06:06:14Z</timestamp>
+      <contributor>
+        <username>Wukai</username>
+        <id>13311235</id>
+      </contributor>
+      <comment>/* Early life */ ce</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16278">{{Infobox person &lt;!-- comedian --&gt;
+| name = Mitch Hedberg
+| image = Mitch Hedberg.jpg
+| imagesize = 250px
+| caption = 
+| birth_name = Mitchell Lee Hedberg
+| birth_date = {{birth date|mf=yes|1968|2|24}}
+| birth_place = [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]], United States
+| death_date = {{death date and age|mf=yes|2005|3|30|1968|2|24}}
+| death_place = [[Livingston, New Jersey|Livingston]], [[New Jersey]], United States&lt;ref name=msnbc&gt;{{cite web
+  | last       = The Associated Press | first = 
+  | title      = Report: Mitch Hedberg died of drug overdose
+  | url        = http://www.msnbc.msn.com/id/10619222/
+  | accessdate = November 10, 2007 | date = December 27, 2005
+}}&lt;/ref&gt;
+| death_cause = [[Drug overdose]]
+| nationality = [[American people|American]]
+| spouse = Lynn Shawcroft {{Smaller|(1999–2005; his death)}}
+| signature = 
+| footnotes = 
+| website = {{URL|https://web.archive.org/web/20170816044418/http://mitchhedberg.net:80/|Mitch Hedberg}}
+| module = {{Infobox comedian | embed=yes
+  | active = 1989–2005
+  | genre = {{Hlist|[[Observational comedy]]|[[Surreal humor]]|[[Word play]]|[[Non sequitur (literary device)|Non sequitur]]|[[One-line joke|One-liner]]|[[Deadpan]]}}
+  | subject = {{Hlist | [[Recreational drug use]] | Everyday life | [[American culture]] | [[Self-deprecation]] | [[Drinking culture]] | Food }}
+  | influences = {{Hlist | [[Emo Philips]] | [[Steven Wright]] | [[Jerry Seinfeld]] | [[Cheech &amp; Chong]] | [[Bobcat Goldthwait]] }}
+  | influenced = 
+  | notable_work = ''[[Strategic Grill Locations]]''&lt;br/&gt;''[[Mitch All Together]]''&lt;br/&gt;''[[Do You Believe in Gosh?]]''
+  | medium = {{Hlist | [[Stand up comedian|Stand-up]] | Film }}
+  | pseudonym =
+ }}
+}}
+
+'''Mitchell Lee "Mitch" Hedberg''' (February 24, 1968 – March 30, 2005)&lt;ref name=nndb/&gt; was an [[United States|American]] [[stand-up comedy|stand-up comedian]] known for his [[surreal humour|surreal humor]] and unconventional, often [[deadpan]] comedic delivery.&lt;ref&gt;{{cite web|url=http://www.austinchronicle.com/arts/1999-02-19/521182/|title=Dude, It's Mitch Hedberg!|last=Shakespeare|first=J. C.|work=[[The Austin Chronicle]]|date=19 February 1999|accessdate=3 November 2015}}&lt;/ref&gt; His comedy typically featured short, sometimes [[one-line joke]]s&lt;ref name=comedy&gt;{{cite web
+  | last       = Comedy Central
+  | first      = 
+  | title      = Mitch Hedberg
+  | url        = http://www.comedycentral.com/comedians/browse/h/mitch_hedberg.jhtml?display=bio
+  | accessdate = November 10, 2007
+}}&lt;/ref&gt; mixed with absurd elements and [[Non sequitur (literary device)|non sequiturs]].&lt;ref&gt;{{cite news
+  | last       = News Services
+  | first      = 
+  | title      = Mitch Hedberg, 37, Dies; Offbeat Stand-Up Comedian
+  | url        = https://www.washingtonpost.com/wp-dyn/articles/A23956-2005Apr3.html
+  | accessdate = November 10, 2007
+  | work       = The Washington Post
+  | date       = April 4, 2005
+}}&lt;/ref&gt;
+
+Hedberg's comedy and onstage persona gained him a [[cult following]],&lt;ref&gt;{{cite web
+ |last         = Kolowich
+ |first        = Steve
+ |title        = Cult comedian Mitch Hedberg dies on tour
+ |url          = http://orient.bowdoin.edu/orient/article.php?date=2005-04-01&amp;section=4&amp;id=1
+ |accessdate   = November 10, 2007
+ |archive-url  = https://web.archive.org/web/20080926162509/http://orient.bowdoin.edu/orient/article.php?date=2005-04-01&amp;section=4&amp;id=1
+ |archive-date = September 26, 2008
+ |dead-url     = yes
+ |df           = mdy-all
+}}&lt;/ref&gt; with audience members sometimes shouting out the punchlines to his jokes before he could finish them.&lt;ref name=Fierman&gt;{{cite news
+  | last       = Fierman
+  | first      = Daniel
+  | title      = Comic Tragedy
+  | url        = http://www.ew.com/ew/article/0,,1080613,00.html
+  | accessdate = November 10, 2007
+  | work       = Entertainment Weekly
+  | date       = July 8, 2005
+}}&lt;/ref&gt;
+
+Hedberg died of cocaine and heroin drug overdose on March 30, 2005.
+
+== Early life ==
+Hedberg was born on February 24, 1968, in [[Saint Paul, Minnesota]], the son of Mary (née Schimscha) and Arne Hedberg.&lt;ref&gt;{{cite web
+ |last=MitchHedberg.net 
+ |first= 
+ |title=To All of Mitch's Fans 
+ |url=http://www.mitchhedberg.net/notes.html 
+ |accessdate=November 10, 2007 
+ |archiveurl=https://web.archive.org/web/20071028064531/http://www.mitchhedberg.net/notes.html 
+ |archivedate=October 28, 2007 
+ |deadurl=yes 
+ |df= 
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.legacy.com/obituaries/twincities/obituary.aspx?page=lifestory&amp;pid=156164350|title=Mary Hedberg Obituary - St. Paul, MN - Pioneer Press|work=Pioneer Press}}&lt;/ref&gt; He was of Swedish (from his paternal grandfather), Czech, and German descent.&lt;ref&gt;https://www.imdb.com/name/nm0373136/bio?ref_=nm_dyk_trv_sm#trivia&lt;/ref&gt; Hedberg attended [[Harding Senior High School (St. Paul, Minnesota)|Harding High School]] in Saint Paul. He admitted to having no interest in school and just barely graduated.&lt;ref&gt;https://www.imdb.com/name/nm0373136/bio?ref_=nm_dyk_trv_sm#trivia&lt;/ref&gt; When he was 18, he and a friend decided to leave Minnesota. He claimed their original plan was to move to [[Texas]] but that because their car's [[Caster angle|front-end alignment]] went bad they ended up settling in [[Florida]] instead.&lt;ref&gt;https://www.youtube.com/watch?v=e8DKsCi3LIo&amp;t=392s&lt;/ref&gt;
+
+== Career ==
+Hedberg began his stand-up career in [[Florida]], and after a period of honing his skills, he moved to [[Seattle]] and began to tour. He soon appeared on [[MTV]]'s ''Comikaze'', followed by a 1996 appearance on the ''[[Late Show with David Letterman]]'' that brought him his big break. He won the 1997 grand prize at the Seattle Comedy Competition. The next year he appeared in an episode of [[Fox Broadcasting Company|Fox]]'s series ''[[That '70s Show]]''.
+
+In 1999, he completed his own independent feature film, ''[[Los Enchiladas!]]'', which he wrote, directed, produced, and starred in. He recorded three comedy CDs: ''[[Strategic Grill Locations]]'', ''[[Mitch All Together]]'', and ''[[Do You Believe in Gosh?]]'', the last released posthumously. He also appeared at the [[Montreal]] [[Just for Laughs]] comedy festival in 1998, 2001, and 2004.
+
+Concurrent with his rising fame in the entertainment industry, Hedberg appeared on Letterman nine more times, signed a half-million dollar deal with Fox for a television sitcom, and was dubbed "the next [[Jerry Seinfeld|Seinfeld]]" by ''[[Time (magazine)|Time]]'' magazine.&lt;ref&gt;{{cite web
+  | last       = Anderson
+  | first      = Sam
+  | title      = Last Laugh
+  | url        = http://www.slate.com/articles/arts/culturebox/2005/05/last_laugh.html
+  | publisher  = The Slate Group
+  | accessdate = 9 September 2012
+}}&lt;/ref&gt; [[George Carlin]], [[Dave Chappelle]], [[Mike Birbiglia]] and [[Lewis Black]] were reportedly among his comedian fans.&lt;ref&gt;{{cite web
+  | last       = Fireman
+  | first      = Daniel
+  | title      = Comic Tragedy
+  | url        = http://www.ew.com/ew/article/0,,1080613,00.html
+  | publisher  = Entertainment Weekly Inc.
+  | accessdate = 9 September 2012
+}}&lt;/ref&gt;
+
+== Style ==
+Hedberg's standup comedy was distinguished by the [[idiolect|unique manner of speech]] he adopted later in his career, his abrupt delivery, and his unusual stage presence. His material depended heavily on [[wordplay]], [[Non sequitur (literary device)|non sequiturs]], [[paraprosdokian]]s, and object observations. His act usually consisted equally of compact one- or two-liners and longer routines, often with each line as a punchline. Many of his jokes were inspired by everyday thoughts or situations.
+
+Hedberg suffered from [[stage fright]] throughout his career; he often performed in sunglasses, with his head down and his hair in his face or his eyes closed, and sometimes stood upstage or with his back to the audience, constantly moving in place. At times, he nervously shook his microphone unconsciously.&lt;ref&gt;{{cite web|last=Gonzales|first=Matt|title=Mitch Hedberg + Stephen Lynch|url=http://www.popmatters.com/review/in-memoriam-mitch-hedberg/|accessdate=November 10, 2007}}&lt;/ref&gt;
+
+Hedberg occasionally added disclaimers to the end of a joke if it was not sufficiently well received, frequently variations on "that joke's dumb, I'm aware of that." During recordings for CDs, he would often say that he would find a way to edit a failed gag to make it seem well-received, for example by "adding laughter" to a failed joke containing arithmetic. Following such a failure on ''Strategic Grill Locations'', Hedberg suggested, "All right ... that joke is going to be good because I'm going to take all the words out and add new words. That joke will be fixed."&lt;ref&gt;''Mitch Hedberg: Strategic Grill Locations''&lt;/ref&gt;
+
+[[Comedy Central Records]] announced the release of an album of new Hedberg material on June 10, 2008. The album, ''Do You Believe in Gosh?'', was released on September 9, 2008, and contains material recorded at [[The Improv]] in [[Ontario, California]] in January 2005. Hedberg's wife, Lynn, wrote the introduction, in which she stated that the performance had been in preparation for a year-end CD recording.&lt;ref&gt;''Do you believe in Gosh?'' liner notes, Lynn Shawcroft, 2008&lt;/ref&gt;
+
+===  Quotations ===
+* "I'm against picketing, but I don't know how to show it."
+* "You know, I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with 'em later."
+* "An escalator cannot break. It can only become stairs."
+* "Rice is great if you're really hungry and want to eat 2000 of something."
+* "I think Bigfoot is blurry. That's the problem. It's not the photographer's fault. Bigfoot is blurry and that's extra scary to me. There's a large, out-of-focus monster roaming the countryside. Run! He's fuzzy! Get out of here!"
+* "I used to do drugs. I still do, but I used to, too."
+* "My friend asked me if I wanted a frozen banana. I said 'No, but I want a regular banana later. So, yeah.'"
+
+== Personal life ==
+Hedberg was married to Canadian comedian Lynn Shawcroft from 1999 until his death in 2005.&lt;ref name=nndb&gt;{{cite web
+  | last       = Soylent Communications
+  | first      = 
+  | title      = Mitch Hedberg
+  | url        = http://www.nndb.com/people/816/000093537/
+  | accessdate = November 10, 2007
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web
+  | last       = Murray
+  | first      = Noel
+  | title      = Interviews: Mitch Hedberg
+  | url        = http://www.avclub.com/content/node/23154
+  | accessdate = November 10, 2007
+}}&lt;/ref&gt;
+
+Hedberg was known to be a [[Recreational drug use|drug user]], mentioning it in some of his jokes (e.g., "I used to do drugs. I still do, but I used to, too"). In May 2003 he was arrested in Austin, Texas, for [[heroin]] possession.&lt;ref name=msnbc/&gt;
+
+=== Death ===
+On March 30, 2005, Hedberg was found dead in a hotel room in [[Livingston, New Jersey]].&lt;ref name=washpost&gt;{{cite news
+  | author1    = The Washington Post
+  | author2    = News Services
+  | title      = Report: Mitch Hedberg, 37, Dies; Offbeat Stand-Up Comedian
+  | url        = https://www.washingtonpost.com/wp-dyn/articles/A23956-2005Apr3.html
+  | accessdate = October 10, 2009
+  | date       = April 4, 2005
+}}&lt;/ref&gt; The [[New Jersey]] medical examiner's office reported "multiple drug toxicity" in the form of [[speedball (drug)|cocaine and heroin]] as the cause.&lt;ref name="msnbc" /&gt;
+
+Hedberg's death was formally announced on April 1, 2005, leading some to believe it was an [[April Fools' Day]] joke. His funeral was held at St. Ambrose of Woodbury Church in [[Minnesota]].&lt;ref&gt;{{cite web
+  | url        = http://www.legacy.com/obituaries/startribune/obituary.aspx?n=mitch-l-hedberg&amp;pid=3372277
+  | title      = Mitch L. Hedberg Obituary: View Mitch Hedberg's Obituary by Star Tribune
+  | publisher  = Legacy.com | date = March 30, 2005 | accessdate = May 24, 2012
+}}&lt;/ref&gt;
+
+Hedberg had been interviewed by Jonathan Davis in the December 2001 issue of ''[[Penthouse (magazine)|Penthouse]]''. In the interview, published three years before his death, he was asked, "If you could choose, how would you end your life?" His response: "First, I'd want to get famous, and then I'd overdose. If I overdosed at this stage in my career, I would be lucky if it made the back pages."
+&lt;ref&gt;{{cite web|author1=Davis, Jonathan|title=Stand-up Guys|publisher=[[Penthouse (magazine)|Penthouse]] - [[Bob Guccione]]|page=66|date=December 2001}}&lt;/ref&gt;&lt;!-- issue on ebay, pics emailed --&gt;&lt;ref&gt;{{cite web|author1=Matthew Reine|title=Life and Career of Mitch Hedberg {{!}} CXF {{!}} Culture Crossfire {{!}} culturecrossfire.com|url=http://culturecrossfire.com/etc/life-and-career-of-mitch-hedburg/|website=Culture Crossfire|date=April 4, 2015}}&lt;/ref&gt;
+
+On October 12, 2004, a few months before his death, Hedberg sat in on the news with [[Robin Quivers]] on ''[[The Howard Stern Show]]''. He appeared on the show again on March 17, 2005, just 12 days before his death, and briefly discussed his drug use, saying, "Well, you know, I got the drugs under control now." Stern asked, "Do you? You know how to take them responsibly?" Hedberg replied, "Yeah, you know, just for the creative side of it."
+
+== Discography ==
+* ''[[Strategic Grill Locations]]'' (1999) (Originally self-published, later re-released on the Comedy Central label, edited)
+* ''[[Mitch All Together]]'' (November 18, 2003)
+* ''[[Do You Believe in Gosh?]]'' (September 9, 2008)&lt;ref&gt;{{cite news
+ |url          = https://www.reuters.com/article/pressRelease/idUS167641+14-Jul-2008+PRN20080714
+ |title        = COMEDY CENTRAL Records(R) to Release New Mitch Hedberg CD 'Do You Believe in Gosh?'
+ |date         = July 14, 2008
+ |work         = Reuters
+ |access-date  = July 1, 2017
+ |archive-url  = https://web.archive.org/web/20081226094057/http://www.reuters.com/article/pressRelease/idUS167641+14-Jul-2008+PRN20080714
+ |archive-date = December 26, 2008
+ |dead-url     = yes
+ |df           = mdy-all
+}}&lt;/ref&gt;
+
+== Filmography ==
+{| class="wikitable"
+|-
+! Year !! Title !! Role || Notes
+|-
+| [[1999 in film|1999]] || ''[[Los Enchiladas!]]'' || Lee ||
+|-
+| [[2000 in film|2000]] || ''[[Almost Famous]]'' || Eagles Road Manager ||
+|-
+| [[2005 in film|2005]] || ''[[Lords of Dogtown]]'' || Frank Nasworthy (Urethane Wheels Guy) || Posthumous release
+|}
+
+== TV appearances ==
+{| class="wikitable"
+|-
+! Year !! Title !! Role/Info
+|-
+|rowspan="3"| 1998 || ''[[That '70s Show]]'' || Episode 11, as Frank (Chef at the Hub)&lt;ref&gt;{{IMDb episode|0720074|''That '70s Show'' Season 1, Episode 11, ''Eric's Buddy''}}&lt;/ref&gt;
+|-
+| ''[[Premium Blend]]'' || Episode dated May 23, 1998 as Himself
+|-
+| ''[[Late Show with David Letterman]]'' || Himself (2 episodes)
+|-
+|rowspan="4"| 1999 || ''[[Dr. Katz, Professional Therapist]]'' || Episode 67 "Past Lives" and Episode 73 "Garden", both as Himself
+|-
+| ''[[Comedy Central Presents]]'' || Himself
+|-
+| ''Late Show with David Letterman'' || Himself (2 episodes)
+|-
+| ''[[Home Movies (TV series)|Home Movies]]'' || Episodes 104 and 105 as The Pet Eulogist and Mitch, respectively
+|-
+| 2000 || ''Late Show with David Letterman'' || Himself 
+|-
+|rowspan="5"| 2001 || ''[[Ed (television program)|Ed]]'' || Episode 110 as Dave
+|-
+| ''[[Just for Laughs in Montreal]]'' || Himself
+|-
+| ''[[Late Friday]]'' || Himself
+|-
+| ''Home Movies'' || Episodes 112 and 113 as Cop and Dr. Fizzel (Anger Management Counselor), respectively
+|-
+| ''Late Show with David Letterman'' || Himself (2 episodes)
+|-
+|rowspan="2"| 2002 || ''[[Saddle Rash]]'' || Various voices
+|-
+| ''Late Show with David Letterman'' || Himself
+|-
+|rowspan="3"| 2003 || ''Late Show with David Letterman'' || Himself 
+|-
+| ''[[Late Night with Conan O'Brien]]'' || Himself
+|-
+| ''[[Crank Yankers]]'' || Himself
+|-
+|rowspan="2"| 2004 || ''[[Shorties Watchin' Shorties]]'' || Episodes 4 and 9 as Himself
+|-
+| ''Late Night with Conan O'Brien'' || Himself
+|}
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{wikiquote}}
+* {{IMDb name|373136|Mitch Hedberg}}
+* {{Find a Grave|10710406}}
+{{Authority control}}
+{{Mitch Hedberg}}
+
+{{DEFAULTSORT:Hedberg, Mitch}}
+[[Category:1968 births]]
+[[Category:2005 deaths]]
+[[Category:American people of Swedish descent]]
+[[Category:American stand-up comedians]]
+[[Category:Cocaine-related deaths in New Jersey]]
+[[Category:Deaths by heroin overdose in the United States]]
+[[Category:People from Saint Paul, Minnesota]]</text>
+      <sha1>r2x1nc6oh0aoyt3qzdcd67or8euzzd4</sha1>
+    </revision>
+  </page>
+</mediawiki>

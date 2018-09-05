@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bill Benulis</title>
+    <ns>0</ns>
+    <id>16457061</id>
+    <revision>
+      <id>783317057</id>
+      <parentid>747413281</parentid>
+      <timestamp>2017-06-01T14:08:31Z</timestamp>
+      <contributor>
+        <username>DEIDATVM</username>
+        <id>244290</id>
+      </contributor>
+      <minor/>
+      <comment>correct date according to ref</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3092">{{Infobox comics creator
+&lt;!-- | name          = Bill Benulis --&gt;
+| image         = 
+| imagesize     = 
+| caption       = 
+| alt           = 
+| birth_name    = 
+| birth_date    = {{birth date|1928|11|5}}&lt;ref&gt;{{cite web|title=In Memory of William A Benulis Sr.|url=http://obits.dignitymemorial.com/dignity-memorial/obituary.aspx?n=William-Benulis&amp;lc=4817&amp;pid=151414771&amp;mid=4690365|website=Dignity Memorial|accessdate=27 September 2016}}&lt;/ref&gt;
+| birth_place   = [[Brooklyn, New York]], United States
+| death_date    ={{death date and age|2011|5|30|1928|11|5}} 
+| death_place   =[[Fort Pierce, Florida]], United States 
+| nationality   = American
+| area          = 
+| cartoonist    = 
+| write         = 
+| art           = 
+| pencil        = y
+| ink           = y
+| edit          = 
+| publish       = 
+| letter        = 
+| color         = 
+| alias         = 
+| signature     = &lt;!-- very optional --&gt;
+| signature_alt = 
+| notable works = 
+| awards        = 
+| website       =  
+| subcat        = American
+}}
+'''Bill Benulis''' (November 5, 1928 - May 30, 2011) was an [[People of the United States|American]] [[comic book artist]] in the 1950s.  His style is distinctive, and he signed his work, but he drew only a small number of stories, in a variety of genres.  His work appears in [[war comics]], [[horror comics]], and [[science fiction comics]], and was reprinted in the [[Marvel Comics]] reprint series, ''[[War Is Hell (comics)|War Is Hell]]'', as well as in several of the reprints of fifties comic books published under the IW imprint in the sixties.&lt;ref&gt;[http://lambiek.net/artists/b/benulis_bill.htm Bill Benulis], [[Lambiek]]'s Comiclopedia&lt;/ref&gt;
+
+==Biography==
+{{Expand section|date=June 2008}}
+Benulis was born in 1928 in Brooklyn, New York. He married in 1959, and has three children and two grandchildren.
+
+He decided not to pursue his art further past the early 50's in order to provide for his family by working in the post office.  Despite living with the after-effects of childhood polio, he worked many years on foot as a letter carrier in the post office and retired from it around 1993. Sadly, he never drew any more after his short time in comics—a time in which he was able to work alongside others he admired like Will Eisner and Stan Lee.  He illustrated a cover for an early science fiction book by Scientology founder [[L. Ron Hubbard]].
+
+==Bibliography==
+*''[[Adventures into Terror]]'' ([[Atlas Comics]], 1951)
+*''[[Astounding (comics)|Astonishing]]'' (Atlas, 1951)
+*''[[Strange Tales]]'' (Atlas, 1951)
+*''[[Journey into Mystery]] (Atlas, 1952)
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin}}
+*{{gcdb|type=credit|search=Bill+Benulis|title=Bill Benulis}}
+*{{comicbookdb|type=creator|id=6379|title=Bill Benulis}}
+{{Refend}}
+
+==External links==
+*[http://www.comicvine.com/bill-benulis/43454/ Bill Benulis]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }} on Comicvine
+
+{{Authority control}}
+
+{{DEFAULTSORT:Benulis, Bill}}
+[[Category:1928 births]]
+[[Category:2011 deaths]]
+[[Category:American comics artists]]
+
+
+{{US-comics-artist-stub}}</text>
+      <sha1>f07ot1u4pigbdlr2mjkwh835mdjq1px</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,190 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Astle</title>
+    <ns>0</ns>
+    <id>12693406</id>
+    <revision>
+      <id>840017084</id>
+      <parentid>830691275</parentid>
+      <timestamp>2018-05-07T05:53:48Z</timestamp>
+      <contributor>
+        <username>GSS</username>
+        <id>26778615</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI|Checkwiki]] error fix #17. Unnecessary duplicate categories found using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6292">{{Infobox Politician
+| name = John C. Astle
+| image = John Astle (2008).JPG
+| imagesize = 180px
+| birth_date = {{Birth date and age|1943|03|31|mf=y}}
+| birth_place = [[Charles Town, West Virginia|Charles Town]], [[West Virginia]]
+| residence =
+| death_date =
+| death_place =
+| state_delegate1 = Maryland
+|district1 = 30th
+| term_start1 = 1983
+| term_end1 = 1995
+| predecessor1 =
+| successor1 =
+| state_senate = Maryland
+|district = 30th
+| term_start = 1995
+| term_end = 
+| predecessor =
+| successor =
+| party = [[Democratic Party (United States)|Democrat]]
+| religion =
+| occupation = [[United States Naval Aviator|Military pilot (retired)]]
+| majority =
+| relations =
+| spouse =
+| children =
+| footnotes =
+| allegiance    = {{flag|United States of America|U.S.A}}
+| branch        = [[File:USMC logo.svg|25px]]&amp;nbsp;[[U.S. Marine Corps]]
+| serviceyears  = 1961-1996
+| rank          = [[Colonel (United States)|Colonel]]
+| unit          = 
+| commands      = 
+| battles       = [[Vietnam War]]&lt;br&gt; [[Desert Storm]]
+| awards        = [[Legion of Merit]]&lt;ref&gt;{{cite web
+  |accessdate=February 4, 2018 |title=Senator Astle Bio |publisher=[[Maryland General Assembly]]
+  |url= http://mgaleg.maryland.gov/webmga/frmMain.aspx?stab=03&amp;pid=sponpage&amp;id=astle&amp;tab=subject6&amp;ys=2018RS}}&lt;/ref&gt; &lt;br&gt;[[Purple Heart]] (2)
+| education          = 	[[Marshall University]], B.A., sociology, 1966&lt;br&gt;
+                        [[Catholic University of America]], graduate studies, 1972–74
+}}
+
+'''John Astle''' (born March 31, 1943) is an [[American politician]] from [[Maryland]] and a member of the [[Democratic Party (United States)|Democratic Party]]. He is currently serving in his 4th term in the [[Maryland State Senate]], representing Maryland's District 30 in [[Anne Arundel County, Maryland|Anne Arundel County]].&lt;ref name="mdmanual"&gt;{{cite web|title=John C. Astle, Maryland State Senator|url=http://msa.maryland.gov/msa/mdmanual/05sen/html/msa12160.html|website=Maryland Manual On-Line|publisher=Maryland State Archives|accessdate=January 17, 2017}}&lt;/ref&gt;
+
+==Background==
+Astle was born in [[Charles Town, West Virginia]] and grew up in [[Barboursville, West Virginia|Barboursville]]. He graduated in 1966 from [[Marshall University]] in [[Huntington, West Virginia]] and attended the [[Catholic University of America]].&lt;ref name="mdmanual" /&gt;
+
+==Military service &amp;mdash; United States Marine Corps==
+He joined the [[United States Marine Corps Reserve]] in 1961 and received a commission as an officer in the Marine Corps through its [[Officer Candidates School (United States Marine Corps)|Platoon Leaders Class program]] upon graduation from Marshall. He was a Naval Aviator flying helicopters and left active duty with the rank of Captain. He also flew the Presidential helicopter for three and a half years.&lt;ref name="mdmanual" /&gt;
+
+He retired from the Marine Corps Reserves as a Colonel after 30 years of service.&lt;ref name="mdmanual" /&gt;  He saw combat in Vietnam, earning 34 Air Medals and 2 [[Purple Heart]]s. He recalled to active duty for [[Desert Storm]].
+
+==Political career==
+[[File:Johnastles.JPG|thumb|right]]
+Astle was originally elected to the [[Maryland House of Delegates]] in 1982. He was elected to the State Senate in 1994 and currently serves as Vice-Chair of the Senate Finance Committee.&lt;ref name="20170117-story"&gt;{{cite news|last1=Cook|first1=Chase|title=Annapolis senator John Astle to run for mayor|url=http://www.capitalgazette.com/news/elections/ph-ac-cn-astle-for-mayor-0118-20170117-story.html|accessdate=January 17, 2017|work=[[The Capital]]|date=January 17, 2017}}&lt;/ref&gt;
+
+Astle ran unsuccessfully for mayor of Annapolis in 2017, losing in the Democratic primary.&lt;ref&gt;{{cite news|last1=Kurtz|first1=Josh|title=Sen. Astle Loses Mayoral Primary; Gutierrez Moves On, Hettleman Stays Put|url=https://marylandmatters.org/2017/09/19/sen-astle-loses-mayoral-primary-gutierrez-moves-on-hettleman-stays-put/|accessdate=September 21, 2017|work=Maryland Matters|date=September 19, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Cook|first1=Chase|title=Gavin Buckley wins Democratic primary over Astle, to face Pantelides|url=http://www.capitalgazette.com/news/government/ac-cn-general-election-20170920-story.html|accessdate=September 21, 2017|work=The Capital|date=September 19, 2017}}&lt;/ref&gt; Astle also ran for mayor in 1981, losing by 243 votes in the general election.&lt;ref name="20170117-story" /&gt;
+
+==Election results==
+*'''1990 Race for Maryland House of Delegates – District 30'''&lt;ref&gt;{{cite web| url=http://www.elections.state.md.us/elections/1990/results_1990/gahod.html| title=House of Delegates Results |publisher=Maryland State Board of Elections |access-date=November 7, 2007}}&lt;/ref&gt;
+::'''Voters to choose three:'''
+:{| class="wikitable"
+!Name
+!Votes
+!Percent
+!Outcome
+|-
+|-{{Party shading/Democratic}}
+|John C. Astle, Dem.
+|18,009
+|&amp;nbsp;&amp;nbsp;23%
+|&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Won'''
+|-
+|-{{Party shading/Republican}}
+|[[Aris T. Allen|Aris Allen]], Rep.
+|16,951
+|&amp;nbsp;&amp;nbsp;22%
+|&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Won'''
+|-
+|-{{Party shading/Democratic}}
+|[[Michael E. Busch]], Dem.
+|16,104
+|&amp;nbsp;&amp;nbsp;18%
+|&amp;nbsp;&amp;nbsp;&amp;nbsp;'''Won'''
+|-
+|-{{Party shading/Democratic}}
+|Edith Segree, Dem.
+|14,341
+|&amp;nbsp;&amp;nbsp;18%
+|&amp;nbsp;&amp;nbsp;&amp;nbsp;Lost
+|-
+|-{{Party shading/Republican}}
+|Phillip Bissett, Rep.
+|13,321
+|&amp;nbsp;&amp;nbsp;17%
+|&amp;nbsp;&amp;nbsp;&amp;nbsp;Lost
+|}
+
+==References==
+&lt;references /&gt;
+
+{{Current Maryland State Senators}}
+
+{{DEFAULTSORT:Astle, John}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:Maryland State Senators]]
+[[Category:Catholic University of America alumni]]
+[[Category:Marshall University alumni]]
+[[Category:Maryland Democrats]]
+[[Category:Recipients of the Legion of Merit]]
+[[Category:Aviators from West Virginia]]
+[[Category:Military personnel from West Virginia]]
+[[Category:People from Barboursville, West Virginia]]
+[[Category:American Marine Corps personnel of the Vietnam War]]
+[[Category:American Marine Corps personnel of the Gulf War]]
+[[Category:People from Anne Arundel County, Maryland]]
+[[Category:People from Charles Town, West Virginia]]
+[[Category:21st-century American politicians]]
+[[Category:United States Marine Corps reservists]]
+[[Category:United States Marine Corps colonels]]
+[[Category:United States Naval Aviators]]
+
+
+{{Maryland-politician-stub}}</text>
+      <sha1>5qvhtxt5l0whl7co8uunjb29gziqo7b</sha1>
+    </revision>
+  </page>
+</mediawiki>

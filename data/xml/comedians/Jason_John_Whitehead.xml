@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jason John Whitehead</title>
+    <ns>0</ns>
+    <id>3618793</id>
+    <revision>
+      <id>805866917</id>
+      <parentid>800892424</parentid>
+      <timestamp>2017-10-18T03:49:45Z</timestamp>
+      <contributor>
+        <username>Alaney2k</username>
+        <id>209266</id>
+      </contributor>
+      <minor/>
+      <comment>bypass redir that is clearly for Canadians article using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2245">'''JJ Whitehead''' is a [[Canadians|Canadian]] born [[stand-up comedian]], who was based in the United Kingdom until 2014. He currently lives in Hollywood, California. He has made appearances at 14 [[Edinburgh Festival Fringe]] including 7 solo shows.
+
+==Stand-up==
+In 2000 Whitehead was the winner of the ''BBC New Comedy Award''&lt;ref&gt;{{cite web|url=http://www.chortle.co.uk/features_static/awards/bbcnew.php|title=BBC New Comedy Award|publisher=chortle.co.uk|accessdate=2009-07-20}}&lt;/ref&gt; 
+That year he was also a finalist for The Daily Telegraph Comedy Award at the [[Edinburgh Festival Fringe]].
+
+JJ Whitehead has had several TV appearances on Live at The Comedy Store in the UK and internationally he has appeared on The New Zealand Comedy Festival Gala, Raw Comedy in Sweden, and The World Comedy Tour in Australia.
+
+Whitehead performed on an episode of the [[BBC Radio 4]] show ''[[28 Acts in 28 Minutes]]''.
+
+Whitehead grew up in [[Cole Harbour, Nova Scotia]].
+
+===Edinburgh Fringe shows===
+{| class="wikitable" border="1"
+|-
+! 
+! Show title
+! Notes
+|-
+| [[2000 Edinburgh Festival Fringe]]
+| ''The Midnight Show''
+| Gilded Balloon Showcase. With Dougie Dunlop, [[Keara Murphy]], Joe Heenan
+|-
+| [[2001 Edinburgh Festival Fringe]]
+| ''Off the Kerb Roadshow''
+| Competition finalist showcase. With [[Shappi Khorsandi]], Mark Felgate and Angie McEvoy
+|-
+| [[2002 Edinburgh Festival Fringe]]
+| ''Immigrant''
+| 
+|-
+| [[2003 Edinburgh Festival Fringe]]
+| ''Serious Dude''
+|
+|-
+| [[2005 Edinburgh Festival Fringe]]
+| Jason John Whitehead
+|
+|-
+| [[2007 Edinburgh Festival Fringe]]
+| ''Pretending To Be Retarded is Impolite.. and other revelations''
+|
+|-
+| [[2008 Edinburgh Festival Fringe]]
+| ''The Joker''
+|
+|-
+| [[2009 Edinburgh Festival Fringe]]
+| ''Emotional Whitemale''
+|
+|-
+| [[2011 Edinburgh Festival Fringe]]
+| ''Letters From Mindy''
+|
+|}
+
+==References==
+{{reflist|2}}
+
+== External links==
+*[http://jjwhitehead.net/ Jason John Whitehead official site]
+*[http://www.chortle.co.uk/comics/jjwhitehead.html/ Chortle profile]
+
+{{DEFAULTSORT:Whitehead, Jason John)}}
+[[Category:Canadian stand-up comedians]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Canadian comedians]]
+
+
+{{Canada-comedian-stub}}</text>
+      <sha1>ssdf3n3q1zf38mwoxetugpcuw5is6ej</sha1>
+    </revision>
+  </page>
+</mediawiki>

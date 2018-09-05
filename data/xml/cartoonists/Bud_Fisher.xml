@@ -1,0 +1,124 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bud Fisher</title>
+    <ns>0</ns>
+    <id>3700721</id>
+    <revision>
+      <id>854837729</id>
+      <parentid>833362756</parentid>
+      <timestamp>2018-08-14T03:58:23Z</timestamp>
+      <contributor>
+        <username>Alaney2k</username>
+        <id>209266</id>
+      </contributor>
+      <minor/>
+      <comment>US =&gt; Americans using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9304">{{Use mdy dates|date=October 2013}}
+{{Infobox comics creator
+| name          = Harry Conway "Bud" Fisher
+| image         = Bud Fisher 1915 (cropped).jpg
+| caption       = Fisher in 1915
+| alt           = 
+| birth_name    = Harry Conway Fisher
+| birth_date    = {{birth date|1885|4|3}}
+| birth_place   = [[Chicago, Illinois]]
+| death_date    = {{death date and age|1954|9|7|1885|4|3}}
+| death_place   = [[New York City]]
+| nationality   = [[Americans|American]]
+| notable works = ''[[Mutt and Jeff]]''
+| spouse = {{Marriage|Pauline Margaret Welch|1912|1917|end=divorce}}&lt;br /&gt;{{marriage|Aedita de Beaumont|1925|1925|end=separated}}
+}}
+'''Harry Conway''' "'''Bud'''" '''Fisher''' (April 3, 1885 – September 7, 1954) was an American [[cartoonist]] who created ''[[Mutt and Jeff]]'', the first successful daily [[comic strip]] in the United States.
+
+==Early life==
+Born in [[Chicago, Illinois]], the son of a merchant, Fisher attended public high school and then studied for three years at the [[University of Chicago]].&lt;ref name=nytimesobit /&gt; After a short-lived attempt at [[prizefighting]], he began painting comic signs and for window displays before becoming a layout person in the production department of the ''[[San Francisco Chronicle]]'', where he soon became a cartoonist.&lt;ref name=nytimesobit /&gt;
+
+He introduced ''A. Mutt'', the comic strip that would be better known by its later title, ''Mutt and Jeff'', on November 15, 1907, on the sports pages of the ''[[San Francisco Chronicle]]''. The featured character had previously appeared in sports cartoons by Fisher, but was unnamed. Fisher had approached his editor, [[John P. Young]], about doing a regular strip as early as 1905, but was turned down. According to Fisher, Young told him, "It would take up too much room, and readers are used to reading down the page, and not horizontally."&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=sb374j7kI1sC&amp;pg=PA37&amp;lpg=PA37&amp;dq=%22It+would+take+up+too+much+room,+and+readers+are+used+to+reading+down+the+page,+and+not+horizontally%22&amp;source=bl&amp;ots=kFpQT7Aroa&amp;sig=Wdhv-4FO6muIZEUAZeI3y6jj7Z8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwji0Zb3qbrYAhWPUN8KHfs3ACsQ6AEIJjAA#v=onepage&amp;q=%22It%20would%20take%20up%20too%20much%20room%2C%20and%20readers%20are%20used%20to%20reading%20down%20the%20page%2C%20and%20not%20horizontally%22&amp;f=false| title=The Art of the Funnies: An Aesthetic History|authorlink=Robert C. Harvey|first=Robert C.|last= Harvey|chapter=Thematic Choruses of Bud Fisher and George McManus|page= 37| publisher=[[University Press of Mississippi]]|year=1994|isbn=978-0878056743}}&lt;/ref&gt; During this time, newspaper cartoons appeared in a single-panel format. Fisher innovated by telling a cartoon gag in a sequence, or strip, of panels, creating the first American comic strip to successfully pioneer that since-common format. The concept of a newspaper strip featuring recurring characters in multiple panels on a six-day-a-week schedule actually had been created by [[Clare Briggs]] with ''[[A. Piker Clerk]]'' four years earlier, but that short-lived effort did not inspire further comics in a comic-strip format. As comics historian [[Don Markstein]] explained,
+{{quote|Fisher's comic strip was very similar to ''A. Piker Clerk'', which cartoonist Clare Briggs ... had done in the very same daily format for ''[[The Chicago American]]'' in 1903. But tho Fisher was born in Chicago, it's unknown whether or not he ever saw the Briggs strip, so let's give him the benefit of the doubt and say he had an idea. Despite the Briggs primacy, ''A. Mutt'' is considered the first daily strip because it's the one that sparked a trend in that direction, which continues to this day.&lt;ref name=toonopedia-fisher&gt;[http://www.toonopedia.com/fishrbud.htm "Bud Fisher] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66fuotIkg?url=http://www.toonopedia.com/fishrbud.htm Archived] from the original on April 4, 2012.&lt;/ref&gt;}}
+
+==''Mutt and Jeff''==
+''[[Mutt and Jeff]]'' gained such popularity that Fisher, who was able to claim [[copyright]] to the characters, received an offer to produce it for the ''[[San Francisco Examiner]]'', owned by [[William Randolph Hearst]]. The move to the [[Hearst Corporation]] chain exposed the strip to a multitude of new readers across the United States.
+
+[[File:Bud Fisher as seen by himself.jpg|thumb|250px]]
+In 1911, [[Nestor Studios]] of [[New Jersey]] acquired the right to make ''Mutt and Jeff'' [[Short subject|short film]] comedies, after which Fisher decided he could make more money controlling film production himself. In 1913, he created the Bud Fisher Film Corporation and signed a deal with [[Pathé Frères|American Pathé]]. They made 36 ''Mutt and Jeff'' short comedies in 1913, but production ceased for two years when Fisher's copyright was challenged. Once the courts upheld Fisher's copyright claim, the comic strip was syndicated nationwide, and between 1916 and 1926, his film production company created another 277 ''Mutt and Jeff'' film productions. On these film projects, Fisher is almost exclusively credited as the writer, animator and director, although the majority of animation was by [[Raoul Barré]] and [[Charles Bowers]], and often the plots were adaptations of popular stories and fairy tales, such as A Kick for Cinderella (1925).&lt;ref&gt;[https://governmentcheese.ca/~governme/writings/12-fairy-tale-flappers-animated-adaptations-of-little-red-and-cinderella-1922-1925 Fairy Tale Flappers: Animated Adaptations of Little Red and Cinderella (1922–1925)]&lt;/ref&gt;
+
+''Mutt and Jeff'' was also published in comic book form. The income from multiple uses of his characters made Fisher a wealthy man. In 1932, he authorized [[Al Smith (cartoonist)|Al Smith]] to produce the strip under his supervision. Smith drew ''Mutt and Jeff'' for 48 years. When Fisher died in 1954, Smith began signing his own name and continued to draw the strip until 1980 when George Breisacher took over for its final two years.
+
+==Personal life==
+On April 20, 1912, Fisher eloped with Pauline Margaret Welch, a vaudeville actress from [[Baltimore]].&lt;ref&gt;{{cite news|title="Bud" Fisher Marries Via Elopement Route|url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1912-04-22/ed-1/seq-9/|accessdate=October 5, 2015|work=[[The San Francisco Call]]|date=April 22, 1912|location=San Francisco, California|page=7|archivedate=June 25, 2017|archiveurl= https://web.archive.org/web/20170625174422/https://chroniclingamerica.loc.gov/lccn/sn85066387/1912-04-22/ed-1/seq-9.pdf| deadurl=no}}&lt;/ref&gt; They were divorced in 1917.&lt;ref&gt;{{cite news|title=Mutt and Jeff must dig down for $25,000|url= http://chroniclingamerica.loc.gov/lccn/sn88086023/1917-03-03/ed-1/seq-4/|accessdate=5 October 2015|work=[[East Oregonian]]|date=March 3, 1917|location=Pendleton, Oregon|page= 4|archivedate=June 29, 2017|archiveurl= https://web.archive.org/web/20170629091746/http://chroniclingamerica.loc.gov/lccn/sn88086023/1917-03-03/ed-1/seq-4.pdf|deadurl=no}}&lt;/ref&gt;
+
+On October 25, 1925, Fisher married Aedita de Beaumont, former wife of Count François de Beaumont. The couple parted after four weeks&lt;ref&gt;{{cite news|title=Private Lives|work=[[Life (magazine)|Life]]|date=December 28, 1936| page= 62}}&lt;/ref&gt; but never divorced. After Fisher's death, ownership of the strip passed to Aedita de Beaumont, and on her death in 1985 to her son from her earlier marriage, [[Pierre de Beaumont]] (1915–2010).&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2011/03/19/business/19beaumont.html?_r=1&amp;ref=obituaries |last=Fox|first =Margalit|title=Pierre de Beaumont, Brookstone Founder, Dies at 95|work=[[The New York Times]]|date= March 18, 2011}}&lt;/ref&gt;
+
+Fisher acquired a large stable of [[Thoroughbred]] [[horse racing|racehorses]]. In 1924, his horse [[Nellie Morse]] became the fourth [[filly]] (out of only five total as of 2009) to win the [[Preakness Stakes]]. That same year, his colt Mr. Mutt finished second in the [[Belmont Stakes]].
+
+Fisher died September 7, 1954, of cancer at age 69, at [[Roosevelt Hospital]] in New York City. He lived at the time at 383 [[Park Avenue]].&lt;ref name=nytimesobit&gt;{{cite news|url=https://www.nytimes.com/1954/09/08/archives/harry-c-bud-fisher-creator-of-mutt-and-jeff-is-deadat-69-he-began.html|title= Harry C. (Bud) Fisher, Creator Of 'Mutt and Jeff,' Is Dead at 69; He Began Famous Comic Strip 'Early in Century--Owned 'String of Thoroughbreds| work=The New York Times|date=September 8, 1954}} (abstract) {{subscription}}&lt;/ref&gt; and was buried in the [[Woodlawn Cemetery, Bronx|Woodlawn Cemetery]] in [[The Bronx, New York City]].
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[http://www.thoroughbredtimes.com/tc99/history/hoofprints/1923/belmont/default.asp Mr. Mutt and the Belmont Stakes]
+*[https://web.archive.org/web/20070312081804/http://www.kyhorsepark.com/imh/cal/cal2.html International Museum of the Horse]
+*{{Find a Grave|4149}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fisher, Bud}}
+[[Category:1885 births]]
+[[Category:1954 deaths]]
+[[Category:American comics artists]]
+[[Category:American comic strip cartoonists]]
+[[Category:American film directors]]
+[[Category:American film producers]]
+[[Category:American racehorse owners and breeders]]
+[[Category:Burials at Woodlawn Cemetery (Bronx)]]
+[[Category:Artists from Chicago]]</text>
+      <sha1>slw25p7pg919ru76bsxyj7a2rorjb9y</sha1>
+    </revision>
+  </page>
+</mediawiki>

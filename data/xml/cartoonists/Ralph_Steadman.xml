@@ -1,0 +1,194 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ralph Steadman</title>
+    <ns>0</ns>
+    <id>761212</id>
+    <revision>
+      <id>852461689</id>
+      <parentid>849697282</parentid>
+      <timestamp>2018-07-29T04:13:14Z</timestamp>
+      <contributor>
+        <username>Starless~enwiki</username>
+        <id>551081</id>
+      </contributor>
+      <minor/>
+      <comment>corrected nationality</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13705">{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox artist
+| bgcolour      =
+| name          = Ralph Steadman
+| image         = Me and Ralph Steadman.jpg
+| caption       = Steadman in 2006
+| birth_date    = {{birth date and age|df=yes|1936|5|15}}
+| birth_place   = [[Wallasey]], [[Merseyside]], England
+| nationality   = British
+| field         = Painting, drawing, caricatures, cartoons
+| website       = {{official URL}}
+}}
+'''Ralph Steadman''' (born 15 May 1936) is a Welsh illustrator best known for collaboration with the American writer [[Hunter S. Thompson]], his close friend.&lt;ref&gt;Dubner, Stephen J. [http://www.freakonomics.com/2008/06/12/ralph-steadman-answers-your-questions/ Ralph Steadman Answers Your Questions] ''Freakonomics Blog''. 12 June 2008.&lt;/ref&gt;
+
+==Personal life==
+
+Steadman was born in [[Wallasey]], Cheshire, and brought up in [[Abergele]], [[North Wales]]. From a [[lower middle class]] background, his father was a commercial traveller and his mother was a shop assistant at [[T J Hughes]] in Liverpool.&lt;ref name="Rationalist"&gt;{{cite web | url=http://rationalist.org.uk/736 | title=Laurie Taylor's interviews: Learning to fly: Laurie Taylor interviews Ralph Steadman | publisher=The Rationalist Association | date=31 May 2007 | accessdate=28 April 2014 | author=Taylor, Laurie}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=In the spotlight: Ralph Steadman|url=http://www.northwalesweeklynews.co.uk/conwy-county-news/local-conwy-news/2012/02/02/in-the-spotlight-ralph-steadman-55243-30245712/|newspaper=[[North Wales Weekly News]]|date=2 February 2012}}&lt;/ref&gt; Steadman attended [[East Ham Technical College]] and the [[London College of Printing]] during the 1960s, doing freelance work for ''[[Punch (magazine)|Punch]]'', ''[[Private Eye]]'', the ''[[The Daily Telegraph|Daily Telegraph]],'' ''[[The New York Times]]'' and ''[[Rolling Stone]]'' during this time. He is a patron of the [[Association of Illustrators]].&lt;ref&gt;{{Cite web|url=http://www.theaoi.com/about.php|title=The Association of Illustrators|last=|first=|date=|website=|publisher=|access-date=|deadurl=yes|archiveurl=https://web.archive.org/web/20160712103223/http://www.theaoi.com/about.php|archivedate=12 July 2016|df=dmy-all}}&lt;/ref&gt; Steadman currently lives with his wife in Kent, England.
+
+==Career==
+Steadman is renowned for his political and social caricatures, cartoons and picture books. Awards that he has won for his work include the Francis Williams Book Illustration Award for ''[[Alice's Adventures in Wonderland|Alice in Wonderland]]'', the American Society of Illustrators' Certificate of Merit, the [[W H Smith#Awards and prizes|W H Smith Illustration Award]] for ''I Leonardo'', the Dutch Silver Paintbrush Award for ''Inspector Mouse'', the Italian Critica in Erba Prize for ''That's My Dad'', the BBC Design Award for postage stamps, the Black Humour Award in France, and several Designers and Art Directors Association Awards. He was voted Illustrator of the Year by the [[AIGA|American Institute of Graphic Arts]] in 1979.
+
+[[File:WHERE BUFFALO QD.JPG|thumb|left|250px|Steadman's film poster for ''[[Where the Buffalo Roam]]''.]]
+Steadman had a long partnership with the American journalist [[Hunter S. Thompson]], drawing pictures for several of his articles and books.&lt;ref&gt;{{cite news |first=Kevin|last=Perry |title=Ralph Steadman interview about ''The Joke's Over'' |url=http://thebeaverdialogues.blogspot.com/2007/10/interview-ralph-steadman.html |publisher=[[The Beaver]] |date=3 October 2006 | location=London}}&lt;/ref&gt;&lt;ref&gt;[https://www.nytimes.com/1998/05/03/movies/summer-movies-on-filming-a-gonzo-vision-a-gonzo-dialogue.html SUMMER MOVIES; On Filming a Gonzo Vision: A Gonzo Dialogue]. ''The New York Times''. 3 May 1998.&lt;/ref&gt; He accompanied Thompson to the [[Kentucky Derby]] [[The Kentucky Derby Is Decadent and Depraved|for an article]] for the magazine ''[[Scanlan's Monthly|Scanlan's]]'', to the [[Honolulu Marathon]] [[The Curse of Lono|for the magazine ''Running'']], and illustrated both ''[[Fear and Loathing in Las Vegas]]'' and ''[[Fear and Loathing on the Campaign Trail '72]].'' 
+
+Steadman has expressed regret at selling the original illustrations for ''Fear and Loathing in Las Vegas'' at the advice of his agent to ''Rolling Stone'' founder [[Jann Wenner]] for the sum of $75, a fraction of their significant value. As a result of that transaction Steadman has largely refused to sell any of his original artwork and has been quoted as saying "If anyone owns a Steadman original, it's stolen." While there are original pieces held outside of his archive, they are exceedingly rare. The artist has kept possession of the vast bulk of his original artwork.
+
+Steadman appears on the second disc of [[The Criterion Collection]] ''[[Fear and Loathing in Las Vegas (film)|Fear and Loathing in Las Vegas]]'' DVD set, in a documentary called ''[[Fear and Loathing on the Road to Hollywood|Fear and Loathing in Gonzovision]]'', which was made by the BBC in 1978, of Thompson planning the tower and cannon that his ashes were later blasted out of. The cannon was atop a 153-ft. tower of Thompson's fist gripping a peyote button; Thompson demands that Steadman gives the fist two thumbs, "Right now."
+
+As well as writing and illustrating his own books and Thompson's, Steadman has worked with writers including [[Ted Hughes]], Adrian Mitchell and [[Brian Patten]], and also illustrated editions of ''[[Alice's Adventures in Wonderland|Alice in Wonderland]]'', ''[[Treasure Island]]'', ''[[Animal Farm]]'', the English translation of Flann O'Brien's Gaelic-language classic ''[[The Poor Mouth]]'', and most recently, ''[[Fahrenheit 451]]''.
+
+Among the British public, Steadman is well known for his illustrations for the catalogues of the [[off-licence]] chain [[Oddbins]] and he designed a set of four British postage stamps to commemorate the appearance of [[Halley's Comet]] in 1985. He also designed the labels for [[Flying Dog Brewery|Flying Dog]] beer and Cardinal "Spiced" Zin' wine, which was banned in Ohio for Steadman's "disturbing" interpretation of a Catholic cardinal on its label{{citation needed|date=May 2015}}.
+
+Steadman also illustrated [[Will Self]]'s column in ''[[The Independent]]'' newspaper. [[Hal Willner]] and [[Johnny Depp]]'s anthology of songs, ''[[Rogue's Gallery: Pirate Ballads, Sea Songs, and Chanteys]]'' (2006) contains two contributions from Steadman; he sings lead on "Little Boy Billee", and sings backing vocals on [[Eliza Carthy]]'s song "Rolling Sea".
+
+He has also drawn covers for numerous music artists, including [[the Who]], [[Exodus (American band)|Exodus]], [[Frank Zappa]] and [[Ambrosia (band)|Ambrosia]],&lt;ref&gt;{{cite web |url=http://rateyourmusic.com/list/monocle/the_album_art_of_ralph_steadman/|date=1 May 2015 |accessdate=1 May 2015|work=rateyourmusic.com|title=
+The Album Art of Ralph Steadman}}&lt;/ref&gt; and the lead banner for the [[gonzo journalism]] website GonzoToday.com.&lt;ref&gt;http://www.gonzotoday.com&lt;/ref&gt;
+
+In 2011, Steadman began running prose and poetry in ''Kotori Magazine''.&lt;ref&gt;Steadman's Author page at Kotori http://www.kotorimagazine.com/author/steadman&lt;/ref&gt;
+
+He also contributed to the [[BirdLife International]]'s Preventing Extinctions programme with an image of [[critically endangered]] [[northern bald ibis]].&lt;ref&gt;Ralph Steadman's view on Northern Bald Ibis http://northernbaldibis.blogspot.com/2012/02/artists-view-on-nbi.html&lt;/ref&gt;
+
+In 2017 Steadman penned the artwork for [[Travis Scott]] and [[Quavo]]'s joint project ''[[Huncho Jack, Jack Huncho]]''.&lt;ref&gt;https://pitchfork.com/news/travis-scott-and-quavos-new-album-art-made-by-famed-illustrator-ralph-steadman&lt;/ref&gt;
+
+Steadman is a member of the [[Chelsea Arts Club]].&lt;ref name="chelseasecretaryresigns"&gt;{{cite news|title=Chelsea Arts Club secretary signs off with ‘lunatic’ plea|url=https://www.standard.co.uk/news/londoners-diary/chelsea-arts-club-secretary-signs-off-with-lunatic-plea-8455702.html|accessdate=15 February 2017|work=London Evening Standard|date=January 17, 2013}}&lt;/ref&gt;
+
+===Film documentary===
+
+A major documentary about Steadman's career, ''[[For No Good Reason]]'', directed by Charlie Paul, played at the [[2013 Toronto International Film Festival]] in the "Mavericks" programme.&lt;ref&gt;{{cite web|url=//tiff.net/filmsandschedules/festival/2013/fornogoodreason |title=For No Good Reason |publisher=Toronto International Film Festival |date=2013 |accessdate=16 January 2014 |archiveurl=https://web.archive.org/web/20140117035401/http://tiff.net/filmsandschedules/festival/2013/fornogoodreason |archivedate=17 January 2014 |deadurl=yes }}&lt;/ref&gt; The film, reportedly 15 years in the making, played in New York City and Los Angeles in December 2013, and was given US domestic release in spring 2014.&lt;ref&gt;{{cite web |url=http://themoviebox.net/4088 |date=16 December 2013 |accessdate=16 January 2014 |work=themoviebox.net |title="For No Good Reason" Trailer – New Documentary on Celebrated Illustrator/Cartoonist Ralph Steadman}}&lt;/ref&gt; The film was in competition for the Grierson Award for Best Documentary at the [[2012 BFI London Film Festival Awards|2012 BFI London Film Festival]].&lt;ref&gt;{{cite web |url=http://www.bfi.org.uk/news/helena-bonham-carter-tim-burton-receive-bfi-fellowships |date=2012 |accessdate=16 January 2014 |title=Helena Bonham Carter and Tim Burton to receive BFI Fellowship |agency=BFI Press}}&lt;/ref&gt;
+
+== Selected works ==
+{{colbegin}}
+* ''The Little Red Computer'' (1968)
+* "[[The Kentucky Derby Is Decadent and Depraved]]" (1970) (written by [[Hunter S. Thompson]])
+* ''[[Fear and Loathing in Las Vegas]]'' (1971) (written by Hunter S. Thompson)
+* ''Two Donkeys and a Bridge'' (1972)
+* ''[[Fear and Loathing on the Campaign Trail '72]]'' (1973) (written by Hunter S. Thompson)
+* ''America'' (1974)
+* ''Cherrywood Cannon'', based on a story told by Dmitri Sidjanski, Paddington Press (1978)
+* ''Emergency Mouse'' (1978) (written by [[Bernard Stone]])
+* ''[[The Curse of Lono]]'' (1983) (written by Hunter S. Thompson)
+* ''Inspector Mouse'' (1980) (written by Bernard Stone)
+* ''I Leonardo'' (1983)
+* ''No Good Dogs'' (1983)
+* ''Quasimodo Mouse'' (1984) (written by Bernard Stone)
+* ''[[Treasure Island]]'' (1985) (written by [[Robert Louis Stevenson]])
+* ''That's My Dad'' (1986)
+* ''The Complete Alice'' (1986) (''[[Through the Looking-Glass]]'' and ''[[The Hunting of the Snark]]'', written by [[Lewis Carroll]])
+* ''[[Withnail and I]]'' (1987)
+* ''The Crazy Never Die!'' by Mitchell Brothers Film Group (1988)
+* ''[[The Big I Am]]'' (1988)
+* ''No Room to Swing a Cat'' (1989)
+* ''Near the Bone'' (1990)
+* ''Tales of the Weirrd'' (1990)
+* ''The Grapes of Ralph: Wine according to Ralph Steadman'' (1992)
+* ''Still Life with Bottle: Whisky according to Ralph Steadman'' (1994)
+* ''Teddy! Where Are You?'' (1995)
+* ''[[Animal Farm]]'' (1995) (written by [[George Orwell]])
+* ''The Poor Mouth'' (1996) – English translation of the 1941 novel ''[[An Béal Bocht]]''
+* ''Heart on the Left'' (1997)
+* ''[[Have I Offended Someone?]]'' (1997) ([[Frank Zappa]] compilation)
+* ''Sigmund Freud'' (1997)
+* ''Gonzo: The Art of Ralph Steadman'' (1998); also known as ''Gonzo the Art''
+* "Doodaaa: The Balletic Art of Gavin Twinge" (Bloomsbury, 2002)
+* ''[[The Devil's Dictionary]]'' (2004) (written by [[Ambrose Bierce]])
+* ''[[Psychogeography]]'' (2007) (written by [[Will Self]])
+* ''Garibaldi's Biscuits'' (2008)
+* ''[[Slash (album)|Slash]]'' (2010) (album by [[Slash (musician)|Slash]])
+* ''Little.com'' (2014)
+* "Extinct Boids" (2012)
+* "Proud Too Be Weirrd" (2013)
+* "Nextinction" (2014)
+* ''[[Huncho Jack, Jack Huncho]]'' (2017) ([[Travis Scott]] and [[Quavo]] album)
+{{colend}}
+
+=== Autobiographical writings===
+* ''Between the Eyes'' (1984)
+* ''[[The Joke's Over]]: Bruised Memories—Gonzo, Hunter S. Thompson, and Me'' (2006)
+
+==References==
+{{reflist |25em}}
+
+==External links==
+{{wikiquote}}
+* {{Official website}}
+* {{IMDb name|1358516}}
+* [http://www.cartoons.ac.uk/artists/ralphsteadman/biography Biography] at [[British Cartoon Archive]]
+* {{cite web |url= http://www.saveur.com/article/Kitchen/Chateau-Steadman |title= Chateau Steadman |date= July 20, 2001 |first= Roy |last= Brady |publisher= Saveur |quote= Review of Steadman's catalogues for Oddbins }}
+* {{cite web |url= http://www.spikemagazine.com/0905-ralph-steadman-hunter-thompson.php |publisher= Spike magazine |title= Ralph Steadman: Gonzo: The Art |date= Sep 1, 2005 |first= Craig |last= Johnson }}
+*{{cite web |url= http://flyingdogales.com/ralph-steadman-art/ |title= Ralph Steadman Art |publisher= Flying Dog Ales |date= Aug 18, 2007 |deadurl= yes |archiveurl= https://web.archive.org/web/20150928225507/http://flyingdogales.com/ralph-steadman-art/ |archivedate= 28 September 2015 |df= dmy-all }}
+** [https://www.flickr.com/photos/flyingdog/with/508237588/ at Flickr]
+* {{cite web |url= http://newhumanist.org.uk/736 |title= Laurie Taylor interviews Ralph Steadman |date= May 31, 2007 |first= Laurie |last= Taylor |publisher= New Humanist }}
+* {{cite web |url= http://kotorimagazine.com/index.php?news=3830 |title= Ralph Steadman : The Kotori Interview |first= Jake |last= McGee |publisher= Kotori Magazine |date= Nov 29, 2007}}
+* {{LCAuth|n79043488|Ralph Steadman|78|ue}}
+
+{{Hunter S. Thompson}}
+{{Society of Illustrators' Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:Steadman, Ralph}}
+[[Category:1936 births]]
+[[Category:British caricaturists]]
+[[Category:British illustrators]]
+[[Category:Hunter S. Thompson]]
+[[Category:Living people]]
+[[Category:People from Wallasey]]
+[[Category:Private Eye contributors]]
+[[Category:British stamp designers|Steadman]]
+[[Category:Welsh cartoonists]]
+[[Category:Welsh illustrators]]</text>
+      <sha1>9jy26ch8khhbbqi8khhk5pqtvbm1khn</sha1>
+    </revision>
+  </page>
+</mediawiki>

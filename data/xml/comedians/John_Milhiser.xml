@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Milhiser</title>
+    <ns>0</ns>
+    <id>40530932</id>
+    <revision>
+      <id>854134324</id>
+      <parentid>835639148</parentid>
+      <timestamp>2018-08-09T05:38:28Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5315">{{Infobox person
+| name                    =John Milhiser
+| image                   =John Milhiser, Peoples Improv Theater, 2011.png
+| caption                 = Milhiser performing at the [[Peoples Improv Theater]] in 2011
+| alt                     = A grinning man in front of a faux-brick wall wears a purple shirt under a black apron while leaning with his right arm on a low table
+| birthname               =
+| birth_date              = {{Birth date and age|1981|11|29|mf=yes}}&lt;ref name="nbc"&gt;{{cite web|url=http://www.nbc.com/saturday-night-live/about/bio/john-milhiser|title=John Milhiser - About - Saturday Night Live - NBC|work=[[NBC]]|accessdate=July 15, 2014}}&lt;/ref&gt;
+| birth_place             = [[Belle Mead, New Jersey]]
+| occupation              = Actor/Comedian
+| yearsactive             = 2005–present
+}}
+
+'''John Milhiser''' (born November 29, 1981)&lt;ref name="nbc"/&gt; is an [[Americans|American]] actor and comedian who was a cast member on ''[[Saturday Night Live]]'' for the [[Saturday Night Live (season 39)|2013–2014 season]].&lt;ref name=new&gt;{{cite web | last =Abramovich | first =Seth | title =Cheat Sheet: Get to Know the 5 New Faces of 'SNL' | work =The Live Feed | publisher =The Hollywood Reporter | date =11 September 2013 | url =http://www.hollywoodreporter.com/live-feed/saturday-night-live-get-know-625783 | accessdate = 7 October 2013}}&lt;/ref&gt;
+
+==Career==
+He has been a regular performer at the [[Upright Citizens Brigade Theater]] since 2005, where he was a member of the sketch comedy group Serious Lunch, who have been featured on ''[[Late Night with Jimmy Fallon]]'' and ''[[Attack of the Show]]''. Milhiser is a native of [[Belle Mead, New Jersey]] and he graduated from [[Montgomery High School (New Jersey)|Montgomery High School]] in [[Skillman, New Jersey]]. He later attended [[Hofstra University]], where he graduated in 2004 as a Film Studies and Production major&lt;ref&gt;{{cite web | last =Walter | first =Geoffrey | title =Hofstra Graduate Cast on New Season of 'SNL' | work =Bellmore Patch: News: Around Bellmore | publisher =Patch | date =17 September 2013 | url =http://bellmore.patch.com/groups/around-town/p/hofstra-graduate-cast-on-new-season-of-snl | accessdate = 7 October 2013}}&lt;/ref&gt; and was a member of [[Sigma Pi]] fraternity.&lt;ref&gt;{{cite web |title =Notable Alumni - Sigma Pi Fraternity|publisher =Sigma Pi Fraternity| url =https://sigmapi.org/notable-alumni/}}&lt;/ref&gt;
+
+Milhiser made his debut on ''[[Saturday Night Live]]'' on the September 28, 2013 season premiere hosted by [[Tina Fey]] with musical guest [[Arcade Fire]]. His celebrity impressions included [[Jon Cryer]], [[Matthew McConaughey]], [[Verne Troyer]] (as Mini-Me from the ''Austin Powers'' movies), [[Justin Timberlake]], and [[Billie Joe Armstrong]]. On July 15, 2014, it was announced that Milhiser's contract with ''SNL'' was not renewed and he would not be returning as a cast member.&lt;ref name="avclub"&gt;{{Cite news |url=http://www.avclub.com/article/noel-wells-and-john-milhiser-are-also-leaving-satu-206958 |title=Noël Wells and John Milhiser Are Also Leaving ''Saturday Night Live'' |last=O'Neal |first=Sean |date=July 15, 2014 |work=[[The A.V. Club]]|accessdate=July 19, 2014}}&lt;/ref&gt;
+
+In 2014, Milhiser appeared in a supporting role in the indie film ''[[Camp Takota]]'' starring comedians [[Grace Helbig]], [[Hannah Hart]] and [[Mamrie Hart]]. He has also made guest appearances on television programs such as ''[[Adam Ruins Everything]]'', ''[[2 Broke Girls]]'', [[Love (TV series)|Netflix Original Series ''Love'']], and ''[[Other Space]]''.
+
+==Personal life==
+{{expand section|date=March 2018}}
+Milhiser is ''[[Saturday Night Live]]''{{'}}s second openly [[homosexuality|gay]] male cast member (after [[Terry Sweeney]]);&lt;ref name="tweet"&gt;{{cite web|url=https://twitter.com/JohnMilhiser/status/974796109775216640|title=John Milhiser on Twitter: &amp;quot;Hey, @thedailybeast I’m pretty sure that I was out and proud as a gay man when I was an SNL cast member for a hot sec. 2nd after Terry.  There should be more though.  Go see @lovesimonmovie !!! :)&amp;quot;|work=[[Twitter]]|last=Milhiser|first=John|date=March 16, 2018|accessdate=March 23, 2018}}&lt;/ref&gt; as well as the fourth [[LGBT]] cast member overall (along with [[Danitra Vance]] and [[Kate McKinnon]]).&lt;ref name="advocate"&gt;{{cite web|url=https://www.advocate.com/comedy/2016/8/22/brief-lgbt-history-saturday-night-live?pg=full|title=A Brief LGBT History of 'Saturday Night Live'|work=[[The Advocate]]|publisher=[[Here Media]]|last=Pierce|first=Robbie X|date=August 22, 2016|accessdate=March 23, 2018}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|2275887}}
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Milhiser, John}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:21st-century American male actors]]
+[[Category:American male television actors]]
+[[Category:American impressionists (entertainers)]]
+[[Category:American sketch comedians]]
+[[Category:Gay actors]]
+[[Category:Hofstra University alumni]]
+[[Category:LGBT comedians]]
+[[Category:LGBT entertainers from the United States]]
+[[Category:LGBT people from New Jersey]]
+[[Category:Male actors from New Jersey]]
+[[Category:People from Montgomery Township, New Jersey]]
+[[Category:Upright Citizens Brigade Theater performers]]
+
+
+{{US-comedian-stub}}</text>
+      <sha1>8c4r6745h0h60865fsy03lbd5420t0n</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,83 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tom Cheney (cartoonist)</title>
+    <ns>0</ns>
+    <id>2045354</id>
+    <revision>
+      <id>837985344</id>
+      <parentid>837985161</parentid>
+      <timestamp>2018-04-24T06:37:11Z</timestamp>
+      <contributor>
+        <ip>72.234.20.60</ip>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2295">{{About|the cartoonist|the baseball player|Tom Cheney (baseball player)}}
+{{BLP sources|date=July 2011}}
+'''Tom Cheney''' (born 1954) is an American cartoonist.&lt;ref&gt;{{cite web |url=http://lambiek.net/artists/c/cheney_tom.htm |title=Tom Cheney |publisher=[[Lambiek]] |accessdate=4 August 2011}}&lt;/ref&gt; He was born in [[Norfolk, Virginia]] and grew up in Saranac Lake, NY, and later in Watertown, New York. He attended Watertown High School (class of '72), Jefferson Community College (class of '74), and graduated from the State University of New York at Potsdam in 1976 with a BA in psychology. A contributing artist to ''[[The New Yorker]]'' for 40 years, his work has also appeared in over 500 other publications in the United States and other countries, including Esquire, ''[[National Lampoon (magazine)|National Lampoon]]'', ''[[Harvard Business Review|The Harvard Business Review]]'', ''[[Mad Magazine]]'',  ''[[Penthouse magazine|Penthouse]]'',  ''[[The Wall Street Journal]]'', ''[[Punch magazine|Punch]]'', ''[[Barron's Magazine]]'', Hustler Magazine, and the "Commies From Mars" comic book series. Tom was the 1985 winner of the Charles M. Schulz Outstanding Cartoonist Award for his work in magazine cartooning, and his cartoons have been spotlighted on ABC Nightline, CNN, CBS 60 Minutes, and NBC News. Originals of his work are on permanent display at the [[National Cartoon Museum|Museum of Cartoon Art]], the [[New-York Historical Society]], and the [[United Nations]], as well as in numerous private collections. He and his wife Cynthia live on the island of [[Kauai]], one of the [[Hawaiian islands]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://madcoversite.com/ugoi-tom_cheney.html Complete list of Cheney's work for MAD Magazine]
+*[http://www.condenaststore.com/-st/Tom-Cheney-Cartoons-Prints_c146282_.htm Tom Cheney at the Cartoon Bank]
+* http://www.nobleworksinc.com/nsearch.html?vwcatalog=yhst-130756708828791&amp;query=tom+cheney&amp;x=0&amp;y=0
+https://www.instagram.com/tomcheney54/
+{{DEFAULTSORT:Cheney, Tom}}
+[[Category:American comics writers]]
+[[Category:The New Yorker cartoonists]]
+[[Category:1954 births]]
+[[Category:Artists from Norfolk, Virginia]]
+[[Category:Living people]]
+[[Category:The Magazine of Fantasy &amp; Science Fiction people]]
+
+{{US-cartoonist-stub}}</text>
+      <sha1>ovz9fl4buc1kfeat8dl1844bfqs458d</sha1>
+    </revision>
+  </page>
+</mediawiki>

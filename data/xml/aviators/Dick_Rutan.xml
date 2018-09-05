@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dick Rutan</title>
+    <ns>0</ns>
+    <id>653034</id>
+    <revision>
+      <id>855831453</id>
+      <parentid>855818062</parentid>
+      <timestamp>2018-08-21T04:08:15Z</timestamp>
+      <contributor>
+        <username>Magic links bot</username>
+        <id>30707369</id>
+      </contributor>
+      <minor/>
+      <comment>Replace [[Help:Magic links|magic links]] with templates per [[Special:Permalink/772743896#Future of magic links|local RfC]] and [[:mw:Requests for comment/Future of magic links|MediaWiki RfC]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12285">{{Infobox person
+| name = Dick Rutan
+| honorific_prefix = 
+| honorific_suffix = 
+| image = DickRutan.jpeg
+| image_size = 
+| alt = 
+| caption = Rutan standing next to the engine of the [[XCOR EZ-Rocket]] in 2001
+| birth_name = 
+| birth_date = {{birth date and age|1938|07|01}}
+| birth_place = [[Loma Linda, California]]
+| death_date = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) --&gt;
+| death_place = 
+| body_discovered = 
+| death_cause = 
+| resting_place = 
+| resting_place_coordinates = &lt;!-- {{coord|LAT|LONG|display=inline,title}} --&gt;
+| monuments = 
+| residence = 
+| nationality = [[Americans|American]]
+| ethnicity = 
+| citizenship = American
+| other_names = 
+| known_for = Record-breaking aviator
+| television = 
+| education = 
+| alma_mater = Reedley Junior College
+| employer = 
+| organization = 
+| notable_works = 
+| style = 
+| influences = 
+| influenced = 
+| agent = 
+| occupation = [[US Air Force|Air Force]] pilot, [[test pilot]]
+| years_active = 
+| home_town = 
+| salary = 
+| net_worth = 
+| height = 
+| weight = 
+| title = 
+| term = 
+| predecessor = 
+| successor = 
+| party = [[Republican Party (United States)|Republican]]
+| movement = 
+| opponents = 
+| boards = 
+| religion = 
+| criminal_charge = 
+| criminal_penalty = 
+| criminal_status = 
+| spouse = Geri Rutan (divorced) &lt;br&gt; Kris Rutan
+| partner = 
+| children = 2&lt;ref&gt;{{cite web|url=http://www.jillrutanhoffman.com/about-jill.html/|title=About Jill|website=Jill Rutan Hoffman|archive-url=https://web.archive.org/web/20131008053048/http://jillrutanhoffman.com/about-jill.html|archive-date=2013-10-08|dead-url=yes}}&lt;/ref&gt;
+| parents = George and Irene Goforth Rutan
+| relations = [[Burt Rutan]] &lt;br&gt; Nell Rutan
+| callsign = “Killer”&lt;ref name=Newman&gt;{{cite book|last1=Newman|first1=Rick|last2=Shepperd|first2=Don|last3=McCain|first3=John|title=Bury Us Upside Down: The Misty Pilots and the Secret Battle for the Ho Chi Minh Trail|date=2006|publisher=Presidio Press/Ballantine Books|location=New York|isbn=9780345465375|edition=1.|url=http://buryusupsidedown.com/index.htm|archive-url=https://web.archive.org/web/20060821025312/http://www.buryusupsidedown.com/index.htm|dead-url=yes|archive-date=2006-08-21|accessdate=28 July 2014}}&lt;/ref&gt; (USAF)
+KB6LQS (FCC)
+| awards = 
+| signature = 
+| signature_alt = 
+| website = &lt;!-- {{Url|www.example.com}} --&gt;
+| footnotes = 
+}}
+
+'''Richard Glenn "Dick" Rutan''' (born July 1, 1938) is a retired [[United States Air Force]] pilot and record-breaking [[aviator]] who piloted the [[Rutan Voyager|Voyager]] aircraft around the world non-stop with co-pilot [[Jeana Yeager]]. He was born in [[Loma Linda, California]], where he gained an interest in flight at a young age. He is the older brother of aerospace designer [[Burt Rutan]].
+
+== Career ==
+[[File:VoyagerAircraftAtNASM-common.jpg|right|250 px|thumb|The [[Rutan Voyager]], flown by Dick Rutan and [[Jeana Yeager]], designed by [[Burt Rutan]]]]
+
+===U.S. Air Force===
+He began his military career joining the [[United States Air Force|Air Force]] Aviation Cadet Program at age 19, later becoming an Air Force lieutenant. Rutan served during the [[Vietnam War]] as one of the founding members of the “Mistys” of [[416th Fighter Squadron#Vietnam War|Operation Commando Sabre]],&lt;ref name=Newman/&gt; pioneering the use of tactical jets as a “[[Forward air controllers in the Vietnam War#Fast FACs|FastFAC]]” (known as [[forward air control]]) for the FAC Airborne mission, which searched for and marked targets with [[white phosphorus]] rockets ahead of the strike package. He flew 325 missions but had to [[ejection seat|eject]] when his “Hun” [[F-100 Super Sabre]] aircraft was hit. Rutan had to eject a second time in his Air Force career when his aircraft suffered an engine failure over England.
+
+During his career with the Air Force, Rutan was awarded the [[Silver Star]], five [[Distinguished Flying Cross (USA)|Distinguished Flying Cross]]es, 16 [[Air Medal]]s, and a [[Purple Heart]]. He retired from the Air Force in 1978 with the rank of [[Lieutenant Colonel (United States)|lieutenant colonel]].&lt;ref&gt;{{cite web|url=http://www.dickrutan.com/biography.html|title=Biography|website=www.dickrutan.com}}&lt;/ref&gt;
+
+===Post military career===
+Rutan also acted as a [[test pilot]] throughout his career, flying multiple designs such as the [[Fairchild T-46]] in 1981 and the [[XCOR EZ-Rocket]] in 2001.
+
+From December 14 to December 23, 1986, Rutan flew with [[Jeana Yeager]] on the first unrefueled non-stop flight around the world in the [[Rutan Voyager]], a design by his brother Burt. The flight attracted world wide media coverage and set multiple records.
+
+In 1997, Dick Rutan and [[Mike Melvill]] flew two [[Rutan Long-EZ|Long-Eze]] aircraft that they built side-by-side around the world. This "around the world in 80 nights" flight was called The Spirit of [[Experimental Aircraft Association|EAA]] Friendship World Tour, and some legs of it lasted for over 14 hours.&lt;ref&gt;{{cite web|url=http://airportjournals.com/dick-rutan-the-frontiers-of-flight-the-last-great-world-record/|title=Dick Rutan The Frontiers of Flight – The Last Great World Record|date=10 October 2014|publisher=}}&lt;/ref&gt;
+
+==Campaign for congress==
+In 1992 Rutan ran as a conservative [[Republican Party (United States)|Republican]] against Democratic congressman [[George Brown, Jr.]] in California's 42nd congressional district; comprised mostly by the [[San Bernardino]] region of southern California and viewed as a ''swing district''. In the Republican primary, Rutan upset [[San Bernardino County, California|San Bernardino County]] Supervisor Rob Hammock, who had run a strong race against Brown in 1990. In the general election, Rutan ran on a platform that called for reforming congress and lowering taxes. Brown, first elected in 1962, was long known for surviving close elections and prevailed once more with 79,780 votes (50.7%) to Rutan's 69,251 (44%). Fritz Ward, a [[Libertarian Party (United States)|Libertarian]], received 8,424 votes or 5.3% of the vote.&lt;ref&gt;{{cite web|url=http://clerk.house.gov/member_info/electionInfo/1992/92Stat.htm#5|title=92 PRESIDENTIAL and CONGRESSIONAL ELECTION STATISTICS|website=clerk.house.gov}}&lt;/ref&gt;
+
+==Records==
+Besides the records Rutan set while flying ''Voyager'' (which consisted of multiple distance records, a speed record and being the first plane to fly non-stop and unrefueled around the world, more than doubling the old [[Flight distance record|distance record]] set by a [[Boeing B-52]] [[bomber]] in 1962),&lt;ref name=distance&gt;"[http://www.fai.org/fai-record-file/?recordId=8389 FAI Record ID #8389 - Distance] {{webarchive|url=https://web.archive.org/web/20150924045338/http://www.fai.org/fai-record-file/?recordId=8389 |date=2015-09-24 }}" ''[[Fédération Aéronautique Internationale]] (FAI).'' Retrieved: 14 September 2014.&lt;/ref&gt;&lt;ref name=distSpeed&gt;"[http://www.fai.org/fai-record-file/?recordId=10908 FAI Record ID #10908 - Speed around the world, non-stop and non-refuelled] {{Webarchive|url=https://web.archive.org/web/20150924043359/http://www.fai.org/fai-record-file/?recordId=10908 |date=2015-09-24 }}" ''[[Fédération Aéronautique Internationale]] (FAI).'' Retrieved: 14 September 2014.&lt;/ref&gt;&lt;ref name=distshort&gt;"[http://www.fai.org/fai-record-file/?recordId=13910 FAI Record ID #13910 - Distance] {{Webarchive|url=https://web.archive.org/web/20150924043549/http://www.fai.org/fai-record-file/?recordId=13910 |date=2015-09-24 }}" ''[[Fédération Aéronautique Internationale]] (FAI).'' Retrieved: 14 September 2014.&lt;/ref&gt; he has also set&lt;ref name=distance500&gt;"[http://www.fai.org/fai-record-file/?recordId=1898 FAI Record ID #1898 - Distance over a closed course] {{webarchive|url=https://web.archive.org/web/20150722070140/http://www.fai.org/fai-record-file/?recordId=1898 |date=2015-07-22 }}" ''[[Fédération Aéronautique Internationale]] (FAI).'' Retrieved: 14 September 2014.&lt;/ref&gt; a number in his personal [[Rutan Long-EZ|Long-EZ]], including:
+*[[Fédération Aéronautique Internationale|FAI]] class C1b distance over a closed course of 7,725.3&amp;nbsp;km at Mojave on December 15, 1979.&lt;ref name=faidb1&gt;[http://records.fai.org/general_aviation/current.asp?id1=18&amp;id2=1 FAI database]{{dead link|date=July 2014}}&lt;/ref&gt;
+*FAI class C1b distance of 7,344.56&amp;nbsp;km from [[Anchorage, Alaska]] to [[Grand Turk Island]] on June 5, 1981.&lt;ref name=faidb1/&gt;&lt;ref name=distanceEZ&gt;"[http://www.fai.org/fai-record-file/?recordId=1899 FAI Record ID #1899 - Distance, Anchorage - Grand Turk] {{Webarchive|url=https://web.archive.org/web/20160107142132/http://www.fai.org/fai-record-file/?recordId=1899 |date=2016-01-07 }}" ''[[Fédération Aéronautique Internationale]] (FAI).'' Retrieved: 14 September 2014.&lt;/ref&gt;&lt;!--search FAI by clicking Records, type in Rutan--&gt;
+
+==Awards and honors==
+
+===Military decorations and medals===
+*[[Silver Star]]
+*[[Distinguished Flying Cross (USA)|Distinguished Flying Cross]] with four [[oak leaf clusters]] (5 awards)
+*[[Air Medal]] with three silver oak leaf clusters (16 awards)
+*[[Purple Heart]]
+*[[National Defense Service Medal]]
+*[[Vietnam Campaign Medal]]
+*[[Air Force Longevity Service Ribbon]]
+*[[Republic of Vietnam Campaign Medal]]
+
+===Civilian awards===
+*1981 - [[Louis Bleriot]] Award - distance record&lt;ref name=fai2/&gt;
+*1986 - [[Presidential Citizens Medal]] from [[Ronald Reagan]] (with the rest of the [[Rutan Voyager|Voyager]] team: [[Jeana Yeager]] and [[Burt Rutan]]) 
+*1986 - [[Collier Trophy]] (with Voyager team)&lt;ref&gt;{{cite web|url=https://naa.aero/awards/awards-and-trophies/collier-trophy/collier-1980-1989-winners|title=Collier 1980-1989 Recipients - NAA: National Aeronautic Association|website=naa.aero}}&lt;/ref&gt;
+*1986 - [[De la Vaulx Medal]]
+*1987 - Louis Bleriot Award - around-the-world flight
+*1988 - [[Edward Longstreth Medal]] of the [[Franklin Institute]]&lt;ref name="LongstrethMedal_Laureates"&gt;{{cite web |url=http://www.fi.edu/winners/show_results.faw?gs=&amp;ln=&amp;fn=&amp;keyword=&amp;subject=&amp;award=LONG+&amp;sy=1987&amp;ey=1989&amp;name=Submit |title=Franklin Laureate Database - Edward Longstreth Medal 1988 Laureates |publisher=[[Franklin Institute]] |accessdate=November 21, 2011 |deadurl=yes |archiveurl=https://archive.is/20121210134944/http://www.fi.edu/winners/show_results.faw?gs=&amp;ln=&amp;fn=&amp;keyword=&amp;subject=&amp;award=LONG+&amp;sy=1987&amp;ey=1989&amp;name=Submit |archivedate=December 10, 2012 |df= }}&lt;/ref&gt;
+*2002 - [[National Aviation Hall of Fame]] inductee 
+*2005 - Louis Bleriot Award - longest point-to-point rocket plane flight ([[XCOR EZ-Rocket]])&lt;ref name=fai2&gt;[http://www.fai.org/awards/recipient.asp?id=26356 FAI records database]{{dead link|date=July 2014}}&lt;/ref&gt;
+*2011 - [[International Air &amp; Space Hall of Fame]] inductee at the [[San Diego Air &amp; Space Museum]]&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. {{ISBN|978-1-57864-397-4}}.&lt;/ref&gt;
+*2013 - [[Flying Magazine|''Flying'']] magazine ranked him (along with Jeana Yeager) No. 33 on their list of the 51 Heroes of Aviation&lt;ref&gt;{{cite web|url=http://www.flyingmag.com/photo-gallery/photos/51-heroes-aviation?pnid=41821|title=51 Heroes of Aviation|publisher=}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{worldcat id|id=lccn-n86-72090}}
+*[http://www.reagan.utexas.edu/archives/speeches/1986/122986a.htm ''Remarks on Presenting Presidential Citizens Medals to the Designer and Crew of the Voyager in Los Angeles, California - December 29, 1986'']
+
+{{Authority control}}
+{{Portal bar|Biography|United States Air Force}}
+
+{{DEFAULTSORT:Rutan, Dick}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:Amateur radio people]]
+[[Category:Aviators from California]]
+[[Category:United States Air Force officers]]
+[[Category:American military personnel of the Vietnam War]]
+[[Category:Recipients of the Air Medal]]
+[[Category:Recipients of the Distinguished Flying Cross (United States)]]
+[[Category:Recipients of the Silver Star]]
+[[Category:Collier Trophy recipients]]
+[[Category:Flight distance record holders]]
+[[Category:American test pilots]]
+[[Category:Presidential Citizens Medal recipients]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:People from Loma Linda, California]]
+[[Category:American aviation record holders]]</text>
+      <sha1>pziue2yyai4demddbmn22z3d5ub4gha</sha1>
+    </revision>
+  </page>
+</mediawiki>

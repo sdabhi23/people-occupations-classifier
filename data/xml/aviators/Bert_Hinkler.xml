@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bert Hinkler</title>
+    <ns>0</ns>
+    <id>673352</id>
+    <revision>
+      <id>852326213</id>
+      <parentid>801392130</parentid>
+      <timestamp>2018-07-28T05:12:55Z</timestamp>
+      <contributor>
+        <username>Aeonx</username>
+        <id>12314833</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, [[WP:AWB/T|typo(s) fixed]]: a aeronautics → an aeronautics using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15899">{{EngvarB|date=July 2014}}
+{{Use dmy dates|date=July 2014}}
+{{Infobox person
+|name        = Bert Hinkler
+|image       = StateLibQld 1 197751 Bert Hinkler, aviator.jpg
+|caption     = 
+|birth_date  = {{birth date|df=yes|1892|12|8}}
+|birth_place = [[Bundaberg]], Queensland
+|death_date  = {{death date and age|df=yes|1933|1|7|1892|12|8}}
+|death_place = [[Pratomagno]] Alps, Italy
+|occupation  = Pioneer Aviator, inventor
+|spouse      = Hannah (Nance) Javis (de facto, 1920s–33&lt;br/&gt;Katherine Rome (m. 1932)
+|awards      = [[Distinguished Service Medal (United Kingdom)|Distinguished Service Medal]] (1917)&lt;br/&gt;[[Britannia Trophy]] (1920, 1928, 1931)&lt;br/&gt;[[Air Force Cross (United Kingdom)|Air Force Cross]] (1928)&lt;br/&gt;[[FAI Gold Air Medal]] (1928)&lt;br/&gt;[[Segrave Trophy]] (1931)
+}}
+
+'''Herbert John Louis Hinkler''' {{postnominals|country=AUS|size=100%|sep=,|AFC|DSMuk}} (8 December 1892 – 7 January 1933), better known as '''Bert Hinkler''', was a pioneer Australian aviator (dubbed "Australian Lone Eagle"&lt;ref name="Scanlon"/&gt;) and inventor.  He designed and built early aircraft before being the first person to fly solo from England to Australia, and the first person to fly solo across the Southern Atlantic Ocean. He married in 1932 at the age of 39, and died less than a year later after crashing into remote countryside near [[Florence]], Italy during a solo flight record attempt.
+
+==Early life==
+Hinkler was born in [[Bundaberg]], Queensland, the son of John William Hinkler, a [[Prussian]]-born stockman, and his wife Frances Atkins (née Bonney) Hinkler.&lt;ref&gt;Queensland Registrar-General Index of Births, Deaths &amp; Marriages&lt;/ref&gt;&lt;ref name="Pioneer"&gt;''Pioneer airman's;memory lives on.'' Heidelberger Leader (Australia). NEWS; Pg. 14. 12 November 2003.&lt;/ref&gt; In his childhood, Hinkler would observe [[ibis]] flying near a lake at his school. After gaining an understanding on the principles of flight, he constructed and flew two [[Glider aircraft|gliders]] on beaches near his home town. He later met [[Arthur Burr Stone]],&lt;ref name=ADB&gt;
+{{cite web |url=http://www.adb.online.anu.edu.au/biogs/A090312b.htm |title=Hinkler, Herbert John Louis (Bert) (1892–1933)  |accessdate=28 July 2009 |author=E. P. Wixted |work=[[Australian Dictionary of Biography]], Volume 9 |publisher=[[Melbourne University Press|MUP]] |year=1983 |pages=305–307}}&lt;/ref&gt; at a travelling show in Bundaberg and again at the [[Ekka|Brisbane Exhibition]] where Hinkler worked with Stone to solve a problem with the "Blériot", the world's first monoplane. In 1913, Hinkler went to England where he worked for the [[Sopwith Aviation Company]],&lt;ref name="Scanlon"/&gt; the beginning of his career in aviation.
+
+==World War I==
+During the [[First World War]], Hinkler served with the [[Royal Naval Air Service]] as a [[Air gunner|gunner]]/[[Air observer|observer]]&lt;ref name="Scanlon"/&gt; in Belgium and France, for which he was awarded the [[Distinguished Service Medal (United Kingdom)|Distinguished Service Medal]]. In 1918 Hinkler was posted to [[No. 28 Squadron RAF]] with which he served as a pilot in Italy.
+
+Hinkler was an "exceptional mathematician and inventor" and "made a lot of aviation instruments which were in use up until the Second World War."&lt;ref name="Scanlon"/&gt; For example, "one was a gadget to correct drift as airplanes fly a little bit on their side, not straight ahead."&lt;ref name="Scanlon"/&gt; Furthermore, "in WWI, Hinkler invented a machine gun adaptor for air gunners. Back then, when the biplanes were flying upside down in combat, the hot, ejected shells would fall and burn the chest of the gunners as they fired. Hinkler's invention had the ejected shells all flying off to one side instead."&lt;ref name="Scanlon"/&gt;
+
+==Later life and career==
+After the war, he worked as a [[test pilot]] for the aircraft manufacturer [[avro|A.V. Roe]] in [[Southampton]]. The Australian Government offered £10,000 as a prize for the first flight to Australia; Hinkler entered, but his aeroplane crashed in Europe during a storm.&lt;ref&gt;{{Dictionary of Australian Biography|First=Herbert John Louis|Last=Hinkler|shortlink=
+0-dict-biogHi-Hu.html#hinkler1|accessdate=28 July 2009}}&lt;/ref&gt;
+
+In 1921, Hinkler shipped a tiny [[Avro Baby]] to Sydney.  It was filled with fuel and flown non-stop to Bundaberg, Queensland, a distance of {{convert|1370|km|mi}}.
+
+During the 1920s he competed in numerous aviation events and set many records, among which was a non-stop flight from England to Latvia. He was a pilot of the British [[Schneider Trophy]] seaplane competitor.
+
+[[File:Bert Hinkler-MJC.jpg|thumb|left|Hinkler and his Avro Avian]]
+Hinkler flew the first solo flight between England and Australia, departing England on 7 February 1928 and arriving in [[Darwin, Northern Territory|Darwin]] on 22 February 1928 and back in his home town of Bundaberg on 27 February 1928. This reduced the England-Australia record from 28&amp;nbsp;days to just under 15½ days. The aircraft used was an [[Avro Avian]], registration G-EBOV.  The flight was little noticed before Hinkler reached India but then media interest intensified.  One paper nicknamed the flyer "Hustling Hinkler"&lt;ref name="Scanlon"&gt;''Flying in the face of adversity.'' Mike Scanlon. HISTORY H2; Pg. 16. Newcastle Herald (Australia). 29 March 2008.&lt;/ref&gt; and he was the subject of the [[Tin Pan Alley]] song ''Hustling Hinkler Up in the Sky.''&lt;ref name="Harris"&gt;''Magnificent machines, home-grown legends; CENTENARY OF FLIGHT.'' Bruce Harris. SUPPLEMENT; Pg. 2. Sydney Morning Herald (Australia). 17 December 2003&lt;/ref&gt;
+For the flights in 1920 and 1928 Hinkler had already won two [[Britannia Trophy|Britannia trophies]] and the gold medal of the Fédération Aéronautique Internationale.&lt;ref name=ADB/&gt;
+[[File:Bert Hinkler presentation.jpg|thumb|right|Bert Hinkler is presented a cheque and cigarette case by Prime Minister Stanley Bruce]]
+
+Hinkler is quoted as telling the Australian Prime Minister [[Stanley Bruce]] at this time: "You know, one day, people will fly by night and use the daylight for sightseeing." (In 1998 Australian Lang Kidby recreated this flight in a similar 1927 Avro Avian). He was invited by the [[Speaker of the Australian House of Representatives|Speaker of the House of Representatives]] to be seated on the floor of the House in recognition of his achievement. (The next time such an invitation was extended was in 1973, to [[Patrick White]], who declined.&lt;ref&gt;Gavin Souter, ''Acts of Parliament'', p. 516&lt;/ref&gt;) After visiting the principal cities of Australia and returning to England, he was awarded the [[Air Force Cross (United Kingdom)|Air Force Cross]] for the finest aerial exploit of the year.
+
+In 1931 came his most remarkable feat. Hinkler flew in a [[de Havilland Puss Moth]] from Canada to New York then non-stop to Jamaica {{convert|2400|km|mi|abbr=on}}, then to Venezuela, Guyana, Brazil, and then across the South Atlantic to Africa; this part of the journey was done in extremely bad weather, but despite a tearing gale and practically no visibility for part of the way because of low and heavy clouds, he drifted a comparatively small distance off his course. From West Africa he flew to London. For this he was awarded the [[Segrave Trophy]], the Johnston Memorial Prize, and the [[Britannia Trophy]] for the most meritorious flying performance of the year.  This was the first solo flight across the [[Atlantic Ocean|South Atlantic]].  He was only the second person to cross the Atlantic solo, after [[Charles Lindbergh]].
+
+[[File:Cimitero degli Allori, John Louis Herbert Hinkler.jpg|thumb|Cimitero degli Allori, John Louis Herbert Hinkler]]
+
+Hinkler married in 1932.&lt;ref name="Scanlon"/&gt; On 7 January 1933, Hinkler left [[London Air Park|London Air Park, Hanworth]], England, in the Puss Moth in an attempt to break the flying record to Australia held by [[C. W. A. Scott]] of 8&amp;nbsp;days 20 hours.&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1933/1933%20-%200794.html Record solo flights from England to Australia 1928 to 1933]&lt;/ref&gt; Nothing more was heard of him until his body was discovered in the Tuscan Mountains in Italy.&lt;ref&gt;''This week in history.'' FRANK DUNN. THE SUNDAY TIMES. Pg. 44. 1 January 2006.&lt;/ref&gt; His plane had crashed into the mountains on 7 January 1933.&lt;ref&gt;''History of aviation Part 9; Hinkler – adventurer.'' Gold Coast Bulletin (Australia). FEATURES; Pg. 20. 21 May 2003.&lt;/ref&gt;&lt;ref&gt;''Under Bert's wing.'' Philip Hammond. The Courier Mail (Australia). TODAY; Pg. 55. 22 February 2008.&lt;/ref&gt; He was buried, with full military honours on [[Benito Mussolini|Mussolini's]] orders, in the [[Cimitero degli Allori]], [[Florence]].&lt;ref name="Pioneer"/&gt; A monument in his memory was erected at [[Prato Alle Vacche]] in the [[Pratomagno]] mountain by the Aretino Aero Club.&lt;ref name="Pioneer"/&gt; He was survived by both his legal wife Katherine and his de facto wife Nance.
+
+He is remembered as being thoroughly courageous without being reckless, and was successful in his amazing feats because he was practically faultless as a pilot, and knew exactly what he and his machines could do.
+
+==Honours==
+*The Federal electorate of [[Division of Hinkler|Hinkler]], in Queensland, is named after him.
+*In 1978 he was honoured on a postage stamp depicting his portrait issued by [[Australia Post]].&lt;ref&gt;[http://www.australianstamp.com/images/large/0012130.jpg AustralianStamp.com]&lt;/ref&gt;
+*[[Thornhill, Southampton]], Hampshire, England has three places in honour of Bert Hinkler: Hinkler Road, Hinkler Pub, and Hinkler Park, which contains a monument to him erected by the residents of Thornhill. In 1983, "Mon Repos", the house in Thornhill that Bert Hinkler and his de facto wife Hannah (Nance) Jarvis built, was saved from demolition and relocated to the [[Bundaberg Botanic Gardens]], serving as a historical museum&lt;ref&gt;[http://www.hinklerhallofaviation.com/ Hinkler Hall of Aviation]&lt;/ref&gt;&lt;ref&gt;[http://www.hinklerresearch.org.au/house_history.htm Hinkler House History], accessed 19 February 2011&lt;/ref&gt; On 8 December 2008, the A$7.5 million Hinkler Hall of Aviation was opened to the public in Hinkler's home town of Bundaberg. Adjacent to his English home "Mon Repos", the hall continues the role the house played as a historic museum dedicated to the memory of Hinkler; this has allowed the house to be refurbished to a more domestic state and now serves as a joint attraction with the Hall of Aviation.
+*[[Qantas]] has named an [[Airbus A380]] after the aviator, with his name featured on the aircraft.
+*Hinkler Park in [[Bundaberg, Queensland]], now hockey fields, marks the original location of Hinkler's landing in 1928 after his historic 1928 solo flight.   
+*The [[Royal Automobile Club of Queensland]] erected a monument atop the [[Sloping Hummock]], an extinct volcano and one of the Bundaberg region's highest points.  
+*A [[Bust (sculpture)|bust]] of Hinkler sits at the southern end of the Burnett Traffic Bridge.
+*Hinkler Crescent, once a [[taxiway]] for the original Darwin Aerodrome, [[Fannie Bay, Northern Territory|Fannie Bay]], Darwin, [[Northern Territory|NT]], Australia is named after Bert Hinkler and has a commemorative plaque in the pavement.
+*Hinkler Park, a popular park and playground in [[Katoomba, New South Wales]], was dedicated to Hinkler in 1934. The park features a climbing frame in the shape of his aircraft and a picnic shelter featuring a commemorative plaque.
+*Hinkler Park, adjacent to the lagoon at the north end of Manly Beach is named in his honour, and is also the site of a building for the [[Australian Air League]]. The first training Squadron opened at Manly, New South Wales on 17 January 1935.
+*A cenotaph stands to Hinkler in [[Buss Park]], Bourbong street, Central Bundaberg.
+*The [[Hinkler Hall of Aviation]] is an aeronautics museum in the [[Bundaberg Botanic Gardens]] dedicated to the pioneer.
+*Songs were written about Hinkler, including ''Hustling Hinkler'', recorded by Len Maurice and Fred Monument, and ''Hello! Hinkler'' sung by Frederick George.&lt;ref&gt;[[National Film and Sound Archive]] of Australia: [http://www.nfsa.gov.au/sounds-australia-supplement/our-heroes-air/ 'Our Heroes of the Air'] {{webarchive|url=https://web.archive.org/web/20120131153022/http://nfsa.gov.au/sounds-australia-supplement/our-heroes-air/ |date=31 January 2012 }}&lt;/ref&gt;
+*Bert Hinkler was also awarded the Oswald Watt Medal four times in 1927, 1928, 1931 and 1932.
+
+==Relic survives the Space Shuttle Challenger disaster==
+A small piece of wood, a relic from one Hinkler's hand-made gliders, was presented to the US astronaut [[Don Lind]] in early 1986 as a token of appreciation for his coming to Bundaberg to contribute to the Hinkler Memorial Lectures.  Lind in turn gave it to [[Dick Scobee]], the captain of the ill-fated final ''Challenger'' mission.  Scobee took the wood with him on board the ''Challenger'', inside a small plastic bag that he placed in his locker.  After the explosion, the bag and the wood were recovered from the sea, identified, mounted, and later returned to the Hinkler Memorial Museum.&lt;ref&gt;[http://www.abc.net.au/widebay/stories/s1565619.htm www.abc.net]&lt;/ref&gt;&lt;ref&gt;[http://www.ministers.infrastructure.gov.au/ja/releases/2004/September/a135_2004.htm www.ministers.infrastructure.gov]&lt;/ref&gt;
+
+==See also==
+* [[Hinkler Ibis]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Bert Hinkler}}
+
+*[http://www.hinklerhallofaviation.com Hinkler Hall of Aviation Museum website]
+*[http://www.museum.vic.gov.au/coins/1900/bert_hinkler_medal.html Bert Hinkler Commemorative Medal]
+*[http://www.sl.nsw.gov.au/discover_collections/history_nation/aviation/crossing_oceans/hinkler.html Bert Hinkler online collection – State Library of NSW]
+*[http://www.historynet.com/picture_of_the_day?c=y&amp;podMonth=February&amp;podDay=7 HistoryNet picture of the day 7 February 2008]
+*[http://www.flightglobal.com/pdfarchive/view/1933/1933%20-%200794.html Record solo flights from England to Australia 1928 to 1933]
+*[http://engwonders.byethost9.com/e066.html HINKLER – THE BRILLIANT NAVIGATOR] An aviator whose sense of direction was uncanny, Hinkler broke many records in light aeroplanes.
+* Listen to a clip from [http://aso.gov.au/titles/spoken-word/hinklers-message/ Hinkler's 'Message to Australia'] and read more about the recording on [http://aso.gov.au/ australianscreen online]
+* Hinkler's 'Message to Australia' was added to the National Film and Sound Archive's [https://www.webcitation.org/5yfQQLGOQ?url=http://nfsa.gov.au/collection/national-collection/sound/sounds-australia/complete-list/ Sounds of Australia Registry] in 2010
+* Read more about Hinkler and listen to songs inspired by him on the [[National Film and Sound Archive]] of Australia's website: [https://web.archive.org/web/20120131153022/http://nfsa.gov.au/sounds-australia-supplement/our-heroes-air/ 'Our Heroes of the Air']
+*[http://blogs.slq.qld.gov.au/jol/2012/02/28/bert-hinklers-record-1928-flight-this-month-in-queenslands-history/ Bert Hinkler’s record flight (1928)], State Library of Queensland
+*[http://www.airfieldinformationexchange.org/community/showthread.php?5369-Helvellyn-Memorial Helvellyn Memorial to Bert Hinkler]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hinkler, Bert}}
+[[Category:1933 deaths]]
+[[Category:1892 births]]
+[[Category:Aviators killed in aviation accidents or incidents]]
+[[Category:Australian people of German descent]]
+[[Category:Australian aviators]]
+[[Category:Royal Naval Air Service aviators]]
+[[Category:Royal Naval Air Service personnel of World War I]]
+[[Category:Royal Air Force personnel of World War I]]
+[[Category:People from Bundaberg]]
+[[Category:Recipients of the Distinguished Service Medal (United Kingdom)]]
+[[Category:Segrave Trophy recipients]]
+[[Category:Victims of aviation accidents or incidents in Italy]]
+[[Category:Britannia Trophy winners]]
+[[Category:Australian aviation record holders]]</text>
+      <sha1>r1m3xpc4fhezf46ul52h2hxx13cc375</sha1>
+    </revision>
+  </page>
+</mediawiki>

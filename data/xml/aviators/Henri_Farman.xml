@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Henri Farman</title>
+    <ns>0</ns>
+    <id>73093</id>
+    <revision>
+      <id>852988150</id>
+      <parentid>851212825</parentid>
+      <timestamp>2018-08-01T17:49:47Z</timestamp>
+      <contributor>
+        <username>Recensore256</username>
+        <id>34313057</id>
+      </contributor>
+      <comment>/* Biography */ Added and cited HoF induction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8793">{{Use British English|date=May 2011}}
+{{Infobox person
+|name          = Henri Farman
+|image         = Henry Farman.jpg
+|alt           =
+|caption       =
+|birth_name    =
+|birth_date    = {{Birth date|df=yes|1874|05|26}}
+|birth_place   = Paris
+|death_date    = {{Death date and age|df=yes|1958|07|17|1874|05|26}}
+|death_place   = Paris
+|body_discovered =
+|death_cause   =
+|resting_place =
+|resting_place_coordinates = &lt;!-- {{coord|LAT|LONG|display=inline,title}} --&gt;
+|residence     =
+|nationality   =
+|ethnicity     =
+|citizenship   =
+|other_names   = Henry Farman
+|known_for     =
+|education     =
+|alma_mater    =
+|religion      =
+|spouse        =
+|partner       =
+|children      =
+|parents       =
+|relations     = [[Maurice Farman]], [[Richard Farman]]
+|callsign      =
+|awards        =
+|signature     =
+|website       =
+|footnotes     =
+}}
+'''Henri Farman''' (26 May 1874 – 17 July 1958)&lt;ref name="FlightObit"/&gt; was an Anglo-French [[aviator]] and aircraft designer and manufacturer with his brother [[Maurice Farman]]. His family was British and he took French nationality in 1937.&lt;ref name="FlightObit"&gt;''Flight'' obituary&lt;/ref&gt;
+
+==Biography==
+Born in Paris, France, and given the name Henry, he was the son of a well-to-do British newspaper correspondent working there and his French wife. Farman trained as a painter at the [[École des Beaux Arts]], but quickly become obsessed with the new mechanical inventions that were rapidly appearing at the end of the 19th century. Since his family had money, he was able to pursue this interest as an amateur sportsman. In the 1890s he became a championship [[cycling|cyclist]], and at the turn of the century he discovered [[motor racing]], competing for [[Renault]] in the [[Gordon Bennett Cup in Auto Racing|Gordon Bennett Cup]].
+
+[[File:Henry Farman first cross-country flight with aeroplane Scientific American 1908-11-21.jpg|thumb|right|Farman making the first cross-country flight accomplished with an aeroplane]]
+When the [[Voisin]] brothers started their aircraft construction business in 1907 Farman was one of their first customers, ordering a copy of the aircraft that had been built for [[Leon Delagrange]]. He used this aircraft, the [[Voisin 1907 biplane]] to set numerous official records for both distance and duration.These include the first to fly a complete circuit of 1 kilometre (13 January 1908, winning the 50,000 franc ''Grand Prix d'Aviation'' offered by [[Henri Deutsch de la Meurthe]]&lt;ref name=wright&gt;[http://www.first-to-fly.com/History/Wright%20Story/prizepatrol.htm "Prize Patrol", from Wright Brothers Aeroplane Company, a virtual museum of pioneer aviation]&lt;/ref&gt;&lt;ref&gt;* {{cite journal |last=Johnstone |first=Rupert |authorlink= |coauthors= |date=April 1908 |title=The Derby Of The Air: How Mr. Farman Won The Blue Ribbon Of Aeronautics |journal=[[World's Work|The World's Work: A History of Our Time]] |volume=XV |issue= |pages=10127–10132  |url= https://books.google.com/books?id=hKPvxXgBN1oC&amp;pg=PA10127|accessdate=10 July 2009 }}&lt;/ref&gt;) and 2 kilometres (21 March 1908&lt;ref name=f12/&gt;). Some sources state that on 29 March, he became the first to take a passenger into the air,&lt;ref name=f12&gt;[http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200010.html "Progress of Mechanical Flight"] ''Flight'', 2 January 1909, p. 12&lt;/ref&gt; [[Leon Delagrange]].&lt;ref name=v&gt;{{cite book|last=Vivian|first=E. Charles|title=A history of aeronautics|year=2004|publisher=Kessinger Pub.|location=[S.l.]|isbn=1-4191-0156-0|pages=134–135|url=https://books.google.com/books?id=7huSV1ijZeAC&amp;lpg=PA110&amp;dq=Voisin%20Antoinette%20Farman%20Santos&amp;pg=PA109#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt; (Others, however, believe that record belongs to [[Wilbur Wright]] and passenger Charles Furnas on 14 May of the same year.&lt;ref&gt;{{cite web |url=http://www.nasa.gov/exploration/thismonth/this_month_may08.html |title=This Month in Exploration - May: 100 Years Ago |publisher=[[NASA]] |accessdate=29 August 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.airspacemag.com/history-of-flight/1908_The_Year_the_Airplane_Went_Public.html |title=1908: The Year the Airplane Went Public |author=Tom D. Crouch |publisher=[[Air &amp; Space/Smithsonian]] |date=29 August 2008 |accessdate=29 August 2012}}&lt;/ref&gt;) Later in 1908, on 30 October, Farman went on to make the first cross-country flight in Europe, flying from [[Châlons-sur-Marne|Châlons]] to [[Reims]] (27 kilometres in 20 minutes).&lt;ref&gt;{{cite journal |date=21 November 1908 |journal=[[Scientific American]] |volume=XCIX |issue=21 |pages=cover |publisher=Munn &amp; Co |location=New York}}&lt;/ref&gt;
+
+[[File:Farman Shorthorn MF11.jpg|thumb|MF.11 "Shorthorn"]]
+[[File:Farman-goliath.jpg|thumb|The passenger transport ''Goliath'']]
+
+In 1909, he opened a flying school at [[Châlons-sur-Marne]] at which [[George Bertram Cockburn]] was the first pupil.&lt;ref&gt;Villard, Henry (1987) ''Contact! The Story of the Early Aviators'', Smithsonian Institution Press, {{ISBN|0-486-42327-1}}&lt;/ref&gt; The same year he made further record breaking flights of 180 kilometres in just over 3 hours (at [[Reims]] on 27 August) and 232 kilometres in 4 hours 17 minutes and 53 seconds (at [[Mourmelon-le-Grand]] on 3 November).
+
+At the end of 1909 Farman fell out with [[Gabriel Voisin]] because Voisin had sold an aircraft that had been built to Farman's specifications to [[J.T.C. Moore-Brabazon]], and started manufacturing aircraft to his own design. The first of these, the [[Farman III]], was an immediate success and was widely imitated.
+
+In partnership with his two brothers [[Maurice Farman|Maurice]] and [[Richard Farman|Richard (Dick)]], he built a highly successful and innovative aircraft manufacturing plant. Their 1914 model was used extensively for artillery observation and reconnaissance during World War I. The [[Farman Aircraft]] company's [[Farman F.60 Goliath|''Goliath'']] was the first long-distance passenger [[airliner]], beginning regular Paris-London ([[Croydon Airport]]) flights on 8 February 1919.
+
+He was made a [[knight|chevalier]] of the French [[Legion of Honour|Légion d'honneur]] (French: "Legion of Honour") in 1919. He, along with Maurice, retired in 1937 when the [[Popular Front (France)#May 1936 elections and the formation of the Blum government|French Popular Front government]] nationalised the aircraft industry; Farman's company becoming part of the ''[[Societe Nationale de Constructions Aeronautiques du Centre]]''.&lt;ref name="FlightObit" /&gt;
+
+Henry Farman took French nationality in 1937.
+
+He died in Paris and is buried in the [[Cimetière de Passy]] in Paris.
+
+In 1988, Farman was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==See also==
+*[[Farman Aviation Works]]
+*[[Farman III]] (1909)
+*[[F.60 Goliath|Farman F.60 Goliath]]
+*[[Farman F.121 Jabiru]]
+*[[Farman F.170 Jabiru]]
+*[[Farman F.222]]
+*[[Farman F 402]]
+*[[Léon Lemartin]] – Farman's support engineer for the ''[[Gnome Omega]]'' rotary engine.
+
+==Notes and references==
+;Notes
+{{Reflist}}
+
+;References
+{{Refbegin}}
+* {{cite journal |last=Squier |first=George Owen |authorlink=George Owen Squier |coauthors= |year=1908 |month= |title=The Present Status of Military Aeronautics. II. Aviation. Representative Aeroplanes Of Various Types. The Farman Aeroplane.  |journal=Annual Report of the Board of Regents of the Smithsonian Institution |volume= |issue= |pages=134–135  |url=https://books.google.com/books?id=gtQWAAAAYAAJ&amp;pg=PA134 |accessdate=7 August 2009 }}
+*{{cite journal|title=From All Quarters – Obituary of Henry Farman |url=http://www.flightglobal.com/pdfarchive/view/1958/1958-1-%20-%200094.html|work=Flight |date=25 July 1958 |page=96 |number=2583 |volume=74 |accessdate=15 October 2010}}
+*{{cite journal |url=http://www.flightglobal.com/pdfarchive/view/1958/1958-1-%20-%200156.html |title=Henry Farman – an Appreciation |last=Bradley |first=W F |date=1 August 1958 |page=158 |work=Flight |number=2584 |volume=74  }}
+{{Refend}}
+
+==External links==
+{{Commons category inline|bullet=none}}
+* [http://www.ctie.monash.edu.au/hargrave/farman.html A more extensive telling of the Farman brothers story]
+{{Use dmy dates|date=May 2011}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Farman, Henri}}
+[[Category:1874 births]]
+[[Category:1958 deaths]]
+[[Category:French people of English descent]]
+[[Category:French aerospace engineers]]
+[[Category:British aviators]]
+[[Category:Chevaliers of the Légion d'honneur]]
+[[Category:Burials at Passy Cemetery]]
+[[Category:French aviation record holders]]
+[[Category:Aviation pioneers]]</text>
+      <sha1>94e6qfkkpvtmf7h4g2zvrwjo3j16hai</sha1>
+    </revision>
+  </page>
+</mediawiki>

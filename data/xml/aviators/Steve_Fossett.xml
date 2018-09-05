@@ -1,0 +1,709 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Steve Fossett</title>
+    <ns>0</ns>
+    <id>186642</id>
+    <revision>
+      <id>853883022</id>
+      <parentid>853006648</parentid>
+      <timestamp>2018-08-07T15:29:32Z</timestamp>
+      <contributor>
+        <username>Samnotanonymous</username>
+        <id>31001128</id>
+      </contributor>
+      <comment>Request clarification on club memberships</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="83853">{{good article}}
+{{Use mdy dates|date=January 2015}}
+{{Infobox person
+ | name             = Steve Fossett
+ | image            = Fossett_before_globalflyer_flight_cropped.jpg
+ | image_size       = 200px
+ | caption          = Steve Fossett in February 2006
+ | birth_name       = James Stephen Fossett
+ | birth_date       = {{birth date|1944|4|22|mf=y}}
+ | birth_place      = [[Jackson, Tennessee]], U.S.
+ | death_date       = {{Death date and age|2007|9|3|1944|4|22}}
+ | death_place      = [[Sierra Nevada (U.S.)|Sierra Nevada Mountains, California]], U.S.
+ | death_cause      = Plane crash
+ | alma_mater       = [[Garden Grove High School]]&lt;br&gt;[[Washington University in St. Louis]]&lt;br/&gt;[[Stanford University]]
+ | known_for        = setting a large number of world records as an adventurer, sailor and aviator
+}}
+
+'''James Stephen "Steve" Fossett''' (April 22, 1944 – September 3, 2007) was an American businessman and a record-setting aviator, sailor, and adventurer. He was the first person to fly solo nonstop around the world in a balloon. He made his fortune in the financial services industry and was best known for many [[world record]]s, including five nonstop [[List of circumnavigations|circumnavigation]]s of the Earth: as a long-distance solo [[hot air balloon|balloonist]], as a sailor, and as a solo flight [[fixed-wing aircraft]] pilot.
+
+A fellow of the [[Royal Geographical Society]] and the [[Explorers Club]], Fossett set more than one hundred records{{vs|date=May 2015}} in five different sports, sixty of which still stood at the time of his death.&lt;ref name="telegraphJune2007"&gt;{{cite news
+ |last=Wilson 
+ |first=Sam 
+ |author2=agencies 
+ |title=Profile: Steve Fossett 
+ |publisher=Daily Telegraph 
+ |date=June 6, 2007 
+ |url=https://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/05/nfossettprofile104.xml 
+ |archive-url=https://web.archive.org/web/20071011210053/http://www.telegraph.co.uk/news/main.jhtml?xml=%2Fnews%2F2007%2F09%2F05%2Fnfossettprofile104.xml 
+ |dead-url=yes 
+ |archive-date=October 11, 2007 
+ |accessdate=September 7, 2007 
+ |location=London 
+ |df= 
+}} &lt;/ref&gt;
+
+Fossett disappeared on September 3, 2007 while flying a light aircraft over the [[Great Basin Desert]], between Nevada and California. Extensive searches proved unsuccessful, and he was [[declared death in absentia|declared legally dead]] in February of the following year.
+
+In September 2008, a hiker found Fossett's identification cards  in the [[Sierra Nevada (U.S.)|Sierra Nevada Mountains]], California, leading shortly after to the discovery of the plane's wreckage. Fossett's only known remains, two large bones, were found half a mile from the crash site, probably scattered by wild animals.&lt;ref&gt;{{Cite web|url=http://www.cnn.com/2008/US/10/02/steve.fossett.search/index.html|title=Some remains found in Fossett plane wreckage - CNN.com|website=www.cnn.com|language=en|access-date=2017-05-13}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/news/worldnews/northamerica/usa/3125782/Body-parts-found-in-wreckage-of-Steve-Fossetts-plane.html|title='Body parts' found in wreckage of Steve Fossett's plane|last=York|first=By Tom Leonard in New|work=Telegraph.co.uk|access-date=2017-05-13|language=en}}&lt;/ref&gt;
+
+==Early years==
+Fossett was born in [[Jackson, Tennessee]] and grew up in [[Garden Grove, California]], where he graduated from [[Garden Grove High School]].&lt;ref name="telegraphJune2007"/&gt;
+
+Fossett's interest in adventure began early. As a [[Boy Scout]], he grew up climbing the mountains of California, beginning with the [[San Jacinto Mountains]].&lt;ref name="airportjournal"&gt;{{cite web
+ |title=Steve Fossett: Always "Scouting For New Adventures" Part 1 
+ |work=Airport Journals 
+ |date=October 2006 
+ |url=http://www.airportjournals.com/Display.cfm?varID=0610009 
+ |accessdate=October 2, 2008 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20101210143154/http://airportjournals.com/Display.cfm?varID=0610009 
+ |archivedate=December 10, 2010 
+ |df= 
+}}&lt;/ref&gt; "When I was 12 years old I climbed my first mountain, and I just kept going, taking on more diverse and grander projects."&lt;ref name=cnnstory&gt;{{cite news | title = Search continues for aviation adventurer Steve Fossett | publisher =CNN| date =September 4, 2007 | url =http://www.cnn.com/2007/US/09/04/fossett.missing/index.html | accessdate =September 6, 2007  }}&lt;/ref&gt; Fossett said that he did not have a natural gift for athletics or team sports, so he focused on activities that required persistence and endurance.&lt;ref name="stanfordalumni"&gt;{{cite web | title = Pioneer in the Sky | publisher = Stanford Magazine | url = http://www.stanfordalumni.org/news/magazine/1997/mayjun/articles/fossett.html | accessdate = September 7, 2007 }}&lt;/ref&gt; His father, an [[Eagle Scout (Boy Scouts of America)|Eagle Scout]], encouraged Fossett to pursue these types of adventures and encouraged him to become involved with the Boy Scouts early.&lt;ref name="airportjournal"/&gt; He became an active member of Troop 170 in Orange, California. At age 13,&lt;ref name="airportjournal"/&gt; Fossett earned the Boy Scouts' highest rank of Eagle Scout.&lt;ref name=boyscoutsPR&gt;{{cite news
+| title =EAGLE SCOUT AND BSA EXECUTIVE BOARD MEMBER SETS WORLD RECORD | publisher =Boy Scouts of America | date =July 3, 2002| url = http://www.scouting.org/media/press/2002/020703/index.html| archiveurl = https://web.archive.org/web/20071011200209/http://scouting.org/media/press/2002/020703/index.html| archivedate = October 11, 2007 | accessdate =September 12, 2007  }}&lt;/ref&gt; He was a Vigil Honor member of the [[Order of the Arrow]], the Boy Scouts' honor society, where he served as lodge chief.&lt;ref name=boyscoutsPR/&gt; He also worked as a [[Philmont Scout Ranch#Ranger Program|Ranger]] at [[Philmont Scout Ranch]] in [[New Mexico]] during the summer of 1961.&lt;ref name="Eagletter Winter 2007"&gt;{{cite journal | url=http://www.nesa.org/eagletter/2007-W.pdf | volume=33 | issue=3 | title=NESA President Steve Fossett: A Tribute | publisher=National Eagle Scout Association, Eagletter | date=&lt;!--Winter--&gt;  2007}}&lt;/ref&gt; Fossett said in 2006 that [[Scouting]] was the most important activity of his youth.&lt;ref name="airportjournal"/&gt;
+
+In college at [[Stanford University]], Fossett was already known as an adventurer; his [[Sigma Alpha Epsilon]] [[student society|fraternity]] brothers convinced him to swim to [[Alcatraz]] and raise a banner that read "Beat [[California Golden Bears|Cal]]" on the wall of the prison, closed two years previously. He made the swim, but was thwarted by a security guard when he arrived.&lt;ref name="stanfordalumni"/&gt; While at Stanford, Fossett was a student body officer and served as the president of a few clubs.&lt;ref name="airportjournal"/&gt;{{which|date=August 2018}} In 1966, Fossett graduated from Stanford with a degree in economics.&lt;ref name="cnnstory2"&gt;{{cite news | title =  Branson fears missing Fossett is injured | publisher = CNN | url = http://www.cnn.com/2007/US/09/05/fossett.missing/ | accessdate = September 7, 2007 | date=September 5, 2007}}&lt;/ref&gt; Fossett spent the following summer in Europe climbing mountains and swimming the [[Dardanelles]].&lt;ref name="stanfordalumni"/&gt;
+
+==Business career==
+In 1968, Fossett received an MBA from the [[Olin Business School|Olin School of Business]] at [[Washington University in St. Louis]], Missouri, where he was later a longtime member of the Board of Trustees.&lt;ref name="stlpostdispatch"&gt;{{cite news
+  | last =Smith
+  | first =Bill
+  |author2=Deere, Stephen
+  | title =Steve Fossett's plane is missing
+  | publisher =''St. Louis Post-Dispatch''
+  | date = September 5, 2007
+  | url =http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/CDBB74A9E1D3BA3C8625734D000DDA68?OpenDocument
+  | archiveurl =https://web.archive.org/web/20070907161003/http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/CDBB74A9E1D3BA3C8625734D000DDA68?OpenDocument
+  | archivedate =September 7, 2007
+  | accessdate =September 7, 2007  }}&lt;/ref&gt; Fossett's first job out of business school was with [[IBM]]; he then served as a consultant for [[Deloitte and Touche]], and later accepted a job with [[Marshall Field's]]. Fossett later said, "For the first five years of my business career, I was distracted by being in computer systems, and then I became interested in financial markets. That's where I thrived."&lt;ref name="airportjournal"/&gt;
+
+Fossett then became a successful [[commodity broker|commodities salesman]] in Chicago, first for [[Merrill Lynch]] in 1973, where he proved a highly successful producer of commission revenue for himself and that firm. He began working in 1976 for [[Drexel Burnham]], which assigned him one of its memberships on the [[Chicago Board of Trade]] and permitted him to market the services of the firm from a phone on the floor of that exchange. In 1980, Fossett began the process that eventually produced his enduring prosperity: renting exchange memberships to would-be floor traders, first on the [[Chicago Board Options Exchange]].&lt;ref name="stanfordalumni"/&gt;&lt;ref name="USAToday2006"&gt;{{cite news| last =Halvorson
+| first =Todd
+| title =Aviator Fossett tries to break distance record
+| work = Florida Today
+| publisher =USA Today
+| date = September 4, 2007
+| url =https://www.usatoday.com/tech/science/space/2006-02-05-fossett-nonstop-flight_x.htm
+| accessdate =February 5, 2006 }}&lt;/ref&gt;
+
+After fifteen years of working for other companies,&lt;ref name="airportjournal"/&gt; Fossett founded his own firms, Marathon Securities and Lakota Trading, from which he made millions renting exchange memberships.&lt;ref name="telegraphJune2007"/&gt;&lt;ref name="cnnstory2"/&gt;&lt;ref name="foxnews"&gt;{{cite news
+  | title = Rescuers to Resume Search for Plane Carrying Aviation Adventurer Steve Fossett
+  | publisher = Fox News
+  | url = http://www.foxnews.com/story/0,2933,295714,00.html
+  | accessdate = September 7, 2007
+| date=September 5, 2007}}&lt;/ref&gt; He founded Lakota Trading for that purpose in 1980.&lt;ref name="cnnstory3"&gt;{{cite news
+  | last = Mihelich
+  | first = Peggy
+  | title =  Adventure defines Steve Fossett
+  | publisher =CNN
+  | date = September 4, 2007
+  | url =http://www.cnn.com/2007/TECH/09/04/fossett.profile/index.html
+  | accessdate =September 7, 2007  }}&lt;/ref&gt; In the early 1980s,&lt;ref name="airportjournal"/&gt; he founded Marathon Securities and extended that successful formula to memberships on the New York stock exchanges. He earned millions renting [[floor trading]] privileges (exchange memberships) to hopeful new floor traders, who would also pay clearing fees to Fossett's clearing firms in proportion to the trading activity of those renting the memberships. In 1997, the trading volume of its rented memberships was larger than any other clearing firm on the Chicago exchange.&lt;ref name="stanfordalumni"/&gt; Lakota Trading replicated that same business plan on many exchanges in the United States and also in London.&lt;ref name="airportjournal"/&gt; Fossett would later use those revenues to finance his adventures.&lt;ref name="telegraphJune2007"/&gt;&lt;ref name="cnnstory2"/&gt;&lt;ref name="foxnews"/&gt; Fossett said, "As a floor trader, I was very aggressive and worked hard. Those same traits help me in adventure sports."&lt;ref name="stanfordalumni"/&gt;
+
+Fossett said he did not participate in any of the "interesting things" he had done in college during his time in exchange-related activities: "There was a period of time where I wasn't doing anything except working for a living. I became very frustrated with that and finally made up my mind to start getting back into things."&lt;ref name="airportjournal"/&gt; He began to take six weeks a year off to spend time on sports and moved to [[Beaver Creek, Colorado]] in 1990. Fossett later sold most of his business interests,&lt;ref name="telegraphJune2007"/&gt;&lt;ref name="yachtsman"&gt;{{cite web
+ |title=Rich Roberts Reports 
+ |publisher=yachtracing.com 
+ |url=http://www.yachtracing.com/richroberts/fossett02.html 
+ |accessdate=September 7, 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070929201527/http://www.yachtracing.com/richroberts/fossett02.html 
+ |archivedate=September 29, 2007 
+ |df= 
+}}&lt;/ref&gt; although he maintained an office in Chicago until 2006.&lt;ref name="airportjournal"/&gt;
+
+==Personal life==
+In 1968 Fossett married Peggy Fossett (née Viehland), who was originally from [[Richmond Heights, Missouri]].&lt;ref name="stlpostdispatch"/&gt; They had no children.&lt;ref name="cnnstory3"/&gt;&lt;ref name=aviationweek&gt;{{cite news
+  | last =Fiorino
+  | first =Frances
+  | title =Advanced Recon System Aids Fossett Search
+  | publisher =Aviation Week
+  | date = September 6, 2007
+  | url =http://www.aviationweek.com/aw/generic/story.jsp?id=news/Foss09067.xml&amp;headline=Advanced%20Recon%20System%20Aids%20Fossett%20Search&amp;channel=null
+  | accessdate =September 6, 2007  }}&lt;/ref&gt; The Fossetts had homes in [[Beaver Creek, Colorado]] and Chicago, and a vacation home in [[Carmel, California]].&lt;ref name="stanfordalumni"/&gt;&lt;ref name="stlpostdispatch"/&gt;&lt;ref name="yachtsman"/&gt;
+
+Fossett became well known in the United Kingdom for his friendship with billionaire [[Richard Branson]], whose Virgin Group sponsored some of Fossett's adventures.&lt;ref name="telegraphJune2007"/&gt;
+
+==Records==
+
+===Overview===
+Steve Fossett was well known for his world records and adventures in balloons, sailboats, gliders, and powered aircraft. He was an aviator of exceptional breadth of experience. He wanted to become the first person to achieve a solo [[balloon (aircraft)|balloon]] flight around the world (finally succeeding on his sixth attempt, in 2002, becoming the first person to complete an uninterrupted and unrefueled solo [[circumnavigation]] of the world in ''any'' kind of aircraft). He set, with co-pilot Terry Delore, 10 of the 21 Glider Open records, including the first 2,000&amp;nbsp;km Out-and-Return, the first 1,500&amp;nbsp;km Triangle and the longest Straight Distance flights. His achievements as a jet pilot in a [[Cessna Citation X]] include records for U.S. Transcontinental, Australia Transcontinental, and Round-the-World westbound non-supersonic flights.&lt;ref name="eagletter"&gt;{{cite journal | title=Fossett Sets Another World Record | journal=Eagletter|year=Fall 2006 |volume=32 |issue=2 |pages= 11}}&lt;/ref&gt; Prior to Fossett's aviation records, no pilot had held world records in more than one class of aircraft; Fossett held them in four classes.&lt;ref name="airportjournal"/&gt;
+
+In 2005 Fossett made the first solo, nonstop unrefueled circumnavigation of the world in an airplane, in 67 hours in the [[Virgin Atlantic GlobalFlyer]], a single-engine jet aircraft.
+
+In 2006, he again circumnavigated the globe nonstop and unrefueled in 76 hours, 45 minutes in the ''GlobalFlyer'', setting the record for the longest flight by any aircraft in history with a distance of 25,766 statute miles (41,467&amp;nbsp;km).&lt;ref name="telegraphJune2007"/&gt;
+
+He set 91 aviation world records ratified by [[Fédération Aéronautique Internationale]], of which 36 stand,&lt;ref&gt;{{cite web
+ |title=List of records established by 'Steve FOSSETT (USA)': 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/pilot.asp?from=ga&amp;id=1372 
+ |archive-url=https://web.archive.org/web/20020829070814/http://records.fai.org/pilot.asp?from=ga&amp;id=1372 
+ |dead-url=yes 
+ |archive-date=August 29, 2002 
+ |accessdate=June 5, 2009 
+ |df= 
+}}&lt;/ref&gt; plus 23 sailing world records ratified by the [[World Sailing Speed Record Council]].
+
+On August 29, 2006, he set the world altitude record for gliders over [[El Calafate]], Argentina at {{convert|15460|m|ft}}.&lt;ref&gt;{{cite web|url=http://records.fai.org/gliding/current.asp?id1=DO&amp;id2=1 |title=Gliding World Records |date=March 11, 2008 |publisher=Fédération Aéronautique Internationale |quote=Absolute altitude: 15 460 m, Date of flight: 29/08/2006, Pilot: Steve Fossett (USA), Crew: Einar Enevoldson (USA), Course/place: El Calafate (Argentina), Glider: Glaser-Dirks DG-505, Registered 'N577SF' |accessdate=2014-11-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20080311011917/http://records.fai.org/gliding/current.asp?id1=DO&amp;id2=1 |archivedate=March 11, 2008 }}&lt;/ref&gt;
+
+[[File:Spirit-of-Freedom-Ballon.jpg|thumb|right|287px|The Spirit of Freedom balloon gondola on display at the National Air and Space Museum]]
+
+===Balloon pilot===
+
+On February 21, 1995, Fossett landed in [[Leader, Saskatchewan]], Canada, after taking off from [[South Korea]], becoming the first person to make a solo flight across the Pacific Ocean in a [[balloon (aircraft)|balloon]].&lt;ref name="apachievements"&gt;{{cite news
+  | title = Aviation Adventurer Steve Fossett Missing
+  | publisher = [[CBS News]]
+  | url = http://www.cbsnews.com/stories/2007/09/04/national/main3231260.shtml?source=RSSattr=HOME_3231260
+  | accessdate = March 13, 2010
+| date=September 4, 2007}}&lt;/ref&gt;
+
+In 2002, he became the first person to fly around the world alone, nonstop in any kind of aircraft. He launched the 10-story high balloon ''Spirit of Freedom'' from [[Northam, Western Australia]] on June 19, 2002 and returned to Australia on July 3, 2002, subsequently landing in [[Queensland]]. Duration and distance of this solo balloon flight was 13 days, 8 hours, 33 minutes (14 days 19 hours 50 minutes to landing), 20,626.48 statute miles (33,195.10&amp;nbsp;km).&lt;ref name="apachievements"/&gt; The balloon dragged him along the ground for 20 minutes at the end of the flight. Only the capsule survived the landing; it was taken to the [[Smithsonian Institution]] in [[Washington, D.C.]], where it was displayed.&lt;ref name="smithsonian_freedom_capsule"&gt;{{cite web|url=http://collections.nasm.si.edu/code/emuseum.asp?quicksearch=A20030128000&amp;newstyle=single|title=Capsule, Balloon, / Bud Light Spirit of Freedom Capsule|publisher=Smithsonian National Air and Space Museum|location=Washington, DC|accessdate=October 2, 2008|work=Collections Database}}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; The control center for the mission was in [[Brookings Hall]] at [[Washington University in St. Louis]].&lt;ref&gt;{{cite web
+ |url=http://record.wustl.edu/2002/09-13-02/fossett.html 
+ |title=Students, Fossett present capsule to Smithsonian 
+ |accessdate=January 8, 2009 
+ |work=The Record 
+ |location=St. Louis, Missouri 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20080705164519/http://record.wustl.edu/2002/09-13-02/fossett.html 
+ |archivedate=July 5, 2008 
+ |df=mdy 
+}}
+&lt;/ref&gt; Fossett's top speed during the flight was {{convert|186|mi/h|km/h}} over the Indian Ocean. The trip set a number of records for ballooning: Fastest ({{convert|200|mph|km/h|sigfig=2}}, breaking his own previous record of {{convert|166|mph|km/h|sigfig=2}}), Fastest Around the World (13.5 days), Longest Distance Flown Solo in a Balloon ({{convert|20482.26|mi|km}}), and 24-Hour Balloon Distance ({{convert|3186.80|mi|km}} on July 1).&lt;ref name="noaa"&gt;{{cite web
+ |author     = Goldman, Jana
+ |title      = NOAA helps guide balloonist around the world
+ |publisher  = [[NOAA]]
+ |url        = ftp://ftp.oar.noaa.gov/FTPCOMM/woc-research-save/spotlite/archive/spot_fossett.html
+ |accessdate = July 22, 2016
+}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+While Fossett had financed five previous tries himself, his successful record-setting flight was sponsored by [[Bud Light]].&lt;ref name="smithsonian_freedom_capsule"/&gt; In the end, Fossett actually made money on all his balloon flights. He bought a contingency insurance policy for $500,000 that would pay him $3 million if he succeeded in the flight. Along with sponsorship, that payout meant that in the end Fossett did not have to spend any of his money other than for initial expenses.&lt;ref name="airportjournal"/&gt;
+
+===Sailor===
+Fossett was one of [[Sailing ship tactics|sailing's]] most prolific distance record holders. Speed sailing was his specialty and from 1993 to 2004 he dominated the record sheets, setting 23 official world records and nine distance race records. He is recognized by the World Sailing Speed Record Council as "the world's most accomplished speed sailor."&lt;ref name="telegraphJune2007"/&gt;
+
+On the maxi-catamaran [[Cheyenne (catamaran)|Cheyenne]] (formerly named ''PlayStation''), Fossett twice set the prestigious [[24 hours distance record|24 Hour Record of Sailing]]. In October 2001, Fossett and his crew set a [[transatlantic sailing record|transatlantic record]] of 4 days 17 hours, shattering the previous record by 43 hours 35 minutes; an increase in average speed of nearly seven knots.
+
+In early 2004, Fossett, as skipper, set the [[Around the world sailing record]] of 58 days, 9 hours in ''Cheyenne'' with a crew of 13. In 2007, Fossett held the world record for crossing the Pacific Ocean in his {{convert|125|ft|m|adj=on}} sailboat, the ''PlayStation'', which he accomplished on his fourth try.&lt;ref name="stanfordalumni"/&gt;&lt;ref name="yachtsman"/&gt;
+
+'''Complete Summary of Sailing Records&lt;ref&gt;{{Cite Web|url=http://www.stevefossett.com/html/main_pages/records.html|archive-url=https://web.archive.org/web/20110825083223/http://www.stevefossett.com/html/main_pages/records.html|dead-url=yes|archive-date=2011-08-25|title=Steve Fossett Challenges (archived 5 August 2011)|website=stevefossett.com}} Website permanently discontinued&lt;/ref&gt;'''
+
+13 Outright World Records:
+* Round the World	58d 9h 32m 45s	Feb-April 2004
+* TransAtlantic	4d 17h 28m 6s(25.78 kts)	Oct 2001
+* Round Britain &amp; Ireland	4d 16h 9m 36s	Oct 2002
+* TransAt-Discovery Route	9d 13h 30m 18s	Feb 2003
+* TransMed (Marseilles-Carthage)	18h 46m 48s	May 2002
+* Fastnet Course	35h 17m 14s	Mar 2002
+* Newport-Bermuda	1d 14h 35m 53s	Jan 2000
+* Isle of Wight	2h 33m 55s	Nov 2001
+* Round Ireland	44h 42m 20s	Sep 1993
+* Hawaii-Japan	13d 20h 9m	July-Aug 1995
+* Pacific Ocean East to West	16d 17h 21m	Aug 1995
+* Miami-New York	2d 5h 54m 42s	May 2001
+* Plymouth-LaRochelle	16h 41m 40s	Apr 2002
+2 Singlehanded World Records:
+* Pacific Ocean (Yokohama-SF)-World	20d 9h 52m	Aug 1996
+* Newport-Bermuda-World	40h 51m 54s	Jun 1999
+9 Race Records:
+* Newport-Ensenada	6h 46m 40s (18.45 kts)	Apr 1998
+* Chicago-Mackinac	18h 50m 32s	Jul 1998
+* Swiftsure	14h 35m 29s	May 1997
+* Long Beach-Cabo San Lucas	3d 2h 59m	Nov 1995
+* Pineapple Cup (Ft Lauderdale-Montego Bay)	2d 20h 8m 5s	Feb 1999
+* San Diego-Puerto Vallarta	62h 20m 11s	Feb 1998
+* Round St. Martin (Heineken)	2h 4m 23s	Mar 2003
+* Windjammers (SF-Santa Cruz)	4h 41m 2s	Aug 1997
+Singlehanded Race Record:
+* California-Hawaii(Singlehanded Transpac) - Race	7d 22h 38m	July 1998
+World Records set but later beaten:
+* 24 Hour Record	687.17 nm (28.63 kts)	Oct 2001
+* 24 Hour Record	580.23 nm (24.18 kts)	Mar 1999
+* Pacific Ocean Record (Crewed)	16d 17h 21m 19s	Aug 1995
+* Transpac	6d 16h 7m 16s	July 1995
+* Round Britain &amp; Ireland	5d 21h 5m 27s	Oct 1994
+* Cowes-St. Malo	6h 21m 54s	Dec 2001
+* Isle of Wight	3h 35m 38s	Sep 1994
+
+At the time of his death a submarine, [[DeepFlight Challenger]], was under construction to enable Fossett to be the first solo submariner to reach the [[Challenger Deep]].&lt;ref name=KGO-2008-10-02&gt;KGO-TV ABC 7, [http://abclocal.go.com/kgo/story?section=news/local/east_bay&amp;id=6429493 "Fossett's secret project was built in Richmond"], Thursday October 2, 2008 (accessed March 27, 2012)&lt;/ref&gt;
+
+===Airship pilot===
+Fossett set the Absolute World Speed Record for airships on October 27, 2004. The new record for fastest flight was accomplished with a [[Zeppelin NT]], at a recorded average speed of {{convert|62.2|kn|km/h mph}}. The previous record was {{convert|50.1|kn|km/h mph}} set in 2001 in a Virgin airship. In 2006, Fossett was one of only 17 pilots in the world licensed to fly the Zeppelin.&lt;ref name="airportjournal"/&gt;
+
+===Fixed-wing aircraft pilot===
+[[File:Steve Fossett in GlobalFlyer cockpit 1.jpg|thumb|right|287px|Fossett at NASA [[Kennedy Space Center]]'s Shuttle Landing Facility seated in the [[Virgin Atlantic GlobalFlyer]] cockpit]]
+
+====GlobalFlyer====
+
+Fossett made the first solo nonstop unrefueled fixed-wing aircraft flight around the world between February 28 and March 3, 2005. He took off from [[Salina, Kansas]], where he was assisted by faculty members and students from [[Kansas State University]], and flew eastbound with the prevailing winds, returning to Salina after 67 hours, 1 minute, 10 seconds, without refueling or making intermediate landings. His average speed of {{convert|342.2|mph|km/h|abbr=on}} was also the absolute world record for "speed around the world, nonstop and non-refueled." His aircraft, the [[Virgin Atlantic GlobalFlyer]], had a [[carbon fiber reinforced plastic]] airframe with a single [[Williams FJ44]] turbofan engine. It was designed and built by [[Burt Rutan]] and his company, [[Scaled Composites]], for long-distance solo flight. The [[fuel fraction]], the weight of the fuel divided by the weight of the aircraft at take-off, was 83 percent.&lt;ref&gt;[http://www.msnbc.msn.com/id/11279696/ Fossett sets record for longest nonstop flight] February 11, 2006&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/science/nature/4316599.stm "''Fossett sets solo flight record''"] – [[BBC News]] article dated March 3, 2005&lt;/ref&gt;&lt;ref&gt;[http://www.cnn.com/2005/TECH/03/03/globalflyer.fossett/ "''Fossett makes history''"] – [[CNN.com]] article dated March 4, 2005&lt;/ref&gt;
+
+On February 11, 2006, Fossett set the absolute world record for "distance without landing" by flying from the [[Kennedy Space Center]], Florida, around the world eastbound, then upon returning to Florida continuing across the [[Atlantic]] a second time to land in [[Bournemouth]], England. The official distance was 25,766 statute miles (41,467&amp;nbsp;km) and the duration was 76 hours 45 minutes.
+
+The next month, Fossett made a third flight around the world in order to break the absolute record for "Distance over a closed circuit without landing" (with takeoff and landing at the same airport). He took off from Salina, Kansas on March 14, 2006 and returned on March 17, 2006 after flying 25,262 statute miles (40,655&amp;nbsp;km).
+
+There are only seven absolute world records for fixed-wing aircraft recognized by the [[Fédération Aéronautique Internationale]] and Fossett broke three of them in the Virgin Atlantic ''GlobalFlyer''.&lt;ref&gt;{{cite web|url=http://records.fai.org/general_aviation/absolute.asp |title=Current Absolute General Aviation World Records |publisher=Records.fai.org |accessdate=July 18, 2010 |archiveurl=https://web.archive.org/web/20100628225432/http://records.fai.org/general_aviation/absolute.asp &lt;!--Added by H3llBot--&gt; |archivedate=June 28, 2010}}&lt;/ref&gt; All three records were previously held by [[Dick Rutan]] and [[Jeana Yeager]] from their flight in the [[Rutan Voyager|Voyager]] in 1986. Fossett contributed the ''GlobalFlyer'' to the [[Smithsonian Institution]]'s permanent collection.&lt;ref name="npr2007"&gt;{{cite web
+  | title = Adventurer Steve Fossett No Stranger to Tall Odds
+  | publisher = [[NPR]]
+  | url = https://www.npr.org/templates/story/story.php?storyId=14176484&amp;ft=1&amp;f=3
+  | accessdate = September 7, 2007
+}}&lt;/ref&gt; It is on display at the [[Udvar-Hazy Center]] of the Smithsonian's [[National Air and Space Museum]].&lt;ref name="si_globalflyer_permanent_display"&gt;{{cite web
+ |url=http://www.nasm.si.edu/events/pressroom/releaseDetail.cfm?releaseID=153 
+ |title=National Air and Space Museum to Welcome Steve Fossett's History-Making Airplane for Permanent Display at Steven F. Udvar-Hazy Center 
+ |accessdate=October 2, 2008 
+ |date=May 19, 2006 
+ |work=Press Room 
+ |publisher=Smithsonian National Air and Space Museum 
+ |location=Washington, DC 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20090407111749/http://www.nasm.si.edu/events/pressroom/releaseDetail.cfm?releaseID=153 
+ |archivedate=April 7, 2009 
+ |df= 
+}}&lt;/ref&gt; Fossett flew the plane to the Center and taxied the plane to the front door.&lt;ref name="airport_journal_globalflyer_udvar_delivery"&gt;{{cite web
+ |url=http://www.airportjournals.com/Display.cfm?varID=0611030 
+ |title=Steve Fossett: Always "Scouting for New Adventures" Part 2 
+ |accessdate=October 2, 2008 
+ |author=Di Freeze 
+ |date=November 2006 
+ |work=Airport Journals 
+ |location=US 
+ |quote=I had permission to do a low pass over the airport, and then I came around, landed and taxied up to the door of the museum and gave it to them. 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20110707100819/http://www.airportjournals.com/Display.cfm?varID=0611030 
+ |archivedate=July  7, 2011 
+ |df= 
+}}&lt;/ref&gt;
+
+====Transcontinental aircraft records====
+Fossett set two U.S. transcontinental fixed-wing aircraft records in the same day. On February 5, 2003, Fossett and co-pilot Doug Travis flew his [[Cessna Citation X]] jet from [[San Diego]], California to [[Charleston, South Carolina]] in 2 hours, 56 minutes, 20 seconds, at an average speed of {{convert|726.83|mph|km/h|abbr=on}} to smash the transcontinental record for non-supersonic jets.
+
+He returned to San Diego, then flew the same course as co-pilot for fellow adventurer [[Joe Ritchie]] in Ritchie's turboprop [[Piaggio Avanti]]. Their time was 3 hours, 51 minutes, 52 seconds, an average speed of {{convert|546.44|mph|km/h|abbr=on}}, which broke the previous turboprop transcontinental record held by [[Chuck Yeager]] and Renald Davenport.
+
+Fossett also set the east-to-west transcontinental record for non-supersonic fixed-wing aircraft on September 17, 2000. He flew from [[Jacksonville, Florida]] to San Diego, California in 3 hours, 29 minutes, at an average speed of {{convert|591.96|mph|km/h|abbr=on}}.
+
+====First trans-Atlantic flight re-enactment====
+On July 2, 2005, Fossett and co-pilot Mark Rebholz recreated the first nonstop crossing of the Atlantic which was made by the British team of [[Alcock and Brown|John Alcock and Arthur Whitten Brown]] in June 1919 in a [[Vickers Vimy]] biplane. Their flight from [[St. John's, Newfoundland and Labrador|St. John's, Newfoundland]], Canada to [[Clifden]], [[County Galway]], Ireland in the open cockpit Vickers Vimy replica took 18 hours 25 minutes with 13 hours flown in instrument flight conditions. Because there was no airport in Clifden, Fossett and Rebholz landed on the 8th fairway of the [[Connemara]] Golf Links.&lt;ref name="airportjournal"/&gt;
+
+====Glider records====
+The team of Steve Fossett and Terry Delore (NZ) set ten official world records in gliders while flying in three major locations: New Zealand, Argentina, and Nevada, United States. An asterisk (*) indicates records subsequently broken by other pilots.
+
+* Distance (Free) World Record 2,192.9&amp;nbsp;km, December 4, 2004.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Free Distance: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=420 
+ |archive-url=https://web.archive.org/web/20020907201011/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=420 
+ |dead-url=yes 
+ |archive-date=September  7, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* Triangle Distance (Free) World Record* 1,509.7&amp;nbsp;km, December 13, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Distance over a triangular course: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=16 
+ |archive-url=https://web.archive.org/web/20020907102009/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=16 
+ |dead-url=yes 
+ |archive-date=September  7, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* Out and Return Distance (Free) World Record* 2,002.44&amp;nbsp;km, November 14, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Free out-and-return distance: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=391 
+ |archive-url=https://web.archive.org/web/20020907084642/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=391 
+ |dead-url=yes 
+ |archive-date=September  7, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* 1,500 Kilometer Triangle World Record {{convert|119.11|km/h|mph|abbr=on}}, December 13, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Speed over a triangular course of 1500 km: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=96 
+ |archive-url=https://web.archive.org/web/20041123221306/http://records.fai.org/gliding/history.asp?id1=DO&amp;id3=96&amp;id2=1 
+ |dead-url=yes 
+ |archive-date=November 23, 2004 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* 1,250 Kilometer Triangle U.S. National Record {{convert|143.48|km/h|mph|abbr=on}}. Exceeded world record by 0.01&amp;nbsp;km/h, July 30, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Speed over a triangular course of 1250 km: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=95 
+ |archive-url=https://web.archive.org/web/20020903034910/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=95 
+ |dead-url=yes 
+ |archive-date=September  3, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* 750 Kilometer Triangle World Record* {{convert|171.29|km/h|mph|abbr=on}}, July 29, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Speed over a triangular course of 750 km: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=93 
+ |archive-url=https://web.archive.org/web/20030526071125/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=93 
+ |dead-url=yes 
+ |archive-date=May 26, 2003 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* 500 Kilometer Triangle World Record* {{convert|187.12|km/h|mph|abbr=on}}, November 15, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Speed over a triangular course of 500 km: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=92 
+ |archive-url=https://web.archive.org/web/20020907201105/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=92 
+ |dead-url=yes 
+ |archive-date=September  7, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* 1,000&amp;nbsp;km Out-and-Return World Record* {{convert|166.46|km/h|mph|abbr=on}}, December 12, 2002.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Speed over an out-and-return course of 1,000 km: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=410 
+ |archive-url=https://web.archive.org/web/20020907201121/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=410 
+ |dead-url=yes 
+ |archive-date=September  7, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* 1,500&amp;nbsp;km Out-and-Return World Record* {{convert|156.61|km/h|mph|abbr=on}}, November 14, 2003.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Speed over an out-and-return course of 1500 km: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=411 
+ |archive-url=https://web.archive.org/web/20020907100403/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=411 
+ |dead-url=yes 
+ |archive-date=September  7, 2002 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt;
+* Triangle Distance (Declared) World Record* 1,502.6&amp;nbsp;km, December 13, 2003.
+* Out-and-Return Distance (Declared) World Record* 1,804.7&amp;nbsp;km, November 14, 2003.
+
+Fossett and co-pilot [[Einar Enevoldson]] flew a glider into the [[stratosphere]] on August 29, 2006. The flight set the [[Flight altitude record|Absolute Altitude Record]] for gliders at {{convert|15460|m|ft}}.&lt;ref&gt;{{cite web
+ |title=Gliding World Records: Sub-class DO (Open Class Gliders) Absolute altitude: 
+ |work=History of Aviation and Space World Records 
+ |publisher=[[Fédération Aéronautique Internationale]] 
+ |url=http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=98 
+ |archive-url=https://web.archive.org/web/20050219015448/http://records.fai.org/gliding/history.asp?id1=DO&amp;id2=1&amp;id3=98 
+ |dead-url=yes 
+ |archive-date=February 19, 2005 
+ |accessdate=November 16, 2007 
+ |df= 
+}}&lt;/ref&gt; Since the glider cockpit was unpressurized, the pilots wore full [[pressure suit]]s (similar to space suits) so that they would be able to fly to altitudes above {{convert|45000|ft|m}}. Fossett and Enevoldson had made previous attempts in three countries over a period of five years before finally succeeding with this record flight. This endeavor is known as the [[Perlan Project]].
+
+===Cross-country skiing===
+As a young adventurer, Fossett was one of the first participants in the [[Worldloppet]], a series of cross country ski marathons around the world. While he had little experience as a skier, he was in the first group of 'citizen athletes' to participate in the series debut in 1979. And in 1980, he became the eighth skier to complete all 10 of the long distance races, earning a Worldloppet medallion. He has also set [[cross-country skiing]] records in Colorado, setting an [[Aspen, Colorado|Aspen]] to [[Vail, Colorado|Vail]] record of 59&amp;nbsp;h, 53&amp;nbsp;min, 30&amp;nbsp;s in February 1998, and an Aspen to [[Eagle, Colorado|Eagle]] record of 12 hr, 29 min in February 2001.&lt;ref name="airportjournal"/&gt;
+
+===Mountain climbing===
+Fossett was a lifelong mountain climber and had climbed the highest peaks on six of the seven continents.&lt;ref name="stanfordalumni"/&gt;&lt;ref name="foxnews"/&gt; In the 1980s, he became friends with [[Patrick Morrow]], who was attempting to climb the highest peaks on all seven continents for the "[[Seven Summits]]" world record, which Morrow achieved in 1985.  Fossett accompanied Morrow for his last three peaks, including [[Vinson Massif]] in Antarctica, [[Carstensz Pyramid]] in Oceania, and [[Elbrus]] in Europe.&lt;ref name="airportjournal"/&gt; While Fossett went on to climb almost all of the Seven Summits peaks himself, he declined to climb [[Mount Everest]] in 1992 due to [[asthma]].&lt;ref name="airportjournal"/&gt; He later returned to Antarctica to climb again.
+
+===Other accomplishments===
+Fossett competed in and completed premier endurance sports events, including the {{convert|1165|mi|km|adj=on}} [[Iditarod Trail Sled Dog Race]], in which he finished 47th on his second try in 1992 after training for five years. He became the 270th person to swim across the [[English Channel]] on his fourth try in September 1985 with a time of 22 hours, 15 minutes.&lt;ref name="airportjournal"/&gt;&lt;ref name="stanfordalumni"/&gt;&lt;ref name="apachievements"/&gt; Although Fossett said he was not a good enough swimmer "to make the varsity swim team", he found that he could swim for long periods.&lt;ref name="airportjournal"/&gt; Fossett competed in the [[Ironman Triathlon]] in Hawaii&lt;ref name="stlpostdispatch"/&gt; (finishing in 1996 in 15:53:10),&lt;ref&gt;{{cite web
+ |url=http://ironman.com/assets/files/results/worldchampionship/1996.htm 
+ |title=1996 Ironman Triathlon World Championship 
+ |accessdate=September 7, 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070927173557/http://ironman.com/assets/files/results/worldchampionship/1996.htm 
+ |archivedate=September 27, 2007 
+ |df= 
+}}&lt;/ref&gt; the [[Boston Marathon]], and the [[Leadville Trail 100]], a {{convert|100|mi|km|adj=on}} Colorado [[ultramarathon]] which involves running up elevations of more than {{convert|12,600|ft|m}} in the [[Rocky Mountains]].&lt;ref name="stanfordalumni"/&gt;&lt;ref name="cnnstory2"/&gt;
+
+Fossett raced cars in the mid-1970s and later returned to the sport in the 1990s.&lt;ref name="airportjournal"/&gt; He competed in the [[24 hours of Le Mans]] road race in 1993 and in 1996,&lt;ref name="USAToday2006"/&gt;&lt;ref name="foxnews"/&gt; along with the [[Dakar Rally|Paris to Dakar Rally]].&lt;ref name="stanfordalumni"/&gt;
+
+===Previous attempts at records===
+Fossett tried six times over seven years for the first solo balloon circumnavigation. His fifth attempt cost him $1.25 million of his own money; his sixth and successful attempt was commercially sponsored.&lt;ref name="airportjournal"/&gt; Two of the attempts were launched from [[Busch Memorial Stadium]] in [[St. Louis]], Missouri. [[Washington University in St. Louis]] served as control center for four of the six flights, including the record-breaking one.&lt;ref name="stlpostdispatch"/&gt;
+
+In 1998, one of the unsuccessful attempts at the ballooning record ended with a five-mile (8&amp;nbsp;km) plummet into the [[Coral Sea]] off the coast of Australia that nearly killed Fossett;&lt;ref name="npr2007"/&gt; he waited 72 hours to be rescued, at a cost of $500,000.&lt;ref name="stlpostdispatch"/&gt;&lt;ref name="knightridder2002"&gt;{{cite web
+  | title =  What did Steve Fossett do for us?
+  | publisher = [[Knight-Ridder]]
+  | url = http://www.highbeam.com/doc/1G1-120230678.html
+  | accessdate = September 8, 2007
+}}&lt;/ref&gt;&lt;ref name="cbseveningnews"&gt;{{cite web
+  | title =   Steve Fossett Breaks Ballooning World Record
+  | publisher = [[CBS News]]
+  | url = http://www.highbeam.com/doc/1P1-54087549.html
+  | accessdate = September 8, 2007
+}}&lt;/ref&gt; The first attempt began in the Black Hills of [[South Dakota]] and ended outside [[Hampton, New Brunswick]] {{convert|1800|mi|km}} later. The second attempt, launched from Busch Stadium, cost $300,000 and lasted {{convert|9600|mi|km}} before being downed halfway in a tree in [[India]]; the trip set records at the time for duration and distance of flight (with Fossett doubling his own previous record) and was called ''Solo Spirit'' after Lindbergh's ''[[Spirit of St. Louis]]''.&lt;ref name="stanfordalumni"/&gt;&lt;ref name="stlpostdispatch"/&gt; Fossett slept an average of two hours a night for the six-day journey, conducted in below-zero temperatures. After taking too much fuel to cross the Atlantic Ocean and circling [[Libya]] for 12 hours while officials decided whether or not to allow him into their airspace, Fossett did not have enough fuel to finish the flight. That year, Fossett flew farther for less money than better-financed expeditions (including one supported by Richard Branson) in part due to his ability to fly in an unpressurized capsule, a result of his heavy physical training at high altitudes.&lt;ref name="stanfordalumni"/&gt; The ''Solo Spirit'' capsule was put on display at the Smithsonian's National Air and Space Museum across from the ''[[Apollo 11]]'' command module.&lt;ref name="stanfordalumni"/&gt;
+
+==Scouting==
+Fossett grew up in [[Garden Grove, California]] and earned the Eagle Scout award in 1957. He credited his experience in Scouting as a foundation for much of his later success. "As a Scout, I learned how to set goals and achieve them," he once said. "Being a Scout also taught me leadership at a young age when there are few opportunities to be a leader. Scouting values have remained with me throughout my life, in my business career, and now as I take on new challenges."&lt;ref name="Eagletter Winter 2007"/&gt; In his later years, he was described as a "legend" by fellow Scouts.&lt;ref name="jacksonsun"&gt;{{cite news  | last =Beadle
+  | first =Nicholas   | title =Missing adventurer Steve Fossett has tenuous ties to area  | publisher =Jackson Sun  | date =September 12, 2007
+  | url =http://www.jacksonsun.com/apps/pbcs.dll/article?AID=/20070906/NEWS01/709060304/1002   | accessdate =September 12, 2007}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; As a national BSA volunteer, he served as Chairman of the Northern Tier High Adventure Committee, Chairman of the Venturing Committee, member of the Philmont Ranch Committee, and member of the National Advisory Council. He later became a member of the BSA National Executive Board, and in 2007, Fossett succeeded Secretary of Defense [[Robert Gates]] as president of the [[National Eagle Scout Association]]. Fossett previously had served on the [[World Scout Committee]].&lt;ref name="airportjournal"/&gt;
+
+Fossett was honored with the [[Distinguished Eagle Scout Award]] in 1992. In 1999 he received the [[Silver Buffalo Award]], BSA's highest recognition of service to youth.&lt;ref name=boyscoutsPR/&gt;
+
+==Awards and honors==
+
+In 2002, Fossett received aviation's highest award, the Gold Medal of the [[Fédération Aéronautique Internationale]] (FAI) and in July 2007, he was inducted into the [[National Aviation Hall of Fame|Aviation Hall of Fame]].&lt;ref name="telegraphJune2007"/&gt; He was presented at the ceremony by [[Dick Rutan]].
+
+In 1997, Fossett was inducted into the Balloon and Airship Hall of Fame.&lt;ref name="airportjournal"/&gt; In February 2002, Fossett was named America's [[Rolex]] Yachtsman of the Year by the [[American Sailing Association]] at the [[New York Yacht Club]].&lt;ref name="yachtsman"/&gt; He was the oldest recipient of the award in its 41-year history, and the only recipient to fly himself to the ceremony in his own plane.&lt;ref name="yachtsman"/&gt;
+
+He received the Explorers Medal from the [[Explorers Club]] following his solo balloon circumnavigation. He was given the Diplôme de Montgolfier by the [[Fédération Aéronautique Internationale]] in 1996. He received the [[Harmon Trophy]], given annually "to the world's outstanding aviator and aeronaut", in 1998 and 2002. He received the Grande Médaille of the [[Aéro-Club de France]], and the British [[Royal Aero Club]]'s Gold Medal in 2002. He received the [[Order of Magellan]] and the [[French Republic]]'s [[Médaille de l'Aéronautique]] in 2003.&lt;ref name="airportjournal"/&gt;
+
+The [[Scaled Composites White Knight Two]] VMS ''Spirit of Steve Fossett'',&lt;ref&gt;{{cite news
+|url=http://www.time.com/time/nation/article/0,8599,1670216,00.html  |title=My Friend, Steve Fossett |accessdate= December 20, 2007 |publisher=''[[Time (magazine)|Time]]'' |first=Richard |last=Branson |date=October 10, 2007}}&lt;/ref&gt; was named in Fossett's honor by his friend [[Richard Branson]], in 2007.&lt;ref&gt;{{cite news |url=http://thelede.blogs.nytimes.com/2007/10/11/the-legend-of-steve-fossett-takes-root/index.html?ex=1349841600&amp;en=45eab0da4e07992c&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss |title=The Legend of Steve Fossett Takes Root |accessdate=December 20, 2007 |publisher=New York Times |first=Mike |last=Nizza |date=October 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071212225855/http://thelede.blogs.nytimes.com/2007/10/11/the-legend-of-steve-fossett-takes-root/index.html?ex=1349841600&amp;en=45eab0da4e07992c&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss |archivedate=December 12, 2007 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web |first=Ari |last=Burack |url=http://www.sanfranciscosentinel.com/?p=5903 |title=Sir Richard Branson... |accessdate=February 28, 2008 |publisher=San Francisco Sentinel |date=October 10, 2007}}&lt;/ref&gt; Following his disappearance, Peggy Fossett and Dick Rutan accepted the Spread Wings Award in Steve Fossett's behalf at the 2007 Spreading Wings Gala, [[Wings Over the Rockies Air and Space Museum]], [[Denver, Colorado]].&lt;ref&gt;[http://www.rockymountainnews.com/drmn/local/article/0,1299,DRMN_15_5738392,00.html Rocky Mountain News: ''Missing aviator Steve Fossett honored at Wings Over Rockies''] by Tillie Fong, November 3, 2007. Retrieved 2008-02-16. {{webarchive |url=https://web.archive.org/web/20081005174625/http://www.rockymountainnews.com/drmn/local/article/0,1299,DRMN_15_5738392,00.html |date=October 5, 2008 }}&lt;/ref&gt;
+
+In 2010, Fossett was inducted into the [[International Air &amp; Space Hall of Fame]] at the [[San Diego Air &amp; Space Museum]].&lt;ref&gt;Sprekelmeyer, Linda, editor. ''These We Honor: The International Aerospace Hall of Fame''. Donning Co. Publishers, 2006. [[International Standard Book Number|ISBN]] [[Special:BookSources/978-1-57864-397-4|978-1-57864-397-4]].&lt;/ref&gt;
+
+==Death==
+===Disappearance and search===
+[[File:Champion 8kcab super decathlon g-ezpz arp.jpg|thumb|right|Champion 8KCAB Super Decathlon]]
+At 8:45 a.m. on the morning of Monday, September 3, 2007 (Labor Day), Fossett took off in a single-engine [[American Champion Decathlon|Super Decathlon]] light aircraft from the [[Flying-M Ranch]] private airstrip ({{Coord|38|36|13|N|119|00|11|W|type:airport_region:US-NV_scale:10000|name=Flying-M Ranch}}), near [[Smith Valley, Nevada]].
+
+When he failed to return, searches were launched about six hours later. The aircraft had [[Aircraft registration|tail number]] {{Airreg|N|240R}} registered to the "Flying M Hunting Club, Inc." There was no signal from the plane's [[Emergency position-indicating radiobeacon station|emergency locator transmitter]] (ELT) designed to be automatically activated in the event of a crash, but it was of an older type notorious for failing to operate after a crash.&lt;ref&gt;{{cite news |url=https://www.usatoday.com/news/nation/2007-09-05-fossett_N.htm?csp=34 |title=Fossett search stresses need for new beacons  |access-date = September 8, 2007 |author=Levin, Alan |date= September 6, 2007 | work=USA Today|publisher= Gannett |pages= |quote=The small plane piloted by Fossett, 63, was equipped with an older emergency beacon that is notorious for failing to operate after crashes, according to federal safety officials and the agencies that monitor the emergency beacons.}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+| last =Hildebrand
+| first =Kurt
+| title =Searchers looking for world record holder Steve Fossett
+| work=
+| pages =
+| language =
+| publisher =''The Record-Courier''
+| date = September 4, 2007
+| url =http://www.recordcourier.com/article/20070904/NEWS/70904002
+| access-date =September 4, 2007  }}&lt;/ref&gt;
+
+It was first thought that Fossett may have also been wearing a [[Breitling SA|Breitling]] Emergency watch with a manually operated ELT that had a range of up to {{convert|90|mi|km}}, but no signal was received from it. On September 13, Fossett's wife, Peggy, issued a statement clarifying that he owned such a watch but was not wearing it when he took off for the Labor Day flight.&lt;ref&gt;{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2007/09/05/AR2007090502116.html|title=Rescue Crews Find No Sign of Missing Adventurer |access-date = September 8, 2007 |author= Geis, Sonya|date= September 6, 2007 | work=[[The Washington Post]] |quote=In a telephone interview, [Fossett's friend Granger] Whitelaw said Fossett always wears a Swiss-made Breitling watch with the same type of electronic location transmitter that commercial jets use to alert rescuers when they crash.}}&lt;/ref&gt;&lt;ref name="cnnstory4"&gt;{{cite news |url=http://edition.cnn.com/2007/US/09/13/fossett/index.html?iref=mpstoryview |title= Search for Fossett could solve decades-old mysteries |access-date = September 13, 2007 |date= September 13, 2007 | work=[[CNN]] |quote=Fossett's wife, Peggy, issued a statement Thursday in response to questions about whether her husband was wearing a watch with an emergency transmitter on his flight. She said he owned such a Breitling watch but did not bring it on the trip.}}&lt;/ref&gt;
+
+{{Location map+|USA Nevada|float=left|width=250|caption=Search area on the borders of California and Nevada|places=
+  {{Location map~|USA Nevada|lon_dir=W|lat_dir=N|lat_deg=38|lat_min=36|lon_deg=119|lon_min=0|label=[[Flying-M Ranch|Flying-M&amp;nbsp;Ranch]]|position=top}}
+  {{Location map~|USA Nevada|lon_dir=W|lat_dir=N|lat_deg=38|lat_min=12|lon_deg=119|lon_min=0|label=[[Bodie, California|Bodie Hills]]}}
+  {{Location map~|USA Nevada|lon_dir=W|lat_dir=N|lat_deg=37|lat_min=50|lon_deg=119|lon_min=30|label=[[Yosemite National Park|Yosemite&amp;nbsp;National&amp;nbsp;Park]]}}
+  {{Location map~|USA Nevada|lon_dir=W|lat_dir=N|lat_deg=37|lat_min=40|lon_deg=119|lon_min=08|label=Crash&amp;nbsp;site&amp;nbsp;identified&amp;nbsp;in&amp;nbsp;2008|position=bottom}} 
+}}
+
+Fossett took off with enough fuel for four to five hours of flight, according to spokesperson Major Cynthia S. Ryan, Public Information Officer with the [[Civil Air Patrol]] (CAP).&lt;ref name="CNN4 – September 07"&gt;{{cite news
+| title =Aviation record-holder Steve Fossett missing
+| publisher =CNN
+| date = September 4, 2007
+| url =http://www.cnn.com/2007/US/09/04/fossett.missing/index.html
+| access-date = September 4, 2007
+}}&lt;/ref&gt; Searchers with CAP were told that Fossett had gone out for a short flight over favorite territory, possibly including the areas of Lucky Boy Pass and Walker Lake. At one point it was suggested that he might have been out scouting for potential sites to conduct a planned land speed run.&lt;ref name="CNN4 – September 07" /&gt;
+A [[Federal Aviation Administration]] (FAA) spokesperson noted that Fossett apparently did not file a [[flight plan]] and was not required to do so.&lt;ref&gt;{{cite news|last=Chereb|first =Sandra|title =Adventurer Steve Fossett's Plane Missing|agency=Associated Press|url=https://www.washingtonpost.com/wp-dyn/content/article/2007/09/04/AR2007090401945_pf.html|date=September 5, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.theguardian.com/international/story/0,,2162338,00.html|title=Steve Fossett reported missing by US aviation authorities|date=September 4, 2007| work=The Guardian}}&lt;/ref&gt; On the second day, Civil Air Patrol aircraft searched but found no trace of wreckage after initiating a complex and expanding search of what would later evolve into a nearly {{convert|20000|sqmi|km2|sigfig=2}} area of some of the most rugged terrain in North America. The search presented a severe challenge from the standpoint of safely flying hundreds of hours in very difficult conditions. On the first day of CAP searching, operations were suspended by mid-day due to high winds, according to Ryan. By the fourth day, the CAP was using fourteen aircraft in the search effort, including one equipped with the [[Airborne Real-time Cueing Hyperspectral Enhanced Reconnaissance|ARCHER]] system that could automatically scan detailed imaging for a given signature of the missing aircraft.&lt;ref&gt;{{cite web|url=http://www.aviationweek.com/aw/generic/story.jsp?id=news/Foss09067.xml&amp;headline=Advanced%20Recon%20System%20Aids%20Fossett%20Search&amp;channel=null|title= Advanced Recon System Aids Fossett Search |access-date = September 8, 2007 |author= Fiorino, Frances |date=September 2007  | work=[[Aviation Week]]|publisher= McGraw-Hill |quote=According to CAP, a set of parameters describing the intended target, including its color and shape, is programmed into the ARCHER system.}}&lt;/ref&gt;
+
+By September 10, search crews had found eight previously unidentified crash sites,&lt;ref&gt;{{cite news |url=http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/09/10/MNF0S2BJT.DTL |title=Search for Fossett turns up wrecks of 8 other small planes |access-date = September 10, 2007 | last=Friess | first=Steve |date=September 10, 2007 | work=[[San Francisco Chronicle]] |publisher=Hearst Communications Inc. |pages= A–1  |quote=The search for Fossett across a {{convert|17000|sqmi|km2|adj=on}} swath of the Sierra Nevada has revealed the wreckage of eight other small planes&amp;nbsp;...}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url = https://www.usatoday.com/news/nation/2007-09-10-fossett_N.htm| title = Searchers frustrated over Fossett search | access-date = September 14, 2007 |date = September 10, 2007| agency=Associated Press | work=[[USA Today]]|quote=...search parties have spotted wreckage of eight other airplanes that had been lost for years in and around the rugged mountains of western Nevada.}}&lt;/ref&gt;
+some of which were decades old,&lt;ref&gt;{{cite web |url=http://www.montereyherald.com/ci_6836636 |title= Vast, desolate area hinders Fossett search |access-date = September 10, 2007 |author= Riley, Brendan |date=September 8, 2007 | work=Monterey Herald|publisher= |pages= |language= |quote=...another downed plane Friday that was spotted on a hillside about {{convert|45|mi|km}} southeast of Reno&amp;nbsp;... turned out to be an old crash, a plane last registered in Oregon in 1975}}&lt;/ref&gt; but none related to Fossett's disappearance. The urgency of what was still regarded as a rescue mission meant that minimal immediate effort was made to identify the aircraft in the uncharted crash sites,&lt;ref&gt;{{cite news | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/10/MNF0S2BJT.DTL | title = Search for Fossett turns up wrecks of 8 other small planes | access-date = June 24, 2009 |date = September 10, 2007 | last=Friess | first=Steve | work=[[San Francisco Chronicle]]|quote=...Little is known about the eight crashes spotted in the past week, because searchers "put boots on the ground" only long enough to ascertain they were not Fossett's plane, said Civil Air Patrol spokeswoman Maj. Cynthia Ryan.}}&lt;/ref&gt; although some had speculated that one could have belonged to [[Charles Clifford Ogle]], missing since 1964.&lt;ref&gt;{{cite web|url=http://ap.google.com/article/ALeqM5h4Tt3Ok0yMNfSsatpddlmScxyEiQ |title=Aviator's Fate Puzzles Search Crews |access-date=September 8, 2007 |author=Gerdner, Tom |date=September 8, 2007 |format= | work=|publisher=Associated Press |quote=In their quest to find missing aviator Steve Fossett, searchers have come across eight uncharted plane crash wreckage sites. But none of the wrecks shed light on what may have happened to the multimillionaire. |deadurl=yes |archiveurl=https://web.archive.org/web/20071019232322/http://ap.google.com/article/ALeqM5h4Tt3Ok0yMNfSsatpddlmScxyEiQ |archivedate=October 19, 2007 |df=mdy }}&lt;/ref&gt;
+All told, about two dozen aircraft were involved in the massive search, operating from the primary search base at Minden, Nevada, with a secondary search base located at Bishop, California. CAP searchers came from Wings across the United States, including Nevada, Utah, California, Arizona, New Mexico, Idaho, Oregon, Pennsylvania and Texas.&lt;ref&gt;http://www.cnn.com/2007/US/09/08/fossett.ap/index.html {{Dead link|date=October 2008}}&lt;/ref&gt;
+
+On September 7, [[Google|Google Inc.]] helped the search for the aviator through its connections to contractors that provide [[satellite imagery]] for its [[Google Earth]] software. [[Richard Branson]], a British billionaire and friend of Fossett, said he and others were coordinating efforts with Google to see if any of the high-resolution images might include Fossett's aircraft.
+
+On September 8, the first of a series of new high-resolution imagery from [[DigitalGlobe]] was made available via the [[Amazon Mechanical Turk]] beta website so that users could flag potential areas of interest for searching, in what is known as [[crowdsourcing]]. By September 11, up to 50,000 people had joined the effort, scrutinizing more than 300,000 278-square-foot squares of the imagery. Peter Cohen of Amazon believed that by September 11, the entire search area had been covered at least once. Amazon's search effort was shut down the week of October 29, without any measurable success.&lt;ref name="wired 11 sept"&gt;[https://www.wired.com/software/webservices/news/2007/09/distributed_search 50,000 Volunteers Join Distributed Search For Steve Fossett], [[Wired (magazine)#Website|Wired News]], By Steve Friess, September 11, 2007, 2:00 p.m.&lt;/ref&gt;&lt;ref name="WiredNov6"&gt;{{cite web | title=Online Fossett Searchers Ask, Was It Worth It? | last=Friess | first=Steve | work=Wired | url=http://archive.wired.com/techbiz/it/news/2007/11/fossett_search  | date=November 6, 2007  | access-date=July 15, 2016 }}&lt;/ref&gt; Major Cynthia Ryan later said it had been more of a hindrance than a help.&lt;ref name="WiredNov6" /&gt; She said that persons purporting to have seen the aircraft on the Mechanical Turk or have special knowledge clogged her email during critical days of the search, and for even months afterward. Many of the ostensible sightings proved to be images of CAP aircraft flying search grids, or simply mistaken artifacts of old images. Psychics flooded the search base in Minden with predictions of where the aviator could be found. Ryan got the majority of these calls personally, often at her home, in the middle of the night. One man from Canada was particularly persistent with daily calls to Ryan, interfering with her press briefings. Ryan asked her Incident Commander to issue a cease and desist order, backed up by the [[Royal Canadian Mounted Police]] (RCMP) if necessary. Ryan noted that every message, letter, or phone call was taken seriously, which swamped the USAF specialists assigned the task of reviewing every one of them without regard to apparent plausibility. In retrospect, the crowdsource effort was "not ready for prime time", according to Ryan.
+
+On September 12, survival experts speculated that Fossett was likely to be dead.&lt;ref&gt;http://edition.cnn.com/2007/US/09/12/fossett.search.ap/index.html  {{webarchive |url=https://web.archive.org/web/20070912203918/http://edition.cnn.com/2007/US/09/12/fossett.search.ap/index.html | title=Survival experts doubt Fossett is still alive | date=September 12, 2007 }}&lt;/ref&gt;&lt;ref&gt;"Steve Fossett likely dead, survival experts say", http://www.msnbc.msn.com/id/20732023/&lt;/ref&gt;
+
+On September 17, the Nevada Wing of the Civil Air Patrol said it was suspending all flights in connection with its search operations,&lt;ref&gt;{{cite web|url=http://www.check-six.com/lib/Famous_Missing/Fossett.htm |title=Missing – Steve Fossett |publisher=Check-Six.com |access-date=July 18, 2010}}&lt;/ref&gt; but National Guard search flights, private search flights and ground searches continued.&lt;ref&gt;{{cite news| url=http://www.cnn.com/2007/US/09/18/fossett.search.ap/index.html | title=Search for aviator scaled back | archiveurl=https://web.archive.org/web/20071113161526/http://www.cnn.com/2007/US/09/18/fossett.search.ap/index.html | archivedate=November 13, 2007 | date=September 18, 2007 | access-date=February 23, 2015 | work=CNN}}&lt;!-- No useful content in archived version. --&gt;&lt;/ref&gt;
+
+The [[National Transportation Safety Board]] (NTSB) began a preliminary investigation into the likely crash of the plane that Fossett was flying.&lt;ref&gt;{{cite web|url=http://www.ntsb.gov/ntsb/brief.asp?ev_id=20070917X01399&amp;key=1 |title=NTSB Preliminary Report – SEA07FAMS2 – on the loss of N240R |publisher=Ntsb.gov |access-date=July 18, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20091012024150/http://www.ntsb.gov/ntsb/brief.asp?ev_id=20070917X01399&amp;key=1 |archivedate=October 12, 2009 }}&lt;/ref&gt; The preliminary report originally stated that Fossett was "presumed fatally injured and the aircraft substantially damaged", but was subsequently revised to remove that assumption.&lt;ref&gt;{{cite web | url = http://www.kolotv.com/home/headlines/9904426.html | title = Federal Agency Retracts Fossett Statement After KOLO 8 Probe | access-date = September 21, 2007 | author=  Howard, Scott and Stewart Campbell |  date = September 20, 2007 | work=[[KOLO-TV]] News| quote=...the National Transportation Safety Board's officials preliminary report noted that Fossett was "presumed fatally injured and the aircraft substantially damaged."}}&lt;/ref&gt; Fossett's friend and fellow explorer, Sir Richard Branson, made similar public statements.&lt;ref&gt;https://news.yahoo.com/s/ap/20071015/ap_on_re_us/steve_fossett   {{webarchive |url=https://web.archive.org/web/20071020003409/http://news.yahoo.com/s/ap/20071015/ap_on_re_us/steve_fossett |date=October 20, 2007 }}&lt;/ref&gt;
+
+On September 19, 2007, authorities confirmed they would stop actively looking for Fossett in the Nevada Desert, but would keep air crews on standby to fly to possible crash sites. "Nobody is giving up on this man", said department spokesman. "The search is going to continue. It's just going to be scaled back", he said.&lt;ref&gt;[http://news.sky.com/skynews/article/0,,30200-1284904,00.html Search For Missing Adventurer Wound Down |Sky News|World News&lt;!-- Bot generated title --&gt;]  {{webarchive|url=https://web.archive.org/web/20071011192324/http://news.sky.com/skynews/article/0%2C%2C30200-1284904%2C00.html |date=October 11, 2007 }}&lt;/ref&gt; On September 30 it was announced that after further analysis of radar data from the day of his disappearance, ground teams and two aircraft had resumed the search.&lt;ref&gt;{{cite news|url=http://www.foxnews.com/story/0,2933,298646,00.html |title=Search for Missing Aviator Steve Fossett Ramped Up After New Air Force Analysis – Local News &amp;#124; News Articles &amp;#124; National News &amp;#124; US News |publisher=FOXNews.com |date=September 30, 2007 |access-date=July 18, 2010}}&lt;/ref&gt;
+
+On October 2, 2007, the Civil Air Patrol announced it had called off its search operation&lt;ref&gt;{{cite news | url = http://www.cnn.com/2007/US/10/02/missing.millionaire/index.html | title =  Search called off for adventurous aviator Steve Fossett | access-date =February 24, 2015 | author=  CNN |  date = October 3, 2007 | work=[[CNN]] News| quote=The Civil Air Patrol has called off the search for multimillionaire adventurer Steve Fossett, nearly a month after he took off from a Nevada ranch, the agency announced Tuesday.}}&lt;/ref&gt;
+Ryan later noted that the search was the largest, most complex peacetime search for an individual in U.S. history.
+
+On August 23, 2008, almost a year after Fossett disappeared, twenty-eight friends and admirers conducted a foot search based on new clues gathered by the team. That search concluded on September 10.&lt;ref&gt;{{cite news|title=New search starts for Steve Fossett | work=Reno Gazette Journal |date=August 31, 2008 |url=http://news.rgj.com/apps/pbcs.dll/article?AID=/20080831/NEWS18/80831007 |access-date=September 12, 2008 |deadurl=yes |archiveurl=https://archive.is/20081005162146/http://news.rgj.com/apps/pbcs.dll/article?AID=/20080831/NEWS18/80831007 |archivedate=October 5, 2008 }}&lt;/ref&gt;&lt;ref&gt;{{cite web
+| url = http://www.ksdk.com/news/local/story.aspx?storyid=154490
+| title = Another Fossett search winding up in Nevada
+| access-date = October 14, 2008
+| date = September 10, 2008
+| publisher = Ksdk.com
+| location = US}}&lt;/ref&gt;
+
+===Search and rescue costs===
+On May 1, 2008, the ''[[Las Vegas Review-Journal]]'' attributed to Nevada State Governor [[Jim Gibbons (American politician)|Jim Gibbons']] spokesman, Ben Kieckhefer,&lt;ref&gt;{{cite press release|title=Governor appoints ben kieckhefer press secretary |publisher=Office of the Governor, Nevada State |date=March 12, 2008 |url=http://gov.state.nv.us/PressReleases/2008/2008-03-12BenKieckhefer-PS.htm |access-date=May 1, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090107061058/http://www.gov.state.nv.us/PressReleases/2008/2008-03-12BenKieckhefer-PS.htm |archivedate=January 7, 2009 |df= }}&lt;/ref&gt; the Governor's decision to direct the state to charge Steve Fossett's family for the $687,000 expense of the search for Fossett.&lt;ref name="earlycharge_report"&gt;{{cite news |last = Vogel |first = Ed  |title = MISSING ADVENTURER: Gibbons to bill Fossett widow |publisher = Las Vegas Review-Journal |date = May 1, 2008 |url = http://www.lvrj.com/news/18443319.html |quote = Government's cost to hunt for multimillionaire was $687,000 }}&lt;/ref&gt; Kieckhefer later played that early report down, when he told the ''Tahoe Daily Tribune'' that Nevada did not intend to demand an involuntary payment from Fossett's widow, but that such a payment would be voluntary: "We are going to request that they help offset some of these expenses, considering the scope of the search, the overall cost as well as our ongoing budget difficulties."&lt;ref name="laterdownplay"&gt;{{cite news |last= Chereb |first= Sandra |title= Nevada governor to ask Fossett widow for search money |work= Associated Press Writer |publisher= Tahoe Daily Tribune |date= May 1, 2008 |url= http://www.tahoedailytribune.com/article/20080501/NEWS01/925589792 |quote= Kieckhefer said any assistance from the Fossett family would be voluntary. |deadurl= yes |archiveurl= https://web.archive.org/web/20110928105822/http://www.tahoedailytribune.com/article/20080501/NEWS01/925589792 |archivedate= September 28, 2011 |df= mdy-all }}&lt;/ref&gt; Hotelier [[Barron Hilton]], from whose ranch Fossett had departed on the day he went missing, had previously volunteered $200,000 to help pay for the search costs.&lt;ref name="earlycharge_report" /&gt;&lt;ref name="laterdownplay" /&gt;
+
+In his later comments to the ''Tahoe Daily Tribune'', Kieckhefer denied outright that a bill for the family was being prepared, and he said, "It will probably be in the form of a letter",&lt;ref name="laterdownplay" /&gt; which Kieckhefer indicated would include a financial outline of the steps taken by the state, the associated costs, and a mention of the state's ongoing budget difficulties.&lt;ref name="laterdownplay" /&gt;
+
+Days prior to this announcement, state Emergency Management Director Frank Siracusa noted that "there is no precedent where government will go after people for costs just because they have money to pay for it. You get lost, and we look for you. It is a service your taxpayer dollars pay for",&lt;ref name="earlycharge_report" /&gt; although he conceded that legally any decision would rest with Gibbons. At an April 10, 2008 Legislature's Interim Finance Committee hearing, Siracusa indicated that he had hired an independent auditor to review costs incurred by the state in searching for Fossett, but added, "We are doing an audit but not because we are critical of anybody or suspect something was done wrong".&lt;ref name="earlycharge_report" /&gt;&lt;ref name="agendaminutes"&gt;{{cite web| work=Interim Finance Committee (NRS 218.6825) |publisher = Nevada Legislature| title = Agendas and Minutes |date = April 10, 2008 | url = https://www.leg.state.nv.us/74th/Interim/Scheduler/committeeIndex.cfm?ID=10091}}&lt;/ref&gt; Chairman Morse Arberry queried Siracusa as to why, since they lacked funds, had the state not billed the Fossett family for its search costs, to which Siracusa did not directly respond.&lt;ref name="earlycharge_report" /&gt;&lt;ref name="agendaminutes" /&gt; In his later interview with the Las Vegas Review-Journal, he stated that his comments to the Committee may have given the false impression that he had hired an auditor for the purpose of later challenging the state's financial burden incurred on its behalf by the National Guard during the search operation.&lt;ref name="earlycharge_report" /&gt; Upon interview regarding reports that the state would seek payment, Arberry was recorded as stating that he was glad to hear steps were being taken to try to recoup some of the costs.&lt;ref name="laterdownplay" /&gt;
+
+The Nevada search cost $1.6 million, "the largest search and rescue effort ever conducted for a person within the U.S."  Jim Gibbons asked Fossett's estate to shoulder $487,000, but it declined, saying Fossett's wife had already spent $1 million on private searching.&lt;ref name="arizonadailystar"&gt;{{cite news | title =Audit critical of Nevada search for Steve Fossett | publisher =Arizona Daily Star | date =June 26, 2008 | url =http://www.azstarnet.com/sn/printDS/245620 | access-date =September 10, 2008 | archiveurl =https://web.archive.org/web/20081005163721/http://www.azstarnet.com/sn/printDS/245620 &lt;!--Added by H3llBot--&gt; | archivedate =October 5, 2008}}&lt;/ref&gt;
+
+[[File:FossettCrash-file1443.jpg|thumb|right|287px|Aerial view of the crash site, 2010]]
+
+===Recovery of wreckage and remains===
+On September 29, 2008, a hiker found three crumpled identification cards in the Eastern [[Sierra Nevada (U.S.)|Sierra Nevada]] in California about {{convert|65|mi|-1}} south (186 degrees) of Fossett's take-off site. The items were confirmed as belonging to Fossett and included an [[Federal Aviation Administration|FAA]]-issued card, his [[Soaring Society of America]] membership card and $1,005 in cash.&lt;ref name="sfgate_confirmed_ids_found"&gt;{{cite news
+| url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/01/MNPT139M9N.DTL
+| title = Fossett items found near Mammoth Lakes
+| access-date = October 2, 2008
+| author = Kevin Fagan
+| date = October 2, 2008
+| work=SFGate
+| publisher = Hearst Communications
+| location = San Francisco, California
+| quote = (The cards) both are authentic, and both have been confirmed that they do in fact belong to Steve Fossett
+}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.theguardian.com/world/2008/oct/02/usa2 |title=Timeline: Steve Fossett disappearance  |access-date = October 2, 2008 |author=The Press Association |date= October 2, 2008 | work=The Guardian|publisher= Guardian News and Media Limited |pages= |quote= | location=London}}&lt;/ref&gt;
+
+On October 1, late in the day, air search teams spotted wreckage on the ground at [[Geographic coordinate system|coordinates]] {{Coord|37|40|2.8|N|119|08|0|W|type:landmark_scale:25000_region:US-CA|name=Steve Fossett Aircraft Crash Site|display=inline}} at an elevation of {{convert|10100|ft|m}} and about {{convert|750|yd|-1}} from where the personal items had been found. Later that evening the teams confirmed identification of the [[Aircraft registration|tail number]] of Fossett's plane. The crash site is on a slope beneath the southwest side of a ridge line ({{convert|600|ft|m|-1}} lower than the top of the ridge) in the [[Ansel Adams Wilderness]] in [[Madera County, California]]. Other named places near the crash site include Minaret Mine ({{convert|2000|ft|m|-2}} west), Emily Lake ({{convert|0.7|mi|km|1}} northeast), [[Minaret Lake]] ({{convert|1.8|mi|km|1}} west-southwest), the [[Minarets (California)|Minaret peaks]] ({{convert|3|mi|0}} west), [[Devils Postpile National Monument]] ({{convert|4.5|mi|km|1}} southeast), and the town of [[Mammoth Lakes, California|Mammoth Lakes]] (the nearest populated place, {{convert|9|mi|km|0}} east-southeast). The site is {{convert|10|mi|km|0}} east of [[Yosemite National Park]].&lt;ref name="Bones found near Fossett's plane"&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/americas/7701300.stm|title=Bones found near Fossett's plane|date=October 31, 2008|access-date=November 2, 2008|publisher=BBC News}}&lt;/ref&gt;&lt;ref name="Leader-Telegram_2008-10-02"&gt;{{cite news
+| url = http://www.leadertelegram.com/story-news.asp?id=BHUJ3SRVFS1
+| title =  Adventurer Fossett's plane, human remains found
+| access-date = November 4, 2008
+| agency = Associated Press
+| date = October 2, 2008
+| work=Leader-Telegram
+| publisher = Leader-Telegram
+| location = Eau Claire, Wisconsin
+| quote = "It was a hard-impact crash, and he would've died instantly", said Jeff Page, emergency management coordinator for Lyon County, Nev., who assisted in the search.
+}}&lt;/ref&gt;
+
+Over the next two days, ground searchers found four bone fragments that were about {{convert|2|by|1.5|in|cm|0}} in size. However, DNA tests subsequently showed that these fragments were not human.&lt;ref name="Bones found near Fossett's plane" /&gt;&lt;ref name="nytimes_2008-10-03"&gt;{{cite news
+| url = https://www.nytimes.com/2008/10/03/us/03fossett.html
+| title = Remains Are Found at Site of Fossett Plane Crash
+| access-date = October 4, 2008
+| author = Jesse McKinley
+| date = October 2, 2008
+| work=[[The New York Times]]
+| publisher = The New York Times Company
+| location = New York City
+}}&lt;/ref&gt;&lt;ref name="latimes_2008-10-04"&gt;{{cite news
+|url=http://www.latimes.com/news/printedition/california/la-me-fossett4-2008oct04,0,5421336.story 
+|title=Wreckage of Steve Fossett's plane is airlifted from crash site 
+|access-date=November 12, 2008 
+|author=Jia-Rui Chong 
+|date=October 4, 2008 
+| work=[[Los Angeles Times]]
+|publisher=Los Angeles Times 
+|location=Los Angeles 
+|archiveurl=https://web.archive.org/web/20081019232600/http://www.latimes.com/news/printedition/california/la-me-fossett4-2008oct04%2C0%2C5421336.story 
+|archivedate=October 19, 2008 
+|deadurl=yes 
+|df= 
+}}&lt;/ref&gt;
+
+[[File:Ritterrange.JPG|thumb|left|287px|The crash site is on Volcanic Ridge, part of the [[Ritter Range]]. Volcanic Ridge is shown here, in the left foreground.]]
+
+On October 29, search teams recovered two large human bones that they suspected might belong to Fossett. These bones were found {{convert|0.5|mi|km}} east of the crash site.&lt;ref name="bbc-bones"&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/americas/7707397.stm|title=Bones confirm Steve Fossett death|publisher=BBC News|date=November 3, 2008|access-date=November 10, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news|date=November 3, 2008|title=DNA links bones near plane crash site to Fossett |author=Associated Press |url=http://usatoday30.usatoday.com/news/nation/2008-11-03-3668149862_x.htm |newspaper=USA Today |access-date=March 27, 2014}}&lt;/ref&gt; Tennis shoes with animal bite marks on them were also recovered. On November 3, California police coroners said that [[DNA profiling]] of the two bones by a California Department of Justice forensics laboratory confirmed a match to Fossett's DNA. Madera County Sheriff John Anderson said Fossett would have died on impact in such a crash, and that it was not unusual for animals to drag remains away.&lt;ref name="bbc-bones" /&gt;
+
+===NTSB report and findings===
+On March 5, 2009, the NTSB issued its report and findings.&lt;ref&gt;{{Cite web|url=http://ntsb.gov/ntsb/brief2.asp?ev_id=20081007X17184&amp;ntsbno=SEA07FA277&amp;akey=1 |title=National Transportation Safety Board Report |publisher=Ntsb.gov |id=SEA07FA277 |access-date=July 18, 2010 |postscript={{inconsistent citations}} |deadurl=yes |archiveurl=https://web.archive.org/web/20090714203049/http://www.ntsb.gov/ntsb/brief2.asp?ev_id=20081007X17184&amp;ntsbno=SEA07FA277&amp;akey=1 |archivedate=July 14, 2009 |df= }}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|title=Factual Report – Aviation |url=http://www.ntsb.gov/ntsb/GenPDF.asp?id=SEA07FA277&amp;rpt=fa|publisher=National Transportation Safety Board |id=SEA07FA277|date=July 9, 2009|access-date=July 9, 2010|postscript=&lt;!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. --&gt;{{inconsistent citations}}}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt; It states that the plane crashed at an elevation of about {{convert|10000|ft|m}}, {{convert|300|ft|m|-1}} below the crest of the ridge. The elevation of peaks in the area exceeded {{convert|13000|ft|m}}. However, the [[density altitude]] in the area at the time and place of the crash was estimated to be {{convert|12700|ft|m}}. The aircraft, a tandem two-seater, was nearly 30 years old and Fossett had flown approximately 40 hours in this type. The plane's operating manual says that at an altitude of {{convert|13000|ft|m}} the [[rate of climb]] would be 300 feet per minute (about 1.5&amp;nbsp;m/s). The NTSB report says that "a meteorologist from [[Salinas, California|Salinas]] provided a numerical simulation of the conditions in the accident area using the WRF-ARW (Advanced Research Weather Research and Forecasting) numerical model. At 0930 [the approximate time of the crash] the model displayed downdrafts in that area of approximately 300 feet per minute." There was no evidence of equipment failure. The report stated that a postmortem examination of the skeletal fragments had been performed under the auspices of the Madera County Sheriff's Department. The cause of death was determined to be multiple traumatic injuries. The ELT was destroyed by the crash.
+
+On July 9, 2009, the NTSB declared the probable cause of the crash as "the pilot's inadvertent encounter with downdrafts that exceeded the climb capability of the airplane. Contributing to the accident were the downdrafts, high [[density altitude]], and mountainous terrain."&lt;ref&gt;{{Cite web|author=National Transportation Safety Board|url=http://www.ntsb.gov/_layouts/ntsb.aviation/brief2.aspx?ev_id=20081007X17184&amp;ntsbno=SEA07FA277&amp;akey=1|title=SEA07FA277: Full Narrative|date=July 9, 2009|access-date=July 14, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.cnn.com/2009/US/07/09/fossett.crash.cause/index.html |title=Investigators: Strong winds probable cause of Fossett crash |publisher=CNN.com |date= July 9, 2009|access-date=April 24, 2010}}&lt;/ref&gt;
+
+==See also==
+*[[List of firsts in aviation]]
+*[[List of people who disappeared mysteriously]]
+
+==References==
+'''Notes'''
+{{reflist|30em}}
+
+'''Further reading'''
+*{{cite book
+ | title = Chasing the Wind: The Autobiography of Steve Fossett
+ | last = Fossett
+ | first = Steve
+ |author2=Hasley, Will
+ | year = 2006
+ | publisher = [[Virgin Books]]
+ | isbn = 978-1-85227-234-0
+}}
+
+==External links==
+{{Commons category}}
+* [https://www.theguardian.com/world/2008/oct/02/usa2 Timeline: Steve Fossett]
+* [http://news.bbc.co.uk/2/hi/americas/7648259.stm In pictures: Steve Fossett]
+* [http://news.bbc.co.uk/2/hi/americas/2078591.stm BBC, Profile: Steve Fossett]
+* {{cite web|title=FAI Awards received by Steve FOSSETT (USA) |publisher=Fédération Aéronautique Internationale (FAI) |url=http://www.fai.org/awards/recipient.asp?id=2008 |accessdate=October 31, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071202155813/http://www.fai.org/awards/recipient.asp?id=2008 |archivedate=December 2, 2007 }} 
+* {{cite web|title=List of records established by 'Steve FOSSETT (USA)' |publisher=Fédération Aéronautique Internationale (FAI) |url=http://records.fai.org/data?p=1372 |accessdate=October 31, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20110608191349/http://records.fai.org/data?p=1372 |archivedate=June  8, 2011 |df= }}
+* [http://www.economist.com/obituary/displaystory.cfm?story_id=10717765 Obituary from The Economist, February 21, 2008]
+* [https://web.archive.org/web/20110706164217/http://adventurescience.ca/fossett/ New attempts by adventure athletes to search territory previous searches could not cover]
+* [https://web.archive.org/web/20110718122556/http://radblast-sf.wunderground.com/cgi-bin/radar/WUNIDS_composite_archive?centerlat=36.32927322&amp;centerlon=-119.64318848&amp;radius=124&amp;newmaps=1&amp;type=N0R&amp;num=24&amp;SD.epoch=1188795600&amp;ED.epoch=1188881999&amp;DELAY=60&amp;delay=20&amp;width=640&amp;height=480 Weather radar loop for September 3, 2007] around [[Fresno, California]], including the crash site.
+* [https://www.flickr.com/photos/jw4pix/5032540480/ Aerial Photo of crash site taken 2010/09/25]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fossett, Steve}}
+[[Category:24 Hours of Le Mans drivers]]
+[[Category:1944 births]]
+[[Category:2007 deaths]]
+[[Category:American balloonists]]
+[[Category:American financiers]]
+[[Category:American sailors]]
+[[Category:American male sailors (sport)]]
+[[Category:Aviators from California]]
+[[Category:Aviators from Tennessee]]
+[[Category:Aviation pioneers]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:American aviation businesspeople]]
+[[Category:American aerospace businesspeople]]
+[[Category:Businesspeople from California]]
+[[Category:Businesspeople from Tennessee]]
+[[Category:Distinguished Eagle Scouts]]
+[[Category:Drexel Burnham Lambert]]
+[[Category:Fellows of the Royal Geographical Society]]
+[[Category:Flight distance record holders]]
+[[Category:Formerly missing people found dead]]
+[[Category:Glider pilots]]
+[[Category:National Aviation Hall of Fame inductees]]
+[[Category:Recipients of the Aeronautical Medal]]
+[[Category:People associated with the Boy Scouts of America]]
+[[Category:People from Garden Grove, California]]
+[[Category:People from Jackson, Tennessee]]
+[[Category:Stanford University alumni]]
+[[Category:US Sailor of the Year]]
+[[Category:Victims of aviation accidents or incidents in the United States]]
+[[Category:Washington University in St. Louis alumni]]
+[[Category:World Scout Committee members]]
+[[Category:Flight altitude record holders]]
+[[Category:American aviation record holders]]
+[[Category:Glider flight record holders]]
+[[Category:Balloon flight record holders]]</text>
+      <sha1>m9o6nwa796hhids77cveaax18rmoe39</sha1>
+    </revision>
+  </page>
+</mediawiki>

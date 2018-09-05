@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ash Lieb</title>
+    <ns>0</ns>
+    <id>39097236</id>
+    <revision>
+      <id>847318858</id>
+      <parentid>845507494</parentid>
+      <timestamp>2018-06-24T13:29:13Z</timestamp>
+      <contributor>
+        <username>Alistair1978</username>
+        <id>86816</id>
+      </contributor>
+      <minor/>
+      <comment>typo/sp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17953">{{Use dmy dates|date=January 2017}}
+{{Use Australian English|date=January 2017}}
+{{notability|Biographies|date=February 2016}}
+{{Infobox person
+| name = Ash Lieb
+| image =
+| caption =
+| birth_name =
+| birth_date ={{nowrap|{{Birth date and age|df=yes|1982|8|22}}}}
+| birth_place = [[Ballarat]], Victoria, Australia&lt;ref name="a1"&gt;Hailey Wood, "It's all about absurdism for Ash" ''The Courier'', Tuesday 22 January 2013 page 17 ISSN 1037-0374&lt;/ref&gt;
+| occupation = Artist, writer, comedian&lt;ref name="40 under 40"&gt;Kim Quinlan, "40 under 40 leaders series", ''The Courier'', Ballarat, Australia. Wednesday, 26 December 2012 page 4 ISSN 1037-0374&lt;/ref&gt;
+| education = [[Damascus College]]&lt;ref name="b1"&gt;Eugene Duffy, [http://www.thecourier.com.au/story/3808305/ballarats-most-famous-people-have-your-say/ "Ballarat's most famous people"], ''The Courier'', Ballarat, Australia. retrieved 26 August 2016&lt;/ref&gt;
+| alma_mater = [[Ballarat University]]&lt;ref name="a3"&gt;Alicia Thomas, [http://www.thecourier.com.au/story/3056796/former-university-of-ballarat-graduates-shine-in-new-exhibition/ ''The Courier''], Ballarat, Australia. retrieved 23 January 2016&lt;/ref&gt;
+| home_town = [[Ballarat]], Victoria, Australia&lt;ref name="a8"&gt;Dellaram Vreeland, [http://www.thecourier.com.au/story/1608882/local-comedian-ash-lieb-launches-book/ ''The Courier''], Ballarat, Australia. retrieved 23 January 2016&lt;/ref&gt;
+| residence =
+| medium      =
+| movement     = [[Postmodern literature|Postmodernism]], [[Lowbrow (art movement)|Pop Surrealism]]
+| notableworks = 
+| years_active = 1990–present
+| spouse =
+| partner =
+| family =
+| awards =
+| module     = {{Infobox comedian|embed=yes
+| medium      = Stand-up, theatre, books, art
+| genre = {{Hlist|[[Surreal humour]], [[Absurdist fiction]], [[Satire]], [[Black comedy]], [[One-line joke|One-liner]], [[Observational comedy]], [[Transgressive fiction]]}}
+| subject           = 
+| children =
+| website = {{URL|http://www.ashlieb.com/}}
+| signature =
+}}}}
+'''Ash Lieb''' (born 22 August 1982) is an Australian artist, writer and comedian, known for his [[surreal humour]] and art.&lt;ref name="b1"/&gt; Born in Ballarat, Ash Lieb began exhibiting art at eight years of age, and at the age of fifteen, wrote his first novel, ''The Secret Well''.&lt;ref name="L1"&gt;Kane Martin, "A Critical Companion to The Secret well", ''Reverie Press'', Canada, 2016 {{ISBN|978-0-9952512-0-5}}&lt;/ref&gt; Throughout his career, Lieb has created a diverse range of artworks, books, short films, and comedic performances, which have often possessed philosophical or psychiatric undertones.&lt;ref name="a11"&gt;Adam Greenberg, "Surreal pop : the art of Ash Lieb", ''Cherry Street Books'', Toronto, Canada. 2016 {{ISBN|978-0-9952518-0-9}}&lt;/ref&gt;
+
+==History==
+
+===''Old shoe'' (1990–1996)===
+Ash Lieb's artistic career began in July 1991 at the [[Ballarat]] Civic hall site when, at eight years of age, he held his first solo exhibit ''Old Shoe''. The exhibit was composed of drawings and paintings of lost objects and fragments of human forms.&lt;ref name="a11" /&gt; By the age of eleven, Lieb had held a total of five solo exhibitions and was involved in countless group exhibitions around Australia. &lt;ref name="a1" /&gt;&lt;ref name="a14"&gt;James Willow Jr, "The art and times of Ash Lieb", ''University of Tasmania'', Hobart, Tasmania, Australia. September 2016 Page 5 {{ISBN|978-1-8629587-5-3}}&lt;/ref&gt; In 1994, Lieb contracted a debilitating illness which lasted into his first year of high school at [[Damascus College Ballarat|Damascus]] College. In 1995, a tumour pressing on his spinal cord was discovered and removed at Melbourne's [[Royal Children's Hospital]].&lt;ref name="a12"&gt;Elliott Willow, "The Meaning of Life", ''Cruel World'', 2011 {{ISBN|978-0-9941546-0-6}}&lt;/ref&gt;
+
+===''The Secret well'' and ''Bleach'' (1998–2000)===
+At the age of fifteen in 1998, Ash Lieb wrote his first novel ''The Secret Well''.&lt;ref name="a9"&gt;James Willow Jr, "The art and times of Ash Lieb", ''University of Tasmania'', Hobart, Tasmania, Australia. September 2016 Page 7 {{ISBN|978-1-8629587-5-3}}&lt;/ref&gt;&lt;ref name="a15" /&gt; The story, set in the aftermath of the mysterious disappearance and grim discovery of young girl's body, is about a young girl and her mysterious neighbour who soon come to unravel the terrifying secrets around them. Lieb dedicated the story to his childhood friend who had died years earlier.&lt;ref name="a11" /&gt; In 1999, at the age of sixteen, Ash Lieb wrote his second novel ''Bleach'' over several months while skipping English classes at his high school, which he felt was wasting his time.&lt;ref name="a12" /&gt; The story is about an alienated anarchist looking for an escape from the emptiness of high-school, who, after a chance meeting with a girl, is put on a collision course with a fate even his darkest thoughts never imagined.&lt;ref name="a11" /&gt; Lieb's books can be found on every populated continent of the world, with stores holding them in more than fifteen countries.&lt;ref name="a4" /&gt;
+
+===''The Technicolor Transgressions of the Blue Rose'' (2001–2004)===
+After completing high school, Ash Lieb enrolled in a visual arts degree at [[Ballarat University]]. However, by the age of nineteen, he had left the course after his vision began to deteriorate and he began to suffer from headaches and anxiety.&lt;ref name="a11" /&gt;&lt;ref name="a5"&gt;Dellaram Vreeland, "Ash adds a third string to his bow", ''The Courier'', Tuesday 2 July 2013 page 16 ISSN 1037-0374&lt;/ref&gt; In the summer of 2003, it was discovered that these issues were brought on by an aggressive clear cell [[meningioma]].&lt;ref name="a1" /&gt;&lt;ref&gt;Hailey Wood, ''The Courier'', Saturday 26 January 2013 page 33 ISSN 1037-0374&lt;/ref&gt; With an uncertain future, Lieb went on to write his third novel, ''The Technicolor Transgressions of the Blue Rose'', in the weeks leading up to having dangerous brain surgery that he was convinced he wouldn't survive.&lt;ref name="a15"&gt;William S. Guggenheim, "The Holy Grail", ''Cruel World'', December 2013 page 8 {{ISBN|978-0-9941546-2-0}}&lt;/ref&gt; The Technicolor Transgressions of the Blue Rose is a story about a color blind thief with a fictional form of color blindness, where everything yellow is seen as blue, which was inspired by the artist's own form of [[red-green color blindness]].&lt;ref name="a9" /&gt;&lt;ref&gt;William S. Guggenheim, "The Holy Grail", ''Cruel World'', December 2013 page 2 {{ISBN|978-0-9941546-2-0}}&lt;/ref&gt; In the story, characters have blue hair, the sun is blue, gold coins are blue, and so on.&lt;ref name="a9" /&gt;
+
+===''The Meaning of Life'' (2005–2012)===
+Lieb returned to university in 2005, where he began to create his art in a digital style, combining his previous skills in drawing and painting with photography and other new techniques.&lt;ref name="a11" /&gt; However, in 2007, despite the favorable conditions of the surgery he underwent in 2003, Lieb required further surgery and [[radiation therapy|radiation]] therapy, whilst undertaking the final year of his visual arts degree in digital art.&lt;ref name="a1" /&gt; In 2009, having been writing jokes for almost a decade since his final year of high school in 2000, Lieb performed on stage for the first time while living in [[Brisbane]].&lt;ref name="a5" /&gt; The following year, having returned to Ballarat, Lieb performed his surreal humor and one-liners at the [[Geelong Performing Arts Centre]] and Fitzroy's Evelyn Hotel to mass crowds.&lt;ref name="a1" /&gt;&lt;ref name="a4"&gt;Chloe Biggin, "ASH LIEB", ''The Courier'', Saturday 29 June 2013 page 34 ISSN 1037-0374&lt;/ref&gt; A year later, having only ever previously exhibited his drawings and paintings, Lieb exhibited his digital artworks for the first time in his solo exhibition ''The Meaning of Life'' in April 2011.&lt;ref name="a2"&gt; "Exhibition has youthful appeal" ''The Courier'', Tuesday 29 March 2011 page 12 ISSN 1037-0374&lt;/ref&gt; The imagery in the exhibit was a collection that spawned out of the artist's [[surreal humor]] that he credits [[Woody Allen]] and [[Mitch Hedberg]] for having inspired in his youth, while the title of the exhibit is an allusion to the absurd humor of [[Monty Python]].&lt;ref name="a12" /&gt; In 2012, Ash Lieb was honored as one of the city of Ballarat's 40 people under 40, and as a leader in the industry.&lt;ref name="40 under 40"/&gt;&lt;ref&gt;Kim Quinlan, ''The Courier'', Wednesday, 26 December 2012, front page ISSN 1037-0374&lt;/ref&gt;
+
+===''The Holy Grail'' (2013–2014)===
+The beginning of 2013 saw Ash Lieb open his exhibition ''How not to be seen'' at a small gallery in the artist's home town of Ballarat. The both humorous and philosophically surreal exhibit dealt with the dual meanings of absurdism.&lt;ref name="a1" /&gt;&lt;ref&gt;James Willow Jr, "The art and times of Ash Lieb", ''University of Tasmania'', Hobart, Tasmania, Australia. September 2016 page 3 {{ISBN|978-1-8629587-5-3}}&lt;/ref&gt; A few months later in April, Lieb released his first joke book ''Funny Guy'' after more than a decade of writing and performing his [[Surreal humour|absurdist]] style of humour.&lt;ref name="a5" /&gt; In October, Ash Lieb unveiled his exhibition of ''The Holy Grail''. The philosophically [[wikt:absurd|absurd]] exposition dealt with such concepts as the meaning of life, philosophy, existentialism, vision quests and animal spirits.&lt;ref&gt;William S. Guggenheim, "The Holy Grail", ''Cruel World'', December 2013 page 6 {{ISBN|978-0-9941546-2-0}}&lt;/ref&gt; The artist's artwork ''Weyekin'' also featured in the ''Blake Prize for spiritual art'' Director's Cut exhibition throughout the beginning of 2014.&lt;ref&gt;William S. Guggenheim, "The Holy Grail", ''Cruel World'', December 2013 page 9 {{ISBN|978-0-9941546-2-0}}&lt;/ref&gt;&lt;ref&gt;[http://www.blakeprize.com.au/works/weyekin ''The Blake Prize 2013''], retrieved 24 January 2016&lt;/ref&gt;
+
+==Art==
+Lieb's art and style of humour deals in the absurd.&lt;ref name="a4" /&gt; While one part deals with the laughter, nonsense and ridicule of absurdity or surreal humour, the other deals with the philosophical definition of absurdism regarding the conflict between pursuing the meaning of life and the inability to find it.&lt;ref name="a1"/&gt;&lt;ref&gt;Dellaram Vreeland, [http://www.thecourier.com.au/story/1844599/meaning-of-life-explored-through-art/ "Meaning of life explored through art"], ''The Courier'', retrieved 19 December 2013&lt;/ref&gt;&lt;ref&gt;Dellaram Vreeland, "Exploring the world and the heavens", ''The Courier'', Tuesday 15 October 2013, pg17 ISSN 1037-0374&lt;/ref&gt;&lt;ref name="a6"&gt;Jack Pilven, "Local artists take a look at time factor", ''The Courier'', Tuesday 6 July 2010 page 12 ISSN 1037-0374&lt;/ref&gt; Lieb's digital works were initially inspired by artists such as [[Woody Allen]] and [[Andy Warhol]].&lt;ref name=a2 /&gt; His style consists of complex [[pop surrealism|pop surrealist]] digital montages using photographs and images.&lt;ref name="a1" /&gt;&lt;ref name="a2" /&gt;&lt;ref name="a6" /&gt; Examples of themes in his works include a recurring milk carton, medical stitches, and corporate brand names.&lt;ref&gt;Harry Brumpton, [http://www.couriermail.com.au/ipad/a-creative-outlet-for-ill-artists/story-fn6ck8la-1226354082240 ''The Courier-Mail''], retrieved 13 April 2013&lt;/ref&gt; Much of the artist's imagery and characters are, to some degree, a recreation of the bizarre imagery that the artist experiences during brief spells of [[derealisation]] that occurs during short temporal lobe seizures that first appeared as a result of a brain tumour in the early 2000s. This warped déjà vu dreamlike imagery extends throughout much of the artist's anthology of creations.&lt;ref name="a13"&gt;James Willow Jr, "The art and times of Ash Lieb", ''University of Tasmania'', Hobart, Tasmania, Australia. September 2016 page 4 {{ISBN|978-1-8629587-5-3}}&lt;/ref&gt;
+
+==Comedy==
+Inspired by the comedians that he watched when he was younger, Ash Lieb began writing jokes when he was still in high school at the age of 16.&lt;ref name="a7"&gt;Erik Smith, "Absurdists: The surreal comedians", ''Luminary books'', Canada, May 2016 {{ISBN|978-0-9950820-0-7}}&lt;/ref&gt; In 2009, after refining his style and humour for many years, Lieb performed at open mic spots for the first time while living in Brisbane.&lt;ref name="a19"&gt;Chip Lewis, "Wit: the humour of Woody Allen, Mitch Hedberg, Ash Lieb, Groucho Marx and Steven Wright", ''Wayward Classics'', New Zealand, July 2016 {{ISBN|978-0-473-36489-2}}&lt;/ref&gt; In February 2010, at the age of 27, Ash Lieb made his professional stage debut at the Geelong performing arts centre, where comedian [[Rod Quantock]] introduced him to a jubilant mass crowd. Quantock would later declare, "It was truly hilarious and brilliantly original comedy."&lt;ref name="a5"/&gt;&lt;ref name="a7"/&gt; Blending his observations with techniques, such as absurdity, wordplay, non-sequiturs and paraprosdokians, Lieb's wit is always calculated, smart and original.&lt;ref name="a19" /&gt; Consisting of concise jokes and one-liners, Lieb's act is distinguished by the manner of speech he adopted early in his career, his abrupt delivery, and his peculiar stage presence.&lt;ref name="a19" /&gt; Lieb is a unique and original writer and performer, and is often a wildcard.&lt;ref name="a17" /&gt; Adam Greenberg once wrote, "In shows where every performer is the same, Ash Lieb is the needle in the haystack."&lt;ref name="a18" /&gt; Much like the humour of Woody Allen, Lieb often makes light of intellectuals, especially those with somewhat absurd or impossible claims: "Sir Isaac Newton discovered gravity in the 1680s. Before then, there were people floating all over the place, and cats and dogs and little old ladies went missing all the time!"&lt;ref name="a7" /&gt; Lieb's first collection of short humorous essays and one-liners was published in 2013.&lt;ref name="a5"/&gt;
+
+==Literature==
+The literature of Ash Lieb has been influenced by authors such as [[Charles Dickens]] and [[Daniel Keyes]], and like the work of Dickens and Keyes, Lieb's literary style is marked by a profuse linguistic creativity.&lt;ref name="a17"&gt;Ella Teller, "The someday book club - Volume 1", ''Nightfall Press'', New Zealand 2016 {{ISBN|978-0-473-35213-4}}&lt;/ref&gt; The narrative voice within Lieb’s stories often becomes a meaningful [[Motif (narrative)|motif]] within the narrative, where repetition of certain lines or words within the story is a common characteristic of his style.&lt;ref name="L1" /&gt; This is often achieved by usage of [[anaphora (rhetoric)|anaphora]], a rhetorical device where words are repeated for emphasis.&lt;ref name="a17" /&gt; In Lieb’s story ''The secret well'' the recurring word "old" is used as a motif in such a way as to suggest that the character is growing up, getting old and leaving all behind that is her youth.&lt;ref name="a17" /&gt; In recognition of Charles Dickens’ influence, Lieb’s character ''Sara Charlie Dickens'' from his story ''The secret well'' was named in his honour.&lt;ref name="a17" /&gt; Lieb’s stories are often a mixture of fantasy and realism, and often fall within the genres of absurdist or [[transgressive fiction]].&lt;ref name="a18"&gt;Trey Whitman, "Transgressive fiction", ''Bent books'', New Zealand 2016 {{ISBN|978-0-473-35229-5}}&lt;/ref&gt; As in most transgressive fiction, Lieb’s characters often feel marginalised or confined by the norms and expectations of society, and so they often break free or act out in self-destructive ways.&lt;ref name="a18" /&gt; Art and literature critic Trey Whitman once wrote, "Lieb's literature encompasses the nihilism of the grunge generation and the iconoclasm of the beat generation to form an anarchy filled madness that swells throughout the pages like the way drunken insects must fly."&lt;ref name="a18" /&gt; The usage of eye dialect in ''The Technicolor transgressions of the blue rose'' was inspired by the story ''[[Flowers for Algernon]]'' by Daniel Keyes.&lt;ref name="a18" /&gt; In Keyes' story, Charlie's narration begins filled with spelling errors and awkwardly constructed sentences, but after a procedure to improve his intelligence, the narration advances with improved accuracy in spelling, grammar, punctuation, and word choice. The character's regression is later conveyed by the loss of these skills.&lt;ref&gt;Andrew Bujalski, "Flowers for Algernon: Daniel Keyes", ''Spark pub'', 2002 page 21 {{ISBN|978-1-58663-514-5}}&lt;/ref&gt;&lt;ref&gt;Andrew Bujalski, "Flowers for Algernon: Daniel Keyes", ''Spark pub'', 2002 page 15 {{ISBN|978-1-58663-514-5}}&lt;/ref&gt; Lieb's use of eye dialect has drawn comparisons with such writers as [[Irvine Welsh]],&lt;ref name="a18" /&gt; who is known for having written phonetically in his native Edinburgh Scots dialect within the story ''[[Trainspotting (novel)|Trainspotting]]'',&lt;ref&gt;John Mullan, [https://www.theguardian.com/books/2008/may/31/irvinewelsh "So to speak"], ''The Guardian'', 2002  accessed 11 February 2016&lt;/ref&gt; and also [[Hubert Selby Jr]],&lt;ref name="a18" /&gt; who phonetically deployed street slang, common speech, argot and scatology in the story ''[[Requiem for a Dream (novel)|Requiem for a Dream]]''.&lt;ref&gt;Sophia Martelli, [https://www.theguardian.com/books/2012/aug/12/requiem-dream-hubert-selby-review "Requiem for a Dream by Hubert Selby Jr – review"], ''The Guardian'', 12 August 2012, accessed 11 February 2016&lt;/ref&gt;
+
+==Bibliography==
+* ''The Secret Well'' (1998)
+* ''Bleach'' (1999)
+* ''The Technicolor Transgressions of the Blue Rose'' (2003)
+* ''Funny Guy'' (2013)&lt;ref name="a8" /&gt;&lt;ref name="a4" /&gt;&lt;ref name="a5" /&gt;
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* {{Official website}}
+
+{{DEFAULTSORT:Lieb, Ash}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Cancer survivors]]
+[[Category:Federation University Australia alumni]]
+[[Category:21st-century Australian artists]]
+[[Category:21st-century Australian writers]]
+[[Category:Australian satirists]]
+[[Category:Postmodern artists]]
+[[Category:Postmodern writers]]
+[[Category:20th-century Australian writers]]
+[[Category:20th-century Australian artists]]
+[[Category:People from Ballarat]]
+[[Category:Australian male novelists]]
+[[Category:Australian stand-up comedians]]
+[[Category:Australian male comedians]]</text>
+      <sha1>3z8tnkuocrp1hqc2iwkog2on5c63vk5</sha1>
+    </revision>
+  </page>
+</mediawiki>

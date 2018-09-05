@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Molly Reilly</title>
+    <ns>0</ns>
+    <id>55876976</id>
+    <revision>
+      <id>853345787</id>
+      <parentid>840132674</parentid>
+      <timestamp>2018-08-04T02:58:48Z</timestamp>
+      <contributor>
+        <username>Holdoffhunger</username>
+        <id>27431995</id>
+      </contributor>
+      <comment>/* World War II */ "comissioned" should be "commissioned"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6631">{{Infobox person
+| name               = Molly Reilly
+| birth_date         = {{birth date|1922|02|25}}
+| birth_place        = [[Lindsay, Ontario]]
+| death_date         = {{death date and age|1980|11|24|1922|02|25}}
+| nationality        = Canadian
+| occupation         = Aviator
+| known_for          = First female Canadian corporate pilot, and first female Canadian pilot to reach the rank of captain
+| spouse             = Jack Reilly
+| honours            = [[Canadian Aviation Hall of Fame]]
+}}
+
+'''Moretta Fenton Beall "Molly" Reilly''' (February 25, 1922 – November 24, 1980) became the first female Canadian pilot to reach the rank of captain, the first female Canadian corporate pilot, and the [[Beechcraft Duke]] were used to improve the aircraft's. Over the course of her career, Reilly logged over 10,000 flight hours as a pilot-in-command — without a single accident. She is a member of the [[Canadian Aviation Hall of Fame]].
+
+== Early life ==
+Reilly was born February 25, 1922, in [[Lindsay, Ontario]].&lt;ref name=":0"&gt;{{Cite web|url=http://collectionscanada.gc.ca/eppp-archive/100/200/301/ic/can_digital_collections/aviation/m056.htm|title=Moretta Fenton Beall Reilly|website=collectionscanada.gc.ca|access-date=2017-11-24}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web|url=http://www.cahf.ca/CUSTOMPAGES/907/MemberList.cfm?firstLetter=R#175|title=Moretta Fenton Beall Reilly|last=|first=|date=|website=www.cahf.ca|archive-url=|archive-date=|dead-url=|access-date=2017-11-24}}&lt;/ref&gt;&lt;ref name=":2"&gt;{{Cite book|url=https://www.worldcat.org/oclc/39209984|title=Encyclopedia of women in aviation and space|last=Rosanne.|first=Welch,|date=1998|publisher=ABC-CLIO|year=|isbn=0874369584|location=Santa Barbara, Calif.|pages=180-181|oclc=39209984}}&lt;/ref&gt; She had seven siblings, three sisters and four brothers, at least one brother enlisted as a pilot during [[World War II|WWII]].&lt;ref name=":2" /&gt;
+
+== Career ==
+
+=== World War II ===
+After graduating from high school in 1940, Reilly took flying lessons at Pat Paterson's Flyers Limited School at [[Barker Field]]. One of her teachers was fellow Canadian aviator [[Violet Milstead]]. Reilly's flight training was cut short when WWII forced civilian aviators to stay grounded, so she applied to join the [[Royal Canadian Air Force]] (RCAF) in order to complete her pilot certification, but was rejected due to her gender. Although the [[Air Transport Auxiliary]] accepted women, Reilly couldn't join without her pilot's license. Determined to find a job that involved flying, in 1941 she finally enlisted with the RCAF as a photographer in the new [[Royal Canadian Air Force Women's Division|Women's Division]].&lt;ref name=":2" /&gt; She continued working as a [[Non-commissioned officer|non-commissioned officer]] for the RCAF until 1946.&lt;ref name=":0" /&gt;
+
+=== Post-war era ===
+In 1946, after the war ended, Reilly was finally able to finish her flight lessons, earning her private pilot's license from what would later become the [[Rockcliffe Flying Club]] in [[Ottawa]]. By 1947, she had earned her commercial flight license. 
+
+That same year, Reilly gained national media attention when she participated in the 1947 [[Webster Memorial Trophy|Webster Trophy]] aviation race.&lt;ref name=":2" /&gt; She was awarded the Sanderson Shield for placing as runner-up&lt;ref&gt;{{Cite web|url=http://www.collectionscanada.gc.ca/eppp-archive/100/200/301/ic/can_digital_collections/aviation/e056.htm|title=Moretta Fenton Beall Reilly (extra information)|website=www.collectionscanada.gc.ca|access-date=2017-11-25}}&lt;/ref&gt;&lt;ref name=":1" /&gt;, finishing barely three-tenths of a point behind the first place winner.&lt;ref name=":2" /&gt; 
+
+After completing her instructor's certification, Reilly was hired as a flight instructor at the [[Leavens Brothers Flying School]] in [[Toronto]]. During her employment at the school, she continued to upgrade her aviation skills, earning multi-engine and instrument ratings at the [[Spartan School of Aeronautics]] before completing her seaplane pilot qualifications at [[Port Alberni]].&lt;ref name=":2" /&gt;
+
+In 1953, Reilly travelled to England to earn a senior commercial license, a public transport license, and her air transport ratings.&lt;ref name=":2" /&gt; A year later, she was hired as the chief flying instructor and charter pilot for [[Canadian Aircraft Renters]]. In 1957, she was promoted as full-time charter pilot for the company, transferred to its subsidiary [[Southern Provincial Airlines]], becoming the first Canadian female pilot to reach the rank of captain.&lt;ref name=":2" /&gt; During her work at Southern Provincial Airlines, Reilly became the first woman to fly professionally to the [[Arctic]]&lt;ref name=":2" /&gt;, and assisted in the development of the company's air ambulance service in Eastern Canada.&lt;ref name=":1" /&gt;
+
+Taking a new job with the [[Calgary]] company Peter Bawden Drilling in 1959, Reilly co-piloted a [[DC-3]] airliner.&lt;ref name=":2" /&gt; She flew extensively throughout the north, piloting back and forth between major oil airfields and making runs to places such as [[Frobisher Bay]] and [[Resolute Bay]]. Reilly often dealt with extreme weather conditions, poor visibility, and few navigational aids.&lt;ref name=":1" /&gt;
+
+In 1965, Reilly joined [[Canadian Coachways]] (later [[Canadian Utilities]]&lt;ref name=":1" /&gt;) and was hired as their chief pilot, becoming the first female corporate pilot in Canada.&lt;ref name=":2" /&gt;&lt;ref name=":1" /&gt; She flew a [[Beechcraft Duke]] throughout North America, and made modifications to the aircraft in order to fly more efficiently in the Arctic, receiving a personal commendation from the [[Beechcraft]] chairwoman [[Olive Beech]] in the process.&lt;ref name=":1" /&gt;
+
+== Honours ==
+In 1974, Reilly was inducted into the [[Canadian Aviation Hall of Fame]].&lt;ref name=":1" /&gt;
+
+== Personal life ==
+In 1959, Reilly accepted a marriage proposal from pilot Jack Reilly, whom she had met through her first post-war job at the Leavens Brothers Flying School. He was her co-pilot for the DC-3 airliner at Peter Bawden Drilling.&lt;ref name=":2" /&gt;
+
+== Death and legacy ==
+Reilly died on November 24, 1980.&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt; By the end of her career, she had logged over 10,000 hours as a pilot-in-command — without a single accident.&lt;ref name=":1" /&gt;
+
+== References ==
+{{Reflist}}
+[[Category:1922 births]]
+[[Category:1980 deaths]]
+[[Category:Canadian aviators]]
+[[Category:Female aviators]]
+[[Category:Commercial aviators]]
+[[Category:Female commercial aviators]]
+[[Category:Canadian female aviators]]
+[[Category:20th-century aviation]]
+[[Category:Royal Canadian Air Force personnel]]
+{{DEFAULTSORT:Reilly, Molly}}</text>
+      <sha1>9hvgreqkf8xh2na3yx1p60gy05hzm8p</sha1>
+    </revision>
+  </page>
+</mediawiki>

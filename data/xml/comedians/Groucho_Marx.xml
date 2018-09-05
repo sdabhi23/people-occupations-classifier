@@ -1,0 +1,513 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Groucho Marx</title>
+    <ns>0</ns>
+    <id>12426</id>
+    <revision>
+      <id>855761860</id>
+      <parentid>855506336</parentid>
+      <timestamp>2018-08-20T17:17:56Z</timestamp>
+      <contributor>
+        <username>Heroeswithmetaphors</username>
+        <id>1534529</id>
+      </contributor>
+      <comment>/* Personal life */ cleanup</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55859">{{Redirect|Groucho}}
+{{Infobox comedian
+| name         = Groucho Marx
+| image        = File:Groucho Marx - portrait.jpg
+| caption      = Marx in ''Copacabana'' (1947)
+| birth_date   = {{Birth date|mf=yes|1890|10|02}}
+| birth_place  = [[New York City]], [[New York (state)|New York]], U.S.
+| death_date   = {{nowrap|{{Death date and age|mf=yes|1977|08|19|1890|10|02}}}}
+| death_place  = [[Cedars-Sinai Medical Center]]&lt;br&gt;[[Los Angeles]], [[California]], U.S.
+| death_cause  = Pneumonia
+| birth_name   = Julius Henry Marx
+| medium       = Film, television, stage, radio, music
+| active       = 1905–1976
+| genre        = {{hlist|[[Wit]]|[[wordplay]]|[[slapstick]]}}
+| influenced   = {{hlist|[[Johnny Carson]]|[[Woody Allen]]|[[Milton Berle]]|[[Bill Cosby]]|[[Robert Klein]]|[[Ricky Gervais]]|[[Brendon Small]]|[[George Carlin]]}}
+| parents      = {{ubl|[[Sam Marx|Sam "Frenchie" Marx]]| [[Minnie Marx|Minnie Schönberg]]}}
+| relatives    = {{ubl| [[Chico Marx]] &lt;small&gt;(brother)&lt;/small&gt;| [[Harpo Marx]] &lt;small&gt;(brother)&lt;/small&gt; | [[Gummo Marx]] &lt;small&gt;(brother)&lt;/small&gt; | [[Zeppo Marx]] &lt;small&gt;(brother)&lt;/small&gt;| [[Al Shean]] &lt;small&gt;(maternal uncle)&lt;/small&gt;}}
+| spouse       = {{ubl|{{marriage|Ruth Johnson&lt;br&gt;|1920|1942|end=div}} |{{marriage|Kay Marvis Gorcey&lt;br&gt;|1945|1951|end=div}}|{{marriage|[[Eden Hartford]]&lt;br&gt;|1954|1969|end=div}}}}
+| children     = {{hlist|[[Arthur Marx]]|[[Miriam Marx]]|[[Melinda Marx]]}}
+}}
+
+'''Julius Henry''' "'''Groucho'''" '''Marx''' ({{IPAc-en|ˈ|g|r|aʊ|tʃ|oʊ}}; October 2, 1890 – August 19, 1977) was an American comedian, writer, stage, film, radio, and television star.&lt;ref name=obit/&gt; He was known as a master of quick wit and is widely considered one of America's greatest and most gifted comedians.&lt;ref&gt;''Billboard Magazine'' May 4, 1974 pg 35: "Groucho Marx was the best comedian this country ever produced – Woody Allen"&lt;/ref&gt;
+
+He made 13 feature films with his siblings the [[Marx Brothers]], of whom he was the third-born. He also had a successful solo career, most notably as the host of the radio and television game show ''[[You Bet Your Life]]''.&lt;ref name=obit/&gt;
+
+His distinctive appearance, carried over from his days in [[vaudeville]], included quirks such as an exaggerated stooped posture, glasses, cigar, and a thick [[wikt:greasepaint|greasepaint]] mustache and eyebrows. These exaggerated features resulted in the creation of one of the world's most ubiquitous and recognizable novelty disguises, known as [[Groucho glasses]]: a one-piece mask consisting of horn-rimmed glasses, large plastic nose, bushy eyebrows and mustache.&lt;ref&gt;{{Cite book| last =Giddins | first =Gary | title =The New York Times Book Reviews 2000, volume 1 | publisher =Fitzroy Dearborn Publishers | year =2001 | pages = | isbn =1-57958-058-0}} "The most enduring masks of the 20th century—likely to take their place alongside Comedy and Tragedy or Pulcinella and Pierrot"&lt;/ref&gt;
+
+== Early life ==
+Julius Marx was born on October 2, 1890, in the [[Manhattan|Manhattan borough]], of [[New York City]], New York.&lt;ref&gt;The WWI draft registration of 1917 as Julius Henry Marx in Chicago, Illinois uses October 2, 1890. The 1900 census has him born in October of 1890.&lt;/ref&gt; Marx stated that he was born in a room above a butcher's shop on East 78th Street, "Between Lexington &amp; 3rd", as told to [[Dick Cavett]] in a 1969 television interview.&lt;ref name="Cavett19690613"/&gt;&lt;ref&gt;1950 radio episode of ''[[You Bet Your Life]]''{{Episode needed|date=March 2014}}&lt;/ref&gt; The Marx children grew up on East 93rd Street off Lexington Avenue in a neighborhood now known as [[Carnegie Hill]] on the [[Upper East Side]] of the borough of Manhattan. The turn-of-the-century building that his brother [[Harpo Marx|Harpo]] called "the first real home they ever knew" (in his memoir ''Harpo Speaks'') was populated with European immigrants, mostly artisans. Just across the street were the oldest [[brownstone]]s in the area, owned by people such as the well-connected Loew Brothers and William Orth. The Marx family lived at this location "for about 14 years", Groucho also told Cavett.
+
+[[Image:Early marx brothers with parents.jpg|thumb|upright=1.3|left|The only known photo of all five Marx brothers with their parents in New York City, 1915; from left: Groucho, Gummo, Minnie (mother), Zeppo, Frenchie (father), Chico, and Harpo]]
+Marx's family was [[Jewish]].&lt;ref&gt;{{cite web|author=Gary Baum|title=L.A.'s Power Golf Clubs: Where the Hollywood Elite Play|date=June 23, 2011|url=http://www.hollywoodreporter.com/news/las-power-golf-clubs-hollywood-205072|newspaper=[[The Hollywood Reporter]]}}&lt;/ref&gt; Groucho's mother was [[Minnie Marx|Miene "Minnie" Schoenberg]], whose family came from [[Dornum]] in northern Germany when she was 16 years old. His father was [[Sam Marx|Simon "Sam" Marx]], who changed his name from Marrix, and was called "Frenchie" by his sons throughout his life because he and his family came from Alsace in France.&lt;ref&gt;{{cite web|last=Bland|first=Frank|title=The Marx Brothers Family|url=http://www.marx-brothers.org/biography/marxes.htm|accessdate=15 May 2012}}&lt;/ref&gt; Minnie's brother was Al Schoenberg, who shortened his name to [[Al Shean]] when he went into show business as half of [[Gallagher and Shean]], a noted [[vaudeville]] act of the early 20th century. According to Groucho, when Shean visited he would throw the local waifs a few coins so that when he knocked at the door he would be surrounded by adoring fans. Marx and his brothers respected his opinions and asked him on several occasions to write some material for them.
+
+Minnie Marx did not have an entertainment industry career but had intense ambition for her sons to go on the stage like their uncle. While pushing her eldest son Leonard ([[Chico Marx]]) in piano lessons she found that Julius had a pleasant soprano voice and the ability to remain on key. Julius's early career goal was to become a doctor, but the family's need for income forced him out of school at the age of twelve. By that time young Julius had become a voracious reader, particularly fond of [[Horatio Alger]]. Marx would continue to overcome his lack of formal education by becoming very well-read.
+
+After a few stabs at entry-level office work and jobs suitable for adolescents, Julius took to the stage as a boy singer with the Gene Leroy Trio, debuting at the [[Ramona Park#Ramona Theater Pavilion|Ramona Theatre]] in [[Grand Rapids, MI]] on July 16, 1905.&lt;ref&gt;{{cite book|last=Bader|first=Robert S.|title=Four of the Three Musketeers: The Marx Brothers on Stage|date=2016|publisher=Northwestern University Press|location=Evanston, IL|page=31|isbn=9780810134164}}&lt;/ref&gt; Marx reputedly claimed that he was "hopelessly average" as a vaudevillian, but this was typical Marx, wisecracking in his true form. By 1909 Minnie Marx had assembled her sons into an undistinguished vaudeville singing group billed as "The Four Nightingales". The brothers Julius, Milton ([[Gummo Marx]]) and Arthur (originally Adolph, from 1911 Harpo Marx) and another boy singer, Lou Levy, traveled the U.S. vaudeville circuits to little fanfare. After exhausting their prospects in the East the family moved to [[La Grange, Illinois]], to play the Midwest.
+ 
+After a particularly dispiriting performance in [[Nacogdoches, Texas]], Julius, Milton, and Arthur began cracking jokes onstage for their own amusement. Much to their surprise, the audience liked them better as comedians than as singers. They modified the then-popular [[Gus Edwards (songwriter)|Gus Edwards]] comedy skit "School Days" and renamed it "Fun In Hi Skule". The Marx Brothers would perform variations on this routine for the next seven years.
+
+For a time in vaudeville all the brothers performed using ethnic accents. Leonard, the oldest, developed the Italian accent he used as Chico Marx to convince some roving bullies that he was Italian, not Jewish. Arthur, the next oldest, donned a curly red wig and became "Patsy Brannigan", a stereotypical Irish character. His discomfort when speaking on stage led to his Uncle Al Shean's suggestion that he stop speaking altogether and play the role in mime. Julius Marx's character from "Fun In Hi Skule" was an ethnic German, so Julius played him with a German accent. After the sinking of the {{RMS|Lusitania}} in 1915, public [[anti-German sentiment]] was widespread, and Marx's German character was booed, so he quickly dropped the accent and developed the fast-talking wise-guy character that became his trademark.
+
+The Marx Brothers became the biggest comedic stars of the [[Palace Theatre, New York|Palace Theatre]] in New York, which billed itself as the "Valhalla of Vaudeville". Brother Chico's deal-making skills resulted in three hit plays on [[Broadway theatre|Broadway]]. No other comedy routine had ever so infected the Broadway circuit. All of this stage work predated their Hollywood career. By the time the Marxes made their first movie, they were already major stars with sharply honed skills; and by the time Groucho was relaunched to stardom on ''[[You Bet Your Life]]'', he had been performing successfully for half a century.
+
+== Career ==
+=== Hollywood ===
+[[File:Marx Brothers 1931.jpg|upright=1.2|thumb|The Marx Brothers in 1931 (from top, Chico, Harpo, Groucho, and Zeppo)]]
+Groucho Marx made 26 movies, 13 of them with his brothers Chico and Harpo.&lt;ref name="bio"&gt;{{cite web|url=http://www.groucho-marx.com/bio.html|title=Groucho Marx Biography|accessdate=2008-06-25|publisher=groucho-marx.com}}&lt;/ref&gt; Marx developed a routine as a wisecracking hustler with a distinctive chicken-walking lope, an exaggerated greasepaint mustache and eyebrows, and an ever-present cigar, improvising insults to stuffy [[dowager]]s (often played by [[Margaret Dumont]]) and anyone else who stood in his way. As the Marx Brothers, he and his brothers starred in a series of popular stage shows and movies.
+
+Their first movie was a silent film made in 1921 that was never released,&lt;ref name="bio"/&gt; and is believed to have been destroyed at the time. A decade later, the team made two of their Broadway hits—''[[The Cocoanuts]]'' and ''[[Animal Crackers (1930 film)|Animal Crackers]]''&lt;ref name="bio"/&gt;—into movies. Other successful films were ''[[Monkey Business (1931 film)|Monkey Business]]'', ''[[Horse Feathers]]'', ''[[Duck Soup (1933 film)|Duck Soup]]'', and ''[[A Night at the Opera (film)|A Night at the Opera]]''.&lt;ref name="bio"/&gt; One quip from Marx concerned his response to [[Sam Wood]], the director of ''A Night at the Opera''. Furious with the Marx Brothers' ad-libs and antics on the set, Wood yelled in disgust: "You can't make an actor out of clay." Groucho responded, "Nor a director out of Wood."&lt;ref&gt;{{cite book|last1=Boller|first1=Paul F.|last2=Davis|first2=Ronald L.|title=Hollywood Anecdotes|edition=reprint|year=1988|publisher=Ballantine Books|isbn=0-345-35654-3|page=220}}&lt;/ref&gt;
+
+Marx also worked as a radio comedian and show host. One of his earliest stints was a short-lived series in 1932, ''[[Flywheel, Shyster, and Flywheel]],'' costarring Chico. Though most of the scripts and discs were thought to have been destroyed, all but one of the scripts were found in 1988 in the [[Library of Congress]].
+In 1947 Marx was asked to host a radio quiz program ''[[You Bet Your Life]].'' It was broadcast by ABC and then CBS before moving to NBC. It moved from radio to television on October 5, 1950 and ran for eleven years. Filmed before a live audience, the show consisted of Marx bantering with the contestants and ad-libbing jokes before briefly quizzing them. The show was responsible for popularizing the phrases "Say the secret word and the duck will come down and give you fifty dollars," "Who's buried in [[Grant's Tomb]]?" and "What color is the [[White House]]?" (asked to reward a losing contestant a consolation prize).
+
+Throughout his career he introduced a number of memorable songs in films, including "[[Captain Spaulding (Groucho Marx)|Hooray for Captain Spaulding]]" and "[[Hello, I Must Be Going (song)|Hello, I Must Be Going]]", in ''Animal Crackers'', "[[Horse Feathers#Musical numbers|Whatever It Is, I'm Against It]]", "[[Horse Feathers#Musical numbers|Everyone Says I Love You]]" and "[[Lydia the Tattooed Lady]]". [[Frank Sinatra]], who once quipped that the only thing he could do better than Marx was sing, made a film with Marx and [[Jane Russell]] in 1951 entitled ''[[Double Dynamite]]''.
+
+=== Mustache, eyebrows, and walk ===
+{{See also|Groucho glasses}}
+In public and off-camera, Harpo and Chico were hard to recognize, without their wigs and costumes, and it was almost impossible for fans to recognize Groucho without his trademark eyeglasses, fake eyebrows, and mustache.
+
+[[File:Groucho Marx-Eve Arden in At the Circus trailer.jpg|left|thumb|Groucho and [[Eve Arden]] in a scene from ''At the Circus'' (1939)]]
+The greasepaint mustache and eyebrows originated spontaneously prior to a vaudeville performance in the early 1920s when he did not have time to apply the pasted-on mustache he had been using (or, according to his autobiography, simply did not enjoy the removal of the mustache every night because of the effects of tearing an adhesive bandage off the same patch of skin every night). After applying the greasepaint mustache, a quick glance in the mirror revealed his natural hair eyebrows were too undertoned and did not match the rest of his face, so Marx added the greasepaint to his eyebrows and headed for the stage. The absurdity of the greasepaint was never discussed on-screen, but in a famous scene in ''[[Duck Soup (1933 film)|Duck Soup]],'' where both Chicolini (Chico) and Pinky (Harpo) disguise themselves as Groucho, they are briefly seen applying the greasepaint, implicitly answering any question a viewer might have had about where he got his mustache and eyebrows.
+
+Marx was asked to apply the greasepaint mustache once more for ''You Bet Your Life'' when it came to television, but he refused, opting instead to grow a real one, which he wore for the rest of his life. By this time, his eyesight had weakened enough for him actually to need corrective lenses; before then, his eyeglasses had merely been a stage prop. He debuted this new, and now much-older, appearance in ''[[Love Happy]],'' the Marx Brothers's last film as a comedy team.
+
+He did paint the old character mustache over his real one on a few rare performing occasions, including a TV sketch with [[Jackie Gleason]] on the latter's variety show in the 1960s (in which they performed a variation on the song "[[Mister Gallagher and Mister Shean]]," co-written by Marx's uncle [[Al Shean]]) and the 1968 [[Otto Preminger]] film ''[[Skidoo (film)|Skidoo]]''. In his late 70s at the time, Marx remarked on his appearance: "I looked like I was embalmed." He played a mob boss called "God" and, according to Marx, "both my performance and the film were God-awful!"
+
+The exaggerated walk, with one hand on the small of his back and his torso bent almost 90 degrees at the waist was a parody of a fad from the 1880s and 1890s.{{citation needed|date=October 2017}} Fashionable young men of the upper classes would affect a walk with their right hand held fast to the base of their spines, and with a slight lean forward at the waist and a very slight twist toward the right with the left shoulder, allowing the left hand to swing free with the gait. (Edmund Morris, in his biography ''[[The Rise of Theodore Roosevelt]]'', describes a young Roosevelt, newly elected to the State Assembly, walking into the House Chamber for the first time in this trendy, affected gait, somewhat to the amusement of the older and more rural members.)&lt;ref&gt;{{cite book|last1=Morris|first1=Edmund|title=The Rise of Theodore Roosevelt|date=2001|publisher=Modern Library|location=New York|isbn=0-375-75678-7|pages=143–144|edition=Modern Library Paperback|url=https://books.google.com/books?id=u-R37GQsVfgC|accessdate=9 August 2016}}&lt;/ref&gt; Groucho exaggerated this fad to a marked degree, and the comedy effect was enhanced by how out of date the fashion was by the 1940s and 1950s.
+
+== Personal life ==
+[[File:Marx Brothers 1948.jpg|left|thumb|The Marx Brothers (clockwise from bottom: Groucho, Chico, and Harpo) by [[Yusuf Karsh]], 1946]]
+Groucho's three marriages all ended in divorce. His first wife was chorus girl Ruth Johnson. He was 29 and she 19 at the time of their wedding. The couple had two children, [[Arthur Marx]] and [[Miriam Marx]]. His second wife was Kay Marvis (m. 1945–51), {{née}} Catherine Dittig,&lt;ref&gt;[http://issuu.com/boxoffice/docs/boxoffice_060339/89 ''Boxoffice'', 3 June 1939, p. 89].&lt;/ref&gt; former wife of [[Leo Gorcey]]. Groucho was 54 and Kay 21 at the time of their marriage. They had a daughter, [[Melinda Marx]]. His third wife was actress [[Eden Hartford]].
+
+During the early 1950s, Groucho described his perfect woman: "Someone who looks like [[Marilyn Monroe]] and talks like [[George S. Kaufman]]."&lt;ref&gt;{{cite book| work =[[Arthur Marx]]| title =Life With Groucho| publisher =Simon and Schuster| year =1954| location =New York| page =294
+| isbn =}}&lt;/ref&gt;
+
+Groucho was denied membership in an informal [[symphonietta]] of friends (including Harpo) organized by [[Ben Hecht]], because he could play only the mandolin. When the group began its first rehearsal at Hecht's home, Groucho rushed in and demanded silence from the "lousy amateurs". The musicians discovered him conducting the Los Angeles Symphony Orchestra in a performance of the overture to ''[[Tannhäuser (opera)|Tannhäuser]]'' in Hecht's living room. Groucho was allowed to join the symphonietta.&lt;ref name="friedrich1997"&gt;{{cite book | title=City of Nets: A Portrait of Hollywood in the 1940's | publisher=University of California Press | author=Friedrich, Otto | year=1997|edition=reprint | url=https://books.google.com/books?id=0x8AFchW4JsC&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false | location=Berkeley and Los Angeles | page=43 | isbn=0520209494}}&lt;/ref&gt;
+
+Later in life, Groucho would sometimes note to talk show hosts, not entirely jokingly, that he was unable to actually insult anyone, because the target of his comment would assume that it was a Groucho-esque joke, and would laugh.
+
+[[File:Groucho and Melinda Marx 1953.JPG|thumb|upright|On the set of ''You Bet Your Life'' with daughter Melinda, 1953]]
+Despite his lack of formal education, he wrote many books, including his autobiography, ''Groucho and Me'' (1959) and ''Memoirs of a Mangy Lover'' (1963). He was a friend of such literary figures as [[Booth Tarkington]], [[T. S. Eliot]] and [[Carl Sandburg]]. Much of his personal correspondence with those and other figures is featured in the book ''The Groucho Letters'' (1967) with an introduction and commentary on the letters written by Groucho, who donated&lt;ref&gt;{{cite news |url=https://catalog.loc.gov/vwebv/search?searchCode=LCCN&amp;searchArg=mm%2082047845&amp;searchType=1&amp;permalink=y |title=Groucho Marx papers, 1930-1967 |work=[[Library of Congress]] Online Catalog|accessdate=June 18, 2017}}&lt;/ref&gt; his letters to the [[Library of Congress]]. His daughter Miriam published a collection of his letters to her in 1992 titled ''Love, Groucho.''
+
+Groucho made serious efforts to learn to play the guitar. In the 1932 film ''[[Horse Feathers]]'', Groucho performs the film's love theme "Everyone Says I Love You" for costar [[Thelma Todd]] on a [[Gibson L-5]].&lt;ref&gt;Jerry McCulley, [http://www2.gibson.com/News-Lifestyle/Features/en-us/The-Surprisingly-Serious-Tale.aspx The Surprisingly Serious Tale of Comedian Groucho Marx and His Lifelong Quest to Master Guitar.]&lt;/ref&gt;
+
+[[Irving Berlin]] quipped, "The world would not be in such a snarl, had Marx been Groucho instead of Karl".&lt;ref&gt;Irving Berlin, Robert Kimball, Linda Emmet. ''The Complete Lyrics of Irving Berlin'', p. 489. Hal Leonard Corporation, 2005. {{ISBN|1-55783-681-7}}&lt;/ref&gt; In his book ''The Groucho Phile'', Marx says "I've been a liberal Democrat all my life", and "I frankly find Democrats a better, more sympathetic crowd.... I'll continue to believe that Democrats have a greater regard for the common man than Republicans do".&lt;ref&gt;Marx, Groucho. ''The Groucho Phile'', p. 238. Wallaby, 1977.&lt;/ref&gt; However, just as some of the other Democrats of the time, Marx also said in a television interview that he disliked the [[women's liberation movement]].
+
+''Marx &amp; Lennon: The Parallel Sayings'' was published in 2005; the book records similar sayings between Groucho Marx and [[John Lennon]].
+
+== Later years ==
+===''You Bet Your Life''===
+Groucho's radio career was not as successful as his work on stage and in film, though historians such as [[Gerald Nachman (journalist)|Gerald Nachman]] and Michael Barson suggest that, in the case of the single-season ''[[Flywheel, Shyster, and Flywheel]]'' (1932), the failure may have been a combination of a poor time slot and the Marx Brothers' returning to Hollywood to make another film.
+
+[[File:You bet your life postcard 1953.JPG|thumb|left|Groucho as host of ''You Bet Your Life'', 1953]]
+In the mid-1940s, during a depressing lull in his career (his radio show ''[[Blue Ribbon Town]]'' had failed, he failed to sell his proposed sitcom ''The Flotsam Family'' only to see it become a huge hit as ''[[The Life of Riley]]'' with [[William Bendix]] in the title role, and the Marx Brothers as film performers were well past their prime), Groucho was scheduled to appear on a radio show with [[Bob Hope]]. Annoyed that he was made to wait in the [[green room]] for 40 minutes, Groucho went on the air in a foul mood.
+
+Hope started by saying "Why, Groucho Marx! (applause) Groucho, what are you doing out here in the desert?" Groucho retorted, "Huh, desert, I've been sitting in the dressing room for forty minutes! Some desert alright..." Groucho continued to ignore the script, and although Hope was a formidable ad-libber in his own right, he could not begin to keep up with Groucho, who lengthened the scene well beyond its allotted time slot with a veritable onslaught of improvised wisecracks.
+
+Listening in on the show was producer [[John Guedel]], who had a brainstorm. He approached Groucho about doing a quiz show, to which Groucho derisively retorted, "A ''quiz show''? Only actors who are completely washed up resort to a quiz show!" Undeterred, Guedel went on to explain that the quiz would be only a backdrop for Groucho's interviews of people, and the storm of ad-libbing that they would elicit. Groucho replied, "Well, I've had no success in radio, and I can't hold on to a sponsor. At this point, I'll try anything!"
+
+''You Bet Your Life'' debuted in October 1947 on ABC radio (which aired it from 1947 to 1949), sponsored by costume jewelry manufacturer [[Allen Gellman]];&lt;ref&gt;Charlotte Chandler. Hello, I must be going: Groucho and his friends. Doubleday, 1978, p 190&lt;/ref&gt; and then on CBS (1949–50), and finally NBC. The show was on radio only from 1947 to 1950; on both radio and television from 1950 to 1960; and on television only, from 1960 to 1961. The show proved a huge hit, being one of the most popular on television by the mid-1950s. With [[George Fenneman]] as his announcer and straight man, Groucho entertained his audiences with improvised conversation with his guests. Since ''You Bet Your Life'' was mostly ad-libbed and unscripted—although writers did pre-interview the guests and feed Groucho ready-made lines in advance—the producers insisted that the network prerecord it instead of it being broadcast live. There were two reasons for this: prerecording provided Groucho with time to fish around for funny exchanges and any intervening dead spots to be edited out; and secondly to protect the network, since Groucho was a notorious loose cannon and known to say almost anything. The television show ran for 11 successful seasons until it was canceled in 1961. Automobile ''marque'' [[DeSoto (automobile)|DeSoto]] was a longtime major sponsor. For the DeSoto ads Marx would sometimes say: "Tell 'em Groucho sent you", or "Try a DeSoto before you decide".
+
+The program's theme music was an instrumental version of "[[Hooray for Captain Spaulding]]", which became increasingly identified as Groucho's personal theme song. A recording of the song with Groucho and the Ken Lane singers with an orchestra directed by [[Victor Young]] was released in 1952. Another recording made by Groucho during this period was "The Funniest Song in the World", released on the Young People's Records label in 1949. It was a series of five original children's songs with a connecting narrative about a monkey and his fellow zoo creatures.
+
+The show's most famous remark supposedly occurred as Groucho was interviewing Charlotte Story, who had borne 20 children. When Marx asked why she had chosen to raise such a large family, Mrs. Story is said to have replied, "I love my husband"; to which Marx responded, "I love my cigar, but I take it out of my mouth once in awhile." The remark was judged too risqué to be aired, according to the anecdote, and was edited out before broadcast.&lt;ref&gt;Dwan, R. As Long As They're Laughing : Groucho Marx and You Bet Your Life. Baltimore, Midnight Marquee, 2000, p. 129. {{ISBN|188766436X}}&lt;/ref&gt; Charlotte Story and her husband Marion, indeed parents of 20 children, were real people who appeared on the program in 1950.&lt;ref&gt;Kanfer, S. Groucho: The Life and Times of Julius Henry Marx. New York, Vintage, May 2001, p. 136. {{ISBN|0375702075}}&lt;/ref&gt; Audio recordings of the interview exist,&lt;ref name="snopes"&gt;{{cite web|url=http://www.snopes.com/radiotv/tv/grouchocigar.asp|title=The Secret Words|publisher=snopes.com|accessdate=13 April 2015}}&lt;/ref&gt; and a reference to cigars is made ("With each new kid, do you go around passing out cigars?"), but there is no evidence of the famous line. Marx and Fenneman both denied that the incident took place.&lt;ref&gt;Stoliar, S. Raised Eyebrows: My Years Inside Groucho's House. New York, BearManor Media, October 2011, pp.&amp;nbsp;124–5. {{ISBN|1593936524}}&lt;/ref&gt;  "I get credit all the time for things I never said," Marx told [[Roger Ebert]], in 1972. "You know that line in ''You Bet Your Life''? The guy says he has seventeen kids and I say, 'I smoke a cigar, but I take it out of my mouth occasionally'?  I never said that."&lt;ref&gt;Ebert, R. A Living Legend, Rated R. ''Esquire'', July 1972, p. 143. Retrieved 4 October 2013.&lt;/ref&gt; Marx's 1976 memoir recounts the episode as fact,&lt;ref&gt;Marx, G. and Arce, H. ''The Secret Word is Groucho''. New York, G.P. Putnam's Sons, 1976, pp.&amp;nbsp;33–4. {{ISBN|0399116907}}.&lt;/ref&gt; but co-writer Hector Arce relied mostly on sources other than Groucho himself—who was by then in his mid eighties, in ill health and mentally compromised—and was probably unaware that Groucho had specifically denied making the legendary observation.&lt;ref&gt;Kaltenbach, C. Also 20 Years Dead: Groucho. ''Baltimore Sun'', 19 August 1997, p.&amp;nbsp;E-1.&lt;/ref&gt;
+
+=== Other work ===
+By the time ''You Bet Your Life'' debuted on TV on October 5, 1950, Groucho had grown a real mustache (which he had already sported earlier in the films ''[[Copacabana (1947 film)|Copacabana]]'' and ''[[Love Happy]]'').
+
+During a tour of Germany in 1958, accompanied by then-wife Eden, daughter Melinda, Robert Dwan and Dwan's daughter Judith, he climbed a pile of rubble that marked the site of [[Adolf Hitler]]'s [[Führerbunker|bunker]], the site of Hitler's death, and performed a two-minute [[Charleston (dance)|Charleston]].&lt;ref&gt;{{cite web |last = Hallett |first = Judith Dwan |title = What's So Funny &amp; Why? |publisher = Sarah Lawrence College |url = http://www.slc.edu/magazine/whats-so-funny/Whats_So_Funny_and_Why.php |accessdate = 2007-07-29}}&lt;/ref&gt; He later remarked to Richard J. Anobile in ''The Marx Brothers Scrapbook,'' "Not much satisfaction after he killed six million Jews!"
+
+[[File:Groucho Marx Koko the Mikado Bell Telephone Hour 1960.JPG|thumb|Groucho as Ko-Ko, 1960]]
+In 1960, Groucho, a lifelong devotee of the comic operas of [[Gilbert and Sullivan]], appeared as Ko-Ko, the Lord High Executioner, in a televised production of ''[[The Mikado]]'' on [[NBC]]'s ''[[Bell Telephone Hour]]''. A clip of this is in rotation on [[Classic Arts Showcase]].
+
+Another TV show, ''Tell It To Groucho'', premiered January 11, 1962 on CBS, but only lasted five months. On October 1, 1962, Groucho, after acting as occasional guest host of ''[[The Tonight Show]]'' during the six-month interval between [[Jack Paar]] and [[Johnny Carson]], introduced Carson as the new host.
+
+In 1964, Marx starred in the "Time for Elizabeth" episode of ''[[Bob Hope Presents the Chrysler Theatre]]'', a truncated version of a play that Groucho Marx and [[Norman Krasna]] wrote in 1948.
+
+In 1965,  Groucho starred in a weekly show for British TV titled ''Groucho'', broadcast on [[ITV (TV network)|ITV]]. The program was along similar lines to ''You Bet Your Life'', with [[Keith Fordyce]] taking on the Fenneman role. However, it was poorly received and lasted only 11 weeks.
+
+Groucho appeared as a gangster named God in the movie ''[[Skidoo (film)|Skidoo]]'' (1968), directed by [[Otto Preminger]], and costarring [[Jackie Gleason]] and [[Carol Channing]]. It was released by the studio where the Marx Brothers began their film career, [[Paramount Pictures]]. The film received almost universally negative reviews. As a side note, writer [[Paul Krassner]] published a story in the February 1981 issue of ''[[High Times Magazine|High Times]]'', relating how Groucho prepared for the LSD-themed movie by taking a dose of the drug in Krassner's company, and had a moving, largely pleasant experience.
+
+Groucho developed friendships with rock star [[Alice Cooper]]—the two were photographed together for ''[[Rolling Stone]]'' magazine—and television host [[Dick Cavett]], becoming a frequent guest on Cavett's late-night talk show, even appearing in a one-man, 90-minute interview.&lt;ref name="Cavett19690613"&gt;[http://dickcavettshow.com/index.php/component/zoo/item/6-13-69 The Dick Cavett Show:] [https://www.imdb.com/title/tt0880018/ Season 3, Episode 9 Groucho Marx (13 Jun. 1969) – imdb] q.v.: [https://www.youtube.com/watch?v=VckmK-ZCpAU Youtube]&lt;/ref&gt; He befriended [[Elton John]] when the British singer was staying in California in 1972, insisting on calling him "John Elton." According to writer [[Philip Norman (author)|Philip Norman]], when Groucho jokingly pointed his index fingers as if holding a pair of six-shooters, Elton John put up his hands and said, "Don't shoot me, I'm only the piano player," thereby naming [[Don't Shoot Me I'm Only the Piano Player|the album he had just completed]]. A [[film poster]] for the Marx Bros. movie ''[[Go West (1940 film)|Go West]]'' is visible on the album cover photograph as an homage to Groucho. Elton John accompanied Groucho to a performance of ''[[Jesus Christ Superstar]]''. As the lights went down, Groucho called out, "Does it have a happy ending?" And during the Crucifixion scene, he declared, "This is sure to offend the Jews."{{Citation needed|date=August 2007}}
+
+Groucho's previous work regained popularity; new books of transcribed conversations were published by Richard J. Anobile and [[Charlotte Chandler]]. In a [[BBC]] interview in 1975, Groucho called his greatest achievement having a book selected for cultural preservation in the Library of Congress. In a Cavett interview in 1971,&lt;ref&gt;[http://dickcavettshow.com/index.php/component/zoo/item/5-25-71 The Dick Cavett Show - 5/25/1971]&lt;/ref&gt; Groucho said being published in [[The New Yorker]] under his own name,&lt;ref&gt;{{cite web|url=http://www.newyorker.com/contributors/groucho-marx|title=Groucho Marx - Contributors|author=|date=|work=newyorker.com|accessdate=22 November 2016}}&lt;/ref&gt; Julius Henry Marx, meant more than all the plays he appeared in.&lt;ref name="Cavett19690613"/&gt; As a man who never had formal schooling, to have his writings declared culturally important was a point of great satisfaction. As he passed his 81st birthday in 1971, however, Groucho became increasingly frail, physically and mentally, as a result of a succession of minor [[Cerebrovascular Accident|strokes]].&lt;ref name="pov1"&gt;[http://www.povonline.com/cols/COL238.htm Point of View] {{webarchive|url=https://web.archive.org/web/20061021181758/http://www.povonline.com/cols/COL238.htm |date=2006-10-21 }}, Mark Evanier, 1999-06-04, retrieved, 2007-08-09.&lt;/ref&gt;&lt;ref name="pov2"&gt;[http://www.povonline.com/cols/COL239.htm Point of View] {{webarchive|url=https://web.archive.org/web/20120717220054/http://www.povonline.com/cols/COL239.htm |date=2012-07-17 }}, Mark Evanier, 1999-06-11, retrieved, 2007-08-09.&lt;/ref&gt;
+
+In 1972, largely at the behest of his companion [[Erin Fleming]], Groucho staged a live one-man show at [[Carnegie Hall]] that was later released as a double album, ''An Evening with Groucho'', on [[A&amp;M Records]]. He also made an appearance in 1973 on a short-lived variety show hosted by [[Bill Cosby]]. Fleming's influence on Marx was controversial. Some close to Marx believed that she did much to revive his popularity, and the relationship with a younger woman boosted his ego and vitality.&lt;ref name=Opinionator/&gt; Others described her as a [[Svengali]], exploiting an increasingly senile Marx in pursuit of her own stardom.  Marx's children, particularly Arthur, felt strongly that Fleming was pushing their weak father beyond his physical and mental limits.&lt;ref name="pov2" /&gt;  Writer [[Mark Evanier]] concurred.&lt;ref name="pov3"&gt;[http://www.newsfromme.com/2004/03/07/erin/ Erin Fleming, R.I.P.], Mark Evanier, 7 March 2004&lt;/ref&gt;
+
+On the [[46th Academy Awards|1974 Academy Awards telecast]], Marx's final major public appearance, [[Jack Lemmon]] presented him with an honorary [[Academy Award]] to a standing ovation. The award honored his brothers as well: "in recognition of his brilliant creativity and for the unequalled achievements of the Marx Brothers in the art of motion picture comedy."&lt;ref&gt;[[Academy Honorary Award#1950s]]&lt;/ref&gt;{{Better source|reason=per WP:CIRCULAR|date=April 2018}} Noticeably frail, Groucho took a bow for his deceased brothers. "I wish that Harpo and Chico could be here to share with me this great honor," he said, naming the two deceased brothers. He also praised the late [[Margaret Dumont]] as a great straight woman who never understood any of his jokes.&lt;ref name="Cavett19690613"/&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=a1YsAxiiH98 |title=Groucho Marx receiving an Honorary Oscar® |publisher=Oscars.org |date=2009-11-24 |accessdate=2013-09-25}}&lt;/ref&gt; Groucho's final appearance was a brief sketch with [[George Burns]] in the [[Bob Hope]] television special ''Joys'' (a parody of the 1975 movie ''[[Jaws (film)|Jaws]]'') in March 1976.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=D-_T3H-DS1w&amp;?t=18m19s| title=Bob Hope Special: Bob Hope in ''Joys'' |publisher=Hope Enterprises |date=1976-03-05 |accessdate=2016-11-10}}&lt;/ref&gt; His health continued to decline the following year; when his younger brother [[Gummo Marx|Gummo]] died at age 84 on April 21, 1977, Groucho was never told for fear of eliciting still further deterioration of his health.&lt;ref&gt;{{cite news |first= |last= |authorlink= |coauthors= |title=Gummo Marx, Managed Comedians |url= |quote=[[Palm Springs, California]], April 21, 2007 ([[Reuters]]) Gummo Marks, an original member of the Marx brothers' comedy team, died here today. He was 84 years old. |work=The New York Times|date=}}&lt;/ref&gt;
+
+Groucho maintained his irrepressible sense of humor to the very end, however. George Fenneman, his radio and TV announcer, good-natured foil, and lifelong friend, often related a story of one of his final visits to Groucho's home: When the time came to end the visit, Fenneman lifted Groucho from his wheelchair, put his arms around his torso, and began to "walk" the frail comedian backwards across the room towards his bed. As he did, he heard a weak voice in his ear: "Fenneman," whispered Groucho, "you always were a lousy dancer."&lt;ref&gt;"George Fenneman, Sidekick To Groucho Marx, Dies at 77" [https://www.nytimes.com/1997/06/05/us/george-fenneman-sidekick-to-groucho-marx-dies-at-77.html ''New York Times'' (June 5, 1997)]. Retrieved 2010-06-21.&lt;/ref&gt; When a nurse approached him with a thermometer during his final hospitalization, explaining that she wanted to see if he had a temperature, he responded, "Don't be silly — everybody has a temperature."&lt;ref name=Opinionator&gt;"They Dressed like Groucho" [http://opinionator.blogs.nytimes.com/2012/04/20/they-dressed-like-groucho/ NY Times Opinionator (April 20, 20120] Retrieved 5/1/2012.&lt;/ref&gt; Actor [[Elliott Gould]] recalled a similar incident: "I recall the last time I saw Groucho, he was in the hospital, and he had tubes in his nose and what have you," he said. "And when he saw me, he was weak, but he was there; and he put his fingers on the tubes and played them like it was a clarinet. Groucho played the tubes for me, which brings me to tears."&lt;ref&gt;Famed Actor Elliott Gould Recalls Groucho Marx's Final Days (July 10, 2013). [http://www.compassionandchoices.org/2013/07/10/famed-actor-elliott-gould-recalls-groucho-marxs-final-days/ ''Compassion &amp; Choices'' Magazine archive] {{webarchive|url=https://web.archive.org/web/20140106051519/http://www.compassionandchoices.org/2013/07/10/famed-actor-elliott-gould-recalls-groucho-marxs-final-days/ |date=2014-01-06 }}. Retrieved January 5, 2014.&lt;/ref&gt;
+
+== Death ==
+[[File:Groucho Marx Grave.JPG|left|upright|thumb|upright|Niche of Groucho Marx at Eden Memorial Park]]
+Marx was hospitalized at [[Cedars-Sinai Medical Center]] with [[pneumonia]] on June 22, 1977 and died there nearly two months later at the age of 86&lt;ref name=obit2&gt;{{cite news | title=Groucho Marx Dies at 86 After Two-Month Illness | url=https://news.google.com/newspapers?id=X8xRAAAAIBAJ&amp;sjid=Xm0DAAAAIBAJ&amp;dq=groucho%20marx%20dies%20%7C%20death%20%7C%20died%20g%3Aloclos_angeles&amp;pg=3284%2C2109212 | quote=Officials at Cedar-Sinai Medical Center, where Marx had been hospitalized for the past two months with a respiratory ailment, said he died at 7:25 p.m. PDT of pneumonia | publisher=Pittsburgh Post-Gazette | date=20 August 1977}}&lt;/ref&gt; on August 19, four months after Gummo's death.&lt;ref name=obit&gt;{{cite news|title=Groucho Marx, Comedian, Dead. Movie Star and TV Host Was 86. Master of the Insult. Groucho Marx, Film Comedian and Host of 'You Bet Your Life,' Dies|url=https://query.nytimes.com/gst/abstract.html?res=9D03E4DD103DE532A25753C2A96E9C946690D6CF|newspaper=[[The New York Times]]|date=August 20, 2007|page=1}}&lt;/ref&gt;
+
+Groucho was cremated and the ashes are interred in the [[Eden Memorial Park Cemetery]] in [[Los Angeles]]. He was survived by his three children and younger brother [[Zeppo Marx|Zeppo]], who outlived him by two years. His gravestone bears no epitaph, but in one of his last interviews he suggested one: "Excuse me, I can't stand up."&lt;ref&gt;Groucho the Great. [http://www.legacy.com/news/legends-and-legacies/groucho-the-great/1105/ legacy.com]. Retrieved April 20, 2015.&lt;/ref&gt;
+
+Protracted court battles over the disposition of his estate lasted well into the 1980s. Eventually, Arthur Marx was awarded the bulk of the estate's assets, and Erin Fleming was ordered to repay $472,000.&lt;ref&gt;''Los Angeles Times'', April 15, 2011, Obituary of Arthur Marx, "In his father's declining years, Marx became a central figure behind a successful legal battle to wrest back control of Groucho's affairs from his late-in-life companion, Erin Fleming."&lt;/ref&gt;
+
+== Legacy ==
+[[File:Marx-Lennon Abkhazia stamp.jpg|thumb|Marx and [[John Lennon|Lennon]] on a 1994 [[Abkhazia]] stamp]]
+Groucho Marx was, and remains, the most recognizable and well-known of the Marx Brothers. Groucho-like characters and references have appeared in popular culture both during and after his life, some aimed at audiences who may never have seen a Marx Brothers movie. Groucho's trademark eyeglasses, nose, mustache, and cigar have become icons of comedy—glasses with fake noses and mustaches (referred to as "[[Groucho glasses]]", "nose-glasses," and other names) are sold by novelty and costume shops around the world.
+
+[[Nat Perrin]], close friend of Groucho Marx and writer of several Marx Brothers films, inspired [[John Astin]]'s portrayal of [[Gomez Addams]] on the 1960s TV series ''[[The Addams Family]]'' with similarly thick mustache, eyebrows, sardonic remarks, backward logic, and ever-present cigar (pulled from his breast pocket already lit).{{citation needed|date=March 2012}}
+{{Quote box
+ | quote  = As Groucho Marx once said, 'Anyone can get old - all you have to do is to live long enough'.
+ | source =&amp;nbsp;—Queen [[Elizabeth II]] speaking at her 80th birthday celebration in 2006.&lt;ref&gt;[http://www.sbs.com.au/news/article/2006/06/16/groucho-marks-queens-80th "Groucho marks Queen's 80th"]. SBS. Retrieved June 27, 2017&lt;/ref&gt;
+ | width  = 25%
+ | align  = left
+ | style  = padding:10px;
+}}
+
+A meeting with [[Elton John]] led to a press photo of Groucho pointing both of his index fingers and thumbs at Elton like revolvers. John's spontaneous response to hold up his hands and replying "Don't shoot me! I'm only the piano player!" was so amusing that Elton John reused it as the [[Don't Shoot Me I'm Only the Piano Player|title of a 1973 album]]. An added Marx homage was that a poster for the Marx Brothers' movie ''[[Go West (1940 film)|Go West]]'' was included on the cover art.&lt;ref&gt;{{cite book |last=Buckley |first=David |date=2007 |title=Elton The Biography |url=https://books.google.com/books?id=rVXrl8aZP0kC&amp;pg=PA144
+ |publisher=Chicago Review Press |isbn=1556527136}}&lt;/ref&gt;
+
+Two albums by British rock band [[Queen (band)|Queen]], ''[[A Night at the Opera (Queen album)|A Night at the Opera]]'' (1975) and ''[[A Day at the Races (album)|A Day at the Races]]'' (1976), are named after Marx Brothers films. In March 1977, Groucho invited Queen to visit him in his Los Angeles home; there they performed "[['39 (Queen song)|'39]]" [[a cappella]].&lt;ref&gt;Queen: The Ultimate Illustrated History of the Crown Kings of Rock. p.96. Voyageur Press, 2009&lt;/ref&gt;
+
+A long-running ad campaign for [[Vlasic Pickles]] features an animated stork that imitates Groucho's mannerisms and voice.&lt;ref&gt;[https://www.nytimes.com/2007/05/30/business/media/29adnewsletter1.html?pagewanted=print Stuart Elliott, ''Pink or Blue? These Bundles of Joy Are Always Green''], ''New York Times'', 2007-05-30.&lt;/ref&gt; On the famous [[Hollywood Sign]] in California, one of the "O"s is dedicated to Groucho. [[Alice Cooper]] contributed over $27,000 to remodel the sign, in memory of his friend.
+
+Actor [[Frank Ferrante]] has performed as Groucho Marx on stage for more than two decades. He continues to tour under rights granted by the Marx family in a show entitled ''An Evening with Groucho'' in theaters throughout the United States and Canada with supporting actors and piano accompanist Jim Furmston. In the late 1980s Ferrante starred as Groucho in the off-Broadway and London show ''[[Groucho: A Life in Revue]]'' penned by Groucho's son Arthur. Ferrante portrayed the comedian from age 15 to 85. The show was later filmed for PBS in 2001. In 1982, [[Gabe Kaplan]] filmed a version of the same show, entitled ''Groucho''.&lt;ref&gt;{{cite web|last=Erickson|first=Hal|title=Gabe Kaplan As Groucho|url=https://movies.nytimes.com/movie/19088/Gabe-Kaplan-As-Groucho/overview|publisher=All Media Guide New York Times|accessdate=11 July 2012}}&lt;/ref&gt;
+
+Woody Allen's 1996 musical ''[[Everyone Says I Love You]]'', in addition to being named for one of Groucho's signature songs, ends with a Groucho-themed New Year's Eve party in Paris, which some of the stars, including Allen and [[Goldie Hawn]], attend in full Groucho costume. The highlight of the scene is an ensemble song-and-dance performance of "Hooray for Captain Spaulding"—done entirely in French.
+
+The BBC remade the radio sitcom ''[[Flywheel, Shyster, and Flywheel]]'', with contemporary actors playing the parts of the original cast. The series was repeated on digital radio station [[BBC7]]. Scottish playwright Louise Oliver wrote a play named ''Waiting for Groucho'' about Chico and Harpo waiting for Groucho to turn up for the filming of their last project together. This was performed by Glasgow theatre company Rhymes with Purple Productions at the Edinburgh Fringe and in [[Glasgow]] and Hamilton in 2007–08. Groucho was played by Scottish actor Frodo McDaniel.&lt;ref&gt;[http://www.rhymeswithpurple.net/waitingforgroucho Rhymes with Purple Productions – Theatre, Cabaret, Burlesque&lt;!-- Bot generated title --&gt;]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}.&lt;/ref&gt;
+
+[[Sidney Sheldon]] wrote a ''[[roman à clef]]'' on Marx and his partner [[Erin Fleming]] titled ''[[A Stranger in the Mirror]]'', published in 1976.&lt;ref&gt;https://news.google.com/newspapers?nid=1499&amp;dat=19760416&amp;id=CggqAAAAIBAJ&amp;sjid=ISkEAAAAIBAJ&amp;pg=4280,3468441&amp;hl=en&lt;/ref&gt;  It was made into a television movie in 1993 with actor [[Perry King]] playing the role inspired by Marx.
+
+== Filmography ==
+=== Features ===
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+|+ Films with the Marx Brothers
+! scope="col" width="100"| Title
+! scope="col" width="10" | Year
+! scope="col" width="100"| Role
+! scope="col" class="unsortable" width="200" | Notes
+|-
+! scope="row"| ''[[Humor Risk]]''
+| 1921
+| Villain
+| style="text-align:left;"| Previewed once and never released; thought to be [[Lost film|lost]]
+|-
+! scope="row"| ''[[The Cocoanuts]]''
+| 1929
+| Hammer
+| style="text-align:left;"| Released by [[Paramount Pictures]]; based on a 1925 Marx Brothers [[Broadway theatre|Broadway]] musical
+|-
+|-
+! scope="row"| ''[[Animal Crackers (1930 film)|Animal Crackers]]''
+| 1930
+| Captain Jeffrey Spaulding
+| style="text-align:left;"| Released by Paramount; based on a 1928 Marx Brothers Broadway musical
+|-
+! scope="row"| ''[[The House That Shadows Built]]''
+| 1931
+| Caesar's Ghost
+| style="text-align:left;"| Short subject; released by Paramount
+|-
+! scope="row"| ''[[Monkey Business (1931 film)|Monkey Business]]''
+| 1931
+| Groucho
+| style="text-align:left;"| Released by Paramount
+|-
+! scope="row"| ''[[Horse Feathers]]''
+| 1932
+| Professor Quincy Adams Wagstaff
+| style="text-align:left;"| Released by Paramount
+|-
+! scope="row"| ''[[Duck Soup (1933 film)|Duck Soup]]''
+| 1933
+| Rufus T. Firefly
+| style="text-align:left;"| Released by Paramount
+|- style="background:#b0c4de;"
+! colspan="5" style="text-align:center;" |Post-Zeppo
+|-
+! scope="row"| ''[[A Night at the Opera (film)|A Night at the Opera]]''
+| 1935
+| Otis B. Driftwood
+| style="text-align:left;"| Released by [[Metro-Goldwyn-Mayer]]
+|-
+! scope="row"| ''[[A Day at the Races (film)|A Day at the Races]]''
+| 1937
+| Dr. Hugo Z. Hackenbush
+| style="text-align:left;"| Released by MGM
+|-
+! scope="row"| ''[[Room Service (1938 film)|Room Service]]''
+| 1938
+| Gordon Miller
+| style="text-align:left;"| Released by [[RKO Radio Pictures]]; based on a 1937 Broadway play
+|-
+! scope="row"| ''[[At the Circus]]''
+| 1939
+| J. Cheever Loophole
+| style="text-align:left;"| Released by MGM
+|-
+! scope="row"| ''[[Go West (1940 film)|Go West]]''
+| 1940
+| S. Quentin Quale
+| style="text-align:left;"| Released by MGM
+|-
+! scope="row"| ''[[The Big Store]]''
+| 1941
+| Wolf J. Flywheel
+| style="text-align:left;"| Released by MGM (intended to be their last film)
+|-
+! scope="row"| ''[[A Night in Casablanca]]''
+| 1946
+| Ronald Kornblow
+| style="text-align:left;"| Released by [[United Artists]]
+|-
+! scope="row"| ''[[Love Happy]]''
+| 1949
+| Detective Sam Grunion
+| style="text-align:left;"| Released by United Artists
+|-
+! scope="row"| ''Showdown at Ulcer Gulch''
+| 1957
+| Stage Conductor (voice)
+| style="text-align:left;"| Cameo
+|-
+! scope="row"| ''[[The Story of Mankind (film)|The Story of Mankind]]''
+| 1957
+| Peter Minuit
+| style="text-align:left;"| Cameo
+|-
+! scope="row"| ''[[General Electric Theater]]''
+| 1959
+| Suspect in a Police Lineup
+| style="text-align:left;"| Episode: "[[The Incredible Jewel Robbery]]"
+|-
+|}
+
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+|+ Solo filmography
+! scope="col" width="100"| Title
+! scope="col" width="10" | Year
+! scope="col" width="100"| Role
+! scope="col" class="unsortable" width="195" | Notes
+|-
+! scope="row"| ''[[Yours for the Asking]]''
+| 1936
+| Sunbather
+| style="text-align:left;"| Uncredited cameo
+|-
+! scope="row"| ''[[The King and the Chorus Girl]]''
+| 1937
+| {{n/a}}
+| style="text-align:left;"| Co-writer with [[Norman Krasna]]
+|-
+! scope="row"| ''Instatanes''
+| 1943
+| Unknown
+| style="text-align:left;"| 
+|-
+! scope="row"| ''[[Copacabana (1947 film)|Copacabana]]''
+| 1947
+| Lionel Q. Deveraux
+| style="text-align:left;"| Released by United Artist
+|-
+! scope="row"| ''[[Mr. Music]]''
+| 1950
+| Himself
+| style="text-align:left;"| Released by Paramount Pictures
+|-
+! scope="row"| ''[[You Bet Your Life]]''
+| 1950–61
+| Himself (host)
+| style="text-align:left;"| [[Quiz show]]
+|-
+! scope="row"| ''[[Double Dynamite]]''
+| 1951
+| Emile J. Keck
+| style="text-align:left;"| Released by [[RKO]]
+|-
+! scope="row"| ''[[A Girl in Every Port (1952 film)|A Girl in Every Port]]''
+| 1952
+| Benjamin Linn
+| style="text-align:left;"| Released by RKO
+|-
+! scope="row"| ''[[Will Success Spoil Rock Hunter?]]''
+| 1957
+| George Schmidlap
+| style="text-align:left;"| Uncredited; released by [[20th Century Fox]]
+|-
+! scope="row"| ''[[The Bell Telephone Hour]]''
+| 1960
+| Ko-Ko
+| style="text-align:left;"| Episode: "The Mikado" (aired April 29, 1960)
+|-
+! scope="row"| ''[[General Electric Theater]]''
+| 1962
+| John Graham
+| style="text-align:left;"| Episode: "The Hold-Out"
+|-
+! scope="row"| ''[[Bob Hope Presents the Chrysler Theatre]]''
+| 1964
+| Ed Davis
+| style="text-align:left;"| Episode: "Time For Elizabeth"
+|-
+! scope="row"| ''[[I Dream of Jeannie]]''
+| 1967
+| Himself
+| style="text-align:left;"| Episode: "The Greatest Invention in the World"&lt;ref&gt;{{cite news |url=http://www.tvparty.com/moviemarx2.html |title=Groucho Marx on Television Part Two - The Sixties and Seventies|work=TVparty.com |accessdate=June 18, 2017}}&lt;/ref&gt;
+|-
+! scope="row"| ''[[Skidoo (film)|Skidoo]]''
+| 1968
+| [[God]]
+| style="text-align:left;"| Released by Paramount
+|-
+! scope="row"| ''[[Julia (TV series)|Julia]]''
+| 1968
+| Mr. Flywheel
+| style="text-align:left;"| Episode: "Farewell, My Friends, Hello"
+|-
+|}
+
+===Short subjects===
+*''Hollywood on Parade No. 11'' (1933)
+*''Screen Snapshots Series 16, No. 3'' (1936)
+*''Sunday Night at the Trocadero'' (1937)
+*''Screen Snapshots: The Great Al Jolson'' (1955)
+*''Showdown at Ulcer Gulch'' (1956) (voice)
+*''Screen Snapshots: Playtime in Hollywood'' (1956)
+
+==Bibliography==
+{{Expand list|date=April 2017}}
+
+===Books by Groucho Marx===
+*''Beds'' (Farrar &amp; Rinehart, 1930)
+*''Beds'': revised &amp; updated edition (Bobbs-Merrill, 1976 {{ISBN|0-672-52224-1}})
+*''Many Happy Returns: An Unofficial Guide to Your Income-Tax Problems'' Illustrated by [[Otto Soglow]] (Simon &amp; Schuster, 1942)
+* ''Groucho and Me'' (B. Geis Associates, 1959)
+*''Memoirs of a Mangy Lover'' (B. Geis Associates, 1963)
+*''The Groucho Letters: Letters From and To Groucho Marx'' (Simon &amp; Schuster, 1967, {{ISBN|0-306-80607-X}})
+*''The Marx Bros, Scrapbook'' with Richard Anobile (Darien House/W W Norton, 1973,  {{ISBN|0-393-08371-3}})
+*''The Secret Word Is Groucho'' with Hector Arce (Putnam, 1976)
+*''The Groucho Phile: An Illustrated Life by Groucho Marx'' with Hector Arce (Galahad, 1976, {{ISBN|0-88365-433-4}})
+
+===Essays and reporting===
+*{{cite journal |author=Marx, Julius H. |authorlink= |authormask= |date=April 4, 1925 |title=Boston again |department=New York, Etc. |journal=The New Yorker |volume=1 |issue=7 |pages=25 |url= |&lt;!--accessdate=--&gt;}}
+*{{cite journal |author=Marx, Julius H. |authorlink= |authormask=1 |date=April 11, 1925 |title=Vaudeville talk |department=New York, Etc. |journal=The New Yorker |volume=1 |issue=8 |pages=25 |url= |&lt;!--accessdate=--&gt;}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Miriam Marx Allen, ''Love, Groucho: Letters From Groucho Marx to His Daughter Miriam'' (1992, {{ISBN|0-571-12915-3}})
+*Charlotte Chandler, ''[[Hello, I Must Be Going! (book)|Hello, I Must Be Going!]]'' (1979, {{ISBN|0-14-005222-4}})
+*Stefan Kanfer, ''Groucho: The Life and Times of Julius Henry Marx'' (2000, {{ISBN|0-375-70207-5}})
+*Simon Louvish, ''Monkey Business: The Lives and Legends of the Marx Brothers'' (2001, {{ISBN|0-312-25292-7}})
+*Arthur Marx, ''Life With Groucho'' (1954, revised as ''My Life with Groucho: A Son's Eye View'' 1988, {{ISBN|0-330-31132-8}}))
+*Arthur Marx, ''Son of Groucho'' (1972, {{ISBN|0-679-50355-2}})
+*Harpo Marx, ''Harpo Speaks'' (1961, revised as ''Harpo Speaks!'' 1985, {{ISBN|0-87910-036-2}})
+*Glenn Mitchell, ''The Marx Brothers Encyclopedia'' (1996, {{ISBN|0-7134-7838-1}})
+*Steve Stoliar, ''Raised Eyebrows: My Years Inside Groucho's House'' (1996, {{ISBN|1-881649-73-3}})
+* [http://www.starkman.com/hippo/articles/marx.html ''Julius H. (Groucho) Marx v. Commissioner of Internal Revenue''], 29 T.C. 88 (1957)
+
+==External links==
+{{Commons category}}
+{{wikiquote}}
+*[http://id.loc.gov/authorities/names/n79060499.html Marx, Groucho, 1890–1977 (Library of Congress Name Authority File)]
+*[http://lccn.loc.gov/mm82047845 Groucho Marx papers, 1930–1967 (Library of Congress)] {{LCCN|mm82047845}}
+* {{cite web|url=http://www.newyorker.com/contributors/groucho-marx|title=Groucho Marx - Contributors|author=|date=|work=newyorker.com}}
+*{{IMDb name|50|Groucho Marx}}
+*{{Tcmdb name}}
+*{{IBDB name}}
+*{{Find a Grave|677}}
+*[http://news.bbc.co.uk/1/hi/programmes/letter_from_america/3578615.stm Alistair Cooke's reflections on his friendship with Groucho]
+*[http://www.lydiaolydia.com Lydia's Marx Brothers Tribute Website]
+*[https://archive.org/search.php?query=Groucho%20Marx Groucho Marx - Old Time Radio - Archive.org]
+*[https://archive.org/details/Groucho_Marx_Letter_to_Warner_Brothers Groucho's letter to Warner Brothers when they threatened to sue him]
+*[http://www.snopes.com/radiotv/tv/grouchocigar.asp Urban Legends Reference Page: Groucho Marx: "I Love My Cigar"]
+*[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19720307/PEOPLE/41116001/1023 Esquire magazine profile of Groucho Marx in 1972, by Roger Ebert]
+*[https://www.flickr.com/photos/puzzlemaster/2400101758 1922 passport photo of Groucho and first wife Ruth Johnson]
+*[https://archive.org/download/GrouchoMarx-PressConference1965/GrouchoMarx-PressConferenceLondonJune1965.mp3 Groucho Marx Interview – Press Conference London June 1965]
+*[https://vault.fbi.gov/Groucho%20Marx FBI Records: The Vault - Groucho Marx] at vault.fbi.gov
+
+{{Academy Honorary Award}}
+{{Marx Brothers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marx, Groucho}}
+[[Category:1890 births]]
+[[Category:1977 deaths]]
+[[Category:20th-century American comedians]]
+[[Category:20th-century American male actors]]
+[[Category:Academy Honorary Award recipients]]
+[[Category:American game show hosts]]
+[[Category:American male comedians]]
+[[Category:American male film actors]]
+[[Category:American male stage actors]]
+[[Category:American male television actors]]
+[[Category:American people of Alsatian-Jewish descent]]
+[[Category:American people of German-Jewish descent]]
+[[Category:American radio personalities]]
+[[Category:Male actors from New York City]]
+[[Category:Burials at Eden Memorial Park Cemetery]]
+[[Category:California Democrats]]
+[[Category:Deaths from pneumonia]]
+[[Category:Infectious disease deaths in California]]
+[[Category:Jewish American male actors]]
+[[Category:Comedians from New York City]]
+[[Category:Marx Brothers]]
+[[Category:National Radio Hall of Fame inductees]]
+[[Category:People from the Upper East Side]]
+[[Category:Vaudeville performers]]
+[[Category:Jewish American comedians]]
+[[Category:Jewish comedians]]</text>
+      <sha1>rbsxca3razxz6qb4dz9k674l2vc5a0z</sha1>
+    </revision>
+  </page>
+</mediawiki>

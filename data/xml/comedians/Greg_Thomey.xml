@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Greg Thomey</title>
+    <ns>0</ns>
+    <id>351866</id>
+    <revision>
+      <id>853967492</id>
+      <parentid>830144693</parentid>
+      <timestamp>2018-08-08T02:43:14Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* References */add authority control, test using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2699">{{BLP sources|date=November 2013}}
+
+'''Greg Thomey''' (born May 8, 1961) is Canadian comedian, actor and playwright and a founding member of the long-running television program ''[[This Hour Has 22 Minutes]]''. He has been a recipient of numerous [[Gemini Award]]s.
+
+Born in [[St. John's, Newfoundland and Labrador|St. John's]], [[Newfoundland and Labrador|Newfoundland]], Thomey has been part of the comedy scene there for many years beginning as a writer and performer with the comedy troupe ''[[CODCO]]'' and as an actor and playwright.
+
+He played the role of Brother Glackin in the  film ''[[The Boys of St. Vincent]]''. His original stage play ''Hanlon House'', which was first produced by the Resource Centre for the Arts in St. John's, went on to be produced as a short film, winning the Best Short Film award at the Atlantic Film Festival in 1992. ''Hanlon House'' was aired on CBC-TV's Arts program later that year.
+
+In 1992, he began to work with [[Cathy Jones]], [[Rick Mercer]] and [[Mary Walsh (actress)|Mary Walsh]] to create a new television series, which became ''[[This Hour Has 22 Minutes]]''. Thomey played anchorperson Frank MacMillan and created many memorable characters such as Jerry Boyle (of the Newfoundland Separation Federation) and Eddie from "That Show Sucked". He left the show as an on-screen performer in 2005 but he returned to ''This Hour'' as a writer for the 2013/2014 season.&lt;ref&gt;IMDB&lt;/ref&gt;
+
+In addition to his work on ''22 Minutes'', in 1996 Thomey also starred in a six-part series called ''[[Daily Tips for Modern Living]]'' that aired on CBC TV.
+
+==Personal life==
+In 2014, he was a co-complainant in a legal case in Nova Scotia in which a couple was accused of defrauding several investors including Thomey.&lt;ref&gt;{{cite news|last1=Bruce|first1=Steve|title=Hearing in Halifax fraud case set for February|url=http://thechronicleherald.ca/metro/1240545-hearing-in-halifax-fraud-case-set-for-february|accessdate=31 January 2015|work=Chronicle Herald|publisher=Halifax Herald|date=21 October 2014}}&lt;/ref&gt;
+
+==References ==
+{{Reflist}}
+*{{IMDb name|0859773|Greg Thomey}}
+*[http://www.cbc.ca/programguide/personality/index.jsp?personality=Thomey%2C+Greg&amp;program=This+Hour+Has+22+Minutes The CBC's Personality Greg Thomey page]
+
+{{authority control}}
+
+{{DEFAULTSORT:Thomey, Greg}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Canadian television personalities]]
+[[Category:Canadian Screen Award winning people]]
+[[Category:People from St. John's, Newfoundland and Labrador]]
+[[Category:Male actors from Newfoundland and Labrador]]
+[[Category:This Hour Has 22 Minutes]]
+[[Category:Canadian sketch comedians]]
+[[Category:Canadian television writers]]</text>
+      <sha1>1y7aub79taat60bao6ko0j1c9o8yw9r</sha1>
+    </revision>
+  </page>
+</mediawiki>

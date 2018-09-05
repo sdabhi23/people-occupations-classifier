@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Arthur Whitten Brown</title>
+    <ns>0</ns>
+    <id>289619</id>
+    <revision>
+      <id>853220200</id>
+      <parentid>848265398</parentid>
+      <timestamp>2018-08-03T06:32:21Z</timestamp>
+      <contributor>
+        <ip>2605:E000:9149:A600:B0BD:BEA8:89BB:89CD</ip>
+      </contributor>
+      <comment>more than one person invested at that investiture</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9985">{{Use dmy dates|date=April 2012}}
+{{Infobox military person
+| name          =Sir Arthur Whitten Brown
+|honorific_suffix = {{post-nominals|country=GBR|KBE|size=100%|sep=,}}
+| image         = File:Arthur Whitten Brown.jpg
+| caption       = 
+| birth_date          = {{Birth date|1886|07|23|df=yes}}
+| death_date          = {{Death date and age|1948|10|04|1886|06|23|df=yes}}
+| placeofburial_label = 
+| placeofburial = St Margaret Churchyard, Tylers Green, [[Buckinghamshire, England]]
+| birth_place  = [[Glasgow]], Scotland 
+| death_place  = [[Swansea]], Wales
+| placeofburial_coordinates = 
+| nickname      =
+| allegiance    = United Kingdom
+| branch        = [[British Army]], [[Royal Air Force]]
+| serviceyears  = 1914&amp;ndash;19, 1939&amp;ndash;43
+| rank          = Lieutenant-Colonel
+| unit          = [[Public Schools Battalions|University and Public Schools Brigade]]&lt;br&gt;[[Manchester Regiment]]&lt;br&gt;[[No. 2 Squadron RAF|2 Squadron Royal Flying Corps]]
+| commands      =
+| battles       =
+| awards        = 
+| relations     =
+| laterwork     =
+}}
+
+[[Lieutenant colonel (United Kingdom)|Lieutenant-Colonel]] '''Sir Arthur Whitten Brown''', {{post-nominals|country=GBR-cats|KBE|size=100%|sep=,}} (23 July 1886 – 4 October 1948) was the navigator of the [[Alcock and Brown|first successful non-stop transatlantic flight]].&lt;ref&gt;{{cite web|author=Ralph S. Cooper, D.V.M. |url=http://earlyaviators.com/ebrownar.htm |title=Arthur Whitten Brown |publisher=Earlyaviators.com |date= |accessdate=3 December 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/81476/Sir-Arthur-Whitten-Brown |title=Sir Arthur Whitten Brown (British aviator) – Britannica Online Encyclopedia |publisher=Britannica.com |date= |accessdate=3 December 2010}}&lt;/ref&gt;
+
+==Biography==
+Arthur Whitten Brown was born in Glasgow to American parents; his father had been sent to Scotland to evaluate the feasibility of siting a Westinghouse factory in [[Clydeside]]. The factory was eventually sited in [[Trafford Park]] in [[Stretford]], [[Lancashire]], and the family subsequently relocated there.
+
+Brown began his career in engineering before the outbreak of [[World War I]] and undertook an apprenticeship with [[British Westinghouse]] in Manchester. In 1914, he enlisted in the ranks of the [[Public Schools Battalions|University and Public Schools Brigade]] (UPS) for which he had to take out British citizenship. The ranks of the UPS were full of potential officers and Brown was one of those who sought a commission to become a [[2nd Lt.#United Kingdom and Commonwealth|Second Lieutenant]] in the 3rd (Special Reserve) Battalion of the [[Manchester Regiment]]. After service in France, Brown was seconded to [[No. 2 Squadron RAF|2 Squadron Royal Flying Corps]] as an observer.
+
+Brown's aircraft was shot down by anti-aircraft fire over [[Vendin-le-Vieil]] in France while on artillery observation duties. He was sent back to England to recuperate but returned only to be shot down again, this time with a punctured fuel tank, near [[Bapaume]] in [[Royal Aircraft Factory B.E.2|B.E.2c]] (number [[United Kingdom military aircraft serials|''2673'']]) on a reconnaissance flight on 10 November 1915. Brown and his pilot, 2nd Lt. H. W. Medlicott, were captured by the Germans. (In June 1918 Medlicott was shot by the Germans while attempting to escape for the fourteenth time). Later interned in Switzerland, Brown was repatriated in September 1917.
+
+After a period of leave he went to work with Major Kennedy RAF in the [[Ministry of Munitions]]. This led Brown to meet Kennedy's daughters, one of whom he later married. After the war Brown sought various appointments that would give him the security to allow him to marry. One of the firms he approached was [[Vickers]], a consequence of which was that he was asked if he would be the navigator for the proposed [[transatlantic flight]], partnering [[John Alcock (aviator)|John Alcock]], who had already been chosen as pilot.
+
+==Transatlantic flight==
+[[File:Arthur Whitten Brown and John Alcock in 1919.jpg|thumb|Brown (left) with [[John Alcock (RAF officer)|John Alcock]] in 1919]]
+The flight from [[St. John's, Newfoundland and Labrador|St. John's, Newfoundland]] to [[Clifden]], [[Connemara]], Ireland took place on 14 June 1919. They departed St John's at 1.45 pm local time, and landed in Derrygimla bog 16 hours and 12 minutes later after flying 1,980 miles (3,168&amp;nbsp;km). The flight was made in a modified [[Vickers Vimy]] bomber, and won a [[Daily Mail aviation prizes|£10,000 prize]] offered by London's ''[[Daily Mail]]'' newspaper for the first non-stop flight across the Atlantic.&lt;ref&gt;{{cite web|url=http://www.aviation-history.com/airmen/alcock.htm |title=Alcock and Brown – Great Britain |publisher=Aviation-history.com |date= |accessdate=3 December 2010| archiveurl= https://web.archive.org/web/20101213103027/http://aviation-history.com/airmen/alcock.htm| archivedate= 13 December 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.fi.edu/flight/long/index.html |title=Introduction John Alcock and Arthur Whitten Brown were two British fliers |publisher=Fi.edu |date= |accessdate=3 December 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110629194701/http://www.fi.edu/flight/long/index.html |archivedate=29 June 2011 }}&lt;/ref&gt; A few days after the flight both Brown and Alcock were honoured with a reception at [[Windsor Castle]] during which [[George V of the United Kingdom|King George V]] invested them with their insignia as [[Order of the British Empire|Knights Commanders of the Order of the British Empire]].&lt;ref&gt;{{London Gazette|issue=31422|page=8087|date=27 June 1919}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.msim.org.uk/media/161884/captain%20jack%20alcock.pdf|format=PDF|title=Captain Jack Alcock (1892–1919)|publisher=Museum of Science &amp; Industry, Manchester, England|accessdate=8 April 2008| archiveurl= https://web.archive.org/web/20080410194708/http://www.msim.org.uk/media/161884/captain%20jack%20alcock.pdf| archivedate= 10 April 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Post flight career==
+Later he worked for [[Metropolitan-Vickers]] (MetroVick), the company that had once been British Westinghouse. In 1923 he was appointed chief representative for Metropolitan-Vickers in the [[Swansea]] area.
+
+During [[World War II]] Brown served in the [[Home Guard (United Kingdom)|Home Guard]] as a [[Lieutenant-Colonel]] before resigning his commission in July 1941, rejoining the RAF and working in [[RAF Training Command]] as a [[pilot officer]] dealing with navigation. His health deteriorated and by mid-1943 he had to resign from the RAFVR&lt;ref&gt;{{London Gazette |issue=36054 |date=11 June 1943 |page=2735 |supp=y}}&lt;/ref&gt; and give up his [[Air Training Corps]] commitments on medical advice.
+
+Brown's only son, Arthur (known as Buster), was killed on the night of 5/6 June 1944, aged 22, while serving with the RAF as a Flight Lieutenant. His aircraft, a [[De Havilland Mosquito|de Havilland Mosquito VI]] ''NT122'', of [[No. 605 Squadron RAF|605 Squadron]], crashed in the Netherlands. Buster was buried at the general cemetery in [[Hoorn]], the town closest to the crash. The death of his only son affected Brown badly.
+
+By 1948 Brown’s health had again deteriorated, although he was allowed to undertake restricted duties as general manager for Metropolitan-Vickers at the Wind Street offices.
+
+Brown died in his sleep on 4 October 1948 from an accidental overdose of [[Veronal]], aged 62. Probate was granted on 16 December 1948 to his widow, listed as Marguerite Kathleen Whitten Brown, for effects totalling £5,002 0s 3d.  
+
+Brown's widow died on 1 May 1952, aged 56, at Brunswick Nursing Home, Fyfnone, Swansea.  Probate was dated 9 June 1952 and left effects of £4,342 6s 11d to an Eileen Howard Kennedy, spinster.
+
+Brown and his wife's ashes are interred at St Margaret Churchyard, [[Tylers Green]], Buckinghamshire, England.&lt;ref&gt;{{cite web|url=https://www.findagrave.com/memorial/8746392 |title=Arthur Whitten Brown (1886–1948) – Find A Grave Memorial |publisher=Findagrave.com |date= |accessdate=3 December 2010}}&lt;/ref&gt;
+
+==Works==
+*{{cite book| url=https://books.google.com/books?id=NMsBDU_4A7YC&amp;printsec=frontcover&amp;dq=Arthur+Whitten+Brown#v=onepage&amp;q&amp;f=false| title=Flying the Atlantic in Sixteen Hours, with a Discussion of Aircraft in Commerce and Transportation| publisher=Frederick A. Stokes| year=1920 }}; reprint READ BOOKS, 2008, {{ISBN|978-1-4097-1887-1}}
+*''Our Transatlantic Flight'', Alcock and Brown, William Kimber, 1969, {{ISBN|978-0-7183-0221-4}}
+
+==See also==
+* [[Transatlantic flight of Alcock and Brown]]
+* [[Transatlantic flight]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.airliners.net/photo/Britannia-Airways/Boeing-737-204-Adv/1372620/L/&amp;sid=0dd3ca7ce94f7e0b4b84972ba438c219 Photograph of Britannia Airways Boeing 737 named "Sir Arthur Whitten Brown"]
+{{Commons category-inline|bullet=none}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brown, Arthur Whitten}}
+[[Category:1886 births]]
+[[Category:1948 deaths]]
+[[Category:British aviators]]
+[[Category:Aviation pioneers]]
+[[Category:British navigators]]
+[[Category:Flight navigators]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:Royal Flying Corps officers]]
+[[Category:British Army personnel of World War I]]
+[[Category:British Home Guard officers]]
+[[Category:Royal Air Force officers]]
+[[Category:British World War I prisoners of war]]
+[[Category:World War I prisoners of war held by Germany]]
+[[Category:Manchester Regiment officers]]
+[[Category:Deputy Lieutenants of Glamorgan]]
+[[Category:Alumni of the University of Manchester Institute of Science and Technology]]
+[[Category:People from Stretford]]
+[[Category:British people of American descent]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:Drug-related deaths in England]]
+[[Category:Burials in Buckinghamshire]]
+[[Category:Metropolitan-Vickers people]]</text>
+      <sha1>kvhfe4hyex5fieqwm6z55r8qd70th8j</sha1>
+    </revision>
+  </page>
+</mediawiki>

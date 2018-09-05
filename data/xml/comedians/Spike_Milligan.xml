@@ -1,0 +1,664 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Spike Milligan</title>
+    <ns>0</ns>
+    <id>28698</id>
+    <revision>
+      <id>853441104</id>
+      <parentid>853440763</parentid>
+      <timestamp>2018-08-04T20:33:56Z</timestamp>
+      <contributor>
+        <ip>83.100.182.119</ip>
+      </contributor>
+      <comment>/* Television */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="72489">{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox person
+ | name             = Spike Milligan
+ | honorific_suffix = {{post-nominals|country=GBR|KBE}}
+ | image            = Spike Milligan 1990.jpg
+ | caption          = Milligan at [[Rye, Sussex|Rye]], Sussex, {{circa|1990}}
+ | birth_name       = Terence Alan Milligan
+ | birth_date       = {{birth date|df=y|1918|4|16}}
+ | birth_place      = [[Ahmednagar]], [[British Raj|British India]]
+ | death_date       = {{death date and age|df=y|2002|2|27|1918|4|16}}
+ | death_place      = [[Rye, East Sussex]], England
+ | resting_place    = St Thomas's Church [[Winchelsea]], East Sussex, England
+ | citizenship      = British (1918–1962)&lt;br/&gt; Irish (1962–2002)
+ | occupation       = Comedian, writer, musician, poet, playwright, actor
+ | years_active     = 1951–2002
+ | spouse           = {{marriage|June Marlow|1952|1960|reason=divorced}}&lt;br&gt;{{marriage|Patricia Ridgeway|1962|1978|reason=her death}}&lt;br&gt;{{marriage|Shelagh Sinclair|1983|2002|reason=his death}}
+ | children         = 6
+ | module           = {{Infobox military person
+                       | embed            = yes
+                       | allegiance       = United Kingdom
+                       | branch           = {{army|United Kingdom}}
+                       | serviceyears     = 1940–1945
+                       | unit             = Royal Artillery
+                       | rank             = [[Lance bombardier]]
+                       | battles          = [[World War II]]
+                       | awards           = 
+                      }}
+}} 
+
+'''Terence Alan Milligan''', {{post-nominals|country=GBR|size=100%|KBE}} (16 April 1918&amp;nbsp;– 27 February 2002), known as '''Spike Milligan''', was a British-Irish comedian, writer, poet, playwright and actor.&lt;ref name="MilliganLegacyShelagh"&gt;{{cite web| title=Spike becomes an Irish Citizen| url=http://www.spikemilliganlegacy.com/citizen4.htm| website=The Life and Legacy of Spike Milligan (website)| publisher=Hatchling Production Pty Ltd (Australia)| accessdate=23 November 2015| archiveurl=https://web.archive.org/web/20151123090952/http://www.spikemilliganlegacy.com/citizen4.htm| archivedate=23 November 2015| deadurl=yes| df=dmy-all}}&lt;/ref&gt;&lt;ref name="ObituaryGuardian"&gt;{{cite news|title=Spike Milligan dies at 83|url=https://www.theguardian.com/media/2002/feb/27/broadcasting.books|accessdate=23 November 2015|work=The Guardian|date=27 February 2002}}&lt;/ref&gt;&lt;ref name="Scotsman"&gt;{{cite news |url=http://www.scotsman.com/news/obituaries/spike-milligan-1-604885 |title=Spike Milligan (obituary) |newspaper=Scotsman.com |location=Edinburgh |date=28 February 2002 |accessdate=25 March 2013}}&lt;/ref&gt; The son of an Irish father and an English mother, Millligan spent his early life in [[British India|India]] where he was born. The majority of his working life was spent in the United Kingdom. He disliked his first name, and began to call himself "Spike" after hearing a band on [[Radio Luxembourg]] called [[Spike Jones|Spike Jones and his City Slickers]].&lt;ref name="Scotsman" /&gt;
+
+Milligan was the co-creator, main writer and a principal cast member of the groundbreaking British radio programme, ''[[The Goon Show]]'', performing a range of roles including the popular [[Eccles (character)|Eccles]] and [[Minnie Bannister]] characters. Milligan wrote and edited many books, including ''[[Puckoon]]'' and his seven-volume autobiographical account of his time serving during the [[Second World War]], beginning with ''[[Adolf Hitler: My Part in His Downfall]]''. He is also noted as a popular writer of comical verse; much of his poetry was written for children, including ''Silly Verse for Kids'' (1959). After success with ''The Goon Show'', Milligan translated this success to television with ''[[Q (TV series)|Q5]]'' which was a surreal sketch show which is credited as a major influence on the members of ''[[Monty Python's Flying Circus]]''. He was the earliest-born, longest-lived and last surviving member of [[the Goons]].
+
+When the [[Commonwealth Immigrants Act 1962|Commonwealth Immigrants Act]] removed Indian-born Milligan's automatic right to British citizenship in 1962,&lt;ref name="Milligan_Biography_Fox"&gt;{{cite web|title=Spike Milligan Biography|url=http://www.foxclassics.com.au/featured/stars/details.aspx?s=695|website=Fox Classics Television (Australia)|publisher=FOXTEL Management Pty Limited|accessdate=23 November 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20151123094157/http://www.foxclassics.com.au/featured/stars/details.aspx?s=695|archivedate=23 November 2015|df=dmy-all}}&lt;/ref&gt; he became an Irish citizen,&lt;ref name="MilliganLegacyShelagh" /&gt; exercising a right conferred through his [[Irish nationality law#Historical provisions|Irish-born]] father.
+
+==Early life==
+Milligan was born in [[Ahmednagar]], [[India]], on 16 April 1918, the son of an Irish father, Captain Leo Alphonso Milligan, [[Meritorious Service Medal (United Kingdom)|MSM]], [[Royal Artillery|RA]] (1890–1969), who was serving in the [[British Indian Army]].&lt;ref&gt;{{cite book|last=Carpenter|first=Humphrey|title=Spike Milligan : The Biography|location=London, UK|publisher=Hodder and Staughton|page=8|year=2004|isbn=978-0-340-82612-6}}&lt;/ref&gt;
+
+His mother, Florence Mary Winifred (née Kettleband; 1893–1990), was English. He spent his childhood in [[Pune|Poona]] (now called Pune) and later in [[Yangon|Rangoon]], capital of [[British Burma]]. He was educated at the Convent of Jesus and Mary, Poona, and later at [[Basic Education High School No. 6 Botataung|St Paul's High School, Rangoon]].&lt;ref&gt;Pauline Scudamore, ''Spike Milligan: a Biography'' (Granada, 1985), p. 27&lt;!-- ISSN/ISBN needed --&gt;&lt;/ref&gt;
+
+After moving to Brockley, south east London from the age of 12 in 1931, he attended Brownhill Road School (later to be renamed Catford Boys School) and St Saviours School, Lewisham High Road. 
+
+On leaving school he played the [[cornet]] and discovered jazz. He also joined the [[Young Communist League (Great Britain)|Young Communist League]] in opposition to [[Oswald Mosley]]'s [[British Union of Fascists]], who were gaining support near his home in south London.&lt;ref name=Scotsman1&gt;{{cite news|title=Spike Milligan|url=http://www.scotsman.com/news/obituaries/spike-milligan-1-604885#axzz3qkb3Oc4y|accessdate=6 November 2015|work=The Scotsman|date=28 February 2002}}&lt;/ref&gt;
+
+After returning from Burma, Milligan lived most of his life in the United Kingdom apart from overseas service in the [[British Army]] in the [[Royal Artillery]] during the Second World War.{{citation needed|date=August 2017}}
+
+==Second World War==
+[[File:9.2inchHowitzerMkIIHastingsMay1940-2.jpg|thumb|Men of Spike Milligan's unit, 56th Heavy Regiment, with a BL 9.2-inch howitzer, [[Hastings]], Sussex, May 1940]]
+[[File:The British Army in Italy 1943 NA10156.jpg|thumb|A [[Scammell Pioneer]] tows a howitzer of 18 Battery, 56th Heavy Regiment in Italy, 23 December 1943]]
+
+During most of the late 1930s and early 1940s, Milligan performed as an amateur jazz vocalist and trumpeter before, during and after being [[conscripted|called up]] for military service in the fight against [[Nazi Germany]], but even then he wrote and performed comedy sketches as part of concerts to entertain troops. After his call-up, but before being sent abroad, he and fellow musician Harry Edgington (1919–1993)&lt;ref&gt;''The Independent'' 30 December 1993.&lt;/ref&gt; (whose nickname 'Edge-ying-Tong', inspired one of Milligan's most memorable musical creations, the "[[Ying Tong Song]]") would compose surreal stories, filled with puns and skewed logic, as a way of staving off the boredom of life in barracks. One biographer describes his early dance band work as follows: "He managed to croon like [[Bing Crosby]] and win a competition: he also played drums, guitar and trumpet, in which he was entirely self taught"; he also acquired a double bass, on which he took lessons and would strum in jazz sessions.&lt;ref name="ScudamoresMilliganbio52-53"&gt;Scudamore (1985) pp. 52–53.&lt;/ref&gt; Milligan had [[perfect pitch]].{{Citation needed|date=November 2011}}
+
+During the Second World War, Milligan served as a [[signaller]] in the 56th Heavy Regiment [[Royal Regiment of Artillery|Royal Artillery]], D Battery (later 19 Battery), as Gunner Milligan, 954024. The unit was equipped with the obsolete [[First World War]] era [[BL 9.2-inch howitzer]] and based in [[Bexhill-on-Sea|Bexhill]] on the south coast of England. Milligan describes training with these guns in part two of ''Adolf Hitler: My Part in His Downfall'', claiming that, during training, gun crews resorted to shouting "bang" in unison as they had no shells with which to practise.&lt;ref&gt;{{cite book |last=Milligan |first=Spike |title=Adolf Hitler: My Part in His Downfall |year=1971 |publisher=Michael Joseph |pages=36, 81 }}&lt;/ref&gt;
+
+The unit was later re-equipped with the [[BL 7.2-inch howitzer]] and saw action as part of the [[British First Army|First Army]] in the [[North African campaign]] and then in the succeeding [[Italian Campaign (World War II)|Italian campaign]]. Milligan was appointed [[lance bombardier]] and was about to be promoted to [[Bombardier (rank)|bombardier]], when he was [[wounded in action]] in the Italian theatre at the [[Battle of Monte Cassino]]. Subsequently, hospitalised for a mortar wound to the right leg and [[shell shock]], he was demoted by an unsympathetic commanding officer (identified in his war diaries as Major Evan "Jumbo" Jenkins) back to Gunner. It was Milligan's opinion that Major Jenkins did not like him, because Milligan constantly kept up the morale of his fellow soldiers, whereas Jenkins's approach was to take an attitude towards the troops similar to that of [[Herbert Kitchener, 1st Earl Kitchener|Lord Kitchener]].{{citation needed|date=April 2012}} An incident also mentioned was when Jenkins had invited Gunners Milligan and Edgington to his bivouac to play some jazz with him, only to discover that the musicianship of the gunners was far superior to his own ability to play the military tune "Whistling Rufus".
+
+After hospitalisation, Milligan drifted through a number of rear-echelon military jobs in Italy, eventually becoming a full-time entertainer. He played the guitar with a jazz and comedy group called ''[[The Bill Hall Trio]]'', in concert parties for the troops. After being demobilised, Milligan remained in Italy playing with the trio but returned to [[UK|Britain]] soon after. While he was with the [[Central Pool of Artists]] (a group he described as composed "of bomb-happy [[squaddie]]s") he began to write parodies of their mainstream plays, which displayed many of the key elements of what would later become ''The Goon Show'' (originally called ''Crazy People'') with [[Peter Sellers]], [[Harry Secombe]] and [[Michael Bentine]].{{Citation needed|date=November 2011}}
+
+==Career==
+
+===''The Goon Show''===
+Milligan returned to jazz in the late 1940s and made a precarious living with the Hall trio and other musical comedy acts. He was also trying to break into the world of radio, as a performer or script writer. His first success in radio was as writer for comedian [[Derek Roy (comedian)|Derek Roy]]'s show. After a delayed start, Milligan, [[Peter Sellers]], [[Harry Secombe]] and [[Michael Bentine]] joined forces in a relatively radical comedy project, ''[[The Goon Show]]''. During its first season the BBC titled the show as ''Crazy People'', or in full, ''The Junior Crazy Gang featuring those Crazy People, the Goons!'', an attempt to make the programme palatable to BBC officials, by connecting it with the popular group of theatre comedians known as [[The Crazy Gang]].&lt;ref name="McCann"&gt;{{cite book|last=McCann|first=Graham|title=Spike &amp; Co.|year=2006|publisher=Hodder &amp; Stoughton|location=London|isbn=0-340-89809-7}} p. 186.&lt;/ref&gt;
+
+The first episode was broadcast on 28 May 1951 on the [[BBC Home Service]].&lt;ref&gt;Carpenter, 2003, p. 112.&lt;/ref&gt; Although he did not perform as much in the early shows, Milligan eventually became a lead performer in almost all of the ''Goon Show'' episodes, portraying a wide range of characters including [[Eccles (character)|Eccles]], [[Minnie Bannister]], Jim Spriggs and the nefarious [[Count Moriarty]].&lt;ref&gt;Carpenter, 2003, p. 119.&lt;/ref&gt; He was also the primary author of most of the scripts, although he co-wrote many scripts with various collaborators, most notably [[Larry Stephens (scriptwriter)|Larry Stephens]] and [[Eric Sykes]]. Most of the early shows were co-written with Stephens (and edited by [[Jimmy Grafton]]) but this partnership faltered after Series 3. Milligan wrote most of Series 4 but from Series 5 (coinciding with the birth of the Milligans' second child, Seán) and through most of Series 6, he collaborated with [[Eric Sykes]], a development that grew out of his contemporary business collaboration with Sykes in [[Associated London Scripts]].&lt;ref&gt;Carpenter, 2003, p. 182.&lt;/ref&gt; Milligan and Stephens reunited during Series 6 but towards the end of Series 8 Stephens was sidelined by health problems and Milligan worked briefly with [[John Antrobus]]. The Milligan-Stephens partnership was finally ended by Stephens' death from a brain haemorrhage in January 1959; Milligan later downplayed and disparaged Stephens' contributions.&lt;ref&gt;Carpenter, 2003, p. 190.&lt;/ref&gt;
+
+''The Goon Show'' was recorded before a studio audience and during the audience warm-up session, Milligan would play the trumpet, while Peter Sellers played on the orchestra's drums.&lt;ref name="Robson"&gt;{{cite book|title=Spike Milligan: His Part in Our Lives|author=Ventham, Maxine|chapter=Jeremy Robson|year=2002|publisher=Robson|location= London|isbn=1-86105-530-7|pages=46–47}}&lt;/ref&gt; For the first few years the shows were recorded live, direct to 16-inch [[transcription disc]], which required the cast to adhere closely to the script but by Series 4, the BBC had adopted the use of magnetic tape.&lt;ref name="Carpenter, 2003, p.120"&gt;Carpenter, 2003, p. 120.&lt;/ref&gt; Milligan eagerly exploited the possibilities the new technology offered—the tapes could be edited, so the cast could now ad-lib freely and tape also enabled the creation of groundbreaking sound effects. Over the first three series, Milligan's demands for increasingly complex sound effects (or "grams", as they were then known) pushed technology and the skills of the BBC engineers to their limits—effects had to be created mechanically ([[foley (filmmaking)|foley]]) or played back from discs, sometimes requiring the use of four or five turntables running simultaneously.&lt;ref name="Carpenter, 2003, p.120"/&gt; With magnetic tape, these effects could be produced in advance and the BBC engineers were able to create highly complex, tightly edited effects "stings" that would have been very difficult (if not impossible) to perform using foley or disc. In the later years of the series many Goon Show "grams" were produced for the series by members of the [[BBC Radiophonic Workshop]], a notable example being the "[[Major Bloodnok]]'s Stomach" effect, realised by [[Dick Mills]].
+
+Although the Goons elevated Milligan to international [[stardom]], the demands of writing and performing the series took a heavy toll. During Series 3 he suffered the first of several serious [[mental breakdown]]s, which also marked the onset of a decades-long cycle of [[Bipolar disorder|manic-depressive]] illness. In late 1952, possibly exacerbated by suppressed tensions between the Goons' stars, Milligan apparently became irrationally convinced that he had to kill Sellers but when he attempted to gain entry to Sellers's neighbouring flat, armed with a potato knife, he accidentally walked straight through the plate-glass front door. He was hospitalised, heavily sedated for two weeks and spent almost two months recuperating; fortunately for the show, a backlog of scripts meant that his illness had little effect on production.&lt;ref&gt;Carpenter, 2003, pp. 136–139.&lt;/ref&gt; Milligan later blamed the pressure of writing and performing ''The Goon Show'', for both his breakdown and the failure of his first marriage.&lt;ref&gt;Spike Milligan, ''More Goon Show Scripts'' (Sphere Books, London, 1973, {{ISBN|0-7221-6077-1}}), p. 13.&lt;/ref&gt;
+
+A lesser-known aspect of Milligan's life in the 1950s and 1960s was his involvement in the writers' agency [[Associated London Scripts]]. Milligan married for the first time and began a family. This reportedly distracted him from writing so much that he accepted an invitation from [[Eric Sykes]] to share his small office, leading to the creation of the co-operative agency.{{Citation needed|date=October 2017}}
+
+===Television===
+[[File:Spike Milligan.jpg|thumb|left|200px|Spike Milligan during his prime years.]]
+Milligan made several forays into television as a writer-performer, in addition to his many guest appearances on interview, variety and sketch comedy series from the 1950s to the 2000s. ''[[The Idiot Weekly, Price 2d]]'' (1956), starring Peter Sellers, was the first attempt to translate Goons humour to TV; it was followed by ''[[A Show Called Fred]]'' and ''[[Son of Fred]]'', both made during 1956 and directed by [[Richard Lester]], who went on to work with the [[The Beatles|Beatles]]. During a visit to Australia in 1958, a similar special was made for the [[Australian Broadcasting Corporation|Australian Broadcasting Commission]], "The Gladys Half-Hour", which also featured local actors [[Ray Barrett]] and [[John Bluthal]], who would appear in several later Milligan projects. In 1961, Milligan co-wrote two episodes of the popular sitcom ''[[Sykes and a...]]'', co-starring Sykes and [[Hattie Jacques]] and the one-off "Spike Milligan Offers a Series of Unrelated Incidents at Current Market Value".
+
+The 15-minute series ''[[The Telegoons]]'' (1963), was the next attempt to transplant the Goons to television, this time using [[puppet]] versions of the familiar characters. The initial intention was to "visualise" original recordings of 1950s Goon Show episodes but this proved difficult, because of the rapid-fire dialogue and was ultimately frustrated by the BBC's refusal to allow the original audio to be used. 15-minute adaptations of the original scripts by Maurice Wiltshire were used instead, with Milligan, Sellers and Secombe reuniting to provide the voices; according to a contemporary press report, they received the highest fees the BBC had ever paid for 15-minute shows.&lt;ref&gt;{{cite web |url=http://www.telegoons.org/history_7_voice_actors.htm |archive-url=https://web.archive.org/web/20060501091150/http://www.telegoons.org/history_7_voice_actors.htm |title=A Short History of ''The Telegoons'': Voice Actors, Puppeteers &amp; Producers |last=Roxburgh |first=Alastair |website=The Telegoons |archive-date=2006-05-01}}&lt;/ref&gt; Two series were made in 1963 and 1964 and (presumably because it was shot on 35mm film rather than video) the entire series has reportedly been preserved in the BBC archives.
+
+Milligan's next major TV venture was the sketch comedy series ''[[The World of Beachcomber]]'' (1968), made in colour for [[BBC Two|BBC 2]]; it is believed all 19 episodes are [[Wiping|lost]]. That same year, the three Goons reunited for a televised re-staging of a vintage ''Goon Show'' for [[Thames Television]], with [[John Cleese]] substituting for the late [[Wallace Greenslade]] but the pilot was not successful and no further programmes were made.
+
+In early 1969, Milligan starred in blackface in the ill-fated situation comedy ''[[Curry &amp; Chips]]'', created and written by [[Johnny Speight]] and featuring Milligan's old friend and colleague Eric Sykes. ''Curry &amp; Chips'' set out to satirise racist attitudes in Britain in a similar vein to Speight's earlier creation, the hugely successful ''[[Till Death Us Do Part]]'', with Milligan 'blacking up' to play Kevin O'Grady, a half-Pakistani–half-Irish factory worker. The series generated numerous complaints, because of its frequent use of racist epithets and 'bad language' – one viewer reportedly complained of counting 59 uses of the word "bloody" in one episode – and it was cancelled on the orders of the [[Independent Broadcasting Authority]] after only six episodes. Milligan was also involved in the ill-fated programme ''[[The Melting Pot (television programme)|The Melting Pot]]''.
+
+Director [[John Goldschmidt]]'s film ''The Other Spike'' dramatised Milligan's nervous breakdown in a film for [[Granada Television]], for which Milligan wrote the screenplay and in which he played himself. Later that year, he was commissioned by the BBC to write and star in ''Q5'', the first in the innovative [[Q (TV series)|"Q"]] TV series, acknowledged as an important precursor to ''[[Monty Python's Flying Circus]]'', which premiered several months later. There was a hiatus of several years, before the BBC commissioned ''Q6'' in 1975. ''Q7'' appeared in 1977, ''[[Q (TV series)|Q8]]'' in 1978, ''Q9'' in 1980 and ''[[There's a Lot of It About]]'' in 1982. Milligan later complained of the BBC's cold attitude towards the series and stated that he would have made more programs, had he been given the opportunity. A number of episodes of the earlier "Q" series are missing, presumed wiped.{{Citation needed|date=November 2011}} In 1979 he hosted an episode of ''[[The Muppet Show]]''.{{citation needed|date=September 2013}}
+
+Milligan's daughter, Laura, conceived and co-wrote an animated series called ''[[The Ratties]]'' (1987). Milligan himself narrated the 26 five-minute episodes. He later voiced the highly successful animated series ''[[Wolves, Witches and Giants]]'', which aired on ITV from 1995 to 1998. The series was written by Ed Welch, who had previously appeared in the ''Q'' series, and collaborated with Spike on several audio productions produced and directed by Simon &amp; Sara Bor. ''Wolves, Witches and Giants'' was broadcast in more than 100 territories, including the UK and the USA.{{Citation needed|date=November 2011}}
+
+===Poetry and other writings===
+Milligan also wrote verse, considered to be within the genre of [[literary nonsense]]. His poetry has been described by comedian [[Stephen Fry]] as "absolutely immortal—greatly in the tradition of [[Edward Lear|Lear]]."&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/1844487.stm|title=Fry's Milligan memories|accessdate=12 June 2008|last=Fry|first=Stephen|date=27 February 2002|publisher=BBC News}}&lt;/ref&gt; One of his poems, "[[On the Ning Nang Nong]]", was voted the UK's favourite comic poem in 1998 in a nationwide poll, ahead of other nonsense poets including [[Lewis Carroll]] and Edward Lear.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/entertainment/190291.stm|title=Top poetry is complete nonsense|accessdate=12 June 2008|date=10 October 1998|publisher=BBC News}}&lt;/ref&gt; This [[nonsense verse]], set to music, became a favourite Australia-wide, performed week after week by the ABC children's programme ''[[Play School (Australian TV series)|Playschool]]''. Milligan included it on his album ''[[No One's Gonna Change Our World]]'' in 1969, to aid the [[World Wide Fund for Nature|World Wildlife Fund]]. In December 2007 it was reported that, according to [[OFSTED]], it is among the ten most commonly taught poems in primary schools in the UK.&lt;ref&gt;{{cite news|title=Laureate attacks poetry teaching|publisher=BBC|date=7 December 2007|url=http://news.bbc.co.uk/1/hi/education/7131133.stm|accessdate=7 December 2007}}&lt;/ref&gt;
+
+While depressed, he wrote serious poetry. He also wrote a novel ''[[Puckoon]]'' and a series of war memoirs, including ''[[Adolf Hitler: My Part in His Downfall]]'' (1971), ''[["Rommel?" "Gunner Who?"|"Rommel?" "Gunner Who?": A Confrontation in the Desert]]'' (1974), ''[[Monty: His Part in My Victory]]'' (1976) and ''[[Mussolini: His Part in My Downfall]]'' (1978). Milligan's seven volumes of memoirs cover the years from 1939 to 1950 (his call-up, war service, first breakdown, time spent entertaining in Italy and return to the UK). {{Citation needed|date=November 2011}}
+
+He also wrote comedy songs, including "Purple Aeroplane",&lt;ref&gt;{{cite web|title=Spike Milligan ::: Purple Aeroplane|url=https://www.youtube.com/watch?v=lFSEDPjnRhk}}&lt;/ref&gt; which was a parody of the Beatles' song "[[Yellow Submarine (song)|Yellow Submarine]]". Glimpses of his bouts with depression, which led to the nervous breakdowns, can be found in his serious poetry, which is compiled in ''Open Heart University''.&lt;ref&gt;{{cite book|last1=Milligan|first1=Spike |others=illustrations by Laura Milligan and Jack Hobbs and Spike Milligan |title=Open Heart University: poems|date=1979|publisher=M. and J. Hobbs|location=Walton-on-Thames|isbn=0718117573}}&lt;/ref&gt;&lt;ref&gt;[http://www.goodreads.com/book/show/1338618.Open_Heart_University ''Compassionate, perceptive, outraged and tender'' - Evening News quoted at the entry for Open_Heart_University at goodreads.com] Retrieved 20 February 2017&lt;/ref&gt;
+
+=== Theatre ===
+
+====''Treasure Island''====
+[[Bernard Miles]] gave Milligan his first straight acting role, as [[Treasure Island#Theatre and radio|Ben Gunn]], in the [[Mermaid Theatre]] production of ''[[Treasure Island]]''. Miles described Milligan as:
+
+{{quote|...&amp;nbsp;a man of quite extraordinary talents&amp;nbsp;... a visionary who is out there alone, denied the usual contacts simply because he is so different he can't always communicate with his own species&amp;nbsp;....&lt;ref name="ScudamoresMilliganbio198"&gt;Scudamore (1985), p. 198.&lt;/ref&gt;}}
+
+''Treasure Island'' played twice daily through the winter of 1961–62 and was an annual production at the Mermaid Theatre for some years. In the 1968 production, [[Barry Humphries]] played the role of Long John Silver, alongside [[Willie Rushton|William Rushton]] as [[Squire Trelawney]] and Milligan as Ben Gunn. To Humphries, Milligan's "best performance must surely have been as Ben Gunn&amp;nbsp;.., Milligan stole the show every night, in a makeup which took at least an hour to apply. His appearance on stage always brought a roar of delight from the kids in the audience and Spike had soon left the text far behind as he went off into a riff of sublime absurdity."&lt;ref name="Humphries"&gt;Barry Humphries, in Ventham (2002), pp. 92–97.&lt;/ref&gt;
+
+====''The Bed-Sitting Room''====
+In 1961–62, during the long pauses between the matinee and the evening show of ''Treasure Island'', Milligan began talking to Miles about the idea he and [[John Antrobus]] were exploring, of a dramatised post-nuclear world. This became the one-act play ''[[The Bed-Sitting Room (play)|The Bed-Sitting Room]]'', which Milligan co-wrote with John Antrobus and which premiered at the [[Marlowe Theatre]], [[Canterbury]] on 12 February 1962. It was adapted to a longer play and staged by Miles at London's Mermaid Theatre, making its debut on 31 January 1963. It was a critical and commercial success and was revived in 1967 with a provincial tour before opening at London's [[Saville Theatre]] on 3 May 1967. [[Richard Lester]] later directed [[The Bed Sitting Room (film)|a film version]], released in 1969.&lt;ref name="ScudamoresMilliganbio200,202-204&amp;242-243"&gt;Scudamore (1985) pp. 200, 203–204, 242–243.&lt;/ref&gt;&lt;ref name="McCann157-159"&gt;McCann (2006) pp. 157–159.&lt;/ref&gt;
+
+====''Oblomov''====
+On 6 October 1964, Milligan appeared in [[Frank Dunlop (director)|Frank Dunlop]]'s production of the play ''[[Oblomov]]'', at the [[Lyric Theatre (London)|Lyric Theatre]] in London, based on the novel by Russian writer [[Ivan Goncharov]]. According to Scudamore's biography:
+
+{{quote|Milligan's fans and the theatrical world in general found it hard to believe that he was to appear in a straight play&amp;nbsp;... He refused to be serious when questioned about his motives. In the story, Oblomov decides to spend his life in bed. Spike decided to identify with his character, and told disbelieving reporters that he thought it would be a nice comfortable rest for him. This was of course, prevarication. Spike was actually intrigued with Oblomov and had read a translation of Ivan Goncharov's novel.&lt;ref name="ScudamoresMilliganbio214-215"&gt;Scudamore (1985) pp. 214–215.&lt;/ref&gt;}}
+
+Milligan's involvement transformed the play. The first night started poorly, [[Joan Greenwood]] played Olga and later recalled that her husband [[André Morell]] thought the show was so appalling, they should get her out of the play. According to Scudamore:
+
+{{quote|Nobody seemed at all comfortable in their roles and the audience began to hoot with laughter when Milligan's slipper inadvertently went spinning across the stage into the stalls. That was the end of Spike's playing straight. The audience demanded a clown, he became a clown. When he forgot his words, or disapproved of them, he simply made up what he felt to be more appropriate ones. That night there were no riotous first night celebrations and most of the cast seemed to go home stunned. The following night Milligan began to ad lib in earnest. The text of the show began to change drastically. The cast were bedevilled and shaken but they went along with him&amp;nbsp;... Incredibly, the show began to resolve itself. The context changed completely. It was turned upside down and inside out. Cues and lines became irrelevant as Milligan verbally rewrote the play each night. By the end of the week, ''Oblomov'' had changed beyond recognition. Andre Morell came again&amp;nbsp;... and afterwards said 'the man is a genius. He must be a genius—it's the only word for him. He's impossible—but he's a genius!'. After Oblomov had run for a record-breaking five weeks at the Lyric Theatre, Hammersmith, it was retitled ''Son of Oblomov'' and moved to the Comedy Theatre in the West End.&lt;ref name="ScudamoresMilliganbio215-216"&gt;Scudamore (1985) pp. 215–216.&lt;/ref&gt;}}
+
+In an interview with [[Bernard Braden]], Milligan described theatre as important to him:
+
+{{quote|First it was a means of livelihood. And I had sort of lagged behind my confederates, that I&amp;nbsp;... remained in the writing seat. And I realise that basically I was quite a good clown&amp;nbsp;... and the one and only chance I ever had to prove that was in ''Oblomov'' when I clowned my way out of what was a very bad script&amp;nbsp;... I clowned it into a West End success and uh, we kept changing it all the time. It was a tour de force of improvisation&amp;nbsp;... all that ended it was I got fed up with it, that's all."&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=8TZQ9RS8CnQ |title=Spike Milligan interviewed by Bernard Braden |publisher=YouTube |date= |accessdate=23 May 2014}}&lt;/ref&gt;}}
+
+===Ken Russell films===
+In 1959 [[Ken Russell]] made a short [[35 mm film]] about and with Milligan entitled ''Portrait of a Goon''. The making of the film is detailed in Paul Sutton's 2012 authorised biography ''Becoming Ken Russell''.&lt;ref&gt;{{Cite book|url=https://www.worldcat.org/oclc/840887170|title=The authorised biography of Ken Russell. Vol. 1. Becoming Ken Russell.|last=Sutton.|date=2013|publisher=Bearclaw Publishers|isbn=9780957246232|oclc=840887170}}&lt;/ref&gt; In 1971 Milligan played a humble village priest in Russell's film ''[[The Devils (film)|The Devils]]''. The scene was cut from the release print and is considered lost but photographs from the scene, together with [[Murray Melvin]]'s memory of that day's filming, are included in Sutton's 2014 book ''Six English Filmmakers''.&lt;ref&gt;{{Cite book|title=Six English Filmmakers|last=Sutton|first=Paul|publisher=|year=|isbn=978-0-9572462-5-6|location=|pages=}}&lt;/ref&gt;
+
+===Ad-libbing===
+As illustrated in the description of his involvement in theatre, Milligan often ad-libbed. He also did this on radio and television. One of his last screen appearances was in the BBC dramatisation of [[Mervyn Peake]]'s ''[[Gormenghast (TV serial)|Gormenghast]]'' and he was (almost inevitably) noted as an [[Ad lib|ad-libber]].
+
+One of Milligan's ad-lib incidents occurred during a visit to Australia in the late 1960s. He was interviewed live on air and remained in the studio for the news broadcast that followed (read by Rod McNeil), during which Milligan constantly interjected, adding his own name to news items.&lt;ref&gt;{{cite web|title=Spike Milligan interrupts ABC News|url=https://www.youtube.com/watch?v=2eUSdL8bqJc|publisher=Youtube.com|accessdate=10 October 2015}}&lt;/ref&gt; As a result, he was banned from making any further live appearances on the [[Australian Broadcasting Corporation|ABC]]. The ABC also changed its national policy so that guests had to leave the studio after interviews were complete. A tape of the bulletin survives and has been included in an ABC Radio audio compilation, also on the BBC tribute CD, ''Vivat Milligna''.
+
+Film and television director [[Richard Lester]] recalls that the television series ''A Show Called Fred'' was broadcast live. "I've seen very few moments of genius in my life but I witnessed one with Spike after the first show. He had brought around a silent cartoon" and asked Lester if his P.A. took shorthand. "She said she did. 'Good, this needs a commentary.' It was a ten-minute cartoon and Spike could have seen it only once, if that. He ad-libbed the commentary for it and it was perfect. I was open-mouthed at the raw comedy creation in front of me."&lt;ref name="Lester"&gt;Richard Lester, in Ventham (2002), pp.73–74.&lt;/ref&gt;
+
+===Cartoons and art===
+Milligan contributed occasional cartoons to the satirical magazine ''[[Private Eye (magazine)|Private Eye]]''. Most were visualisations of [[one-line joke]]s. For example, a young boy sees the [[Concorde]] and asks his father "What's that?". The reply is "That's a flying [[Tanganyika groundnut scheme|groundnut scheme]], son." Milligan was a keen painter.&lt;ref name="ScudamoresMilliganbio"&gt;{{cite book|last=Scudamore|first=Pauline|title=Spike Milligan: A Biography|year=1985|publisher=Granada|location= London|isbn=0-246-12275-7}} pp.109–110, 258. (Published in 2003 as paperback under ''Spike'', or ''Spike Milligan'', depending on listing)&lt;/ref&gt;&lt;ref name="SurvivingSpikeMilligan"&gt;{{cite book|last=Antrobus|first=John|title=Surviving Spike Milligan: A Voyage Through the Mind &amp; Mirth of the Master Goon|year=2002|publisher=Robson Books|location=London|isbn=0-246-12275-7}} pp. 17, 24.&lt;/ref&gt;
+
+===Advertising===
+In 1967, applying a satirical angle to a fashion for the inclusion of [[Superman]]-inspired characters in British television commercials, Milligan dressed up in a "Bat-Goons" outfit, to appear in a series of television commercials for [[British Petroleum]].&lt;ref name=Autocar196704&gt;{{cite journal| authorlink = Maurice A Smith (ed)|title=Camera spread: Taking a rise out of the serious supermen in TV commercials, Spike Milligan in Bat-Goons outfit leads BP's sales campaign&amp;nbsp;... |journal=[[Autocar (magazine)|Autocar]]|volume=126 | issue = 3714 |page=22|date=22 April 1967}}&lt;/ref&gt; A contemporary reporter found the TV commercials "funny and effective".&lt;ref name=Autocar196704/&gt; From 1980 to 1982, he advertised for the [[English Tourist Board]], playing a Scotsman on a visit around the different regions of England.
+
+Other advertising appearances included television commercials for Kellogg's Corn Flakes, Commonwealth Bank of Australia, and Planters nuts.
+
+===Other contributions===
+In the 1970s, [[Charles Allen (writer)|Charles Allen]] compiled a series of stories from British people's experiences of life in the [[British Raj]], called ''Plain Tales from the Raj'', and published in 1975. Milligan was the youngest contributor, describing his life in India when it was under British rule. In it he mentions the imperial parades there:
+
+&lt;blockquote&gt;"The most exciting sound for me was the sound of the Irregular Punjabi Regiment playing the ''[[dhol]]'' and ''surmai'' [a type of drum] – one beat was dum-da-da-dum, dum-da-da-dum, dum-da-da-dum! They wore these great long pantaloons, a gold dome to their turbans, khaki shirts with banded waistcoats, double-cross bandoliers, leather sandals, and they used to march very fast, I remember, bursting in through the dust on the heels of an English regiment. They used to come in with trailed arms and they'd throw their rifles up into the air, catch it with their left hand – always to this dum-da-da-dum, dum-da-da-dum – and then stamp their feet and fire one round, synchronising with the drums. They'd go left, right, left, right, ''shabash''! ''Hai''! Bang!  Dum-da-da-dum – It was sensational!"&lt;ref&gt;{{cite book|editor=Allen, Charles|title=Plain Tales From the Raj|edition=1978|pages=141–2|publisher=Futura|ISBN=0860074552}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+==Personal life==
+
+===Family===
+Milligan married his first wife, June (Marchinie) Marlow, in 1952; Peter Sellers was best man. They had three children – Laura, Seán and Síle – and divorced in 1960. He married Patricia Ridgeway (also known as Paddy) in June 1962, with [[George Martin]] as best man and the marriage produced one child, Jane Milligan (b. 1966). The marriage ended with Patricia's death from breast cancer in 1978.&lt;ref&gt;{{cite web|url=http://www.thefreelibrary.com/Profile:+Spike+Milligan+-+My+dad+the+mad+hatter;+SPIKE+MILLIGAN'S...-a099592373 |title=Profile: Spike Milligan – My dad the mad hatter; SPIKE MILLIGAN'S DAUGHTER JANE ON LIFE WITH THE GOON|author=Alun Parker|work= Free Online Library |date= |accessdate=23 May 2014}}&lt;/ref&gt;
+
+In 1975 Milligan fathered a son, James (born June 1976), in an affair with Margaret Maughan. Another child, a daughter Romany, is suspected to have been born at the same time, to a Canadian journalist named Roberta Watt. His last wife was Shelagh Sinclair, to whom he was married from 1983 to his death on 27 February 2002. Four of his children collaborated with documentary makers on a multi-platform programme called ''I Told You I Was Ill: The Life and Legacy of Spike Milligan'' (2005).
+
+After marrying Shelagh, he revoked his existing will which had left everything to his children, and instead left his entire estate to Shelagh. The children attempted to overturn the will, to no avail. In October 2008 an array of Milligan's personal effects was sold at auction by his third wife, Shelagh, who was moving into a smaller home. These included his vast legacy of books and memorabilia, and a grand piano salvaged from a demolition and apparently played every morning by [[Paul McCartney]], a neighbour in Rye in East Sussex.&lt;ref name = "Auction"&gt;{{cite news|title = Auction reveals the secret life of Spike Milligan|author=Jerome Taylor|url=https://www.independent.co.uk/news/uk/this-britain/auction-reveals-the-secret-life-of-spike-milligan-1023107.html|accessdate=18 November 2008|work=The Independent|location=London|date=18 November 2008}}&lt;/ref&gt; 
+
+Shelagh Milligan died in June 2011.&lt;ref name="widow"&gt;{{cite news |title=Comedian Spike Milligan's children await details of legacy after death of his widow Shelagh |first=Richard |last=Eden |url=https://www.telegraph.co.uk/news/celebritynews/8584266/Comedian-Spike-Milligans-children-await-details-of-legacy-after-death-of-his-widow-Shelagh.html |newspaper=The Telegraph |publisher=Telegraph Media Group |location=London |date=19 June 2011 |accessdate=19 November 2011 }}&lt;/ref&gt;
+
+===Health===
+He suffered from severe [[bipolar disorder]] for most of his life, having at least ten serious [[mental breakdown]]s, several lasting over a year. He spoke candidly about his condition and its effect on his life:
+
+{{quote|I have got so low that I have asked to be hospitalised and for deep narcosis (sleep). I cannot stand being awake. The pain is too much&amp;nbsp;... Something has happened to me, this vital spark has stopped burning – I go to a dinner table now and I don't say a word, just sit there like a dodo. Normally I am the centre of attention, keep the conversation going – so that is depressing in itself. It's like another person taking over, very strange. The most important thing I say is 'good evening' and then I go quiet.&lt;ref name="clare"&gt;Spike Milligan and Anthony Clare, ''Depression and How to Survive It'', first edition, 1994.&lt;/ref&gt;}}
+
+===Nationality===
+As Milligan was not born in the United Kingdom, his claim to British nationality was never clear. Milligan felt that he was entitled to a British passport, after having served in the army for six years. His passport application was refused, primarily because he would not swear an [[Oath of Allegiance (United Kingdom)|Oath of Allegiance]]; his Irish ancestry gave him an escape route from his [[statelessness|stateless]] condition. He became an Irish citizen and remained so until his death.&lt;ref name="guardian-bio-review"&gt;{{cite news | url=https://www.theguardian.com/books/2003/sep/20/featuresreviews.guardianreview10 | title=Nailing Spike | work=The Guardian | accessdate=29 April 2013 | location=London | first=Simon | last=Louvish | date=20 September 2003}}&lt;/ref&gt;
+
+==Humour with the Prince of Wales==
+[[Charles, Prince of Wales]] was a fan and when Milligan received the Lifetime Achievement Award at the [[British Comedy Awards]] in 1994, the Prince sent a congratulatory message to be read out on live TV. The comedian interrupted the message to call the Prince a "little grovelling bastard".&lt;ref name=ObituaryGuardian /&gt; He later faxed the prince, saying: "I suppose a [[British honours system|knighthood]] is out of the question?"
+
+In reality he and the Prince were very close friends and Milligan had already been made a Commander of the Order of the British Empire (CBE) in 1992 (honorary because of his Irish citizenship).&lt;ref name="clare"/&gt; He was made an honorary [[Knight Commander of the Order of the British Empire]] (KBE) in 2000.
+
+On 23 July 1981, the Prince of Wales and [[Diana, Princess of Wales|Lady Diana Spencer]] were presented with a poem about the forthcoming Royal Wedding, delivered to Buckingham Palace on a 3ft 9in parchment scroll, written under the pen name MacGoonical. A ridiculous verse written in the style of [[William McGonagall]]. The ode was commissioned by the Legal and General Assurance society as a "mark of esteem and affection". The verse, titled "Ode to His Royal Highness the Prince of Wales on the occasion of his Weeding", begins:&lt;poem&gt;Oh! Twas in the year 1981
+Prince Philip was reading Page 3 of the Sun!
+They were all sitting in Buckingham Palace
+Roaring with laughter at the comedy Dallas.&lt;ref&gt;{{Cite news|url=|title=MacGoonical steals march on Betjeman|last=|first=|date=24 July 1981|work=[newspaper unknown]|access-date=}}&lt;/ref&gt;&lt;/poem&gt;
+
+==Campaigning==
+He was a strident campaigner on environmental matters, particularly arguing against unnecessary noise, such as the use of "[[elevator music|muzak]]".&lt;ref&gt;{{cite web|author=Martin Chilton |url=https://www.telegraph.co.uk/culture/books/10377487/Spike-Milligan-Man-of-Letters-review.html |title=Spike Milligan: Man of Letters, review |work=The Telegraph |date= |accessdate=10 October 2015}}&lt;/ref&gt;
+
+In 1971, Milligan caused controversy by attacking an art exhibition at the [[Hayward Gallery]] with a hammer. The artwork included catfish, oysters and shrimp which were to be electrocuted.&lt;ref&gt;{{cite web|url=http://www.channel4.com/culture/microsites/T/turner_2001/ShockTactics_t.htm |title=A Harlot's Progress |publisher=Channel 4 |date= |accessdate=23 May 2014}}&lt;/ref&gt; He was a staunch and outspoken scourge of [[domestic violence]], dedicating one of his books to [[Erin Pizzey]].&lt;ref&gt;{{cite web|url=https://books.google.co.uk/books?id=ZFoYhEwmrLYC&amp;pg=PT5&amp;lpg=PT5&amp;dq=pizzey|title=Mussolini: His Part in My Downfall|first=Spike|last=Milligan|date=13 December 2012|publisher=Penguin UK|accessdate=21 December 2017|via=Google Books}}&lt;/ref&gt;
+
+== Death ==
+[[File:Spike Milligan Church of St Thomas.jpg|thumb|upright|The headstone of Spike Milligan's grave, formerly in the grounds of St Thomas' [[Winchelsea]], East Sussex. The name of his last wife has since been added along with birth and death dates and an additional epitaph.&lt;!-- Must upload a newer photo. ---&gt; The [[epitaph]] reads ''Dúirt mé leat go raibh mé breoite'', Irish for "I told you I was ill."]]
+Even late in life, Milligan's [[black humour]] had not deserted him. After the death of [[Harry Secombe]] from cancer, he said, "I'm glad he died before me, because I didn't want him to sing at my funeral." (A recording of Secombe singing was played at Milligan's memorial service.) He also wrote his own obituary, in which he stated repeatedly that he "wrote the Goon Show and died".&lt;ref&gt;{{cite web|last=Milligan|first=Spike|title=My Obituary, by Spike Milligan|url=https://www.standard.co.uk/news/my-obituary-by-spike-milligan-6330153.html|work=London Evening Standard|date=27 February 2002|accessdate=30 October 2013}}&lt;/ref&gt;
+
+Milligan died from kidney failure, at the age of 83, on 27 February 2002, at his home in [[Rye, East Sussex|Rye]], Sussex.&lt;ref name="widow"/&gt; On the day of his funeral, 8 March 2002, his coffin was carried to St Thomas Church in [[Winchelsea]], East Sussex, and was draped in the [[flag of Ireland]].&lt;ref&gt;{{cite news| url=https://www.telegraph.co.uk/news/uknews/1387211/Pipers-farewell-for-Spike-Milligan.html|work=The Daily Telegraph|location=London|title=Piper's farewell for Spike Milligan|first=David|last=Sapsted|date=9 March 2002|accessdate=23 May 2010}}&lt;/ref&gt; He had once quipped that he wanted his headstone to bear the words "I told you I was ill." He was buried at St Thomas' churchyard but the Chichester diocese refused to allow this [[epitaph]].&lt;ref&gt;{{Cite news|title=Milligan gets last laugh on grave|url=http://news.bbc.co.uk/1/hi/england/southern_counties/3742443.stm|publisher=BBC News|date=24 May 2004}}&lt;/ref&gt; A compromise was reached with the Irish translation of "I told you I was ill", ''Dúirt mé leat go raibh mé breoite'' and in English, "Love, light, peace". The additional epitaph "Grá mór ort Shelagh" can be read as "Great love for you Shelagh".
+
+According to a letter published in the ''Rye and Battle Observer'' in 2011, Milligan's headstone was removed from St Thomas' churchyard in Winchelsea and moved to be alongside the grave of his wife.&lt;ref&gt;{{cite web|last=Milligan|first=Spike|title=Where's Spike gone?|url=http://www.ryeandbattleobserver.co.uk/news/letters/where_s_spike_gone_1_3212801|work=Rye and Battle Observer|date=4 November 2011|accessdate=26 February 2015}}&lt;/ref&gt; However, in 2016 the headstone is again to be found in the churchyard of St.Thomas' Winchelsea.&lt;ref&gt;{{cite web|last1=Advisor|first1=Trip|title=Spike Milligan's Grave – Review of St. Thomas the Martyr, Winchelsea, England – TripAdvisor|url=https://www.tripadvisor.ca/ShowUserReviews-g658258-d2061463-r387225401-St_Thomas_the_Martyr-Winchelsea_Rye_East_Sussex_England.html|website=www.tripadvisor.ca|accessdate=18 August 2017}}&lt;/ref&gt;
+
+==Legacy==
+[[File:Milligan plaque.jpg|thumb|The Holden Road plaque]] 
+[[File:Monkenhurst 02.JPG|thumbnail|[[Monkenhurst]], Hadley, where Milligan lived from 1974]]
+From the 1960s, Milligan was a regular correspondent with [[Robert Graves]]. Milligan's letters to Graves usually addressed a question to do with [[classical studies]]. The letters form part of Graves's bequest to [[St. John's College, Oxford]].&lt;ref&gt;{{cite web|url=https://www.sjc.ox.ac.uk/discover/about-college/library/special-collections/personal-papers/|title=Personal papers|website=St John's College|accessdate=21 December 2017}}&lt;/ref&gt;
+
+The film of ''[[Puckoon]]'', starring [[Sean Hughes (comedian)|Sean Hughes]], including Milligan's daughter, actress Jane Milligan, was released after his death.{{citation needed|date=August 2017}}
+
+Milligan lived for several years in Holden Road, [[Woodside Park (Barnet, London)|Woodside Park]], [[Finchley]], at The Crescent, [[Chipping Barnet|Barnet]], and was a contributing founder and strong supporter of the Finchley Society. His old house in Woodside Park is now demolished but there is a [[blue plaque]] in his memory on the block of flats on the site.&lt;ref&gt;{{Cite web|url=https://www.londonremembers.com/memorials/spike-milligan-home|title=Spike Milligan - home|website=London Remembers|language=en|access-date=2018-05-10}}&lt;/ref&gt;
+
+Over ten years the Finchley Society led by Barbara Warren {{Who|date=August 2017}} raised funds – the Spike Milligan Statue Fund – to commission a statue of him cast in bronze by local sculptor John Somerville and erected in [[Finchley]] in the grounds of [[Avenue House]] in East End Road. The statue of Milligan sitting on a bench was unveiled on 4 September 2014 at a ceremony attended by a number of local dignitaries and showbusiness celebrities including [[Roy Hudd]], [[Michael Parkinson]], [[Maureen Lipman]], [[Terry Gilliam]], [[Kathy Lette]], [[Denis Norden]] and [[Lynsey de Paul]].
+
+There is a campaign to erect a statue in the [[London Borough of Lewisham]] where he grew up. After coming to the UK from India in the 1930s, he lived at 50 Riseldine Road, Brockley and attended Brownhill Boys' School (later Catford Boys' School, which was demolished in 1994). There is a plaque and bench located at the [[Wadestown, New Zealand|Wadestown Library]], [[Wellington]], New Zealand, in an area called "Spike Milligan Corner".&lt;ref&gt;{{cite web|url=http://www.stuff.co.nz/dominion-post/news/77190064/goon-but-not-forgotten|title=Goon but not forgotten|website=Stuff|accessdate=9 May 2018}}&lt;/ref&gt;
+
+In a 2005 poll to find the "Comedians' Comedian", he was voted among the top 50 comedy acts, by fellow comedians and comedy insiders. In a BBC poll in August 1999, Milligan was voted the "funniest person of the last 1,000 years".&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/hi/english/static/events/millennium/aug/winner.stm|title=BBC News – Millennium|website=news.bbc.co.uk|accessdate=21 December 2017}}&lt;/ref&gt;
+
+Milligan has been portrayed twice in films. In the adaptation of his novel ''Adolf Hitler: My Part in His Downfall'', he was played by [[Jim Dale]], while Milligan played his father. He was portrayed by [[Edward Tudor-Pole]] in ''[[The Life and Death of Peter Sellers]]'' (2004). In a 2008 stage play, ''Surviving Spike'', Milligan was played by [[Michael Barrymore]].&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/berkshire/content/articles/2008/02/11/surviving_spike_review_feature.shtml|title=Review: Surviving Spike|first=|last=BBC|publisher=|accessdate=21 December 2017}}&lt;/ref&gt;
+
+On 9 June 2006, it was reported that [[Richard Wiseman]] had identified Milligan as the writer of the [[world's funniest joke]] as decided by the Laughlab project. Wiseman said the joke contained all three elements of what makes a good gag: anxiety, a feeling of superiority and an element of surprise.&lt;ref&gt;{{Cite news|title=Spike 'wrote world's best joke'|url=http://news.bbc.co.uk/2/hi/entertainment/5064020.stm|publisher=BBC News|date=9 June 2006}}&lt;/ref&gt;
+
+[[Eddie Izzard]] described Milligan as "The Godfather of Alternative Comedy". "From his unchained mind came forth ideas that just had no boundaries. And he influenced a new generation of comedians who came to be known as 'alternative'."&lt;ref name=Games&gt;{{cite book|last=Games|first=Alexander|title=The Essential Spike Milligan|year=2003|publisher=Fourth Estate|location=London, UK|isbn = 0-00-717103-X|page=vii}}&lt;/ref&gt;
+
+Members of [[Monty Python]] greatly admired him. In one interview, which was widely quoted at the time, [[John Cleese]] stated "Milligan is the Great God to all of us".&lt;ref name="ScudamoresMilliganbio170"&gt;Scudamore (1985), p. 170.&lt;/ref&gt; The Pythons gave Milligan a cameo role in their 1979 film ''[[Monty Python's Life of Brian]]'', when Milligan happened to be holidaying in [[Tunisia]], near where the film was being shot; he was re-visiting where he had been stationed during [[World War II|wartime]]. [[Graham Chapman]] gave him a minor part in ''[[Yellowbeard]]''.
+
+After their retirement, Milligan's parents and his younger brother Desmond moved to Australia. His mother lived the rest of her long life in the coastal town of [[Woy Woy, New South Wales|Woy Woy]] on the [[New South Wales]] [[Central Coast (New South Wales)|Central Coast]], just north of Sydney. As a result, he became a regular visitor to Australia and made a number of radio and TV programmes there, including ''[[The Idiot Weekly]]'' with [[Bobby Limb]]. He also wrote several books including ''Puckoon'' during a visit to his mother's house in Woy Woy. Milligan named the town "the largest above ground cemetery in the world"&lt;ref&gt;{{cite web|author= |url=https://www.telegraph.co.uk/travel/destinations/australiaandpacific/australia/717965/Australia-A-town-called-Woy-Woy.html |title=Australia: A town called Woy Woy |work=The Telegraph |date= |accessdate=10 October 2015}}&lt;/ref&gt; when visiting in the 1960s.
+
+Milligan's mother became an Australian citizen in 1985, partly in protest at the circumstances which led to her son's ineligibility for British citizenship; Milligan himself was reportedly considering applying for Australian citizenship at the time as well.&lt;ref&gt;{{cite web|url=https://news.google.com/newspapers?nid=2507&amp;dat=19851210&amp;id=fPQ9AAAAIBAJ&amp;sjid=AUkMAAAAIBAJ&amp;pg=5352%2C2028766|archiveurl=https://archive.is/20130411014207/http://news.google.com/newspapers?nid=2507&amp;dat=19851210&amp;id=fPQ9AAAAIBAJ&amp;sjid=AUkMAAAAIBAJ&amp;pg=5352%2C2028766|deadurl=yes|title=The Glasgow Herald – Google News Archive Search|date=11 April 2013|archivedate=11 April 2013|publisher=|accessdate=21 December 2017}}&lt;/ref&gt; The suspension bridge on the cyclepath from Woy Woy to [[Gosford]] was renamed the Spike Milligan Bridge in his memory,&lt;ref&gt;{{cite web|url=http://www.rms.nsw.gov.au/roadprojects/resources/documents/posters/spike_milligan_bridge.pdf |title=Spike Milligan Bridge, Woy Woy |publisher=Rms.nsw.gov.au |accessdate=23 May 2014}}&lt;/ref&gt; and a meeting room in the Woy Woy Public Library is also named after him.&lt;ref&gt;{{cite web|title=Spike Milligan Room|url=http://www.gosford.nsw.gov.au/library/meeting-facilities/spike-milligan-room|publisher=Gosford City Council|accessdate=30 August 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20120322014849/http://www.gosford.nsw.gov.au/library/meeting-facilities/spike-milligan-room|archivedate=22 March 2012|df=dmy-all}}&lt;/ref&gt;
+
+==Radio comedy shows==
+* ''[[The Goon Show]]'' (1951–60)
+* ''[[The Idiot Weekly]]'' (1958–62)
+* ''[[The Omar Khayyam Show]]'' (1963–64)
+* ''[[Milligna (or Your Favourite Spike)|Milligna]]'' (1972). The title is based on Milligan's introduction in ''[[The Last Goon Show of All]]'' as "Spike Milligna, the well-known typing error".
+* ''[[The Milligan Papers]]'' (1987)
+*''[[List of Flywheel, Shyster, and Flywheel (1990 radio series) episodes|Flywheel, Shyster, and Flywheel]]'' (1990)
+
+==Other radio shows==
+Milligan contributed his recollections of his childhood in India for the acclaimed 1970s BBC audio history series ''Plain Tales From The Raj''. The series was published in book form in 1975 by [[André Deutsch]], edited by [[Charles Allen (writer)|Charles Allen]].
+
+==TV comedy shows==
+* ''[[Don't Spare the Horses]]''
+* ''[[The Idiot Weekly, Price 2d]]''
+* ''[[A Show Called Fred]]''
+* ''[[Son of Fred]]''
+* ''[[The World of Beachcomber]]''
+* [[Q (TV series)|The ''Q'' series]]: ''Q5'', ''Q6'', ''Q7'', ''Q8'', ''Q9'', and ''There's a Lot of It About''
+* '' [[Curry &amp; Chips]]''
+* ''[[Oh in Colour]]''
+
+==Other notable TV involvement==
+* ''[[Six-Five Special]]'', first aired on 31 August 1957. Spike Milligan plays an inventor, Mr. Pym, and acts as a butcher in a sketch.
+* ''[[The Marty Feldman Comedy Machine]]'', Milligan co-wrote and performed in some sketches.
+* ''[[This Is Your Life (UK TV series)|This Is Your Life]]'', 11 April 1973. With Sellers, Bentine, and many others. Secombe spoke via a TV recording, as did his great friend [[Robert Graves]].
+* In 1975 Milligan co-wrote (with [[Neil Shand]]) and co-starred in a BBC TV sitcom called ''The Melting Pot''. Its cast of characters included two illegal immigrants, an Irish landlord, a Chinese Cockney, a Scottish Arab and numerous other racial stereotypes; Milligan himself took the part of Mr Van Gogh, described as "an illegal Pakistani immigrant".&lt;ref&gt;{{cite book |last1=Milligan |first1=Spike |last2=Shand |first2=Neil |authorlink2=Neil Shand |title=Spike Milligan's The Melting Pot |year=1983 |publisher=[[Robson Books]] |location=London |isbn=0-86051-195-2 |at=introductory pages }}&lt;/ref&gt; After screening the pilot, the series was deemed to be too offensive for transmission. Five episodes remain unseen. Some of the characters and situations were reused in Milligan's novel ''The Looney''.
+* ''[[Tiswas]]'' – 1981 edition.
+* Guest appearing along with [[Peter Cook]] in ''Kenny Everett's Christmas Show'' in 1985.
+* Playing a moaning stranger in an episode from 1987 of ''[[In Sickness and in Health]]''.
+* Narrator of ''[[The Ratties]]'' (1987), a children's cartoon series written by [[Mike Wallis]] and Laura Milligan, Spike's daughter.
+* [[The Phantom Raspberry Blower|''The Phantom Raspberry Blower of Old London Town'']] ran as a serial in ''[[The Two Ronnies]]'' in the 1970s.
+* Special guest star of edition of 18 January 1979 of ''[[The Muppet Show]]''
+* Guest star in the 3rd episode of the award-winning [[BBC Scotland]] drama series ''[[Takin' Over the Asylum]]'' (1994)
+* Was the subject of ''[[This Is Your Life (UK TV series)|This Is Your Life]]'' for a second time in February 1995 when he was surprised by [[Michael Aspel]].
+* Narrated the 1995 TV show ''[[Wolves, Witches and Giants]]''. A cartoon based on the book of the same name, it retold classic tales such as ''[[Little Red Riding Hood]]'' and ''[[Cinderella]]'', but with a twist. The programme won the 1995 Royal Television Society award for Best Children's Entertainment, and was nominated for the same award again in 1997.
+* Guest on Series 4, Episode 3 of [[Room 101 (TV series)|''Room 101'']] in 1999
+
+==Theatre==
+* ''[[Treasure Island]]'' (1961, 1973–1975)
+* ''[[The Bed-Sitting Room (play)|The Bed-Sitting Room]]'' (1963, 1967), written by Milligan and John Antrobus
+* ''[[Oblomov]]'' opened at the [[Lyric Hammersmith|Lyric Theatre]], Hammersmith, in 1964. It was based on the Russian classic by [[Ivan Goncharov]], and gave Milligan the opportunity to play most of the title role in bed. Unsure of his material, on the opening night he [[Improvisational theater|improvised]] a great deal, treating the audience as part of the plot almost, and he continued in this manner for the rest of the run, and on tour as 'Son of Oblomov'. The show ran at the Comedy Theatre in London's West End in 1965.
+* ''Badjelly's Bad Christmas'' was a play created and performed by the [[Chickenshed Theatre Company]] using the works of Spike Milligan and his characters.&lt;ref&gt;{{cite web|title=Badjelly's Bad Christmas|url=http://www.chickenshed.org.uk/498/shows/badjellys-bad-christmas.html|work=Chickenshed Website|publisher=Chickenshed Theatre Trust|accessdate=24 August 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20101127054333/http://www.chickenshed.org.uk/498/shows/badjellys-bad-christmas.html|archivedate=27 November 2010|df=dmy-all}}&lt;/ref&gt;
+
+==Filmography==
+
+{|class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+|rowspan=2|1951
+|''[[Penny Points to Paradise]]''
+|Spike Donnelly
+|
+|-
+|''[[Let's Go Crazy (film)|Let's Go Crazy]]''
+|[[Eccles (character)|Eccles]]/Waiter
+|Uncredited&lt;br&gt;Short film
+|-
+|1952
+|''[[Down Among the Z Men]]''
+|[[Eccles (character)|Eccles]]
+|
+|-
+|1955
+|''[[A Kid for Two Farthings (film)|A Kid for Two Farthings]]''
+|Indian with Grey Beard
+|Uncredited
+|-
+|1956
+|''[[The Case of the Mukkinese Battle-Horn]]''
+|Various characters
+|Short film
+|-
+|rowspan=2|1960
+|''[[Watch Your Stern]]''
+|Ranjid
+|
+|-
+|''[[The Running Jumping &amp; Standing Still Film]]''
+|Himself
+|Short film
+|-
+|rowspan=2|1961
+|''[[Invasion Quartet]]''
+|Godfrey Pringle
+|
+|-
+|''[[What a Whopper]]''
+|Tramp
+|
+|-
+|1962
+|''[[Postman's Knock (film)|Postman's Knock]]''
+|Harold Petts
+|
+|-
+|rowspan=2|1969
+|''[[The Bed Sitting Room (film)|The Bed Sitting Room]]''
+|Mate
+|
+|-
+|''[[The Magic Christian (film)|The Magic Christian]]''
+|Traffic Warden 27
+|
+|-
+|rowspan=3|1972
+|''[[The Adventures of Barry McKenzie]]''
+|Landlord
+|
+|-
+|''[[Alice's Adventures in Wonderland (1972 film)|Alice's Adventures in Wonderland]]''
+|Gryphon
+|
+|-
+|''[[Rentadick]]''
+|Customs Officer
+|
+|-
+|rowspan=4|1973
+|''[[Adolf Hitler: My Part in His Downfall (film)|Adolf Hitler: My Part in His Downfall]]''
+| Leo Milligan
+|
+|-
+|''[[Digby, the Biggest Dog in the World]]''
+|Dr. Harz
+|
+|-
+|''[[The Three Musketeers (1973 film)|The Three Musketeers]]''
+|M. Bonacieux
+|
+|-
+|''[[Ghost in the Noonday Sun]]''
+|Bill Bombay
+|
+|-
+|rowspan=2|1974
+|''[[The Cherry Picker]]''
+|Mr. Lal
+|
+|-
+|''[[Man About the House (film)|Man About the House]]''
+|Himself
+|
+|-
+|1975
+|''[[The Great McGonagall (film)|The Great McGonagall]]''
+|William McGonagall
+|
+|-
+|1976
+|''[[Barney (film)|Barney]]''
+|Hawker
+|Also known as ''Lost in the Wild''
+|-
+|rowspan=2|1977
+|''[[The Last Remake of Beau Geste]]''
+|Crumble
+|
+|-
+|''[[Dot and the Kangaroo (film)|Dot and the Kangaroo]]''
+|Mr. Platypus
+|Voice role
+|-
+|1978
+|''[[The Hound of the Baskervilles (1978 film)|The Hound of the Baskervilles]]''
+|Policeman
+|
+|-
+|1979
+|''[[Monty Python's Life of Brian]]''
+|Spike
+|
+|-
+|1981
+|''[[History of the World, Part I]]''
+|Monsieur Rimbaud
+|
+|-
+|1983
+|''[[Yellowbeard]]''
+|Flunkie
+|
+|}
+
+==Books==
+
+===''Goon Show''===
+* ''The Goon Show Scripts'' (1972)
+* ''More Goon Show Scripts'' (1973)
+* ''The Book of the Goons'' (1974)
+* ''The Goon Cartoons'' (1982) (illustrated by Peter Clarke)
+* ''More Goon Cartoons'' (1983) (illustrated by Peter Clarke)
+* ''The Lost Goon Shows'' (1987)
+
+===Novels===
+* ''[[Puckoon]]'' (1963)
+* ''[[The Looney: An Irish Fantasy]]'' (1987)
+* ''The Murphy'' (2000)
+
+===William McGonagall===
+* ''Great McGonagall Scrapbook'' (1975) (with Jack Hobbs)
+* ''William McGonagall: The Truth at Last'' (1976) (with Jack Hobbs)
+* ''William McGonagall Meets George Gershwin: A Scottish Fantasy'' (1988) (with Jack Hobbs)
+* ''William McGonagall: Freefall'' (1992) (with Jack Hobbs)
+
+==="According to" books===
+* ''[[The Bible—the Old Testament According to Spike Milligan]]'' (1993)
+* ''[[Lady Chatterley's Lover According to Spike Milligan]]'' (1994)
+* ''[[Wuthering Heights According to Spike Milligan]]'' (1994)
+* ''[[D. H. Lawrence's John Thomas and Lady Jane: According to Spike Milligan—Part II of "Lady Chatterley's Lover"]]'' (1995)
+* ''[[Black Beauty According to Spike Milligan]]'' (1996)
+* ''[[Frankenstein According to Spike Milligan]]'' (1997)
+* ''[[Robin Hood According to Spike Milligan]]'' (1998)
+* ''[[The Hound of the Baskervilles According to Spike Milligan]]'' (1998)
+* ''[[Treasure Island According to Spike Milligan]]''(2000)
+* ''Classic Adventures: According to Spike Milligan'' (2002)
+
+===Scripts===
+*''[[The Bed-Sitting Room (play)|The Bed-Sitting Room]]'' (1970) (with John Antrobus)
+* ''The Q Annual '' (1979)
+* ''Get in the Q Annual '' (1980)
+* ''There's a Lot of it About! '' (1983)
+* ''The Melting Pot '' (1983)
+
+===Children's books===
+* ''Bald Twit Lion '' (1968)
+* ''[[Badjelly the Witch]]'' (1973)
+* ''Dip the Puppy'' (1974)
+* ''[[Sir Nobonk and the Terrible Dreadful Awful Naughty Nasty Dragon]]'' (1982)
+* ''A Children's Treasury of Milligan: Classic Stories and Poems'' (1999)
+* ''The Magical World of Milligan'' (2009)
+* ''Spike's Bike Book for Parents of Little Kids'' (Published by Traffic Authority NSW, 1985)
+* ''Spike Milligan SPIKE'S BIKE BOOK FOR MEDIUM KIDS'' (Published by Traffic Authority NSW, 1985)
+* ''Spike's Bike Book For Big Kids'' (Published by Traffic Authority NSW, 1985)
+
+===Memoirs===
+The War (and Peace) Memoirs. (The seven memoirs were also recorded as talking books with Spike reciting them in his own inimitable style.)
+*1 ''[[Adolf Hitler: My Part in His Downfall]]'' (1971)
+*2 ''[["Rommel?" "Gunner Who?"]]'' (1974)
+*3 ''[[Monty: His Part in My Victory]]'' (1976). This and the previous two books were released and publicised as the first, second and third part respectively of a trilogy.
+*4 ''[[Mussolini: His Part in My Downfall]]'' (1978). This was announced as the fourth part of his "increasingly misnamed" trilogy.
+*5 ''[[Where Have All the Bullets Gone?]]'' (1985)
+*6 ''[[Goodbye Soldier]]'' (1986)
+*7 ''[[Peace Work]]'' (1992)
+* ''It Ends with Magic: A Milligan family History '' (1990)
+* ''Spike Milligan: The Family Album: An Illustrated Autobiography'' (1999)
+* ''Milligan's Meaning of Life: An Autobiography of Sorts'' (2011)
+
+===Non-fiction===
+* ''The Spike Milligan Letters'' (1977)
+* ''More Spike Milligan Letters'' (1984)
+* ''Dear Robert, Dear Spike: The Graves – Milligan Correspondence '' (1991) (with Robert Graves)
+* ''Depression and How to Survive It'' (1993) (with Anthony Clare)
+
+===Collections of literature===
+* ''A Dustbin of Milligan'' (1961)
+* ''The Little Pot Boiler: A Book Based Freely On His Seasonal Overdraft'' (1963)
+* ''Book of Bits or a Bit of a Book'' (1965)
+* ''Bedside Milligan'' (1969)
+* ''Indefinite Articles and Scunthorpe'' (1981)
+* ''A Potboiling Dustbin Full of Bits'' (1984)
+* ''Scunthorpe Revisited: With Added Milligan Articles and Instant Relatives'' (1989)
+* ''A Mad Medley of Milligan '' (1999)
+* ''The Essential Spike Milligan'' (2002)
+* ''The Compulsive Spike Milligan'' (2004)
+* ''Box 18: The Unpublished Spike Milligan'' (2006)
+
+===Collections (mostly poetry)===
+* ''Silly Verse for Kids'' (1959)
+* ''[[A Book of Milliganimals]]'' (1968)
+* ''Values'' (poems) (1969)
+* ''Milligan's Ark'' (1971)
+* ''Small Dreams of a Scorpion'' (poems) (1972)
+* ''Transports of Delight'' (1974)
+* ''Milligan Book of Records'' (1975)
+* ''Poems'' (1977)
+* ''Goblins'' (poems) (1978)
+* ''Open Heart University'' (poems) (1979)
+* ''Twelve Poems That Made December Colder'' (1979)
+* ''Unspun Socks from a Chicken's Laundry'' (poems) (1981)
+* ''Chill Air'' (poems) (1981)
+* ''One Hundred and One Best and Only Limericks of Spike Milligan'' (1982)
+* ''Silly Verse for Kids and Animals'' (1984)
+* ''Floored Masterpieces with Worse Verse'' (1985) (with Tracey Boyd)
+* ''Further Transports of Delight'' (1985)
+* ''The Mirror Running'' (poems) (1987)
+* ''Startling Verse for All the Family'' (1987)
+* ''That's Amazing'' (1988)
+* ''Condensed Animals'' (1991)
+* ''Hidden Words: Collected Poems'' (1993)
+* ''Fleas, Knees and Hidden Elephants'' (poems) (1994)
+
+==Recordings==
+Does not include Goon Show-related recordings
+* ''Milligan Preserved'' (1961)&lt;ref&gt;{{cite web|url=http://www.45worlds.com/vinyl/album/pmc1148 |title=Vinyl Album – Spike Milligan – Milligan Preserved – Parlophone – UK |publisher=45worlds.com |date= |accessdate=10 October 2015}}&lt;/ref&gt;
+* ''[[Bridge on the River Wye]]'' (1962)
+* ''Best of Milligan's Wake'' (1964)
+* ''How to Win an Election'' (1964)
+* ''Muses With Spike Milligan'' (1965)
+* ''The World of Beachcomber'' (1968)
+* ''A Record Load of Rubbish'' (1971)
+* ''Badjelly The Witch (A Musical Tale) and Other Goodies'' (1974)
+* ''He's Innocent of Watergate'' (1974)
+* ''Spike Milligan with Jeremy Taylor: An Adult Entertainment Live at Cambridge University'' (1974)
+* ''Spike Milligan and Ed Welch Sing Songs From Q8'' (1978)
+* ''Puckoon'' (1980)
+* ''Adolf Hitler – My Part in His Downfall'' (1981)
+* ''Spike Milligan: Wolves, Witches &amp; Giants'' (1982)
+* ''Unspun Socks From a Chicken's Laundry'' (1982)
+* ''Where Have All the Bullets Gone?'' (1989)
+* ''Peace Work'' (1995)
+* ''Rommel? Gunner Who?'' (1997)
+* ''Mussolini: His Part in My Downfall'' (1997)
+* ''Spike Milligan: The Parkinson Interviews'' (2002)
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+===Articles===
+* {{cite web |url=http://news.bbc.co.uk/hi/english/static/events/millennium/aug/winner.stm |title=Who was your choice for funniest person of the last 1000 years? |date=August 1999 |website=[[BBC News]]}}
+* {{cite web |url=https://www.theguardian.com/obituaries/story/0,3604,659215,00.html |title=Obituary: Spike Milligan |last=Dixon |first=Stephen |date=28 February 2002 |website=[[The Guardian]]}}
+* {{Cite journal |date=August 2002 |last=Barnes |first=Peter |editor-last=Barker |editor-first=Clive |editor2-last=Trussler |editor2-first=Simon |title='An Uncooked Army Boot': Spike Milligan, 1918–2002 |journal=[[New Theatre Quarterly]] |volume=18 |isbn=978-0-521-52404-9 |issn=0266-464X |issue=Part 3 [Intq 71] |pages=205–210 |url=https://books.google.com/books?id=78w532FjD0MC&amp;pg=PA205}}
+* {{cite web |url=http://www.telegoons.org/Bios/Bio_SM.htm |title=Biography of Spike Milligan |archive-url=https://web.archive.org/web/20101127050329/http://www.telegoons.org/Bios/Bio_SM.htm |archive-date=2010-11-27 |website=The Telegoons}}
+* {{cite web |url=http://www.extrageographic.org/magazine/arts/2006/061225_spike_milligan_audio.html |title=Spike Milligan exclusive: Previously unheard audio of one of Spike Milligan's last one-man shows |website=Extrageographic Magazine |date=25 December 2006}}
+* {{cite web |url=http://www.tls.timesonline.co.uk/article/0,,25336-2604389,00.html |title=Spike Milligan's People |last=Korn |first=Eric |date=21 February 2007 |website=[[Times Online]] |archive-url=https://web.archive.org/web/20091022035658/http://tls.timesonline.co.uk/article/0,,25336-2604389,00.html |archive-date=2009-10-22}}
+* {{cite web |url=http://www.bigredbook.info/spike_milligan_1.html |title=Spike Milligan (1918–2002) |website=Big Red Book (Celebrating Television's This Is Your Life)}}
+
+===Books===
+* {{cite book |last=Carpenter |first=Humphrey |title=Spike Milligan: The Biography |location=London |publisher=Hodder and Stoughton |year=2003 |isbn=978-0-340-82611-9}}
+* {{cite book |last=Farnes |first=Norma |title=Spike: An Intimate Memoir |location=London |publisher=Fourth Estate |year=2003 |oclc=52738571 |isbn=978-1-84115-786-3}}
+* {{cite book | last = Farnes | first = Norma | title = The Compulsive Spike Milligan | year = 2004 | publisher = Fourth Estate | location = London | isbn = 0-00-719543-5}}
+* {{cite book | last = Games | first = Alexander | title = The Essential Spike Milligan | year = 2003 | publisher = Fourth Estate | location = London | isbn = 0-00-717103-X}}
+* {{cite book | last= McCann| first= Graham| title= Spike &amp; Co. | year = 2006 | publisher = Hodder &amp; Stoughton| location = London | isbn=0-340-89809-7}}
+* {{cite book |last=Scudamore |first=Pauline |title=Spike |location=London |publisher=Sutton Publishing |year=2003 |orig-year=1st pub. Granada: 1985 |isbn=978-0-7509-3254-7}}
+* {{cite book | last= Ventham| first= Maxine| title=Spike Milligan: His Part in Our Lives | year = 2002 | publisher = Robson | location = London | isbn=1-86105-530-7}}
+
+==External links==
+{{commons category|Spike Milligan}}
+{{Wikiquote}}
+
+* {{IMDb name|id=0589711}}
+* {{Cite episode |title=Spike Milligan |url=http://www.bbc.co.uk/programmes/p009mz1j |series=Desert Island Discs |series-link=Desert Island Discs |first=Roy |last=Plomley |authorlink=Roy Plomley |network=[[BBC Radio 4]] |date=7 February 1978}}
+
+{{Goons}}
+{{Authority control}}
+
+{{DEFAULTSORT:Milligan, Spike}}
+[[Category:1918 births]]
+[[Category:2002 deaths]]
+[[Category:Articles with inconsistent citation formats]]
+[[Category:Deaths from renal failure]]
+[[Category:Humorous poets]]
+[[Category:British comedy writers]]
+[[Category:British male film actors]]
+[[Category:British male comedians]]
+[[Category:British memoirists]]
+[[Category:British male radio actors]]
+[[Category:British radio writers]]
+[[Category:British male stage actors]]
+[[Category:British male television actors]]
+[[Category:English people of Irish descent]]
+[[Category:Irish comedy writers]]
+[[Category:Irish male film actors]]
+[[Category:Irish male comedians]]
+[[Category:Irish memoirists]]
+[[Category:Irish male radio actors]]
+[[Category:Irish radio writers]]
+[[Category:Irish male stage actors]]
+[[Category:Irish male television actors]]
+[[Category:Irish people of English descent]]
+[[Category:People with bipolar disorder]]
+[[Category:Actors awarded British knighthoods]]
+[[Category:BBC people]]
+[[Category:British Army personnel of World War II]]
+[[Category:British Book Award winners]]
+[[Category:Honorary Knights Commander of the Order of the British Empire]]
+[[Category:Royal Artillery soldiers]]
+[[Category:The Goon Show]]
+[[Category:British voice actors]]
+[[Category:People from Ahmednagar]]
+[[Category:People from Rye, East Sussex]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:Burials in Sussex]]
+[[Category:20th-century British poets]]
+[[Category:20th-century Irish poets]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]
+[[Category:British male comedy actors]]</text>
+      <sha1>8unso53ypppgyfuitpqrepyoisfu1of</sha1>
+    </revision>
+  </page>
+</mediawiki>

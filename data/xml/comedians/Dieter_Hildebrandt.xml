@@ -1,0 +1,137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dieter Hildebrandt</title>
+    <ns>0</ns>
+    <id>5898167</id>
+    <revision>
+      <id>768887033</id>
+      <parentid>749387729</parentid>
+      <timestamp>2017-03-06T10:15:35Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Biography */HTTP&amp;rarr;HTTPS, per [[Wikipedia:Bots/Requests for approval/Bender the Bot 8|BRFA 8]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6547">{{Use dmy dates|date=July 2013}}
+{{Infobox person
+| image        = File:Dieter Hildebrandt August 2010.jpg
+| imagesize    = 300
+| caption      = Dieter Hildebrandt 2011 in Munich
+| birth_name   = 
+| birth_date   = {{Birth date|df=yes|1927|05|23|}}
+| birth_place  = [[Bolesławiec|Bunzlau]], [[Lower Silesia]], Germany, now [[Poland]]
+| death_date={{death date and age|2013|11|20|1927|05|23|df=yes}} 
+| death_place = [[Munich]], Germany
+| years_active = 1956–2013
+| occupation   = [[Kabarett]] [[artist]], [[Comedian]]
+}}
+'''Dieter Hildebrandt''' (23 May 1927 – 20 November 2013) was a German [[Kabarett]] artist.
+
+==Biography==
+Hildebrandt was born in [[Bolesławiec|Bunzlau]], [[Province of Lower Silesia|Lower Silesia]], [[Weimar Germany]] (now [[Boleslawiec]], [[Poland]]) where he attended school. In [[World War II]] he became a [[Flakhelfer]] of the Luftwaffe but after four months was conscripted to the German Wehrmacht, in the same role.
+
+In June 2007, a year after the [[Günter Grass]] Waffen-SS revelations, documents were released which showed that some prominent German [[intellectual]]s like [[Siegfried Lenz]], [[Martin Walser]] and Dieter Hildebrandt had been members of the [[Nazi Party]]. For all three the documents showed their membership at a young age, during a late stage of the fascist regime in Germany – Hildebrandt's application was dated 19 February 1944 (when Hildebrandt was still 16) and he was admitted on 20 April 1944, [[Adolf Hitler|Hitler]]'s 55th birthday.&lt;ref name="WeltNSDAP"&gt;[[Die Welt]]: [https://www.welt.de/politik/article987203/Dieter_Hildebrandt_soll_in_NSDAP_gewesen_sein.html Dieter Hildebrandt soll in NSDAP gewesen sein] 30. Juni 2007&lt;/ref&gt; Both Lenz and Hildebrandt said they were unaware of having written an application, and unaware that they became a member of the Nazi Party in 1944.&lt;ref name="WeltNSDAP"/&gt;&lt;ref&gt;CICERO: [http://www.cicero.de/salon/ich-war-dabei-aber-ganz-anders/38152 Dieter Hildebrandt: Ich war dabei! Aber ganz anders.]&lt;/ref&gt; Historians like Norbert Frei and Götz Aly said in that context that some local Nazi party leaders might have written mass applications to the party without the knowledge of the supposed applicants.&lt;ref&gt;FAZ: [http://www.faz.net/aktuell/feuilleton/buecher/walser-lenz-und-hildebrandt-all-diese-karteikarten-der-nsdap-1463545.html All diese Karteikarten der NSDAP]&lt;/ref&gt;
+
+On 8 May 1945, Hildebrandt was taken captive by the [[United States Army]], but was released a few months later.
+
+In the years after the war, Hildebrandt finished his schooling and moved to [[Windischeschenbach]] in [[Bavaria]]. In 1948 he started studying theatre sciences in [[Munich]]. During that time he founded a student-performed [[cabaret]] show,"Die Namenlosen", in [[Schwabing]]. After finishing his studies Hildebrandt worked with [[Sammy Drechsel]] to found and develop the "Münchner Lach und Schießgesellschaft", a successful cabaret venue where he worked alongside cabaret artists such as [[Klaus Havenstein]] and [[Bruno Jonas]]. He stopped working with Drechsel in 1972, to work for radio and TV stations.
+
+From 1973 until 1979 Hildebrandt was the presenter and author of the cabaret show "[[Notizen aus der Provinz]]" (Notes From The Province), which was broadcast by [[ZDF]].&lt;ref name=spiegel-zdf&gt;{{cite news|title=TV-SATIRE: Geschärftes Ohr|url=http://www.spiegel.de/spiegel/print/d-39686066.html|accessdate=20 November 2013|newspaper=Der Spiegel|date=19 November 1979|language=German}}&lt;/ref&gt; In 1980 his show "[[Scheibenwischer]]" (Windscreen Wiper) first aired on the [[Sender Freies Berlin|SFB]],&lt;ref name=kulport.hessen /&gt; and remained on the air until 2003.&lt;ref name=kulport.hessen /&gt; In 1974 Hildebrandt, together with Werner Schneyder, started the "Autorenkabarett".&lt;ref name=kulport.hessen /&gt; This project lasted until 1982.&lt;ref name=kulport.hessen&gt;{{cite web|last=Klaffenböck|first=Rudolf|title=Hildebrandt erhält Kasseler Literaturpreis|url=http://www.kulturportal-hessen.de/de/sparten/literatur/aktuelle-nachrichten/3288-hildebrandt-erhaelt-kasseler-literaturpreis|publisher=Kulturportal Hessen|accessdate=20 November 2013|language=German}}&lt;/ref&gt;
+
+Hildebrandt was married to Irene Mendler from 1956 until her death in 1985. They had two daughters,  Ursula and Jutta. He married German [[actress]] Renate Küster in 1992.  Hildebrandt died in Munich on 20 November 2013. Just a few days earlier it had become public that he had cancer, something Hildebrandt himself apparently had known since the summer.&lt;ref name=spiegel-artikel&gt;{{cite web|last=tok|title=Kabarettist: Dieter Hildebrandt ist tot|url=http://www.spiegel.de/kultur/tv/kabarettist-dieter-hildebrandt-ist-tot-a-934627.html|publisher=Spiegel Online|accessdate=20 November 2013|author2=feb, dpa|language=German}}&lt;/ref&gt;
+
+==Awards==
+*[[Grimme-Preis]] in bronze, silver and gold
+*German cabaret-award
+*Schiller-award
+*Högner-award
+*Knoeringen-award
+*[[Kassel Literary Prize]]
+
+==Selected filmography==
+'''Actor'''
+* ''Doktor Murkes gesammeltes Schweigen'' (1964, TV film, based on "[[Murke's Collected Silences]]") … Dr. Murke
+* ''{{Interlanguage link multi|Zwei Girls vom Roten Stern|de}}'' (1966) … Silvestre
+* ''[[Zwei himmlische Töchter]]'' (1978, TV series) … Air traffic controller
+* ''{{Interlanguage link multi|Kehraus|de|3=Kehraus (Film)}}'' (1983) … Dr. Berzelmeier
+* ''[[Kir Royal – Aus dem Leben eines Klatschreporters|Kir Royal]]'' (1986, TV miniseries) … Herbie Fried
+* ''{{Interlanguage link multi|Man spricht deutsh|de}}'' (1988) … Dr. Friedhelm Eigenbrodt
+* ''Wir Enkelkinder'' (1992) … Dr. von Wuest
+* ''{{Interlanguage link multi|Zettl|de|3=Zettl (Film)}}'' (2012) … Herbie Fried
+
+'''Screenwriter'''
+* ''Mit Eva fing die Sünde an'' (1958) (US version: ''[[The Bellboy and the Playgirls]]'', 1962)
+* ''[[My Husband, the Economic Miracle|Mein Mann, das Wirtschaftswunder]]'' (1961)
+* ''{{Interlanguage link multi|Eine hübscher als die andere|de}}'' (1961)
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+*{{Official website}}
+*{{IMDb name|id=0383867|name=Dieter Hildebrandt}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hildebrandt, Dieter}}
+[[Category:1927 births]]
+[[Category:2013 deaths]]
+[[Category:People from Bolesławiec]]
+[[Category:People from the Province of Lower Silesia]]
+[[Category:German military personnel of World War II]]
+[[Category:German television personalities]]
+[[Category:German cabaret performers]]
+[[Category:German-language film directors]]
+[[Category:Kabarettists]]
+[[Category:Deaths from cancer in Germany]]</text>
+      <sha1>9l0tf02brnj54ycu0iyeib9vupkdfmk</sha1>
+    </revision>
+  </page>
+</mediawiki>

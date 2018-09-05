@@ -1,0 +1,270 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Soupy Sales</title>
+    <ns>0</ns>
+    <id>866862</id>
+    <revision>
+      <id>854409259</id>
+      <parentid>853849494</parentid>
+      <timestamp>2018-08-11T04:11:50Z</timestamp>
+      <contributor>
+        <ip>75.5.224.20</ip>
+      </contributor>
+      <comment>/* Game shows */ Added infotmation about Storybook Squares</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32528">{{Infobox comedian
+| name              = Soupy Sales
+| image             = Soupy Sales Lunch With Soupy 1960.JPG
+| imagesize         
+| caption           = Sales on ''Lunch With Soupy Sales'' in 1960
+| birth_name        = Milton Supman
+| birth_date        = {{birth date|mf=yes|1926|01|08}}
+| birth_place       = [[Franklinton, North Carolina]], U.S.
+| death_date        = {{death date and age|mf=yes|2009|10|22|1926|01|08}}
+| death_place       = [[Bronx, New York]], U.S.
+| medium            = Television, radio, film
+| active            = 1949–2009
+| genre             = [[Slapstick comedy|Slapstick]], [[word play]], [[improvisation]]&lt;ref name="NYTOBIT"/&gt;
+| influences        = [[Marx Brothers]]&lt;ref name="NYTOBIT"/&gt;&lt;br/&gt;[[Harold Ritz|Harry Ritz]]&lt;ref name="NYTOBIT"/&gt;
+| influenced        = [[Howard Stern]]&lt;br/&gt;[[Saturday Night Live]]&lt;br/&gt;[[Pee-wee Herman]]&lt;ref name="WWJOBIT"&gt;{{Cite web|date=October 22, 2009 |url=http://www.wwj.com/Comedian-Soupy-Sales-Dies/5503348 |title=Comedian Soupy Sales Dies |publisher=[[WWJ (AM)]] |accessdate=October 23, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20100226214643/http://www.wwj.com/Comedian-Soupy-Sales-Dies/5503348 |archivedate=February 26, 2010 }}&lt;/ref&gt;&lt;br/&gt;[[Andy Kaufman]]&lt;ref name="TVGOBIT"&gt;{{Cite web|date=October 23, 2009 |last=Dinunno |first=Gina |url=http://www.seattlepi.com/tvguide/411483_tvgif23.html |title=Comedian Soupy Sales Dies at 83 |publisher=[[TV Guide]] |accessdate=October 23, 2009 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+|spouse             = Barbara Fox&lt;br&gt;(1950–1979, divorced)&lt;br&gt;Trudy Carson&lt;br&gt;(1980–2009, his death)
+|children           = [[Hunt Sales]]&lt;br&gt;[[Tony Sales]]
+|parents            = Irving Supman&lt;br&gt;(1890–1931)&lt;ref name="IS"&gt;[https://www.findagrave.com/memorial/109943516&amp;ref=acom Find-A-Grave – Irving Supman]{{Dead link|date=August 2018 |bot=InternetArchiveBot |fix-attempted=yes }}, Retrieved Jul. 3, 2015.&lt;/ref&gt;&lt;br&gt;Selma "Sadie" Berman&lt;br&gt;(1897–1970)&lt;ref name="MHB"&gt;[''Kingsport Post'', May 14, 1970, page A-3 – Mrs. Harry Baker (Obituary)], Retrieved Jul. 3, 2015.&lt;/ref&gt;&lt;ref name="SSB"&gt;[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Berman&amp;GSiman=1&amp;GScnty=1210&amp;GRid=99303556&amp; Find-A-Grave – Selma "Sadie" Berman Baker], Retrieved Jul. 3, 2015.&lt;/ref&gt;
+|notable_work       = ''Lunch with Soupy Sales''}}
+
+'''Milton Supman''' (January 8, 1926 – October 22, 2009), known professionally as '''Soupy Sales''', was an American comedian, actor, radio/television personality, and jazz aficionado.&lt;ref name="NYTjazz"&gt;{{Cite web|date=October 23, 2009|last=Ratliff|first=Ben|url=http://artsbeat.blogs.nytimes.com/2009/10/23/soupy-sales-jazz-maven-brought-live-gigs-to-the-small-screen/?hp|title= Soupy Sales, Jazz Maven, Brought Gigs to the Small Screen|publisher=[[The New York Times]]|accessdate=October 24, 2009}}&lt;/ref&gt; He was best known for his local and network [[children's television]] show, ''Lunch with Soupy Sales'' (1953-1966), a series of comedy sketches frequently ending with Sales receiving [[Pieing|a pie in the face]], which became his trademark.
+
+From 1968 to 1975, he was a regular panelist on the syndicated revival of ''[[What's My Line?]]'' and appeared on several other TV game shows. During the 1980s, Sales hosted his own show on [[WNBC (AM)|WNBC-AM]] in New York City.
+
+==Early life and career==
+Milton Supman was born in [[Franklinton, North Carolina]], to Irving Supman and Sadie Berman.&lt;ref name="SSB" /&gt;&lt;ref&gt;Irving Supman was born on July 4, 1890, according to his World War I draft registration&lt;/ref&gt; His father, a Jewish [[dry goods]] merchant, had emigrated from [[Hungary]] in 1894. Sales had three siblings: Marvin Supman (1916–1920), Dr. J. Leonard Supman (1918–1998) of Kingsport, Tennessee, and attorney Jack Supman (1921–2014) of Lancaster, Ohio.&lt;ref name="LEGACY"&gt;[http://www.legacy.com/obituaries/thisweeknews/obituary.aspx?pid=170363515  Obituary for Jack Supman], legacy.com; retrieved July 3, 2015.&lt;/ref&gt;&lt;ref name="SSDI"&gt;[http://search.ancestry.com/cgi-bin/sse.dll?gss=angs-c&amp;new=1&amp;rank=1&amp;msT=1&amp;gsfn=leonard&amp;gsln=supman&amp;mswpn__ftp=Kingsport%2c+Hawkins%2c+Tennessee%2c+USA&amp;mswpn=35922&amp;mswpn_PInfo=8-|0|1652393|0|2|3246|45|0|1330|35922|0|&amp;MSAV=0&amp;cp=0&amp;catbucket=rstp&amp;pcat=34&amp;h=60918552&amp;recoff=11+12&amp;db=ssdi&amp;indiv=1&amp;ml_rpos=1 Ancestry.com, Social Security Death Index – Dr. J. Leonard Supman]; retrieved July 3, 2015.&lt;/ref&gt;&lt;ref name="MS"&gt;[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=supman&amp;GSfn=marvin&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSob=n&amp;GRid=45153309&amp;df=all&amp; Find-A-Grave – Marvin Supman], Retrieved Jul. 3, 2015.&lt;/ref&gt;&lt;ref name="ANC1920"&gt;[http://search.ancestry.com/cgi-bin/sse.dll?gss=angs-g&amp;new=1&amp;rank=1&amp;msT=1&amp;gsfn=irving+&amp;gsln=supman&amp;mswpn__ftp=franklinton%2c+franklin&amp;MSAV=0&amp;cp=0&amp;catbucket=rstp&amp;pcat=ROOT_CATEGORY&amp;h=11251999&amp;db=1920usfedcen&amp;indiv=1&amp;ml_rpos=1 Ancestry.com, 1920 United States Federal Census, Franklinton (NC)]; retrieved July 3, 2015.&lt;/ref&gt; His was the only Jewish family in the town; Sales joked that local [[Ku Klux Klan]] members bought the sheets used for their robes from his father's store.&lt;ref&gt;Carlson, Michael (October 31, 2009). [https://www.independent.co.uk/news/obituaries/soupy-sales-anarchic-and-pioneering-childrens-tv-personality-1812400.html "Soupy Sales: Anarchic and pioneering children's TV personality"]. ''The Independent''.&lt;/ref&gt;
+
+Sales got his nickname from his family. His older brothers had been nicknamed "Ham Bone" and "Chicken Bone." Milton was dubbed "Soup Bone," which was later shortened to "Soupy". When he became a disc jockey, he began using the stage name Soupy Hines. After he became established, it was decided that "Hines" was too close to the Heinz soup company, so he chose Sales, in part after [[vaudeville]] comedian [[Chic Sale]].&lt;ref name="NYTOBIT"&gt;{{Cite web|date= October 23, 2009
+|last= Goldstein|first= Richard|authorlink= Richard Goldstein (writer born 1942)|pages= A26|url=https://www.nytimes.com/2009/10/23/arts/television/23sales.html?_r=1&amp;scp=1&amp;sq=Soupy%20Sales&amp;st=cse
+|title= Soupy Sales, Slapstick Comedian, Dies at 83
+|publisher= [[The New York Times]]|accessdate= October 23, 2009}}&lt;/ref&gt;
+
+Sales graduated from Huntington High School in [[Huntington, West Virginia]] in 1944. He enlisted in the [[United States Navy]] and served on the {{USS|Randall|APA-224}} in the [[Pacific Ocean theater of World War II|South Pacific]] during the latter part of [[World War II]]. He sometimes entertained his shipmates by telling jokes and playing crazy characters over the ship's public address system. One of the characters he created was "White Fang", a large dog that played outrageous practical jokes on the seamen. The sounds for "White Fang" came from a recording of ''[[The Hound of the Baskervilles]]''.{{citation needed|date=August 2015}}
+
+Sales enrolled at [[Marshall University|Marshall College]] in Huntington, WV, where he earned a master's degree in Journalism. While at Marshall, he performed in nightclubs as a comedian, singer and dancer. After graduating, Sales began working as a scriptwriter and [[DJ|disc jockey]] at radio station [[WHTN]] (now [[WVHU]]) in Huntington. He moved to [[Cincinnati, Ohio]] in 1949, where he worked as a morning radio DJ and performed in nightclubs. Sales began his television career on [[WKRC-TV]] in Cincinnati with ''Soupy's Soda Shop'', TV's first teen dance program,&lt;ref&gt;[http://www.amdest.com/stars/ssales.html ''Soupy's Soda Shop'' details] {{Webarchive|url=https://web.archive.org/web/20140118065708/http://www.amdest.com/stars/ssales.html |date=2014-01-18 }}, amdest.com; accessed August 30, 2015.&lt;/ref&gt; and ''Club Nothing!'', a late-night comedy/variety program. When WKRC canceled his TV shows, Sales moved to [[Cleveland, Ohio]], where he hosted another radio and TV series on [[WJW-TV]] (Channel 8) and continued his nightclub act. It was in a skit on his late night comedy/variety TV series ''Soupy's On!'' that he got his first pie in the face. Sales claimed he left the Cleveland station "for health reasons: they got sick of me." He relocated to [[Detroit]] in 1953 and worked for [[WXYZ-TV]] (Channel 7), [[American Broadcasting Company|ABC]]'s [[O&amp;O]] station.{{citation needed|date=August 2015}}
+
+==''Lunch with Soupy Sales''==
+Sales is best known for his daily children's television show, ''Lunch with Soupy Sales''. The show was originally called ''12 O'Clock Comics'', and was later known as ''The Soupy Sales Show''. Improvised and [[slapstick]] in nature, ''Lunch with Soupy Sales'' was a rapid-fire stream of comedy sketches, gags, and puns, almost all of which resulted in Sales receiving a pie in the face, which became his trademark. Sales developed pie-throwing into an art form: straight to the face, on top of the head, a pie to both ears from behind, moving into a stationary pie, and countless other variations. He claimed that he and his visitors had been hit by more than 20,000 pies during his career.&lt;ref name="NYTOBIT"/&gt; He recounted a time when a young fan mistakenly threw a frozen pie at his neck and he "dropped like a pile of bricks."&lt;ref name="NYTOBIT"/&gt;
+
+===History of the show===
+
+====Detroit====
+[[Image:Soupy puppet.jpg|left|thumb|200px|A [[hand puppet]] featuring a likeness of Sales]]
+''Lunch with Soupy Sales'' began in 1953 from the studios of [[WXYZ-TV]], Channel 7, located in the historic [[Maccabees Building]], in [[Detroit]]. Sales occasionally took the studio cameras to the lawn of the [[Detroit Public Library]], located across the street from the TV studios, and talked with local students walking to and from school. Beginning no later than July 4, 1955,&lt;ref name="NY Times TV review"&gt;Soupy Sales' debut on New York channel 7 (as a summer replacement for [[Kukla, Fran and Ollie]]) was reviewed on July 5, 1955 (full article may only be available to nytimes.com subscribers) {{cite web|last1=Shanley|first1=J. P.|title=TV: Saved by Shaw|url=https://query.nytimes.com/gst/abstract.html?res=9804E1DD103AE53BBC4D53DFB166838E649EDE&amp;url=http://timesmachine.nytimes.com/timesmachine/1955/07/05/83362614.html?pageNumber=59|website=New York Times|publisher=New York Times|accessdate=September 27, 2014}}&lt;/ref&gt; a Saturday version of Sales's lunch show was broadcast nationally on the [[American Broadcasting Company|ABC]] television network.  His lunchtime program on weekdays was moved to early morning opposite ''Today'' and ''Captain Kangaroo.''
+
+During the same period that ''Lunch with Soupy Sales'' aired in Detroit, Sales also hosted a nighttime show, ''Soup's On'', to compete with [[11 O'Clock News]] programs.&lt;ref name="cadence"&gt;{{Cite journal|last=Donaldson|first =Bill |date=February 2003|title =Interview with Soupy Sales, December 28, 2001|journal=[[Cadence Magazine]]|volume =29|issue=2|pages=9–12|publisher=Cadnor Ltd.|location=[[Redwood, New York]]|issn=0162-6973}}&lt;/ref&gt; The guest star was always a musician, often a [[jazz]] performer, at a time when jazz was popular in Detroit and the city was home to twenty-four [[jazz club]]s. Sales believed that his show helped sustain jazz in Detroit, as artists would regularly sell out their nightclub shows after appearing on ''Soup's On''.&lt;ref name="cadence"/&gt;
+
+[[Coleman Hawkins]], [[Louis Armstrong]], [[Duke Ellington]], [[Billie Holiday]], [[Charlie Parker]], and [[Stan Getz]] were among the musicians who appeared on the show; [[Miles Davis]] made six appearances.&lt;ref name="NYTjazz"/&gt; [[Clifford Brown]]'s appearance on ''Soup's On'', according to Sales, may be the only extant [[footage]] of Brown, and has been included in ''[[Ken Burns' Jazz]]'' and an [[A&amp;E Network]] biography about Sales.&lt;ref name="cadence"/&gt;
+
+Sales briefly had a third dinner time show filmed largely in the Palmer Park section of Detroit. Sales' three shows were rumored to have earned him in excess of $100,000 per year.  One of his character puppets was Willy the Worm, a "balloon" propelled worm that emerged from its house and used a high pitched voice to announce birthdays or special events on the noontime show; but the character never appeared when Soupy moved to [[Los Angeles]]. In his lunchtime show, Sales always wore an [[orlon]] fabric sweater. In many of his shows, he appeared in costume, performed his dance, the [[Soupy Shuffle]], introduced many characters such as Nicky Nooney, the Mississippi Gambler, etc., and took "zillions" of pies in the face.{{citation needed|date=August 2015}}
+
+====Los Angeles====
+In 1960, Sales moved to the ABC-TV Studios in [[Los Angeles]], [[California]]. ABC-TV cancelled the show in March 1961, but it continued as a local program on KABC-TV until January 1962. The show briefly went back on the ABC network as a late night fill-in for ''[[The Steve Allen Show]]'' in 1962 but was canceled after three months. All of the puppets on the show during its Los Angeles run were also operated by [[Clyde Adler]]. {{Citation needed|date=October 2009}}. A 1962 TV Guide listing refers to him as "West Coast disk jockey and comedian". His fame was significant enough to warrant utilizing him as a "Tonight" show guest host in the period between Jack Paar and Johnny Carson.
+
+====New York====
+[[File:Frank Sinatra and Soupy Sales.jpg|thumb|180px|As Sales' guest, Frank Sinatra was no more immune to a pie in the face than his host.]]
+On September 7, 1964, Sales found a new weekday home at [[WNYW-TV|WNEW-TV]] in [[New York City]]. This version was seen locally until September 2, 1966.  260 episodes were syndicated by [[Screen Gems]] to local stations outside the New York market during the 1965–66 season. This show marked the height of Sales' popularity. It featured guest appearances by stars such as [[Frank Sinatra]], [[Tony Curtis]], [[Jerry Lewis]],&lt;ref name="NYTOBIT"/&gt; [[Judy Garland]]&lt;ref&gt;{{Cite web|date=October 23, 2009|last=Hinckley|first=David|url=http://www.nydailynews.com/entertainment/tv/2009/10/23/2009-10-23_friend_remembers_soupy_sales_as_someone_whod_.html|title= Friend remembers Soupy Sales as someone who'd 'do anything for you'|publisher= [[Daily News (New York)]]|accessdate=October 24, 2009}}&lt;/ref&gt; and [[Sammy Davis Jr.]],&lt;ref&gt;{{Cite web|date=October 24, 2009|url=http://www.nypost.com/p/news/opinion/editorials/soupy_sales_ZUMi9n4Vt4xyjOOetSFGPN|title=Soupy Sales, 1926–2009|publisher=[[New York Post]]|accessdate=October 24, 2009}}&lt;/ref&gt; as well as musical groups like [[the Shangri-Las]], [[The Supremes]] and [[The Temptations]].
+
+As with his earlier shows, Sales performed musical numbers on the show and his extensive jazz record collection was used in his TV work. "Mumbles" by [[Oscar Peterson]] with [[Clark Terry]] was Pookie's theme. "[[Comin' Home Baby!]]" by [[Herbie Mann]] was the theme for Sales' "Gunninger the Mentalist" character (a parody of [[Dunninger|Dunninger the Mentalist]]). This was also the period when Sales starred in the movie comedy ''[[Birds Do It]]''. During the run of the New York show, actor [[Frank Nastasi]] played White Fang, Black Tooth, Pookie, and all the "guy at the door" characters. {{Citation needed|date=October 2009}}
+
+===The New Soupy Sales Show: Los Angeles===
+''The New Soupy Sales Show'' appeared in 1978 with the same format, and ran for one season. 65 episodes were briefly syndicated, through Air Time International, to local stations in early 1979. It was taped in Los Angeles at [[KTLA]], with Clyde Adler returning to work as a puppeteer with Sales. {{Citation needed|date=October 2009}}
+
+===Characters on the show===
+[[File:Soupy Sales and White Fang 1957.JPG|thumb|180px|Sales with White Fang in 1957]]
+Clyde Adler, the show's floor manager and a film editor at Detroit's WXYZ-TV, performed in sketches and voiced and operated all puppets on Sales' show in Detroit in the 1950s and in Los Angeles from 1959 to 1962, as well as in 1978. Actor [[Frank Nastasi]], who played the part of Gramps on WXYZ-TV's other kids show "Wixie Wonderland", assumed the role of straight man and puppeteer when Sales took the show to New York from 1964 to 1966. Nastasi was originally from Detroit and had worked with Sales at WXYZ. Appearing on the show were both [[puppet]]s and live performers.{{citation needed|date=August 2015}}
+
+The puppets were:
+* '''White Fang''', "The Biggest and Meanest Dog in the USA", who appeared only as a giant white shaggy paw with black triangular felt "claws", jutting out from the corner of the screen. Fang spoke with unintelligible short grunts and growls, which Soupy repeated back in English, for comic effect. White Fang was often the pie thrower when Soupy's jokes bombed.
+* '''Black Tooth''', "The Biggest and Sweetest Dog in the USA", also seen only as a giant black paw with white triangular felt claws, and with more feminine, but similarly unintelligible, dialogue. Black Tooth's trademark was pulling Soupy off-camera to give loud and noisy kisses.  
+* For a short time there was a third dog character that became White Fang's girlfriend, Marilyn Monwolf. She caused some rivalry of affections between Black Tooth and White Fang, but later jilted them both for Joe Dogmaggio.
+* '''Pookie the Lion''', a lion puppet appearing in a large window behind Soupy (1950s), was a hipster with a rapier wit. For example: Soupy: "Do you know why my life is so miserable?" Pookie: "You got me!" Soupy: "That's why!"  One of Pookie's favorite lines when greeting Soupy was, "Hey bubby... want a kiss?".  In the Detroit shows, Pookie never spoke but communicated in whistles.  That puppet also was used to mouth the words while pantomiming novelty records on the show.
+* '''Hippy the Hippo''', a minor character who occasionally appeared with Pookie the Lion. [[Frank Nastasi]] gave Hippy a voice for the New York shows. Clyde Adler also voiced Hippy in the shows done in the late 1970s.
+
+Regular live characters included:
+* '''Peaches''', Soupy's girlfriend, visually played by footage of Sales in feminine costume.
+* '''Philo Kvetch''', a [[private detective]] played by Sales in a long-running comedy skit during the show's New York run (a parody of early 20th century fictional detective [[Philo Vance]]).
+* '''The Mask''', evil nemesis of Philo Kvetch, revealed in the last episode to be [[Nikita Khrushchev]], who had been deposed about a year earlier.
+* '''"Onions" Oregano''', henchman of The Mask, played by Frank Nastasi, who ate ''loads of onions''. Every time Oregano would breathe in Philo's direction, Philo would make all sorts of comic choking faces, pull out a can of air freshener, and say "Get those onions out of here!"
+* '''Hobart and Reba''', a husband and wife who lived in the [[potbelly stove]] on the New York set.
+* '''Willie the Worm''' was a 35-cent toy Sales got from [[F. W. Woolworth Company|Woolworth's]], according to WXYZ art director Jack Flechsig. With animated squeezings of his rubber air bulb, the latex accordion worm flexed in and out of a little apple. Willy was "The Sickest Worm in all of Dee-troit" and suffered from a perennial cold and comically explosive sneeze. He helped read birthday greetings to Detroit-area kids while the show was on WXYZ. Willie did not survive the show's move to the Big Apple.
+* '''Clark Bent''', actually Clark Kent or "Superman."  All the newspaper characters were there including '''Louis Lane''' - "that's Lois!".  He always had trouble finding a phone booth to change into "Superman."
+
+===New Year's Day incident===
+On January 1, 1965, miffed at having to work on the holiday, Sales ended his live broadcast by encouraging his young viewers to tiptoe into their still-sleeping parents' bedrooms and remove those "funny green pieces of paper with pictures of U.S. Presidents" from their pants and pocketbooks. "Put them in an envelope and mail them to me", Soupy instructed the children. "And I'll send you a postcard from [[Puerto Rico]]!" &lt;ref&gt;[http://www.snopes.com/radiotv/tv/soupy1.asp New Year's Eve incident]&lt;/ref&gt; Several days later, a chagrined Soupy announced that money (mostly [[Monopoly (game)|Monopoly]] money&lt;ref&gt;{{Cite web
+ |date=October 22, 2009 
+ |url=http://cbs2.com/local/Soupy.Sales.Pie.2.1265885.html 
+ |title=Beloved By 60's Era Kids, TV Host Soupy Sales Dead 
+ |publisher=[[CBS News]] 
+ |accessdate=October 23, 2009 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20100808154827/http://cbs2.com/local/Soupy.Sales.Pie.2.1265885.html 
+ |archivedate=August 8, 2010 
+ |df= 
+}}&lt;/ref&gt;) was unexpectedly being received in the mail. He explained that he had been joking and announced that the contributions would be donated to charity. As parents' complaints increased, WNEW's management felt compelled to suspend Sales for two weeks. Young viewers picketed Channel 5. The uproar surrounding Sales' suspension increased his popularity. Sales described the incident in his 2001 autobiography ''Soupy Sez! My Life and Zany Times''.&lt;ref name="soupy-sez"&gt;{{Cite book|last=Sales|first=Soupy|author2=Charles Salzberg|title=Soupy Sez! My Life and Zany Times|year=2001|publisher=M. Evans and Co.|location=New York|isbn=0-87131-935-7}}&lt;/ref&gt;
+
+===Topless dancer prank===
+The show's set included a door in the background. During the show, Sales would answer a knock at the door and interact with an actor seen only as an arm. Occasionally, the person at the door was a celebrity, such as [[Burt Lancaster]] or [[Fess Parker]]. Once, while the show was being broadcast live from Detroit, Sales' studio crew pulled a prank on him: when he opened the door, he saw a topless dancer partially covered with a balloon. Some reports say the gag was furthered by the crew switching the studio monitors so that Sales would think the stripper image was going out over the air. A second, nonbroadcasting, camera captured the uncensored version, while a stagehand moved a balloon back and forth in the doorway, giving at least some indication to the home viewers what was supposed to be behind the door. Sales was forced to try to keep the show going without revealing the risque scene backstage. The prank was recreated when the show originated in Los Angeles. The Los Angeles prank footage survives.&lt;ref&gt;[http://www.detroitkidshow.com/naked_soupy.htm Detroit Kid Show.com website]&lt;/ref&gt;
+
+==Records==
+&lt;!-- Deleted image removed: [[Image:Soupsale.jpg|left|thumb|200px|Reprise album ''The Soupy Sales Show'' (1961){{deletable image-caption|Monday, 30 January 2017}}]] --&gt;
+One of the fans of the Soupy Sales show was [[Frank Sinatra]]. When Sinatra started his own record label, [[Reprise Records]], he signed Sales to a recording contract. Two albums were produced with Reprise, ''The Soupy Sales Show'' in 1961 and ''Up In The Air'' in 1962.&lt;ref&gt;[http://www.crazycollege.org/hot.html Profile], CrazyCollege.org; accessed August 30, 2015.&lt;/ref&gt;
+
+Sales' novelty dance record, '"The Mouse" dates from the mid-1960s period of his career, when his show was based in New York. Sales performed "The Mouse" on ''[[The Ed Sullivan Show]]'' in September 1965, just prior to [[The Beatles]]' segment on the show. Sales signed with [[Motown Records]] in 1969 releasing a single, "Muck-Arty Park" (a play on the 1968 hit "[[MacArthur Park (song)|MacArthur Park]]"), as well as an album ''A Bag of Soup''. Soupy and Frank Nastasi also cut and recorded a comedy and song story disk "Spy With A Pie" for ABC/Paramount. "Spy With A Pie" was rereleased by "Simon Says" children's records.{{citation needed|date=August 2015}}
+
+==Game shows==
+From 1968–75, Sales was a regular panelist on the syndicated revival of ''[[What's My Line?]]''. (He had been a guest panelist on one episode of the original version in 1965.) Sales usually was the first panelist introduced and occupied the chair on the far left side (facing the camera), next to [[Arlene Francis]]. In 1969, Sales appeared on ''Storybook Squares'', a children's version of ''[[Hollywood Squares]]'', as Henry VIII.&lt;ref&gt;{{cite book |last1=Schwartz |first1=David |last2=Ryan |first2=Steve |last3=Wostbrock |first3=Fred |title=The Encyclopedia of TV Game Shows |date=1999 |publisher=Checkmark Books |location=New York, NY |page=209 |edition=3rd}}&lt;/ref&gt; In 1976, Sales was the host of ''Junior [[Almost Anything Goes]]'', ABC's Saturday morning version of their team-based physical stunt program. Sales was also a panelist on the 1980 revival of ''[[To Tell the Truth]]''; he had appeared as a guest on the show during the mid- to late 1970s. Other game show appearances included over a dozen episodes of the original ''[[Match Game]]'' from 1966 to 1969 as well as one week of the revived version in 1976, a week of shows on the 1970s edition of ''[[The Gong Show]]'', a couple guest spots on ''[[Hollywood Squares]]'' (December 12, 1977 and April 4, 1978) as well as a few appearances on the combined version ''([[Match Game-Hollywood Squares Hour]])'' in 1983–84 and a recurring role in all versions of ''[[Pyramid (game show)|Pyramid]]'' from 1973 to 1988 and 1991. He also made an appearance on ''[[Pictionary]]'' in 1997.{{citation needed|date=August 2015}}
+
+==Radio show==
+{{Unreferenced section|date=May 2018}}
+Sales hosted a midday radio show on [[WNBC (AM)|WNBC]] in New York from March 1985 to March 1987. His program was between the [[drive time]] shifts of [[Don Imus]] (morning) and [[Howard Stern]] (afternoon), with whom Sales had an acrimonious relationship. An example of this was an incident involving Stern telling listeners that he was cutting the strings in Sales' in-studio piano at 4:05&amp;nbsp;p.m. on May 1, 1985. On December 21, 2007, Stern revealed this was a stunt staged for "theater of the mind" and to torture Sales; in truth, the piano was never harmed. Sales' on-air crew included his producer, Ray D'Ariano, newscaster Judy DeAngelis, and pianist Paul Dver.
+
+==Film==
+[[File:6.8.08SoupySalesByLuigiNovi.jpg|thumb|Sales autographing books at the [[Big Apple Convention]] in Manhattan, 2008]]
+He had a sporadic film career that spanned over 40 years, including:
+* 1961 – ''[[The Two Little Bears]]''
+* 1963 – ''[[Critic's Choice (film)|Critic's Choice]]''
+* 1966 – ''[[Birds Do It]]'' (a starring role)
+** Sales was vocal in his dislike for ''Birds Do It.''
+* 1977 – ''Don't Push, I'll Charge When I'm Ready''
+* 1983 – ''[[Superman III]]'' (cameo appearance)
+* 1993 – ''And God Spoke: The Making of...'' His memorable appearance as himself, hired by two incompetent filmmakers to portray Moses because [[Charlton Heston]] was not available.
+* 1999 – ''Palmer's Pick Up''
+* 2000 – ''A Little Bit of Lipstick''
+* 2000 – ''Behind the Seams''
+* 2001 – ''This Train''
+* 2005 – ''The Innocent and the Damned''
+* 2005 – ''Angels with Angles''
+
+==Television==
+* Sales's first dramatic acting roles came in 1960 as an unnamed stable owner in "The Legacy" and as Meyers in "The Hope Chest" on the ABC [[Western (genre)|western]] [[television series]], ''[[The Rebel (TV series)|The Rebel]]'', starring [[Nick Adams (actor, born 1931)|Nick Adams]].
+* Sales appeared as himself in one of the later episodes of the [[CBS]] military sitcom/drama series, ''[[Hennesey]]'', starring [[Jackie Cooper]].
+* Sales made several guest appearances on The Carol Burnett Show.&lt;ref&gt;http://www.tvguide.com/tvshows/the-carol-burnett-show/episode-26-season-1/soupy-sales-gloria-loring/100455/&lt;/ref&gt;
+* 1963 - Sales played "Hank Salamanca" a musician guest at the farm on The Real McCoys, episode 32 "The McCoy Sound".
+* 1964 – [[Route 66 (TV series)#Fourth season (1963-1964)|"This is Going to Hurt Me More Than It Hurts You"]] ''Route 66'', Episode 113 in the fourth and last season, fourth to last episode.
+* 1969 – ''[[The Beverly Hillbillies]]'' - Milburn Drysdale's nephew,  Air Force ace Jet Bradford.
+* 1989 - ''[[Monsters (TV series)]]'' - Season 2 Episode 6,  Traveling Salesman.
+* 1994 - ‘’[[Wings (1990 TV series)|Wings (TV series)]] - Season 6 Episode 8, titled Miss Jenkins.  Soupy plays a character named Fred Gardner.  He performs Simon Says with Lowell.
+* 2001 – [[Black Scorpion (TV series)|''Black Scorpion'']] – super-villain Professor Prophet.
+
+==Animation==
+In 1983, Sales did voice work for [[Ruby-Spears]], voicing [[Donkey Kong (character)|Donkey Kong]] in the animated show ''[[Saturday Supercade]]''.{{citation needed|date=August 2015}}
+
+==Personal life==
+Sales was married twice: first to Barbara Fox (from 1950 until their divorce in 1979). They had two sons, both of whom are rock musicians: bassist [[Tony Sales]] and drummer [[Hunt Sales]] (who were in the band [[Tin Machine]] with [[David Bowie]]). In 1980, Sales married dancer Trudy Carson, who survives him.&lt;ref name="NYTOBIT"/&gt;
+
+Sales died on October 22, 2009, at Calvary Hospice in [[Bronx, New York|Bronx]], New York, aged 83, from cancer.&lt;ref&gt;According to ''[[The New York Daily News]]'', Friday, October 23, 2009, article on Sales' death (page 4), the paper reported that "The funnyman's longtime friend Dave Usher said Sales succumbed to cancer at Calvary Hospice in the Bronx."&lt;/ref&gt;  He is buried at [[Kensico Cemetery]] in [[Valhalla, New York]].
+[[File:Friars Club section Kensico Cem..jpg|thumb]]
+
+==Legacy==
+*ABC replaced ''The Soupy Sales Show'' in 1961 with [[Cynthia Pepper]]'s short-lived sitcom, ''[[Margie (TV series)|Margie]]''. Sales and Pepper later became good friends.
+*[[Howard Stern]] named Sales as one of his childhood heroes, and in an interview on the 2007 [[Sirius Satellite Radio]] program "The History of Howard Stern", he expressed regret over his harsh words and actions towards Sales.{{Citation needed|reason=removed original wikilink that did not back claim|date=May 2018}}
+*He is mentioned in the Motion Picture Musical [[Fame (1980 film)|''Fame'' (1980 film)]], starring [[Irene Cara]].
+*He is mentioned in season 2, episode 11 of the sitcom ''Friends'', when Phoebe refers to him while inhabited by the spirit of a client who died on her massage table.
+*Cited as an influence by [[Iggy Pop]] in the movie ''[[Gimme Danger]]''.
+
+{{Portal|Biography|North Carolina|West Virginia|New York City|Los Angeles|Comedy|Film|Television|United States Navy|World War II|Judaism}}
+
+==Reruns==
+Beginning in 2011, [[Jewish Life Television]] (JLTV) began showing 79 color videotapes and black &amp; white kinescopes of the existing  1964–66 New York City and 1979 Los Angeles shows.&lt;ref&gt;http://www.jltv.tv/shows.php?id=17&lt;/ref&gt; Reruns previously aired on [[Retro Television Network]] in 2013 and 2014.
+
+==References==
+{{Reflist|25em}}
+
+==Further reading==
+*Kiska, Tim. ''From Soupy to Nuts!: A History of Detroit Television'' (Momentum Books, 2005); {{ISBN|1-879094-70-3}}; {{ISBN|978-1-879094-70-3}}
+
+==External links==
+{{commons category}}
+*{{IMDb name|0758130}}
+*{{IBDB name}}
+*[https://archive.is/20130204203110/http://www.tvacres.com/money_coins_soupy.htm "Soupy Sales Money Stunt"], tvacres.com; accessed August 30, 2015. 
+*[http://www.csmonitor.com/1996/0523/052396.feat.whathapp.1.html "No More Pies in the Face for Soupy Sales"], csmonitor.com, May 23, 1996 
+* [http://www.emmytvlegends.org/interviews/people/soupy-sales Archive of American Television interview], emmytvlegends.org; accessed August 30, 2015.
+* [https://www.telegraph.co.uk/news/obituaries/culture-obituaries/tv-radio-obituaries/6693846/Soupy-Sales.html Soupy Sales obituary], Telegraph.co.uk; accessed August 30, 2015
+*{{Find a Grave|43431165}}
+
+{{Children's programming on the American Broadcasting Company in the 1960s}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sales, Soupy}}
+[[Category:1926 births]]
+[[Category:2009 deaths]]
+[[Category:People from Franklinton, North Carolina]]
+[[Category:People from Huntington, West Virginia]]
+[[Category:Male actors from New York City]]
+[[Category:Jewish American comedians]]
+[[Category:American male film actors]]
+[[Category:American military personnel of World War II]]
+[[Category:American male stage actors]]
+[[Category:American stand-up comedians]]
+[[Category:American male television actors]]
+[[Category:American television personalities]]
+[[Category:Burials at Kensico Cemetery]]
+[[Category:Deaths from cancer in New York (state)]]
+[[Category:Jewish American male actors]]
+[[Category:Jewish male comedians]]
+[[Category:Marshall University alumni]]
+[[Category:Radio personalities from New York City]]
+[[Category:Television in Detroit]]
+[[Category:United States Navy sailors]]
+[[Category:Television programs featuring puppetry]]
+[[Category:American people of Hungarian-Jewish descent]]
+[[Category:Male actors from North Carolina]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:Comedians from New York City]]</text>
+      <sha1>h79b6x8amphmauyhab3q6cfhpliv346</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,462 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lenny Bruce</title>
+    <ns>0</ns>
+    <id>50016</id>
+    <revision>
+      <id>855606309</id>
+      <parentid>854170058</parentid>
+      <timestamp>2018-08-19T14:49:43Z</timestamp>
+      <contributor>
+        <username>Kumagoro-42</username>
+        <id>5013062</id>
+      </contributor>
+      <comment>Merged two redundant entries, cleaned up, trimmed unnecessary details.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="67371">{{Infobox person
+| name          = Lenny Bruce
+| image         = Lenny Bruce.jpg
+| caption       = Bruce in 1961
+| birth_name    = Leonard Alfred Schneider
+| birth_date    = {{birth date|1925|10|13|mf=y}}
+| birth_place   = [[Mineola, New York]], U.S.
+| death_date    = {{death date and age|mf=yes|1966|8|3|1925|10|13}}
+| death_place   = [[Los Angeles|Los Angeles, California]], U.S.
+| death_cause   = [[Drug overdose]]
+| spouse        = {{marriage|[[Honey Bruce]]|1951|1957|end=divorce}}
+| children      = 1
+| resting_place = [[Eden Memorial Park Cemetery]]
+| nationality   = American
+| years_active  = 1947–1966
+| module = {{Infobox comedian|embed=yes
+| medium        = [[Stand up comedy|Stand-up]], [[television]], [[books]]
+
+| genre         = [[Satire]], [[political satire]], [[black comedy]], [[blue comedy]]
+| subject       = [[American culture]], [[American politics]], [[race relations]], [[religion]], [[human sexuality]], obscenity, [[popular culture|pop culture]]
+| influences    = [[Dick Gregory]], [[Irwin Corey]], [[Mort Sahl]], Joe Ancis&lt;ref name="Joe Acis: A Brief Biography"/&gt;
+| influenced    = [[Bill Cosby]],&lt;ref&gt;{{cite news|url=http://www.latimes.com/news/local/la-et-joketheft24jul24,1,6252669,full.story?coll=la-headlines-california&amp;ctrack=5&amp;cset=true |title=Funny, that was my joke |publisher=[[The Los Angeles Times]] |author=Welkos, Robert W. |date=2007-07-24 |accessdate=2008-05-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20081221013725/http://www.latimes.com/news/local/la-et-joketheft24jul24%2C1%2C6252669%2Cfull.story?coll=la-headlines-california&amp;ctrack=5&amp;cset=true |archivedate=December 21, 2008 |df= }}&lt;/ref&gt; [[Richard Pryor]],&lt;ref&gt;{{cite web |url= http://www.kingsolomon.com/comedy/50albums.htm |title=The 50 Most Influential Comedy Albums |first=Jim |last= Mendrinos |date=8 April 2004 |accessdate=31 March 2012 |archiveurl=https://web.archive.org/web/20040610031800/http://www.kingsolomon.com/comedy/50albums.htm |archivedate=10 June 2004}}&lt;/ref&gt; [[George Carlin]],&lt;ref&gt;Carlin, George, ''[[George Carlin on Comedy]]'', "Lenny Bruce", Laugh.com, 2002.&lt;/ref&gt;  [[David Cross]], [[Jerry Seinfeld]], [[Paul Krassner]], [[Lewis Black]],&lt;ref&gt;{{cite web|url=http://origin.avclub.com/content/node/49217 |title=Lewis Black |publisher=[[The Onion]] |work=[[The A.V. Club]] |author=Gillette, Amelie |date=2006-06-07 |accessdate=2008-06-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20070707005744/http://origin.avclub.com/content/node/49217 |archivedate=2007-07-07 |df= }}&lt;/ref&gt; [[Jon Stewart]],&lt;ref&gt;{{cite web|url=http://www.duckprods.com/projects/lennybruce/lb-nytimesfeature.html|title=There Was Thought in His Rage|publisher=New York Times|author=Keepnews, Peter|date=1999-08-08|accessdate=2008-06-26}}&lt;/ref&gt; [[Peter Cook]], [[Abbie Hoffman]], [[Joan Rivers]], [[Nick DiPaolo]], [[Sam Kinison]], [[Eddie Izzard]], [[Howard Stern]], [[Bill Hicks]], [[John Belushi]], [[Rich Vos]], [[Jerry Sadowitz]], [[Cardis Cardell Willis|Cardell Willis]], [[Denis Leary]], [[Louis C.K.]], [[Frankie Boyle]], [[Andrew Dice Clay]], [[Rick Shapiro]], [[Dave Chappelle]], [[Tommy Chong]], [[Stewart Lee]], [[Emery Emery]], [[Lou Reed]],&lt;ref name=christgau&gt;{{cite web|last1=Christgau|first1=Robert|authorlink1=Robert Christgau|title=Lou Reed|url=http://www.robertchristgau.com/get_artist.php?name=Lou+Reed|website=robertchristgau.com|accessdate=19 November 2014}}&lt;/ref&gt; [[Joe Rogan]]&lt;ref&gt;{{cite web|title=Joe Rogan Experience #463 - Louis Theroux|url=https://www.youtube.com/watch?v=QjeV2_hKLao}}&lt;/ref&gt;  &lt;!-- as listed in his bio.  citation for all influenced persons needed, not just this one  --&gt;
+| spouse        = {{marriage|[[Honey Bruce]]|1951|1957|end=divorce}}&lt;ref&gt;{{cite news |first= Melissa|last= August|title=Died. |url=http://www.time.com/time/magazine/article/0,9171,1109352,00.html |quote=78, ex-stripper who in 1951 married the soon-to-be-famous comedian Lenny Bruce; in Honolulu. Though the drug-addled pair split in 1957 (they had a daughter, Kitty), the sometime actress who called herself "Lenny's Shady Lady" helped successfully lobby New York Governor George Pataki to pardon Bruce |work=[[Time (magazine)|Time]] |date=September 5, 2005 |accessdate=2008-08-03 }}&lt;/ref&gt;
+| children = 1
+| notable_work  = ''The Lenny Bruce Originals''&lt;br/&gt; ''The Carnegie Hall Concert''&lt;br/&gt; ''Let the Buyer Beware''&lt;br/&gt; ''How to Talk Dirty and Influence People''
+| signature     =
+| website       =
+| footnotes     =
+}}}}
+
+'''Leonard Alfred Schneider''' (October 13, 1925 – August 3, 1966), better known by his stage name '''Lenny Bruce''', was an American stand-up comedian, social critic, and satirist. He was renowned for his open, free-style and critical form of comedy which integrated satire, politics, religion, sex, and vulgarity. His 1964 conviction in an [[obscenity]] trial was followed by a [[Posthumous recognition|posthumous]] pardon, the first in the history of New York state, by then-Governor [[George Pataki]] in 2003.
+
+Bruce is renowned for paving the way for future outspoken [[Counterculture of the 1960s|counterculture-era]] comedians, and his trial for obscenity is seen as a landmark for [[freedom of speech in the United States]].&lt;ref&gt;{{cite web |url= http://www.nndb.com/people/406/000022340/ |title=Lenny Bruce |work=nndb.com |year=2012 |accessdate=31 March 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2003/12/24/nyregion/no-joke-37-years-after-death-lenny-bruce-receives-pardon.html?pagewanted=all&amp;src=pm |title=No Joke! 37 Years After Death Lenny Bruce Receives Pardon - New York Times |publisher=Nytimes.com |date=2003-12-24 |accessdate=2013-12-05 |first1=John |last1=Kifner}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.nytimes.com/learning/general/onthisday/bday/1013.html |title=Lenny Bruce, Uninhibited Comic, Found Dead in Hollywood Home |publisher=Nytimes.com |date=1966-08-04 |accessdate=2013-12-05}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=https://www.nytimes.com/2008/06/24/arts/24carlin.html?pagewanted=all | work=The New York Times | first1=Mel | last1=Watkins | first2=Bruce | last2=Weber | title=George Carlin, Comic Who Chafed at Society and Its Constraints, Dies at 71 | date=2008-06-24}}&lt;/ref&gt;  In 2017, ''[[Rolling Stone]]'' magazine ranked him third (behind disciples [[Richard Pryor]] and [[George Carlin]]) on its list of the 50 best stand-up comics of all-time.&lt;ref&gt;[https://www.rollingstone.com/culture/lists/50-best-stand-up-comics-of-all-time-w464199 The 50 Best Stand-up Comics of All Time]. Rollingstone.com, retrieved February 15, 2017.&lt;/ref&gt;
+
+==Early life==
+Lenny Bruce was born Leonard Alfred Schneider to a Jewish family in Mineola, New York, grew up in nearby [[Bellmore, New York|Bellmore]], and attended [[Wellington C. Mepham High School]].&lt;ref&gt;{{cite book |url= https://books.google.com/books?ei=MCd3T4jdLMqi0QXA4cS1DQ&amp;id=Ly8IAQAAMAAJ&amp;dq=lenny+bruce+Wellington+C.+Mepham+High+School&amp;q=Wellington+C.+Mepham+#search_anchor |title=Ladies and Gentlemen: Lenny Bruce!! |page=107 |author1=Albert Goldman |author2=Lawrence Schiller |publisher=Penguin Books |year= 1991 |accessdate=31 March 2012}}&lt;/ref&gt; His parents divorced when he was five years old (the documentary ''[[Lenny Bruce: Swear to Tell the Truth]]'' claims he was eight years old), and Lenny lived with various relatives over the next decade. His British-born father, Myron (Mickey) Schneider, was a shoe clerk and Lenny saw him very infrequently. Bruce's mother, [[Sally Marr]] (real name Sadie Schneider, born Sadie Kitchenberg), was a stage performer and had an enormous influence on Bruce's career.&lt;ref&gt;{{cite book |url= https://books.google.com/books?ei=hiZ3T7WOJ-rE0QX2hKj0Bw&amp;id=i3ZcAAAAMAAJ&amp;dq=Lenny+Bruce%3A+the+making+of+a+prophet&amp;q=Sally+Marr#search_anchor |title=Lenny Bruce: the making of a prophet|page=47 |first=William Karl |last= Thomas |publisher=Archon Books |date= 1 Dec 1989 |accessdate=31 March 2012}}&lt;/ref&gt;
+
+After spending time working on a farm, Bruce joined the [[United States Navy]] at the age of 16 in 1942, and saw active duty during [[World War II]] aboard the {{USS|Brooklyn|CL-40}} fighting in Northern Africa; [[Palermo]], [[Italy]], in 1943; and [[Operation Shingle|Anzio]], Italy, in 1944. In May 1945, after a comedic performance for his shipmates in which he was dressed in [[Drag (clothing)|drag]], his commanding officers became upset. He defiantly convinced his ship's medical officer that he was experiencing homosexual urges.&lt;ref&gt;A.H. Goldman. ''Ladies and Gentlemen: Lenny Bruce!!'' (New York: Random House, 1971), p. 91.&lt;/ref&gt; This led to his undesirable discharge in July 1945. However, he had not admitted to or been found guilty of any breach of naval regulations and successfully applied to have his discharge changed to [[honorable discharge|"Under Honorable Conditions ... by reason of unsuitability for the naval service"]].&lt;ref&gt;[http://www.thesmokinggun.com/file/lenny-bruce-navy-records?page=10 "Lenny Bruce's Gay Naval Ruse: Unearthed documents detail comedian's discharge"], [[TheSmokingGun.com]], August 31, 2010&lt;/ref&gt; In 1959, while taping the first episode of [[Hugh Hefner]]'s ''[[Playboy's Penthouse]]'', Bruce talked about his Navy experience and showed a tattoo he received in [[Malta]] in 1942.&lt;ref&gt;{{cite web|url=https://www.imdb.com/title/tt0675481/?ref_=fn_al_tt_5|title="Playboy's Penthouse" Episode #1.1 (TV Episode 1959)|publisher=|accessdate=19 June 2017}}&lt;/ref&gt;
+
+After a short stint in [[California]] spent living with his father, Bruce settled in [[New York City]], hoping to establish himself as a comedian. However, he found it difficult to differentiate himself from the thousands of other show business hopefuls who populated the city. One locale where they congregated was Hanson's, the diner where Bruce first met the comedian [[Joe Ancis]],&lt;ref name="Joe Acis: A Brief Biography"&gt;{{cite web|last1=Driven|first1=Joey|title=Joe Acis: A Brief Biography|url=http://www.reverbnation.com/page_object/page_object_blogs/artist_893835|accessdate=28 February 2015}}&lt;/ref&gt; who had a profound influence on his approach to comedy. Many of Bruce's later routines reflected his meticulous schooling at the hands of Ancis.&lt;ref&gt;Goldman, p. 109.&lt;/ref&gt; According to Bruce's biographer [[Albert Goldman]], Ancis' humor involved stream-of-consciousness sexual fantasies and references to jazz.&lt;ref&gt;Goldman, p. 105-108.&lt;/ref&gt;
+
+Lenny took the stage as "Lenny Marsalle" one evening at the Victory Club, as a stand-in master of ceremonies for one of his mother's shows. His ad-libs earned him some laughs. Soon afterward, in 1947, just after changing his last name to Bruce, he earned $12 and a free spaghetti dinner for his first stand-up performance in [[Brooklyn]].&lt;ref&gt;{{cite web|title=Lenny Bruce|url=http://www.reference.com/browse/lenny+bruce|website=Reference.com|accessdate=28 February 2015|archive-url=https://web.archive.org/web/20150402092400/http://www.reference.com/browse/lenny+bruce|archive-date=2 April 2015|dead-url=yes|df=dmy-all}}&lt;/ref&gt; He was later a guest—and was introduced by his mother, who called herself "Sally Bruce"—on the ''[[Arthur Godfrey's Talent Scouts]]'' radio program. Lenny did a bit inspired by [[Sid Caesar]], "The [[Bavaria]]n Mimic", featuring impressions of American movie stars (e.g., [[Humphrey Bogart]], [[James Cagney]], and [[Edward G. Robinson]]).&lt;ref&gt;{{cite web|last1=Schwartz|first1=Ben|title=The Comedy Behind the Tragedy|url=http://www.chicagoreader.com/chicago/the-comedy-behind-the-tragedy/Content?oid=917393|website=Chicago Reader|accessdate=28 February 2015}}&lt;/ref&gt;
+
+==Career==
+Bruce's early comedy career included writing the screenplays for ''[[Dance Hall Racket]]'' in 1953, which featured Bruce, his wife Honey Harlow, and mother Sally Marr in roles; ''[[Dream Follies]]'' in 1954, a low-budget [[American burlesque|burlesque]] romp; and a children's film, ''[[The Rocket Man (1954 film)|The Rocket Man]]'', in 1954. In 1956 [[Frank Ray Perilli]], a fellow nightclub comedian who eventually became a screenwriter of two dozen successful films and plays, became a mentor and part-time manager of Lenny Bruce.&lt;ref&gt;[http://www.mediamaestro.net/candybutcher.htm The Candy Butcher (2016)] p. 152.&lt;/ref&gt; Through Perilli, Bruce met and collaborated with photojournalist William Karl Thomas on three screenplays (''Leather Jacket'', ''Killer's Grave'' and ''The Degenerate''), none of which made it to the screen, and the comedy material on the first three albums.&lt;ref&gt;[http://www.mediamaestro.net/prophet.htm Lenny Bruce: The Making of a Prophet (1989)]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}, p. 54-63.&lt;/ref&gt; In 1957 Thomas booked Bruce into The Slate Brothers nightclub, where Bruce was fired the first night for what ''[[Variety (magazine)|Variety]]'' headlined as "blue material"; this led to the theme of Bruce's first solo album on [[Fantasy Records]], ''The Sick Humor of Lenny Bruce'',&lt;ref&gt;[http://www.mediamaestro.net/prophet.htm Lenny Bruce: The Making of a Prophet (1989)]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }} p. 276-229.&lt;/ref&gt; for which Thomas shot the album cover. Thomas also shot other album covers, acted as cinematographer on abortive attempts to film their screenplays, and in 1989 authored a memoir of their ten-year collaboration titled ''Lenny Bruce: The Making of a Prophet''.&lt;ref&gt;{{cite web|url=http://www.mediamaestro.net/lenny.htm|title=Lenny Bruce: The Making of a Prophet|first=meta tags by William Karl Thomas; web design by William Karl|last=Thomas|website=www.mediamaestro.net|accessdate=19 June 2017}}&lt;/ref&gt; The 2016 biography of Frank Ray Perilli titled ''The Candy Butcher'',&lt;ref&gt;{{cite web|url=http://www.mediamaestro.net/candybutcher.htm|title=The Candy Butcher (2016)|publisher=|accessdate=19 June 2017}}&lt;/ref&gt; devotes a chapter to Perilli's ten-year collaboration with Bruce.
+
+Bruce released a total of four albums of original material on Berkeley-based Fantasy Records, with rants, comic routines, and satirical interviews on the themes that made him famous: [[jazz]], [[moral philosophy]], [[politics]], [[patriotism]], religion, [[law]], [[Race (classification of human beings)|race]], [[abortion]], [[psychoactive drug|drugs]], the [[Ku Klux Klan]], and [[Jewishness]]. These albums were later compiled and re-released as ''The Lenny Bruce Originals''. Two later records were produced and sold by Bruce himself, including a 10-inch album of the 1961 San Francisco performances that started his legal troubles. Starting in the late 1950s, other unissued Bruce material was released by [[Alan Douglas (record producer)|Alan Douglas]], [[Frank Zappa]] and [[Phil Spector]], as well as Fantasy. Bruce developed the complexity and tone of his material in [[Enrico Banducci]]'s [[North Beach, San Francisco|North Beach]] nightclub, the "[[hungry i]]", where [[Mort Sahl]] had earlier made a name for himself.
+
+Branded a "sick comic"—though it was the perceived "sickness" of modern society that he was railing about—Bruce was essentially blacklisted from television, and when he did appear thanks to sympathetic fans like [[Steve Allen]] or Hugh Hefner, it was with great concessions to [[Broadcast Standards and Practices (US)|Broadcast Standards and Practices]].&lt;ref&gt;{{cite web|title=The Museum of Television &amp; Radio Presents Two Five-Letter Words: Lenny Bruce|url=http://www.paleycenter.org/pressrelease-2004-lenny-bruce|website=The Paley Center for Media|accessdate=28 February 2015}}&lt;/ref&gt; Jokes that might offend, like a bit on airplane [[inhalant|glue-sniffing]] teenagers that was done live for ''[[The Steve Allen Show]]'' in 1959, had to be typed out and pre-approved by network officials.
+
+His growing fame led to appearances on the nationally televised ''Steve Allen Show'', where he made his debut with an unscripted comment on the recent marriage of [[Elizabeth Taylor]] to [[Eddie Fisher (singer)|Eddie Fisher]], wondering, "will Elizabeth Taylor become [[bar and bat mitzvah|bar mitzvahed]]?"&lt;ref&gt;{{YouTube|id=oCplnUga0hU?t=1m45s|title=Lenny Bruce}}&lt;/ref&gt;  &lt;!--San Francisco columnist [[Herb Caen]], however, was an early and enthusiastic supporter, writing in 1959:
+&lt;blockquote&gt;They call Lenny Bruce a [[sick comic]], and sick he is. Sick of all the pretentious phoniness of a generation that makes his vicious humor meaningful. He is a rebel, but not without a cause, for there are shirts that need un-stuffing, egos that need deflating. Sometimes you feel guilty laughing at some of Lenny's mordant jabs, but that disappears a second later when your inner voice tells you with pleased surprise, 'but that's true.'&lt;/blockquote&gt;
+--&gt;
+On February 3, 1961, in the midst of a severe blizzard, he gave a famous performance at [[Carnegie Hall]] in New York. It was recorded and later released as a three-disc set, titled ''The Carnegie Hall Concert''.{{full citation needed|date=June 2016}} In the liner notes, Albert Goldman described it as follows:{{cite quote|date=June 2016}}
+
+{{quote|This was the moment that an obscure yet rapidly rising young comedian named Lenny Bruce chose to give one of the greatest performances of his career. ... The performance contained in this album is that of a child of the jazz age. Lenny worshiped the gods of Spontaneity, Candor and [[Free association (psychology)|Free Association]]. He fancied himself an oral jazzman. His ideal was to walk out there like [[Charlie Parker]], take that mike in his hand like a horn and blow, blow, blow everything that came into his head just as it came into his head with nothing censored, nothing translated, nothing mediated, until he was pure mind, pure head sending out brainwaves like radio waves into the heads of every man and woman seated in that vast hall. Sending, sending, sending, he would finally reach a point of [[clairvoyance]] where he was no longer a performer but rather a medium transmitting messages that just came to him from out there — from recall, fantasy, prophecy.
+
+A point at which, like the practitioners of [[automatic writing]], his tongue would outrun his mind and he would be saying things he didn't plan to say, things that surprised, delighted him, cracked him up — as if he were a spectator at his own performance!}}
+
+==Personal life==
+In 1951, Bruce met [[Honey Harlow]], a [[stripper]] from [[Manila, Arkansas]]. They were married that same year, and Bruce was determined she end her work as a stripper.&lt;ref&gt;Kottler, Jeffrey A., ''Divine Madness: Ten Stories of Creative Struggle'' (San Francisco: Jossey-Bass, 2006), 221.&lt;/ref&gt;
+
+Bruce and Harlow eventually left New York City in 1953 for the [[West Coast of the United States|West Coast]], where they got work as a double act at the Cup and Saucer in Los Angeles, California. Bruce then went on to join the bill at the club Strip City. Harlow found employment at the Colony Club, which was widely known to be the best burlesque club in Los Angeles at the time.&lt;ref&gt;Goldman, p. 124.&lt;/ref&gt;
+
+Bruce left Strip City in late 1954 and found work within the [[San Fernando Valley]] at a variety of strip clubs. As the master of ceremonies, he introduced the strippers while performing his own ever-evolving material. The clubs of the Valley provided the perfect environment for Bruce to create new routines: According to Bruce's primary biographer, Albert Goldman, it was "precisely at the moment when he sank to the bottom of the barrel and started working the places that were the lowest of the low" that he suddenly broke free of "all the restraints and inhibitions and disabilities that formerly had kept him just mediocre and began to blow with a spontaneous freedom and resourcefulness that resembled the style and inspiration of his new friends and admirers, the jazz musicians of the modernist school."&lt;ref&gt;Goldman, p. 133.&lt;/ref&gt;
+
+Honey and Lenny's daughter Kitty Bruce was born in 1955.&lt;ref name="Ofiicial Lenny Bruce site"&gt;{{cite web|title=Chronology – The 50s|url=http://www.lennybruceofficial.com/the-life-of-lenny-bruce/chronology-the-50s/|work=The Official Lenny Bruce Site|publisher=Mystic Liquid|accessdate=28 November 2011|archive-url=https://web.archive.org/web/20111113122849/http://www.lennybruceofficial.com/the-life-of-lenny-bruce/chronology-the-50s/|archive-date=13 November 2011|dead-url=yes|df=dmy-all}}&lt;/ref&gt;  He had an affair with the jazz singer [[Annie Ross]] in the late 1950s.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/1993/10/03/movies/pop-music-a-free-spirited-survivor-lands-on-her-feet.html?pagewanted=all|title=A Free-Spirited Survivor Lands on Her Feet|publisher=The New York Times|date=3 October 1993|first=James|last=Gavin|accessdate=12 November 2012}}&lt;/ref&gt; In 1959, Lenny's divorce from Honey was finalized.&lt;ref&gt;{{cite web|title=Lenny Bruce|url=http://www.nndb.com/people/406/000022340/|work=NNDB|accessdate=28 November 2011}}&lt;/ref&gt;
+
+==Legal troubles==
+[[File:Lenny Bruce arrest.jpg|thumb|upright|Bruce at his arrest in 1961]]
+Bruce's desire to end his wife's stripper days led him to pursue schemes that were designed to make as much money as possible. The most notable was the Brother Mathias Foundation scam, which resulted in Bruce's arrest in [[Miami]], [[Florida]] in 1951 for impersonating a [[priest]]. He had been soliciting donations for a [[leprosy|leper]] colony in [[British Guiana]] (now [[Guyana]]) under the auspices of the "Brother Mathias Foundation", which he had legally chartered – the name was his own invention, but possibly referred to the actual Brother Matthias who had befriended [[Babe Ruth]] at the Baltimore orphanage to which Ruth had been confined as a child.&lt;ref&gt;{{cite web|url=http://www.chatterfromthedugout.com/babe_and_brother_matthias.htm |title=Babe Ruth and Brother Matthias |publisher=Chatterfromthedugout.com |date= |accessdate=2013-12-05}}&lt;/ref&gt; Bruce had stolen several priests' clergy shirts and a clerical collar while posing as a laundry man. He was found not guilty because of the legality of the New York state-chartered foundation, the actual existence of the Guiana [[leper colony]], and the inability of the local clergy to expose him as an impostor. Later, in his semifictional autobiography ''[[How to Talk Dirty and Influence People]]'', Bruce revealed that he had made about $8,000 in three weeks, sending $2,500 to the leper colony and keeping the rest.
+
+===Obscenity arrests===
+On October 4, 1961, Bruce was arrested for obscenity&lt;ref&gt;{{cite web|url=http://www.freenetpages.co.uk/hp/lennybruce/chronology.htm#1961|title=Lenny Bruce – Chronology|access-date=2007-06-04|archive-url=https://web.archive.org/web/20070613155335/http://www.freenetpages.co.uk/hp/lennybruce/chronology.htm#1961|archive-date=2007-06-13|dead-url=yes|df=}}&lt;/ref&gt; at the [[Jazz Workshop]] in [[San Francisco]]; he had used the word ''[[wikt:cocksucker|cocksucker]]'' and riffed that "''to'' is a [[preposition]], ''come'' is a [[verb]]", that the sexual context of ''[[orgasm|come]]'' is so common that it bears no weight, and that if someone hearing it becomes upset, he "probably can't come".&lt;ref name=UMKC&gt;{{cite web|last=Bruce|first=Lenny|title=To is a Preposition, Come is a Verb|work=The Trials of Lenny Bruce|publisher=University of Missouri-Kansas City}}&lt;/ref&gt;  Although the jury acquitted him, other law enforcement agencies began monitoring his appearances, resulting in frequent arrests under charges of obscenity.
+[[File:Lenny Bruce Mugshot 4-27-63.jpg|thumb|left|Bruce in 1963, after having been arrested in San Francisco]]
+Bruce was arrested again in 1961, in [[Philadelphia, Pennsylvania|Philadelphia]], for [[drug possession]] and again in Los Angeles,  two years later. The Los Angeles arrest took place in then-unincorporated [[West Hollywood]], and the arresting officer was a young deputy named [[Sherman Block]], who later became County Sheriff. The specification this time was that the comedian had used the word ''[[Schmuck (pejorative)|schmuck]]'', an insulting [[Yiddish]] term that is an obscene term for penis. The Hollywood charges were later dismissed.&lt;ref&gt;Gross, David C. ''[https://books.google.com/books?id=Ny1o6iXffDgC&amp;printsec=frontcover&amp;dq=yiddish+dictionary&amp;hl=en&amp;sa=X&amp;ei=0FvsTqYYwuvRAcDu2N8J&amp;ved=0CEEQ6AEwAQ#v=onepage&amp;q=shmuck&amp;f=false English-Yiddish, Yiddish-English Dictionary: Romanized]'' Hippocrene Books, 1995. p.144. {{ISBN|0-7818-0439-6}}&lt;/ref&gt;
+
+On December 5, 1962, Bruce was arrested on stage at the legendary Gate of Horn folk club in Chicago.&lt;ref&gt;{{cite web|title=Comedians in Courthouses Getting Cuffed: Lenny Bruce and George Carlin, December 1962|url=http://thecomicscomic.com/2014/03/25/comedians-in-courthouses-getting-cuffed-lenny-bruce-and-george-carlin-december-1962/|website=The Critic's Comic|accessdate=28 February 2015}}&lt;/ref&gt; The same year he played at [[Peter Cook]]'s [[The Establishment (club)|The Establishment]] club in London, and in April the next year he was barred from entering England by the [[Home Office]] as an "undesirable alien".&lt;ref&gt;{{cite web |url=http://www.lennybruceofficial.com/the-life-of-lenny-bruce/chronology-the-60s/ |title=Chronology – The 60′s &amp;#124; The Official Lenny Bruce Website |publisher=Lennybruceofficial.com |date= |accessdate=2013-12-05 |archive-url=https://web.archive.org/web/20131108235828/http://www.lennybruceofficial.com/the-life-of-lenny-bruce/chronology-the-60s/ |archive-date=2013-11-08 |dead-url=yes |df= }}&lt;/ref&gt;
+
+In April 1964, he appeared twice at the [[Cafe Au Go Go]] in [[Greenwich Village]], with undercover police detectives in the audience. He was arrested along with the club owners, Howard and Elly Solomon, who were arrested for allowing an obscene performance to take place. On both occasions, he was arrested after leaving the stage, the complaints again pertaining to his use of various obscenities.&lt;ref&gt;{{cite web|last1=Linder|first1=Doug|title=The Trials of Lenny Bruce|url=http://law2.umkc.edu/faculty/projects/ftrials/bruce/bruceaccount.html|website=Famous Trials: The Lenny Bruce Trial 1964|accessdate=28 February 2015}}&lt;/ref&gt;
+
+A three-judge panel presided over his widely publicized six-month trial, prosecuted by Manhattan Assistant D.A. [[Richard Kuh]], with [[Ephraim London]] and Martin Garbus as the defense attorneys. Bruce and club owner Howard Solomon were both found guilty of obscenity on November 4, 1964. The conviction was announced despite positive testimony and petitions of support from – among other artists, writers and educators – [[Woody Allen]], [[Bob Dylan]], [[Jules Feiffer]], [[Allen Ginsberg]], [[Norman Mailer]], [[William Styron]], and [[James Baldwin]], and Manhattan journalist and television personality [[Dorothy Kilgallen]] and [[sociology|sociologist]] [[Herbert Gans]].&lt;ref&gt;[http://www.law.umkc.edu/faculty/projects/ftrials/bruce/brucetrial.html Excerpts from the Lenny Bruce Trial (Cafe Au Go Go)] {{Webarchive|url=https://web.archive.org/web/20100628084404/http://www.law.umkc.edu/faculty/projects/ftrials/bruce/brucetrial.html |date=2010-06-28 }}. Retrieved June 25, 2010.&lt;/ref&gt; Bruce was sentenced on December 21, 1964 to four months in a [[workhouse]]; he was set free on [[bail]] during the [[appeal]]s process and died before the appeal was decided. Solomon later saw his conviction overturned; Bruce, who died before the decision, never had his conviction stricken.&lt;ref&gt;''People v. Solomon'', 26 N.Y.2d. 621.&lt;/ref&gt; Bruce later received a full posthumous [[gubernatorial]] pardon.
+
+==Later years==
+[[File:Lenny Bruce at the Fillmore.jpg|thumb|Poster for Bruce's last series of performances, which took place at [[The Fillmore]] in San Francisco on June 24 and 25, 1966.]]
+
+Despite his prominence as a comedian, Bruce appeared on network television only six times in his life.&lt;ref name=paley&gt;{{cite web|title=The Museum of Television &amp; Radio Presents Two Five-Letter Words: Lenny Bruce|url=http://www.paleycenter.org/pressrelease-2004-lenny-bruce|website=[[The Paley Center for Media]]|accessdate=19 November 2014}}&lt;/ref&gt; In his later club performances, Bruce was known for relating the details of his encounters with the police directly in his comedy routine. These performances often included rants about his court battles over obscenity charges, tirades against [[fascism]] and complaints that he was being denied his right to [[freedom of speech]].
+
+Bruce was banned outright from several U.S. cities, and in September 1962, his only visit to Australia caused a media storm - although, contrary to popular belief, he was not banned, nor was he forced to leave the country. Bruce was booked for a two-week engagement at Aaron's Exchange Hotel, a small pub in central [[Sydney, New South Wales]] by the American-born, Australian-based promoter [[Lee Gordon (promoter)|Lee Gordon]], who was by then deeply in debt, nearing the end of his formerly successful career, and desperate to save his business.
+
+Bruce's first show at 9pm on 6 September was uneventful, but his second show at 11pm led to a major public controversy. Bruce was heckled by audience members during his performance, and when local actress, Barbara Wyndon, stood up and complained that Bruce was only talking about America, and asked him to talk about something different, a clearly annoyed Bruce responded "Fuck you, madam. That's different, isn't it?" His remark shocked some members of the audience and several walked out. By the next day the local press had blown the incident up into a major controversy, with several Sydney papers denouncing Bruce as "sick" and one even illustrating their story with a retouched photograph appearing to show Bruce giving a fascist salute. The venue owners immediately cancelled the rest of Bruce's performances, and he retreated to his Kings Cross hotel room. Local university students (including future [[Oz magazine]] editor [[Richard Neville (writer)|Richard Neville]]) who were fans of Bruce's humour tried to arrange a performance at the Roundhouse at the [[University of New South Wales]], but at the last minute the university's Vice-Chancellor rescinded permission to use the venue, with no reason given.&lt;ref&gt;Richard Neville, ''Hippie Hippie Shake'' (William Heinemann Australia, 1995, ISBN 085615230), pp. 21-22.&lt;/ref&gt; and an interview he was scheduled to give on Australian television was cancelled in advance by the [[Australian Broadcasting Commission]].&lt;ref&gt;Goldman, p. 372.&lt;/ref&gt; Bruce remained largely confined to his hotel, but eight days later Bruce gave his third and last Australian concert at the [[Wintergarden Theatre]] in Sydney's eastern suburbs. Although the theatre had a capacity of 2100, only 200 people attended, including a strong police presence, and in the event Bruce gave what was described as a "subdued" performance. It was long rumoured that a [https://www.youtube.com/watch?v=vC05aUlFXOE|tape recording] of Bruce's historic performance was made by police, but it was in fact recorded by a local jazz saxophonist, Sid Powell, who brought a portable tape recorder to the show. The tape was rediscovered in 2011 in the possession of Australian singer [[Sammy Gaha]], who had acted as Bruce's chauffeur during his visit, and it was subsequently donated to the Lenny Bruce audio collection at [[Brandeis University]]. Bruce left the country a few days later and spoke little about the experience afterwards.&lt;ref&gt;{{cite web|url=http://www.revolve.com.au/pdfs/lennybruce.pdf|title= Derek Strahan, "When I opened for Lenny Bruce in Australia", revolve.com, (accessed 2017-05-22)|publisher=|accessdate=19 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://dictionaryofsydney.org/entry/lenny_bruces_visit_to_sydney_1962|title=Lenny Bruce's visit to Sydney 1962|website=dictionaryofsydney.org|accessdate=19 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://michaeladamswrites.files.wordpress.com/2015/05/lenny-bruce.pdf|title=MIchael Adams, "When Lenny Met Sydney", michaeladamswrites wordpress site (accessed 2017-05-22)|publisher=|accessdate=19 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.abc.net.au/radionational/programs/booksandarts/lenny-bruce-and-his-ill-fated-sydney-tour/4636758|title=Lenny Bruce and his ill-fated Sydney tour|date=18 April 2013|publisher=|accessdate=19 June 2017}}&lt;/ref&gt;
+
+Increasing drug use also affected his health. By 1966, he had been [[blacklist]]ed by nearly every nightclub in the United States, as owners feared prosecution for obscenity. Bruce gave a famous performance at the [[Berkeley Community Theatre]] in December 1965. It was recorded and became his last live album, titled ''The Berkeley Concert''; his performance here has been described as lucid, clear and calm, and one of his best. His last performance took place on June 25, 1966, at The Fillmore Auditorium in San Francisco, on a bill with Frank Zappa and [[The Mothers of Invention]].&lt;ref name="graham"&gt;{{cite book | url=https://books.google.com/books?id=wnZ0qL3QdkgC&amp;pg=PA159&amp;dq=Lenny+Bruce+fillmore+%22whacked+out+on+amphetamines&amp;hl=en&amp;sa=X&amp;ei=68xrVLj3IImzyQTJuYHAAw&amp;ved=0CCMQ6AEwAQ#v=onepage&amp;q=%22whacked%20out%20on%20amphetamines%22&amp;f=false | title=Bill Graham Presents: My Life Inside Rock and Out | publisher=Da Capo Press | date=2004 | accessdate=18 November 2014 |author1=Graham, Bill | author1link = Bill Graham (promoter)|author2=Greenfield, Robert| author2link =Robert Greenfield| pages=156 | isbn=978-0306813498}}&lt;/ref&gt; The performance was not remembered fondly by [[Bill Graham (promoter)|Bill Graham]], whose memoir describes Bruce as "whacked out on [[amphetamines|amphetamine]]";&lt;ref&gt;Graham, p. 159.&lt;/ref&gt; Graham thought that Bruce finished his set emotionally disturbed. Zappa asked Bruce to sign his [[draft card]], but the suspicious Bruce refused.&lt;ref name="zappa"&gt;{{cite book | url=https://books.google.com/books?id=FB0O_HCpBy0C&amp;pg=PA69&amp;dq=Zappa+asked+lenny+bruce+to+sign+his+draft+card&amp;hl=en&amp;sa=X&amp;ei=7CdsVKixN8OBygS5-IDYCw&amp;ved=0CCcQ6AEwAg#v=onepage&amp;q=Zappa%20asked%20lenny%20bruce%20to%20sign%20his%20draft%20card&amp;f=false | title=The Real Frank Zappa Book | publisher=Simon and Schuster |author1=Zappa, Frank |author2=Occhiogrosso, Peter | year=1989 | pages=69 | isbn=9780671705725}}&lt;/ref&gt;
+
+At the request of Hugh Hefner and with the aid of [[Paul Krassner]], Bruce wrote an autobiography. Serialized in ''[[Playboy]]'' in 1964 and 1965, this material was later published as the book ''How to Talk Dirty and Influence People''.&lt;ref name=watts&gt;{{cite book|last1=Watts|first1=Steven|title=Mr Playboy: Hugh Hefner and the American Dream|date=2009|publisher=John Wiley &amp; Sons|isbn=9780470501375|page=190|url=https://books.google.com/books?id=m5b_eM3twmEC&amp;pg=PA190&amp;dq=how+to+talk+dirty+and+influence+people+lenny+bruce+hefner+serialized+in+playboy&amp;hl=en&amp;sa=X&amp;ei=dx1tVMbEL82AygSdwIL4Cw&amp;ved=0CDAQ6AEwAA#v=onepage&amp;q=how%20to%20talk%20dirty%20and%20influence%20people%20lenny%20bruce%20hefner%20serialized%20in%20playboy&amp;f=false}}&lt;/ref&gt; Hefner had long assisted Bruce's career, featuring him in the television debut of ''[[Playboy's Penthouse]]'' in October 1959.
+
+During this time, Bruce also contributed a number of articles to Paul Krassner's satirical magazine ''[[The Realist]]''.&lt;ref&gt;{{cite web|title=The Realist Archive Project|url=http://www.ep.tc/realist/index.html}} Issues 15, 41, 48, 54.&lt;/ref&gt;
+
+==Death and posthumous pardon==
+[[File:LennyBruce Grave.JPG|thumb|Bruce's grave at [[Eden Memorial Park Cemetery]] in [[Mission Hills, California]]]]
+On August 3, 1966, a bearded Lenny Bruce was found dead in the bathroom of his [[Hollywood Hills]] home at 8825 W. Hollywood Blvd.&lt;ref name=Obituary&gt;{{cite news|last=AP|title=Obituary|url=https://www.nytimes.com/learning/general/onthisday/bday/1013.html|accessdate=28 November 2011|newspaper=New York Times|date=August 4, 1966}}&lt;/ref&gt;  The official photo, taken at the scene, showed Bruce lying naked on the floor, a syringe and burned bottle cap nearby, along with various other [[narcotic]]s paraphernalia. Record producer [[Phil Spector]], a friend of Bruce, bought the negatives of the photographs "to keep them from the press". The official cause of death was "acute [[morphine]] poisoning caused by an overdose."&lt;ref&gt;{{Cite book|title=The Trials of Lenny Bruce: The Fall and Rise of an American Icon|last1=Collins|first1=Ronald|last2=Skover |first2=David|year=2002|publisher=Sourcebooks Mediafusion|isbn=1-57071-986-1|page=340}}&lt;/ref&gt;
+
+His remains were interred in [[Eden Memorial Park Cemetery]] in [[Mission Hills, California]], but an unconventional memorial on August 21 was controversial enough to keep his name in the spotlight. The service saw over 500 people pay their respects, led by Spector. Cemetery officials had tried to block the ceremony after advertisements for the event encouraged attendees to bring box lunches and noisemakers. [[Dick Schaap]] eulogized Bruce in ''Playboy'', with the memorable last line: "One last four-letter word for Lenny: Dead. At forty. ''That's'' obscene."
+
+His epitaph reads: "Beloved father – devoted son/Peace at last."
+
+Bruce has one daughter.&lt;ref&gt;{{cite news|last=Fox|first=Margalit|title=Honey Bruce Friedman, 78, Entertainer and 'Lenny's Shady Lady'|url=https://www.nytimes.com/2005/09/20/arts/20friedman.html|work=New York Times|date=September 20, 2005|page=A27|access-date=August 20, 2017}}.&lt;/ref&gt;&lt;ref name=pd&gt;{{cite news |author=O'Malley, Ryan, |url=http://www.timesleader.com/pittstondispatch/news/Lenny_Bruce_rsquo_s_daughter_reaching_out_10-04-2009.html |archiveurl=https://web.archive.org/web/20111123024059/http://www.timesleader.com/pittstondispatch/news/Lenny_Bruce_rsquo_s_daughter_reaching_out_10-04-2009.html |archivedate=2011-11-23 |title=Lenny Bruce's daughter reaching out: Pittston resident Kitty Bruce hopes to help women in recovery with "Lenny's House"|newspaper=Pittston Dispatch|location=[[Pittston, Pennsylvania]] |accessdate=2013-06-18}}&lt;/ref&gt;
+
+At the time of his death, his girlfriend was comedian [[Lotus Weinstock]].&lt;ref&gt;Weide, Bob. [http://www.duckprods.com/weide/lotusremembrance.html "A Lotus by Any other Name"], Whyaduck Productions, 1998, n.d.&lt;/ref&gt;
+
+On December 23, 2003, 37 years after Bruce's death, [[New York Governor]] George Pataki granted him a posthumous [[pardon]] for his obscenity conviction.&lt;ref&gt;Minnis, Glenn [http://www.cbsnews.com/stories/2003/12/23/entertainment/main590005.shtml "Lenny Bruce Pardoned"], [[CBS News]]/[[Associated Press]], December 23, 2003.&lt;/ref&gt;&lt;ref name="totn-hentoff"&gt;{{cite web
+| url = https://www.npr.org/templates/story/story.php?storyId=1567644
+| title = Lenny Bruce Pardoned: Interview with Nat Hentoff (with audio link)
+| work = [[Talk of the Nation]]
+| publisher = [[National Public Radio]]
+| last = Conan | first = Neal
+| date = 2003-12-23
+| accessdate = 2010-01-18
+}}&lt;/ref&gt; &lt;!--following a petition filed by Ronald Collins and David Skover with Robert Corn-Revere as counsel, the petition having been signed by several stars such as [[Robin Williams]]. It was the first posthumous pardon in the state's history. Pataki said his act was "a declaration of New York's commitment to upholding the [[First Amendment to the United States Constitution|First Amendment]]."--&gt;
+
+==Legacy==
+{{quote box
+| align = right
+| width = 30em
+| bgcolor = LightCyan
+| quote = {{spaces|4}}Perhaps the most profound and cataclysmic change in our popular culture the last few years{{mdash}}matching the "new sound" in music{{mdash}}has been the kind of humor exemplified by the [[Smothers Brothers]], ''[[Laugh-In]]'', [[Woody Allen]], and that whole breed, whose secret source of strength was the late dark angel, Lenny Bruce.&lt;br&gt;{{spaces|4}}Bruce was the [[Gertrude Stein]] of comedians. Never popular himself{{mdash}}because he was too cryptic and too scatological for popular taste{{mdash}}he nevertheless influenced a whole generation of comics, just as Stein influenced Hemingway and that generation of writers. Her own work was a dead end (so was Bruce's), but out of that compost grew the buds of a flourishing school.
+| source = {{right|—syndicated columnist [[Sydney J. Harris]], November 5, 1969.&lt;ref&gt;Harris, Sydney J. ''Rochester Democrat and Chronicle'', November 5, 1969, p. 36.&lt;/ref&gt;}}
+}}
+Bruce was the subject of the 1974 biographical film ''[[Lenny (film)|Lenny]]'', directed by [[Bob Fosse]] and starring [[Dustin Hoffman]] (in an [[Academy Award for Best Actor|Academy Award-nominated Best Actor]] role), and based on the [[Broadway theatre|Broadway]] stage play of the same name written by [[Julian Barry]] and starring [[Cliff Gorman]] in his 1972 [[Tony Award]] winning role.  In addition, the main character's editing of a fictionalized film version of ''Lenny'' was a major part of Fosse's own biopic, the 1979 Academy Award-nominated ''[[All That Jazz (film)|All That Jazz]].
+
+The documentary ''Lenny Bruce: Swear to Tell the Truth'', directed by [[Robert B. Weide]] and narrated by [[Robert De Niro]], was released in 1998. It was nominated for the [[Academy Award for Best Documentary Feature]]
+
+In 2004, [[Comedy Central]] listed Bruce at number three on its list of the 100 Greatest Stand-Ups of All-Time, placing above Woody Allen (4th) and below Richard Pryor (1st) and George Carlin (2nd).&lt;ref&gt;{{cite web|url=http://www.listology.com/list/comedy-central-100-greatest-standups-all-time |title=List of Comedy Central's 100 Greatest Stand-Ups of All Time |publisher=listology.com |date= |accessdate=2014-04-14}}&lt;/ref&gt; Both comedians who ranked higher than Bruce considered him a major influence; Pryor said that hearing Bruce for the first time "changed my life,"&lt;ref&gt;{{Cite news|url=http://www.contactmusic.com/richard-pryor/news/pryor.-i-owe-it-all-to-lenny-bruce|title=Pryor: I Owe It All To Lenny Bruce|date=2004-05-21|work=Contactmusic.com|access-date=2018-04-22|language=en-US}}&lt;/ref&gt; while Carlin was arrested along with Bruce after refusing to provide identification when police raided a Bruce performance.&lt;ref&gt;{{cite episode|title=Profanity|series=Penn &amp; Teller: Bullshit!|network=[[Showtime (TV network)|Showtime]]|season=2|number=10|episodelink=List of Bullshit! episodes|serieslink=Penn &amp; Teller: Bullshit!|airdate=August 12, 2004}}&lt;/ref&gt;
+
+==In popular culture==
+{{in popular culture|date=March 2018}}
+* In 1966, [[Grace Slick]] co-wrote and sang the [[The Great Society (band)|Great Society]] song "Father Bruce".
+* In comedian [[Allan Sherman]]'s song Return to Camp Granada, Sherman mentions that Bruce is scheduled to perform at the camp because "the boys are all tired of Mother Goose".  Like the song's previous incarnation [[Hello Muddah, Hello Fadduh (A Letter from Camp)]] which also enumerates many of the various abominable atrocities occurring at Camp Granada, the song's implication is that parents would be horrified that such an "adult-themed" performer would actually be deemed acceptable entertainment for impressionable young boys at a youth camp, further indicating how despicably debauched and alarmingly "loosely" the camp is being run.
+* Bruce is pictured in the top row of the cover of the Beatles 1967 album ''[[List of images on the cover of Sgt. Pepper's Lonely Hearts Club Band|Sgt. Pepper's Lonely Hearts Club Band]]''&lt;ref&gt;{{cite web|author=Roger Griffiths |url=http://math.mercyhurst.edu/~griff/sgtpepper/people.html |title=Who Are They? |publisher=Math.mercyhurst.edu |date=2006-01-06 |accessdate=2013-12-05}}&lt;/ref&gt;
+* The clip of a news broadcast featured in "[[7 O'Clock News/Silent Night]]" by [[Simon &amp; Garfunkel]] carries the ostensible newscast audio of Lenny Bruce's death. In another track on the album ''[[Parsley, Sage, Rosemary and Thyme]]'', "[[A Simple Desultory Philippic (Or How I Was Robert MacNamara'd Into Submission)]]", [[Paul Simon]] sings, "... I learned the truth from Lenny Bruce, that all my wealth won't buy me health."&lt;ref&gt;{{cite web|author=Bruce Eder |url=http://www.allmusic.com/album/parsley-sage-rosemary-and-thyme-mw0000191849 |title=allmusic album review |publisher=Allmusic.com |date= |accessdate=2013-12-05}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://lyricsplayground.com/alpha/songs/a/asimpledesultoryphilippic.shtml |title=song lyrics |publisher=Lyricsplayground.com |date=2007-10-10 |accessdate=2013-12-05}}&lt;/ref&gt;
+* [[Tim Hardin]]'s fourth album ''[[Tim Hardin 3 Live in Concert]]'', released in 1968, includes his song ''Lenny's Tune'' written about his friend Lenny Bruce.&lt;ref&gt;{{cite web|author=Richie Unterberger |url=http://www.allmusic.com/album/tim-hardin-3-live-in-concert-mw0000274253 |title=Tim Hardin Live 3 in Concert allmusic album review |publisher=Allmusic.com |date=1968-04-10 |accessdate=2013-12-05}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=vKMi6RzThs0 |title=youtube |publisher=youtube |date= |accessdate=2013-12-05}}&lt;/ref&gt;
+* [[Nico]]'s 1967 album ''[[Chelsea Girl (album)|Chelsea Girl]]'' includes a track entitled "Eulogy to Lenny Bruce", which was "Lenny's Tune" by Tim Hardin, with the lyrics slightly altered. In it she describes her sorrow and anger at Bruce's death.&lt;ref&gt;{{cite web|url=https://www.sputnikmusic.com/review/49431/Nico-Chelsea-Girl/ |title=sputnikmusic album review |publisher=Sputnikmusic.com |date=2012-04-27 |accessdate=2013-12-05}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://ladygarfunkel.wordpress.com/2011/05/18/eulogy-to-lenny-bruce/ |title=song lyrics |publisher=Ladygarfunkel.wordpress.com |date=2011-05-18 |accessdate=2013-12-05}}&lt;/ref&gt;
+* In the 1979 movie ''[[All That Jazz (film)|All That Jazz]]'', Joe Gideon (alter-ego of the film's director Bob Fosse) is editing a ''Lenny''-like movie, paralleling Fosse's real-life editing of ''Lenny''. The film is criticized in ''All That Jazz'', precipitating Gideon's heart attack, again paralleling the heart attack Fosse suffered while working on ''Lenny''.
+* Bob Dylan's 1981 song "Lenny Bruce" from his ''[[Shot of Love]]'' album describes a brief taxi ride shared by the two men. In the last line of the song, Dylan recalls: "Lenny Bruce was bad, he was the brother that you never had."&lt;ref&gt;{{cite news|author=Paul Nelson |url=https://www.rollingstone.com/music/albumreviews/shot-of-love-19811015 |title=Rolling Stone review |publisher=Rollingstone.com |date=1981-10-15 |accessdate=2013-12-05}}&lt;/ref&gt;&lt;ref&gt;[http://www.metrolyrics.com/lenny-bruce-lyrics-bob-dylan.html] song lyrics&lt;/ref&gt;
+* [[Phil Ochs]] wrote a song eulogizing the late comedian, titled "Doesn't Lenny Live Here Anymore?". The song is featured on his 1969 album ''[[Rehearsals for Retirement]]''.
+* [[R.E.M.]]'s 1987 song "[[It's the End of the World as We Know It (And I Feel Fine)]]" includes references to a quartet of famous people all sharing the initials L.B. with Lenny Bruce being one of them (the others being [[Leonard Bernstein]], [[Leonid Brezhnev]] and [[Lester Bangs]]). The opening line of the song mentioning Bruce goes, "...That's great, it starts with an earthquake, birds and snakes, an aeroplane, and Lenny Bruce is not afraid."&lt;ref&gt;Ventre, Michael (2005-10-29). {{cite web|url=http://www.msnbc.msn.com/id/6362112/ |title="Turn up the volume and cast your vote: Songs to inspire you for Election Day 2004" |accessdate=2006-09-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20041104045400/http://www.msnbc.msn.com/id/6362112/ |archivedate=November 4, 2004 |df= }}. MSNBC. Archived from the original on 2004-11-04. Retrieved 2006-09-01.&lt;/ref&gt;
+* Lenny Bruce appears as a character in [[Don DeLillo]]'s 1997 novel ''[[Underworld (DeLillo novel)|Underworld]]''. In the novel, Bruce does a stand-up routine about the [[Cuban Missile Crisis]].
+* [[Genesis (band)|Genesis]]' 1974 song "Broadway Melody of 1974" depicts a dystopic New York where "Lenny Bruce declares a truce and plays his other hand, Marshall McLuhan, casual viewin', head buried in the sand" and "Groucho, with his movies trailing, stands alone with his punchline failing".
+* The front cover of [[Marillion]]'s 1987 album "[[Clutching at Straws]]" pictures Lenny Bruce at a bar accompanied by several other famous personalities such as [[Dylan Thomas]], [[Truman Capote]] and [[Robert Burns]], all of whom died relatively young. The back cover includes [[John Lennon]], [[James Dean]] and [[Jack Kerouac]].
+* [[Emily Haines]] sings in the band [[Metric (band)|Metric]]'s song "On The Sly" that, "for Halloween I want to be Lenny Bruce"
+* [[The Stranglers]]' single "[[No More Heroes (The Stranglers song)|No More Heroes]]" includes the line "Whatever happened to dear old Lenny?" and although this does not specifically refer to Lenny Bruce, the live version featured on the album ''[[Live (X Cert)]]'' says "Whatever happened to dear old Lenny Bruce?"
+* Lenny Bruce is listed as a bohemian idol in the song "La Vie Bohème" from the musical ''[[Rent (musical)|Rent]]''
+* The British rapper [[Scroobius Pip]] mentions Bruce in the "Introdiction" to the album ''[[Distraction Pieces]]'': "If I say fuck a lot well then I may gain more attention. If I say cunt well then with some of you there will be tension. I find this interesting ´cause in the end these are just words You give them power when you cower man it´s so absurd. But all that was covered by Lenny Bruce back in the day. Nothing's original now I´m repeating what I say."
+* [[Joy Zipper]]'s 2005 album ''[[The Heartlight Set]]'' features a track named "For Lenny's Own Pleasure."&lt;ref&gt;{{cite web|title=Joy Zipper – For Lenny's Own Pleasure|url=http://songmeanings.com/songs/view/3530822107858582585/|website=Song Meanings|accessdate=28 February 2015}}&lt;/ref&gt;
+* [[Nada Surf]]'s song "Imaginary Friends" (from their 2005 album ''[[The Weight Is a Gift]]'') references Lenny Bruce in its lyrics: "Lenny Bruce's bug eyes stare from an LP, asking me just what kind of fight I've got in me".&lt;ref&gt;{{cite web|title=Nada Surf – Imaginary Friends|url=http://songmeanings.com/songs/view/3530822107858555464/|website=Song Meanings|accessdate=21 August 2016}}&lt;/ref&gt;
+* [[John Mayall]]'s album ''[[The Turning Point (John Mayall album)|The Turning Point]]'' (1969) contains an opening track titled "The Laws Must Change" where he references Lenny Bruce. The lyrics are "Lenny Bruce was trying to tell you/ Many things before he died/ Don't throw rocks at policemen/ But get the knots of law untied".
+* [[Shmaltz Brewing Company]] brews a year-round beer called Bittersweet Lenny's R.I.P.A. and the tagline is "Brewed with an obscene amount of hops."&lt;ref&gt;{{cite web |url=http://www.shmaltzbrewing.com/HEBREW/lennys.html |title=Archived copy |accessdate=2013-07-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20091031191856/http://www.shmaltzbrewing.com/HEBREW/lennys.html |archivedate=2009-10-31 |df= }}&lt;/ref&gt;
+* [[Steve Earle]]'s 2004 song "F the CC" contains the lyrics "Dirty Lenny died so we could all be free."
+* ''[[Freedom of Speech: Lessons from Lenny Bruce]]'' is a play based on Bruce's legacy.
+* Lenny Bruce appears as a character in the 2017 [[Amazon Prime]] series ''[[The Marvelous Mrs. Maisel]]''. Played by [[Luke Kirby]], Bruce is portrayed as an inspiration and source of encouragement to the titular character Miriam Maisel, as she decides to launch a career as a stand-up comedian.
+
+==Bibliography==
+&lt;!--* Bruce, Lenny. ''Stamp Help Out!'' (1961 and/or 1965, self-published and sold at his concerts and in bookshops including [[City Lights Bookstore]] in [[San Francisco]])--&gt;
+* Bruce, Lenny. ''Stamp Help Out!'' (Self-published pamphlet, 1962)
+* Bruce, Lenny. ''[[How to Talk Dirty and Influence People]]'' ([[Playboy]] Publishing, 1967)
+** Autobiography, released posthumously.
+
+'''By others:'''
+* [[Julian Barry|Barry, Julian]]. ''Lenny'' (play) (Grove Press, Inc. 1971)
+* [[Honey Harlow|Bruce, Honey]].  ''Honey: The Life and Loves of Lenny's Shady Lady'' (Playboy Press, 1976, with Dana Benenson)
+* Bruce, Kitty.  ''The (almost) Unpublished Lenny Bruce'' (1984, Running Press) (includes a graphically spruced up reproduction of 'Stamp Help Out!')
+* Cohen, John, ed., compiler. ''The Essential Lenny Bruce'' (Ballantine Books, 1967)
+*[[Ronald K. L. Collins|Collins, Ronald]] and [[David Skover]], ''The Trials of Lenny Bruce: The Fall &amp; Rise of an American Icon'' (Sourcebooks, 2002)&lt;ref&gt;{{cite web |url=http://classes.seattleu.edu/law/professors/skover/trialsoflennybruce/index.htm |title=Seattle University |publisher=Classes.seattleu.edu |date= |accessdate=2013-12-05 |deadurl=yes |archiveurl=https://web.archive.org/web/20120822162034/http://classes.seattleu.edu/law/professors/skover/trialsoflennybruce/index.htm |archivedate=2012-08-22 |df= }}&lt;/ref&gt;
+*[[Don DeLillo|DeLillo, Don]]. ''[[Underworld (DeLillo novel)|Underworld]]'', (Simon and Schuster Inc., 1997)
+*[[Bradley Denton|Denton, Bradley]]. ''[[The Calvin Coolidge Home for Dead Comedians]]'', an award-winning collection of [[science fiction]] stories in which [[The Calvin Coolidge Home For Dead Comedians|the title story]] has Lenny Bruce as one of the two protagonists.
+*[[Albert Goldman|Goldman, Albert]], with [[Lawrence Schiller]]. ''Ladies and Gentlemen—Lenny Bruce!!'' (Random House, 1974)
+*[[Jonathan Goldstein (author)|Goldstein, Jonathan]]. ''[[Lenny Bruce Is Dead]]'' (Coach House Press, 2001)
+* Josepher, Brian. ''What the Psychic Saw'' (Sterlinghouse Publisher, 2005)
+*[[Frank Kofsky|Kofsky, Frank]]. ''Lenny Bruce: The Comedian as Social Critic &amp; Secular Moralist'' (Monad Press, 1974)
+* Kringas, Damian. ''Lenny Bruce: 13 Days In Sydney'' (Independence Jones Guerilla Press, Sydney, 2010) A study of Bruce's ill-fated September 1962 tour down under.
+* Marciniak, Vwadek P., ''Politics, Humor and the Counterculture: Laughter in the Age of Decay'' (New York etc., Peter Lang, 2008).
+* Marmo, Ronnie, with [[Jason M. Burns]].  ''I'm Not a Comedian, I'm Lenny Bruce'' (Play directed by [[Joe Mantegna]], 2017)
+* Smith, Valerie Kohler. ''Lenny'' (novelization based on the Barry-scripted/Fosse-directed film) (Grove Press, Inc., 1974)
+* Thomas, William Karl. ''Lenny Bruce: The Making of a Prophet'' [http://www.mediamaestro.net/lenny.htm] Memoir and pictures from Bruce's principal collaborator. First printing, Archon Books, 1989; second printing, Media Maestro, 2002; Japanese edition, DHC Corp. Tokyo, 2001.
+
+==Filmography==
+{| class="wikitable"
+|-
+! Year !! Title !! Role !! Notes
+|-
+| rowspan=2| 1953 || ''[[Walking My Baby Back Home (film)|Walking My Baby Back Home]]'' || Writer || Uncredited
+|-
+| ''[[Dance Hall Racket]]'' || Vincent || rowspan=2| Directed by [[Phil Tucker]]
+|-
+| rowspan=2| 1954 || ''Dream Follies'' || Willie/The Foreign Chef / Screenplay | 
+|-
+| ''[[The Rocket Man (film)|The Rocket Man]]'' || Screenplay || Directed by [[Oscar Rudolph]]
+|-
+| 1955 || ''The Leather Jacket'' || Actor / Writer || 20 minutes of a feature film project that lost funding and was never completed
+|-
+| 1959 || ''One Night Stand: The World of Lenny Bruce'' || Himself / Writer || TV Special
+|-
+| 1967 || ''The Lenny Bruce Performance Film'' || Himself / Writer || Filmed in San Francisco 1966, includes ''Thank You Mask Man'', VHS 1992 / DVD 2005 / Download
+|-
+| rowspan=2| 1971 || ''[[Thank You Mask Man]]'' || Voice of 'The Lone Ranger' / Writer / Director || Animated short film by John Magnuson Associates
+|-
+| ''[[Dynamite Chicken]]'' || Himself || Sketch comedy film starring [[Richard Pryor]]
+|-
+| 1972 || ''Lenny Bruce Without Tears'' || Himself || Documentary directed by Fred Baker, VHS 1992 / DVD 2005 / Download 2013
+|-
+| 1974 || ''[[Lenny (film)|Lenny]]'' || Biography directed by [[Bob Fosse]] and starring [[Dustin Hoffman]] as Lenny || Hoffman was nominated for:
+* Academy Award for Best Actor
+* BAFTA Award for Best Actor in a Leading Role
+* Golden Globe Award for Best Actor—Motion Picture Drama
+|-
+| 1984 || ''A Toast to Lenny Bruce'' || Himself || TV tribute available on LaserDisc / VHS
+|-
+| 1998 || ''[[Lenny Bruce: Swear to Tell the Truth]]'' || Himself || Academy Award nominated documentary directed by [[Robert B. Weide]], narrated by [[Robert De Niro]]
+|-
+| 2011 || ''Looking for Lenny'' || Himself || Documentary featuring interviews with [[Mort Sahl]], [[Phyllis Diller]], [[Lewis Black]], [[Richard Lewis (comedian)|Richard Lewis]], [[Sandra Bernhard]], [[Jonathan Winters]], [[Robert Klein]], [[Shelley Berman]] and others, North American Premiere [[Toronto Jewish Film Festival]] May 2011, Screened at Paris Beat Generation Days April 2011
+|}
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|-
+! Year !! Title !! Label !! Format !! Notes
+|-
+| 1958 || ''Interviews of Our Times'' || rowspan="4"| [[Fantasy Records]] || LP / LP 1969 / CD 1991 / Download || 2 tracks feature [[Henry Jacobs]] &amp; Woody Leifer, liner notes by Horace Sprott III &amp; [[Sleepy John Estes]]
+|-
+| 1959 || ''The Sick Humor of Lenny Bruce'' || LP / LP/8-Track 1984 / CD 1991, 2012 &amp; 2017 / Download 2010 || rowspan="3"| Liner notes by [[Ralph J. Gleason]]
+|-
+| 1960 || ''I Am Not a Nut, Elect Me! (Togetherness)'' || LP / CD 1991 / Download
+|-
+| 1961 || ''American'' || LP / CD 1991, 2013 &amp; 2016 / Download
+|-
+| 1964 || ''Lenny Bruce Is Out Again'' || Lenny Bruce || rowspan="2"| LP / Download 2004 || Self-published live recordings from 1958–1963
+|-
+| 1966 || ''Lenny Bruce Is Out Again'' || [[Philles Records]] || Totally different version PHLP-4010, produced by [[Phil Spector]]
+|}
+
+===Posthumous Releases===
+{| class="wikitable"
+|-
+! Year !! Title !! Label !! Format !! Notes
+|-
+| 1966 || ''Why Did Lenny Bruce Die?'' || [[Capitol Records]] || LP / LP 1974 / Download 2014 || Interviews and recordings by [[Lawrence Schiller]], Lionel Olay and Richard Warren Lewis
+|-
+| 1967 || ''Lenny Bruce'' || [[United Artists Records]] || LP / LP 1986 || Recorded Feb. 4, 1961, edited, reissued as ''In Concert At Carnegie Hall''
+|-
+| 1968 || ''The Essential Lenny Bruce Politics'' || [[Douglas Records]] || LP / Download 2007 || Clips edited together with archival audio for historical context
+|-
+| 1969 || ''The Berkeley Concert'' || [[Bizarre Records]]/[[Reprise Records]] || 2xLP / 2xLP 1971 / Cassette 1991 / CD 1989, 2004 &amp; 2017 / Download 2005 || Recorded Dec. 12, 1965, produced by John Judnich and [[Frank Zappa]]
+|-
+| 1970 || ''To Is A Preposition; Come Is A Verb'' || Douglas Records || LP / LP 1971, 1975 &amp; 2004 / CD 2000 &amp; 2002 / Download 2005 &amp; 2007 || Recorded 1961–1964, LP reissues titled ''What I Was Arrested For''
+|-
+| 1971 || ''Live at the Curran Theater'' || Fantasy Records || 3xLP / 2xCD 1999 &amp; 2017 / Download 2006 || Recorded Nov. 19, 1961
+|-
+| 1972 || ''Carnegie Hall'' || United Artists Records || 3xLP / 2xCD 1995 / Download 2015 || Recorded Feb. 4, 1961, unabridged
+|-
+| 1974 || ''The Law, Language And Lenny Bruce'' || [[Warner-Spector Records]] || LP / Cassette || Produced by Phil Spector
+|-
+| 1992 || ''Lenny Bruce'' || [[Rhino Entertainment]] || CD / CD 2005 || Soundtrack From "The Lenny Bruce Performance Film" and reissued as ''Live in San Francisco 1966''
+|-
+| 1995 || ''Live 1962: Busted!'' || Viper's Nest Records || CD / Download 2010 &amp; 2018 || Recorded Dec. 4, 1962 at Chicago [[Gate of Horn]], reissued as ''Dirty Words - Live 1962'' &amp; ''The Man That Shocked Britain: Gate of Horn, Chicago, December 1962''
+|-
+| 2004 || ''Let the Buyer Beware'' || [[Shout! Factory]] || 6xCD/Book || Previously unreleased material, produced by [[Hal Willner]]
+|}
+
+===Compilations===
+{| class="wikitable"
+|-
+! Year !! Title !! Label !! Format !! Notes
+|-
+| 1962 || ''The Best Of Lenny Bruce'' || rowspan="6"| Fantasy Records || LP / Cassette 1990 / LP 1995 || 
+|-
+| 1972 || ''Thank You Masked Man'' || LP / CD 2004 &amp; 2005 || Enhanced CD with ''Thank You Masked Man'' short film
+|-
+| 1975 || ''The Real Lenny Bruce'' || 2xLP || Gatefold with inserts and poster
+|-
+| 1982 || ''Unexpurgated : The Best Of Lenny Bruce'' || LP || 
+|-
+| rowspan="2"| 1991 || ''The Lenny Bruce Originals Volume 1'' || rowspan="2"| CD / CD 1992 &amp; 1997 / Download 2006 / CD 2013 || Reissue of first and second albums
+|-
+| ''The Lenny Bruce Originals Volume 2'' || Reissue of third and fourth albums
+|-
+| 2011 || ''Classic Album Collection'' || Golden Stars || 3xCD 2012 || First 4 albums with 4 bonus tracks
+|-
+| rowspan="3"| 2013 || ''Great Audio Moments, Vol. 33: Lenny Bruce'' || rowspan="3"| Global Journey || rowspan="3"| Download || 22 tracks, 105 minutes
+|-
+| ''Great Audio Moments, Vol. 33: Lenny Bruce Pt. 1'' || 9 tracks, 39 minutes
+|-
+| ''Great Audio Moments, Vol. 33: Lenny Bruce Pt. 2'' || 9 tracks, 43 minutes
+|-
+| 2016 || ''Four Classic Albums Plus Bonus Tracks'' || [[Real Gone Music]] || 4xCD || First 4 albums with bonus tracks
+|}
+
+===Audiobooks===
+{| class="wikitable"
+|-
+! Year !! Title !! Label !! Format !! Notes
+|-
+| 2000 || ''Shut Your Mouth And Open Your Mind – The Rise &amp; Reckless Fall Of Lenny Bruce'' || Chrome Dreams || CD / CD 2001 &amp; 2005 / CD/Download 2006 / CD 2017 || Biography read by Robin Clifford, stand up by Lenny and voices of people who knew him.
+|-
+| 2002 || ''[[The Trials of Lenny Bruce]]'' || [[Sourcebooks MediaFusion]] || CD/Book || Features excerpts of Lenny's never-before-released trial tapes
+|-
+| 2016 || Lenny Bruce: ''How to Talk Dirty and Influence People: An Autobiography'' || [[Hachette Audio]] || Download / CD 2017 || Read by Ronnie Marmo, Preface by [[Lewis Black]] &amp; Forward by [[Howard Reich]]
+|}
+
+===Tribute Albums===
+{| class="wikitable"
+|-
+! Year !! Title !! Label !! Format !! Notes
+|-
+| 1972 || [[Jarl Kulle]]: ''Som Lenny Bruce - Varför Gömmer Du Dig I Häcken?'' || [[Polar Music]] || 2xLP || Swedish actor performing Lenny, title translates to ''Like Lenny Bruce - Why are you hiding in the hedge?''
+|}
+
+==See also==
+{{Portal|Comedy|United States Navy|Biography}}
+* [[List of civil rights leaders]]
+* ''[[Dirtymouth]]'', a 1970 biographical film about Bruce
+
+==Footnotes==
+{{Reflist|30em}}
+
+==References==
+*{{cite journal|jstor=376395 |title=JSTOR: College English: Vol. 38, No. 5, Literacy and Basics (January, 1977), pp. 517–519 |journal=}}
+*{{cite web|url=http://concise.britannica.com/ebc/article-9358140/Lenny-Bruce|title=Lenny Bruce: Britannica Concise |accessdate=March 27, 2006}}
+*{{cite web|url=http://bartelby.org/65/br/Bruce-Le.html|title=Bruce, Lenny – The Columbia Encyclopedia, Sixth Edition. 2001–05 |accessdate=March 27, 2006}}
+*{{cite web|url=http://www.who2.com/lennybruce.html|title=Lenny Bruce: A Who2 Profile |accessdate=March 27, 2006}}
+*{{cite web|url=http://www.nndb.com/people/406/000022340/|title=Lenny Bruce |accessdate=March 27, 2006}}
+*{{cite web|url=http://www.genesis-discography.org/Glyricsframe.htm|title=A Genesis Discography |accessdate=September 14, 2012}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.lennybruceofficial.com The Official Lenny Bruce Website]
+* [https://vault.fbi.gov/Lenny%20Bruce FBI Records: The Vault - Lenny Bruce] at fbi.gov
+* {{IMDb name|id=0115533|name=Lenny Bruce}}
+* {{Find a Grave|140}}
+* {{Discogs artist|artist=448451-Lenny-Bruce|Lenny Bruce}}
+* [http://catalog.nypl.org/record=b18018600~S1 Correspondence and Other Papers Pertaining to Lenny Bruce's Drug Case], held by the Billy Rose Theatre Division, [[New York Public Library for the Performing Arts]]
+
+; Articles
+* [http://www.law.umkc.edu/faculty/projects/ftrials/bruce/bruce.html "Famous Trials: The Lenny Bruce Trial, 1964"], [[University of Missouri - Kansas City]] School of Law. Includes Linder, Douglas, "The Lenny Bruce Trial: An Account", 2003. [https://www.webcitation.org/5sZSwGDo9?url=http://www.law.umkc.edu/faculty/projects/ftrials/bruce/bruce.html WebCitation archive].
+* Azlant, Edward. [http://www.sheckymagazine.com/azlant.htm "Lenny Bruce Again"], ''Shecky Magazine'', August 22, 2006
+* Gilmore, John. [http://www.johngilmore.com/Celebrities/lennybruce.html "Lenny Bruce and the Bunny"], excerpt from ''Laid Bare: A Memoir of Wrecked Lives and the Hollywood Death Trip'' (Amok Books, 1997). {{ISBN|978-1-878923-08-0}}
+* Harnisch, Larry. [http://latimesblogs.latimes.com/thedailymirror/2007/04/voices.html "Voices"], ''[[Los Angeles Times]]'', April 13, 2007. (Reminiscences by saxophonist Dave Pell)
+* Kaufman, Anthony. {{webarchive |url=https://web.archive.org/web/20080416222400/http://www.indiewire.com/people/int_Weide_Robert_981023.html |date=April 16, 2008 |title="Robert Weide's 'Lenny Bruce': 12 Years in-the-Negotiations" }} (interview with ''Swear to Tell the Truth'' producer), Indiewire.com, April 16, 2008
+* [[Nat Hentoff|Hentoff, Nat]]. [http://www.gadflyonline.com/archive/MarchApril01/archive-lennybruce.html "Lenny Bruce: The crucifixion of a true believer"], ''Gadfly'' March/April 2001
+* Sloan, Will. [https://web.archive.org/web/20141109162056/http://penguinrandomhouse.ca/hazlitt/feature/lenny-bruce-funny "Is Lenny Bruce Still Funny?"], ''Hazlitt'', November 4, 2014
+* Smith, Daniel V. [http://lennybruce.angelfire.com/chronology.html "The Complete Lenny Bruce Chronology"] (fan site)
+* [http://www.mediamaestro.net/lenny.htm "Lenny Bruce: The Making of a Prophet"] Memoir and pictures from Bruce's principal collaborator, Media Maestro 2001.
+* [http://www.ukcia.org/potculture/61/pot.html The Pot Smokers], a satirical article by Lenny Bruce, reprinted in The (Almost) Unpublished Lenny Bruce
+* [http://www.ukcia.org/potculture/61/idiom.html Idioms for Marijuana Cigarettes], by Lenny Bruce, reprinted in The (Almost) Unpublished Lenny Bruce
+* [http://tomdegan.blogspot.com/2006/08/lenny-bruce-remembering-comic-genius_25.html], Lenny Bruce: Remembering a Comic Genius - by Tom Degan
+* {{cite web | url = http://dictionaryofsydney.org/entry/lenny_bruces_visit_to_sydney_1962 | title = Lenny Bruce's visit to Sydney 1962 | accessdate = 2 October 2015 | author = Kringas, Damian | date = 2012 | work=[[Dictionary of Sydney]]}} &lt;nowiki&gt;[&lt;/nowiki&gt;[[Creative Commons license|CC-By-SA]]&lt;nowiki&gt;]&lt;/nowiki&gt;
+
+=== Audio/video ===
+* [https://web.archive.org/web/20080416222400/http://www.indiewire.com/people/int_Weide_Robert_981023.html "Come and Gone/Thank you, Mr. Masked Man!"], My KPFA – A Historical Footnote (1961 Jazz Workshop performance and two 1963 performances)
+* [http://law2.umkc.edu/faculty/projects/ftrials/bruce/brucevideo.html Video Clips Relating to the Trial of Lenny Bruce] as assembled by the [[University of Missouri-Kansas City]] Law School
+
+{{Sexual revolution}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bruce, Lenny}}
+[[Category:Lenny Bruce| ]]
+[[Category:1925 births]]
+[[Category:1966 deaths]]
+[[Category:20th-century American comedians]]
+[[Category:Accidental deaths in California]]
+[[Category:American humorists]]
+[[Category:Jewish American comedians]]
+[[Category:American male comedians]]
+[[Category:American memoirists]]
+[[Category:American military personnel of World War II]]
+[[Category:American satirists]]
+[[Category:American social commentators]]
+[[Category:American stand-up comedians]]
+[[Category:American anti-fascists]]
+[[Category:Anti-nationalists]]
+[[Category:Beat Generation people]]
+[[Category:Burials at Eden Memorial Park Cemetery]]
+[[Category:Censorship in the arts]]
+[[Category:Comedians from New York (state)]]
+[[Category:Counterculture of the 1960s]]
+[[Category:Critics of the Catholic Church]]
+[[Category:Drug-related deaths in California]]
+[[Category:Free speech activists]]
+[[Category:Freedom of speech in the United States]]
+[[Category:Jewish male comedians]]
+[[Category:Obscenity controversies]]
+[[Category:People from Bellmore, New York]]
+[[Category:People from Greenwich Village]]
+[[Category:People from Mineola, New York]]
+[[Category:People who have received posthumous pardons]]
+[[Category:Philles Records artists]]
+[[Category:Recipients of American gubernatorial pardons]]
+[[Category:Social critics]]
+[[Category:United States Navy sailors]]</text>
+      <sha1>geb8e3sq67qtdxl9kgudt9llg0msko5</sha1>
+    </revision>
+  </page>
+</mediawiki>

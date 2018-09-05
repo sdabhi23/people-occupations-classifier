@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bob Marley (comedian)</title>
+    <ns>0</ns>
+    <id>4074577</id>
+    <revision>
+      <id>846749743</id>
+      <parentid>844719035</parentid>
+      <timestamp>2018-06-20T17:25:11Z</timestamp>
+      <contributor>
+        <username>Walor</username>
+        <id>3252575</id>
+      </contributor>
+      <comment>[[MOS:NICKNAME]] common hypocorism; [[MOS:JR]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6485">{{for|the reggae performer|Bob Marley}}
+
+{{Infobox writer &lt;!-- For more information see [[:Template:Infobox Writer/doc]]. --&gt;
+| name          = Bob Marley
+| image         =
+| alt           =
+| caption       =
+| pseudonym     =
+| birth_name    = Robert Cochrane Marley, Jr
+| birth_date    = April 4, 1967
+| birth_place   = [[Portland, Maine]], United States
+| death_date    = 
+| death_place   = 
+| resting_place =
+| occupation    = Comedian, actor
+| language      =  
+| nationality   = 
+| citizenship   = 
+| education     =
+| alma_mater    = [[University of Maine at Farmington]]
+| period        =
+| genre         =
+| subject       =
+| movement      =
+| notableworks  = The Jorey Pinkerton Program
+| spouse        =
+| partner       = 
+| children      =
+| relatives     =
+| awards        =
+| signature     = 
+| signature_alt =
+| website       = {{url|www.bmarley.com}}
+| portaldisp    =
+| imagesize     =
+| influences    =
+| influenced    =
+}}
+
+'''Robert Cochrane Marley Jr.''' (born April 4, 1967) is an American comedian. He has appeared on ''[[The David Letterman Show]]'', ''[[Late Night with Conan O'Brien]]'', and [[Comedy Central]]. He can be seen in the film ''[[The Boondock Saints]]''. He also goes by the name "Billy".
+
+==Personal background==
+In an interview with ''Columbus Alive'', Marley said that his "dad had no idea there was a singer named [[Bob Marley]]." &lt;ref&gt;{{cite web |url=http://www.columbusalive.com/live/content/features/stories/2009/01/15/ca_ar_laugh.html |title=Bob Marley-Maine Comedian |last1=Wilson |first1=PF |last2= |first2= |date=2009-01-15 |website= |publisher=Columbus Alive |accessdate=6 July 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20110727142658/http://www.columbusalive.com/live/content/features/stories/2009/01/15/ca_ar_laugh.html |archivedate=27 July 2011 |df= }}&lt;/ref&gt;
+
+He was born in [[Portland, Maine]]. He graduated from [[Deering High School]] in 1985. Marley then attended the [[University of Maine at Farmington]]. However, even in college, he knew that he wanted to pursue comedy as his career. {{Citation needed|date=July 2013}}
+
+==Career==
+Marley's comedic bits are mostly about life in [[Maine]]. His first television appearance was on [[Comedy Central]]. He also appeared as Detective Greenly in the movie ''[[The Boondock Saints]]'', and reprised his role as Detective Greenly in ''[[The Boondock Saints II: All Saints Day]]''.
+ 
+He has hosted on [[Sirius Satellite Radio|XM Radio]] channels 97, Blue Collar Radio, and 99, RawDog Comedy; and, as of 2013, appears weekly on Coast 93.1-WMGX in Portland, Maine, in a segment called "The World According to Bob." {{Citation needed|date=July 2013}}
+
+==Personal achievements==
+On Thursday, September 23, 2010, at 11:02pm EDT, Marley entered the ''[[Guinness Book of World Records]]'' with the longest continuous standup routine, beating the record held by Lindsay Webb from Australia. He completed 40 hours of standup comedy, the first 17 hours and 14 minutes without any repetition of material.&lt;ref&gt;{{cite web |url=http://www.aolnews.com/2010/09/24/no-joke-comedian-breaks-stand-up-routine-record/ |title=No Joke: Comedian Breaks Stand-Up Routine Record |last1=Moye |first1=David |last2= |first2= |date=2010-09-24 |website= |publisher=AOL News/The Huffington Post |accessdate=7 July 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20110124033907/http://www.aolnews.com/2010/09/24/no-joke-comedian-breaks-stand-up-routine-record/ |archivedate=24 January 2011 |df= }}&lt;/ref&gt; Marley's record was broken by David Scott on April 30, 2013 with a time of 40 hours and 8 minutes.&lt;ref&gt;{{cite web |url=http://www.guinnessworldrecords.com/world-records/9000/longest-stand-up-comedy-show-by-an-individual- |title=Longest stand-up comedy show by an individual |last1= |first1= |last2= |first2= |date=2013-04-30|website= |publisher=Guinness World Records |accessdate=7 July 2013}}&lt;/ref&gt;
+
+==Television==
+* ''Badly Dubbed Porn''
+* ''The Dink Show with Tyler Dama''
+* ''Spider Man: Return Of The Mongos''
+* ''[[Late Show with David Letterman]]''
+* ''[[Late Night with Conan O'Brien]]''
+* ''[[The Late Late Show (U.S.)|The Late Late Show with Craig Kilborn]]''
+* ''[[MADtv|MAD TV]]''
+* ''[[Prime Time Live]] with [[Diane Sawyer]]''
+* ''NBC's  Showcase''
+* ''[[Rodney Dangerfield]]'s Comedy Cure'' on TBS
+* ''Mars and Venus'' with [[Cybill Shepherd]]
+* ''[[The Martin Short Show]]''
+* ''[[Comedy Central Presents]]''
+* ''[[Shorties Watchin' Shorties]]''
+* ''[[The Late Late Show (U.S.)|The Late Late Show]]''
+* ''[[Comics Unleashed]]''
+* ''[[Late Night with Jimmy Fallon]]''
+
+==Filmography==
+* ''[[The Breaks (film)|The Breaks]]'' (1999)
+* ''[[The Boondock Saints]]'' (1999)
+* ''Liar's Club'' (2001)
+* ''[[The Boondock Saints II: All Saints Day]]'' (2009)
+
+==Discography==
+* ''3000 Shows Later'' (1997)
+* ''All New Stuff'' (1998)
+* ''Up Against the Brick Wall'' (1999)
+* ''Sold Out!'' (2000)
+* ''Live at Merrill Auditorium'' (2001)
+* ''Comedian Bob Marley Live'' (previously released material) (2002)
+* ''I'm Tellin' You'' (2002)
+* ''Dude...Don't Be Such a Dink!'' (2003)
+* ''Greatest Hits Vol.1'' (DVD) (2003)
+* ''Put the Boots to 'Er'' (2004)
+* ''Greatest Hits Vol.2'' (DVD) (2004)
+* ''Upta Camp'' (2005)
+* ''Greatest Hits Vol.3'' (DVD) (2005)
+* ''Naughty Pine'' aka ''Worldwide'' (CD/DVD combo) (2006)
+* ''Don't Feed The Native'' (previously released material) (2006)
+* ''Goin' Up the Faya'' (2007)
+* ''Big Mouth Bob'' (CD/DVD combo) (2008)
+* ''Runamuck'' (2008)
+* ''Maine-iac on the Loose'' (2008)
+* ''Drop It Haahd'' (CD/DVD combo) (2009)
+* ''15 Years In Comedy'' (box set) (2009)
+* ''Weirdo'' (2010)
+* ''Minivan Owner'' (CD/DVD combo) (2010)
+* ''New England's King Of Comedy'' (2011)
+* ''Guinness World Champ'' (CD/DVD Combo) (2011)
+* ''Irish Curse'' (2011)
+* ''Wicked Funny'' with ''Greatest Hits Vol.4'' (CD/DVD combo) (2012)
+* ''Traveling Hooligan'' (2013)
+* ''Mouth Farts'' (2014)
+* '' Down One Nut'' (2015)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.bmarley.com Bob Marley's official homepage]
+* {{IMDb name|0549125|name=Bob Marley}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marley, Bob (Comedian)}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:American male comedians]]
+[[Category:People from Bangor, Maine]]
+[[Category:Male actors from Portland, Maine]]
+[[Category:University of Maine at Farmington alumni]]
+[[Category:20th-century American comedians]]
+[[Category:21st-century American comedians]]
+[[Category:Comedians from Maine]]</text>
+      <sha1>kyysyungw6m9wnwzve4bvjuuobjorx9</sha1>
+    </revision>
+  </page>
+</mediawiki>

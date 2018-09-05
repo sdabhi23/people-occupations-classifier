@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Milo Burcham</title>
+    <ns>0</ns>
+    <id>78037</id>
+    <revision>
+      <id>846439707</id>
+      <parentid>786621756</parentid>
+      <timestamp>2018-06-18T20:07:30Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:American aviators]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2442">{{Unreferenced|date=December 2009}}
+[[Image:Milo-Burcham XP-80 gov.jpg|right|thumb|250px|[[Clarence Johnson]] (right) congratulates Milo Burcham on the successful first flight of the [[P-80 Shooting Star|XP-80 Shooting Star]].]]
+
+'''Milo Garrett Burcham''' (May 24, 1903 - October 20, 1944) was an American [[aviator]]. He worked as a [[Stunt performer|stunt pilot]], airshow pilot, and [[test pilot]].
+
+Burcham was born in [[Cadiz, Indiana|Cadiz]], [[Indiana]], and grew up in [[Whittier, California]] in the eastern [[Los Angeles, California|Los Angeles]] basin. Burcham sold [[burglar alarm]]s of his own design to finance flying lessons from the [[O'Donnell School of Aviation]] in [[Long Beach, California]], where he became chief instructor. In 1933, Burcham and Lt. Tito Falconi of the Italian Air Service competed in setting inverted flight endurance records. Burcham's flight of 4 h 5 min 22 s that December was not broken until July 24, 1991 when U.S. airshow pilot [[Joann Osterud]] set a new world's record of 4 h 38 min 10 s. In 1936, Burcham flew his [[Boeing P-12|Boeing 100]] to the World's [[Aerobatic Championship]] at the National Air Races in Los Angeles.
+
+In 1941, Burcham joined [[Lockheed Corporation|Lockheed]] as a production test pilot and spent a year as chief pilot of Lockheed's operations in England. He became chief engineering test pilot a few years later, and in that capacity was served as copilot on the first flight of the [[Lockheed Constellation|Constellation]] on January 8, 1943. On January 9, 1944, he turned the first flight of ''Lulu-Belle'', the [[P-80 Shooting Star|XP-80]] prototype, into a thrilling low-level airshow before a crowd of military and civilian VIPs at [[Muroc Army Air Base]] (now Edwards AFB).
+
+On October 20, 1944 Burcham was flying the third production prototype YP-80 from [[Lockheed Air Terminal]] in [[Burbank, California]]. The engine flamed-out on takeoff and the airplane crashed, killing him. 
+
+He is buried in [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Cemetery]] in [[Glendale, California]].
+
+{{DEFAULTSORT:Burcham, Milo}}
+[[Category:1903 births]]
+[[Category:1944 deaths]]
+[[Category:Aviators from Indiana]]
+[[Category:Aviators killed in aviation accidents or incidents in the United States]]
+[[Category:Lockheed people]]
+[[Category:Accidental deaths in California]]
+[[Category:American test pilots]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]</text>
+      <sha1>ra8a2ua5cucug3ha53fapweguwumiiv</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,167 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mathias Rust</title>
+    <ns>0</ns>
+    <id>20900</id>
+    <revision>
+      <id>846727899</id>
+      <parentid>845297485</parentid>
+      <timestamp>2018-06-20T14:46:31Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: [[User:KolbertBot|HTTP→HTTPS]] (v485)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21796">{{Use dmy dates|date=October 2014}}
+{{Use British English|date=May 2018}}
+{{Infobox person
+|name=Mathias Rust
+|image= 4134Mathias Rust.JPG
+|caption=Rust in 2012
+|birth_date={{birth date and age|1968|6|1|df=yes}}
+|birth_place=[[Wedel]], [[Schleswig-Holstein]], [[West Germany]]
+|nationality=German
+|known_for=Illegally landing a small aircraft on [[Moscow]]'s [[Red Square]].
+}}
+
+'''Mathias Rust''' (born 1 June 1968) is a German [[aviator]] known for his illegal landing near [[Red Square]] in [[Moscow]] on 28 May 1987. An amateur pilot, the teenager flew from [[Helsinki]], Finland, to Moscow, being tracked several times by Soviet air defence and interceptors. The Soviet fighters never received permission to shoot him down, and several times his aeroplane was mistaken for a friendly aircraft. He landed on Vasilevsky Descent next to Red Square near the [[Moscow Kremlin|Kremlin]] in the capital of the [[Soviet Union]].
+
+Rust said he wanted to create an "imaginary bridge" to [[Eastern Bloc|the East]], and he has said that his flight was intended to reduce tension and suspicion between the two [[Cold War]] sides.&lt;ref name="airspacemag"&gt;{{cite news |last=LeCompte |first=Tom |date=July 2005 |title=The Notorious Flight of Mathias Rust |url=http://www.airspacemag.com/history-of-flight/the-notorious-flight-of-mathias-rust-7101888/?all |newspaper=[[Air &amp; Space/Smithsonian]] |location=[[Washington, D.C.]] |publisher=[[Smithsonian Institution]] |accessdate=4 April 2009}}&lt;/ref&gt;&lt;ref name="BBCNews"&gt;{{cite news |last=Hadjimatheou |first=Chloe |date=7 December 2012 |title=Mathias Rust: German teenager who flew to Red Square |url=https://www.bbc.co.uk/news/magazine-20609795 |publisher=[[BBC World Service]] |accessdate=17 March 2014}}&lt;/ref&gt;
+
+Rust's flight through a supposedly impenetrable air defence system had great effect on the Soviet military and led to the dismissal of many senior officers, including [[Minister of Defence (Soviet Union)|Minister of Defence]] [[Marshal of the Soviet Union]] [[Sergey Leonidovich Sokolov|Sergei Sokolov]] and the Commander-in-Chief of the [[Soviet Air Defence Forces]], former [[World War II]] fighter ace pilot [[Chief Marshal]] [[Alexander Koldunov]]. The incident aided [[Mikhail Gorbachev]] in the implementation of [[Perestroika|his reforms]], by allowing him to dismiss numerous military officials opposed to his policies. Rust was sentenced to four years in prison (for violation of [[border crossing]] and [[air traffic]] regulations, and provoking an emergency situation upon his landing). He was officially [[pardon]]ed by the [[Chairman of the Presidium of the Supreme Soviet]] [[Andrei Gromyko]], and released after 14 months in prison.&lt;ref name="airspacemag" /&gt;&lt;ref name="BBCNews" /&gt;
+
+==Flight profile==
+[[File:Flugroute von Mathias Rust.svg|thumb|Flight path]]
+Rust, aged 18, was an inexperienced pilot, with about 50 hours of flying experience at the time of his flight. On 13 May 1987, Rust left [[Uetersen Airport|Uetersen]] near [[Hamburg]] and his home town [[Wedel]] in his rented [[Cessna 172|Reims Cessna F172P]] D-ECJB, which was modified by removing some of the seats and replacing them with auxiliary fuel tanks. He spent the next two weeks travelling across Northern Europe, visiting the [[Faroe islands]], spending a week in Iceland, and then visiting [[Bergen]] on his way back. He was later quoted as saying that he had the idea of attempting to reach Moscow even before the departure, and he saw the trip to Iceland (where he visited [[Hofdi House]], the site of [[Reykjavík Summit|unsuccessful talks]] between the United States and the Soviet Union in October 1986) as a way to test his piloting skills.&lt;ref name="airspacemag" /&gt;
+
+On the morning of 28 May 1987, Rust refuelled at [[Helsinki-Malmi Airport]]. He told [[air traffic control]] that he was going to [[Stockholm]], and took off at 12:21&amp;nbsp;p.m. Immediately after his final communication with traffic control he turned his plane to the east near [[Nummela (Vihti)|Nummela]]. Air traffic controllers tried to contact him as he was moving around the busy Helsinki–Moscow route, but Rust turned off all his communications equipment.&lt;ref name="airspacemag"/&gt;&lt;ref&gt;{{cite web|url = http://www.coptercrazy.scsuk.net/production/rcessna/172/f172-42.htm |title = Listing of Production Reims F172|accessdate = 23 December 2007|last = coptercrazy|authorlink = |date = n.d.|archiveurl = https://web.archive.org/web/20050314122837/http://www.coptercrazy.scsuk.net/production/rcessna/172/f172-42.htm |archivedate = 14 March 2005}}&lt;/ref&gt;
+
+Rust disappeared from the Finnish air traffic radar near [[Espoo]].&lt;ref name="airspacemag"/&gt; Control personnel presumed an emergency and a rescue effort was organized, including a [[Finnish Border Guard]] patrol boat. They found an oil patch near [[Sipoo]] where Rust disappeared from radar, and performed an underwater search with no results.
+
+Rust crossed the [[Baltic Sea|Baltic]] coastline over Estonia and turned towards [[Moscow]]. At 14:29 he appeared on [[Soviet Air Defence Forces]] (PVO) radar and, after failure to reply to an [[Identification friend or foe|IFF]] signal, was assigned combat number 8255. Three [[Surface-to-air missile|SAM]] battalions of [[54th Air Defense Corps|54th Air Defence Corps]] tracked him for some time, but failed to obtain permission to launch at him.&lt;ref&gt;{{Cite news|url=https://www.gazeta.ru/army/2017/05/28/10696505.shtml|title=Руста прикрыли облака|last=Khodarenok|first=Mikhail|date=28 May 2017|work=Gazeta.ru|access-date=25 November 2017|language=Russian|trans-title=Rust hidden by clouds}}&lt;/ref&gt; All air defences were brought to readiness and two [[Interceptor aircraft|interceptors]] were sent to investigate. At 14:48 near [[Gdov]] one of the pilots observed a white sport plane similar to a [[Yakovlev Yak-12]] and asked for permission to engage, but was denied.&lt;ref name="airspacemag"/&gt;
+
+The fighters lost contact with Rust soon after this. While they were being directed back to him he disappeared from radar near [[Staraya Russa]]. West German magazine ''[[Bunte]]'' speculated that he might have landed there for some time, noting that he changed his clothes during his flight and that he took too much time to fly to Moscow considering his plane's speed and the weather conditions.
+
+Air defence re-established contact with Rust's plane several times but confusion followed all of these events. The PVO system had shortly before been divided into several districts, which simplified management but created additional overhead for tracking officers at the districts' borders. The local air regiment near [[Pskov]] was on maneuvers and, due to inexperienced pilots' tendency to forget correct [[Identification friend or foe|IFF]] designator settings, local control officers assigned all traffic in the area friendly status, including Rust.&lt;ref name="airspacemag"/&gt;
+
+Near [[Torzhok]] there was a similar situation, as increased air traffic was created by a rescue effort for an air crash the previous day. Rust, flying a slow propeller-driven aircraft, was confused with one of the helicopters taking part in the rescue. He was spotted several more times and given false friendly recognition twice. Rust was considered as a domestic training plane defying regulations, and was issued least priority.&lt;ref name="airspacemag"/&gt;
+
+Around 7:00&amp;nbsp;p.m. Rust appeared above Moscow. He had initially intended to land in the [[Moscow Kremlin|Kremlin]], but he reasoned that landing inside, hidden by the Kremlin walls, would have allowed the KGB to arrest him and deny the incident. Therefore, he changed his landing spot to [[Red Square]].&lt;ref name="airspacemag"/&gt; Heavy pedestrian traffic did not allow him to land there either, so after circling about the square one more time, he was able to land on [[Bolshoy Moskvoretsky Bridge]] by [[St. Basil's Cathedral]]. A later inquiry found that [[trolleybus]] wires normally strung over the bridge—which would have  prevented his landing there—had been removed for maintenance that morning, and were replaced the next day.&lt;ref name="airspacemag"/&gt; After taxiing past the cathedral he stopped about {{convert|100|m}} from the square, where he was greeted by curious passersby and was asked for autographs. When asked where he was from, he replied "Germany" making the bystanders think he was from [[East Germany]]; but when he said [[West Germany]], they were surprised.&lt;ref name=FAZ/&gt; A British doctor videotaped Rust circling over Red Square and landing on the bridge.&lt;ref name=FAZ/&gt; Rust was arrested two hours later.&lt;ref&gt;{{cite news |last=Rehrmann |first=Marc-Oliver |date=26 June 2009 |title=Der Kremlflieger Mathias Rust kehrt zurück |trans-title=The Kremlin Flyer Mathias Rust returns |url=http://www.ndr.de/geschichte/mathiasrust2.html |language=German |location=[[Hamburg]] |publisher=[[Norddeutscher Rundfunk]] |accessdate=17 March 2014}}&lt;/ref&gt;
+
+==Aftermath==
+[[File:Cessna 172 D-ECJB of Mathias Rust.jpg|thumb|''D-ECJB'' at the [[German Museum of Technology|Deutsches Technikmuseum]] in Berlin (2010)]]
+Rust's trial began in Moscow on 2 September 1987. He was sentenced to four years in a general-regime labour camp for [[hooliganism]], for disregard of [[aviation law]]s, and for breaching the Soviet border.&lt;ref&gt;{{cite news |last=Barringer |first=Felicity |date=9 December 1987 |title=German in Red Square Flight Is Denied a Pardon |url=https://www.nytimes.com/1987/12/09/world/german-in-red-square-flight-is-denied-a-pardon.html |newspaper=[[The New York Times]] |accessdate=17 March 2014}}&lt;/ref&gt; He was never transferred to a labour camp, and instead served his time at the high security [[Lefortovo Prison|Lefortovo]] temporary detention facility in Moscow. Two months later, Reagan and Gorbachev agreed to sign a [[Intermediate-Range Nuclear Forces Treaty|treaty to eliminate intermediate-range nuclear weapons in Europe]], and the Supreme Soviet ordered Rust to be released in August 1988 as a goodwill gesture to the [[Western Bloc|West]].&lt;ref name="airspacemag" /&gt;
+
+Rust's return to Germany on 3 August 1988 was accompanied by huge media attention, but he did not talk to the assembled journalists; his family had sold the exclusive rights to the story to the German magazine ''[[Stern (magazine)|Stern]]'' for [[Deutsche Mark|DM]] 100,000.&lt;ref name=FAZ /&gt; He reported that he had been treated well in the Soviet prison. Journalists described him as "psychologically unstable and unworldly in a dangerous manner".&lt;ref name=FAZ /&gt;
+
+[[William Eldridge Odom|William E. Odom]], former director of the U.S. [[National Security Agency]] and author of ''The Collapse of the Soviet Military'', says that Rust's flight irreparably damaged the reputation of the Soviet military. This enabled Gorbachev to remove many of the strongest opponents to his reforms. Minister of Defence [[Sergey Sokolov (commander)|Sergei Sokolov]] and the head of the Soviet Air Defence Forces [[Alexander Koldunov]] were dismissed along with hundreds of other officers. This was the biggest turnover in the Soviet military since [[Great Purge|Stalin's purges]] 50 years earlier.&lt;ref name="airspacemag" /&gt;&lt;ref&gt;{{Cite journal | doi = 10.1080/14682740701197631| title = Perestroika and the End of the Cold War| journal = Cold War History| volume = 7| pages = 1| year = 2007| last1 = Brown | first1 = A. }}&lt;/ref&gt;
+
+Rust's rented Reims Cessna F172P (serial #F17202087),&lt;ref&gt;[[Deutsches Technikmuseum]] (14 May 2009), [http://www.sdtb.de/fileadmin/user_upload/_tem/02_Ausstellungen/01_Dauerausstellungen/06_Luft-_und_Raumfahrt/03_Cessna/MI_Daten_und_Fakten_Cessna_F_172_P_final.pdf Cessna F 172 P „Skyhawk II"], retrieved 18 October 2012&lt;/ref&gt; [[aircraft registration|registered]] ''D-ECJB'', was sold to Japan where it was exhibited for several years. In 2008 it was returned to Germany and was placed in the [[German Museum of Technology|Deutsches Technikmuseum]] in [[Berlin]].&lt;ref&gt;[http://jetphotos.net/viewphoto.php?id=6738463&amp;nseq=1 Reims Cessna F172P, D-ECJB, in the Deutsches Technikmuseum, 2009] {{webarchive|url=https://web.archive.org/web/20110722065932/http://jetphotos.net/viewphoto.php?id=6738463&amp;nseq=1 |date=22 July 2011 }}.&lt;/ref&gt;&lt;ref&gt;[http://www.sdtb.de/Cessna-172.1482.0.html Himmelfahrt zum Roten Platz – Deutsches Technikmuseum zeigt Cessna 172, mit der Mathias Rust 1987 in Moskau landete]&lt;/ref&gt;
+
+==Later life==
+While doing his obligatory community service (''[[Zivildienst]]'') in a West German hospital in 1989, Rust stabbed a female co-worker who had rejected him. The victim barely survived. He was convicted of attempted manslaughter and sentenced to two and a half years in prison, but was released after 15 months.&lt;ref name = "wz"/&gt; Since then he has lived a fragmented life, describing himself as a "bit of an oddball."&lt;ref name="guardianmay14" /&gt; After being released from court, he [[converted to Hinduism]] in 1996 to become engaged to a daughter of an [[India]]n tea [[merchant]].&lt;ref&gt;{{cite news |last=Connolly |first=Kate |date=21 April 2001 |title=German daredevil grounded by court |url=https://www.theguardian.com/world/2001/apr/21/kateconnolly |newspaper=[[The Guardian]] |location=London |accessdate=17 March 2014}}&lt;/ref&gt; In 2001, he was convicted of stealing a [[cashmere wool|cashmere]] pullover and ordered to pay a fine of [[Deutsche Mark|DM]] 10,000, which was later reduced to DM 600.&lt;ref name=FAZ&gt;{{cite news |last=Locke |first=Stefan |date=12 May 2012 |title=Der lange Irrflug der Friedenstaube |trans-title=The long erratic flight of the peace dove |url=http://www.faz.net/aktuell/gesellschaft/kreml-flieger-mathias-rust-der-lange-irrflug-der-friedenstaube-11749475.html |language=German |newspaper=[[Frankfurter Allgemeine Zeitung]] |location=Frankfurt |accessdate=17 March 2014}}&lt;/ref&gt;&lt;ref name = "wz"/&gt; A further brush with the law came in 2005, when he was convicted of fraud and had to pay €1,500 for stolen goods.&lt;ref name="wz"&gt;{{cite news |last1=Krüger |first1=Ralf E. |last2=Grages |first2=Anna |date=25 May 2007 |title=Moskau-Flug: Der Kremlflieger pokert hoch |trans-title=The Kremlin Flyer raises the stakes |url=http://www.wz-newsline.de/home/gesellschaft/leute/moskau-flug-der-kremlflieger-pokert-hoch-1.465404 |language=German |newspaper=Westdeutsche Zeitung|accessdate=17 March 2014}}&lt;/ref&gt;  In 2009 Rust described himself as a professional [[poker]] player.&lt;ref name="spiegel"&gt;{{cite news |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=6 June 2009 |title=Kreml-Flieger Rust: "750.000 Euro beim Pokern gewonnen" |trans-title=Kremlin Flyer Rust: "I won 750,000 Euros playing poker" |url=http://www.spiegel.de/panorama/leute/kreml-flieger-rust-750-000-euro-beim-pokern-gewonnen-a-628964.html |language=German |newspaper=[[Spiegel Online]] |accessdate=6 June 2009}}&lt;/ref&gt; Most recently, in 2012, he described himself as an [[Financial analyst|analyst]] at a [[Zurich]]-based [[investment bank]].&lt;ref name="guardianmay14"&gt;{{cite news |last=Connolly |first=Kate |date=14 May 2012 |title=German who flew to Red Square during cold war admits it was irresponsible |url=https://www.theguardian.com/world/2012/may/14/german-red-square-cold-war |newspaper=[[The Guardian]] |location=[[London]] |accessdate=14 May 2012}}&lt;/ref&gt;
+
+=== Peace activism ===
+
+In October 2015, ''[[The Hindu]]'' published an interview with Mathias Rust to mark the 25th anniversary of German reunification. Mathias Rust surmised that [[Government failure|institutional failures]] in Western countries to preserve moral standards and uphold the primacy of democratic ideals was creating mistrust between peoples and governments. Pointing to the genesis of a [[Cold War II|New Cold War]] between Russia and the Western powers, Mathias Rust suggested that India should tread with caution and avoid entanglement: "India will be better served if it follows a policy of neutrality while interacting with EU member countries as the big European powers at present are following the foreign policy of the U.S. unquestioningly". Mathias Rust drew attention to the ''casus belli'' which is fuelling Euroscepticism: "Governments have been dominated by the corporate entities and citizens have ceased to matter in public policy".&lt;ref&gt;{{cite news|title=contributed to ending the Cold War, with his daring|url=http://www.thehindu.com/news/national/cold-war-is-back-peace-activist/article7720749.ece|newspaper=The Hindu|date=4 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=The Teenage Pilot Who Could Have Caused a Global Crisis|url=http://time.com/3889327/drones-mathias-rust-red-square/|magazine=[[Time (magazine)|Time]]|date=28 May 2015}}&lt;/ref&gt;
+
+== In popular culture ==
+Because Rust's flight seemed like a blow to the authority of the Soviet regime, it was the source of numerous jokes and [[urban legends]]. For a while after the incident, Red Square was jokingly referred to by Muscovites as [[Sheremetyevo]]-3 (Sheremetyevo-1 and -2 being the two terminals at Moscow's main international airport).&lt;ref&gt;{{cite news |last=Bushansky |first=Valentin |date=28 May 2008 |title=10 фактов о Матиасе Русте ко Дню пограничника |trans-title=10 Facts about Mathias Rust on Border Guard's Day |url=http://fraza.ua/news/28.05.08/51446.html |language=Russian |publisher=Fraza |accessdate=17 March 2014}}&lt;/ref&gt;  At the end of 1987, the [[Ten-code|police radio code]] used by law enforcement officers in Moscow was allegedly updated to include a code for an aircraft landing.&lt;ref&gt;{{cite web|url=http://www.internet-law.ru/info/humour/mb15.htm|script-title=ru:Милицейские байки. 15-й десяток|language=Russian}}&lt;/ref&gt;
+
+Shortly after the incident, [[SubLogic]], the original publishers of the ''[[Microsoft Flight Simulator|Flight Simulator]]'' franchise, issued a scenery disk that expanded the original program's coverage area to include the [[Eastern Bloc]]. A challenge in the expansion pack was to land in Red Square as Rust had just done.&lt;ref&gt;{{cite web |url=http://www.mobygames.com/game/scenery-disk-western-european-tour |title=Scenery Disk "Western European Tour" |author=&lt;!--Staff writer(s); no by-line.--&gt; |publisher=[[MobyGames]] |accessdate=16 March 2014}}&lt;/ref&gt;
+
+==In the media==
+Following the 20th anniversary of his flight on 28 May 2007, the international media interviewed Rust about the flight and its aftermath.
+
+''[[The Washington Post]]'' and ''[[Bild]]'' both have online editions of their interviews.&lt;ref&gt;{{cite news |last=Finn |first=Peter |date=27 May 2007 |title=A Dubious Diplomat |url=https://www.washingtonpost.com/wp-dyn/content/article/2007/05/26/AR2007052601262.html |newspaper=[[The Washington Post]] |accessdate=17 March 2014}}&lt;/ref&gt; The most comprehensive televised interview available online is produced by the [[DR (broadcaster)|Danish Broadcasting Corporation]]. In their interview ''Rust in Red Square'', recorded in May 2007, Rust gives a full account of the flight in English.&lt;ref&gt;{{YouTube|id=10SPHevZFZY|title=Mathias Rust INTERVIEW | date=28 May 2007}}&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category}}
+* [https://www.youtube.com/watch?v=9TXIGfL2iFw Excerpts of video capturing Rust's flying and landing in Moscow]
+* [http://www.dr.dk/Tema/rust/english/index.htm Rust in Red Square] (English) about the flight and the aftermath. Interview clips are embedded in a flash presentation. (October 2007)
+* [https://www.youtube.com/watch?v=aerA5oLif3k TV Interview 2007 on YouTube] English interview in Danish news cast eng/eng subs (28 May 2007)
+* [http://www.airspacemag.com/history-of-flight/rust.html Smithsonian's Air &amp; Space Magazine: "The Notorious Flight of Mathias Rust"] Comprehensive article about the flight and the political aftermath in Gorbachev's USSR (1 July 2005)
+* [http://observer.guardian.co.uk/magazine/story/0,11913,819972,00.html Guardian: interview with Mathias Rust]
+* [http://www.weht.net/WEHT/Mathias_Rust.html Where Are They Now?: Mathias Rust]
+* [https://web.archive.org/web/20110722065932/http://jetphotos.net/viewphoto.php?id=6738463&amp;nseq=1 The Cessna, registration number D-ECJB on display Deutsches Technikmuseum, Berlin]
+* [http://2002.novayagazeta.ru/nomer/2002/38n/n38n-s00.shtml Novaya Gazeta: РУСТ — ЭТО ПО-НАШЕМУ]
+* [https://www.washingtonpost.com/wp-dyn/content/article/2007/05/26/AR2007052601262.html Washington Post: A Dubious Diplomat] Washington Post article on Rust incident, aftermath, and Rust's life today.  (27 May 2007)
+* [https://web.archive.org/web/20070929083532/http://www.telepolis.com/cgi-bin/web/DISTRITODOCVIEW?url=%2F1397%2Fdoc%2FMisterios%2Fmathias.htm  Mathias Rust, fly to the heart of USSR], by Jose Antonio Lozano {{es icon}}
+* [http://www.dr.dk/Tema/rust/english/index.htm Danmarks Radio - "Rust in Red Square" interview, May 2007]
+* {{IMDb name|0751799}}
+* [https://www.bbc.co.uk/news/magazine-20609795 BBC article including original video of the landing.]
+* [http://loveandradio.org/2014/06/i-sitting-beside-me/ Mathias Rust Interview from the Love + Radio podcast]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rust, Mathias}}
+[[Category:People from Wedel]]
+[[Category:German aviators]]
+[[Category:Violations of Soviet airspace]]
+[[Category:1987 in the Soviet Union]]
+[[Category:Prisoners and detainees of the Soviet Union]]
+[[Category:Aviation accidents and incidents in the Soviet Union]]
+[[Category:Aviation accidents and incidents in Russia]]
+[[Category:Aviation accidents and incidents in 1987]]
+[[Category:Converts to Hinduism]]
+[[Category:German Hindus]]
+[[Category:German criminals]]
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Cold War history of Germany]]
+[[Category:People from Schleswig-Holstein]]
+[[Category:Inmates of Lefortovo Prison]]
+[[Category:Soviet Union–West Germany relations]]</text>
+      <sha1>rgf7ov3op3uupi5yclgj7n54mxlrx3x</sha1>
+    </revision>
+  </page>
+</mediawiki>

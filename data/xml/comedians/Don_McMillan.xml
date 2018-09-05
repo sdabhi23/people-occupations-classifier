@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Don McMillan</title>
+    <ns>0</ns>
+    <id>34213768</id>
+    <revision>
+      <id>855406673</id>
+      <parentid>855404340</parentid>
+      <timestamp>2018-08-18T02:05:47Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Cn}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2423">{{peacock|date=January 2012}}
+{{Infobox comedian
+| name                 = Don McMillan
+| image                = 
+| alt                  = 
+| caption              = 
+| pseudonym            = 
+| birth_name           = 
+| birth_date           = 
+| birth_place          = California
+| death_date           = 
+| death_place          = 
+| medium               = 
+| nationality          = American
+| active               = 1988&amp;ndash;present
+| genre                = High-Tech Comedy
+| subject              = 
+| spouse               = 
+| domesticpartner      = 
+| notable_work         = 
+| signature            = 
+| website              = www.donmcmillan.com
+| footnotes            = 
+| current_members      = 
+| past_members         = 
+| module               = 
+}}
+
+'''Don McMillan''' is an American [[comedian]] from [[San Francisco]], California, US. He graduated from [[Stanford University]] with a [[Master’s Degree]] in [[Electrical Engineering]] in 1982 from [[Lehigh University]]. He went to work for [[AT&amp;T Bell Laboratories]] where he worked as part of the team that designed the world's first [[32-bit]] [[microprocessor]]. He then moved to the [[Silicon Valley]] ([[San Jose, California]]) where he worked at [[VLSI Technology]] as a [[computer chip]] designer. During his six years at VLSI he designed more than 50 standard and [[Application-specific integrated circuit|ASIC]] designs many of which are still out there today. He is known for comedy on politics and [[American politician]]s.{{cn|date=August 2018}}
+
+==Comedy==
+His comedy is stand-up based on technical comedy and [[Corporate entertainment|corporate comedy]]
+He has been named No. 1 Corporate Comedian by CBS BNET.&lt;ref&gt;[http://www.cbsnews.com/8301-505183_162-28545821-10391735/americas-5-funniest-corporate-comedians/?tag=bnetdomain Don McMillan on CBS America's 5 Funniest Corporate Comedians]&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|id=0573270}}
+*{{Official website|http://www.donmcmillan.com|Don McMillan's website}}
+*[http://premierespeakers.com/don_mcmillan/bio Bio of Don McMillan on premierespeakers.com]
+
+{{DEFAULTSORT:McMillan, Don}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American stand-up comedians]]
+[[Category:Stanford University alumni]]
+[[Category:Scientists from California]]
+[[Category:American electrical engineers]]
+[[Category:Engineers from California]]</text>
+      <sha1>6bmnfpcjqigteiu4mkrcmuhhfgnxhhv</sha1>
+    </revision>
+  </page>
+</mediawiki>

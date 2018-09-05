@@ -1,0 +1,488 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marie Dressler</title>
+    <ns>0</ns>
+    <id>177739</id>
+    <revision>
+      <id>854835774</id>
+      <parentid>849397704</parentid>
+      <timestamp>2018-08-14T03:37:12Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Women in Film (pioneers) to [[:Category:Women film pioneers]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2018 July 17]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40766">{{Use mdy dates|date=October 2013}}
+{{Infobox person
+| name         = Marie Dressler
+| image        = Marie Dressler - 1930.jpg
+| imagesize    =
+| caption      = Dressler in 1930
+| birth_name   = Leila Marie Koerber
+| birth_date   = {{birth date|1868|11|09}}
+| birth_place  = [[Cobourg, Ontario]], Canada
+| death_date   = {{death date and age|1934|07|28|1868|11|09}}
+| death_place  = [[Santa Barbara, California]], U.S.
+| death_cause  = Cancer
+| resting_place= [[Forest Lawn Memorial Park, Glendale]]
+| citizenship  = Canadian&lt;br&gt;American&lt;ref name=calgary/&gt;
+| occupation   = Actress
+| years_active = 1892–1934
+| spouse       = {{marriage|George Hoeppert|1899|1906}}&lt;br&gt;{{marriage|James Henry Dalton|1904|1921}}&lt;ref&gt;Dressler and Dalton married in 1904 according to Dressler's [http://interactive.ancestrylibrary.com/1174/USM1490_2437-0267?pid=1014722&amp;backurl=http://search.ancestrylibrary.com//cgi-bin/sse.dll?indiv%3D1%26db%3DUSpassports%26h%3D1014722%26tid%3D%26pid%3D%26usePUB%3Dtrue%26_phsrc%3DZAa17%26_phstart%3DsuccessSource%26usePUBJs%3Dtrue%26rhSource%3D2542&amp;treeid=&amp;personid=&amp;hintid=&amp;usePUB=true&amp;_phsrc=ZAa17&amp;_phstart=successSource&amp;usePUBJs=true U.S. passport application (1924)], ancestry.com; accessed July 27, 2016.&lt;/ref&gt;}}
+
+'''Marie Dressler''' (born '''Leila Marie Koerber''', November 9, 1868&amp;nbsp;– July 28, 1934) was a [[Canadian-American]] stage and screen actress, comedian, and early [[silent film]] and [[Great Depression|Depression-era]] film star.&lt;ref&gt;Obituary ''[[Variety Obituaries|Variety]]'', July 31, 1934, page 54.&lt;/ref&gt;&lt;ref&gt;[http://asp6new.alexanderstreet.com/atho/atho.detail.people.aspx?personcode=per0056361 Marie Dressler: ''North American Theatre Online''], alexanderstreet.com; accessed July 27, 2016.&lt;/ref&gt; Successful on stage in vaudeville and comic operas, she was also successful in film. In 1914, she was in the first full-length film comedy and later won the [[Academy Award for Best Actress]] in 1931.
+
+Leaving home at the age of 14, Dressler built a career on stage in traveling theatre troupes. While not conventionally beautiful, she learned early to appreciate her talent in making people laugh. In 1892, she started a career on Broadway that lasted into the 1920s, performing comedic roles that allowed her to improvise to get laughs. From one of her successful Broadway roles, she played the titular role in the first full-length screen comedy, ''[[Tillie's Punctured Romance (1914 film)|Tillie's Punctured Romance]]'' (1914), opposite [[Charlie Chaplin]] and [[Mabel Normand]]. She  made several shorts, but mostly worked in New York City on stage. During World War I, along with other celebrities, she helped sell Liberty Bonds. In 1919, she helped organize the first union for stage chorus players.
+
+Her career declined in the 1920s, and Dressler was reduced to living on her savings while sharing an apartment with a friend. In 1927, she returned to films at the age of 59 and experienced a remarkable string of successes. She won the Academy Award for Best Actress in 1930–31 for ''[[Min and Bill]]'' and was named the top film star for 1932 and 1933. She died of cancer in 1934.
+
+==Early life==
+Dressler was born Leila Marie Koerber in [[Cobourg|Cobourg, Ontario]], one of two daughters born to Anna (née Henderson), a musician, and Alexander Rudolph Koerber (b. 13 April 1826, Lindow, Neu-Ruppin, Germany – d. November 1914, [[Wimbledon, London|Wimbledon, Surrey, England]]), a German-born former officer in the Crimean War. Leila's elder sister, Bonita Louise Koerber (b. January 1864, Ontario, Canada – d. 18 September 1939, Richmond, Surrey, England), later married playwright Richard Ganthony.&lt;ref name="dressler-gaz-obit"&gt;{{cite news|work=Montreal Gazette|date=July 30, 1934|title=Famous Star Is Dead at 62|pages=1, 9|url=https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&amp;dat=19340730&amp;printsec=frontpage&amp;hl=en|accessdate=September 6, 2011}}&lt;/ref&gt;
+
+Her father was a music teacher in Cobourg and the organist at St. Peter's Anglican Church, where as a child Marie would sing and assist in operating the organ.&lt;ref&gt;{{cite news|work=Montreal Gazette|title=Cobourg Mourning Marie Dressler|date=July 31, 1934|page=5|url=https://news.google.com/newspapers?id=Gn0tAAAAIBAJ&amp;sjid=h5gFAAAAIBAJ&amp;dq=marie%20dressler&amp;pg=4064%2C3186570|accessdate=September 6, 2011}}&lt;/ref&gt; According to Dressler, the family regularly moved from community to community during her childhood. It has been suggested by Cobourg historian Andrew Hewson that Dressler attended a private school, but this is doubtful if Dressler's recollections of the family's genteel poverty are accurate.{{sfn|Lee|1997|p=9}}
+
+The Koerber family eventually moved to the [[United States]], where Alexander Koerber is known to have worked as a piano teacher in the late 1870s and early 1880s in [[Bay City, Michigan|Bay City]] and [[Saginaw, Michigan|Saginaw]] (both in [[Michigan]]) as well as [[Findlay, Ohio]].{{sfn|Lee|1997|p=9}} Her first known acting appearance was as [[Cupid]] at age five in a church theatrical performance in [[Lindsay, Ontario]].&lt;ref name="dressler-gaz-obit"/&gt; Residents of the towns where the Koerbers lived recalled Dressler acting in many amateur productions, and Leila often irritated her parents with those performances.{{sfn|Lee|1997|p=10}}
+
+==Stage career==
+Dressler left home at 14 to begin her acting career with the Nevada Stock Company, telling the company she was actually 18.{{sfn|Lee|1997|pp=11–12}} The pay was either $6 or $8 per week,&lt;ref name="dressler-gaz-obit"/&gt; and Dressler sent half to her mother.{{sfn|Lee|1997|p=14}} At this time, Dressler adopted the name of an aunt as her stage name.&lt;ref name="dressler-gaz-obit"/&gt; According to Dressler, her father objected to her using the name of Koerber. The identity of the aunt was never confirmed, although Dressler denied that she adopted the name from a store awning. Dressler's sister Bonita, five years older, left home at about the same time. Bonita also worked in the opera company.{{sfn|Lee|1997|p=13}} The Nevada Stock Company was a travelling company that played mostly in the American Midwest. Dressler described the troupe as a "wonderful school in many ways. Often a bill was changed on an hour's notice or less. Every member of the cast had to be a quick study".{{sfn|Lee|1997|pp=15-16}} Dressler made her professional debut as a chorus girl named Cigarette in the play ''Under Two Flags'', a dramatization of life in the Foreign Legion.{{sfn|Lee|1997|p=13}}
+
+Dressler remained with the troupe for three years, while her sister left to marry playwright Richard Ganthony. The company eventually ended up in a small Michigan town without money or a booking. Dressler joined the Robert Grau Opera Company, which toured the Midwest, and she received an improvement in pay to $8 per week, although Dressler claimed she never received any wages.{{sfn|Lee|1997|p=17}} 
+
+Dressler ended up in [[Philadelphia]], where she joined the Starr Opera Company as a member of the chorus. A highlight with the Starr company was portraying Katisha in ''The Mikado'' when the regular actress was unable to go on, due to a sprained ankle, according to Dressler.{{sfn|Lee|1997|p=18}} She was also known to have played the role of Princess Flametta in an 1887 production in [[Ann Arbor, Michigan]].{{sfn|Lee|1997|p=18}} She left the Starr company to return home to her parents in Saginaw. According to Dressler, when the Bennett and Moulton Opera Company came to town, she was chosen from the church choir by the company's manager and asked to join the company. She remained with the company for three years, again on the road, playing roles of light opera.{{sfn|Lee|1997|p=20}} 
+
+Dressler would recall specially the role of Barbara in ''The Black Hussars'', which she especially liked, and in which she would hit a [[Baseball (ball)|baseball]] into the stands.{{sfn|Lee|1997|pp=20-21}} Dressler remained with the company until 1891, gradually increasing in popularity. She moved to Chicago and was cast in productions of ''Little Robinson Crusoe'' and ''The Tar and the Tartar''. After the touring production of ''The Tar and the Tartar'' came to a close, she moved to New York City.{{sfn|Lee|1997|pp=21-22}}
+
+In 1892, Dressler made her debut on Broadway at the [[Fifth Avenue Theatre]] in ''Waldemar, the Robber of the Rhine'', which only lasted five weeks.{{sfn|Lee|1997|p=24}} She had hoped to become an operatic diva or tragedienne, but the writer of ''Waldemar'', [[Maurice Barrymore]], convinced her to accept that her best success was in comedy roles.{{sfn|Lee|1997|p=24}} Years later, she appeared with his sons, [[Lionel Barrymore|Lionel]] and [[John Barrymore|John]], in motion pictures and  became good friends with his daughter, actress [[Ethel Barrymore]]. In 1893, she was cast as the Duchess in ''Princess Nicotine'', where she met and befriended [[Lillian Russell]].{{sfn|Lee|1997|pp=24-25}} 
+
+Dressler now made $50 per week, with which she supported her parents. She moved on into roles in ''[[1492 Up To Date]]'', ''Girofle-Girofla'', and ''A Stag Party, or A Hero in Spite of Himself''{{sfn|Lee|1997|pp=26-28}} After ''A Stag Party'' flopped, she joined the touring [[Camille D'Arville]] Company on a tour of the Midwest in ''Madeleine, or The Magic Kiss'', as Mary Doodle, a role giving her a chance to clown.{{sfn|Lee|1997|p=28}}
+[[File:The-Lady-Slavey-FC.jpg|thumb|Music for ''The Lady Slavey'' (1896)&lt;br&gt;Dressler had her first starring role as household servant Flo Honeydew, an outstanding hit she performed in for four years.]]
+In 1896, Dressler landed her first starring role as Flo in [[George Lederer]]'s production of ''The Lady Slavey'' at the [[Casino Theatre (New York City)|Casino Theatre]] on Broadway, co-starring British dancer Dan Daly. It was a great success, playing for two years at the Casino. She became known for her hilarious facial expressions, seriocomic reactions, and double takes. With her large, strong body, Dressler could improvise routines where she would carry Daly to the delight of the audience.{{sfn|Lee|1997|p=29}} 
+
+Her success enabled her to purchase a home for her parents on Long Island.{{sfn|Lee|1997|pp=30-31}} The ''Lady Slavey'' success turned sour when she quit the production while it toured in Colorado. The Erlanger syndicate blocked Dressler from appearing on Broadway, and she chose to work with the Rich and Harris touring company.{{sfn|Lee|1997|pp=31-32}} She returned to Broadway in ''Hotel Topsy Turvy'' and ''The Man in the Moon''.{{sfn|Lee|1997|pp=33-37}}
+
+In 1900, Dressler formed her own theatre troupe, which performed ''Miss Prinnt'' in cities of the northeastern U.S.&lt;ref&gt;{{cite news|work=New York Times|date=November 5, 1900|title="MISS PRINNT" AT ALBANY; Marie Dressler Scores a Success in G.V. Hobart's New Play|page=5}}&lt;/ref&gt; The production of ''Miss Prinnt'' was a failure, and Dressler was forced to declare bankruptcy.{{sfn|Lee|1997|p=39}} 
+
+In 1904, Dressler signed a three-year, $50,000 contract with the Weber and Fields Music Hall management, performing lead roles in ''Higgeldy Piggeldy'' and ''Twiddle Twaddle''. After her contract expired, Dressler performed vaudeville in New York, Boston, and other cities. Dressler was known for her full-figured body, and [[wikt:buxom|buxom]] contemporaries included her friends Lillian Russell, [[Fay Templeton]], [[May Irwin]] and [[Trixie Friganza]]. Dressler herself was {{Convert|5|ft|7|in|m}} tall and weighed {{Convert|200|lbs|kg}}.{{sfn|Kennedy|2006|p=2}}
+
+In 1907, she met James Henry "Jim" Dalton. The two moved to London, where she performed at the [[Palace Theatre, London|Palace Theatre of Varieties]] for $1500 per week. After that, she planned to mount a show herself in the West End. In 1909, with members of the Weber organization, Dressler staged a modified production of ''Higgeldy Piggeldy'' at the [[Aldwych Theatre]], renaming the production ''Philopoena'' after Dressler's role. It was a failure, closing after one week. Dressler lost $40,000 on the production, a debt she eventually repaid in 1930.{{sfn|Lee|1997|p=69}} Dressler and Dalton returned to New York. Dressler declared bankruptcy for a second time.
+
+Dressler returned to the Broadway stage in a show called ''The Boy and the Girl'', but it lasted only a few weeks. She moved on to perform vaudeville at [[The Pier Shops at Caesars|Young's Pier]] in Atlantic City for the summer. In addition to her stage work, Dressler recorded for [[Edison Records]] in 1909 and 1910. In the fall of 1909, Dressler first entered rehearsals for a new play ''Tillie's Nightmare''. The play toured in Albany, Chicago, Kansas City, and Philadelphia and was a flop. Dressler helped to revise the show, without the authors' permission, and Dressler had to threaten to quit before the play opened on Broadway to keep the changes. Her revisions to the play helped make it a big success on Broadway. Biographer Betty Lee considers the play the high point of her stage career.{{sfn|Lee|1997|p=78}}
+
+Dressler continued to work in the theater during the 1910s, and toured the United States during World War I, selling Liberty Bonds&lt;ref name="dressler-gaz-obit"/&gt; and entertaining the American Expeditionary Forces. American doughboys in France named both a street and a cow after Dressler. The cow was killed, leading to "Marie Dressler: Killed in Line of Duty" headlines, about which Dressler (paraphrasing [[Mark Twain]]) quipped, "I had a hard time convincing people that the report of my death had been greatly exaggerated."{{sfn|Silverman|1999|p=23}}
+
+[[File:Tillie's Punctured Romance (1914 film).jpg|right|thumb|With [[Mabel Normand]] and [[Charles Chaplin]] in ''[[Tillie's Punctured Romance (1914 film)|Tillie's Punctured Romance]]'']]
+After the war, Dressler returned to vaudeville in New York, and toured in Cleveland and Buffalo. She owned the rights to the play ''Tillie's Nightmare'', the play upon which her 1914 movie ''[[Tillie's Punctured Romance (1914 film)|Tillie's Punctured Romance]]'' was based. Her husband Jim Dalton and she made plans to self-finance a revival of the play. The play fizzled in the summer of 1920, and the production was disbanded. In 1919, during the [[Actors' Equity]] strike in New York City, the [[Chorus Equity Association]] was formed and voted Dressler its first president.{{citation needed|date=December 2015}}
+
+Dressler accepted a role in ''Cinderella on Broadway'' in October 1920, but the play failed after only a few weeks. She signed on for a role in ''[[The Passing Show|The Passing Show of 1921]]'', but left the cast after only a few weeks. She returned to the vaudeville stage with the Schubert Organization, travelling through the Midwest. Dalton traveled with her, although he was very ill from renal failure. He stayed in Chicago while she traveled on to St.{{nbsp}}Louis and Milwaukee. He died while Marie was in St.{{nbsp}}Louis, and Marie then left the tour. His body was claimed by his ex-wife, and he was buried in the Dalton plot.{{sfn|Lee|1997|p=145}}
+
+After failing to sell a film script, Dressler took an extended trip to Europe in Fall 1922. After she returned, Dressler found it difficult to find work, considering America to be "youth-mad" and "flapper-crazy". She busied herself with visits to veteran hospitals. To save money, Dressler moved into the Ritz Hotel, arranging for a small room at a discount. In 1923, she received a small part in a revue at the Winter Garden Theatre, called ''The Dancing Girl'', but she was not offered any work after the show closed. In 1925, she was able to perform as part of the cast of a vaudeville show which went on a five-week tour, but still could not find any work back in New York City.{{sfn|Lee|1997|pp=153-54}} In 1926, Dressler made a final appearance on Broadway as part of an Old Timers' bill at the [[Palace Theatre (New York City)|Palace Theatre]].{{sfn|Lee|1997|p=156}}
+
+Early in 1930, Dressler joined [[Edward Everett Horton]]'s theater troupe in Los Angeles to play a princess in Ferenc Molnár's ''The Swan'', but after one week, she quit the troupe. She proceeded to leave Horton flat, much to his indignation. Dressler later in 1930 played the princess-mother of [[Lillian Gish]]'s character in the 1930 film adaptation of Molnar's ''The Swan'' called ''[[One Romantic Night]]''.{{sfn|Lee|1997|p=173}}
+
+==Film career==
+[[File:The Scrublady.jpg|thumb|left|''The Scrublady'' (1917)]]
+Dressler had appeared in two shorts as herself, but her first role in a feature film came in 1914 at the age of 44. In 1902, she had met fellow Canadian [[Mack Sennett]] and helped him get a job in the theater. After Sennett became the owner of his namesake motion picture studio, he convinced Dressler to star in his 1914 silent film ''Tillie's Punctured Romance''. The film was to be the first full-length, six-reel motion picture comedy. According to Sennett, a prospective budget of $200,000 meant that he needed "a star whose name and face meant something to every possible theatre-goer in the United States and the British Empire."{{sfn|Lee|1997|p=103}}
+
+The movie was based on Dressler's hit ''Tillie's Nightmare''.{{sfn|Lee|1997|p=105}} She claimed to have cast [[Charlie Chaplin]] in the movie as her [[leading man]], and was "proud to have had a part in giving him his first big chance."{{sfn|Lee|1997|p=103}} Instead of his recently invented [[The Tramp|Tramp]] character, Chaplin played a villainous rogue. Silent film comedian [[Mabel Normand]] also starred in the movie. ''Tillie's Punctured Romance'' was a hit with audiences, and Dressler appeared in two ''Tillie'' sequels and other comedies until 1918, when she returned to [[vaudeville]].{{citation needed|date=July 2016}}
+
+In 1922, after her husband's death, Dressler and writers Helena Dayton and Louise Barrett tried to sell a script to the Hollywood studios, but were turned down. The one studio to hold a meeting with the group rejected the script, saying all the audiences wanted is "young love." The proposed co-star of [[Lionel Barrymore]] or [[George Arliss]] were rejected as "old fossils".{{sfn|Lee|1997|p=150}} In 1925, Dressler filmed a pair of two-reel short movies in Europe for producer Harry Reichenbach. The movies, titled the ''Travelaffs'', were not released and were considered a failure by both Dressler and Reichenbach. Dressler announced her retirement from show business.{{sfn|Lee|1997|p=155}}
+
+{{multiple image
+&lt;!-- Essential parameters --&gt;
+| align     = right
+| direction = vertical
+| width     = 220
+&lt;!-- Image 1 --&gt;
+| image1    = Marie Dressler Stars of the Photoplay.jpg
+| alt1      =
+| caption1  = Marie Dressler in ''[[Photoplay]]'' magazine in 1930
+&lt;!-- Image 2 --&gt;
+| image2    = Anna-Christie-Garbo-Dressler.jpg
+| alt2      =
+| caption2  = [[Greta Garbo]] and Marie Dressler in ''Anna Christie'' (1930)
+&lt;!-- Image 3 --&gt;
+| image3    =Tugboat Annie 1933.jpg
+| alt3      =
+| caption3  = Lobby card for ''Tugboat Annie'' (1933) with [[Wallace Beery]]
+&lt;!-- Image 4 --&gt;
+| image4    =Marie-Dressler-TIME-1933.jpg
+| alt4      =
+| caption4  = Marie Dressler on the cover of ''[[Time (magazine)|Time]]'' (August 7, 1933)
+}}
+In early 1927, Dressler received a lifeline from director [[Allan Dwan]]. Although versions differ as to how Dressler and Dwan met, including that Dressler was contemplating suicide, Dwan offered her a part in a film he was planning to make in Florida. The film, ''[[The Joy Girl]]'', an early color production, only provided a small part as her scenes were finished in two days, but Dressler returned to New York upbeat after her experience with the production.{{sfn|Lee|1997|p=159}}
+
+Later that year, [[Frances Marion]], a screenwriter for the [[Metro-Goldwyn-Mayer]] (MGM) studio, came to Dressler's rescue. Marion had seen Dressler in the 1925 vaudeville tour and witnessed Dressler at her professional low-point. Dressler had shown great kindness to Marion during the filming of ''[[Tillie Wakes Up]]'' in 1917, and in return, Marion used her influence with MGM's production chief [[Irving Thalberg]] to return Dressler to the screen.{{sfn|Silverman|1999|p=23}} Her first MGM feature was ''[[The Callahans and the Murphys]]'' (1927), a rowdy silent comedy co-starring Dressler (as Ma Callahan) with another former Mack Sennett comedian, [[Polly Moran]], written by Marion.{{sfn|Silverman|1999|p=23}}
+
+The film was initially a success, but the portrayal of Irish characters caused a protest in the ''Irish World'' newspaper, protests by the American Irish Vigilance Committee, and pickets outside the film's New York theatre. The film was first cut by MGM in an attempt to appease the Irish community, then eventually pulled from release after Cardinal Dougherty of the diocese of Philadelphia called MGM president [[Nicholas Schenck]].{{sfn|Lee|1997|p=165}} It was not shown again, and the negative and prints may have been destroyed.{{sfn|Lee|1997|p=165}} While the film brought Dressler to Hollywood, it did not re-establish her career. Her next appearance was a minor part in the [[First National Pictures|First National]] film ''[[Breakfast at Sunrise]]''. She appeared again with Moran in ''[[Bringing Up Father]]'', another film written by Marion.{{sfn|Lee|1997|p=166}} Dressler returned to MGM in 1928's ''[[The Patsy (1928 film)|The Patsy]]'' as the mother of the characters played by stars [[Marion Davies]] and [[Jane Winton]].{{sfn|Lee|1997|p=167}}
+
+Hollywood was converting from silent films, but "[[Sound film|talkies]]" presented no problems for Dressler, whose rumbling voice could handle both sympathetic scenes and snappy comebacks (the wisecracking stage actress in ''[[Chasing Rainbows (1930 film)|Chasing Rainbows]]'' and the dubious matron in [[Rudy Vallée]]'s ''Vagabond Lover''). Frances Marion persuaded Thalberg to give Dressler the role of Marthy in the 1930 film ''[[Anna Christie (1930 film)|Anna Christie]]''. Garbo and the critics were impressed by Dressler's acting ability, and so was MGM, which quickly signed her to a $500-per-week contract. Dressler went on to act in comedic films which were popular with movie-goers and a lucrative investment for MGM. She became Hollywood's number-one box-office attraction, and stayed on top until her death in 1934. {{citation needed|date=July 2016}}
+
+She also took on serious roles. For ''Min and Bill'', with [[Wallace Beery]], she won the 1930–31 [[Academy Award for Best Actress]] (the eligibility years were staggered at that time). She was nominated again for Best Actress for her 1932 starring role in ''Emma'', but lost to [[Helen Hayes]]. Dressler followed these successes with more hits in 1933, including the comedy ''[[Dinner at Eight (film)|Dinner at Eight]]'', in which she played an aging but vivacious former stage actress. Dressler had a memorable bit with [[Jean Harlow]] in the film:{{sfn|Silverman|1999|p=24}}&lt;blockquote&gt;
+Harlow: I was reading a book the other day.&lt;br/&gt;
+Dressler: Reading a book?&lt;br/&gt;
+Harlow: Yes, it's all about civilization or something. A nutty kind of a book. Do you know that the guy said that machinery is going to take the place of ''every'' profession?&lt;br/&gt;
+Dressler: Oh my dear, ''that's'' something ''you'' need never worry about.&lt;/blockquote&gt;
+
+Following the release of ''[[Tugboat Annie]]'' (1933), Dressler appeared on the cover of ''[[Time (magazine)|Time]]'', in its August 7, 1933 issue. MGM held a huge birthday party for Dressler in 1933, broadcast live via radio. Her newly regenerated career came to an abrupt end when she was diagnosed with terminal cancer in 1934. MGM head [[Louis B. Mayer]] learned of Dressler's illness from her doctor and reportedly asked that she not be told. To keep her home, he ordered her not to travel on her vacation because he wanted to put her in a new film. Dressler was furious but complied. She appeared in more than 40 films, and achieved her greatest successes in talking pictures made during the last years of her life. The first of her two autobiographies, ''The Life Story of an Ugly Duckling'', was published in 1924; a second book, ''My Own Story'', "as told to Mildred Harrington," appeared a few months after her death.
+
+==Personal life==
+Dressler's first marriage was to an American, George Francis Hoeppert (1862 - September 7, 1929), a theatrical manager. His surname is sometimes given as Hopper. According to Dressler's testimony, the couple married in [[Elizabeth, New Jersey]], in 1899, although biographer [[Matthew Kennedy (author)|Matthew Kennedy]] puts the marriage date as May 6, 1894. Some sources indicate Dressler had a daughter who died as a small child, but this has not been confirmed. {{citation needed|date=July 2016}}
+[[File:Marie Dressler portrait crop.jpg|thumb|Dressler in 1909]]
+Her marriage to Hoeppert gave Dressler U.S. citizenship, which was useful later in life, when immigration rules meant permits were needed to work in the United States, and Dressler had to appear before an immigration hearing.&lt;ref name=calgary&gt;{{cite news|work=Calgary Daily Herald|date=August 11, 1934|title=Actress Saw Two Marriages Fail in 14 years|page=5|url=https://news.google.com/newspapers?id=9xhkAAAAIBAJ&amp;sjid=FXsNAAAAIBAJ&amp;dq=george%20hoppert&amp;pg=3921%2C4565629|accessdate=September 6, 2011}}&lt;/ref&gt; Ever since her start in the theatre, Dressler had sent a portion of her salary to her parents. Her success on Broadway meant she could afford to buy a home and later a farm on [[Long Island]], which she shared with her parents. Dressler made several attempts to set up theatre companies or theatre productions of her own using her Broadway proceeds, but these failed and she had to declare bankruptcy several times.{{sfn|Lee|1997|p=70}}
+
+In 1907, Dressler met a [[Maine]] businessman, James Henry "Jim" Dalton, who became her companion until his death [Death Record 3104-27934] on November 29, 1921, at the Congress Hotel in Chicago from diabetes. According to Dalton, the two were married in Europe in 1908.{{sfn|Lee|1997|p=64}} However, according to Dressler's [http://interactive.ancestrylibrary.com/1174/USM1490_2437-0267?pid=1014722&amp;backurl=http://search.ancestrylibrary.com//cgi-bin/sse.dll?indiv%3D1%26db%3DUSpassports%26h%3D1014722%26tid%3D%26pid%3D%26usePUB%3Dtrue%26_phsrc%3DZAa17%26_phstart%3DsuccessSource%26usePUBJs%3Dtrue%26rhSource%3D2542&amp;treeid=&amp;personid=&amp;hintid=&amp;usePUB=true&amp;_phsrc=ZAa17&amp;_phstart=successSource&amp;usePUBJs=true U.S. passport application], the couple married in 1904 in France.
+
+Dressler reportedly later learned that the "minister" who had married them in [[Monte Carlo]] was actually a local man paid by Dalton to stage a fake wedding.{{sfn|Lee|1997|p=65}} Dalton's first wife, Lizzie Augusta Britt Dalton, claimed he &lt;!-- he (Dalton) or she (Lizzie)?? --&gt;had not consented to a divorce or been served divorce papers, although Dalton claimed to have divorced her in 1905.{{sfn|Lee|1997|p=102}} By 1921, Dalton had become an invalid due to [[diabetes mellitus]], and watched her from the wings in his wheelchair. After his death that year, Dressler was planning for Dalton to be buried as her husband, but Lizzie Dalton had Dalton's body returned to be buried in the Dalton family plot.{{sfn|Lee|1997|p=148}}
+
+After Dalton's death, which coincided with a decline in her stage career, Dressler moved into a servant's room in the Ritz Hotel to save money.{{sfn|Lee|1997|p=152}} Eventually, she moved in with friend Nella Webb to save on expenses.{{sfn|Lee|1997|p=159}} After finding work in film again in 1927, she rented a home in Hollywood on Hillside Avenue. Although Dressler was working from 1927 on, she was still reportedly living hand to mouth. In November 1928, wealthy friends Mr. and Mrs. Arthur Neurmberg gave her $10,000, explaining they planned to give her a legacy someday, but they thought she needed the money then.{{sfn|Lee|1997|p=168}} In 1929, she moved to Los Angeles to 6718 Milner Road in Whitley Heights, then to 623 North Bedford Drive in Beverly Hills, both rentals. She moved to her final home at 801 North Alpine in Beverly Hills in 1932, a home which she bought from the estate of [[King C. Gillette]].{{sfn|Lee|1997|p=169}} During her seven years in Hollywood, Dressler lived with her maid Mamie Cox and later Mamie's husband Jerry.{{sfn|Lee|1997|p=169}}
+
+==Miscellanea==
+Although atypical in size for a Hollywood star, Dressler was reported in 1931 to use the services of a "body sculptor to the stars", [[Sylvia of Hollywood]], to keep herself at a steady weight.&lt;ref&gt;{{cite news|last=Coons|first=R.|title=Marathons Common To Movies|newspaper=The Olean Herald|date=September 2, 1931}}&lt;/ref&gt;
+
+Biographers Betty Lee and Matthew Kennedy document Dressler's long-standing friendship with actress [[Claire Du Brey]], whom she met in 1928.{{sfn|Kennedy|2006|pp=143-144}} Dressler and Du Brey's falling out in 1931 was followed by a later lawsuit by Du Brey, who had been trained as a nurse, claiming back wages as the elder woman's nurse.{{citation needed|date=July 2016}}
+
+==Death==
+On Saturday, July 28, 1934, Dressler died of cancer, aged 65, in [[Santa Barbara, California]]. After a private funeral held at [[The Wee Kirk o’ the Heather]] chapel, Dressler was interred in a crypt in the Great Mausoleum in the [[Forest Lawn Memorial Park, Glendale|Forest Lawn Memorial Park, Glendale, California]].&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=NoleAAAAIBAJ&amp;sjid=qUsNAAAAIBAJ&amp;pg=4682,1570000&amp;dq=marie+dressler+cancer&amp;hl=en|title=Marie Dressler Loses Long Battle For Life|date=July 29, 1934|work=The Portsmouth Times|page=1|accessdate=February 6, 2013}}&lt;/ref&gt;
+[[File:Marie Dressler Grave.JPG|thumb|150px|Marie Dressler's crypt in the Great Mausoleum, Forest Lawn Glendale.]]
+Dressler left an estate worth $310,000, the bulk left to her sister Bonita.&lt;ref&gt;{{cite news|work=Pittsburgh Post-Gazette|title=Marie Dressler's Will Is Probated|agency=Associated Press|date=August 15, 1934|page=3|url=https://news.google.com/newspapers?id=0DcxAAAAIBAJ&amp;sjid=NGkDAAAAIBAJ&amp;dq=marie-dressler%20will&amp;pg=3132%2C4686640|accessdate=September 22, 2011}}&lt;/ref&gt;
+
+She bestowed her 1931 automobile and $35,000 to her maid of 20 years, Mamie Steele Cox, and $15,000 to Cox's husband, Jerry R. Cox, who had served as Dressler's butler for 4 years.&lt;ref name="maid-will-nightclub"&gt;{{cite news|work=The Evening Independent|title=Marie Dressler's Old Servants Open Night Club for Negros With Money Actress Left Them|agency=Associated Press|url=https://news.google.com/newspapers?id=k79RAAAAIBAJ&amp;sjid=l1UDAAAAIBAJ&amp;dq=marie%20dressler&amp;pg=2375%2C2808670|date=April 10, 1936|page=5A|accessdate=September 22, 2011}}&lt;/ref&gt; Dressler intended that the funds should be used to provide a place of comfort for Black travelers,&lt;ref name="Green Book"&gt;"Southward", Chas. A. R. McDowell, ''The Negro Motorist Green Book'', 1940 edition.&lt;/ref&gt; and the Coxes used the funds to open the ''Cocoanut Grove'' night club and adjacent tourist cabins in [[Savannah, Georgia]], in 1936, named after the [[Cocoanut Grove (Los Angeles)|night club in Los Angeles]].&lt;ref name="maid-will-nightclub"/&gt;
+
+==Legacy==
+Dressler's birth home in Cobourg, Ontario, is known as Marie Dressler House and is open to the public. The home was converted to a restaurant in 1937 and operated as a restaurant until 1989, when it was damaged by fire. It was restored, but did not open again as a restaurant. It was the office of the Cobourg Chamber of Commerce until its conversion to its current use as a museum about Dressler and as a visitor information office for Cobourg.&lt;ref&gt;{{cite web|url=http://www.mariedressler.ca/dressler-house|title=Marie Dressler House|publisher=Vintage Film Festival|accessdate=March 15, 2016}}&lt;/ref&gt; Each year, the Marie Dressler Foundation Vintage Film Festival is held, with screenings in Cobourg and in [[Port Hope, Ontario]].&lt;ref&gt;{{cite web|url=http://www.vintagefilmfestival.ca|title=About the Marie Dressler Foundation|publisher=Marie Dressler Foundation|accessdate=September 6, 2011}}&lt;/ref&gt;
+
+For her contribution to the motion picture industry, Dressler has a star on the [[Hollywood Walk of Fame]] at 1731 [[Vine Street]], added in 1960.&lt;ref&gt;{{cite web|url=http://www.walkoffame.com/marie-dressler|title=Marie Dressler: Hollywood Walk of Fame|publisher=Hollywood Walk of Fame|accessdate=September 22, 2011}}&lt;/ref&gt; After ''Min and Bill'', Dressler and Beery added their footprints to the cement forecourt of [[Grauman's Chinese Theatre]] in Hollywood, with the inscription "America's New Sweethearts, Min and Bill."{{sfn|Lee|1997|p=182}}
+
+[[Canada Post stamp releases (2005-2009)|Canada Post]], as part of its "Canada in Hollywood" series, issued a postage stamp on June 30, 2008, to honour Marie Dressler.&lt;ref&gt;{{cite web|publisher=canada.com|url=http://www.canada.com/story_print.html?id=f3b0ddeb-4828-46d6-84a2-25dff8572b4e&amp;sponsor=|title=Westmount schoolgirl went on to win an Oscar|date=April 7, 2008|accessdate=September 22, 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20121110170656/http://www.canada.com/story_print.html?id=f3b0ddeb-4828-46d6-84a2-25dff8572b4e&amp;sponsor=|archivedate=November 10, 2012|df=mdy-all}}&lt;/ref&gt;
+
+Dressler is beloved in Seattle. She played in two films based on historical Seattle characters. Tugboat Annie was based on Thea Foss of Seattle. Her character in ''Politics'' (1931) was based on [[Bertha Knight Landes]], the first woman mayor of Seattle.
+
+==Filmography==
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1909
+| ''Marie Dressler''
+| Herself
+| Short subject
+|-
+| 1910
+| ''Actors' Fund Field Day''
+| Herself
+| Short subject
+|-
+| 1914
+| ''[[Tillie's Punctured Romance (1914 film)|Tillie's Punctured Romance]]''
+| Tillie Banks, Country Girl
+|
+|-
+| 1915
+| ''[[Tillie's Tomato Surprise]]''
+| Tillie Banks
+|
+|-
+| 1917
+| ''Fired''
+| &lt;center&gt;–&lt;/center&gt;
+| Short subject&lt;br /&gt;Writer and director
+|-
+| 1917
+| ''[[The Scrub Lady]]''
+| Tillie
+|
+|-
+| 1917
+| ''[[Tillie Wakes Up]]''
+| Tillie Tinkelpaw
+|
+|-
+| 1918
+| ''{{sortname|The|Red Cross Nurse|nolink=1}}''
+| &lt;center&gt;–&lt;/center&gt;
+|
+|-
+| 1918
+| ''|[[The Agonies of Agnes]]''
+| &lt;center&gt;–&lt;/center&gt;
+| Producer and writer
+|-
+| 1927
+| ''{{sortname|The|Joy Girl}}''
+| Mrs. Heath
+|
+|-
+| 1927
+| ''[[The Callahans and the Murphys]]''
+| Mrs. Callahan
+|
+|-
+| 1927
+| ''[[Breakfast at Sunrise]]''
+| Queen
+|
+|-
+| 1928
+| ''{{sortname|The|Patsy|The Patsy (1928 film)}}''
+| Ma Harrington
+|
+|-
+| 1928
+| ''[[Bringing Up Father (1928 film)|Bringing Up Father]]''
+| Annie Moore
+|
+|-
+| 1929
+| ''Voice of Hollywood''
+| Herself
+| Uncredited
+|-
+| 1929
+| ''[[The Vagabond Lover]]''
+| Mrs. Ethel Bertha Whitehall
+|
+|-
+| 1929
+| ''Dangerous Females''
+| Sarah Bascom
+|
+|-
+| 1929
+| ''[[Hollywood Revue of 1929]]''
+| Herself
+|
+|-
+| 1929
+| ''{{sortname|The|Divine Lady}}''
+| Mrs. Hart
+|
+|-
+| 1930
+| ''{{sortname|The|Voice of Hollywood No. 14|nolink=1}}''
+| Herself
+| Uncredited
+|-
+| 1930
+| ''Screen Snapshots Series 9, No. 14''
+| Herself, at Premiere
+|
+|-
+| 1930
+| ''[[The March of Time (film)|The March of Time]]''
+| Herself, "Old Timer" sequence
+| Unfinished film, never released
+|-
+| 1930
+| ''[[Anna Christie (1930 film)|Anna Christie]]''
+| Marthy Owens
+|
+|-
+| 1930
+| ''Derelict''
+| &lt;center&gt;–&lt;/center&gt;
+|
+|-
+| 1930
+| ''[[Let Us Be Gay]]''
+| Mrs. 'Bouccy' Bouccicault
+|
+|-
+| 1930
+| ''[[Caught Short]]''
+| Marie Jones
+|
+|-
+| 1930
+| ''[[One Romantic Night]]''
+| Princess Beatrice
+|
+|-
+| 1930
+| ''{{sortname|The|Girl Said No|The Girl Said No (1930 film)}}''
+| Hettie Brown
+|
+|-
+| 1930
+| ''[[Chasing Rainbows (1930 film)|Chasing Rainbows]]''
+| Bonnie
+|
+|-
+| 1930
+| ''[[Min and Bill]]''
+| Min Divot, Innkeeper
+|Won- [[Academy Award for Best Actress]]
+|-
+| 1931
+| ''Jackie Cooper's Birthday Party''
+| Herself
+|
+|-
+| 1931
+| ''[[Politics (1931 film)|Politics]]''
+| Hattie Burns
+|
+|-
+| 1931
+| ''[[Reducing (film)|Reducing]]''
+| Marie Truffle
+|
+|-
+| 1932
+| ''[[Prosperity (film)|Prosperity]]''
+| Maggie Warren
+|
+|-
+| 1932
+| ''[[Emma (1932 film)|Emma]]''
+| Emma Thatcher Smith
+| Nominated—[[Academy Award for Best Actress]]
+|-
+| 1933
+| ''[[Going Hollywood]]''
+| Herself, Premiere Clip
+| Uncredited
+|-
+| 1933
+| ''[[Dinner at Eight (1933 movie)|Dinner at Eight]]''
+| Carlotta Vance
+|
+|-
+| 1933
+| ''[[Tugboat Annie]]''
+| Annie Brennan
+|
+|-
+| 1933
+| ''[[Christopher Bean]]''
+| Abby
+|Final Film Before Her Death
+|}
+
+==Quotes==
+* "If ants are such busy workers, how come they find time to go to all the picnics?"&lt;ref name="imdb-bio"/&gt;
+* "You're only as good as your last picture"&lt;ref name="imdb-bio"&gt;{{cite web |publisher=IMDB |url=https://www.imdb.com/name/nm0237597/bio#quotes |title=Biography for Marie Dressler |accessdate=September 15, 2011}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Biography|Film|Silent film}}
+* [[List of actors with Academy Award nominations]]
+* [[List of oldest and youngest Academy Award winners and nominees]]
+* [[Canadian pioneers in early Hollywood|Other Canadian pioneers in early Hollywood]]
+
+==References==
+* {{cite book |last=Kennedy |first=Matthew |year=2006
+ |title=Marie Dressler: A Biography, With a Listing of Major Stage Performances, a Filmography And a Discography
+ |publisher=McFarland |isbn=0-7864-0520-1 |ref=harv}}
+* {{cite book |last=Lee |first=Betty |year=1997 |title=Marie Dressler: The Unlikeliest Star
+ |publisher=University of Kentucky Press |isbn=0-8131-2036-5 |ref=harv}}
+* {{cite book |last=Silverman |first=Steven M. |year=1999 |title=Funny Ladies
+ |publisher=Harry N. Abrams, Inc. |isbn=0-8109-3337-3 |ref=harv}}
+
+;Notes
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book |last=Sturtevant |first=Victoria |title=A Great Big Girl Like Me: The Films of Marie Dressler |location=Urbana, Illinois |publisher=University of Illinois Press |year=2009 |isbn=978-0-252-07622-0}}
+
+==External links==
+{{commons}}
+* {{IBDB name}}
+* {{IMDb name|237597}}
+*[https://wfpp.cdrs.columbia.edu/pioneer/ccp-marie-dressler/ Marie Dressler] at Women Film Pioneers Project
+*[https://digitalcollections.nypl.org/search/index?utf8=%E2%9C%93&amp;keywords=marie+dressler#/?scroll=4 portrait gallery](NY Public Library, Billy Rose collection)
+* [http://cylinders.library.ucsb.edu/search.php?query=marie+dressler&amp;queryType=%40attr+1%3D1 Marie Dressler cylinder recordings], from the [[Cylinder Preservation and Digitization Project]] at the [[University of California, Santa Barbara]] Library
+* [http://www.mariedressler.ca Web site dedicated to Marie Dressler]
+* [http://film.virtual-history.com/person.php?personid=2333 Photographs and literature]
+* [https://archive.is/20130701055349/http://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=/sayre&amp;CISOPTR=23999&amp;CISOBOX=1&amp;REC=3 Marie Dressler dressed in Edwardian style and fashion, 1908] (Univ. of Washington, Sayre collection)
+*[https://archive.is/20130701055422/http://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=/sayre&amp;CISOPTR=11107&amp;CISOBOX=1&amp;REC=4 Marie Dressler reading newspaper in 1911 play ''Tillie's Nightmare''] (Univ. of Washington, Sayre collection)
+*[https://web.archive.org/web/20131105003303/http://content.lib.washington.edu/cdm4/item_viewer.php?CISOROOT=%2Fsayre&amp;CISOPTR=23576&amp;CISOBOX=1&amp;REC=5 Marie Dressler in a still of scene from ''Tillie the Scrub Lady'' 1917] (Univ. of Washington, Sayre collection)
+*[https://www.flickr.com/photos/puzzlemaster/5417994481/in/photostream/ 1922 passport photo; Marie Dressler]
+*[http://www.jumpingfrog.com/images/epm14dec03/hpb4676c.jpg Marie Dressler interviewed] in Vanity Fair Magazine ''Marie Dressler Tells How She Amuses Herself'', October 11, 1902
+
+{{AcademyAwardBestActress 1927-1940}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dressler, Marie}}
+[[Category:1868 births]]
+[[Category:1934 deaths]]
+[[Category:19th-century American actresses]]
+[[Category:American stage actresses]]
+[[Category:20th-century American actresses]]
+[[Category:Actresses from Ontario]]
+[[Category:American film actresses]]
+[[Category:American film producers]]
+[[Category:American memoirists]]
+[[Category:American silent film actresses]]
+[[Category:Best Actress Academy Award winners]]
+[[Category:Burials at Forest Lawn Memorial Park (Glendale)]]
+[[Category:Canadian expatriate actresses in the United States]]
+[[Category:Canadian film actresses]]
+[[Category:Canadian film producers]]
+[[Category:Canadian people of Austrian descent]]
+[[Category:Canadian silent film actresses]]
+[[Category:Canadian stage actresses]]
+[[Category:Deaths from cancer in California]]
+[[Category:Canadian women film directors]]
+[[Category:Metro-Goldwyn-Mayer contract players]]
+[[Category:People from Cobourg]]
+[[Category:People with acquired American citizenship]]
+[[Category:Silent film directors]]
+[[Category:Vaudeville performers]]
+[[Category:American women screenwriters]]
+[[Category:20th-century Canadian actresses]]
+[[Category:Women memoirists]]
+[[Category:Canadian women film producers]]
+[[Category:Women film pioneers]]</text>
+      <sha1>c79c4m5tvnebeqtnnspjf3zdtssm01k</sha1>
+    </revision>
+  </page>
+</mediawiki>

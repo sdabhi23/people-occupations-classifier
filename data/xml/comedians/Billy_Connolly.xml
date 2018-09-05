@@ -1,0 +1,627 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Billy Connolly</title>
+    <ns>0</ns>
+    <id>251011</id>
+    <revision>
+      <id>855583865</id>
+      <parentid>855574213</parentid>
+      <timestamp>2018-08-19T11:05:38Z</timestamp>
+      <contributor>
+        <username>Nford24</username>
+        <id>4688754</id>
+      </contributor>
+      <comment>Standardise</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="74623">{{EngvarB|date=August 2014}}
+{{Infobox comedian
+| honorific_prefix =
+| name             = Sir Billy Connolly
+| honorific_suffix = {{postnominals|country=GBR|size=100|CBE}}
+| image            = Billy Connolly Festival Cine Sidney.jpg
+| imagesize        =
+| caption          = Connolly at the premiere of ''[[Brave (2012 film)|Brave]]'' in June 2012
+| pseudonym        =
+| birth_name       = William Connolly
+| birth_date       = {{Birth date and age|1942|11|24|df=yes}}
+| birth_place      = [[Glasgow]], [[Scotland]], [[United Kingdom]]
+| nationality      = Scottish
+| medium           = {{Hlist | [[Stand-up comedy|Stand-up]] | Television | Film }}
+| instruments      = {{Hlist | [[Singing|Vocals]] | [[Acoustic guitar]] | [[Banjo]] | [[Autoharp]], [[harmonica]] }}
+| active           = 1965–present
+| genre            = {{Hlist | [[Observational comedy|Observational]] | [[Blue comedy|Blue]] | [[Musical comedy]] }}
+| influences       = {{Hlist | [[Chic Murray]] | [[Hank Williams]] | [[Dave Turner]]&lt;ref&gt;{{cite web|title=Dave Turner : Obituary|url=http://www.thisisannouncements.co.uk/5859987|work=This is Nottingham|publisher=Northcliffe Media Ltd.|accessdate=12 December 2011}}&lt;/ref&gt; | [[Jimmy Logan]]}}
+| influenced        = {{Hlist | [[Eddie Izzard]] | [[Frankie Boyle]] | [[Ross Noble]] | [[Michael McIntyre]] | [[Jason Manford]] | [[Bill Bailey]] | [[Tim Vine]] | [[Jimmy Carr]] | [[Ronnie Golden]] | [[Russell Howard]] | [[Craig Ferguson]] | [[Sean Lock]] | [[Jason Byrne (comedian)|Jason Byrne]] | [[Chris Addison]] | [[Kevin Bridges]] | [[Ricky Gervais]] | [[Peter Kay]] }}
+| domesticpartner   =
+| spouse            = &lt;div class="plainlist"&gt;
+* &lt;div style="margin:0.2em 0 0.4em;line-height:112%"&gt; {{marriage|Iris Pressagh|1969|1985|reason=divorced}} &lt;/div&gt;
+* &lt;div style="margin:0.2em 0 0.4em;line-height:112%"&gt; {{marriage|[[Pamela Stephenson]]|1989}} &lt;/div&gt;
+&lt;/div&gt;
+| children          = 5
+| website           = {{URL|http://billyconnolly.com}}
+}}
+
+'''Sir William Connolly''', {{postnominals|country=GBR|size=100|CBE}} (born 24 November 1942) is a Scottish comedian, musician, presenter and actor from [[Glasgow]]. He is sometimes known, especially in his homeland, by the nickname "The Big Yin" ("The Big One").&lt;ref name="Stephenson1"&gt;Stephenson, Pamela. ''Billy'', HarperCollins, 2001&lt;/ref&gt; His first trade, in the early 1960s, was as a [[welder]] (specifically a [[boilermaker]]) in the Glasgow shipyards, but he gave it up towards the end of the decade to pursue a career as a folk singer, firstly in [[the Humblebums]] alongside friend [[Gerry Rafferty]] and Tam Harvey until 1971, and subsequently as a solo artist. In the early 1970s, Connolly made the transition from folk-singer with a comedic persona to fully fledged comedian, for which he has received numerous awards.
+
+Connolly is also an actor and has appeared in such films as ''[[Water (1985 film)|Water]]'' (1985), ''[[Indecent Proposal]]'' (1993), ''[[Pocahontas (1995 film)|Pocahontas]]'' (1995), ''[[Muppet Treasure Island]]'' (1996), ''[[Mrs. Brown (film)|Mrs. Brown]]'' (1997), ''[[The Boondock Saints]]'' (1999), ''[[The Man Who Sued God]]'' (2001), ''[[The Last Samurai]]'' (2003), ''[[Timeline (2003 film)|Timeline]]'' (2003), ''[[Lemony Snicket's A Series of Unfortunate Events]]'' (2004), ''[[Garfield: A Tail of Two Kitties]]'' (2006), ''[[Open Season (2006 film)|Open Season]]'' (2006), ''[[The X-Files: I Want to Believe]]'' (2008), ''[[Open Season 2]]'' (2008), ''[[Brave (2012 film)|Brave]]'' (2012), ''[[Quartet (2012 film)|Quartet]]'' (2012), and ''[[The Hobbit: The Battle of the Five Armies]]'' (2014). Connolly reprised his role as Noah "Il Duce" MacManus in ''[[The Boondock Saints II: All Saints Day]]'' (2009).
+
+==Early life==
+===Ancestry===
+Connolly's paternal grandfather, whom — like his paternal grandmother — Connolly never met, was an Irish immigrant who left Ireland when he was ten years old.&lt;ref name=WTOI/&gt;&lt;ref name="filmref"&gt;{{cite web|url=http://www.filmreference.com/film/74/Billy-Connolly.html|title=Billy Connolly Biography|publisher=FilmReference.com|accessdate=1 September 2011}}&lt;/ref&gt;&lt;ref name=earlyyears&gt;{{Cite news|url=https://www.theguardian.com/theobserver/2001/sep/23/life1.lifemagazine5|work=[[The Observer]]|location=London|title=Billy Connolly: The early years|date=23 September 2001|accessdate=26 April 2010|first=Pamela|last=Stevenson}}&lt;/ref&gt; His great-great-great grandfather (Charles Mills, a [[coast guard]], 1796–1870)&lt;ref&gt;[http://www.coastguardsofyesteryear.org/forum/viewthread.php?thread_id=489 "Coastguards of Yesteryear"], coastguardsofyesteryear.org; accessed 30 April 2018.&lt;/ref&gt; and great-great grandfather (Bartholomew Valentine Connolly) were from [[Connemara]].&lt;ref name=WTOI/&gt;
+
+Connolly's father was William Connolly; his mother, Mary "Mamie" McLean, was from the [[Clan Maclean]] of [[Duart Castle]] on the [[Isle of Mull]] on the west coast of [[Scotland]]. Mamie's father, Neil, was a Protestant, and her mother, Flora, was a Roman Catholic who "made clandestine arrangements for the children to be baptized as Catholics", although they were "formally raised as Protestants".&lt;ref name=WTOI&gt;''[[Billy Connolly's World Tour of England, Ireland and Wales]]'', 2002.&lt;/ref&gt; His maternal grandparents moved inland to Finnieston Street, Glasgow, in the early 1900s.&lt;ref&gt;''Billy Connolly: Live in London 2010''&lt;/ref&gt;
+
+His maternal great-great-great-grandfather, John O'Brien, fought at the [[Siege of Lucknow]] during the [[Indian Rebellion of 1857]]. He was wounded during the long siege by a severe gunshot to the left shoulder. He married a local 13-year-old Indian girl called Matilda. They had four children and settled in Bangalore after his military service.&lt;ref name=jake/&gt;&lt;ref&gt;{{Cite web|url=https://www.thegenealogist.co.uk/featuredarticles/2014/who-do-you-think-you-are/billy-connolly-197/|title=Billy Connolly - Who Do You Think You Are - A tale of  far distant exploits of the ancestors of one of Britain’s best loved comedians...|last=|first=|date=2014-10-02|website=www.thegenealogist.co.uk|archive-url=|archive-date=|dead-url=|access-date=}}&lt;/ref&gt;
+
+===Childhood===
+Connolly was born at 69 Dover Street,&lt;ref name=Revealed&gt;{{cite video|url=http://edition.cnn.com/video/#/video/international/2008/09/17/revealed.connolly.bk.b.cnn|title=Billy Connolly profile|publisher=cnn.com|date=16 July 2010|event=00:56|quote=I was born at 69 Dover Street.... and I was born apparently on the kitchen floor at 6 o'clock in the evening.|accessdate=1 September 2011}}&lt;/ref&gt; "on the linoleum, three floors up"&lt;ref name="WToS"&gt;[[World Tour of Scotland]](1994), Connolly, Billy&lt;/ref&gt; at six o'clock in the evening",&lt;ref name=Revealed/&gt; in [[Anderston]], Glasgow. This section of Dover Street, between Breadalbane and Claremont streets, was demolished in the 1970s.&lt;ref name=Revealed/&gt; Connolly refers to this in his 1983 song "I Wish I Was in Glasgow" with the lines "I would take you there and show you but they've pulled the building down" and "They bulldozed it all to make a road". The flat had only two rooms: a kitchen-living room, with a recess where the children slept and another room for their parents. The family bathed in the kitchen sink, and there was no hot water.&lt;ref name=earlyyears/&gt;
+
+In 1946, when he was barely four years old, Connolly's mother abandoned her children while their father was serving as an engineer in the [[Royal Air Force]] in [[Burma]].&lt;ref name=earlyyears/&gt; "I've never felt abandoned by her", Connolly explained in 2009.&lt;ref name=shrink/&gt; "My mother was a teenager. My father was in Burma, fighting a bloody war. The Germans were dropping all kinds of crap on the town. We lived at the docks, so that's where all the bombs were happening. She was a teenager with two kids in a slum. A guy comes along and says, 'I love you. Come with me.' Given the choice, I think ''I'd'' have gone with him. It looks as though it might all end next Wednesday, from where you're standing. I don't have an ounce of feelings that she abandoned me. She tried to survive."&lt;ref name=shrink/&gt;
+
+Connolly and his older sister, Florence (named for their maternal grandmother, and eighteen months his senior),&lt;ref name=earlyyears/&gt;&lt;ref&gt;''Live in New York'' DVD&lt;/ref&gt; were cared for by two aunts, Margaret and Mona Connolly, his father's sisters, in their cramped [[tenement]] in Stewartville Street, [[Partick]]. "My aunts constantly told me I was stupid, which still affects me today pretty badly. It’s just a belief that I’m not quite as good as anyone else. It gets worse as you get older. I’m a happy man now but I still have the scars of that."&lt;ref name=herald2009/&gt; Regarding his sister, Connolly has called her his "great defender".&lt;ref name=shrink/&gt; "To this day, he explained in 2009,&lt;ref name=shrink/&gt; "Guys say, 'God, your sister... We didn't dare beat you up – your sister was a nightmare'. She used to get after them." In the mid-1960s, Flo was on holiday in Dunoon with her husband and two children. "My mother said, 'I saw Florence walking along, and I followed her.'"&lt;ref name=shrink/&gt; "I said, 'Did you speak to her?' 'Oh, no, I didn't,' she said. I thought, 'Oh, my god. It's like being a ghost while you're still alive.' Walking behind your own child. Having a look. I couldn't bear that."&lt;ref name=shrink/&gt;
+
+The aunts resented the children for the fact that they had to sacrifice their young lives to look after them. It was Mona who was troubled the most by having to care for her niece and nephew. "It was very big of her to take on the responsibility, but having said that, I wish people wouldn't do that. I wish people wouldn't be very big for five minutes and rotten for twenty years. Just keep your 'big' and keep your 'rotten' and get out of my life, because, quite frankly, I would rather have gone to a [[children's home]] and be with a lot of other kids being treated the same. To this day, I'm still working on the things she did to me."&lt;ref name=SBS/&gt;
+
+Connolly credits one of [[John Bradshaw (author)|John Bradshaw]]'s publications with helping him deal with his past demons. "He reckons that if this trauma happened to you when you were five or six then, emotionally, that part of you remains five or six. And what you have to do is carry that five- or six-year-old around with you and try and emotionally help that other part of you. It sounds a bit airy-fairy, but I think he's something of a genius, Mr. Bradshaw."&lt;ref name=SBS/&gt;
+
+Connolly Sr returned from the war, a stranger to his children, shortly after the move to Partick. He never spoke to them about their mother's departure.&lt;ref name=earlyyears/&gt;
+
+Connolly's biography, ''Billy'', written by wife [[Pamela Stephenson]], documented years of [[physical abuse|physical]] and [[child sexual abuse|sexual abuse]] by his father, which began when he was ten and lasted until he was about fifteen.&lt;ref name="BBC 2001"&gt;[http://news.bbc.co.uk/1/hi/scotland/1559131.stm "Billy Connolly reveals childhood abuse"], bbc.co.uk, 23 September 2001.&lt;/ref&gt; "Sometimes, when father hit me, I flew over the settee backwards in a sitting position. It was fabulous. Just like real flying, except you didn't get a cup of tea or a safety belt or anything."&lt;ref name=earlyyears/&gt; In 1949, Mona gave birth to a son, Michael, by a "local man". He was presented as a brother to Billy and Flo, and nobody questioned it.&lt;ref name=earlyyears/&gt;
+
+Connolly's bedroom had double windows, which directly faced [[St Peter's Boys School, Stewartville St, Glasgow|St Peter's Primary School]] across the street.&lt;ref name=SBS/&gt; Now defunct, it has been converted into living accommodation. "The school was very violent indeed. At first, in the infant school, the nuns were very violent. And then over here at St Peter's, they were just strapping you all the time. I had a psychopath in here, called McDonald&amp;nbsp;— Miss McDonald. "Big Rosie", they called her. There was a guy with glasses in my class and she called him "four eyes", and she was a teacher!"&lt;ref name=SBS/&gt;&lt;ref name="theguardian.com"&gt;[https://www.theguardian.com/books/2001/oct/07/features.billyconnolly Billy Connolly: The Glory Years], theguardian.com, 7 October 2001; accessed 21 August 2017.&lt;/ref&gt;
+
+At St Peter's, Connolly decided he wanted to make people laugh. "I can remember the moment in the school playground. I would have been 7 or 8. And I was sitting in a puddle and people were laughing. I had fallen in it and people found it funny. And it wasn't all that uncomfortable, so I stayed in it longer than I normally would because I really enjoyed the laughing. My life was very unhappy at the time, and laughter wasn't something I heard all the time, so it was a joy. And I realised quickly that if you can have an audience this way, life was rather pleasant."&lt;ref name=SBS/&gt; While at St Peter's, Connolly joined a gang. His arch-enemy was Geordie Sinclair, who lived around the corner.&lt;ref name=shrink&gt;''[[Shrink Rap (TV series)|Shrink Rap]]'': "Billy Connolly", 2009&lt;/ref&gt;
+
+Connolly was a [[Cub Scouts (The Scout Association)|Wolf Cub]] with the 141st Glasgow Scout Group. He revisits the site of one field trip, [http://www.auchengillan.com/ Auchengillan scout camp], during his ''[[World Tour of Scotland]]''.&lt;ref name="WToS"/&gt; At age 12, Connolly decided he wanted to become a comedian but did not think that he fit the mould, feeling he needed to become more "windswept and interesting". Also at that age, he joined an organisation called The Children of Mary. The group would visit people and say the [[Rosary]], with a statue of the [[Mary (mother of Jesus)|Lady of Lourdes]] in a shoebox. "We were as welcome as [[hemorrhoid|haemorrhoids]]."&lt;ref name=shrink/&gt; The group would all kneel around the statue and pray. "You could hear people hurrying prayers because there was a good television programme coming."&lt;ref name=shrink/&gt;
+
+In the 1950s, Glasgow's sandstone tenements [[Housing in Glasgow|fell out of favour with the planners]], which resulted in new houses being built on the fields and farmlands in the outskirts of the city. Between the ages of fourteen and twenty, Connolly was brought up on a now-demolished [[council estate]] on Kinfauns Drive in the [[Drumchapel]] district of Glasgow, and would make the daily journey to [[St. Gerard's RC Secondary, Govan|St. Gerard's Secondary School]] (also now defunct) in [[Govan]], on the southern side of the [[River Clyde]]. He rode the bus to Partick, crossed the water by ferry and walked to 80 Vicarfield Street.&lt;ref name="Stephenson1"/&gt;&lt;ref name="WToS"/&gt;
+
+"Drumchapel is a housing estate just outside Glasgow. Well, it's ''in'' Glasgow, but just ''outside'' civilisation," he has joked.&lt;ref name="WToS"/&gt; "To be quite honest, I quite liked it when I lived there. When I moved to Drumchapel, I was fourteen and there was a [[Hyacinthoides|bluebell]] wood there, and it was in great condition then&amp;nbsp;— I don't think it's in quite so good condition now&amp;nbsp;— but it was lovely then. We had rabbits and pheasants, and I really quite liked it. I just started to dislike it when I got older, into my teens and things. In my late teens, when I was stuck out there, it cost me a lot of money to go anyplace. It was a kind of cowboy town, but I liked that aspect of it, buying stuff out of vans, a [[Rag-and-bone man|ragman]] coming in a wee green van."&lt;ref name=earlyyears/&gt;
+
+Connolly revisited this tenement in Drumchapel during filming for the ''[[South Bank Show]]'' in 1992. "It eventually started to pall. This dreadful atmosphere came about the place. It's like [[Siberia]]. And once you're out here, there's no getting out of it. You have to buy your way out, or some kind of talent has to take you out, or you have to be very bright and move away to university."&lt;ref name=SBS/&gt; Also at fourteen, Connolly started to become interested in music&amp;nbsp;— mainly [[Jerry Lee Lewis]] and [[Chuck Berry]]. At 15, he left school with two engineering qualifications, one collected by mistake which belonged to a boy named Connell.&lt;ref name="Transatlantic"&gt;''[[Transatlantic Years]]'' liner notes&lt;/ref&gt;
+
+Connolly was a year too young to work in the shipyards. Instead, he started working for John Smith's Bookshop, on St Vincent Street, delivering books on his bicycle. He became a delivery-van driver with Bilslands' Bakery until he was sixteen when he was deemed overqualified (due to his J1 and J2 certificates) to become an engineer.&lt;ref name="Transatlantic"/&gt; Instead, he worked as a boilermaker&lt;ref name="World Tour of Australia"/&gt; at [[Alexander Stephen and Sons]] shipyard in [[Linthouse]].&lt;ref name="Transatlantic"/&gt;
+
+"What an extraordinary feeling," Connolly said, upon returning to the site of the now-demolished shipyard in 1992.&lt;ref name=SBS/&gt; "I spent a great deal of my life in here. From age 16 to... well, I started at 15. I started my apprenticeship at 16 and finished when I was 21. Stayed till I was 22, and moved along. I finished welding when I was 24. When I came here, as an apprentice, there was six ships being built, right where I'm standing. It was an extraordinary place. A hive of activity. Welders, caulkers, platers, burners, joiners, engineers, electricians. I learned how men talked to one another, and how merciless Glasgow humour can be. It has made an indelible mark on me."&lt;ref name=SBS/&gt; His [[Construction foreman|foreman]] was Sammy Boyd, but the two biggest influences on him, according to the book written by his wife Pamela, were Jimmy Lucas and Bobby Dalgleish. Jimmy was one of Billy’s trainers in the yard who helped him to hone his skills as a welder and a comedian. 
+
+Connolly also joined the [[Territorial Army (United Kingdom)|Territorial Army Reserve]] unit [[15th (Scottish) Battalion, Parachute Regiment|15th (Scottish) Battalion]], the [[Parachute Regiment (United Kingdom)|Parachute Regiment]] (15 PARA). He later commemorated his experiences in the song "Weekend Soldier".&lt;ref name="Transatlantic"/&gt;
+
+==Career==
+===Origin of "The Big Yin"===
+Connolly's ''The Big Yin'' nickname was first used during his adolescent years to differentiate between himself and his father.&lt;ref name="Stephenson1"/&gt; "My father was a very strong man. Broad and strong. He had an 18½-inch neck collar. Huge, like a bull. He was "Big Billy" and I was "Wee Billy". And then I got bigger than him, and the whole thing got out of control. And then I became ''The Big Yin'' in Scotland. So, we'd go into the [[public house|pub]] and someone would say, 'Billy Connolly was in.' 'Oh? Big Billy or Wee Billy?' 'The Big Yin.' 'Oh, Wee Billy.' If you were a stranger, you'd think, 'What are these people talking about?'"&lt;ref name="World Tour of Australia"&gt;''[[Billy Connolly's World Tour of Australia]]'', 1996&lt;/ref&gt;
+
+===1960s===
+In the early 1960s, Connolly attended the [[Edinburgh Festival Fringe]] for the first time. After spending time on the city's Rose Street, patronising the various drinking establishments, he became enamoured by some long-haired musicians and decided to model himself on them.&lt;ref&gt;''Billy &amp; Albert'' DVD, 1987&lt;/ref&gt;
+
+In 1965, after he had completed a five-year apprenticeship as a boilermaker, Connolly accepted a ten-week job building an [[oil platform]] in [[Biafra]], Nigeria. Upon his return to the United Kingdom, via [[Jersey]], he worked briefly at [[John Brown &amp; Company]] but decided to walk out on a [[Glasgow Fair|Fair Friday]] to focus on being a [[folk singer]].
+
+After watching ''[[The Beverly Hillbillies]]'', he bought his first [[banjo]] at the [[Glasgow Barrowland market|Barrowland market]].&lt;ref name=earlyyears/&gt; He began touring with the Folkie crowd, including regular stints at The Scotia bar, on Stockwell Street, guided by folk singer [[Danny Kyle]]. "I kind of introduced Billy to the folk clubs, such as there were in those days&amp;nbsp;— there were very few in the those days. We used to go to places like Saturday Late or the Montrose Street Glasgow Folk Club."&lt;ref name=SBS/&gt;
+
+Connolly formed a folk-pop duo called [[The Humblebums]] with Tam Harvey. They were joined, in 1969, by [[Gerry Rafferty]], who had approached Connolly after a gig in [[Paisley, Renfrewshire|Paisley]]. The band signed for independent label [[Transatlantic Records]], and after recording one album (1969's ''First Collection of Merry Melodies''), Harvey left the trio, and Connolly and Rafferty went on to release two more albums: ''The New Humblebums'' (1969) and ''Open up the Door'' (1970). Connolly's time with Rafferty possibly influenced his future comedy, because years later he would recall how Rafferty's expert prank telephone calls, made while waiting to go on stage, used to make him "scream" with laughter. The albums were not big commercial successes but enjoyed cult status and critical acclaim.  Connolly's contributions were primarily straightforward pop-folk with quirky and whimsical lyrics, but he had not especially focused on comedy at this point.
+
+In 1968,&lt;ref name=shrink/&gt; a 26-year-old Connolly married [[Springburn]] native and interior designer Iris Pressagh, with whom he had two children. They initially lived on Redlands Road in Glasgow's West End, but when fans began to wait out in the street, they moved to [[Drymen]], near the south-eastern shore of [[Loch Lomond]].
+
+Later that year,&lt;ref name=shrink/&gt; Connolly's mother went to meet him backstage after a Humblebums gig in [[Dunoon]], where she was working in the cafeteria at [[Cowal Community Hospital|Dunoon General Hospital]]. It was the second and final meeting between them since she abandoned Connolly.&lt;ref name=earlyyears/&gt; She had been living in the town with her partner, Willie Adams, with whom she had three daughters and a son.&lt;ref&gt;Tim Adams, [http://books.guardian.co.uk/departments/biography/story/0,6000,556340,00.html "Billy Connolly: The interview – Connolly on the couch"], ''[[The Observer]]'', 23 September 2001&lt;/ref&gt; "I went home to her house and stayed the night, instead of the hotel. The sadness is... She was a very nice woman, but we never got along. We both tried to like each other, and I don't think she liked me very much. I don't regret it, but I'm sad about it. I wish I'd liked her. And I wish she'd liked me."&lt;ref name=shrink/&gt;
+
+In 1971, the Humblebums broke up, with Rafferty going on to record his solo album ''[[Can I Have My Money Back?]]'' Connolly returned to being a folk singer.  His live performances featured humorous introductions that became increasingly long in duration. The head of Transatlantic Records, [[Nathan Joseph|Nat Joseph]], who had signed The Humblebums and had nurtured their career, was concerned that Connolly find a way to develop a distinctive solo career just as his former bandmate, Gerry Rafferty, was doing.{{citation needed|date=August 2017}} Joseph saw several of Connolly's performances and noted his comedic skills.  Joseph had successfully nurtured the recording career of another Scottish folk entertainer, [[Hamish Imlach]], and saw potential in Connolly following a similar path.  He suggested to Connolly that he drop the folk-singing and focus primarily on becoming a comedian.{{citation needed|date=August 2017}}
+
+===1970s===
+In 1972, Connolly made his theatrical debut, at the Cottage Theatre in [[Cumbernauld]], with a [[revue]] called Connolly's Glasgow Flourish.&lt;ref name=herald2009&gt;[http://www.heraldscotland.com/arts-ents/film-tv-features/the-story-of-billy-connolly-in-11-and-a-half-chapters-1.921179 "The story of Billy Connolly in 11 and a half chapters"], heraldscotland.com, 21 September 2009.&lt;/ref&gt; He played the [[Edinburgh Festival Fringe]] with poet Tom Buchan, with whom he had written The Great Northern Welly Boot Show, and in costumes designed by the artist and writer [[John Byrne (playwright)|John Byrne]], who also designed the covers of the Humblebums' records.&lt;ref name=herald2009/&gt;
+
+Also in 1972, Nat Joseph produced Connolly's first solo album, ''Billy Connolly Live!'', a mixture of comedic songs and short monologues that hinted at what was to follow. In late 1973, Joseph produced the breakthrough album that propelled Connolly to British stardom.  Recorded at a small venue, The Tudor Hotel in [[Airdrie, North Lanarkshire|Airdrie]], the record was a double album titled ''Solo Concert''.  Releasing a live double-album by a comedian who was virtually unknown (except to a cult audience in Glasgow) was an unusual gambit by Joseph but his faith in Connolly's talent was justified.  Joseph and his marketing team, which included publicist [[Martin Lewis (humorist)|Martin Lewis]], successfully promoted the album to chart success on its release in 1974. It featured one of Connolly's most famous comedy routines&amp;nbsp;— "The Crucifixion"&amp;nbsp;— in which he likens Christ's [[Last Supper]] to a drunken night out in [[Glasgow]]. The recording was banned by many radio stations at the time. Building on his cult Scottish following, they broke Connolly throughout the UK&amp;nbsp;– an unusual development for a regional comedian. Connolly employed Frank Lynch as his first manager around this time.{{citation needed|date=August 2017}}
+
+[[Image:Billy Connolly's banana boots.jpg|alt=Two yellow bananas tailor-made in cloth with the tops peeled and the cloth skin hanging down.|thumb|Connolly's banana boots, designed and made by Glasgow Pop Artist Edmund Smith and a regular in his act during the 1970s, are now on display in the [[People's Palace, Glasgow|People's Palace]] in Glasgow.&lt;ref&gt;[http://www.glasgowlife.org.uk/museums/peoples-palace/highlights/Pages/default.aspx Glasgow Museums: Highlights at People's Palace], glasgowlife.org.uk; accessed 21 August 2017.&lt;/ref&gt;]]
+
+In 1974, he sold out the [[Pavilion Theatre (Glasgow)|Pavilion Theatre]] in his home town.&lt;ref name=herald2009/&gt; In 1975, the rapidity and extent of Connolly's breakthrough was used to secure him a booking on Britain's premier TV chat show, the [[BBC]]'s ''[[Parkinson (TV series)|Parkinson]]''. Connolly made the most of the opportunity and, ignoring objections from his manager,&lt;ref name=herald2009/&gt; told a bawdy joke about a man who had murdered his wife and buried her bottom-up so he'd have somewhere to park his bike. This ribald humour was unusually forthright on a primetime Saturday night on British television in the mid-1970s, and his appearance made a great impact. "When I finished that show, I came back to Glasgow, and I was coming through the airport and the whole airport started to applaud."&lt;ref&gt;[https://www.youtube.com/watch?v=phAGEUx8QQM "Billy Connolly: Portrait of a Lifetime" (BR Docs)] – YouTube&lt;/ref&gt; Connolly became a good friend of the host, [[Michael Parkinson]], and now holds the record for appearances on the programme, having been a guest on fifteen occasions.&lt;ref name="rtimes"&gt;''Radio Times'' 15–21 December 2007: Goodnight... and Thank You&lt;/ref&gt; Referring to that debut appearance, he later said: "That programme changed my entire life." Parkinson, in the documentary ''Billy Connolly: Erect for 30 Years'', stated that people still remember Connolly telling the punchline to the 'bike joke' three decades after that TV appearance. When asked about the material, Connolly stated, "Yes, it was incredibly edgy for its time. My manager, on the way over, warned me not to do it, but it was a great joke and the interview was going so well, I thought, 'Oh, fuck that!!' I don't know where I got the courage in those days, but Michael did put confidence in me."&lt;ref name="rtimes"/&gt; Connolly's UK success spread to other English-speaking countries: Australia, New Zealand, and Canada.  However, his broad Scottish accent and British cultural references made success in the US improbable.
+
+His increased profile led to contact with other individuals, including musicians such as [[Elton John]]. John at that time was trying to assist British performers whom he personally liked to achieve success in the US (he had released records in the US by veteran British pop singer [[Cliff Richard]] on his own [[The Rocket Record Company|Rocket]] label). John tried to give Connolly a boost in America by using him as the opening act on his 1976 US tour. But the well-intentioned gesture was a failure. John's American fans had no interest in being warmed-up by an unknown comedic performer&amp;nbsp;– especially a Scotsman whose accent they found incomprehensible. "In Washington, some guy threw a [[smoking pipe|pipe]] and it hit me right between my eyes", he told Michael Parkinson two years later. "It wasn't my audience. They made me feel about as welcome as a fart in a spacesuit."{{citation needed|date=August 2017}}
+
+Connolly continued to grow in popularity in the UK.  In 1975, he signed with [[Polydor Records]].  Connolly continued to release live albums and he also recorded several comedic songs that enjoyed commercial success as novelty singles including parodies of [[Tammy Wynette]]'s song "[[D.I.V.O.R.C.E.]]" (which he performed on ''[[Top of the Pops]]'' in December 1975) and the [[Village People]]'s "[[In the Navy]]" (titled "In the [[Brownie (Girl Guides)|Brownies]]").&lt;ref name=herald2009/&gt;
+
+In 1976, Connolly's first [[play (theatre)|play]], ''An' Me wi' a Bad Leg, Tae'' opened in [[Irvine, North Ayrshire|Irvine]] and toured in [[London]]. It was there that, after consuming a sizable amount of [[cocaine]] and alcohol, he collapsed on the floor of a recording studio.&lt;ref name=herald2009/&gt; In 1979, Connolly met [[Pamela Stephenson]], the New Zealand-born comedy actress, for the first time when he made a [[cameo appearance]] on the BBC sketch show ''[[Not the Nine O'Clock News]]'', in which she was one of four regular performers.&lt;ref name=herald2009/&gt;
+
+Returning to the stage, Connolly embarked on his Big Wee Tour of Britain, performing 69 dates in 84 days. While backstage in [[Brighton]], he met Stephenson for a second time. He confided in her that he was unhappy and that his current marriage was over. Back at his hotel, where they began an [[affair]], he reportedly drank thirty [[brandy|brandies]]. "What I saw of him&amp;nbsp;– particularly in that dressing room&amp;nbsp;– was that he was about to die," Stephenson said. "He was very [[suicidal]]. He was throwing everything away, desperately trying to feel no pain at all. You know how you get a sense from some people when they are very self-destructive that there is something they are trying to bury? They've got something they are trying to forget, or they are trying to drown their sorrows? He was hurting in a very deep way. I thought, 'If I leave this man, he's going to die.'"&lt;ref name=herald2009/&gt;
+
+Also in 1979, Connolly was invited by producer Martin Lewis to join the cast of ''[[The Secret Policeman's Ball (1979)|The Secret Policeman's Ball]]'', the third in the series of ''[[The Secret Policeman's Balls]]'' fundraising shows for [[Amnesty International]]. Connolly was the first comedic performer in the series who was not an alumnus of the [[Oxbridge]] school of middle-class university-educated entertainers and he made the most of his appearance. Appearing in the company of long-established talents such as [[John Cleese]] and [[Peter Cook]] helped elevate the perception of Connolly as one of Britain's leading comedic talents. Lewis also teamed Connolly with Cleese and Cook to appear in the television commercial for the album.
+
+===1980s===
+In 1981, [[John Cleese]] and Martin Lewis invited Connolly to appear in that year's Amnesty show, ''[[The Secret Policeman's Other Ball]]''. The commercial success of the special US version of ''The Secret Policeman's Other Ball'' film ([[Miramax Films]], 1982) introduced Connolly to a wider American audience, who were attracted to the film because of the presence of [[Monty Python]] members. His on-screen presence alongside these performers&amp;nbsp;– who were already familiar to Anglophile comedy buffs&amp;nbsp;– helped lay down a marker for Connolly's eventual return to the US in his own right eight years later.
+
+En route to begin filming ''[[Water (1985 film)|Water]]'' (1985) in [[Saint Lucia]], Connolly drank an excessive amount of alcohol on the plane. Upon arriving on the island, he had dinner with the cast and crew, including [[Michael Caine]].
+
+{{blockquote|"They had a jolly evening, then travelled back by bus through a part of the island that features steep cliffs on either side of a jungle road. As they careered along, Billy thought it would be a wheeze to cover the driver's eyes with his hands. 'I'll guide you,' insisted our drunken control-freak, 'Left, right... more right.' It was a game he had apparently played with his London driver: God knows how they managed to survive. Michael Caine apprehended Billy just in time to save the bus from plunging down a St Lucian ravine." — Excerpt from ''Billy'' by Pamela Stephenson (2001)&lt;ref name="theguardian.com"/&gt;}}
+
+In 1985, he divorced Iris Pressagh, his wife of sixteen years (they had separated four years earlier) and he was awarded custody of their children Jamie and Cara.&lt;ref&gt;[https://www.theguardian.com/books/2001/oct/07/features.billyconnolly "Billy Connolly: The Glory Years"], ''The Guardian'', 7 October 2001&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.theguardian.com/books/2001/sep/23/biography.billyconnolly|title=Billy Connolly: The interview|last=Adams|first=Tim|date=2001-09-23|website=the Guardian|language=en|archive-url=|archive-date=|dead-url=|access-date=}}
+&lt;/ref&gt; That same year, he performed ''[[An Audience with...]]'', which was videotaped at the [[The London Studios|South Bank Television Centre]] in front of a celebrity audience for [[ITV (TV network)|ITV]]. The uncut, uncensored version was subsequently released on video. In July 1985, he performed at the [[Wembley Stadium (1924)|Wembley]] leg of [[Live Aid]], immediately preceding Elton John.
+
+On 30 December 1985, Connolly became [[tee-total]], having been an [[alcoholic]].&lt;ref&gt;''[[Parkinson (TV series)|Parkinson]]'' (2003)&lt;/ref&gt; "I don't miss drinking. It has taken me by surprise," Connolly stated 24 years later.&lt;ref name=shrink/&gt; "I miss the [[craic]]. I miss the joy of it all. The headbanging stupidity, the loveliness, the craziness of it. I miss it terribly." He recalls blackouts that he would fill in upon returning to sobriety. "Well, [the memories] stopped coming back. But when I drank, I would go, 'Oh, I remember now.'" Psychologists call it [[state-dependent learning]].&lt;ref name=shrink/&gt; "That was frightening. I remember thinking, 'Beware, Billy boy. Beware. All is not well. Do something.'" Regarding the decision he made to stay sober: "If [Pamela] goes away, I'm on my own. There's nothing. There's only me and ''it''. So the choice becomes very apparent."&lt;ref name=shrink/&gt;
+
+In 1986, he visited [[Mozambique]] to appear in a documentary for [[Comic Relief (charity)|Comic Relief]]. He also featured in the charity's inaugural live stage show, both as a stand-up and portraying a willing "victim" in his partner Pamela Stephenson's act of sawing a man in half to create two [[dwarfism|dwarfs]].
+
+Connolly completed his first world tour in 1987, including six nights at the [[Royal Albert Hall]] in London, which was documented in the ''Billy and Albert'' video.
+
+When the Fox Network aired ''Freedomfest: [[Nelson Mandela]]'s 70th Birthday Celebration'' in 1988, Connolly was still virtually unknown in the States, but his performance drew attention, particularly from producers, and interest in him grew.
+
+In March 1988, Connolly's father died after a stroke, the eighth of his life.&lt;ref name="WToS" /&gt;&lt;ref name="theguardian.com"/&gt;&lt;ref&gt;[https://www.telegraph.co.uk/culture/film/9742956/Elderly-should-be-cared-for-by-their-children-Billy-Connolly-says.html "Elderly should be cared for by their children, Billy Connolly says"], ''Daily Telegraph'' 14 December 2012&lt;/ref&gt; His mother died five years later, in 1993, of [[motor neurone disease]].
+
+Connolly and Stephenson married in [[Fiji]] on 20 December 1989; he had been living with her since 1981. "Marriage to Pam didn't change me; it saved me," he later said. "I was going to die. I was on a downwards spiral and enjoying every second of it. Not only was I dying, but I was looking forward to it."&lt;ref name=herald2009/&gt;
+
+===1990s===
+{{BLP sources section|date=August 2017}}
+Although Connolly had performed in North America as early as the 1970s and had appeared in several movies that played in American theatres, he nonetheless remained relatively unknown until 1990 when he was featured in the [[HBO]] special ''[[Whoopi Goldberg]] and Billy Connolly in Performance'', produced by New York's [[Brooklyn Academy of Music]]. Soon after, Connolly succeeded [[Howard Hesseman]] as the star of the sitcom ''[[Head of the Class]]'' for its final season. He would also take part on its spin-off series [[Billy (1992 TV series)|Billy]]. Connolly joined [[Frank Bruno]] and [[Ozzy Osbourne]] when singing "The War Song of the Urpneys" in ''[[The Dreamstone]]''.
+
+On 4 June 1992, Connolly performed his 25th-anniversary concert in Glasgow. Parts of the show and its build-up were documented in ''[[The South Bank Show]]'', which aired later in the year.&lt;ref name=SBS&gt;{{cite web|url=http://www.tv.com/the-south-bank-show/billy-connolly/episode/270036/summary.html|title='&amp;#39;The South Bank Show'&amp;#39; episode guide at|publisher=Tv.com|date=4 October 1992|accessdate=1 September 2011}}&lt;/ref&gt; In early January 1994, Connolly began a 40-date ''[[Billy Connolly's World Tour of Scotland|World Tour of Scotland]]'', which would be broadcast by the [[BBC]] later in the year as a six-part series. It was so well received that the BBC signed him up to do a similar tour two years later, [[Billy Connolly's World Tour of Australia|this time in Australia]]. The eight-part series followed Connolly on his custom-made [[Harley Davidson]] trike. Also in 1995, Connolly recorded a BBC special, entitled ''A Scot in the Arctic'', in which he spends a week by himself in the [[Arctic Circle]]. He voiced Captain John Smith's shipmate, Ben, in Disney's animated film, ''[[Pocahontas (1995 film)|Pocahontas]]''.{{citation needed|date=August 2017}}
+
+In 1996, he appeared in ''[[Muppet Treasure Island]]'' as [[Billy Bones]]. In 1997, Connolly starred with Dame [[Judi Dench]] in ''[[Mrs. Brown (film)|Mrs. Brown]]'', in which he played [[John Brown (servant)|John Brown]], the favoured Scottish servant of [[Queen Victoria]]. He was nominated for a [[BAFTA]] Award and a [[BAFTA Scotland]] Award for Best Actor, as well as a [[Screen Actors Guild]] Award for Best Supporting Actor for his performance.{{citation needed|date=August 2017}}
+
+In 1998, Connolly's best friend, Danny Kyle, died. "He was my dearest, dearest, oldest friend", Connolly explained to an Australian audience on his ''Greatest Hits'' compilation, released in 2001. It was Kyle who helped Connolly overcome his recoiling nature at being touched by others, a remnant of the abuse he endured as a child. "Every time it happened, Danny would just collapse with hysterics," said Pamela Stephenson.&lt;ref name=earlyyears/&gt; "'That's not normal, Billy,' Danny tried to be patient with him. 'You'll have to relax. It's touchy-feely, you know, the way we live. We like to touch each other and we kiss: we're different. You'll have to calm down or you'll always be fighting.'"&lt;ref name=earlyyears/&gt;
+
+He performed a [[cover version]] of the [[The Beatles|Beatles]]' song "[[Being for the Benefit of Mr. Kite]]" on [[George Martin]]'s 1998 album, ''[[In My Life (George Martin album)|In My Life]]''. In November 1998, Connolly was the subject of a two-hour retrospective entitled ''Billy Connolly: Erect for 30 Years'', which included tributes from Dench, Sir [[Sean Connery]], [[Whoopi Goldberg]], [[Robin Williams]], [[Dustin Hoffman]], and [[Eddie Izzard]]. The special was released on DVD in North America in 2004.{{citation needed|date=August 2017}}
+
+In 1999, after forming Tickety-Boo management company with Malcolm Kingsnorth, his [[tour manager]] and [[sound engineer]] of 25 years, Connolly undertook a four-month, 59-date sellout tour of Australia and New Zealand. Later in the year, he completed a five-week, 25-date sellout run at London's [[Hammersmith Apollo]]. In 2000, he travelled to Canada for two weeks on a 13-date tour.{{citation needed|date=August 2017}}
+
+===2000s===
+{{BLP sources section|date=August 2017}}
+In 2000, Connolly starred in ''[[Beautiful Joe (film)|Beautiful Joe]]'' alongside [[Sharon Stone]]. The following year, he completed the third in his "World Tour" BBC series, this time of ''[[Billy Connolly's World Tour of England, Ireland and Wales|England, Ireland and Wales]]'', which began in [[Dublin]] and ended in [[Plymouth]]. It was broadcast the following year. Also in 2001, Stephenson's first biography of her husband, ''Billy'', was published. Much of the book is about Connolly the celebrity but the account of his early years provides a context for his humour and point of view. A follow-up, ''Bravemouth'', was published in 2003.
+
+A fourth BBC series, ''[[Billy Connolly's World Tour of New Zealand|World Tour of New Zealand]]'', was filmed in 2004 and aired that winter. Also in his 63rd year, Connolly performed two sold-out [[benefit concert]]s at the Oxford New Theatre in memory of Malcolm Kingsnorth. He has continued to be a much in-demand [[character actor]], appearing in several films such as ''[[White Oleander]]'' (2002), ''[[The Last Samurai]]'' (2003), and ''[[Lemony Snicket's A Series of Unfortunate Events]]'' (2004). He has played an eclectic collection of leading roles in recent years, including a lawyer who undertakes a legal case of Biblical proportions in ''[[The Man Who Sued God]]'' (2001), and a young boy's pet [[zombie]] in ''[[Fido (film)|Fido]]'' (2006).&lt;ref name=scotsman13/&gt; 
+
+Also in 2005, Connolly and Stephenson announced, after fourteen years of living in Hollywood, they were returning to live in the former's native land. They purchased a {{convert|120|ft|m|sing=on}} yacht with the profits from their house-sale and split the year between [[Malta]] and the 12-bedroom Candacraig House in [[Strathdon]], [[Aberdeenshire]], which they had purchased in 2008 from Dame [[Anita Roddick]].&lt;ref name=scotsman13/&gt;&lt;ref&gt;[http://www.scotsman.com/news/celebrity/connolly-sells-hollywood-home-to-live-the-good-life-in-scotland-1-1099149 "Connolly sells Hollywood home to live the good life in Scotland"], ''The Scotsman'', 6 October 2005.&lt;/ref&gt;
+
+Later in the year, Connolly topped an unscientific poll of "Britain's Favourite Comedian" conducted by TV network [[Five (channel)|Five]], placing him ahead of performers such as [[John Cleese]], [[Ronnie Barker]], [[Dawn French]], and [[Peter Cook]]. In 2006, he revealed that he has a house on the Maltese island of [[Gozo]].&lt;ref&gt;''[[The Late Late Show with Craig Ferguson]]'', 28 September 2006.&lt;/ref&gt; He and his wife also have an apartment in New York City, near Union Square.&lt;ref&gt;''[[The Late Late Show with Craig Ferguson]]'', 2 November 2009.&lt;/ref&gt; 
+
+On 30 December 2007, Connolly escaped uninjured from a single-car accident on the [[A939 road|A939]] near [[Ballater]], Aberdeenshire.&lt;ref&gt;{{cite web|url=http://www.upi.com/Billy-Connolly-in-car-accident-uninjured/74651199123628|title="Billy Connolly in car accident, unhurt" – United Press International|publisher=Upi.com|accessdate=1 September 2011}}&lt;/ref&gt;
+
+===2010s===
+In 2011, Connolly and his wife were living full-time in New York City, while still retaining their Candacraig residence.&lt;ref&gt;[[John Walsh (journalist)|John Walsh]], [https://www.independent.co.uk/arts-entertainment/comedy/features/yin-and-yang-how-billy-connolly-calmed-down-just-dont-mention-piers-morgan-8412113.html "Yin and Yang: How Billy Connolly calmed down (just don’t mention Piers Morgan!)"] ''[[The Independent]]'', 16 December 2012&lt;/ref&gt;
+
+The Connollys decided to sell Candacraig House in September 2013, with a price tag of £2.75 million.&lt;ref name=scotsman13&gt;[http://www.scotsman.com/news/celebrity/billy-connolly-selling-his-3m-scottish-house-1-3070655 "Billy Connolly selling his £3m Scottish house"], ''The Scotsman'', 2 September 2013.&lt;/ref&gt;
+
+In 2012, Connolly provided the voice of King Fergus in [[Pixar]]'s Scotland-set animated film ''[[Brave (2012 film)|Brave]]'', alongside fellow Scottish actors [[Kelly Macdonald]], [[Craig Ferguson]], [[Robbie Coltrane]], [[Emma Thompson]], and [[Kevin McKidd]]. Connolly appeared as Wilf in ''Quartet'', a 2012 British [[comedy-drama]] film based on the play ''[[Quartet (Harwood)|Quartet]]'' by [[Ronald Harwood]] directed by Dustin Hoffman. In 2014, Connolly appeared in ''[[The Hobbit: The Battle of the Five Armies]]'' as [[Dáin II Ironfoot]], a great dwarf warrior and cousin of [[Thorin II Oakenshield]]. [[Sir Peter Jackson]] stated that "We could not think of a more fitting actor to play Dain Ironfoot, the staunchest and toughest of dwarves, than Billy Connolly, the Big Yin himself. With Billy stepping into this role, the cast of The Hobbit is now complete. We can't wait to see him on the battlefield."&lt;ref&gt;[http://www.stuff.co.nz/entertainment/film/6390709/Connolly-to-play-Hobbit-great-dwarf/ "Connolly to play Hobbit great dwarf "] – ''Stuff.co.nz'', 2 February 2012&lt;/ref&gt;
+
+==Personal life==
+Connolly has been married to his second wife, comedian and psychologist [[Pamela Stephenson]], since 1989. He is father to five children: two from his first marriage, to Iris Pressagh, and three from his second. Connolly became a grandfather in 2001, when Cara gave birth to Walter.&lt;ref name=herald2009/&gt;
+
+In the book ''Billy'', and in a December 2008 online interview, Connolly states that he was sexually abused by his father between the ages of 10 and 15. He believes this was a result of the Catholic Church not allowing his father to divorce after his mother left the family. Because of this, Connolly has a "deep distrust and dislike of the Catholic church and any other organization that brainwashes people".&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/uk/379935.stm|title=UK &amp;#124; Scots 'anti-English' – survey|publisher=BBC News|date=28 June 1999|accessdate=1 September 2011}}&lt;/ref&gt; Connolly has called himself an [[atheist]].&lt;ref&gt;"Connolly has tackled drama before, notably in the film Mrs Brown, with Dame Judi Dench, but he's never portrayed anyone like Father Joe, who is psychic and possibly deranged. "I was brought up as a Catholic," Connolly says. "Aye, I have a cousin who is a nun and another cousin who is a missionary priest in Pakistan." He pauses and smiles. "And I am an atheist." " Elaine Lipworth interviewing Connolly, '[http://www.independent.ie/entertainment/day-and-night/features/no-laughing-matter-1444407.html No laughing matter]', ''Independent'' (Dublin), 1 August 2008.&lt;/ref&gt;
+
+In September 2013, Connolly underwent minor surgery for early-stage [[prostate cancer]].&lt;ref&gt;{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-24106842|title=Billy Connolly has cancer surgery|publisher=bbc.co.uk|date=16 September 2013|accessdate=16 September 2013}}&lt;/ref&gt; The announcement also stated that he was being treated for the initial symptoms of [[Parkinson's disease]].&lt;ref&gt;{{cite web|last=Crawley|first=Jennifer|url=http://www.themercury.com.au/news/tasmania/launceston-surgeon-gary-fettke-diagnoses-billy-connollys-parkinsons-in-hotel-lobby-encounter/story-fnj4f7k1-1226840175553|title=Launceston surgeon Gary Fettke diagnoses Billy Connolly's Parkinson's in hotel lobby encounter|publisher=The Mercury|date=28 February 2014|accessdate=12 March 2014}}&lt;/ref&gt; 
+
+Connolly had acknowledged earlier in 2013 that he had started to forget his lines during performances.&lt;ref&gt;{{cite web|url=http://news.sky.com/story/1142299/billy-connolly-diagnosed-with-parkinsons|title=Billy Connolly Diagnosed With Parkinson's|publisher=News.sky.com |date=16 September 2013|accessdate=12 March 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|author=Adam Sherwin|url=https://www.independent.co.uk/arts-entertainment/comedy/news/billy-connolly-undergoes-prostate-cancer-surgery-and-is-diagnosed-with-parkinsons--but-will-keep-working-8819194.html|title=Billy Connolly undergoes prostate cancer surgery and is diagnosed with Parkinson's – but will keep working|publisher=The Independent|date=16 September 2013|accessdate=12 March 2014}}&lt;/ref&gt;
+
+Connolly appeared on ''[[Who Do You Think You Are? (UK TV series)|Who Do You Think You Are?]]'' on 2 October 2014, in which he discovered his Indian ancestry.&lt;ref name=jake&gt;Jake Wallis Simons, [https://www.telegraph.co.uk/culture/tvandradio/tv-and-radio-reviews/11133916/Who-Do-You-Think-You-Are-Billy-Connolly-review-life-affirming.html "Who Do You Think You Are? Billy Connolly, review: 'life-affirming'"], ''The Telegraph'', 2 October 2014.&lt;/ref&gt;&lt;ref&gt;[http://www.heraldscotland.com/arts-ents/tv-radio/tv-review-billy-connolly-traces-his-exotic-family-tree.1412283497 "TV review: Billy Connolly traces his exotic family tree"], ''Herald Scotland'', 2 October 2014.&lt;/ref&gt;
+
+===Political views===
+Connolly has stated in the past that he disapproves of [[Scottish independence]].  In 1974 he made a party political television broadcast on behalf of the [[Labour Party (UK)|Labour Party]], which criticised the [[Scottish National Party]]. In 1999 he blamed the SNP for a supposed increase in "anti-English racism" in Scotland, called the new [[Scottish Parliament]] a "joke", and declined to attend the opening.&lt;ref&gt;{{cite news|url=http://www.heraldscotland.com/news/12004277.Nationalists_dismiss_comedian_apos_s_attack_on_them_over_anti_English_racism_as_absurd_and_nonsense_Connolly_faces_SNP_apos_s_wrath/|title=Nationalists dismiss comedian's attack on them over anti-English racism as absurd and nonsense Connolly faces SNP's wrath|date=28 June 1999|work=Herald Scotland|accessdate=20 June 2017}}&lt;/ref&gt; 
+
+Although he now claims to disapprove of entertainers telling people how to vote, he admitted that 2012 had been "a very interesting time for Scotland". Although he has chosen not to live in Scotland for most of his adult life, he questioned the expense of independence, and whether average Scots would benefit from another level of government.  "But Scots are very capable of making up their mind without my tuppence worth."&lt;ref&gt;{{cite web|author=Brown, Craig|url=http://www.scotsman.com/news/celebrity/billy-connolly-my-mouth-s-shut-on-scottish-independence-1-2686803|title=Billy Connolly: My mouth's shut on Scottish independence|publisher=Scotsman.com|date=12 December 2012|accessdate=13 February 2013}}&lt;/ref&gt;
+
+In April 2014, despite previously vowing not to step into the 'morass' of the debate over the breakup of the Union, Connolly gave the clearest indication yet of his opposition to Scottish independence. In an interview with the ''[[Radio Times]]'', he stated, "I think it's time for people to get together, not split apart. The more people stay together, the happier they'll be." He also referred to the [[Darien scheme]], a failed effort to establish a Scottish colony in the [[Isthmus of Panama]], which destroyed Scotland's economy and led to the [[Acts of Union 1707]]. Connolly wrote, "You must remember that the Union saved Scotland. Scotland was bankrupt and the English opened us up to their American and Canadian markets, from which we just flowered."&lt;ref&gt;{{cite web|author=Cramb, Auslan|url=https://www.telegraph.co.uk/news/uknews/10794410/Billy-Connolly-risks-wrath-of-pro-independence-activists-as-he-admits-he-dislikes-patriots.html|title=Billy Connolly risks wrath of pro-independence activists as he admits he 'dislikes patriots'|publisher=''The Telegraph''|date=29 April 2014|accessdate=1 May 2014}}&lt;/ref&gt;
+
+==Controversy==
+In October 2004, during an 18-night stint at London's [[Hammersmith Apollo]], Connolly was criticised for making jokes about the hostage [[Kenneth Bigley]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/england/merseyside/3717462.stm|title=Connolly blasted over Bigley joke|publisher=BBC News|date=5 October 2004|accessdate=1 September 2011}}&lt;/ref&gt; 
+
+Shortly after Connolly joked about the future killing of the hostage and touched on the subject of Bigley's young Thai wife, Bigley was beheaded in Iraq. Connolly claims he was misquoted.&lt;ref&gt;[http://www.abc.net.au/tv/enoughrope/transcripts/s1574093.htm "Episodes  – 20 February 2006"] – ''Enough Rope with Andrew Denton'', 20 February 2006&lt;/ref&gt; He has declined to clarify what he actually said, claiming that the context was as important as the precise words used.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/magazine-12775389|title=Why do people tell sick jokes about tragedies? Billy Connolly: Joked about the death of British hostage Ken Bigley in Iraq|publisher=bbc.co.uk|date=18 March 2011}}&lt;/ref&gt;
+
+==Support for charity==
+Connolly is a patron of the [[National Association for Bikers with a Disability]].&lt;ref&gt;{{cite web|url=http://www.nabd.org.uk/supporters/patrons.htm|title=NABD Patrons|publisher=Nabd.org.uk|accessdate=1 September 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110928032731/http://www.nabd.org.uk/supporters/patrons.htm|archivedate=28 September 2011}}&lt;/ref&gt; He is also a patron of [[Celtic F.C.]]'s The Celtic Foundation.&lt;ref&gt;{{Cite news| url=http://charity.celticfc.net/pages/about|publisher=celticfc.net|title=The Celtic Foundation Overview|accessdate=1 December 2011}}&lt;/ref&gt;
+
+==Folk music==
+{{side_box|text="I'll never forget. I was at a [[Pete Seeger]] concert in the early 1960s in Glasgow. I'd just bought a banjo. I'd seen him on television and I thought, 'That's what I want to do.' He was just exquisitely good. He said, 'I would like to sing a song by a new hero of mine, he's a young man – [[Bob Dylan]].' He sang "[[A Hard Rain's a-Gonna Fall]]". I'm almost crying at the thought. It was sensational. I became another guy: me. He sang, 'I saw a white man; he was walking a black dog,' and I thought, 'This is different.' It changed me forever, in a way I'll be eternally grateful for."&lt;ref name=shrink/&gt;|position=right}}
+
+In 1965, together with Tam Harvey, Connolly started a group called [[the Humblebums]]. At their first gig, Connolly reportedly introduced them both to the audience by saying, "My name's Billy Connolly, and I'm humble. This is Tam Harvey, he's a bum." The band would later include [[Gerry Rafferty]], who saw Connolly at a charity show in [[Paisley, Renfrewshire|Paisley]].&lt;ref name=thoughts&gt;[http://www.billyconnolly.com/billy-s-thoughts/index.html "Billy's Thoughts"] {{webarchive|url=https://web.archive.org/web/20150902014021/http://www.billyconnolly.com/billy-s-thoughts/index.html|date=2 September 2015}}, Billy Connolly official website; accessed 30 April 2018.&lt;/ref&gt; "Gerry was very good for me. He taught me that I would never be a musician as long as my arse looked south. He was just so outstandingly good and getting better, and although I was getting better too, the space between us remained huge. He was a real musician, he knew and felt music, a bass player, with a lovely sense of harmony, as well as a great guitarist. I knew tunes and how to play them but that was where my musicianship ended. Unfortunately, I’m still the same to this day. I work very hard, I play every day but I’m still ordinary. I can be flashy, but it’s all tricks really. He’s a musician and I’m just not in the same league. So, I gave up these ambitions and concentrated on what I was really born to do."&lt;ref name=thoughts/&gt; After Harvey left the group, Connolly and Rafferty continued as a duo and the latter two of their three albums featured just that duo.  Connolly sang, played [[five-string banjo]], [[guitar]], and [[autoharp]], and at live shows entertained the audience with his humorous introductions to the songs.
+
+[[Frank Bruno]] and Billy Connolly provided lead vocals on "The War Song of the Urpneys" from ''[[The Dreamstone]]'', although the version heard in the series was largely sung by composer [[Mike Batt]].
+
+In his ''World Tour of Scotland'', Connolly reveals that at a trailer show during the [[Edinburgh Festival]], the Humblebums took to the stage just before [[Yehudi Menuhin]].
+
+The Humblebums broke up in 1971 and both Connolly and Rafferty went solo. Connolly's first solo album in 1972, ''Billy Connolly Live!'' on [[Transatlantic Records]], featured him as a singer-songwriter.
+
+His early albums were a mixture of comedy performances with comedic and serious musical interludes. Among his best-known musical performances were "The Welly Boot Song", a parody of the Scottish folk song "The Wark O' The Weavers," which became his theme song for several years; "In the Brownies", a parody of the hit [[Village People]] songs "[[In the Navy]]" and "[[Y.M.C.A. (song)|Y.M.C.A.]]" (for which Connolly filmed a music video); "Two Little Boys in Blue", a tongue-in-cheek indictment of police brutality done to the tune of [[Rolf Harris]]' "Two Little Boys"; and the ballad "I Wish I Was in Glasgow," which Connolly would later perform in duet with [[Malcolm McDowell]] on a guest appearance on the 1990s American sitcom ''Pearl'' (which starred [[Rhea Perlman]]). He also performed the occasional Humblebums-era song such as "Oh, No!" as well as straightforward covers such as a version of [[Dolly Parton]]'s "Coat of Many Colors," both of which were included on his ''Get Right Intae Him!'' album.
+
+In November 1975, his spoof of the [[Tammy Wynette]] song "[[D-I-V-O-R-C-E]]&lt;!--HYPHENS FOR WYNETTE--&gt;" was a UK No. 1 single for one week. Wynette's original was about parents spelling out words of an impending marital split to avoid traumatising their young child. Connolly's spoof of the song played on the fact that many dog owners use the same tactic when they do not wish their pet to become upset about an impending trip to the [[veterinary surgeon|vet]].  Connolly's song is about a couple whose marriage is ruined by a bad vet visit (spelling out "W-O-R-M" or "Q-U-A-R-A-N-T-I-N-E", for example.) His song "No Chance" was a parody of [[J. J. Barrie]]'s cover of the song "[[No Charge]]".
+
+In 1985, he sang the theme song to ''[[Super Gran]]'', which was released as a single and, in 1996, he performed a cover of [[Ralph McTell]]'s "In the Dreamtime" as the theme to his ''World Tour of Australia''. By the late 1980s, Connolly had all but dropped the music from his act, though he still records the occasional musical performance, such as a 1980s recording of his composition "Sergeant, Where's Mine?" with [[The Dubliners]]. In 1998, he covered [[The Beatles]]' "[[Being for the Benefit of Mr. Kite!]]" on the [[George Martin]] tribute album, ''In My Life''. He sang a song during the film ''[[Lemony Snicket's A Series of Unfortunate Events]]''. And in 1995 and 2005, he released two albums of instrumental performances ''[[Musical Tour of Scotland]]'' and ''[[Billy Connolly's Musical Tour of New Zealand]]'', respectively.
+
+Connolly is among the artists featured on ''Banjoman'', a tribute to American folk musician [[Derroll Adams]], released in 2002. He plays one song, "The Rock".
+
+==Stand-up comedy==
+{{unsourced|section|date=April 2018}}
+Connolly's [[observational comedy]] is [[idiosyncratic]] and often off-the-cuff. He has offended certain sectors of audiences, critics and the media with his free use of the word "[[fuck]]" and he has made jokes relating to [[masturbation]], [[blasphemy]], [[defecation]], [[flatulence]], [[haemorrhoids]], sex, his father's illness, his aunts' cruelty and, in the latter stages of his career, old age (specifically his experiences of growing old). 
+
+In 2007 and again in 2010, he was voted the greatest stand-up comic on Channel 4's 100 Greatest Stand-Ups. He once again topped the list on Channel 5's Greatest Stand-Up Comedians, broadcast on New Year's Eve 2013.
+
+Since the 1980s, Connolly has worn a custom-made black T-shirt with a [[tailcoat|shirt-tail]] as part of his on-stage attire. The first one was by the now Belfast-based English designer Stephen King. From around the same time, his manager has been Steve Brown.
+
+==Discography==
+''Below is a partial list of Connolly's solo musical and comedic recordings. For his releases with the Humblebums, see [[The Humblebums#Discography|here]].''
+
+* 1972&amp;nbsp;– ''Billy Connolly Live''
+* 1974&amp;nbsp;– ''Cop Yer Whack for This''
+* 1974&amp;nbsp;– ''Solo Concert''
+* 1975&amp;nbsp;– ''Get Right Intae Him!
+* 1975&amp;nbsp;– ''Words and Music''
+* 1975&amp;nbsp;– ''The Big Yin''
+* 1976&amp;nbsp;– ''Atlantic Bridge''
+* 1977&amp;nbsp;– ''Billy Connolly''
+* 1977&amp;nbsp;– ''Raw Meat for the Balcony!''
+* 1978&amp;nbsp;– ''Anthology''
+* 1979&amp;nbsp;– ''Riotous Assembly''
+* 1981&amp;nbsp;– ''[[The Pick of Billy Connolly]]'' (compilation)
+* 1983&amp;nbsp;– ''A Change Is As Good As Arrest''
+* 1983&amp;nbsp;– ''In Concert''
+* 1984&amp;nbsp;– ''Big Yin Double Helping'' (compilation)
+* 1985&amp;nbsp;– ''An Audience With Billy Connolly''
+* 1985&amp;nbsp;– ''Wreck on Tour''
+* 1987&amp;nbsp;– ''Billy &amp; Albert''
+* 1991&amp;nbsp;– ''[[Live at the Odeon Hammersmith London]]''
+* 1995&amp;nbsp;– ''[[Musical Tour of Scotland]]''
+* 1995&amp;nbsp;– ''Billy Connolly&amp;nbsp;– Live Down Under 1995''
+* 1996&amp;nbsp;– ''World Tour of Australia''
+* 1997&amp;nbsp;– ''Two Night Stand''
+* 1999&amp;nbsp;– ''Comedy and Songs'' (compilation)
+* 1999&amp;nbsp;– ''One Night Stand Down Under''
+* 2002&amp;nbsp;– ''Live in Dublin 2002''
+* 2002&amp;nbsp;– ''The Big Yin&amp;nbsp;– Billy Connolly in Concert'' (compilation)
+* 2003&amp;nbsp;– ''[[Transatlantic Years]]'' (compilation of material recorded between 1969 and 1974)
+* 2003&amp;nbsp;– ''Humble Beginnings: The Complete Transatlantic Recordings 1969–74''
+* 2005&amp;nbsp;– ''[[Billy Connolly's Musical Tour of New Zealand]]''
+* 2007&amp;nbsp;– ''Live in Concert''
+* 2010&amp;nbsp;– ''The Man'' Live in London, recorded January 2010
+* 2011&amp;nbsp;– ''Billy Connolly's Route 66''
+
+===VHS/DVD releases===
+{| class="wikitable"
+|-
+! Year
+! Title
+|-
+| 1981
+| ''Bites Yer Bum''
+|-
+| 1982
+| ''The Pick of Billy Connolly''
+|-
+| 1985
+| ''An Audience with Billy Connolly''
+|-
+| 1987
+| ''Billy and Albert – Live at the Royal Albert Hall''
+|-
+| 1991
+| ''Live at the Odeon Hammersmith''
+|-
+| 1992
+| ''The Best of 25 Years of Billy Connolly (25BC)''
+|-
+| 1994
+| ''Live 1994''
+|-
+| 1995
+| ''Two Bites of Billy Connolly''
+|-
+| 1997
+| ''Two Night Stand – Live From London and Glasgow''
+|-
+| 1998
+| ''Erect for 30 Years''
+|-
+| 1999
+| ''Live 99 – One Night Stand Down Under and The Best of the Rest''
+|-
+| 2001
+| ''Live – The Greatest Hits''
+|-
+| 2002
+| ''Live in Dublin 2002''
+|-
+| 2005
+| ''Live in New York''
+|-
+| 2007
+| ''Was It Something I Said?''
+|-
+| 2010
+| ''Live in London 2010''
+|-
+| 2011
+| ''You Asked For It''
+|-
+| 2016
+| ''High Horse Tour Live''
+|}
+
+==Playwright==
+Connolly has written three plays:
+
+*''An' Me Wi' A Bad Leg Tae'' (1975)
+*''When Hair Was Long And Time Was Short'' (1977)
+*''Red Runner'' (1979)
+
+==Filmography==
+===Film===
+{| class="wikitable" style="margin:1em 0;"
+|- style="background:#b0c4de;"
+!
+! Note
+!
+!
+|-
+| 1978 || ''[[Absolution (1978 film)|Absolution]]'' || Blakey ||
+|-
+| 1983 || ''[[Bullshot (film)|Bullshot]]'' || Hawkeye McGillicuddy ||
+|-
+| 1985 || ''[[Water (1985 film)|Water]]'' || Delgado ||
+|-
+| 1989 || ''[[The Return of the Musketeers]]'' || Caddie ||
+|-
+| 1990 || ''[[The Big Man]]'' || Frankie || US title ''Crossing The Line''
+|-
+| 1993 || ''[[Indecent Proposal]]'' || Auction M.C. ||
+|-
+| 1995 || ''[[Pocahontas (1995 film)|Pocahontas]]'' || Ben || Voice
+|-
+| 1996 || ''[[Muppet Treasure Island]]'' || Billy Bones ||
+|-
+| 1997 || ''[[Beverly Hills Ninja]]'' || Japanese Antique Shop Proprietor ||
+|-
+| 1997 || ''[[Deacon Brodie]]'' || [[William Brodie]] ||
+|-
+| 1997 || ''[[Mrs Brown]]'' || [[John Brown (servant)|John Brown]] ||
+|-
+| 1997 || ''[[Paws (film)|Paws]]'' || PC || Voice
+|-
+| 1998 || ''[[The Impostors]]'' || Mr. Sparks, the Tennis Pro ||
+|-
+| 1999 || ''[[Still Crazy]]'' || Hughie Case ||
+|-
+| 1998 || ''[[Middleton's Changeling]]'' || Alibius ||
+|-
+| 1999 || ''[[The Debt Collector]]'' || Nicky Dryden ||
+|-
+| 1999 || ''[[The Boondock Saints]]'' || Noah MacManus / Il Duce ||
+|-
+| 2000 || ''[[Beautiful Joe (film)|Beautiful Joe]]'' || Joe ||
+|-
+| 2000 || ''[[An Everlasting Piece]]'' || Scalper ||
+|-
+| 2001 || ''[[Gabriel &amp; Me]]'' || Gabriel ||
+|-
+| 2001 || ''[[Who Is Cletis Tout?]]'' || Dr. Mike Savian ||
+|-
+| 2001 || ''[[The Man Who Sued God]]'' || Steve Myers ||
+|-
+| 2002 || ''[[White Oleander (film)|White Oleander]]'' || Barry Kolker ||
+|-
+| 2003 || ''[[Timeline (2003 film)|Timeline]]'' || Professor Johnston ||
+|-
+| 2003 || ''[[The Last Samurai]]'' || Sergeant Zebulon Gant ||
+|-
+| 2004 || ''[[Lemony Snicket's A Series of Unfortunate Events]]'' || Dr. Montgomery Montgomery ||
+|-
+| 2006 || ''[[Garfield: A Tail of Two Kitties]]'' || Lord Dargis ||
+|-
+| 2006 || ''[[Fido (film)|Fido]]'' || Fido ||
+|-
+| 2006 || ''[[Open Season (2006 film)|Open Season]]'' || McSquizzy || Voice
+|-
+| 2008 || ''[[The X-Files: I Want to Believe]]'' || Joseph "Father Joe" Crissman ||
+|-
+| 2008 || ''[[Open Season 2]]'' || McSquizzy || Voice
+|-
+| 2009 || ''[[The Boondock Saints II: All Saints Day]]'' || Noah MacManus / Il Duce ||
+|-
+| 2010 || ''[[Gulliver's Travels (2010 film)|Gulliver's Travels]]'' || King Theodore ||
+|-
+| 2011 || [[The Ballad of Nessie]] || The narrator || Voice
+|-
+| 2012 || ''[[Brave (2012 film)|Brave]]'' || King Fergus || Voice
+|-
+| 2012 || ''[[Quartet (2012 film)|Quartet]]'' || Wilf Bond ||
+|-
+| 2014 || ''[[What We Did on Our Holiday]]'' || Gordie McLeod || 
+|-
+| 2014 || ''[[The Hobbit: The Battle of the Five Armies]]'' || [[Dáin II Ironfoot]] || 
+|-
+| 2016 || ''[[Wild Oats (film)|Wild Oats]]'' || Lacey Chandler || 
+|}
+
+===Television===
+{| class="wikitable" style="margin:1em 0;"
+|- style="background:#b0c4de;"
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1975–1976 || ''[[Play for Today]]'' || Jody / Paddy || Just Another Saturday (1975)&lt;br&gt;The Elephants' Graveyard (1976)
+|-
+| 1980 || ''[[Worzel Gummidge (TV series)|Worzel Gummidge]]'' || Bogle McNeep ||
+|-
+| 1983 || ''[[Androcles and the Lion]]'' || Androcles || TV Movie
+|-
+| 1985 || ''[[Super Gran]]'' || Angus McSporran ||
+|-
+| 1984–1985 || ''[[Tickle on the Tum]]'' || Bobby Binns ||
+|-
+| 1985 || ''Blue Money'' ||Des|| TV Movie
+|-
+| 1988 || ''[[City Lights (TV series)|City Lights]]'' || The Dosser ||
+|-
+| 1988 || ''[[Minder (TV series)|Minder]]'' || Tick Tack ||
+|-
+| 1991 || ''[[Screen Two]]'' || Game Show Host / Busker || Dreaming (1991)
+|-
+| 1990–1991 || ''[[Head of the Class]]'' || Billy MacGregor ||
+|-
+| 1992 || ''[[Billy (1992 TV series)|Billy]]'' || Billy MacGregor ||
+|-
+| 1993 || ''[[Screen One]]'' || Jo Jo Donnelly ||
+|-
+| 1996 || ''[[Dennis the Menace and Gnasher (1996 TV series)|Dennis the Menace and Gnasher]]'' || Captain Trout ||
+|-
+| 1996–1997 || ''[[Pearl (TV series)|Pearl]]'' || William 'Billy' Pynchon ||
+|-
+| 1998 || ''[[Veronica's Closet]]'' || Campbell ||
+|-
+| 1998 || ''[[Tracey Takes On...]]'' || Rory Cassidy ||
+|-
+| 1999 || ''[[3rd Rock from the Sun]]'' || Inspector Macaffery ||
+|-
+| 2001 || ''[[Columbo]]'' || Findlay Crawford ||
+|-
+| 2001 || ''[[Prince Charming (2001 film)|Prince Charming]]'' || Hamish ||
+|-
+| 2001 || ''[[Gentlemen's Relish]]'' || Kingdom Swann ||
+|-
+| 2009 || ''[[Billy Connolly: Journey to the Edge of the World]]'' ||Himself ||
+|-
+| 2011 || ''[[Billy Connolly's Route 66]]'' || Himself ||
+|-
+| 2012 || ''[[House (TV series)|House]]'' || Thomas Bell ||
+|-
+|2014
+|''Billy Connolly's Big Send Off''
+|Himself
+|
+|-
+| 2016 || ''Billy Connolly's Tracks Across America'' || Himself ||
+|-
+| 2017 || ''Billy Connolly &amp; Me: A Celebration'' || Himself ||
+|-
+| 2017 || ''Billy Connolly: Portrait of a Lifetime'' || Himself ||
+|}
+
+==Awards==
+On 11 July 2001, Connolly was awarded an [[Honorary degree|honorary]] [[Doctor of Letters]] degree by the [[University of Glasgow]].&lt;ref&gt;[http://news.bbc.co.uk/2/hi/entertainment/1433873.stm "Billy Connolly receives arts honour"]&amp;nbsp;– BBC News, 11 July 2001&lt;/ref&gt;
+
+In 2003, the [[British Academy of Film and Television Arts|BAFTA]] presented him with a Lifetime Achievement award.&lt;ref&gt;{{cite web|url=http://www.bafta.org/awards-database.html?sq=Billy+Connolly |title='30 Years of Billy Connolly' |publisher=BAFTA |date= |accessdate=1 September 2011}}&lt;/ref&gt;
+
+In the [[2003 Birthday Honours]], Connolly was appointed a Commander of the [[Order of the British Empire]] (CBE) for "services to Entertainment".&lt;ref&gt;{{London Gazette |issue=56963 |date=14 June 2003 |page=8 |supp=y}}&lt;/ref&gt;
+
+On 4 July 2006, Connolly was awarded an honorary doctorate by Glasgow's Royal Scottish Academy of Music and Drama (RSAMD) for his service to performing arts.&lt;ref&gt;{{Cite news| url=http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/5144410.stm |publisher=BBC News | title=Big Yin awarded honorary degree | date=4 July 2006 | accessdate=26 April 2010}}&lt;/ref&gt;
+
+On 18 March 2007 and again on 11 April 2010, Connolly was named Number One in [[Channel 4]]'s "100 Greatest Stand-Ups".&lt;ref&gt;{{cite web|url=http://www.channel4.com/entertainment/tv/microsites/C/comedy_standups/results/results.html |title=100 Greatest Stand-Ups |publisher=Channel 4.com |date= |accessdate=1 September 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20091004200517/http://www.channel4.com/entertainment/tv/microsites/C/comedy_standups/results/results.html |archivedate=4 October 2009 }}&lt;/ref&gt;
+
+On 22 July 2010, Connolly was awarded an honorary degree of [[Doctor of Letters]] (D.Litt) by [[Nottingham Trent University]].&lt;ref&gt;{{cite web|url=http://www.ntu.ac.uk/apps/news/98814-15/Stars_of_stage_and_screen_among_honorary_graduates_of_Nottingham_Trent_University.aspx |title=Stars of stage and screen among honorary graduates of Nottingham Trent University |publisher=Ntu.ac.uk |date= |accessdate=1 September 2011}}&lt;/ref&gt;
+
+On 20 August 2010, Connolly was made a Freeman of Glasgow with the award of the [[Freedom of the City]] of [[Glasgow]].&lt;ref&gt;[http://www.calgarysun.com/entertainment/celebrities/2010/11/03/15942196.html "Connolly stays away from patterns"], ''The Calgary Sun'', 20 August 2010. Retrieved 18 December 2010.&lt;/ref&gt;
+
+On 10 December 2012, Connolly picked up his [[BAFTA Scotland]] Award for Outstanding Achievement in Television and Film at his BAFTA ''A Life in Pictures'' interview in the Old Fruitmarket, Glasgow.&lt;ref&gt;{{cite web|url=http://www.bafta.org/film/features/billy-connolly-a-life-in-pictures,3578,BA.html |title=Billy Connolly: A Life In Pictures |publisher=BAFTA |date= |accessdate=19 December 2012}}&lt;/ref&gt;
+
+In January 2016, he was presented with the Special Recognition award at the ''[[National Television Awards]]'' to honour his career.&lt;ref name="recognition"&gt;{{cite news | url=https://www.telegraph.co.uk/comedy/comedians/billy-connolly-to-receive-special-recognition-award-at-national/ | title=Billy Connolly to receive Special Recognition Award at National Television Awards | work=[[Daily Telegraph]] | date=8 January 2016 | accessdate=20 January 2016}}&lt;/ref&gt;
+
+In the [[2017 Birthday Honours]], Connolly was [[Knight Bachelor|knighted]] for "services to Entertainment and charity".&lt;ref&gt;{{London Gazette |issue=61962 |date=17 June 2017 |page=B2 |supp=y}}&lt;/ref&gt;
+
+On 22 June 2017, Connolly received an honorary doctorate from [[University of Strathclyde]] in Glasgow.&lt;ref&gt;{{cite news | last=O'Toole | first=Emer | date=22 June 2017 | title=Sir Billy Connolly to receive honorary degree from University of Strathclyde | work=[[The Sunday Post]] | url=https://www.sundaypost.com/fp/sir-billy-connolly-to-receive-honorary-degree-from-university-of-strathclyde/ | access-date=28 November 2017}}&lt;/ref&gt;
+
+==Bibliography==
+*{{Cite book |author=Connolly, Billy | author2= Campbell, Duncan|  title= Billy Connolly, The Authorized Version | publisher=Macmillan | date=19 March 1976| isbn= 978-0330247672 }}
+*{{Cite book |author=Connolly, Billy |  title= Gullible’s Travels | publisher=Arrow Books | date=27 October 1983| isbn= 978-0099323105 }}
+*{{Cite book |author=Margolis, Jonathan |  title= The Big Yin: The Life And Times Of Billy Connolly | publisher=Orion | date=5 October 1998| isbn= 978-0752817224 }}
+*{{Cite book | author=Stephenson, Pamela| authorlink=Pamela Stephenson | author2= | title=Billy | year=2003 | publisher=Perennial Currents| location= | isbn=0-06-053731-0 | page=}}
+*{{Cite book | author=Stephenson, Pamela| authorlink=Pamela Stephenson | author2= | title=Billy (Audio Edition read by Pamela Stephenson) | year=2002 | publisher=HighBridge Company| location= | isbn=1-56511-725-5 | page=}}
+*{{Cite book | author=Stephenson, Pamela| authorlink=Pamela Stephenson | author2= | title=Bravemouth: Living with Billy Connolly | year=2003 | publisher=[[Hodder Headline|Headline]] | location= | isbn=0-7553-1284-8 | page=}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{sisterlinks|d=Q298838|n=no|b=no|wikt=no|s=no|v=no|voy=no|species=no|m=no|mw=no|q=Billy Connolly|c=Category:Billy Connolly}}
+*{{official website|http://www.billyconnolly.com}}
+*{{IMDb name|175262|Billy Connolly}}
+*[http://www.bobclaster.com/ 1989 KCRW one-hour radio interview "Bob Claster's Funny Stuff"]
+{{Billy Connolly}}
+
+{{Use dmy dates|date=August 2014}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Connolly, Billy}}
+[[Category:1942 births]]
+[[Category:20th-century Scottish comedians]]
+[[Category:20th-century Scottish male actors]]
+[[Category:21st-century Scottish comedians]]
+[[Category:21st-century Scottish male actors]]
+[[Category:Acoustic guitarists]]
+[[Category:Actors awarded British knighthoods]]
+[[Category:Autoharp players]]
+[[Category:Scottish atheists]]
+[[Category:Billy Connolly| ]]
+[[Category:British boilermakers]]
+[[Category:British harmonica players]]
+[[Category:British Parachute Regiment soldiers]]
+[[Category:British people of Indian descent]]
+[[Category:British people of Irish descent]]
+[[Category:Comedians from Glasgow]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Former Roman Catholics]]
+[[Category:Knights Bachelor]]
+[[Category:Living people]]
+[[Category:Male actors from Glasgow]]
+[[Category:Male guitarists]]
+[[Category:People from Anderston]]
+[[Category:People with Parkinson's disease]]
+[[Category:Polydor Records artists]]
+[[Category:Scottish banjoists]]
+[[Category:Scottish expatriates in the United States]]
+[[Category:Scottish folk singers]]
+[[Category:Scottish guitarists]]
+[[Category:Scottish male comedians]]
+[[Category:Scottish male film actors]]
+[[Category:Scottish male singers]]
+[[Category:Scottish male television actors]]
+[[Category:Scottish male voice actors]]
+[[Category:Scottish people of Indian descent]]
+[[Category:Scottish people of Irish descent]]
+[[Category:Scottish social commentators]]
+[[Category:Scottish stand-up comedians]]
+[[Category:Transatlantic Records artists]]
+[[Category:Virgin Records artists]]</text>
+      <sha1>4u8ehm1d8wdvwz09smm5wqyhoqm36ly</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,360 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rondell Sheridan</title>
+    <ns>0</ns>
+    <id>2118216</id>
+    <revision>
+      <id>854290570</id>
+      <parentid>847638724</parentid>
+      <timestamp>2018-08-10T07:51:05Z</timestamp>
+      <contributor>
+        <username>John of Reading</username>
+        <id>11308236</id>
+      </contributor>
+      <minor/>
+      <comment>/* Films */Typo fixing, replaced: writter → writer using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5680">{{Infobox person
+| name        = Rondell Sheridan
+| image       = RondellSheridanSept2008.jpg
+| caption     = Sheridan in September 2008
+| birth_name  = Rondell Jerome Sheridan
+| birth_date  = {{birth date and age|1958|08|15}}
+| birth_place = [[Chicago]], [[Illinois]], [[United States|U.S.]]
+| occupation  = Actor, comedian, television director
+| yearsactive = 1983–present
+| othername   =
+| website     = http://www.rondellsheridan.com/
+}}
+
+'''Rondell Jerome Sheridan''' (born August 15, 1958) is an American [[actor]], [[comedian]] and [[television director]], best known for his five-year portrayal of [[Victor Baxter]], the goofy-yet-lovable father of a [[psychic]] [[teenager]], in the [[Disney Channel]] [[sitcoms]] ''[[That's So Raven]]'' and ''[[Cory in the House]]''. Sheridan is an alumnus of [[Marquette University]].
+
+==Filmography==
+
+===Films===
+{| class="wikitable"
+|-
+! Year
+! Film
+! Role
+! Notes
+|-
+| 1983
+| ''[[The First Turn-On!]]''
+| Gang Member Rondell
+|
+|-
+| 1986
+| ''[[Deadtime Stories (film)|Deadtime Stories]]''
+| Looney Bin Guard
+|
+|-
+| 1999
+| ''[[Rites of Passage (1999 film)|Rites of Passage]]''
+| Trooper Dixon
+|
+|-
+| 2006
+| ''Raise Your Voice''
+| Creepy head teacher
+|
+|-
+| rowspan=2|2009
+| ''If It Ain't Broke, Break It!''
+| Lou, cafe owner
+|
+|-
+| ''Hollywood Housesitter''
+| Director
+| Some scenes&lt;br/&gt; Short
+|-
+| rowspan=3|2011
+| ''Last Day of School''
+| Director
+| Short
+|-
+| ''Wiz's World''
+| Director and writer
+| Short
+|-
+| ''Hollywood Halloween''
+| Director and writer
+| Short&lt;br/&gt; Written segments "Let the Sunshine," "Quiet Zoms," and "The Other Side"
+|-
+| rowspan=2|2012
+| ''Wordplay''
+| Director
+| Short
+|-
+| ''What I Did Last Summer''
+| Director and editor
+| Short
+|-
+| rowspan=2|2013
+| ''Super Impossible Squad''
+| Director and writer
+| Short
+|-
+| ''Second Chances''
+| Director
+| Short
+|-
+| 2014
+| ''Another Assembly''
+| Director
+|
+|-
+| 2016
+| ''Nowhere Cafe''
+| Director
+| Short
+|-
+| 2017
+| ''Cattle Call''
+| Director
+| Short
+|}
+
+===Television===
+{| class="wikitable"
+|-
+! Year
+! Film
+! Role
+! Notes
+|-
+| 1987
+| ''Stand Up America
+| Himself
+|-
+| 1992
+| ''[[A Different World]]''
+| South Central Looter #1 
+| Season 6 episode 12: "Honeymoon in L.A.: Part 2"
+|-
+| 1994
+| ''Comedy: Coast to Coast''
+| Himself
+|
+|-
+| 1995
+| ''[[Brotherly Love (1995 TV series)|Brotherly Love]]''
+| A kid's father
+| Season 1 episode 8: "Witchcraft"&lt;br/&gt; Uncredited
+|-
+| 1995-1996
+| ''[[Minor Adjustments]]''
+| Dr. Ron Aimes
+| Main role&lt;br/&gt; Created the series
+|-
+| 1996
+| ''Lounge Lizards''
+| Himself
+|
+|-
+| rowspan=2|1997
+| ''[[The Jamie Foxx Show]]''
+| Dr. Gilbert
+| Season 2 episode 11: "Too Much Soul Food"
+|-
+| ''[[Match Game]]''
+| Himself
+| Panelist&lt;br/&gt; Unaired pilot
+|-
+| rowspan=2|1998
+| ''[[Touched By an Angel]]''
+| Harvey
+| Season 5 episode 4: "Only Connect"
+|-
+| ''[[Kenan &amp; Kel]]''
+| Officer McWiggins
+| Season 3 episode 8: "Attack of the Bugman"
+|-
+| 1998-1999
+| ''Figure It Out''
+| Himself
+| Panelist
+|-
+| rowspan=2|1998-2001
+| ''[[Cousin Skeeter]]''
+| Andre Walker
+| Main role
+|-
+| ''Show Me the Funny''
+| Himself/Host
+|
+|-
+| rowspan=3|2001
+| ''Men Are from Mars, Women Are from Venus''
+| Himself/Host
+|
+|-
+| ''The Test''
+| Himself
+| Episode: The Nosey Test&lt;br/&gt; Panelist
+|-
+| ''Rendez-View''
+| Himself
+| Guest host
+|-
+| 2003-2004
+| ''[[Hollywood Squares]]''
+| Himself
+| Panelist&lt;br/&gt; 10 episodes
+|-
+| 2003-2007
+| ''[[That's So Raven]]''
+| Victor Baxter / Frederick Douglass
+| Main role&lt;br/&gt; Directed three episodes
+|-
+| rowspan=2|2004
+| ''[[That's Funny!]]''
+| Himself/Host
+|
+|-
+| ''That's So Raven: Supernaturally Stylish''
+| Victor Baxtor
+| Video&lt;br/&gt; Archived footage
+|-
+| 2005
+| ''[[Just for Laughs]]''
+| Himself
+| Episode: April 10, 2005
+|-
+| rowspan=4|2006
+| ''That's So Raven: Raven's Makeover Madness''
+| Victor Baxter
+| Video&lt;br/&gt; Archived footage
+|-
+| ''Life of Pryor: The Richard Pryor Story''
+| Himself
+| Documentary
+|-
+| ''Bring That Year Back 2006: Laugh Now, Cry Later''
+| Himself/Host
+|
+|-
+| ''New Year Sing-A-Long Bowl-A-Thon!''
+| Himself/Host
+|-
+| rowspan=3|2007
+| ''That's So Suite Life of Hannah Montana''
+| Victor Baxtor
+| Video&lt;br/&gt; Archived footage
+|-
+| ''Cory in the House: All Star Edition''
+| Victor Baxtor
+| Video&lt;br/&gt; Archived footage
+|-
+| ''Wish Gone Amiss''
+| Victor Baxtor
+| Video&lt;br/&gt; Archived footage
+|-
+| 2007-2008
+| ''[[Cory in the House]]''
+| Victor Baxter
+| Main role&lt;br/&gt; Directed five episodes
+|-
+| rowspan=2|2008
+| ''Cory in the House: Newt &amp; Improved Edition''
+| Victor Baxter
+| Video&lt;br/&gt; Archived footage
+|-
+| ''[[Hannah Montana]]''
+| Director
+| Season 2 episode 28: "Joannie B. Goode"
+|-
+| 2011
+| ''Comedy.TV''
+| Himself
+|
+|-
+| rowspan=2|2012
+| ''The Jadagrace Show''
+| Big Daddy Slim
+| Season 1 episode 13: "A Tiger's Tale: Part 1"
+|-
+| ''Finding the Funny''
+| Himself
+| Documentary
+|-
+| 2018
+| ''[[Raven's Home]]''
+| Victor Baxter
+| Upcoming episode
+|}
+
+===Music video===
+* "[[Part-Time Lover]]" - [[Stevie Wonder]] (1985)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.rondellsheridan.com/ Official website]
+* {{IMDb name| id=0792251 | name=Rondell Sheridan}}
+* {{Twitter|RondellSheridan}}
+* [http://tommy2.net/content/introndellsheridan.php Audio Interview at Tommy2.Net]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sheridan, Rondell}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:Male actors from Chicago]]
+[[Category:African-American comedians]]
+[[Category:African-American male actors]]
+[[Category:African-American television directors]]
+[[Category:American male television actors]]
+[[Category:American television directors]]
+[[Category:Circle in the Square Theatre School alumni]]
+[[Category:Marquette University alumni]]
+[[Category:Comedians from Illinois]]</text>
+      <sha1>f5y9n6xas0h2mbirsc6bojpzc00i3ut</sha1>
+    </revision>
+  </page>
+</mediawiki>

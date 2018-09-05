@@ -1,0 +1,122 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dagoberto Godoy</title>
+    <ns>0</ns>
+    <id>2428809</id>
+    <revision>
+      <id>830032675</id>
+      <parentid>760954387</parentid>
+      <timestamp>2018-03-12T09:43:34Z</timestamp>
+      <contributor>
+        <username>Hugo999</username>
+        <id>3006008</id>
+      </contributor>
+      <comment>added [[Category:20th-century Chilean military personnel]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5495">{{Spanish name|Godoy|Fuentealba}}
+{{Infobox military person
+| name          = Dagoberto Godoy Fuentealba
+| image         = Dagoberto Godoy.jpg
+| image_size    = 
+| alt           = 
+| caption       = Godoy in 1918
+| birth_date    = {{Birth date|1893|07|22|df=yes}}
+| death_date    = {{Death date and age|1960|09|08|1893|07|22|df=yes}}
+| birth_place   = [[Temuco]], Chile
+| death_place   = [[Santiago]], [[Chile]]
+| placeofburial = 
+| placeofburial_label = 
+| placeofburial_coordinates = &lt;!-- {{Coord|LAT|LONG|display=inline,title}} --&gt;
+| nickname      = 
+| birth_name    = 
+| allegiance    = Chile
+| branch        = [[Chilean Army]]
+| serviceyears  = 1915–1924
+| rank          = Capitan
+| servicenumber = 
+| unit          = 
+| commands      = 
+| battles       = 
+| battles_label = 
+| awards        = 
+| relations     = 
+| laterwork     = 
+| signature     = 
+| website       = &lt;!-- {{URL|example.com}} --&gt;
+}}
+'''Dagoberto Godoy Fuentealba''' (22 July 1893 – 8 September 1960) was a [[Chile]]an military pilot and the first person to fly over the [[Andes]].&lt;ref name="Shaw"&gt;{{cite book |title=Review of Reviews and World's Work |chapter=Flying over The Andes |editor-last= Shaw |editor-first=Albert |authorlink= Albert Shaw (journalist) |year= 1919 |publisher= The Review of Reviews Corporation |location=New York |page=652 |chapterurl=https://archive.org/stream/reviewreviewsan20shawgoog#page/n666/mode/2up}}&lt;/ref&gt;
+
+==Biography==
+Godoy was born in [[Temuco]], the son of Abraham Godoy and Clotilde Fuentealba. He was orphaned at the age of two and was raised by his maternal aunt Petronila y Tránsito Fuentealba.&lt;ref name="MCN"&gt;{{cite web |url= http://www.mcnbiografias.com/app-bio/do/show?key=godoy-fuentealba-dagoberto |title=Godoy Fuentealba, Dagoberto (1893–1960) |work=MCNBiografias.com |year=2016 |accessdate=7 May 2016 |language=Spanish}}&lt;/ref&gt;
+
+He entered the ''Escuela Militar del Libertador Bernardo O'Higgins'' military school in 1910, destined for a posting in the ''Batallón de Ferrocarrileros'' ("Railway Battalion") of the Army Engineers. In 1915 he requested a transfer to the ''Servicio de Aviación Militar de Chile'' ("Military Aviation Service of Chile"), and spent a year at the School of Military Aeronautics before graduating, and being promoted to lieutenant on 12 February 1916.&lt;ref name="Anuario"&gt;{{cite journal |journal=Anuario del Instituto de Conmemoración Histórica de Chile |title=Dagoberto Godoy Fuentealba: Cóndor de Los Andes |number=15 |year=2010 |pages=40–42 |url=http://conmemoracion.cl/anuario/ANUARIO15.pdf |archive-url=https://web.archive.org/web/20141129145101/http://conmemoracion.cl/anuario/ANUARIO15.pdf |archive-date=2014-11-29 |dead-url=yes |accessdate=7 May 2016}}&lt;/ref&gt; He took part in several international competitions in 1916, winning the President of the Republic Prize, and coming second in a race held in [[Buenos Aires]].&lt;ref name="MCN"/&gt;
+
+In mid-1918 Chile received twelve [[Bristol M.1]]c aircraft from Britain. Major [[Victor Huston]], a British flying ace, also arrived to assist in training the Chileans. In December Godoy, encouraged by Huston, obtained permission of the head of air service, [[Pedro Dartnell]], to attempt a crossing the Andes, taking advantage of the Bristols superior performance to any aircraft they previously had.&lt;ref name="MCN"/&gt;
+
+On 12 December 1918, flying Bristol M.1c ''C4988'', Godoy took off from the airfield of [[El Bosque, Chile|El Bosque]], and flew past [[Tupungato]], through the mountain passes of [[Paso Internacional Los Libertadores|Cristo Redentor]] and [[Uspallata Pass|Uspallata]], passing close to the summit of [[Aconcagua]], before landing in a field in Lagunitas, close to [[Mendoza, Argentina]]. Unfortunately he crashed into a fence, damaging his landing gear, propeller and starboard wing, and hitting his head on the dashboard, receiving a slight concussion. The flight had lasted 90 minutes at a speed of {{Convert|180|-|190|kph}}, at a maximum altitude of {{Convert|6300|m}} and was made in an open-cockpit aircraft without heating or oxygen. Godoy eventually returned to Chile to public acclaim, and was promoted to captain.&lt;ref name="MCN"/&gt;&lt;ref&gt;{{cite journal |url=http://www.flightglobal.com/pdfarchive/view/1918/1918%20-%201462.html |title=Flight over the Andes |issue=521 |volume=X |page=1431 |journal=[[Flight International|Flight]] |date=19 December 1918 |accessdate=7 May 2016}}&lt;/ref&gt; His feat encouraged others, with Lieutenant Armando Cortinez Mújica flying another Bristol to Argentina and back on 5 April 1919, and the same year Sergeant Jose del Carmen Ojeda established the first South American altitude record of {{Convert|7188|m}}.&lt;ref name="MCN"/&gt;
+
+Godoy left the army on 15 July 1924, and married Ernestina Lisbon Uribe the following year, with whom he had six children. In 1930 the [[Chilean Air Force]] was created as an independent branch, and in 1936, Godoy was granted the honorary rank of ''Capitán de Bandada''. In 1952 Godoy was promoted to the honorary rank of ''Comandante de Grupo'', and to ''General de Brigada Aérea'' in 1957.&lt;ref name="Anuario"/&gt;
+
+Godoy died in [[Santiago, Chile|Santiago de Chile]] on 8 September 1960.
+
+==References==
+{{reflist}}
+
+{{Cl-avia}}
+
+{{DEFAULTSORT:Godoy, Dagoberto}}
+[[Category:1893 births]]
+[[Category:1960 deaths]]
+[[Category:People from Temuco]]
+[[Category:Chilean aviators]]
+[[Category:Chilean Army officers]]
+[[Category:Chilean Air Force officers]]
+[[Category:20th-century Chilean military personnel]]</text>
+      <sha1>tgdt9wnd0pcvdu275jw71owdtwwn491</sha1>
+    </revision>
+  </page>
+</mediawiki>

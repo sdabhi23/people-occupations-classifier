@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Daniel A. Baker</title>
+    <ns>0</ns>
+    <id>7772043</id>
+    <revision>
+      <id>827068149</id>
+      <parentid>819656545</parentid>
+      <timestamp>2018-02-22T16:06:29Z</timestamp>
+      <contributor>
+        <username>Ken Gallager</username>
+        <id>1175300</id>
+      </contributor>
+      <comment>cat sort</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1720">'''Daniel Baker''' is an [[artist]] and producer of [[alternative comics]]. He was born in [[Bath, Somerset|Bath]], [[England]] in 1979. He lives and works in [[London]].
+
+The first issue of Baker's new comic series [[Donkey Head]] was published in 2005, and launched at the [http://www.clowns-international.co.uk/Our.Gallery.htm Clown Museum] in east London. The series is ongoing.
+
+He has been involved in many exhibitions, including ''[http://www.cca.rca.ac.uk/thismuchiscertain/ This Much is Certain]'' at the [[Royal College of Art]] in [[London]] and a solo show at [[The Modern Institute]] in [[Glasgow]].
+
+Throughout 2007 he was Artist in Residence at the [[Old Operating Theatre Museum]] and [[Herb Garret]] in [[London]] where he developed his [http://www.papertheatres.blogspot.com/ Paper Theatre Projects]. In this new series of sculptures, drawings, and slideshows, Baker re-invents the popular toy theatre of the 18th and 19th Century as a tool to explore discourses of sight, medicine, technology, and the history of ephemeral media.
+
+== External links ==
+* [http://www.danielbaker.org/ Daniel Baker website]
+* [http://www.papertheatres.blogspot.com/ Paper Theatre Projects]
+* [http://www.donkeyhead.org/ Donkey Head website]
+* [http://www.cca.rca.ac.uk/thismuchiscertain/exhib_baker.html Artist's page on ''This Much is Certain'' website]
+* [https://web.archive.org/web/20061120133218/http://www.bugpowder.com/trs2/06/08/22/donkey_head_1_by_daniel_baker.html Bugpowder review of Donkey Head]
+
+{{Authority control}}
+{{DEFAULTSORT:Baker, Daniel A.}}
+[[Category:1979 births]]
+[[Category:English comics artists]]
+[[Category:Living people]]
+[[Category:Artists from Bath, Somerset]]
+
+{{UK-comics-creator-stub}}</text>
+      <sha1>d0xajm7siegxowd0nmh6t9gs4th5xhj</sha1>
+    </revision>
+  </page>
+</mediawiki>

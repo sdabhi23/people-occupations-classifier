@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rhie Won-bok</title>
+    <ns>0</ns>
+    <id>19920658</id>
+    <revision>
+      <id>836899093</id>
+      <parentid>836694426</parentid>
+      <timestamp>2018-04-17T14:33:43Z</timestamp>
+      <contributor>
+        <username>AquilaXIII</username>
+        <id>23440545</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2290">{{Infobox person
+| birth_date  = {{birth date and age|1946|10|4|df=yes}}
+| birth_place = [[Daejeon]], [[South Korea]]
+| alma_mater  = [[Seoul National University]]
+| occupation  = Cartoonist
+| module      = {{Infobox Korean name
+| hangul      = {{linktext|이|원|복}}
+| hanja       = {{linktext|李|元|馥}}
+| rr          = I Won-bok
+| mr          = Yi Wonbok
+| child       = yes}}
+}}
+'''Rhie Won-bok''' (born 4 October 1946) is a [[South Korea]]n [[cartoonist]] and professor.&lt;ref name="Joins"&gt;http://article.joins.com/article/article.asp?Total_ID=2457413&lt;/ref&gt;
+
+==Education==
+Rhie was born in [[Daejeon]], [[South Korea]]. He studied architecture in [[Seoul National University]], after which he studied graphic design in [[Münster]], [[Germany]].&lt;ref name="Joins" /&gt; 
+
+==Works==
+His comics are drawn in a simple, didactic manner, often explaining the inner workings and the psychological makeup of nations like Germany, Japan, or the United States. He does this by taking into account historical, geographic and political factors, drawing in a funny style. An English translation of "[[Korea Unmasked]]", dealing with the Korean nations, was published in 2002 by [[Gimm-Young International]]. Most of his other works are untranslated and available in Korean only. 
+
+==Other activities==
+He received the [[Noonsol Award]] in 1993 for contributions to the development of the South Korean cartoon industry.&lt;ref&gt;http://www.hanbooks.com/koruninsearo.html&lt;/ref&gt; 
+
+From 1998 to 2000 he was president of the [[Korean Society of Cartoon and Animation Studies]].&lt;ref&gt;http://www.koreanbooks.or.kr/creators/creators_view.htm?div1=Aut&amp;idx=284{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; 
+
+He is professor of graphic design at [[Duksung Women's University]] in Seoul, South Korea.
+
+==Works==
+* Rhie, Won-bok: ''Korea Unmasked''. [[Gimm-Young International]], 2002. {{ISBN|978-89-349-1771-7}}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Rhie, Won-bok}}
+[[Category:1946 births]]
+[[Category:Living people]]
+[[Category:People from Daejeon]]
+[[Category:Seoul National University alumni]]
+[[Category:South Korean manhwa artists]]
+[[Category:South Korean expatriates in Germany]]
+[[Category:University of Münster alumni]]
+
+{{comics-artist-stub}}</text>
+      <sha1>fptqogwfd6ggw798887si25tf2beezq</sha1>
+    </revision>
+  </page>
+</mediawiki>

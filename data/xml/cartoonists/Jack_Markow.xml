@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jack Markow</title>
+    <ns>0</ns>
+    <id>3617608</id>
+    <revision>
+      <id>745182847</id>
+      <parentid>738186457</parentid>
+      <timestamp>2016-10-19T18:52:56Z</timestamp>
+      <contributor>
+        <username>Idenitor</username>
+        <id>27243881</id>
+      </contributor>
+      <comment>prolific/intro pov</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2971">[[File:Markowself.jpg|right]]
+'''Jack Markow''' (1905-1983) was an American cartoonist who also wrote instructional books about cartooning, [[comic strip]]s and comic art. For three years, he was the cartoon editor of ''[[Argosy (magazine)|Argosy]]''.
+
+Born in [[London]], Markow was a New Yorker from the age of two. He took art courses at the High School of Commerce (later Louis D. Brandeis High School), where he drew for the school magazine. His high school drawings landed him a job doing layouts and paste-ups in the sales promotion department of the Fleishmann Yeast Company, where he also illustrated for the company's house organ. He later studied drawing and painting at the [[Art Students League of New York|Art Students League]].&lt;ref name=ncs&gt;[http://www.reuben.org/ncs/members/memorium/markow.jpg National Cartoonists Society: Jack Markow]&lt;/ref&gt;&lt;ref&gt;[http://mikelynchcartoons.blogspot.com/2011/10/jack-markow-cartoons-and-profile.html Markow, Jack. ''Cartoonist Profiles'' #38, June 1978.]&lt;/ref&gt;
+
+His cartoons were published in books, greeting cards, calendars, advertising campaigns and major magazines, including ''[[The Saturday Evening Post]]'' and ''[[The New Yorker]]''. He was a long-time columnist for ''[[Writer's Digest]]'' and ''Cartoonist Profiles''.
+
+==School of Visual Arts==
+Markow was one of the first faculty members at New York's [[School of Visual Arts]], where he originated the magazine cartooning course and taught for eight years.
+
+==Books==
+In addition to his ''Cartoon Consultants Calendar'' (Cartoon Consultants, 1952), Markow wrote four how-to books: ''Cartoonists and Gag Writers Handbook'', ''Drawing and Selling Cartoons'' (Pitman Publishing, 1956), ''Drawing Comic Strips'' and ''Drawing Funny Pictures''.&lt;ref name=ncs/&gt;
+
+==Exhibitions==
+As a painter and graphic artist, Markow had three one-man shows in New York and was exhibited in group shows of major museums. His lithographs are in the permanent collection of the Metropolitan Museum, the New Jersey State Museum, the Smithsonian, the Library of Congress, the New York Public Library, the Brooklyn Museum, the University of Georgia, the University of Oregon and City College. He was included in ''50 Best American Prints, 1933-38''.&lt;ref name=ncs/&gt; 
+
+Markow lived in [[Manasquan, New Jersey]], where he died in 1983.
+
+==Awards==
+He received the [[National Cartoonists Society]]'s 1979 Gag Cartoon Award and a prize at Montreal's 1972 International Cartoon Show.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070704213732/http://www.reuben.org/ncs/awards2.asp &lt;!-- Bot retrieved archive --&gt; NCS Awards]
+*[http://www.metmuseum.org/en/collections/search-the-collections?who=WPA%7CJack+Markow&amp;pg=1 Metropolitan Museum of Art: Jack Markow]
+
+
+{{DEFAULTSORT:Markow, Jack}}
+[[Category:1905 births]]
+[[Category:1983 deaths]]
+[[Category:American cartoonists]]
+[[Category:People from Manasquan, New Jersey]]
+[[Category:Federal Art Project artists]]</text>
+      <sha1>6mushil2pt8awkzf27ale1aht41jjy0</sha1>
+    </revision>
+  </page>
+</mediawiki>

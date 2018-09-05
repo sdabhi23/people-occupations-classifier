@@ -1,0 +1,159 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Richard Digance</title>
+    <ns>0</ns>
+    <id>1369651</id>
+    <revision>
+      <id>843205753</id>
+      <parentid>836852002</parentid>
+      <timestamp>2018-05-27T16:28:44Z</timestamp>
+      <contributor>
+        <username>Chris the speller</username>
+        <id>525927</id>
+      </contributor>
+      <minor/>
+      <comment>/* Early life */replaced: Mechanical Engineering → mechanical engineering using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10557">{{Use dmy dates|date=February 2014}}
+{{Use British English|date=February 2014}}
+{{BLP sources|date=November 2011}}
+{{Infobox person
+| name        = Richard Digance
+| image       = Richard Digance at the 2010 Cropredy Festival.jpg
+| alt         = Richard Digance at the 2010 Cropredy Festival
+| caption     = Richard Digance at the 2010 Cropredy Festival
+| birth_date  = {{Birth date and age|1949|2|24|df=y}}
+| birth_place = [[Plaistow, Newham|Plaistow]], [[Essex]]&lt;!-- Do not change to London, Plaistow was in Essex in 1949 --&gt;, England
+| occupation  = Comedian, folk-singer, media executive
+| website     = [http://www.richarddigance.com www.richarddigance.com]
+| footnotes   = 
+}}
+'''Richard Digance''' (pronounced DYE-jance; born 24 February 1949) is an English [[comedian]] and [[folk music|folk singer]].
+
+== Early life ==
+Digance was born in [[Plaistow, Newham|Plaistow]], [[Essex]]&lt;!-- Do not change to London, Plaistow was in Essex in 1949 --&gt; (now part of [[east London]]). After his family moved to nearby [[East Ham]], he attended Vicarage Lane Primary School and then [[Langdon Academy|Thomas Lethaby Secondary Modern]]. After gaining two A-Level passes in English Literature and Modern British History, he moved to [[Glasgow]], where he studied [[mechanical engineering]] at [[Reid Kerr College]], [[Paisley, Renfrewshire|Paisley]],&lt;ref name="devon"&gt;{{cite web |url = http://news.bbc.co.uk/local/devon/hi/tv_and_radio/newsid_8604000/8604959.stm |title = Richard Digance |date = 6 April 2010 |website = BBC Devon |accessdate= 16 January 2014}}&lt;/ref&gt; during which time he was inspired by [[Billy Connolly]] and [[Mike Harding]].&lt;ref name="yorkshire"&gt;{{cite web |url = http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre/the-big-interview-richard-digance-1-5287090 |title = The Big Interview: Richard Digance |date = 7 January 2013 |website = Yorkshire Post |accessdate= 16 January 2014}}&lt;/ref&gt;
+
+== Career ==
+In the 1970s he toured the United States. Though failing to make much of a name, he ended up a support act for [[Steve Martin]].&lt;ref name="devon"/&gt; He supported [[Tom Jones (singer)|Tom Jones]] in 87 concerts.
+
+In 1971, he recorded an LP whilst with the group Pisces for the Trailer label.&lt;ref&gt;{{cite web |url = http://www.mustrad.org.uk/lea_txt3.htm |title = Traditional Records Discography - file 3 |website = Musical Traditions |accessdate= 16 January 2014}}&lt;/ref&gt; It features the moorland ballad [[Jack_o'_Legs|"Jack O'Legs"]] about a 14-foot-tall highwayman.
+
+Richard Digance began his TV career on ''[[Sound of The City]]'' for [[Thames TV]], produced by Richard Newman, in the early 1970s. This debut appearance was followed by ''[[The Old Grey Whistle Test]]'' and then the ''Today'' programme. ''The Whistle Test'' was his only BBC TV appearance except for appearing on ''The Ronnie Corbett Show'' years later and then link-man for BBC2 coverage of The [[Cambridge Folk Festival]].  He then became a regular contributor on ''The 6 o'clock Show'' with Michael Aspel. He had to wait over a decade to be given his own show.
+
+His first own TV Special was in 1985 for Thames TV, ''A Dabble With Digance'', and featured newsreader [[Carol Barnes]]. After the success of this special he was signed to [[Television South|TVS]] in Southampton after being a studio warm-up act there for [[Matthew Kelly]] and this first series of six programmes screened on Thursday nights. He also filmed a pilot ''The Three Busketeers'' featuring himself, [[Chris Barrie]] who went on to star in ''[[Red Dwarf]]'', and [[Adrian Hedley]]. At this time he still continued as a studio warm-up act for ''[[The Des O'Connor Show]]''. He was also appearing regularly on late night shows for [[Tyne Tees Television]] with [[Gillian Reynolds]].
+
+Richard left for London Weekend Television under [[Greg Dyke]] and filmed numerous Saturday night TV Specials for ITV. His guests included [[Status Quo]], [[Brian May]], Elkie Brooks, The Moody Blues, [[Marc Cohn]], Buffy St Marie, Joe Pasquale, Juan Martin, Julia Fordham, Chris de Burgh and many others. An additional series with [[Jim Davidson]] ''Wednesday At 8'' made him a popular guest during this period from 1985 to 1995. His guest-spots are almost endless; ''[[Surprise, Surprise (TV series)|Surprise Surprise]]'' with [[Cilla Black]] - ''The Gloria Hunniford Show'' - ''The Jim Davidson Show'' - ''Des O'Connor Show'' - ''Live From Her Majesty's'' - ''Live From Piccadilly'' - ''Summertime Special with Michael Barrymore'' -  ''Live From The Palladium with Roy Orbison'' - ''[[The Comedians (1971 TV series)|The Comedians]]'' - ''[[Magpie (TV series)|Magpie]]'' - ''Celebrity Snooker'' and ''Fish o'Mania with Steve Davis'' - ''[[Pebble Mill At One]]'' - ''Saturday Night At The Mill'' - ''That's Entertainment with Kenny Everett and Julian Clary'' - ''[[Crosswits]]'' - ''The Tom O'Connor Show'' - ''The Parkinson Show with Tommy Steele'' and many more. He received a BAFTA Nomination as TV Entertainer Of The Year.
+
+He came to public attention as a regular turn on the popular Sunday evening ''Live from... ([[Her Majesty's Theatre|Her Majesty's]]/the Piccadilly/the [[London Palladium|Palladium]])'' variety series (produced by [[LWT]] for [[ITV Network|ITV]]) and also on ''[[Summertime Special]]'', a variety showcase of the 1980s. Digance also was the support act for U.K. singer [[Elkie Brooks]] on many occasions.
+
+He is known for his television one-hour specials, starting in 1985 with ''A Dabble of Digance''. ''Abracadigance'' was a series of four shows in 1988. The 1992 show, ''Richard Digance's Greatest Bits'', recorded at the [[Brighton|Brighton Dome]], included some of his most popular routines from stage and screen, including the "Nursery Rhymes", "Remembers" and "Jungle Cup Final".
+
+Appearances on TV Specials included HRH The Prince of Wales Princes Trust Galas at The London Palladium with Elton John and Robin Williams - All At Sea, again before HRH The Prince of Wales - Christmas Eve Forces Special from The Berlin Wall - The Zeebrugge Disaster Concert at The London Palladium with Bernard Manning.
+
+In the next decade he made two series for Carlton Westcountry TV visiting villages in a Morris Traveller and using locals as guests.&lt;ref name="yorkshire"/&gt;
+
+Digance also had a short-lived [[BBC Radio 2]] programme titled ''[[Another Digance Indulgence]]'', which ran over eight episodes in the summer of 1987.
+
+Many albums featuring his comic and serious music have been released. His first [[novel]], ''Run Out In The Country'', was published in 1983, and his [[autobiography]], ''A Wealth of Comedy'', in 1999.
+
+He was a regular guest in 'Dictionary Corner' on the [[Channel 4]] game show ''[[Countdown (game show)|Countdown]]'', during which he performed comic rhymes before the commercial break.&lt;ref name="yorkshire"/&gt;
+
+Digance was the [[managing director]] of Creative Results and [[Sound TV]], a [[Sky (UK and Ireland)|satellite channel]] based on [[variety show|variety]], which launched in February 2005.&lt;ref&gt;{{cite news |url=http://www.thestage.co.uk/features/feature.php/7855 |publisher=The Stage |title= Rejuvenating variety with Sound TV |date=19 May 2005}}&lt;/ref&gt; However, he resigned in August 2005, and the channel went into administration.&lt;ref&gt;{{cite news |url=http://www.thestage.co.uk/news/newsstory.php/10749/variety-channel-sound-tv-off-air-within-year|
+publisher=The Stage |title= Variety channel Sound TV off air within year of launch |date=6 December 2005}}&lt;/ref&gt; He also co-founded SKD Media, later to become [[Entertainment Rights]]; these are involved in releasing nostalgic programming on DVD.
+
+In October 2003 he received the Gold Award from the [[British Academy of Songwriters, Composers and Authors]] for his services to music.&lt;ref name="devon"/&gt;&lt;ref&gt;{{cite web |url = http://www.goldbadgeawards.com/legacy/legacy2003.htm |title = Gold Badge Awards 2003 |website = Gold Badge Awards |accessdate = 16 January 2014 |deadurl = yes |archiveurl = https://web.archive.org/web/20140116220356/http://www.goldbadgeawards.com/legacy/legacy2003.htm |archivedate = 16 January 2014 |df = dmy-all }}&lt;/ref&gt;
+
+He also annually takes to the stage at [[Cropredy Festival]] for the first set on the final day.
+
+He appeared at the [[Edinburgh Festival Fringe]] in 2013,&lt;ref&gt;{{cite web |url = https://www.edfringe.com/whats-on/music/richard-digance |title = Richard Digance - Edinburgh Festival Fringe |website = Edinburgh Festival Fringe |accessdate = 16 January 2014 |deadurl = yes |archiveurl = https://web.archive.org/web/20131020075122/https://www.edfringe.com/whats-on/music/richard-digance |archivedate = 20 October 2013 |df = dmy-all }}&lt;/ref&gt; performing a solo show, and also his children's musical, ''War of the Worms'', narrated by his daughter, Rosie. He aimed to perform 22 completely different shows across 22 nights.&lt;ref&gt;{{cite web |title=Interview: Richard Digance |date=2 August 2013  |url=http://www.gigglebeats.co.uk/2013/08/interview-richard-digance/ |work=Giggle Beats}}&lt;/ref&gt;
+
+== Personal life ==
+Richard has two daughters, Polly and Rosie.&lt;ref name="yorkshire" /&gt;
+
+Former resident of Debden, Saffron Walden in Essex.
+
+==Bibliography==
+* {{cite book |last=Digance |first=Richard |date=1 October 1990 |title=Run Out in the Country |publisher=Arrow Books Ltd |isbn=0099353105 }}
+* {{cite book |last=Digance |first=Richard |date=13 October 1999 |title=A Wealth of Comedy. An autobiography |publisher=Robson Books Ltd |isbn=1861053010 }}
+
+==Discography==
+* England's Green And Pleasant Land (1974)
+* Treading The Boards (1975)
+* How The West Was Lost (1975)
+* In Concert (1975)
+* Live At The Q.E.H. (1978)
+* Commercial Road (1979)
+* Homework (1984)
+* Back on Song (2013)
+* This is Great Britain (2013)
+* The Toast Of Christmas Past (2013)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.richarddigance.com Official website]
+* [https://web.archive.org/web/20041209171728/http://www.bbc.co.uk/comedy/guide/talent/d/digance_richard.shtml List of credits at BBC Online]
+* [https://web.archive.org/web/20081206171159/http://showusyourtitters.com/richard_digance.html Richard Digance on Show Us Your Titters]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Digance, Richard}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:People from Plaistow, Newham]]
+[[Category:English male comedians]]
+[[Category:English television executives]]
+[[Category:English folk singers]]
+[[Category:Mercury Records artists]]
+[[Category:Chrysalis Records artists]]
+[[Category:20th-century British comedians]]
+[[Category:21st-century British comedians]]</text>
+      <sha1>8mo6w9k3j6m0cc9d6evk7gcqexqeyyk</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.16</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Fermín Solís</title>
+    <ns>0</ns>
+    <id>17611831</id>
+    <revision>
+      <id>804331318</id>
+      <parentid>714367346</parentid>
+      <timestamp>2017-10-08T08:18:58Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>2304267</id>
+      </contributor>
+      <comment>Removing [[:c:File:Fermin_Solis..jpg|Fermin_Solis..jpg]], it has been deleted from Commons by [[:c:User:Steinsplitter|Steinsplitter]] because: per [[:c:Commons:Deletion requests/Files uploaded by Hammer ortiz|]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2847">{{Infobox comics creator
+| name          = Fermín Solís Campos
+| image         =
+| imagesize     = 
+| caption       = Fermín Solís
+| birth_name    = 
+| birth_date    = May 16, 1972
+| birth_place   = [[Madroñera]], Cáceres, Spain
+| death_date    = 
+| death_place   = 
+| nationality   = Spanish  
+| area          = Cartoonist 
+| notable works = 
+| awards        = 
+}}
+'''Fermín Solís Campos''' (born  May 16, 1972) is a [[Spain|Spanish]] [[cartoonist]], animator, and illustrator.  Born in [[Madroñera]], [[Cáceres (province)|Cáceres]], [[Extremadura]], his illustrations have appeared in ''[[Clio (magazine)|Clio]]'', ''[[Época (Spanish magazine)|Época]]'' and ''[[Rockdelux]]''.&lt;ref name="Fermín Solís | Guía del cómic"&gt;[http://www.guiadelcomic.com/autores/solis.htm Fermín Solís | Guía del cómic&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;   He is the author of numerous [[graphic novels]] and books; “his stories are about everyday life, relations, searching, coincidences, everything mixed with a small dosis of surrealism.”&lt;ref name="Comic creator: Fermín Solís"&gt;[http://lambiek.net/artists/s/solis_fermin.htm Comic creator: Fermín Solís&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+Solís is self-taught,&lt;ref name="Comic creator: Fermín Solís"/&gt; and his style was influenced by the work of [[Seth (cartoonist)|Seth]], [[Andi Watson]], and [[Dupuy and Berberian]].&lt;ref name="Fermín Solís | Guía del cómic"/&gt;
+
+He won the prize known as Certamen de Cómic e Ilustración at Injuve in 2002 and the prize known as Autor Revelación in the Barcelona Comics Festival (Salón del Cómic de Barcelona) in 2004.&lt;ref name="Fermín Solís | Guía del cómic"/&gt;
+
+==Books==
+*''Dando Tumbos'' (Subterfuge 2000)
+*''Otra Vida'' (D2ble D2sis, 2001)
+*''No te Quiero Pero te Amo un Poco'' (Aralia, 2002)
+*''Los Días Más Largos'' (Balboa, 2003)
+*''Un Pie Tras Otro'' (Plan B, 2003)
+*''No te quiero, pero…'' (Astiberri, 2004)
+*''Dan Laxante, Detective Cotidiano'' (Tebeo Vivo, 2004)
+*''De Ballenas y Pulgas'' (Ariadna Editorial, 2004)
+*''El Hombre del Perrito'' (Astiberri, 2005)
+*''El Año que Vimos Nevar'' (Astiberri, 2005)
+*''Las Pelusas de mi Ombligo # 1'' (Cabezabajo, 2006)
+*''Lunas de Papel'' (Dib-buks, 2007)
+*''Las Pelusas de mi Ombligo #2'' (Dolmen 2007)
+*''Astro-Ratón y Bombillita # 1: Parece que Chispea'' (Mamut, 2008)
+*''Buñuel en el Laberinto de las Tortugas'' (Editora Regional de Extremadura)
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{es icon}} [http://www.ferminsolis.com/ Official website]
+*[http://lambiek.net/artists/s/solis_fermin.htm Fermín Solís on Lambiek]
+
+{{Authority control}}
+{{DEFAULTSORT:Solis, Fermin}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:People from Tierra de Trujillo]]
+[[Category:Spanish cartoonists]]
+[[Category:Spanish illustrators]]
+[[Category:Spanish animators]]</text>
+      <sha1>ax6vsdarjfe1rb5yf03rygpunoe23g4</sha1>
+    </revision>
+  </page>
+</mediawiki>
