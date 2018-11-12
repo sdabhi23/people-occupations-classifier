@@ -5,8 +5,8 @@ import nltk
 import string
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer
-init_path = "../data/stop/" + "cartoonists" + "/"
-dest_path = "../data/stem/" + "cartoonists" + "/"
+init_path = "../data/stop/" + str(sys.argv[1]) + "/"
+dest_path = "../data/stem/" + str(sys.argv[1]) + "/"
 ps = PorterStemmer()
 for (dirpath, dirnames, filenames) in walk(init_path):
 	for data_file in filenames:

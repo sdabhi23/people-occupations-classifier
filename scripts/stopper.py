@@ -3,8 +3,8 @@ import sys
 import nltk
 import string
 from nltk.corpus import stopwords
-init_path = "../data/text/" + "comedians" + "/"
-dest_path = "../data/stop/" + "comedians" + "/"
+init_path = "../data/text/" + str(sys.argv[1]) + "/"
+dest_path = "../data/stop/" + str(sys.argv[1]) + "/"
 for (dirpath, dirnames, filenames) in walk(init_path):
 	for data_file in filenames:
 		print(data_file)
