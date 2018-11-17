@@ -34,7 +34,7 @@ This project has been undertaken as a part of our undergraduate coursework, to u
 
 5. Steps to configure ipython kernel
 
-   > Required only if using virtaul environment
+   > Required only if using virtual environment
 
    ```bash
    $ ipython kernel install --user --name=people_classifier
