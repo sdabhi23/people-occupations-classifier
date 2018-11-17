@@ -1,8 +1,5 @@
-
 from os import walk
 import sys
-import nltk
-import string
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer
 init_path = "../data/stop/" + str(sys.argv[1]) + "/"
